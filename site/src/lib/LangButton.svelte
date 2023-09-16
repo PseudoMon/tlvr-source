@@ -3,7 +3,7 @@
   export let selected : boolean = false;
 </script>
 
-<button class:selected>
+<button class:selected on:click>
   {label}
 </button>
 

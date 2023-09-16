@@ -1,13 +1,33 @@
 <script lang="ts">
-  // TODO: Make a store that keeps selected language
   import LangButton from "./LangButton.svelte";
+  import { currentLang } from "./stores.ts"
+
+  function langClicked(lang: string) {
+    $currentLang = lang;
+  }
 </script>
 
 <div class="lang-buttons">
-  <LangButton label="EN" />
-  <LangButton label="CN" selected />
-  <LangButton label="JP" />
-  <LangButton label="KR" />
+  <LangButton 
+    label="EN" 
+    selected={$currentLang == "en"} 
+    on:click={() => langClicked("en")}
+  />
+  <LangButton 
+    label="CN" 
+    selected={$currentLang == "cn"} 
+    on:click={() => langClicked("cn")}
+  />
+  <LangButton 
+    label="JP" 
+    selected={$currentLang == "jp"} 
+    on:click={() => langClicked("jp")}
+  />
+  <LangButton 
+    label="KR" 
+    selected={$currentLang == "kr"}
+    on:click={() => langClicked("kr")}
+  />
 </div>
 
 <style>
