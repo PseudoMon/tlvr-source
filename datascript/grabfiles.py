@@ -70,4 +70,5 @@ def grab_avatar(char):
     target = path.join("images", "avatars", f"{fullid}.png") 
     download_image(url, target)
 
-grab_all_charword_tables()
+if __name__ == "__main__":  
+    grab_all_charword_tables()

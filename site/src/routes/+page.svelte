@@ -1,12 +1,15 @@
 <script lang="ts">
 import LangButtonBar from "$lib/LangButtonBar.svelte";
+export let data;
+
+$: console.log(data)
 </script>
 
 <main>
   <h1>TLVR</h1>
   <h2>Rhodes Island Tetralingual Voice Record</h2>
   <LangButtonBar />
-  <aside class="home-quote">Welcome home, Doctor!</aside>
+  <aside class="home-quote">{data.welcomeText.cn}</aside>
   <p>TLVR is an Arknights fansite that makes it easy to browse voice lines from the game, along with their transcription, in all its four languages (English, Chinese, Japanese, Korean). It’s created with multilingual speakers and language-learners in mind!</p>
   <h2>We're still under construction!</h2>
 </main>

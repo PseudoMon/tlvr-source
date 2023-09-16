@@ -18,6 +18,10 @@ def loadchardict(region):
 	sourcepath = path.join(region, "chardict.json")
 	return load_json(sourcepath)
 
+def load_wordtable(region):
+	sourcepath = path.join(region, "charword_table.json")
+	return load_json(sourcepath)
+
 def loadchardicts(regions):
 	dicts = {}
 	for region in regions:
@@ -75,3 +79,21 @@ def download_avatars():
 		if count > 150:
 			break
 
+def grab_welcome():
+	table = {}
+	for lang in langs:
+		table[lang] = load_wordtable(lang)
+		print(f"Word table for {lang} loaded")
+		
+	print("Word tables loaded.")
+
+	key = "char_002_amiya_CN_042"
+	result = {}
+	for lang in langs:
+		voice_data = table[lang]["charWords"][key]
+		result[lang] = voice_data["voiceText"]
+
+	print("Texts in key found. Now saving...")
+	save_json(result, "welcome.json")
+
+grab_welcome()
