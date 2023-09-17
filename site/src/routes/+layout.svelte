@@ -16,6 +16,7 @@ import Header from "./Header.svelte";
     --color-lighterbg: #202020;
     --color-text: #fff;
   }
+  
   :global(body) {
     margin: 0;
 
@@ -27,4 +28,11 @@ import Header from "./Header.svelte";
     letter-spacing: -1%;
     font-size: 16px;
   }  
+
+  :global(main) {
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 700px;
+    padding: 0 36px;
+  }
 </style>

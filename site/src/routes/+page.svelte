@@ -18,13 +18,6 @@ $: welcomeText = data.welcomeText[$currentLang]
 </main>
 
 <style>
-  main {
-    box-sizing: border-box;
-    width: 100%;
-    max-width: 700px;
-    padding: 0 36px;
-  }
-
   h1 {
     margin-top: 34px;
     font-weight: 900;

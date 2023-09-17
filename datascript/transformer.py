@@ -154,6 +154,7 @@ def get_actors_from_voicedict(voicedict):
 	return actors
 
 def get_actors(charid, wordtables):
+	print("Checking voice actor name for", charid)
 	# JP use the native spelling of the name
 	# EN use English preferred name or transliteration
 	# CN use CN names even for Korean and Japanese names with kana
@@ -175,13 +176,14 @@ def get_actors(charid, wordtables):
 
 	return actors
 
-def check_voice_availability(charid, wordtables):
+def get_voice_availability(charid, wordtables):
+	print ("Checking voice availability for", charid)
 	# Check which languages this character has voice of
 	# Check in CN since it might not be on global yet
 
-	cntable = wordtables["cn"]
-	envoicedict = basetable["voiceLangDict"][charid]["dict"]
-	cn_names = get_actors_from_voicedict(voidedict)
+	table = wordtables["cn"]
+	voicedict = table["voiceLangDict"][charid]["dict"]
+	cn_names = get_actors_from_voicedict(voicedict)
 	# technically the name itself is not needed
 	# but im too lazy to make another function
 
@@ -189,10 +191,41 @@ def check_voice_availability(charid, wordtables):
 	for lang in cn_names:
 		availability.append(lang)
 
+	print("Availability found.")
 	return availability
 
+def get_and_write_chardata(charid, wordtables, names={}):
+	voices = get_voices(charid, wordtables)
+	actors = get_actors(charid, wordtables)
+	availability = get_voice_availability(charid, wordtables)
+
+	chardata = {
+		"charid": charid,
+		"nameid": charid.split("_")[-1],
+		"names": names,
+		"voices": voices,
+		"actors": actors,
+		"availability": availability,
+	}
+
+	save_json(chardata, f"chardata/{charid}.json")
+	print(f"Written chardata for {charid}")
+
+# Test characters
+# indigo
+# texas
+# mlee
+# jnight
+# lolxh
+# ncdeer
+# aprot and aprot2?? why does shalem have two??
+
 wordtables = load_wordtables()
-#wordkey = f"char_{listdata["numberid"]}_{listdata["wordid"]}"
-wordkey = "char_469_indigo"
-texas_actors = get_actors(wordkey, wordtables)
-print(texas_actors)
+charid = "char_102_texas"
+names = {
+            "en": "Texas",
+            "jp": "テキサス",
+            "kr": "텍사스",
+            "cn": "德克萨斯"
+        }
+get_and_write_chardata(charid, wordtables, names)
