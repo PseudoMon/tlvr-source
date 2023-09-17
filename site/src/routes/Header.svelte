@@ -22,7 +22,7 @@
   <nav>
     <a href="/">Home</a>
     <a href="/credits">Credits</a>
-    <a href="/operators">Operators</a>
+    <a href="/characters">Characters</a>
   </nav>
 
 </Drawer>
