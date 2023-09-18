@@ -37,5 +37,13 @@
     column-gap: 14px;
     justify-content: center;
     align-items: center;
+
+    position: sticky;
+    z-index: 99;
+    top: 0;
+
+    background-color: var(--color-background);
+    padding: 12px;
+    border-radius: 8px;
   }
 </style>

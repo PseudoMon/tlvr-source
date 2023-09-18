@@ -3,7 +3,7 @@ from os import path
 import grabfiles
 
 langs = ["en", "jp", "kr", "cn"] 
-mute_chars = ["rguard", "rdfend" "rsnipe", "rmedic", "rcast"]
+mute_chars = ["rguard", "rdfend" "rsnipe", "rmedic", "rcast" "aprot"]
 
 def save_json(data, target):
 	with open(target, "w", encoding="utf-8") as targetfile:
@@ -145,7 +145,7 @@ def get_actors_from_voicedict(voicedict):
 	for lang in lang_mapping:
 		try:
 			actordata = voicedict[lang_mapping[lang]]
-			actors[lang] = actordata["cvName"]
+			actors[lang] = actordata["cvName"][0]
 		except KeyError:
 			# No actor data for this language
 			print(f"No actor found for language {lang}")

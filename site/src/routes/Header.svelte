@@ -1,5 +1,5 @@
 <script lang="ts">
-  import MenuIcon from "$lib/MenuIcon.svelte";
+  import MenuIcon from "$lib/icons/MenuIcon.svelte";
   import Drawer from "svelte-drawer-component";
 
   let open = false;
