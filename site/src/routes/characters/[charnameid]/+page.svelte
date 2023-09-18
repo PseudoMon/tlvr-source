@@ -6,6 +6,9 @@
   import Voiceline from "$lib/char/Voiceline.svelte";
 
   export let data;
+  let photosrc: string;
+  $: photosrc = data === null ? null : 
+    `https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/${data.charid}.png` 
 </script>
 
 <main>
@@ -15,7 +18,7 @@
   {#if data !== null}
   <section class="basicinfo">
     <Photocard 
-      imgsrc="https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_102_texas.png"
+      imgsrc={photosrc}
       text={data.names[$currentLang]}
     />
     <VoiceCredits actors={data.actors} />
@@ -26,6 +29,7 @@
     <li>
     <Voiceline 
       voicedata={voicedata}
+      availability={data.availability}
     />
     </li>
     {/each}

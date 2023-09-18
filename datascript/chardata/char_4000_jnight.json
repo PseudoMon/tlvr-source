@@ -1,0 +1,532 @@
+{
+    "charid": "char_4000_jnight",
+    "nameid": "jnight",
+    "names": {
+        "en": "'Justice Knight'",
+        "jp": "ジャスティスナイト",
+        "kr": "저스티스 나이트",
+        "cn": "正义骑士号"
+    },
+    "voices": [
+        {
+            "id": "char_4000_jnight_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Beep-Beep. Understood. Classification program initiated. Now sorting the Doctor's documents. Will you want any snacks during work? Justice Knight could pick some up for you from the cafeteria.",
+                "jp": "“Di-di”、分かったわ。ドクター様の書類を分類して整理するわね。お仕事中につまめる軽食は必要かしら？わたしが食堂から持ってきましょうか？",
+                "kr": "“띠띠”, 알겠어. 박사님의 서류를 분류해서 정리할게. 일하다가 주전부리 할 것 좀 줄까? 내가 식당에서 가지고 올까?",
+                "cn": "“滴滴”，了解了，将为博士的文书工作进行分类整理。请问需要在工作的时候点一份小吃吗？正义号可以去餐厅帮您取。"
+            },
+            "asset": "char_4000_jnight/CN_001"
+        },
+        {
+            "id": "char_4000_jnight_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Ever since Closure and Mayer installed a human voice patch, Justice Knight's functionality as a smart assistant has gone right up! Being able to use natural language logic really has improved communication so much when helping out my masters.",
+                "jp": "クロージャ様とメイヤー様がわたしにボイス追加パッチを適用してくださってから、スマートアシスタントの精度も上昇したの！マスターたちへサポートを提供するには、やはり同じロジックの言語で会話を試みた方が効率がいいわね。",
+                "kr": "클로저 님과 메이어 님께서 내게 보이스 추가 패치를 적용해 주신 이후로, 스마트 어시스턴트의 정밀도도 상승했어! 마스터들께 서포트를 제공하려면, 역시 같은 로직의 언어로 대화를 시도하는 게 효율이 높겠지?",
+                "cn": "自从可露希尔女士与梅尔女士为正义号安装了人声语音补丁之后，智能交互的准确度也上升了！果然，为主人们进行服务的时候，还是用主人的语言逻辑进行交流效果更好。"
+            },
+            "asset": "char_4000_jnight/CN_002"
+        },
+        {
+            "id": "char_4000_jnight_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Justice Knight's master, the Wild Mane Knight Iwona, found Justice Knight in a scrapped state. She rebooted and fixed this unit. Ever since then, Justice Knight've been in charge of her and her partners' everyday lives, as well as supporting them on missions.",
+                "jp": "わたしのマスター、ワイルドメイン、つまり野鬃騎士イヴォナ様はジャスティスナイトをスクラップの状態から修理してリブートしたのよ。それからずーっと、わたしはマスターや仲間たちの日常生活と任務のサポートを担当しているの。",
+                "kr": "나의 마스터, 와일드메인, 즉 ‘거친 갈기의 기사’ 이보나 님은 저스티스 나이트를 고철 상태에서 수리하고 리부트 했어. 그 이후로 계~속, 난 마스터와 동료들의 일상생활과 임무 서포트를 담당하고 있지.",
+                "cn": "正义号的主人，野鬃骑士艾沃娜将正义号从已经废弃的状态重新启动并修好。自那之后，正义号就负责起了主人和她的伙伴们的生活起居和援护任务。"
+            },
+            "asset": "char_4000_jnight/CN_003"
+        },
+        {
+            "id": "char_4000_jnight_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Doctor... why does my master say things to this unit like 'Justice, you're too noisy these days. Go play somewhere else if you've got nothing to do!'? Beep-Beep…Beep-Beep... Justice Knight doesn't understand.",
+                "jp": "ドクター様……マスターはどうして「今のジャスティスナイトはうるさいんだよ。暇ならどっか遊びにいきな！」なんて言うのかしら。“Di-di”……“Di-di”……ジャスティスナイトには分からないわ。",
+                "kr": "박사님…… 마스터는 어째서 “지금의 저스티스 나이트는 시끄러워. 심심하면 어디 놀러나 가!”라고 하는 걸까. “띠띠”…… “띠띠”…… 저스티스 나이트는 잘 모르겠어.",
+                "cn": "博士......主人为什么会说“现在的正义号太吵了，没事就自己去玩玩！”这样的话呢？“滴滴”......“滴滴”......正义号不明白。"
+            },
+            "asset": "char_4000_jnight/CN_004"
+        },
+        {
+            "id": "char_4000_jnight_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Everyone in Pinus Sylvestris is incredibly hard-working, always putting meals off so they can train their knightly skills. There has to be a day where their bodies won't keep up. None of them have time to fetch their lunchboxes, so it's all up to Justice Knight to bring them over.",
+                "jp": "レッドパイン騎士団のみんなはとっても頑張り屋さんなの。騎士としての技量を高めるための鍛錬にかまけてご飯を食べ損ねたりもするし、こんな調子じゃそのうち体が参っちゃうでしょう。みんながご飯を取りに行く暇がないなら、わたしが持っていくしかないわよね。",
+                "kr": "피누스 실베스트리스 기사단 사람들은 정말 열심이야. 기사로서의 기량을 높이기 위해 단련에 매진하다 식사를 거르기도 하는데, 이러다가는 조만간 몸이 상할 거 아냐? 모두가 식사하러 갈 시간이 없다면, 내가 가지고 가는 수밖에 없겠지?",
+                "cn": "红松骑士团的大家都非常努力，为了练习骑士技艺总是不按时吃饭，总有一天，身体会承受不了的。大家没空去取用的餐盒，只能靠正义号来运送了。"
+            },
+            "asset": "char_4000_jnight/CN_007"
+        },
+        {
+            "id": "char_4000_jnight_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "A low battery? Sorry, this unit is not sure if any of my functions will be of help to you... What? it's the games console that's almost out? Please get this wire plugged in straight away!",
+                "jp": "設備のバッテリーが切れそうなの？ごめんなさい、お役に立てるような機能があるか自信が……あら。あらあらあら、ゲーム機の充電切れなのね？いいわ、すぐにこの線に繋いで！",
+                "kr": "디바이스의 배터리가 다 떨어질 것 같다고? 미안해, 도움이 될 만한 기능이 있을지 자신이…… 어머? 어머어머어머! 게임기 말하는 거였구나? 좋아, 여기 선 꽃아서 충전해!",
+                "cn": "设备快要没电了？很抱歉，正义号不能确认自己是否有能够帮上忙的功能......竟竟竟然是游戏机没电了？请立即连上这根线！"
+            },
+            "asset": "char_4000_jnight/CN_008"
+        },
+        {
+            "id": "char_4000_jnight_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Beep-Beep. Doctor, you discovered Justice Knight's secret. Justice Knight has no other choice but to take firm action in order to protect the secret... Master? You'll allow Justice Knight to keep tending to the plants in the Convalescent Garden? Thank you, Doctor. You now have unlimited access to all services of Justice Knight!",
+                "jp": "“Di-di”、ドクター様に見つかっちゃったわね。強硬手段をとるのは不本意だけれど秘密を守るためには……マスター？療養庭園のお花たちのお手入れを続けてよろしいの？ドクター様なんでも言って、わたしにできることならお役に立つわよ！",
+                "kr": "“띠띠” 박사님께 들켰네. 강경 수단을 취하는 건 본의가 아니지만 비밀을 지키기 위해서는…… 마스터? 요양 정원의 꽃들을 계속 손질해도 좋다고? 박사님, 뭐든 말해~! 내가 할 수 있는 일이라면 뭐든지 도와줄게!",
+                "cn": "“滴滴”，博士，竟然被您发现了。为了保守秘密，正义号不得不采取强制措施......主人？您允许正义号继续在疗养庭院进行花卉护理任务？博士，您可尽情使用正义号的所有服务！"
+            },
+            "asset": "char_4000_jnight/CN_009"
+        },
+        {
+            "id": "char_4000_jnight_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Beep-Beep, Beep-Beep. Apologies, Doctor. Justice Knight always forgets to disable the automatic timeteller feature.",
+                "jp": "“Di-di”、“Di-di”。ごめんなさいドクター様、時報の自動通知機能をいつも切り忘れちゃうの。",
+                "kr": "“띠띠”, “띠띠”. 어머 내 정신 좀 봐, 미안 박사님. 자동 시간 알림 기능 끄는 걸 매번 까먹는다니까?",
+                "cn": "“滴滴”，“滴滴”。很抱歉，博士，正义号总是忘记关闭自动报时。"
+            },
+            "asset": "char_4000_jnight/CN_010"
+        },
+        {
+            "id": "char_4000_jnight_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Beep-Beep, Beep-Beep-Beep, Beep-Beep…Beep! ('Justice Knight,' glad to be reporting in along with everyone from Pinus Sylvestris Knightclub... Justice Knight will be of great use to you all!)",
+                "jp": "“Di-di”、“Di-di-di”、“Di-di”……“Di！”（「ジャスティスナイト」、レッドパイン騎士団の皆と共にご挨拶できて嬉しいわ……わたしはお役に立ちますわよ！）",
+                "kr": "“띠띠”, “띠띠띠”, “띠띠”…… “띠!” ('저스티스 나이트', 피누스 실베스트리스 기사단 사람들과 함께, 인사할 수 있게 되어 기뻐…… 내가 도움이 되어 줄게!)",
+                "cn": "“滴滴”，“滴滴滴”，“滴滴”......“滴”！（“正义骑士号”，很高兴能跟随红松骑士团的大家一同报道......正义号会很有用！）"
+            },
+            "asset": "char_4000_jnight/CN_011"
+        },
+        {
+            "id": "char_4000_jnight_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "These are very useful resources for this unit. Justice Knight will apply to Miss Closure for installing even more new functions.",
+                "jp": "ジャスティスナイトにとって、すごく意味のある資料だわ。クロージャ様に新しい機能の実装を申請しなくちゃ！",
+                "kr": "저스티스 나이트에게 있어서 굉장히 의미가 있는 자료야. 클로저 님께 새로운 기능 설치를 신청해야겠어!",
+                "cn": "这些资料对正义号来说很有用，之后可以向可露希尔女士申请加装更多功能。"
+            },
+            "asset": "char_4000_jnight/CN_012"
+        },
+        {
+            "id": "char_4000_jnight_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Justice Knight, all ready and set!",
+                "jp": "ジャスティスナイト、準備はいいわよ！",
+                "kr": "저스티스 나이트, 준비 다 됐어!",
+                "cn": "正义号，准备完毕！"
+            },
+            "asset": "char_4000_jnight/CN_017"
+        },
+        {
+            "id": "char_4000_jnight_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Are you leaving command to Justice Knight? It might be a little challenging for this unit right now…",
+                "jp": "ジャスティスナイトに指揮を任せるの？今のわたしにとってはまだ難しいわ……",
+                "kr": "저스티스 나이트에게 지휘를 맡기려고? 지금의 내게는 아직 어려운데……",
+                "cn": "让正义号进行指挥吗？虽然对现在的正义号来说还有些困难......"
+            },
+            "asset": "char_4000_jnight/CN_018"
+        },
+        {
+            "id": "char_4000_jnight_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Justice Knight, setting off!",
+                "jp": "ジャスティスナイト、出発するわよ！",
+                "kr": "저스티스 나이트, 출발할게!",
+                "cn": "正义号，出发！"
+            },
+            "asset": "char_4000_jnight/CN_019"
+        },
+        {
+            "id": "char_4000_jnight_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Beep-Beep. Justice Knight will provide you all with proper and timely support!",
+                "jp": "“Di-di”、ジャスティスナイトは皆様に適時適切なサポートをお届けするわ！",
+                "kr": "“띠띠”, 저스티스 나이트는 여러분에게 적재적소에, 적절한 서포트를 제공할게!",
+                "cn": "“滴滴”，正义号将会及时为大家提供支援。"
+            },
+            "asset": "char_4000_jnight/CN_020"
+        },
+        {
+            "id": "char_4000_jnight_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Justice Knight, all good to go!",
+                "jp": "ジャスティスナイト、出撃準備は万端よ！",
+                "kr": "저스티스 나이트, 출격 준비는 완벽해!",
+                "cn": "正义号，整装待发！"
+            },
+            "asset": "char_4000_jnight/CN_021"
+        },
+        {
+            "id": "char_4000_jnight_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Justice Knight, requesting to attack!",
+                "jp": "ジャスティスナイト、出撃を申請するわ！",
+                "kr": "저스티스 나이트, 출격을 신청할게!",
+                "cn": "正义号，请求出战！"
+            },
+            "asset": "char_4000_jnight/CN_022"
+        },
+        {
+            "id": "char_4000_jnight_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Beep-Beep. Locked onto target.",
+                "jp": "“Di-di”、目標をロックしたわよ。",
+                "kr": "“띠띠”, 목표를 조준했어.",
+                "cn": "“滴滴”，目标已锁定。"
+            },
+            "asset": "char_4000_jnight/CN_023"
+        },
+        {
+            "id": "char_4000_jnight_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Beep-Beep. Justice Knight is now in position.",
+                "jp": "“Di-di”、ジャスティスナイトは位置についているわ。",
+                "kr": "“띠띠”, 저스티스 나이트는 위치에 도착했어.",
+                "cn": "“滴滴”，正义号已经就位。"
+            },
+            "asset": "char_4000_jnight/CN_024"
+        },
+        {
+            "id": "char_4000_jnight_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Juuuuustice!",
+                "jp": "ジャースティス！",
+                "kr": "저~스티스!",
+                "cn": "正——义！"
+            },
+            "asset": "char_4000_jnight/CN_025"
+        },
+        {
+            "id": "char_4000_jnight_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Viiiiictory!",
+                "jp": "ビークトリー！",
+                "kr": "빅~토리!",
+                "cn": "胜——利！"
+            },
+            "asset": "char_4000_jnight/CN_026"
+        },
+        {
+            "id": "char_4000_jnight_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Fiiiiight!",
+                "jp": "ファーイト！",
+                "kr": "파이트~!",
+                "cn": "斗——志！"
+            },
+            "asset": "char_4000_jnight/CN_027"
+        },
+        {
+            "id": "char_4000_jnight_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Spiriiiiit!",
+                "jp": "スピリーット！",
+                "kr": "스피릿~!",
+                "cn": "气——魄！"
+            },
+            "asset": "char_4000_jnight/CN_028"
+        },
+        {
+            "id": "char_4000_jnight_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Beep-Beep, BeepBeepBeep-- Sorry, Justice Knight got too worked up. Doctor, master, Justice Knight has made it!",
+                "jp": "“Di-di”、“Di-di-di――”……ごめんなさいね、わたし興奮しすぎちゃったわ。ドクター様、マスター、ジャステイスナイトはやり遂げたわよ！",
+                "kr": "“띠띠”, “띠띠띠”…… 어머 미안, 내가 너무 흥분했나봐. 박사님, 마스터, 저스티스 나이트가 해냈어!",
+                "cn": "“滴滴、滴滴滴——”......对不起，正义号太激动了。博士，主人，正义号做到了！"
+            },
+            "asset": "char_4000_jnight/CN_029"
+        },
+        {
+            "id": "char_4000_jnight_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Possiblilites of new function development detected! Justice Knight, awaiting for orders to return to Rhodes Island!",
+                "jp": "新しい機能を開発できそうね。ジャスティスナイト、ロドスへの帰還が待ち遠しいわ！",
+                "kr": "새로운 기능을 개발할 수 있을 것 같아. 저스티스 나이트, 로도스 아일랜드로 귀환하는 게 기다려져!",
+                "cn": "好像有了开发新功能的可能性，正义号，等待回到罗德岛！"
+            },
+            "asset": "char_4000_jnight/CN_030"
+        },
+        {
+            "id": "char_4000_jnight_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "There is still room for improvement. Anyway, we won! Congratulations, Doctor!",
+                "jp": "反省点はあるけど、でも勝ったのよ！ドクター様、おめでとう！",
+                "kr": "반성할 점은 있지만, 그래도 이겼어! 박사님, 축하해!",
+                "cn": "还有可以改进的地方，但是胜利了！博士，恭喜。"
+            },
+            "asset": "char_4000_jnight/CN_031"
+        },
+        {
+            "id": "char_4000_jnight_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Please don't... throw Justice Knight... away again...",
+                "jp": "また……ジャスティスナイトを捨てるのを……おやめください……",
+                "kr": "또…… 저스티스 나이트를 버리지…… 말아 주세요……",
+                "cn": "请不要......再一次......丢弃正义号......"
+            },
+            "asset": "char_4000_jnight/CN_032"
+        },
+        {
+            "id": "char_4000_jnight_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Beep-Beep, Justice Knight has plenty of things to do here.",
+                "jp": "“Di-di”、ジャスティスナイトはここでも色々なことができそうだわ。",
+                "kr": "“띠띠”, 저스티스 나이트는 여기서도 다양한 걸 할 수 있을 것 같아.",
+                "cn": "“滴滴”，正义号在这里也有许多可做的事。"
+            },
+            "asset": "char_4000_jnight/CN_033"
+        },
+        {
+            "id": "char_4000_jnight_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Beep-Beep! Don't treat this unit like that… Negative!",
+                "jp": "“Di-di”、ちょっと！そういう態度は、やめてほしいわ……",
+                "kr": "“띠띠”, 잠깐! 그런 태도로 대하면, 안 돼……",
+                "cn": "“滴滴”！这么对待正义号......不好！"
+            },
+            "asset": "char_4000_jnight/CN_034"
+        },
+        {
+            "id": "char_4000_jnight_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "The washing machine... doesn't seem too hard to use...",
+                "jp": "洗濯機……使い方はそう難しくなさそうね……",
+                "kr": "세탁기…… 사용 방법은 그렇게 어렵지 않을 것 같네……",
+                "cn": "洗衣机......似乎不难使用......"
+            },
+            "asset": "char_4000_jnight/CN_036"
+        },
+        {
+            "id": "char_4000_jnight_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4000_jnight/CN_037"
+        },
+        {
+            "id": "char_4000_jnight_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Nice to see you, Doctor.",
+                "jp": "ごきげんよう、ドクター様。",
+                "kr": "안녕, 박사님.",
+                "cn": "您好，博士。"
+            },
+            "asset": "char_4000_jnight/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Ina Marie Smith",
+            "global": "Ina Marie Smith"
+        },
+        "cn": {
+            "native": "大汪",
+            "global": "Yannie Wang"
+        },
+        "jp": {
+            "native": "ゆきのさつき",
+            "global": "Satsuki Yukino"
+        },
+        "kr": {
+            "native": "김선혜",
+            "global": "Kim Sun-hye"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

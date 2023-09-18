@@ -3,6 +3,7 @@
   import AudioPlayer from "$lib/char/AudioPlayer.svelte";
 
   export let voicedata: Voicedata;
+  export let availability: string[] = [];
 
   interface Voicedata {
     title: {
@@ -16,7 +17,8 @@
       cn: string,
       jp: string,
       kr: string,
-    }
+    },
+    asset: string,
   }
 </script>
 
@@ -26,7 +28,10 @@
   <div>{voicedata.text[$currentLang]}</div>
 </div>
 
-<AudioPlayer assetloc={voicedata.asset} />
+<AudioPlayer 
+  assetloc={voicedata.asset}
+  availability={availability} 
+/>
 {/if}
 
 

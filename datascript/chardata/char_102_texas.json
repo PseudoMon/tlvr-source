@@ -571,36 +571,20 @@
     ],
     "actors": {
         "en": {
-            "native": [
-                "Jessica Preddy"
-            ],
-            "global": [
-                "Jessica Preddy"
-            ]
+            "native": "Jessica Preddy",
+            "global": "Jessica Preddy"
         },
         "cn": {
-            "native": [
-                "杨梦露"
-            ],
-            "global": [
-                "Menglu Yang"
-            ]
+            "native": "杨梦露",
+            "global": "Menglu Yang"
         },
         "jp": {
-            "native": [
-                "田所あずさ"
-            ],
-            "global": [
-                "Azusa Tadokoro"
-            ]
+            "native": "田所あずさ",
+            "global": "Azusa Tadokoro"
         },
         "kr": {
-            "native": [
-                "김채하"
-            ],
-            "global": [
-                "Kim Chae-ha"
-            ]
+            "native": "김채하",
+            "global": "Kim Chae-ha"
         }
     },
     "availability": [

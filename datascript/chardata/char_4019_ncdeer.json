@@ -1,0 +1,574 @@
+{
+    "charid": "char_4019_ncdeer",
+    "nameid": "ncdeer",
+    "names": {
+        "en": "Nine-Colored Deer",
+        "jp": "九色鹿",
+        "kr": "나인컬러드 디어",
+        "cn": "九色鹿"
+    },
+    "voices": [
+        {
+            "id": "char_4019_ncdeer_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "The files that needed sorting have all been put away. I hope it'll help reduce some of your pressure, Doctor.",
+                "jp": "整えるべき資料は全て片付けてありますよ。これであなたの負担を減らせていれば幸いです。",
+                "kr": "정리한 자료는 여기에 뒀습니다. 박사님의 부담을 조금이나마 덜어 드렸으면 하네요.",
+                "cn": "需要整理的资料都已经放好了，希望可以帮博士您减少一些压力。"
+            },
+            "asset": "char_4019_ncdeer/CN_001"
+        },
+        {
+            "id": "char_4019_ncdeer_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "The atmosphere in here is duly soothing, much like my mountain forest. Doctor, you're free to come play when you're not busy.",
+                "jp": "この場所はとても落ち着きますね。まるで私のいた山のようです。ドクター、お時間があれば遊びにいらしてくださいね。",
+                "kr": "여기는 마치 제가 사는 숲처럼 느긋한 분위기네요. 박사님, 시간 날 때 놀러 오세요.",
+                "cn": "这里的氛围让人感到十分放松，就像是我的山林。博士，您在空余时间可以来玩哦。"
+            },
+            "asset": "char_4019_ncdeer/CN_002"
+        },
+        {
+            "id": "char_4019_ncdeer_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "I've talked a lot with the Medical Department's operators, and now I can understand what everyone's goal is. Doctor, allow me to rescue this land together with you.",
+                "jp": "医療部の方々とたくさんお話をして、みなさんの志を理解しました。ドクター、どうか私にもロドスと共にこの大地を救うお手伝いをさせてください。",
+                "kr": "의료부 오퍼레이터들과 많은 이야기를 나누었고, 이제 여러분의 목표를 이해하게 되었습니다. 박사님, 저도 함께 이 땅을 구할 수 있게 해주세요.",
+                "cn": "和医疗部的干员们聊了很多，现在我能理解大家的目标了。博士，请让我和您一起拯救这片大地。"
+            },
+            "asset": "char_4019_ncdeer/CN_003"
+        },
+        {
+            "id": "char_4019_ncdeer_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "This herbal pill... it's fine work. Myrrh's combined the properties of the medicinals and processed them in a special way. Hmm... I've never attempted such a manner of processing myself. In a little while, I'll see about learning from Myrrh.",
+                "jp": "この丸薬は……素晴らしいです。ミルラさんが薬草の特性を取り合わせて、特殊な加工処理を施してくださいました。うーん……このような製法は初めてです。のちほど、ミルラさんに教えを乞いに行って参ります。",
+                "kr": "이련 약초는…… 아주 좋네요. 미르 씨가 약재 특성에 따라 특별히 가공 처리 했답니다. 흐음…… 이런 가공 방식은 처음이라, 나중에 미르 씨한테 배워야겠네요.",
+                "cn": "这种草药丸......很不错，末药小姐结合了药材的特性做了特殊的加工处理。嗯......从没尝试过这种加工方式，稍后我会找末药小姐学习一下。"
+            },
+            "asset": "char_4019_ncdeer/CN_004"
+        },
+        {
+            "id": "char_4019_ncdeer_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Aid and sanctuary are unalike. The former cures the body, the latter saves the soul.",
+                "jp": "救援と救済（ぐさい）は異なります。前者は身体を治癒することであり、後者は魂を救うことです。",
+                "kr": "구원과 비호는 다르답니다. 전자는 몸을 치유하고, 후자는 영혼을 치유하죠.",
+                "cn": "救援与庇护是不同的，前者治愈身体，后者拯救灵魂。"
+            },
+            "asset": "char_4019_ncdeer/CN_005"
+        },
+        {
+            "id": "char_4019_ncdeer_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "To live is an endless cycle, reaping what one sows, all beings beholden to this. I imagine you can understand, having been through so much. Leaving your own memories behind in a different incarnation, constructing your own view of the outside world; that is the purpose of this life.",
+                "jp": "生命（いのち）は輪となって廻り続けるもの。自業自得、衆生（しゅじょう）皆是（か）くの如し。あなたはこれほどの行（ぎょう）を経ているのですから、お解りでしょう。異なる生を受ける度に、自身の記憶を残し、外界に対する自身の見方を形成すること、それこそが今生の意義というものです。",
+                "kr": "생명은 윤회의 반복이고 자업자득과니, 중생은 모두 이와 같습니다. 박사님은 수많은 경험을 하셨으니 당연히 이해하시겠죠. 서로 다른 윤회에서 자신의 기억을 남기고, 외부 세계에 대한 자신의 견해를 구축하는 것이 일생의 뜻이랍니다.",
+                "cn": "生命是无尽的轮回，自业自得果，众生皆如是。您经历了这么多，应该能理解吧。在不同的轮回中留下自己的记忆，构建自己对外界的看法，才是这一世的用意。"
+            },
+            "asset": "char_4019_ncdeer/CN_006"
+        },
+        {
+            "id": "char_4019_ncdeer_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "These pills have not just the aroma of tea, but all sorts of flowers too. Many patients consider herbal pills bitter, so I've put my mind to diminishing that bitterness. I hope... the people of Rhodes Island won't dislike this flavor.",
+                "jp": "これらの丸薬には、お茶やお花の風味付けをしています。患者さんの多くが薬草で作ったものは苦いとおっしゃるので、苦みを抑える工夫を施したのです。ロドスの皆さんの……お口に合えばいいのですが。",
+                "kr": "이 알약은 차 향기뿐만 아니라 여러 가지 꽃향기도 있어요. 많은 환자들이 약초의 쓴맛을 느끼기 때문에, 저는 쓴맛을 줄이는 방법을 강구했지요. 로도스 아일랜드의 여러분이…… 이 맛을 싫어하지 않았으면 좋겠네요.",
+                "cn": "这些药丸除了茶香味，还有各种花香口味的。很多患者觉得草药丸很苦，所以我想办法把苦味降低了。希望......罗德岛的大家不会讨厌这个味道。"
+            },
+            "asset": "char_4019_ncdeer/CN_007"
+        },
+        {
+            "id": "char_4019_ncdeer_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "I very much agree with the tea here, its aroma calm, its true flavor apparent. As with tea, so with man. In this dwelling, those irrelevant rumors can be kept away; it's a rare place of respite.",
+                "jp": "ここのお茶はとても気に入りました。落ち着いた馥郁たる香りで、お茶そのものの味が感じられます。茶は人を表すもの。ここに居（きょ）を卜（ぼく）せばつまらない噂を避けることもできるでしょう。まこと得がたき安寧の地です。",
+                "kr": "이곳의 차는 굉장히 마음에 들어요. 차향이 차분하면서도 진미가 드러난답니다. 사람도 차와 마찬가지입니다. 여기는 유언비어를 피할 수 있는 보기 드문 조용한 곳이죠.",
+                "cn": "这里的茶很合我意，茶香沉稳，更见真味。茶如此，人亦然，在这居住能避开那些闲言碎语，难得的宁静之地。"
+            },
+            "asset": "char_4019_ncdeer/CN_008"
+        },
+        {
+            "id": "char_4019_ncdeer_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Doctor, the operators can have the dishes labelled with my name to eat, as well as some bottles of drinks I made myself. Everyone's been to truly tiresome lengths as of recent, and I wanted to do a thing or two to help alleviate their fatigue...",
+                "jp": "ドクター、私の名前が貼ってあるお料理は、皆さんが召し上がっていただいて大丈夫ですからね。それと、手作りした飲み物もありますよ。この頃はお仕事が本当に大変そうなので、何か疲労回復に役立てないかと考えまして……",
+                "kr": "박사님, 제 이름이 붙은 메뉴는 오퍼레이터들에게 나눠주셔도 됩니다. 저는 음료수를 만들 몇 병을 챙겼으니깐요. 요즘 다들 너무 고생하는 것 같아서 저도 뭔가 만들어서 여러분의 피로를 풀어드리고 싶네요……",
+                "cn": "博士，贴着我名字的菜品可以让干员拿去吃哦，还有几瓶我自己做的饮料。最近看大家工作实在太辛苦了，所以我也想做点什么帮他们缓解疲劳......"
+            },
+            "asset": "char_4019_ncdeer/CN_009"
+        },
+        {
+            "id": "char_4019_ncdeer_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Are you tired? Rest well for a while. Don't worry; I'll protect you.",
+                "jp": "お疲れですか？ゆっくりお休みください。私があなたを守りますので、ご安心を。",
+                "kr": "힘드신가요? 푹 쉬세요. 걱정하지 마세요. 제가 당신을 지켜드릴게요.",
+                "cn": "您累了吗？好好休息一下吧，不用担心，我会保护您。"
+            },
+            "asset": "char_4019_ncdeer/CN_010"
+        },
+        {
+            "id": "char_4019_ncdeer_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "It's nice to meet you; I'm Nine-Colored Deer. Hm? Are these motifs so beautiful? Th-Thank you... please, observe them as you like.",
+                "jp": "初めてお目にかかりますね、私は九色鹿（くしきろく）です。え？模様が綺麗ですか？あ、ありがとうございます……これからよろしくお願いいたしますね。",
+                "kr": "처음 뵙겠습니다. 저는 나인컬러드 디어라고 합니다. 네? 이 무늬가 예뻐요? 고, 고맙습니다…… 앞으로 잘 부탁드립니다.",
+                "cn": "初次见面，我是九色鹿。嗯？这个花纹很好看吗？谢，谢谢......以后请多多关照了。"
+            },
+            "asset": "char_4019_ncdeer/CN_011"
+        },
+        {
+            "id": "char_4019_ncdeer_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "May I go with you next time? I want to ensure everyone's safety.",
+                "jp": "次回は私も同行してよろしいですか。皆さんの安全を守りたいのです。",
+                "kr": "다음엔 저도 함께 갈 수 있을까요? 저는 여러분의 안전을 지켜드리고 싶어요.",
+                "cn": "下次可以让我和您一起去吗，我想要保护大家的安全。"
+            },
+            "asset": "char_4019_ncdeer/CN_012"
+        },
+        {
+            "id": "char_4019_ncdeer_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "You've endorsed me? So I have been of help to you, then. Wonderful...",
+                "jp": "私を認めてくださったのですか？本当に皆さんのお役に立てていたのですね。よかった……",
+                "kr": "저를 인정해주시나요? 여러분에게 제가 도움이 됐나 봐요. 너무 좋네요……",
+                "cn": "您认同我了吗？原来我真的有帮到各位，太好了......"
+            },
+            "asset": "char_4019_ncdeer/CN_013"
+        },
+        {
+            "id": "char_4019_ncdeer_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "The things I've learned may save many, but there remain yet more in need of aid. Doctor, can I still be more powerful than I am now?",
+                "jp": "これまでの学んできたことで、多くの人を救えるようになりました。ですが助けを必要としている方はまだたくさんおります。ドクター、私はまだ強くなれますか？",
+                "kr": "지금까지 배운 것으로 많은 사람을 구할 수 있지만, 더 많은 사람을 도와야 합니다. 박사님, 제가 더 강해질 수 있을까요?",
+                "cn": "现在学到的东西已经可以拯救很多人了，但还有更多人需要帮助。博士，我还能变得更强吗？"
+            },
+            "asset": "char_4019_ncdeer/CN_014"
+        },
+        {
+            "id": "char_4019_ncdeer_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Worry not, I won't betray your trust.",
+                "jp": "ご安心ください、ドクターの信頼は裏切りません。",
+                "kr": "박사님의 믿음을 저버리지 않을게요.",
+                "cn": "放心，不会辜负您的信赖。"
+            },
+            "asset": "char_4019_ncdeer/CN_017"
+        },
+        {
+            "id": "char_4019_ncdeer_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Am I taking command? No problem.",
+                "jp": "私が指揮を執るのですか？問題ありませんよ。",
+                "kr": "제가 지휘를요? 맡겨만 주세요.",
+                "cn": "我来指挥？没问题哦。"
+            },
+            "asset": "char_4019_ncdeer/CN_018"
+        },
+        {
+            "id": "char_4019_ncdeer_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Don't worry, I'll bring everyone home safely.",
+                "jp": "心配しないでください、皆さんは無事に連れて帰ります。",
+                "kr": "걱정하지 마세요. 모두 무사히 돌아오게 해드릴게요.",
+                "cn": "不用担心，我会让大家平安归来。"
+            },
+            "asset": "char_4019_ncdeer/CN_019"
+        },
+        {
+            "id": "char_4019_ncdeer_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Don't separate. We meet the battlefield now.",
+                "jp": "皆さん散らばらないように、もうすぐ戦場です。",
+                "kr": "흩어지지 마세요. 앞이 바로 전장입니다.",
+                "cn": "不要分散，接下来就是战场了。"
+            },
+            "asset": "char_4019_ncdeer/CN_020"
+        },
+        {
+            "id": "char_4019_ncdeer_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "I see them... an unknown enemy.",
+                "jp": "未知の敵が……見えます。",
+                "kr": "봤습니다…… 알 수 없는 적을.",
+                "cn": "看到了......未知的敌人。"
+            },
+            "asset": "char_4019_ncdeer/CN_021"
+        },
+        {
+            "id": "char_4019_ncdeer_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Are these new orders? Mm, acknowledged.",
+                "jp": "新しい指令ですか？ええ、分かりました。",
+                "kr": "새로운 명령인가요? 네, 받았습니다.",
+                "cn": "这是新的指令？嗯，我收到了。"
+            },
+            "asset": "char_4019_ncdeer/CN_022"
+        },
+        {
+            "id": "char_4019_ncdeer_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "This... is the chill of the battlefield.",
+                "jp": "これが……戦場の冷たさ。",
+                "kr": "이건…… 전장의 한기인가요.",
+                "cn": "这是......战场的寒意。"
+            },
+            "asset": "char_4019_ncdeer/CN_023"
+        },
+        {
+            "id": "char_4019_ncdeer_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "I'm ready.",
+                "jp": "用意はできています。",
+                "kr": "준비됐어요.",
+                "cn": "准备好了。"
+            },
+            "asset": "char_4019_ncdeer/CN_024"
+        },
+        {
+            "id": "char_4019_ncdeer_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "The mind is as truth, a mirror reflecting all ways.",
+                "jp": "心を以て宗と為し、鏡万法を照らす。",
+                "kr": "마음을 근본으로 삼라만상을 비추라.",
+                "cn": "以心为宗，镜照万法。"
+            },
+            "asset": "char_4019_ncdeer/CN_025"
+        },
+        {
+            "id": "char_4019_ncdeer_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "A thought leaving reality, delusion in all cases.",
+                "jp": "一念真を離れれば、皆妄想と為る。",
+                "kr": "진실을 떠난 일념은 모두 망상에 불과하다.",
+                "cn": "一念离真，皆为妄想。"
+            },
+            "asset": "char_4019_ncdeer/CN_026"
+        },
+        {
+            "id": "char_4019_ncdeer_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Heaven and earth come alike, all beings come together.",
+                "jp": "天地相と化し、万物相合す。",
+                "kr": "천지의 모습은 만물이 이뤄낸 조합이다.",
+                "cn": "天地化相，万物相合。"
+            },
+            "asset": "char_4019_ncdeer/CN_027"
+        },
+        {
+            "id": "char_4019_ncdeer_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Everything has its way, per flame and per current.",
+                "jp": "一切皆法有り、焔の如く、また雷の如く。",
+                "kr": "모든 게 법이 있다. 그게 불꽃, 번개라 할지라도.",
+                "cn": "一切皆有法，如焰亦如电。"
+            },
+            "asset": "char_4019_ncdeer/CN_028"
+        },
+        {
+            "id": "char_4019_ncdeer_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Mm... this battle was very smooth.",
+                "jp": "うん……今回の戦闘は順調でしたね。",
+                "kr": "흐음…… 이번 작전은 순조롭네요.",
+                "cn": "嗯......这次的战斗很顺利。"
+            },
+            "asset": "char_4019_ncdeer/CN_029"
+        },
+        {
+            "id": "char_4019_ncdeer_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Life is sincerely precious, but base and wicked life is punished in the end.",
+                "jp": "生命（いのち）は疑いなく尊（たっと）いもの。けれど卑しく邪悪な命は、いつかは罰を受けねばならないのです。",
+                "kr": "생명은 귀하다고는 하지만, 비열하고 사악한 생명은 벌을 받아 마땅합니다.",
+                "cn": "生命诚可贵，但卑鄙和邪恶的生命终究要受到惩罚。"
+            },
+            "asset": "char_4019_ncdeer/CN_030"
+        },
+        {
+            "id": "char_4019_ncdeer_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "You needn't be sad. Though there were slight faults, with a little more of a try, you will always succeed.",
+                "jp": "悲しむ必要はありません。今回は少し失敗がありましたが、今一度努力を続けてみてください。いつかは実を結びますよ。",
+                "kr": "괴로워할 필요 없어요. 작은 실수도 있었지만, 다시 한번 노력하면 반드시 성공한답니다.",
+                "cn": "不必难过，虽然这次小有失误，再努力一下吧，总会成功的。"
+            },
+            "asset": "char_4019_ncdeer/CN_031"
+        },
+        {
+            "id": "char_4019_ncdeer_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "If it has no power, no one should be shown that mercy.",
+                "jp": "力がないのであれば、誰彼構わず慈悲を施してはなりませんよ。",
+                "kr": "힘이 없다면 누구에게도 자비를 베풀지 마세요.",
+                "cn": "如果没有力量，就不要对任何人都慈悲。"
+            },
+            "asset": "char_4019_ncdeer/CN_032"
+        },
+        {
+            "id": "char_4019_ncdeer_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "What a strange place. So much I've never seen before.",
+                "jp": "変わった場所ですね。見たことのないものがたくさんあります。",
+                "kr": "여긴 묘한 곳이네요. 못 본 게 많아요.",
+                "cn": "很奇妙的地方呢，有很多没见过的东西。"
+            },
+            "asset": "char_4019_ncdeer/CN_033"
+        },
+        {
+            "id": "char_4019_ncdeer_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "'Kindness' is something not to be exploited, Doctor.",
+                "jp": "「善良さ」を利用してはいけませんよ、ドクター。",
+                "kr": "박사님, '착함'은 이용당해선 안 됩니다.",
+                "cn": "“善良”是不可以被利用的哦，博士。"
+            },
+            "asset": "char_4019_ncdeer/CN_034"
+        },
+        {
+            "id": "char_4019_ncdeer_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Doctor, here's a scented tea for you. It'll perk you up.",
+                "jp": "ドクター、花茶をどうぞ。眠気覚ましの効果があるのですよ。",
+                "kr": "박사님께 드리는 꽃차입니다. 정신을 차릴 수 있거든요.",
+                "cn": "博士，这是给您的花茶，有提神的功效哦。"
+            },
+            "asset": "char_4019_ncdeer/CN_036"
+        },
+        {
+            "id": "char_4019_ncdeer_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4019_ncdeer/CN_037"
+        },
+        {
+            "id": "char_4019_ncdeer_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "You seem very energetic, Doctor.",
+                "jp": "お元気そうですね、ドクター。",
+                "kr": "아주 활기차 보이는데요, 박사님.",
+                "cn": "看起来很精神呢，博士。"
+            },
+            "asset": "char_4019_ncdeer/CN_042"
+        }
+    ],
+    "actors": {},
+    "availability": []
+}

@@ -1,7 +1,8 @@
 <script lang="ts">
   import AudioIcon from "$lib/icons/AudioIcon.svelte";
 
-  export let assetloc;
+  export let assetloc: string;
+  export let availability: string[] = [];
 
   const sourceurl = "https://raw.githubusercontent.com/Aceship/Arknight-voices/main"
   // Thanks, Aceship!
@@ -15,7 +16,6 @@
 
   let audiofile: string;
   $: audiofile = `${sourceurl}/${voiceMap[selectedLang]}/${assetloc}.mp3`;
-  $: console.log(audiofile); 
 
   let selectedLang: string = null;
   let showAudio: boolean;
@@ -34,22 +34,30 @@
 <div class="audio-container">
   <div class="audio-selector">
     <AudioIcon />
+    {#if availability.includes("en")}
     <button 
       on:click={() => clickLang("en")} 
       class:selected={selectedLang === "en"}
     >EN</button>
+    {/if}
+    {#if availability.includes("cn")}
     <button 
       on:click={() => clickLang("cn")}
       class:selected={selectedLang === "cn"}
     >CN</button>
+    {/if}
+    {#if availability.includes("jp")}
     <button 
       on:click={() => clickLang("jp")}
       class:selected={selectedLang === "jp"}
     >JP</button>
+    {/if}
+    {#if availability.includes("kr")}
     <button
       on:click={() => clickLang("kr")}
       class:selected={selectedLang === "kr"} 
     >KR</button>
+    {/if}
   </div>
   {#if showAudio}
   <audio controls src={audiofile} preload="metadata">

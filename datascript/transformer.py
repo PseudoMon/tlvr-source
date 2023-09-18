@@ -1,18 +1,10 @@
 import json
 from os import path
 import grabfiles
+from utils import save_json, load_json
 
 langs = ["en", "jp", "kr", "cn"] 
 mute_chars = ["rguard", "rdfend" "rsnipe", "rmedic", "rcast" "aprot"]
-
-def save_json(data, target):
-	with open(target, "w", encoding="utf-8") as targetfile:
-		json.dump(data, targetfile, ensure_ascii=False, indent=4)
-
-def load_json(source):
-	with open(source, "r", encoding="utf-8") as sourcefile:
-		data = json.load(sourcefile)
-	return data 
 
 def loadchardict(region):
 	sourcepath = path.join(region, "chardict.json")
@@ -211,21 +203,22 @@ def get_and_write_chardata(charid, wordtables, names={}):
 	save_json(chardata, f"chardata/{charid}.json")
 	print(f"Written chardata for {charid}")
 
-# Test characters
-# indigo
-# texas
-# mlee
-# jnight
-# lolxh
-# ncdeer
-# aprot and aprot2?? why does shalem have two??
+charlist = load_json("charlist.json")
+test_chars = ["indigo", "texas", "lmlee", "jnight", 
+	"lolxh", "ncdeer", "aprot2"]
+chars = [char for char in charlist if char["nameid"] in test_chars]
 
 wordtables = load_wordtables()
-charid = "char_102_texas"
-names = {
-            "en": "Texas",
-            "jp": "テキサス",
-            "kr": "텍사스",
-            "cn": "德克萨斯"
-        }
-get_and_write_chardata(charid, wordtables, names)
+for char in chars:
+	charid = f"char_{char['numberid']}_{char['nameid']}"
+	get_and_write_chardata(charid, wordtables, char["name"])
+
+# wordtables = load_wordtables()
+# charid = "char_102_texas"
+# names = {
+#             "en": "Texas",
+#             "jp": "テキサス",
+#             "kr": "텍사스",
+#             "cn": "德克萨斯"
+#         }
+# get_and_write_chardata(charid, wordtables, names)
