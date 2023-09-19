@@ -1,0 +1,596 @@
+{
+    "charid": "char_193_frostl",
+    "nameid": "frostl",
+    "names": {
+        "en": "Frostleaf",
+        "jp": "フロストリーフ",
+        "kr": "프로스트리프",
+        "cn": "霜叶"
+    },
+    "voices": [
+        {
+            "id": "char_193_frostl_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Want to listen to some music? I'll lend you my headphones.",
+                "jp": "音楽、聴くか？少しだけなら私のヘッドホンを貸してやってもいい。",
+                "kr": "음악… 들을래? 잠깐만 듣는 거라면, 내 헤드폰으로 듣던가.",
+                "cn": "要听点音乐吗？我的耳机就借你一会儿吧。"
+            },
+            "asset": "char_193_frostl/CN_001"
+        },
+        {
+            "id": "char_193_frostl_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Sorry, please keep a little distance from me.",
+                "jp": "すまない、少し離れてくれ。",
+                "kr": "미안, 조금 떨어져 줘.",
+                "cn": "抱歉，请和我保持一点距离。"
+            },
+            "asset": "char_193_frostl/CN_002"
+        },
+        {
+            "id": "char_193_frostl_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "I never imagined that I'd have the chance to become a rescue worker.",
+                "jp": "自分が救援活動にあたることになるとは、思ってもみなかった。",
+                "kr": "내가 구조작업을 하게 될 줄은, 꿈에도 생각 못 했어.",
+                "cn": "我从没想过，自己会有从事救援工作的这一天。"
+            },
+            "asset": "char_193_frostl/CN_003"
+        },
+        {
+            "id": "char_193_frostl_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "I picked up this axe a long time ago, maybe even before I learned to read.",
+                "jp": "読み書きを学ぶ前から、この斧を握っていた。",
+                "kr": "난, 읽고 쓰기를 배우기도 전부터 이 도끼를 쥐고 있었어.",
+                "cn": "挥舞这把斧头的时间，说不定比我识字的时间都长。"
+            },
+            "asset": "char_193_frostl/CN_004"
+        },
+        {
+            "id": "char_193_frostl_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "The songs I like are probably not so popular. They're only good for humming to myself when I'm alone.",
+                "jp": "私が好きな歌は、世間では流行らないだろうな。一人でいるときに口ずさみたくなる、孤独な曲ばかりだ。",
+                "kr": "내가 좋아하는 노래는 이 세상에 유행하진 않겠지. 혼자 있을 때 흥얼거리고 싶어지는 고독한 곡밖에 없으니까.",
+                "cn": "我喜欢的歌，应该也不怎么流行吧。这些歌只适合独处的时候哼给自己听。"
+            },
+            "asset": "char_193_frostl/CN_005"
+        },
+        {
+            "id": "char_193_frostl_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Don't blink—you have but one moment to witness this epic move.",
+                "jp": "まばたきするなよ。この技が見られるのは、一瞬だけだ。",
+                "kr": "눈 똑바로 뜨고 봐. 이 기술을 볼 수 있는 건 한순간뿐이니까.",
+                "cn": "不要眨眼。见证这战技的机会，只有这一瞬间。"
+            },
+            "asset": "char_193_frostl/CN_006"
+        },
+        {
+            "id": "char_193_frostl_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Want something to drink? My treat. You should relax a bit after work, you know.",
+                "jp": "一杯どうだ。私がおごろう。仕事のあとは息抜きも必要だろう。",
+                "kr": "한 잔 어때, 내가 살게. 일이 끝나면 좀 쉬기도 해야지.",
+                "cn": "喝点吗，我请。工作结束之后，还是稍微放松一会儿比较好。"
+            },
+            "asset": "char_193_frostl/CN_007"
+        },
+        {
+            "id": "char_193_frostl_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "I only realized how precious life is after everyone around me died, one by one. Ironic, huh? I think so, too.",
+                "jp": "周りの人たちがみな過去のものになってしまってから、人として生きることの大切さを知った。笑えるだろう、フフフ…。",
+                "kr": "주변 사람들이 모두… 과거의 존재가 되고 나서야, 사람으로 산다는 것의 소중함을 알았어. 웃기지?",
+                "cn": "直到身边的人接连逝去，我才意识到作为人去活着的可贵。很讽刺吧？呵，我也觉得。"
+            },
+            "asset": "char_193_frostl/CN_008"
+        },
+        {
+            "id": "char_193_frostl_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "I'm a mercenary. I just do my job. As for the purpose of my mission and its consequences, I don't have a say in any of that. So, from now on, all my responsibilities are your concern.",
+                "jp": "傭兵はしょせん雇われだ。任務の目的や、それによる結果を考えることは私の仕事ではない。今後はお前がそれを決めるといい。",
+                "kr": "용병은 어차피 고용되는 존재지. 임무의 목적이나 그에 따른 결과를 생각하는 건 내 일이 아니야. 앞으로는, 네가 그걸 정하면 돼.",
+                "cn": "佣兵不过是种工作，出于什么目的、造成什么后果，并不由我决定。以后，这种“我该担负什么责任”的考量，就交给你了。"
+            },
+            "asset": "char_193_frostl/CN_009"
+        },
+        {
+            "id": "char_193_frostl_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Dun... dun dun♪dun... dun dun...♪",
+                "jp": "♪～♪♪～♪……♪",
+                "kr": "♪～♪♪～♪…… ♪",
+                "cn": "哼——哼哼♪哼......哼哼......♪"
+            },
+            "asset": "char_193_frostl/CN_010"
+        },
+        {
+            "id": "char_193_frostl_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Frostleaf, former mercenary. From now on, I'm your operator. Assign me any job you want, I can do pretty much anything.",
+                "jp": "フロストリーフ。傭兵をやっていたが、今はお前に命を預ける。命令とあらば、何でも従おう。",
+                "kr": "프로스트리프. 용병을 했었지만, 지금은 너에게 목숨을 바치겠다. 명령이라면 뭐든지 따르도록 하지.",
+                "cn": "霜叶，前佣兵，现在，是你的干员。随意调遣我吧，我什么都能做。"
+            },
+            "asset": "char_193_frostl/CN_011"
+        },
+        {
+            "id": "char_193_frostl_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Thanks.",
+                "jp": "感謝する。",
+                "kr": "고맙다.",
+                "cn": "谢谢。"
+            },
+            "asset": "char_193_frostl/CN_012"
+        },
+        {
+            "id": "char_193_frostl_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Things are on the right track now.",
+                "jp": "軌道に乗ってきたな。",
+                "kr": "드디어 궤도에 올라섰군.",
+                "cn": "提上正轨了。"
+            },
+            "asset": "char_193_frostl/CN_013"
+        },
+        {
+            "id": "char_193_frostl_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Whew... not bad. Feeling fulfilled for the first time in a while.",
+                "jp": "ふう……悪くない。久々の充実感だ。",
+                "kr": "후우…… 나쁘지 않아. 오랜만에 느끼는 충실감이다.",
+                "cn": "呼......也不错。久违的充实感。"
+            },
+            "asset": "char_193_frostl/CN_014"
+        },
+        {
+            "id": "char_193_frostl_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "I'll do my job.",
+                "jp": "責任は果たすさ。",
+                "kr": "책임은 다할 거야.",
+                "cn": "我会履行自己的义务。"
+            },
+            "asset": "char_193_frostl/CN_017"
+        },
+        {
+            "id": "char_193_frostl_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Go your own ways and do your own jobs.",
+                "jp": "自分のやれることをやるだけだ。",
+                "kr": "내가 할 수 있는 걸 하는 것뿐이다.",
+                "cn": "各行其道，各尽其职。"
+            },
+            "asset": "char_193_frostl/CN_018"
+        },
+        {
+            "id": "char_193_frostl_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Great, I feel like some exercise.",
+                "jp": "ちょうど身体を動かしたかったところだ。",
+                "kr": "마침 몸을 좀 풀려던 참이었어.",
+                "cn": "正好，我也想活动下身体了。"
+            },
+            "asset": "char_193_frostl/CN_019"
+        },
+        {
+            "id": "char_193_frostl_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "You will shatter.",
+                "jp": "砕け散れ――！",
+                "kr": "박살을 내주마!",
+                "cn": "支离破碎吧——！"
+            },
+            "asset": "char_193_frostl/CN_020"
+        },
+        {
+            "id": "char_193_frostl_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Hmm?",
+                "jp": "ん？",
+                "kr": "응?",
+                "cn": "嗯？"
+            },
+            "asset": "char_193_frostl/CN_021"
+        },
+        {
+            "id": "char_193_frostl_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Your orders?",
+                "jp": "命令は？",
+                "kr": "명령은?",
+                "cn": "有什么命令？"
+            },
+            "asset": "char_193_frostl/CN_022"
+        },
+        {
+            "id": "char_193_frostl_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "This should work.",
+                "jp": "このまま行くぞ。",
+                "kr": "이대로 간다.",
+                "cn": "这样就可以了。"
+            },
+            "asset": "char_193_frostl/CN_023"
+        },
+        {
+            "id": "char_193_frostl_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Hm, okay.",
+                "jp": "ああ、わかった。",
+                "kr": "응, 알았어.",
+                "cn": "唔，可以。"
+            },
+            "asset": "char_193_frostl/CN_024"
+        },
+        {
+            "id": "char_193_frostl_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "My bodily fluids aren't the only thing that's chilling.",
+                "jp": "凍り付け、私の血のごとく！",
+                "kr": "얼어붙어라, 내 피와 같이!",
+                "cn": "寒冷，不止我的体液。"
+            },
+            "asset": "char_193_frostl/CN_025"
+        },
+        {
+            "id": "char_193_frostl_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Extend my edge!",
+                "jp": "この切っ先で貫く！",
+                "kr": "이 창끝으로 꿰뚫어 주마!",
+                "cn": "延伸我的锋芒吧——！"
+            },
+            "asset": "char_193_frostl/CN_026"
+        },
+        {
+            "id": "char_193_frostl_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Life, brittle as frost, fragile like leaves.",
+                "jp": "ゴミのように、惨めに果てろ！",
+                "kr": "쓰레기처럼 비참하게 죽어버려!",
+                "cn": "凡有生气，尽都如草。"
+            },
+            "asset": "char_193_frostl/CN_027"
+        },
+        {
+            "id": "char_193_frostl_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Let's chill down some hot heads.",
+                "jp": "少し頭を冷やせ。",
+                "kr": "조금 머리를 식혀라.",
+                "cn": "让头脑清醒点吧。"
+            },
+            "asset": "char_193_frostl/CN_028"
+        },
+        {
+            "id": "char_193_frostl_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "I've been through countless battles... seen the carnage, witnessed the silent nothingness at the end.",
+                "jp": "戦いの果ての荒れ地、もう何度見たかわからないな。",
+                "kr": "싸움의 끝난 후의 황폐해진 땅… 이젠 몇 번이나 봤는지도 모르겠어.",
+                "cn": "战争尽头的荒芒，已不知道经历了多少次。"
+            },
+            "asset": "char_193_frostl/CN_029"
+        },
+        {
+            "id": "char_193_frostl_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "I remember every enemy I fought. Not a single one escapes.",
+                "jp": "敵の顔は覚えている。一人残らず倒した。",
+                "kr": "적의 얼굴은 기억하고 있어. 한 명도 남김없이 쓰러뜨렸다.",
+                "cn": "我记得每一个敌人。一个逃走的也没有。"
+            },
+            "asset": "char_193_frostl/CN_030"
+        },
+        {
+            "id": "char_193_frostl_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "We didn't lose anyone, did we?",
+                "jp": "怪我人はいないか？",
+                "kr": "부상자는 없나?",
+                "cn": "没有损失人手吧。"
+            },
+            "asset": "char_193_frostl/CN_031"
+        },
+        {
+            "id": "char_193_frostl_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "I'll hold up the rear.",
+                "jp": "私が後始末をつけよう……！",
+                "kr": "내가 마무리를 짓겠다…!",
+                "cn": "我来断后......！"
+            },
+            "asset": "char_193_frostl/CN_032"
+        },
+        {
+            "id": "char_193_frostl_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "I'd like... a more private space.",
+                "jp": "プライベートな空間が……欲しいな。",
+                "kr": "사적인 공간이… 있으면 좋겠는데.",
+                "cn": "想要比较......私人一点的空间呢。"
+            },
+            "asset": "char_193_frostl/CN_033"
+        },
+        {
+            "id": "char_193_frostl_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Ow.",
+                "jp": "おっと。",
+                "kr": "엇.",
+                "cn": "唔呀。"
+            },
+            "asset": "char_193_frostl/CN_034"
+        },
+        {
+            "id": "char_193_frostl_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "How about a drink?",
+                "jp": "一杯やろうか？",
+                "kr": "한잔할까?",
+                "cn": "一起去喝一杯吧？"
+            },
+            "asset": "char_193_frostl/CN_036"
+        },
+        {
+            "id": "char_193_frostl_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_193_frostl/CN_037"
+        },
+        {
+            "id": "char_193_frostl_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Doctor...",
+                "jp": "ドクター。",
+                "kr": "박사.",
+                "cn": "博士。"
+            },
+            "asset": "char_193_frostl/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Ina Marie Smith",
+            "global": "Ina Marie Smith"
+        },
+        "cn": {
+            "native": "阮从青",
+            "global": "Ruan "
+        },
+        "jp": {
+            "native": "加隈亜衣",
+            "global": "Ai Kakuma"
+        },
+        "kr": {
+            "native": "장미",
+            "global": "Jang Mi"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

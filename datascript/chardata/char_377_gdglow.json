@@ -1,0 +1,596 @@
+{
+    "charid": "char_377_gdglow",
+    "nameid": "gdglow",
+    "names": {
+        "en": "Goldenglow",
+        "jp": "ゴールデングロー",
+        "kr": "골든글로우",
+        "cn": "澄闪"
+    },
+    "voices": [
+        {
+            "id": "char_377_gdglow_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Am I really going to be helpful? Um... alright, if you say so...",
+                "jp": "私がお手伝いして本当に迷惑になりませんか？うぅ、わかりました。ドクターがそうおっしゃるなら……。",
+                "kr": "제가 도와도 정말로 폐가 되지 않나요? 으으, 알겠습니다. 박사님이 그렇게 말씀하신다면……",
+                "cn": "我真的不会帮倒忙吗？唔，好吧，既然你都这么说了......"
+            },
+            "asset": "char_377_gdglow/CN_001"
+        },
+        {
+            "id": "char_377_gdglow_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Hmm... your hair is close to coming out of your hood. If you've got the time, remember to give it a trim.",
+                "jp": "うーん、ドクターの髪の毛先、フードの外に飛び出しそうじゃないですか？時間があったら、髪のお手入れをしてくださいね。",
+                "kr": "음, 박사님 머리끝이 후드 밖으로 튀어나오려 하지 않나요? 시간 되시면, 머리를 정리해 주세요.",
+                "cn": "嗯，博士你的发梢是不是都快要跳到兜帽外面来了？有时间的话，记得打理一下头发哦。"
+            },
+            "asset": "char_377_gdglow/CN_002"
+        },
+        {
+            "id": "char_377_gdglow_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "I can't use anything like a compass. No matter what I do, they all end up pointing at me. *Sigh*... I had no clue as a child, so I tried to use them to find my way home... Now that I think about it, I'm lucky I have a sense of direction.",
+                "jp": "コンパスみたいな物は私には使えないんですよ。どういじっても、最後は私の方向を指しちゃいますから。はぁ……小さい頃は分かってなくて、コンパスを使って帰り道を探そうとしたこともあったんです……今思えば、方向音痴じゃなくてよかったよ。",
+                "kr": "저는 나침반 같은 건 못 써요. 어떻게 해도, 결국엔 제 방향을 가리키고 마니까요. 하아… 어렸을 때는 그걸 몰라서, 나침반을 써서 돌아갈 길을 찾으려 한 적도 있어요… 지금 생각하면, 길치가 아니어서 다행이에요.",
+                "cn": "我是用不了指南针的啦，这种器具无论怎么拨弄，最后都只会以指向我收尾，唉......小时候不懂事，还试着用它们来找回家的路......现在想想，幸好我认路。"
+            },
+            "asset": "char_377_gdglow/CN_003"
+        },
+        {
+            "id": "char_377_gdglow_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "You wanna touch my ears? Of course, touch them however you want... but people usually only do it a tiny bit. Why? Heheh, you'll find out if you try, won't you?",
+                "jp": "耳を触りたい？いいですよ。ドクターの触りたいようにどうぞ。でも皆さんいつもちょっと触るだけなんです。どうしてって？ふふっ、触ってみればわかると思いますよ？",
+                "kr": "귀를 만지고 싶다고요? 알았어요. 박사님이 원하는 대로 만지세요. 근데 모두 항상 조금만 만지고 말아요. 왜냐고요? 후훗, 만져보면 알 걸요?",
+                "cn": "摸耳朵？可以哦，博士你想怎么摸都行，但是大家一般只会摸一下。为什么？嘻嘻，你摸摸看不就知道啦？"
+            },
+            "asset": "char_377_gdglow/CN_004"
+        },
+        {
+            "id": "char_377_gdglow_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "My Arts are... how do I put it? They affect a lot of things, but because they don't have a form, it's hard to grasp them properly... if I can get a handle on their nature some day, I might be able to live a normal life.",
+                "jp": "私のアーツは……なんていうか、いろんなものに影響しますが、形がないから、性質も把握しづらくて……。いつかその本質を掴める日が来たら、私も普通の人のように暮らせるかもしれませんね。",
+                "kr": "제 아츠는… 뭔가 여러 가지 영향을 주지만, 형태가 없으니 성질을 파악하기 어려워서요… 언젠가 그 본질을 찾을 수 있는 날이 온다면, 저도 평범한 사람들처럼 살 수 있을 수도 있겠네요.",
+                "cn": "我的源石技艺......怎么说呢，能影响很多东西，但是因为没有形态，性质总是不太好把握......如果有一天，我能掌握本质的话，大概，就能像普通人一样生活了吧。"
+            },
+            "asset": "char_377_gdglow/CN_005"
+        },
+        {
+            "id": "char_377_gdglow_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Static electric pulse theory says... okay, okay, I see. I just need to apply my Arts Unit, and start the antistatic equipment up, and that should... Yagh! That's not working at all. Where did I mess it up...? Here? Alright, once more.",
+                "jp": "静電パルスの原理は……ふむふむ、なるほど。こうやってアーツユニットを作動させて、あとは静電気防止保護装置を起動すればきっと……きゃっ！やっぱりダメかぁ、いったいどこを間違えちゃったんだろう……ここかな？よし、もう一度。",
+                "kr": "정전 펄스의 원리는… 흠, 그렇구나. 이렇게 해서 아츠 유닛을 작동시키고, 다음은 정전기 방지 보호 장치를 기동하면 분명… 꺅! 역시 안 되나. 대체 어디를 틀린 걸까… 여긴가? 좋아, 한 번 더.",
+                "cn": "静电脉冲的原理......唔唔，原来如此。只要这样运作法杖，然后启动防静电保护装置，应该就能......呀！还是不行吗，到底哪里出错了......是这里？好，再试一次。"
+            },
+            "asset": "char_377_gdglow/CN_006"
+        },
+        {
+            "id": "char_377_gdglow_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Welcome~! Oh, Doctor! You finally decided to get your hair sorted, then? Good, sit down. Today, I'll be your... That's right, it's a salon in here, you're not imagining things. Um, don't go! This is my speciality, trust me, please! You won't regret this, I guarantee!",
+                "jp": "いらっしゃいませ～、あ、ドクター！やっと心を決めてくれたんですね？はい、おかけください。今日はこの私が……ええ、ここは美容室、間違ってませんよ。あっ、待って！本当に私、得意なんですよ。信じてください！ドクターに絶対後悔させませんから！",
+                "kr": "어서 오세요~ 아, 박사님! 드디어 마음을 정하셨군요? 네, 앉으세요. 오늘은 바로 제가… 네, 여기는 미용실, 틀림없어요. 앗, 잠깐! 저 진짜로 잘한다고요. 믿어 주세요! 박사님이 절대 후회하지 않도록 할 테니까요!",
+                "cn": "欢迎~啊，博士~终于想好要来理发啦？请坐吧，今天就由我......这里是理发室，你没走错。呃，别走嘛，我真的很擅长做这个的，相信我吧，博士你绝对不会后悔的啦！"
+            },
+            "asset": "char_377_gdglow/CN_007"
+        },
+        {
+            "id": "char_377_gdglow_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "My dad told me I should pick up another craft in addition to Originium Arts, so this is what I went with. It turns out the only hair I can't fix is my own... Okay! How's that? Are there any bits you want fixed? None? Heheh, I thought as much. Alright, I'm finished for the day, then.",
+                "jp": "パパに言われたんです、アーツのほかにも手に職をつけないとって。それで理髪にしたんですが、結局唯一整えられないのは自分の髪っていう……。よし、今の感じどうですか？直したいところはありますか？ない？ふふ、私もそう思います。じゃあこれで、お疲れ様です。",
+                "kr": "아빠가 그랬어요, 아츠 외에도 직업이 될만한 기술을 익혀야 한다고요. 그래서 미용을 했는데요, 결국 유일하게 제 머리카락만은 잘 다듬지 못하죠… 좋아, 지금 어떤 것 같나요? 고치고 싶은 부분은 있나요? 없어요? 후후, 저도 그래요. 자 그럼, 수고하셨습니다.",
+                "cn": "老爹说除了源石技艺外要再学一门手艺，我就学了这个，结果，唯一打理不好的反而是自己的头发......好了，你觉得怎么样，有什么地方要再修一下吗？没有？呼呼，我想也是。那我收工啦。"
+            },
+            "asset": "char_377_gdglow/CN_008"
+        },
+        {
+            "id": "char_377_gdglow_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Before I got Infected, I was actually in really good shape. I got second place in a cross-country race! Once my Oripathy's a bit better, I want to start training again, and carry the gold medal back. Can I ask you to present it to me, Doctor? Heheh, then it's a promise.",
+                "jp": "実は私、感染する前は結構体が丈夫だったんです。クロスカントリーで準優勝も取ってたんですよ。もうちょっと良くなったら、また鍛え直して、ピカピカのトロフィーを手にしたいなぁ。その時、ドクターにプレゼンターをお願いしてもいいですか。えへへ、約束ですよ。",
+                "kr": "사실 저는 감염되기 전에 몸이 꽤 튼튼했답니다. 크로스컨트리에서 준우승한 적도 있죠. 좀 괜찮아지면, 다시 단련해서, 반짝반짝한 트로피를 손에 넣고 싶네요. 그때는 박사님께 시상을 부탁해도 될까요? 에헤헤, 약속이에요.",
+                "cn": "其实我在感染之前身体很好的，还拿过越野跑的亚军哦。等矿石病缓和一点了，我想重新锻炼一下，争取捧个金灿灿的奖杯回来，到时候，能请你帮我颁奖吗？嘿嘿，那就这样说定了哦。"
+            },
+            "asset": "char_377_gdglow/CN_009"
+        },
+        {
+            "id": "char_377_gdglow_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "The circuit's grounded... okay, now my hair shouldn't poof out. I'll have a break while the Doctor's asleep.",
+                "jp": "アースをして……よし、これで髪の毛は逆立たないはず。ドクターが寝てるうちに、私もちょっと楽しちゃおっと。",
+                "kr": "접지를 하고… 좋아, 이걸로 머리카락이 뻗치진 않겠지. 박사님이 주무시는 동안, 나도 좀 쉬자.",
+                "cn": "接地......好，这下就不会炸毛了。趁博士睡着，我也偷个懒。"
+            },
+            "asset": "char_377_gdglow/CN_010"
+        },
+        {
+            "id": "char_377_gdglow_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Finally made it here... nice to meet you, Doctor. I'm a new Operator onboard, Goldenglow. I look forward to working under you.",
+                "jp": "やっと着いた……。こんにちは、ドクター。新たにオペレーターに着任しました、ゴールデングローです。今後はご指導、よろしくお願いします。",
+                "kr": "드디어 도착했다… 안녕하세요, 박사님. 새로 오퍼레이터로 부임한, 골든글로우입니다. 앞으로의 지도, 잘 부탁드립니다.",
+                "cn": "终于到了......您好，博士，我是新就任的干员澄闪，以后就有劳您指导了。"
+            },
+            "asset": "char_377_gdglow/CN_011"
+        },
+        {
+            "id": "char_377_gdglow_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Mmgh... it still doesn't really make sense. Maybe I should visit my Instructor and see if she can help.",
+                "jp": "うーん……やっぱりわからないなぁ。教官のところに行って話を聞いてみよっか。",
+                "kr": "음… 역시 모르겠네. 교관님에게 가서 얘기를 들어볼까?",
+                "cn": "唔......还是看不懂。该去教官小姐那里补补课了。"
+            },
+            "asset": "char_377_gdglow/CN_012"
+        },
+        {
+            "id": "char_377_gdglow_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "There's no tingling feeling, is there? If not, we should be fine. Okay! I'll accept this medal from you graciously, Doctor. Thank you!",
+                "jp": "ビリビリする感じはしないですか？なら大丈夫ですね。では、ドクターからのメダル、頂戴します。ありがとうございます。",
+                "kr": "찌릿찌릿한 느낌은 안 드나요? 그럼 괜찮겠네요. 그러면 박사님이 주시는 메달, 받겠습니다. 감사합니다.",
+                "cn": "没有麻麻的感觉吗，那应该没问题了。好，我收到您颁发的奖章啦，谢谢。"
+            },
+            "asset": "char_377_gdglow/CN_013"
+        },
+        {
+            "id": "char_377_gdglow_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Doctor! Stay away from here! I just need a—a-are you alright?! Are you hurt anywhere? I took all the protective measures, didn't I? Why...",
+                "jp": "ドクター、こっちに来ないでください！もうすぐ――だ、大丈夫ですかっ！お怪我はありませんか？ちゃんと防護対策をしていたのに、どうして……。",
+                "kr": "박사님, 이쪽으로 오지 마세요! 이제 곧… 괘, 괜찮으세요!? 다치시진 않았나요? 제대로 방호 대책을 세워놨는데, 어째서…",
+                "cn": "博士你别过来！马上就要——没，没事吧！有没有受伤？明明有做好防护措施的，为什么......"
+            },
+            "asset": "char_377_gdglow/CN_014"
+        },
+        {
+            "id": "char_377_gdglow_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Is there really a use for me on the front?",
+                "jp": "本当に私なんかを前線に出していいんですか？",
+                "kr": "정말 제가 전선에 나가도 되는 건가요?",
+                "cn": "真的需要我上前线吗？"
+            },
+            "asset": "char_377_gdglow/CN_017"
+        },
+        {
+            "id": "char_377_gdglow_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Doctor, are you sure I should be the captain?",
+                "jp": "ドクター、私が隊長で大丈夫ですか？",
+                "kr": "박사님, 제가 팀장이어도 괜찮을까요?",
+                "cn": "博士你确定让我做队长？"
+            },
+            "asset": "char_377_gdglow/CN_018"
+        },
+        {
+            "id": "char_377_gdglow_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "I've got this, I've got this. I can do this!",
+                "jp": "頑張れ、頑張れ、私ならできる！",
+                "kr": "힘내자, 힘내자, 나라면 할 수 있어!",
+                "cn": "加油，加油，我能行的！"
+            },
+            "asset": "char_377_gdglow/CN_019"
+        },
+        {
+            "id": "char_377_gdglow_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "There's enemies?!",
+                "jp": "敵が！？",
+                "kr": "적이!?",
+                "cn": "有敌人吗？！"
+            },
+            "asset": "char_377_gdglow/CN_020"
+        },
+        {
+            "id": "char_377_gdglow_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "I'm so tense...",
+                "jp": "ドキドキします……。",
+                "kr": "두근두근하네요…",
+                "cn": "好紧张......"
+            },
+            "asset": "char_377_gdglow/CN_021"
+        },
+        {
+            "id": "char_377_gdglow_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Can I really do it?",
+                "jp": "私に本当にできるかな……。",
+                "kr": "내가 정말 할 수 있을까…",
+                "cn": "我真的可以吗？"
+            },
+            "asset": "char_377_gdglow/CN_022"
+        },
+        {
+            "id": "char_377_gdglow_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Now's the time to help everyone out.",
+                "jp": "今こそ、皆さんをお助けするときです。",
+                "kr": "지금이야말로, 모두를 도울 때예요.",
+                "cn": "是帮助大家的时候了。"
+            },
+            "asset": "char_377_gdglow/CN_023"
+        },
+        {
+            "id": "char_377_gdglow_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "I'll do my best!",
+                "jp": "頑張ります！",
+                "kr": "열심히 할게요!",
+                "cn": "我会加油的！"
+            },
+            "asset": "char_377_gdglow/CN_024"
+        },
+        {
+            "id": "char_377_gdglow_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Get away from me, please!",
+                "jp": "早く離れてください、お願いします！",
+                "kr": "어서 떨어지세요. 부탁드립니다!",
+                "cn": "请快离开，拜托了！"
+            },
+            "asset": "char_377_gdglow/CN_025"
+        },
+        {
+            "id": "char_377_gdglow_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Stay back!",
+                "jp": "来ないで！",
+                "kr": "오지 마!",
+                "cn": "别过来！"
+            },
+            "asset": "char_377_gdglow/CN_026"
+        },
+        {
+            "id": "char_377_gdglow_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Yaah!",
+                "jp": "やぁ！",
+                "kr": "얍!",
+                "cn": "呀！"
+            },
+            "asset": "char_377_gdglow/CN_027"
+        },
+        {
+            "id": "char_377_gdglow_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Keep a good distance—there!",
+                "jp": "距離を合わせて――えい！",
+                "kr": "거리를 재고… 이얍!",
+                "cn": "控制好距离——嘿！"
+            },
+            "asset": "char_377_gdglow/CN_028"
+        },
+        {
+            "id": "char_377_gdglow_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Huh? Oh—no, it's nothing! Let's get going!",
+                "jp": "えっ？あっ、何でもありません。行きましょうか。",
+                "kr": "네? 아… 아무것도 아니에요. 가실까요.",
+                "cn": "哎？啊——没什么，我们走吧。"
+            },
+            "asset": "char_377_gdglow/CN_029"
+        },
+        {
+            "id": "char_377_gdglow_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "I managed to help a little, didn't I? Heheh.",
+                "jp": "私でも、少しはお力になれたでしょうか。えへへ。",
+                "kr": "저라도, 조금은 도움이 되었을까요? 에헤헤.",
+                "cn": "我还是，能帮上一点忙的吧，嘿嘿。"
+            },
+            "asset": "char_377_gdglow/CN_030"
+        },
+        {
+            "id": "char_377_gdglow_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Phew, we're finally saved. Are you hurt?",
+                "jp": "よかった、助かりました。お怪我は？",
+                "kr": "다행이다, 살았어요. 다치신 곳은요?",
+                "cn": "太好了，终于得救了，有没有受伤？"
+            },
+            "asset": "char_377_gdglow/CN_031"
+        },
+        {
+            "id": "char_377_gdglow_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "We were so, so close...",
+                "jp": "あとほんのちょっとだったのに……。",
+                "kr": "얼마 안 남았는데…",
+                "cn": "就差一点点......"
+            },
+            "asset": "char_377_gdglow/CN_032"
+        },
+        {
+            "id": "char_377_gdglow_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "I need to keep away from the electronics...",
+                "jp": "電化製品から離れなきゃ……。",
+                "kr": "전자제품에서 떨어져야 해…",
+                "cn": "得离电器远一点......"
+            },
+            "asset": "char_377_gdglow/CN_033"
+        },
+        {
+            "id": "char_377_gdglow_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Hwah!",
+                "jp": "きゃっ！",
+                "kr": "꺅!",
+                "cn": "呀！"
+            },
+            "asset": "char_377_gdglow/CN_034"
+        },
+        {
+            "id": "char_377_gdglow_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Could you help me comb my hair down? Thank you so much, Doctor.",
+                "jp": "髪をとかすのを手伝っていただけませんか。お願いします、ドクター。",
+                "kr": "머리 빗는 것 도와주시겠어요? 부탁드려요, 박사님.",
+                "cn": "能帮我梳下头发吗，拜托你啦，博士。"
+            },
+            "asset": "char_377_gdglow/CN_036"
+        },
+        {
+            "id": "char_377_gdglow_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_377_gdglow/CN_037"
+        },
+        {
+            "id": "char_377_gdglow_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Hope you have another good day today.",
+                "jp": "今日も楽しく過ごしましょう！",
+                "kr": "오늘도 즐겁게 지내죠!",
+                "cn": "今天也要开开心心的哦。"
+            },
+            "asset": "char_377_gdglow/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Heather Nicol",
+            "global": "Heather Nicol"
+        },
+        "cn": {
+            "native": "白灯",
+            "global": "Akari.D"
+        },
+        "jp": {
+            "native": "佐倉綾音",
+            "global": "Ayane Sakura"
+        },
+        "kr": {
+            "native": "정혜원",
+            "global": "Jung Hye-won"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

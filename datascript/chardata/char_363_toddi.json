@@ -1,0 +1,586 @@
+{
+    "charid": "char_363_toddi",
+    "nameid": "toddi",
+    "names": {
+        "en": "Toddifons",
+        "jp": "トギフォンス",
+        "kr": "토디폰스",
+        "cn": "熔泉"
+    },
+    "voices": [
+        {
+            "id": "char_363_toddi_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Just let 'em burn. You weren't gonna give those papers a second look anyway.",
+                "jp": "燃やしちゃおうよ。どうせこんな紙っきれ二度と見ないんだし。",
+                "kr": "태워 버리자. 어차피 이런 종이 쪼가리, 또 보지도 않잖아.",
+                "cn": "烧了吧，反正这些纸你也不会看第二眼。"
+            },
+            "asset": "char_363_toddi/CN_001"
+        },
+        {
+            "id": "char_363_toddi_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "If you wanted me to lay defenses in here, I'd break up the floor for starters. Not that I mind, it's up to you to think about it.",
+                "jp": "あたしに部屋の守りを任せたら床がぶっ壊れるよぉ。あたしはどっちでもいいけど、ちゃんと考えて決めてよね。",
+                "kr": "나더러 방을 지키라고 시켰다간 바닥이 무너질걸? 나는 어느 쪽이든 상관없지만, 잘 생각하고 결정해.",
+                "cn": "要我在房间里布防，地板就一定会坏。我是不太介意，你自己考虑清楚。"
+            },
+            "asset": "char_363_toddi/CN_002"
+        },
+        {
+            "id": "char_363_toddi_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "You've got people from Royal Guard knocking about too? Heh—ain't that interesting.",
+                "jp": "ここって、王立前衛学校出身の人が他にもいるんだ。ふーん。ちょっと面白そうじゃん。",
+                "kr": "여기에는 로열 가드 스쿨 출신이 더 있구나. 흠~ 좀 재밌을 것 같네.",
+                "cn": "这里还有皇家近卫学校的人？哼——有点意思。"
+            },
+            "asset": "char_363_toddi/CN_003"
+        },
+        {
+            "id": "char_363_toddi_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Calibrate the sight? Nah, the stuff I ordered last should be here almost, I'll make the arrows first... Push off! Out my way!",
+                "jp": "ちょっと照準器の調整をするか……いや、この間頼んだ素材もそろそろ届くし、やっぱり先に矢を……邪魔だ、あっち行け。",
+                "kr": "조준기 조정을 좀 할까…… 아니, 전에 부탁했던 재료도 슬슬 올 테니까 역시 먼저 화살을…… 방해되잖아, 저리 가.",
+                "cn": "校准一下瞄具，不，还是先做箭矢，上次订的材料应该快到了......别烦我，一边去。"
+            },
+            "asset": "char_363_toddi/CN_004"
+        },
+        {
+            "id": "char_363_toddi_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Most who leave Vouivre don't agree with the mercenary life in Sargon. Move to Victoria, end up doing something else instead. You know, like... yeah, factory-working, farming. Right. Having their own little touch of land.",
+                "jp": "ヴイーヴルを離れた人の多くは、サルゴンでの傭兵生活をあまり良く思ってないんだ。ヴィクトリアに行くと、大体違うことを始める。例えば……そうだね、工場を開いたり、農業をしたり……そう、自分の土地を持つんだ……",
+                "kr": "와이번을 떠난 사람들 대부분은 사르곤에서 용병 생활하는 걸 안 좋게 생각해. 빅토리아로 가면 대체로 다른 일을 시작하지. 예를 들면…… 그렇지, 공장을 열거나 농사를 짓거나…… 맞아, 자기 땅을 갖는 거야……",
+                "cn": "离开瓦伊凡的人大多不认同在萨尔贡的佣兵生活，到了维多利亚，总会做些其他事情。比如说......啊，是了，从工，从农。拥有自己的土地。"
+            },
+            "asset": "char_363_toddi/CN_005"
+        },
+        {
+            "id": "char_363_toddi_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "You could probably tell, but I didn't used to be artillery. Recon, infiltration, CQC, mainly learned all that. I know I didn't like it, and the instructors wouldn't let me switch, so I dropped out, simple as. Where's the point in learning things you hate?",
+                "jp": "あんたにはわかると思うけどあたし、前は砲兵じゃなかったんだ。偵察、潜入、近接格闘、主に習ってたのはこれ。好みじゃないし教官は転科させてくれなかったから、すっぱり辞めたの。嫌いなことを勉強しても意味ないでしょ？",
+                "kr": "너는 알지도 모르겠지만, 난 예전에는 포병이 아니었어. 정찰, 잠입, 근접 격투…… 주로 배운 건 이런 거였지. 내 취향도 아니고 교관은 전과시켜 주지도 않아서 싹 그만뒀어. 싫은 걸 공부해 봤자 의미 없잖아?",
+                "cn": "我以前不是做炮手的，你应该看得出来。侦察、潜入、近距格斗，主要是学这些。因为不喜欢，教官又不允许我调任，干脆就退学了。学自己讨厌的知识有什么意思？"
+            },
+            "asset": "char_363_toddi/CN_006"
+        },
+        {
+            "id": "char_363_toddi_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Oh, you're helpless! How am I going to the workshop wearing this?!",
+                "jp": "あんたほんと信っじらんない。こんな格好で工房に入れるわけないでしょ？！",
+                "kr": "너 진짜 어이없다. 이런 몰골로 공방에 들어갈 수 있을 리 없잖아?!",
+                "cn": "你真是没救了，我怎么可能穿着这身进工坊？！"
+            },
+            "asset": "char_363_toddi/CN_007"
+        },
+        {
+            "id": "char_363_toddi_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "It's meant for attacking nomadic cities, this weapon. Using it to help you lot cope with skirmishers? It's like a hatchet to a cupcake. Let me try hitting a city or two sometime for practice, won't you?",
+                "jp": "この武器はね、移動都市を相手するためにあるんだよ。雑兵相手に使うなんて勿体ないったら。たまには都市の一つや二つで腕試しさせてよ。",
+                "kr": "이 무기는 말이지, 이동도시를 상대하기 위한 거야. 잡병을 상대로 쓰기는 아깝다니까. 가끔은 도시 한둘 정도로 실력 발휘하게 해 줘.",
+                "cn": "这把武器可是用来攻击移动城市的，拿来让你们对付散兵真是大材小用。什么时候让我打几座城市练练手？"
+            },
+            "asset": "char_363_toddi/CN_008"
+        },
+        {
+            "id": "char_363_toddi_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Don't you think these crystals on my shoulder here match well with my hair color? I like my off-the-shoulder clothes too, so it's perfect. Shame, though, it would've been nice if they covered the whole way like that Siracusan Messenger girl.",
+                "jp": "肩のこのあたりの結晶、髪の色といい感じに合ってると思わない？オフショルダーの服好きだしちょうどよかったよ。ただねぇ、あのシラクーザのトランスポーターみたいに広がってたらもっとよかったのに。惜しかったな。",
+                "kr": "어깨 근처에 있는 이 결정, 머리색이랑 잘 어울리지 않아? 오프숄더 옷을 좋아하니 마침 잘됐지. 다만, 그 시라쿠사의 전달자처럼 퍼졌으면 더 좋았을 텐데. 아쉽네.",
+                "cn": "不觉得肩膀这一片的结晶体颜色和发色很称么，正好我也喜欢穿半露肩的衣服。可惜啊，感染痕迹如果能和那个叙拉古小信使一样是整片的就好了。"
+            },
+            "asset": "char_363_toddi/CN_009"
+        },
+        {
+            "id": "char_363_toddi_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "I'll be heading back to sort stuff out, then. No point wasting time on this rotter.",
+                "jp": "工房に戻って素材の整理をしようかな。こんな人に付き合って時間を無駄にすることはないし。",
+                "kr": "공방으로 돌아가서 재료나 정리할까. 이런 사람이랑 어울린다고 시간 낭비할 필요는 없으니.",
+                "cn": "我先回去整理材料了，没必要陪着这家伙浪费时间。"
+            },
+            "asset": "char_363_toddi/CN_010"
+        },
+        {
+            "id": "char_363_toddi_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Arianrot, codename Toddifons. I don't like working for ordinary people. Here's hoping you can show me any signs you're not like them.",
+                "jp": "あたしはアリアンロット、コードネームはトギフォンス。あたし凡人に使われるの嫌なんだよねぇ。あんたがそいつらと違うところ、ちゃんと見せてくれるといいんだけど。",
+                "kr": "나는 아리안로트, 코드네임은 토디폰스. 나, 평범한 사람 밑에서 일하는 게 싫거든. 네가 그런 녀석들과 다르단 걸 제대로 보여 준다면 괜찮겠지만.",
+                "cn": "阿丽安罗特，代号熔泉。我不喜欢给普通人干活，希望你能表现出自己有别于常人的地方。"
+            },
+            "asset": "char_363_toddi/CN_011"
+        },
+        {
+            "id": "char_363_toddi_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Boring. Off we go.",
+                "jp": "つまんない。もう行くよ。",
+                "kr": "시시해. 이만 가볼게.",
+                "cn": "没什么意思，走了。"
+            },
+            "asset": "char_363_toddi/CN_012"
+        },
+        {
+            "id": "char_363_toddi_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "What goes on in those Logistics' minds, cleaning up my side projects... tch. Fine, I accept. Your feelings are loud and clear. See you.",
+                "jp": "支援部の連中何考えてんの、なんであたしが片手間に作ったものを……チッ、まあいいや、受け取っておく。あんたの心遣いは分かったってことで。じゃね。",
+                "kr": "지원부 녀석들 뭔 생각을 하는 거지, 왜 내가 틈틈이 만든 걸…… 쳇, 됐어. 받아 둘게. 네 마음은 알았다고 치고. 그럼 안녕.",
+                "cn": "后勤部的人在想什么，怎么把我随手做的......啧，行，我收下，算你心意到了。再见。"
+            },
+            "asset": "char_363_toddi/CN_013"
+        },
+        {
+            "id": "char_363_toddi_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "You have to have seen a Draco's flames before. Ever imagined how it'd be to rain them down on the enemy? I... can make that your reality!",
+                "jp": "ドラコの炎は見たことあるよね。あれを敵の頭の上にぶちまけるのって想像したことある？あたし、それを実現してあげるよ。",
+                "kr": "드라코의 불꽃은 본 적 있지? 그걸 적의 머리 위에 퍼붓는 상상 해본 적 있어? 내가 그걸 실현시켜 줄게.",
+                "cn": "想必你见识过德拉克的烈火，有想过将它撒在敌人头上的那一刻吗？我，能给你实现。"
+            },
+            "asset": "char_363_toddi/CN_014"
+        },
+        {
+            "id": "char_363_toddi_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "I'm listening.",
+                "jp": "聞いてる。",
+                "kr": "듣고 있어.",
+                "cn": "我听着。"
+            },
+            "asset": "char_363_toddi/CN_017"
+        },
+        {
+            "id": "char_363_toddi_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Work's on. Focus.",
+                "jp": "仕事だ、集中して。",
+                "kr": "일이야, 집중해.",
+                "cn": "开工了，认真点。"
+            },
+            "asset": "char_363_toddi/CN_018"
+        },
+        {
+            "id": "char_363_toddi_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "You lot go ahead. I've got things to prepare.",
+                "jp": "あんたたちは先に行って。ちょっと準備したいものがある。",
+                "kr": "너희는 먼저 가. 준비하고 싶은 게 좀 있어.",
+                "cn": "你们先走，我准备点东西。"
+            },
+            "asset": "char_363_toddi/CN_019"
+        },
+        {
+            "id": "char_363_toddi_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Visibility clear. Awaiting orders.",
+                "jp": "視界良好。命令を待つ。",
+                "kr": "시계 양호. 명령 대기 중.",
+                "cn": "视野开阔，等待命令。"
+            },
+            "asset": "char_363_toddi/CN_020"
+        },
+        {
+            "id": "char_363_toddi_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Still not done?",
+                "jp": "まだなの？",
+                "kr": "아직이야?",
+                "cn": "还没好么？"
+            },
+            "asset": "char_363_toddi/CN_021"
+        },
+        {
+            "id": "char_363_toddi_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Yeah?",
+                "jp": "へえ？",
+                "kr": "흐음?",
+                "cn": "哦？"
+            },
+            "asset": "char_363_toddi/CN_022"
+        },
+        {
+            "id": "char_363_toddi_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Mounting complete.",
+                "jp": "固定完了。",
+                "kr": "고정 완료.",
+                "cn": "固定完毕。"
+            },
+            "asset": "char_363_toddi/CN_023"
+        },
+        {
+            "id": "char_363_toddi_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "In position.",
+                "jp": "位置についた。",
+                "kr": "위치에 도착했어.",
+                "cn": "就位。"
+            },
+            "asset": "char_363_toddi/CN_024"
+        },
+        {
+            "id": "char_363_toddi_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "I don't need visuals. Give me the map.",
+                "jp": "視認はしない。地図を寄越しなさい。",
+                "kr": "눈으로 확인은 안 해. 지도를 내놔.",
+                "cn": "没必要用眼睛看，把地图给我。"
+            },
+            "asset": "char_363_toddi/CN_025"
+        },
+        {
+            "id": "char_363_toddi_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "This area is cleared. Next!",
+                "jp": "該当エリアクリア。次。",
+                "kr": "해당 구역 클리어. 다음.",
+                "cn": "这块清空了，下一处。"
+            },
+            "asset": "char_363_toddi/CN_026"
+        },
+        {
+            "id": "char_363_toddi_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Nothing remains after it rains arrows!",
+                "jp": "矢の雨を降らせた後には何も残らないんだよ。",
+                "kr": "화살비를 내린 뒤에는 아무것도 안 남는다고.",
+                "cn": "箭矢撒下去什么都不会剩。"
+            },
+            "asset": "char_363_toddi/CN_027"
+        },
+        {
+            "id": "char_363_toddi_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Hah! Why would fire go out before burning everything up?",
+                "jp": "ハッ。燃え尽きるまで火が消えるわけないでしょ？",
+                "kr": "흥! 다 태울 때까지 불이 꺼질 리가 없잖아?",
+                "cn": "哈，在烧尽之前，火怎么会熄灭？"
+            },
+            "asset": "char_363_toddi/CN_028"
+        },
+        {
+            "id": "char_363_toddi_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Not that many people can make this thing shine—I guess you're one of them.",
+                "jp": "この武器の力をうまく引き出せる人間はそう多くはないよ。あんたはそうみたいだけど。",
+                "kr": "이 무기의 힘을 제대로 끌어낼 수 있는 인간은 그렇게 많지 않아. 너는 그런 것 같지만.",
+                "cn": "能完全发挥这家伙性能的人可不多，你算一个。"
+            },
+            "asset": "char_363_toddi/CN_029"
+        },
+        {
+            "id": "char_363_toddi_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Out without too much ash on me. Good.",
+                "jp": "土埃まみれにならずに済んだ。悪くない。",
+                "kr": "흙먼지투성이가 되지 않고 끝났네. 나쁘지 않아.",
+                "cn": "没沾上太多灰，很好。"
+            },
+            "asset": "char_363_toddi/CN_030"
+        },
+        {
+            "id": "char_363_toddi_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Ammo's more precious than that little lot. Deal with 'em yourself.",
+                "jp": "あいつらより弾薬の方が貴重だよ。自分でなんとかしな。",
+                "kr": "그 녀석들보다 탄약이 더 소중해. 스스로 알아서 하라고.",
+                "cn": "弹药比这几个人要贵重，你自己解决。"
+            },
+            "asset": "char_363_toddi/CN_031"
+        },
+        {
+            "id": "char_363_toddi_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Still good to move? We're heading home. Grab on.",
+                "jp": "まだ動ける？戻ろう、掴まって。",
+                "kr": "아직 움직일 수 있겠어? 돌아가자, 꽉 잡아.",
+                "cn": "还能动吧，我带你回去。"
+            },
+            "asset": "char_363_toddi/CN_032"
+        },
+        {
+            "id": "char_363_toddi_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Like this titchy bit of space is enough? Let's break this wall down and I'll have the whole area behind, thanks.",
+                "jp": "これっぽっちのスペースじゃ足りないよ。ここの壁を壊して、奥のスペースも全部ちょうだい。",
+                "kr": "이 정도 공간으로는 부족해. 여기 벽을 부수고 안쪽 공간도 다 줘.",
+                "cn": "这点空间不够用，把这面墙打通，后面的使用面积都给我。"
+            },
+            "asset": "char_363_toddi/CN_033"
+        },
+        {
+            "id": "char_363_toddi_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Think it through before you put your hand out.",
+                "jp": "手を出す前によく考えなさい。",
+                "kr": "손대기 전에 잘 생각해라.",
+                "cn": "伸手之前想清楚。"
+            },
+            "asset": "char_363_toddi/CN_034"
+        },
+        {
+            "id": "char_363_toddi_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Go on if you need something. No point in waiting for me to switch my contacts.",
+                "jp": "用事があるなら言いな、カラコン替え終わるの待たなくて平気。",
+                "kr": "용건 있으면 말해, 컬러 렌즈 바꿀 때까지 안 기다려도 되니까.",
+                "cn": "有事就说，没必要等我美瞳换完。"
+            },
+            "asset": "char_363_toddi/CN_036"
+        },
+        {
+            "id": "char_363_toddi_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_363_toddi/CN_037"
+        },
+        {
+            "id": "char_363_toddi_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "So it's you. If you need something, out with it.",
+                "jp": "あんたか。用事があるなら早く言って。",
+                "kr": "너구나. 용건 있으면 빨리 말해.",
+                "cn": "嗨，有事快说。"
+            },
+            "asset": "char_363_toddi/CN_042"
+        }
+    ],
+    "actors": {
+        "cn": {
+            "native": "银子宝宝",
+            "global": "Gin"
+        },
+        "jp": {
+            "native": "仙台エリ",
+            "global": "Eri Sendai"
+        }
+    },
+    "availability": [
+        "cn",
+        "jp"
+    ]
+}

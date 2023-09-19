@@ -1,0 +1,586 @@
+{
+    "charid": "char_304_zebra",
+    "nameid": "zebra",
+    "names": {
+        "en": "Heavyrain",
+        "jp": "ヘビーレイン",
+        "kr": "헤비레인",
+        "cn": "暴雨"
+    },
+    "voices": [
+        {
+            "id": "char_304_zebra_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Yes, I'll protect the Doctor.",
+                "jp": "はい、私がドクターを守ります。",
+                "kr": "네, 제가 박사님을 지키겠습니다.",
+                "cn": "嗯，我来保护博士。"
+            },
+            "asset": "char_304_zebra/CN_001"
+        },
+        {
+            "id": "char_304_zebra_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "I may sit down? No, I mustn't. I'm a bodyguard. As a bodyguard, I must protect my target no matter the time and circumstance... Am I perhaps being a bother, standing here next to you?",
+                "jp": "座っていていいと？いけません。私は護衛です。護衛たる者はいついかなる時も対象のすぐ側で守らねばなりません。……もしかして。私がお近くにいるのは邪魔でしたか？",
+                "kr": "앉아 있으라고요? 그럴 수는 없습니다. 저는 호위입니다. 호위를 맡는 사람은 언제 어느 때든 대상의 바로 곁에서 지켜줘야 합니다…… 설마, 제가 가까이 있어서 방해됐습니까?",
+                "cn": "我可以去坐下？不行，我是护卫。身为护卫，就应该时刻守护在对象的身边才行......难道说，我站在这里给您添麻烦了吗？"
+            },
+            "asset": "char_304_zebra/CN_002"
+        },
+        {
+            "id": "char_304_zebra_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "I've met Spot before... Oh, no, the squad I was a part of traveled through a city he was stationed in, and he gave me a hand then. He most likely doesn't remember. It's okay.",
+                "jp": "スポットさんには、以前お会いしたことが……いえ、ただ私が所属していた部隊が彼の駐留する都市を通りがかった際に協力してくれたことがありました。彼は覚えていないでしょう、いいんです。",
+                "kr": "스팟 씨와는 예전에 만난 적이…… 아뇨, 단지 제가 소속되었던 부대가, 그가 체류하던 도시를 지날 때 협력해 준 적이 있었습니다. 그는 기억하지 못하겠죠, 괜찮습니다.",
+                "cn": "斑点，我以前见过他......不，只是我当时的部队经过他驻守的城市时，他有帮过我。他应该不记得了，没关系。"
+            },
+            "asset": "char_304_zebra/CN_003"
+        },
+        {
+            "id": "char_304_zebra_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "(I'm not sure what the Doctor is doing, but that looks so amazing...) Eh? Uh... I-I didn't say anything. You misheard, Doctor.",
+                "jp": "（ドクターがなさることは全く意味がわかりませんが、なんだかすごいように感じます。）……え？あ、わ、私は何も話していません。空耳ですよ、ドクター。",
+                "kr": "(박사님이 하시는 일은 전혀 의미를 알 수 없지만, 뭔가 대단한 것 같습니다.) ……에? 아, 저, 저는 아무 말도 안 했습니다. 잘못 들은 거예요, 박사님.",
+                "cn": "（博士在做的事虽然看不懂，但是感觉好厉害）......欸，啊，我、我什么都没说，您听错了。"
+            },
+            "asset": "char_304_zebra/CN_004"
+        },
+        {
+            "id": "char_304_zebra_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Doctor, you mentioned this just now, so I thought I'd bring you some. Umm, I'm not doing anything unnecessary, right?",
+                "jp": "ドクター、これ、先ほどおっしゃっていたので持ってきました。あの、私、余計なことはしていませんよね？",
+                "kr": "박사님, 이걸 아까 말씀하시기에 가지고 왔습니다…… 저. 제가 괜한 짓을 한 건 아니겠죠?",
+                "cn": "博士，这些，我记得您刚才有提到，就去帮您拿来了。那个，我没有做多余的事吧？"
+            },
+            "asset": "char_304_zebra/CN_005"
+        },
+        {
+            "id": "char_304_zebra_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Doctor, I'm so sorry. I rushed ahead by myself on my last mission... I noticed somebody was wounded, and it felt like the blood in my head just started to boil. I forgot your order and ran straight to her. I didn't mean to do that. P-Please don't hate me...",
+                "jp": "ドクター、すみません。この間の任務でまた一人で飛び出してしまいました……怪我をしている人が目に入って、頭に血が上ったみたいにドクターのご命令を忘れて飛び出しました。わざとじゃないんです、どうか、どうか私を嫌わないでください……",
+                "kr": "박사님, 죄송합니다. 저번 임무에서 또 혼자 뛰쳐나가고 말았습니다…… 다친 사람이 눈에 들어와서, 피가 거꾸로 솟는 것처럼 그만, 박사님의 명령을 잊고 뛰쳐나갔습니다. 일부러 그런 게 아닙니다. 제발, 제발 저를 미워하지 말아 주세요……",
+                "cn": "博士，对不起，上次任务我又一个人冲出去了......我当时看到有人受伤，就感觉脑子像充血一样，忘记了您的命令冲了过去，我不是故意的，请、请不要讨厌我......"
+            },
+            "asset": "char_304_zebra/CN_006"
+        },
+        {
+            "id": "char_304_zebra_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Umm, Doctor, were you looking for me...? No, I wasn't trying to hide from you, and I definitely don't hate you... It's just that... Sorry, I'm not sure how to explain...",
+                "jp": "あの、ドクター、私をお探しですか？……いえ、ドクターを避けているわけでも、嫌いなわけでもありません。ただ……すみません、どう説明すればいいか分からなくて……",
+                "kr": "저기… 박사님. 저를 찾으셨습니까? 아뇨…… 박사님을 피하는 것도, 싫어하는 것도 아닙니다. 그저…… 죄송합니다, 어떻게 설명해야 좋을지 모르겠어서……",
+                "cn": "啊，博士，您在找我吗？......不，我并不是躲着您，也没有讨厌您，只是......对不起，我不知道该怎么说......"
+            },
+            "asset": "char_304_zebra/CN_007"
+        },
+        {
+            "id": "char_304_zebra_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "When I was in the Sargon army, most people didn't like me, but there was one person who treated me really well. She was my best friend, but... in the end... she betrayed me. Doctor, I don't know anymore. I'm not sure how to trust anyone now.",
+                "jp": "サルゴンの軍にいた時は、周りのみんなに嫌われていました。でも一人だけとても良くしてくれる方がいて、彼女は私の一番の友達だったんです。ただ、最後には裏切られて……ドクター、私、もう分からないんです。どうやって他の人を信じれば良いのでしょうか？",
+                "kr": "사르곤의 군대에 있을 적에는 주위 사람들에게 미움받았습니다. 하지만 딱 한 분, 되게 잘 대해주셨던 분이 있었는데, 그녀는 제 최고의 친구였답니다. 다만, 마지막엔 배신을 당해서…… 박사님, 저는 이제 모르겠습니다. 어떻게 다른 사람을 믿으면 좋을까요?",
+                "cn": "在萨尔贡当兵的时候，其他人都不喜欢我，只有一个人对我很好，她是我最好的朋友。但是，最后她却骗了我......博士，我已经不知道了，我该怎么样去信任别人呢？"
+            },
+            "asset": "char_304_zebra/CN_008"
+        },
+        {
+            "id": "char_304_zebra_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "(The Doctor is such a nice person. Everybody hates me, but he talks to me willingly. There shouldn't be any problem if I put my trust in the Doctor, right?) Oh, Doctor, I'm listening. Yes, I will always trust you. Whoever makes an enemy of you, they're making an enemy of me too!",
+                "jp": "（ドクターはなんて優しいんでしょうか。こんなに人に嫌われる人間なのに、そんな私に対してもちゃんと話をしてくれます。やっぱり、ドクターのことは信じても大丈夫なんですよね。） あ、ドクター、聞いています。はい、私はやはりドクターを信じたいと思います。ドクターの敵は私の敵です！",
+                "kr": "(박사님은 어쩜 이렇게 상냥하실까요. 이렇게 남에게 미움받는 인간인데도 그런 저에게조차 제대로 말을 걸어 줍니다. 역시 박사님은 믿어도 괜찮겠죠.) 아… 박사님, 듣고 있습니다. 네, 저는 역시 박사님을 믿고 싶습니다. 박사님의 적은 제 적입니다!",
+                "cn": "（博士对我真好，明明我是个这么讨人厌的人，还愿意对我好好说话，果然，相信博士一定是没问题的吧。）啊，博士，我在听，嗯，我还是想相信博士。博士的敌人，就是我的敌人！"
+            },
+            "asset": "char_304_zebra/CN_009"
+        },
+        {
+            "id": "char_304_zebra_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "(I kind of want to... watch the Doctor sleep.)",
+                "jp": "（ドクターの寝顔……少し見てみたいです。）",
+                "kr": "(박사님이 자는 모습…… 조금 보고 싶습니다.)",
+                "cn": "（有点想看......博士的睡脸）"
+            },
+            "asset": "char_304_zebra/CN_010"
+        },
+        {
+            "id": "char_304_zebra_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "(Looks like a kind person, but is this guy really going to be as easy to get along with as Amiya said...?) Uh, um, I'm sorry, I-I was spacing out. Operator codename Heavyrain, reporting in.",
+                "jp": "（見たところ確かに優しそうな方ですが、本当にアーミヤさんの言うように親しみやすい方なのでしょうか……）あ、その、すみません、ぼ、ぼうっとしてしまいました……コードネームヘビーレイン、着任しました。",
+                "kr": "(겉보기엔 확실히 상냥해 보이는 분이지만, 정말 아미야 씨 말처럼 친해지기 쉬운 분일까요……) 아, 저, 죄송합니다. 머, 멍하니 있었습니다…… 코드네임 헤비레인, 착임했습니다.",
+                "cn": "（看起来，好像是个很和善的人，不知道真的像阿米娅说的那样好相处吗......）啊，那个，对不起，我、我走神了，干员代号，暴雨，报到。"
+            },
+            "asset": "char_304_zebra/CN_011"
+        },
+        {
+            "id": "char_304_zebra_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Yes, I should be able to reach this level too.",
+                "jp": "はい、私もこのレベルになれるはずです。",
+                "kr": "네, 저도 이 레벨이 될 수 있을 겁니다.",
+                "cn": "嗯，我也会达到这个水平。"
+            },
+            "asset": "char_304_zebra/CN_012"
+        },
+        {
+            "id": "char_304_zebra_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "(Amiya is here too. Am I getting fired...?) Eh? I'm getting promoted?",
+                "jp": "（アーミヤさんもいるなんて、私、もしかして解雇されるのでしょうか……）え、昇進ですか？",
+                "kr": "(아미야 씨도 있다니… 혹시 저… 해고되는 걸까요……) 어, 승진이요?",
+                "cn": "（阿米娅也在这里，我难道要被开除了吗......）欸，升职？"
+            },
+            "asset": "char_304_zebra/CN_013"
+        },
+        {
+            "id": "char_304_zebra_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Doctor, is it okay if I don't get promoted...? No, everyone is being so kind... I'm a little scared...",
+                "jp": "ドクター、私、昇進せずにこのままではいけませんか……いえ、違うんです。皆さんが親切すぎて、少し怖いんです……",
+                "kr": "박사님… 저, 승진하지 않고 이대로는 안 될까요? ……아뇨, 아닙니다. 다들 너무 친절해서 조금 무섭습니다……",
+                "cn": "博士，我可不可以不升职......不，你们对我太好了，我有些害怕......"
+            },
+            "asset": "char_304_zebra/CN_014"
+        },
+        {
+            "id": "char_304_zebra_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "By your command.",
+                "jp": "仰せのままに。",
+                "kr": "분부대로.",
+                "cn": "遵命。"
+            },
+            "asset": "char_304_zebra/CN_017"
+        },
+        {
+            "id": "char_304_zebra_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "I'll do my best!",
+                "jp": "……私、頑張ります。",
+                "kr": "……저, 열심히 하겠습니다.",
+                "cn": "......我会尽力。"
+            },
+            "asset": "char_304_zebra/CN_018"
+        },
+        {
+            "id": "char_304_zebra_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "(I mustn't betray the Doctor's high hopes...)",
+                "jp": "（ドクターの期待は絶対に裏切れません……。）",
+                "kr": "(박사님의 기대는 절대 배신할 수 없습니다……)",
+                "cn": "（决不能辜负博士的期望......）"
+            },
+            "asset": "char_304_zebra/CN_019"
+        },
+        {
+            "id": "char_304_zebra_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Incoming!",
+                "jp": "接敵準備！",
+                "kr": "접적 준비!",
+                "cn": "准备接敌！"
+            },
+            "asset": "char_304_zebra/CN_020"
+        },
+        {
+            "id": "char_304_zebra_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "I'm here.",
+                "jp": "私はここに。",
+                "kr": "저는 여기 있습니다.",
+                "cn": "我在。"
+            },
+            "asset": "char_304_zebra/CN_021"
+        },
+        {
+            "id": "char_304_zebra_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Doctor, your orders, please?",
+                "jp": "ドクター、ご用命ですか？",
+                "kr": "박사님, 명령을 내리시겠습니까?",
+                "cn": "博士，有什么吩咐？"
+            },
+            "asset": "char_304_zebra/CN_022"
+        },
+        {
+            "id": "char_304_zebra_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Okay.",
+                "jp": "はい。",
+                "kr": "네.",
+                "cn": "嗯。"
+            },
+            "asset": "char_304_zebra/CN_023"
+        },
+        {
+            "id": "char_304_zebra_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Right here will do.",
+                "jp": "ここで大丈夫です。",
+                "kr": "여기면 괜찮습니다.",
+                "cn": "这里就好。"
+            },
+            "asset": "char_304_zebra/CN_024"
+        },
+        {
+            "id": "char_304_zebra_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Die.",
+                "jp": "死んで。",
+                "kr": "죽어.",
+                "cn": "去死。"
+            },
+            "asset": "char_304_zebra/CN_025"
+        },
+        {
+            "id": "char_304_zebra_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Out of the way!",
+                "jp": "どいて！",
+                "kr": "비켜!",
+                "cn": "闪开！"
+            },
+            "asset": "char_304_zebra/CN_026"
+        },
+        {
+            "id": "char_304_zebra_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "You're in the way!",
+                "jp": "邪魔！",
+                "kr": "방해돼!",
+                "cn": "碍事！"
+            },
+            "asset": "char_304_zebra/CN_027"
+        },
+        {
+            "id": "char_304_zebra_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Hmph!",
+                "jp": "ふん！",
+                "kr": "흥!",
+                "cn": "哼！"
+            },
+            "asset": "char_304_zebra/CN_028"
+        },
+        {
+            "id": "char_304_zebra_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Doctor, did I do okay?",
+                "jp": "ドクター、私はちゃんとやれましたか？",
+                "kr": "박사님, 제가 제대로 해냈나요?",
+                "cn": "博士，我做的还好吗？"
+            },
+            "asset": "char_304_zebra/CN_029"
+        },
+        {
+            "id": "char_304_zebra_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Doctor, I can still fight.",
+                "jp": "ドクター、私はまだ戦えます。",
+                "kr": "박사님, 저는 아직 싸울 수 있습니다.",
+                "cn": "博士，我还能战斗。"
+            },
+            "asset": "char_304_zebra/CN_030"
+        },
+        {
+            "id": "char_304_zebra_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Doctor, let me go after them.",
+                "jp": "ドクター、私に追わせてください。",
+                "kr": "박사님, 제가 쫓아가게 해 주세요.",
+                "cn": "博士，让我去追吧。"
+            },
+            "asset": "char_304_zebra/CN_031"
+        },
+        {
+            "id": "char_304_zebra_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Doctor, I'll protect you!",
+                "jp": "ドクター、私があなたを守ります！",
+                "kr": "박사님, 제가 당신을 지키겠습니다!",
+                "cn": "博士，我来掩护你！"
+            },
+            "asset": "char_304_zebra/CN_032"
+        },
+        {
+            "id": "char_304_zebra_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Rhodes Island is so big...",
+                "jp": "ロドス、大きいなぁ……",
+                "kr": "로도스 아일랜드, 크구나……",
+                "cn": "罗德岛，好大......"
+            },
+            "asset": "char_304_zebra/CN_033"
+        },
+        {
+            "id": "char_304_zebra_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Ehhh?!",
+                "jp": "ええ？！",
+                "kr": "헤엣?!",
+                "cn": "欸欸？！"
+            },
+            "asset": "char_304_zebra/CN_034"
+        },
+        {
+            "id": "char_304_zebra_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Doctor?! Please don't scare me...!",
+                "jp": "ドクター？！いきなり驚かさないでください……",
+                "kr": "박사님?! 갑자기 놀라게 하지 말아주세요……",
+                "cn": "博士？！不要突然吓我......"
+            },
+            "asset": "char_304_zebra/CN_036"
+        },
+        {
+            "id": "char_304_zebra_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_304_zebra/CN_037"
+        },
+        {
+            "id": "char_304_zebra_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Doctor, can I assist you in any way?",
+                "jp": "ドクター、私がお役に立てることはありますか？",
+                "kr": "박사님, 제 도움이 필요한 곳이 있나요?",
+                "cn": "博士，有需要我的地方吗？"
+            },
+            "asset": "char_304_zebra/CN_042"
+        }
+    ],
+    "actors": {
+        "cn": {
+            "native": "闲踏梧桐",
+            "global": "Cotton Candy"
+        },
+        "jp": {
+            "native": "石原夏織",
+            "global": "Kaori Ishihara"
+        }
+    },
+    "availability": [
+        "cn",
+        "jp"
+    ]
+}

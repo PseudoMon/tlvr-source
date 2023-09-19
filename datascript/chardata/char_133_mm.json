@@ -1,0 +1,591 @@
+{
+    "charid": "char_133_mm",
+    "nameid": "mm",
+    "names": {
+        "en": "May",
+        "jp": "メイ",
+        "kr": "메이",
+        "cn": "梅"
+    },
+    "voices": [
+        {
+            "id": "char_133_mm_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Doctor, even though I'm now your employee, if your conduct is even slightly shady, I won't stand by idly!",
+                "jp": "ドクター、今私はオマエに雇われてオペレーターをやっておるが、ちょっとでも不審な動きがあれば、絶対に見逃さんのだ。",
+                "kr": "박사, 지금 나는 너한테 고용돼서 오퍼레이터를 하고 있지만, 조금이라도 수상한 움직임을 보인다면 절대 가만두지 않을 것이다.",
+                "cn": "博士，虽然现在我是你的雇员，但你要是有一丁点可疑的行为，我可绝对不会坐视不管哦~"
+            },
+            "asset": "char_133_mm/CN_001"
+        },
+        {
+            "id": "char_133_mm_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Rhodes Island has a suspicious smell about it...",
+                "jp": "なにげにロドスも怪しい匂いがするのだ……。",
+                "kr": "왜인지 로도스 아일랜드에서도 수상한 냄새가 나는 것이다……",
+                "cn": "罗德岛也布满了可疑的气息呢......"
+            },
+            "asset": "char_133_mm/CN_002"
+        },
+        {
+            "id": "char_133_mm_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Careful observation is fundamental to all investigations! It might seem basic, but it always works!",
+                "jp": "捜査の基本はよく観察することなのだ！地味だけど、役に立つのだ！",
+                "kr": "수사의 기본은 철저히 관찰하는 것이다! 별거 없어 보이지만, 도움이 되는 것이다!",
+                "cn": "调查的基础就是仔细观察！这是基本，但永远都管用！"
+            },
+            "asset": "char_133_mm/CN_003"
+        },
+        {
+            "id": "char_133_mm_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "You, over there! Face me, and put your hands where I can see 'em! Ah, sorry... I got the wrong person...",
+                "jp": "そこのオマエ！手を上げてこっちを向くのだ！あっ、すみません。人違いだったのだ……。",
+                "kr": "거기 너! 손을 들고 이쪽을 돌아보는 것이다! 앗, 미안…… 사람을 잘못 본 것이다……",
+                "cn": "那边的家伙！把手举起来，面向我！啊，对不起，认错人了......"
+            },
+            "asset": "char_133_mm/CN_004"
+        },
+        {
+            "id": "char_133_mm_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "I always thought that penguin over there is super suspicious. Look, even though it dresses like that, it spends money like it's water or something. It's even wearing a gold necklace! You know how much detectives like me make... that kind of lifestyle is simply unthinkable!",
+                "jp": "あのペンギン、前から怪しいと思っていたのだ。ほら、お金を湯水のように使っておるし、金のネックレスなんかもつけておるし……。探偵の私ごときの給料では考えられない生活なのだ！",
+                "kr": "그 펭귄, 전부터 수상하다고 생각했던 것이다. 봐라, 돈을 물 쓰듯이 쓰고, 금목걸이 같은 것도 하고 있고……나 같은 탐정 월급으로는 감히 꿈도 못 꿀 생활인 것이다!",
+                "cn": "我早就觉得那只企鹅超可疑的，你看，它长成那样，却挥金如土耶！居然，它居然还戴着金项链，你知道我们探员每个月才多少工资啊！"
+            },
+            "asset": "char_133_mm/CN_005"
+        },
+        {
+            "id": "char_133_mm_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Mmmm... so frustrating! How am I going to investigate that shady logistics company? ...Should I break in? Err, but those two guards give off fierce vibes that make my skin crawl... No, no, I'm not scared or anything, I'll just have to use my head and come up with a plan!",
+                "jp": "うぬぬ……悩みどころだ、どうすればあの怪しい運送会社を捜査できるのだ？直接行ってみる？でも、警備の二人からヤバそーなオーラがビンビンに出ていたのだ。いやいや、ビビってるわけじゃなくて、頭を使った作戦を考えているところなのだ！",
+                "kr": "으으…… 고민인 것이다, 어떻게 하면 그 수상한 운송회사를 조사할 수 있단 말인가? 직접 가볼까? 하지만, 경비 두 명한테서 위험해 보이는 기운이 풀풀 나고 있는 것이다. 아니 아니, 겁먹은 게 아니라, 머리를 써서 작전을 생각하고 있는 것이다!",
+                "cn": "唔，苦思冥想，怎么才能找机会调查下那家可疑的物流公司？直接闯进去？但那两个护卫感觉又超凶的......哎呀呀，我才没有害怕，我是打算用智取的！"
+            },
+            "asset": "char_133_mm/CN_006"
+        },
+        {
+            "id": "char_133_mm_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Why are you giving me this bean paste bun? I would neber eat shumfing libe ris on an inweshtigation, you musht watch too mush TV or...(chewing)... A real detective only eats donuts while on a mission!",
+                "jp": "アンパンを私に？追跡捜査中は（パクパク）こんなものを食べないのだ！（もぐもぐ）オマエはテレビの見すぎなのだ！（はぁ～）モノホンの探偵が食べるのは、ドーナツと相場が決まっておるのだ！",
+                "kr": "이 단팥빵을 내게 주겠다고? 추적 조사 중에 이런 음식은 먹으면 안 되는 것이다! 너는 TV를 너무 많이 본 것이다! 진정한 탐정이라면, 모름지기 도넛을 먹어야 하는 것이다!",
+                "cn": "为啥要给我红豆面包？我在跟踪调查中才不会吃这种东西呢，你这家伙，电视剧看太多了喂！（咀嚼咀嚼）真正的侦探，在任务中，都是吃甜甜圈的！"
+            },
+            "asset": "char_133_mm/CN_007"
+        },
+        {
+            "id": "char_133_mm_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Three months, then three months after that. Then another three months after that. I've already been undercover for ten months! Chief, what the heck is going on...? ...Hey! You scoundrels, stop eavesdropping on my call!",
+                "jp": "三ヶ月やって、また三ヶ月、さらに三ヶ月延ばして……この秘密調査、もう十ヶ月になるのだ！探偵局長！いったいどうなっているのだ！……あっ！こらオマエ！人の電話を盗み聞きしちゃダメなのだ！",
+                "kr": "석 달하고 또 석 달, 거기에 석 달 또 연장……이 비밀 조사, 벌써 열 달째나 된 것이다! 탐정국장! 대체 어떻게 된 것이냐! ……앗! 거기 너! 사람 통화하는 건 엿들으면 안 되는 것이다!",
+                "cn": "三个月后又三个月，三个月后又三个月，我卧底快十个月了！总队长！......喂！你这家伙别偷听我的电话！"
+            },
+            "asset": "char_133_mm/CN_008"
+        },
+        {
+            "id": "char_133_mm_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Doctor, that penguin seems to have noticed that I'm investigating it... I'm starting to fear for my life...!",
+                "jp": "ドクター……あのペンギン、私の調査に気づいたみたいなのだ……命の危険を感じるのだ……。",
+                "kr": "박사…… 그 펭귄, 내 조사를 눈치챈 것 같다… 생명의 위험을 느끼고 있는 것이다……",
+                "cn": "博士，那只企鹅好像注意到我在调查它了，我感觉，我要有生命危险啦......！"
+            },
+            "asset": "char_133_mm/CN_009"
+        },
+        {
+            "id": "char_133_mm_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Wake up! Waaake uppp! Stop slacking off!",
+                "jp": "ウェイクアップ、ウェイクアッーーーープ！サボっちゃダメなのだ！",
+                "kr": "웨이크업, 웨이크업~! 농땡이를 피워선 안 되는 것이다!",
+                "cn": "醒醒！醒醒！不要偷懒呀——！"
+            },
+            "asset": "char_133_mm/CN_010"
+        },
+        {
+            "id": "char_133_mm_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "I'm the Royal Detective, May. Please cooperate with my investigation! Eh? I've got the wrong address? Impossible! I have evidence that proves that penguin is hiding here!",
+                "jp": "私は王室探偵のメイと申すのだ。捜査に協力してもらうのだ！えっ？場所が違う？そんなはずないのだ！あのペンギンがここにいるという証拠を掴んでいるのだ！",
+                "kr": "나는 왕실 탐정인 메이라 한다. 수사에 협조해 줘야겠는 것이다! 에? 장소가 틀렸다고? 그럴 리가 없는 것이다! 그 펭귄이 여기 있다는 증거를 갖고 있다는 것이다!",
+                "cn": "我是皇家侦探，梅，请配合我的调查！欸？你说我找错地方了？不可能！我有那个企鹅潜藏在这里的证据！"
+            },
+            "asset": "char_133_mm/CN_011"
+        },
+        {
+            "id": "char_133_mm_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Don't I look super cool when I'm conducting my investigation?",
+                "jp": "調査に勤しんでいる私、かっこよかろう？",
+                "kr": "열심히 조사하는 나, 멋지지 않으냐?",
+                "cn": "调查工作中的我，很帅气吧？"
+            },
+            "asset": "char_133_mm/CN_012"
+        },
+        {
+            "id": "char_133_mm_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Thank you for the promotion Chief I'm so very grateful for... Hey, wait, you aren't even my real boss!",
+                "jp": "探偵局長のご抜擢、感謝感激なのだ……って違うのだ、オマエは私の上司じゃないのだ！",
+                "kr": "탐정국장으로 발탁해줘서, 감개무량한 것이다……가 아닌 것이다, 너는 내 상사가 아닌 것이다!",
+                "cn": "感谢总探长的提拔，我......呃不对，你又不是我真正的上司！"
+            },
+            "asset": "char_133_mm/CN_013"
+        },
+        {
+            "id": "char_133_mm_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Elite team? Hey, I'm a Royal Detective! Why am I being promoted by some mercenary organization?!",
+                "jp": "エリートチーム？いや、私は王室探偵なのだ！どうして傭兵組織の上役に抜擢されるのだ！？",
+                "kr": "정예팀? 틀렸다, 난 왕실 탐정인 것이다! 어째서 내가 용병 조직의 상관으로 발탁된 것이냐?!",
+                "cn": "精英小组？欸，我不是皇家侦探来着的吗！为什么我会被佣兵组织提拔啊！"
+            },
+            "asset": "char_133_mm/CN_014"
+        },
+        {
+            "id": "char_133_mm_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Be careful not to let any shady people onto the team.",
+                "jp": "怪しいやつをチームに入れないように気をつけるのだ。",
+                "kr": "수상한 녀석을 팀에 넣지 않도록 주의하는 것이다.",
+                "cn": "可别让可疑分子混进队伍哦？"
+            },
+            "asset": "char_133_mm/CN_017"
+        },
+        {
+            "id": "char_133_mm_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Hehehe! Leader? Nay, call me Inspector General!",
+                "jp": "フッフッフ、リーダー？探偵局長と呼ぶのだ！",
+                "kr": "후후훗, 팀장? 탐정국장이라 불러라!",
+                "cn": "呼呼呼，队长？现在得叫我总探长！"
+            },
+            "asset": "char_133_mm/CN_018"
+        },
+        {
+            "id": "char_133_mm_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "All troops, move out! All troops, moooove outttt!!",
+                "jp": "全員出動！全員出動なのだー！",
+                "kr": "전원 출동! 전원 출동인 것이다!",
+                "cn": "全队出动！全队出动啦——！！"
+            },
+            "asset": "char_133_mm/CN_019"
+        },
+        {
+            "id": "char_133_mm_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "You criminals! Behave and turn yourselves in!",
+                "jp": "犯罪者どもめ、大人しく捕まるのだ！",
+                "kr": "범죄자 녀석들, 순순히 잡히는 게 좋을 것이다!",
+                "cn": "犯罪分子们，给我束手就擒吧！"
+            },
+            "asset": "char_133_mm/CN_020"
+        },
+        {
+            "id": "char_133_mm_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "What? Did something happen?",
+                "jp": "どうしたのだ？事件なのだ？",
+                "kr": "무슨 일이냐? 사건인 것이냐?",
+                "cn": "怎么了？发生了什么事件吗？"
+            },
+            "asset": "char_133_mm/CN_021"
+        },
+        {
+            "id": "char_133_mm_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Sure, sure, I got it!",
+                "jp": "はいはい、わかったのだ！",
+                "kr": "그래그래, 알았다는 것이다!",
+                "cn": "好啦好啦，我知道了！"
+            },
+            "asset": "char_133_mm/CN_022"
+        },
+        {
+            "id": "char_133_mm_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "It's time to investigate the scene!",
+                "jp": "現場捜査なのだ！",
+                "kr": "현장 수사인 것이다!",
+                "cn": "现场搜查！"
+            },
+            "asset": "char_133_mm/CN_023"
+        },
+        {
+            "id": "char_133_mm_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Let me see your documents!",
+                "jp": "職務質問させてもらうのだ！",
+                "kr": "불심검문을 해야겠는 것이다!",
+                "cn": "掏出你们的证件！"
+            },
+            "asset": "char_133_mm/CN_024"
+        },
+        {
+            "id": "char_133_mm_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "This is your one warning!",
+                "jp": "一度しか警告しないのだ！",
+                "kr": "경고는 한 번 뿐인 것이다!",
+                "cn": "这是一次警告！"
+            },
+            "asset": "char_133_mm/CN_025"
+        },
+        {
+            "id": "char_133_mm_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Freeze! Please!",
+                "jp": "フリーズ！なのだ！",
+                "kr": "꼼짝 마! 인 것이다!",
+                "cn": "不许动！"
+            },
+            "asset": "char_133_mm/CN_026"
+        },
+        {
+            "id": "char_133_mm_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Now you're going to get a taste of my taser!",
+                "jp": "このテーザー銃の威力、みせてやるのだ！",
+                "kr": "이 테이저건의 위력을 보여주겠다는 것이다!",
+                "cn": "让你尝尝泰瑟枪的威力！"
+            },
+            "asset": "char_133_mm/CN_027"
+        },
+        {
+            "id": "char_133_mm_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "It won't hurt, it'll just give you a little buzz!",
+                "jp": "痛くないのだ、ちょっとビリビリするだけなのだ！",
+                "kr": "아프진 않은 것이다, 좀 찌릿할 뿐인 것이다!",
+                "cn": "不会疼的，只是让你麻痹一下！"
+            },
+            "asset": "char_133_mm/CN_028"
+        },
+        {
+            "id": "char_133_mm_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "For a master detective, there is no case that can't be solved!",
+                "jp": "この名探偵に解決できない事件はないのだ！",
+                "kr": "이 명탐정이 해결 못 할 사건은 없는 것이다!",
+                "cn": "在我这个名侦探面前，没有什么事件是解决不了的！"
+            },
+            "asset": "char_133_mm/CN_029"
+        },
+        {
+            "id": "char_133_mm_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Take away all these suspects! Ugh... Fine, I'll do it myself...",
+                "jp": "この容疑者たちを連行するのだ！……むぅ、わかったのだ、自分でやるのだ……。",
+                "kr": "이 용의자들을 연행하는 것이다! 으으으…… 알았다는 것이다, 직접 하겠다는 것이다……",
+                "cn": "把这些嫌疑犯统统带走！呜，好吧，我自己来......"
+            },
+            "asset": "char_133_mm/CN_030"
+        },
+        {
+            "id": "char_133_mm_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Hmm... I feel like we missed some of the clues?",
+                "jp": "うぬぬ……何か証拠を見落としている気がするのだ。",
+                "kr": "으으음…… 왠지 증거를 놓친 기분이 드는 것이다.",
+                "cn": "唔唔......我觉得我们还漏掉了不少线索？"
+            },
+            "asset": "char_133_mm/CN_031"
+        },
+        {
+            "id": "char_133_mm_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "R-requesting backupppp...",
+                "jp": "し、支援を呼ぶのだああ……。",
+                "kr": "지, 지원을 요청하는 것이다아아……",
+                "cn": "我、我们这里请求支援啊啊啊啊......"
+            },
+            "asset": "char_133_mm/CN_032"
+        },
+        {
+            "id": "char_133_mm_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "I have a hunch as to what will happen here!",
+                "jp": "ここで事件が起きる予感がするのだ！",
+                "kr": "여기서 사건이 일어날 듯한 예감이 드는 것이다!",
+                "cn": "我有预感，有什么事件，将要在这里发生！"
+            },
+            "asset": "char_133_mm/CN_033"
+        },
+        {
+            "id": "char_133_mm_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "You and your villainous hand! I'll remember this!",
+                "jp": "悪党の手め、許さんのだ！",
+                "kr": "악당 녀석, 용서하지 않겠는 것이다!",
+                "cn": "恶徒之手，不可饶恕！"
+            },
+            "asset": "char_133_mm/CN_034"
+        },
+        {
+            "id": "char_133_mm_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "D-don't think you can wash away your crime just like that...!",
+                "jp": "こ、こんなことで容疑者の疑いが晴れると思わないことなのだ！",
+                "kr": "이, 이런다고 용의자 혐의가 풀릴 거라고 기대하진 않는 게 좋을 것이다!",
+                "cn": "别、别以为这样做，你就能洗脱自己的犯罪嫌疑哦......！"
+            },
+            "asset": "char_133_mm/CN_036"
+        },
+        {
+            "id": "char_133_mm_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_133_mm/CN_037"
+        },
+        {
+            "id": "char_133_mm_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "There you are, Doctor!",
+                "jp": "ドクター、見つけたのだ！",
+                "kr": "박사, 찾은 것이다!",
+                "cn": "博士，找到你了！"
+            },
+            "asset": "char_133_mm/CN_042"
+        }
+    ],
+    "actors": {
+        "cn": {
+            "native": "刘雯",
+            "global": "Wen Liu"
+        },
+        "jp": {
+            "native": "水橋かおり",
+            "global": "Kaori Mizuhashi"
+        },
+        "kr": {
+            "native": "유영",
+            "global": "Yu Yeong"
+        }
+    },
+    "availability": [
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

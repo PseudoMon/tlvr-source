@@ -1,0 +1,596 @@
+{
+    "charid": "char_2023_ling",
+    "nameid": "ling",
+    "names": {
+        "en": "Ling",
+        "jp": "リィン",
+        "kr": "링",
+        "cn": "令"
+    },
+    "voices": [
+        {
+            "id": "char_2023_ling_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Evocative so. Years and an age ago, the very palace rained and drizzled in the whisperers of consultants.",
+                "jp": "どうも懐旧の情が催されるね。ずいぶん昔にもね、私は今日と同じように、志士たちがひしめく楼閣に足を踏み入れたことがあるんだ。",
+                "kr": "어쩐지 회고의 정이 느껴지네. 꽤 옛날에도, 난 오늘처럼 문관들로 붐비는 누각에 발을 들인 적이 있어.",
+                "cn": "真让人怀念，很多年前，我也曾如今天这般走入那谋臣似雨的阁楼。"
+            },
+            "asset": "char_2023_ling/CN_001"
+        },
+        {
+            "id": "char_2023_ling_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Yea, when Yan scholars speak of Sui, that is us, and It too. Facts hardly worth covering up; Nian's worries are not mine. After all, I am only me, and my death, no more than death is. The only shames would be this wine and world, for at day's end I love them long.",
+                "jp": "然り、大炎の学士が口にする「歳」とは「吾々」であり、「カミ」でもある。秘匿するほどのことではないさ。ニェンちゃんが懸念していること、私は気にしていないよ。どうしたって、私は私でしかなく、終わる時は終わるのさ。ただ、この杯のうちにあるものや、この天地が惜しいかな。結句、私は好んでやまないのだから。",
+                "kr": "맞아, 염국의 학자들이 말하는 '쉐이'는 '우리'이기도 하고, '신'이기도 해. 숨길 것도 없지. 니엔이 걱정하는 건, 나는 신경 안 써. 어쨌든 나는 나일 뿐이고, 끝날 때는 끝나는 거야. 그저 이 잔 안에 있는 것이나, 이 천지가 아까울지도 모르겠네. 결국 난 계속 즐기는 것뿐이니까.",
+                "cn": "没错，大炎学士口中的“岁”，既是“我们”，也是“祂”。这倒没什么好藏掖的，我也不担心年所担心的。毕竟我只是我，死了也只是死了，只可惜了这杯中物和这天地，我终究是喜欢的。"
+            },
+            "asset": "char_2023_ling/CN_002"
+        },
+        {
+            "id": "char_2023_ling_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "I was of the mind I would finally meet someone past, an old friend. Never did I think this is how you now present yourself. From knowing not one is one, isn't this like a dream? However, {@nickname}. It is fine to be as yourself. Long have I contended with myself; myself I shall prefer to act.",
+                "jp": "ようやく古い知り合いに、ともすれば旧友に会えるものと思っていたんだけど、まさか貴君がこんな風になっていたとは、ふっ。我を我と知らぬのなら、それは夢と何が違うんだろうね？しかし、貴君。貴君でいてもいいんだよ。我と我の問答に終わりなく、なれば我で在る方がいいさ。",
+                "kr": "드디어 옛 지인을, 잘하면 옛 친구를 만날 수 있을 거라 생각했는데. 설마 그대가 이렇게 됐을 줄이야, 훗. 내가 나를 알지 못한다면, 그건 꿈과 뭐가 다른 걸까? 하지만, 그대는 그대로 있어도 되는 거야. 나와 나의 문답이 끝나지 않는다면, 나로 존재하는 편이 좋지.",
+                "cn": "本以为总算能遇见一位故人，说不定，还是故知，不曾想，你却是如今这般模样。不知我是我，与大梦何异？不过{@nickname}，就当你自己也无妨，我与我周旋久，宁做我。"
+            },
+            "asset": "char_2023_ling/CN_003"
+        },
+        {
+            "id": "char_2023_ling_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Where the heart is as will, and its utterance is as verse. If wells your chest with depths manifold, wouldn't failing their writing be shame to meet yourself? Hm? My tail? Ah, so too do I make use of a common brush, naturally. But it is at times inconvenient, as an extremity would be. My body is an unfettered one; who says I can't use my tail?",
+                "jp": "心に在るを志となし、言に発するを詩となす。胸の内に渾々と湧いて尽きぬ泉を抱えているなら、書き出さない方が己に失礼というものだよ。ん？しっぽ？ははっ、もちろん筆も使うよ。しかし所詮は身外の物だからね、不便な時だってある。この身は逍遥自在なれば、しっぽを使っちゃだめだなんてことはないよね？",
+                "kr": "마음에 있는 것을 뜻이라 하고, 말로 내뱉는 것을 시라 하지. 가슴 속에 콸콸 솟아 나오는 끝없는 샘을 품었다면, 써내지 않는 게 자신에게 실례인 거야. 응, 꼬리? 하하, 물론 붓도 사용하지. 하지만 결국 내 몸이 아니니까, 불편한 때는 있어. 내 몸은 자유로운데, 꼬리를 쓰면 안 된다는 법은 없잖아?",
+                "cn": "在心为志，发言为诗，若满腔胸臆，气象万千，不写出来岂不是愧对自己？嗯？尾巴？呵呵，笔自然也是用的，但毕竟是外物，不方便嘛，我身既是逍遥身，谁说用尾巴就不行？"
+            },
+            "asset": "char_2023_ling/CN_004"
+        },
+        {
+            "id": "char_2023_ling_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Poetry, speech, lyric, essay. Though they all differ as their own, they are common in places. A pity the people of now are, by and large unable to exercise patience. To listen to a song, to read a poem. I take no objection to it, but how must our present scholars suffer.",
+                "jp": "詩詞歌賦、形こそそれぞれ異なるのだけど、相通ずるところもあるんだよ。惜しむらくは、今の子たち、堪え性がないからね。曲を聴くのも、詩を読むのも。私にしたらなんの苦にもならないことだけど、文士たちは少し不憫かな。",
+                "kr": "시사가부의 형태는 각자 다르지만, 상통하는 부분도 있지. 안타깝게도, 요즘 아이들은 참을성이 없어서 말이야. 곡을 듣는 것도, 시를 읽는 것도. 내게는 아무 어려움도 없지만, 문인들은 조금 불쌍할지도 모르겠어.",
+                "cn": "诗词歌赋，虽然各不相同，却又有相通之处。可惜如今的人呐，大都耐不下性子，听一首曲，读一首诗，我倒是不以为然，就是苦了些当今文人。"
+            },
+            "asset": "char_2023_ling/CN_005"
+        },
+        {
+            "id": "char_2023_ling_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Nian is too impetuous, Dusk timid, yet to see the two as they are now, it seems they already know what they like, and want to do. So why probe at veracity or falsity or object or subject? To bicker and squabble every day, knowing emotion's gamut, is that not what a person is?",
+                "jp": "ニェンちゃんはせっかちだし、シーちゃんは肝が小さいけど、あの子らの今の様子を見るに、好きなものも、したいことも既に見つけたようだ。さすれば、真偽だの自他の差異だのに拘泥する必要がどこにあるんだろう。日々の他愛ない口喧嘩や喜怒哀楽、それこそが人じゃない？",
+                "kr": "니엔은 성급하고 시는 겁이 많지만, 그 아이들의 지금 모습을 보면, 좋아하는 것도 하고 싶은 것도 이미 발견한 것 같아. 그렇다면 진실과 거짓, 자신과 남의 차이에 구애될 필요는 어디에도 없겠지. 매일 반복하는 시시한 말다툼이나 희로애락, 그것이 바로 사람의 마음 아닐까?",
+                "cn": "年太急躁，夕又胆小，可看她俩如今的模样，又好像已经知道自己喜欢什么，想做什么。那又何必纠结于什么真真假假，你你我我呢？每天吵架拌嘴，喜怒哀乐，不就是人心吗。"
+            },
+            "asset": "char_2023_ling/CN_006"
+        },
+        {
+            "id": "char_2023_ling_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "{@nickname}, would you want for me to compose you a verse? Hm? Nay, I'm simply in the mood. I need not write it, nor record it. Ah, wait, if it were a song... that would be quite good too! But to dance a song, I fear I would need some preparation. Good! You sit there, and await me a short while.",
+                "jp": "貴君、自分のための詩を、私に詠ませてみたいと思わない？ん？なに、ただ興が乗ったんだ。筆を走らせるまでもないし、記録なんてのも野暮だよ。おっと待てよ、もし曲にすれば……それも一興！とはいえ一差し舞うには準備を要しそうだ。よし！貴君は腰掛けててくれ、半刻で戻るよ。",
+                "kr": "그대는 자신을 위한 시를 내게 읊게 하고 싶다는 생각은 안 해? 응? 뭐, 그냥 흥이 올라서. 붓을 휘두를 것도 없고, 기록하는 것도 풍류가 없지. 앗 잠깐, 혹시 노래로 한다면… 그것도 재미있겠네! 그렇지만 한 곡 추려면 준비가 필요해. 좋아! 그대는 앉아 있어, 금방 돌아올게.",
+                "cn": "{@nickname}，想不想让我为你题首诗？嗯？没有，只是来了兴致。不用写，也不用记下来。等等，若是谱曲倒也不差！不过要舞一曲，恐怕要做些准备，好！你先坐着，等我片刻。"
+            },
+            "asset": "char_2023_ling/CN_007"
+        },
+        {
+            "id": "char_2023_ling_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "I am drunk? Hah... I have not yet seen the sky throw wide, moon rise, seas race, ice break, to wait true for all the world's sobriety would be but the withering of a bud, to want true for deep intoxication would be far too early still... {@nickname}, now, why do you say I am drunk?",
+                "jp": "私が酔ってる？ふっ……我なおいまだ、天開かる、月明ける、海走る、氷散るを見ず。世の人間がみな素面になるのを待ったところで、それもまた枯れ枝に新芽が一つ、ついただけ。心置きなく酔い耽るには、尚早きにすぎる……貴君よ、どうして私が酔っているなんて言える？",
+                "kr": "내가 취했다고? 훗… 나는 아직 하늘이 열리며 달이 밝고, 바다가 달리며 얼음이 흩어지는 걸 보지 못했어. 세상의 인간이 모두 술에서 깨어나는 것을 기다리는데, 이제 나뭇가지에 새싹 하나 피어올랐을 뿐이지. 마음 놓고 취하기엔 시기상조이거늘… 그대여, 어찌 내가 취했다고 할 수 있겠어?",
+                "cn": "醉了？呵......尚未见天开月明，海走冰散，真等到世人皆醒，也不过枯枝一新芽，真要大醉一场，还为时尚早......{@nickname}呀，你怎么能说我醉了呢？"
+            },
+            "asset": "char_2023_ling/CN_008"
+        },
+        {
+            "id": "char_2023_ling_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Last night I dreamt of you. Nay! Perhaps it's you who dreamt of me. Oh, can you not recall? A shame; it delighted me so, yet I cannot share this revelry. Delighted how? Hmm. That eight thousand years of springs, eight thousand of winters, all dreamt, were no more than a brief handful of autumns. That is all.",
+                "jp": "昨夜貴君の夢を見た。否、本当は貴君が私の夢を見ていたのかもしれないね。うん？覚えていない？残念、あの痛快さを分かち合えないなんて。どういうことかって？ふっ、八千年を春とし、また八千年を冬として過ごす一巡り、夢に見たのも、そのうちほんの短い秋のこと、それだけだよ。",
+                "kr": "어젯밤에 그대의 꿈을 꿨어. 아니, 어쩌면 그대가 내 꿈을 꿨을지도 몰라. 응? 기억 안 나? 아쉬워라, 그 뿌듯함을 함께 나누지 못하다니. 무슨 소리냐고? 훗, 팔천 년의 봄과 또 팔천 년의 겨울을 보낸들, 꿈에서 본 건 단지 짧디짧은 몇 번의 가을뿐이었어. 단지 그뿐이야.",
+                "cn": "昨夜我梦见了你，不！兴许是你梦见了我。唔，记不得了？可惜，那般得意，却不能与人同享。得意什么？呵，八千年为春，八千年为冬，梦见的那些，也不过短短几个秋，如此罢了。"
+            },
+            "asset": "char_2023_ling/CN_009"
+        },
+        {
+            "id": "char_2023_ling_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Clouds ranged as billows, distant-run roads withered. I, departed of the vistas, sailed a ferry in late autumn.",
+                "jp": "雲巒波濤、千里枯路、江山の故人たる我は、晩秋の行舟なり。",
+                "kr": "구름과 산의 파도, 메마른 천 리 길, 강산의 고인인 나는, 늦가을 떠다니는 배로구나.",
+                "cn": "云峦波涛，千里枯路，江山故人我，晚秋行舟。"
+            },
+            "asset": "char_2023_ling/CN_010"
+        },
+        {
+            "id": "char_2023_ling_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Ling, you can call me. Have my two troublemaking sisters vexed you any? Hm? You've seen me before? Ah... perhaps so, in a dream.",
+                "jp": "リィンと呼んでくれたらいいよ。うちの面倒な妹二人がお世話になってるらしいけど、迷惑かけてない？ん？私に見覚えがあるの？ああ……夢の中でかもしれないね。",
+                "kr": "링이라 불러 줘. 우리 성가신 동생 둘이 신세 지고 있는 것 같은데, 폐를 끼치고 있지는 않지? 응? 나를 본 적이 있어? 아아… 꿈속에서일지도 모르겠네.",
+                "cn": "令，如此称呼我就好，我那两个麻烦妹妹没给您添麻烦吧？唔？见过我？啊......也许是在梦中吧。"
+            },
+            "asset": "char_2023_ling/CN_011"
+        },
+        {
+            "id": "char_2023_ling_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Though antithetical at a glance, your nature is quite similar.",
+                "jp": "見た目はちっともかかずらわないほど離れているのに、性質はどうも近いね。",
+                "kr": "겉보기에는 전혀 상관없을 정도로 다른데, 성질은 아무래도 비슷하네.",
+                "cn": "虽大相径庭，可气象相近。"
+            },
+            "asset": "char_2023_ling/CN_012"
+        },
+        {
+            "id": "char_2023_ling_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Hm... 'General, I heed thy order,' should I say? Ha, do not take it seriously. I only suppose that if you were truly a field marshal, then I may not mind once again serving as a strategist.",
+                "jp": "ん……「末将令を得たり」、と言うべきかな？ははっ、冗談だよ、本気にしないで。ただ貴君が本当に将として立つのであれば、私が再び知謀でもって佐けるのも、悪くはないように思うよ。",
+                "kr": "음… '소장이 명을 받들겠습니다'라고 해야 하나? 하핫, 농담이야. 진지하게 받아들이지 마. 단지 그대가 진짜 장수로 나서는 거라면, 내가 다시 책사로 보좌하는 것도 나쁘지는 않을 것 같아.",
+                "cn": "嗯......是不是该说“末将得令”？哈哈，别当真，只是你若真是将领，那我重新当个谋士，好像也不坏。"
+            },
+            "asset": "char_2023_ling/CN_013"
+        },
+        {
+            "id": "char_2023_ling_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Nian was not wrong. This farcical dream of a thousand autumns is only right to wake from.",
+                "jp": "ニェンちゃんの言った通りだ。この永く荒唐無稽な夢は、とっくに覚めてしかるべきだよ。",
+                "kr": "니엔의 말 대로야. 이 길고 황당무계한 꿈은, 이미 깨어났어야 해.",
+                "cn": "年说的不错，这场千秋大梦，本就该醒了。"
+            },
+            "asset": "char_2023_ling/CN_014"
+        },
+        {
+            "id": "char_2023_ling_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "The river bends a thousand times, a city lone in desolation, vivid in the mind's eye.",
+                "jp": "長河千嶂、大荒孤城、歴々と目に在り。",
+                "kr": "긴 강과 무수한 산봉우리, 드넓은 황야와 고성, 눈에 역력하구나.",
+                "cn": "长河千嶂，大荒孤城，历历在目。"
+            },
+            "asset": "char_2023_ling/CN_017"
+        },
+        {
+            "id": "char_2023_ling_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "To scatter the fill of a brimming cup, to share the sip for a soothed sorrow.",
+                "jp": "杯を反そう、この小さな器に満ちたものがせめて、大地にありて慰めとなるように。",
+                "kr": "술잔을 뒤집자. 이 작은 그릇에 차 있던 것이, 적어도 이 대지에 위안이 되도록.",
+                "cn": "满酹杯中物，天下共余愁。"
+            },
+            "asset": "char_2023_ling/CN_018"
+        },
+        {
+            "id": "char_2023_ling_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Plotted schemes, waged wars, crossed arms, shed blood. An eternity, unaltered and unfailing in its challenge.",
+                "jp": "血で血を洗う争いに謀、古来より変わらないね。",
+                "kr": "피를 피로 씻는 싸움에 모략, 예로부터 변하지 않으니.",
+                "cn": "兵戈伐谋，千古不易。"
+            },
+            "asset": "char_2023_ling/CN_019"
+        },
+        {
+            "id": "char_2023_ling_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "To gaze the fire from afar, knowing not its heat.",
+                "jp": "遠くに火を望んだところで、熱さは分からないさ。",
+                "kr": "멀리서 불을 바라본들, 뜨거움은 알 수 없으리.",
+                "cn": "凭栏望火，不知其热。"
+            },
+            "asset": "char_2023_ling/CN_020"
+        },
+        {
+            "id": "char_2023_ling_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Has it come to my turn?",
+                "jp": "私に巡ってきたのかな？",
+                "kr": "내 차례가 돌아온 걸까?",
+                "cn": "轮到我了吗？"
+            },
+            "asset": "char_2023_ling/CN_021"
+        },
+        {
+            "id": "char_2023_ling_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Truly evocative.",
+                "jp": "懐旧の情が催されるね。",
+                "kr": "회고의 정이 느껴지네.",
+                "cn": "真让人怀念。"
+            },
+            "asset": "char_2023_ling/CN_022"
+        },
+        {
+            "id": "char_2023_ling_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "And thus has autumn made reckoned her arrival.",
+                "jp": "この時より、秋だ。",
+                "kr": "이 순간부터, 가을이로다.",
+                "cn": "此刻便算入秋了。"
+            },
+            "asset": "char_2023_ling/CN_023"
+        },
+        {
+            "id": "char_2023_ling_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "For the marching, a warsong. For the fallen, a lament.",
+                "jp": "戦（いくさ）のための歌、悲（かなしみ）を紡ぐ詩。",
+                "kr": "전쟁을 위한 노래, 슬픔을 자아내는 가사.",
+                "cn": "一曲战歌，一首悲词。"
+            },
+            "asset": "char_2023_ling/CN_024"
+        },
+        {
+            "id": "char_2023_ling_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "The split halberd sinks in the sand, great aspirations unrecompensed.",
+                "jp": "折戟砂に沈みて、壮志未だ酬いず。",
+                "kr": "꺾인 창은 모래에 가라앉고, 큰 뜻은 아직도 실현되지 않았네.",
+                "cn": "折戟沉沙，壮志未酬。"
+            },
+            "asset": "char_2023_ling/CN_025"
+        },
+        {
+            "id": "char_2023_ling_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "One word to address all beneath the heaven, one scope to spare none upon the earth.",
+                "jp": "万物を一言に収むるは、洒々落々の境地にこそあれ。",
+                "kr": "세상을 한마디 말에 담는 것, 큰 그릇이란 그리해야 하느니.",
+                "cn": "万物一言，方有大气象。"
+            },
+            "asset": "char_2023_ling/CN_026"
+        },
+        {
+            "id": "char_2023_ling_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "When will the hate sunk beneath the battlefield disperse?",
+                "jp": "戦場（いくさば）に積もる恨みはいつか散らむ。",
+                "kr": "전쟁터에 쌓인 한은 언제쯤 흩어질까?",
+                "cn": "沙场埋恨何时绝？"
+            },
+            "asset": "char_2023_ling/CN_027"
+        },
+        {
+            "id": "char_2023_ling_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Speak as your heart wills, and be as your intoxication wishes.",
+                "jp": "胸臆を直抒すれば、酣暢淋漓たり。",
+                "kr": "심정을 털어내면, 마음이 후련해지네.",
+                "cn": "直抒胸臆，酣畅淋漓。"
+            },
+            "asset": "char_2023_ling/CN_028"
+        },
+        {
+            "id": "char_2023_ling_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Another song, sublime and majestic. {@nickname}, perhaps you and I truly are as two entwined friends.",
+                "jp": "また一曲、素晴らしいものができた。ドクター、私たちは確かによく通じ合っているのかもしれないよ。",
+                "kr": "또 멋진 한 곡이 만들어졌어. 박사, 우리는 분명 잘 통하는 건가 봐.",
+                "cn": "又一曲，韵意磅礴。{@nickname}，兴许你我确是知音。"
+            },
+            "asset": "char_2023_ling/CN_029"
+        },
+        {
+            "id": "char_2023_ling_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Duly satisfying, as a cup filled to the brim. We should remain level and humble, yet... we ought to sing your praises, yes. You did well.",
+                "jp": "志かなって得意満面といったところかな。貴君よ、しかれども驕ることなかれ、だ。とはいえ……褒めるべきは褒めねばならないかな。よくやったね。",
+                "kr": "잔이 가득 차도, 뜻이 전부 이뤄진대도, 그대는 교만하지 말지어다. 그래도… 칭찬할 건 칭찬해야겠지. 잘했어.",
+                "cn": "志得意满，如杯满盈，还是要戒骄戒躁，不过......还是该称赞称赞你呀，做得不赖。"
+            },
+            "asset": "char_2023_ling/CN_030"
+        },
+        {
+            "id": "char_2023_ling_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Mm... things disappoint on occasion; there's no need to blame yourself too hard. Leave the rest to me.",
+                "jp": "ん……たまにはこういうこともあるさ、自分を責めすぎないで、あとは私に任せなさい。",
+                "kr": "음… 가끔 이런 일도 있는 거지. 자신을 너무 책망하지 마. 나머지는 내게 맡겨.",
+                "cn": "唔......偶尔失意，你也不必太过自责，剩下的就交给我吧。"
+            },
+            "asset": "char_2023_ling/CN_031"
+        },
+        {
+            "id": "char_2023_ling_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Victory and defeat are commonplace in war. As we have freedom to maneuver, this is not a complete loss.",
+                "jp": "勝つも負けるも兵法家の常さ、時機を逸せず進退を見極められているなら、まだ終わりではないよ。",
+                "kr": "승패는 병가지상사거늘, 진격도 철수도 자유로울 수만 있다면 그건 완패가 아니야.",
+                "cn": "胜败乃兵家常事，既然能进退自如，便不算完败。"
+            },
+            "asset": "char_2023_ling/CN_032"
+        },
+        {
+            "id": "char_2023_ling_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Rhodes Island's interior... I'm lost as to whether I should say it's reminiscent or curious.",
+                "jp": "ロドスの中は……懐かしいと言えばいいか、興味深いと言えばいいか迷うところだね。",
+                "kr": "로도스 아일랜드 안은… 그립다고 해야 할지, 흥미롭다고 해야 할지 고민 중이야.",
+                "cn": "罗德岛的内部啊......真不知道该说怀念还是好奇。"
+            },
+            "asset": "char_2023_ling/CN_033"
+        },
+        {
+            "id": "char_2023_ling_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Hm? Do you need me?",
+                "jp": "うん？私に用かな？",
+                "kr": "응? 나한테 무슨 일이야?",
+                "cn": "唔？找我有事吗？"
+            },
+            "asset": "char_2023_ling/CN_034"
+        },
+        {
+            "id": "char_2023_ling_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "What is it? Would you like a cup? You wouldn't? What a shame.",
+                "jp": "どうしたの？こっちで一献傾けていく？遠慮するって？残念だね。",
+                "kr": "왜 그래? 여기서 술 한잔할래? 사양한다고? 아쉽네.",
+                "cn": "怎么？来喝一杯吗？不了？可惜。"
+            },
+            "asset": "char_2023_ling/CN_036"
+        },
+        {
+            "id": "char_2023_ling_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_2023_ling/CN_037"
+        },
+        {
+            "id": "char_2023_ling_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Why, how are you, {@nickname}?",
+                "jp": "やあ、調子はいかがかな、{@nickname}。",
+                "kr": "안녕, 상태는 괜찮아? 박사.",
+                "cn": "还好吗？{@nickname}？"
+            },
+            "asset": "char_2023_ling/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Denise Moreno",
+            "global": "Denise Moreno"
+        },
+        "cn": {
+            "native": "余珊",
+            "global": "Shan"
+        },
+        "jp": {
+            "native": "井上喜久子",
+            "global": "Kikuko Inoue"
+        },
+        "kr": {
+            "native": "이다은",
+            "global": "Lee Da-eun"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

@@ -1,0 +1,500 @@
+{
+    "charid": "char_501_durin",
+    "nameid": "durin",
+    "names": {
+        "en": "Durin",
+        "jp": "ドゥリン",
+        "kr": "두린",
+        "cn": "杜林"
+    },
+    "voices": [
+        {
+            "id": "char_501_durin_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Morning, Doctor... Mind if I lay out my sleeping bag here...? Thanks. The rest is up to you...",
+                "jp": "おはようドクター。私の寝袋、ここに置いといていいよね。じゃあ後はよろしくー。",
+                "kr": "좋은 아침, 박사. 내 침낭, 여기 둬도 되지? 그럼 뒤는 잘 부탁해.",
+                "cn": "早——上——好，博......士，啊，那我把睡袋放这儿，接下来，我就继续睡了，麻——烦——你——了。"
+            },
+            "asset": "char_501_durin/CN_001"
+        },
+        {
+            "id": "char_501_durin_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "How do I fight? Using Arts, of course... Want me to show you the power of earth?",
+                "jp": "私の戦い方？もちろんアーツで戦うよ。大地の威厳を見せてあげようか。",
+                "kr": "내가 싸우는 방식? 물론 아츠로 싸우지. 대지의 위엄을 보여줄까~!",
+                "cn": "我的战斗方式？当然是用法术来战斗吧。让我来向你展示，大地的威严。"
+            },
+            "asset": "char_501_durin/CN_002"
+        },
+        {
+            "id": "char_501_durin_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "What time is it...? See, I don't work mornings, noons, afternoons, or nights...",
+                "jp": "今何時……？実を言うと、私にとっては、朝も、昼も、夕方も、夜もぜーんぶ活動時間外なんだよね。",
+                "kr": "지금 몇 시야…? 솔직히 말하면, 나한테는 아침도, 점심도, 저녁도, 밤도 전~부 활동 시간 밖이거든.",
+                "cn": "现在几点啊......？其实，早晨，中午，下午和晚上，都是我的非工作时间。"
+            },
+            "asset": "char_501_durin/CN_003"
+        },
+        {
+            "id": "char_501_durin_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "You'll make an S-sized uniform for me...? No thanks. My oversized one works as a sheet when I take naps... plus, it's really warm.",
+                "jp": "Sサイズの制服を作ってくれるって？いらないね。大きいサイズのを着てれば、仮眠するときに布団として使えるからね。暖かいんだよ。",
+                "kr": "스몰 사이즈 유니폼을 만들어 주겠다고? 필요 없어. 큰 사이즈를 입고 있으면 선잠 잘 때 이불로 쓸 수 있거든, 꽤 따뜻해.",
+                "cn": "要帮我定制小号制服？不——要，大号制服在睡觉的时候能当被子，很——暖和。"
+            },
+            "asset": "char_501_durin/CN_004"
+        },
+        {
+            "id": "char_501_durin_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Dooooctoooooor? I need a break! I'm competing in the Speedy Sleep Contest.",
+                "jp": "ドークーターー、お休みちょうだい！スピード就寝コンテストってのに誘われちゃったからさー。",
+                "kr": "박~사~아~ 휴가 좀 낼게! 빨리 잠들기 콘테스트라는 거에 초청받았거든~",
+                "cn": "博——士——我——请假！因为我，已经被邀请参加速睡大赛啦。"
+            },
+            "asset": "char_501_durin/CN_007"
+        },
+        {
+            "id": "char_501_durin_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Doctor, check this out. This isn't my normal wand, it's a pendulum. You're feeling very sleepy and will nap in five minutes without giving me any work... Zzzz...",
+                "jp": "ドクター、これ見て。これはね、いつもの杖じゃなくて振り子だよ。ドクターはこれから5分以内に寝落ちして、私に仕事の指示ができなくなぁー…Zzz……。",
+                "kr": "박사 여기 봐봐. 이건 말이지, 평범한 지팡이가 아니라 시계추야. 박사는 이제 5분 안에 잠이 들어, 나에게 업무 지시를 내릴 수 없게 된…… ",
+                "cn": "博士，来看看这个。这可不是我平时用的法杖，它是一枚钟摆。接下来博士会在五分钟之内睡着，不会给我安排任何工作......Zzzz......"
+            },
+            "asset": "char_501_durin/CN_008"
+        },
+        {
+            "id": "char_501_durin_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "I was hoping I could tell you about my homeland, Doctor.",
+                "jp": "できれば、ドクターと私の故郷の話もしてみたいな。",
+                "kr": "괜찮으면 박사랑 내 고향 얘기를 해보고 싶어.",
+                "cn": "唉，可以，和博士您聊聊我的故乡吗。"
+            },
+            "asset": "char_501_durin/CN_009"
+        },
+        {
+            "id": "char_501_durin_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "After you went to sleep, I somehow didn't feel sleepy at all anymore... Hmmmph...",
+                "jp": "ドクターが眠ったら、なんだか私が眠れなくなっちゃった。もうー。",
+                "kr": "박사가 잠들어버리니까, 왠지 내가 잠이 안 오잖아… 정말… ",
+                "cn": "好不容易把博士哄睡着了，我......竟然一点都不困了，可......恶......"
+            },
+            "asset": "char_501_durin/CN_010"
+        },
+        {
+            "id": "char_501_durin_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Hello? Hellooooo? Can you hear me? Down here. Down heeeeere! Nice meeting you, big Doctor. I'm Durin the Caster.",
+                "jp": "おーい、おーい。聞こえますかー？下、しーたー！はじめまして大きいドクターさん、術師のドゥリンでーす。",
+                "kr": "저기요~ 저기요~ 들리시나요~? 밑에, 밑에!! 처음 뵙겠습니다 커다란 박사 씨, 캐스터 두린이라고 합니다~",
+                "cn": "喂——喂！能听到我说话吗？低头看下面啦！初次见面，大个子的博士，我是术师，杜林哦。"
+            },
+            "asset": "char_501_durin/CN_011"
+        },
+        {
+            "id": "char_501_durin_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Whoa... I've fiiiinally gotten s-tron-ger.",
+                "jp": "おー、やーっと、強～くな・れ・た。",
+                "kr": "오~ 드디어~ 강·해·졌·다~",
+                "cn": "啊——我·终·于·变·强·啦。"
+            },
+            "asset": "char_501_durin/CN_012"
+        },
+        {
+            "id": "char_501_durin_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "The secret to staying healthy is to sleep whenever you can.",
+                "jp": "元気の秘訣はよく寝ることだよー。",
+                "kr": "넘치는 기운의 비결은, 잘 자는 거야~",
+                "cn": "健康的秘诀，是好好睡觉。"
+            },
+            "asset": "char_501_durin/CN_017"
+        },
+        {
+            "id": "char_501_durin_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Captain's orders: everyone, save your energy and take a nap!",
+                "jp": "隊長命令！みんな、今すぐ仮眠をとって体力を蓄えよー！",
+                "kr": "팀장이 명령한다! 모두, 지금 당장 잠을 자서 체력을 비축하라~!",
+                "cn": "这是队长命令，各位，现在就开始打盹，补充体力。"
+            },
+            "asset": "char_501_durin/CN_018"
+        },
+        {
+            "id": "char_501_durin_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "I wanna dig a hole in the ground and make a shelter to sleep in, if you don't mind.",
+                "jp": "できれば、地面に穴を掘って、シェルターにして一眠りしたいなー。",
+                "kr": "할 수만 있다면, 땅에 구멍을 파서, 방공호로 삼아서 자고 싶어… ",
+                "cn": "如果可以的话，我想在地上挖个洞当掩体，用来睡觉。"
+            },
+            "asset": "char_501_durin/CN_019"
+        },
+        {
+            "id": "char_501_durin_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Take over for me. Thaaanks.",
+                "jp": "みんなー、よろしくねー。",
+                "kr": "다들~ 잘 부탁해~",
+                "cn": "各位，拜托你们喽。"
+            },
+            "asset": "char_501_durin/CN_020"
+        },
+        {
+            "id": "char_501_durin_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Wooo.",
+                "jp": "おおー。",
+                "kr": "오오~",
+                "cn": "哦，哦。"
+            },
+            "asset": "char_501_durin/CN_021"
+        },
+        {
+            "id": "char_501_durin_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Hmm?",
+                "jp": "うーーん？",
+                "kr": "으응?",
+                "cn": "嗯？"
+            },
+            "asset": "char_501_durin/CN_022"
+        },
+        {
+            "id": "char_501_durin_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "What a pain.",
+                "jp": "面倒くさーい。",
+                "kr": "귀찮아… ",
+                "cn": "真麻烦。"
+            },
+            "asset": "char_501_durin/CN_023"
+        },
+        {
+            "id": "char_501_durin_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Okaaaay, I'll do it.",
+                "jp": "わかったよー。",
+                "kr": "알았어… ",
+                "cn": "我知道啦。"
+            },
+            "asset": "char_501_durin/CN_024"
+        },
+        {
+            "id": "char_501_durin_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "You're going down!",
+                "jp": "倒しちゃうよ！",
+                "kr": "쓰러뜨린다!",
+                "cn": "打倒你！"
+            },
+            "asset": "char_501_durin/CN_025"
+        },
+        {
+            "id": "char_501_durin_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Gooooooo!",
+                "jp": "いけー！",
+                "kr": "가라!",
+                "cn": "去吧！"
+            },
+            "asset": "char_501_durin/CN_026"
+        },
+        {
+            "id": "char_501_durin_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Why do we have annoying missions like this? Can't we do something easier...? Still, it's nice that we won.",
+                "jp": "どうしてこんなに面倒な作戦に挑むの？もっと楽なのがいいなー！まぁ、勝てたからいいんだけどさ……。",
+                "kr": "왜 이런 귀찮은 작전에 임하는 거야? 더 편한 게 좋은데~! 뭐, 이겼으니 됐지만… ",
+                "cn": "干嘛要来处理这么棘手的目标啊？轻轻松松的不是更好嘛！还好赢了......"
+            },
+            "asset": "char_501_durin/CN_029"
+        },
+        {
+            "id": "char_501_durin_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Of course we won. I worked real hard supporting you with my Arts.",
+                "jp": "当然の勝利だ、ずーっとアーツで後方援護を頑張ったもんね。",
+                "kr": "당연한 승리야. 계속 아츠로 후방 엄호 열심히 했거든.",
+                "cn": "胜利，理所当然，在背后默默地用法术支援你们的可是我啊。"
+            },
+            "asset": "char_501_durin/CN_030"
+        },
+        {
+            "id": "char_501_durin_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Doctor, are you still worried about those ones that got through?",
+                "jp": "ドクター、逃した敵がまだ気になってるの？",
+                "kr": "박사, 놓친 적이 아직 신경 쓰여?",
+                "cn": "博士，还在纠结放走了多少敌人吗？"
+            },
+            "asset": "char_501_durin/CN_031"
+        },
+        {
+            "id": "char_501_durin_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Ugghh... Sorry... I'll try harder next time...",
+                "jp": "うぅ……ごめんなさい……次からはもっとちゃんと戦う……。",
+                "kr": "으으… 미안해… 다음부턴 더 제대로 싸울게… ",
+                "cn": "呜......对不起......下次我会认真战斗的......"
+            },
+            "asset": "char_501_durin/CN_032"
+        },
+        {
+            "id": "char_501_durin_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "The Land of Giants... Here I aaaaaaaaaaaaaaam!",
+                "jp": "巨人の国に……来たーーーっ！",
+                "kr": "거인 나라에… 왔다아아아아아아아!",
+                "cn": "巨人国......我来了！"
+            },
+            "asset": "char_501_durin/CN_033"
+        },
+        {
+            "id": "char_501_durin_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Hmmm?",
+                "jp": "ぐにゅー？",
+                "kr": "그뉴…?",
+                "cn": "咕？"
+            },
+            "asset": "char_501_durin/CN_034"
+        },
+        {
+            "id": "char_501_durin_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "I'm in a good mood, so how about a magic trick?",
+                "jp": "気分がいいから、手品でも見せてあげよーか？",
+                "kr": "기분이 좋으니까, 마술이라도 보여줄~까?",
+                "cn": "现在我心情很好，给你变个魔术怎么样？"
+            },
+            "asset": "char_501_durin/CN_036"
+        },
+        {
+            "id": "char_501_durin_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_501_durin/CN_037"
+        },
+        {
+            "id": "char_501_durin_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "*Yawn*... Good morning...",
+                "jp": "ふわぁ……おはよう……。",
+                "kr": "후아암…… 좋은 아침…… ",
+                "cn": "呼啊......早安......"
+            },
+            "asset": "char_501_durin/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Emma Ballantine",
+            "global": "Emma Ballantine"
+        },
+        "cn": {
+            "native": "杨梦露",
+            "global": "Menglu Yang"
+        },
+        "jp": {
+            "native": "影山灯",
+            "global": "Akari Kageyama"
+        },
+        "kr": {
+            "native": "양정화",
+            "global": "Yang Jung-hwa"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

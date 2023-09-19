@@ -1,0 +1,596 @@
+{
+    "charid": "char_1028_texas2",
+    "nameid": "texas2",
+    "names": {
+        "en": "Texas the Omertosa",
+        "jp": "血掟テキサス",
+        "kr": "텍사스 디 오메르토사",
+        "cn": "缄默德克萨斯"
+    },
+    "voices": [
+        {
+            "id": "char_1028_texas2_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "I'm your bodyguard again, just like old times, Doctor. And it's not just a job, it's a reunion. That's something worth cherishing.",
+                "jp": "引き続きドクターの身辺警護にあたる。任務のためだけでなく、貴重な再会のためにも。",
+                "kr": "박사, 계속해서 네 신변 경호를 맡도록 하지. 임무를 위해서만이 아니라, 소중한 재회를 위해서도.",
+                "cn": "我仍会保护你的安全，博士。不仅是出于任务需要，任何一次重逢都很难得。"
+            },
+            "asset": "char_1028_texas2/CN_001"
+        },
+        {
+            "id": "char_1028_texas2_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "How does it feel to be back in Siracusa? Not great. It's for wise guys and famiglie, not me. I'm only staying long enough to cut ties with the past. After I'm done washing my hands of the whole business, I'm heading back to Lungmen to pick up the girls, and then going out for a nice drive.",
+                "jp": "シラクーザに戻った感想？ろくなものじゃない。派閥やファミリーがせめぎ合うシラクーザに、もはや私の入る隙間などありはしない。しばらく残ることにしたのは、過去と決別するために過ぎないんだ。面倒事がすべて片付いたら、龍門に帰って、馴染みの連中と心ゆくまでドライブするさ。",
+                "kr": "시라쿠사에 돌아온 기분? 딱히, 아무렇지도 않아. 시라쿠사는 여러 파벌들이나 패밀리가 엮여 있을 뿐, 나랑은 상관없으니까. 내가 잠깐 머물기로 한 것도 그저 과거를 마무리 짓기 위해서일 뿐이야. 귀찮은 문제들을 전부 해결하고 나면, 나도 용문으로 돌아가서 그 녀석들을 태우고 드라이브나 하려고.",
+                "cn": "回叙拉古的感觉？不怎么样。那里属于帮派与家族，不属于我。我决定暂时留下，只是为了与过去彻底做个了断。等到这些麻烦都解决了，我会回龙门，载上那些家伙，好好开车兜一次风。"
+            },
+            "asset": "char_1028_texas2/CN_002"
+        },
+        {
+            "id": "char_1028_texas2_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "I didn't want to get Penguin Logistics involved, but it was a relief to see them in Siracusa. My noisy friends, that life of freedom... Looking back now, staying with them in Lungmen was the best decision I ever made. Just, don't tell them I said that.",
+                "jp": "ペンギン急便を巻き込みたくはなかったが、シラクーザで見知った顔を見た時は、やはり安堵を覚えたものだ。自由な生活、騒がしい仲間……龍門を訪れた時に、あいつらと共に歩むことを選んだのは、これまでで一番正しい選択だったと思う。この話は、あいつらにはしてくれるなよ。",
+                "kr": "펭귄 로지스틱스를 이번 일에 휘말리게 하고 싶진 않았어, 하지만 시라쿠사에서 그 녀석들을 만났을 땐 안심이 되더라고. 자유로운 생활, 그리고 소란스러운 동료들…… 용문에서 그 녀석들과 함께하기로 했던 건, 여태까지 했던 선택 중에서 가장 잘한 일이었다고 생각해. 이 얘기는 그 녀석들한테는 하지 말아 줘.",
+                "cn": "我不想把企鹅物流卷进来，但当我在叙拉古看到她们时，还是感到安心。自由的生活，吵闹的伙伴......当初来到龙门，与她们相处，是我做过最正确的选择。这些话，别告诉她们。"
+            },
+            "asset": "char_1028_texas2/CN_003"
+        },
+        {
+            "id": "char_1028_texas2_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Sometimes I hear Siracusans talking about the downfall of Famiglia Texas. No two versions of the story are the same. Most are pretty dull, and some make for interesting fairytales, but in the end, they're all pretty embellished. The real story is... I just got exhausted, and decided to leave.",
+                "jp": "時々、シラクーザ人からテキサスファミリー崩壊の物語を聞かされる。どれも内容はまちまちで、つまらないものばかりだが、なかなかよくできた話もある。だが結局、どれも作り話に過ぎない。あの時私は……ただ疲弊していて、離れる決意をするに至ったというだけのことだ。",
+                "kr": "시라쿠사 사람들한테 텍사스 패밀리의 몰락에 대한 얘기를 가끔씩 듣곤 해. 내용은 전부 제각각이고, 대부분 시시한 내용이지만 꽤 그럴듯한 얘기도 있었지. 하지만 결국 모두 지어낸 얘기에 불과해. 그때의 난…… 지칠 대로 지쳐서, 떠날 결심을 했을 뿐이야.",
+                "cn": "德克萨斯家族覆灭的故事，偶尔会听到叙拉古人谈起。每个版本都不一样，大部分很无聊，有的编得还不错，但都只是故事。当时......我只是感到疲倦，然后决定离开。"
+            },
+            "asset": "char_1028_texas2/CN_004"
+        },
+        {
+            "id": "char_1028_texas2_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Ever noticed how even the rain here stains the walls outside? Dirty rainwater can't wash anything clean. And that's Siracusa. Siracusans might be used to it, but I'm not.",
+                "jp": "シラクーザの都市外壁の雨染みを気にしたことはあるか？汚れた雨を何度浴びせても、決して清められはしない……それがシラクーザという国だ。シラクーザ人にとってはそれが当たり前だが、私はどうしても慣れないんだ。",
+                "kr": "도시 외벽에 있는 빗자국을 본 적 있어? 더러운 비를 아무리 쏟아내 봤자 깨끗해지는 건 없어…… 이게 시라쿠사라는 곳이야. 시라쿠사 사람에겐 당연한 얘기지만, 난 아무래도 익숙해지지 않아.",
+                "cn": "你注意过外墙上的雨渍吗？肮脏的雨带不来洁净，这就是叙拉古，叙拉古人习惯这一切，我不习惯。"
+            },
+            "asset": "char_1028_texas2/CN_005"
+        },
+        {
+            "id": "char_1028_texas2_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "I've got no interest in joining Greyhall. The dons sit in their chairs, acting all high and mighty, hiding their plans. I decided to confront Signora Sicilia because she thinks she can tame everyone, and that's one thing I can't stand.",
+                "jp": "元よりグレイホールに加わることに興味はなかった。あそこに籍を置いている連中は、腹に一物を抱えて虚勢を張っている奴ばかりだからな。私がミズ・シチリアに楯突くことを選んだのは、ただ……あの誰でも飼い慣らせるという態度が癪に障ったからだ。",
+                "kr": "그레이 홀에 속해 있는 녀석들은 전부 허세와 꿍꿍이로 가득 차 있지. 그러니 그 일원이 되는 것에는 관심이 없어. 시칠리아 부인에게 맞서기로 결심했던 건…… 누구나 길들일 수 있을 거라고 생각하는 그 태도가 너무 역겨웠기 때문이야.",
+                "cn": "我对成为灰厅的一员没有兴趣。坐在那里的人，每个都各怀心思，装腔作势。我选择面对西西里夫人，只是因为......她自以为可以驯化所有人，我很讨厌这一点。"
+            },
+            "asset": "char_1028_texas2/CN_006"
+        },
+        {
+            "id": "char_1028_texas2_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "I saw Lappland in Siracusa. Oh, you haven't seen her in a while? Not like she needs anyone worrying about her. If she's over me now, she'll find something else to cut. As for the score we haven't settled, I say it doesn't matter. We'll meet again soon enough.",
+                "jp": "そういえば、シラクーザでラップランドと会ったんだ。もうずいぶん長く姿を見せていない？あいつのことなら心配するだけ無駄だ。私への執着がなくなっても、次に斬りたいものを見つけているはずさ。それに、私たちの勝負に関しても取るに足らないことだ。どの道すぐに再会することになる。",
+                "kr": "그러고 보니 시라쿠사에서 라플란드를 만났어. 꽤 오랫동안 모습을 드러내지 않았다고? 그 녀석이라면 걱정하지 않아도 괜찮아. 나에 대한 집착이 사라졌다 해도, 결국 그다음에 벨 것을 찾고 있을 테니까. 우리 사이의 승부도 별로 중요한 일은 아니야. 어차피 곧 다시 만나게 되겠지.",
+                "cn": "我在叙拉古见过拉普兰德。她已经很久没出现过了？那家伙并不需要别人担心，她不再执着于我，也会去砍其他东西。至于我们之间的胜负，并不重要。我们很快会再见的。"
+            },
+            "asset": "char_1028_texas2/CN_007"
+        },
+        {
+            "id": "char_1028_texas2_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "I was born in Columbia, but my grandfather wanted me to become a proper mafiosa and sent me to Siracusa to learn the trade. But to this day I don't understand why the people here like macaroni so much? I used to go to this little place for macaroni myself, but it closed down a long time ago. The owner died in a back alley.",
+                "jp": "私はクルビア生まれだが、ファミリーの一員に足る実力を付けるために、お爺様によってシラクーザへ修行に出されたんだ。それにしても、シラクーザ人の異様なまでのマカロニ好きは未だに理解できない。私にも行きつけの店はあったが、店主の死体が路地裏で見つかって、それっきりさ。",
+                "kr": "난 컬럼비아에서 태어났지만, 할아버지는 내가 패밀리의 일원으로서 자격을 갖추길 바랐기에 시라쿠사로 수행을 보내셨어. 난 시라쿠사 사람들이 왜 그렇게 마카로니를 좋아하는지 아직도 이해가 안 돼. 나도 단골 가게가 있긴 했지만, 이미 없어졌어. 가게 주인의 시체가 뒷골목에서 발견됐거든.",
+                "cn": "我在哥伦比亚出生，但爷爷希望我成为一名合格的家族成员，所以送我到叙拉古接受训练。我依然不明白，为什么这里的人那么喜欢通心粉？我曾经也有常去的店，它已经消失了，老板死在了巷子里。"
+            },
+            "asset": "char_1028_texas2/CN_008"
+        },
+        {
+            "id": "char_1028_texas2_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "In Siracusa, there were a whole lot of people trying to guess what I'd do. It wasn't that complicated. I was there to do what I had to do, and help those who deserved help. Doctor, all I ask is that we continue to get along just like we used to. This relationship, built on real trust, is hard to find there.",
+                "jp": "シラクーザにいると、あちこちの連中から行動を分析されているような気配を感じる。だが私は単純にやりたいことをやって、助ける価値のある奴を助けているだけだ。ドクター、私たちの付き合いもこれまで通りで頼む。こんな風に心から信頼し合える関係は、あそこでは珍しいんだ。",
+                "kr": "시라쿠사에 있으면 사람들이 내 행동을 분석하는 듯한 느낌이 들어. 하지만 난 그저, 계속해서 하고 싶은 일을 하고, 도울 가치가 있는 녀석을 도울 뿐이야. 박사, 우리의 관계도 지금까지처럼 부탁할게. 이렇게 진심으로 신뢰할 수 있는 관계는, 저쪽에선 드물거든.",
+                "cn": "在叙拉古，好像很多人在揣摩我的行动。没那么复杂，我只是做想要做的事，帮值得帮的人。博士，我们之间的相处，维持以前的样子就好。这种可以真正信赖的关系，在那里并不多见。"
+            },
+            "asset": "char_1028_texas2/CN_009"
+        },
+        {
+            "id": "char_1028_texas2_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "It's quiet here. No hitmen haunting the shadows, no wolves waiting in the alleys.",
+                "jp": "一休みしよう。ここでは物陰の殺し屋や、路地裏の狼に気を病む必要はないんだ。",
+                "kr": "잠깐 쉬자. 여기라면 그림자 속에 숨은 킬러나, 뒷골목의 늑대를 걱정할 필요는 없어.",
+                "cn": "休息时间。这里不会有阴影中的杀手，巷子里的狼。"
+            },
+            "asset": "char_1028_texas2/CN_010"
+        },
+        {
+            "id": "char_1028_texas2_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "We meet again, Doctor. The Siracusan rainy season always gets my tail wet, so I prefer the climate here. Don't worry, Exusiai and the girls will keep taking care of the deliveries, but I'll handle any jobs assigned to me personally.",
+                "jp": "また会えたな、ドクター。シラクーザの雨期は尻尾が湿って不快だから、ここはずいぶん過ごしやすく感じるよ。心配しなくても、宅配業務はエクシアたちがこれまで通り引き受ける。ただもし私個人への依頼があれば、引き続き対応しよう。",
+                "kr": "또 보네, 박사. 시라쿠사의 장마철에는 꼬리가 쉽게 젖었는데, 이곳은 그러지 않아서 더 지내기 편한 것 같아. 택배 업무는 예전처럼 엑시아 쪽에서 담당할 거야. 하지만 혹시라도 나한테 맡길 개인적인 의뢰가 있다면 내가 맡도록 할게.",
+                "cn": "又见面了，博士。叙拉古的雨季容易弄湿尾巴，这里的环境更舒适。别担心，快递业务能天使她们会继续受理，不过，如果仍有指派给我个人的任务，我也会执行。"
+            },
+            "asset": "char_1028_texas2/CN_011"
+        },
+        {
+            "id": "char_1028_texas2_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Thanks. Doesn't seem much different from your average delivery run in Lungmen.",
+                "jp": "ありがとう。龍門での配送業務とそう変わらないな。",
+                "kr": "고마워. 용문에서 하던 물류 업무와 크게 다르진 않은 것 같네.",
+                "cn": "谢谢，和在龙门运送货物基本没什么不同。"
+            },
+            "asset": "char_1028_texas2/CN_012"
+        },
+        {
+            "id": "char_1028_texas2_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "I'm not helping you for the money, Doctor. But still, go ahead and send my salary over to Penguin Logistics as usual. I'll pick it up from Emperor.",
+                "jp": "ドクターに協力しているのは報酬のためではない。いや、そうだな……報酬の支払いはこれまで通りペンギン急便に頼む。後ほどボスに請求するからな。",
+                "kr": "보수 때문에 박사에게 협력하는 건 아니었는데. 음…… 그래도 보수는 지금처럼 펭귄 로지스틱스 쪽으로 보내 줘. 그럼 나중에 보스한테 청구할게.",
+                "cn": "我协助你的行动不是为了报酬，博士。嗯......不过，请照旧把薪资支付给企鹅物流，我还会找大帝要的。"
+            },
+            "asset": "char_1028_texas2/CN_013"
+        },
+        {
+            "id": "char_1028_texas2_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "I still have a lot to take care of before I can enjoy a peaceful life, and if the only way to shake the past is to smash it to pieces, then that's exactly what I'll do. Simple as that.",
+                "jp": "平穏に暮らすためにも、やるべきことはまだまだある。過去から脱却するにはそれを打ち砕くほかないのなら、お望み通り打ち砕いてやろう。簡単な話だ。",
+                "kr": "평화로운 생활을 위해선 아직 처리해야 할 일이 많아. 만약 과거에서 벗어나기 위해 그것을 때려 부숴야 한다면, 난 기꺼이 때려 부술 거야. 정말 간단한 일이지.",
+                "cn": "为了平静的生活，我还有很多事情需要处理，如果摆脱过去的方法只有粉碎它，那我就会粉碎它。就这么简单。"
+            },
+            "asset": "char_1028_texas2/CN_014"
+        },
+        {
+            "id": "char_1028_texas2_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Order confirmed, crystal clear.",
+                "jp": "明確な作戦目標だな、了解した。",
+                "kr": "명확한 임무 목표로군, 확인했다.",
+                "cn": "很清晰的任务目标，已经确认。"
+            },
+            "asset": "char_1028_texas2/CN_017"
+        },
+        {
+            "id": "char_1028_texas2_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Alright. Try to keep up. Let me know if you can't.",
+                "jp": "仕方ない、だが私に合わせてもらうぞ。難しそうなら今のうちに言ってくれ。",
+                "kr": "어쩔 수 없네, 우선은 내게 맞춰줘. 어려울 것 같으면 지금 말해주고.",
+                "cn": "好吧，跟上我的节奏，如果认为有难度，提前说出来。"
+            },
+            "asset": "char_1028_texas2/CN_018"
+        },
+        {
+            "id": "char_1028_texas2_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "No need to make a scene.",
+                "jp": "派手にやる必要はない。",
+                "kr": "쓸데없이 소란을 피울 필요는 없겠지.",
+                "cn": "不需要闹出太大动静。"
+            },
+            "asset": "char_1028_texas2/CN_019"
+        },
+        {
+            "id": "char_1028_texas2_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Don't leave bloodstains. They're hard to clean.",
+                "jp": "血は残すな。後片付けが面倒になる。",
+                "kr": "핏자국을 남기지 마, 처리하기 힘들거든.",
+                "cn": "别留下血迹，很难清理。"
+            },
+            "asset": "char_1028_texas2/CN_020"
+        },
+        {
+            "id": "char_1028_texas2_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Moving to designated location.",
+                "jp": "指定の位置に向かう。",
+                "kr": "지정된 위치로 가겠다.",
+                "cn": "准备进入预定位置。"
+            },
+            "asset": "char_1028_texas2/CN_021"
+        },
+        {
+            "id": "char_1028_texas2_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Need speed to succeed.",
+                "jp": "さっさと片付ければ楽に終わる。",
+                "kr": "빠르게 처리해야 고통이 적을 거야.",
+                "cn": "行动越快，痛苦越少。"
+            },
+            "asset": "char_1028_texas2/CN_022"
+        },
+        {
+            "id": "char_1028_texas2_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Got a problem that needs solving?",
+                "jp": "何を片付ければいい？",
+                "kr": "내가 뭘 해결해줘야 하지?",
+                "cn": "有什么问题需要解决？"
+            },
+            "asset": "char_1028_texas2/CN_023"
+        },
+        {
+            "id": "char_1028_texas2_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "I see them. I'll be right back.",
+                "jp": "ターゲット確認。すぐに終わらせる。",
+                "kr": "목표 확인. 금방 끝내지.",
+                "cn": "我看到他了，马上就好。"
+            },
+            "asset": "char_1028_texas2/CN_024"
+        },
+        {
+            "id": "char_1028_texas2_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Bad luck, you ran into me.",
+                "jp": "私に出会ったのが運の尽きだ。",
+                "kr": "운이 없었군, 나랑 마주치다니.",
+                "cn": "很不幸，你遇到我了。"
+            },
+            "asset": "char_1028_texas2/CN_025"
+        },
+        {
+            "id": "char_1028_texas2_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "You saw nothing.",
+                "jp": "ここでは何も起きていない。",
+                "kr": "여긴 아무 일도 없었다.",
+                "cn": "这里什么都没有发生。"
+            },
+            "asset": "char_1028_texas2/CN_026"
+        },
+        {
+            "id": "char_1028_texas2_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Pass on your last words? No.",
+                "jp": "遺言の伝達？断る。",
+                "kr": "유언을 전해 달라고? 거절한다.",
+                "cn": "遗言转述？我不受理。"
+            },
+            "asset": "char_1028_texas2/CN_027"
+        },
+        {
+            "id": "char_1028_texas2_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "This will keep you quiet.",
+                "jp": "これで静かになってくれるな。",
+                "kr": "이걸로 조용해졌으면 좋겠네.",
+                "cn": "这样能让你安静下来。"
+            },
+            "asset": "char_1028_texas2/CN_028"
+        },
+        {
+            "id": "char_1028_texas2_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "The only way to solve a problem is to clear all the obstacles in the way, no matter what they might be and keep moving.",
+                "jp": "道を阻むものが何であれ、排除して進み続けるのが唯一の解決法だ。",
+                "kr": "문제를 해결하기 위해선, 내 앞을 가로막는 장애물을 전부 치워 버리고 계속해서 나아간다는 방법밖에 없다.",
+                "cn": "不论障碍是什么，扫清它，然后继续前进，这是真正解决问题的唯一方法。"
+            },
+            "asset": "char_1028_texas2/CN_029"
+        },
+        {
+            "id": "char_1028_texas2_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "A battle without an explosion or cheering makes me feel a little uneasy. Let's head back. A drink? Maybe next time.",
+                "jp": "爆発や歓声の伴わない戦闘にはなかなか慣れないな。帰ろう、仕事の後の一杯は遠慮しておく。",
+                "kr": "폭발이나 환호성이 없는 전투는 좀처럼 익숙해지질 않네. 돌아가자, 퇴근 후에 한잔하는 건 사양하도록 하지.",
+                "cn": "没有伴随爆炸与欢呼的战斗，稍微有点不适应。回去吧，喝一杯就免了。"
+            },
+            "asset": "char_1028_texas2/CN_030"
+        },
+        {
+            "id": "char_1028_texas2_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "There's still more to clean. When's our next sweep?",
+                "jp": "まだ掃除は終わっていない。次の目標地点はどこだ？",
+                "kr": "아직 '청소'가 끝나지 않았다. 다음 계획은 어디로 가면 되지?",
+                "cn": "清理还没有彻底完成，下一次扫除计划在哪里？"
+            },
+            "asset": "char_1028_texas2/CN_031"
+        },
+        {
+            "id": "char_1028_texas2_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "I can take out a few more. You go ahead and retreat.",
+                "jp": "まだ何人かやれる、ドクターは先に撤退してくれ。",
+                "kr": "아직 몇 명 더 해치울 수 있어, 박사는 먼저 철수해.",
+                "cn": "我还能再干掉几个，你先撤离。"
+            },
+            "asset": "char_1028_texas2/CN_032"
+        },
+        {
+            "id": "char_1028_texas2_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "This place reminds me of Lungmen. It's quiet. Doesn't have the constant pitter patter of the rain.",
+                "jp": "ここにいると龍門での日々を思い出す。雨の音も滅多に聞こえないし、静かで良い場所だ。",
+                "kr": "여기 있으면 용문에서 보낸 시간이 떠오르곤 해. 빗소리도 별로 들리지 않고, 조용하고 좋은 곳이지.",
+                "cn": "这里让我想到了还在龙门的日子。不常有雨声，很安静。"
+            },
+            "asset": "char_1028_texas2/CN_033"
+        },
+        {
+            "id": "char_1028_texas2_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Hey. Stop it.",
+                "jp": "おい、よせ。",
+                "kr": "어이, 건들지 마.",
+                "cn": "喂，别闹。"
+            },
+            "asset": "char_1028_texas2/CN_034"
+        },
+        {
+            "id": "char_1028_texas2_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Doctor, where's the hair dryer? I'd like to dry my tail.",
+                "jp": "ドクター、ドライヤーはあるか？尻尾を乾かしたいんだ。",
+                "kr": "박사, 드라이기 있어? 꼬리를 말리고 싶은데.",
+                "cn": "博士，吹风机在哪？我想把尾巴烘干。"
+            },
+            "asset": "char_1028_texas2/CN_036"
+        },
+        {
+            "id": "char_1028_texas2_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_1028_texas2/CN_037"
+        },
+        {
+            "id": "char_1028_texas2_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Great, this place is the same as it ever was. Morning. Got any new plans?",
+                "jp": "うん、これまで通りで何よりだ。おはよ、予定は決まっているか？",
+                "kr": "응, 예전과 같아서 좋네. 좋은 아침, 혹시 새로운 계획이라도 있어?",
+                "cn": "嗯，和以前一样，这再好不过。早，有什么新计划吗？"
+            },
+            "asset": "char_1028_texas2/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Jessica Preddy",
+            "global": "Jessica Preddy"
+        },
+        "cn": {
+            "native": "杨梦露",
+            "global": "Menglu Yang"
+        },
+        "jp": {
+            "native": "田所あずさ",
+            "global": "Azusa Tadokoro"
+        },
+        "kr": {
+            "native": "김채하",
+            "global": "Kim Chae-ha"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

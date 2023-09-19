@@ -1,0 +1,532 @@
+{
+    "charid": "char_120_hibisc",
+    "nameid": "hibisc",
+    "names": {
+        "en": "Hibiscus",
+        "jp": "ハイビスカス",
+        "kr": "히비스커스",
+        "cn": "芙蓉"
+    },
+    "voices": [
+        {
+            "id": "char_120_hibisc_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Did you call for me, Doctor? I feel so happy to be with you!",
+                "jp": "お呼びですか、ドクター！私、ドクターと一緒にいられるのがとっても嬉しいんです！",
+                "kr": "부르셨나요, 박사님! 저, 박사님이랑 같이 있을 수 있다는 게 진짜 기뻐요!",
+                "cn": "您叫我吗，博士！我很高兴能和博士待在一起！"
+            },
+            "asset": "char_120_hibisc/CN_001"
+        },
+        {
+            "id": "char_120_hibisc_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Doctor! Dr. Kal'tsit said that you need to look after your health more. In two words, E-A-T L-E-S-S! So there!",
+                "jp": "ドクター！ケルシー先生がドクターはもっと健康に注意すべきだって言ってましたよ。簡単に言うと、食・べ・過・ぎ・な・い・よ・う・に！です！",
+                "kr": "박사님! 켈시 선생님이, 박사님은 좀 더 건강에 신경을 써야 한다고 그랬어요. 쉽게 말하자면, 과·식·하·지·말·아·라! 이거죠!",
+                "cn": "博士！凯尔希医生说博士应该更注意健康哦。简单说的话，就是要·减·少·进·食！这样！"
+            },
+            "asset": "char_120_hibisc/CN_002"
+        },
+        {
+            "id": "char_120_hibisc_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "You know, Doctor, if my sister starts getting all bossy with you, you have to tell me! She needs my treatment or else!",
+                "jp": "あのね、ドクター。妹にね、もし横暴な態度をされたら、絶対に教えてくださいね。あの子は私が治してあげないとダメなんです！",
+                "kr": "있잖아요, 박사님. 여동생이 혹시 난폭하게 굴면 꼭 알려주셔야 해요? 걔는 꼭 제가 한 마디 해야 말을 듣더라고요!",
+                "cn": "那个，博士，如果我妹妹还是那样态度蛮横，请一定要告诉我哦！那个孩子缺少了我的治疗是绝对不行的！"
+            },
+            "asset": "char_120_hibisc/CN_003"
+        },
+        {
+            "id": "char_120_hibisc_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Dr. Kal'tsit teaches me a ton of practical stuff, although it's tough to actually learn! At least I've always had a knack for nutrition, so I think I'm doing well with that!",
+                "jp": "ケルシー先生が教えてくれることって、すごーく役に立つんですけど、やっぱり難しいですね！でもでも、栄養学は元々得意だったから、うまくやれてると思いますよ！",
+                "kr": "켈시 선생님께서 알려주시는 내용은 정~말 도움이 되긴 하는데, 역시 어려워요! 그래도 그래도, 영양학은 원래부터 자신 있었으니까, 잘 할 수 있을 것 같아요!",
+                "cn": "凯尔希老师教我的知识都很有用，虽然也很难学。不过，因为营养学本来就是我最擅长的，所以我觉得自己做的很好哦。"
+            },
+            "asset": "char_120_hibisc/CN_004"
+        },
+        {
+            "id": "char_120_hibisc_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "I feel better about everyone here, compared to when I just joined Rhodes Island! And they all eat my healthy food on schedule! But... why does everyone pull these weird faces when they finish?",
+                "jp": "今は、ロドスに来た頃より気が楽です！みんなも時間通りに、ちゃんと私の健康食を食べてくれますし。ただ……なんでみんな、すぐ変な顔をするんでしょうか？",
+                "kr": "지금은 로도스 아일랜드에 막 왔을 때보다 마음이 편해요! 다른 분들도 시간에 맞춰서 제가 만든 건강식을 잘 드셔주시고요. 근데…… 왜 다들 금방 표정이 이상하게 변할까요?",
+                "cn": "比起刚加入罗德岛时，现在我对大家更放心了！大家也会按时吃掉我的健康食品。只是，为什么吃完之后，大家的表情都变得那么奇怪呢？"
+            },
+            "asset": "char_120_hibisc/CN_005"
+        },
+        {
+            "id": "char_120_hibisc_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Tadaaaaaah! A special healthy meal just for you, Doctor! Decaf coffee and a hamburger without meat, cheese, pickles, or lettuce! Oh, and a mixed salad made of 12 different vegetables!",
+                "jp": "ジャ～ン！ドクター用スペシャル健康食でーす！カフェインレスコーヒーに、肉とチーズ、ピクルス、レタス抜きのハンバーガーです！あと、野菜十二種のミックスサラダもありますよ～！",
+                "kr": "짠~ 박사님을 위한 스페셜 건강식입니다~! 디카페인 커피랑~ 고기, 치즈, 피클을 뺀 양상추 햄버거예요! 그리고 열두 가지 채소를 넣은 샐러드도 준비했답니다~!",
+                "cn": "锵——博士特供健康餐！清咖啡、不加肉类、芝士、酸黄瓜的生菜汉堡！还有，还有用十二种蔬菜混合制成的沙拉哦！"
+            },
+            "asset": "char_120_hibisc/CN_007"
+        },
+        {
+            "id": "char_120_hibisc_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Hey, Doctor, where does your family live? Are they doing well? I know there's things you can't tell them about because they're your family... but, still, I think you've got to reach out. You have to try, at least.",
+                "jp": "あのう……ドクターのご家族って、どちらにいらっしゃるんですか？皆さんお元気なんでしょうか？家族だからこそ言えないことって確かにありますよね……。それでも、家族なんですから、ちゃんと話し合わないとだめだって思います。",
+                "kr": "저기…… 박사님의 가족분들은 어디 계세요? 다들 건강히 잘 지내시나요? 가족이라서 더 말 못하는 것도 있긴 하죠…… 그래도, 가족이니까 대화를 나눠야 한다고 생각해요.",
+                "cn": "那个，博士，您的家人在什么地方呢？他们还好吗？有些事，正因为是亲人才难以沟通，但我觉得也不能因为很难就拒绝沟通，对吧？"
+            },
+            "asset": "char_120_hibisc/CN_008"
+        },
+        {
+            "id": "char_120_hibisc_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Isn't it lonely cooking all by yourself? Let me help you out! Oh, right, and let's get Lava in here too!",
+                "jp": "ひとりでお食事するのは寂しくないですか？私がお付き合いしましょう？そうだ、ラヴァちゃんも呼びましょう！",
+                "kr": "혼자 식사하시면 쓸쓸하지 않으세요? 저랑 같이 드실래요? 맞다, 라바도 부를게요~!",
+                "cn": "如果一个人吃饭太寂寞的话，就让我来陪您一起吃吧！对啦，还可以叫上炎熔！"
+            },
+            "asset": "char_120_hibisc/CN_009"
+        },
+        {
+            "id": "char_120_hibisc_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Doctor, did you fall asleep? Have a good rest then. You need to sleep plenty to stay healthy.",
+                "jp": "……ドクター、眠っていらっしゃるんですか？……ゆっくり休んでくださいね。睡眠を十分にとるのは大切なことですよ。",
+                "kr": "……박사님, 주무시고 계시나요? ……푹 쉬세요. 잠은 충분히 자는 게 중요하니까요.",
+                "cn": "博士，您睡着了吗？那就请好好休息吧，充分的睡眠对健康很有好处。"
+            },
+            "asset": "char_120_hibisc/CN_010"
+        },
+        {
+            "id": "char_120_hibisc_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "This is intern Hibiscus. From now on, I'll be in charge of managing yours and every Operator's health at Rhodes Island. Thank you for your cooperation!",
+                "jp": "医師見習いのハイビスカスです。みんなからはハイビスって呼ばれてます。今日からドクターとロドスの皆さんの健康管理をしていきますので、よろしくお願いします！",
+                "kr": "수련의 히비스커스라고 합니다. 다들 히비스라고 불러요. 오늘부터 박사님과 로도스 아일랜드 분들의 건강 관리를 책임질 예정이니까요, 잘 부탁드려요!",
+                "cn": "实习医生芙蓉，今天开始，我会负责您和罗德岛各位干员的健康管理项目，请多多关照！"
+            },
+            "asset": "char_120_hibisc/CN_011"
+        },
+        {
+            "id": "char_120_hibisc_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Oh, I see! So that's how you do it!",
+                "jp": "なるほど……なるほど！そういうことですね！",
+                "kr": "아~ 이렇게 하는 거구나~!",
+                "cn": "原来如此原来如此！是这样啊！"
+            },
+            "asset": "char_120_hibisc/CN_012"
+        },
+        {
+            "id": "char_120_hibisc_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "It's my honor to be promoted! I'm looking forward to working under you for the health management of us all, Doctor!",
+                "jp": "私が昇進できるなんて光栄です！ドクター、これからも皆さんのために頑張って健康管理を行いますので……私のことを見守っててくださいね！",
+                "kr": "제가 승진을 하다니 영광이에요! 박사님, 앞으로도 모두를 위해 건강 관리 열심히 할 테니까요…… 저 꼭 지켜봐 주세요!",
+                "cn": "很荣幸能获得晋升！博士，今后我也会为大家努力进行健康管理，请随时监督我！"
+            },
+            "asset": "char_120_hibisc/CN_013"
+        },
+        {
+            "id": "char_120_hibisc_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "I won't fail you! I'll protect everyone!",
+                "jp": "失望はさせません。皆さんのことは私がお守りします！",
+                "kr": "실망하지 않을 거예요. 다들 제가 꼭 지켜드리겠습니다!",
+                "cn": "不会让您失望的！就让我来保护大家！"
+            },
+            "asset": "char_120_hibisc/CN_017"
+        },
+        {
+            "id": "char_120_hibisc_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Acknowledged! I'll take good care of everyone! First, I need to get my special sustained-release medicine ready...",
+                "jp": "わかりました！皆さんの命、私がお預かりします！それではまず、効果が持続する秘薬を用意して……。",
+                "kr": "알겠습니다! 여러분의 목숨은 제가 맡겠습니다! 그럼 우선, 효과가 지속되는 비약을 준비하고…… ",
+                "cn": "我知道了！大家的生命就由我来守护！首先，应该准备好特制缓释秘药......"
+            },
+            "asset": "char_120_hibisc/CN_018"
+        },
+        {
+            "id": "char_120_hibisc_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Please take good care of yourself while I'm gone!",
+                "jp": "あの、私が留守のあいだは、くれぐれも身の安全にお気をつけください！",
+                "kr": "저기, 제가 없는 동안에는, 평소보다 더 안전에 신경 써주셔야 해요! ",
+                "cn": "我不在的时候，博士一定要注意自己的安全！"
+            },
+            "asset": "char_120_hibisc/CN_019"
+        },
+        {
+            "id": "char_120_hibisc_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Ready to heal!",
+                "jp": "治療の用意を！",
+                "kr": "치료를 준비하겠습니다!",
+                "cn": "准备治疗！"
+            },
+            "asset": "char_120_hibisc/CN_020"
+        },
+        {
+            "id": "char_120_hibisc_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Don't be afraid!",
+                "jp": "怖がらないでください！",
+                "kr": "무서워하지 마세요!",
+                "cn": "别怕！"
+            },
+            "asset": "char_120_hibisc/CN_021"
+        },
+        {
+            "id": "char_120_hibisc_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Doctor?",
+                "jp": "ドクター？",
+                "kr": "박사님?",
+                "cn": "博士？"
+            },
+            "asset": "char_120_hibisc/CN_022"
+        },
+        {
+            "id": "char_120_hibisc_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "There we go.",
+                "jp": "よいっしょっと。",
+                "kr": "읏차~",
+                "cn": "嘿咻。"
+            },
+            "asset": "char_120_hibisc/CN_023"
+        },
+        {
+            "id": "char_120_hibisc_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "It's safe here!",
+                "jp": "ここは安全です！",
+                "kr": "이곳은 안전합니다!",
+                "cn": "这里很安全！"
+            },
+            "asset": "char_120_hibisc/CN_024"
+        },
+        {
+            "id": "char_120_hibisc_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Please come to your senses!",
+                "jp": "目を覚ましてください！",
+                "kr": "눈을 뜨세요!",
+                "cn": "请睁开眼睛！"
+            },
+            "asset": "char_120_hibisc/CN_025"
+        },
+        {
+            "id": "char_120_hibisc_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "I can heal that wound in no time!",
+                "jp": "もっと早く傷が癒えるように手伝います！",
+                "kr": "상처가 더 빠르게 나을 수 있게 도와드릴게요!",
+                "cn": "我能让你的伤口快速愈合！"
+            },
+            "asset": "char_120_hibisc/CN_026"
+        },
+        {
+            "id": "char_120_hibisc_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Even if everyone gets wounded, I can heal them all with my staff!",
+                "jp": "皆さんが傷を負っても……この杖でしっかり治療してあげます！",
+                "kr": "여러분이 상처를 입으셔도… 이 지팡이로 확실하게 치료해드릴게요!",
+                "cn": "无论有多少伤员，我都能用这把杖治好大家！"
+            },
+            "asset": "char_120_hibisc/CN_029"
+        },
+        {
+            "id": "char_120_hibisc_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Looking after everyone's health is my greatest motivation.",
+                "jp": "皆さんが無事であることが、私にとって、一番の励ましになります……。",
+                "kr": "여러분이 무사하신 모습이 제겐 가장 큰 힘이 된답니다…… ",
+                "cn": "每个人都平平安安的，就是对我最大的鼓励啦。"
+            },
+            "asset": "char_120_hibisc/CN_030"
+        },
+        {
+            "id": "char_120_hibisc_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Doctor! Everyone! Are you alright?",
+                "jp": "ドクター！皆さん！怪我はないでしょうか？",
+                "kr": "박사님! 여러분! 다친 데는 없으세요?",
+                "cn": "博士！大家！没有受伤吧？"
+            },
+            "asset": "char_120_hibisc/CN_031"
+        },
+        {
+            "id": "char_120_hibisc_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "No... First aid needed!",
+                "jp": "ダメ……緊急治療を……！",
+                "kr": "안 되겠어… 응급 치료를…!",
+                "cn": "不对......需要急救！"
+            },
+            "asset": "char_120_hibisc/CN_032"
+        },
+        {
+            "id": "char_120_hibisc_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Anything I can help with?",
+                "jp": "何かお手伝いしましょうか？",
+                "kr": "도와드릴 일이 있을까요?",
+                "cn": "有什么需要帮忙的吗？"
+            },
+            "asset": "char_120_hibisc/CN_033"
+        },
+        {
+            "id": "char_120_hibisc_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Oh, my~!",
+                "jp": "あら～。",
+                "kr": "어머멋~!",
+                "cn": "啊呀~！"
+            },
+            "asset": "char_120_hibisc/CN_034"
+        },
+        {
+            "id": "char_120_hibisc_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Doctor, do you want to have a taste of my new vitamin drink?",
+                "jp": "ドクター、新作の栄養ドリンク、試してみませんか？",
+                "kr": "박사님, 영양 드링크를 이번에 또 새로 개발했는데, 한번 드셔보실래요?",
+                "cn": "博士，要试一下新的功能饮品吗？"
+            },
+            "asset": "char_120_hibisc/CN_036"
+        },
+        {
+            "id": "char_120_hibisc_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_120_hibisc/CN_037"
+        },
+        {
+            "id": "char_120_hibisc_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Doctor! Would you mind tasting this?",
+                "jp": "ドクター、これを食べてみませんか？",
+                "kr": "박사님, 이거 드셔보실래요?",
+                "cn": "博士，要不要尝尝这个？"
+            },
+            "asset": "char_120_hibisc/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Yuuki Luna",
+            "global": "Yuuki Luna"
+        },
+        "cn": {
+            "native": "龟娘",
+            "global": "D. QQ"
+        },
+        "jp": {
+            "native": "井口裕香",
+            "global": "Yuka Iguchi"
+        },
+        "kr": {
+            "native": "방연지",
+            "global": "Bang Yeon-ji"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

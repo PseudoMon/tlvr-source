@@ -1,0 +1,575 @@
+{
+    "charid": "char_325_bison",
+    "nameid": "bison",
+    "names": {
+        "en": "Bison",
+        "jp": "バイソン",
+        "kr": "바이슨",
+        "cn": "拜松"
+    },
+    "voices": [
+        {
+            "id": "char_325_bison_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Doctor, do you need my help transporting anything?",
+                "jp": "ドクター、何か運搬が必要なものはありませんか？",
+                "kr": "박사님, 운반해야 할 거 뭐 없으신가요?",
+                "cn": "博士，需要我帮忙搬什么东西吗？"
+            },
+            "asset": "char_325_bison/CN_001"
+        },
+        {
+            "id": "char_325_bison_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "This noisy metal music... sounds like Exusiai is throwing another one of her parties again. Doctor, should I go reprimand her?",
+                "jp": "この騒がしいロックサウンドは……エク姉、また一人でパーティーをやってるようです。注意してきましょうか、ドクター？",
+                "kr": "이 시끄러운 록 음악은…… 엑시아 누나, 또 혼자서 파티하고 있나 보네요. 주의를 좀 주고 올까요, 박사님?",
+                "cn": "这个吵闹的金属乐声......能天使姐又在自顾自开派对了。博士，要不要我去提醒她一下？"
+            },
+            "asset": "char_325_bison/CN_002"
+        },
+        {
+            "id": "char_325_bison_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "I'm quite good with manual labor. I also know a bit about company management as well. So, Doctor, is there anywhere I can be of use?",
+                "jp": "肉体労働はわりと得意ですよ。経営についてもある程度は理解しています。ということで、何かお手伝いできることはありませんか？",
+                "kr": "육체노동은 꽤 잘합니다. 경영에 대해서도 어느 정도 이해하고 있고요. 그래서 그런데, 뭐 도와드릴 거 없으신가요?",
+                "cn": "体力活的话，我很擅长。公司经营方面的事务，我也懂一些。所以，博士，有什么我能派上用场的地方吗？"
+            },
+            "asset": "char_325_bison/CN_003"
+        },
+        {
+            "id": "char_325_bison_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "My parents were the first generation to settle in Lungmen, so I'm actually a Lungmen native... Doctor, if there's anything you'd like to learn about it, I wouldn't mind helping you out.",
+                "jp": "ぼくの一家は、父の代で龍門に落ち着きましたので、ぼくは正真正銘の龍門人ですよ……。龍門について何か知りたいことがあれば、なんでも聞いてください。",
+                "kr": "저희 일가는 아버지 대에 용문에 정착했으니까, 전 100% 용문인이죠. 용문에 대해 알고 싶으신 게 있으시면, 뭐든 물어봐 주세요.",
+                "cn": "因为父亲这一代在龙门扎根，我其实是土生土长的龙门人......博士你要是想了解龙门的话，我倒是可以帮上忙。"
+            },
+            "asset": "char_325_bison/CN_004"
+        },
+        {
+            "id": "char_325_bison_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Doctor, if you want to know how a real logistics company operates, it'd be best to just ask me directly. Penguin Logistics is more of an exception than the rule, and though I don't mean this in a bad way, they don't have any reference value whatsoever.",
+                "jp": "ドクター、「普通」の物流会社の運営について何か知りたいなら、他のペンギン急便の社員じゃなくて、直接ぼくに聞いてくださいね。ぼくが言うのもなんですが、ペンギン急便はちょっと特殊ですから、参考になるとは思えません……。",
+                "kr": "박사님, '평범한' 물류회사의 운영에 대해 알고 싶으시면, 다른 펭귄 로지스틱스 사원들 말고 저한테 직접 물어보세요. 제 입으로 말씀드리긴 좀 그렇지만, 펭귄 로지스틱스는 좀~ 특수하다 보니…… 참고가 될 것 같진 않아서요.",
+                "cn": "博士，想知道正规物流公司的运作方式的话，直接来问我比较好。企鹅物流是个特例，毫无恶意地说，他们应该没有任何参考价值......"
+            },
+            "asset": "char_325_bison/CN_005"
+        },
+        {
+            "id": "char_325_bison_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "What do I like to do outside of work? Other than just resting, I'll sometimes accompany Croissant on her shopping trips and make sure she doesn't waste too much money... Doctor, do you also want to come along?",
+                "jp": "任務外の時間の過ごし方？そうですね……部屋で休憩する以外だと、よくクロ姉の買い物に付き合わされます。荷物を持たされたり、衝動買いを止める役を任されたり……ドクターも興味があれば一緒に来ませんか？",
+                "kr": "임무가 없을 땐 보통 뭘 하면서 시간을 보내냐고요? 글쎄요…… 방에서 쉬는 거 빼면, 크루아상 누나가 쇼핑하러 갈 때 끌려가는 경우가 많은 편이네요. 짐을 들거나, 충동구매를 말리거나…… 박사님도 관심이 있으시면, 같이 가보실래요?",
+                "cn": "任务之外的安排？一般除了休息，就是陪可颂姐逛街吧，我要负责帮她提东西，还要制止她乱花钱......博士也想一起来吗？"
+            },
+            "asset": "char_325_bison/CN_006"
+        },
+        {
+            "id": "char_325_bison_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "I used to believe that for any company to survive in the long run, standardization and efficiency were of critical importance. That's why at first, I couldn't fathom how a company like Penguin Logistics could stay afloat.",
+                "jp": "これまでぼくは、ルール化されたフローと効率の良い運用が、会社を長く運営していく鍵だと思っていました。だから、ペンギン急便みたいな会社が長くやってこられていることが、初めは全く理解できませんでした。",
+                "kr": "전 지금까지 계속, 회사를 오래 운영하려면 규정화된 플로우와 효율적인 운용이 관건이라 생각했습니다. 그래서, 펭귄 로지스틱스 같은 회사가 오랫동안 유지되는 게 처음엔 전혀 이해되지 않았죠.",
+                "cn": "我过去一直认为，对任何公司来说，规范的流程和高效的执行才是能让它长久运转的关键。所以最开始的时候，我非常不理解，为什么企鹅物流这样的公司能够存续下来。"
+            },
+            "asset": "char_325_bison/CN_007"
+        },
+        {
+            "id": "char_325_bison_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "After getting to know more about the people at Penguin Logistics and talking to them, I began to understand that the world is much broader than I had thought. There's nothing wrong with structure and rules, but they don't necessarily apply to everyone.",
+                "jp": "ペンギン急便に来て、テキ姉たちといろいろな経験をして、自分の知っている世界が、どれほど狭いものだったかに気づかされました。ルールや戒律を取り決めるのは正しいことですが、全ての人に、それが適しているというわけではないんです",
+                "kr": "펭귄 로지스틱스에 온 뒤론, 텍사스 누나나 다른 분들이랑 함께 다양한 경험을 하면서, 제가 알고 있는 세상이 얼마나 좁았는지 깨달았습니다. 질서나 규정을 정하는 건 옳은 일이지만, 모든 사람에게 그것이 적합한 건 아니거든요.",
+                "cn": "和企鹅物流的人接触了以后，和几位姐姐们的相处让我明白了一件事——这个世界，比我想的要宽广许多。条理与规则没有错，但它不适用于所有人。"
+            },
+            "asset": "char_325_bison/CN_008"
+        },
+        {
+            "id": "char_325_bison_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Doctor, perhaps you haven't realized this yourself, but the fact that you can unite so many people with very different personalities under one banner is no simple feat... It'd be great if I could become more like you one day.",
+                "jp": "ドクター、自分では気づいていないかもしれませんが、あんな個性豊かな面々をまとめ上げるのは、誰にでもできることではありません。……ぼくもいつかドクターのようになれたらいいですね。",
+                "kr": "박사님. 아마 박사님께선 깨닫지 못하셨을지도 모르지만, 이렇게 다양한 개성을 갖고 있는 사람들을 하나로 모으는 건, 아무나 쉽게 할 수 있는 일이 아닙니다…… 저도 언젠간, 박사님처럼 됐으면 좋겠네요.",
+                "cn": "博士，或许你自己没有发现，但是，能让那么多个性迥异的人都信服你，其实是一件非常不简单的事......要是有一天，我也能变得像博士你一样就好了。"
+            },
+            "asset": "char_325_bison/CN_009"
+        },
+        {
+            "id": "char_325_bison_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Doctor... You're taking a nap? I guess it can wait. Guess I'll start tidying up the place first.",
+                "jp": "ドクター……お休み中でしたか。仕方ない、掃除でもしときましょうか。",
+                "kr": "박사님…… 쉬고 계시네…… 별수 없지, 청소라도 좀 해둘까.",
+                "cn": "博士......唔，在休息吗，那我先打扫一下卫生吧。"
+            },
+            "asset": "char_325_bison/CN_010"
+        },
+        {
+            "id": "char_325_bison_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Pleased to meet you, Doctor. My name is Bison. According to the terms of our contract, I will now also be a member of Rhodes Island. I look forward to working with you.",
+                "jp": "初めまして、ドクター。ぼくはバイソンと申します。契約に則り、これからロドスの一員として働きますので、よろしくお願いします。",
+                "kr": "처음 뵙겠습니다, 박사님. 저는 바이슨이라고 합니다. 계약에 따라 앞으론 로도스 아일랜드의 일원으로 일하게 됐습니다. 잘 부탁드립니다.",
+                "cn": "初次见面，博士，我是拜松。按照合约内容，接下来我也会作为罗德岛的一员行动，请多指教。"
+            },
+            "asset": "char_325_bison/CN_011"
+        },
+        {
+            "id": "char_325_bison_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Thank you very much. I will make sure to learn from this.",
+                "jp": "ありがとうございます。しっかり勉強させていただきます。",
+                "kr": "감사합니다. 제대로 공부해 두겠습니다.",
+                "cn": "谢谢，我会好好学习的。"
+            },
+            "asset": "char_325_bison/CN_012"
+        },
+        {
+            "id": "char_325_bison_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Thank you very much, Doctor. As long as I put my best foot forward, my hard work will be rewarded. This is what I believe.",
+                "jp": "ありがとうございます、ドクター。一歩ずつ着実に歩んでいけば、きっと結果はついてくる。ぼくの信条です。",
+                "kr": "감사합니다, 박사님. “한 걸음씩 착실하게 걸어가면 반드시 그 결과가 따라온다”…… 이게 저의 신조입니다.",
+                "cn": "谢谢，博士。只要脚踏实地，总会有所收获，这是我的信条。"
+            },
+            "asset": "char_325_bison/CN_013"
+        },
+        {
+            "id": "char_325_bison_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "At Penguin Logistics and Rhodes Island, I saw a more expansive world than before... Doctor, one day, I will also find my place in this world.",
+                "jp": "ペンギン急便にもロドスにも、ぼくが見たことのない世界が広がっていました……いつかこの世界で、自分の居場所を見つけられるように、これからも精進します。",
+                "kr": "펭귄 로지스틱스에도 로도스 아일랜드에도, 제가 본 적 없는 세상이 펼쳐져 있더군요…… 언젠간, 이 세상에서 제가 있을 곳을 찾을 수 있도록, 앞으로도 정진하겠습니다.",
+                "cn": "在企鹅物流和罗德岛，我看到了更宽广的世界......博士，总有一天，我也会在这个世界里找到属于自己的位置。"
+            },
+            "asset": "char_325_bison/CN_014"
+        },
+        {
+            "id": "char_325_bison_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "A mission? Understood.",
+                "jp": "任務ですか？わかりました。",
+                "kr": "임무입니까? 알겠습니다.",
+                "cn": "要执行任务吗？我了解了。"
+            },
+            "asset": "char_325_bison/CN_017"
+        },
+        {
+            "id": "char_325_bison_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "On-site command? I have some experience with that.",
+                "jp": "現場の指揮なら、少しは経験があります。",
+                "kr": "현장 지휘라면, 저도 경험했던 게 좀 있습니다.",
+                "cn": "现场指挥的话......我稍微有些经验。"
+            },
+            "asset": "char_325_bison/CN_018"
+        },
+        {
+            "id": "char_325_bison_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Yes, I've noted the mission location and objectives.",
+                "jp": "はい、目的地と標的は把握しています。",
+                "kr": "네, 목적지와 표적은 전부 파악하고 있습니다.",
+                "cn": "嗯，任务地点和任务目标我都好好记住了。"
+            },
+            "asset": "char_325_bison/CN_019"
+        },
+        {
+            "id": "char_325_bison_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Hah... I won't be a burden on the others.",
+                "jp": "ふぅ……みなさんの足を引っ張ったりはしません。",
+                "kr": "후우…… 여러분의 발목을 붙잡는 일은 없도록 하겠습니다!",
+                "cn": "呼......我不会给大家拖后腿的。"
+            },
+            "asset": "char_325_bison/CN_020"
+        },
+        {
+            "id": "char_325_bison_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "What would you like me to do?",
+                "jp": "ぼくはどうすればいいですか？",
+                "kr": "저는 어떻게 하면 되나요?",
+                "cn": "我该怎么做，博士？"
+            },
+            "asset": "char_325_bison/CN_021"
+        },
+        {
+            "id": "char_325_bison_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Is it my turn, Doctor?",
+                "jp": "ぼくの番ですね。",
+                "kr": "제 차례네요.",
+                "cn": "到我了吗，博士。"
+            },
+            "asset": "char_325_bison/CN_022"
+        },
+        {
+            "id": "char_325_bison_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "I'll do my best.",
+                "jp": "頑張ります。",
+                "kr": "열심히 하겠습니다.",
+                "cn": "我会努力的。"
+            },
+            "asset": "char_325_bison/CN_023"
+        },
+        {
+            "id": "char_325_bison_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Got it.",
+                "jp": "了解です。",
+                "kr": "알겠습니다.",
+                "cn": "我知道了。"
+            },
+            "asset": "char_325_bison/CN_024"
+        },
+        {
+            "id": "char_325_bison_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "I can keep going.",
+                "jp": "まだいけます。",
+                "kr": "아직 할 수 있습니다.",
+                "cn": "我还坚持得住。"
+            },
+            "asset": "char_325_bison/CN_025"
+        },
+        {
+            "id": "char_325_bison_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Hang in there a bit longer? Understood.",
+                "jp": "もう少し耐えろですか？わかりました。",
+                "kr": "좀 더 버티라고요? 알겠습니다.",
+                "cn": "再坚持一下吗？我知道了。"
+            },
+            "asset": "char_325_bison/CN_026"
+        },
+        {
+            "id": "char_325_bison_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Don't worry, my shield still holds firm.",
+                "jp": "こう見えてぼくの盾は固いですよ。",
+                "kr": "이래 보여도, 제 방패는 단단하다고요!",
+                "cn": "请放心，我的盾还是很坚固的。"
+            },
+            "asset": "char_325_bison/CN_027"
+        },
+        {
+            "id": "char_325_bison_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Way to go, Doctor! You must be the kind of leader that every company wants to have if you wanted to change jobs.",
+                "jp": "さすがドクター……転職の場では引っ張りだこになるタイプですね。",
+                "kr": "역시 박사님이시네요…… 이직 시장에 나가시기라도 하면, 다들 스카우트 하겠다고 난리 나겠는데요?",
+                "cn": "博士......你要是转业的话，一定是每家公司都想要的那种管理人才。"
+            },
+            "asset": "char_325_bison/CN_029"
+        },
+        {
+            "id": "char_325_bison_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Wow, Doctor... You really are amazing!",
+                "jp": "やはりドクターは……すごいです。",
+                "kr": "역시 박사님은…… 대단하세요!",
+                "cn": "博士......果然很厉害。"
+            },
+            "asset": "char_325_bison/CN_030"
+        },
+        {
+            "id": "char_325_bison_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "The basic objectives of the mission have been accomplished. This should be good enough, right?",
+                "jp": "ひとまず第一目標は達成しました。これでいいですね？",
+                "kr": "일단, 이번 임무의 기본 목표는 달성해뒀습니다. 이 정도면 되겠죠?",
+                "cn": "任务的基础目标已经达成了，这样就可以了吧？"
+            },
+            "asset": "char_325_bison/CN_031"
+        },
+        {
+            "id": "char_325_bison_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Don't feel down, Doctor. We'll have another chance.",
+                "jp": "落ち込まないで、ドクター、まだ次のチャンスがありますから。",
+                "kr": "침울해하지 마세요, 박사님. 아직 다음 기회가 있으니까요.",
+                "cn": "博士，不要泄气，我们还有机会。"
+            },
+            "asset": "char_325_bison/CN_032"
+        },
+        {
+            "id": "char_325_bison_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "So this is the inside of Rhodes Island... It sure is big.",
+                "jp": "これがロドスの中……広いですね。",
+                "kr": "로도스 아일랜드의 내부는 이렇게 되어 있구나…… 넓네요.",
+                "cn": "罗德岛里面......真大。"
+            },
+            "asset": "char_325_bison/CN_033"
+        },
+        {
+            "id": "char_325_bison_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Where should I go?",
+                "jp": "どこに行けばいいですか？",
+                "kr": "어디로 가면 되나요?",
+                "cn": "要我去哪里？"
+            },
+            "asset": "char_325_bison/CN_034"
+        },
+        {
+            "id": "char_325_bison_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Sora's new album is really good.",
+                "jp": "ソラ姉の新しいアルバム、いいですね。",
+                "kr": "소라 누나의 새 앨범… 좋은데요.",
+                "cn": "空姐的新专辑......真好听。"
+            },
+            "asset": "char_325_bison/CN_036"
+        },
+        {
+            "id": "char_325_bison_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_325_bison/CN_037"
+        },
+        {
+            "id": "char_325_bison_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Good morning, Doctor!",
+                "jp": "おはようございます、ドクター。",
+                "kr": "좋은 아침입니다, 박사님.",
+                "cn": "早上好，博士！"
+            },
+            "asset": "char_325_bison/CN_042"
+        }
+    ],
+    "actors": {
+        "cn": {
+            "native": "卢晓彤",
+            "global": "Thea"
+        },
+        "jp": {
+            "native": "皆川純子",
+            "global": "Junko Minagawa"
+        },
+        "kr": {
+            "native": "배정미",
+            "global": "Bae Jeong-mi"
+        }
+    },
+    "availability": [
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

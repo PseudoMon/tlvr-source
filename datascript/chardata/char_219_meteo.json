@@ -1,0 +1,596 @@
+{
+    "charid": "char_219_meteo",
+    "nameid": "meteo",
+    "names": {
+        "en": "Meteorite",
+        "jp": "メテオリーテ",
+        "kr": "메테오라이트",
+        "cn": "陨星"
+    },
+    "voices": [
+        {
+            "id": "char_219_meteo_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "It's time for my shift. If I'm interrupting your work, I can wait outside.",
+                "jp": "当直で来ているだけよ。気になるようなら外で待機してあげるわ。",
+                "kr": "당직 시간이라 있는 거야. 업무에 방해된다면 밖에서 대기할게.",
+                "cn": "现在是我的值班时间。如果打扰到你办公了，我可以到外面待着。"
+            },
+            "asset": "char_219_meteo/CN_001"
+        },
+        {
+            "id": "char_219_meteo_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Have you gone through every new operator's personnel files and info?",
+                "jp": "新しく入ってくるオペレーター全員の個人情報、ちゃんと押さえてあるの？",
+                "kr": "새로 들어온 오퍼레이터들 개인정보, 제대로 파악하고 있어?",
+                "cn": "你有好好调查过每位新加入干员的个人信息和情报吗？"
+            },
+            "asset": "char_219_meteo/CN_002"
+        },
+        {
+            "id": "char_219_meteo_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Nowhere in the world is completely safe with a war going on. Not even Rhodes Island. Please remember that.",
+                "jp": "戦争が続く限り安全な場所なんてないのよ。たとえここであってもね。それを忘れないで。",
+                "kr": "전쟁이 계속되는 한, 안전한 장소란 없어. 설령 여기라고 해도 말이야. 그걸 잊지 마.",
+                "cn": "只要战争仍在继续，就不会有什么地方是绝对安全的。这也同样适用于罗德岛，请你务必牢记这点。"
+            },
+            "asset": "char_219_meteo/CN_003"
+        },
+        {
+            "id": "char_219_meteo_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "To be frank, you're surrounded by people from all walks of life. That can be quite dangerous, don't you think?",
+                "jp": "ハッキリ言うわ。あなたの周りには、あまりにも人が多すぎるのよ。危険だとは思わないの？",
+                "kr": "확실하게 말하자면. 네 주변에는 사람들이 너무 많아. 위험하단 생각… 안 들어?",
+                "cn": "坦白地说，你的周围混杂着许多人，不觉得这样其实很危险吗？"
+            },
+            "asset": "char_219_meteo/CN_004"
+        },
+        {
+            "id": "char_219_meteo_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "I'm surprised that so many other Sarkaz have come to Rhodes Island. What's more surprising is that they actually get along…",
+                "jp": "ロドスには私と同じサルカズがこんなにいるなんて、正直驚いたわ……。しかもお互いに反目しあわないなんて、あり得ないわ。",
+                "kr": "로도스 아일랜드에는 나랑 같은 살카즈가 이 정도나 있을 줄은… 솔직히 놀랐어. 게다가 서로 미워하지도 않는다니… 이건 정말… 말도 안 되는 일이네.",
+                "cn": "居然有那么多和我一样的萨卡兹人来到了罗德岛，并且相互之间还能和睦相处，这确实让我很惊讶......"
+            },
+            "asset": "char_219_meteo/CN_005"
+        },
+        {
+            "id": "char_219_meteo_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "My bowgun may not be easy to operate, but it's just as powerful as the Laterano guns. I use it to defend the glory of my people.",
+                "jp": "このハンドバリスタ、ちょっと扱いは難しいけど、威力はラテラーノ人の銃にだって負けないわ。これで我が一族の誇り、守ってみせる。",
+                "kr": "이 핸드 발리스타는 말야, 쓰기는 조금 어렵지만 위력은 라테라노인의 총에도 지지 않을 정도로 강력해. 이걸로 우리 일족의 긍지를 지켜 보이겠어.",
+                "cn": "我这把弩炮虽然不太容易操作，但威力绝不下于拉特兰人的铳。我将用它捍卫我族的荣耀。"
+            },
+            "asset": "char_219_meteo/CN_006"
+        },
+        {
+            "id": "char_219_meteo_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "I see Firewatch is here. I can't believe she's using the name of our old guerrilla group as her codename. It's like time stopped for her the day her home was destroyed...",
+                "jp": "ファイアーウォッチに会ったわ。あの子、私といた昔の組織の名前を、そのまま自分のコードネームにしてるのね。きっとあの子の時間は、あの事件から止まったままなのね…。",
+                "kr": "파이어워치랑 만났어. 걔… 나랑 옛날에 같이 있었던 조직 이름을 그대로 자기 코드네임으로 쓰더라고. 분명 그 아이의 시간은, 그 사건이 있던 때에 멈춰있는 거겠지…",
+                "cn": "我见过守林人了。那个孩子，把我们并肩作战过的组织名当成自己的代号。也许那孩子的时间，在故乡被毁灭之时就已经停止了......"
+            },
+            "asset": "char_219_meteo/CN_007"
+        },
+        {
+            "id": "char_219_meteo_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "As for what happened between Firewatch and I... she'll tell you when she's ready. All I can say is that I was not the one who led the rebels to her village... but no one would believe the words of a Sarkaz, right?",
+                "jp": "ファイアーウォッチとの事を知りたいなら、彼女に聞くことね。言っとくけど、反乱軍を彼女の故郷に引き入れたのは私じゃないわ。まぁ、サルカズの私が語る話なんて誰も信じないでしょうけど……。",
+                "kr": "나랑 파이어워치 사이의 옛일은, 그 아이가 직접 알려줄 때까지 기다려줘... 확실히 말해두는데, 반란군을 파이어워치의 고향에 끌어들인 건 내가 아니야… 뭐, 살카즈인 내가 이런 말을 해도, 아무도 믿어주진 않겠지만…",
+                "cn": "发生在我和守林人之间的那段过去，还是等她亲口告诉你吧......只能说，把叛军引向她故乡的人并不是我，只是......没人会相信一个萨卡兹人的话。"
+            },
+            "asset": "char_219_meteo/CN_008"
+        },
+        {
+            "id": "char_219_meteo_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "She wants her revenge, and I have my duty. Even though we've met again at Rhodes Island, it probably won't affect anything. Our paths aren't likely to cross.",
+                "jp": "彼女には彼女の復讐があるように、私には私の使命がある。たとえ、ここで再会しても、結局は違う道を歩むことになるでしょうね。",
+                "kr": "그녀에겐 자기만의 복수가 있듯이, 나한테도 나만의 사명이 있어. 여기서 다시 만났다고 해도, 결국엔 다른 길을 걸어가게 되겠지.",
+                "cn": "她有她的复仇，我有我的使命，既然如此，即使我们在这罗德岛重逢，或许依旧会走向各自的结局吧。"
+            },
+            "asset": "char_219_meteo/CN_009"
+        },
+        {
+            "id": "char_219_meteo_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "What's that sound? Is someone monitoring this room? Or am I just… imagining things?",
+                "jp": "……音がする……。誰かがこの部屋を監視してる？それとも……気のせいかしら？",
+                "kr": "……소리가 들리는데…… 누가 이 방을 감시하고 있나? 아니면… 그냥 기분 탓인가?",
+                "cn": "哪里来的声音？难道是有谁在监视这个房间吗？还是说......只是我的错觉罢了？"
+            },
+            "asset": "char_219_meteo/CN_010"
+        },
+        {
+            "id": "char_219_meteo_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Codename Meteorite, a freelance mercenary. I'm Sarkaz, as you can see. Do you still want to hire me?",
+                "jp": "コードネーム、メテオリーテ。フリーの傭兵よ。見ての通りのサルカズだけど、それでもこの私を雇いたいの？",
+                "kr": "코드네임, 메테오라이트… 자유 용병이야. 보는 그대로 난 살카즈야... 그런데도… 날 고용하고 싶어?",
+                "cn": "代号陨星，职业是自由佣兵。如你所见，是萨卡兹人。即使这样，你还依然打算雇佣我吗？"
+            },
+            "asset": "char_219_meteo/CN_011"
+        },
+        {
+            "id": "char_219_meteo_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "My aim with my bowgun has improved.",
+                "jp": "バリスタの照準スキルが向上したわ。",
+                "kr": "발리스타의 조준 스킬이 향상됐어.",
+                "cn": "瞄准技术提升了。"
+            },
+            "asset": "char_219_meteo/CN_012"
+        },
+        {
+            "id": "char_219_meteo_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "You want to promote me? I see that I made the right choice to work here.",
+                "jp": "あら、昇進させてくれるの？しばらくここで働いてみるのも悪くないわね。",
+                "kr": "어? 승진 시켜 주려고? 한동안 여기서 일하기로 한 거 정말 잘한 선택이었네.",
+                "cn": "想要提拔我吗？ 看来，选择在这儿工作，果然是对的。"
+            },
+            "asset": "char_219_meteo/CN_013"
+        },
+        {
+            "id": "char_219_meteo_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Thank you so much for this, really. I can't believe someone like me could work a stable job here at Rhodes Island. I'll do everything I can to repay your trust in me.",
+                "jp": "今回もありがとう。まさかここまで長い間ここで働くことになるとは思わなかったわ。全てをかけても、あなたの……信頼に応えないといけないわね。",
+                "kr": "이번에도 고마워. 설마 이렇게 긴 시간 동안 여기서 일하게 될 줄은 몰랐어. 모든 걸 거는 한이 있더라도, 당신의 신뢰에는… 보답해야겠지.",
+                "cn": "这次，真的十分谢谢你。没想到，我这样的人，居然能在罗德岛获得如此稳定的一份工作。我会竭尽所能，回报你的信赖。"
+            },
+            "asset": "char_219_meteo/CN_014"
+        },
+        {
+            "id": "char_219_meteo_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Reporting for duty. ",
+                "jp": "来たわよ。",
+                "kr": "난 여기 있어.",
+                "cn": "我来了。"
+            },
+            "asset": "char_219_meteo/CN_017"
+        },
+        {
+            "id": "char_219_meteo_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Me, a leader? To be honest, I'm not that good at giving orders.",
+                "jp": "隊長になれって？正直、誰かに指示を出すのは得意ではないわ。",
+                "kr": "팀장이 되라고? 솔직히, 누군가한테 지시를 내리는 건 잘하는 편이 아닌데…",
+                "cn": "要我做队长吗？严格来说，我不太擅长对别人发号施令。"
+            },
+            "asset": "char_219_meteo/CN_018"
+        },
+        {
+            "id": "char_219_meteo_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "I'll do my best to take care of everyone.",
+                "jp": "みんなの面倒はちゃんと見てあげるわよ。",
+                "kr": "모두를 잘 돌봐줄게.",
+                "cn": "我会好好照顾大家的。"
+            },
+            "asset": "char_219_meteo/CN_019"
+        },
+        {
+            "id": "char_219_meteo_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Enemy status confirmed. All units, prepare to engage.",
+                "jp": "敵を捕捉したわ。みんな、準備しなさい。",
+                "kr": "적을 포착했다. 다들, 준비하도록.",
+                "cn": "已经确认了敌情。各位，请做好战斗的准备。"
+            },
+            "asset": "char_219_meteo/CN_020"
+        },
+        {
+            "id": "char_219_meteo_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "All right.",
+                "jp": "いいわ。",
+                "kr": "좋아.",
+                "cn": "哦，好。"
+            },
+            "asset": "char_219_meteo/CN_021"
+        },
+        {
+            "id": "char_219_meteo_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "No problem.",
+                "jp": "問題ないわよ。",
+                "kr": "문제 없어.",
+                "cn": "没问题。"
+            },
+            "asset": "char_219_meteo/CN_022"
+        },
+        {
+            "id": "char_219_meteo_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "I've got a clear shot.",
+                "jp": "視界は良好ね。",
+                "kr": "시야는 양호해.",
+                "cn": "视野良好。"
+            },
+            "asset": "char_219_meteo/CN_023"
+        },
+        {
+            "id": "char_219_meteo_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Let's take them all out.",
+                "jp": "一気に片付けましょうか。",
+                "kr": "한 번에 쓸어버리자고.",
+                "cn": "一口气解决他们。"
+            },
+            "asset": "char_219_meteo/CN_024"
+        },
+        {
+            "id": "char_219_meteo_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Fire!",
+                "jp": "撃て。",
+                "kr": "쏴라.",
+                "cn": "射击。"
+            },
+            "asset": "char_219_meteo/CN_025"
+        },
+        {
+            "id": "char_219_meteo_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Open fire!",
+                "jp": "射撃開始。",
+                "kr": "사격 개시!",
+                "cn": "开火。"
+            },
+            "asset": "char_219_meteo/CN_026"
+        },
+        {
+            "id": "char_219_meteo_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Focus fire!",
+                "jp": "集中砲火！",
+                "kr": "집중 포화!",
+                "cn": "集中火力。"
+            },
+            "asset": "char_219_meteo/CN_027"
+        },
+        {
+            "id": "char_219_meteo_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Get back!",
+                "jp": "下がって！",
+                "kr": "물러서!",
+                "cn": "退后！"
+            },
+            "asset": "char_219_meteo/CN_028"
+        },
+        {
+            "id": "char_219_meteo_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "I don't want to see anything laid to waste in the fires of war ever again. Let us put an end to this, once and for all.",
+                "jp": "もう二度と戦火は見たくない。すべて、終わらせましょう。",
+                "kr": "이제 두 번 다시, 전쟁은 보고 싶지 않아. 전부, 끝내버리자.",
+                "cn": "我不想再看到熊熊燃烧的战火了，让一切，都结束吧。"
+            },
+            "asset": "char_219_meteo/CN_029"
+        },
+        {
+            "id": "char_219_meteo_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Trying to escape after I laid you to siege? Don't be silly.",
+                "jp": "私の完璧な包囲網からは、誰ひとり逃れられないわ。",
+                "kr": "내 완벽한 포위망은 그 누구도 빠져나올 수 없어.",
+                "cn": "想从我布置完善的包围网中脱逃，真是异想天开。"
+            },
+            "asset": "char_219_meteo/CN_030"
+        },
+        {
+            "id": "char_219_meteo_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Someone's escaped. Not the time to let our guard down.",
+                "jp": "何人か逃がしたわね。まだ油断しないほうがいいわ。",
+                "kr": "몇 명 놓쳤네. 아직 방심하지 않는 게 좋아.",
+                "cn": "有人逃走了，现在还不能大意。"
+            },
+            "asset": "char_219_meteo/CN_031"
+        },
+        {
+            "id": "char_219_meteo_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Retreat! Back to the stronghold and regroup.",
+                "jp": "ひとまず撤退よ！拠点に戻って態勢を立て直すの。",
+                "kr": "일단 철수하자! 거점으로 돌아가서 태세를 재정비하는 거야.",
+                "cn": "撤退吧！回到据点，重整姿态。"
+            },
+            "asset": "char_219_meteo/CN_032"
+        },
+        {
+            "id": "char_219_meteo_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "What's this place?",
+                "jp": "ここはどこ？",
+                "kr": "여긴 어디지?",
+                "cn": "这里是什么地方？"
+            },
+            "asset": "char_219_meteo/CN_033"
+        },
+        {
+            "id": "char_219_meteo_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Huh? Huh? What?",
+                "jp": "キャッ、なに？",
+                "kr": "꺄악, 뭐야?",
+                "cn": "呃！什么？"
+            },
+            "asset": "char_219_meteo/CN_034"
+        },
+        {
+            "id": "char_219_meteo_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Is this for me? Thanks.",
+                "jp": "あら？これを私に？ありがとう。",
+                "kr": "어머? 나한테 주는 거야? 고마워.",
+                "cn": "这个，是要送给我吗？啊，谢谢。"
+            },
+            "asset": "char_219_meteo/CN_036"
+        },
+        {
+            "id": "char_219_meteo_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_219_meteo/CN_037"
+        },
+        {
+            "id": "char_219_meteo_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "How's it going, Doctor?",
+                "jp": "ドクター、調子はどう？",
+                "kr": "박사, 컨디션은 어때?",
+                "cn": "博士，你好吗？"
+            },
+            "asset": "char_219_meteo/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Hollie Taylor",
+            "global": "Hollie Taylor"
+        },
+        "cn": {
+            "native": "钟可",
+            "global": "Ke Zhong"
+        },
+        "jp": {
+            "native": "種田梨沙",
+            "global": "Risa Taneda"
+        },
+        "kr": {
+            "native": "김수영",
+            "global": "Kim Soo-yeong"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

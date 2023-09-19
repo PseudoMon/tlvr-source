@@ -1,0 +1,596 @@
+{
+    "charid": "char_422_aurora",
+    "nameid": "aurora",
+    "names": {
+        "en": "Aurora",
+        "jp": "オーロラ",
+        "kr": "오로라",
+        "cn": "极光"
+    },
+    "voices": [
+        {
+            "id": "char_422_aurora_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "You can hand me whatever work you want, as long as I'm capable of handling it. After all, I'm here to let you catch your breath, Doctor.",
+                "jp": "私にできる仕事なら全部任せて。ここに来たのは、ドクターに少しでも休んでもらうためだから。",
+                "kr": "내가 할 수 있는 일이라면 전부 맡겨 줘. 여기에 온 건, 박사를 조금이라도 쉴 수 있게 하기 위해서니까.",
+                "cn": "只要是我能做的工作，都可以交给我。我来这里，就是为了让你多休息一下，博士。"
+            },
+            "asset": "char_422_aurora/CN_001"
+        },
+        {
+            "id": "char_422_aurora_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "My sickness isn't that bad. It hurts once in a while, but I can take it. Doctor, I'll continue working, be sure of that. I don't want to let anyone down.",
+                "jp": "私の病気なんて大したことないよ。時々痛むけど我慢できるからね。ドクター、私は仕事を休んでなんていられないんだ。みんなをがっかりさせたくないから。",
+                "kr": "내 병은 별거 아니야. 가끔 아플 때도 있지만, 그래도 참을 만해. 박사, 나는 일을 쉴 수 없어. 모두를 실망시키고 싶진 않으니까.",
+                "cn": "我的病，不算什么。偶尔很痛，但我能忍住。博士，我一定要继续工作。我不想让大家对我失望。"
+            },
+            "asset": "char_422_aurora/CN_002"
+        },
+        {
+            "id": "char_422_aurora_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "I think… I ate them all. Eh...? Those were your snacks for the week? I'm so sorry... I can make you some cheese fondue for your afternoon teatime.",
+                "jp": "お菓子、全部食べちゃった……え、ドクターの一週間分だったの？ごめんなさい……午後のティータイムには、私がチーズフォンデュでも作るよ。",
+                "kr": "과자… 전부 먹어버렸네… 아, 박사가 일주일 동안 먹을 분량이었다고? 미안해…… 오후 티타임에, 내가 치즈 퐁듀라도 해 줄게.",
+                "cn": "点心，都吃完了。啊......是博士一周的量？抱歉......下午茶的话，我来做奶酪火锅吧。"
+            },
+            "asset": "char_422_aurora/CN_003"
+        },
+        {
+            "id": "char_422_aurora_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "I still can't help but bow whenever I meet Master SilverAsh and the Saintess in the corridors, even though they tell me that at Rhodes Island, I should treat them as coworkers. I'll try, somehow.",
+                "jp": "廊下で旦那様や聖女様にばったり会うと、今でもついお辞儀をしちゃうんだ。ロドスにいるからには同僚として接しなさいって言われてはいるんだけど。なんとか……やってみよう。",
+                "kr": "지금도 복도에서 실버애쉬 님이나 성녀님을 갑자기 마주치면, 나도 모르게 공손히 인사를 드리게 돼… 로도스 아일랜드에 있을 때는 동료로서 대하라고 들었지만… 흐음… 일단은 해보긴 해야겠지.",
+                "cn": "在走廊上撞见银灰老爷和圣女大人的时候，我还是会忍不住行礼。可是他们说，在罗德岛，我应该把他们当成同事。我......努力试试。"
+            },
+            "asset": "char_422_aurora/CN_004"
+        },
+        {
+            "id": "char_422_aurora_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "I... wouldn't make a good explorer. I want to protect much more than explore. Driving the posts in, building a home. People as tenacious as you always need someone to watch your flanks, right? That's who I want to be, Doctor.",
+                "jp": "私……きっと探検家には向いてない。探検するより、何かを守る仕事がしたいんだ。杭を打って、家を建てるような。あなたたちみたいに前に進み続ける人には、後ろを守る人が必要でしょ？ドクター、私はその役になりたい。",
+                "kr": "난…… 확실히 탐험가랑은 어울리지 않아. 탐험하는 것보단, 무언가를 지키는 일을 하고 싶은걸. 말뚝을 박고 집을 짓는 것 같은… 그런 일 말이야. 당신들처럼 계속 전진하는 사람들에겐, 뒤를 지켜줄 사람이 필요하겠지? 박사, 난 그런 역할을 맡고 싶어.",
+                "cn": "我......做不了探险家。比起探索，我更想守护。桩子打下去，家园建起来。像你们这样不断前行的人，还是需要有人替你们守着后方阵地的吧？博士，我想做那个人。"
+            },
+            "asset": "char_422_aurora/CN_005"
+        },
+        {
+            "id": "char_422_aurora_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Master SilverAsh says that Kjerag can't forever rely on Kjeragandr, let alone another country. One day I hope to stand against the blizzard with this shield, for the sake of my family.",
+                "jp": "旦那様が言ってた。イェラグはずっとイェラガンド頼りじゃダメだし、だからって他の国に頼るんじゃそれ以下だって。私もいつかこの盾で、家族を吹雪から守れるようになりたい。",
+                "kr": "주인님이 그랬어. 쉐라그는 계속 쉐라간드에 의지하면 안 되지만, 그렇다고 다른 나라에 의지해 버리면 그 이하라고… 나도 언젠가 이 방패로, 가족을 눈보라로부터 지켜낼 수 있는 사람이 되고 싶어.",
+                "cn": "银灰老爷说，谢拉格，不能永远依靠耶拉冈德，更不能依靠其他国家。我希望，有一天，我也能用手中的盾，为家人们抵挡风雪。"
+            },
+            "asset": "char_422_aurora/CN_006"
+        },
+        {
+            "id": "char_422_aurora_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "I have dreams of snowy mountains all the time. Dreams of... running across lakes frozen deep. But my home isn't just snow and ice. Grass covers the valleys, and trains weave swiftly between the slopes. Those, too, form the Kjerag of my memories.",
+                "jp": "雪山をよく夢に見るんだ。厚い氷に覆われた湖面を走ってる……そんな夢。でも私の故郷には氷雪だけじゃなくて、谷を覆う緑だって、山を縫うように走る列車だってあるんだ。私の思い出の中のイェラグは、そんな場所だよ。",
+                "kr": "꿈에서 설산을 자주 봐. 두꺼운 얼음에 뒤덮인 호수 위를 달리는… 그런 꿈… 그렇지만 내 고향엔 눈과 얼음뿐만 아니라, 협곡을 뒤덮은 녹음도, 산을 가로질러 달리는 열차도 있는걸. 내 추억 속의 쉐라그는 그런 곳이야.",
+                "cn": "我常常梦见雪山，梦见......我在结了厚冰的湖面上奔跑。我的家乡不只有冰雪，还有覆盖山谷的青草，和疾行在群山之间的列车。这些，都是我记忆中的谢拉格。"
+            },
+            "asset": "char_422_aurora/CN_007"
+        },
+        {
+            "id": "char_422_aurora_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "...I'm always asleep when you come to see me? No, I'm not feeling unwell or anything. It's a habit; I work for days at a time, and the moment I lie down, I fall into a long, deep sleep. But just call my name, Doctor, and I'll wake up straight away. Don't worry about me.",
+                "jp": "……私に会いに来るといつも寝てる？いや、別に調子が悪いとかじゃないよ。何日も連続で働いてから、倒れるように眠りこけるのが習慣になってるんだ。でもドクター、名前さえ呼んでくれれば絶対起きるからさ。心配しないで。",
+                "kr": "……날 보러 올 때마다 매번 자고 있었다고? 아니, 딱히 컨디션이 나쁜 건 아니야. 며칠이고 계속 일하고 나서, 쓰러지듯이 잠들어 버리는 게 습관이 됐거든. 그래도 박사, 이름만 불러주면 반드시 일어날 테니까, 너무 걱정하지 마.",
+                "cn": "......来找我的时候，我总是在睡觉？不，我没有不舒服。我习惯了，连续工作好几天，然后倒头就睡，可能会睡得久一些。博士，只要听见你的声音，我一定醒来陪你。我没问题的。"
+            },
+            "asset": "char_422_aurora/CN_008"
+        },
+        {
+            "id": "char_422_aurora_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Doctor, have you ever seen the aurora? When I was a student, I saw it just once in the northernmost tundra. It was very soon after I got sick, and I had to say goodbye to the survey group. If I can ever go back... would you come see the aurora with me?",
+                "jp": "ドクター、オーロラは見たことある？私は学生の頃に、最北の氷原で一度見たっきり。その後すぐ病気になっちゃって、科学調査団を泣く泣く離れたんだ。もしまた戻れるなら……ドクター、一緒にオーロラを見てくれる？",
+                "kr": "박사, 오로라를 본 적 있어? 나는 학생이었을 때, 북쪽 끝의 빙원에서 딱 한 번 본 적이 있어. 그리곤 바로 병에 걸려서, 과학조사단을 어쩔 수 없이 떠나야 했지. 혹시… 다시 돌아갈 수 있다면… 박사, 나랑 같이 오로라를 봐줄래?",
+                "cn": "博士，你见过极光吗？上学时，我在最北边的冰原上见过一次。很快，我生病了，只能离开科考团。如果我还能回去的话......博士，你愿不愿意和我一起看极光？"
+            },
+            "asset": "char_422_aurora/CN_009"
+        },
+        {
+            "id": "char_422_aurora_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Doct... you can have my jacket, okay? You'll catch a cold, sleeping somewhere like this.",
+                "jp": "ドク……コート、掛けとくね。こんなところで寝てると、風邪引いちゃうよ。",
+                "kr": "박…… 코트, 덮어 둘게. 이런 곳에서 자면, 감기 걸려.",
+                "cn": "博士，我的外套，给你。趴着睡觉，容易着凉。"
+            },
+            "asset": "char_422_aurora/CN_010"
+        },
+        {
+            "id": "char_422_aurora_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Doctor, I'm Aurora. My boss Closure talks about you a lot. I promised her I'd protect you.",
+                "jp": "ドクター、私はオーロラ。ボス……あ、クロージャさんから話はよく聞いてるよ。あなたを守るって約束もしてあるから。",
+                "kr": "박사, 나는 오로라라고 해. 보스…… 아, 클로저 씨 한테 얘기 많이 들었어. 당신을 지키기로 약속도 했는걸.",
+                "cn": "博士，我是极光。可露希尔老大经常提起你。我答应她，会保护你。"
+            },
+            "asset": "char_422_aurora/CN_011"
+        },
+        {
+            "id": "char_422_aurora_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Is this... a record from the battle in Lungmen? So this is another way you can use shields... I've learned a lot.",
+                "jp": "これは、龍門での作戦記録？盾ってこういう使い方もあるんだ。勉強になったよ。",
+                "kr": "이거, 용문으로 작전 나갔을 때 기록한 거 아냐? 방패를 이렇게도 쓸 수 있구나… 하나 배웠네.",
+                "cn": "这是龙门战的作战记录？我学到了，原来盾牌还可以这么挥舞。"
+            },
+            "asset": "char_422_aurora/CN_012"
+        },
+        {
+            "id": "char_422_aurora_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Captain Sharp's assessment... is so high? And you agree as well? I... I'm so happy!",
+                "jp": "Sharp隊長が……私を評価してる？ドクターもそう思う？……嬉しいなぁ。",
+                "kr": "샤프 팀장이…… 나를 높이 평가했다고? 박사도 그렇게 생각해? ……기쁘네.",
+                "cn": "Sharp队长......对我评价很高？你也同意吗？我......好高兴。"
+            },
+            "asset": "char_422_aurora/CN_013"
+        },
+        {
+            "id": "char_422_aurora_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Could I send this medal home? I want my mother to know, I might be sick, but not everything looks bad. I have made my way.",
+                "jp": "この勲章、家に送ってもいい？病気になっちゃったけど、悪いことばっかりじゃないよってお母さんに伝えたいんだ。私もまだまだこれからだからね。",
+                "kr": "이 훈장, 집에 보내도 돼? 병에 걸려 버렸지만, 나쁜 일만 있는 건 아니라고 엄마에게 전하고 싶거든. 나도, 이제부터 시작이니까.",
+                "cn": "这枚勋章，我能寄回家吗？我想让妈妈知道，虽然我染了病，但走出来并不只有坏处。我还在进步。"
+            },
+            "asset": "char_422_aurora/CN_014"
+        },
+        {
+            "id": "char_422_aurora_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "A field mission again? I'm with you, Doctor.",
+                "jp": "また外の任務？私もついて行くね、ドクター。",
+                "kr": "또 외근이야? 그럼, 나도 같이 갈게, 박사.",
+                "cn": "又要出外勤任务吗？博士，我陪你。"
+            },
+            "asset": "char_422_aurora/CN_017"
+        },
+        {
+            "id": "char_422_aurora_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "You want me leading? I... I'll work to follow Captain Sharp's example.",
+                "jp": "私に隊を任せるの？なら……Sharp隊長のような指揮ができるように頑張るよ。",
+                "kr": "나한테 팀을 맡기려고? 그럼…… 샤프 팀장처럼 지휘할 수 있도록 노력할게.",
+                "cn": "让我当队长？我......会尽力学习Sharp队长的指挥方式。"
+            },
+            "asset": "char_422_aurora/CN_018"
+        },
+        {
+            "id": "char_422_aurora_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Aurora, moving out.",
+                "jp": "オーロラ、出撃。",
+                "kr": "오로라, 출격.",
+                "cn": "极光，出击。"
+            },
+            "asset": "char_422_aurora/CN_019"
+        },
+        {
+            "id": "char_422_aurora_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "You there, stay back! Don't come any closer.",
+                "jp": "あなたたち、これ以上近づかないで。",
+                "kr": "당신들, 더 이상 가까이 오지 마.",
+                "cn": "你们，别再走近了。"
+            },
+            "asset": "char_422_aurora/CN_020"
+        },
+        {
+            "id": "char_422_aurora_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Doctor, give the word.",
+                "jp": "ドクター、どうぞ。",
+                "kr": "박사, 얘기해.",
+                "cn": "博士，请说。"
+            },
+            "asset": "char_422_aurora/CN_021"
+        },
+        {
+            "id": "char_422_aurora_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Awaiting orders.",
+                "jp": "命令を。",
+                "kr": "명령을 내려줘.",
+                "cn": "等你下令。"
+            },
+            "asset": "char_422_aurora/CN_022"
+        },
+        {
+            "id": "char_422_aurora_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Appropriate terrain for me.",
+                "jp": "私向きの地形だね。",
+                "kr": "나한테 맞는 지형이네.",
+                "cn": "这块地形很适合我。"
+            },
+            "asset": "char_422_aurora/CN_023"
+        },
+        {
+            "id": "char_422_aurora_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Don't even think of coming through.",
+                "jp": "通れるなんて思わないで。",
+                "kr": "지나갈 수 있을 거라 생각하지 마.",
+                "cn": "一个敌人都别想通过。"
+            },
+            "asset": "char_422_aurora/CN_024"
+        },
+        {
+            "id": "char_422_aurora_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "The snows of my home... are with me.",
+                "jp": "故郷の雪は……私と共に。",
+                "kr": "고향의 눈이…… 나와 함께할 거야.",
+                "cn": "故乡的雪......陪伴着我。"
+            },
+            "asset": "char_422_aurora/CN_025"
+        },
+        {
+            "id": "char_422_aurora_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Snow, be what boils my blood.",
+                "jp": "雪がこの血を滾らせる。",
+                "kr": "눈이 나의 피를 끓어오르게 만든다!",
+                "cn": "雪，让我的血沸腾。"
+            },
+            "asset": "char_422_aurora/CN_026"
+        },
+        {
+            "id": "char_422_aurora_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Snow, be what freezes their blood.",
+                "jp": "雪が敵の血を凍てつかせる。",
+                "kr": "눈이 적의 피를 얼어붙게 만든다!",
+                "cn": "雪，令敌人的血冻结。"
+            },
+            "asset": "char_422_aurora/CN_027"
+        },
+        {
+            "id": "char_422_aurora_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Snow, be what warms my family.",
+                "jp": "雪が家族を暖める。",
+                "kr": "눈이 가족을 따뜻하게 만든다!",
+                "cn": "雪，温暖我的家人。"
+            },
+            "asset": "char_422_aurora/CN_028"
+        },
+        {
+            "id": "char_422_aurora_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "I'll become stronger than I was, to make your victories easier.",
+                "jp": "もっと楽に勝てるように、今以上に強くなってみせるよ。",
+                "kr": "더 쉽게 이길 수 있도록, 지금보다 더 강해질 거야.",
+                "cn": "我会变得更强，让你赢得更轻松一点。"
+            },
+            "asset": "char_422_aurora/CN_029"
+        },
+        {
+            "id": "char_422_aurora_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Stay back, for just a second... I'm too icy now. Let me just rub a bit to warm up... good, that's better! Alright, now it's safe to high-five!",
+                "jp": "今は近づかないで……身体がうんと冷たくなってるから。こうやって擦ればすぐに暖かくなるはず……うん、よし！じゃあハイタッチ！",
+                "kr": "지금은 가까이 오지 마…… 몸이 엄청 차가워졌으니까. 이렇게 비비면 금방 따뜻해질 거야. 응, 됐다! 자 그럼, 하이파이브!",
+                "cn": "先不要靠近我......我的手太冰了。快速搓一搓会好一点......好、好了，现在可以击掌了！"
+            },
+            "asset": "char_422_aurora/CN_030"
+        },
+        {
+            "id": "char_422_aurora_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Next time, I won't let a single one escape.",
+                "jp": "次は一人も逃がさないから。",
+                "kr": "다음엔 한 명도 놓치지 않을 거야.",
+                "cn": "下一次，我不会放过任何一个人。"
+            },
+            "asset": "char_422_aurora/CN_031"
+        },
+        {
+            "id": "char_422_aurora_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Doctor, we have to retreat! Can you still move? Get on my back... no, I'll carry you!",
+                "jp": "ドクター、早く撤退しないと！まだ動ける？ダメそうなら私が背負って……いや、抱えていくから！",
+                "kr": "박사, 빨리 철수해야 해! 아직 움직일 수 있겠어? 못 움직이겠으면 내가 업고…… 아니, 안고 갈 테니까!",
+                "cn": "博士，我们需要尽快撤退！你还有力气吗？我背你走......不，抱你走也行！"
+            },
+            "asset": "char_422_aurora/CN_032"
+        },
+        {
+            "id": "char_422_aurora_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "It's so hot in here...",
+                "jp": "この部屋、暑いなぁ……",
+                "kr": "이 방…… 너무 더운데……",
+                "cn": "这间屋子，好热......"
+            },
+            "asset": "char_422_aurora/CN_033"
+        },
+        {
+            "id": "char_422_aurora_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "M-My cookies are gonna spill!",
+                "jp": "ク、クッキーが落っこちちゃう！",
+                "kr": "쿠, 쿠키 떨어지겠다!",
+                "cn": "饼、饼干，要撒到地上了！"
+            },
+            "asset": "char_422_aurora/CN_034"
+        },
+        {
+            "id": "char_422_aurora_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Are you heading out? I'll be your bodyguard.",
+                "jp": "……出かけるの？私が護衛するよ。",
+                "kr": "……나갔다 오게? 내가 호위해 줄게.",
+                "cn": "......要出门吗？我来当你护卫。"
+            },
+            "asset": "char_422_aurora/CN_036"
+        },
+        {
+            "id": "char_422_aurora_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_422_aurora/CN_037"
+        },
+        {
+            "id": "char_422_aurora_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "You're looking well, Doctor. Just say if you need anything.",
+                "jp": "元気そうだねドクター、何かあったら言ってね。",
+                "kr": "좋아 보이네 박사. 무슨 일 있으면 얘기해 줘.",
+                "cn": "博士，你好，有事请吩咐。"
+            },
+            "asset": "char_422_aurora/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Sarah Burke",
+            "global": "Sarah Burke"
+        },
+        "cn": {
+            "native": "十四",
+            "global": "Jingxia Liu"
+        },
+        "jp": {
+            "native": "明坂聡美",
+            "global": "Satomi Akesaka"
+        },
+        "kr": {
+            "native": "유영",
+            "global": "Yu Yeong"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

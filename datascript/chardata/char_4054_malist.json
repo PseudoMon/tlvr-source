@@ -1,0 +1,596 @@
+{
+    "charid": "char_4054_malist",
+    "nameid": "malist",
+    "names": {
+        "en": "Minimalist",
+        "jp": "ミニマリスト",
+        "kr": "미니멀리스트",
+        "cn": "至简"
+    },
+    "voices": [
+        {
+            "id": "char_4054_malist_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "You want me to do file collation work...? These documents of yours all look dusty. I don't want to touch them. And how was your office even planned in the first place? Did you genuinely not feel personally, utterly disgusted leaving this cabinet here?",
+                "jp": "オレに書類の整理しろっての？……でもその書類の山ほこりだらけじゃないか、触りたくないよ。そもそもさ、この執務室もとはどういう設計だったの？こんなところに棚を置くとか、気持ち悪いと思わないわけ？",
+                "kr": "나더러 서류 정리를 하라고? ……하지만 그 서류들은 먼지투성이라 만지고 싶지 않은걸. 도대체 네 사무실은 어떤 설계로 이루어진 거야? 선반을 이런 곳에 두면 불편할 것 같단 생각은 안 해 봤어?",
+                "cn": "让我来做整理文件的工作？......你那些文件看起来都落灰了，我不想碰。而且最初你的办公室是怎么设计的？你真的不觉得这个柜子放在这里，会让人浑身难受吗？"
+            },
+            "asset": "char_4054_malist/CN_001"
+        },
+        {
+            "id": "char_4054_malist_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "I propose swapping for more corrosion-proof materials next time you do maintenance on the ship's core structure. Why? Because when all's said and done, it's not you or me that'll be left behind. It's this landship's skeleton. That's what's going to endure. That's what will stand for us.",
+                "jp": "ロドスの船殻だけど、次に整備する時、もっと高耐食性の素材に替えるのがお勧めだよ。理由？すべてが終わって消え去る時、オレもアンタも影も形もなくなるからだよ。残るのは、この船の骨だけだ。コイツこそが永遠なんだ。そして、オレたちの証明になるんだ。",
+                "kr": "다음에 함선을 정비할 땐 핵심 구조를 조금 더 내식성이 좋은 소재로 바꾸는 편이 좋을 거야. 왜냐고? 모든 게 끝나고 사라져 버릴 때면, 너나 나나 아무것도 남지 않게 될 테니까 말이지. 남는 건 이 배의 뼈대뿐일 거야. 이것만은 영원히 남게 되겠지. 그리고 이건 우리들을 상징하는 물건이 될 거야.",
+                "cn": "我建议你们下次维修舰船的核心结构时，选取一些更耐腐蚀的材料作为替换。为什么？因为等一切结束和消失，你我都不会留下，留下的只会是这艘舰船的骨架，它才是恒久的，它会代表着我们。"
+            },
+            "asset": "char_4054_malist/CN_002"
+        },
+        {
+            "id": "char_4054_malist_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "You've got some planning work for me? I'll ask to review my partners' design styles first. As long as they aren't too complex about it, I might be able to accept—okay, okay, fine, I'll do it, I'll take it, it's not as if collaborations are some big deal. Besides, it's not that you have disastrous taste.",
+                "jp": "オレにデザインしてほしいものがあるの？共同作業って話ならまず一緒にやる人たちのポートフォリオを見せて。あんまりジャラジャラしたスタイルじゃなければ、受けてやらないでも――ああ、わかったわかった、受けるよ。たかが共同制作だろ、アンタなら人選ミスしないって信じてやるよ。",
+                "kr": "내가 설계를 해 줬으면 하는 게 있다고? 공동 작업을 맡길 거면 먼저 함께 작업할 사람들의 디자인 스타일부터 알려 줘. 너무 복잡한 스타일만 아니면 나도 맞춰 줄 수 있는…… 아, 알았어, 네 말대로 할게. 그냥 같이 일하는 것뿐이잖아, 나도 네 안목은 믿고 있으니까 말이야.",
+                "cn": "要拜托我做一个设计？先让我看一下那几个合作伙伴的设计风格，只要他们的风格不过于繁复，我或许可以接受——行吧行吧听你的，我接受了，不就是合作吗，我就不信你的眼光会坏到哪里去。"
+            },
+            "asset": "char_4054_malist/CN_003"
+        },
+        {
+            "id": "char_4054_malist_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "What is it... Ah, darn it, the pencil smudged my belt again. I just got it replaced... Last time it was Gavial, saying she'd get me a new one of the same look. As if! The emblem on the clasp was straight from my designs, and obviously she didn't even give those an honest look!",
+                "jp": "何？げ、また鉛筆が付いちゃってる。このベルト新しくしたばっかなのにさぁ……前回もガヴィルに壊されて変えたんだし。同じの弁償するとか言ってたけど、できるわけないっての。バックルのデザインはオレのオリジナルなんだぞ。あの人絶対ちゃんと見てないから！",
+                "kr": "왜 그래? 아, 또 연필 자국이 묻어 버렸네. 바꾼 지 얼마 안 된 건데…… 저번엔 가비알 때문에 부서져서 바꿨었어. 그러곤 똑같은 걸로 변상해 준다던데, 말도 안 되는 소리야! 그건 내가 직접 디자인한 버클이라고. 그 인간, 분명 제대로 보지도 않았겠지!",
+                "cn": "怎么了？啊，又被铅笔划脏了，这条新的还没换上多久呢......上次换就是因为被嘉维尔弄坏了，她说赔给我条一样的，怎么可能！锁扣图案是我从我的设计里提取出的符号，她都没认真看过！"
+            },
+            "asset": "char_4054_malist/CN_004"
+        },
+        {
+            "id": "char_4054_malist_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "I know, I'll go to the infirmary in a bit. I don't want to interrupt my thought process at the moment. And you know, Doctor, the moment is the exact thing I most value—you called Gavial in? Was she on duty at the Medical Department today? You can't fool—hello, Gavial, no no, I wasn't just working on any designs.",
+                "jp": "んー、医務室はまた後で行くから。今はデザイン考えてるんだから邪魔しないで。オレにとって一番大事なのはこの瞬間で――え、ガヴィルを呼んできたって？今日医療部の当直ってあの人だったの？噓つくんじゃ――やあガヴィル。違う、図面なんか引いてないよ！",
+                "kr": "알았어, 의무실은 나중에 갈게. 지금은 생각 중이니까 방해받고 싶지 않아. 박사, 지금은 나한테 가장 중요한 시간…… 가비알을 불러왔다고? 그 인간이 오늘 의무실 당직이라고? 거짓말하지…… 안녕 가비알. 아니, 설계도 같은 거 그린 적 없는데?",
+                "cn": "知道了，等下我会去医务室的，我现在不想断了思路。而且博士，对我来说最宝贵的就是现在——你把嘉维尔叫来了？今天医疗部值班的是她吗？你别骗——嘉维尔你好，我没有在画设计呀。"
+            },
+            "asset": "char_4054_malist/CN_005"
+        },
+        {
+            "id": "char_4054_malist_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "I used to appreicate a fan base of one, one who can truly see to the core of my designs, rather than having a crowd of followers with their superfacial admiration. For me, the latter holds absolutely no significance. But now… I suppose it's not all bad to let the masses see them. Discussion swirling around my work means I'm still alive.",
+                "jp": "前は、上辺だけなぞって分かった気になってる連中が何千何百人いるより、オレのデザインの魂を理解してくれる人が一人いたらよかった。理解できないなら何の意味もないって思ってたから。でも今は……大勢に知られるのも悪くないのかもって気がしてきた。オレの作品を話題にする人がいる限り、オレは、生き続けるんだから。",
+                "kr": "전에는, 내 설계의 핵심을 진정으로 이해해 주는 사람 한 명이 겉모습만으로 판단하는 수천 명보다도 낫다고 생각했었어. 이해할 수 없다면 아무런 의미도 없다고 생각했으니까. 하지만 지금은…… 수천 명이 봐주는 것도 나쁘지 않다고 생각해. 사람들이 내 작품에 대해 토론해 주는 한, 난 계속해서 살아 있을 수 있으니까.",
+                "cn": "我之前宁愿世上只有一个人真正地了解我设计的内核，也不愿意千百人看过我的设计却不求甚解，因为觉得那样没意义。但现在......千百人看过或许也不算坏事，有人讨论，我就还活着。"
+            },
+            "asset": "char_4054_malist/CN_006"
+        },
+        {
+            "id": "char_4054_malist_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Why do I tend not to greet anyone? Because once I do, I have to make small talk, and that forces me to crane my head up to speak with them, which makes me seem insignificant. We should be seeing eye-to-eye, on EQUAL footing... Are you asking if it weighs on me? As if! It just makes my neck ache.",
+                "jp": "みんなにあんまりあいさつしないって？あいさつしたら会話しなきゃでしょ。毎回見上げて話さなきゃいけないから、いろんな意味で見下されてる気がするじゃん。話す時は視線を揃えてからじゃないと……き、気にしてなんかないし！首が痛くなるだけだっての。",
+                "kr": "평소에 사람들이랑 인사를 잘 안 하는 것 같다고? 그야 인사를 하면 다른 대화도 이어서 하게 되잖아. 매번 올려다보면서 얘기를 해야 하니까, 여러모로 우습게 보이는 기분이라고. 이야기를 하려면 눈을 똑바로 마주 봐야…… 신경 쓰이냐고? 아니거든! 그냥 목이 아플 뿐이야.",
+                "cn": "我平时不怎么和大家打招呼？因为打完招呼以后还要闲聊，每次都要仰着头和他们说话，显得我很不重要似的，我们应该平视对方......在意？才没有！只是脖子酸而已。"
+            },
+            "asset": "char_4054_malist/CN_007"
+        },
+        {
+            "id": "char_4054_malist_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "I was genuinely full of anxiety back then. I always felt I didn't have enough time, though I'd never even accomplished a thing. But nowadays, I've gotten to the point where I can appreciate my own designs. The only thing is, it's been years since I last saw my teacher. I wonder if he'd be proud of me?",
+                "jp": "あの頃は焦燥感がひどくてさ、時間も足りないし、何もできてないって頭はそればっかだった。でも、今のオレはもう自分の作品を楽しめるようになったんだよ。師匠にはもう何年もお会いしてないけど、今のオレはあの人の期待した姿になれてるかな？",
+                "kr": "그때의 난 항상 초조했었지. 늘 시간이 부족한 것만 같았고, 게다가 스스로 아무것도 이뤄내지 못한 것만 같았어. 하지만 지금의 난, 내가 만든 것들을 즐길 수 있게 되었지. 스승님을 뵙지 못한 지도 벌써 몇 년이 지나긴 했지만, 지금의 난 마침내 스승님이 바라던 모습이 된 게 아닐까?",
+                "cn": "我那个时候真的很焦虑，总觉得时间不够，而自己却什么也没有做成。不过，我现在已经能做到享受自己的设计了。只是我和我的老师已经好几年没有见面了，现在的我，会不会是他所期望的样子？"
+            },
+            "asset": "char_4054_malist/CN_008"
+        },
+        {
+            "id": "char_4054_malist_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "A close look is all it takes to unearth the core sense of a man from his work. Just like how I used to disdain anything superfluous. I treated my own life in the same way. Doctor, an artwork is a microcosm of its creator's life. Yours, I can understand.",
+                "jp": "どんな作品も、よくよく深くまで潜ってけば作り手の思想を見出すことができるんだ。例えばオレの場合、余計なものは一切存在すべきでないと考えていたし、自分の命に対する態度もそうだったから、それを作品にも込めてた。ドクター、作品はその人の生き方の縮図だ。オレは、アンタの作品を理解できるよ。",
+                "kr": "모든 작품들은 잘 연구해 보면 제작자의 사상을 알 수 있어. 마치 예전의 내가 불필요한 것들은 전부 존재해선 안 된다는 생각을 가졌고, 내 삶에 대한 태도도 그랬었기에 그걸 작품에도 표현했던 것처럼 말이야. 박사, 작품은 그 작품을 만든 이가 살아온 삶의 축소판이야. 네 작품, 나는 이해할 수 있어.",
+                "cn": "每个人的作品只要细究下去，都能挖掘出他观念的核心，就如我之前觉得任何多余的东西都不应存在一样，我对于自己生命的态度也是如此。博士，作品是每个人一生的缩影。你的作品，我能看懂。"
+            },
+            "asset": "char_4054_malist/CN_009"
+        },
+        {
+            "id": "char_4054_malist_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Hmm. Such a counter-conventional sleeping posture, such a complex yet stable load-bearing structure... miraculous. Is this not going to give you neck arthritis?",
+                "jp": "うーん、常軌を逸した寝姿に、複雑ながらも力学的に安定した姿勢制御……すごいな、本当に頚椎症になったりしないの？",
+                "kr": "흐음, 상식을 벗어난 수면 자세에, 복잡하면서도 역학적으로 안정적인 구조…… 신기하군. 디스크에 걸리진 않는 거야?",
+                "cn": "嗯，如此有违常规的睡姿，如此复杂但又稳定的受力结构......神奇，真的不会得颈椎病吗？"
+            },
+            "asset": "char_4054_malist/CN_010"
+        },
+        {
+            "id": "char_4054_malist_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "I'm Operator Minimalist, freshly dragged here by Gavial. So this is what a nomadic landship's like? You must have a much easier time avoiding Catastrophes than we do underground. Hmph, the only thing in those fools' heads is merrily drinking their lives away—ow, Gavial, what did you hit me for?!",
+                "jp": "ガヴィルに無理矢理連れてこられた、新参オペレーターのミニマリストっす。ふーん、これが移動艦船か、天災からの避難は地下にいる奴らより楽になりそうだ。フン、あいつら毎日能天気に飲み倒すことしか知らな――いっった、なんで殴るんだよガヴィル！",
+                "kr": "나는 가비알에게 억지로 끌려온 신입 오퍼레이터 미니멀리스트다. 이게 말로만 듣던 이동 함선인가, 지하보단 재앙을 피하기 훨씬 편리하겠네. 흥, 그 인간들은 하루 종일 술 마시는 것밖에…… 왜 때리는 거야, 가비알!",
+                "cn": "我是被嘉维尔拖来的新干员至简。原来这就是移动舰船啊，那你们躲天灾比在地下方便多了。哼，那些人一天就知道乐呵呵地喝酒——嘉维尔你打我干什么！"
+            },
+            "asset": "char_4054_malist/CN_011"
+        },
+        {
+            "id": "char_4054_malist_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "...If it's not architecture-related, I don't want to see it.",
+                "jp": "……オレは建築関係のものにしか興味ないんで。",
+                "kr": "……난 건축과 관련된 일에만 관심 있다니까.",
+                "cn": "......我只想看和建筑有关的。"
+            },
+            "asset": "char_4054_malist/CN_012"
+        },
+        {
+            "id": "char_4054_malist_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "A medal? Decently tasteful. You just give this to me, and that's it, right? I've absolutely no need for any sort of commendation ceremonies, and I imagine you don't like to waste time anyway. But I will—ahem—thank you for acknowledging me.",
+                "jp": "昇進メダル？まあセンスは悪くないんじゃない。段取りはこれをもらったらおしまい？まだ表彰式とかあるんならやんなくていいよ。アンタだって時間の無駄は嫌だろ。でも、まあ……オレのことを認めてくれたのは、その……コホン、ありがと。",
+                "kr": "승진 훈장? 뭐, 센스는 나쁘지 않네. 이것만 받으면 끝이야? 또 무슨 표창식 같은 게 있는 거라면 사양하도록 할게. 너도 시간 낭비하는 건 싫어하잖아. 그래도 날 인정해 준 건…… 크흠, 고마워.",
+                "cn": "勋章？品味还不错。把这个给我，流程就算结束了吧？如果还有什么表彰会之类的，大可不必，我相信你也不喜欢浪费时间。不过，你对我的认可，咳，谢了。"
+            },
+            "asset": "char_4054_malist/CN_013"
+        },
+        {
+            "id": "char_4054_malist_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Everyone's experiences are different, and the significance lying behind my works will be out of sight to most... but there are some, like you, like my mentor, that I hope can understand.",
+                "jp": "経歴は人それぞれ違うから、ほとんどの人はオレが作品に込めたものを汲み取りきれない……でも、アンタや師匠には、ちゃんと伝わっててくれたらと思う。",
+                "kr": "사람마다 겪어온 게 다르니까, 대부분의 사람들은 내 작품 속에 숨겨진 의미를 전부 헤아릴 수 없어…… 하지만 몇몇 사람들은 내 작품을 이해할 수 있을 거라고 생각해, 예를 들자면, 너나 내 스승님 말이야.",
+                "cn": "每个人的经历不同，大多数人并不能全然了解我的作品背后的意义......但有些人，比如你，比如我的老师，我期望你们能懂。"
+            },
+            "asset": "char_4054_malist/CN_014"
+        },
+        {
+            "id": "char_4054_malist_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "If Gavial's going, I'm not.",
+                "jp": "ガヴィルがいるなら、オレは行かないよ。",
+                "kr": "가비알이 있으면 난 안 갈 거야.",
+                "cn": "如果嘉维尔在，我就不去。"
+            },
+            "asset": "char_4054_malist/CN_017"
+        },
+        {
+            "id": "char_4054_malist_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "You want me for captain? What are you even... You're joking, aren't you? Hey!",
+                "jp": "オレが隊長？アンタ何を考えて……冗談だよね？ねえ！",
+                "kr": "내가 대장이라고? 무슨 생각을 하는…… 농담이지? 야!",
+                "cn": "让我做队长？你在想什么......你是在开玩笑吧？喂！"
+            },
+            "asset": "char_4054_malist/CN_018"
+        },
+        {
+            "id": "char_4054_malist_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Hm... alright, let me be clear, I don't have any prior combat experience. However, I am going to take this mission seriously.",
+                "jp": "うーん……まあいいさ。先に言っておくけど、オレには戦闘の経験はない。でも真剣に取り組むよ。",
+                "kr": "으음…… 그래. 일단 말해 두겠는데, 난 작전 경험이 없어. 그래도 임무에는 진지하게 임할 거야.",
+                "cn": "嗯......行吧，先说好，我以前没有作战经验，不过，我会认真对待这次任务的。"
+            },
+            "asset": "char_4054_malist/CN_019"
+        },
+        {
+            "id": "char_4054_malist_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Instrument debugging complete. I can begin any time.",
+                "jp": "計器の調整完了、いつでも行けるよ。",
+                "kr": "계기 조정 완료, 언제든 시작해도 좋아.",
+                "cn": "仪器调试完毕，随时可以开始。"
+            },
+            "asset": "char_4054_malist/CN_020"
+        },
+        {
+            "id": "char_4054_malist_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "I am aware. Don't push me.",
+                "jp": "分かったって、急かすな。",
+                "kr": "알았으니까 재촉하지 마.",
+                "cn": "知道了，别催我。"
+            },
+            "asset": "char_4054_malist/CN_021"
+        },
+        {
+            "id": "char_4054_malist_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "If you break anything, you're paying!",
+                "jp": "壊したら弁償だからな！",
+                "kr": "고장 나면 변상 청구할 거니까!",
+                "cn": "碰坏了要赔的！"
+            },
+            "asset": "char_4054_malist/CN_022"
+        },
+        {
+            "id": "char_4054_malist_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Instrument is operating fine. Now scanning terrain.",
+                "jp": "計器の動作は正常、地形をスキャン中。",
+                "kr": "계기 정상적으로 작동 중, 지형을 스캔하고 있어.",
+                "cn": "仪器运行正常，正在扫描地形。"
+            },
+            "asset": "char_4054_malist/CN_023"
+        },
+        {
+            "id": "char_4054_malist_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "So this... is war.",
+                "jp": "戦場って……こんなんだったのか。",
+                "kr": "전장은…… 이런 곳이구나.",
+                "cn": "战场......原来是这样的。"
+            },
+            "asset": "char_4054_malist/CN_024"
+        },
+        {
+            "id": "char_4054_malist_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Keep away!",
+                "jp": "寄るな！",
+                "kr": "떨어져!",
+                "cn": "离我远点！"
+            },
+            "asset": "char_4054_malist/CN_025"
+        },
+        {
+            "id": "char_4054_malist_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "We're not here to be courteous.",
+                "jp": "オレたちは手加減しないよ。",
+                "kr": "우린 봐주지 않을 거야.",
+                "cn": "我们不会客气的。"
+            },
+            "asset": "char_4054_malist/CN_026"
+        },
+        {
+            "id": "char_4054_malist_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "I just don't get you people...",
+                "jp": "よく分からない奴らだね……",
+                "kr": "이해할 수 없는 녀석들이네……",
+                "cn": "搞不懂你们......"
+            },
+            "asset": "char_4054_malist/CN_027"
+        },
+        {
+            "id": "char_4054_malist_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "What a waste of time.",
+                "jp": "時間の無駄だ。",
+                "kr": "시간 낭비야.",
+                "cn": "浪费时间。"
+            },
+            "asset": "char_4054_malist/CN_028"
+        },
+        {
+            "id": "char_4054_malist_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Huh. You're mightier than you let on, aren't you?",
+                "jp": "なんだ、見かけによらずなかなかやるね？",
+                "kr": "보기랑 다르게, 대단한 녀석이구나, 너?",
+                "cn": "看不出来，你还真的挺厉害的？"
+            },
+            "asset": "char_4054_malist/CN_029"
+        },
+        {
+            "id": "char_4054_malist_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "*cough* *cough* *cough*... There's so much dust—it's filthy. Gah.",
+                "jp": "ゴホゴホゴホッ……すっごいホコリ、きったないな、チッ。",
+                "kr": "콜록콜록…… 엄청난 먼지네. 더럽잖아, 쳇.",
+                "cn": "咳咳咳......好大的灰，好脏，啧。"
+            },
+            "asset": "char_4054_malist/CN_030"
+        },
+        {
+            "id": "char_4054_malist_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "What are you looking at me for? You want me to chase them?",
+                "jp": "何見てるの、まさかオレに追わせる気？",
+                "kr": "왜 날 쳐다보는 거야. 나더러 뒤쫓으라고?",
+                "cn": "看我干什么，你打算让我追吗？"
+            },
+            "asset": "char_4054_malist/CN_031"
+        },
+        {
+            "id": "char_4054_malist_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Snap out of it! Get running!",
+                "jp": "何ぼさっとしてんの、逃げるよ！",
+                "kr": "뭘 멍하니 있는 거야, 어서 도망가!",
+                "cn": "发什么呆，快跑啊！"
+            },
+            "asset": "char_4054_malist/CN_032"
+        },
+        {
+            "id": "char_4054_malist_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "I don't want to open my eyes . I'm worried the interior design is going to scare the life out of me.",
+                "jp": "……あんまり目を開けたくないんだよね。心臓に悪い内装デザインだったらって思うとさ。",
+                "kr": "……별로 눈을 뜨고 싶진 않은걸. 어떤 실내 디자인이 날 놀라게 할지 무서워서 말이지.",
+                "cn": "......我不太想睁开眼睛，我怕会看到什么能吓死我的室内设计。"
+            },
+            "asset": "char_4054_malist/CN_033"
+        },
+        {
+            "id": "char_4054_malist_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Hold on, I'm busy.",
+                "jp": "ちょっと待ってて、今取込み中。",
+                "kr": "조금만 기다려, 지금 바쁘니까.",
+                "cn": "等一下，忙着呢。"
+            },
+            "asset": "char_4054_malist/CN_034"
+        },
+        {
+            "id": "char_4054_malist_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Phew... what time is it? No, what day of the week? Er... did I eat anything yet? I don't think I did...?",
+                "jp": "ふぅ……今何時？というか、今日何曜日だ？あれ……オレ飯食った？　食ってないような……",
+                "kr": "흐아암…… 지금 몇 시지? 아니, 오늘은 무슨 요일이지? 으음…… 내가 밥을 먹었던가? 안 먹은 것 같기도……?",
+                "cn": "呼......现在几点了？不对，今天是星期几？呃......我吃饭了没有？好像没有......？"
+            },
+            "asset": "char_4054_malist/CN_036"
+        },
+        {
+            "id": "char_4054_malist_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟"
+            },
+            "asset": "char_4054_malist/CN_037"
+        },
+        {
+            "id": "char_4054_malist_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Doctor, sitting for too long can leave you prone to neck arthritis. I suggest you watch out for yourself.",
+                "jp": "ドクター、座りっぱなしは頚椎を悪くするんだ、気をつけた方がいいよ。",
+                "kr": "박사, 너무 오래 앉아 있으면 디스크에 걸리기 쉬워. 조심하는 게 좋을 거야.",
+                "cn": "博士，久坐容易得颈椎病，建议你也注意一下。"
+            },
+            "asset": "char_4054_malist/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Caleb Yen",
+            "global": "Caleb Yen"
+        },
+        "cn": {
+            "native": "许潇文",
+            "global": "Xiaowen Xu"
+        },
+        "jp": {
+            "native": "野上翔",
+            "global": "Sho Nogami"
+        },
+        "kr": {
+            "native": "이주승",
+            "global": "Lee Ju-seung"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

@@ -1,0 +1,596 @@
+{
+    "charid": "char_496_wildmn",
+    "nameid": "wildmn",
+    "names": {
+        "en": "Wild Mane",
+        "jp": "ワイルドメイン",
+        "kr": "와일드메인",
+        "cn": "野鬃"
+    },
+    "voices": [
+        {
+            "id": "char_496_wildmn_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Nah-ah, keep those documents away from me... I go all vertigo when I see too much text. Don't even think of making me help you on the paper work, Doctor, I'm just gonna stand here nice and good.",
+                "jp": "無理無理、書類なんかはどっか遠くにやっといてくれ……ミミズの這ったような文字の羅列を見てると頭がくらくらすんだ。あたしに手伝ってもらおうなんて考えんなよドクター。あたしはここで大人しくしてるからよ。",
+                "kr": "아이 내가 이런 걸 어떻게 해, 서류 같은 건 어디 멀리 치워 버려 쫌…… 무슨 지렁이가 기어간 것마냥 글씨가 빼곡한 걸 보면, 아주 머리가 어질어질하다니까? 나한테 뭐 도움받을 생각하지 마 박사. 나는 여기 얌~전히 있을 테니까.",
+                "cn": "不行，把那些文书拿远一些......看到那么多字就头晕。可别想让我帮忙啊，博士，我就在这老老实实待着。"
+            },
+            "asset": "char_496_wildmn/CN_001"
+        },
+        {
+            "id": "char_496_wildmn_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Armor paint? It's gotta be gold. I love gold. It's the color of lightning, and when they say things are fast as lightning, that's fast!",
+                "jp": "鎧の塗装？金色一択だろ。キンキラキンが好きなんだよ。だって金って稲妻の色だろ、んで稲妻ははえーからな！",
+                "kr": "갑옷에 도색하는 거? 당연히 금색이지. 반짝거리는 게 좋거든. 왜냐면 번개 색깔이 또 금색이잖아, 근데 또 번개는 빠르니까!",
+                "cn": "盔甲喷漆？当然要选金色。我喜欢金色，因为金色是闪电的颜色，闪电的速度很快！"
+            },
+            "asset": "char_496_wildmn/CN_002"
+        },
+        {
+            "id": "char_496_wildmn_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "For combat, I got my own way of doing things. If you want 'em to respect you, just beat 'em down. If you want 'em to listen to you, go for a round, and let 'em know they could never ever win.",
+                "jp": "戦いなら、あたしは自分のやり方でやらせてもらうぜ。相手に見上げられたいなら、叩き伏せてやればいい。言うことを聞かせたいなら、とりあえず一発ケンカして、勝ち目がねぇってことを思い知らせてやりゃいいんだ。",
+                "kr": "싸울 거면 나는 내 방식대로 할 거야. 상대방이 우러러보게 만들고 싶다면, 두들겨 패 주면 돼. 하는 말을 듣게 하고 싶다면, 일단 한바탕 붙어서, 승산이 없다는 걸 깨닫게 만들면 돼.",
+                "cn": "说到战斗，我就按照自己的办法来。想让别人仰视你，那就把他揍趴下。想让对方老实听你的，就来打一场，让他知道自己毫无胜算。"
+            },
+            "asset": "char_496_wildmn/CN_003"
+        },
+        {
+            "id": "char_496_wildmn_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Armorless Union assassins, Nearl family knights, the Pinus Sylvestris Knightclub... how's Rhodes Island hold all of them together? Your recruiting standards are mad out of sight.",
+                "jp": "無冑盟の殺し屋、ニアール家の騎士、レッドパイン騎士団……このメンツを一緒くたに受け入れるなんて、ロドスは何考えてんだ？採用基準がおかしいだろ。",
+                "kr": "아머레스 유니온의 킬러, 니어 가문의 기사, 피누스 실베스트리스 기사단…… 이런 사람들을 다 같이 받아주다니, 로도스 아일랜드는 대체 뭔 생각을 하고 있는 거야? 채용 기준이 이상하잖아.",
+                "cn": "无胄盟的杀手、临光家的骑士、红松骑士团......罗德岛怎么能够同时容纳这些人的？招人标准真是奇怪。"
+            },
+            "asset": "char_496_wildmn/CN_004"
+        },
+        {
+            "id": "char_496_wildmn_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "I‘ve been honing myself into a campaign knight since childhood. That's how I've learnt all my combat skills. But after I got infected…pssh, I still wanna be a 'knight.' If winning fights is the way to prove myself, then I'll win every fight to show'em all.",
+                "jp": "あたしの戦闘スキルは、小さい頃から征戦騎士になるために身につけてきたんだ。だけど鉱石病（オリパシー）になって……チッ、それでも「騎士」にはなってやったぜ。勝利すりゃ実力が証明できるだろ？だからあたしは勝って勝って勝ちまくって、全員を見返してやんだ。",
+                "kr": "내 전투 스킬은 어렸을 때부터 출정 기사가 되기 위해 익혀 온 거야. 근데 하필 광석병에 걸려서…… 칫, 그래도 '기사'가 되긴 했어. 승리하면 실력을 증명할 수 있잖아? 그러니까 나는 보란 듯이 이기고 이기고 계속 이겨서, 모두한테 보여 줄 거야.",
+                "cn": "我这些战斗技巧都是从小学的，为了成为一名征战骑士而做的准备。但感染之后......啧，即使这样我也要成为“骑士”。只要能靠战斗的胜利证明自己的实力，我就会赢给所有人看。"
+            },
+            "asset": "char_496_wildmn/CN_005"
+        },
+        {
+            "id": "char_496_wildmn_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Sometimes I don't really get what Sona says, yet I still believe she'll lead us to do right and proper. She's changing and improving herself to adapt, so maybe I'll try working on my own faults too. But, that doesn't mean I'm gonna take up everything she says, haha.",
+                "jp": "ソーナは何言ってるかわかんねぇこともあるけど、あいつならあたしたちを正しい方向に導いてくれるって信じてる。あいつだって自分を変えながら成長し続けてるからな。だからあたしも自分の悪いところを直してみようと思ってんだ。まぁだからってあいつの言うことを全部鵜呑みにするつもりもねぇけどな、ハハ。",
+                "kr": "소나는 무슨 말을 하는 건지 모를 때도 있지만, 걔라면 우리를 올바른 방향으로 이끌어 줄 거라고 믿고 있어. 걔도 계속, 끊임없이 자신을 바꿔가며 성장하고 있으니까. 그러니까 나도 내 나쁜 점을 고쳐볼까 해. 뭐, 그렇다고 걔가 하는 말을 다 받아들일 생각은 없지만 말이야, 하하.",
+                "cn": "有时候我不太明白索娜说的一些话，但我相信她会带领我们一直去做正确的事。她还在不断改变和进步，所以，我也会试着改改自己的毛病的。但也不完全听她的，哈哈。"
+            },
+            "asset": "char_496_wildmn/CN_006"
+        },
+        {
+            "id": "char_496_wildmn_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "When Justyna says things, her first sentence is the most important part! But if you don't listen to what comes after, you don't get what the first sentence was about. Good thing I'm already used to that, so I can grasp her point nice and clear.",
+                "jp": "ユスティナがしゃべる時は、一言目が一番の要点なんだ！だけどその後の話を聞かねぇと、一言目の意味がわかんねぇんだよなぁ。でももう慣れたから、今じゃちゃんと分かるけどさ。",
+                "kr": "저스티나가 말할 때는 첫마디가 가장 중요한 요점이야! 아 근데 그 뒤에 뭐라는지 안 들으면, 첫마디가 무슨 뜻인지 알 수가 없단 말이지. 그래도 이젠 익숙해져서, 무슨 뜻인지 제대로 알아듣게 됐지만.",
+                "cn": "查丝汀娜说话的时候，第一句是最重要的！可是不听后面的话又不知道她第一句说了什么。不过我已经习惯了，所以能听懂。"
+            },
+            "asset": "char_496_wildmn/CN_007"
+        },
+        {
+            "id": "char_496_wildmn_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Justice Knight's my pet. I got people to give her a bunch of functions, so she's got the chops to do it all at least a little. Yeah, she's a real doer!",
+                "jp": "「ジャスティスナイト」は、あたしのペットだ。前に人に頼み込んで色んな機能を足してもらったから、だいたいのことはそれなりにできる。ああ、あいつはできる奴なんだよ！",
+                "kr": "‘저스티스 나이트’는 내 펫이야. 전에 다른 사람에게 부탁해서 다양한 기능을 추가했으니까, 이제 웬만한 일은 다 할 줄 알아. 그래, 아주 똘똘한 녀석이란 말이지!",
+                "cn": "正义号是我的宠物，以前托人东拼西凑了些功能，所以什么都会一点。嗯，很能干！"
+            },
+            "asset": "char_496_wildmn/CN_008"
+        },
+        {
+            "id": "char_496_wildmn_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "I made the title 'Wild Mane' renowned through my own hard work. It's the symbol of a Knight as strong as hell, and an Infected Knight even. However, the General Chamber of Commerce takes our lives and our glory no more than products and consumables. Tch. Sucks I can't pound their masks to pieces right damned now.",
+                "jp": "「野鬃（やそう）」って称号はな、あたしが自分の努力で世間に認めさせたんだ。強い騎士、それも感染者騎士の象徴なんだよ。あたしたちの命と名誉を売り物や消耗品としか見てない商業連合会なんて……チッ、今すぐ奴らの仮面を粉々にしてやれねぇのが恨めしいぜ。",
+                "kr": "‘거친 갈기의 기사’라는 칭호는 말이야, 내가 직접 노력해서 세상한테 인정 받은 거야. 강한 기사, 그것도 감염자 기사의 상징이지. 우리 목숨과 명예를 상품이나 소모품으로만 보는 상업연합회 따위는…… 칫, 지금 당장 녀석들이 쓴 가면을 산산조각 못 내주는 게 한이네.",
+                "cn": "“野鬃”这个封号，是靠我自己的努力让别人记住的。它代表一名强大的骑士，而且，是感染者骑士。至于把我们的性命和荣耀当商品和消耗品的商业联合会，呿，我恨不得把他们的面具全部砸烂。"
+            },
+            "asset": "char_496_wildmn/CN_009"
+        },
+        {
+            "id": "char_496_wildmn_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Man, I'm so bored... hey, let's go for a drink. It's always Ashley who drinks with me, and that's just dull.",
+                "jp": "暇だなぁ……おい、一杯行こうぜ。いつも付き合ってくれるのはカイくらいだし、つまんねぇんだよ。",
+                "kr": "심심하다~~ 야, 한잔 콜? 늘 같이 가 주는 건 회색이 정도밖에 없어서 재미가 없거든~",
+                "cn": "好无聊啊......走，一起去喝一杯吧？总是只有小灰陪我喝，太没劲了。"
+            },
+            "asset": "char_496_wildmn/CN_010"
+        },
+        {
+            "id": "char_496_wildmn_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Wild Mane' Iwona, I'm a Knight from Pinus Sylvestris Knightclub. Sona says this place does good by the Infected? Sounds cool.",
+                "jp": "「ワイルドメイン」イヴォナ、レッドパイン騎士団の「野鬃」騎士だ。ソーナが言ってたけど、ここは感染者にも優しいんだって？それならオッケーだ。",
+                "kr": "‘와일드메인’ 이보나. 피누스 실베스트리스 기사단 소속, ‘거친 갈기의 기사’야. 소나한테 들었는데, 여기는 감염자한테도 잘해 준다며? 그럼 오케이지.",
+                "cn": "“野鬃”艾沃娜，我是红松骑士团的骑士。索娜说这里对感染者很友好？那就行。"
+            },
+            "asset": "char_496_wildmn/CN_011"
+        },
+        {
+            "id": "char_496_wildmn_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Ooh... that's a sick surprise attack to make! Can we rewind that and watch it again?",
+                "jp": "おおー……この突撃技はすごいな！巻き戻してもう一回見てもいいか？",
+                "kr": "오오…… 이 돌격기, 굉장한데! 되감아서 다시 한 번 봐도 돼?",
+                "cn": "哦哦......这招突袭很厉害！能倒回去重看一遍不？"
+            },
+            "asset": "char_496_wildmn/CN_012"
+        },
+        {
+            "id": "char_496_wildmn_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "A promotion? Then you can tell I've gotten stronger? Haha, fine by me, gimme a few more!",
+                "jp": "昇進って、あたしが強くなったって認めるってことか？ハハ、いいねえ、こういうのもっとやってくれよ！",
+                "kr": "승진이라니, 내가 강해졌다는 걸 인정한다는 뜻이야? 하하, 좋네. 이런 건 더 해 달라고!",
+                "cn": "晋升，是承认我变得更强了的意思？哈哈，那好啊，再多来几次！"
+            },
+            "asset": "char_496_wildmn/CN_013"
+        },
+        {
+            "id": "char_496_wildmn_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Those hypocrites, wearing hollow masks and treading on the Infected as they want. Screw them, my lance is gonna run them all through!",
+                "jp": "あの嘘くさい顔して感染者を苦しめる偽善者たちを、このランスで容赦なくぶち抜いてやんだ。",
+                "kr": "그 거짓 가득한 얼굴로, 감염자를 괴롭히는 위선자들을, 이 랜스로 가차 없이 꿰뚫어 주는 거야.",
+                "cn": "那些虚伪的面孔，欺压感染者的伪善者，都会被这把骑枪毫不留情地贯穿。"
+            },
+            "asset": "char_496_wildmn/CN_014"
+        },
+        {
+            "id": "char_496_wildmn_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Who's got the guts to spar with me?",
+                "jp": "あたしと張り合ってみるか？",
+                "kr": "나랑 한 판 붙어 볼래?",
+                "cn": "敢不敢和我比划比划？"
+            },
+            "asset": "char_496_wildmn/CN_017"
+        },
+        {
+            "id": "char_496_wildmn_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Phalanx formation suits me most. If I'm the captain, then let's go with my kind of tactics!",
+                "jp": "ファランクスが一番あたしに合う陣形さ。隊長を任せるってんなら、戦術もあたし好みのやつでいくぜ！",
+                "kr": "팔랑크스가 나한테 가장 잘 맞는 진형이야. 팀장을 맡길 거면, 전술도 내 취향대로 가야지!",
+                "cn": "最适合我的就是方阵了。我做队长，那战术就按我喜欢的来！"
+            },
+            "asset": "char_496_wildmn/CN_018"
+        },
+        {
+            "id": "char_496_wildmn_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Let's roooooll!",
+                "jp": "しゅっぱーつ！",
+                "kr": "출발~!",
+                "cn": "出——发——！"
+            },
+            "asset": "char_496_wildmn/CN_019"
+        },
+        {
+            "id": "char_496_wildmn_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Haha, I got you sighted.",
+                "jp": "ハハ、見つけたぜ。",
+                "kr": "하하, 찾았다.",
+                "cn": "哈哈，我看到你们了。"
+            },
+            "asset": "char_496_wildmn/CN_020"
+        },
+        {
+            "id": "char_496_wildmn_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Leave the brawling to me.",
+                "jp": "ケンカならあたしに任せとけ。",
+                "kr": "싸움이라면, 나한테 맡기라고.",
+                "cn": "干架的事情就交给我。"
+            },
+            "asset": "char_496_wildmn/CN_021"
+        },
+        {
+            "id": "char_496_wildmn_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "I've been waiting forever!",
+                "jp": "待ちくたびれたぜ！",
+                "kr": "기다리다 지쳤다고!",
+                "cn": "等了好久了！"
+            },
+            "asset": "char_496_wildmn/CN_022"
+        },
+        {
+            "id": "char_496_wildmn_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "You guys think you're worth my full strength?",
+                "jp": "お前らごときに、全力を出す価値なんてあんのか？",
+                "kr": "너희들 따위한테 전력을 다할 가치가 있긴 한가?",
+                "cn": "就你们，值得我使出全力吗？"
+            },
+            "asset": "char_496_wildmn/CN_023"
+        },
+        {
+            "id": "char_496_wildmn_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Don't you dare go down in one!",
+                "jp": "一発で倒れてくれんなよ！",
+                "kr": "한 방에 쓰러지지 말라고!",
+                "cn": "可别一击就倒啊！"
+            },
+            "asset": "char_496_wildmn/CN_024"
+        },
+        {
+            "id": "char_496_wildmn_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Slow! Slow! Way too slow!",
+                "jp": "遅ぇ遅ぇ、遅すぎる！",
+                "kr": "느려 느려, 너무 느리다고!",
+                "cn": "太慢了太慢了太慢了！"
+            },
+            "asset": "char_496_wildmn/CN_025"
+        },
+        {
+            "id": "char_496_wildmn_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Haha, you're not dodging this!",
+                "jp": "ハハ、避けられると思うなよ！",
+                "kr": "하하, 피할 수 있을 거라 생각하지 말라고!",
+                "cn": "哈哈，你是躲不掉的！"
+            },
+            "asset": "char_496_wildmn/CN_026"
+        },
+        {
+            "id": "char_496_wildmn_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Lance charge!",
+                "jp": "ランスチャージ！",
+                "kr": "랜스 차지!",
+                "cn": "夹枪冲锋！"
+            },
+            "asset": "char_496_wildmn/CN_027"
+        },
+        {
+            "id": "char_496_wildmn_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Piercing through!",
+                "jp": "このランスで貫く！",
+                "kr": "이 랜스로 꿰뚫어버리겠어!",
+                "cn": "骑枪刺击！"
+            },
+            "asset": "char_496_wildmn/CN_028"
+        },
+        {
+            "id": "char_496_wildmn_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Keep on winning, and you'll never be forgotten. It's that simple.",
+                "jp": "勝ち続ければ、みんなに忘れられちまう心配もねぇ。簡単な話だろ。",
+                "kr": "계속 이기면, 모두한테 잊혀질 걱정도 없지. 간단한 이야기잖아?",
+                "cn": "不断地获胜，就不怕被人忘记。就是这么简单。"
+            },
+            "asset": "char_496_wildmn/CN_029"
+        },
+        {
+            "id": "char_496_wildmn_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Cheers, Doctor. You're a solid commander.",
+                "jp": "あんがとな、ドクター。あんたの指揮は確かに悪くねぇな。",
+                "kr": "고마워, 박사. 네 지휘는 확실히 나쁘지 않아.",
+                "cn": "谢啦，博士。你的指挥确实有一套。"
+            },
+            "asset": "char_496_wildmn/CN_030"
+        },
+        {
+            "id": "char_496_wildmn_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "My Major Lance... *sigh* Gotta get repairs again.",
+                "jp": "長槍がオシャカだ……はぁー、また修理に出さねぇとな。",
+                "kr": "장창이 망가졌잖아…… 하아~ 또 수리 맡겨야겠네……",
+                "cn": "我的母枪......唉，又该拿去修了。"
+            },
+            "asset": "char_496_wildmn/CN_031"
+        },
+        {
+            "id": "char_496_wildmn_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Leave any regrets for later! Go, I'll cover the rear!",
+                "jp": "悔やむのは後だ、あたしが最後尾で敵を抑える……さっさと逃げろ！",
+                "kr": "후회는 나중에 해, 내가 맨 끝에서 적을 막을 테니까…… 얼른 도망쳐!",
+                "cn": "有懊悔之后再说，我来殿后......快走！"
+            },
+            "asset": "char_496_wildmn/CN_032"
+        },
+        {
+            "id": "char_496_wildmn_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Any rooms in all gold around here? Just a little dream of mine.",
+                "jp": "真っ金金の部屋はねぇのかよ？まぁ、言ってみただけだろ。",
+                "kr": "전부 금으로 된 방은 없어? 뭐, 그냥 말해 본 거야.",
+                "cn": "有没有全部是金色的房间？我就想想嘛。"
+            },
+            "asset": "char_496_wildmn/CN_033"
+        },
+        {
+            "id": "char_496_wildmn_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "What, you wanna have a race with me?",
+                "jp": "へぇ、あたしと速さを競うつもりか？",
+                "kr": "흐음~ 나랑 속도로 한 판 붙어보게?",
+                "cn": "嘿，想和我比速度？"
+            },
+            "asset": "char_496_wildmn/CN_034"
+        },
+        {
+            "id": "char_496_wildmn_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Skirts? Nuh-uh. I don't wear 'em 'cept for special days.",
+                "jp": "スカート？ああ……特別な日にしか穿かねぇぜ。",
+                "kr": "스커트? 아…… 특별한 날에만 입지.",
+                "cn": "裙装？嗯......在特别的时候才会穿。"
+            },
+            "asset": "char_496_wildmn/CN_036"
+        },
+        {
+            "id": "char_496_wildmn_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_496_wildmn/CN_037"
+        },
+        {
+            "id": "char_496_wildmn_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Ready for the day, Doctor? Wanna try some breakfast from the Justice Knight?",
+                "jp": "調子はどうだ、ドクター。ジャスティスナイトの作った朝メシを食ってみるか？",
+                "kr": "오늘 컨디션은 어때, 박사? 저스티스 나이트가 아침밥 만들었는데, 먹어 볼래?",
+                "cn": "吃过了吗，博士。想不想尝尝正义号做的早餐？"
+            },
+            "asset": "char_496_wildmn/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Judy Alice Lee",
+            "global": "Judy Alice Lee"
+        },
+        "cn": {
+            "native": "十四",
+            "global": "Jingxia Liu"
+        },
+        "jp": {
+            "native": "村中知",
+            "global": "Tomo Muranaka"
+        },
+        "kr": {
+            "native": "김영은",
+            "global": "Kim Young-eun"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

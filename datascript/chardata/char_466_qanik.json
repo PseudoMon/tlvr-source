@@ -1,0 +1,591 @@
+{
+    "charid": "char_466_qanik",
+    "nameid": "qanik",
+    "names": {
+        "en": "Qanipalaat",
+        "jp": "カニパラート",
+        "kr": "카니팔라트",
+        "cn": "雪绒"
+    },
+    "voices": [
+        {
+            "id": "char_466_qanik_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Do you want these files here? Oh, one of the Liberi girls taught me how to use a printer! Look, I even learned how to print on both sides! Majt javla? (What's this?) This needs to be single-sided? Oh, er, I'll print it again!",
+                "jp": "ドクター、この書類はここでいい？さっきね、リーベリーのお姉さんにプリンターというものの使い方を教わったんだ。言われた通りに操作したら、両面印刷っていうのもできたんだよ！えっ、重要な文書は片面印刷……？や、やり直してくるね！",
+                "kr": "박사, 이 서류들은 여기 두면 돼? 아까 어떤 리베리 누나가 프린터 사용법을 가르쳐 줘서 알려준 대로 했더니 양면 인쇄도 할 수 있더라고. 앗, 중요한 문서는 단면으로 인쇄해야 한다고? 다, 다시 프린트해 올게!",
+                "cn": "博士，这些文件是放在这里吗？还有那个叫做打印机的，一位黎博利姐姐教了我怎么用它，我按照说明还做到了双面打印！啊，重要文件需要打成单面？我——我再去打印一份！"
+            },
+            "asset": "char_466_qanik/CN_001"
+        },
+        {
+            "id": "char_466_qanik_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Ieddne (Mother) has gotten a lot better. If not for the medical equipment we got from the explorers, she might have... even tsoavttsom (divination) showed a dark future. But that was the reason I decided to go out into the world. If I could bring equipment like that back sijddaj... (to the village...)",
+                "jp": "母さんの病気はだいぶ良くなってるよ。あの時探検隊の人たちが医療機器を提供してくれなかったら、おそらく今は……だって占いも良くない結果が出てたんだし。でも、ぼくが外に出て見識を深めようって思ったのもそれがきっかけなんだよね。ああいう設備をうちの部族にも導入できたら……",
+                "kr": "어머니의 병은 많이 나아졌어. 그때 탐험대 사람들이 의료 기기를 제공해 주지 않았다면, 아마 어머니는 지금쯤…… 점을 쳤을 때도 좋은 결과가 나오지 않았거든. 하지만 그런 일들이 있었기 때문에, 나도 바깥으로 나올 결심을 할 수 있었어. 만약 그 장비들을 우리 부족에도 도입할 수 있다면……",
+                "cn": "母亲的病已经好很多了，如果当初不是探险队提供了医疗设备，可能母亲就——毕竟，连占卜都预示了不好的结果。但也正是因为这件事，我决定出来看看。那些设备，如果能带回部落......"
+            },
+            "asset": "char_466_qanik/CN_002"
+        },
+        {
+            "id": "char_466_qanik_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "I'm really grateful to Magallan. We've only met a few times during search and rescue operations, but she put me in touch with Rhodes Island after hearing my situation. She's an incredible woman. There aren't many in our sijdan (tribe) who have set foot on the jiegŋadievddamin (ice fields). It's a place that's feared and revered.",
+                "jp": "マゼランお姉さんにはもちろん感謝してるよ。救助活動の時に何回か会っただけなのに、ぼくの事情を聞いたら、すぐロドスに取り次いでくれたんだもの。それにお姉さんは本当にすごい人なんだ。ぼくら部族の民でも、氷原に踏み入ろうって人はなかなかいないよ……あそこは畏れ多い場所だからね。",
+                "kr": "마젤란 누나한테는 정말 감사하고 있어. 구조 활동 때 몇 번 만난 사이일 뿐인데 내 처지를 듣고는 바로 로도스 아일랜드에 연락해 줬잖아. 게다가 누나는 정말 대단해, 우리 부족 사람들조차도 좀처럼 빙원에 발을 들여놓으려고 하지 않거든. 거긴 경외스러운 곳이니까 말이야.",
+                "cn": "我也很感谢麦哲伦姐姐，我们只在搜救行动中见过几次面，但她知道我的遭遇后，想办法帮我联系到了罗德岛。而且她真的很厉害，在我们部落，很少有人会踏足冰原，那是一个值得敬畏的地方。"
+            },
+            "asset": "char_466_qanik/CN_003"
+        },
+        {
+            "id": "char_466_qanik_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "I'm part of my sijdda's (tribe's) rescue team, helping people who accidentally wander into the sæmssaj (bog), or get lost in the guollduj (snowstorms). That's how I met a lot of explorers from Columbia. Huh? How did you know they liked my tail?",
+                "jp": "ぼく、故郷では捜索救助隊員だったんだ。誤って沼に入ったり、吹雪で方向を見失う人も多くってね。部族のお兄さんやお姉さんたちと一緒に遭難者を助けてるうちに、クルビアから来た探検隊ともたくさん知り合えたんだ。え？確かにみんなにぼくのしっぽを褒められてたけど、どうしてドクターがそれを知ってるの？",
+                "kr": "난 마을에서 구조 대원으로 일했어. 실수로 늪에 빠지거나, 눈보라 속에서 길을 잃는 사람들이 있었거든. 나랑 부족의 형, 누나들은 그런 사람들을 구하면서 컬럼비아에서 온 탐험대들을 많이 알게 되곤 했지. 어라, 사람들이 내 꼬리를 칭찬했다는 걸, 박사가 어떻게 알고 있는 거야?",
+                "cn": "我是部落里的搜救人员，有些人可能会误入沼泽，或者在风雪里走失。我和其他几位哥哥姐姐就负责把他们救回来，因此认识了很多哥伦比亚来的探险队。欸，博士怎么知道他们夸过我的尾巴？"
+            },
+            "asset": "char_466_qanik/CN_004"
+        },
+        {
+            "id": "char_466_qanik_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "I never thought I would leave the sijdda (tribe) to come here. I didn't use to be interested in this stuff, but that shiny medical equipment made a strong impression. They worked a miracle, and proved our tsoavttsom (divination) wrong.",
+                "jp": "部族を飛び出して、こんな所まで来るなんて夢にも思わなかった。外のものには全然関心がなかったけど、あちこち光っていた医療機器には実に驚かされたよ――だってあれは占いの結果さえも覆したんだもの。ぼくにとってはある種の奇跡のように感じたんだ。",
+                "kr": "난 내가 정말로 부족을 떠나 여기로 오게 될 줄은 몰랐어. 원래 바깥세상엔 크게 관심이 없었거든. 근데 그 반짝거리던 의료 기기들은 정말 놀라웠어…… 그것들은 점의 결과마저 바꿨잖아, 내게 있어선 그게 일종의 기적처럼 느껴졌어.",
+                "cn": "我之前从来没有想过自己有一天会真的走出部落，来到这里。我原本对这些完全不感兴趣，但还是被那些闪着光的医疗器械震慑到了——它们扭转了占卜的结果，对我来说是另一种奇迹。"
+            },
+            "asset": "char_466_qanik/CN_005"
+        },
+        {
+            "id": "char_466_qanik_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "The explorers told me things I've never heard before, about 'corporations', 'timetables', 'entrepot'... we don't even have these words because we've never had a use for them. But I learned them quickly, thanks to my conversations with the explorers.",
+                "jp": "探検隊の人たちは、部族では聞いたこともないようなことをたくさん話してくれたよ。「企業」「プロジェクト」「貿易」とかね。ぼくらはそういう概念を持ってないんだ、必要になる場面もないからさ。でもぼくの覚えが速いのも、こういう交流があったおかげなのかもね。",
+                "kr": "탐험대 사람들은 부족에선 듣도 보도 못할 많은 것들을 알려 줬어. '기업', '프로젝트', '무역' 같은 것들 말이야. 우리한텐 필요하지 않았으니까, 그런 개념조차 없었거든. 그래도 탐험대랑 교류했던 경험 덕분인지 나도 배우는 게 꽤 빠른 편인 것 같지 않아?",
+                "cn": "探险队在部落里讲过很多我从来没有听过的东西，“企业”“项目”“贸易”之类，我们根本没有这些概念，因为完全用不到。不过，正因为和探险队接触过，这些词我学得还算快吧？"
+            },
+            "asset": "char_466_qanik/CN_006"
+        },
+        {
+            "id": "char_466_qanik_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Can I do divination like Gitano? I suppose I could tsoavttsot your future, but I'm not great at it. If you want me to tell your fortune for the day, let's see... the stars will fall from the sky, and eggplant must goes on top of rice.",
+                "jp": "ギターノお姉さんみたいな占いをぼくが？うーんと……できるにはできるけど、あまり得意じゃないんだ。どうしてもって言うならやってみるね。えっと、あなたの今日の運勢は……天星が零れ落ち……ナスは、ご飯に乗せるべし？",
+                "kr": "기타노 누나처럼 점을 칠 수 있냐고? 으음…… 할 수 있긴 한데, 그렇게 잘하진 못하는데 박사가 그렇게까지 원한다면야, 한 번 해볼게. 박사의 오늘 운세는…… 별이 떨어지고…… 가지는 밥 위에 올려야 한다.",
+                "cn": "远山姐姐那样的占卜我能做到吗？嗯......我会，但是并不是特别擅长。要是您真的想要我来占卜，比如您今天的运势，我得到的结果是......天星降落，茄子要放在米饭上。"
+            },
+            "asset": "char_466_qanik/CN_007"
+        },
+        {
+            "id": "char_466_qanik_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Doctor, Accounting says my reimbursement claim has been delayed. What does 'reimbursement claim' mean? There's still so much I don't understand about paperwork...",
+                "jp": "ドクター、経理部の人から経費精算の申請が何か月分も溜まってるって言われたんだけど、「経費精算」って何？申請とかも、いまだによくわからなくて……",
+                "kr": "박사, 재무 부서에서 내 경비 정산 신청이 몇 개월이나 밀려 있다던데, 경비 정산이 뭐야? 서류 신청 같은 거 아직도 잘 모르겠네……",
+                "cn": "博士，财务部门今天说我的报销审核已经拖了好几个月了，“报销”是什么意思？填表相关的工作，我到现在还不太明白......"
+            },
+            "asset": "char_466_qanik/CN_008"
+        },
+        {
+            "id": "char_466_qanik_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "I'm back from my field mission! We delivered some equipment to my sijdda (tribe) and taught them how to use it. Turns out muohtá's (aunt's) leg pains were caused by bone spurs. Now that we know how to treat it, she won't have to rely on my oarbbenbiele's (cousin's) Arts to relieve the pain.",
+                "jp": "ドクター、外勤から帰ってきたよ！今回部族へ持ち帰る分の小型機器は全部無事に届けて、使い方もばっちりみんなに教えてきたよ。あとうちのおばちゃん、足が痛むのは骨棘が生えたからだった。原因が特定できて治療法もわかったことだし、これでお従姉ちゃんが毎日アーツで痛みを和らげずに済みそうだよ。",
+                "kr": "외근 다녀왔어, 박사! 이번에 가져간 소형 기기는 무사히 전달했고, 부족 사람들한테 사용법도 가르쳐 줬어. 알고 보니까 우리 이모의 다리가 아팠던 건 골극 때문이었더라고. 다행히 이젠 병의 원인이랑 치료 방법을 알았으니, 더 이상 사촌 누나가 매일 오리지늄 아츠로 통증을 덜어 줄 필요도 없어졌지.",
+                "cn": "博士，我结束外勤回来啦！这次带回部落的小型器械已经运输完毕，也教会了大家怎么用。原来姨姨腿疼是因为长了骨刺，找到了病因和治疗方法，表姐就不用每天用源石技艺为她缓解疼痛了。"
+            },
+            "asset": "char_466_qanik/CN_009"
+        },
+        {
+            "id": "char_466_qanik_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Telefåvnnå skuollá! Majt dal Dåktår javlaj hæhttuv dajna dahkat... (The phone is ringing! What did the Doctor say I should do in this situation...) Hello? Er, this is the Doctor's office...",
+                "jp": "あっ、電話が鳴った……どうやって対応するって言ってたっけ――もしもし？えっと、こ、こんにちは、こちらドクターの執務室です！",
+                "kr": "……앗, 전화 왔네! 박사가 이 상황에선 어떻게 하라고 했더라…… 여보세요? 아, 안녕하세요, 박사 사무실입니다!",
+                "cn": "......电话响了！博士当初是怎么教我的来着——喂？呃，您好，这里是博士办公室。"
+            },
+            "asset": "char_466_qanik/CN_010"
+        },
+        {
+            "id": "char_466_qanik_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "I forgot to ask the Perro man what I should call you. I only learned the word 'company' from the Columbians. Do you have a name? Oh, just 'Doctor'? I can do that!",
+                "jp": "ごめんなさい、さっきのペッローのお兄さんにあなたのことなんて呼べばいいのか聞きそびれちゃって……実はぼく、「会社」って言葉もクルビアの人たちの話でしか聞いたことなかったんだ。それであなたを「社長」って呼べばいいかな？――「ドクター」でいい？そっか、覚えたよ！",
+                "kr": "방금 페로족 형한테 당신을 어떻게 부르면 좋을지 물어본다는 걸 깜빡했네. 사실 난 '회사'라는 단어도 컬럼비아 사람들한테서 처음 들었거든. 혹시 당신을 '사장님'이라고 불러도 괜찮을까? '박사'면 된다고? 그렇구나, 알겠어!",
+                "cn": "忘问刚才那个佩洛先生我应该怎么称呼您了，其实“公司”这个词我都只在哥伦比亚人那里听到过，我应该叫您“老板”吗？——叫“博士”就好？我记住了！"
+            },
+            "asset": "char_466_qanik/CN_011"
+        },
+        {
+            "id": "char_466_qanik_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Is this one of your technologies? How do you manage to record everything like that?",
+                "jp": "これもあなた方のテクノロジー？そっくりそのまま記録できるなんて……一体どうやって？",
+                "kr": "이것도 너희들의 기술이야? 이렇게 하나도 빠짐없이 기록할 수 있다니, 어떻게 한 거야?",
+                "cn": "这个也是你们这里的技术吗？居然能一点不差地记录下来，怎么做到的？"
+            },
+            "asset": "char_466_qanik/CN_012"
+        },
+        {
+            "id": "char_466_qanik_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Is this what you call a 'contract'? The language is very difficult. Do I have to sign it? This won't get me into any trouble, will it? I can trust you, right? Right?",
+                "jp": "ドクター、これが「契約書」と呼ばれるものなの？書いてあること、難しくて分からないよ。どうしてもサインしなきゃダメなの？……そうしないと、悪徳経営者にいいように搾取されちゃう？でも、ドクターはきっと違うよね……えっ、そうとも限らないって！？",
+                "kr": "박사, 이게 그 계약서라는 거야? 적혀 있는 내용이 어려워서 무슨 말인지 잘 모르겠네, 꼭 서명해야 하는 거야? 안 하면 악덕 사장한테 착취당할 수도 있다고? 박사는 그런 사람이 아니잖아…… 어, 그럴 수도 있다고!?",
+                "cn": "博士，这个就是你们称为“合同”的东西吗？里面的条款好难理解，我必须要签吗？不签会被黑心老板压榨？博士您应该不是那种人吧......说不定？"
+            },
+            "asset": "char_466_qanik/CN_013"
+        },
+        {
+            "id": "char_466_qanik_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "This won't be like last time! You've helped me so much. Ieddne's (Mother's) getting better, and my sijdda (tribe) is learning to use Rhodes Island medical equipment. I hope I can do even more for them.",
+                "jp": "あんな恥ずかしいミスはもうしないよ！それにしても、ドクターには本当に色々とお世話になったね。母さんもだんだん回復してきたし、部族にもロドスの医療機器を持ち帰れたし……ドクター、ぼくはこれからも部族の役に立てるように頑張りたいんだ。",
+                "kr": "저번처럼 부끄러운 실수는 이제 안 한다니까! 그건 그렇고 박사한텐 정말 많은 도움을 받았네. 어머니의 건강도 점점 나아지고 있고, 나도 부족에 로도스 아일랜드의 의료 기기들을 가져다줄 수 있고 말이야. 박사, 난 앞으로도 부족에 더 많은 도움이 될 수 있으면 좋겠어.",
+                "cn": "我不会再像上次那样闹笑话啦！您帮了我很多，母亲的身体在渐渐好转，我也为部落带去了罗德岛的医疗器械。博士，我希望自己以后还能帮到部落更多。"
+            },
+            "asset": "char_466_qanik/CN_014"
+        },
+        {
+            "id": "char_466_qanik_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Don't worry, I've been on a lot of rescue operations.",
+                "jp": "ご安心を、ぼくは何度も救助活動に参加してきたから。",
+                "kr": "걱정 마, 구조 활동이라면 이미 여러 번 해 봤는걸.",
+                "cn": "不用担心，我参与过很多次救援行动。"
+            },
+            "asset": "char_466_qanik/CN_017"
+        },
+        {
+            "id": "char_466_qanik_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Everybody, pay attention and don't run off on your own.",
+                "jp": "皆さん、ぼくの指示に従ってね。勝手な行動はくれぐれも慎むように。",
+                "kr": "모두 내 지시에 따라 줘. 멋대로 행동하는 건 절대 안 돼.",
+                "cn": "请大家听从我的指挥，千万不要私自行动。"
+            },
+            "asset": "char_466_qanik/CN_018"
+        },
+        {
+            "id": "char_466_qanik_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Begin rescue operation!",
+                "jp": "救助開始！",
+                "kr": "구조 시작!",
+                "cn": "救援开始！"
+            },
+            "asset": "char_466_qanik/CN_019"
+        },
+        {
+            "id": "char_466_qanik_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "A rescuer has to be in top form at all times.",
+                "jp": "皆さん、まずは自身の状態が万全であることを確認するように。救助活動においてはそれが第一だよ。",
+                "kr": "다들 컨디션을 잘 유지해 줘, 그게 구조의 기본이니까.",
+                "cn": "请大家确保自己状态良好，这是救援的根本。"
+            },
+            "asset": "char_466_qanik/CN_020"
+        },
+        {
+            "id": "char_466_qanik_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "A new rescue objective?",
+                "jp": "新たな要救助者を見つけたの？",
+                "kr": "새로운 구조 대상자를 찾은 거야?",
+                "cn": "是发现了新的救援目标吗？"
+            },
+            "asset": "char_466_qanik/CN_021"
+        },
+        {
+            "id": "char_466_qanik_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "I have the map here.",
+                "jp": "このエリアの地図はもう用意できてるよ。",
+                "kr": "이곳의 지도는 이미 준비해 뒀어.",
+                "cn": "我已经准备好了这里的地图。"
+            },
+            "asset": "char_466_qanik/CN_022"
+        },
+        {
+            "id": "char_466_qanik_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Don't worry, help is on the way.",
+                "jp": "ご心配なく、すぐ救助に向かうからね。",
+                "kr": "걱정 마, 금방 구조하러 갈게.",
+                "cn": "不用担心，救援队马上就到。"
+            },
+            "asset": "char_466_qanik/CN_023"
+        },
+        {
+            "id": "char_466_qanik_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Save your strength and wait for rescue.",
+                "jp": "救助の到着まで、体力を温存して待っていてね。",
+                "kr": "구조가 도착하기 전까지 일단 체력을 비축해 둬.",
+                "cn": "在此之前请您保存体力，等待救援。"
+            },
+            "asset": "char_466_qanik/CN_024"
+        },
+        {
+            "id": "char_466_qanik_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Rescue targets identified.",
+                "jp": "要救助者の人数は把握できたよ。",
+                "kr": "구조 대상자 인원수 파악 완료.",
+                "cn": "已经确定救援目标人数。"
+            },
+            "asset": "char_466_qanik/CN_025"
+        },
+        {
+            "id": "char_466_qanik_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Rescue location identified.",
+                "jp": "要救助者の位置は確認したよ。",
+                "kr": "구조 대상자 위치 확인 완료.",
+                "cn": "已经确认救援目标所处位置。"
+            },
+            "asset": "char_466_qanik/CN_026"
+        },
+        {
+            "id": "char_466_qanik_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Working out the rescue plan.",
+                "jp": "最適な救助プランを策定中。",
+                "kr": "최적의 구조 방안을 계획 중이야.",
+                "cn": "正在规划最合适的救援方案。"
+            },
+            "asset": "char_466_qanik/CN_027"
+        },
+        {
+            "id": "char_466_qanik_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Don't worry. Rescue operation successful!",
+                "jp": "心配しないで、救助に成功したよ！",
+                "kr": "걱정 마, 구조에 성공했어!",
+                "cn": "不用担心，救援成功！"
+            },
+            "asset": "char_466_qanik/CN_028"
+        },
+        {
+            "id": "char_466_qanik_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "I was nervous, but experience really comes in handy!",
+                "jp": "ふぅ……たくさん経験を積んできてよかった、本当は緊張してたんだ。",
+                "kr": "후우…… 그동안 쌓아 둔 경험이 있어서 다행이야. 솔직히 좀 긴장했었거든.",
+                "cn": "呼——还好之前的经验足够，我本来还有些紧张呢！"
+            },
+            "asset": "char_466_qanik/CN_029"
+        },
+        {
+            "id": "char_466_qanik_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "A well-planned and well-executed rescue operation!",
+                "jp": "事前準備はばっちりだったからね。救出した人たちはもう問題ないよ！",
+                "kr": "사전 준비는 철저히 했으니까. 구출된 사람들은 이제 안전해!",
+                "cn": "准备充足的救援行动，目标已经得到妥善安排！"
+            },
+            "asset": "char_466_qanik/CN_030"
+        },
+        {
+            "id": "char_466_qanik_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "The objective was injured... don't worry, I'll stop the pain!",
+                "jp": "結局怪我人を出してしまった……心配しないで、すぐに鎮痛を行うからね！",
+                "kr": "구조 대상자가 부상을 당하다니…… 걱정하지 마, 우선 응급 처치를 해 줄게!",
+                "cn": "救援目标还是受伤了......不要紧张，我先来帮你镇痛！"
+            },
+            "asset": "char_466_qanik/CN_031"
+        },
+        {
+            "id": "char_466_qanik_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Need support over here!",
+                "jp": "こっち！救助隊の支援が必要だ！",
+                "kr": "여기야! 후발 구조대의 지원이 필요해!",
+                "cn": "这里！需要后续救援队支持！"
+            },
+            "asset": "char_466_qanik/CN_032"
+        },
+        {
+            "id": "char_466_qanik_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Oh, so this is where I'm supposed to use that 'access card.'",
+                "jp": "「カードキー」って、こういうところで使うものなんだね。",
+                "kr": "'카드키'라는 건 이런 데 쓰는 거였구나.",
+                "cn": "“门禁卡”！原来就是用在这里的。"
+            },
+            "asset": "char_466_qanik/CN_033"
+        },
+        {
+            "id": "char_466_qanik_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Whoa!",
+                "jp": "わっ！？",
+                "kr": "앗!?",
+                "cn": "哇！"
+            },
+            "asset": "char_466_qanik/CN_034"
+        },
+        {
+            "id": "char_466_qanik_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Are you sure you want me to tsoavttsot (divine) your future Doctor?",
+                "jp": "ドクター、本気でぼくに占ってほしいの？",
+                "kr": "박사, 정말로 내가 점을 봐줬으면 좋겠어?",
+                "cn": "博士，您不会真的想让我来给您占卜吧！"
+            },
+            "asset": "char_466_qanik/CN_036"
+        },
+        {
+            "id": "char_466_qanik_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_466_qanik/CN_037"
+        },
+        {
+            "id": "char_466_qanik_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Boo! Did that scare you? What? No? I used to spook lots of people in the muohttagin (snow).",
+                "jp": "わぁ！！……驚いた？えっ、全然！？そんな……雪原でこれをやると、みんな結構驚くのになぁ。",
+                "kr": "우왁! ……놀랐어? 하나도 안 놀랐다고!? 설원에서 이걸 하면 다들 깜짝 놀라던데……",
+                "cn": "呼啊！有没有被吓到？什么，完全没有！原先在雪地里，我能吓到不少人呢。"
+            },
+            "asset": "char_466_qanik/CN_042"
+        }
+    ],
+    "actors": {
+        "cn": {
+            "native": "张桐铭",
+            "global": "Tongming Zhang"
+        },
+        "jp": {
+            "native": "佐藤元",
+            "global": "GEN SATO"
+        },
+        "kr": {
+            "native": "석승훈",
+            "global": "Seok Seung-hoon"
+        }
+    },
+    "availability": [
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

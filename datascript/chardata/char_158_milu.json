@@ -1,0 +1,596 @@
+{
+    "charid": "char_158_milu",
+    "nameid": "milu",
+    "names": {
+        "en": "Firewatch",
+        "jp": "ファイヤーウォッチ",
+        "kr": "파이어워치",
+        "cn": "守林人"
+    },
+    "voices": [
+        {
+            "id": "char_158_milu_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "I'm keeping an eye on our surroundings. So far everything seems fine.",
+                "jp": "周辺の警戒は私が行っている。問題ない。",
+                "kr": "주변의 경계는 내가 맡고 있으니까 문제없어.",
+                "cn": "我正在警戒四周，没有问题。"
+            },
+            "asset": "char_158_milu/CN_001"
+        },
+        {
+            "id": "char_158_milu_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "You should know that some of those eyes on you hold nothing but malice. You're not safe, not even at Rhodes Island.",
+                "jp": "あなたに向けられる視線には、悪意を含んだものもある。ロドスにいるとはいえ、安全とはいえない。",
+                "kr": "당신에게 향하는 시선 중에는 악의를 품고 있는 것도 있어. 로도스 아일랜드에 있다곤 하지만, 안전하다고 할 순 없지.",
+                "cn": "一些注视着你的视线是饱含恶意的。即使在罗德岛，您也并不安全。"
+            },
+            "asset": "char_158_milu/CN_002"
+        },
+        {
+            "id": "char_158_milu_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Don't be afraid of those hostiles hiding in the shadow. No matter how those criminals try to hide, they can't escape my eyes.",
+                "jp": "見えない敵に怯える必要はない。罪人たちがどこに潜んでいようと、私の目は欺けない。",
+                "kr": "보이지 않는 적을 겁낼 필요는 없어. 죄인들이 어디에 숨어있다 해도, 내 눈은 속일 수 없으니까.",
+                "cn": "没必要害怕那些阴影中的敌人，这些罪人无论用什么方法躲藏，都欺骗不了我的眼睛。"
+            },
+            "asset": "char_158_milu/CN_003"
+        },
+        {
+            "id": "char_158_milu_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "I'll have my revenge... even if I must lose my life for it.",
+                "jp": "私の復讐……この命を犠牲にしても、必ずやり遂げる。",
+                "kr": "나의 복수…… 이 목숨을 희생한다 해도, 반드시 해내겠어.",
+                "cn": "即使牺牲我的生命，也一定要完成这次复仇。"
+            },
+            "asset": "char_158_milu/CN_004"
+        },
+        {
+            "id": "char_158_milu_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "My clan, my friends, they all perished in the woods of our hometown... The only ones who mourned them were the trees, which gave unto them their leaves.",
+                "jp": "家族も友人も、みな故郷の森で命を落とした。それを弔ったのは……森の木々が手向けた落ち葉だけだった……。",
+                "kr": "가족도 친구도, 모두 고향에 있는 숲에서 목숨을 잃었다. 그걸 애도해준 건…… 숲의 나무들이 바쳐준 낙엽뿐이었지…… ",
+                "cn": "我的族人和朋友，都葬身在故乡的森林里。只有落叶能掩埋他们。"
+            },
+            "asset": "char_158_milu/CN_005"
+        },
+        {
+            "id": "char_158_milu_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "This crossbow is manufactured for the sole purpose of punishing sinners. The day will come when I use it to pass my final judgement on those who deserve it.",
+                "jp": "このクロスボウは、罪人を裁くために作りあげた。いつか私が、奴らに最後の審判を下すために――。",
+                "kr": "이 크로스보우는 죄인을 단죄하기 위해 만든 거다. 언젠가 내가 녀석들에게 최후의 심판을 내리기 위해서…… ",
+                "cn": "这把弩是为了审判罪人制造的。终有一天，我要用它降下最后的裁决。"
+            },
+            "asset": "char_158_milu/CN_006"
+        },
+        {
+            "id": "char_158_milu_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Meteorite... we used to be friends. On the day my hometown was destroyed, we were part of the small group that managed to escape.",
+                "jp": "メテオリーテ……私のかつての戦友だ。故郷が滅んだとき、私たち数人だけがどうにか逃げ延びたんだ。",
+                "kr": "메테오라이트…… 내 예전 전우다. 고향이 소멸되었을 때, 우리 몇 명만 가까스로 도망쳐 나올 수 있었지.",
+                "cn": "陨星。她曾经是我的朋友。我的故乡被摧毁的那天，只有我们几个人设法逃了出来。"
+            },
+            "asset": "char_158_milu/CN_007"
+        },
+        {
+            "id": "char_158_milu_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Since then, I've never stopped searching for the traitor who led the rebel army to our town. Could it be Meteorite? No, I... It couldn't be her...",
+                "jp": "例の裏切り者をずっと探している。反乱軍を故郷へと引き入れた罪人は……まさかメテオリーテ？いや、か、彼女のはずが――。",
+                "kr": "예전의 그 배신자를 계속 찾고 있다. 반란군을 고향에 끌어들인 죄인은…… 설마 메테오라이트? 아니야, 그, 그 여자일 리가…… ",
+                "cn": "我一直在找那个告密者，把叛军引向故乡的罪人......会是陨星吗？不，我、我不认为是她——"
+            },
+            "asset": "char_158_milu/CN_008"
+        },
+        {
+            "id": "char_158_milu_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "...Oh, did I fall asleep? Sorry, I've been spending more time patrolling these days... It's fine, you say? But... um, thank you for caring.",
+                "jp": "――眠っていたのか？す、すまない……最近、巡回の時間が長くなってしまってな……いや、平気だと言われてもな……気遣い、感謝する……。",
+                "kr": "잠들… 었었나? 미, 미안하다… 요즘, 순찰 시간이 길어져서 말이야… 아냐, 괜찮다고 말해줘도… 마음 써줘서 고마워…… ",
+                "cn": "——我睡着了？抱、抱歉，最近巡逻的时间增加了......不，即使您说没关系也......谢谢您的关心。"
+            },
+            "asset": "char_158_milu/CN_009"
+        },
+        {
+            "id": "char_158_milu_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "I'd like to take a nap...",
+                "jp": "……私も……少し眠い……。",
+                "kr": "……나도…… 조금 졸린데…… ",
+                "cn": "我想稍微睡一下......"
+            },
+            "asset": "char_158_milu/CN_010"
+        },
+        {
+            "id": "char_158_milu_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Firewatch here. I'm a sniper. To avenge my fallen clan, I need all the power I can get.",
+                "jp": "狙撃手のファイヤーウォッチだ。私の復讐のため、力を貸して欲しい。",
+                "kr": "저격수 파이어워치다. 내 복수를 위해, 힘을 빌려줬으면 한다.",
+                "cn": "狙击手守林人。为了复仇，我需要强大力量的帮助。"
+            },
+            "asset": "char_158_milu/CN_011"
+        },
+        {
+            "id": "char_158_milu_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "I need more power...",
+                "jp": "もっと力が必要だ。",
+                "kr": "힘이 더 필요해.",
+                "cn": "我需要更多的力量。"
+            },
+            "asset": "char_158_milu/CN_012"
+        },
+        {
+            "id": "char_158_milu_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Thanks for appointing me to this position.",
+                "jp": "ありがたく、拝命する。",
+                "kr": "감사히 명을 받도록 하지.",
+                "cn": "感谢您的任命。"
+            },
+            "asset": "char_158_milu/CN_013"
+        },
+        {
+            "id": "char_158_milu_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Thank you for the promotion. I hope you'll keep using my powers for the right thing. If you don't, however...",
+                "jp": "任命、感謝する……。これからも、私の力は適切に使ってくれ。そうでないと……。",
+                "kr": "임명해줘서 고맙다…… 앞으로도, 내 힘을 적절한 곳에 써줘. 그렇지 않으면… ",
+                "cn": "任命，感谢。从今以后，也请将我的力量用于正途，否则......"
+            },
+            "asset": "char_158_milu/CN_014"
+        },
+        {
+            "id": "char_158_milu_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "The team is complete.",
+                "jp": "編成完了。",
+                "kr": "편성 완료.",
+                "cn": "组队完成。"
+            },
+            "asset": "char_158_milu/CN_017"
+        },
+        {
+            "id": "char_158_milu_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Got it.",
+                "jp": "了解。",
+                "kr": "알겠다.",
+                "cn": "了解。"
+            },
+            "asset": "char_158_milu/CN_018"
+        },
+        {
+            "id": "char_158_milu_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "All Operators, get ready!",
+                "jp": "総員出撃。",
+                "kr": "전원 출격.",
+                "cn": "全体干员出击。"
+            },
+            "asset": "char_158_milu/CN_019"
+        },
+        {
+            "id": "char_158_milu_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Enemies spotted. Taking action.",
+                "jp": "敵を捕捉。直ちに行動に移る。",
+                "kr": "적을 포착했다. 바로 행동에 옮기겠다.",
+                "cn": "发现敌情，立即采取行动。"
+            },
+            "asset": "char_158_milu/CN_020"
+        },
+        {
+            "id": "char_158_milu_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Understood.",
+                "jp": "了解した。",
+                "kr": "알겠다.",
+                "cn": "了解。"
+            },
+            "asset": "char_158_milu/CN_021"
+        },
+        {
+            "id": "char_158_milu_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Awaiting instructions.",
+                "jp": "指令を。",
+                "kr": "명령을 부탁한다.",
+                "cn": "请下达指令。"
+            },
+            "asset": "char_158_milu/CN_022"
+        },
+        {
+            "id": "char_158_milu_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Searching for enemies.",
+                "jp": "これより索敵を行う。",
+                "kr": "지금부터 수색을 시작하겠다.",
+                "cn": "现在进行索敌。"
+            },
+            "asset": "char_158_milu/CN_023"
+        },
+        {
+            "id": "char_158_milu_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "I am in position.",
+                "jp": "目標地点に到着。",
+                "kr": "목표지점에 도착했다.",
+                "cn": "到达目标地点。"
+            },
+            "asset": "char_158_milu/CN_024"
+        },
+        {
+            "id": "char_158_milu_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Laying suppressive fire.",
+                "jp": "援護する。",
+                "kr": "엄호하겠다.",
+                "cn": "援护。"
+            },
+            "asset": "char_158_milu/CN_025"
+        },
+        {
+            "id": "char_158_milu_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Target locked.",
+                "jp": "照準。",
+                "kr": "조준.",
+                "cn": "瞄准。"
+            },
+            "asset": "char_158_milu/CN_026"
+        },
+        {
+            "id": "char_158_milu_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Strike inbound.",
+                "jp": "発射。",
+                "kr": "발사.",
+                "cn": "发射。"
+            },
+            "asset": "char_158_milu/CN_027"
+        },
+        {
+            "id": "char_158_milu_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Firing!",
+                "jp": "ファイヤー。",
+                "kr": "격발!",
+                "cn": "开火！"
+            },
+            "asset": "char_158_milu/CN_028"
+        },
+        {
+            "id": "char_158_milu_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "I'm not done until I have my revenge...",
+                "jp": "私は止まらない。復讐を果たすまでは。",
+                "kr": "난 멈추지 않아. 복수를 끝낼 때까지는.",
+                "cn": "我会一直走下去，直到彻底实现复仇那天。"
+            },
+            "asset": "char_158_milu/CN_029"
+        },
+        {
+            "id": "char_158_milu_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "All targets eliminated. Mission complete.",
+                "jp": "作戦完了。全目標の掃討を確認。",
+                "kr": "작전 완료. 전 목표 토벌 확인.",
+                "cn": "作战结束。歼灭了所有目标。"
+            },
+            "asset": "char_158_milu/CN_030"
+        },
+        {
+            "id": "char_158_milu_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Mission accomplished, request search for remaining hostiles.",
+                "jp": "戦闘終了。残敵確認の要あり。",
+                "kr": "전투 종료. 남은 적 확인 요망.",
+                "cn": "战斗结束。有必要确认残余敌人的情况。"
+            },
+            "asset": "char_158_milu/CN_031"
+        },
+        {
+            "id": "char_158_milu_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Retreating... immediately...",
+                "jp": "直ちに撤退する……。",
+                "kr": "지금 당장… 퇴각한다…",
+                "cn": "马上撤退......"
+            },
+            "asset": "char_158_milu/CN_032"
+        },
+        {
+            "id": "char_158_milu_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "I'm not used to being in a room with so many people...",
+                "jp": "にぎやかな部屋には慣れないものだ……。",
+                "kr": "활기찬 방은 익숙치 않은데…… ",
+                "cn": "不习惯热闹的房间......"
+            },
+            "asset": "char_158_milu/CN_033"
+        },
+        {
+            "id": "char_158_milu_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Huh!?",
+                "jp": "ひゃっ……。",
+                "kr": "하앗…… ",
+                "cn": "啊......"
+            },
+            "asset": "char_158_milu/CN_034"
+        },
+        {
+            "id": "char_158_milu_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Uh, please don't touch my antlers... it tickles...",
+                "jp": "あの、角を触られると、その、困る……くすぐったい……。",
+                "kr": "저기… 뿔을 만지면… 어… 좀 곤란해…… 간지러워…… ",
+                "cn": "那个，摸我的角的话，有点为难......很痒......"
+            },
+            "asset": "char_158_milu/CN_036"
+        },
+        {
+            "id": "char_158_milu_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_158_milu/CN_037"
+        },
+        {
+            "id": "char_158_milu_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Huh? Oh, it's you, Doctor.",
+                "jp": "ん…ドクターか。",
+                "kr": "음… 박사인가.",
+                "cn": "嗯？博士啊。"
+            },
+            "asset": "char_158_milu/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Jemma Moore",
+            "global": "Jemma Moore"
+        },
+        "cn": {
+            "native": "刘十四",
+            "global": "Jingxia Liu"
+        },
+        "jp": {
+            "native": "ルゥ ティン",
+            "global": "Thing Ru"
+        },
+        "kr": {
+            "native": "장미",
+            "global": "Jang Mi"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

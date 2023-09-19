@@ -170,16 +170,6 @@
         }
     },
     {
-        "nameid": "rdfend",
-        "numberid": "514",
-        "name": {
-            "en": "Reserve Operator - Defender",
-            "jp": "予備隊員-重装",
-            "kr": "예비 인원 - 디펜더",
-            "cn": "预备干员-重装"
-        }
-    },
-    {
         "nameid": "spot",
         "numberid": "284",
         "name": {
@@ -207,16 +197,6 @@
             "jp": "アドナキエル",
             "kr": "아드나키엘",
             "cn": "安德切尔"
-        }
-    },
-    {
-        "nameid": "rsnipe",
-        "numberid": "507",
-        "name": {
-            "en": "Reserve Operator - Sniper",
-            "jp": "予備隊員-狙撃",
-            "kr": "예비 인원 - 스나이퍼",
-            "cn": "预备干员-狙击"
         }
     },
     {

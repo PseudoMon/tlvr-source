@@ -1,0 +1,596 @@
+{
+    "charid": "char_103_angel",
+    "nameid": "angel",
+    "names": {
+        "en": "Exusiai",
+        "jp": "エクシア",
+        "kr": "엑시아",
+        "cn": "能天使"
+    },
+    "voices": [
+        {
+            "id": "char_103_angel_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Leader! Give us something to do~",
+                "jp": "リーダー、何か仕事をまわしてちょ。",
+                "kr": "리더, 뭐라도 좀 시켜줘.",
+                "cn": "老板，安排点差事给我们吧~"
+            },
+            "asset": "char_103_angel/CN_001"
+        },
+        {
+            "id": "char_103_angel_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Leader! Let's throw a party! We can play some hip-hop and eat apple pie! The best life is the party life! No party, no life!",
+                "jp": "リーダー、パーティーでもしない？ヒップホップ流して、アップルパイなんかも焼いちゃってさぁ。完璧な人生にパーティはつきもの。ノーパーティ、ノーライフってね。",
+                "kr": "리더, 파티 한번 안 할래? 음악도 힙합으로 틀고, 애플파이 같은 걸 구워 먹는 거야! 완벽한 인생에는 파티를 빼놓을 수 없지! 노 파티, 노 라이프라고!",
+                "cn": "老板，不办个派对吗？来点嘻哈，再来点烤苹果派~完美的人生可是不能停止聚会的！No party，No life！"
+            },
+            "asset": "char_103_angel/CN_002"
+        },
+        {
+            "id": "char_103_angel_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Locked and loaded, ready for action! What's the objective today, Leader?",
+                "jp": "弾薬装填、準備オーケー★ リーダー、今日の配達物はなんだい？",
+                "kr": "탄약 장전, 준비 오케이~★ 리더, 오늘 배달할 건 뭐야?",
+                "cn": "子弹上膛，准备万全★老板，今天送点什么呀！"
+            },
+            "asset": "char_103_angel/CN_003"
+        },
+        {
+            "id": "char_103_angel_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Some people believe that money can buy everything. But that saying doesn't apply to me! If I want someone to rest in pieces, no amount of money can save them~",
+                "jp": "金さえあれば何でも手に入るなんて言う奴もいるけど、あたしにゃ通用しないよ。たとえどんな大金持ちでも、あの世に送ってやればそれっきり～。",
+                "kr": "돈만 있으면 뭐든지 손에 넣을 수 있다고 떠드는 놈들도 있지만, 나한텐 안 통해. 아무리 부자라도 저세상으로 보내주면 거기서 끝이지~",
+                "cn": "有人认为只要有钱什么都能做到，不过在我这里可是行不通的哦。如果我要那个人安息，他有多少钱都没有用~"
+            },
+            "asset": "char_103_angel/CN_004"
+        },
+        {
+            "id": "char_103_angel_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "My first wish: for eight new guns! We angels all have a special gun we grow up with, but owning just one gun is so lame, right?",
+                "jp": "お願いその一！銃を八丁ほどプレゼントよろしく！あたしたち天使はみんな自分の守護銃を持ってるけど、一丁だけじゃしょぼいんだよね！",
+                "kr": "첫 번째 부탁! 총을 한 여덟 자루만 선물해 줘. 우리 천사들은 다들 자기만의 수호총을 갖고 있긴 한데… 한 자루만 있으면 폼이 안 나거든!",
+                "cn": "第一个愿望！请送我八把铳当礼物！我们天使都有自己的守护铳，但只有一把可不够看！"
+            },
+            "asset": "char_103_angel/CN_005"
+        },
+        {
+            "id": "char_103_angel_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "My second wish... find someone to help me turn off this light over my head!",
+                "jp": "お願いその二……誰かこの頭の上の蛍光灯を消して！",
+                "kr": "두 번째 부탁… 누가 이 머리 위에 달린 형광등 좀 없애 줘!",
+                "cn": "第二个愿望......找个人把我头上这盏日光灯管关掉！"
+            },
+            "asset": "char_103_angel/CN_006"
+        },
+        {
+            "id": "char_103_angel_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "The only reason Texas lives so carefree and swagged out is that she's got me watching over her. That's the obvious truth, right?",
+                "jp": "テキサスのやつが、あーんなに生き生きとしているのは、あたしのおかげだよ。こんなこと、言うまでもないでしょ？",
+                "kr": "텍사스가 저렇게 생기 넘치는 것도 다 내 덕분이라고. 이런 건 꼭 말로 안 해줘도 알잖아?",
+                "cn": "德克萨斯那家伙能活得这么潇洒，可多亏有我罩着她，这不是明摆着的事嘛~"
+            },
+            "asset": "char_103_angel/CN_007"
+        },
+        {
+            "id": "char_103_angel_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "If you ever run into an angel with black horns oozing ominous vibes, please tell her for me: I've never forgotten her.",
+                "jp": "もし、黒い角が生えてて、全身からヤバそうなオーラが出てる天使に会ったら、エクシアはキミのことを忘れてないよって伝えといてほしいな。",
+                "kr": "혹시라도 검은 뿔이 나있고, 온몸에서 위험한 기운을 뿜어내는 천사를 만나면, 이렇게 전해줬으면 좋겠어. \"엑시아는 널 잊지 않았다\"고.",
+                "cn": "如果您见到一名长着漆黑的角，散发着不祥气息的天使，请一定替我转告她：我从来没有忘记过她。"
+            },
+            "asset": "char_103_angel/CN_008"
+        },
+        {
+            "id": "char_103_angel_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Us Penguin Logistics girls ain't so bad, right? Wanna come be our boss? Ehehe, just kidding.",
+                "jp": "リーダー、ペンギン急便も悪くないでしょ？うちのボスとかやってみちゃう？ふふ～冗談だよ～。",
+                "kr": "리더, 펭귄 로지스틱스도 꽤 괜찮지? 내 상사로 입사해 보는 건 어때? 히힛, 농담이야~",
+                "cn": "老板，咱们企鹅物流还是挺不错的吧？要不要来当当我们的老大？欸嘿嘿~开玩笑的~"
+            },
+            "asset": "char_103_angel/CN_009"
+        },
+        {
+            "id": "char_103_angel_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "...Lord, is this someone we gotta save too?",
+                "jp": "……主よ、この人にも救済が必要なのでしょうか？",
+                "kr": "주님… 이 사람에게도 구원이 필요할까요?",
+                "cn": "......主啊，这个人也是我们要拯救的吗？"
+            },
+            "asset": "char_103_angel/CN_010"
+        },
+        {
+            "id": "char_103_angel_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Our slogan is 'Long live the Penguin Empire.' Are you our client? You can call me Exusiai. I'm nothing like that Lupo ice queen. I'm always down for some fun!",
+                "jp": "合言葉は「ペンギン帝国万歳」、アンタが今回の雇い主？あたしのことはエクシアって呼んでね。あの無愛想なオオカミとは違って、声をかけてくれればいつでも遊んであげるよ！",
+                "kr": "암구호는 \"펭귄 제국 만세\", 당신이 이번 고용주야? 난 엑시아라 불러 줘. 저 사교성 없는 늑대랑은 달리, 난 말만 하면 언제든지 놀아 줄게!",
+                "cn": "口令是“企鹅帝国万岁”，你就是雇主吗？叫我能天使。我和那个冷淡的鲁珀人可不一样，你要是想找点有趣的事做，随时都可以来叫我！"
+            },
+            "asset": "char_103_angel/CN_011"
+        },
+        {
+            "id": "char_103_angel_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "I'm lovin' this feeling!",
+                "jp": "こーいう感じ好きかも！",
+                "kr": "저런 거 괜찮겠는데!",
+                "cn": "我喜欢这种感觉！"
+            },
+            "asset": "char_103_angel/CN_012"
+        },
+        {
+            "id": "char_103_angel_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Thanks for promoting me!",
+                "jp": "ごひいきにしてくれて、ありがと～！",
+                "kr": "특별히 신경 써 줘서 고마워~!",
+                "cn": "老板，多谢提拔~"
+            },
+            "asset": "char_103_angel/CN_013"
+        },
+        {
+            "id": "char_103_angel_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Leader... No, savior, I pledge to this gun in my hand to protect you until the very end of this world.",
+                "jp": "リーダー……いや、義人よ、この銃に誓って、あなたを最後の審判までお守りします。",
+                "kr": "리더… 아니, 의인이시여. 최후의 심판이 내릴 날까지 당신을 지켜낼 것을, 이 총에 맹세합니다.",
+                "cn": "老板......不，义人，以手中的这把铳起誓，我将守护您的生命直至万物终结之日。"
+            },
+            "asset": "char_103_angel/CN_014"
+        },
+        {
+            "id": "char_103_angel_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Squad combat? I'm very familiar with that.",
+                "jp": "チームでの戦い、慣れてるからまっかせて～！",
+                "kr": "맡겨만 줘~! 팀으로 싸우는 건 익숙하다고!",
+                "cn": "小组作战，我熟得很～"
+            },
+            "asset": "char_103_angel/CN_017"
+        },
+        {
+            "id": "char_103_angel_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "No one makes a better leader than me! You've got a good eye.",
+                "jp": "キミ、人を見る目あるね！あたしより隊長にふさわしいやつはいないって！",
+                "kr": "너, 사람 보는 눈이 있구나? 나만큼 팀장에 어울리는 사람이 또 없거든!",
+                "cn": "没有比我更适合当队长的人！您真是别具慧眼！"
+            },
+            "asset": "char_103_angel/CN_018"
+        },
+        {
+            "id": "char_103_angel_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Let's go! Take them all by storm!",
+                "jp": "行くよ！嵐のように蹂躙してやる！",
+                "kr": "간다! 폭풍처럼 부숴버려 주마!",
+                "cn": "出发！让我们像风暴一样碾过去！"
+            },
+            "asset": "char_103_angel/CN_019"
+        },
+        {
+            "id": "char_103_angel_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "I already called dibs on the most lucrative real estate in Hell, and you guys all get a share. Rest easy!",
+                "jp": "キミたちのために地獄の一等地に部屋を用意しておいたから！安心していってらっしゃい！",
+                "kr": "너희를 위해서, 지옥 끝 가장 비싼 곳에 방 잡아놨으니까! 맘 놓고 푹~ 쉬다 가!",
+                "cn": "我帮你们预定了地狱黄金地段的房产，请放心！"
+            },
+            "asset": "char_103_angel/CN_020"
+        },
+        {
+            "id": "char_103_angel_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "All right!",
+                "jp": "よーし！",
+                "kr": "좋아~!",
+                "cn": "好！"
+            },
+            "asset": "char_103_angel/CN_021"
+        },
+        {
+            "id": "char_103_angel_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Is it my turn?",
+                "jp": "あたしの出番？",
+                "kr": "내 차례야?",
+                "cn": "轮到我出场了吗？"
+            },
+            "asset": "char_103_angel/CN_022"
+        },
+        {
+            "id": "char_103_angel_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Follow me!",
+                "jp": "ついてきて！",
+                "kr": "따라 와!",
+                "cn": "跟我来！"
+            },
+            "asset": "char_103_angel/CN_023"
+        },
+        {
+            "id": "char_103_angel_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Let me create a diversion.",
+                "jp": "ちょっとからかってあげよーっと。",
+                "kr": "장난 좀 쳐 볼까?",
+                "cn": "让我来制造点混乱。"
+            },
+            "asset": "char_103_angel/CN_024"
+        },
+        {
+            "id": "char_103_angel_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Heaven's will!",
+                "jp": "ディオ・ヴォーレント！",
+                "kr": "데오 볼렌테!",
+                "cn": "天意！"
+            },
+            "asset": "char_103_angel/CN_025"
+        },
+        {
+            "id": "char_103_angel_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Rock n' roll!",
+                "jp": "ロックン・ロール！",
+                "kr": "로큰롤~!",
+                "cn": "摇滚！"
+            },
+            "asset": "char_103_angel/CN_026"
+        },
+        {
+            "id": "char_103_angel_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Barrage!",
+                "jp": "バラージュ！",
+                "kr": "버라지!",
+                "cn": "弹幕！"
+            },
+            "asset": "char_103_angel/CN_027"
+        },
+        {
+            "id": "char_103_angel_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Apple pie!",
+                "jp": "アップルパイ！",
+                "kr": "애플파이!",
+                "cn": "苹果派！"
+            },
+            "asset": "char_103_angel/CN_028"
+        },
+        {
+            "id": "char_103_angel_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Wonderful! This is the chance of a lifetime. Charge on!",
+                "jp": "よし！このまま突き進もう！",
+                "kr": "좋았어! 이대로 뚫고 가자!",
+                "cn": "好！就照这个劲头向前冲！"
+            },
+            "asset": "char_103_angel/CN_029"
+        },
+        {
+            "id": "char_103_angel_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "May my hail of bullets bring you eternal peace.",
+                "jp": "銃弾の雨で、あなたたちを苦痛から救済しよう。",
+                "kr": "총탄의 비로 너희를 고통에서 구원하리라.",
+                "cn": "愿我的弹雨能熄灭你们的苦痛。"
+            },
+            "asset": "char_103_angel/CN_030"
+        },
+        {
+            "id": "char_103_angel_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "The sound of victory is the sweetest melody. Alright, let's grab some drinks to celebrate when we get back!",
+                "jp": "勝利の知らせは甘美なる福音。よーし、帰って飲もう！",
+                "kr": "승전보는 곧 달콤한 복음일지니. 좋아~! 한잔하러 가볼까!",
+                "cn": "胜利的讯息即是甜蜜的福音。好~回去喝一杯吧！"
+            },
+            "asset": "char_103_angel/CN_031"
+        },
+        {
+            "id": "char_103_angel_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Even a well-crafted gun will jam sometimes. Life is no different, so don't worry about it~",
+                "jp": "ま、銃だって詰まるときはあるし、人生も同じだよ。気にしない気にしない。",
+                "kr": "뭐… 총도 가끔 걸릴 때가 있잖아, 인생도 똑같은 거야. 너무 신경쓰지 마~",
+                "cn": "铳有卡壳的时候，人生也是如此，别介意别介意~"
+            },
+            "asset": "char_103_angel/CN_032"
+        },
+        {
+            "id": "char_103_angel_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "I like this place!",
+                "jp": "ここ、気に入った！",
+                "kr": "여기, 마음에 들었어!",
+                "cn": "我喜欢这个地方！"
+            },
+            "asset": "char_103_angel/CN_033"
+        },
+        {
+            "id": "char_103_angel_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Oh!",
+                "jp": "よっ！",
+                "kr": "요!",
+                "cn": "哟！"
+            },
+            "asset": "char_103_angel/CN_034"
+        },
+        {
+            "id": "char_103_angel_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Leader, wanna try out my weapon?",
+                "jp": "リーダー！あたしの武器、試してみる？",
+                "kr": "리더! 내 무기, 한번 시험해 볼래?",
+                "cn": "老板！来试试我的武器吗？"
+            },
+            "asset": "char_103_angel/CN_036"
+        },
+        {
+            "id": "char_103_angel_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_103_angel/CN_037"
+        },
+        {
+            "id": "char_103_angel_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Hey, Leader!",
+                "jp": "やっほー！リーダー！",
+                "kr": "야~호! 리더!",
+                "cn": "哟，老板！"
+            },
+            "asset": "char_103_angel/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Leonora Haig",
+            "global": "Leonora Haig"
+        },
+        "cn": {
+            "native": "蔡书瑾",
+            "global": "Shujin Cai"
+        },
+        "jp": {
+            "native": "石見舞菜香",
+            "global": "Manaka Iwami"
+        },
+        "kr": {
+            "native": "이지현",
+            "global": "Lee Ji-hyun"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

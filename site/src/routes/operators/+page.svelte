@@ -51,8 +51,9 @@
     /*display: flex;
     flex-wrap: wrap;*/
     display: grid;
-    grid-template-columns: auto auto auto;
+    grid-template-columns: repeat(auto-fill, 86px);
     gap: 12px;
+    justify-content: center;
   }
 
   .charlist > * {
@@ -62,5 +63,9 @@
   .charlist a {
     text-decoration: none;
     color: inherit;
+  }
+
+  .charlist a:hover {
+    transform: translateY(-5px);
   }
 </style>

@@ -1,0 +1,595 @@
+{
+    "charid": "char_4066_highmo",
+    "nameid": "highmo",
+    "names": {
+        "en": "Highmore",
+        "jp": "ハイモア",
+        "kr": "하이모어",
+        "cn": "海沫"
+    },
+    "voices": [
+        {
+            "id": "char_4066_highmo_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "If some work is beyond even your power, then how can I possibly take on a share?",
+                "jp": "あなたも手を焼く仕事の何を手伝えと言うんですか。",
+                "kr": "당신도 처리할 수 없는 업무인데, 과연 제가 도움을 드릴 수 있을까요.",
+                "cn": "如果有连你都无力处理的事务，那我又能为你分担什么呢。"
+            },
+            "asset": "char_4066_highmo/CN_001"
+        },
+        {
+            "id": "char_4066_highmo_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "That nightmare still comes to mind, even now. My life denied by some grand ecology... no, not denied. It would admit everything, it was more sublime than life itself... it made me feel shame at the selfishness of life.",
+                "jp": "今でもあの悪夢を思い出します。私の命は大いなる生態によって否定され……違う、否定なんかじゃない。あれはあらゆるものを受け入れる、命などよりもずっと崇高なものでしたから……思わず、命の身勝手さに恥じらいを覚えたほどです。",
+                "kr": "지금도 전 악몽을 꾸곤 해요, 제 생명이 그 위대한 생태에 의해 부정되는…… 아니, 부정 같은 게 아니죠. 그건 만물을 받아들이는, 생명보다도 훨씬 숭고한 것이니까요…… 저도 모르게 생명의 이기심에 부끄러움을 느꼈을 정도랍니다.",
+                "cn": "直到现在我还是会想起那场噩梦。我的生命被一种伟大的生态所否定......不，并非否定。它是要接纳一切，它比生命更加崇高......它让我因为生命的自私而感到羞愧。"
+            },
+            "asset": "char_4066_highmo/CN_002"
+        },
+        {
+            "id": "char_4066_highmo_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "I don't want to belittle the Medical Department's effort, but I don't believe life can be 'cured' like a disease. Human or Sea Terror, I'm doomed to live on as half-baked, and that's the price I pay for my own foolishness.",
+                "jp": "医療部の努力を蔑ろにしたくはありませんが、命は病気のように「根絶治療」できるものではないと思います。人としても恐魚としても中途半端なまま生きる宿命を背負ったのは、私の愚かさの代償です。",
+                "kr": "의료부의 노력을 폄훼하고 싶지는 않지만, 생명은 질병처럼 '완치'될 수 있는 게 아니라고 생각해요. 반은 사람으로서, 그리고 반은 시테러로서 살아가야만 하는 운명을 짊어진 건…… 제 어리석음에 대한 대가이니까요.",
+                "cn": "我不想贬低医疗部的努力，但我想，生命是无法被当作疾病来“根治”的。我注定要作为半吊子的人和半吊子的恐鱼活下去，这是我为自己的愚蠢付出的代价。"
+            },
+            "asset": "char_4066_highmo/CN_003"
+        },
+        {
+            "id": "char_4066_highmo_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "That special 'collaborator' of yours is just something other right now, using biological function to imitate his old form, and you should know that better than him. You're still seeking possibilities in him? I hope you aren't repeating my mistakes.",
+                "jp": "あなたたちが「協力者」と呼ぶ彼ですが、今となっては気の向くまま生体機能を使って昔の姿に擬態しているだけの異種族ですよ。本人よりもそれを理解していながら、まだ彼に可能性を見出そうとしているんですか？私の二の舞にならないことを祈ります。",
+                "kr": "당신들의 그 특별한 '협력자'는 그저 자신의 의지에 따라, 생체 기능을 이용해 옛 모습을 흉내 내는 이종족일 뿐이에요. 이 점은 당신들이 본인보다 더 잘 알고 있을 텐데, 왜 아직도 그것에게서 가능성을 찾고 있는 거죠? 전 그저, 당신들이 저와 같은 전철을 밟지 않길 바랄 뿐이에요.",
+                "cn": "你们那位特殊的“合作对象”，如今根本就是个单凭意愿，用生物机能模仿自己昔日形态的异族。你们应该比他本人更明白这点，却还是想从他身上寻求可能性？希望你们不会重蹈我的覆辙。"
+            },
+            "asset": "char_4066_highmo/CN_004"
+        },
+        {
+            "id": "char_4066_highmo_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "I've felt at ease in my time residing aboard the landship, even come to recognize it as a feeling similar to my long-lost home... You don't need to be concerned. Even if Iberia will never be a home to the Ægir, I'd never refuse to execute my responsibilities there, such as we've agreed.",
+                "jp": "この船にいる間は心穏やかに過ごせるので、久方ぶりに家というものを意識しました……ご心配なく。イベリアがエーギル人の故郷になれなくとも、私は彼の地で果たすべき契約を拒みはしませんから。",
+                "kr": "이 배에 있을 때면 평온해지는 것 같아요. 심지어는 한동안 느끼지 못했던, 집에 돌아온 것만 같은 기분이 들기도 해요…… 걱정하실 필요는 없어요. 이베리아가 에기르인의 집이 될 수는 없겠지만, 계약에 따라 그곳에서 제가 해내야만 하는 일들을 거부하지는 않을 테니까요.",
+                "cn": "驻留本舰期间的生活令人感到安心，甚至让我久违地产生一些类似家的意识......你不必担心，即便伊比利亚无法成为阿戈尔人的家，我也不会拒绝去那里依契约完成我该做的事。"
+            },
+            "asset": "char_4066_highmo/CN_005"
+        },
+        {
+            "id": "char_4066_highmo_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Anything that seems to be given for free will eventually demand some price of you. That's the lesson I learned. And some of what you do appears to practically overturn that... I'll have to wait and see.",
+                "jp": "いくら無償の行為に見えても、最後には必ず対価を要求されるということを教訓として学びました。ですがあなたたちの行いを見ていると、まるでそれが覆されるみたいで……期待しています。",
+                "kr": "아무것도 요구하지 않는 선의의 행동일지라도, 결국엔 대가를 필요로 한다는 것을 살아오며 깨우쳤습니다…… 하지만 당신들이 하려는 일은 마치 이 사실을 뒤집으려는 것만 같네요…… 당신들의 꿈이 이루어지길 기대할게요.",
+                "cn": "所有看似无偿的给予，都终将索取必须支付的代价，这是我学到的教训。而你们所做的一些事却像是要推翻它一样......我拭目以待。"
+            },
+            "asset": "char_4066_highmo/CN_006"
+        },
+        {
+            "id": "char_4066_highmo_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "You're wondering what this song is? It's just something my mother taught me when I was young. I didn't take much interest back then, only humming perfunctory notes to follow along. It was only after losing her, I realized... these melodies form one of the few things I still have to my name.",
+                "jp": "どういう歌か知りたいですか？小さい頃に母から教わった歌ですが、当時はほとんど興味がなかったので、いつも適当に音を並べて誤魔化していたのを覚えています。ですが、母を失ってからふと気付いたんです……この旋律は、私が持っていられる数少ないものの一つになってしまったんだって。",
+                "kr": "이게 무슨 노래인지 궁금하신가요? 어릴 적에 어머니께서 가르쳐 주신 노래예요. 그땐 별로 관심이 없어서 멜로디 일부를 따라서 흥얼거리는 정도에 불과했는데, 어머니를 잃고 난 후에야 깨달았어요…… 이 멜로디는 제가 간직할 수 있는, 몇 안 되는 것 중의 하나라는 사실을요.",
+                "cn": "你好奇这是什么歌？只是小时候母亲教我的，当时我并没有多少兴趣，只是敷衍地跟着吐出几组音符。可失去她之后我才突然意识到......这些旋律竟然成了我为数不多还可以拥有的东西。"
+            },
+            "asset": "char_4066_highmo/CN_007"
+        },
+        {
+            "id": "char_4066_highmo_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "An ignorant girl gives up her song, and gains naught but a dream snuffed as quickly as the foam in return. It sounds just like a fairytale, doesn't it? And the fact that such a stupid girl could be saved at the story's end... seems like a fairytale, too.",
+                "jp": "無知な少女が歌声と引き換えに手にしたのは、泡のように弾けて消える夢だった――童話みたいな話ですよね。フッ、そんな愚かな少女でも物語の最後には救われるだなんて……やっぱり童話みたいですね。",
+                "kr": "무지한 소녀가 자신의 노랫소리를 대가로 지불해 얻은 것은 거품처럼 빠르게 사라지는 꿈이었답니다. 마치 동화 같은 이야기죠? 후훗, 이토록 어리석은 소녀에게도 끝내 구원이 찾아온다니…… 정말, 동화 같은 이야기네요.",
+                "cn": "无知的女孩以自己的歌声为代价，交换来的却只是一场如泡沫般迅速破灭的梦，听上去就像童话一样对不对。呵，这样愚蠢的女孩却还能在故事的结尾得救......听上去也像，童话一样。"
+            },
+            "asset": "char_4066_highmo/CN_008"
+        },
+        {
+            "id": "char_4066_highmo_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "You've helped me recover the courage to trust in other beings, so I hope you see this responsibility through. Lead those willing to follow you, and put an end to those disasters that should never have befallen the innocent. Please, don't disappoint me.",
+                "jp": "あなたは私に、信じる勇気を取り戻させてくれました。ならば、付き従う者たちを最後まで導いて、罪無き人たちに降りかかる厄災を終わらせるのがあなたの責任というものです。どうかがっかりさせないでください。",
+                "kr": "당신은 제게 타인을 믿을 용기를 다시 품게 해 주었죠. 그러니 끝까지 책임을 다해주세요. 당신을 따르는 이들을 끝까지 인도하고, 무고한 이들에게 닥칠 재앙을 끝내 주세요. 부디, 절 실망시키지 말아 주세요.",
+                "cn": "既然是你帮助我重拾了相信外物的勇气，那么我也希望你能够负责到底，指引愿意追随你的人们，去结束这一切不该降临在无辜者身上的灾厄，直到最后。不要让我失望。"
+            },
+            "asset": "char_4066_highmo/CN_009"
+        },
+        {
+            "id": "char_4066_highmo_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "You see them in your dreams too, don't you? All those faces who've quietly left your life.",
+                "jp": "……夢の中でなら、ひっそりとあなたの人生から去った人たちにも会えますか。",
+                "kr": "……당신도 꿈속에서, 말없이 떠나간 이들을 만나시나요?",
+                "cn": "......在你的梦里，是不是也会见到那些，从你生命中悄然离你而去的人。"
+            },
+            "asset": "char_4066_highmo/CN_010"
+        },
+        {
+            "id": "char_4066_highmo_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "So, you'd be the 'Doctor'. I don't have much to introduce about myself. If I'm standing here, you must have read and approved all the files about me.",
+                "jp": "つまり、あなたが例の「ドクター」ですね。特に自己紹介は不要かと。私がここにいられるのは、あなたがもう資料に目を通して、それを承認したということでしょうから。",
+                "kr": "그러니까, 당신이 바로 그 '박사'군요. 특별히 자기소개할 만한 건 없을 것 같네요. 제가 여기에 서 있다는 건, 당신이 저에 대한 모든 자료를 열람하고 승인했다는 뜻일 테니까요.",
+                "cn": "所以，你就是那个“博士”了。我想我没什么可对自己做介绍的。我能够站在这里，也就意味着你已经阅览并批复了所有，关于我的文件吧。"
+            },
+            "asset": "char_4066_highmo/CN_011"
+        },
+        {
+            "id": "char_4066_highmo_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Maybe I shouldn't doubt the value of these records, like I did before.",
+                "jp": "……私も考えを改めて、これらの映像の価値を疑うべきではないのかもしれませんね。",
+                "kr": "……어쩌면, 예전처럼 이 영상들의 가치를 의심해서는 안 될지도 모르겠네요.",
+                "cn": "......或许我不该像先前那样怀疑这些录像的价值。"
+            },
+            "asset": "char_4066_highmo/CN_012"
+        },
+        {
+            "id": "char_4066_highmo_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "The more you seek from a power you should reject, the deeper you fall into it. Eventually, it will engulf your entire being. You understand this, don't you?",
+                "jp": "人は頼るべきでない力を求めれば求めるほど深みにはまり、最後には呑まれてしまうものです。あなたにそれがわからないはずありませんよね。",
+                "kr": "탐하거나 의존하지 말아야 할 힘을 추구하면, 결국 심연에 빠져 헤어 나오지 못하게 됩니다. 당신이 이를 모를 리 없겠죠.",
+                "cn": "向不该染指和依赖的力量索求越多，就越是会深陷其中，直到连自己都被吞没。你不会不明白。"
+            },
+            "asset": "char_4066_highmo/CN_013"
+        },
+        {
+            "id": "char_4066_highmo_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "You wish to forge a space that can admit me, and hope for me to admit everything surrounding me...? An arrogant notion, truly. But maybe I could bear witness with you, until the day you give up.",
+                "jp": "居場所を作ってやりたいから、私にも周りの物事をすべて受け入れろと……？あまりにも身勝手な考えですが、諦めるまで付き合ってあげてもいいかもしれません。",
+                "kr": "저를 받아들일 공간을 만들고, 저 또한 제가 주변의 모든 것들을 받아들일 수 있기를 원한다고요……? 참으로 거만한 생각이네요. 하지만 당신이 포기하는 그날까지 함께해 드리지 못할 것도 없죠.",
+                "cn": "你希望制造一个能够接纳我的空间，也希望我能够接纳身边的一切......？真是自大的想法。但我或许可以陪你见证，直到你放弃的那天。"
+            },
+            "asset": "char_4066_highmo/CN_014"
+        },
+        {
+            "id": "char_4066_highmo_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Looks like we've gotten our approvals. It's time to go.",
+                "jp": "お互いに出撃許可が下りたみたいですし、出発しましょう。",
+                "kr": "당신과 저 모두 출격 허가를 받았으니, 출발하죠.",
+                "cn": "看来你我都已经得到许可，该出发了。"
+            },
+            "asset": "char_4066_highmo/CN_017"
+        },
+        {
+            "id": "char_4066_highmo_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "I might bring their ruin, but only you can bring our victory.",
+                "jp": "滅びを導くことはできますが、勝利をもたらせるのはあなただけです。",
+                "kr": "멸망으로 이끄는 것은 저도 할 수 있지만, 승리를 가져올 수 있는 건 당신뿐이에요.",
+                "cn": "我会带去灭亡，而你才能带来胜利。"
+            },
+            "asset": "char_4066_highmo/CN_018"
+        },
+        {
+            "id": "char_4066_highmo_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Let us reap those naive delusions and immature obsessions.",
+                "jp": "未熟な妄想と執念を刈り取りましょう。",
+                "kr": "미숙한 망상과 집념을 거두러 가죠.",
+                "cn": "我们去收割那些不成熟的妄想和执念吧。"
+            },
+            "asset": "char_4066_highmo/CN_019"
+        },
+        {
+            "id": "char_4066_highmo_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "I hear the sound of the flooding tide.",
+                "jp": "潮の満ちる音が聞こえます。",
+                "kr": "조수가 차오르는 소리가 들리네요.",
+                "cn": "我听到了潮水涨起的声响。"
+            },
+            "asset": "char_4066_highmo/CN_020"
+        },
+        {
+            "id": "char_4066_highmo_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Do you have instructions for me?",
+                "jp": "指示はありますか？",
+                "kr": "지시사항이 있나요?",
+                "cn": "你有什么指示？"
+            },
+            "asset": "char_4066_highmo/CN_021"
+        },
+        {
+            "id": "char_4066_highmo_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Do I still have to wait?",
+                "jp": "出番はまだですか？",
+                "kr": "제 차례는 아직인가요?",
+                "cn": "还没轮到我吗？"
+            },
+            "asset": "char_4066_highmo/CN_022"
+        },
+        {
+            "id": "char_4066_highmo_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "As you ask.",
+                "jp": "従います。",
+                "kr": "따르겠습니다.",
+                "cn": "听你的就行。"
+            },
+            "asset": "char_4066_highmo/CN_023"
+        },
+        {
+            "id": "char_4066_highmo_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "I have no doubt.",
+                "jp": "不明点はありません。",
+                "kr": "이의는 없어요.",
+                "cn": "我没有疑问。"
+            },
+            "asset": "char_4066_highmo/CN_024"
+        },
+        {
+            "id": "char_4066_highmo_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "They have no position to evade.",
+                "jp": "避ける隙は与えません。",
+                "kr": "피할 수 없습니다.",
+                "cn": "他们无从躲闪。"
+            },
+            "asset": "char_4066_highmo/CN_025"
+        },
+        {
+            "id": "char_4066_highmo_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "They have no power to withstand.",
+                "jp": "抗う術はありません。",
+                "kr": "막을 수 없습니다.",
+                "cn": "他们无力抵挡。"
+            },
+            "asset": "char_4066_highmo/CN_026"
+        },
+        {
+            "id": "char_4066_highmo_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "They have no way to advance.",
+                "jp": "進ませはしません。",
+                "kr": "나아가게 하지 않을 겁니다.",
+                "cn": "他们无法前进。"
+            },
+            "asset": "char_4066_highmo/CN_027"
+        },
+        {
+            "id": "char_4066_highmo_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "They have no path to escape.",
+                "jp": "逃げ道などありません。",
+                "kr": "도망칠 길 따윈 없습니다.",
+                "cn": "他们无路可逃。"
+            },
+            "asset": "char_4066_highmo/CN_028"
+        },
+        {
+            "id": "char_4066_highmo_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Sometimes, your grasp of the surrounding situation makes me instinctually fearful. Yes, I believe you could make even Sea Terrors comprehend fear. So, do you intend to feel happy about this?",
+                "jp": "あなたの状況把握能力には本能的に恐怖を感じます。そう、あなたなら恐魚にも恐怖というものを教えることができるはずです……何を嬉しそうにしているんですか？",
+                "kr": "주변 상황에 대한 당신의 통제력은, 가끔 제게도 본능적인 공포를 느끼게 합니다. 네, 당신이라면 시테러에게도 공포라는 개념을 이해시킬 수 있을 거라고 생각해요. 혹시 뿌듯하신가요?",
+                "cn": "你对身边事态的掌控力有时候会令我从本能上感到恐惧。是的，我认为你甚至能够做到让恐鱼理解何为恐惧。那么你是打算为此感到高兴吗？"
+            },
+            "asset": "char_4066_highmo/CN_029"
+        },
+        {
+            "id": "char_4066_highmo_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "The waves have subsided. If you have no other tasks, I should leave immediately to undergo a 'routine' inspection.",
+                "jp": "敵の波はもう鎮まりました。他の任務がなければ、すぐに「いつもの」検査を受けないと。",
+                "kr": "적의 파도는 이미 가라앉았어요. 다른 임무가 없다면, 전 바로 '정기' 검진을 받으러 가 보도록 하겠습니다.",
+                "cn": "敌人的浪潮已经平息了。如果没有别的任务，我该立刻动身去接受一遍“常规”检查了。"
+            },
+            "asset": "char_4066_highmo/CN_030"
+        },
+        {
+            "id": "char_4066_highmo_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Were you showing mercy? Are enemies of this level worth your indulgence?",
+                "jp": "気がとがめますか？あの程度の敵に情けをかける価値はあるんでしょうか？",
+                "kr": "마음이 약해지기라도 하신 건가요? 저런 적들에게도 관용을 베풀 가치가 있을까요?",
+                "cn": "你心软了？这种程度的敌人难道也有让你姑息的价值吗？"
+            },
+            "asset": "char_4066_highmo/CN_031"
+        },
+        {
+            "id": "char_4066_highmo_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "We should go. Before the next wave has us drowned.",
+                "jp": "行きましょう。次の波に呑まれる前に。",
+                "kr": "가죠, 다음 파도가 저희를 집어삼키기 전에.",
+                "cn": "该走了，在下一个浪头将我们溺毙之前。"
+            },
+            "asset": "char_4066_highmo/CN_032"
+        },
+        {
+            "id": "char_4066_highmo_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "So this, too, is the place you promise I can belong.",
+                "jp": "ここがあなたが約束してくれた居場所ですか。",
+                "kr": "당신이 약속한 지낼 곳이라는 게 여기인가요?",
+                "cn": "这里也是你许诺我的一方容身之处吗。"
+            },
+            "asset": "char_4066_highmo/CN_033"
+        },
+        {
+            "id": "char_4066_highmo_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Did you need me?",
+                "jp": "私に用があるんですか？",
+                "kr": "절 찾으셨나요?",
+                "cn": "来找我的吗？"
+            },
+            "asset": "char_4066_highmo/CN_034"
+        },
+        {
+            "id": "char_4066_highmo_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "This place might be more... calming than expected.",
+                "jp": "ここは意外と……落ち着きますね。",
+                "kr": "여긴 의외로 안심이 되는 곳이네요.",
+                "cn": "这里或许意外地，令人安心。"
+            },
+            "asset": "char_4066_highmo/CN_036"
+        },
+        {
+            "id": "char_4066_highmo_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4066_highmo/CN_037"
+        },
+        {
+            "id": "char_4066_highmo_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "We still have some time, before the tide floods the soil beneath us.",
+                "jp": "潮が陸地を呑み込むまで、まだほんの少し猶予はあります。",
+                "kr": "조수가 발밑의 땅을 집어삼키기 전까지는, 아직 조금 시간이 남았어요.",
+                "cn": "我们还有一些时间，在潮水淹没脚下的土地之前。"
+            },
+            "asset": "char_4066_highmo/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Ashlyn Madden",
+            "global": "Ashlyn Madden"
+        },
+        "cn": {
+            "native": "许潇文",
+            "global": "Xiaowen Xu"
+        },
+        "jp": {
+            "native": "大下菜摘",
+            "global": "Natsumi Oshita"
+        },
+        "kr": {
+            "native": "이다은",
+            "global": "Lee Da-eun"
+        }
+    },
+    "availability": [
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

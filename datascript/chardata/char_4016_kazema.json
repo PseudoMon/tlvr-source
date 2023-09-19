@@ -1,0 +1,596 @@
+{
+    "charid": "char_4016_kazema",
+    "nameid": "kazema",
+    "names": {
+        "en": "Kazemaru",
+        "jp": "カゼマル",
+        "kr": "카제마루",
+        "cn": "风丸"
+    },
+    "voices": [
+        {
+            "id": "char_4016_kazema_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Please don't take all that artistic license for reality. Putting a doppelganger to use takes a lot of energy, and it won't happen for odd jobs like this.",
+                "jp": "芸術作品の中の誇張した表現を真に受けないでくださいね。分身の術はすごく精神力を消費するので、こんな雑用みたいな仕事で使うようなものじゃないんですよ。",
+                "kr": "예술작품 속의 과장된 표현을 현실로 받아들이지 말아 주시죠. 분신술은 정신력의 소비가 크기 때문에, 이런 잡다한 일에 사용할 만한 게 아닙니다.",
+                "cn": "请不要把艺术作品里的夸张表现当作现实啊，役使分身可是很耗费精力的，可不能拿来做这些杂活。"
+            },
+            "asset": "char_4016_kazema/CN_001"
+        },
+        {
+            "id": "char_4016_kazema_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "I imagine the few Higashi professionals here at Rhodes Island hid their backgrounds from you. If needs be, I can investigate for you—I guarantee any information you get will be the absolute truth.",
+                "jp": "ロドスにいる極東出身の何人かは、きっと来歴を隠していると思うんですよね。必要とあらば、わたしが代わりに調べてきましょうか。確実な情報を掴んでくると保証します！",
+                "kr": "로도스 아일랜드에 있는 극동 출신 중 몇 명은, 분명 경력을 숨겼을 거라 생각됩니다. 필요하다면 제가 대신 조사해 드릴까요? 확실한 정보를 가져올 것을 보장하겠습니다!",
+                "cn": "我想，罗德岛的几位东国好手一定向您隐瞒了履历。如果有需要，我可以代为调查，保证您获取绝对真实的信息。"
+            },
+            "asset": "char_4016_kazema/CN_002"
+        },
+        {
+            "id": "char_4016_kazema_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "I've worked for Rhodes Island for ages now; I know the ins and outs of everything. If you have any questions, I can always help—hm? What is today's special at the cafeteria? I... have no idea... I'll go investigate.",
+                "jp": "ロドスに勤めてから結構経ったので、全てのフローは把握していますよ。ご不明なところがあれば、なんでも――え、食堂の今日のお得メニュー？それは……う、分かりません……調べて参ります。",
+                "kr": "로도스 아일랜드에서 일한 지도 꽤 오래됐으니, 모든 과정은 파악해 뒀습니다. 궁금하신 부분이 있다면 뭐든지…… 앗, 오늘 식당의 할인 메뉴요? 그건…… 윽, 잘 모르겠습니다…… 조사하러 가보겠습니다.",
+                "cn": "我已经为罗德岛工作很长时间了，所有的流程都很清楚。您有任何疑问，我都可以协——您问今天食堂的特惠餐点？这个......真不清楚......我去调查一下。"
+            },
+            "asset": "char_4016_kazema/CN_003"
+        },
+        {
+            "id": "char_4016_kazema_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "When you're out gathering info, the right clothes can avoid you a lot of hassle. For example, these—once they're all coordinated, you can seem just like a Victorian student taking their first steps into society. In another outfit... I'll demonstrate sometime else if we get the chance.",
+                "jp": "外で情報収集をする際には、適した服装を選ぶと色んな面倒が省けますよ。例えば今のこれ、きちんとコーディネートすると、社会人になり立てのヴィクトリア学生に見えるでしょ。ほかのコーディネートは……また今度お見せしますね。",
+                "kr": "밖에서 정보 수집을 할 때, 적절한 복장을 선택하면 여러 가지 번거로움을 줄일 수 있습니다. 예를 들면 지금 이런 옷은 제대로 코디하면, 사회 초년생 빅토리아 학생처럼 보이죠. 다른 코디는… 다음 기회에 보여드리겠습니다.",
+                "cn": "外出探听消息时，穿上合适的衣服可以免去很多麻烦。比如现在这件，搭配完之后看起来就像是位初入社会的维多利亚学生。若是换上其他衣物......有机会再为您演示吧。"
+            },
+            "asset": "char_4016_kazema/CN_004"
+        },
+        {
+            "id": "char_4016_kazema_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Zzz... zzz... what a peaceful day... no bothersome cases, no quarrels in the street, and nobody to disturb you even if you sleep in... it's a shame moments of rest are always so short. Come on, Doctor, what do you need me to do?",
+                "jp": "スー……スー……ふわぁ、平和ですねぇ、煩わしい案件もなくて、街の喧騒も聞こえない。二度寝したって誰も邪魔してこない……ただ、平穏な時っていつも一瞬で終わっちゃうんですよね。ドクター、ご用件をどうぞ、わたしに何をしてほしいんですか？",
+                "kr": "쿨…… 쿨…… 하암, 평화롭군요. 성가신 안건도 없으니 거리의 소음도 안 들리고, 일어났다 다시 잠들어도 아무도 방해하러 오지 않고…… 다만, 평온한 순간은 항상 순식간에 끝이 나버리죠. 박사님, 용건을 말씀해 주십시오. 제가 무엇을 하기를 바라시나요?",
+                "cn": "呼......呼......真是和平的一天啊，没有恼人的案件，也没有街边的争吵，就算睡个回笼觉，也不会有人打扰......可惜，休闲时光总是很短暂。请说吧，博士，需要我做什么？"
+            },
+            "asset": "char_4016_kazema/CN_005"
+        },
+        {
+            "id": "char_4016_kazema_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Since birth, I was meant as a hidden blade in the hands of others. Infiltration, tracking, luring, they became as natural as breathing to me. Being able to use these abilities on the way of right... ha, I never did imagine that. Thank you, Doctor.",
+                "jp": "わたしは、生まれながらにして誰かの暗器となるものです。潜入、追跡、囮工作、そういったことは息をするようにできちゃうんです。まさか、それを正当な道に使うことになるなんて……はは、たしかに想像もしていませんでしたね。あなたのおかげです、ドクター。",
+                "kr": "전 태어나면서부터 누군가의 암기였던 사람입니다. 잠입, 추적, 유인, 그런 일들을 숨 쉬듯이 할 수 있도록 만들어졌죠. 설마, 이런 기술들을 바른길에 사용하게 될 줄은…… 하하, 처음엔 분명 상상도 못 했었죠. 당신 덕분입니다, 박사님.",
+                "cn": "我生来就是为了成为他人手中的暗刃。潜入、跟踪、诱敌，做这些事就像呼吸一样自然，不过能把这些技能用在正道上......哈哈，一开始也确实没想到。谢谢你，博士。"
+            },
+            "asset": "char_4016_kazema/CN_006"
+        },
+        {
+            "id": "char_4016_kazema_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "After the lord passed away, the young master set up a company with the family property. He tore up his oath too, signing contracts with us instead, and just like that, the famed ninjas were completely made over as white-collar workers. As for why I quit... I think I didn't take to sitting in an office, haha.",
+                "jp": "主殿がご逝去されたあと、若様が遺された財産で会社を立ち上げたんです。主従の誓いも破棄して、わたしたちと雇用契約を結びました。こうして大名家お抱えの忍者たちはみんな、サラリーマンへと転身したんです。それで、なんでわたしが辞めたかというと……オフィスで座ってるのが性に合わなかったのかもしれません、はは。",
+                "kr": "주군께서 서거하신 후에, 도련님께선 남은 재산으로 회사를 설립하셨습니다. 주종의 맹세도 파기하시고, 저희와 고용 계약을 맺으셨죠. 이렇게 다이묘 가문의 닌자들은, 모두 회사원이 된 것이죠. 그래서, 왜 제가 그만뒀냐면…… 사무실에 앉아만 있는 건 제 성미에 맞지 않았기 때문일지도 모르죠, 하하.",
+                "cn": "主君死后，小殿下用家产建了家公司。他还撕毁了誓约，转而和我们签了合同，就这样，大名的忍者全成了公司经理。至于我是怎么出来的......可能我不喜欢坐办公室吧，哈哈。"
+            },
+            "asset": "char_4016_kazema/CN_007"
+        },
+        {
+            "id": "char_4016_kazema_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Dietary habits in Victoria are surprisingly close to those at home. I realized, ever since then, that maybe one day the people of Terra could lay down their prejudices and work hand in hand. But considering the... emm, unique ways they have of cooking locally, I still have some reservations.",
+                "jp": "ヴィクトリアの食文化はわたしの故郷と案外似ているんです。それに気づいた時に、もしかしたらテラ中の人々が固定観念を捨てて、手を取り合って過ごせる日が来るかもしれないって。ただ、現地の……えっと、個性的な調理方法を考えると、やはり結論は保留にします。",
+                "kr": "빅토리아의 식문화는 의외로 제 고향과 비슷합니다. 그걸 깨달았을 때, 어쩌면 테라의 사람들이 고정관념을 버리고 서로 손을 잡고 지낼 날이 올지도 모른다 생각했죠. 다만, 현지의…… 그러니까, 개성적인 조리 방법을 생각해 보면……역시 이 결론은 아직 보류해야겠습니다.",
+                "cn": "维多利亚的饮食习惯和我的家乡意外地相近。从那时起我意识到了，或许有一天，泰拉的人们能够放下成见携手共进。不过考虑到当地......嗯，很有特色的烹饪方式，现在我还是持保留意见。"
+            },
+            "asset": "char_4016_kazema/CN_008"
+        },
+        {
+            "id": "char_4016_kazema_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "When I was young, my father drilled 'that which you should, you must' into me, and I always thought he meant I should do everything for myself. But after going from Higashi to Rhodes Island to Victoria, I came to see it anew. Distinguishing what I should and what I must, what to give and what to take—that's the true meaning of it.",
+                "jp": "小さい頃、父上から「成すべきことを成せ」との訓えを受けたんです。何事も自ら努力し実践すべし、ということだと思っていたんですが、極東を出てロドス、そしてヴィクトリアに至るまでの経験で、この言葉については新しい理解ができました。成せることと成すべきことを見極め、取捨選択ができることこそ、この訓えの真意なんです。",
+                "kr": "어렸을 때 아버지로부터 '해야 할 일을 해라'라는 가르침을 받은 적이 있습니다. 무슨 일이든 스스로 노력하고 실천해야 한다는 뜻이라 생각했지만, 극동을 벗어나 로도스 아일랜드, 그리고 빅토리아에 이르기까지의 경험을 통해, 이 말을 새롭게 이해할 수 있게 되었습니다. 할 수 있는 일과 해야 할 일을 판단하고, 취사선택을 하는 것이야말로, 이 가르침의 진정한 뜻인 것이죠.",
+                "cn": "小时候，父亲告诫我“应为必为”，我本以为那是要我凡事皆身体力行。但从东国到罗德岛，再到维多利亚的经历，让我对此有了新的认识。分清应为之事与必为之事，有取有舍，才是诫文的真意。"
+            },
+            "asset": "char_4016_kazema/CN_009"
+        },
+        {
+            "id": "char_4016_kazema_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "You're thinking about something, aren't you... carry on, I won't disturb you.",
+                "jp": "何か考え事をしてるんですよね……続けてください、お邪魔はしません。",
+                "kr": "뭔가 생각을 하고 계시는 군요…… 계속하시죠, 방해하지 않겠습니다.",
+                "cn": "您还在思考些什么对吧......请继续，我不会打扰您的。"
+            },
+            "asset": "char_4016_kazema/CN_010"
+        },
+        {
+            "id": "char_4016_kazema_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Nice to meet you, Doctor. Rhodes Island Branch Operator, Kazemaru, aboard from today on.",
+                "jp": "初めまして、ドクター。ロドスの駐外オペレーター、カゼマルです。本日より、ロドス本艦に異動して参りました。",
+                "kr": "처음 뵙겠습니다, 박사님. 오늘부터 여기서 일하게 될, 로도스 아일랜드의 주재 오퍼레이터, 카제마루입니다.",
+                "cn": "您好，博士，罗德岛驻外干员，风丸，从今天起将在这里任职。"
+            },
+            "asset": "char_4016_kazema/CN_011"
+        },
+        {
+            "id": "char_4016_kazema_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "I see... There's still more progress I can make on myself.",
+                "jp": "ふむふむ……わたしもまだまだ技を磨く余地がありますね。",
+                "kr": "흠… 저도 아직 기술을 연마할 여지가 있군요.",
+                "cn": "唔......我也还能继续精进。"
+            },
+            "asset": "char_4016_kazema/CN_012"
+        },
+        {
+            "id": "char_4016_kazema_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Watch, just take the corner of this origami and ever so lightly—pull! And now it's just like a real beast cub. I just wanted to show off a little something to you, and I hope it turned out nice.",
+                "jp": "こうして紙のかどを摘んで、軽く振って――それっ。ほら、本物の幼獣と瓜二つでしょ。大した技ではありませんが、楽しんでいただけたら。",
+                "kr": "이렇게 종이를 잡고, 가볍게 흔들면…… 그거예요. 보세요, 진짜 새끼 비스트랑 똑같잖아요. 대단한 기술은 아니지만, 즐거우셨다면 다행입니다.",
+                "cn": "请看，只要抓住折纸的边角轻轻一挥——便能成为栩栩如生的幼兽。只是为您演示些不足挂齿的技巧，效果还不错吧。"
+            },
+            "asset": "char_4016_kazema/CN_013"
+        },
+        {
+            "id": "char_4016_kazema_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Ever was my family's forte to be protean, and by this piece of paper, all that lives is imitable. Watch now, Doctor—Mimesis!",
+                "jp": "変幻自在はもとより我が一族が十八番、それにこの紙が加われば、あまねく万物を何もかも写しとれますよ。見ててくださいドクター、変化！",
+                "kr": "자유로이 변하는 건 본디 저희 일족의 특기죠. 거기에 이 종이가 더해지면, 어떤 것이라도 모두 모방해낼 수 있습니다. 잘 보세요 박사님, 변신!",
+                "cn": "百般变化本就是吾族的拿手好戏，而有了这一张纸片，万物皆可描摹，看好了博士，变！"
+            },
+            "asset": "char_4016_kazema/CN_014"
+        },
+        {
+            "id": "char_4016_kazema_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "I'll see to the role I should.",
+                "jp": "なすべき役目を必ず果たします。",
+                "kr": "해야만 하는 역할을 반드시 해내겠습니다.",
+                "cn": "我会站在我应站的岗位上。"
+            },
+            "asset": "char_4016_kazema/CN_017"
+        },
+        {
+            "id": "char_4016_kazema_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Am I going to be leading? Oh, wow... I'll value this chance, you can be sure!",
+                "jp": "わたしが指揮をとるんですか？わあ……いただいたチャンスに見合う働きを必ずや。",
+                "kr": "제가 지휘를 하는 건가요? 와…… 반드시 주어진 기회에 걸맞는 성과를 내겠습니다.",
+                "cn": "由我来指挥吗？唔哦......我会珍惜这次机会的。"
+            },
+            "asset": "char_4016_kazema/CN_018"
+        },
+        {
+            "id": "char_4016_kazema_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Off we go!",
+                "jp": "出立。",
+                "kr": "출발.",
+                "cn": "出发。"
+            },
+            "asset": "char_4016_kazema/CN_019"
+        },
+        {
+            "id": "char_4016_kazema_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Target visible. Beginning pursuit.",
+                "jp": "ターゲット出現、追跡を開始する。",
+                "kr": "목표 출현, 추적을 개시한다.",
+                "cn": "目标出现，开始进行追踪。"
+            },
+            "asset": "char_4016_kazema/CN_020"
+        },
+        {
+            "id": "char_4016_kazema_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "All ready.",
+                "jp": "カゼマル、諸事万端。",
+                "kr": "카제마루, 준비 완료.",
+                "cn": "风丸，准备就绪。"
+            },
+            "asset": "char_4016_kazema/CN_021"
+        },
+        {
+            "id": "char_4016_kazema_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Danger? As if I should fear it.",
+                "jp": "危険？それは恐れるものなの？",
+                "kr": "위험? 그걸 두려워해야 하는 건가?",
+                "cn": "危险？我不怕危险。"
+            },
+            "asset": "char_4016_kazema/CN_022"
+        },
+        {
+            "id": "char_4016_kazema_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Beginning assignment.",
+                "jp": "任務を開始する。",
+                "kr": "임무를 개시한다.",
+                "cn": "开始执行任务。"
+            },
+            "asset": "char_4016_kazema/CN_023"
+        },
+        {
+            "id": "char_4016_kazema_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Success is inevitable. No need to leave it to chance.",
+                "jp": "成功は必然よ。確率を計算するまでもない。",
+                "kr": "성공은 필연적이다. 확률을 계산할 필요도 없어.",
+                "cn": "成功是必然的，不用计算概率。"
+            },
+            "asset": "char_4016_kazema/CN_024"
+        },
+        {
+            "id": "char_4016_kazema_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Wind, rise!",
+                "jp": "風よ！",
+                "kr": "바람이여!",
+                "cn": "风起！"
+            },
+            "asset": "char_4016_kazema/CN_025"
+        },
+        {
+            "id": "char_4016_kazema_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Fall!",
+                "jp": "落（らく）！",
+                "kr": "낙!",
+                "cn": "落！"
+            },
+            "asset": "char_4016_kazema/CN_026"
+        },
+        {
+            "id": "char_4016_kazema_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Elusion!",
+                "jp": "遁（とん）！",
+                "kr": "둔!",
+                "cn": "遁！"
+            },
+            "asset": "char_4016_kazema/CN_027"
+        },
+        {
+            "id": "char_4016_kazema_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Shadow!",
+                "jp": "影（かげ）！",
+                "kr": "영!",
+                "cn": "影！"
+            },
+            "asset": "char_4016_kazema/CN_028"
+        },
+        {
+            "id": "char_4016_kazema_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Under your command, I've been far too spoiled.",
+                "jp": "ドクターの指揮のおかげで、わたしも大分楽ができましたよ。",
+                "kr": "박사님의 지휘 덕에, 저도 꽤 편하게 해낼 수 있었습니다.",
+                "cn": "有您指挥，我可轻松太多了。"
+            },
+            "asset": "char_4016_kazema/CN_029"
+        },
+        {
+            "id": "char_4016_kazema_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Mission complete. Good, no tracks left behind.",
+                "jp": "任務完了。よし、何の痕跡も残してないね。",
+                "kr": "임무 완료. 좋아, 어떤 흔적도 남기지 않았어.",
+                "cn": "任务完成。嗯，没有留下任何痕迹。"
+            },
+            "asset": "char_4016_kazema/CN_030"
+        },
+        {
+            "id": "char_4016_kazema_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "You've noticed how serious I was during the fight? Well—they weren't very friendly, after all.",
+                "jp": "わたし、真剣な顔をしていましたか？まあ、友好的な相手ではないですからね。",
+                "kr": "제가 진지한 표정을 하고 있었나요? 뭐, 상대하기 쉬운 상대는 아니었으니까요.",
+                "cn": "让您看到我认真的样子了吗？哎呀，毕竟对方不是什么善茬呢。"
+            },
+            "asset": "char_4016_kazema/CN_031"
+        },
+        {
+            "id": "char_4016_kazema_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Flee Doctor... ahead of me...",
+                "jp": "ドクター……お先に、撤退を……",
+                "kr": "박사님…… 먼저, 퇴각을……",
+                "cn": "博士......快，您先走......"
+            },
+            "asset": "char_4016_kazema/CN_032"
+        },
+        {
+            "id": "char_4016_kazema_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Nmm, I'd love to relax~",
+                "jp": "んーっ。リラックスしたいな～。",
+                "kr": "음~ 푹 쉬고 싶네~",
+                "cn": "想要放松一下啊~"
+            },
+            "asset": "char_4016_kazema/CN_033"
+        },
+        {
+            "id": "char_4016_kazema_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "What is it?",
+                "jp": "どうしました？",
+                "kr": "무슨 일입니까?",
+                "cn": "怎么啦？"
+            },
+            "asset": "char_4016_kazema/CN_034"
+        },
+        {
+            "id": "char_4016_kazema_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Ah, Doctor, this is for you! I just finished folding it.",
+                "jp": "あ、ドクター、これ差し上げます。さっき折ったばっかりなんですよ。",
+                "kr": "아, 박사님. 이걸 드리겠습니다. 방금 막 접은 거예요.",
+                "cn": "啊，博士，这是刚折好的，送给您啦。"
+            },
+            "asset": "char_4016_kazema/CN_036"
+        },
+        {
+            "id": "char_4016_kazema_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4016_kazema/CN_037"
+        },
+        {
+            "id": "char_4016_kazema_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Hello to you, Doctor~",
+                "jp": "こんにちは～、ドクター。",
+                "kr": "안녕하세요~ 박사님.",
+                "cn": "你好啊，博士~"
+            },
+            "asset": "char_4016_kazema/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Penelope Rawlins",
+            "global": "Penelope Rawlins"
+        },
+        "cn": {
+            "native": "张琦",
+            "global": "Kiiki"
+        },
+        "jp": {
+            "native": "本多真梨子",
+            "global": "Mariko Honda"
+        },
+        "kr": {
+            "native": "이자명",
+            "global": "Lee Ja-myeong"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

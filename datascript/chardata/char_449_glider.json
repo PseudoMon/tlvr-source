@@ -1,0 +1,596 @@
+{
+    "charid": "char_449_glider",
+    "nameid": "glider",
+    "names": {
+        "en": "Honeyberry",
+        "jp": "ハニーベリー",
+        "kr": "허니베리",
+        "cn": "蜜莓"
+    },
+    "voices": [
+        {
+            "id": "char_449_glider_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Do we work so hard every day? Hohh... this is rough... Doctor, if the stress ever gets to you, please don't bottle it up. I'll chat with you anytime.",
+                "jp": "毎日こんなにたくさんの仕事をするんですか？うわ、大変そう……ドクター、もしストレスを感じたら我慢しないで、いつでも話を聞かせてくださいね！",
+                "kr": "매일 이렇게 많은 일을 하시나요? 우와… 힘들겠다… 박사님, 혹시 스트레스를 느끼면, 참지 말고 언제든 말 걸어 주세요!",
+                "cn": "每天要做这么多工作吗？哇......好辛苦......博士，如果感觉有压力，千万不要憋在心里，随时可以找我聊天。"
+            },
+            "asset": "char_449_glider/CN_001"
+        },
+        {
+            "id": "char_449_glider_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Here, Doctor, this is for you. I sent an application to Dr. Kal'tsit, and remodeled an unused cabin into a conversation room. This is the leaflet I made myself!",
+                "jp": "はい、ドクター、これをどうぞ。実はわたし、ケルシー先生に申請して、使われていない船室を談話室に改修してもらったんです。これがわたしが作った宣伝用のチラシです！",
+                "kr": "자, 박사님, 이거 받으세요. 사실은 저, 켈시 선생님에게 신청해서, 쓰지 않는 선실을 상담실로 보수했거든요. 이게 제가 만든 선전용 전단지예요!",
+                "cn": "来，博士，这个给你。我向凯尔希医生申请，将一间不用的舱室改装成了谈话室，这是我自己做的宣传单！"
+            },
+            "asset": "char_449_glider/CN_002"
+        },
+        {
+            "id": "char_449_glider_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "I've heard there's a mysterious snackseller here who can dodge the Medical Department's controls, and shows up when anyone needs them... Doctor, is this all true?",
+                "jp": "噂によると、ロドスには謎の菓子売りがいて、その人は医療部の監視をすり抜けて、自分を必要とする人の前に現れるとか……ドクター、この話って本当なんですか？",
+                "kr": "어디서 들은 얘긴데, 로도스 아일랜드에는 수수께끼의 과자 상인이 있는데, 그 사람은 의료부의 감시를 피해서 자신을 필요로 하는 사람 앞에 나타난대요…… 박사님, 이 이야기가 사실일까요?",
+                "cn": "听说这里有一个神秘的零食商人，能躲过医疗部的封锁，出现在有需要的人面前......博士，这是真的吗？"
+            },
+            "asset": "char_449_glider/CN_003"
+        },
+        {
+            "id": "char_449_glider_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "As long as you take daily precautions, Oripathy is hardly that easy to catch! The sick aren't that dangerous, let alone their healthy relatives... Why do people always let ignorance scare them about this or that, and they're never even willing to look into it some more?",
+                "jp": "普段ちゃんと感染対策をとっていれば、鉱石病なんてそう簡単にはかからないんですよ。患者自身でさえそこまで危険な存在じゃないのに、健康な家族なら尚更……どうしてみんな知らないからって怯えるばかりで、もっと知ろうとしないの？",
+                "kr": "평소에 감염 대책을 제대로 세우면, 광석병에 그렇게 쉽게 걸리지 않아요. 환자 자신조차 그렇게까지 위험한 존재가 아닌데, 건강한 가족이라면 더더욱 위험하지 않겠죠. 그런데 어째서… 다들 모른다고 겁만 내고, 더 알려고 하지 않는 걸까요?",
+                "cn": "只要做好日常防护，矿石病根本没有那么容易传染！病人都没有那么危险，更不要说健康的患者家属了......为什么大家总是因为无知而害怕这害怕那，却又完全不愿意去多了解一下呢？"
+            },
+            "asset": "char_449_glider/CN_004"
+        },
+        {
+            "id": "char_449_glider_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Doctor, look at this! Ehehe, it's a notice that I'm qualified and approved for psychological counseling. I've been preparing forever, and I finally passed the test!",
+                "jp": "ドクター、見てください！えへへ、これ、カウンセリングの資格認定証ですよ。すごい時間をかけて試験の準備をしてたので、ようやく合格できて本当に嬉しいです！",
+                "kr": "박사님, 여기 좀 보세요! 에헤헤, 이거 카운슬링 자격증이에요. 시간 엄청 들여서 시험 준비 했는데, 드디어 합격해서 정말 기뻐요!",
+                "cn": "博士，你看这个！嘿嘿，是心理辅导资格认证的合格通知书哦，我准备了好久，终于通过测试啦！"
+            },
+            "asset": "char_449_glider/CN_005"
+        },
+        {
+            "id": "char_449_glider_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "My dad passed away when I was very little, because of Oripathy. The villagers were scared of getting infected, and they shunted us deep into the forest, far from the settlement. Life might've been very tough, but my mum still carried on as she took me through... Now I'm grown up, and it'll be my turn to look after her!",
+                "jp": "お父さんはわたしの小さい頃、鉱石病で亡くなりました。村の人たちは感染を恐れて、わたしたちを村から遠く離れた森の奥に追い出したんです。苦しい生活になりましたが、お母さんは頑張ってわたしを育ててくれました……もうこんなに大きくなったし、今度はわたしがお母さんの面倒を見てあげる番です！",
+                "kr": "아버지께선 제가 어렸을 때 광석병으로 돌아가셨어요. 마을 사람들은 감염이 두려워서, 우리를 마을에서 멀리 떨어진 숲 안쪽으로 쫓아냈죠. 힘든 생활이었지만, 어머니께선 열심히 저를 키워 주셨어요…… 저도 이젠 이렇게 컸으니까, 이제는 제가 어머니를 돌봐 줄 차례예요!",
+                "cn": "我爸爸因为感染矿石病，在我很小的时候去世了。村里的人害怕感染，把我们赶到森林深处远离村落的地方，虽然生活很辛苦，但妈妈还是带着我坚持了下来......现在我长大啦，该轮到我照顾妈妈了！"
+            },
+            "asset": "char_449_glider/CN_006"
+        },
+        {
+            "id": "char_449_glider_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "My old home was in the woodlands in west Rim Billiton. I grew up in the forest all my life, so I'm a bit familiar with all kinds of herbals. That said, herbals can treat your surface injuries, but invisible wounds on your spirit just aren't that easily cured...",
+                "jp": "わたしの故郷はレム・ビリトン西部の林地で、森で育ったおかげで薬草のこともそれなりに知っています。でも、身体の傷は薬草で癒せても、心の傷は目に見えないし、そう簡単に癒せるわけでもないんです……",
+                "kr": "제 고향은 림 빌리턴 서부에 있는 삼림 지역이다보니, 숲에서 자란 덕분에 약초도 나름대로 알고 있어요. 몸에 난 상처는 약초로 치료할 수 있지만, 마음의 상처는 눈에 보이지도 않고 그렇게 쉽게 치료할 수도 없죠……",
+                "cn": "我老家是在雷姆必拓西边的林地里，我从小在森林里长大，所以对各种药草还算熟悉。不过，药草虽然能治好身体上的伤，但心灵上看不见的创口却没有那么简单就能被治愈......"
+            },
+            "asset": "char_449_glider/CN_007"
+        },
+        {
+            "id": "char_449_glider_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Doctor, can I stay here? Would I be able to chat with you? I promise I won't interrupt your work! Everyone in the Medical Department has missions today, Mint's studying and she's not coming out for any fun, and there's no patients who need tending to. It's just me left now... I don't want to be alone...",
+                "jp": "ドクター、わたしここにいてもいいですか？ちょっとおしゃべりしてもいいですか？お仕事の邪魔は絶対しませんから！医療部はみんな任務に出ちゃったし、ミントちゃんは本が読みたいって外に出たがらないし、お世話する患者もいないからわたし、ひとりになっちゃいました……ひとりぼっちは嫌です……",
+                "kr": "박사님, 저… 잠깐 여기 있어도 되나요? 좀 수다 떨어도 될까요? 일은 절대 방해하지 않을 테니까요! 의료부 사람들은 다들 임무 나갔고, 민트는 책 읽고 싶다면서 바깥에 나가기 싫다 그러고, 돌볼 환자도 없어서 저… 혼자가 되고 말았지 뭐예요…… 외톨이가 되는 건 싫은데……",
+                "cn": "博士，我能呆在这里吗？我能和你说说话吗？保证不打扰你工作！医疗部的大家今天都有任务，薄绿在看书不愿意出去玩，也没有患者要照顾，只剩我一个人......我不想一个人......"
+            },
+            "asset": "char_449_glider/CN_008"
+        },
+        {
+            "id": "char_449_glider_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "I believe that getting good sleep, eating good food, and sharing the glad and the sad times with friends can make people happy. There's times when enduring too much does more harm... Doctor, just to let you know if you've got any worries, share them with me. Don't forget about it, okay?",
+                "jp": "しっかり寝る、美味しいものを食べる、嬉しいことや悲しいことを友達と分かち合う。これらのことは全部、人を幸せにすると信じています。我慢しすぎるのもいいことばかりじゃないですから……ドクター、いいですか、もし悩みがあったらお互いに共有しましょう。絶対忘れないでくださいね？",
+                "kr": "잘 자고, 맛있는 것을 먹고, 기쁜 일과 슬픈 일을 친구와 나누는 것. 이것들은 모두 사람을 행복하게 만든다고 믿고 있어요. 지나치게 참는 것도 좋지만은 않으니까요…… 박사님, 아시겠어요? 혹시 고민이 생기면 서로 공유해요. 절대 잊으시면 안 돼요.",
+                "cn": "我相信好好地睡觉，吃好吃的东西，和朋友分享高兴和难过的经历，这些都会让人变得幸福，有的时候太过忍耐也不是好事......博士，约好了有什么烦恼都一起分享，一定不要忘记哦？"
+            },
+            "asset": "char_449_glider/CN_009"
+        },
+        {
+            "id": "char_449_glider_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Doctor, did you fall asleep...? Hmm, no reaction, gotta be asleep. Okay, good chance! Let's find where the Doctor's been hiding all those snacks...",
+                "jp": "ドクター、寝てますか？……うーん、全然反応がない、やはり寝てますね。よし、チャンス！ドクターはおやつをどこに隠してるのか探してみよっと……",
+                "kr": "박사님, 주무세요? 음…… 전혀 반응이 없으시네. 역시 주무시나보다… 좋아, 찬스다! 박사님은 간식을 어디에 숨기셨나 찾아봐야지……",
+                "cn": "博士，你睡着了吗？......唔，完全没反应，看来真的睡了。好机会！让我看看博士把零食都藏在哪儿了......"
+            },
+            "asset": "char_449_glider/CN_010"
+        },
+        {
+            "id": "char_449_glider_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Nice to meet you, I'm the new Medical Department intern, Honeyberry. I'm assuming you're the Doctor...? Hmm, it's just like Dr. Kal'tsit said. You're different enough from everyone else that I can tell you at a glance!",
+                "jp": "はじめまして、この度医療部配属になった、実習生のハニーベリーです。あなたがドクターですね？……うーん、ケルシー先生の言葉通り、ひと目でわかるくらい特別な方ですね！",
+                "kr": "처음 뵙겠습니다. 이번에 의료부 소속이 된 인턴, 허니베리라고 해요. 당신이 박사님이시죠? ……으음, 켈시 선생님 말대로, 한눈에 알 수 있을 정도로 특별한 분이시네요!",
+                "cn": "您好，我是新加入医疗部的实习医师蜜莓，您就是博士吧？......嗯，和凯尔希医生说的一样，博士和其他人不太一样，只要看到就一定不会认错。"
+            },
+            "asset": "char_449_glider/CN_011"
+        },
+        {
+            "id": "char_449_glider_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "So you can do emergency treatment like this too...!",
+                "jp": "こんな応急措置もできるなんて……！",
+                "kr": "이런 응급조치도 할 수 있다니……!",
+                "cn": "居然还有这样的应急治疗方法......！"
+            },
+            "asset": "char_449_glider/CN_012"
+        },
+        {
+            "id": "char_449_glider_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "A promotion? So that means, I've cleared my internship without any problems?! That's brilliant!",
+                "jp": "昇進？ってことは、もう実習期間を無事クリアしたんですね！？よかったー！",
+                "kr": "승진? 그렇다는 건, 이제 실습 기간을 무사히 끝냈다는 거네요?! 다행이다~!",
+                "cn": "晋升？也就是说，我已经顺利通过实习期了？！太好了！"
+            },
+            "asset": "char_449_glider/CN_013"
+        },
+        {
+            "id": "char_449_glider_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "I've learned and gained so much at Rhodes Island. It's all the experiences that build up, and all the beautiful memories, that give me the drive to keep going, to strive together with all of you!",
+                "jp": "ロドスでたくさんのことを学べて、たくさんの収穫がありました。少しずつ積み重ねてきた経験や素敵な思い出が、みんなと一緒に頑張ろうという、わたしの原動力になっています！",
+                "kr": "로도스 아일랜드에서 많은 것을 배워서, 많은 수확이 있었어요. 조금씩 쌓아 온 경험과 멋진 추억이, 제가 모두와 함께 열심히 노력할 수 있는 원동력이 되어주었어요!",
+                "cn": "我在罗德岛学习了很多，也收获了很多，是那些一点一点积累起来的经验和美好的回忆，支撑着我和大家一起继续努力下去！"
+            },
+            "asset": "char_449_glider/CN_014"
+        },
+        {
+            "id": "char_449_glider_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "After our mission's over, why don't we all celebrate together?",
+                "jp": "任務が終わったら、みんなでお祝いしましょ？",
+                "kr": "임무가 끝나면, 다 같이 축하하도록 하죠.",
+                "cn": "任务结束之后，大家一起庆祝一下吧？"
+            },
+            "asset": "char_449_glider/CN_017"
+        },
+        {
+            "id": "char_449_glider_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Please don't worry, leave your health to me...",
+                "jp": "安心してください、みんなの健康はわたしに任せて……",
+                "kr": "안심하세요, 모두의 건강은 제게 맡겨주세요……",
+                "cn": "请放心，大家的健康就交给我......"
+            },
+            "asset": "char_449_glider/CN_018"
+        },
+        {
+            "id": "char_449_glider_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "It's time. We should be departing any moment now.",
+                "jp": "時間です、そろそろ出発しますね。",
+                "kr": "시간 다 됐어요, 슬슬 출발할게요.",
+                "cn": "到时间了，差不多该出发啦。"
+            },
+            "asset": "char_449_glider/CN_019"
+        },
+        {
+            "id": "char_449_glider_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Before checking what methods the other side might use, each of you please watch yourselves!",
+                "jp": "相手がどんな手を使ってくるかを確認できるまで、気を抜かないで！",
+                "kr": "상대가 어떤 수를 쓰는지 확인될 때까지, 방심하면 안 돼요!",
+                "cn": "在确认对方会使用什么样的手段前，请各自小心！"
+            },
+            "asset": "char_449_glider/CN_020"
+        },
+        {
+            "id": "char_449_glider_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "No problem!",
+                "jp": "大丈夫です！",
+                "kr": "괜찮아요!",
+                "cn": "没问题！"
+            },
+            "asset": "char_449_glider/CN_021"
+        },
+        {
+            "id": "char_449_glider_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Do I have to jump down? I've got a real penchant for that!",
+                "jp": "飛び降りるんですか？わたし得意ですよ！",
+                "kr": "뛰어내리는 건가요? 저 잘해요!",
+                "cn": "要跳下去吗？我很擅长这个！"
+            },
+            "asset": "char_449_glider/CN_022"
+        },
+        {
+            "id": "char_449_glider_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Arrived at designated position, treatment targets sighted!",
+                "jp": "指定位置に到達、治療目標発見！",
+                "kr": "지정 위치에 도착, 치료 목표 발견!",
+                "cn": "到达指定位置，发现治疗目标！"
+            },
+            "asset": "char_449_glider/CN_023"
+        },
+        {
+            "id": "char_449_glider_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Everyone, focus on fighting! Just leave treatment to me!",
+                "jp": "みんな戦いに集中して、治療はわたしがやります！",
+                "kr": "다들 전투에 집중하세요, 치료는 제가 할게요!",
+                "cn": "请大家放心战斗，治疗就交给我吧！"
+            },
+            "asset": "char_449_glider/CN_024"
+        },
+        {
+            "id": "char_449_glider_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Get a hold of your breathing, and relax.",
+                "jp": "呼吸を整えて、リラックスして。",
+                "kr": "호흡을 가다듬고, 긴장 푸세요.",
+                "cn": "调整好呼吸，放轻松。"
+            },
+            "asset": "char_449_glider/CN_025"
+        },
+        {
+            "id": "char_449_glider_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Everyone... hang in there!",
+                "jp": "みんな……頑張って！",
+                "kr": "여러분…… 힘내세요!",
+                "cn": "大家......坚持住！"
+            },
+            "asset": "char_449_glider/CN_026"
+        },
+        {
+            "id": "char_449_glider_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "I've got a way to treat you here!",
+                "jp": "治療法を見つけた！",
+                "kr": "치료법을 찾았어!",
+                "cn": "我已经找到治疗方法了！"
+            },
+            "asset": "char_449_glider/CN_027"
+        },
+        {
+            "id": "char_449_glider_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "No matter what trouble we're in, I'll face it together with all of you...!",
+                "jp": "どんな苦境でも、みんなと一緒に立ち向かうから……！",
+                "kr": "어떤 역경에도 모두와 함께 맞설 테니까……!",
+                "cn": "不管什么样的困境，我都会和大家一起面对......！"
+            },
+            "asset": "char_449_glider/CN_028"
+        },
+        {
+            "id": "char_449_glider_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Mission complete! Now it's time for a celebration party... why don't you join us, Doctor?",
+                "jp": "任務完了！よし、後でみんなとお祝いのパーティーを……ドクターも一緒にどうですか？",
+                "kr": "임무 완료! 좋았어, 나중에 다 같이 축하 파티를…… 박사님도 같이, 어떠세요?",
+                "cn": "任务完成！嗯，之后要和大家一起开庆祝会......博士要不要一起来？"
+            },
+            "asset": "char_449_glider/CN_029"
+        },
+        {
+            "id": "char_449_glider_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "It's finally over... you all worked so hard.",
+                "jp": "やっと終わった……みんな頑張りましたよ。",
+                "kr": "드디어 끝났다…… 다들, 고생하셨어요.",
+                "cn": "终于结束了......大家都很努力了。"
+            },
+            "asset": "char_449_glider/CN_030"
+        },
+        {
+            "id": "char_449_glider_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "We're not done yet, we need to treat the wounded as soon as possible...",
+                "jp": "このままじゃダメです、早く傷口の処理をしないと……",
+                "kr": "이대로는 안 돼요, 어서 상처를 치료해야……",
+                "cn": "这样下去不行，必须要尽快治疗伤口......"
+            },
+            "asset": "char_449_glider/CN_031"
+        },
+        {
+            "id": "char_449_glider_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Don't get discouraged, we still have a chance!",
+                "jp": "諦めないで、まだチャンスがありますから！",
+                "kr": "포기하지 마세요, 아직 기회가 있으니까요!",
+                "cn": "不要灰心，我们还有机会！"
+            },
+            "asset": "char_449_glider/CN_032"
+        },
+        {
+            "id": "char_449_glider_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "What do you think about building a treehouse?",
+                "jp": "ツリーハウスを作ってみませんか？",
+                "kr": "트리하우스, 같이 안 만드실래요?",
+                "cn": "我们来做个树屋，怎么样？"
+            },
+            "asset": "char_449_glider/CN_033"
+        },
+        {
+            "id": "char_449_glider_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Hm? What's the matter?",
+                "jp": "ん？どうしたんです？",
+                "kr": "응? 무슨 일이세요?",
+                "cn": "嗯？怎么了呀？"
+            },
+            "asset": "char_449_glider/CN_034"
+        },
+        {
+            "id": "char_449_glider_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Doctor, do you want some snacks?",
+                "jp": "ドクター、お菓子食べますか？",
+                "kr": "박사님, 과자… 드실래요?",
+                "cn": "博士，要吃零食吗？"
+            },
+            "asset": "char_449_glider/CN_036"
+        },
+        {
+            "id": "char_449_glider_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_449_glider/CN_037"
+        },
+        {
+            "id": "char_449_glider_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Wow! D—Doctor, I'll jump down right now! Catch me, please!",
+                "jp": "わ！ド、ドクター、今から飛び降りますよ、しっかり受け止めてくださいね！",
+                "kr": "와! 바, 박사님, 지금 뛰어내릴게요. 잘 받아 주셔야 돼요!",
+                "cn": "哇！博、博士，我现在要跳了，拜托你接住我！"
+            },
+            "asset": "char_449_glider/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Sophie Shad",
+            "global": "Sophie Shad"
+        },
+        "cn": {
+            "native": "张洪",
+            "global": "Elivia"
+        },
+        "jp": {
+            "native": "井上ほの花",
+            "global": "Honoka Inoue"
+        },
+        "kr": {
+            "native": "윤은서",
+            "global": "Yoon Eun-seo"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

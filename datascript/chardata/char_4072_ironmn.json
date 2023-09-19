@@ -1,0 +1,596 @@
+{
+    "charid": "char_4072_ironmn",
+    "nameid": "ironmn",
+    "names": {
+        "en": "Stainless",
+        "jp": "ステインレス",
+        "kr": "스테인리스",
+        "cn": "白铁"
+    },
+    "voices": [
+        {
+            "id": "char_4072_ironmn_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Doctor, do you mind me tinkering with a few things here, or would that be too much noise? Just give me a tap on the back when you want to chat, of course.",
+                "jp": "ドクター、ここら辺で機械をいじっててもヘーキ？俺と話したい時は肩を叩いてくれりゃいいからさ。",
+                "kr": "박사, 여기서 기계 좀 손봐도 될까? 나랑 얘기하고 싶으면, 그냥 한번 툭 치면 돼.",
+                "cn": "博士，要是我在这边顺手鼓捣点东西的话，你会不会嫌吵？当然，你想聊天的时候，拍我一下就行。"
+            },
+            "asset": "char_4072_ironmn/CN_001"
+        },
+        {
+            "id": "char_4072_ironmn_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Doctor, I hear you've got a lot of books here. Could you lend me a few to read? They don't have to be on mechanical engineering, I'm plenty curious about stuff I don't know. Like this one, for instance, it's a beauty of a doorstopper... what was that? Don't touch? I-It's got a curse? Hold on, who put that on it?",
+                "jp": "ドクター、あんたんとこに本がたくさんあるって聞いたんだけど、何冊か貸してくんないかな？機械とか関係なくてもヘーキだよ、知らないことにはなんでも興味があるんだ。これとか良さそうじゃん、分厚いし装丁も凝ってる……え、の、呪いがかかってるから触っちゃいけない？誰かが置いてった？すげーじゃん、それって誰なの？",
+                "kr": "박사, 여기 책이 많이 있다고 들었는데, 혹시 몇 권 빌려줄 수 있을까? 꼭 기계랑 관련된 게 아니어도 괜찮아. 난 내가 모르는 분야라면 뭐든 관심이 있거든. 이거 괜찮아 보이는데, 두껍고 화려한 게…… 뭐? 저, 저주가 걸려 있으니까 만지면 안 된다고? 이거,  누가 놓고 간 거야?",
+                "cn": "博士，听说你这里有很多书，能借我几本看看吗？不用和机械工程相关，我对不了解的事物都很好奇。这本就不错，又厚又华丽......你说什么，不能碰，有诅、诅咒？等等，这是谁落下的？"
+            },
+            "asset": "char_4072_ironmn/CN_002"
+        },
+        {
+            "id": "char_4072_ironmn_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "The Sarkaz deserve sympathy for what they've been through, but one man can't steal another's home for the sake of his own. Peace will come to Londinium, and I hope, one day, every wanderer gets to build a homeland. It's what Rhodes Island wants too, isn't it?",
+                "jp": "サルカズの境遇は同情できると思うぜ。けど、自分の故郷を奪われたからって、人のもんを奪（と）っていいことにゃならないっしょ。ま、ロンディニウムにはいずれ必ず平和が訪れる。でも俺はさ、家を失くした全ての人たちに、自分の手で帰る場所を築いてほしいと思ってるんだ。これってロドスの願いでもあるよな？",
+                "kr": "살카즈가 처한 상황이 안타깝긴 하지만 자기들의 고향을 위해 타인의 고향을 뺏는 건 잘못된 거야. 그래도 언젠가 런디니움에도 평화가 찾아오겠지. 그러고 나면 난 모든 부랑자들이 스스로 머물 곳을 지을 수 있게 되었으면 좋겠어. 이건 로도스 아일랜드의 바람이기도 하지?",
+                "cn": "萨卡兹的遭遇值得同情，但一个人并不能为了自己的家乡而去掠夺另一个人的家乡。和平会降临伦蒂尼姆，而我希望有朝一日，所有流浪者都能建起属于自己的家园。这也是罗德岛的愿望，对吧？"
+            },
+            "asset": "char_4072_ironmn/CN_003"
+        },
+        {
+            "id": "char_4072_ironmn_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "A lot of people'll say the lord nobles do nothing but cling onto the privilege and wealth they inherit, and never think to build on this land with their own hands. Me? I don't mind fighting side-by-side with nobles, just don't make me call them 'lord.'",
+                "jp": "お貴族様は受け継いだ財産と特権にしがみついてばっかで、自分の手でこの土地をもっと良くしようって気概はないってみんな言うんだよな。俺？俺は別に一緒に戦うのも気にしないよ。旦那様呼びさせられなけりゃね。",
+                "kr": "많은 사람들이 귀족들은 물려받은 재산이랑 특권에 기댈 줄만 알지, 자기 손으로 이 땅을 더 좋게 만들 기개는 없다고 말하더라. 나? 난 귀족들이랑 손을 잡아도 상관없어. '나으리'라고 부르는 걸 강요하지만 않는다면 말이야.",
+                "cn": "很多人都说，贵族老爷们只懂抱着继承来的财富与特权不撒手，并不愿意用自己的双手建设这片土地。我？我倒是不介意与贵族们并肩作战，只要别逼我叫“老爷”就行。"
+            },
+            "asset": "char_4072_ironmn/CN_004"
+        },
+        {
+            "id": "char_4072_ironmn_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "I didn't used to believe things could ever really be dire. Not until an almighty enemy showed up to me, and stole my pals from me, one after the other. They all trusted me, and I failed them. Granny was right. 'Being smart isn't enough to fool death.'",
+                "jp": "昔の俺は、何があってもどうにかなると思ってた。絶対勝てない相手が現れて、俺の仲間を一人また一人って奪ってくまではな。あいつらはみんな俺のことを信じてついてきてくれたのに、俺はそれを裏切ったんだ。ばあちゃんが言ってた通りだよ。「浅知恵じゃ死を謀り続けることはできない」ってな。",
+                "kr": "예전의 난, 무슨 일이 일어나든 결국엔 어떻게든 해결할 수 있을 거라 생각했어. 이길 수 없는 상대가 나타나 눈앞에서 동료들을 한 명 한 명 앗아가기 전까진 말이야. 모두 날 믿고 따라와 줬는데 난 그 신뢰에 부응하지 못했지. '잔꾀가 모든 죽음을 피하게 해주진 않아.'라던 할머니 말이 맞았어.",
+                "cn": "以前的我并不相信会有真正的绝境，直到强大的敌人出现在我面前，夺走了我一个又一个队友。他们都信任着我，而我辜负了这份信任。奶奶说得没错，“小聪明并不总能骗过死亡。”"
+            },
+            "asset": "char_4072_ironmn/CN_005"
+        },
+        {
+            "id": "char_4072_ironmn_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "I'm a big fan of red. It makes me think of fireplaces on freezing nights. And all the friends who've left us along the way... I'm telling you, their sacrifices meant something. Londinium will come back to us, back to our hands, and it'll be better than before.",
+                "jp": "俺ね、赤がスゲー好きなんだよ。寒い夜の種火を思い出すから。あと、俺たちから去っていった仲間たちのことも……あいつらの犠牲に意味はあったよ。ロンディニウムは俺たちの手に戻ってくる、そんで絶対に前よりいい場所になるんだ。",
+                "kr": "나는 빨간색이 좋아. 빨강은 추운 밤 속의 불꽃을 떠올리게 하거든. 그리고 우리 곁을 떠나간 동료들도 생각나게 하고…… 그들은 절대 의미 없는 희생을 하지 않았어. 런디니움은 반드시 우리 손에 돌아올 거야. 그리고, 전보다 더 나아진 곳이 될 거야.",
+                "cn": "我很喜欢红色，因为它让我想起寒夜里的火种。它也会让我想起这一路上离开的朋友们......他们的牺牲是有意义的。伦蒂尼姆一定会回到我们手中，而且还会变得更好。"
+            },
+            "asset": "char_4072_ironmn/CN_006"
+        },
+        {
+            "id": "char_4072_ironmn_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Doctor, I find it easy to trust people, but don't take me for stupid. If you were just another lot of plotting schemers, I would've taken up arms with no hesitation. But you see, if I offer a shake when I meet someone, that's all the more likely I've got a new friend. Haha, I'm glad my bet paid off here.",
+                "jp": "ドクター、俺は人を信じやすい方だけど、バカじゃないかんな。あんたらも何か企んでんなら、武器を向けることにゃ躊躇しないよ。でもさ、出会った瞬間こっちから握手を求めとけば、味方が増えるかもだろ。へへ、賭けだったけど、勝って嬉しいよ。",
+                "kr": "박사, 난 사람을 쉽게 믿는 편이지만 바보는 아니야. 만약 너희가 꿍꿍이를 숨기고 있었다면, 난 주저하지 않고 무기를 들었을 거야. 하지만 무기 대신 손을 내밀면, 우리 편이 되어줄 수도 있는 거잖아? 하하, 이게 통했다니 기뻐.",
+                "cn": "博士，我很容易信任别人，可我并不是傻瓜。万一你们是另一群阴谋家，我会毫不犹豫地举起武器。只是，一见面就先伸手的话，我更有可能收获一个朋友。哈哈，我很高兴自己赌对了。"
+            },
+            "asset": "char_4072_ironmn/CN_007"
+        },
+        {
+            "id": "char_4072_ironmn_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "When we were on break, me and my work pals liked climbing up to the workshop ceiling. Thirty, forty-odd meters. We'd step out of the window and go jumping between buildings. Wind'd blow by with the smell of the factory heat and rust, stars'd squeeze down past the buildings and smile on me. I could feel my city in its warm embrace.",
+                "jp": "工場で働いてた時さ、休憩時間になると、よく同僚と何十メートルか上の天井に登って、窓から屋根に出て、建物から建物に跳んで回ってたんだよ。風が工場の熱気とか、鉄錆の匂いとかを吹き飛ばして、星が高層ビルの隙間から俺に微笑んでくれるの。あー今俺の街に抱かれてるって、スゲー感じたんだよね。",
+                "kr": "쉬는 시간만 되면, 동료들이랑 수십 미터 높이의 천장으로 올라가, 창문을 통해 지붕으로 나가, 건물과 건물 사이를 뛰어다니곤 했어. 바람은 공장의 열기와 쇠 냄새를 날려주고, 별들은 높은 빌딩들 사이로 내게 미소를 지어 줬지. 그럴 때면 난 도시가 날 안아 주고 있다는 걸 느낄 수 있었어.",
+                "cn": "休息的时候，我和工友们喜欢爬到几十米高的车间天花板上，从窗口迈出去，在楼与楼之间跳跃。风带走了厂房里的炽热与铁锈味，星星挤过高耸的楼房对我微笑，我的城市正在拥抱我，我能感觉到。"
+            },
+            "asset": "char_4072_ironmn/CN_008"
+        },
+        {
+            "id": "char_4072_ironmn_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "*sigh* It's a beauty of a place at Rhodes. I almost want to apply to stay aboard. Shame I've still got all those people and all that work waiting for me in Londinium... Doctor, when it's clear skies once more at home, how about you let me be your guide again? What do you say?",
+                "jp": "うーん、ロドスってマジでいいとこだよね。俺もここに残りたいくらいだわ。でも仕事も人もみんなロンディニウムで俺を待ってるかんなぁ、残念……あのさドクター、俺の故郷が闇から抜け出したら、もっかい案内人やらせてくんね、どう？",
+                "kr": "흐음, 로도스 아일랜드는 정말 좋은 곳이야, 나도 여기에 남고 싶을 정도라니까. 하지만 아쉽게도, 런디니움의 많은 사람들과 여러 일들이 날 기다리고 있어…… 저기…… 박사…… 내 고향이 다시 빛을 보게 되는 날이 오면, 다시 한번 나한테 가이드를 하게 해주지 않을래?",
+                "cn": "唉，罗德岛真是个好地方，我都想申请留舰了。可惜还有那么多人和活儿在伦蒂尼姆等着我......博士，等到我的家乡重新放晴的那一天，让我再做一次你的引路人，好不好？"
+            },
+            "asset": "char_4072_ironmn/CN_009"
+        },
+        {
+            "id": "char_4072_ironmn_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Doctor, you must be bored out of your mind sitting at work all day. Want me to take you out for some exercise? Don't worry, no ziplines this time.",
+                "jp": "毎日座りっぱなしで仕事すんのもつまんないっしょ、一緒に外に体動かしにいかね？安心して、今回はジップラインはなしだからさ。",
+                "kr": "박사, 하루 종일 앉아서 일하는 것도 지루할 텐데, 같이 운동이나 하러 갈래? 안심해, 이번엔 집라인은 안 탈 거야.",
+                "cn": "博士，整天坐着工作也挺无聊的吧，要不要我带你出去运动一下？放心，这回不用滑索。"
+            },
+            "asset": "char_4072_ironmn/CN_010"
+        },
+        {
+            "id": "char_4072_ironmn_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Doctor, we've faced so much danger together. Do we still need this paperwork to stand for us being friends? Wait, you mean once I sign, I get to take any of Engineering's beauties apart? That's a promise, you hear? 'Stainless'—done.",
+                "jp": "ドクター、俺たち何度も一緒に修羅場を潜り抜けてきた仲だろ。今更こんな紙っきれで証明しなきゃいけないわけ？え、この契約書にサインしたら、エンジニア部のおたからは好きにいじっていいの？言ったな？「ステインレス」っと――よし。",
+                "kr": "박사, 우린 이미 몇 번이나 함께 역경을 헤쳐 나간 사인데도, 이런 종이들로 우리 관계를 증명해야 하는 거야? 뭐, 이 계약서에 사인하면 엔지니어부의 물건들을 마음대로 만질 수 있다고? 약속한 거다? '스테인리스'……됐다.",
+                "cn": "博士，我们都一起冒过那么多次险了，还需要这几张纸来体现交情吗？等等，你说签了这份合同之后，工程部的宝贝们随我拆？说好了啊，“白铁”——搞定。"
+            },
+            "asset": "char_4072_ironmn/CN_011"
+        },
+        {
+            "id": "char_4072_ironmn_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Cor, I suppose you really do make your logistics people fight too. Not that that's much of a problem... How about a little pay bump, eh?",
+                "jp": "やっぱりあんたらのとこは後方支援の奴も戦場に出んのか。それは別にいいけど……もうちょい給料上げてくんね？",
+                "kr": "여기서는 후방 지원을 하는 사람들도 전장에 나서야 하는 모양이네. 딱히 문제 될 건 없는데…… 그만큼 월급도 좀 올려 주면 안 될까?",
+                "cn": "看来在你们这里，后勤人员真的也得上战场啊。倒不是什么大问题......要不再加点工资呗？"
+            },
+            "asset": "char_4072_ironmn/CN_012"
+        },
+        {
+            "id": "char_4072_ironmn_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "'Top Engineering Operator?' If I want to be Chief Engineer, I'm still a few steps away, aren't I? Haha, I'm just pulling your leg. I've got no plan to jockey for Closure's living.",
+                "jp": "「エリートエンジニアオペレーター」ぁ？じゃあ首席エンジニアまであと何回昇進すりゃいいの？ははっ、冗談だって、クロージャさんと席取りする気はねーよ。",
+                "kr": "'엘리트 엔지니어 오퍼레이터'? 그럼 수석 엔지니어가 되려면 몇 번 더 승진해야 하는 거야? 하하, 농담이야. 난 클로저 씨 자리를 뺏을 생각은 없거든.",
+                "cn": "“高级资深工程干员”？想要当上首席工程师的话，我还差几次晋升啊？哈哈，开玩笑的，我可没打算跟可露希尔小姐抢饭碗。"
+            },
+            "asset": "char_4072_ironmn/CN_013"
+        },
+        {
+            "id": "char_4072_ironmn_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "It's a luxury now, just having free time like this to work with my drill and spanner. Doctor, thank you. I'm all willing to take to the field for my homeland and freedom. But it's you and Rhodes Island that won back this moment of refuge for me.",
+                "jp": "こうやってドリルやレンチを好きに握ってられる時間も贅沢なもんになったんだ。ドクター、サンキュな。故郷と自由のためなら俺は喜んで戦場に立つけど、あんたとロドスはそんな俺にこの安らかな時間を取り戻してくれたんだ。",
+                "kr": "이렇게 드릴이나 렌치를 마음대로 잡을 수 있는 시간조차 이젠 사치가 됐네. 난 고향과 자유를 위해서라면, 기꺼이 전쟁터에 나설 거야. 그래도 너랑 로도스 아일랜드 덕분에 조금이나마 이런 여유를 되찾게 되었어. 고마워, 박사.",
+                "cn": "像这样自在地握着电钻与扳手的时光也变得很奢侈了。博士，谢谢。为了家园与自由，我甘愿走上战场，而你与罗德岛帮我夺回了这片刻安逸。"
+            },
+            "asset": "char_4072_ironmn/CN_014"
+        },
+        {
+            "id": "char_4072_ironmn_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Squad 11 of Self-Salvation Corp, joining up with Rhodes Island.",
+                "jp": "自救軍第十一隊、これよりロドスと共に行動する。",
+                "kr": "자경단 제11소대, 로도스 아일랜드와 함께 행동하겠어.",
+                "cn": "自救军十一队，将与罗德岛一起行动。"
+            },
+            "asset": "char_4072_ironmn/CN_017"
+        },
+        {
+            "id": "char_4072_ironmn_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "I'm a little nervous. Still, pressure's a good motivator, right?",
+                "jp": "確かにちょっと緊張してるけどさ、プレッシャーもモチベになるじゃん？",
+                "kr": "조금 긴장되긴 하지만, 이런 압박감이 원동력이 될 수도 있는 거잖아?",
+                "cn": "我是有点紧张，不过压力也是动力，对吧？"
+            },
+            "asset": "char_4072_ironmn/CN_018"
+        },
+        {
+            "id": "char_4072_ironmn_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Remember, everyone! Not one fewer when we come back!",
+                "jp": "みんな覚えといてくれ、全員揃って帰ってくるぞ！",
+                "kr": "다들 명심해, 한 명도 빠짐없이 모두 무사히 돌아가는 거다!",
+                "cn": "大家记住，回来的时候，一个都不能少！"
+            },
+            "asset": "char_4072_ironmn/CN_019"
+        },
+        {
+            "id": "char_4072_ironmn_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Hello, everyone over there, you can breathe easy. What's the line? 'I'm just your average mechanic.'",
+                "jp": "そちらのみなさーん、そんな警戒しないでくれよ。あれなんて言うんだっけ、「俺はただのへーぼんなエンジニアだからさ。」",
+                "kr": "그쪽에 있는 모두~ 너무 그렇게 경계하진 말아 줘~ 나는…… 그…… 뭐였지…… “나는 그냥 평범한 엔지니어일 뿐이야~”",
+                "cn": "对面的各位，别那么警惕。该怎么说来着？“我只是一个平平无奇的工匠。”"
+            },
+            "asset": "char_4072_ironmn/CN_020"
+        },
+        {
+            "id": "char_4072_ironmn_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "About time for us to shine?",
+                "jp": "そろそろ俺たちの出番？",
+                "kr": "우리가 나설 차례야?",
+                "cn": "是不是该轮到我们登场了？"
+            },
+            "asset": "char_4072_ironmn/CN_021"
+        },
+        {
+            "id": "char_4072_ironmn_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "I'll bring you back victory.",
+                "jp": "勝利を持って帰ってやるよ。",
+                "kr": "널 위해 승리를 가져올게.",
+                "cn": "我会为你带回胜利。"
+            },
+            "asset": "char_4072_ironmn/CN_022"
+        },
+        {
+            "id": "char_4072_ironmn_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Picked a good place for me.",
+                "jp": "いいとこ選んでくれたじゃねーか。",
+                "kr": "좋은 위치로 잡았네.",
+                "cn": "替我选了个好位置嘛。"
+            },
+            "asset": "char_4072_ironmn/CN_023"
+        },
+        {
+            "id": "char_4072_ironmn_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Down to work!",
+                "jp": "仕事始まるぞー！",
+                "kr": "일해보자고~!",
+                "cn": "开工开工！"
+            },
+            "asset": "char_4072_ironmn/CN_024"
+        },
+        {
+            "id": "char_4072_ironmn_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Swing your hammers!",
+                "jp": "ハンマー一発！",
+                "kr": "망치 휘두르기!",
+                "cn": "挥动铁锤！"
+            },
+            "asset": "char_4072_ironmn/CN_025"
+        },
+        {
+            "id": "char_4072_ironmn_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Hold the barricades!",
+                "jp": "戦線維持！",
+                "kr": "전선 유지!",
+                "cn": "守住街垒！"
+            },
+            "asset": "char_4072_ironmn/CN_026"
+        },
+        {
+            "id": "char_4072_ironmn_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Drill through darkness!",
+                "jp": "未来をこじ開けろ！",
+                "kr": "어둠을 헤치자!",
+                "cn": "钻开黑夜！"
+            },
+            "asset": "char_4072_ironmn/CN_027"
+        },
+        {
+            "id": "char_4072_ironmn_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Fight for Londinium! Victory to Londiniers!",
+                "jp": "勝利は全てのロンディニウム人のものだ！",
+                "kr": "승리는 전부 런디니움인의 것이다!",
+                "cn": "胜利归于每一个伦蒂尼姆人！"
+            },
+            "asset": "char_4072_ironmn/CN_028"
+        },
+        {
+            "id": "char_4072_ironmn_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "We'll come together, we'll fight all the way, for this city we stand on, until we fall.",
+                "jp": "目の前の街のためなら、俺たちは団結し戦い続ける――この身が倒れるまで！",
+                "kr": "이 도시를 지키기 위해서라면, 설령 쓰러진다 할지라도 우리는 단결해서 계속 싸울 거야.",
+                "cn": "为了脚下这座城市，我们会团结在一起，一路奋战，直至倒下。"
+            },
+            "asset": "char_4072_ironmn/CN_029"
+        },
+        {
+            "id": "char_4072_ironmn_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Doctor, with you for company all the time, I start imagining I fight even better than the mercs. Don't you let me get too cocky. If Granny and Rockrock saw, they'd be knocking on my head with spanners.",
+                "jp": "ドクター、あんたとずっとつるんでるから、俺傭兵よりも強いんじゃねって勘違いしそうだわ。あんま俺に調子乗らせないで、ばあちゃんやロックロックにでも見られたら、レンチで頭ぶん殴られそうだから。",
+                "kr": "박사랑 계속 같이 있다 보니까, 내가 용병들보다 더 잘 싸운다는 착각이 들어. 날 너무 띄워주진 마, 이런 모습을 할머니랑 락락이 봤다면 분명 렌치로 내 머리를 후려쳤을 거야.",
+                "cn": "博士，老跟你在一块儿，我都快产生自己比雇佣兵还能打的错觉了。你可别让我太骄傲，要是奶奶和洛洛看见了，会拿扳手敲我脑袋的。"
+            },
+            "asset": "char_4072_ironmn/CN_030"
+        },
+        {
+            "id": "char_4072_ironmn_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Hah... haha, made it through another battle. Hard as nails, though. Don't look so glum, Doctor. I know it's back to the Commander for a tactical meeting, but how about a bite to eat before then?",
+                "jp": "ふぅ……はは、なんとかなったなぁ、また一戦生き残った。ドクター、深刻そうな顔してんなよ、戻って指揮官と戦術会議をする前に旨いもんでも食いに行こうぜ？",
+                "kr": "휴우…… 하하, 정말 쉽지 않은 싸움이었어. 이번에도 어떻게든 버텨 냈으니까, 너무 그렇게 심각한 표정 짓지 마, 박사. 돌아가서 지휘관이랑 전술 회의를 하기 전에, 우선 맛있는 거라도 먹으러 갈까?",
+                "cn": "哈......哈哈，真不容易，这一仗又挺过去了。博士，别沉着脸了，回去找指挥官开战术会议之前，我们先去吃顿好的？"
+            },
+            "asset": "char_4072_ironmn/CN_031"
+        },
+        {
+            "id": "char_4072_ironmn_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Time to scram, Doctor. The zipline's ready. Give me your hand! It's only a win once you survive.",
+                "jp": "逃げるぞドクター、手貸して！ジップラインの用意はできてる！生きるこそ勝ちだ！",
+                "kr": "도망치자, 박사! 집라인은 준비됐으니까 어서 내 손을 잡아! 살아남는 게 진정한 승리야!",
+                "cn": "该跑了，博士——我绑好滑索了，把手给我！只有活下去才是胜利。"
+            },
+            "asset": "char_4072_ironmn/CN_032"
+        },
+        {
+            "id": "char_4072_ironmn_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "So it wasn't Victoria with the best construction technology.",
+                "jp": "ヴィクトリアの建造技術って最先端じゃなかったんだなぁ。",
+                "kr": "빅토리아의 건축 기술도 최첨단은 아니었구나.",
+                "cn": "原来维多利亚的建造技术并不是最顶尖的啊。"
+            },
+            "asset": "char_4072_ironmn/CN_033"
+        },
+        {
+            "id": "char_4072_ironmn_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Watch it! Drill didn't hurt you, did it?",
+                "jp": "気をつけろ！ドリルで怪我してないよな？",
+                "kr": "조심해! 드릴 때문에 다치진 않았지?",
+                "cn": "小心！钻头没碰伤你吧？"
+            },
+            "asset": "char_4072_ironmn/CN_034"
+        },
+        {
+            "id": "char_4072_ironmn_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Doctor, you always show up where I wasn't looking. I bet Rhodes Island has secret passages too, doesn't it?",
+                "jp": "ドクター、あんたいっつも神出鬼没なんだよな。ロドスにも隠し通路とかあんの？",
+                "kr": "박사는 항상 갑자기 튀어나오는데, 혹시 로도스 아일랜드에 비밀 통로라도 있는 거야?",
+                "cn": "博士，你总是从我看不见的地方冒出来。罗德岛上是不是也有什么秘密通道？"
+            },
+            "asset": "char_4072_ironmn/CN_036"
+        },
+        {
+            "id": "char_4072_ironmn_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4072_ironmn/CN_037"
+        },
+        {
+            "id": "char_4072_ironmn_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Doctor, I'm just back from patrol. Safe as houses all around! You can break for a bit longer. The tenser the state of things, the more you need a proper stretch now and then.",
+                "jp": "ドクター、今巡回から戻ってきたんだけど、この辺は安全だからもうちょっと休んでもヘーキだよ。どんなに緊迫した状況でも、適度にリラックスすんのが大事だからさ。",
+                "kr": "박사, 순찰 마치고 돌아왔어. 이 주변은 안전하니까 더 쉬어도 돼. 아무리 긴박한 상황이라도 적당한 휴식은 필요한 법이잖아.",
+                "cn": "博士，我刚巡逻回来，附近很安全，你可以多休息一会。局势越是紧张，适度的放松就越有必要。"
+            },
+            "asset": "char_4072_ironmn/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Jack Ayres",
+            "global": "Jack Ayres"
+        },
+        "cn": {
+            "native": "黄进泽",
+            "global": "Jinze Huang"
+        },
+        "jp": {
+            "native": "寺島拓篤",
+            "global": "Takuma Terashima"
+        },
+        "kr": {
+            "native": "박성태",
+            "global": "Park Sung-tae"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

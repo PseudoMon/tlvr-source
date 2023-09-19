@@ -1,0 +1,595 @@
+{
+    "charid": "char_108_silent",
+    "nameid": "silent",
+    "names": {
+        "en": "Silence",
+        "jp": "サイレンス",
+        "kr": "사일런스",
+        "cn": "赫默"
+    },
+    "voices": [
+        {
+            "id": "char_108_silent_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Doctor, these are your tasks for the day. Yeah. A whole pile of work. Let's get to it.",
+                "jp": "ドクター、これが今日の仕事――そう、山のようにあるから、一緒に頑張ろう。",
+                "kr": "박사, 이게 오늘 할 업무야…… 그래, 산처럼 쌓여 있으니까, 함께 힘내 보자.",
+                "cn": "博士，这些是今天的工作——是啊，堆积如山呢，一起加油吧。"
+            },
+            "asset": "char_108_silent/CN_001"
+        },
+        {
+            "id": "char_108_silent_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Is Ifrit making trouble again? Sorry. I'll discipline her later.",
+                "jp": "イフリータがまた暴れてる？ごめん、あとで叱っておくから。",
+                "kr": "이프리트가 또 소란을 피웠다고? 미안, 나중에 혼낼게.",
+                "cn": "伊芙利特又在闹了吗？抱歉，之后我会责备她的。"
+            },
+            "asset": "char_108_silent/CN_002"
+        },
+        {
+            "id": "char_108_silent_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Zzzzz… Sorry, I was taking a nap… I'm still not used to working during the day.",
+                "jp": "Zzzzz……ん？す、少し眠たかっただけ……。やっぱり昼間の仕事には慣れない。",
+                "kr": "쿠울…… 어? 자, 잠깐 졸았을 뿐이야…… 역시 낮에 일하는 건 익숙지 않네.",
+                "cn": "Zzzzz......嗯？呃，我只是想小睡一下......果然还是不太适应在白天工作。"
+            },
+            "asset": "char_108_silent/CN_003"
+        },
+        {
+            "id": "char_108_silent_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "My reasons for quitting Rhine Lab? So much happened since I signed on, I don't even know where to start…",
+                "jp": "ライン生命を離れた理由？いろいろあったから、何から話せば……。",
+                "kr": "라인 랩을 떠난 이유? 너무 많은 일들이 있어서 어느 것부터 이야기해야 할지……",
+                "cn": "离开莱茵生命的理由？因为发生过很多事，我也不知道该从什么时候说起......"
+            },
+            "asset": "char_108_silent/CN_004"
+        },
+        {
+            "id": "char_108_silent_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Have you ever heard of a woman named Saria? Like me, she was once a scientist at Rhine Lab, and she was one of the people responsible for the creation of Ifrit…",
+                "jp": "サリアって名前、聞いたことある？彼女は、私と同じ元ライン生命の科学者で――そして、私と一緒に、イフリータを生み出した人物……。",
+                "kr": "사리아라는 이름 들어본 적 있어? 나랑 마찬가지로 라인 랩 과학자 출신이야…… 그리고, 나와 함께 이프리트를 탄생시킨 사람이지……",
+                "cn": "塞雷娅这个名字,您听过吗？她以前和我一样，也是莱茵生命的科学家——然后，她也是让伊芙利特诞生的人之一......"
+            },
+            "asset": "char_108_silent/CN_005"
+        },
+        {
+            "id": "char_108_silent_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Our biology research at Rhine Lab went so far as to implant Originium Shards into living bodies… Sorry, we'd better change the subject.",
+                "jp": "ライン生命で行っていた生命に関する研究は……源石の断片を人体に移植することすら……ごめん、この話はやめよう。",
+                "kr": "라인 랩에서 진행했던 생명에 대한 연구는…… 오리지늄의 파편을 인체에 이식하는 정도까지…… 미안, 이 이야기는 그만하자.",
+                "cn": "莱茵生命所做的有关生命的研究，已经到了尝试将源石碎片植入身体的地步......对不起，我们还是换个话题吧。"
+            },
+            "asset": "char_108_silent/CN_006"
+        },
+        {
+            "id": "char_108_silent_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Saria? You mean she's here at Rhodes Island too? Is she here for Ifrit…? After she walked out on us like that, why would she come here right now…?!",
+                "jp": "サリア？彼女がロドスに？イフリータに会いに来たのかな……あの時は振り返りもせず出て行ったのに、どうして……。",
+                "kr": "사리아? 사리아가 로도스 아일랜드에 왔다고? 이프리트를 만나러 온 걸까…… 그때는 뒤도 돌아보지 않고 떠나가 놓고선, 대체 왜……",
+                "cn": "塞雷娅？您说她在罗德岛？是来找伊芙利特吗......那时候她明明头也不回地就离开了，为什么现在还要......！"
+            },
+            "asset": "char_108_silent/CN_007"
+        },
+        {
+            "id": "char_108_silent_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "I will not allow Ifrit to see Saria. Please trust me, this is for Ifrit's own good…!",
+                "jp": "イフリータは、サリアに会わせない。それがイフリータのためだから。私を信じて……！",
+                "kr": "사리아가 이프리트를 만나게 하진 않을 거야. 그게 이프리트에게도 도움이 될 테니까. 날 믿어줘……!",
+                "cn": "我不会让伊芙利特见塞雷娅的。也请您相信，我这样做，是对伊芙利特好......！"
+            },
+            "asset": "char_108_silent/CN_008"
+        },
+        {
+            "id": "char_108_silent_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Are you trying to cure Oripathy too? I heard that you were involved in the development of medical technology at Rhodes Island. Heheh… you must be looking forward to a breakthrough, as a researcher yourself.",
+                "jp": "私と同じように、あなたも鉱石病をなくそうとしているのでしょう？ロドスの治療技術もあなたが発展させたと聞いた。ふふ、私たち研究者にとって、あなたは憧れの存在かもしれないね。",
+                "kr": "나와 마찬가지로 당신도 광석병을 없애려는 거지? 로도스 아일랜드의 치료 기술도 당신이 발전시킨 거라 들었어. 후후, 우리 같은 연구자들에게 당신은 선망의 대상일지도 모르겠네.",
+                "cn": "和我一样，您也在试图清除矿石病吗？听说罗德岛的医疗技术开发也与您有关。呵呵，对我们这些研究者来说，这真是让人憧憬呢。"
+            },
+            "asset": "char_108_silent/CN_009"
+        },
+        {
+            "id": "char_108_silent_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "…Asleep already? All right. I'll handle the rest of the work.",
+                "jp": "……ドクター、寝てるの？まぁいい。残った仕事、片付けといてあげようか。",
+                "kr": "……박사, 자는 거야? 뭐, 그럼 남은 업무나 좀 정리해 줘야겠네.",
+                "cn": "......博士，睡着了吗？算了，剩下的工作我来做吧。"
+            },
+            "asset": "char_108_silent/CN_010"
+        },
+        {
+            "id": "char_108_silent_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "I am Olivia Silence, an Originium scientist from the Rhine Lab Medical Research Institute. My hope is to rid the world of Oripathy… even if it means risking my life in the process.",
+                "jp": "オリヴィア・サイレンス。元ライン生命医科学研究所の源石研究者。この世から全ての鉱石病を根絶するのが、私の望み。たとえ命の危険にさらされようと、その考えは変わらない……。",
+                "kr": "올리비아 사일런스. 라인 생명연구소의 오리지늄 연구자야. 이 세상에서 광석병을 근절시키는 게 내 소망이고. 설령 목숨이 위험해지더라도 내 뜻에 변함은 없어……",
+                "cn": "奥利维亚·赫默，莱茵生命医学研究所的源石研究者。清除这个世界上所有的矿石病，这是我的愿望，即使为此面临生命危险也不会改变。"
+            },
+            "asset": "char_108_silent/CN_011"
+        },
+        {
+            "id": "char_108_silent_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "I will make good use of this new power.",
+                "jp": "新しい力、ちゃんと使いこなすから。",
+                "kr": "새로운 힘, 잘 사용할게.",
+                "cn": "我会好好运用这份新的力量。"
+            },
+            "asset": "char_108_silent/CN_012"
+        },
+        {
+            "id": "char_108_silent_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Is my medicine effective? Wonderful. This news brings me even greater joy than my promotion.",
+                "jp": "私の開発した薬がよく効いてる？よかった……昇進なんかより、この知らせのほうが嬉しい。",
+                "kr": "내가 개발한 약이 잘 듣는다고? 다행이다…… 승진보다 그 말 한마디가 더 기뻐.",
+                "cn": "我开发的药物非常有效吗？太好了，比起晋升，这个消息更让我高兴。"
+            },
+            "asset": "char_108_silent/CN_013"
+        },
+        {
+            "id": "char_108_silent_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Doctor, I am looking forward to the day when the world is finally cured of Oripathy. In fighting and studying with you, I think that day may not be far off.",
+                "jp": "ドクター、私が望んでいる未来……それは、この世から鉱石病をなくすその日まで、あなたと一緒に戦い、研究を続けていくこと……。そんな未来に、もしかしたら本当に手が届くかもしれない……。",
+                "kr": "박사, 난 이 대지에서 광석병이 사라지는 그날을…… 손꼽아 기다리고 있어…… 당신과 함께 싸우고, 연구를 계속해 나가다 보면, 어쩌면, 진짜로 그런 미래에 도달할 수 있을 것 같아……",
+                "cn": "博士，我等待着，等待着从这片大地上彻底清除矿石病的那天，与您并肩作战，共同研究，这一天，也许终会到来......"
+            },
+            "asset": "char_108_silent/CN_014"
+        },
+        {
+            "id": "char_108_silent_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Understood. I'll focus on support.",
+                "jp": "わかった。しっかり援護するから。",
+                "kr": "알겠어, 제대로 지원할게.",
+                "cn": "明白，我会做好支援工作。"
+            },
+            "asset": "char_108_silent/CN_017"
+        },
+        {
+            "id": "char_108_silent_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Come on, team, let's fight with all our might.",
+                "jp": "チーム全員に、全力で戦わせる。",
+                "kr": "팀원 모두, 온 힘을 다해 싸우도록.",
+                "cn": "队员们，全力以赴地战斗吧。"
+            },
+            "asset": "char_108_silent/CN_018"
+        },
+        {
+            "id": "char_108_silent_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Originium… Are you to blame for this battle?",
+                "jp": "この戦いも、源石のせいなの……。",
+                "kr": "이 전투도 오리지늄 때문일까……",
+                "cn": "这场战斗，也是源石的错吗？"
+            },
+            "asset": "char_108_silent/CN_019"
+        },
+        {
+            "id": "char_108_silent_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Observe and determine the form of Infection. Such data will be useful for research.",
+                "jp": "彼らを観察して感染タイプを特定しよう。きっと実験の役に立つから。",
+                "kr": "저들을 관찰해서 감염 타입을 특정해 보자. 분명 실험에 도움이 될 거야.",
+                "cn": "观察并确定他们的感染类型，这对实验很有用。"
+            },
+            "asset": "char_108_silent/CN_020"
+        },
+        {
+            "id": "char_108_silent_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Doctor, let me do it.",
+                "jp": "ドクター、私が行くから。",
+                "kr": "박사, 내가 가겠어.",
+                "cn": "博士，让我去吧。"
+            },
+            "asset": "char_108_silent/CN_021"
+        },
+        {
+            "id": "char_108_silent_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "No abnormality detected.",
+                "jp": "状況、異常なし。",
+                "kr": "상황, 이상 없음.",
+                "cn": "没有异常。"
+            },
+            "asset": "char_108_silent/CN_022"
+        },
+        {
+            "id": "char_108_silent_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Concentrate.",
+                "jp": "集中。",
+                "kr": "집중.",
+                "cn": "集中精力。"
+            },
+            "asset": "char_108_silent/CN_023"
+        },
+        {
+            "id": "char_108_silent_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Stay calm.",
+                "jp": "冷静に。",
+                "kr": "냉정하게.",
+                "cn": "保持冷静。"
+            },
+            "asset": "char_108_silent/CN_024"
+        },
+        {
+            "id": "char_108_silent_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "I'll heal you.",
+                "jp": "ちゃんと治すから。",
+                "kr": "제대로 치료해 줄게.",
+                "cn": "我会治好你的。"
+            },
+            "asset": "char_108_silent/CN_025"
+        },
+        {
+            "id": "char_108_silent_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "No need to panic.",
+                "jp": "慌てないで。",
+                "kr": "당황하지 마.",
+                "cn": "别慌张。"
+            },
+            "asset": "char_108_silent/CN_026"
+        },
+        {
+            "id": "char_108_silent_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Deploying.",
+                "jp": "行って。",
+                "kr": "가.",
+                "cn": "去吧。"
+            },
+            "asset": "char_108_silent/CN_027"
+        },
+        {
+            "id": "char_108_silent_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Support incoming.",
+                "jp": "みんなを助ける。",
+                "kr": "모두를 구하겠어.",
+                "cn": "帮助大家。"
+            },
+            "asset": "char_108_silent/CN_028"
+        },
+        {
+            "id": "char_108_silent_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "In order to defeat stronger enemies, must we make further use of Originium's power…?",
+                "jp": "今回以上の強敵を倒すには、源石をもっと利用する必要が……ある？",
+                "kr": "이보다 더 강한 적을 쓰러뜨리기 위해선, 오리지늄의 힘을 더 많이 써야…… 할까?",
+                "cn": "为了战胜比现在更强的敌人，我们难道也要更多利用源石的力量......吗？"
+            },
+            "asset": "char_108_silent/CN_029"
+        },
+        {
+            "id": "char_108_silent_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Medical team, please take tissue samples from the Infected, we need to see the composition of the Infection in this area.",
+                "jp": "医療班は現地にて感染者の組織採取を行い、当エリアの感染サンプルとしてください。",
+                "kr": "의료부는 현장에서 감염자의 조직을 채취하여, 해당 구역의 감염 샘플을 확보하세요.",
+                "cn": "医疗组请马上进行组织采取，这将成为此地区的感染样本。"
+            },
+            "asset": "char_108_silent/CN_030"
+        },
+        {
+            "id": "char_108_silent_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "All wounded personnel, please remain calm. The medical team will get to you.",
+                "jp": "負傷者は落ち着いて。すぐ医療班が治療に向かうから。",
+                "kr": "부상자들은 침착하도록, 곧 의료부가 치료하러 갈 테니까.",
+                "cn": "请伤者冷静下来，医疗组会为各位进行治疗。"
+            },
+            "asset": "char_108_silent/CN_031"
+        },
+        {
+            "id": "char_108_silent_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "…Now is not the time for despair. We must withdraw immediately.",
+                "jp": "……落ち込んでる場合じゃない。早く撤退しなきゃ。",
+                "kr": "……낙담할 때가 아니야. 빨리 퇴각해야 해.",
+                "cn": "......现在不是沮丧的时候，我们必须立刻撤退。"
+            },
+            "asset": "char_108_silent/CN_032"
+        },
+        {
+            "id": "char_108_silent_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "This room… Ugh… It's like it's designed to make me sleepy!",
+                "jp": "この部屋……まずい、人を眠りに誘うデザインだ！",
+                "kr": "이 방…… 위험해, 사람을 졸리게 하는 디자인이야!",
+                "cn": "这个房间......糟糕，是那种会让人产生睡意的设计风格！"
+            },
+            "asset": "char_108_silent/CN_033"
+        },
+        {
+            "id": "char_108_silent_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Hmm?",
+                "jp": "ん？",
+                "kr": "응?",
+                "cn": "嗯？"
+            },
+            "asset": "char_108_silent/CN_034"
+        },
+        {
+            "id": "char_108_silent_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Doctor, you're kinder these days.",
+                "jp": "ドクター、最近もっと優しくなった気がする……。",
+                "kr": "박사, 요즘 들어 더 상냥해진 것 같네…",
+                "cn": "博士，您最近变得更温柔了呢。"
+            },
+            "asset": "char_108_silent/CN_036"
+        },
+        {
+            "id": "char_108_silent_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_108_silent/CN_037"
+        },
+        {
+            "id": "char_108_silent_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Good day, Doctor.",
+                "jp": "おはよう、ドクター。",
+                "kr": "좋은 아침이야, 박사.",
+                "cn": "您好，博士。"
+            },
+            "asset": "char_108_silent/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Erica Lindbeck",
+            "global": "Erica Lindbeck"
+        },
+        "cn": {
+            "native": "梁爽",
+            "global": "Shuang Liang"
+        },
+        "jp": {
+            "native": "鬼頭明里",
+            "global": "Akari Kito"
+        },
+        "kr": {
+            "native": "서다혜",
+            "global": "Seo Dahye"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp"
+    ]
+}

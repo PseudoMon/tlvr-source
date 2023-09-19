@@ -1,0 +1,243 @@
+{
+    "charid": "char_513_apionr",
+    "nameid": "apionr",
+    "names": {
+        "en": "Tulip",
+        "jp": "チューリップ",
+        "kr": "튤립",
+        "cn": "郁金香"
+    },
+    "voices": [
+        {
+            "id": "char_513_apionr_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Give your orders. I will work with them the best I can.",
+                "jp": "命令をくれ。極力合わせよう。",
+                "kr": "명령을 내려줘, 최대한 맞춰 보도록 하지.",
+                "cn": "下令吧，我尽量配合。"
+            },
+            "asset": "char_513_apionr/CN_017"
+        },
+        {
+            "id": "char_513_apionr_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "I have nothing to say. But remember this one word: survive.",
+                "jp": "特に言うことはない。皆生き残ればそれでいい。",
+                "kr": "특별히 할 말은 없고, 살아남아 준다면 그걸로 됐어.",
+                "cn": "我没什么要说的，活下来就好。"
+            },
+            "asset": "char_513_apionr/CN_018"
+        },
+        {
+            "id": "char_513_apionr_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Watch your surroundings. Do not get ambushed.",
+                "jp": "周囲に気を配れ。襲撃を許すな。",
+                "kr": "주위에 신경을 써, 기습을 허용해선 안 돼.",
+                "cn": "小心周围，别被偷袭了。"
+            },
+            "asset": "char_513_apionr/CN_019"
+        },
+        {
+            "id": "char_513_apionr_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Welcome. Now, please leave.",
+                "jp": "おいでなすったね。どうかお帰り願おうか。",
+                "kr": "어서 와, 그리고 이제 돌아가.",
+                "cn": "欢迎你们，请回吧。"
+            },
+            "asset": "char_513_apionr/CN_020"
+        },
+        {
+            "id": "char_513_apionr_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Ran into trouble?",
+                "jp": "面倒事か？",
+                "kr": "무슨 문제라도 생겼나?",
+                "cn": "遇上麻烦了？"
+            },
+            "asset": "char_513_apionr/CN_021"
+        },
+        {
+            "id": "char_513_apionr_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "You need a hand?",
+                "jp": "助力は必要かな？",
+                "kr": "도움이 필요한가?",
+                "cn": "需要搭把手么？"
+            },
+            "asset": "char_513_apionr/CN_022"
+        },
+        {
+            "id": "char_513_apionr_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Phew…Ahora…",
+                "jp": "ふぅ……さて。",
+                "kr": "후우…… 다음은……",
+                "cn": "呼——接下来......"
+            },
+            "asset": "char_513_apionr/CN_023"
+        },
+        {
+            "id": "char_513_apionr_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "This will be a disappointing day for our foes.",
+                "jp": "向こうの連中には、がっかりしてもらうことになるだろうね。",
+                "kr": "저쪽 사람들에겐 실망스러운 하루가 될지도 모르겠네.",
+                "cn": "我想对面的各位今天要扫兴而归了。"
+            },
+            "asset": "char_513_apionr/CN_024"
+        },
+        {
+            "id": "char_513_apionr_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Don't blink.",
+                "jp": "刮目しろ。",
+                "kr": "눈에 잘 새겨 넣도록",
+                "cn": "别眨眼。"
+            },
+            "asset": "char_513_apionr/CN_025"
+        },
+        {
+            "id": "char_513_apionr_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Death? You've never lived.",
+                "jp": "生きてすらいない身に、死など訪れない。",
+                "kr": "살아 있지도 않은 몸에 죽음은 찾아오지 않는다.",
+                "cn": "你未曾活过，自然也谈不上死亡。"
+            },
+            "asset": "char_513_apionr/CN_026"
+        },
+        {
+            "id": "char_513_apionr_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Pay for your sins with your life.",
+                "jp": "命をもって罪を償え。",
+                "kr": "네 목숨으로 죗값을 치러라.",
+                "cn": "请以生命偿还罪孽。"
+            },
+            "asset": "char_513_apionr/CN_027"
+        },
+        {
+            "id": "char_513_apionr_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Hear the voice of justice.",
+                "jp": "正義の声を聞け。",
+                "kr": "정의의 소리를 들어라.",
+                "cn": "倾听正义之声。"
+            },
+            "asset": "char_513_apionr/CN_028"
+        },
+        {
+            "id": "char_513_apionr_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Finally, I can leave the commanding to others...",
+                "jp": "ようやく指揮の仕事を手放せそうだね……",
+                "kr": "이제야 지휘 역할을 다른 사람에게 넘길 수 있을 것 같네……",
+                "cn": "终于能把指挥工作丢给其他人干了......"
+            },
+            "asset": "char_513_apionr/CN_030"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Melissa Medina",
+            "global": "Melissa Medina"
+        },
+        "cn": {
+            "native": "若舞",
+            "global": "Luttefair"
+        },
+        "jp": {
+            "native": "飯田友子",
+            "global": "YUKO IIDA"
+        },
+        "kr": {
+            "native": "김채린",
+            "global": "Kim Chae-rin"
+        }
+    },
+    "availability": [
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

@@ -1,0 +1,243 @@
+{
+    "charid": "char_510_amedic",
+    "nameid": "amedic",
+    "names": {
+        "en": "Touch",
+        "jp": "Touch",
+        "kr": "Touch",
+        "cn": "Touch"
+    },
+    "voices": [
+        {
+            "id": "char_510_amedic_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Stand by for action.",
+                "jp": "準備完了、指示を仰ぎます。",
+                "kr": "정비 완료, 명령을 기다리고 있습니다.",
+                "cn": "整备完毕，等待指令。"
+            },
+            "asset": "char_510_amedic/CN_017"
+        },
+        {
+            "id": "char_510_amedic_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Orders received. Initiating field command.",
+                "jp": "委任指令確認。直ちに戦場での指揮権を行使します。",
+                "kr": "위임 명령 확인, 이제부터 현장 지휘권을 행사하겠습니다.",
+                "cn": "已收到委任口令，开始行使战地指挥权。"
+            },
+            "asset": "char_510_amedic/CN_018"
+        },
+        {
+            "id": "char_510_amedic_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Dispatching.",
+                "jp": "出発。",
+                "kr": "출발하죠.",
+                "cn": "出发。"
+            },
+            "asset": "char_510_amedic/CN_019"
+        },
+        {
+            "id": "char_510_amedic_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Engaging.",
+                "jp": "敵を確認、行動開始。",
+                "kr": "적 발견, 움직이겠습니다.",
+                "cn": "已接敌，开始行动。"
+            },
+            "asset": "char_510_amedic/CN_020"
+        },
+        {
+            "id": "char_510_amedic_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Roger.",
+                "jp": "はい。",
+                "kr": "네.",
+                "cn": "嗯。"
+            },
+            "asset": "char_510_amedic/CN_021"
+        },
+        {
+            "id": "char_510_amedic_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "At your command.",
+                "jp": "いつでもどうぞ。",
+                "kr": "대기 중입니다.",
+                "cn": "随时响应。"
+            },
+            "asset": "char_510_amedic/CN_022"
+        },
+        {
+            "id": "char_510_amedic_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Originium Arts ready.",
+                "jp": "アーツ使用準備完了。",
+                "kr": "오리지늄 아츠 준비 완료.",
+                "cn": "源石技艺已就绪。"
+            },
+            "asset": "char_510_amedic/CN_023"
+        },
+        {
+            "id": "char_510_amedic_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Initiating medical treatment.",
+                "jp": "医療任務、開始します。",
+                "kr": "의료 임무를 개시합시다.",
+                "cn": "开始医疗任务。"
+            },
+            "asset": "char_510_amedic/CN_024"
+        },
+        {
+            "id": "char_510_amedic_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Relight the spark of life.",
+                "jp": "静かなる命は、蘇るべきなのです。",
+                "kr": "고요한 생명은 마땅히 소생시켜 주어야만 하죠.",
+                "cn": "沉寂的生命理当复苏。"
+            },
+            "asset": "char_510_amedic/CN_025"
+        },
+        {
+            "id": "char_510_amedic_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "War is a plague, and I'm the cure.",
+                "jp": "戦争がもたらす傷病は、私が拭い去ります。",
+                "kr": "전쟁은 부상과 질병을 선사하고, 제 역할은 그걸 없애는 겁니다.",
+                "cn": "战争降下伤病，我负责将之抹去。"
+            },
+            "asset": "char_510_amedic/CN_026"
+        },
+        {
+            "id": "char_510_amedic_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "We make our own luck.",
+                "jp": "成否は人の手に。",
+                "kr": "모든 건 사람 하기 나름입니다.",
+                "cn": "事在人为。"
+            },
+            "asset": "char_510_amedic/CN_027"
+        },
+        {
+            "id": "char_510_amedic_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "No more suffering, no more pain.",
+                "jp": "苦しみはここまでです。",
+                "kr": "고난은 여기서 끝입니다.",
+                "cn": "苦难就此结束。"
+            },
+            "asset": "char_510_amedic/CN_028"
+        },
+        {
+            "id": "char_510_amedic_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Your commands were my thoughts as well, Doctor.",
+                "jp": "指揮の細部に至るまで、特に申し立てはありません。",
+                "kr": "당신의 지휘에 이견은 없습니다.",
+                "cn": "我对你的指挥细节没有异议。"
+            },
+            "asset": "char_510_amedic/CN_030"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Elsie Bennett",
+            "global": "Elsie Bennett"
+        },
+        "cn": {
+            "native": "特薇佐",
+            "global": "Tweezle"
+        },
+        "jp": {
+            "native": "柚木涼香",
+            "global": "Ryoka Yuzuki "
+        },
+        "kr": {
+            "native": "박이서",
+            "global": "Park Yi-seo"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp"
+    ]
+}

@@ -1,0 +1,596 @@
+{
+    "charid": "char_141_nights",
+    "nameid": "nights",
+    "names": {
+        "en": "Haze",
+        "jp": "ヘイズ",
+        "kr": "헤이즈",
+        "cn": "夜烟"
+    },
+    "voices": [
+        {
+            "id": "char_141_nights_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Didn't notice me behind you, eh? It's only natural. I'm a cat. We're known for being silent prowlers!",
+                "jp": "後ろにいたのに気がつかなかった？そりゃー、あたしネコだもん。足音なんてするはずないでしょ？",
+                "kr": "뒤에 있었는데 눈치 못 챘다고? 그거야 내가 고양이니까 그렇지. 발소리 같은 걸 낼 리 없잖아?",
+                "cn": "没发现我在你身后？那当然啊～我可是猫，怎么会有脚步声呢？"
+            },
+            "asset": "char_141_nights/CN_001"
+        },
+        {
+            "id": "char_141_nights_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Hey, don't touch my hat... it's crazy, you know! If it feeds you too many secrets, Doctor, you'll be in trouble.",
+                "jp": "この帽子、あんまり触らないでね？だってこの子、イカれてるからねぇ。いろいろ知っちゃったら、ドクターのほうが危ないよぉ？",
+                "kr": "이 모자, 너무 만지면 안 된다? 왜냐면 이 아이, 이미 정상이 아니거든. 괜히 이것저것 알려고 했다간, 박사가 위험해질걸?",
+                "cn": "我的帽子，你可别乱动~它已经疯掉了，要是不小心说出太多秘密给你听到，那对博士可是没好处的哦~"
+            },
+            "asset": "char_141_nights/CN_002"
+        },
+        {
+            "id": "char_141_nights_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "So rare to see a pharma take in runaway kitties from a jail. Did you all want a peek at my maps? Or,  was it some advice on prison breaks?",
+                "jp": "ロドスは脱獄犯まで仲間にしちゃうの？あたしの持ってる地図が見たかったの？それとも脱獄方法に興味があるのかなぁ？",
+                "kr": "로도스 아일랜드는 탈옥범도 동료로 삼아주나 봐? 내가 갖고 있는 지도가 보고 싶었던 거야? 아니면 탈옥 방법이 궁금한 거야?",
+                "cn": "没想到罗德岛连越狱犯都敢接收？是想看看我身上的地图吗？还是想了解了解越狱的办法？"
+            },
+            "asset": "char_141_nights/CN_003"
+        },
+        {
+            "id": "char_141_nights_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "We thieves have our own principles and standards too... perhaps. Who can say?",
+                "jp": "「盗亦有道」、盗人にも自分なりのルールがある――そうかもしれないねぇ。",
+                "kr": "…'도역유도'…… 도둑도 자신들만의 규칙이 있다…… 그럴지도 모르지.",
+                "cn": "“盗亦有道”——窃贼也有自己的规则哦，说不定是这样的吧~"
+            },
+            "asset": "char_141_nights/CN_004"
+        },
+        {
+            "id": "char_141_nights_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Meow, meow, meow... Meow? Never you mind, I'm just talking to myself.",
+                "jp": "やがて黒霧はすべての牢獄を打ち破り、無数の厄災を解き放つ……うにゃ？気にしなくていいよぉ、独り言だもん。",
+                "kr": "냥? 신경 쓰지 마, 혼잣말이니까.",
+                "cn": "呜喵？不用在意哦，是我的自言自语而已~"
+            },
+            "asset": "char_141_nights/CN_005"
+        },
+        {
+            "id": "char_141_nights_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Anytime you want. Don't you worry, I have friends everywhere. Eyes everywhere.",
+                "jp": "行こうか？心配しないの、どこに行っても、あたしのオトモダチが手引きしてくれるからねぇ。",
+                "kr": "가볼까? 걱정할 거 없어. 어딜 가든, 내 친구가 안내해 줄 테니까.",
+                "cn": "出发吧，别担心，凡是我朋友走过的地方，都有我的眼线。"
+            },
+            "asset": "char_141_nights/CN_006"
+        },
+        {
+            "id": "char_141_nights_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Curiosity can kill a cat, you know.",
+                "jp": "「好奇心はネコをも殺す」だよぉ～。",
+                "kr": "호기심이 고양이를 죽인다는 말도 있잖아~",
+                "cn": "好奇心可是会害死猫的哟~"
+            },
+            "asset": "char_141_nights/CN_007"
+        },
+        {
+            "id": "char_141_nights_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "I'm in a good mood right now, so here's a riddle for you. 'Why is a raven like a writing desk?'",
+                "jp": "今のあたし、とぉーってもご機嫌だから、ナゾナゾを出してあげるよぉ。「カラスが書き物机に似ている」のはどうしてだー？",
+                "kr": "지금 나, 기분이 되~게 좋으니까 수수께끼를 내줄게. 까마귀가 책상이랑 닮은 건, 왜일까~요?",
+                "cn": "我现在，心情很好，来给你个谜语猜猜吧~『为什么乌鸦长得像写字台？』呢？"
+            },
+            "asset": "char_141_nights/CN_008"
+        },
+        {
+            "id": "char_141_nights_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Thank you, for this 'Haze' I'm now.But... did you catch a peep of any of them, along the way? Any of, well... my secrets?",
+                "jp": "新しい居場所をくれたのは感謝してる。でもね……もしかして、見ちゃったのかなぁ？あたしのヒ・ミ・ツ。",
+                "kr": "새롭게 살 곳을 마련해 준 건 고마워. 근데… 혹시, 본 건 아니지? 내 비.밀.을?",
+                "cn": "多谢你给我新的身份，但是啊......你是不是看到了？看到了啊，一些本该只属于我自己的秘密？"
+            },
+            "asset": "char_141_nights/CN_009"
+        },
+        {
+            "id": "char_141_nights_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Asleep like a baby... Time to get 'meown to business,' then.",
+                "jp": "……こいつも寝てるし、そろそろ本業を始めようかにゃ～。",
+                "kr": "이 녀석도 이제 잠들었겠다, 슬슬~ 본업을 시작해 볼까냥~",
+                "cn": "......既然这家伙也睡了，那就差不多——该开始“干活”了喵~"
+            },
+            "asset": "char_141_nights/CN_010"
+        },
+        {
+            "id": "char_141_nights_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Hello, I'm Haze. I like relaxing work environments,  and an employer who knows better than to bother me with too many questions.",
+                "jp": "どうもー。ヘイズだよ。好きなものは、気楽な職場と、口うるさくないご主人かなぁ。",
+                "kr": "안녕~ 헤이즈라고 해. 좋아하는 건 편한 직장이랑, 잔소리 안 하는 주인 정도?",
+                "cn": "你好~叫我夜烟~我喜欢轻轻松松的工作环境，和一个不会向我问这问那的雇主~"
+            },
+            "asset": "char_141_nights/CN_011"
+        },
+        {
+            "id": "char_141_nights_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Yummy.",
+                "jp": "おいしかったよぉ。",
+                "kr": "맛있었어~",
+                "cn": "好吃~"
+            },
+            "asset": "char_141_nights/CN_012"
+        },
+        {
+            "id": "char_141_nights_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Promotion? What's that? Does it taste good?",
+                "jp": "昇進？なにそれおいしいの？",
+                "kr": "승진? 뭐야 그거, 맛있는 거야?",
+                "cn": "晋升？那是什么？很好吃吗？"
+            },
+            "asset": "char_141_nights/CN_013"
+        },
+        {
+            "id": "char_141_nights_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Finally out of those old shackles... and here I am, straight into new ones. The destiny of a thief's no wonder.",
+                "jp": "古い鎖からなんとか逃げ出したところで、またすぐに新しいものをつけられる。これも盗人の宿命ってやつかねぇ。",
+                "kr": "오래된 족쇄를 이제야 겨우 풀었나 싶었는데, 다시 새로운 족쇄가 채워지다니… 이것도 도둑의 숙명이란 걸까?",
+                "cn": "总算是挣脱了旧的枷锁，却很快又被装上了新的。这也许就是窃贼的宿命吧。"
+            },
+            "asset": "char_141_nights/CN_014"
+        },
+        {
+            "id": "char_141_nights_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Give me a bit of freedom and I'll be happy.",
+                "jp": "自由にやらせてもらうよぉ。",
+                "kr": "내가 편한 대로 할게.",
+                "cn": "让我自由一点儿就行。"
+            },
+            "asset": "char_141_nights/CN_017"
+        },
+        {
+            "id": "char_141_nights_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "What do we need a leader for? Can't everyone just fight on their own?",
+                "jp": "隊長なんて決めないでさぁ、自由にやるのはダメなのぉ？",
+                "kr": "팀장 같은 거 정하지 말고, 그냥 각자 편한 대로 하면 안 돼?",
+                "cn": "干嘛还要有队长，自由作战不好嘛？"
+            },
+            "asset": "char_141_nights/CN_018"
+        },
+        {
+            "id": "char_141_nights_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Meow... It's driving me wild... this sweet, sweet smell of freedom!",
+                "jp": "うにゃー、これは……あたしを狂わせる、自由の匂いだ！",
+                "kr": "흐냥~ 이건… 날 미치게 하는… 자유의 냄새야!",
+                "cn": "呜喵......这是令我狂喜的，自由的味道！"
+            },
+            "asset": "char_141_nights/CN_019"
+        },
+        {
+            "id": "char_141_nights_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Everyone, no need to have cold feet here.",
+                "jp": "みんな、自由にやっていいよぉ～。",
+                "kr": "다들, 편한 대로 해도 돼~",
+                "cn": "大家可以自由作战哦~"
+            },
+            "asset": "char_141_nights/CN_020"
+        },
+        {
+            "id": "char_141_nights_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Meow?",
+                "jp": "にゃは？",
+                "kr": "냐앙~?",
+                "cn": "喵呼？"
+            },
+            "asset": "char_141_nights/CN_021"
+        },
+        {
+            "id": "char_141_nights_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Here we go.",
+                "jp": "行くよぉ。",
+                "kr": "자~ 들어가 볼까~",
+                "cn": "要上了哟——"
+            },
+            "asset": "char_141_nights/CN_022"
+        },
+        {
+            "id": "char_141_nights_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Out and about.",
+                "jp": "来た来た～。",
+                "kr": "선수 입장~",
+                "cn": "来了来了~"
+            },
+            "asset": "char_141_nights/CN_023"
+        },
+        {
+            "id": "char_141_nights_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Like a shadow.",
+                "jp": "影のようにっと♪",
+                "kr": "그림자처럼~♪",
+                "cn": "像影子一样~"
+            },
+            "asset": "char_141_nights/CN_024"
+        },
+        {
+            "id": "char_141_nights_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "How do nya like this?",
+                "jp": "これならどうかなぁ？",
+                "kr": "이건 어때?",
+                "cn": "这个怎么样？"
+            },
+            "asset": "char_141_nights/CN_025"
+        },
+        {
+            "id": "char_141_nights_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Careful, kittens. Don't lose your mittens.",
+                "jp": "油断したらダメだよぉ？",
+                "kr": "방심하면 안 된다~?",
+                "cn": "太大意可不行哦~"
+            },
+            "asset": "char_141_nights/CN_026"
+        },
+        {
+            "id": "char_141_nights_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "You think you've got all the trimmings, don't you?",
+                "jp": "自分が強いとでも思ってるのかなぁ？",
+                "kr": "자기가 강하다고 생각하는 건가?",
+                "cn": "你觉得自己很强对吧？"
+            },
+            "asset": "char_141_nights/CN_027"
+        },
+        {
+            "id": "char_141_nights_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Nah-ah-ah, Don't get carried away.",
+                "jp": "自信過剰はよくないよぉ？",
+                "kr": "자신감이 너무 넘치면 좋지 않다고?",
+                "cn": "别太自信哦~"
+            },
+            "asset": "char_141_nights/CN_028"
+        },
+        {
+            "id": "char_141_nights_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "No one stands above a kitty in the end!",
+                "jp": "この世界では、ネコの上に立つなんて許されないんだよぉ～。",
+                "kr": "이 세상에선, 고양이 위에 서는 건 용납되지 않는다구~",
+                "cn": "永远不允许有什么在猫头上称王称霸~"
+            },
+            "asset": "char_141_nights/CN_029"
+        },
+        {
+            "id": "char_141_nights_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Perfect victory? Whatever. A victory's a victory afterall.",
+                "jp": "完全勝利？そんなのどうでもいいよぉ？勝てればいいんだもん。",
+                "kr": "완전 승리? 그런 건 아무래도 상관없잖아? 이기면 그만인걸.",
+                "cn": "完美胜利？无所谓啦~能赢就好。"
+            },
+            "asset": "char_141_nights/CN_030"
+        },
+        {
+            "id": "char_141_nights_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Do you know how many enemies you let go? That will be a spanner in the works.",
+                "jp": "どれだけの敵を逃したかわかってるのかなぁ？もお、使えないなぁ。",
+                "kr": "적들을 얼마나 놓쳤는지 알아? 정말이지, 쓸모없긴.",
+                "cn": "你知道你放走了多少敌人嘛？这样可不行啊~"
+            },
+            "asset": "char_141_nights/CN_031"
+        },
+        {
+            "id": "char_141_nights_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "I'm no stranger to running for it, but this is just too embarrassing...",
+                "jp": "逃げ回るのは慣れてるけど、今回は散々だよぉ……。",
+                "kr": "도망치는 건 익숙하지만… 이번 건 좀 그렇네…",
+                "cn": "虽然已经很习惯逃跑了，但这次真是太狼狈了......"
+            },
+            "asset": "char_141_nights/CN_032"
+        },
+        {
+            "id": "char_141_nights_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Kotatsu. Where's the kotatsu?",
+                "jp": "こたつ～、こたつはどこぉ？",
+                "kr": "코타츠~ 코타츠 어딨어?",
+                "cn": "被炉~被炉在哪儿？"
+            },
+            "asset": "char_141_nights/CN_033"
+        },
+        {
+            "id": "char_141_nights_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Meow?",
+                "jp": "うにゃ？",
+                "kr": "냥?",
+                "cn": "喵？"
+            },
+            "asset": "char_141_nights/CN_034"
+        },
+        {
+            "id": "char_141_nights_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Meow? I'm not satisfied yet. You know my rule: if I can't have it, I want it.",
+                "jp": "んにゃ？これだけじゃ足りないよ。手に入れられないからこそ、欲しいものがあるんだよぉ。",
+                "kr": "냐앙? 이 정도론 부족해. 손에 넣을 수 없기 때문에, 갖고 싶어지는 것도 있는 거라고.",
+                "cn": "喵？这些还不够哦。凡是我得不到的东西，我都想要~"
+            },
+            "asset": "char_141_nights/CN_036"
+        },
+        {
+            "id": "char_141_nights_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_141_nights/CN_037"
+        },
+        {
+            "id": "char_141_nights_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Doctor, nice to meet nya.",
+                "jp": "ドクター、いたのかにゃ～。",
+                "kr": "박사, 거기 있었냥~",
+                "cn": "博士，你在啊喵~"
+            },
+            "asset": "char_141_nights/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Ratana",
+            "global": "Ratana"
+        },
+        "cn": {
+            "native": "钟可",
+            "global": "Ke Zhong"
+        },
+        "jp": {
+            "native": "ルゥ ティン",
+            "global": "Thing Ru"
+        },
+        "kr": {
+            "native": "이슬",
+            "global": "Lee Seul"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

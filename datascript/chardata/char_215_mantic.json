@@ -1,0 +1,595 @@
+{
+    "charid": "char_215_mantic",
+    "nameid": "mantic",
+    "names": {
+        "en": "Manticore",
+        "jp": "マンティコア",
+        "kr": "맨티코어",
+        "cn": "狮蝎"
+    },
+    "voices": [
+        {
+            "id": "char_215_mantic_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Umm, excuse me… I've been waiting here... for two hours…",
+                "jp": "あの……わたし……二時間前から、ここにいたけど……。",
+                "kr": "저기…… 나…… 두 시간 전부터 여기 있었는데…… ",
+                "cn": "那个......我两个小时前，就已经......待在这里了......"
+            },
+            "asset": "char_215_mantic/CN_001"
+        },
+        {
+            "id": "char_215_mantic_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Sorry… I know people keep ignoring me... But... my Arts aren't to blame…",
+                "jp": "ごめんなさい、わたし、存在感がない……でもこれ、能力じゃない……。",
+                "kr": "미안해, 나, 존재감이 없어서…… 근데 이거 능력은 아니고……",
+                "cn": "对不起，我确实很没有存在感......但这个，并不是我能力的原因呀......"
+            },
+            "asset": "char_215_mantic/CN_002"
+        },
+        {
+            "id": "char_215_mantic_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "My Arts... make me undetectable to people... in certain environments…",
+                "jp": "わたしの能力……特定の環境下で、相手に気づかれないようにすること……。",
+                "kr": "내 능력은… 특정 환경에서 상대에게 들키지 않는 거야……",
+                "cn": "我的能力，实际上是......进入特定的环境后，让别人，意识不到我的存在......"
+            },
+            "asset": "char_215_mantic/CN_003"
+        },
+        {
+            "id": "char_215_mantic_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "I… I've never had any friends... S-surely no one wants a friend that…  they can't even notice… right?",
+                "jp": "わたし……ずっと友達いない……うん……存在に、気づくこともできない、友達なんて……いらないよね……。",
+                "kr": "나…… 줄곧 친구가 없었어… 응… 내가 있는지 눈치도 못 채는 친구 같은 거… 필요 없겠지…",
+                "cn": "我......一直交不到朋友。一个没法被注意到的朋友，谁会想要呢......"
+            },
+            "asset": "char_215_mantic/CN_004"
+        },
+        {
+            "id": "char_215_mantic_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "My tail... It curls up when I'm not fighting... So please, don't be afraid…",
+                "jp": "尻尾……普段は、しまっておくから……怖がらないで……。",
+                "kr": "꼬리…… 평소에는 넣어둘 테니까…… 무서워하지 말아줘……",
+                "cn": "尾巴......不战斗的时候，会卷起来......所以，请别那么害怕......"
+            },
+            "asset": "char_215_mantic/CN_005"
+        },
+        {
+            "id": "char_215_mantic_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Doctor... you can leave the dangerous work to me... After all... my Arts were made for that…",
+                "jp": "ドクター、危ない任務、わたしにやらせて。わたしの能力、向いてるから……。",
+                "kr": "박사, 위험한 임무는 나한테 맡겨줘. 내 능력, 그거에 맞으니까……",
+                "cn": "博士，让我去做，那些危险的任务吧。毕竟，我的能力......非常合适......"
+            },
+            "asset": "char_215_mantic/CN_006"
+        },
+        {
+            "id": "char_215_mantic_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "These ID tags around my neck… I collected them... I like holding onto evidence... that someone once existed...",
+                "jp": "胸につけてる、このIDタグは、拾ったもの……。人が存在していた証、集めるの、好き……。",
+                "kr": "가슴에 달고 있는 이 ID 태그는, 주운 거야… 사람이 존재하고 있었다는 증거잖아, 이런 거 모으는 거… 좋아해…",
+                "cn": "放在胸前的，这些身份牌，是我捡到的。把人们存在过的痕迹，收集起来，我很喜欢......"
+            },
+            "asset": "char_215_mantic/CN_007"
+        },
+        {
+            "id": "char_215_mantic_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Don't let that 'Nightmare' girl near me!... She's dangerous... My Arts don't work on her... Why…?",
+                "jp": "ナイトメアという人、わたしに近づけないで！あれは、危険……。わたしの能力も、効かない。どうして……。",
+                "kr": "나이트메어라는 사람, 나한테 못 오게 해줘! 그 사람은, 위험해… 내 능력이 통하지 않아. 어째서……",
+                "cn": "那个叫“夜魔”的人，请别让她，靠近我......！那个，她，很危险......我的能力，对她不管用，为什么......"
+            },
+            "asset": "char_215_mantic/CN_008"
+        },
+        {
+            "id": "char_215_mantic_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "I… I really want to cure my Oripathy. But if it's cured... what's going to happen to my Arts?... If they're gone, will I... still be of any use...?",
+                "jp": "わたし……本当は……病気治したい……。でも、治ったら、能力なくなる……。それでもわたし、価値、ある……？",
+                "kr": "나… 사실은… 병을 고치고 싶어…… 그치만, 고쳐지면, 능력이 사라져…… 그래도 나, 가치가 있을까……?",
+                "cn": "我......其实，想要把病治好的。但是，如果，真的治好了，是不是，会失去现在的能力......那样的我，还有价值吗......？"
+            },
+            "asset": "char_215_mantic/CN_009"
+        },
+        {
+            "id": "char_215_mantic_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Doctor's ignoring me… I don't like it, hmph...",
+                "jp": "……放っておかれた……この感じ、嫌……。",
+                "kr": "……날 내버려뒀어…… 이런 느낌, 싫어……",
+                "cn": "......被博士丢在一边不管了......这种感觉，我，好讨厌......"
+            },
+            "asset": "char_215_mantic/CN_010"
+        },
+        {
+            "id": "char_215_mantic_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "I'm Manticore... My Arts can take out lives silently... Please don't be scared, you're not my target…",
+                "jp": "マンティコア、能力は、こっそり殺す……。怖がらないで、あなたは、ターゲットじゃ、ない……。",
+                "kr": "맨티코어라고 해. 능력은, 몰래 죽이는 거야…… 무서워하지 마, 당신은, 타겟이 아니니까……",
+                "cn": "我是狮蝎，能力是，悄无声息地夺走别人的生命......请别害怕，这次的目标，不是你......"
+            },
+            "asset": "char_215_mantic/CN_011"
+        },
+        {
+            "id": "char_215_mantic_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Thank you... I-I'm looking forward to you teaching me... more...",
+                "jp": "うん、ありがと。まだまだ、よろしく……。",
+                "kr": "응, 고마워. 앞으로도, 잘 부탁해……",
+                "cn": "嗯，谢谢。还有，请多关照......"
+            },
+            "asset": "char_215_mantic/CN_012"
+        },
+        {
+            "id": "char_215_mantic_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Finally, I got a promotion... I always thought I wasn't good enough… so you didn't promote me…",
+                "jp": "任命されるの、待ってた。わたしの力、足りないと、ずっと思ってた……。",
+                "kr": "임명되는 거, 기다렸어. 내 힘, 부족하다고, 계속 생각하고 있었어……",
+                "cn": "晋升，我，我终于等到了......我一直以为......是因为我的表现，不够好，所以您一直没有提拔我......"
+            },
+            "asset": "char_215_mantic/CN_013"
+        },
+        {
+            "id": "char_215_mantic_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Did I... manage to help you? I don't have anywhere else to go... My home is here... at Rhodes Island... So please, let me protect it with you...",
+                "jp": "わたし、役に立った、よね……？わたし、帰るとこ、ないから……ここ、ロドスがお家……これからも、この場所を、守らせて……！",
+                "kr": "나, 도움 됐지……? 나, 돌아갈 곳, 없으니까…… 여기, 로도스 아일랜드가 내 집…… 앞으로도, 이 장소를, 지키게 해줘……!",
+                "cn": "我帮上您的忙了，对吧......？没有去处的我，这里，这个罗德岛......就是我的家。今后也请和我，一起守护这里......！"
+            },
+            "asset": "char_215_mantic/CN_014"
+        },
+        {
+            "id": "char_215_mantic_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Okay...",
+                "jp": "わかった。",
+                "kr": "알았어.",
+                "cn": "我知道了。"
+            },
+            "asset": "char_215_mantic/CN_017"
+        },
+        {
+            "id": "char_215_mantic_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Nobody will like me... as their captain...",
+                "jp": "こんな隊長、嫌われる……。",
+                "kr": "이런 팀장, 싫어할 텐데……",
+                "cn": "我这样的队长，会被大家讨厌的......"
+            },
+            "asset": "char_215_mantic/CN_018"
+        },
+        {
+            "id": "char_215_mantic_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Please don't leave me behind…",
+                "jp": "見捨てないで……。",
+                "kr": "내버려두지 마……",
+                "cn": "别把我丢下......"
+            },
+            "asset": "char_215_mantic/CN_019"
+        },
+        {
+            "id": "char_215_mantic_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Please choose tactics that make use of my Arts... even if it's something crafty and underhanded... I won't mind...",
+                "jp": "能力を、生かした戦術で、お願い……。卑怯なやつでも、いい……。",
+                "kr": "능력을, 살린 전술로, 부탁해…… 비겁한 거라도, 괜찮아……",
+                "cn": "请依据我的能力，指定战术吧......就算是比较阴暗的，也没关系......"
+            },
+            "asset": "char_215_mantic/CN_020"
+        },
+        {
+            "id": "char_215_mantic_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "I-I'm ready...",
+                "jp": "じ、準備、できた。",
+                "kr": "주, 준비, 다 됐어.",
+                "cn": "准备好了......"
+            },
+            "asset": "char_215_mantic/CN_021"
+        },
+        {
+            "id": "char_215_mantic_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "I'm…right here…",
+                "jp": "わたし、ここ……。",
+                "kr": "나, 여기야……",
+                "cn": "我在这里......"
+            },
+            "asset": "char_215_mantic/CN_022"
+        },
+        {
+            "id": "char_215_mantic_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Manticore… going dark…",
+                "jp": "潜伏、開始……。",
+                "kr": "잠복, 개시……",
+                "cn": "潜伏，开始......"
+            },
+            "asset": "char_215_mantic/CN_023"
+        },
+        {
+            "id": "char_215_mantic_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Ready... to ambush...",
+                "jp": "待ち伏せ、準備、できた……。",
+                "kr": "기습, 준비, 됐어……",
+                "cn": "伏击，准备......"
+            },
+            "asset": "char_215_mantic/CN_024"
+        },
+        {
+            "id": "char_215_mantic_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "That must... really hurt…",
+                "jp": "苦しい、よね……。",
+                "kr": "괴롭, 지……?",
+                "cn": "很痛苦吧......"
+            },
+            "asset": "char_215_mantic/CN_025"
+        },
+        {
+            "id": "char_215_mantic_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Please, Don't come close…",
+                "jp": "来ないで……。",
+                "kr": "오지 마……",
+                "cn": "别过来......"
+            },
+            "asset": "char_215_mantic/CN_026"
+        },
+        {
+            "id": "char_215_mantic_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "I don't like this... either...",
+                "jp": "わたしも、こんなの、嫌だよ……。",
+                "kr": "나도, 이런 거, 싫어……",
+                "cn": "我也，讨厌，这样做......"
+            },
+            "asset": "char_215_mantic/CN_027"
+        },
+        {
+            "id": "char_215_mantic_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Farewell…",
+                "jp": "さよなら……。",
+                "kr": "잘 가……",
+                "cn": "永别了......"
+            },
+            "asset": "char_215_mantic/CN_028"
+        },
+        {
+            "id": "char_215_mantic_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Even in such terrible battles… your judgement and decisions didn't seem to waver… You're incredible, Doctor…",
+                "jp": "こんなに、怖い戦場でも、判断力、集中力、切れなかった。ドクター、かっこいい……。",
+                "kr": "이렇게, 무서운 전장에서도, 판단력, 집중력, 끊기지 않았어. 박사, 멋있어……",
+                "cn": "就算，是这样可怕的战场，您的判断力、集中力，一点都没有受到影响。博士，好帅气......"
+            },
+            "asset": "char_215_mantic/CN_029"
+        },
+        {
+            "id": "char_215_mantic_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "A victory by all means... Still...",
+                "jp": "勝つためなら、何でもやる、けど……。",
+                "kr": "이기기 위해서라면, 뭐든지, 하겠지만……",
+                "cn": "为了胜利，我们什么都得做，只是......"
+            },
+            "asset": "char_215_mantic/CN_030"
+        },
+        {
+            "id": "char_215_mantic_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "I can handle the runaways... if you wish...",
+                "jp": "逃げた人、捕まえるなら、わたしに、まかせて……。",
+                "kr": "도망친 사람, 잡으려면, 나한테, 맡겨……",
+                "cn": "要抓住，逃走的人的话，请交给我......"
+            },
+            "asset": "char_215_mantic/CN_031"
+        },
+        {
+            "id": "char_215_mantic_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "I'm sorry... It's all my fault...",
+                "jp": "ごめんなさい……できそこないで……。",
+                "kr": "미안해…… 내가 모자라서……",
+                "cn": "对不起......都是我没做好......"
+            },
+            "asset": "char_215_mantic/CN_032"
+        },
+        {
+            "id": "char_215_mantic_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "I'll sit... in the corner...",
+                "jp": "隅っこ、座ろ……。",
+                "kr": "구석에, 앉을래……",
+                "cn": "我去角落里，坐着......"
+            },
+            "asset": "char_215_mantic/CN_033"
+        },
+        {
+            "id": "char_215_mantic_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Eeeeeek!",
+                "jp": "えええ……？",
+                "kr": "에에에……?",
+                "cn": "欸欸欸？？？"
+            },
+            "asset": "char_215_mantic/CN_034"
+        },
+        {
+            "id": "char_215_mantic_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Thank you for paying attention to me... I know it's your job... but it still makes me happy…",
+                "jp": "あの、いつも、気にかけてくれて……それが、ドクターの、職務でも……うれしい……。",
+                "kr": "저기, 언제나, 신경 써줘서…… 그게, 박사의, 직무라 해도…… 기뻐……",
+                "cn": "那个，您经常关注着我，虽然这是您的职责，我也......非常开心......"
+            },
+            "asset": "char_215_mantic/CN_036"
+        },
+        {
+            "id": "char_215_mantic_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_215_mantic/CN_037"
+        },
+        {
+            "id": "char_215_mantic_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Hello... Doctor...",
+                "jp": "ドクター……こんにちは……。",
+                "kr": "박사…… 안녕…… ",
+                "cn": "博士......你好......"
+            },
+            "asset": "char_215_mantic/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Haviland Stillwell",
+            "global": "Haviland Stillwell"
+        },
+        "cn": {
+            "native": "吱毛",
+            "global": "Kousou Mao"
+        },
+        "jp": {
+            "native": "諏訪彩花",
+            "global": "Ayaka Suwa"
+        },
+        "kr": {
+            "native": "김보영",
+            "global": "Kim Bo-young"
+        }
+    },
+    "availability": [
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

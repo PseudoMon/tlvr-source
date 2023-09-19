@@ -1,0 +1,564 @@
+{
+    "charid": "char_284_spot",
+    "nameid": "spot",
+    "names": {
+        "en": "Spot",
+        "jp": "スポット",
+        "kr": "스팟",
+        "cn": "斑点"
+    },
+    "voices": [
+        {
+            "id": "char_284_spot_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Work's kinda like a trap, and you just fling yourself into it.",
+                "jp": "仕事なんて罠みたいなもんだとわかってるけど、それでも俺たちは飛び込むことしかできないんだ。",
+                "kr": "일은 함정 같은 거라는 걸 알고 있긴 하지만, 우리는 그래도, 뛰어드는 수밖에 없어.",
+                "cn": "工作就像是陷阱，你得主动跳进去才行。"
+            },
+            "asset": "char_284_spot/CN_001"
+        },
+        {
+            "id": "char_284_spot_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "I don't talk much 'cause I don't want to. Not 'cause I'm looking down on anyone.",
+                "jp": "俺があまり喋らないのは、話したいことがないからだ。別に誰かを嫌ったり見下しているわけではない。",
+                "kr": "내가 말을 별로 하지 않는 건, 그냥 말하고 싶은 게 없어서야. 딱히 누굴 싫어하거나 깔보고 있는 게 아니라.",
+                "cn": "我不说话只是因为不想，没有看不起谁的意思。"
+            },
+            "asset": "char_284_spot/CN_002"
+        },
+        {
+            "id": "char_284_spot_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "What did Midnight do this time? Did he finally end up in Medical after hitting on one too many ladies in the hallway? No? Too bad.",
+                "jp": "ミッドナイトがまた何かやったのか？廊下でナンパに失敗してやっと痛い目見たとか？なんだ、違うのか。残念だ。",
+                "kr": "미드나이트가 또 뭐 사고라도 쳤나? 복도에서 작업 걸다 실패해서 혼쭐이 났다든지? 뭐야, 아니라고? 아쉽네.",
+                "cn": "月见夜又做什么了，他是不是终于因为在走廊上搭讪遭人讨厌甚至被送进医务室了？没有？真是遗憾。"
+            },
+            "asset": "char_284_spot/CN_003"
+        },
+        {
+            "id": "char_284_spot_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Got something, Doctor? I could probably lend a hand. But I'd rather not eat up too much of my time. I got a lot of comics to read.",
+                "jp": "ドクター、何か仕事はあるか？少しぐらいなら手伝うが。漫画を読む時間だけは残しておいてくれると助かる。",
+                "kr": "박사, 뭐 할 일 없어? 조금이라면 도와주겠지만, 만화책 볼 시간 정도는 남겨줬으면 좋겠네.",
+                "cn": "有事吗，博士？我大概能帮上点忙。不过，要是能不占用我用来看漫画的休息时间，当然会更好。"
+            },
+            "asset": "char_284_spot/CN_004"
+        },
+        {
+            "id": "char_284_spot_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "I know I speak a little too bluntly sometimes, but I always get my work done. It's not like I got professional pride or anything, I just can't respect somebody who doesn't finish his work.",
+                "jp": "俺は言葉に思いやりが足りないかもしれないけど、やることはちゃんとやる。プロ意識なんて立派なものじゃない。引き受けた任務すらまともにできないやつは、適当な人間だって思ってるだけだ。",
+                "kr": "나는 말에 배려가 부족할지도 모르지만, 할 일은 제대로 해. 프로 의식 같은 대단한 게 아니야. 그냥… 맡은 임무도 제대로 못 하는 녀석은 대충 사는 인간이라고 생각할 뿐이지.",
+                "cn": "虽然有时候我说话很直接，但该做的事情，我一定会做好。这不关职业道德什么事，只是我觉得连任务都没法完成的人，一定没有用心去做。"
+            },
+            "asset": "char_284_spot/CN_005"
+        },
+        {
+            "id": "char_284_spot_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Rhodes Island is a strange place. The people here just say whatever they're thinking, and somebody's always there to help when someone needs it.",
+                "jp": "ロドスって組織は本当に変わってる。ここではみんな思ってることをストレートに言うし、困ったら必ず誰かが助けてくれる。",
+                "kr": "로도스 아일랜드라는 조직은 참 특이해. 여기에는 모두가 생각하는 걸 직설적으로 말하고, 곤란한 상황에 처하면 반드시 누군가가 도와주잖아.",
+                "cn": "罗德岛是个奇怪的地方。这里的人有什么情绪都会说出来，有什么需要帮忙的地方就自然会有人伸出援手。"
+            },
+            "asset": "char_284_spot/CN_007"
+        },
+        {
+            "id": "char_284_spot_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Reserve Op Team A6 is a real diverse crowd. We have Lady Stinky-face, Miss Lacking-self-confrol, Narcissist Kun, and a little walking time bomb. But still, I do think I can trust them. They work hard, even if they don't show it.",
+                "jp": "A6のメンバーは、いつも不貞腐れてたり、自分を抑えることを知らなかったり、自意識過剰だったり、歩く爆弾みたいな存在だったり、そういうやつばかりだけど、頼りになる仲間だとは思ってる。あいつら、ああ見えて意外と努力家なんだ。",
+                "kr": "A6 팀 멤버들은 맨날 심통이 나 있거나, 자아조절 하는 법을 모르거나, 자의식 과잉이거나, 걸어 다니는 폭탄 같은 존재거나, 그런 녀석들뿐이지만… 믿음직한 동료라고는 생각하고 있어. 그 녀석들, 보기엔 그래도… 의외로 노력파 거든.",
+                "cn": "虽然A6行动预备组的各位，不是每天摆着张臭脸就是没有自控能力，要么自我意识过剩或者根本是颗移动炸弹，但我依然觉得他们很可靠。因为他们真的在努力，哪怕是偷偷的。"
+            },
+            "asset": "char_284_spot/CN_008"
+        },
+        {
+            "id": "char_284_spot_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "I used to live free and easy like everyone else at Rhodes Island, but my family thought I was a freak. This place may be a freakshow, but at least everyone's happy, and that's pretty good.",
+                "jp": "昔の俺も、ロドスのみんなと同じように思うがままに生きてた。家族のみんなはそんな俺を異端児の様な目で見てたんだ。でもロドスはそんなやつばっかりだし、世界中から変わり者が集ってるのかもな。まあそれでも、いつも楽しそうにしているみんなを、俺は悪くないと思ってる。",
+                "kr": "난 예전에도, 로도스 아일랜드 사람들처럼 내키는 대로 살아왔었어. 가족들은 그런 날 이단아 취급했었지. 근데, 로도스 아일랜드엔 그런 녀석들밖에 없잖아. 전 세계에서 이상한 녀석들이 모여든 걸지도 모르겠네. 뭐 그래도, 언제나 즐거워 보이는 모두가… 난 나쁘지 않다고 봐.",
+                "cn": "我以前也是个像诸位罗德岛干员一样自由自在的人，我的家庭却觉得那样的我是个怪胎。也许这里是个怪胎集合地也说不定，但至少，大家都很快乐。这样也不错。"
+            },
+            "asset": "char_284_spot/CN_009"
+        },
+        {
+            "id": "char_284_spot_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Can I go back to my room now?",
+                "jp": "もう部屋に戻ってもいいか？",
+                "kr": "이제 방으로 돌아가도 될까?",
+                "cn": "我可以先回宿舍吗？"
+            },
+            "asset": "char_284_spot/CN_010"
+        },
+        {
+            "id": "char_284_spot_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Hi, I'm Spot from Operation Reserve Team A6. My job is to protect the other troublemakers on my team, I guess.",
+                "jp": "……どうも。行動予備隊A6のスポットだ。俺の仕事は、いつも無茶するメンバー達を守ってやること……だと思う。",
+                "kr": "……안녕. 예비작전팀 A6 소속, 스팟이야. 내 일은 언제나 터무니없는 짓을 하고 다니는 멤버들을 지키는 거… 라고 생각해.",
+                "cn": "你好，我是隶属行动预备组A6的斑点，职责大概是保护预备组每天都在闹腾的另外几个家伙。"
+            },
+            "asset": "char_284_spot/CN_011"
+        },
+        {
+            "id": "char_284_spot_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "I've seen this battle before. Bad guys got their asses kicked.",
+                "jp": "この戦闘記録なら見たことがある。見事なもんだ。",
+                "kr": "이 전투 기록이라면 전에 본 적 있어. 대단하더라고.",
+                "cn": "这场战斗我看过，敌人都完蛋了。"
+            },
+            "asset": "char_284_spot/CN_012"
+        },
+        {
+            "id": "char_284_spot_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "I'm gonna work twice as hard. I'll bump it up from a 0.1 to a 0.2, I think.",
+                "jp": "それじゃ今の倍以上働くとしよう。0.1が0.2になる程度かもしれないが。",
+                "kr": "그럼… 지금의 배 이상으로 일하도록 하지. 0.1이… 0.2가 되는 정도일지도 모르겠지만.",
+                "cn": "我会加倍努力工作的，从0.1到0.2的水平吧。"
+            },
+            "asset": "char_284_spot/CN_013"
+        },
+        {
+            "id": "char_284_spot_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "I won't ask about the meaning of this mission then.",
+                "jp": "作戦の意味なんて興味ない、黙ってやるだけだ。",
+                "kr": "작전의 의미 같은 거엔 관심 없어. 그냥 입 닫고 하는 거지.",
+                "cn": "我就不询问这次作战的意义了。"
+            },
+            "asset": "char_284_spot/CN_017"
+        },
+        {
+            "id": "char_284_spot_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "I wanna get back to my dorm.",
+                "jp": "寮に戻りたいんだが。",
+                "kr": "숙소로 돌아가고 싶은데… ",
+                "cn": "我想回宿舍了。"
+            },
+            "asset": "char_284_spot/CN_018"
+        },
+        {
+            "id": "char_284_spot_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Got it.",
+                "jp": "わかった。",
+                "kr": "알았어.",
+                "cn": "知道了。"
+            },
+            "asset": "char_284_spot/CN_019"
+        },
+        {
+            "id": "char_284_spot_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Save us a lot of time if you just surrender.",
+                "jp": "さっさと降参してくれれば、こちらも時間を無駄にせずに済むんだけどな。",
+                "kr": "그냥 빨리 항복해 주면, 이쪽도 시간 낭비 안 하고 끝낼 수 있을 텐데 말이야.",
+                "cn": "你们直接投降能节约我很多时间。"
+            },
+            "asset": "char_284_spot/CN_020"
+        },
+        {
+            "id": "char_284_spot_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Whatever you say.",
+                "jp": "任せる。",
+                "kr": "알아서 해.",
+                "cn": "怎么样都行。"
+            },
+            "asset": "char_284_spot/CN_021"
+        },
+        {
+            "id": "char_284_spot_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Doesn't matter to me.",
+                "jp": "俺は別になんでもいい。",
+                "kr": "난 딱히 다 괜찮아.",
+                "cn": "我随便。"
+            },
+            "asset": "char_284_spot/CN_022"
+        },
+        {
+            "id": "char_284_spot_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Alright then.",
+                "jp": "このままいこう。",
+                "kr": "이대로 가자.",
+                "cn": "就这样吧。"
+            },
+            "asset": "char_284_spot/CN_023"
+        },
+        {
+            "id": "char_284_spot_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Yeah, yeah, fine.",
+                "jp": "これでいいだろう。",
+                "kr": "이걸로 됐겠지.",
+                "cn": "挺好的。"
+            },
+            "asset": "char_284_spot/CN_024"
+        },
+        {
+            "id": "char_284_spot_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Hey, catch.",
+                "jp": "これでどうだ。",
+                "kr": "이건 어떠냐.",
+                "cn": "试试这个。"
+            },
+            "asset": "char_284_spot/CN_025"
+        },
+        {
+            "id": "char_284_spot_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Don't see any harm in this.",
+                "jp": "仲間には当たらないはずだ。",
+                "kr": "동료들이 맞진 않을 거야.",
+                "cn": "应该不会伤到队友。"
+            },
+            "asset": "char_284_spot/CN_026"
+        },
+        {
+            "id": "char_284_spot_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "So many weaknesses.",
+                "jp": "隙だらけ。",
+                "kr": "빈틈투성이네.",
+                "cn": "破绽太多了。"
+            },
+            "asset": "char_284_spot/CN_027"
+        },
+        {
+            "id": "char_284_spot_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Holding this shield is tiring, pal.",
+                "jp": "盾を持ってるのも疲れるんだが…。",
+                "kr": "방패 들고 있는 것도 지치네… ",
+                "cn": "举盾也是很累的。"
+            },
+            "asset": "char_284_spot/CN_028"
+        },
+        {
+            "id": "char_284_spot_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Been through an easy battle, you say? Then better do it all over again.",
+                "jp": "楽しかった？もう一回やるか？",
+                "kr": "재밌었어? 한 번 더 할까?",
+                "cn": "每当你觉得一场战斗很轻松的时候，就最好再来一次。"
+            },
+            "asset": "char_284_spot/CN_029"
+        },
+        {
+            "id": "char_284_spot_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "With hard work, even an idiot can get the job done.",
+                "jp": "努力すれば、頭が空っぽのやつだって役に立てるんだ。",
+                "kr": "노력이란 걸 하면, 머리가 텅 빈 녀석이라도 도움이 될 수 있다고.",
+                "cn": "只要肯努力，就算大脑空空也能做好。"
+            },
+            "asset": "char_284_spot/CN_030"
+        },
+        {
+            "id": "char_284_spot_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Perfection is for suckers, you know.",
+                "jp": "結果から見れば、100点とは言えないか。",
+                "kr": "결과만 놓고 보자면, 100점이라곤 못 하겠네.",
+                "cn": "瑕疵是一种必然，从结果来说。"
+            },
+            "asset": "char_284_spot/CN_031"
+        },
+        {
+            "id": "char_284_spot_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Relax, you're doing fine.",
+                "jp": "気にするな、あんたはこのままでいい。",
+                "kr": "신경쓰지 마, 넌 이대로도 괜찮으니까.",
+                "cn": "别紧张，你这样没事。"
+            },
+            "asset": "char_284_spot/CN_032"
+        },
+        {
+            "id": "char_284_spot_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Yeah sure.",
+                "jp": "これでいい。",
+                "kr": "이거면 됐어.",
+                "cn": "这样也可以。"
+            },
+            "asset": "char_284_spot/CN_033"
+        },
+        {
+            "id": "char_284_spot_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Ah.",
+                "jp": "ああ。",
+                "kr": "어.",
+                "cn": "哦。"
+            },
+            "asset": "char_284_spot/CN_034"
+        },
+        {
+            "id": "char_284_spot_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "If you keep petting me like that, my hair's gonna get tangled.",
+                "jp": "あんまりモフられると、ダマになるだろ。",
+                "kr": "너무 만지면 털이 뭉쳐버리잖아.",
+                "cn": "你这样摸，我的毛会打结的。"
+            },
+            "asset": "char_284_spot/CN_036"
+        },
+        {
+            "id": "char_284_spot_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_284_spot/CN_037"
+        },
+        {
+            "id": "char_284_spot_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Hey Doctor...",
+                "jp": "ドクターか。",
+                "kr": "박사구나.",
+                "cn": "博士。"
+            },
+            "asset": "char_284_spot/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Hyoie O'Grady",
+            "global": "Hyoie O'Grady"
+        },
+        "cn": {
+            "native": "赵洋",
+            "global": "Kyle"
+        },
+        "jp": {
+            "native": "阿部敦",
+            "global": "Atsushi Abe"
+        },
+        "kr": {
+            "native": "김지율",
+            "global": "Kim Ji-yul"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

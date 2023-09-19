@@ -1,0 +1,596 @@
+{
+    "charid": "char_143_ghost",
+    "nameid": "ghost",
+    "names": {
+        "en": "Specter",
+        "jp": "スペクター",
+        "kr": "스펙터",
+        "cn": "幽灵鲨"
+    },
+    "voices": [
+        {
+            "id": "char_143_ghost_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Good day. Please allow me a moment of prayer... before I resume my work for the day...",
+                "jp": "ごきげんよう。本日の勤めを果たす前に、どうか祈りを捧げる時間をお与えください……。",
+                "kr": "안녕하신가요. 오늘의 수행을 마치기 전에 부디, 기도를 올릴 시간을 주실 수 있을까요…",
+                "cn": "您好。在今天的工作开始之前，请稍微给我一些，用于祈祷的时间......"
+            },
+            "asset": "char_143_ghost/CN_001"
+        },
+        {
+            "id": "char_143_ghost_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "O benevolent Herald, hear my prayer: please watch over my dreams and ward my soul…",
+                "jp": "天にまします我らが慈悲深き天使たちよ……願わくば我が眠りに忍び寄る忌まわしき者から、我が心を守りたまえ……。",
+                "kr": "하늘에 계신 우리 자비로운 천사들이여… 바라옵건대 우리의 잠에 살며시 다가오는 증오스러운 자들로부터, 우리 마음을 지켜주시옵소서…",
+                "cn": "慈悲的使者，请守卫我的睡梦，保护我的心灵......"
+            },
+            "asset": "char_143_ghost/CN_002"
+        },
+        {
+            "id": "char_143_ghost_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Hehehe… Cutting things... cutting things is such fun... Yes, some things were disconnected from the very beginning, their integrity only a false fiction...",
+                "jp": "ウフフフフ、斬るのは……斬るのはとても楽しい。そう、そこは元から繋がっていないのです。最初から、繋がってはいけなかったのです。ウフフフ……。",
+                "kr": "우후후후후, 자르는 건…… 자르는 건 정말 즐거워요. 그래요, 거긴 원래부터 이어지지 않았어요. 처음부터, 이어져선 안 됐다고요. 우후후후…",
+                "cn": "呵呵，切割啊......切割是件很快乐的事。是啊，有些东西，相互之间并没有什么联系，从一开始，就不该结合在一起......"
+            },
+            "asset": "char_143_ghost/CN_003"
+        },
+        {
+            "id": "char_143_ghost_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Ehehehe... Hahahah... AHHAHAHAHAH!",
+                "jp": "…………ウフフフ……アハハハ……ハハハハハハ……。",
+                "kr": "……우후후후…… 아하하하…… 하하하하하하……",
+                "cn": "呵呵呵......哈哈......哈哈哈哈......"
+            },
+            "asset": "char_143_ghost/CN_004"
+        },
+        {
+            "id": "char_143_ghost_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Ehehe…Why were you dodging my sight? So pointless... because I already know exactly what your heart desires...",
+                "jp": "ウフッ、なぜ私と目を合わせてくださらないの？そんなことしても無駄ですわ。あなたが何を欲しているのか……私にはすべて分かっておりますもの。",
+                "kr": "후훗, 왜… 저와 눈을 마주치지 않으시나요? 그래 봤자… 소용없어요. 당신이 뭘 원하고 있는지…… 저는 전부 알고 있는걸요.",
+                "cn": "呵呵，为什么您要避开我的目光呢？这么做也是没用的......您想要的东西是什么，我全都知道。"
+            },
+            "asset": "char_143_ghost/CN_005"
+        },
+        {
+            "id": "char_143_ghost_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "I have always, always wanted to bring you to a special place... A place where secrets are imparted...",
+                "jp": "ずっと、ずっとあなたを連れていきたい場所があるのです。「秘密」が聴こえる、あの場所へ……。",
+                "kr": "줄곧… 줄곧 당신을 데려가고 싶었던 곳이 있어요. ‘비밀’이 들려오는, 그곳으로……",
+                "cn": "我一直、一直想带您去一个地方，一个能听到“秘密”的地方。"
+            },
+            "asset": "char_143_ghost/CN_006"
+        },
+        {
+            "id": "char_143_ghost_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "What did you do to me...? Why was I made to drink that strange medicine? Who brought me to this place? PLEASE ANSWER ME!",
+                "jp": "……わ、私に何をしたのですか？どうして私はよくわからない薬を飲まされたのですか？誰が私をここに連れてきたのですか……教えてください……！！！",
+                "kr": "제… 제게 무슨 짓을 하는 거죠? 왜 제게 잘 모르는 약을 먹이는 거죠? 누가 절 여기에 데려온 건가요…… 가르쳐 주세요!!",
+                "cn": "你们究竟对我做了什么......？为什么让我吃那种药？是谁把我带到这里的？请告诉我......！！！"
+            },
+            "asset": "char_143_ghost/CN_007"
+        },
+        {
+            "id": "char_143_ghost_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "That person's words are the complete and utter truth... Dissecting them, dismembering them, disemboweling them... it all grants them salvation...!",
+                "jp": "あの御方が私に教えてくださったことは間違いありませんわ……解剖したのも！引き裂いたのも！切り刻んだのも！全て彼らに救いを与えるため……！！！",
+                "kr": "그분께서 제게 가르쳐 주신 것은 잘못되지 않았어요…… 해부한 것도! 찢어버린 것도!! 잘게 썰어버린 것도!!! 모두 그들에게 구원을 주기 위한 거라고요…!",
+                "cn": "那个人告诉我的都是对的......解剖、撕裂、切碎，一切都是、都是给予他们的救赎！"
+            },
+            "asset": "char_143_ghost/CN_008"
+        },
+        {
+            "id": "char_143_ghost_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "You see many things in your dreams that are hard to comprehend?... Those things you see are that soul's despairful tidings... And I, as the messenger, here to convey this exhortation to you... heh…",
+                "jp": "夢を見ると、理解できないものが出てきたりしますわよね？そう、それはあの御方からの絶望の知らせ。そして私はあの御方のお使いとして、それを届けに来たのです……フフ……。",
+                "kr": "꿈을 꾸면, 이해할 수 없는 내용이 나오기도 하죠? 맞아요, 그게 바로 그분께서 내리신 절망의 계시예요. 그리고 저는 그분의 사역자로서, 그 계시를 전해드리러 왔답니다… 후후…",
+                "cn": "在您的梦中，经常会出现些无法理解的事物，是吗？呵，那些景象，是那个人向你投递来的，无望的信件。而我，作为那个人的使者，把它送到了，呵呵......"
+            },
+            "asset": "char_143_ghost/CN_009"
+        },
+        {
+            "id": "char_143_ghost_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Hearken... Hear the whispers of vast creation's master, echoing from the deep...",
+                "jp": "……お聴きなさい、深淵から響く、万物の主の、ささやきを……。",
+                "kr": "……잘 들어보세요, 심연에서 들려오는 만물의 주인의 속삭임을……",
+                "cn": "......听，茫茫的万物之主，在黑暗中，喃喃自语......"
+            },
+            "asset": "char_143_ghost/CN_010"
+        },
+        {
+            "id": "char_143_ghost_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "I am Specter, that is what the spirits call me... That kind doctor informed me that I may receive further treatment by helping Rhodes Island... Yes, of course, my powers are yours to command.",
+                "jp": "ウフフ……スペクター、亡霊たちは私をそう呼びます……。あのお医者様は、治療を受けるにはロドスのために戦うようにとおっしゃりました……ええ、もちろん、私の力をあなた方に捧げましょう……。",
+                "kr": "우후후, 스펙터… 망령들은 절 그렇게 부릅니다… 그 의사분께선, 치료를 받으려면 로도스 아일랜드를 위해 싸우라고 하셨습니다… 네, 물론 제 힘을 당신에게 바쳐드리죠…",
+                "cn": "幽灵鲨......那些‘死者’都这样称呼我。那位医生告诉我，继续获得治疗的条件，是为罗德岛而战。嗯，我会的，我会把我的力量，全都献给你们。"
+            },
+            "asset": "char_143_ghost/CN_011"
+        },
+        {
+            "id": "char_143_ghost_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Power... is flowing into me...",
+                "jp": "力が……流れ込んでくる……。",
+                "kr": "힘이… 흘러들어 오네요…",
+                "cn": "力量......流入了我的身体......"
+            },
+            "asset": "char_143_ghost/CN_012"
+        },
+        {
+            "id": "char_143_ghost_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "I have no right to go against your will...",
+                "jp": "あなたの意志に、私には抗う資格もありません……。",
+                "kr": "제게는, 당신의 의지에 거스를 자격조차 없답니다……",
+                "cn": "你的意志，我无权违背......"
+            },
+            "asset": "char_143_ghost/CN_013"
+        },
+        {
+            "id": "char_143_ghost_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Will this position be a new source of joy for me...? Or... will working for you become my life's joy...?",
+                "jp": "この役職は、私に新たな悦びを与えてくれますでしょうか？それとも、あなたのために働くことが私の悦びとなるのでしょうか？",
+                "kr": "이 일은, 제게 새로운 기쁨을 줄까요? 아니면, 당신을 위해 일하는 게 저의 기쁨이 될까요?",
+                "cn": "这样的职位，可以给我带来新的喜悦吗？还是说，为了你而战斗，才是我真正的快乐呢？"
+            },
+            "asset": "char_143_ghost/CN_014"
+        },
+        {
+            "id": "char_143_ghost_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Good night, my brothers and sisters.",
+                "jp": "皆さま、ごきげんうるわしゅう……。",
+                "kr": "여러분, 편안한 밤 되세요…… ",
+                "cn": "各位，晚安......"
+            },
+            "asset": "char_143_ghost/CN_017"
+        },
+        {
+            "id": "char_143_ghost_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "As you wish.",
+                "jp": "あなたがおっしゃるのでしたら……。",
+                "kr": "당신이 말씀하신다면……",
+                "cn": "如您所愿。"
+            },
+            "asset": "char_143_ghost/CN_018"
+        },
+        {
+            "id": "char_143_ghost_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "This will be a path paved with sacrifice.",
+                "jp": "ここからは、茨の道になります……。",
+                "kr": "여기서부터는, 가시밭길이 될 겁니다……",
+                "cn": "这将是一条，充满牺牲的道路。"
+            },
+            "asset": "char_143_ghost/CN_019"
+        },
+        {
+            "id": "char_143_ghost_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "All these lost souls on the battlefield... I offer them to you.",
+                "jp": "この戦場に迷い込んだすべての魂、あなたに捧げましょう……。",
+                "kr": "이 전장을 떠도는 모든 영혼을, 당신께 바치지요…",
+                "cn": "我将这些迷失在战场上的灵魂，全部献给您......"
+            },
+            "asset": "char_143_ghost/CN_020"
+        },
+        {
+            "id": "char_143_ghost_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Humbly awaiting your command.",
+                "jp": "お待ちしておりました。",
+                "kr": "기다리고 있었습니다.",
+                "cn": "静候您的讯息。"
+            },
+            "asset": "char_143_ghost/CN_021"
+        },
+        {
+            "id": "char_143_ghost_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Please let me know the results.",
+                "jp": "結果を、お聞かせください。",
+                "kr": "결과를, 들려주세요…",
+                "cn": "请告诉我结果。"
+            },
+            "asset": "char_143_ghost/CN_022"
+        },
+        {
+            "id": "char_143_ghost_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "I come from the depth of the ocean…",
+                "jp": "かの深き海より参りました……。",
+                "kr": "저 깊은 바다에서 찾아왔습니다……",
+                "cn": "我来自深邃的海洋......"
+            },
+            "asset": "char_143_ghost/CN_023"
+        },
+        {
+            "id": "char_143_ghost_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "You are the one who woke me.",
+                "jp": "私を呼び起こしてくださったのはあなたですね……。",
+                "kr": "저를 불러준 것은… 당신이로군요…",
+                "cn": "是您唤醒了我。"
+            },
+            "asset": "char_143_ghost/CN_024"
+        },
+        {
+            "id": "char_143_ghost_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Grant joy unto me!",
+                "jp": "我に悦びを与えなさい。",
+                "kr": "제게 기쁨을 주십시오.",
+                "cn": "取悦我吧。"
+            },
+            "asset": "char_143_ghost/CN_025"
+        },
+        {
+            "id": "char_143_ghost_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Return to the abyss!",
+                "jp": "深淵に還りなさい。",
+                "kr": "심연으로 돌아가세요.",
+                "cn": "回归深渊吧。"
+            },
+            "asset": "char_143_ghost/CN_026"
+        },
+        {
+            "id": "char_143_ghost_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "I care not for valueless ones.",
+                "jp": "無価値なものには興味ないのです。",
+                "kr": "가치 없는 것에는 관심 없답니다.",
+                "cn": "没有价值的东西，我毫无兴趣。"
+            },
+            "asset": "char_143_ghost/CN_027"
+        },
+        {
+            "id": "char_143_ghost_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "There's no escape.",
+                "jp": "逃しませんよ……！",
+                "kr": "놓치지 않겠어요…!",
+                "cn": "不许逃走。"
+            },
+            "asset": "char_143_ghost/CN_028"
+        },
+        {
+            "id": "char_143_ghost_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "I have conquered all trials you gave me... Were you watching me?",
+                "jp": "……あなたが与えてくださった試練を乗り越えましたよ……ご覧いただけましたか？",
+                "kr": "……당신이 안겨준 시련을 이겨냈답니다…… 잘 보셨나요?",
+                "cn": "我战胜了您给予我的全部考验，您看到了吗？"
+            },
+            "asset": "char_143_ghost/CN_029"
+        },
+        {
+            "id": "char_143_ghost_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Please guide these lost souls to peaceful enlightenment...!",
+                "jp": "迷える魂たちを、安息の地へお導きください……。",
+                "kr": "길 잃은 영혼들을 안식의 땅으로 인도하여 주소서……",
+                "cn": "请将迷失的灵魂们，引渡到安息之地吧。"
+            },
+            "asset": "char_143_ghost/CN_030"
+        },
+        {
+            "id": "char_143_ghost_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "None of you shall leave this place!",
+                "jp": "……誰もここから逃しません！",
+                "kr": "……누구도 여기서 도망칠 순 없어요!",
+                "cn": "......谁都，别想逃走！"
+            },
+            "asset": "char_143_ghost/CN_031"
+        },
+        {
+            "id": "char_143_ghost_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "They shall pay for this... They must pay…",
+                "jp": "……必ず償いを……必ず……。",
+                "kr": "……반드시 갚아줄 거예요…… 반드시…… ",
+                "cn": "必须让他们偿还......必须......"
+            },
+            "asset": "char_143_ghost/CN_032"
+        },
+        {
+            "id": "char_143_ghost_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "May I ask you to assign me to a room where I can see the starry sky?",
+                "jp": "満天の星が見える部屋をお願いできますでしょうか……。",
+                "kr": "온 하늘에 별이 보이는 방으로, 부탁드려도 될지요……",
+                "cn": "可以给我一个，看得见星星的房间吗？"
+            },
+            "asset": "char_143_ghost/CN_033"
+        },
+        {
+            "id": "char_143_ghost_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Heheh...",
+                "jp": "ウフ……。",
+                "kr": "우훗……",
+                "cn": "呵呵......"
+            },
+            "asset": "char_143_ghost/CN_034"
+        },
+        {
+            "id": "char_143_ghost_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Doctor... What is it inside you… that is driving me to this blissful ecstasy?",
+                "jp": "ドクター……私をこんなに狂おしいほど悦ばせてくださるなんて……あなたは一体何者なのですか……。",
+                "kr": "박사님…… 저를 이리도 미치도록 기쁘게 해 주시다니…… 당신은 대체 어떤 분이신가요……",
+                "cn": "博士......你背后究竟是什么样的力量......使我这样欣喜若狂呢......"
+            },
+            "asset": "char_143_ghost/CN_036"
+        },
+        {
+            "id": "char_143_ghost_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_143_ghost/CN_037"
+        },
+        {
+            "id": "char_143_ghost_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "You are... Ah, the Doctor, isn't it?",
+                "jp": "あなたは……あら、ドクターですわね……ウフフ……。",
+                "kr": "당신은…… 어머, 박사님이시군요…… 우후후…… ",
+                "cn": "你是......啊，这不是博士吗？"
+            },
+            "asset": "char_143_ghost/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Harriet Carmichael",
+            "global": "Harriet Carmichael"
+        },
+        "cn": {
+            "native": "张安琪",
+            "global": "Angel Zhang"
+        },
+        "jp": {
+            "native": "浅倉杏美",
+            "global": "Azumi Asakura"
+        },
+        "kr": {
+            "native": "김현심",
+            "global": "Kim Hyeon-sim"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

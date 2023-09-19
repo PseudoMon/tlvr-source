@@ -1,0 +1,596 @@
+{
+    "charid": "char_473_mberry",
+    "nameid": "mberry",
+    "names": {
+        "en": "Mulberry",
+        "jp": "マルベリー",
+        "kr": "멀베리",
+        "cn": "桑葚"
+    },
+    "voices": [
+        {
+            "id": "char_473_mberry_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Doctor, I'll leave the files I sorted here. Oh, you don't have to thank me. I am used to it, and it's nothing difficult... Um, are you thirsty perhaps? Should I make you some tea?",
+                "jp": "ドクター、整理が終わった資料をここに置いておきますね。あっ、いえいえ、感謝されることは何もないです。やり慣れていることなので、大変でもないですし……その、喉が乾いていませんか、お茶を淹れてきましょうか？",
+                "kr": "박사님, 정리 끝난 자료는 여기 둘게요. 아, 아뇨. 감사받을 만한 일은 아니에요. 전에도 하던 일이라 힘들지도 않았고…… 저기, 목 안마르세요? 차라도 좀 내올까요?",
+                "cn": "博士，整理好的资料我放在这里了。欸，不用不用，不必谢，这些我都做惯了的，并不辛苦......那个，您口渴吗，我再给您泡点茶来吧？"
+            },
+            "asset": "char_473_mberry/CN_001"
+        },
+        {
+            "id": "char_473_mberry_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "I'm not very good at speaking any languages other than Yanese. That's why I was a little scared at first and didn't talk much. But everyone's very friendly, and there are a lot of people from Yan here. Phew... it really puts my mind at ease.",
+                "jp": "炎国語以外の言葉はそれなりにしか話せないので、最初は少し怖くて、あまり喋れなかったんです。でも皆さんが良くしてくれて、同郷の方も多くて、ふぅ、肩の力がやっと抜けたんです……",
+                "kr": "염국어 말고는… 다른 말은 조금밖에 할 줄 몰라서, 처음에는 조금 무서워서 말도 잘 못했어요. 하지만 다들 잘 대해 주시고, 같은 고향 출신인 분도 많아서, 후우, 간신히 긴장을 풀 수 있었죠……",
+                "cn": "我除了炎国话，其他语言都说的很一般，其实最初有点害怕，不太敢开口。但大家都很友好，也有很多炎国的同乡在，呼......真的是松了一口气......"
+            },
+            "asset": "char_473_mberry/CN_002"
+        },
+        {
+            "id": "char_473_mberry_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Sorry to disturb you, Doctor, but would you happen to know where Provence and everyone else went? My family sent me some goodies from back home, and I thought I'd share some with them since they've been taking care of me... Oh, there are some for you too, Doctor. Please have a taste!",
+                "jp": "お邪魔しますドクター、プロヴァンスさんたちがどこにいるのかご存知ですか？実家の方から特産品が送られてきたので、お世話になっている方々に渡そうと……あっ、もちろんドクターの分もあります！是非食べてみてください！",
+                "kr": "실례합니다, 박사님. 프로방스 씨랑 다른 분들이 혹시 어디 있는지 아시나요? 본가에서 특산품을 보내 주셨는데, 신세 지고 있는 분들께 드리려고 했거든요…… 아, 물론 박사님께 드릴 것도 있어요! 드셔보세요!",
+                "cn": "博士，打扰一下，请问您知道普罗旺斯小姐她们去哪儿了吗？老家那边寄了点特产来，这段时间受了很多照顾，我想拿去分给大家......啊，博士的份当然也有的，请尝尝吧！"
+            },
+            "asset": "char_473_mberry/CN_003"
+        },
+        {
+            "id": "char_473_mberry_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Doctor, could you help me look for my little dumpling? It's the small black-and-white doll. I thought I'd left it here, but I can't find it... *Whimpers*, please, I can't sleep at night without it.",
+                "jp": "ド、ドクター、私のお団子ちゃんを一緒に探していただけませんか？白と黒の、あの小さいお人形です。ここに置いていたはずなんですけど、全然見つからなくて……うぅ、お願いします、あれがないと私、夜眠れないんです……",
+                "kr": "바, 박사님. 제 ‘경단이’를 같이 찾아 주시겠어요? 흰색하고 검은색이 섞인 작은 인형이에요. 여기 놔두었던 것 같은데, 어디 있는지 안 보여서…… 으으, 부탁드릴게요. 그게 없으면 전 밤에 못 자요……",
+                "cn": "博、博士，可以请您帮我一起找一下我的团子吗？就是那个黑白的小玩偶！明明记得是放在这里的，却怎么也找不着......呜，拜托您了，没有那个的话，晚上会睡不着......"
+            },
+            "asset": "char_473_mberry/CN_004"
+        },
+        {
+            "id": "char_473_mberry_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "The rescue team has to deal with the Catastrophes a lot, so it's only a matter of time for us before we become infected. None of us reject anyone because of that. The crystallization on my body isn't very conspicuous, and it doesn't hurt even if you press down on it... Sometimes, I even forget that I have this on my body.",
+                "jp": "救援隊は天災とは長い付き合いですし、鉱石病になるのも止むを得ないので、皆さんそのことで差別したりはしません。私の体の結晶は目立たないところにありますし、押しても痛みは感じません……だから時々、結晶があることを忘れそうになるんです。",
+                "kr": "구조대는 재앙을 오랫동안 접해 왔고, 광석병에 걸리는 것도 막을 수 없으니까, 다들 그런 걸로 차별하지는 않아요. 제 몸에 있는 결정은 눈에 띄지 않는 곳에 있기도 하고, 눌러도 아프지 않아서요…… 그래서 저도, 가끔 결정이 있다는 걸 깜빡한다니까요.",
+                "cn": "救援队总要和天灾打交道，待得久了，得病也在所难免，大家都不会因此而排斥谁。我的体表结晶位置不太起眼，按上去也不会痛......有的时候，我都要忘了还有这个长在我身上了。"
+            },
+            "asset": "char_473_mberry/CN_005"
+        },
+        {
+            "id": "char_473_mberry_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "When I first joined the rescue team, I wasn't very used to the climate or the food there. I'd get too homesick to fall asleep at night, and I cried to myself many, many times, but whenever I see the people we rescued, I start to think that maybe I can keep at it...",
+                "jp": "救援隊に入ったばかりの頃は、あちらの気候にも食べ物にも慣れなくて、夜もホームシックで眠れなくて、何回もこっそり泣いてしまったことがあります。それでも、私たちが助けた人々を見ると、まだ頑張れるんじゃないかって思えるんです……",
+                "kr": "구조대에 들어간 지 얼마 안 됐을 때, 그곳 날씨나 음식에도 적응 못하고, 밤에는 향수병 때문에 잠도 못 자서 몇 번이고 몰래 울었던 적이 있어요. 그래도 저희가 도와준 사람들을 보면 아직 더 노력할 수 있지 않을까 하는 생각이 들어요……",
+                "cn": "最初到救援队时，不习惯那里的气候，也吃不惯当地的食物，晚上想家睡不着，偷偷哭过好多回。但是，就算是这样，每次看到那些被我们救助的人，我又觉得，好像还能继续努力下去......"
+            },
+            "asset": "char_473_mberry/CN_006"
+        },
+        {
+            "id": "char_473_mberry_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Doctor, sorry to bother you... I've been studying Oripathy prevention techniques during Catastrophe relief, and Tsukinogi suggested that I come ask for your advice... Um... Sorry, am I being a bother?",
+                "jp": "ドクター、お邪魔します……その、最近私、天災救援時の鉱石病感染予防について勉強しているんですが、ツキノギさんがドクターに聞いてきたらどうかって勧めてくれて……あの……すみません、ご迷惑ではありませんか？",
+                "kr": "박사님, 실례합니다…… 그게, 요즘 제가 재앙 구조 시의 광석병 감염 예방에 대한 공부를 하고 있는데요, 츠키노기 씨께서 박사님께 물어보는 게 어떻냐고 말씀하셔서…… 저기…… 죄송합니다, 역시 제가 너무 방해했나요?",
+                "cn": "博士，打扰了......最近我在自学天灾救援时的矿石病感染预防，月禾小姐推荐我来找您咨询......那个......对不起，是不是太麻烦您了？"
+            },
+            "asset": "char_473_mberry/CN_007"
+        },
+        {
+            "id": "char_473_mberry_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Uhh! Doctor, why would you sneak up on me like that? Huh? What am I holding? Oh, this is a letter I got from home. When I made the decision to leave, my parents were so angry that they said they would disown me, but there's a saying where I come from: Blood is thicker than water...",
+                "jp": "ひぃっ！ドクター？どうして黙ったまま後ろに立っているんですか！え、何を持っているかって？ああ、これは実家からのお手紙です。私がわがまま言って家を出た時、両親が怒って勘当だって言ってたんですけど、私の故郷には「血は水よりも濃い」っていう古い言葉がありまして……",
+                "kr": "히익! 박사님? 왜 뒤에서 가만히 서 계시는 건가요! 네? 뭘 들고 있는 거냐고요? 아, 이건 본가에서 보낸 편지예요. 제가 제멋대로 말하고 집을 나왔을 때, 부모님께서 크게 화내시면서 연을 끊자고 하긴 했지만, 제 고향에는 “피는 물보다 진하다”는 옛말도 있거든요……",
+                "cn": "噫，博士，您怎么站在我背后不出声啊！欸，我拿着的是？啊，这是家里寄来的信，虽然当初擅自离开家的时候，爸妈气得说要和我断绝关系，但我家乡有句老话，叫做血浓于水......"
+            },
+            "asset": "char_473_mberry/CN_008"
+        },
+        {
+            "id": "char_473_mberry_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "When I got infected with Oripathy, I knew I probably wouldn't be able to live the peaceful life my parents wanted for me. I don't regret it, though... Besides, if I hadn't made my decision, I would never have met you or anyone else from Rhodes Island here and now, hehe.",
+                "jp": "鉱石病に罹ってから、両親の期待していたような穏やかな生活はたぶんもう望めないってわかったんです。でも、後悔はしていません……それに、もしあの選択をしていなかったら、今日ここでドクターやロドスの皆さんに会うこともなかったでしょう、えへへ……",
+                "kr": "광석병에 걸리면서, 이제는 아마도 부모님께서 기대하시던 온화한 생활을 보낼 수 없다는 걸 깨달았어요. 하지만 후회하지는 않아요…… 그리고 만약 그 선택을 하지 않았다면, 오늘 여기서 박사님이나 로도스 아일랜드 분들을 만날 수도 없었겠죠, 에헤헤……",
+                "cn": "得了矿石病，我知道就不太可能再按照爸妈的期望那样，有个安稳的生活了。不过，我并不后悔......嘿嘿，而且如果我当初没有那样选，今天也不会遇到博士，还有罗德岛的大家了呀。"
+            },
+            "asset": "char_473_mberry/CN_009"
+        },
+        {
+            "id": "char_473_mberry_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Doctor? Doctor? Sorry to bother you. Please lift your head up a little and sleep with the cushion. If you fall asleep like this, the letters from the report will get all over your face...",
+                "jp": "ドクター、ドクター？お、お邪魔してすみません、ちょっとお顔を上げていただいて、このクッションを敷いてから寝ませんか？このまま寝ていると、報告書の文字がほっぺについちゃいますよ……",
+                "kr": "박사님, 박사님? 방해해서 죄송해요. 잠깐 고개 좀 들어주시겠어요?  이 쿠션 베고 주무시면 안 될까요? 이렇게 주무시면 보고서에 쓴 글자들이 뺨에 묻을 텐데……",
+                "cn": "博士，博士？打、打扰了，稍微起来一下，垫上这个垫子再睡吧？现在这样睡下去，报告书上的字会印在脸上的......"
+            },
+            "asset": "char_473_mberry/CN_010"
+        },
+        {
+            "id": "char_473_mberry_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Hello, I'm a member of the Yan disaster relief organization 'Chun-qian,' dispatched here as an intern. My name is... Oh, I-I'm sorry. We need to use our codenames here, right? I'm terribly, terribly sorry. Please call me Mulberry.",
+                "jp": "こんにちは、私は炎国災害救援組織「春乾（しゅんけん）」から研修のために派遣されてきました者で、名前は……あ、ご、ごめんなさい、ここではコードネームを使うんでしたよね？すみません、申し訳ないです、私のことはマルベリーと呼んでください！",
+                "kr": "안녕하세요, 저는 염국 재해 구호 단체 ‘춘건’에서 연수를 위해 파견된 사람으로, 이름은…… 아, 죄, 죄송합니다. 여기서는 코드네임을 사용한다고 했죠? 죄송합니다, 정말 죄송합니다, 저는 멀베리라고 불러 주세요!",
+                "cn": "您好，我是炎国灾害救援组织“春乾”派遣来学习的成员，我叫做......啊，对、对不起，这里要用代号的吧？非常抱歉，非常抱歉，请叫我桑葚就好！"
+            },
+            "asset": "char_473_mberry/CN_011"
+        },
+        {
+            "id": "char_473_mberry_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Uhh..The mountain collapsed, and the ground crumbled...! They're not special effects from an action movie, are they?",
+                "jp": "や、山が崩れて地面にもひび割れが……！これ、話題のアクション映画の特殊効果映像じゃないんですよね……？",
+                "kr": "사, 산이 무너지고 땅에 균열이……! 이거, 유명한 액션 영화 같은 데 나오는 특수 효과…… 뭐 그런 건가요?",
+                "cn": "山、山崩地裂......！这真的不是新春电影的特效吗......？"
+            },
+            "asset": "char_473_mberry/CN_012"
+        },
+        {
+            "id": "char_473_mberry_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Huh? A promotion? Really? I get a salary from Rhodes Island as well as Chun-qian?! I... I'm so happy...!",
+                "jp": "えっ、昇進？いいんですか？救援隊とロドス、両方からお給料がもらえる！？……し、幸せ……",
+                "kr": "네, 승진이요? 정말요? 구조대하고 로도스 아일랜드 양쪽에서 월급이 나온다고요?! ……해, 행복해……",
+                "cn": "欸，升职？真的可以吗？救援队和罗德岛，我能拿两份工资？！......好、好幸福啊。"
+            },
+            "asset": "char_473_mberry/CN_013"
+        },
+        {
+            "id": "char_473_mberry_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "This time, I'm not doing this to help someone else, I'm doing it for myself... Doctor, thanks for always being there to cheer me on. Now, I'm sure that everything that I've done is truly meaningful.",
+                "jp": "今回は、誰かの助けになりたいからではなく、自分でこうするって決めたんです……ドクター、ずっと応援してくれてありがとうございます。今の私は、自分のしてきたことにはちゃんと意味があるんだって確信しています。",
+                "kr": "이번에는 누군가를 돕고 싶어서 그런 게 아니라, 제가 하고 싶어서 결정한 거예요…… 박사님. 계속 응원해 주셔서 감사합니다. 지금 전, 제가 했던 일에는 분명히 의미가 있다고 확신하고 있어요.",
+                "cn": "这一次，不是要帮上谁的忙，而是我自己决定要这么做......博士，谢谢您一直鼓励我，现在我很确定，我所做的都是有意义的。"
+            },
+            "asset": "char_473_mberry/CN_014"
+        },
+        {
+            "id": "char_473_mberry_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "I'll do my best to support everyone!",
+                "jp": "頑張って皆さんを支援します！",
+                "kr": "열심히 모두를 지원할게요!",
+                "cn": "我会努力协助大家的！"
+            },
+            "asset": "char_473_mberry/CN_017"
+        },
+        {
+            "id": "char_473_mberry_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Huh? Me as team captain? Ah... Are you sure?",
+                "jp": "え、私が隊長ですか？わ、私に務まるでしょうか……？",
+                "kr": "네? 제가 팀장이에요? 제, 제가 할 수 있을까요……?",
+                "cn": "欸，我当队长？我、我可以吗？"
+            },
+            "asset": "char_473_mberry/CN_018"
+        },
+        {
+            "id": "char_473_mberry_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Okay, we'll head out right away... Everyone, please stay safe. We'll meet again once this is over.",
+                "jp": "はい、すぐに出発します。……皆さん、どうかお気をつけて。また後ほどお会いしましょう。",
+                "kr": "네, 금방 출발하겠습니다. ……여러분, 부디 조심하세요. 나중에 다시 만나죠.",
+                "cn": "好的，立刻出发。......各位，各自注意安全，结束后再见。"
+            },
+            "asset": "char_473_mberry/CN_019"
+        },
+        {
+            "id": "char_473_mberry_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Watch out, everyone! There's movement up ahead!",
+                "jp": "警戒態勢をとってください！前方に動きあり！",
+                "kr": "경계 태세를 갖추세요! 전방에 움직임이 있습니다!",
+                "cn": "大家小心！前面有动静！"
+            },
+            "asset": "char_473_mberry/CN_020"
+        },
+        {
+            "id": "char_473_mberry_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Safety goggles... Okay, I have mine on. Let's go!",
+                "jp": "ゴーグルを……よしっ、装着完了、いきますよ！",
+                "kr": "고글을…… 좋아, 장착 완료! 갑니다!",
+                "cn": "护目镜......好，戴好了，准备要上了！"
+            },
+            "asset": "char_473_mberry/CN_021"
+        },
+        {
+            "id": "char_473_mberry_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Phew... Haah! Oh, I'm here! I-I'm not nervous!",
+                "jp": "ふ～は……あ、はいっ！き、緊張していません！",
+                "kr": "후… 하… 아, 네! 기, 긴장한 거 아니에요!",
+                "cn": "呼......哈！在！我、我没有紧张！"
+            },
+            "asset": "char_473_mberry/CN_022"
+        },
+        {
+            "id": "char_473_mberry_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Preparing rescue...!",
+                "jp": "救援準備を始めます……！",
+                "kr": "구조 준비를 시작합니다……!",
+                "cn": "开始准备救援......！"
+            },
+            "asset": "char_473_mberry/CN_023"
+        },
+        {
+            "id": "char_473_mberry_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Rescue team Mulberry in position!",
+                "jp": "救援小隊マルベリー、待機しています！",
+                "kr": "구조팀 멀베리, 대기 중입니다!",
+                "cn": "救援小队桑葚，已就位！"
+            },
+            "asset": "char_473_mberry/CN_024"
+        },
+        {
+            "id": "char_473_mberry_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Everyone, please be careful!",
+                "jp": "皆さんどうか気をつけて！",
+                "kr": "여러분, 조심하세요!",
+                "cn": "各位请多加小心！"
+            },
+            "asset": "char_473_mberry/CN_025"
+        },
+        {
+            "id": "char_473_mberry_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "I... I can do it too!",
+                "jp": "私……私だって！",
+                "kr": "나…… 나도 할 수 있어!",
+                "cn": "我也......能够做到！"
+            },
+            "asset": "char_473_mberry/CN_026"
+        },
+        {
+            "id": "char_473_mberry_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Where are you looking? It's dangerous to get distracted!",
+                "jp": "どこを見てるんですか、きょろきょろするのは危ないですよ！",
+                "kr": "어딜 보고 계시는 거예요? 두리번거리고 계시면 위험해요!",
+                "cn": "您在看哪里，东张西望可是很危险的！"
+            },
+            "asset": "char_473_mberry/CN_027"
+        },
+        {
+            "id": "char_473_mberry_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "It's my job to ensure everyone's safety!",
+                "jp": "皆さんの安全を守るのが私の仕事です。",
+                "kr": "여러분의 안전을 지키는 게 제 일이에요!",
+                "cn": "确保人员安全就是我的工作。"
+            },
+            "asset": "char_473_mberry/CN_028"
+        },
+        {
+            "id": "char_473_mberry_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Report! All rescue operations in the area have been completed. Evacuation and escort proceeding without issue! Phew, thank goodness nobody's hurt...",
+                "jp": "報告！エリア内の救援活動は終了、人員の疎開及び保護もつつがなく行っています！よ、良かった、誰も怪我しませんでした……",
+                "kr": "보고 드립니다! 에리어 내 구조 활동은 종료, 인원의 산개 및 보호도 무사히 진행 중입니다! 다, 다행이에요. 아무도 다치지 않았어요……",
+                "cn": "报告！区域救援行动已结束，人员疏散及保护顺利进行！太、太好了，没有人受伤......"
+            },
+            "asset": "char_473_mberry/CN_029"
+        },
+        {
+            "id": "char_473_mberry_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Phew, that wraps up the operation. Doctor, was I helpful?",
+                "jp": "ふう、これで作戦終了です。ドクター、私は皆さんのお役に立てたでしょうか……？",
+                "kr": "후우, 이걸로 작전이 끝났네요. 박사님, 제가 다른 분들께 도움이 됐을까요……?",
+                "cn": "呼，这样就结束了。博士，我有帮上大家的忙吗......？"
+            },
+            "asset": "char_473_mberry/CN_030"
+        },
+        {
+            "id": "char_473_mberry_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Wait! It's not safe that way... We have to do something. I'll go fetch them right away!",
+                "jp": "待ってください、あの人たちが逃げた方向は危ないです……いけない、今すぐ連れて帰ってきます！",
+                "kr": "기다려 주세요, 저분들이 도망친 방향은 위험해요…… 안 되겠어요, 당장 데려올게요!",
+                "cn": "请等一下，那些人逃走的方向并不安全......不行，我这就去把他们带回来！"
+            },
+            "asset": "char_473_mberry/CN_031"
+        },
+        {
+            "id": "char_473_mberry_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "It's not safe here! Everyone, please evacuate! Doctor, follow me!",
+                "jp": "ここはとても危険です！皆さん早く撤退してください。ドクター、私についてきてください！",
+                "kr": "여긴 너무 위험해요! 여러분, 어서 후퇴하세요. 박사님, 절 따라오세요!",
+                "cn": "这里很危险！大家请快撤退，博士，请跟紧我！"
+            },
+            "asset": "char_473_mberry/CN_032"
+        },
+        {
+            "id": "char_473_mberry_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Whoa, this is the staff dormitory... Um, will I need to pay rent?",
+                "jp": "わぁ。ここが宿舎……その、家賃は必要でしょうか？",
+                "kr": "우와~ 여기가 숙소로군요…… 저기…… 집세도 내야 하나요?",
+                "cn": "哇，这里就是员工宿舍......请问，需要收租金吗？"
+            },
+            "asset": "char_473_mberry/CN_033"
+        },
+        {
+            "id": "char_473_mberry_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Huh? Ah! I'm sorry! I'm sorry!",
+                "jp": "えっ、あっ、すみません、すみません！",
+                "kr": "어, 앗, 죄송합니다! 죄송합니다!",
+                "cn": "欸，啊，对不起，对不起！"
+            },
+            "asset": "char_473_mberry/CN_034"
+        },
+        {
+            "id": "char_473_mberry_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Doctor! I really appreciate it, but please stop trying to sneak any more amulets onto me... I have way too many already!",
+                "jp": "ドクター！とてもありがたいのですが、こっそり私にお守りを付けるのはもうやめてください……これ以上は持てません！",
+                "kr": "박사님! 정말 감사하지만, 저 몰래 부적을 다는 건 그만해주세요…… 더는 달고 다닐 수 없다고요!",
+                "cn": "博士！虽然很感谢，但是请不要再偷偷给我挂护身符了......太多了！"
+            },
+            "asset": "char_473_mberry/CN_036"
+        },
+        {
+            "id": "char_473_mberry_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_473_mberry/CN_037"
+        },
+        {
+            "id": "char_473_mberry_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Hello, Doctor. Do you have work today too?",
+                "jp": "お疲れ様ですドクター、今日もお仕事ですか？",
+                "kr": "수고 많으세요, 박사님. 오늘도 일하시나요?",
+                "cn": "辛苦了，博士，今天也要工作吗？"
+            },
+            "asset": "char_473_mberry/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Julie Rogers",
+            "global": "Julie Rogers"
+        },
+        "cn": {
+            "native": "蔡欣纯",
+            "global": "X·Cai"
+        },
+        "jp": {
+            "native": "小原莉子",
+            "global": "Riko Kohara"
+        },
+        "kr": {
+            "native": "장경희",
+            "global": "Chang Kyug-hee"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

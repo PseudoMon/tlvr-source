@@ -1,0 +1,596 @@
+{
+    "charid": "char_250_phatom",
+    "nameid": "phatom",
+    "names": {
+        "en": "Phantom",
+        "jp": "ファントム",
+        "kr": "팬텀",
+        "cn": "傀影"
+    },
+    "voices": [
+        {
+            "id": "char_250_phatom_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "No need to look for me. I've always been here.",
+                "jp": "探し回るな。私はいつでもここにいる。",
+                "kr": "찾아다니지 마라. 난 언제든 여기에 있으니.",
+                "cn": "别去刻意寻找，我一直在。"
+            },
+            "asset": "char_250_phatom/CN_001"
+        },
+        {
+            "id": "char_250_phatom_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Those in the dark cannot show you the way, nor can they see where you point. Don't tarry here, it's time for you to leave...",
+                "jp": "闇夜を歩く人は道を示すことは叶わず、君の指し示す方向も見えない。闇に留まってはいけない……",
+                "kr": "어두운 밤을 걷는 사람은 길을 가리킬 수 없고, 네가 가리키는 방향도 볼 수 없다. 어둠에 머물러서는 안 돼……",
+                "cn": "黑夜中的人无法给你指路，也看不到你指出的方向。别停留，你该离开了......"
+            },
+            "asset": "char_250_phatom/CN_002"
+        },
+        {
+            "id": "char_250_phatom_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Under this mask, even I do not recognize myself.",
+                "jp": "この仮面の下では、自分が誰であるかもわからない。",
+                "kr": "이 가면 아래에선, 내가 누구인지조차도 알 수 없다.",
+                "cn": "在这幅假面之下，我认不出自己是谁。"
+            },
+            "asset": "char_250_phatom/CN_003"
+        },
+        {
+            "id": "char_250_phatom_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "This is Ms. Christine. I don't know where she came from, nor do I know when she will leave. If she likes you, she will approach you on her own... Yes, just as she's doing right now.",
+                "jp": "彼女はミス・クリスティーン。どこから来たのかも、いつ消えてしまうかも、私の与り知るところではない。彼女は気に入った者にだけ身を寄せる……そう、今君にしているみたいにね。",
+                "kr": "이 아가씨는 미스 크리스틴…… 어디에서 왔는지도, 언제 사라져 버릴지도 나는 전혀 모른다. 이 아가씨는 마음에 들어 하는 자에게만 몸을 맡기지…… 그래, 지금 너에게 하는 것처럼 말이야.",
+                "cn": "这位是Miss.Christine。我不知道她从哪里来，也不知道她会在什么时候离开。如果她喜欢你，她会主动靠近......没错，像现在这样。"
+            },
+            "asset": "char_250_phatom/CN_004"
+        },
+        {
+            "id": "char_250_phatom_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "In the past, I was not lonely. I once had several friends, and we traveled all over as a theatre troupe. But when Oripathy broke out, everything drew to a close, and everything began...",
+                "jp": "かつての私は一人ではなかった。小さな劇団に加わり、仲間達とあちこちで公演して回ったものだ。しかし鉱石病の蔓延で、全ては幕を閉じた。そしてそこから、全てが始まった……",
+                "kr": "나도 한때는 혼자가 아니었다. 작은 극단에 들어가 동료들과 이곳저곳에서 공연을 하며 돌아다녔지. 하지만 광석병이 만연하며 모든 것은 막을 내렸다. 그리고, 거기서부터 모든 것이 시작되었지……",
+                "cn": "曾经的我也并非孤身一人。我有过一些伙伴，作为一个小剧团四处周游。但当矿石病爆发蔓延，一切到此结束，一切又由此而始......"
+            },
+            "asset": "char_250_phatom/CN_005"
+        },
+        {
+            "id": "char_250_phatom_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "This darkness is a refuge, a throne, and Paradise above all. The spirits of the dead have never left, and I've cursed the world from atop their bones... You see me as I am now. Do you still wish to hear my song? Do you still dare... to stand before me?",
+                "jp": "この闇はシェルターであり、宝座であり、そして何より楽園でもある。過去の亡霊はこの場に縋りつき、私は彼らの亡骸の上でその全てを呪う……。今の私を見て、それでも君は私の歌声を求めるのか？私の前に立つ……勇気はあるのか？",
+                "kr": "이 어둠은 방공호이자 옥좌이고, 더 나아가 낙원이 되기도 하지. 과거의 망령은 이 자리에 달라붙었고, 난 그들의 시체 위에서 그 모든 것을 저주한다…… 지금의 나를 보고도 넌 아직도, 내 노래를 듣고 싶나? 나의 앞에 설…… 용기는 있나?",
+                "cn": "这片黑暗是庇护所，也是宝座，更是乐园。过去的亡灵从未离去，而我在他们的骸骨上诅咒这一切......看到我这副模样，你还想聆听我的歌声，你还敢...站在我身前吗？"
+            },
+            "asset": "char_250_phatom/CN_006"
+        },
+        {
+            "id": "char_250_phatom_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "This device embedded above my throat presses against my neck, but it is exactly what I need. Like a mask does, it conceals my sins and my voice. You'd like to hear my real voice? No, you can't. It isn't something you ought to bear...",
+                "jp": "喉のこの装置が私の首を締めつける。しかし私にはこれが必要だ。仮面と同じように、私の罪を覆い隠し、声を遮ってくれる。私の真の声を聴きたい？いや、それは認められない。君が受け止めるべきものではないのだ……。",
+                "kr": "목의 이 장치가 나의 목을 조르지. 하지만 나에겐 이것이 필요해. 가면과 마찬가지로, 나의 죄를 덮어 가리고, 목소리를 차단해 주거든. 내 진짜 목소리가 듣고 싶다고? 아니, 그건 허락할 수 없다. 네가 받아들일 만한 것이 아니야……",
+                "cn": "喉咙上的这个装置压迫着我的脖颈，但这正是我需要的。和面具一样，它遮掩了我的罪恶，隐藏了我的声音。想听我真正的声音？不，不能。这不是你该承受的......"
+            },
+            "asset": "char_250_phatom/CN_007"
+        },
+        {
+            "id": "char_250_phatom_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "My song ended all of their lives. It came, that endless night, the song that would not stop, the quivering falsetto and organ fragments that expelled from a throat—it horrified them, suffocated them, but it was so... miraculous. Doctor, tell me. What in the world is it... that I do?",
+                "jp": "私の歌声は全ての者の命を終焉に導いた。果てなき夜、反響し続ける歌、喉の奥から絞り出した震えしファルセットと臓腑の欠片は、人々を慄かせ、その息を止めた……しかしこの上なく……美しかった。ドクター、教えてくれ。私はいったい……何をしているのだろうか？",
+                "kr": "내 노래는 모든 이의 목숨을 종언으로 이끌었다. 끝이 없는 밤, 계속 메아리치는 노래, 목 안에서 쥐어짠 떨리는 팔세토와 조각조각 난 내장은 사람들을 전율시키고, 그 숨을 멎게 했다…… 하지만 더할 나위 없이…… 아름다웠지. 박사, 가르쳐 줘. 난 대체…… 무슨 짓을 하고 있는 거지?",
+                "cn": "我的歌声结束了所有人的生命。无止境的夜，不停止的歌，那些从喉咙里呕出的发颤高音和内脏碎片，令人恐惧，也让人窒息......却又那么......美妙。博士，你告诉我，我到底......在做什么？"
+            },
+            "asset": "char_250_phatom/CN_008"
+        },
+        {
+            "id": "char_250_phatom_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "I can end many lives for you, but I first need you to confirm that I am awake. Something is trying to influence me. It doesn't want me to leave the stage. It wants my song to echo forever... and it wants me to kill you. Before I play the role of your assassin once more, I must discover the truth.",
+                "jp": "君の為に多くの命を奪うことに躊躇いはない。しかしまずは私の目が覚めているか確かめさせてくれ。何かが私を支配しようとしているのだ。それは私が舞台を降りることを拒み、歌声を絶やすことを許さない……そして最後に、君さえも殺すだろう。再び君の刺客を演じることになる前に、私は真相を突き止めなければならないんだ。",
+                "kr": "너를 위해 수많은 이들의 목숨을 빼앗는 것에 망설임은 없다. 하지만, 먼저 내가 정신을 차렸는지부터 확인시켜줘. 뭔가가 나를 지배하려 하고 있다. 그것은 내가 무대에서 내려가는 것을 거부하고, 노랫소리가 멈추는 걸 용서치 않아…… 그리고 마지막엔, 너마저 죽여버리겠지. 다시 너의 자객을 연기하게 되기 전에, 나는 진상을 밝혀내야만 한다.",
+                "cn": "我能帮你取走许多生命，但我必须先确认自己是否清醒。有什么在尝试左右我，它不愿我走下舞台，它想让歌声永远回荡下去......甚至去杀死你。再次扮演你的刺客前，我必须先找到真相。"
+            },
+            "asset": "char_250_phatom/CN_009"
+        },
+        {
+            "id": "char_250_phatom_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "The shadows have never left your side, even without the night. Do be careful of your untimely somnolence, Doctor.",
+                "jp": "闇夜に非ずとも、黒い影は君につきまとう。不自然な時刻に現れる睡魔には用心するんだ、ドクター。",
+                "kr": "어두운 밤이 아니어도 검은 그림자는 너를 따라다닌다. 부자연스러운 시각에 나타나는 수마에는 주의를 기울여라, 박사.",
+                "cn": "即使现在并非黑夜，黑影也不曾离开你的身边。小心你那些不合时宜的睡意，博士。"
+            },
+            "asset": "char_250_phatom/CN_010"
+        },
+        {
+            "id": "char_250_phatom_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Code name, Phantom. The Phantom Behind the Curtain, Treasurer of the Night. Tell me, who are your enemies, and where do they hide?",
+                "jp": "ファントム、闇夜に彷徨う幽霊、緞帳裏の幻影。教えてくれ、君の敵の所在と、その名を……。",
+                "kr": "팬텀이라고 한다. 어두운 밤을 떠도는 유령, 무대막 뒤의 환영…… 가르쳐 줘, 너의 적이 있는 곳과 그 이름을……",
+                "cn": "代号傀影，黑夜中的幽灵，幕布后的幻影。告诉我，你的敌人在哪，是谁......"
+            },
+            "asset": "char_250_phatom/CN_011"
+        },
+        {
+            "id": "char_250_phatom_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Killing is not an end, but a means.",
+                "jp": "殺戮は目的ではない、手段の一つだ。",
+                "kr": "살육은 목적이 아니라, 일종의 수단이다.",
+                "cn": "杀戮不是目的，而是手段。"
+            },
+            "asset": "char_250_phatom/CN_012"
+        },
+        {
+            "id": "char_250_phatom_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "As you wish. You are the one who sets Rhodes Island's tune, and you require neither guide nor guardian... Yes, I know all too well, you are your own master.",
+                "jp": "仰せのままに。ロドスの曲調は君が決める、誰の導きも、保護も受けずに……そう、私にはわかる。君こそが君自身の主なのだ。",
+                "kr": "분부대로 하지. 로도스 아일랜드의 곡조는 네가 정해라. 누구의 지도도, 보호도 받지 않고…… 그래, 난 알 수 있어. 너야말로, 너 자신의 주인이다.",
+                "cn": "如你所愿。罗德岛的曲调由你来定，你不需要引导或保护......是的，我很清楚。你才是你自己的主人。"
+            },
+            "asset": "char_250_phatom/CN_013"
+        },
+        {
+            "id": "char_250_phatom_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "There is no looking back after this step, no turning back. What I am about to share with you is not as wonderful as you may believe... Come, come here, and allow me to show you what lies beneath the veil of night.",
+                "jp": "この一歩を踏み出せば、もう戻ることも、振り返ることも出来ない。今から私が見せるものは、想像のような美しさはないかもしれない。……さぁ、こちらへ。この闇夜の緞帳を、今君のために開けよう。",
+                "kr": "이 한 걸음을 내디디면 더는 돌아갈 수도, 뒤돌아볼 수도 없다. 지금부터 내가 보여주는 것은 상상했던 것처럼 아름답지 않을지도 몰라. 자… 이쪽으로… 이 어두운 밤의 무대막을, 지금 널 위해 올리겠다.",
+                "cn": "这一步无法回头，无法后望。我将与你分享的东西，恐怕并不像你想象中那样美妙。......过来，来这里，这黑夜的幕布，就让我为你揭开。"
+            },
+            "asset": "char_250_phatom/CN_014"
+        },
+        {
+            "id": "char_250_phatom_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Is it time for me to take the stage?",
+                "jp": "私の出番か？",
+                "kr": "내 차례인가?",
+                "cn": "该我登台了吗？"
+            },
+            "asset": "char_250_phatom/CN_017"
+        },
+        {
+            "id": "char_250_phatom_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "I am no stranger to giving guidance.",
+                "jp": "導きを与えろ……か？手慣れたものだ。",
+                "kr": "길을 이끌라… 는 건가? 익숙한 일이지.",
+                "cn": "给与引导，这我不陌生。"
+            },
+            "asset": "char_250_phatom/CN_018"
+        },
+        {
+            "id": "char_250_phatom_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "I'll do as you say...",
+                "jp": "君の指し示す方向に……",
+                "kr": "네가 가리키는 방향으로 가지……",
+                "cn": "就按你所说的方向......"
+            },
+            "asset": "char_250_phatom/CN_019"
+        },
+        {
+            "id": "char_250_phatom_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Let us raise the curtains on this play.",
+                "jp": "舞台の幕開けだ。",
+                "kr": "무대의 막이 오른다.",
+                "cn": "戏剧该揭开它的帷幕了。"
+            },
+            "asset": "char_250_phatom/CN_020"
+        },
+        {
+            "id": "char_250_phatom_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "I'm with you.",
+                "jp": "ああ。",
+                "kr": "여기 있다.",
+                "cn": "我在。"
+            },
+            "asset": "char_250_phatom/CN_021"
+        },
+        {
+            "id": "char_250_phatom_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "So, let us sink into the night.",
+                "jp": "では、夜のとばりに潜り込むとしよう。",
+                "kr": "그럼, 숨어들어가 보도록 하지. 밤의 장막 속으로……",
+                "cn": "那么，潜入夜幕吧。"
+            },
+            "asset": "char_250_phatom/CN_022"
+        },
+        {
+            "id": "char_250_phatom_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "I come from the shadows.",
+                "jp": "私は闇より現れる。",
+                "kr": "나는 어둠 속에서 나타난다.",
+                "cn": "我自暗影中现身。"
+            },
+            "asset": "char_250_phatom/CN_023"
+        },
+        {
+            "id": "char_250_phatom_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Hear my voice. Hear my song.",
+                "jp": "聞け、私の声を、歌を。",
+                "kr": "들어라. 나의 목소리를, 나의 노래를.",
+                "cn": "听我的声音。听我歌唱。"
+            },
+            "asset": "char_250_phatom/CN_024"
+        },
+        {
+            "id": "char_250_phatom_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Do you see your own face in the mirror?",
+                "jp": "鏡に映りし己が顔が見えるか。",
+                "kr": "거울에 비친 자신의 얼굴이 보이는가.",
+                "cn": "看到镜中你自己的脸了吗。"
+            },
+            "asset": "char_250_phatom/CN_025"
+        },
+        {
+            "id": "char_250_phatom_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "The actors are all puppets of the script.",
+                "jp": "演者は台詞の傀儡だ。",
+                "kr": "배우는 대사의 꼭두각시다.",
+                "cn": "演员是台词的傀儡。"
+            },
+            "asset": "char_250_phatom/CN_026"
+        },
+        {
+            "id": "char_250_phatom_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "The guilty... will be punished.",
+                "jp": "罪人は……罰を受けるべきだ。",
+                "kr": "죄인은…… 벌을 받아야 한다.",
+                "cn": "有罪者......当受罚。"
+            },
+            "asset": "char_250_phatom/CN_027"
+        },
+        {
+            "id": "char_250_phatom_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Yes, lift your voices! Sing for me! Sing for me!",
+                "jp": "私の為に――歌え！歌え！歌え！",
+                "kr": "나를 위해…… 노래하라! 노래하라! 노래하라!",
+                "cn": "为了我——歌唱吧！歌唱吧！歌唱吧！"
+            },
+            "asset": "char_250_phatom/CN_028"
+        },
+        {
+            "id": "char_250_phatom_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Is this the victory your leadership has brought about...?",
+                "jp": "これは君が導きし勝利か……",
+                "kr": "이것은 네가 이끈 승리인가……",
+                "cn": "这就是由你引导而来的胜利吗......"
+            },
+            "asset": "char_250_phatom/CN_029"
+        },
+        {
+            "id": "char_250_phatom_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "It is over. Victory is not sweet, as conflict always leaves an aftertaste.",
+                "jp": "終幕だ。勝利の味は甘美なものではない。紛争が孕む滋味は、それとは違う。",
+                "kr": "연극이 끝났다. 승리의 맛은 달콤하지 않아. 분쟁이 잉태하는 깊은 맛은, 승리의 맛과는 또 다르지.",
+                "cn": "结束了。胜利并不甜美，纷争总是孕化了其它滋味。"
+            },
+            "asset": "char_250_phatom/CN_030"
+        },
+        {
+            "id": "char_250_phatom_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "They escaped. Fortunate for them... and perhaps for me as well.",
+                "jp": "逃げられたか。彼らにとっては良い事だ……或いは、私にとってもな。",
+                "kr": "놓쳤나. 그들에게는 좋은 일이다…… 어쩌면, 나에게도 말이지.",
+                "cn": "被他们逃了。对他们来说是件好事......对我来说，或许也是。"
+            },
+            "asset": "char_250_phatom/CN_031"
+        },
+        {
+            "id": "char_250_phatom_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Fall back... You've already lost your way.",
+                "jp": "撤退だ。……君は行先を見失ったようだ。",
+                "kr": "후퇴한다…… 너는 갈 곳을 잃은 모양이군.",
+                "cn": "撤退。......你已经迷失了方向。"
+            },
+            "asset": "char_250_phatom/CN_032"
+        },
+        {
+            "id": "char_250_phatom_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Hm? Behind this mirror, there seems...",
+                "jp": "む？この鏡の後ろ、これは……",
+                "kr": "음? 이 거울의 뒤에 있는 건……",
+                "cn": "嗯？这面镜子后面，似乎......"
+            },
+            "asset": "char_250_phatom/CN_033"
+        },
+        {
+            "id": "char_250_phatom_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "What is it?",
+                "jp": "なんだ？",
+                "kr": "무슨 일이지?",
+                "cn": "什么？"
+            },
+            "asset": "char_250_phatom/CN_034"
+        },
+        {
+            "id": "char_250_phatom_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "The sound of these footsteps... It's you, Doctor.",
+                "jp": "この足音……やはり君か、ドクター。",
+                "kr": "이 발소리…… 역시 너였군, 박사.",
+                "cn": "这个脚步声......是你，博士。"
+            },
+            "asset": "char_250_phatom/CN_036"
+        },
+        {
+            "id": "char_250_phatom_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_250_phatom/CN_037"
+        },
+        {
+            "id": "char_250_phatom_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "The shadow behind you looks heavier than it was yesterday, Doctor.",
+                "jp": "後ろの影が昨日より重く見えるな、ドクター。",
+                "kr": "뒤의 그림자가 어제보다 무거워 보이는군, 박사.",
+                "cn": "你身后的影子看起来比昨天更沉重，博士。"
+            },
+            "asset": "char_250_phatom/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Ben Cura",
+            "global": "Ben Cura"
+        },
+        "cn": {
+            "native": "刘照坤",
+            "global": "Zhaokun Liu"
+        },
+        "jp": {
+            "native": "石田彰",
+            "global": "Akira Ishida"
+        },
+        "kr": {
+            "native": "표영재",
+            "global": "Pyo Young-jae"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

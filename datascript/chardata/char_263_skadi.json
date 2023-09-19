@@ -1,0 +1,596 @@
+{
+    "charid": "char_263_skadi",
+    "nameid": "skadi",
+    "names": {
+        "en": "Skadi",
+        "jp": "スカジ",
+        "kr": "스카디",
+        "cn": "斯卡蒂"
+    },
+    "voices": [
+        {
+            "id": "char_263_skadi_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "I advise you to keep at least two meters away from me, for your own good. And of course you shouldn't speak to me either... I don't want you to be the next victim of what's after me.",
+                "jp": "あなたのために言っておくけど、私からは少なくとも2メートル以上離れることね。勿論話しかけてくるのもなし……危険な目に遭わせるわけにはいかないから。",
+                "kr": "당신을 위해 미리 말해두는데, 나한테서 적어도 2미터 이상 떨어져 있어 줘. 물론 말을 거는 것도 마찬가지고. 위험에 빠뜨리고 싶지 않으니까.",
+                "cn": "为了你的安全着想，最好离我两米以上，也不要和我说话......我可不想你被冲着我来的危险伤到。"
+            },
+            "asset": "char_263_skadi/CN_001"
+        },
+        {
+            "id": "char_263_skadi_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "You've read my file? Terrible, isn't it? If I'm allowed to stay by your side, the same misfortune will befall you, and that's trouble for me too.",
+                "jp": "私の履歴書は見た？散々だったでしょ。そうね、私をそばに置くと、あなたは面倒事に巻き込まれることになるだろうし、私だって困るのよ。",
+                "kr": "내 이력서는 봤어? 처참하지… 맞아, 날 곁에 두면, 당신은 귀찮은 일에 휘말리게 될 거야. 그럼 나까지 곤란해지겠지.",
+                "cn": "看过我的履历了？我的过去可是很糟糕的。嗯，让我待在身边，不仅你会被卷入麻烦，我也会很难办的。"
+            },
+            "asset": "char_263_skadi/CN_002"
+        },
+        {
+            "id": "char_263_skadi_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "My long hair looks good? Oh… Well, thank you. Would you like to feel it? It should have a soft touch. I'm confident of that.",
+                "jp": "私の髪が長くて綺麗ですって？まぁ、そうね、ありがと……触ってみる？柔らかくてサラサラなはずだから。これにはちょっと自信があるの。",
+                "kr": "내 머리카락이 길고 예쁘다고? 뭐, 그렇지. 고마워… 만져볼래? 부드럽고 찰랑찰랑거리니까. 이건 조금 자신 있어.",
+                "cn": "我的头发很长，很好看？啊，嗯，谢谢......要不要摸摸看？我的头发还是挺柔软的。这方面，我还算是有些自信的哦。"
+            },
+            "asset": "char_263_skadi/CN_003"
+        },
+        {
+            "id": "char_263_skadi_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Could that be...? The one over there, you guys call her Specter now, right? Why is she dressed as a nun? Amnesia? That's a problem… Dr. {@nickname}, you have to help her. She can't be allowed to forget her true function.",
+                "jp": "あれは、もしかして……いや、今はスペクターと名乗ってるんだったわね。シスターの格好なんてして一体どういうつもり？記憶がない？それは厄介ね……ドクター、彼女には気を払っておいてね。自分の本当の役目を忘れるなんてダメに決まってるわ。",
+                "kr": "저건… 혹시… 아냐, 지금은 스펙터라는 이름을 쓰고 있다 했지. 수녀 같은 차림을 하곤, 대체 뭘 어쩔 셈이지? 기억이 없다고? 그거 참 골치 아프겠네… {@nickname} 박사, 스펙터에겐 신경 좀 써줘. 자기가 진짜 해야 할 일을 잊어버리는 건, 당연히 안 되겠지.",
+                "cn": "我没看错吧？那个人，现在叫幽灵鲨是吗，怎么穿成了修女的样子？失忆了？这可麻烦了......Dr.{@nickname}，你得帮帮她，可不能让她忘记自己真正的职责。"
+            },
+            "asset": "char_263_skadi/CN_004"
+        },
+        {
+            "id": "char_263_skadi_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "You just don't know when to give up, do you? I suppose I have no choice but to defend you with all my might.",
+                "jp": "まったく、あなたという人は本当に頑固ね……これじゃ私、もう全力であなたを守るしかないじゃない。",
+                "kr": "정말이지… 당신이란 사람은… 진짜 고집불통이네. 그럼 나, 전력을 다해 당신을 지킬 수밖에 없게 되잖아.",
+                "cn": "你这人，怎么这么执着，这样我不就只能老老实实保护你了吗。"
+            },
+            "asset": "char_263_skadi/CN_005"
+        },
+        {
+            "id": "char_263_skadi_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Down beneath the vast blue sea, below the white waves that lap endlessly at the earth, lies all that I once held dear. I fear that one day misfortune will once again take away someone important from me. That is why I fled. I don't want anyone I care about... to suffer on my account.",
+                "jp": "遠方へ広がる蒼、優しく砂を撫でる白き煌めき、その下にはかつて私が愛したすべてが眠っている。怖いの、厄災がまた私の大切な人を奪っていくのが。だから逃げることを選んだの。みんなが……私のせいで傷つかないように。",
+                "kr": "멀리 퍼져나가는 푸른빛… 부드럽게 모래를 쓰다듬는 하얀 반짝임… 그 아래엔, 전에 내가 사랑했던 모든 것들이 잠들어있어. 무서워… 불운이 또다시, 내 소중한 사람들을 빼앗아 갈까 봐. 그래서 도망치는 걸 선택한 거야. 모두가… 나로 인해 상처받지 않도록.",
+                "cn": "远方浩瀚蓝色与轻抚土地的白色碎片之下，埋葬着原本我所在乎的一切。我很害怕，害怕厄运会再次夺走我重要的人，所以我才会选择逃离，我不希望我珍视的人......因我而受伤。"
+            },
+            "asset": "char_263_skadi/CN_006"
+        },
+        {
+            "id": "char_263_skadi_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Good, another easy day. No giant tentacles coiling up my teammates, no fanatics lurking in the shadows with their hands coated in blood... Yes, just some straight fights on the battlefield. An easy day for me.",
+                "jp": "よし、今日もまた平和な一日だったわね！仲間を巻き込む巨大な触角もなければ、影に隠れた両手血まみれの狂ったモンスターもいない……戦場に出るだけなら、そうね、気が楽だわ！",
+                "kr": "좋아, 오늘도 평화로운 하루였네! 동료를 휘감는 거대한 더듬이가 없으면, 그림자 속에서 두 손이 피범벅인 채로 숨어있는 미친 괴물도 없어… 전장에 나가는 것뿐이라면, 그래, 마음이 편해.",
+                "cn": "好，又度过了轻松的一天！没有会卷走队友的巨大触须，也没有蹲在角落里满手是血的疯狂敌人......光是上上战场什么的，对，已经很轻松了！"
+            },
+            "asset": "char_263_skadi/CN_007"
+        },
+        {
+            "id": "char_263_skadi_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "According to legend, my people have fought against those calamities for aeons. Perhaps we kept them from making landfall and terrorizing you city folk as well... So, how about buying me a drink, as a thank you?",
+                "jp": "伝説によると、私の一族はあの厄災と長きにわたって戦ってきたと言うわ。もしかすると、私たちが街に住むあなた達に迫る厄災を陸の外に食い止めていたのかもしれないわね……。だとしたら、私に一杯ご馳走して、感謝の気持ちを示すべきなんじゃないかしら？",
+                "kr": "전설에 따르면, 내 일족은 그 재난과 긴 세월 동안 싸워왔다고 해. 어쩌면, 우리가 마을에 사는 당신들에게 닥칠 재난을 육지 밖에서 막아왔던 걸지도 모르겠네… 그렇다면, 나한테 술이라도 한잔 대접해서, 감사하는 마음을 보여야 하지 않을까?",
+                "cn": "根据传说，我的族裔已经和那些灾祸战斗了无数年。说不定，我们也帮你们这些城市人把灾祸挡在了陆地之外......所以说，是不是该请我喝一杯，好好谢谢我？"
+            },
+            "asset": "char_263_skadi/CN_008"
+        },
+        {
+            "id": "char_263_skadi_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "When you've finally made the long journey through the dark up to the water's surface—your eyes dazzled by the sparkling stars all over the sky, your cheek soothed by the cradling waves, your tears seep into your mouth. They have the same salty taste of your home—compared to all that, the bathtub at Rhodes Island is so tiny and puny... I'll have to show you my home someday.",
+                "jp": "長い長い暗闇を抜けて、ようやく水面を割る——目を開くと、滴るように輝く満天の星が眼窩に飛び込み、果てしなく広がる波が頬をなでる。零れた涙は、故郷と同じ潮の味がした。——それに比べて、ロドスのバスタブは狭くて浅い……いつかあなたにも、私の海を知ってもらいたいわ。",
+                "kr": "길고 긴 어둠을 지나, 마침내 수면을 가른다…… 눈을 뜨면, 이슬이 맺히듯이 빛나는 하늘에 가득 찬 별이 눈동자에 날아들어, 끝없이 펼쳐지는 파도가 볼을 스쳐온다…… 넘쳐흐르는 눈물은, 고향과 같은 바닷물의 맛이 났다…… 이 말과 비교하자면, 로도스 아일랜드의 욕조는 좁고 얕아… 언젠가 당신에게도, 나의 바다를 알려주고 싶네.",
+                "cn": "当你历经漫长黑暗、终于浮出海面——睁开眼睛的刹那，灿烂星空滴落眼眶、无垠波浪拂过面颊，眼泪和家的味道，都是咸的。相比下，罗德岛的浴缸真是又窄又浅......我一定得带你去试试才行。"
+            },
+            "asset": "char_263_skadi/CN_009"
+        },
+        {
+            "id": "char_263_skadi_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Dr. {@nickname}, you fell asleep…? Rest well then, and may you never see your dream eroded by sea waves.",
+                "jp": "ドクター、眠ってるの？おやすみ。水に追われることのない、いい夢を見られるといいわね。",
+                "kr": "{@nickname} 박사, 자? 잘 자. 물에 쫓기는 일 없는, 좋은 꿈을 꿨으면 좋겠네.",
+                "cn": "睡着了？睡吧，Dr.{@nickname}，得做个干燥的好梦哟。"
+            },
+            "asset": "char_263_skadi/CN_010"
+        },
+        {
+            "id": "char_263_skadi_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "I am Skadi, a bounty hunter. Are you really hiring me? I cannot say what calamities I may bring with me.",
+                "jp": "私はスカジ、バウンティハンターよ。あなた、本気で私を雇うつもり？私がいれば、厄災を招くかもしれないのよ？",
+                "kr": "난 스카디, 바운티 헌터야. 당신, 정말로 날 고용할 셈이야? 내가 있으면 불운을 불러올지도 모르는데?",
+                "cn": "斯卡蒂，赏金猎人。你真要签下我？我可是那种，会给你带来灾祸的人哦。"
+            },
+            "asset": "char_263_skadi/CN_011"
+        },
+        {
+            "id": "char_263_skadi_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "So this is how you fight. Rush in with a 'woosh,' knock them down with a 'pow,' and finish them with a 'thud.' Very good. I'll keep it in mind.",
+                "jp": "これがあなたたちの戦い方ってわけね……ダーッと行って、ドンッと倒して、パパッと片付ける！なるほど、覚えたわ。",
+                "kr": "이게 당신들의 싸움법이란 거구나… 타다닥 하고 달려가서, 퍽 하고 쓰러뜨려서, 파바밧 하고 해치운다, 이거지? 그렇구나, 기억했어.",
+                "cn": "呯呯地冲过去，咚地打倒敌人，啪地解决掉——原来你们是这么战斗的，我记住啦。"
+            },
+            "asset": "char_263_skadi/CN_012"
+        },
+        {
+            "id": "char_263_skadi_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "So this is the promotion you Rhodes Island folks are always going on about? Not bad. Feels like I've become stronger. Just by a bit, maybe.",
+                "jp": "これがロドスのみんながよく口にしてる「昇進」ね。悪くない感触だわ、まるで本当に強くなったみたい、ええ、多分ね。",
+                "kr": "이게 로도스 아일랜드 사람들이 자주 입에 담는 '승진'이란 거구나. 나쁘지 않은 느낌이야, 마치 진짜로 강해진 것 같아. 그래, 아마도.",
+                "cn": "这个就是那个，罗德岛干员常说的晋升吗？感觉不错，好像自己真的变强了呢，大概？"
+            },
+            "asset": "char_263_skadi/CN_013"
+        },
+        {
+            "id": "char_263_skadi_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Your thirst for my power really troubles me... But if nothing can really stop you, then brace yourself, for the infinite darkness we will stand against together.",
+                "jp": "そんなに求められると、結構困るのよ……。でも、もしその覚悟があるのなら、私と一緒にあの果てしない闇と向き合う準備をしなさい。",
+                "kr": "그렇게 날 원하면, 꽤 곤란한데… 그렇지만, 혹시 그 각오가 되어있다면, 나와 함께… 그 끝없는 어둠과 맞설 준비를 해둬.",
+                "cn": "这样渴求我的力量，真的让我很困扰......如果你真的无所畏惧，那么做好准备，和我一起直面无边无际的黑暗吧。"
+            },
+            "asset": "char_263_skadi/CN_014"
+        },
+        {
+            "id": "char_263_skadi_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "I <i>am</i> quite skilled at teamwork, but...",
+                "jp": "チーム戦はわりと得意だけど、ただ……。",
+                "kr": "팀전은 좀 하는 편이긴 해. 단지……",
+                "cn": "我倒也挺擅长团队作战，只是......"
+            },
+            "asset": "char_263_skadi/CN_017"
+        },
+        {
+            "id": "char_263_skadi_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "You're placing everyone's life in my hands?",
+                "jp": "みんなの命を私に預けるということかしら？",
+                "kr": "모두의 목숨을 나한테 맡기겠다는 건가?",
+                "cn": "你是把大家的性命交到我手上了吗？"
+            },
+            "asset": "char_263_skadi/CN_018"
+        },
+        {
+            "id": "char_263_skadi_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "It's hardly a sport when all the enemies are human.",
+                "jp": "相手が人間なら、あまり手応えはないかもね。",
+                "kr": "상대가 인간이라면, 그렇게 베는 맛이 좋진 않을지도 모르겠는데.",
+                "cn": "对手是人类的话，终归还是没什么手感。"
+            },
+            "asset": "char_263_skadi/CN_019"
+        },
+        {
+            "id": "char_263_skadi_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Compared to the calamities I fought against, you are barely a threat.",
+                "jp": "私が戦ってきた厄災と比べれば、全然大したことないわ。",
+                "kr": "나와 싸워온 재난에 비교하면, 정말 별거 없네.",
+                "cn": "和我面对过的灾厄相比，你们也太弱了。"
+            },
+            "asset": "char_263_skadi/CN_020"
+        },
+        {
+            "id": "char_263_skadi_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "By your command.",
+                "jp": "あなたに従うわ。",
+                "kr": "당신을 따를게.",
+                "cn": "听你的。"
+            },
+            "asset": "char_263_skadi/CN_021"
+        },
+        {
+            "id": "char_263_skadi_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "I'm used to fighting alone.",
+                "jp": "単独行動は慣れてるのよ。",
+                "kr": "단독 행동은 익숙해.",
+                "cn": "我习惯了独行。"
+            },
+            "asset": "char_263_skadi/CN_022"
+        },
+        {
+            "id": "char_263_skadi_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Let's share a dance.",
+                "jp": "深海の舞を見せましょう。",
+                "kr": "심해의 춤을 보여주도록 하지.",
+                "cn": "起舞吧。"
+            },
+            "asset": "char_263_skadi/CN_023"
+        },
+        {
+            "id": "char_263_skadi_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Better safe than sorry.",
+                "jp": "油断は禁物よ。",
+                "kr": "방심은 금물이야.",
+                "cn": "小心为上。"
+            },
+            "asset": "char_263_skadi/CN_024"
+        },
+        {
+            "id": "char_263_skadi_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Who knows what lurks within the kelp forest?",
+                "jp": "水面に漂う海草の奥に、何が潜んでると思う？",
+                "kr": "수면을 떠도는 해초 속엔, 뭐가 숨어있을 거 같아?",
+                "cn": "谁知道潮湿的海草间蛰伏着什么？"
+            },
+            "asset": "char_263_skadi/CN_025"
+        },
+        {
+            "id": "char_263_skadi_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "This sword has a terrifying past. Care to find out?",
+                "jp": "この剣の過去、知れば震え上がるわよ。",
+                "kr": "이 검의 과거를 알게 되면, 몸서리치게 될 거야.",
+                "cn": "这把剑的过去可是很恐怖的。"
+            },
+            "asset": "char_263_skadi/CN_026"
+        },
+        {
+            "id": "char_263_skadi_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Sing me a song, my torturous nightmare.",
+                "jp": "この身に纏う悪夢よ、唄え。",
+                "kr": "이 몸에 뒤엉킨 악몽이여, 노래하라.",
+                "cn": "纠缠着我的噩梦啊，唱个歌吧。"
+            },
+            "asset": "char_263_skadi/CN_027"
+        },
+        {
+            "id": "char_263_skadi_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Don't blink, for you may miss the misery of your death.",
+                "jp": "またたきせずに自分の死に様を見届けることね。",
+                "kr": "눈 깜빡이지 마. 자신이 죽는 모습을 끝까지 지켜봐야지.",
+                "cn": "别眨眼，你会错过自己的死状。"
+            },
+            "asset": "char_263_skadi/CN_028"
+        },
+        {
+            "id": "char_263_skadi_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "We survived somehow.",
+                "jp": "なんとか生き延びたわね。",
+                "kr": "어떻게든 살아남았네.",
+                "cn": "我们活下来了。"
+            },
+            "asset": "char_263_skadi/CN_029"
+        },
+        {
+            "id": "char_263_skadi_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "The words and thoughts of our enemies mean nothing to me. All I care about is how to defeat them.",
+                "jp": "敵がなんと言おうと、どんな考えがあろうと、私には関係ない。どう倒せばいいかという事にしか興味ないわ。",
+                "kr": "적이 뭐라 하든, 무슨 생각을 하든, 나랑은 상관없어. 어떻게 쓰러뜨리면 좋을지 말고는 관심 없으니까.",
+                "cn": "敌人怎么说，怎么想，都与我无关。我只知道他们会怎么倒下。"
+            },
+            "asset": "char_263_skadi/CN_030"
+        },
+        {
+            "id": "char_263_skadi_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Feeling a little rusty? Hope you won't mind having part of your share taken away.",
+                "jp": "腕がなまったのかしら？そんなことじゃ報酬が減るわよ。",
+                "kr": "실력이 무뎌진 거야? 이러면 보수가 줄어들잖아.",
+                "cn": "生疏了吗？到手的赏金会变少哟。"
+            },
+            "asset": "char_263_skadi/CN_031"
+        },
+        {
+            "id": "char_263_skadi_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Such simple misfortunes are only the beginning.",
+                "jp": "この程度の不幸なんて、まだ始まりに過ぎないのよ。",
+                "kr": "이 정도의 불행 따윈, 아직 시작에 불과해.",
+                "cn": "这种程度的不幸，也只是个开始罢了。"
+            },
+            "asset": "char_263_skadi/CN_032"
+        },
+        {
+            "id": "char_263_skadi_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Put me in a room by myself please.",
+                "jp": "周りに誰もいない部屋をお願い。",
+                "kr": "주위에 아무도 없는 방으로 부탁할게.",
+                "cn": "请给我安排个周围没人的房间。"
+            },
+            "asset": "char_263_skadi/CN_033"
+        },
+        {
+            "id": "char_263_skadi_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Oops... My hat.",
+                "jp": "あっ、帽子が！",
+                "kr": "앗, 모자가!",
+                "cn": "啊......帽子！"
+            },
+            "asset": "char_263_skadi/CN_034"
+        },
+        {
+            "id": "char_263_skadi_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Y-You should watch your distance... I really can't guarantee your safety this close…",
+                "jp": "ちょっと近いわ……ちゃ、ちゃんとあなたを守れる自信がないのに！",
+                "kr": "너무 가까워… 제, 제대로 당신을 지킬 자신이 없는데…",
+                "cn": "离我那么近......我，我可没有能完全保护你的自信！"
+            },
+            "asset": "char_263_skadi/CN_036"
+        },
+        {
+            "id": "char_263_skadi_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_263_skadi/CN_037"
+        },
+        {
+            "id": "char_263_skadi_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Never let down your guard, Doctor.",
+                "jp": "身の安全には気を配って、ドクター。",
+                "kr": "신변 안전에 주의해줘, 박사.",
+                "cn": "注意安全，博士。"
+            },
+            "asset": "char_263_skadi/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Cristina Vee",
+            "global": "Cristina Vee"
+        },
+        "cn": {
+            "native": "张琦",
+            "global": "Kiiki"
+        },
+        "jp": {
+            "native": "佐藤利奈",
+            "global": "Rina Sato"
+        },
+        "kr": {
+            "native": "김나율",
+            "global": "Kim Na-yul"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

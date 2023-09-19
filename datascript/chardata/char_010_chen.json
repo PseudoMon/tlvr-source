@@ -1,0 +1,596 @@
+{
+    "charid": "char_010_chen",
+    "nameid": "chen",
+    "names": {
+        "en": "Ch'en",
+        "jp": "チェン",
+        "kr": "첸",
+        "cn": "陈"
+    },
+    "voices": [
+        {
+            "id": "char_010_chen_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "I will be your bodyguard, Doctor.",
+                "jp": "ドクター、これよりキミの護衛を担当させてもらう。",
+                "kr": "박사, 지금부터 너의 호위를 담당하겠다.",
+                "cn": "博士，现在起由我担任你的护卫。"
+            },
+            "asset": "char_010_chen/CN_001"
+        },
+        {
+            "id": "char_010_chen_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "I've always had my suspicions about Rhodes Island. Still do.",
+                "jp": "ロドスの動向については、ずっと不審に感じているところがある。もちろん、今でもだ。",
+                "kr": "로도스 아일랜드의 동향은 계속 수상하다 여기고 있어. 물론 지금도 마찬가지다.",
+                "cn": "我一直觉得你们罗德岛很可疑，现在也一样。"
+            },
+            "asset": "char_010_chen/CN_002"
+        },
+        {
+            "id": "char_010_chen_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Why are you staring at me? Nothing better to do?",
+                "jp": "なぜこちらをじっと見ている？仕事はどうしたんだ？",
+                "kr": "뭘 그렇게 뚫어져라 쳐다보고 있는 거지? 일할 시간 아닌가?",
+                "cn": "你怎么还在盯着我看？你的工作呢？"
+            },
+            "asset": "char_010_chen/CN_003"
+        },
+        {
+            "id": "char_010_chen_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Hmph.",
+                "jp": "ふん……。",
+                "kr": "흥…",
+                "cn": "哼。"
+            },
+            "asset": "char_010_chen/CN_004"
+        },
+        {
+            "id": "char_010_chen_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "I know every nook and cranny in Lungmen. The docks, the neon signs, the winding paths, I can see them all in my mind, clear as day. I'll never forget them.",
+                "jp": "龍門の街じゅう、いたる所に足を運んだ。港、街中の看板や坂道……心に刻まれたこの街の風景を、私はいつまでも忘れることはないだろう。",
+                "kr": "용문 거리를 여기저기 돌아다녔다. 항구, 길거리의 간판이나 언덕길… 마음속 깊이 새겨진 이 도시의 풍경을, 난 영원히 잊지 못하겠지.",
+                "cn": "龙门的大街小巷我都走过。码头、招牌、坡道，那些风景印在我的心上。我永远都不会忘记。"
+            },
+            "asset": "char_010_chen/CN_005"
+        },
+        {
+            "id": "char_010_chen_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Things around here have deteriorated lately. I'll be on guard, but I'll still need you to be careful.",
+                "jp": "最近は周辺地域の情勢が急変してる。こちらは常に警戒態勢を敷いているが、くれぐれも油断しないでくれ。",
+                "kr": "최근 주변 지역의 정세가 급변하고 있다. 이쪽도 항상 경계 태세를 취하고 있지만, 그래도 방심하진 말라고.",
+                "cn": "周边地区的局势并不稳定，虽然我会时刻保持警戒，但你也不能疏忽大意。"
+            },
+            "asset": "char_010_chen/CN_006"
+        },
+        {
+            "id": "char_010_chen_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Maybe one day that man will take note of my efforts, but until then…",
+                "jp": "いつかはあの人に認めてもらえるかもしれない。その時までは……。",
+                "kr": "언젠가는 그 사람에게 인정받을지도 몰라. 그때까지는… ",
+                "cn": "也许有一天我会得到那个人的认可，在那之前......"
+            },
+            "asset": "char_010_chen/CN_007"
+        },
+        {
+            "id": "char_010_chen_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Amiya trusts you completely. When I see you two together, it makes me wonder... what if I had someone like that by my side?",
+                "jp": "アーミヤはキミのことをとても信頼しているようだな。キミ達ふたりを見てると、私にもそんな人がいれば、などとつい考えてしまう……。",
+                "kr": "아미야는 널 깊이 신뢰하는 모양이더군. 너희 둘을 보면, 내게도… 그런 사람이 있었으면 하는 생각이 든다.",
+                "cn": "阿米娅深深信赖着你。看着你们两人站在一起，我偶尔也会觉得，如果我身边，也能有这样一个人......"
+            },
+            "asset": "char_010_chen/CN_008"
+        },
+        {
+            "id": "char_010_chen_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "I've... I've never been able to rely much on anyone, not even...",
+                "jp": "私は……これまで誰にも背中を預けたことはない。あの人にさえ……。",
+                "kr": "난… 지금까지 누구에게도 등 뒤를 맡겨본 적이 없다. 그 사람에게 조차도… ",
+                "cn": "我......我从没试过去毫无保留地相信一个人，即使是那个人也......"
+            },
+            "asset": "char_010_chen/CN_009"
+        },
+        {
+            "id": "char_010_chen_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Doctor? You fell asleep? Hmph. No nerves to keep you awake, then.",
+                "jp": "……ドクター？眠っているのか？ふん、緊張感のないやつだ。",
+                "kr": "…박사? 자고 있는 건가? 흥, 긴장감 없는 녀석이군.",
+                "cn": "博士？睡着了？哼，真没紧张感。"
+            },
+            "asset": "char_010_chen/CN_010"
+        },
+        {
+            "id": "char_010_chen_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Ch'en. Leader of the L.G.D.'s Special Inspection Unit. For my own reasons,I'll be joining you for a while. Seeing as we're already well acquainted from our prior work together, I'll ask you to take me to my workplace now.",
+                "jp": "龍門近衛局、特別督察隊隊長のチェンだ。訳あってしばらくここに滞在させてもらう。以前の共闘でお互いのことはよく分かってるはずだ。今すぐ現場に連れて行ってもらおうか。",
+                "kr": "용문근위국 특별감찰팀 팀장, 첸이다. 사정이 있어 잠시 여기서 신세를 지게 되었다. 예전에 공동전선을 펼친 적도 있으니, 서로에 대해서는 알만큼 안다고 본다. 지금 바로 현장으로 안내해 주겠나?",
+                "cn": "陈，龙门近卫局特别督察组组长。基于一些特殊原因，我要暂时留在这里一段时间。之前的合作中，我想我们已经彼此了解了，请马上带我去工作现场吧。"
+            },
+            "asset": "char_010_chen/CN_011"
+        },
+        {
+            "id": "char_010_chen_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "It's all in the service of more efficient operations.",
+                "jp": "全てはより周到な任務遂行のために。",
+                "kr": "모든 것은 보다 빈틈없는 임무 수행을 위해… ",
+                "cn": "一切都是为了更好地执行任务。"
+            },
+            "asset": "char_010_chen/CN_012"
+        },
+        {
+            "id": "char_010_chen_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "A promotion? I've been through these things before.",
+                "jp": "昇進？私にとっては、特に珍しいことではないな。",
+                "kr": "승진? 내겐 딱히 특별한 일도 아니지.",
+                "cn": "晋升？这种事对我来说并不陌生。"
+            },
+            "asset": "char_010_chen/CN_013"
+        },
+        {
+            "id": "char_010_chen_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Roger. Just give me all the missions your usual Operators can't handle.",
+                "jp": "了解。普通のオペレーターの手に負えない任務は、全て私に任せてくれ。",
+                "kr": "알겠다. 평범한 오퍼레이터에게 버거운 임무는 전부 내게 맡겨라.",
+                "cn": "知道了。常规干员无法胜任的任务，全部交给我来处理。"
+            },
+            "asset": "char_010_chen/CN_014"
+        },
+        {
+            "id": "char_010_chen_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "No problem.",
+                "jp": "モウマンタイ。",
+                "kr": "모만타이.",
+                "cn": "没问题。"
+            },
+            "asset": "char_010_chen/CN_017"
+        },
+        {
+            "id": "char_010_chen_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Listen up! We'll be much more efficient if we work together.",
+                "jp": "総員、互いに連携を取り、効率よく動いてくれ。",
+                "kr": "전원, 서로 잘 연계하고, 효율적으로 움직이도록.",
+                "cn": "各位，记住，只有相互配合，才能高效行动。"
+            },
+            "asset": "char_010_chen/CN_018"
+        },
+        {
+            "id": "char_010_chen_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Everyone! Prepare for battle!",
+                "jp": "総員、戦闘準備。",
+                "kr": "전원, 전투 준비.",
+                "cn": "全体人员，做好战斗准备。"
+            },
+            "asset": "char_010_chen/CN_019"
+        },
+        {
+            "id": "char_010_chen_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Ready? Stick to the plan.",
+                "jp": "準備はいいか？では、作戦通りに。",
+                "kr": "준비는 되었나? 그럼 작전대로 진행하지.",
+                "cn": "准备好了吗？那么，一切按照计划进行。"
+            },
+            "asset": "char_010_chen/CN_020"
+        },
+        {
+            "id": "char_010_chen_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "This is Ch'en.",
+                "jp": "こちらチェン。",
+                "kr": "여기는 첸.",
+                "cn": "这里是陈。"
+            },
+            "asset": "char_010_chen/CN_021"
+        },
+        {
+            "id": "char_010_chen_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Ready to move.",
+                "jp": "いつでもいける。",
+                "kr": "언제든지 준비되어 있다.",
+                "cn": "我随时可以。"
+            },
+            "asset": "char_010_chen/CN_022"
+        },
+        {
+            "id": "char_010_chen_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Moving out!",
+                "jp": "行くぞ。",
+                "kr": "간다!",
+                "cn": "行动。"
+            },
+            "asset": "char_010_chen/CN_023"
+        },
+        {
+            "id": "char_010_chen_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Take them out fast.",
+                "jp": "すぐに片付ける。",
+                "kr": "바로 정리하겠다.",
+                "cn": "快速解决他们。"
+            },
+            "asset": "char_010_chen/CN_024"
+        },
+        {
+            "id": "char_010_chen_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Slash!",
+                "jp": "斬！",
+                "kr": "참!",
+                "cn": "斩！"
+            },
+            "asset": "char_010_chen/CN_025"
+        },
+        {
+            "id": "char_010_chen_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Flash!",
+                "jp": "閃！",
+                "kr": "섬!",
+                "cn": "闪！"
+            },
+            "asset": "char_010_chen/CN_026"
+        },
+        {
+            "id": "char_010_chen_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Drop your weapon!",
+                "jp": "武器を降ろせ！",
+                "kr": "무기를 버려라!",
+                "cn": "放下你的武器！"
+            },
+            "asset": "char_010_chen/CN_027"
+        },
+        {
+            "id": "char_010_chen_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Don't force my hand!",
+                "jp": "なめるなよ。",
+                "kr": "날 원망하지 마라!",
+                "cn": "不要逼我。"
+            },
+            "asset": "char_010_chen/CN_028"
+        },
+        {
+            "id": "char_010_chen_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Your evil must be stopped. I will do so by any means necessary.",
+                "jp": "悪事は決して許さない。どんな手を使ってでも阻止してみせる。",
+                "kr": "악행은 절대 용서하지 않아. 무슨 수를 써서라도 막아 보이겠어.",
+                "cn": "罪恶绝不能被容忍，不管用什么办法我都要阻止你们。"
+            },
+            "asset": "char_010_chen/CN_029"
+        },
+        {
+            "id": "char_010_chen_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Where did you find the courage to challenge me?",
+                "jp": "私と対峙しようというその自信は、どこから湧いて出たのだ？",
+                "kr": "나와 맞서겠다는 그 자신감은, 어디서 나온 거지?",
+                "cn": "是谁给了你们自信前来挑战我？"
+            },
+            "asset": "char_010_chen/CN_030"
+        },
+        {
+            "id": "char_010_chen_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "The wounded wait here for a medivac. The rest of you, stay on guard.",
+                "jp": "負傷者は待機して医療隊の救援を待て。その他のオペレーターは周囲の警戒を怠るな。",
+                "kr": "부상자는 여기서 의료부의 지원을 대기하고, 나머지 오퍼레이터는 계속 주변 경계에 신경쓰도록.",
+                "cn": "伤员请等待医疗队的救援。其他干员保持警戒。"
+            },
+            "asset": "char_010_chen/CN_031"
+        },
+        {
+            "id": "char_010_chen_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Tactical retreat. Don't break formation!",
+                "jp": "焦らず順次撤退するんだ。決して隊列を崩すな！",
+                "kr": "당황하지 마, 차례를 지켜 후퇴한다. 절대 진형을 무너뜨리지 마라!",
+                "cn": "有序撤退，不要让队伍崩溃！"
+            },
+            "asset": "char_010_chen/CN_032"
+        },
+        {
+            "id": "char_010_chen_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "So this is Rhodes Island's base? Bigger than I expected.",
+                "jp": "ここがロドスの内部施設か。意外と広いな。",
+                "kr": "여기가 로도스 아일랜드의 내부 시설인가. 의외로 넓은데?",
+                "cn": "这就是罗德岛的内部设施？意外的宽敞嘛。"
+            },
+            "asset": "char_010_chen/CN_033"
+        },
+        {
+            "id": "char_010_chen_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Hey! What are you doing!",
+                "jp": "おい！何をする！",
+                "kr": "어이! 뭐하는 거야!",
+                "cn": "喂！干什么呢！"
+            },
+            "asset": "char_010_chen/CN_034"
+        },
+        {
+            "id": "char_010_chen_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Doctor, you're in a good mood. Is it because that operation went well? Same here.",
+                "jp": "ドクター、機嫌が良いのは最近作戦が順調なおかげか？奇遇だな、私もだ。",
+                "kr": "박사, 요즘 작전이 잘 풀려서 기분이 좋은가? 우연이군, 나도 그렇다.",
+                "cn": "博士，你心情不错嘛，因为最近作战比较顺利？正巧，我也一样。"
+            },
+            "asset": "char_010_chen/CN_036"
+        },
+        {
+            "id": "char_010_chen_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_010_chen/CN_037"
+        },
+        {
+            "id": "char_010_chen_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Oh, it's you, Doctor.",
+                "jp": "むっ、ドクターか。",
+                "kr": "음, 박사인가.",
+                "cn": "哦，是博士啊。"
+            },
+            "asset": "char_010_chen/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Amy Lennox",
+            "global": "Amy Lennox"
+        },
+        "cn": {
+            "native": "虫虫",
+            "global": "Jen Zhang"
+        },
+        "jp": {
+            "native": "石上静香",
+            "global": "Shizuka Ishigami"
+        },
+        "kr": {
+            "native": "정유정",
+            "global": "Chung Yu-joung"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

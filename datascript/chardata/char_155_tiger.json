@@ -1,0 +1,596 @@
+{
+    "charid": "char_155_tiger",
+    "nameid": "tiger",
+    "names": {
+        "en": "Indra",
+        "jp": "インドラ",
+        "kr": "인드라",
+        "cn": "因陀罗"
+    },
+    "voices": [
+        {
+            "id": "char_155_tiger_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "If you got enemies about, just scream. I'll keep ya safe.",
+                "jp": "敵がいたら大声で呼べ！お前は俺が守ってやる。",
+                "kr": "적이 있으면 크게 소리 질러라, 넌 내가 지켜주마.",
+                "cn": "要是有敌人就大声喊，老子我会保护你。"
+            },
+            "asset": "char_155_tiger/CN_001"
+        },
+        {
+            "id": "char_155_tiger_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Where's that kid gone off to? Y'know, her... the really tanned shorty who's always trailing our Master... 'Morgan' is her nam- Oi! Stop right there!",
+                "jp": "あいつどこいった？いつも王の隣にいる、ちっちゃくて日焼けで真っ黒な奴。名前はモーガンっていう……あっコラァ！逃げんな！",
+                "kr": "그 녀석, 또 얼로 간 거지? 왜 맨날 왕 옆에 있는 그 쪼끄맣고 새까맣게 선탠한 녀석, 이름이 '모건'이라는 앤데… 야 인마! 거기 안 서?!",
+                "cn": "那家伙跑哪去了？总是跟在主子身边，矮矮的又晒得很黑，名字叫“摩根”的家伙......啊！别跑！"
+            },
+            "asset": "char_155_tiger/CN_002"
+        },
+        {
+            "id": "char_155_tiger_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "You scratch my back, I'll scratch yours, we keep it real that way, yeah? You treat me with respect, I'll do the same for you.",
+                "jp": "お互いに尊重しあうってのは大切なこったぜ。俺を尊重してくれりゃあ、お前はいつも五体満足でいられるようにしてやんよ。",
+                "kr": "서로 존중하는 건 중요한 거라고. 날 존중해주면, 네 사지는 계속 멀쩡하게 놔둬주지.",
+                "cn": "你帮我，我帮你，理所当然的吧。你要是尊重我，我就不会怠慢你。"
+            },
+            "asset": "char_155_tiger/CN_003"
+        },
+        {
+            "id": "char_155_tiger_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Seems our Majesty's really into your place. Don't see that every day, seeing as we're never anywhere same for long.",
+                "jp": "俺らの王は、どうやらお前んとこが気に入ったらしいぜ。まったく珍しいこともあるもんだ。あんまり同じ場所に留まることはねぇからな、俺ら。",
+                "kr": "우리 왕은, 아무래도 네가 맘에 든 모양이더라. 참 별 일도 다 있지. 원래 같은 장소에 오래 안 머물거든, 우리는.",
+                "cn": "我家主子好像还挺喜欢你这里的。还真是稀奇事啊，我们很少在同个地方停留太久的。"
+            },
+            "asset": "char_155_tiger/CN_004"
+        },
+        {
+            "id": "char_155_tiger_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Work or what have ya, you've gotta have guts!",
+                "jp": "仕事だろうがなんだろうが、気合いだ気合い。",
+                "kr": "일이든 뭐든, 다 기합이야 기합!",
+                "cn": "不管做什么工作，都得拿出气势。"
+            },
+            "asset": "char_155_tiger/CN_005"
+        },
+        {
+            "id": "char_155_tiger_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Whoa, whoa, chew before you swallow, mate! HEY! SOMEONE BRING US MORE MEAT! This girl's got an empty belly to fill!",
+                "jp": "おーおー、焦らずゆっくり食えや――オイ！もっと肉持ってこい！こいつには全然足りねぇぞ！",
+                "kr": "옳지 옳지~ 천천히 꼭꼭 씹어 먹어… 야! 이거 갖고 얘 배가 차겠냐?! 고기 더 갖고 와 고기!",
+                "cn": "哦~哦~不要着急慢慢吃吧~喂！给我再拿些肉吧！就这点，完全不够这孩子吃！"
+            },
+            "asset": "char_155_tiger/CN_006"
+        },
+        {
+            "id": "char_155_tiger_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Bleeding Morgan... she might seem like a layabout mostly, but she's our tactician when push comes to shove. Gets the job done. Gets on my nerves otherwise, though, and she loves it. Tch...",
+                "jp": "モーガンの野郎、いつも暇そうにしてるけどよ……一応俺たちの参謀として、やることはやってんだよな。暇な時は俺の邪魔ばっかりしてくるんでウザいけどな。チッ……！",
+                "kr": "모건 녀석, 항상 한가한 척이나 하고 있는데 말이야… 일단 우리 참모로서, 할 일은 또 잘한단 말이지… 한가할 땐 맨날 내 방해만 해서 짜증 나지만. 쳇…!",
+                "cn": "摩根那笨蛋，别看总是游手好闲的，她好歹算是给我们出谋划策的，该做的事还是会去做，虽然大多数时间都在给我捣乱。啧......！"
+            },
+            "asset": "char_155_tiger/CN_007"
+        },
+        {
+            "id": "char_155_tiger_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Doesn't she look brilliant, like a liege with a hammer in hand? I'm even more keen to see the look of her holding a sword, though.",
+                "jp": "ハンマー片手に佇む王、カッケーよな？でも俺は……剣を振るう王も見てみてぇかな。",
+                "kr": "망치를 한 손에 메고 있는 왕, 멋있지 않냐? 근데 나는… 검을 휘두르는 왕도 한 번 보고 싶단 말이지.",
+                "cn": "单手拿锤威风凛凛的王，帅吧？但老子我，还是更期待她用剑的样子哪。"
+            },
+            "asset": "char_155_tiger/CN_008"
+        },
+        {
+            "id": "char_155_tiger_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Out with it! Don't beat around the bush, just say it: who do you want dealt with?",
+                "jp": "言ってみろ！ほら遠慮すんなって！どいつをブチのめせばいい？",
+                "kr": "말해봐! 자 자 사양하지 말고! 누굴 때려눕혀줄까?",
+                "cn": "尽管开口！不用考虑那么多，就吩咐吧，你想解决谁？"
+            },
+            "asset": "char_155_tiger/CN_009"
+        },
+        {
+            "id": "char_155_tiger_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Tch. look at you spacing out like an idiot... Your own bloody fault if a tiger bites you.",
+                "jp": "……フン、マヌケな顔しやがって。トラに喰われても知らねぇぞ？",
+                "kr": "……흥, 표정 띨한 것 좀 봐. 호랑이한테 잡아 먹혀도 난 모른다?",
+                "cn": "哼。放松警惕了吗？就算你被老虎吃掉，我也不管哦。"
+            },
+            "asset": "char_155_tiger/CN_010"
+        },
+        {
+            "id": "char_155_tiger_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "I'm Indra. I don't have any of those weird crazy powers -- I let my fists do the talking. Nice to meet ya!",
+                "jp": "俺はインドラ。別に変わった能力は持ってねぇ、この拳で生きてんだ。んじゃ、よろしく頼むぜ！",
+                "kr": "난 인드라. 딱히 특이한 능력은 없어, 이 주먹 하나 믿고 살아왔지. 자 그럼, 잘 부탁해!",
+                "cn": "老子是因陀罗，没什么乱七八糟的能力，干架靠的就是这双拳头。那么，请多关照！"
+            },
+            "asset": "char_155_tiger/CN_011"
+        },
+        {
+            "id": "char_155_tiger_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Niiice, this is good stuff.",
+                "jp": "おお、こいつぁ気に入ったぜ。",
+                "kr": "오오, 이건 맘에 드네.",
+                "cn": "哦，这个不错，我喜欢。"
+            },
+            "asset": "char_155_tiger/CN_012"
+        },
+        {
+            "id": "char_155_tiger_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Promotions are great, almost as great as fighting is!",
+                "jp": "昇進はもちろん、喧嘩も同じくらい楽しいぜ。",
+                "kr": "승진도 즐겁긴 하지만, 싸움도 승진만큼 즐겁다고.",
+                "cn": "晋升固然好，打架也不赖！"
+            },
+            "asset": "char_155_tiger/CN_013"
+        },
+        {
+            "id": "char_155_tiger_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Don't be afraid. I'll protect ya.",
+                "jp": "俺が守ってやっから、後ろに下がって大人しくしてな。",
+                "kr": "내가 지켜줄 테니까, 내 뒤에 얌전히 숨어있어.",
+                "cn": "别怕，我能保护你。"
+            },
+            "asset": "char_155_tiger/CN_014"
+        },
+        {
+            "id": "char_155_tiger_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Where's the battlefield?",
+                "jp": "戦場はどこだ？",
+                "kr": "전장은 어디지?",
+                "cn": "战场在哪？"
+            },
+            "asset": "char_155_tiger/CN_017"
+        },
+        {
+            "id": "char_155_tiger_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "So, who's in the market for a walloping?",
+                "jp": "フルボッコにされてぇのは、どいつだ？",
+                "kr": "누구냐? 풀 파워로 줘 터지고 싶은 놈이?",
+                "cn": "又是谁想要挨揍？"
+            },
+            "asset": "char_155_tiger/CN_018"
+        },
+        {
+            "id": "char_155_tiger_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Mind your own sodding business and let me be!",
+                "jp": "俺のことは放っといて、自分の仕事してろ！",
+                "kr": "난 냅둬, 각자 알아서들 하라고!",
+                "cn": "你们干你们的活，没事别管我！"
+            },
+            "asset": "char_155_tiger/CN_019"
+        },
+        {
+            "id": "char_155_tiger_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Come on! Show me what you've got!",
+                "jp": "オラオラ、かかってこいや！",
+                "kr": "으라차차! 다 덤벼!",
+                "cn": "放马过来吧！"
+            },
+            "asset": "char_155_tiger/CN_020"
+        },
+        {
+            "id": "char_155_tiger_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Oi!",
+                "jp": "おい！",
+                "kr": "어이!",
+                "cn": "嘿！"
+            },
+            "asset": "char_155_tiger/CN_021"
+        },
+        {
+            "id": "char_155_tiger_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Get on with it, plod!",
+                "jp": "モタモタしてんじゃねーぞ！",
+                "kr": "우물쭈물 대지 마!",
+                "cn": "别拖拖拉拉的！"
+            },
+            "asset": "char_155_tiger/CN_022"
+        },
+        {
+            "id": "char_155_tiger_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Haha!",
+                "jp": "ハハッ！",
+                "kr": "하핫!",
+                "cn": "哈哈！"
+            },
+            "asset": "char_155_tiger/CN_023"
+        },
+        {
+            "id": "char_155_tiger_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "All right, it's my turn!",
+                "jp": "よっしゃ！俺の番だ！！",
+                "kr": "좋아! 내 차례다!!",
+                "cn": "好，轮到我了！"
+            },
+            "asset": "char_155_tiger/CN_024"
+        },
+        {
+            "id": "char_155_tiger_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "You bastard!",
+                "jp": "この野郎！！",
+                "kr": "이 자식이!!",
+                "cn": "你这个混球！"
+            },
+            "asset": "char_155_tiger/CN_025"
+        },
+        {
+            "id": "char_155_tiger_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Nothing can stop me!",
+                "jp": "何をビビってやがる！",
+                "kr": "뭘 쫄고 있어!",
+                "cn": "有什么好怕的！"
+            },
+            "asset": "char_155_tiger/CN_026"
+        },
+        {
+            "id": "char_155_tiger_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "You're dead meat!",
+                "jp": "お前の命も終わりだ！",
+                "kr": "네 목숨도 이제 끝이다!",
+                "cn": "你玩完了！"
+            },
+            "asset": "char_155_tiger/CN_027"
+        },
+        {
+            "id": "char_155_tiger_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Give it up!",
+                "jp": "無駄だぁ！",
+                "kr": "소용없어!",
+                "cn": "没用！"
+            },
+            "asset": "char_155_tiger/CN_028"
+        },
+        {
+            "id": "char_155_tiger_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "That's the stuff! That's what I call a kick!",
+                "jp": "この感じだ！たまんねーぜ！",
+                "kr": "바로 이 느낌이야! 못 참겠다니깐!",
+                "cn": "过瘾！太过瘾了！"
+            },
+            "asset": "char_155_tiger/CN_029"
+        },
+        {
+            "id": "char_155_tiger_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "You don't go home happy without some bloodshed!",
+                "jp": "血のない喧嘩はつまんねーからな！",
+                "kr": "싸우는 데 피를 안 보면 재미없지.",
+                "cn": "不见红，不畅快！"
+            },
+            "asset": "char_155_tiger/CN_030"
+        },
+        {
+            "id": "char_155_tiger_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Tch, we've got some who fled. Bunch of cowards.",
+                "jp": "チッ！逃げた奴がいるな！クソッタレ。",
+                "kr": "쳇! 도망친 녀석이 있나 보네. 제기랄.",
+                "cn": "嘁，有人逃跑了，扫兴。"
+            },
+            "asset": "char_155_tiger/CN_031"
+        },
+        {
+            "id": "char_155_tiger_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Not bad... But I'll get you back for this!",
+                "jp": "やるな、覚えてろよ――！",
+                "kr": "좀 치네? 너 내가 얼굴 기억해뒀다!! 두고봐!",
+                "cn": "你，不错嘛，给我等着——！"
+            },
+            "asset": "char_155_tiger/CN_032"
+        },
+        {
+            "id": "char_155_tiger_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "What's this room about? More of a squeeze than anywhere I've been.",
+                "jp": "なんだこの部屋、前いたとこより全然狭めーじゃねぇか。",
+                "kr": "뭐야 이 방은. 전에 있던 데 보다 한참 좁잖아.",
+                "cn": "这房间怎么回事啊，比我过去待的要窄好多。"
+            },
+            "asset": "char_155_tiger/CN_033"
+        },
+        {
+            "id": "char_155_tiger_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Oi! You got a bleedin' death wish?",
+                "jp": "おい！ぶっ飛ばされてぇのかテメー！",
+                "kr": "야! 이게 처맞을라고…",
+                "cn": "喂，敢动我，把你打飞哦！"
+            },
+            "asset": "char_155_tiger/CN_034"
+        },
+        {
+            "id": "char_155_tiger_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "C'mere, lemme get my arms around you! Yes, I mean hug you!",
+                "jp": "さぁ、飛び込んでこい！あれだ、ハグってやつだ！",
+                "kr": "자, 일로 튀어와! 아 왜 그거 있잖아, 포옹 한 번 하자고!",
+                "cn": "来吧！拥抱一下！对，就是拥抱的那个意思！"
+            },
+            "asset": "char_155_tiger/CN_036"
+        },
+        {
+            "id": "char_155_tiger_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_155_tiger/CN_037"
+        },
+        {
+            "id": "char_155_tiger_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "What's up, Doctor!",
+                "jp": "よっ！ドクター。",
+                "kr": "야! 박사!",
+                "cn": "哟！博士。"
+            },
+            "asset": "char_155_tiger/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Polly Eachus",
+            "global": "Polly Eachus"
+        },
+        "cn": {
+            "native": "苗洋",
+            "global": "Mia Miao"
+        },
+        "jp": {
+            "native": "原優子",
+            "global": "Yuko Hara"
+        },
+        "kr": {
+            "native": "이새벽",
+            "global": "Lee Sae-byeok"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

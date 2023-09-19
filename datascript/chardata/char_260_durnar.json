@@ -1,0 +1,591 @@
+{
+    "charid": "char_260_durnar",
+    "nameid": "durnar",
+    "names": {
+        "en": "Dur-nar",
+        "jp": "ジュナー",
+        "kr": "듀나",
+        "cn": "坚雷"
+    },
+    "voices": [
+        {
+            "id": "char_260_durnar_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Aw, c'mon, get someone more literate for this job. I'm a soldier, all I know is following orders. Paperwork's beyond me.",
+                "jp": "書類仕事なんてもっとできる人にやってもらってよ。私みたいな実戦経験ばっかりの軍隊上がりには本当にお手上げなんだって！",
+                "kr": "서류 업무 같은 건 더 잘하는 사람한테 해달라고 해. 나 같이 실전 경험밖에 없는 퇴역 군인한텐 진짜 막막하다니까!",
+                "cn": "就不能找个专业的人来做这些活嘛，文职工作什么的，我这种只懂服从命令的士兵搞不明白的呀！"
+            },
+            "asset": "char_260_durnar/CN_001"
+        },
+        {
+            "id": "char_260_durnar_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Life is tough enough already. Let's relax with some butter, frosting and jam.",
+                "jp": "しょっぱい人生はクリーム、お砂糖、ジャムであまーく味付けしちゃえばいいのよ。",
+                "kr": "씁쓸한 인생은 크림, 설탕, 잼으로 달콤~한 맛을 내버리면 돼.",
+                "cn": "人生已经够艰难啦，来点奶油、霜糖和果酱，调和一下吧。"
+            },
+            "asset": "char_260_durnar/CN_002"
+        },
+        {
+            "id": "char_260_durnar_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "If Frostleaf wasn't still lugging that big axe around, there's no way I would've recognized her. We fought together before, probably as enemies. Anyway, I'm relieved to see her living the good life at Rhodes Island.",
+                "jp": "あれだけ目を引く斧を抱えてなければ、あの子がフロストリーフだなんて絶対わからなかったわ。そうね……かつて戦場では敵同士だったあの子だけど、ロドスでの生活を謳歌してるみたいだし、なんだか安心したわ。",
+                "kr": "저렇게 눈에 띄는 도끼를 들고 있지 않으면 저 아이가 프로스트리프라는 건 분명 몰랐을 거야. 그래…… 한때 전장에서 적으로 만났던 아이지만, 로도스 아일랜드의 생활을 좋아하는 모양이라 왠지 안심했어.",
+                "cn": "要不是霜叶小姐还抱着她那把显眼的斧子，我绝对认不出现在的她。嗯......那是在战场上，而且我们可能算是敌人呢。不过，看到她在罗德岛生活得不错，我就放心了。"
+            },
+            "asset": "char_260_durnar/CN_003"
+        },
+        {
+            "id": "char_260_durnar_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Watch it, Doctor, you can't go touching my weapon. I just replaced the Originium on that thing. It's dangerous when you hold it wrong... Look out! I, I'll take you to Medical...",
+                "jp": "ドクター、私の武器にうかつに触れないで。源石を交換したばっかりで危ないから、変に持ったら……危ないっ！い、医務室に行きましょう……",
+                "kr": "박사, 내 무기를 함부로 만지지 마. 오리지늄을 교환한 지 얼마 안 돼서 위험하니까, 이상하게 잡으면…… 위험해! 의, 의무실로 가자……",
+                "cn": "博士，别随便拿我的武器呀，这东西刚刚更换了源石，十分危险，握法不对的话......哎小心！我，我送你去医务室吧......"
+            },
+            "asset": "char_260_durnar/CN_004"
+        },
+        {
+            "id": "char_260_durnar_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Defensive ability is what matters to a Defender. I don't care if it's organic fiber or ceramic padding, as long as it's the state-of-the-art, just buy it!",
+                "jp": "重装オペレーターに求められることはなんと言っても防御力よね！有機繊維の防刃ベストも、セラミック装甲も、新しい防具が出たらまずは使ってみるに限るわ。",
+                "kr": "디펜더 오퍼레이터에게 요구되는 건 뭐니 뭐니 해도 방어력이야! 유기 섬유 방검 조끼든 세라믹 장갑이든 새 방어구가 나오면 일단은 써봐야겠지.",
+                "cn": "作为重装干员，我们的防御能力——最关键！无论是有机纤维背心还是陶瓷装甲，只要有防御装备的新产品面世，立刻买来用就对啦。"
+            },
+            "asset": "char_260_durnar/CN_005"
+        },
+        {
+            "id": "char_260_durnar_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Stories from my past? Umm… Don't have much to say. I mean, what kind of story could a bad tempered soldier have? All those merits and medals... Hmph, they're nothing in the face of the lives lost.",
+                "jp": "昔のこと？うーん……特に話せるようなことはないわ。気の短い一介の兵士にろくな過去なんてあるわけないでしょ？功績や勲章なんて…ふっ、死んでいった人たちの命と比べたら何の価値もないわよ……。",
+                "kr": "옛날 일? 으음…… 딱히 이야기할만한 건 없는데. 성격 급한 일개 병사한테 변변한 과거 같은 게 있을 리 없잖아? 공적이나 훈장 같은 건…… 훗, 죽어간 사람들의 목숨에 비하면 아무런 가치도 없어……",
+                "cn": "以前的事情吗？以前......没什么好说的吧，一个脾气很差的士兵能有什么故事，对吧。功勋和徽章，呵，和死去的人的生命相比，这些算得了什么......"
+            },
+            "asset": "char_260_durnar/CN_006"
+        },
+        {
+            "id": "char_260_durnar_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "The greenies we got in the reserves are pretty good. But they suck at securing amenities. Back in my day, the rookies were way smarter about hiding cookies.",
+                "jp": "近頃の予備隊の新人たちは確かにみんな良い子で優秀だけど、生活を良くする知恵がぜんっぜん働かないのよね。私が新人の頃は、みんな備蓄の乾パンをパクることに関しては達人級の腕前だったんだから。",
+                "kr": "요즘 예비팀 신입들은 확실히 다들 착하고 우수하지만, 더 편히 사는 잔머리를 전혀 못 굴리더라고. 내가 신입이었을 땐 다들 비축 건빵을 꿍쳐놓는 데는 도가 텄었거든.",
+                "cn": "最近预备队新人们的素质可真不错，就是自行改善生活的本事实在是差了点，当年新兵偷藏压缩饼干的把戏可高明多了。"
+            },
+            "asset": "char_260_durnar/CN_007"
+        },
+        {
+            "id": "char_260_durnar_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "I talked to Logistics. From now on, they're putting 'Industrial Material' on all our snack packaging. Then, all we need is you to sign off on them for us, Doctor.",
+                "jp": "お菓子のパッケージには「工業原料」と記載するようにと、支援部の人に伝えておいたわ。ドクターはサインして物資を通してくれればいいだけだから、お願いね。",
+                "kr": "과자 포장에 '공업원료'라고 기재하라고 후방 지원부 사람한테 말해 뒀어. 박사는 사인해서 물자를 통과시켜 주기만 하면 되니까, 부탁 좀 할게.",
+                "cn": "我和后勤部的干员打过招呼了，以后，他们会在所有零食包装上写好“工业原料”，到时候，签字通过就靠你啦，博士。"
+            },
+            "asset": "char_260_durnar/CN_008"
+        },
+        {
+            "id": "char_260_durnar_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Doctor? Oh, sorry. I was all caught up in reminiscing. I still can't get past certain things. If my old commander was anything like you, maybe... We wouldn't have had to go through that.",
+                "jp": "ドクター？ええ、あの……ごめんなさい。やっぱりどうしても忘れられないことってあるの。あの時、もし私の上官がドクターみたいな人だったら、あんな事は起きなかったかもしれない。……つい、そんなことを考えてしまって。",
+                "kr": "박사? 어어, 저기…… 미안해. 역시 아무리 해도 잊을 수 없는 게 있더라고. 그때, 만약 내 상관이 박사 같은 사람이었다면 그런 일은 발생하지 않았을지도 몰라. ……그냥 그런 생각이 들어서.",
+                "cn": "博士？嗯，啊啊，抱歉。有些事情，还是忘不掉啊。如果以前我的指挥官像博士你一样的话，哎......也许，过去就不会发生那种事了。"
+            },
+            "asset": "char_260_durnar/CN_009"
+        },
+        {
+            "id": "char_260_durnar_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Psst, Psst! Want some pop rocks? I got all kinds. I know I got one you'll love.",
+                "jp": "はじけるキャンディでもどう？いろんなフレーバーがあるから、きっとドクターも満足できるはずよ。",
+                "kr": "퍼핑캔디라도 어때? 여러 맛이 있으니까 분명 박사도 만족할 거야.",
+                "cn": "想不想来点跳跳糖？我这什么口味都有，你肯定会满意的。"
+            },
+            "asset": "char_260_durnar/CN_010"
+        },
+        {
+            "id": "char_260_durnar_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Hard as rock and lethal as lightning! That's me, Dur-nar. Nice to meet you, Doctor.",
+                "jp": "岩のように硬く、雷のように鋭い。それが私、ジュナーよ。よろしくね、ドクター。",
+                "kr": "바위처럼 단단하고 번개처럼 날카롭다. 그게 나, 듀나야. 잘 부탁해, 박사.",
+                "cn": "磐石般坚硬，雷霆般致命，那就是我，坚雷。请多指教哦，博士。"
+            },
+            "asset": "char_260_durnar/CN_011"
+        },
+        {
+            "id": "char_260_durnar_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Ah, shoot, I'm out of popcorn.",
+                "jp": "やだ、ポップコーンがもうないわ。",
+                "kr": "이런, 팝콘이 벌써 떨어졌잖아.",
+                "cn": "啊，不好，爆米花已经吃完了。"
+            },
+            "asset": "char_260_durnar/CN_012"
+        },
+        {
+            "id": "char_260_durnar_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "A promotion? Good, good, do I get paid more too? Awesome!",
+                "jp": "昇進？ってことは給料も上がるわよね？やった！",
+                "kr": "승진? 그럼 급료도 오르는 거지? 앗싸!",
+                "cn": "晋升了？好呀好呀，薪水也涨了吗？太好了！"
+            },
+            "asset": "char_260_durnar/CN_013"
+        },
+        {
+            "id": "char_260_durnar_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "The old me only knew how to charge on ahead and fight without stopping. Now, I fight for everybody. Just give your orders, Doctor.",
+                "jp": "昔は敵に突っ込んで戦うことしか頭になかったけど、今はみんなのために戦うことを覚えたわ。さあ、命令をちょうだい、ドクター。",
+                "kr": "옛날엔 적에게 파고들어 싸우는 법밖에 머리에 없었는데, 지금은 모두를 위해 싸우는 법을 배웠어. 자, 명령을 내려줘 박사.",
+                "cn": "以前的我只知道向前冲、不断地战斗，现在不一样了，我为大家而战，下令吧，博士。"
+            },
+            "asset": "char_260_durnar/CN_014"
+        },
+        {
+            "id": "char_260_durnar_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Ready to deploy. Where am I needed?",
+                "jp": "いつでも行けるわよ。次の現場はどこ？",
+                "kr": "언제든지 갈 수 있어. 다음 현장은 어디야?",
+                "cn": "随时待命，哪里需要我？"
+            },
+            "asset": "char_260_durnar/CN_017"
+        },
+        {
+            "id": "char_260_durnar_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "I only have one request: Safety first and don't ever forget it.",
+                "jp": "一つだけお願い。安全第一に行動することだけは忘れないで。",
+                "kr": "하나만 부탁할게. 안전을 최우선으로 행동하는 것만은 잊지 마.",
+                "cn": "我只有一个要求：安全第一，千万别忘了。"
+            },
+            "asset": "char_260_durnar/CN_018"
+        },
+        {
+            "id": "char_260_durnar_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "We're off! Remember to stay frosty and keep an eye out.",
+                "jp": "出発の時間よ！常に身の回りには注意を払って。",
+                "kr": "출발 시간이야! 항상 신변에 주의를 기울여.",
+                "cn": "出发！哦对了，要注意周围的情况哦。"
+            },
+            "asset": "char_260_durnar/CN_019"
+        },
+        {
+            "id": "char_260_durnar_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "I never did get used to the stench of war.",
+                "jp": "はぁ。戦場の空気って相変わらずサイアクね。",
+                "kr": "하아. 전장의 공기는 여전히 최악이네.",
+                "cn": "呼啊，战场的空气还是那么糟糕。"
+            },
+            "asset": "char_260_durnar/CN_020"
+        },
+        {
+            "id": "char_260_durnar_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Yes sir!",
+                "jp": "はい！",
+                "kr": "네!",
+                "cn": "是！"
+            },
+            "asset": "char_260_durnar/CN_021"
+        },
+        {
+            "id": "char_260_durnar_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "In position!",
+                "jp": "スタンバイ！",
+                "kr": "스탠바이!",
+                "cn": "已就位！"
+            },
+            "asset": "char_260_durnar/CN_022"
+        },
+        {
+            "id": "char_260_durnar_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "I'll leave the support to you.",
+                "jp": "サポートは任せるわ。",
+                "kr": "서포트는 맡길게.",
+                "cn": "支援就拜托你们了。"
+            },
+            "asset": "char_260_durnar/CN_023"
+        },
+        {
+            "id": "char_260_durnar_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Cover me!",
+                "jp": "援護お願い！",
+                "kr": "엄호 부탁해!",
+                "cn": "掩护我！"
+            },
+            "asset": "char_260_durnar/CN_024"
+        },
+        {
+            "id": "char_260_durnar_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Hold the line!",
+                "jp": "戦線を維持！",
+                "kr": "전선을 유지!",
+                "cn": "守住战线！"
+            },
+            "asset": "char_260_durnar/CN_025"
+        },
+        {
+            "id": "char_260_durnar_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Don't be an idiot!",
+                "jp": "無駄なあがきはやめなさい！",
+                "kr": "쓸데없는 발버둥은 그만해!",
+                "cn": "别再做无谓的事了！"
+            },
+            "asset": "char_260_durnar/CN_026"
+        },
+        {
+            "id": "char_260_durnar_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Ya ain't gettin' through me!",
+                "jp": "ここは通さない！",
+                "kr": "여기는 못 지나간다!",
+                "cn": "此路不通！"
+            },
+            "asset": "char_260_durnar/CN_027"
+        },
+        {
+            "id": "char_260_durnar_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Stay down!",
+                "jp": "下がれ！",
+                "kr": "물러나!",
+                "cn": "退下！"
+            },
+            "asset": "char_260_durnar/CN_028"
+        },
+        {
+            "id": "char_260_durnar_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Ever heard of the Medal of Glory? I feel that's tailor-made for you.",
+                "jp": "名誉勲章って聞いたことある？きっとドクターのためにあるものだと思うわ。",
+                "kr": "명예 훈장이라고 들어본 적 있어? 분명 박사를 위해 있는 걸 거야.",
+                "cn": "听说过荣誉勋章吗，我觉得吧，这东西大概就是为你准备的。"
+            },
+            "asset": "char_260_durnar/CN_029"
+        },
+        {
+            "id": "char_260_durnar_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "No need to clean up the battlefield? Okay, then we're done here.",
+                "jp": "戦場の後片付けはしなくていいの？わかった、じゃあ撤収しましょう！",
+                "kr": "전장의 뒤처리는 안 해도 돼? 알았어, 그럼 철수하자!",
+                "cn": "不用清理战场吗？好吧，那就收工走人咯！"
+            },
+            "asset": "char_260_durnar/CN_030"
+        },
+        {
+            "id": "char_260_durnar_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "The enemy still hasn't gone far. Should we chase them down?",
+                "jp": "敵はまだ遠くまで行ってないはず。追ったほうがいい？",
+                "kr": "적은 아직 멀리까지 가지 않았을 거야. 쫓아가는 편이 나을까?",
+                "cn": "敌人还没走远，需要追击吗？"
+            },
+            "asset": "char_260_durnar/CN_031"
+        },
+        {
+            "id": "char_260_durnar_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Take it easy, Doctor. It's not your fault...",
+                "jp": "ドクター、あまり自分を責めないで……この結果はあなたのせいじゃないわ……",
+                "kr": "박사, 너무 자책하지 마…… 이 결과는 당신 탓이 아니야……",
+                "cn": "放轻松，博士......这个结果，不是你的错......"
+            },
+            "asset": "char_260_durnar/CN_032"
+        },
+        {
+            "id": "char_260_durnar_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Whoa, I bet a fancy interior like this cost a bundle!",
+                "jp": "わお、これだけ豪華な内装なら、お金も相当かかってるでしょ。",
+                "kr": "와우, 이렇게나 호화로운 인테리어라면 돈도 꽤 들었겠는데.",
+                "cn": "哇，装修这么豪华，一定花了不少钱吧。"
+            },
+            "asset": "char_260_durnar/CN_033"
+        },
+        {
+            "id": "char_260_durnar_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Hmph, Who the--",
+                "jp": "くっ！誰よ！？",
+                "kr": "큭! 누구야?!",
+                "cn": "谁啊？！"
+            },
+            "asset": "char_260_durnar/CN_034"
+        },
+        {
+            "id": "char_260_durnar_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "You must be drunk to want to hear me sing war songs. Okay, don't you regret it.",
+                "jp": "私の軍歌を聴きたいなんて、もしかして酔ってるの？……後悔しても知らないわよ。",
+                "kr": "내 군가가 듣고 싶다니, 혹시 취했어? ……후회해도 모른다?",
+                "cn": "你喝醉了吧，想听我唱军歌？......可别后悔啊。"
+            },
+            "asset": "char_260_durnar/CN_036"
+        },
+        {
+            "id": "char_260_durnar_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_260_durnar/CN_037"
+        },
+        {
+            "id": "char_260_durnar_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Good morning!",
+                "jp": "おはよー。",
+                "kr": "좋은 아침~",
+                "cn": "早上好~"
+            },
+            "asset": "char_260_durnar/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Triya Leong",
+            "global": "Triya Leong"
+        },
+        "cn": {
+            "native": "卢晓彤",
+            "global": "Thea"
+        },
+        "jp": {
+            "native": "森なな子",
+            "global": "Mori Nanako"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp"
+    ]
+}

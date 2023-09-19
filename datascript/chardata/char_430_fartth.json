@@ -1,0 +1,596 @@
+{
+    "charid": "char_430_fartth",
+    "nameid": "fartth",
+    "names": {
+        "en": "Fartooth",
+        "jp": "ファートゥース",
+        "kr": "파투스",
+        "cn": "远牙"
+    },
+    "voices": [
+        {
+            "id": "char_430_fartth_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "It's done. The battle plans, reports, and mission schedules have all been sorted... Eh... Is this not the right way? Sorry, I'm not used to this yet...",
+                "jp": "……できた。作戦プランとレポート、それから任務の時間割をそれぞれ分類して……え、分け方が間違ってる？ごめん、まだこの仕事には慣れなくて……",
+                "kr": "……됐다. 작전 플랜과 리포트, 그리고 임무 시간표를 각각 분류해서…… 응? 분류를 잘못했다고? 미안, 아직 일이 익숙하지 않아서……",
+                "cn": "......完成了。作战计划，报告书，任务安排都已经分好类别......啊，这样分不对吗？抱歉，我还不太熟悉这个......"
+            },
+            "asset": "char_430_fartth/CN_001"
+        },
+        {
+            "id": "char_430_fartth_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Iwona and Ashlock can make quite a ruckus together. I can't hear the wind when they do that. It's a pain.",
+                "jp": "イヴォナと灰毫が騒ぐせいで、風の音が聴こえなくなっちゃうこともあって困る。",
+                "kr": "이보나랑 회색 붓꼬리가 소란을 피워서, 바람 소리가 들리다 안 들리다 그러네. 곤란한데.",
+                "cn": "艾沃娜和灰毫，有时会很吵闹，会害我听不清风声。"
+            },
+            "asset": "char_430_fartth/CN_002"
+        },
+        {
+            "id": "char_430_fartth_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Hm? Who's that in the training grounds...? The Radiant Knight? Doctor, is it okay if I go check it out up close?",
+                "jp": "あれ？訓練場のあの人は……耀騎士？……ドクター、近くに見に行ってもいい？",
+                "kr": "응? 훈련장에 있는 저 사람은…… 빛의 기사? ……박사, 가까이 가서 봐도 될까?",
+                "cn": "唔？训练场里的那个人是......耀骑士？......博士，我也可以过去那边看看吗？"
+            },
+            "asset": "char_430_fartth/CN_003"
+        },
+        {
+            "id": "char_430_fartth_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "It's really close. When I sit here and look outside, I can see the crops in the distant ripening as the farmers harvest their fields. It's just like my hometown.",
+                "jp": "……似てる。ここに座って外を眺めてると、遠くの畑で作物が実って、人々が収穫する光景が見える。私の故郷そっくりだよ。",
+                "kr": "……닮았어. 이곳에 앉아서 밖을 내다보면 저 멀리 논밭에서 작물이 여물고 사람들이 수확하는 광경이 보여. 내 고향하고 정말 똑같아.",
+                "cn": "......很像。坐在这里向外看，远处田里的作物成熟，人们正在收获的景象，和我的家乡很像。"
+            },
+            "asset": "char_430_fartth/CN_004"
+        },
+        {
+            "id": "char_430_fartth_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "It's actually not very hard to become a knight in Kazimierz if you're healthy. All you have to do is sign up at the arena. But to become a real 'knight' is difficult. Real difficult, even for those who are healthy.",
+                "jp": "健康な人なら、カジミエーシュで騎士になるのは簡単だよ。競技場に行って登録するだけだから。でも本当の「騎士」になるつもりなら、健康だろうがそうじゃなかろうが、すごく難しい。すごくね。",
+                "kr": "건강한 사람이라면 카시미어에서 기사가 되는 건 간단해. 아레나에 가서 등록만 하면 되니까. 하지만 진정한 '기사'가 되는 건, 건강하든, 그렇지 않든, 굉장히 어려워. 굉장히.",
+                "cn": "健康的人想在卡西米尔成为骑士很简单，只要去竞技场注册就可以。但想要成为真正的“骑士”，不管你是什么人，都会很难。非常难。"
+            },
+            "asset": "char_430_fartth/CN_005"
+        },
+        {
+            "id": "char_430_fartth_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "I agree with Sona's ideas, and I'm willing to fight for them... Though, I guess I might just be afraid of losing the one place where I belong. Doctor, do you also see Rhodes Island as a place you will protect no matter what it takes?",
+                "jp": "ソーナの考え方には賛成だし、そのために戦うことも厭わないけど……実際は、自分の居場所を失くしたくないだけかもしれない。ドクター、君にとってロドスは、そんなふうに全てをかけても守りたい場所なの？",
+                "kr": "소나의 사고방식에는 찬성이고, 그걸 위해서라면 싸우는 것도 마다하지 않겠지만…… 실은 자신이 있을 곳을 잃고 싶지 않은 것뿐일지도 몰라. 박사, 네게 있어서 로도스 아일랜드는 그렇게 모든 걸 걸고서라도 지키고 싶은 곳이야?",
+                "cn": "我赞同索娜的想法，也愿意为此而战斗......不过，实际上，或许我只是不想失去仅有的容身之所。博士，对你来说，罗德岛也是这样不惜一切也要捍卫的地方吗？"
+            },
+            "asset": "char_430_fartth/CN_006"
+        },
+        {
+            "id": "char_430_fartth_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Thank you for treating us. Sona, Iwona, and Ashlock asked me to bring you these as thanks. And here's one that I picked. It's a small token of my appreciation.",
+                "jp": "……治療のお礼。これはソーナとイヴォナ、あとは灰毫に頼まれた分。あとこれは、私が選んだ分。ほんの気持ちだけどね。",
+                "kr": "……치료해 준 보답이야. 이건 소나랑 이보나, 그리고 회색 붓꼬리가 부탁한 몫… 그리고 이건, 내가 고른 거야. 별 거 없긴 하지만.",
+                "cn": "......治疗的谢礼。这是索娜，艾沃娜，还有灰毫拜托我带来的。还有，这一个是我选的。只是一点心意而已。"
+            },
+            "asset": "char_430_fartth/CN_007"
+        },
+        {
+            "id": "char_430_fartth_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "I used to dream of becoming a knight, but on the way to the Grand Knight Territory, I got infected in an accident. I still remember how it felt. The numbness spread from my palm to my fingertips... That was the first time I couldn't hold my sword.",
+                "jp": "昔は、私もすごく騎士に憧れてた。でも大騎士領に向かう途中、予想外の事故で感染者になってしまった。あの時の感覚は、今でも覚えてる。手のひらから指先まで痺れが広がって……初めて、剣を上手く握れないと感じたよ。",
+                "kr": "예전에는 나도 기사를 많이 동경했었어. 하지만 그랜드 나이트 영지로 향하던 도중에, 예상 밖의 사고가 생겨서 감염자가 되고 말았지. 그때의 그 감각은 지금도 생생해. 손바닥에서 손끝까지 마비가 되고…… 그땐 난생 처음, 검을 제대로 못 쥐게 되겠구나 싶었지.",
+                "cn": "曾经，我非常憧憬成为骑士。但就在去大骑士领的路上，一次意外让我成了感染者。就算是现在，我也还记得当时的感觉，从手掌，一直麻木到指尖......第一次，我握不住剑。"
+            },
+            "asset": "char_430_fartth/CN_008"
+        },
+        {
+            "id": "char_430_fartth_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Here's a grass whistle... Want to listen to me use it? I used to whistle with it whenever I had some free time back home. The wind back then is not like it is now. It was clear as crystal, and it wasn't dangerous at all... It was calming.",
+                "jp": "……草笛、聴きたい？故郷にいた頃は、暇な時によく吹いてた。あの頃の風は今と違って、透き通っていて、危ない感じもしない……安心する風だったんだ。",
+                "kr": "풀피리 부는 거…… 들어 볼래? 고향에 있을 때는 한가할 때 자주 불었거든. 그때의 바람은 지금이랑은 다르게 굉장히 맑았어. 위험한 느낌도 없었지…… 마음이 놓이는…… 그런 바람이었어.",
+                "cn": "......口笛，要听吗？以前在家乡，空闲的时候会吹。那个时候的风和现在不同，还很干净，不会有危险......让人安心。"
+            },
+            "asset": "char_430_fartth/CN_009"
+        },
+        {
+            "id": "char_430_fartth_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Finally awake? Here, the files are sorted... Should be right this time, I think?",
+                "jp": "起きた？はい、整理したファイル……今回は間違ってないよね？",
+                "kr": "일어났어? 자, 정리한 파일…… 이번에는 실수한 거 없지?",
+                "cn": "你醒了？给，整理好的文件......这次没有出错了。"
+            },
+            "asset": "char_430_fartth/CN_010"
+        },
+        {
+            "id": "char_430_fartth_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "'Fartooth' Justyna, Pinus Sylvestris Knightclub. You can call me Fartooth. I've heard about Rhodes Island and you in particular, Doctor.",
+                "jp": "レッドパイン騎士団所属、「遠牙（えんが）」ユスティナ。私のことは「ファートゥース」って呼んで。ロドスのことも、君のことも噂に聞いてるよ、ドクター。",
+                "kr": "피누스 실베스트리스 기사단 소속, '송곳니' 저스티나라고 해. 그냥 '파투스'라고 불러 줘. 로도스 아일랜드랑 네 얘기는 소문으로 많이 들었어, 박사.",
+                "cn": "红松骑士团所属骑士，“远牙”查丝汀娜，叫我远牙就好。我听过关于罗德岛，还有你的事，博士。"
+            },
+            "asset": "char_430_fartth/CN_011"
+        },
+        {
+            "id": "char_430_fartth_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "They're going to lose. If they don't take a proper defense stance, they won't be able to block this one. You've got them.",
+                "jp": "……負ける。しっかり防御態勢をとらないと、相手はあの一撃には耐えられないよ。きっと負ける。",
+                "kr": "……질 거야. 방어 태세를 제대로 갖추지 못하면, 상대는 그 일격을 버티지 못할 거야. 분명 질 거야.",
+                "cn": "......要输了。如果不回防，对手接不下这样一招。对面会输。"
+            },
+            "asset": "char_430_fartth/CN_012"
+        },
+        {
+            "id": "char_430_fartth_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "A promotion? Is that something like advancing to the next round?",
+                "jp": "昇進？次戦進出みたいなもの……？",
+                "kr": "승진? 다음 라운드 진출 같은 건가……?",
+                "cn": "晋升？是和晋级差不多的意思吗......？"
+            },
+            "asset": "char_430_fartth/CN_013"
+        },
+        {
+            "id": "char_430_fartth_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "There's not much that I want, and I don't have much either. That's why... as long as I'm still standing here, nobody can hope to take anything from me!",
+                "jp": "私は欲しいものも、持ってるものも、ほんの少しだけ。だから……私がここに立っている限り、もう誰にも何一つ奪わせない！",
+                "kr": "나는 갖고 싶은 것도, 가진 것도 얼마 없어. 그러니까…… 내가 여기 서 있는 한, 더는 누구에게도, 아무것도 빼앗기지 않아!",
+                "cn": "我要的不多，我有的不多。所以......只要我还站在这，不管是谁，都别想再从我手里抢走任何东西！"
+            },
+            "asset": "char_430_fartth/CN_014"
+        },
+        {
+            "id": "char_430_fartth_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "...I'll do as you say. You are my commander, and I'll follow your orders.",
+                "jp": "……従う。君がここの指揮官だし、その指示に従うよ。",
+                "kr": "……따를게. 네가 이곳의 지휘관이니까, 그 지시에 따르겠어.",
+                "cn": "......听你的。你是指挥官，我会听你的吩咐行动。"
+            },
+            "asset": "char_430_fartth/CN_017"
+        },
+        {
+            "id": "char_430_fartth_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "A team battle? Understood.",
+                "jp": "団体戦？わかった。",
+                "kr": "단체전? 알았어.",
+                "cn": "团体战吗？明白了。"
+            },
+            "asset": "char_430_fartth/CN_018"
+        },
+        {
+            "id": "char_430_fartth_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Ready. Line up... Sortie!",
+                "jp": "身だしなみを整えて、整列。……出発！",
+                "kr": "몸가짐을 단정히 하고 정렬…… 출발!",
+                "cn": "整装。列队。......出发！"
+            },
+            "asset": "char_430_fartth/CN_019"
+        },
+        {
+            "id": "char_430_fartth_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Wait, the winds have shifted... Everyone, stay alert!",
+                "jp": "止まって。風向きが変わった……総員警戒！",
+                "kr": "멈춰. 바람의 방향이 바뀌었어…… 전원 경계!",
+                "cn": "等等，风的流向变了......提高警惕！"
+            },
+            "asset": "char_430_fartth/CN_020"
+        },
+        {
+            "id": "char_430_fartth_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Yeah, I'm ready whenever.",
+                "jp": "うん。いつでもいけるよ。",
+                "kr": "응, 언제든지 좋아.",
+                "cn": "嗯。随时能上。"
+            },
+            "asset": "char_430_fartth/CN_021"
+        },
+        {
+            "id": "char_430_fartth_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "One-on-one, or one-on-many?",
+                "jp": "一対一？それとも一対多？",
+                "kr": "일대일? 아니면 일대 다수?",
+                "cn": "一对一，还是一对多？"
+            },
+            "asset": "char_430_fartth/CN_022"
+        },
+        {
+            "id": "char_430_fartth_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "I hope we can win this match fair and square.",
+                "jp": "正々堂々と勝負をつけよう。",
+                "kr": "정정당당하게 승부하자.",
+                "cn": "希望我们能堂堂正正决出胜负。"
+            },
+            "asset": "char_430_fartth/CN_023"
+        },
+        {
+            "id": "char_430_fartth_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "I, 'Fartooth' Justyna, will be your opponent.",
+                "jp": "「遠牙」ユスティナがお前たちの相手になる。",
+                "kr": "‘송곳니’ 저스티나가, 너희를 상대해주마.",
+                "cn": "“远牙”查丝汀娜，由我来做你们的对手。"
+            },
+            "asset": "char_430_fartth/CN_024"
+        },
+        {
+            "id": "char_430_fartth_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "The winds are stirring. I can tell.",
+                "jp": "聴こえる。風がざわめいてる。",
+                "kr": "들려. 바람이 술렁이고 있어.",
+                "cn": "风在鼓噪。我能听得出。"
+            },
+            "asset": "char_430_fartth/CN_025"
+        },
+        {
+            "id": "char_430_fartth_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "I've locked onto you.",
+                "jp": "狙いは定めた。",
+                "kr": "목표는 정했다.",
+                "cn": "瞄准你了。"
+            },
+            "asset": "char_430_fartth/CN_026"
+        },
+        {
+            "id": "char_430_fartth_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "There's no need to talk in battle.",
+                "jp": "戦闘中に、余計な言葉は不要だ。",
+                "kr": "전투 중에 괜한 말은 필요 없어.",
+                "cn": "战斗中，无须多言。"
+            },
+            "asset": "char_430_fartth/CN_027"
+        },
+        {
+            "id": "char_430_fartth_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Let's put an end to this... You can't beat me; accept your defeat.",
+                "jp": "……ここまでにしよう。お前たちじゃ私に勝てない。やめておいたほうがいい。",
+                "kr": "……이쯤 해 둬. 너희는 날 이길 수 없어. 그만두는 게 좋을 거야.",
+                "cn": "......到此为止。你们赢不了我，停手吧。"
+            },
+            "asset": "char_430_fartth/CN_028"
+        },
+        {
+            "id": "char_430_fartth_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "You've done well, Doctor. This is a glorious victory.",
+                "jp": "良かったよ、ドクター。名誉ある勝利だね。",
+                "kr": "다행이야, 박사. 명예로운 승리였어.",
+                "cn": "做得不错，博士。这是一场荣誉的胜利。"
+            },
+            "asset": "char_430_fartth/CN_029"
+        },
+        {
+            "id": "char_430_fartth_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "I fended them off just as you instructed... I'm being too solemn? Really...?",
+                "jp": "ご命令に背かず、なんとか敵を討ち果たせたよ。……大げさ過ぎる？そうかな……",
+                "kr": "명령에 따라 적을 무찔렀어…… 너무 호들갑이라고? 그런가……",
+                "cn": "幸不辱命，全部解决了。......太严肃了？是吗......"
+            },
+            "asset": "char_430_fartth/CN_030"
+        },
+        {
+            "id": "char_430_fartth_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "I won't attack those who leave the arena.",
+                "jp": "競技場を離れた相手に手は出さないよ。",
+                "kr": "아레나를 떠난 상대에겐 손대지 않아.",
+                "cn": "我不对那些离开赛场的人动手。"
+            },
+            "asset": "char_430_fartth/CN_031"
+        },
+        {
+            "id": "char_430_fartth_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Go on ahead...! I'll hold them here, Doctor! Lead the others away!",
+                "jp": "……先に行って！ここは私が抑える。ドクター、他の人を連れて先に逃げて！",
+                "kr": "……먼저 가! 여긴 내가 막을게. 박사, 다른 사람들을 데리고 먼저 도망쳐!",
+                "cn": "......先走！这里我来应对，博士，带着其他人先离开！"
+            },
+            "asset": "char_430_fartth/CN_032"
+        },
+        {
+            "id": "char_430_fartth_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Not bad. The airflow here feels refreshing... Thank you.",
+                "jp": "悪くないね。流れる空気も透き通ってる……ありがとう。",
+                "kr": "나쁘지 않네. 주변 공기도 맑고…… 고마워.",
+                "cn": "不坏。流动的空气感觉很干净......谢谢。"
+            },
+            "asset": "char_430_fartth/CN_033"
+        },
+        {
+            "id": "char_430_fartth_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Hm? What is it? Want an autograph?",
+                "jp": "ん？どうしたの、サインでもほしいの？",
+                "kr": "응? 왜 그래? 사인이라도 해 줄까?",
+                "cn": "嗯？什么，要签名吗？"
+            },
+            "asset": "char_430_fartth/CN_034"
+        },
+        {
+            "id": "char_430_fartth_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Doctor...? Yeah, I can tell it's you without listening to your footsteps. The winds around you aren't like the others.",
+                "jp": "ドクター？……うん、足音を聞かなくたってわかるよ。風の感じが他とは違うから。",
+                "kr": "박사? ……응, 발소리를 듣지 않아도 알아. 바람의 느낌이 다른 사람들이랑 다르거든.",
+                "cn": "博士？......嗯，不用听脚步声我也能认得出。风的感觉和别人不同。"
+            },
+            "asset": "char_430_fartth/CN_036"
+        },
+        {
+            "id": "char_430_fartth_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_430_fartth/CN_037"
+        },
+        {
+            "id": "char_430_fartth_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Don't move... Your hair's sticking out. That's right. Stay still. I'll fix it for you.",
+                "jp": "……動かないで。髪がハネてるよ。そう、動かないで、直してあげるから。",
+                "kr": "……움직이지 마. 머리가 뻗쳐 있잖아. 그래, 가만히 있어. 정리해 줄게.",
+                "cn": "......别动。头发翘起来了，嗯，先别动，我来帮你。"
+            },
+            "asset": "char_430_fartth/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Samantha Dakin",
+            "global": "Samantha Dakin"
+        },
+        "cn": {
+            "native": "刘雯",
+            "global": "Wen Liu"
+        },
+        "jp": {
+            "native": "三森すずこ",
+            "global": "Suzuko Mimori"
+        },
+        "kr": {
+            "native": "여윤미",
+            "global": "Yeo Yun-mi"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

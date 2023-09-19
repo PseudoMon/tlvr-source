@@ -1,0 +1,532 @@
+{
+    "charid": "char_502_nblade",
+    "nameid": "nblade",
+    "names": {
+        "en": "Yato",
+        "jp": "ヤトウ",
+        "kr": "야토",
+        "cn": "夜刀"
+    },
+    "voices": [
+        {
+            "id": "char_502_nblade_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Hey, Doctor. Do me a favor and just tell me what you need done.",
+                "jp": "やあ、ドクター。今日の仕事内容だけ教えてもらえると助かる。",
+                "kr": "어, 박사. 오늘 업무 내용만 알려주면 고맙겠는데.",
+                "cn": "博士，只要告诉我今天的工作内容就行了。"
+            },
+            "asset": "char_502_nblade/CN_001"
+        },
+        {
+            "id": "char_502_nblade_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "I'll be watching you even when I'm off duty.",
+                "jp": "勤務時間外でも、ドクターの状況を気にかけておこう。",
+                "kr": "근무 시간 외에도 박사의 상황을 주시하도록 할게.",
+                "cn": "即使在工作之外的时间里，我也会注意您的状况。"
+            },
+            "asset": "char_502_nblade/CN_002"
+        },
+        {
+            "id": "char_502_nblade_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Hm? Do you need something?",
+                "jp": "うん？何か用か？",
+                "kr": "응? 무슨 일이지?",
+                "cn": "嗯？有什么事吗？"
+            },
+            "asset": "char_502_nblade/CN_003"
+        },
+        {
+            "id": "char_502_nblade_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "My skin is sensitive to sunlight. So please assign me to nighttime missions, whenever you can.",
+                "jp": "私の肌は日差しに相当弱いので、できるだけ夜の任務につかせてほしい。",
+                "kr": "내 피부는 햇빛에 상당히 약하니까, 될 수 있는 한 야간 임무에 넣어줬으면 좋겠어.",
+                "cn": "我的皮肤对阳光的抵抗力非常弱，所以我希望您尽可能地把夜间行动的任务安排给我。"
+            },
+            "asset": "char_502_nblade/CN_004"
+        },
+        {
+            "id": "char_502_nblade_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "There's limits to what I'm capable of, but even so, I want to help ease the burden you carry, Doctor.",
+                "jp": "私たちにできることは限られているが、それでも、もっとドクターの負担を軽減してあげられるようになりたいものだ。",
+                "kr": "우리가 할 수 있는 일엔 한계가 있지만, 그래도 박사의 부담을 더 덜어주고 싶어.",
+                "cn": "虽然我们能做到的事有限，但我还是希望能帮忙减轻您的负担。"
+            },
+            "asset": "char_502_nblade/CN_007"
+        },
+        {
+            "id": "char_502_nblade_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "I can't help but feel just a little envious when I see how the other Operators fight...",
+                "jp": "ほかのオペレーターたちの活躍を見てると、なんだか羨ましく思ってしまうんだ……。",
+                "kr": "다른 오퍼레이터들의 활약을 보고 있으면, 왠지 부럽게 느껴져… ",
+                "cn": "每当我看到其他小队的干员们的活跃表现，总是会特别羡慕......"
+            },
+            "asset": "char_502_nblade/CN_008"
+        },
+        {
+            "id": "char_502_nblade_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "I need no particular reason to fight for you, Doctor. I hope to see an exciting frontline battle someday...",
+                "jp": "ドクターのために戦いたいという気持ちに、理由なんてないさ。いつか、私たちにも最前線で活躍できる日が来るといいな……。",
+                "kr": "박사를 위해 싸우고 싶다는 마음에 이유 따윈 없어. 언젠가는, 우리에게도 최전선에서 활약할 수 있는 날이 왔으면 좋겠네… ",
+                "cn": "我想为博士出战的心情，是不需要理由的。希望总有一天，我们也能活跃在日常战斗的最前线......"
+            },
+            "asset": "char_502_nblade/CN_009"
+        },
+        {
+            "id": "char_502_nblade_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Doctor, let me be your guardian, now and forever...",
+                "jp": "……ドクター、これからもずっとあなたを守らせてくれ。",
+                "kr": "……박사, 앞으로도 계속 당신을 지키게 해줘.",
+                "cn": "博士，让我今后也一直守护着您吧。"
+            },
+            "asset": "char_502_nblade/CN_010"
+        },
+        {
+            "id": "char_502_nblade_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Vanguard Yato here. Are you the one I'm protecting?",
+                "jp": "先鋒オペレーターのヤトウだ。あなたが――私の守るべき人なのか？",
+                "kr": "뱅가드 오퍼레이터 야토라고 한다. 당신이… 내가 지켜야 하는 사람인가?",
+                "cn": "先锋干员夜刀，你——就是我要保护的人吗？"
+            },
+            "asset": "char_502_nblade/CN_011"
+        },
+        {
+            "id": "char_502_nblade_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Thank you.",
+                "jp": "感謝する。",
+                "kr": "고마워.",
+                "cn": "非常感谢。"
+            },
+            "asset": "char_502_nblade/CN_012"
+        },
+        {
+            "id": "char_502_nblade_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Yato has joined the team.",
+                "jp": "ヤトウ、入隊する。",
+                "kr": "야토, 팀에 들어가겠다.",
+                "cn": "夜刀，入队。"
+            },
+            "asset": "char_502_nblade/CN_017"
+        },
+        {
+            "id": "char_502_nblade_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "We're ready to execute your plans, Doctor.",
+                "jp": "皆には、ドクターの作戦に合わせて行動させる。",
+                "kr": "팀원들은 박사의 작전에 맞춰 행동하도록.",
+                "cn": "各位都会配合您的战术的，博士。"
+            },
+            "asset": "char_502_nblade/CN_018"
+        },
+        {
+            "id": "char_502_nblade_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "All Operators, be on alert.",
+                "jp": "全隊、警戒態勢に入る。",
+                "kr": "전 팀원, 경계 태세에 들어간다.",
+                "cn": "全队，从现在起进入警戒模式。"
+            },
+            "asset": "char_502_nblade/CN_019"
+        },
+        {
+            "id": "char_502_nblade_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Targets spotted. Get ready for battle.",
+                "jp": "目標出現、戦闘準備を。",
+                "kr": "목표 출현, 전투 준비!",
+                "cn": "目标出现了，做好战斗准备。"
+            },
+            "asset": "char_502_nblade/CN_020"
+        },
+        {
+            "id": "char_502_nblade_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Here.",
+                "jp": "はい。",
+                "kr": "그래.",
+                "cn": "是。"
+            },
+            "asset": "char_502_nblade/CN_021"
+        },
+        {
+            "id": "char_502_nblade_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Go ahead.",
+                "jp": "どうぞ。",
+                "kr": "얘기 해.",
+                "cn": "请说。"
+            },
+            "asset": "char_502_nblade/CN_022"
+        },
+        {
+            "id": "char_502_nblade_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Got it.",
+                "jp": "わかった。",
+                "kr": "알았어.",
+                "cn": "我知道了。"
+            },
+            "asset": "char_502_nblade/CN_023"
+        },
+        {
+            "id": "char_502_nblade_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Understood!",
+                "jp": "了解。",
+                "kr": "알겠다.",
+                "cn": "我明白。"
+            },
+            "asset": "char_502_nblade/CN_024"
+        },
+        {
+            "id": "char_502_nblade_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "In a blink of an eye!",
+                "jp": "一閃！",
+                "kr": "일섬!",
+                "cn": "一闪！"
+            },
+            "asset": "char_502_nblade/CN_025"
+        },
+        {
+            "id": "char_502_nblade_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Prepare yourself!",
+                "jp": "覚悟しろ。",
+                "kr": "각오해라.",
+                "cn": "觉悟吧！"
+            },
+            "asset": "char_502_nblade/CN_026"
+        },
+        {
+            "id": "char_502_nblade_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Haaaaghhh!",
+                "jp": "はあああ……！",
+                "kr": "하아아아…!",
+                "cn": "哈......"
+            },
+            "asset": "char_502_nblade/CN_027"
+        },
+        {
+            "id": "char_502_nblade_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Slash you down!",
+                "jp": "斬る！",
+                "kr": "베어주마!",
+                "cn": "斩！"
+            },
+            "asset": "char_502_nblade/CN_028"
+        },
+        {
+            "id": "char_502_nblade_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "As long as we follow the Doctor's orders, we won't have any problems.",
+                "jp": "ドクターの作戦通りに最後まで動けば、この通り何も問題は起きない。",
+                "kr": "박사의 작전대로 마지막까지 움직이면, 지금처럼 아무런 문제도 일어나지 않는구나.",
+                "cn": "只要我们将博士的战术坚持到底，就绝不会发生任何问题。"
+            },
+            "asset": "char_502_nblade/CN_029"
+        },
+        {
+            "id": "char_502_nblade_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "The Doctor's brilliant command was the key to victory.",
+                "jp": "ドクターの完璧な指揮が、勝利の決め手となったな。",
+                "kr": "박사의 완벽한 지시가, 우릴 승리로 이끈 거야.",
+                "cn": "博士完美的指挥，是开启这场胜利的钥匙。"
+            },
+            "asset": "char_502_nblade/CN_030"
+        },
+        {
+            "id": "char_502_nblade_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Victory is the most welcome news.",
+                "jp": "勝利は一番の吉報だ。",
+                "kr": "승리는 제일 좋은 소식이지.",
+                "cn": "胜利就是最好的消息。"
+            },
+            "asset": "char_502_nblade/CN_031"
+        },
+        {
+            "id": "char_502_nblade_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "I apologize... We failed to execute your plan, Doctor...",
+                "jp": "すまない、ドクターの作戦通りに、動くことができなかった……。",
+                "kr": "미안, 박사의 작전대로 움직일 수 없었어… ",
+                "cn": "对不起，是我没有执行好您的战术......"
+            },
+            "asset": "char_502_nblade/CN_032"
+        },
+        {
+            "id": "char_502_nblade_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Please send me somewhere that sunlight can never touch.",
+                "jp": "太陽の光が届かない、隅っこにいさせてほしい。",
+                "kr": "햇빛이 닿지 않는, 구석에 있게 해줬으면 좋겠는데.",
+                "cn": "请让我去一个照射不到阳光的地方。"
+            },
+            "asset": "char_502_nblade/CN_033"
+        },
+        {
+            "id": "char_502_nblade_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "*Gasp*!",
+                "jp": "うう。",
+                "kr": "으윽.",
+                "cn": "唔。"
+            },
+            "asset": "char_502_nblade/CN_034"
+        },
+        {
+            "id": "char_502_nblade_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Doctor, thank you for always taking care of us.",
+                "jp": "ドクター、いつも私たちのこと見守ってくれてありがとう。",
+                "kr": "박사, 언제나 우릴 지켜봐 줘서 고마워.",
+                "cn": "博士，谢谢您一直守护着我们。"
+            },
+            "asset": "char_502_nblade/CN_036"
+        },
+        {
+            "id": "char_502_nblade_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_502_nblade/CN_037"
+        },
+        {
+            "id": "char_502_nblade_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Doctor, I will be your shield.",
+                "jp": "ドクター、私が守る。",
+                "kr": "박사, 내가 지켜줄게.",
+                "cn": "博士，由我来保护。"
+            },
+            "asset": "char_502_nblade/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Jessica Mcdonald",
+            "global": "Jessica Mcdonald"
+        },
+        "cn": {
+            "native": "侯小菲",
+            "global": "Fifi"
+        },
+        "jp": {
+            "native": "藤田咲",
+            "global": "Saki Fujita"
+        },
+        "kr": {
+            "native": "우정신",
+            "global": "Woo Jeong-sin"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

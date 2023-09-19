@@ -1,0 +1,243 @@
+{
+    "charid": "char_508_aguard",
+    "nameid": "aguard",
+    "names": {
+        "en": "Sharp",
+        "jp": "Sharp",
+        "kr": "Sharp",
+        "cn": "Sharp"
+    },
+    "voices": [
+        {
+            "id": "char_508_aguard_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "No problem.",
+                "jp": "問題ない。",
+                "kr": "문제 없다.",
+                "cn": "没问题。"
+            },
+            "asset": "char_508_aguard/CN_017"
+        },
+        {
+            "id": "char_508_aguard_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Read the briefing? Good, now here's your assignments.",
+                "jp": "任務の内容には目を通したか？これから役割分担をするぞ。",
+                "kr": "임무 정보는 전부 읽어 봤나? 이제부터는 위치를 배정하겠다.",
+                "cn": "任务情报都读过了吗？接下来开始分配位置。"
+            },
+            "asset": "char_508_aguard/CN_018"
+        },
+        {
+            "id": "char_508_aguard_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Know your jobs? Then let's do this.",
+                "jp": "各々の役割は理解したか？では、出発だ。",
+                "kr": "각자 역할은 모두 이해했나? 그렇다면 출발하지.",
+                "cn": "了解各自的职责了吗？那么，出发。"
+            },
+            "asset": "char_508_aguard/CN_019"
+        },
+        {
+            "id": "char_508_aguard_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "I prefer to keep my fight quiet.",
+                "jp": "戦闘は黙ってこなす方が好みだ。",
+                "kr": "난, 싸울 때 침묵을 선호한다.",
+                "cn": "战斗时，我更喜欢保持沉默。"
+            },
+            "asset": "char_508_aguard/CN_020"
+        },
+        {
+            "id": "char_508_aguard_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Understood.",
+                "jp": "了解。",
+                "kr": "알겠다.",
+                "cn": "我明白。"
+            },
+            "asset": "char_508_aguard/CN_021"
+        },
+        {
+            "id": "char_508_aguard_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "I trust your judgment.",
+                "jp": "あなたの判断を信じる。",
+                "kr": "네 판단을 믿겠다.",
+                "cn": "我相信你的判断。"
+            },
+            "asset": "char_508_aguard/CN_022"
+        },
+        {
+            "id": "char_508_aguard_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "It'll be fine.",
+                "jp": "安心しろ。",
+                "kr": "걱정 마라.",
+                "cn": "放心。"
+            },
+            "asset": "char_508_aguard/CN_023"
+        },
+        {
+            "id": "char_508_aguard_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "I can handle this on my own.",
+                "jp": "俺一人で十分だ。",
+                "kr": "혼자면 충분하다.",
+                "cn": "我一个人足够了。"
+            },
+            "asset": "char_508_aguard/CN_024"
+        },
+        {
+            "id": "char_508_aguard_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Come on.",
+                "jp": "来い。",
+                "kr": "와라.",
+                "cn": "来。"
+            },
+            "asset": "char_508_aguard/CN_025"
+        },
+        {
+            "id": "char_508_aguard_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Heh.",
+                "jp": "フンッ。",
+                "kr": "하.",
+                "cn": "呵。"
+            },
+            "asset": "char_508_aguard/CN_026"
+        },
+        {
+            "id": "char_508_aguard_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Not bad.",
+                "jp": "悪くない。",
+                "kr": "나쁘지 않군.",
+                "cn": "还不错。"
+            },
+            "asset": "char_508_aguard/CN_027"
+        },
+        {
+            "id": "char_508_aguard_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "It's over.",
+                "jp": "終わりだ。",
+                "kr": "끝이다.",
+                "cn": "结束了。"
+            },
+            "asset": "char_508_aguard/CN_028"
+        },
+        {
+            "id": "char_508_aguard_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "It's always reassuring to carry out your orders, Doctor.",
+                "jp": "ドクター、やはりあなたの命令は安心して従えるな。",
+                "kr": "박사, 네 명령을 실행할 때는 항상 마음이 놓이는군.",
+                "cn": "博士，执行你的命令总是让人放心。"
+            },
+            "asset": "char_508_aguard/CN_030"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Ben Starr",
+            "global": "Ben Starr"
+        },
+        "cn": {
+            "native": "刘若班",
+            "global": "Robin Liu"
+        },
+        "jp": {
+            "native": "楠大典",
+            "global": "Taiten Kusunoki"
+        },
+        "kr": {
+            "native": "최낙윤",
+            "global": "Choi Na-kyoon"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp"
+    ]
+}

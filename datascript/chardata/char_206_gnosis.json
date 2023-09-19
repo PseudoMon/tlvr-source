@@ -1,0 +1,596 @@
+{
+    "charid": "char_206_gnosis",
+    "nameid": "gnosis",
+    "names": {
+        "en": "Gnosis",
+        "jp": "ノーシス",
+        "kr": "노시스",
+        "cn": "灵知"
+    },
+    "voices": [
+        {
+            "id": "char_206_gnosis_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "I can spend some time discussing matters with you before my next experiment.",
+                "jp": "次の実験の時間までは、君の議論に少し付き合っても構わない。",
+                "kr": "다음 실험 시간이 오기 전까지, 너와 잠깐 토론을 해도 상관 없겠지.",
+                "cn": "在下一场实验开始前，我可以与你做一些讨论。"
+            },
+            "asset": "char_206_gnosis/CN_001"
+        },
+        {
+            "id": "char_206_gnosis_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "You are spending far too much time outside the laboratory, Doctor. As a researcher, you must know this only hinders you from making great strides.",
+                "jp": "研究に無関係な雑用に時間を割きすぎだ、ドクター。君も研究者なら、こんなことは進歩を阻む枷にしかならないことくらいわかるはずだ。",
+                "kr": "연구와 관련 없는 잡무에 시간을 너무 할애하는군, 박사. 너도 연구자라면 잘 알 텐데. 이런 일은 진척을 저해하는 족쇄에 불과하다는 걸.",
+                "cn": "你把太多时间放在了与研究无关的杂务上，博士。身为研究者，你应该明白，这只会阻碍你前进的脚步。"
+            },
+            "asset": "char_206_gnosis/CN_002"
+        },
+        {
+            "id": "char_206_gnosis_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "SilverAsh's sisters? Yes, I've met them several times... Hm...? What more do you want me to say? I know nothing about those frolicsome, ever-changing creatures, and I certainly am not interested in them.",
+                "jp": "シルバーアッシュの妹たち？ああ、何回か会ったことはあるが。……ん？それ以上何が知りたいんだ？あのように意気盛んで変化しやすい生き物に関して、私は知識も興味も持ちあわせていない。",
+                "kr": "실버애쉬의 여동생들? 아아, 몇 번 만난 적은 있다만……음? 뭘 더 알고 싶은 거지? 그렇게 기운 넘치고 변화하기 쉬운 생물에 관해 나는 지식도 흥미도 갖고 있지 않다.",
+                "cn": "银灰的两个妹妹？嗯，我见过几面。......？你还希望我说些什么？我对那种活蹦乱跳又善变的生物没有研究，也没有兴趣。"
+            },
+            "asset": "char_206_gnosis/CN_003"
+        },
+        {
+            "id": "char_206_gnosis_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "It is incredibly ignorant to simply write off the symptoms that arise upon Oripathy infection as a mere disease, and then to go on to think only about how to 'control' and 'heal' this disease. Don't tell me this is how you think as well.",
+                "jp": "源石（オリジニウム）に侵された後の症状を単純に疾病と定義し、それをどの様に「抑制」し「治療」するかしか考えないのは全くもって無知というもの。君も彼らと同じだとは言わないだろうね？",
+                "kr": "오리지늄에 감염된 후의 증상을 단순히 질병이라고 정의하고, 그것을 어떻게 ‘억제’하고 ‘치료’할 것인지 밖에 생각하지 않는 건, 자기가 얼마나 무지한지 설명하는 꼴밖에 안 돼. 너도 그런 사람들이랑 같다고는 하지 않겠지?",
+                "cn": "将被源石感染后的表现简单地定义为疾病，仅仅思考如何去“抑制”和“治疗”它，这是无知的人才会做的事，不要告诉我你也是这么想的。"
+            },
+            "asset": "char_206_gnosis/CN_004"
+        },
+        {
+            "id": "char_206_gnosis_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Shining. I knew I would find her here... Hm? No, she is an excellent scholar, and we collaborated for a period of time until she disappeared one day. That's all.",
+                "jp": "あれは、シャイニングか？彼女もここにいたとは……ん？いや、彼女は優秀な学者で、私とも何度か協力し合った関係だが、ある日突然姿を消したのだ。ああ、ただそれだけだ。",
+                "kr": "저기 있는 건… 샤이닝인가? 저 여자도 여기에 있었을 줄이야…… 음? 아니, 샤이닝은 우수한 학자로서 나와도 몇 번인가 협력했던 관계지만, 어느 날 갑자기 모습을 감추었지. 그래, 그게 전부다.",
+                "cn": "闪灵，她居然也在这里......嗯？她是个优秀的学者，我们曾经有过一些合作，但她在某一天忽然消失无踪，仅此而已。"
+            },
+            "asset": "char_206_gnosis/CN_005"
+        },
+        {
+            "id": "char_206_gnosis_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "I am not working for SilverAsh; our objectives merely overlap. Of course, I won't deny what he is trying to achieve holds great significance for the future of the Snow Realm.",
+                "jp": "私はシルバーアッシュのために動いているわけではない。お互いの目的に共通項があるというだけだ。もちろん、彼が実現しようとしていることは雪境（ヒーラ）の未来にとって大きな意義があることは否定しないが。",
+                "kr": "나는 실버애쉬를 위해 움직이는 게 아니다. 서로의 목적에 공통점이 있을 뿐이지. 물론, 실버애쉬가 실현하려고 하는 게 히라의 미래에 큰 의의가 있다는 건 부정하지 않겠지만.",
+                "cn": "我并不是在为银灰服务，只是我们的目的有相交之处而已。当然，我并不否认，他的事业对雪境有着长远的意义。"
+            },
+            "asset": "char_206_gnosis/CN_006"
+        },
+        {
+            "id": "char_206_gnosis_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "The best way you can earn my trust is by showing me your true academic strengths, and it seems you've already realized as much, Doctor. I am not like SilverAsh. I am not interested in deeper emotional exchanges.",
+                "jp": "私の信頼を勝ち得る最適な方法は、本物の実力を見せつけることだ。どうやらそれを良く理解しているようだな、ドクター。私はシルバーアッシュとは違う。どのような感情であれ、それを深めることに一切の興味はないのでな。",
+                "kr": "나의 신뢰를 얻는 가장 좋은 방법은, 진짜 실력을 보여주는 거다. 박사는, 아무래도 그걸 잘 이해하고 있는 것 같군. 나는 실버애쉬랑은 달라. 어떤 감정이든 간에, 난 그걸 깊어지게 하는 거엔 전혀 관심이 없거든.",
+                "cn": "获得我信任的最好方法，就是拿出你的真才实学，看来你已经明白了这一点，博士。我与银灰不同，我对任何感情方向的深入交流都没有兴趣。"
+            },
+            "asset": "char_206_gnosis/CN_007"
+        },
+        {
+            "id": "char_206_gnosis_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "If you understand SilverAsh well enough, you know he is not a callous man. From my point of view, he might even be a little indecisive... That, is your weakness too, Doctor.",
+                "jp": "シルバーアッシュのことを十分に理解してれば、彼が見せる冷酷さは本性ではないことがわかるだろう。私から見れば、冷酷どころか、彼は優柔不断とすら言える。そしてそれは、君にも共通する弱点でもあるのだ、ドクター。",
+                "kr": "실버애쉬를 충분히 이해한다면, 그가 보여주는 냉혹함이 본성이 아니라는 건 잘 알고 있겠지. 내 눈엔, 냉혹은 커녕 우유부단한 면까지 보이는 정도인데 말이야. 그리고 그건, 너에게 있는 약점이기도 하다, 박사.",
+                "cn": "如果你足够了解银灰，就会知道他并不冷酷，从我的角度来说，他甚至有些优柔寡断......并且，这也是你的弱点，博士。"
+            },
+            "asset": "char_206_gnosis/CN_008"
+        },
+        {
+            "id": "char_206_gnosis_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Much like SilverAsh's, your endeavors require the help of countless supporters. However, the more supporters you have, the more you have to worry about. Since you cannot disregard them, you should avoid getting entangled. That is my one and only piece of advice for you, Doctor.",
+                "jp": "君の目指していることはシルバーアッシュと同じように、多くの人々の支持が必要だ。しかし支持者が多くなればなるほど、気にかけなければならないことも増える。それらを無視することが不可能になっている以上、雁字搦めにされないよう気をつけることだ。私からの忠告はこれだけだ、ドクター。",
+                "kr": "네가 목표로 하는 건 실버애쉬의 목표처럼 많은 사람들의 지지가 필요하다. 하지만 지지자가 많아질수록 신경 써야 하는 일도 늘어나겠지. 그것들을 무시하는 것이 불가능해진 이상, 너무 얽매이지 않도록 주의해라. 내 충고는 이것뿐이다, 박사.",
+                "cn": "你的事业和银灰一样，需要无数人的支持，但支持你的越多，你需要在乎的就越多。既然你已经没有办法不去在乎，那就小心别被自己绊倒，这是我唯一的忠告，博士。"
+            },
+            "asset": "char_206_gnosis/CN_009"
+        },
+        {
+            "id": "char_206_gnosis_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "It seems you are rather lax in maintaining your own health, Doctor.",
+                "jp": "君自身の健康管理はまだ充分ではないようだ、ドクター。",
+                "kr": "너 자신의 건강 관리는 아직 충분하지 않은 모양이군, 박사.",
+                "cn": "看来你对自己身体的管理有所欠缺，博士。"
+            },
+            "asset": "char_206_gnosis/CN_010"
+        },
+        {
+            "id": "char_206_gnosis_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Pleasure to finally make your acquaintance, Doctor of Rhodes Island. I've been eager to meet you ever since Karlan began its relationship with your company. You may call me Gnosis.",
+                "jp": "噂に名高いロドスのドクターか、お目にかかれて光栄だ。私のことはノーシスと呼んでくれ。カランドとロドスの協定が結ばれてから、一度会ってみたいと常々思っていた。",
+                "kr": "그쪽이 로도스 아일랜드의 박사인가. 소문이 자자하더군. 이렇게 만나게 되어 영광이다. 나는 노시스라고 불러라. 카란이 로도스 아일랜드와 협정을 맺고 나서부터, 언제 한번 만나보고 싶다고 줄곧 생각하고 있었지.",
+                "cn": "罗德岛的博士，久仰大名，你可以叫我灵知，自从罗德岛与喀兰建立起关系后我一直想要见一见你。"
+            },
+            "asset": "char_206_gnosis/CN_011"
+        },
+        {
+            "id": "char_206_gnosis_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "War is merely a means to an end. That said, if you claim there are more efficient ways, I'm happy to learn.",
+                "jp": "戦闘はあくまで手段の一つだ。だが、更に効率的なやり方があるのなら、学ばせてもらうことも厭わない。",
+                "kr": "전투는 어디까지나 수단에 불과하다. 하지만, 보다 더 효율적인 방식이 있다면, 배우는 것도 마다하진 않아.",
+                "cn": "战斗只是手段，不过，既然有更有效率的方式，我并不介意学习。"
+            },
+            "asset": "char_206_gnosis/CN_012"
+        },
+        {
+            "id": "char_206_gnosis_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "I am far more interested in gaining access to Rhodes Island's databases than I am in a salary increase.",
+                "jp": "給与よりも、ロドスのデータベースへのアクセス権に興味がある。",
+                "kr": "급여보다는, 로도스 아일랜드의 데이터베이스 접속 권한에 더 관심이 있는데.",
+                "cn": "比起薪资，我更感兴趣的是罗德岛资料库的权限。"
+            },
+            "asset": "char_206_gnosis/CN_013"
+        },
+        {
+            "id": "char_206_gnosis_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "If Rhodes Island is willing the cross the line, I am sure you will see results that far surpass what you are currently achieving... That said, with SilverAsh as an example, I do understand the reasons behind your convictions. Hmph, allow me to offer a helping hand, then.",
+                "jp": "ロドスが一線を越える覚悟を決めれば、必ず今の比にならない成果を得られるだろう……だが、シルバーアッシュといい、君たちのこだわりの意義を理解できないわけでもない。フッ、そんな君たちのために、私も少し助力しようか。",
+                "kr": "로도스 아일랜드가 선을 넘을 각오를 한다면, 분명 지금과는 비교도 할 수 없을 정도의 성과를 얻을 수 있겠지…… 하지만 실버애쉬도 그렇고, 너희가 집착하는 의의를 이해 못 하는 것도 아니다. 훗, 그런 너희를 위해, 나도 조금은 협력해주도록 할까.",
+                "cn": "如果罗德岛愿意抛弃一些底线，必然会获得远超现在的成果......不过，有银灰在前，我也并非不理解坚持的意义。呵，就让我也来助你们一臂之力吧。"
+            },
+            "asset": "char_206_gnosis/CN_014"
+        },
+        {
+            "id": "char_206_gnosis_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "You're in luck. I just completed my experiment.",
+                "jp": "運がいいな。ちょうど実験を終わらせたところだ。",
+                "kr": "운이 좋군. 마침 실험을 끝낸 참이다.",
+                "cn": "你运气很好，我刚做完实验。"
+            },
+            "asset": "char_206_gnosis/CN_017"
+        },
+        {
+            "id": "char_206_gnosis_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Fulfill your roles, and leave the rest to me.",
+                "jp": "君たちは自分の役割を果たせ。それ以外は私が処理する。",
+                "kr": "너희는 자신의 역할을 다해라. 나머진 내가 처리할 테니까.",
+                "cn": "做好自己的事，其他我来处理。"
+            },
+            "asset": "char_206_gnosis/CN_018"
+        },
+        {
+            "id": "char_206_gnosis_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "I can only hope this mission won't prove to be a waste of time.",
+                "jp": "この任務が時間の無駄にならないことを願うよ。",
+                "kr": "이 임무가 시간 낭비가 되지 않기를 바라지.",
+                "cn": "希望这次任务不是在浪费我的时间。"
+            },
+            "asset": "char_206_gnosis/CN_019"
+        },
+        {
+            "id": "char_206_gnosis_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Follow the plan.",
+                "jp": "作戦通りに行動するように。",
+                "kr": "작전대로 행동하도록.",
+                "cn": "按照计划行事。"
+            },
+            "asset": "char_206_gnosis/CN_020"
+        },
+        {
+            "id": "char_206_gnosis_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Right.",
+                "jp": "了解した。",
+                "kr": "알겠다.",
+                "cn": "嗯。"
+            },
+            "asset": "char_206_gnosis/CN_021"
+        },
+        {
+            "id": "char_206_gnosis_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "You disrupted my train of thought, Doctor.",
+                "jp": "私の思考を遮ったな、ドクター。",
+                "kr": "나의 사고를 방해했군, 박사.",
+                "cn": "你打断了我的思路，博士。"
+            },
+            "asset": "char_206_gnosis/CN_022"
+        },
+        {
+            "id": "char_206_gnosis_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "A fine choice.",
+                "jp": "いい選択だ。",
+                "kr": "좋은 선택이다.",
+                "cn": "不错的选择。"
+            },
+            "asset": "char_206_gnosis/CN_023"
+        },
+        {
+            "id": "char_206_gnosis_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Let's put an end to this as soon as possible.",
+                "jp": "速戦即決で行こう。",
+                "kr": "속전속결로 가지.",
+                "cn": "速战速决吧。"
+            },
+            "asset": "char_206_gnosis/CN_024"
+        },
+        {
+            "id": "char_206_gnosis_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "As expected.",
+                "jp": "予想通りだ。",
+                "kr": "예상대로다.",
+                "cn": "如我所料。"
+            },
+            "asset": "char_206_gnosis/CN_025"
+        },
+        {
+            "id": "char_206_gnosis_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "I have an idea.",
+                "jp": "一つアイデアが浮かんできた。",
+                "kr": "아이디어가 하나 떠올랐다.",
+                "cn": "我有一个想法。"
+            },
+            "asset": "char_206_gnosis/CN_026"
+        },
+        {
+            "id": "char_206_gnosis_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "What a ruckus.",
+                "jp": "騒がしい。",
+                "kr": "시끄럽군.",
+                "cn": "你们太吵了。"
+            },
+            "asset": "char_206_gnosis/CN_027"
+        },
+        {
+            "id": "char_206_gnosis_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Do not disrupt my thought process.",
+                "jp": "私の思考を妨げるな。",
+                "kr": "나의 사고를 방해하지 마라.",
+                "cn": "不要打扰我思考。"
+            },
+            "asset": "char_206_gnosis/CN_028"
+        },
+        {
+            "id": "char_206_gnosis_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "I look forward to seeing such spectacular results from you in your research, Doctor.",
+                "jp": "研究でもこのように素晴らしい成果を見せてくれることを期待しているよ、ドクター。",
+                "kr": "연구에서도 이렇게 멋진 성적을 보여주길 기대하지, 박사.",
+                "cn": "我很期待在科研方面也能看到你这样精彩的表现，博士。"
+            },
+            "asset": "char_206_gnosis/CN_029"
+        },
+        {
+            "id": "char_206_gnosis_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Having prepared appropriately, these results are unsurprising.",
+                "jp": "事前準備をしっかりこなせていれば、結果がついてくるのは当然というものだ。",
+                "kr": "사전 준비를 확실하게 하면, 결과가 따라오는 건 당연한 일이다.",
+                "cn": "做好先期工作，获得这样的结果只是理所当然。"
+            },
+            "asset": "char_206_gnosis/CN_030"
+        },
+        {
+            "id": "char_206_gnosis_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Sometimes, there is much to gain from the unexpected.",
+                "jp": "時には想定外のことも、意外な収穫をもたらしてくれる。",
+                "kr": "가끔은 예상치 못했던 변수가, 뜻밖의 수확을 가져오는 일도 있지.",
+                "cn": "有些时候，发生意外反而会有所收获。"
+            },
+            "asset": "char_206_gnosis/CN_031"
+        },
+        {
+            "id": "char_206_gnosis_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Were there too many variables outside our control...?",
+                "jp": "制御不能の変数が多すぎたのか……。",
+                "kr": "제어가 안 되는 변수가 너무 많았나……",
+                "cn": "不可控的变量太多了吗......"
+            },
+            "asset": "char_206_gnosis/CN_032"
+        },
+        {
+            "id": "char_206_gnosis_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Time to head to the lab.",
+                "jp": "ラボに行くか。",
+                "kr": "연구실로 갈까.",
+                "cn": "该去实验室了。"
+            },
+            "asset": "char_206_gnosis/CN_033"
+        },
+        {
+            "id": "char_206_gnosis_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Hey.",
+                "jp": "おいっ。",
+                "kr": "뭐 하는 짓이지.",
+                "cn": "喂。"
+            },
+            "asset": "char_206_gnosis/CN_034"
+        },
+        {
+            "id": "char_206_gnosis_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "I have an idea. Care to hear it?",
+                "jp": "新しいアイデアがある。聞いてみるか？",
+                "kr": "새 아이디어가 있다. 들어보겠나?",
+                "cn": "我有些新的想法。"
+            },
+            "asset": "char_206_gnosis/CN_036"
+        },
+        {
+            "id": "char_206_gnosis_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_206_gnosis/CN_037"
+        },
+        {
+            "id": "char_206_gnosis_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "You should spend your time more efficiently, Doctor.",
+                "jp": "時間をもっと効率的に使ったほうがいい、ドクター。",
+                "kr": "시간을 더 효율적으로 사용하는 게 좋을 거다, 박사.",
+                "cn": "你应该更好地利用时间，博士。"
+            },
+            "asset": "char_206_gnosis/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Charles Aitken",
+            "global": "Charles Aitken"
+        },
+        "cn": {
+            "native": "刘飞",
+            "global": "Flynn Liu"
+        },
+        "jp": {
+            "native": "緑川光",
+            "global": "Hikaru Midorikawa"
+        },
+        "kr": {
+            "native": "전승화",
+            "global": "Jun Seung-hwa"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

@@ -1,0 +1,586 @@
+{
+    "charid": "char_411_tomimi",
+    "nameid": "tomimi",
+    "names": {
+        "en": "Tomimi",
+        "jp": "トミミ",
+        "kr": "토미미",
+        "cn": "特米米"
+    },
+    "voices": [
+        {
+            "id": "char_411_tomimi_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Gavial doesn't know how to do this kind of work, and nobody in the tribe thought to do this stuff either. So, that's why I'll do a little bit when I have the time.",
+                "jp": "こういう仕事はガヴィルさんはやりたがりませんし、部族の他の人はそんなことを考えもしないんです。ですので、時間がある時は私がやっていました。",
+                "kr": "이런 업무, 가비알 씨는 하기 싫어하고… 다른 부족 사람들은 이런 걸 생각도 하지 않았어요. 그래서 시간이 있을 때는 제가 했었죠.",
+                "cn": "这些工作嘉维尔是不会做的，部族里也没人想到要做，所以，我有空的时候会干一些。"
+            },
+            "asset": "char_411_tomimi/CN_001"
+        },
+        {
+            "id": "char_411_tomimi_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "If there's no trainee nurse at the Medical Department, I can give it a try. I have some basic nursing knowledge.",
+                "jp": "医療部の看護師実習生が足りないようなら、私がやってみましょうか。基礎看護の知識は、多少なりとも心得ていますから。",
+                "kr": "의료부 간호사 실습생이 부족한 것 같으면 제가 해볼까요? 기초 간호 지식은 조금이지만 알고 있거든요.",
+                "cn": "医疗部缺实习护士的话，我可以去试试看，基础护理知识，我还是多少懂一点的。"
+            },
+            "asset": "char_411_tomimi/CN_002"
+        },
+        {
+            "id": "char_411_tomimi_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Doctor, the pen seems to be out of ink. Ah, wait, please don't throw that out! If it's not too much to ask, um, could I hang onto that?",
+                "jp": "ドクター、サインペンのインクがなくなっちゃったみたいです。あっ、待って、捨てないで！もしよければ、あの、私にいただけませんか？",
+                "kr": "박사님, 사인펜 잉크가 다 된 것 같아요. 앗, 잠깐, 버리지 마세요! 혹시 괜찮으면, 저… 제가 가져도 될까요?",
+                "cn": "博士，签字笔好像没墨了。啊，等下，请不要扔！如果您不介意的话，那个，能留给我吗？"
+            },
+            "asset": "char_411_tomimi/CN_003"
+        },
+        {
+            "id": "char_411_tomimi_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Rhodes Island can't dig underground? Are there no treasures underground? All the precious things are locked inside the rooms? That's too bad...",
+                "jp": "ロドスは床を掘ってはいけないんですか？地下に財宝は埋まってたりしないんでしょうか？貴重品は全て部屋の中で厳重に保管されている？残念です……",
+                "kr": "로도스 아일랜드는 바닥을 파면 안 되나요? 지하에 보물이 묻혀있거나 하지 않나요? 귀중품은 모두 방 안에 엄중하게 보관되고 있다고요? 아쉽네요…",
+                "cn": "罗德岛不能往下挖吗？地下没有宝物吗？珍贵的东西都锁在房间里？好可惜啊......"
+            },
+            "asset": "char_411_tomimi/CN_004"
+        },
+        {
+            "id": "char_411_tomimi_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "My tail got longer again. If it keeps getting longer like this, other people will really start to reject me. Ugh... so upsetting.",
+                "jp": "しっぽが、また伸びちゃいました。このまま伸びていったら、本当に皆さんに嫌われちゃいそうです。うう……どうしよ……。",
+                "kr": "꼬리가 또 자랐어요. 이대로 계속 자라면 정말로 다들 싫어하실 것 같아요. 으으… 어떡하지…",
+                "cn": "尾巴，又长了啊，再这样长下去，真的会被人嫌弃的啊，呜呜......好烦恼。"
+            },
+            "asset": "char_411_tomimi/CN_005"
+        },
+        {
+            "id": "char_411_tomimi_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "A big tail is something you're born with. Being strong and cool are things you're born with. Being smart is also something you're born with. Since we can't choose how we're born, let's just live life and embrace what makes us unique. Um, of course, if you can help me out every now and then, Doctor... that would be best.",
+                "jp": "しっぽの大きさは生まれつき、強さもかっこよさも生まれつき、頭の良さも生まれつき。生まれを選べないなら、自分の個性と共に生きていくしかないでしょう。うーん、もちろんドクターがたまに手を貸してくれたら……一番ですが。",
+                "kr": "꼬리 크기도 타고나는 거고, 강하거나 멋진 것도 타고나는 거고, 좋은 머리도 타고나는 거죠… 타고나는 걸 선택할 수 없다면 자신의 개성과 함께 살아가는 수밖에 없잖아요. 으음… 물론 박사님이 가끔 도와주신다면… 제일 좋겠지만요.",
+                "cn": "尾巴大是天生的，强大又帅气是天生的，脑袋好也是天生的。既然没法选择出身，就怀抱着自己的独特生活下去吧。唔，当然博士您偶尔能帮帮我的话......是最好啦。"
+            },
+            "asset": "char_411_tomimi/CN_006"
+        },
+        {
+            "id": "char_411_tomimi_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "It's understandable that Gavial would skip work, but why would she skip a meal? Is there something bothering her to the point that it's sending her into hiding? No one seems to have noticed yet. I'm the only one who can save her! Ah, Doctor, there you are. Can you help me with something?",
+                "jp": "ガヴィルさんが仕事をサボるのは分かりますが、食事に来ないなんてありえません。何か困ったことになって、どこかに隠れているのでしょうか？他の人たちは気づいていないようなので、助けてあげられるのは私だけです！あ、ドクターもいらっしゃったんですね、手を貸していただけますか？",
+                "kr": "가비알 씨가 업무를 게을리하는 건 알지만, 식사하러 오지 않는 건 있을 수 없는 일이에요. 뭔가 곤란한 상황에 빠져서 어딘가에 숨어있는 걸까요? 다른 사람들은 눈치 못 챈 것 같으니까 도와줄 수 있는 건 저뿐이에요! 아, 박사님도 계셨네요. 도와주시겠어요?",
+                "cn": "嘉维尔会旷工我是可以理解的，但她怎么会旷餐呢？是有什么东西让她困惑，害得她不得不躲起来吗？别人好像都没发现，能救她的只有我了！啊博士您在啊，能帮我一个忙吗？"
+            },
+            "asset": "char_411_tomimi/CN_007"
+        },
+        {
+            "id": "char_411_tomimi_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Are you sure you want to see? I have a whole lot of stuff in my backpack. All right, I also haven't checked through everything in quite some time either. Um, let's take a look: a piece of amber wrapped in a leaf, a loose fang? A black crystal with a speck of blood... and a stack of signatures?! Doctor, that's as far as you can go! Stop right there!",
+                "jp": "本当に見たいんですか？カバンの中は物だらけですよ？分かりました、自分でもしばらく整理してませんし。じゃあ、見てみましょうか。葉っぱに包まれた琥珀と、歯？血のついた黒い結晶に……サインの束！？ドクター、もうこれ以上見ないでください！ここまで！",
+                "kr": "정말로 보고 싶으세요? 가방 속은 물건이 잔뜩 들어있는데도요? 알겠습니다. 저도 한동안 정리하지 않았으니까요. 그럼, 한 번 볼까요? 잎사귀로 감싼 호박하고, 이빨? 피가 묻은 검은 결정에… 사인 묶음?! 박사님, 이제 이 이상은 보지 마세요! 여기까지예요!",
+                "cn": "您真的要看吗，背包里东西可能会有点多哦？好吧，我也好久没清点过了。唔，我们来看看：包裹着树叶的琥珀、一颗牙齿？一块带血黑结晶......一沓签名？！博士您不能再看了！到此为止！"
+            },
+            "asset": "char_411_tomimi/CN_008"
+        },
+        {
+            "id": "char_411_tomimi_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Someone who steals your gaze, making you not want to close your eyelids until the flames have burned your eyes from their sockets. You know, Gavial is the kind of person who shines just like this. Oh, by the way, I read that previous description in a book and thought it sounded pretty neat, so I memorized it so I could use it myself.",
+                "jp": "「それは人の目を引き、灼熱の炎で眼が干からびようとも、まぶたを閉じる気にはならないだろう。」ガヴィルさんは、きっとそんなふうに輝く人なんだと思います。あっ、今のは本で読んだ言葉です。いいなと思って覚えたんですが、ぴったりだと思いませんか？",
+                "kr": "\"그것은 사람들의 시선을 끌어, 작렬하는 불꽃에 눈동자가 바싹 말라버려도 눈을 감을 생각은 들지 않을 것이다.\" 가비알 씨는 분명 그렇게 빛나는 사람일 거예요. 아! 방금 그건 책에서 본 표현이에요. 좋은 거 같아서 외웠는데, 딱 맞는 것 같지 않아요?",
+                "cn": "能够引人直视，直到炽热的火焰烧干眼眶也不愿合上眼皮。嘉维尔她，大概就是这样闪耀的东西吧。哦对了，之前那段描述是我从书上看的，我觉得不错就背下来自己用了，还合适吧。"
+            },
+            "asset": "char_411_tomimi/CN_009"
+        },
+        {
+            "id": "char_411_tomimi_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Here's a dreamcatcher. I'll leave it over here. I hope you'll be able to have pure and peaceful dreams.",
+                "jp": "ドリームキャッチャーはここにかけておきましょう。清らかで気持ちのいい夢が見られますように。",
+                "kr": "드림캐쳐는 여기에 걸어놓을게요. 편안하고 기분 좋은 꿈을 꾸시기를.",
+                "cn": "捕梦网，就放这里吧，希望您有个干净舒适的好梦。"
+            },
+            "asset": "char_411_tomimi/CN_010"
+        },
+        {
+            "id": "char_411_tomimi_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Hello, Doctor. Um, I'm not here to make trouble. I'm, uh, yeah. Here to study. Right, study. Since Gavial is over here, it wouldn't make sense for me to stay back home alone, right?",
+                "jp": "こんにちは、ドクター。あっ、邪魔しに来たわけではありませんよ。私は、えっと、勉強に、はい、勉強に来ました。ガヴィルさんはもうこちらに来ていますから、私も一人で故郷に残るわけにはいかないでしょう。",
+                "kr": "안녕하세요, 박사님. 앗, 방해하러 온 건 아니에요. 저는… 그러니까… 공부하러… 네, 공부하러 왔어요. 가비알 씨는 이미 이쪽에 와 있으니까 저도 혼자서 고향에 남아있을 수는 없잖아요.",
+                "cn": "您好，博士。呃我不是来捣乱的，我是，嗯，学习，对，来学习的。嘉维尔都过来了，我也不好一个人待在家乡，对吧。"
+            },
+            "asset": "char_411_tomimi/CN_011"
+        },
+        {
+            "id": "char_411_tomimi_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "I, I think it'd be better to directly practice on the battlefield, right?",
+                "jp": "や、やっぱり戦場で実践してみたほうがいいですよね。",
+                "kr": "여, 역시 전장에서 직접 해보는 편이 낫겠죠.",
+                "cn": "还，还是上战场直接操练一下比较好，对吧。"
+            },
+            "asset": "char_411_tomimi/CN_012"
+        },
+        {
+            "id": "char_411_tomimi_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Thank you for giving me such a pretty badge, Doctor. Huh? Oh, a promotion badge? Ah, um, uhhh... Am I really qualified to have this?",
+                "jp": "こんなにキレイなバッジをくださってありがとうございます、ドクター。えっ？これ、昇進のメダル？あ、あの、うう……ほ、本当に私にこれを受け取る資格はあるんですか？",
+                "kr": "이렇게 예쁜 배지를 주셔서 감사합니다, 박사님. 네? 이거, 승진 메달이에요? 저, 저기, 으으… 저, 정말로 제가 이걸 받을 자격이 있나요?",
+                "cn": "谢谢您送我这么好看的徽章，博士。嗯？唉，晋升奖章？啊，呃，呜呜......我，真的有资格拿吗？"
+            },
+            "asset": "char_411_tomimi/CN_013"
+        },
+        {
+            "id": "char_411_tomimi_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "I'll be worthy of this flag one day, I swear it.",
+                "jp": "いつかこの旗に恥じないようになってみせます、いつかきっと。",
+                "kr": "언젠가는 이 깃발에 부끄럽지 않은 사람이 되겠습니다. 언젠가는, 반드시요.",
+                "cn": "我总有一天会配得上这面旗的，总有一天。"
+            },
+            "asset": "char_411_tomimi/CN_014"
+        },
+        {
+            "id": "char_411_tomimi_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Let me try learning some of your techniques. It'd be great if I could pick them up.",
+                "jp": "ドクターの技を勉強させてください。本当に身につけばいいんですが。",
+                "kr": "박사님의 기술을 배우게 해주세요. 정말로 익혀낼 수 있다면 좋겠지만……",
+                "cn": "让我学学看您的技巧，要是真能学会就好了。"
+            },
+            "asset": "char_411_tomimi/CN_017"
+        },
+        {
+            "id": "char_411_tomimi_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "You're leaving it to me? Really?",
+                "jp": "私に任せる？本気ですか？",
+                "kr": "저한테 맡기신다고요? 진심이세요?",
+                "cn": "交给我吗，真的吗？"
+            },
+            "asset": "char_411_tomimi/CN_018"
+        },
+        {
+            "id": "char_411_tomimi_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Let's go. Fight. Mm, we're going to beat them up.",
+                "jp": "行くぞ、奴らをぶ、ブチのめすぞ。",
+                "kr": "가자, 녀석들을 해, 해치운다.",
+                "cn": "走了，打，嗯，打爆他们。"
+            },
+            "asset": "char_411_tomimi/CN_019"
+        },
+        {
+            "id": "char_411_tomimi_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Wait, I'm not ready yet!",
+                "jp": "待ってください、まだ準備ができていません！",
+                "kr": "잠깐만요. 아직 준비가 안 됐어요!",
+                "cn": "等一下，我还没准备好！"
+            },
+            "asset": "char_411_tomimi/CN_020"
+        },
+        {
+            "id": "char_411_tomimi_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "You didn't see me, you didn't see me...",
+                "jp": "ドクターは私に気づいていない、気づいていない……。",
+                "kr": "박사님은 날 못 봤다, 못 봤다……",
+                "cn": "您没看见我，没看见我......"
+            },
+            "asset": "char_411_tomimi/CN_021"
+        },
+        {
+            "id": "char_411_tomimi_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Wanna try?",
+                "jp": "やってみますか？",
+                "kr": "해볼까요?",
+                "cn": "试试看？"
+            },
+            "asset": "char_411_tomimi/CN_022"
+        },
+        {
+            "id": "char_411_tomimi_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "I, I'm going!",
+                "jp": "い、行くぞ！",
+                "kr": "가, 가자!",
+                "cn": "上，上了！"
+            },
+            "asset": "char_411_tomimi/CN_023"
+        },
+        {
+            "id": "char_411_tomimi_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Anyone who needs a good beating, step forward!",
+                "jp": "殴られたい奴は、前に出ろ！",
+                "kr": "맞고 싶은 녀석은, 앞으로 나와!",
+                "cn": "需要挨打的家伙，都站出来！"
+            },
+            "asset": "char_411_tomimi/CN_024"
+        },
+        {
+            "id": "char_411_tomimi_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Cheer up!",
+                "jp": "しっかりして！",
+                "kr": "정신 차려요!",
+                "cn": "振作起来！"
+            },
+            "asset": "char_411_tomimi/CN_025"
+        },
+        {
+            "id": "char_411_tomimi_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Hold on a bit longer, hold on a bit longer!",
+                "jp": "もう少し、もう少し頑張ろう！",
+                "kr": "조금만 더, 조금만 더 힘내요!",
+                "cn": "再撑一会，再撑一会！"
+            },
+            "asset": "char_411_tomimi/CN_026"
+        },
+        {
+            "id": "char_411_tomimi_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Haah!",
+                "jp": "はあっ！",
+                "kr": "하앗!",
+                "cn": "哈！"
+            },
+            "asset": "char_411_tomimi/CN_027"
+        },
+        {
+            "id": "char_411_tomimi_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Who's next!",
+                "jp": "あとはどいつだ！",
+                "kr": "다음은 누구냐!",
+                "cn": "还有谁！"
+            },
+            "asset": "char_411_tomimi/CN_028"
+        },
+        {
+            "id": "char_411_tomimi_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "You used to smack me around like that before, Doctor.",
+                "jp": "前にドクターはこうやって私を殴りつけたんですよ。",
+                "kr": "전에 박사님께선 이렇게 저를 후려치셨다고요……",
+                "cn": "以前博士您就是这么暴打我的。"
+            },
+            "asset": "char_411_tomimi/CN_029"
+        },
+        {
+            "id": "char_411_tomimi_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "We won.",
+                "jp": "勝ちましたね。",
+                "kr": "이겼네요.",
+                "cn": "赢了呢。"
+            },
+            "asset": "char_411_tomimi/CN_030"
+        },
+        {
+            "id": "char_411_tomimi_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Ugh, my back's sore. Need to take a break.",
+                "jp": "ふぅ、背中が疲れました、休憩しましょう。",
+                "kr": "후우, 등이 뻐근해요. 휴식하죠.",
+                "cn": "唔，背好酸，休息一下。"
+            },
+            "asset": "char_411_tomimi/CN_031"
+        },
+        {
+            "id": "char_411_tomimi_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "I... I'm sorry...",
+                "jp": "私……ご、ごめんなさい……。",
+                "kr": "제가… 죄, 죄송해요…",
+                "cn": "我......对不起......"
+            },
+            "asset": "char_411_tomimi/CN_032"
+        },
+        {
+            "id": "char_411_tomimi_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Ah, um, you can't throw that away yet. Please give it to me, I'll take care of it myself.",
+                "jp": "ああ、それはまだ捨てないで。私にください、片付けますから。",
+                "kr": "아아, 그건 아직 버리지 마세요. 저한테 주세요. 정리할 테니까.",
+                "cn": "啊啊，这个还不能丢，请给我吧，我自己来处理。"
+            },
+            "asset": "char_411_tomimi/CN_033"
+        },
+        {
+            "id": "char_411_tomimi_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "M-my tail...",
+                "jp": "し、しっぽ……。",
+                "kr": "꼬, 꼬리…",
+                "cn": "尾，尾巴......"
+            },
+            "asset": "char_411_tomimi/CN_034"
+        },
+        {
+            "id": "char_411_tomimi_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Want to try Sargon's local barbecue? I'll do all the barbecuing, so you can just enjoy the food.",
+                "jp": "サルゴン式のバーベキューを味わってみませんか。私が焼きますから、ドクターは食べるだけでいいですよ。",
+                "kr": "사르곤식 바비큐를 맛보지 않으실래요? 제가 구울 거니까 박사님은 드시기만 하면 돼요.",
+                "cn": "来尝尝萨尔贡土法烧烤好不好，我来烤，您吃就好。"
+            },
+            "asset": "char_411_tomimi/CN_036"
+        },
+        {
+            "id": "char_411_tomimi_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_411_tomimi/CN_037"
+        },
+        {
+            "id": "char_411_tomimi_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Ugh... Doctor...",
+                "jp": "うう、ドクター。",
+                "kr": "우으으… 박사님…",
+                "cn": "唔唔，博士。"
+            },
+            "asset": "char_411_tomimi/CN_042"
+        }
+    ],
+    "actors": {
+        "cn": {
+            "native": "穆雪婷",
+            "global": "Xueting Mu"
+        },
+        "jp": {
+            "native": "高橋美佳子",
+            "global": "Mikako Takahashi"
+        }
+    },
+    "availability": [
+        "cn",
+        "jp"
+    ]
+}

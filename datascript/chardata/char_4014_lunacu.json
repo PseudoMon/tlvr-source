@@ -1,0 +1,596 @@
+{
+    "charid": "char_4014_lunacu",
+    "nameid": "lunacu",
+    "names": {
+        "en": "Lunacub",
+        "jp": "ルナカブ",
+        "kr": "루나컵",
+        "cn": "子月"
+    },
+    "voices": [
+        {
+            "id": "char_4014_lunacu_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Assistant? File Work? Not sure I followed. Anyway, I found a nice-looking mountain with a great view the other day. Want to see it?",
+                "jp": "秘書？書類の整理？さっぱり分からん。それよりドクター、この前、辺りをきれいに見渡せる良い感じの山を見つけたのだ。見に行くか？",
+                "kr": "어시스턴트? 서류 정리? 뭐가 뭔지 하나도 모르겠어. 그보다 박사, 얼마 전에 근처 지형을 한눈에 볼 수 있는 산을 찾았는데, 같이 갈래?",
+                "cn": "助理？看文件？完全不懂。博士，我前几天发现那里有一座不错的山，能完美观察到附近的地形，要去看看吗？"
+            },
+            "asset": "char_4014_lunacu/CN_001"
+        },
+        {
+            "id": "char_4014_lunacu_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "This makes no sense. Why did you build so many walls and corridors? They block your vision. A mad burdenbeast could crash into this little room without any warning, and you don't seem to be a bit conerned. Danger can be prowling at any corner and you must stay on your guard. That's what Agnese taught me.",
+                "jp": "さっぱり理解できん。どうしてお前たちはこんなに壁や廊下を作るのだ？見晴らしが悪くなるだろ。暴走した駄獣がお前のちっさい部屋に突っ込んできて、暴れるかもしれないのによく平気だな？アンニェーゼが言ってた、危険はどこにでも存在するんだぞ。",
+                "kr": "진짜 이해 못 하겠네. 너희는 왜 이렇게 벽이랑 복도를 많이 만드는 거야? 시야에 영향을 주잖아. 미쳐 날뛰는 버든비스트가 갑자기 네 조그만 방으로 들이닥칠지도 모르는데, 걱정도 안 되나 봐? 아녜제가 나한테 그랬어, 위험은 어디에나 있는 거라고.",
+                "cn": "我真的不明白，你们为什么要建那么多的墙和走廊？很影响视野。你难道就不担心，什么时候一只发狂的驮兽突然就撞进你那个小小的房间吗？阿涅塞告诉过我，危险无处不在。"
+            },
+            "asset": "char_4014_lunacu/CN_002"
+        },
+        {
+            "id": "char_4014_lunacu_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "You call the outside 'the wilds', but you can find everything out there. Put in a little effort and you'll find food and water just fine. But in the city, there are no places to hunt. How do you even survive?",
+                "jp": "お前たちは外を荒野と呼ぶけど、外にはなんでもあるのだ。時間さえあれば、飲むのだって、食うのだって、簡単に手に入るぞ。それに比べて街はどうだ。狩り場すらないぞ、お前たちはどうやって生きてきたのだ？",
+                "kr": "너희는 밖을 황야라고 부르지만, 사실 밖에도 있을 건 다 있어. 시간을 조금만 들이면 먹을 거든 마실 거든 전부 쉽게 구할 수 있지. 오히려 도시엔 사냥터조차 없던데, 너흰 도대체 어떻게 살아남은 거야?",
+                "cn": "你们管外面叫做荒野，可外面其实什么都有。只要花一点时间，无论是吃的还是喝的，都能轻松弄到手。倒是城市里，连猎场都没有，你们到底是怎么活下来的？"
+            },
+            "asset": "char_4014_lunacu/CN_003"
+        },
+        {
+            "id": "char_4014_lunacu_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Um, Doctor, have you ever been to one of those 'parties' Exusiai talks about? They're scary! Those little balls of exploded plant seeds, those sweet, smooth milk puffs! Listen, this is not how you should live... What? They're having another party today? I wanna go.",
+                "jp": "おい、ドクター、エクシアたちが言う「パーティー」に参加したことはあるか？あれは怖すぎるのだ！植物の種を爆発させてできた丸いやつとか、甘くてなめらかなミルクのふわふわとか！いいか、あんなの正しい生き方じゃないぞ……え、今日もパーティーがあるのか？ルナカブもいく。",
+                "kr": "어이, 박사. 엑시아가 말한 '파티'에 가본 적 있어? 그거 엄청 무서울 것 같아! 식물 씨앗을 폭발시켜 만든 공이라던가, 달콤하고 부드러운 우유 거품이라니! 잘 들어, 그렇게 살면 안 돼…… 뭐? 오늘도 파티가 있다고? 나도 갈래.",
+                "cn": "喂，博士，你参加过能天使她们说的那种“派对”吗？也太吓人了！那些爆炸过的植物种子圆球，那些甜丝丝滑腻腻的奶泡！听好了，日子不是这么过的......她们今天也有派对？我要去。"
+            },
+            "asset": "char_4014_lunacu/CN_004"
+        },
+        {
+            "id": "char_4014_lunacu_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Agnese told about a dangerous scent on Rhodes Island, but she and the pack would stay with me. Hmm? You can't see her? But she was just here a moment ago... Maybe she went to go get food?",
+                "jp": "アンニェーゼが言ってた、ロドスでは危険なニオイするって。けどアンニェーゼは群れと一緒にずっとルナカブの側にいてくれるって約束してくれたのだ。ん？ドクターには、アンニェーゼがいないように見えるって？あれ、さっきまで確かにここにいたが……ご飯にでも行ったのかもな？",
+                "kr": "아녜제가 로도스 아일랜드에선 위험한 냄새가 난다고 했어. 그래도 아녜제랑 아녜제의 짐승들은 계속 내 곁에 있어 줄 거라고 약속했는 걸. 응? 안 보인다고? 방금까지만 해도 여기 있었는데…… 밥 먹으러 갔나?",
+                "cn": "阿涅塞告诉我，罗德岛上有股非常危险的气味。不过她说她和兽群都会待在我的身边。嗯？你看不见她吗？明明刚刚还在呢......可能是吃饭去了？"
+            },
+            "asset": "char_4014_lunacu/CN_005"
+        },
+        {
+            "id": "char_4014_lunacu_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "The man named Bernardo died, and Zaaro ran back to his territory with his tail between his legs... Seems like the hunt Agnese told us about is in the bag. But still she doesn't look happy. Why? The pack has more than enough food.",
+                "jp": "ベルナルドってやつは死んだ、ザーロも尻尾を巻いて自分の縄張りに逃げ帰ったのだ……だからアンニェーゼの言ってた狩り比べは、絶対ルナカブたちの勝ちなのに、アンニェーゼは全然嬉しくなさそう。なぜなんだ？群れの食料だって、まだまだいっぱい残ってるんだぞ。",
+                "kr": "그 베르나르도라는 사람은 죽었어. 자로는 자기 영지로 꽁지 빠지게 도망쳤고…… 아녜제가 말한 사냥 대회에선 우리가 이길 것 같긴 한데, 아녜제는 하나도 즐거워 보이지 않았단 말이지. 왜 그런 걸까? 짐승들한테 줄 먹이는 아직 충분한데.",
+                "cn": "那个叫贝纳尔多的人死了，扎罗夹着尾巴逃回了他的领地......看来阿涅塞说的那场狩猎比赛我们赢定了，可她看起来并不开心。为什么？兽群的食物储备明明还很丰富。"
+            },
+            "asset": "char_4014_lunacu/CN_006"
+        },
+        {
+            "id": "char_4014_lunacu_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Can I get a couple extra sets of Rhodes Island clothes? They're well-made, very warm, make good tents, and you can tear them up for bandages. No? Awww… Then how about the storage depot? I'd like to go and... uhh, take a look around.",
+                "jp": "ロドスの服をもっと貰ってもいいか？すごく丈夫であったかいから、テントも作れるし、裂いて包帯にしてもいいのだ。ダメか？じゃ……補給品の倉庫どこだ？ちょっと……ちょっと覗くだけだ。",
+                "kr": "로도스 아일랜드의 옷을 몇 벌 더 줄 수 있어? 질도 좋고 따뜻해서 텐트를 만들기에도, 찢어서 붕대로 쓰기에도 좋을 것 같아. 안 된다고? 그럼…… 물자 창고는 어디에 있어? 내가 가서…… 어, 아니 그냥 구경만 좀 하려고.",
+                "cn": "我能多领几套罗德岛的衣服吗？质量很好，很暖和，可以用来搭帐篷，撕开做绷带也不错。不行？那......物资仓库在哪？我过去......呃，过去看看。"
+            },
+            "asset": "char_4014_lunacu/CN_007"
+        },
+        {
+            "id": "char_4014_lunacu_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Doctor, Agnese spoke highly of you, and told me to learn from your 'cunning.' What does cunning mean? Oh! Is it cunning when you hide here by yourself, eating in secret, not sharing with anyone else? I don't think that's hard to do.",
+                "jp": "アンニェーゼはドクターのことを評価してる。お前から「ずる賢さ」を学べと言われたが、「ずる賢さ」ってなんだ？お前みたいにこっそり隠れてご飯を食べて、群れのみんなで分け合わないのは「ずる賢さ」か？それなら簡単だ。",
+                "kr": "아녜제가 박사를 칭찬하더라고. 나한테 박사의 '교활함'을 배우라던데, 교활함이 뭐야? 다른 사람들이랑 나누지 않고, 혼자 몰래 음식을 먹는 게 교활한 건가? 그런 거라면 별로 어렵지 않겠네.",
+                "cn": "博士，阿涅塞对你的评价不错，她让我学学你的“狡猾”。狡猾是什么？你躲在这里偷偷吃食物，不和大家分享，算是一种狡猾吗？我感觉这个不难。"
+            },
+            "asset": "char_4014_lunacu/CN_008"
+        },
+        {
+            "id": "char_4014_lunacu_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Recently, I've started thinking that maybe life under a roof isn't so bad. Here, you are not a pack, you don't group up and subject yourself to one another. You're, well, something strange... Ugh! It doesn't make any sense! Anyways, I'll stay here a few more days! So get me something good to eat!",
+                "jp": "最近たまに思う、屋根の下で暮らすのも悪くないってな。ここのお前たちは群れではなく、ボスと子分の関係でもなくて、もっと変な……あーもう、分からん！とにかく、ルナカブはまだしばらくここにいるからな！うまいものをよこすのだ！",
+                "kr": "요즘엔 이런 지붕 아래에서의 생활도 나쁘지 않다는 생각이 들어. 여기에서 너희는 하나의 무리도 아니고, 누가 누구한테 복종해야 하는 관계도 아닌, 더 이상한…… 아아! 모르겠어! 아무튼 나 여기서 며칠 더 있을 거니까! 맛있는 거나 준비해 둬!",
+                "cn": "最近我偶尔会觉得，在屋顶下生活也不错。在这里，你们不是一个兽群，不是谁服从谁的关系，而是一种更奇怪的......啊！搞不懂！总之，我会在这里多待几天！给我准备点好吃的！"
+            },
+            "asset": "char_4014_lunacu/CN_009"
+        },
+        {
+            "id": "char_4014_lunacu_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Asleep? That means nothing for me to do? Agnese, let's go play outside.",
+                "jp": "眠っちゃったのか？じゃルナカブの仕事は終わりか？アンニェーゼ、行こ、外で遊ぶぞ。",
+                "kr": "자는 거야? 그럼 이제 내 일도 끝난 건가? 아녜제, 가자. 밖에 나가서 놀자.",
+                "cn": "睡着了？那没我的事了？阿涅塞，走，去外面玩了。"
+            },
+            "asset": "char_4014_lunacu/CN_010"
+        },
+        {
+            "id": "char_4014_lunacu_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Agnese called me Lunacub, so you can call me that too. I heard there's a 'canteen' place here, where you can eat whatever you want. Is that true? Where is it? Can I go there right now?",
+                "jp": "アンニェーゼからはルナカブと呼ばれている。お前もそう呼んでいいぞ。ここにはショクドウっていう、好きにご飯を食べれる場所があると聞いたのだ。本当？どこにある？今すぐ行っていいか？",
+                "kr": "아녜제는 날 루나컵이라고 부르니까, 너도 날 루나컵이라고 불러도 돼. 여기에는 밥을 마음대로 먹을 수 있는 '식당'이라는 장소가 있다고 들었는데, 진짜야? 어디 있어? 지금 바로 가도 돼?",
+                "cn": "阿涅塞叫我子月，你也可以这么喊我。我听说这里有一个地方叫食堂，可以随便吃饭，真的吗？在哪？我现在就可以过去吗？"
+            },
+            "asset": "char_4014_lunacu/CN_011"
+        },
+        {
+            "id": "char_4014_lunacu_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Too much trouble! Hunting really isn't that complicated.",
+                "jp": "面倒過ぎる。狩りはこんなに複雑じゃないぞ。",
+                "kr": "귀찮아. 사냥은 이렇게 복잡하지 않다고.",
+                "cn": "太麻烦了，狩猎哪有这么复杂。"
+            },
+            "asset": "char_4014_lunacu/CN_012"
+        },
+        {
+            "id": "char_4014_lunacu_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "A promotion? Does that mean you'll listen to me? How many of these shiny... 'medals' does it take for you to obey me?",
+                "jp": "昇進だって？ならお前がルナカブの言うことを聞くのか？お前のボスになるには、このキラキラの……「メダル」を、あと何枚集めればいいのだ？",
+                "kr": "승진? 그럼 이제부턴 네가 내 명령을 듣는 거야? 아니라고? 그럼 네가 날 따르게 하려면 이 반짝반짝 빛나는 '훈장'을 몇 개나 더 모아야 하는 거야?",
+                "cn": "晋升？那你会听我的吗？如果要让你服从我，还要收集多少枚这种亮闪闪的......“勋章”？"
+            },
+            "asset": "char_4014_lunacu/CN_013"
+        },
+        {
+            "id": "char_4014_lunacu_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Agnese always tells me that humans are dangerous and cunning, their bellies full and hearts wicked, but you've proved you are different. You are allowed to join my pack.",
+                "jp": "アンニェーゼがよく言っていた。人間は危険で小狡く、お腹の中まで真っ黒だと。でもお前は良いやつだ。ルナカブの群れに入れてあげてもいいぞ。",
+                "kr": "아녜제가 나한테 인간은 위험하고 교활한 데다, 뱃속이 항상 시커먼 걸로 가득 차 있다고 했어. 근데 넌 좀 괜찮은 녀석인 것 같네. 너는 내 무리에 들어올 자격이 있어.",
+                "cn": "阿涅塞总是告诉我，人类既危险又狡诈，满肚子坏心肠。不过，你这家伙不错。你有资格加入我的兽群。"
+            },
+            "asset": "char_4014_lunacu/CN_014"
+        },
+        {
+            "id": "char_4014_lunacu_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "I still prefer hunting with my pack. They are much more open than humans.",
+                "jp": "ルナカブはやっぱり群れで狩りをするのが好きだ。あいつらは、人間よりずっと正直なのだ。",
+                "kr": "난 역시 짐승들이랑 사냥하는 게 더 좋아. 짐승들은 인간들보다 훨씬 솔직하니까 말이야.",
+                "cn": "我还是更喜欢和兽群一起狩猎，它们比人类坦诚得多。"
+            },
+            "asset": "char_4014_lunacu/CN_017"
+        },
+        {
+            "id": "char_4014_lunacu_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Since I'm the luna wolf, you all must listen to me. I'll make it clear first: if I don't see your fangs bared in the hunt, you won't get a share of the kill.",
+                "jp": "ルナカブがボスだから、みんなルナカブの言うこと聞くのだ。先に言っておくぞ、一生懸命やらないやつに獲物は分けん。",
+                "kr": "내가 우두머리니까, 너희도 내 명령을 들어야 돼. 그리고 먼저 말해 두겠는데, 목숨 걸고 싸우지 않는 녀석한테는 사냥감을 안 나눠줄 거야.",
+                "cn": "既然我是头狼，你们要听我的。事先说好，不拼命的家伙不配分到猎物。"
+            },
+            "asset": "char_4014_lunacu/CN_018"
+        },
+        {
+            "id": "char_4014_lunacu_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "How much will we bring back today?",
+                "jp": "今日は何匹狩れるかな？",
+                "kr": "오늘은 몇 마리나 사냥할 수 있을까?",
+                "cn": "今天能收获几只猎物呢？"
+            },
+            "asset": "char_4014_lunacu/CN_019"
+        },
+        {
+            "id": "char_4014_lunacu_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "The hunt begins.",
+                "jp": "巻狩りを始める。",
+                "kr": "몰이 사냥을 시작하자.",
+                "cn": "开始围猎吧。"
+            },
+            "asset": "char_4014_lunacu/CN_020"
+        },
+        {
+            "id": "char_4014_lunacu_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "My fangs are sharp.",
+                "jp": "ルナカブの牙はとっても鋭いんだ。",
+                "kr": "내 송곳니는 날카롭다고.",
+                "cn": "我的獠牙很锋利。"
+            },
+            "asset": "char_4014_lunacu/CN_021"
+        },
+        {
+            "id": "char_4014_lunacu_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Where are the idiots who came to die?",
+                "jp": "死にたいバカものはどこにいるのだ？",
+                "kr": "죽고 싶은 멍청이는 어디 있지?",
+                "cn": "要丧命的笨蛋在哪里？"
+            },
+            "asset": "char_4014_lunacu/CN_022"
+        },
+        {
+            "id": "char_4014_lunacu_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Hurry, the pack and I are waiting.",
+                "jp": "早く来い、ルナカブと群れが待っている。",
+                "kr": "서둘러, 모두 기다리고 있잖아.",
+                "cn": "快点，我和兽群等着呢。"
+            },
+            "asset": "char_4014_lunacu/CN_023"
+        },
+        {
+            "id": "char_4014_lunacu_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Patience is key.",
+                "jp": "我慢が一番大事だ。",
+                "kr": "가장 중요한 건 인내심이야.",
+                "cn": "最重要的是耐心。"
+            },
+            "asset": "char_4014_lunacu/CN_024"
+        },
+        {
+            "id": "char_4014_lunacu_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Pipe down already! I'm not going to miss!",
+                "jp": "うるさいぞ！ルナカブは当てるから！",
+                "kr": "시끄러워! 조준하고 있잖아!",
+                "cn": "别吵了！我会瞄准的！"
+            },
+            "asset": "char_4014_lunacu/CN_025"
+        },
+        {
+            "id": "char_4014_lunacu_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Take down their packleader!",
+                "jp": "あの一番前のやつをやっつけろ！",
+                "kr": "저기 맨 앞에 있는 녀석을 처리해!",
+                "cn": "干掉那个领头的！"
+            },
+            "asset": "char_4014_lunacu/CN_026"
+        },
+        {
+            "id": "char_4014_lunacu_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Drive them into a corner!",
+                "jp": "あいつらをこっちに追い込んで！",
+                "kr": "녀석들을 여기로 몰아넣어!",
+                "cn": "把他们赶进包围圈里！"
+            },
+            "asset": "char_4014_lunacu/CN_027"
+        },
+        {
+            "id": "char_4014_lunacu_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Stupid burdenbeast, you're not getting away!",
+                "jp": "グズ駄獣、逃がさない！",
+                "kr": "바보 버든비스트, 놓치지 않겠어!",
+                "cn": "笨蛋驮兽，别想逃！"
+            },
+            "asset": "char_4014_lunacu/CN_028"
+        },
+        {
+            "id": "char_4014_lunacu_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Good hunt. If you lived in the wild, I'm sure you would survive for long.",
+                "jp": "完璧な狩りだ。お前が外で暮らすなら、きっと長く生き延びられるぞ。",
+                "kr": "완벽한 사냥이었어. 넌 밖에서 산다 해도, 분명 오래 살아남을 수 있을 거야.",
+                "cn": "完美的狩猎，如果你在外面生活，一定也能活得很久。"
+            },
+            "asset": "char_4014_lunacu/CN_029"
+        },
+        {
+            "id": "char_4014_lunacu_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Tired. Already did what you asked me. Can I go eat now? What's on the menu today?",
+                "jp": "ふぁ……疲れたぁ。お前が言ってたことは全部片づけたぞ、もうご飯食べていいか？今日のメニューはなに？",
+                "kr": "흐아암…… 힘들어. 네가 시킨 건 다 했는데, 이제 밥 먹으러 가도 되지? 오늘 메뉴는 뭐야?",
+                "cn": "（哈欠声）累了，你让我干的都干完了，能去吃饭了吗？今天的菜单是什么？"
+            },
+            "asset": "char_4014_lunacu/CN_030"
+        },
+        {
+            "id": "char_4014_lunacu_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Hey! Some of them just got away! Do you even know how to keep the prey surrounded? I'm gonna teach you next time!",
+                "jp": "おい！逃げた獲物がいるのだ！囲い方を知らないのか？今度ルナカブが教えてやる！",
+                "kr": "이봐! 도망친 사냥감이 있잖아! 포위하는 방법을 모르는 거야? 내가 다음에 알려줄게!",
+                "cn": "喂！你没看到有猎物逃了吗？你懂不懂合围啊！下次我来教你！"
+            },
+            "asset": "char_4014_lunacu/CN_031"
+        },
+        {
+            "id": "char_4014_lunacu_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Grr... Agnese, the hunt failed. Come help us! Don't let this idiot die here!",
+                "jp": "ちっ……アンニェーゼ、ルナカブたちの狩りは失敗した、手を貸してくれ！このバカをここで死なせちゃダメ！",
+                "kr": "칫, 아녜제, 사냥에 실패했어. 좀 도와줘! 이 바보가 여기서 죽게 놔두면 안 돼!",
+                "cn": "啧，阿涅塞，狩猎失败了，帮我们一把！别让这个白痴死在这儿！"
+            },
+            "asset": "char_4014_lunacu/CN_032"
+        },
+        {
+            "id": "char_4014_lunacu_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "I don't like roofs.",
+                "jp": "ルナカブは屋根が嫌いだ。",
+                "kr": "난 천장이 싫다고",
+                "cn": "我不喜欢天花板。"
+            },
+            "asset": "char_4014_lunacu/CN_033"
+        },
+        {
+            "id": "char_4014_lunacu_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Don't scare me like that! You wanna die?",
+                "jp": "驚かすな！死にたいのか？",
+                "kr": "놀래키지 마! 죽고 싶어?",
+                "cn": "别这么吓我！不要命了？"
+            },
+            "asset": "char_4014_lunacu/CN_034"
+        },
+        {
+            "id": "char_4014_lunacu_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Hey, Doctor, don't you get tired of staying in these little cubes every day?",
+                "jp": "おい、ドクター、毎日こんな狭い部屋の中で飽きないのか？",
+                "kr": "어이, 박사, 매일 이런 작은 방 안에만 있으면 지겹지 않아?",
+                "cn": "喂，博士，你每天都待在这些小格子里，不腻吗？"
+            },
+            "asset": "char_4014_lunacu/CN_036"
+        },
+        {
+            "id": "char_4014_lunacu_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4014_lunacu/CN_037"
+        },
+        {
+            "id": "char_4014_lunacu_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "What took you so long? Next time you make me wait for you in a stuffy little box, don't blame me if I get a little rude.",
+                "jp": "やっと来たのか？今度また、ルナカブをこんな窮屈な部屋で待たせたら、容赦しないからな。",
+                "kr": "드디어 왔네? 다음에도 또 이런 갑갑한 방에서 기다리게 만들면 절대 가만 안 둘 거야.",
+                "cn": "终于来了？下次再敢让我在这个闷死人的小房间里等你，别怪我不客气。"
+            },
+            "asset": "char_4014_lunacu/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Stephanie McKeon",
+            "global": "Stephanie McKeon"
+        },
+        "cn": {
+            "native": "鹿尤尤",
+            "global": "yoyo"
+        },
+        "jp": {
+            "native": "久保田梨沙",
+            "global": "Risa Kubota"
+        },
+        "kr": {
+            "native": "박하진",
+            "global": "Park Ha-jin"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

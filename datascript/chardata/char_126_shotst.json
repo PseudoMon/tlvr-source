@@ -1,0 +1,596 @@
+{
+    "charid": "char_126_shotst",
+    "nameid": "shotst",
+    "names": {
+        "en": "Meteor",
+        "jp": "メテオ",
+        "kr": "메테오",
+        "cn": "流星"
+    },
+    "voices": [
+        {
+            "id": "char_126_shotst_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "I sense something familiar in the wind. Where are we?",
+                "jp": "懐かしい匂いがするわ。ここは……？",
+                "kr": "아련한 향기가 나네. 여긴…?",
+                "cn": "好怀念的气息啊。这里是......？"
+            },
+            "asset": "char_126_shotst/CN_001"
+        },
+        {
+            "id": "char_126_shotst_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Do you feel the wind from Kazimierz?",
+                "jp": "カジミエーシュからの風、感じてもらえるかしら。",
+                "kr": "카시미어에서 불어오는 바람을 느껴봐.",
+                "cn": "来自卡西米尔的风，您感受到了吗？"
+            },
+            "asset": "char_126_shotst/CN_002"
+        },
+        {
+            "id": "char_126_shotst_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Rhodes Island is very different from the places I used to live. There's nowhere to start a campfire here... too bad. Maybe on the deck? I'd like to create a space where everyone can talk and grow closer together.",
+                "jp": "ロドスは昔いたトコと違って、焚き火ができる場所がないのが残念ね。甲板の上とかでもいいから、みんなと話し合える場所がほしいわ。",
+                "kr": "로도스 아일랜드엔 예전에 있던 곳처럼 모닥불을 피울 만한 장소가 없어서 아쉬워. 갑판 위라도 좋으니까, 다 함께 얘기 나눌 수 있는 곳이 있으면 좋겠는데.",
+                "cn": "罗德岛和我待过的地方不一样，这里没有可以点起篝火的地方，真遗憾。不知道在甲板上能不能行，我想给大家创造一个近距离说话聊天的场所。"
+            },
+            "asset": "char_126_shotst/CN_003"
+        },
+        {
+            "id": "char_126_shotst_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Umm, how does this mission signup system actually work? I'm really bad at electronics…",
+                "jp": "この任務を登録するソフト？は、どうやって使うのかしら？私、パソコンっていうのは本当にもう……。",
+                "kr": "이 임무를 등록하는… 소프트웨어라고 하나? 이거, 어떻게 쓰는 거지? 난 이 컴퓨터… 라는 걸 잘 몰라서…",
+                "cn": "这个任务登记系统......？呃，要怎么操作呢？我对电子设备真的不怎么在行......"
+            },
+            "asset": "char_126_shotst/CN_004"
+        },
+        {
+            "id": "char_126_shotst_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "There have been lots of new faces at Rhodes Island. I'll gladly help them adjust to the environment.",
+                "jp": "最近、新しいメンバーがいっぱい増えたのね。ロドスにうまく馴染めるように、必要なら私が相談に乗るわ。",
+                "kr": "요즘 새로운 멤버가 많이 늘었네. 로도스 아일랜드에 적응할 수 있도록 내가 잘 챙겨줄게.",
+                "cn": "最近罗德岛增加了许多新面孔啊。为了让他们更顺利地融入罗德岛，必要的时候我会去帮助他们的。"
+            },
+            "asset": "char_126_shotst/CN_005"
+        },
+        {
+            "id": "char_126_shotst_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "That Kazimierzian knight... Oh, it's her. I knew that girl years ago. She used to be a shy, bookish type. I wonder what made her change so much.",
+                "jp": "あのカジミエーシュの騎士……そうね、昔からよく知ってる子だわ。あの頃は人見知りで、本ばかり読んでいたのに……。こんなに変わったんだね。",
+                "kr": "저 카시미어의 기사… 그래, 전부터 알던 애야. 그땐 낯도 많이 가리고 책만 들여다보던 아이가… 이렇게 변했구나.",
+                "cn": "那位卡西米尔骑士......嗯，我没认错，我以前就认识她，那时候她还是个喜欢读书的内向女孩呢。变化可真大啊。"
+            },
+            "asset": "char_126_shotst/CN_006"
+        },
+        {
+            "id": "char_126_shotst_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Shh... look what I found! A solitary Doctor... gotta catch this one! Oh, did I scare you? Haha…",
+                "jp": "しーっ…あら、こんなところにぼっちなドクター発見……。捕まえよっと。びっくりした？ははっ。",
+                "kr": "(쉿… 어머, 이런 곳에 박사 혼자 있네… 어디 장난 좀 쳐 볼까?) 놀랐어? 하하.",
+                "cn": "嘘——看，我发现了什么，这儿有一位落单的博士，我们可以尝试捕捉他！吓到您了吗？呵呵~"
+            },
+            "asset": "char_126_shotst/CN_007"
+        },
+        {
+            "id": "char_126_shotst_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "I sometimes recall the time back home in the forest. We had lots of different competitions every year…ah, the good old days. I wonder what my hometown is like now.",
+                "jp": "たまに故郷の森で過ごした日々を思い出すわ。毎年あったいろんな競技会なんかも懐かしいわね。いまはどうなってるのかしら……。",
+                "kr": "가끔 고향 숲에서 지내던 날들이 떠올라. 매년 열렸던 다양한 대회도 그립고. 지금은 어떻게 되었으려나…",
+                "cn": "偶尔的，我会想起在森林中的故乡时度过的日子。每年都有各种各样的竞赛可以参加，真怀念啊。不知道，我的故乡现在又变成什么样了呢。"
+            },
+            "asset": "char_126_shotst/CN_008"
+        },
+        {
+            "id": "char_126_shotst_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "I'll always have your back, Doctor.",
+                "jp": "ドクターの背中は、いつでも預かるわ。",
+                "kr": "박사의 뒤는 언제나 내가 책임질게.",
+                "cn": "博士的背后，无论什么时候都可以放心地交给我。"
+            },
+            "asset": "char_126_shotst/CN_009"
+        },
+        {
+            "id": "char_126_shotst_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "So you can fall asleep without a care, just like that? Heheh...",
+                "jp": "ドクターもこんな無防備な寝顔するんだ…フフ。",
+                "kr": "박사도… 잘 때는 이렇게 무방비한 표정을 짓는구나… 후후.",
+                "cn": "博士也会这样毫无防备地睡着啊，呵呵。"
+            },
+            "asset": "char_126_shotst/CN_010"
+        },
+        {
+            "id": "char_126_shotst_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Hello, I'm Meteor, the archer from the woods. Do you need an Operator who excels in long-distance support?",
+                "jp": "どうも、私はメテオ。森の弓使いよ。遠距離支援はいかが？",
+                "kr": "안녕, 난 메테오라고 해. 숲에서 온 궁수지. 원거리 지원이 필요해?",
+                "cn": "你好，我是流星，来自森林的弓箭手。您需要擅长远程援护的干员吗？"
+            },
+            "asset": "char_126_shotst/CN_011"
+        },
+        {
+            "id": "char_126_shotst_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Archery requires constant practice. No one can afford to slack off for even one day.",
+                "jp": "弓の修行ってね、一日でも気を抜いたらダメなの。",
+                "kr": "활쏘기 연습은 하루라도 빼먹으면 안 돼.",
+                "cn": "弓术的练习，哪怕一天也不能松懈呀。"
+            },
+            "asset": "char_126_shotst/CN_012"
+        },
+        {
+            "id": "char_126_shotst_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "I'm honored to receive this promotion.",
+                "jp": "昇進ね。光栄だわ。",
+                "kr": "승진했구나, 영광이야.",
+                "cn": "我很荣幸获得这次晋升机会。"
+            },
+            "asset": "char_126_shotst/CN_013"
+        },
+        {
+            "id": "char_126_shotst_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Thank you, Doctor, for recognizing my skill. I'll continue to do my best to serve you.",
+                "jp": "認めてくれてありがとう。これからもドクターの力になるわ。",
+                "kr": "날 인정해줘서 고마워. 앞으로도 박사의 힘이 될게.",
+                "cn": "谢谢博士的认可。今后就让我继续为博士贡献自己的力量吧。"
+            },
+            "asset": "char_126_shotst/CN_014"
+        },
+        {
+            "id": "char_126_shotst_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Leave the long-distance support to me.",
+                "jp": "遠距離支援は任せて。",
+                "kr": "원거리 지원이라면 맡겨줘.",
+                "cn": "远程援护就交给我吧。"
+            },
+            "asset": "char_126_shotst/CN_017"
+        },
+        {
+            "id": "char_126_shotst_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "I'll keep everyone safe.",
+                "jp": "みんなの面倒は、ちゃんと見てあげるわ。",
+                "kr": "팀원들은 내가 잘 돌봐줄게.",
+                "cn": "我会照顾好大家的。"
+            },
+            "asset": "char_126_shotst/CN_018"
+        },
+        {
+            "id": "char_126_shotst_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Everybody, let's go.",
+                "jp": "みんな、行くわよ。",
+                "kr": "얘들아, 가자.",
+                "cn": "伙伴们，出发。"
+            },
+            "asset": "char_126_shotst/CN_019"
+        },
+        {
+            "id": "char_126_shotst_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Time to show them what we can do.",
+                "jp": "私たちの力の見せどころよ。",
+                "kr": "우리의 힘을 보여줄 때야.",
+                "cn": "展示我们力量的时候到了。"
+            },
+            "asset": "char_126_shotst/CN_020"
+        },
+        {
+            "id": "char_126_shotst_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Awaiting your orders.",
+                "jp": "ご命令を。",
+                "kr": "명령을 내려줘.",
+                "cn": "请您下令。"
+            },
+            "asset": "char_126_shotst/CN_021"
+        },
+        {
+            "id": "char_126_shotst_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "I've been waiting for a while.",
+                "jp": "この瞬間を待っていたわ。",
+                "kr": "이 순간을 기다리고 있었어.",
+                "cn": "我已等候多时。"
+            },
+            "asset": "char_126_shotst/CN_022"
+        },
+        {
+            "id": "char_126_shotst_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "The wind is blowing in the right direction.",
+                "jp": "いい風が吹いているわ。",
+                "kr": "좋은 바람이 불고 있어.",
+                "cn": "风吹向了正确的地方。"
+            },
+            "asset": "char_126_shotst/CN_023"
+        },
+        {
+            "id": "char_126_shotst_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "I'll stay vigilant.",
+                "jp": "警戒は怠らないわよ。",
+                "kr": "경계를 늦추지 않겠어.",
+                "cn": "我会保持警戒。"
+            },
+            "asset": "char_126_shotst/CN_024"
+        },
+        {
+            "id": "char_126_shotst_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Perfect chance!",
+                "jp": "隙あり！",
+                "kr": "빈틈 발견!",
+                "cn": "有破绽！"
+            },
+            "asset": "char_126_shotst/CN_025"
+        },
+        {
+            "id": "char_126_shotst_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Feel the wind.",
+                "jp": "風よ！",
+                "kr": "바람이여!",
+                "cn": "风！"
+            },
+            "asset": "char_126_shotst/CN_026"
+        },
+        {
+            "id": "char_126_shotst_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "This is the shot!",
+                "jp": "この一撃で！",
+                "kr": "이 일격으로 끝내주마!",
+                "cn": "就是这一箭！"
+            },
+            "asset": "char_126_shotst/CN_027"
+        },
+        {
+            "id": "char_126_shotst_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Critical hit.",
+                "jp": "トドメよ！",
+                "kr": "마무리다!",
+                "cn": "致命一击。"
+            },
+            "asset": "char_126_shotst/CN_028"
+        },
+        {
+            "id": "char_126_shotst_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "No matter how difficult the battle, we can handle it, as long as we work together as one.",
+                "jp": "どんな難関が待っていようと、私たちが一緒なら、必ず乗り越えられるわ。",
+                "kr": "어떤 난관이 기다리고 있다 해도, 우리가 함께하면 반드시 극복할 수 있을 거야.",
+                "cn": "不管是什么样的难关，只要我们齐心协力，就一定能克服过去。"
+            },
+            "asset": "char_126_shotst/CN_029"
+        },
+        {
+            "id": "char_126_shotst_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Perfect! You all did well.",
+                "jp": "よくやったわ。みんな最高よ。",
+                "kr": "잘했어. 다들 최고야!",
+                "cn": "干的漂亮，大家都是最棒的。"
+            },
+            "asset": "char_126_shotst/CN_030"
+        },
+        {
+            "id": "char_126_shotst_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "All injured personnel, please stay put, don't move. I'll be right there.",
+                "jp": "負傷者はその場で待機して。今すぐ助けにいくわよ！",
+                "kr": "부상자는 그 자리에서 대기해. 지금 바로 도와주러 갈 테니까!",
+                "cn": "请伤者留在原地，别乱动，我马上就去帮你。"
+            },
+            "asset": "char_126_shotst/CN_031"
+        },
+        {
+            "id": "char_126_shotst_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "I'm sorry... I didn't want it to end up like this...",
+                "jp": "ごめんなさい。こんなはずではなかったの……。",
+                "kr": "미안해, 이렇게 될 리 없었는데…",
+                "cn": "抱歉，不应该是这样的......"
+            },
+            "asset": "char_126_shotst/CN_032"
+        },
+        {
+            "id": "char_126_shotst_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "It's hard to get used to such a small room.",
+                "jp": "こういう狭い部屋は、やはり慣れないわ……。",
+                "kr": "이런 좁은 방은 역시 적응이 안 된다니까…",
+                "cn": "我还是不太习惯这么狭小的房间啊。"
+            },
+            "asset": "char_126_shotst/CN_033"
+        },
+        {
+            "id": "char_126_shotst_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Oh? Need anything?",
+                "jp": "あら？何か用かしら？",
+                "kr": "어, 무슨 일이야?",
+                "cn": "哎呀？有什么事吗？"
+            },
+            "asset": "char_126_shotst/CN_034"
+        },
+        {
+            "id": "char_126_shotst_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Being by your side feels like basking in the spring sunshine. So warm, so comfy.",
+                "jp": "ドクターと一緒にいる時間は、春の陽射しのように暖かくて、気持ちいいわ。",
+                "kr": "박사와 함께하는 시간은 봄볕처럼 포근해서 기분이 좋아.",
+                "cn": "和博士在一起的时光，就像沐浴在春天的阳光里一样温暖，很舒服。"
+            },
+            "asset": "char_126_shotst/CN_036"
+        },
+        {
+            "id": "char_126_shotst_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_126_shotst/CN_037"
+        },
+        {
+            "id": "char_126_shotst_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Hello, Doctor.",
+                "jp": "あら、ドクター。こんにちは。",
+                "kr": "아, 박사. 좋은 아침.",
+                "cn": "博士，您好。"
+            },
+            "asset": "char_126_shotst/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Samantha Dakin",
+            "global": "Samantha Dakin"
+        },
+        "cn": {
+            "native": "侯小菲",
+            "global": "Fifi"
+        },
+        "jp": {
+            "native": "福原綾香",
+            "global": "Ayaka Fukuhara"
+        },
+        "kr": {
+            "native": "조경이",
+            "global": "Jo Kyoung-I"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

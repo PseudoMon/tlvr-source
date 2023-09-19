@@ -1,0 +1,586 @@
+{
+    "charid": "char_346_aosta",
+    "nameid": "aosta",
+    "names": {
+        "en": "Aosta",
+        "jp": "アオスタ",
+        "kr": "아오스타",
+        "cn": "奥斯塔"
+    },
+    "voices": [
+        {
+            "id": "char_346_aosta_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "If you want me to be your assistant, is it okay if I do some craftwork here?",
+                "jp": "助手をやるなら、ここで手仕事をしていてもいいですか？",
+                "kr": "조수를 하는 거면, 여기서 수공예 작업을 해도 괜찮겠습니까?",
+                "cn": "做助理的话，我可以在旁边做些手工吗？"
+            },
+            "asset": "char_346_aosta/CN_001"
+        },
+        {
+            "id": "char_346_aosta_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Doctor, if you like excitement, you should probably hang out in Siracusa for a while. You won't enjoy it so much after that.",
+                "jp": "ドクター、刺激を求めるのが好きなら、しばらくシラクーザで暮らしてみるといいですよ。そしたらすぐに嫌気がさすはずです。",
+                "kr": "박사님, 자극을 쫓는 걸 좋아한다면, 당분간 시라쿠사에서 지내보는 게 좋을 겁니다. 그러면 금방 싫증이 날 테니까요.",
+                "cn": "博士，如果你喜欢追求刺激，可以去叙拉古生活一段时间。然后你就会不喜欢了。"
+            },
+            "asset": "char_346_aosta/CN_002"
+        },
+        {
+            "id": "char_346_aosta_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Considering his personality, sometimes even I wonder why no one's beaten Chiave to death yet.",
+                "jp": "キアーベのあの性格、何故今日まで殺されずに生きてこられたのかって時々疑問に思います。",
+                "kr": "키아베의 저 성격, 어떻게 오늘까지 죽지 않고 살아있는지 가끔 의문이 듭니다.",
+                "cn": "贾维的性格，有时候连我都怀疑，他究竟是怎么活到今天没有被人打死的。"
+            },
+            "asset": "char_346_aosta/CN_003"
+        },
+        {
+            "id": "char_346_aosta_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Doctor, are you interested in DIY? See, the three of us actually design and make our weapons and outfits ourselves. You could join us sometime, if you want.",
+                "jp": "ドクター、ハンドメイドに興味ありますか？実は僕たち三人の武器や服は、全て自分たちでデザインして手作りしたものなんです。もしそういうのが好きなら、一緒にやってみませんか。",
+                "kr": "박사님, 핸드메이드에 관심이 있으십니까? 실은 우리 셋의 무기나 옷 전부 직접 디자인해서 수작업한 것입니다. 혹시 관심이 있다면, 같이 해보지 않겠습니까?",
+                "cn": "博士，你对DIY感兴趣吗？其实，我们三个的武器和衣服，都是自己设计和制作的。如果你也喜欢的话，我们可以交流一下。"
+            },
+            "asset": "char_346_aosta/CN_004"
+        },
+        {
+            "id": "char_346_aosta_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "I came to realize one thing while I was cleaning up after Chiave's messes: If you want to be really strong, you aren't going to get there with just violence.",
+                "jp": "キアーベの尻拭いをしてるうちに気づいたことがあります。それは、本当の意味で強くなるためには、暴力を振るうだけではダメだということです。",
+                "kr": "키아베의 뒤처리를 하면서 깨달은 것이 있습니다. 그건 진정한 의미로 강해지기 위해서는 폭력을 행사하기만 해서는 안 된다는 것입니다.",
+                "cn": "在帮贾维擦屁股的过程中，我发现了一件事，那就是——想要真正变得强大，光靠暴力是不够的。"
+            },
+            "asset": "char_346_aosta/CN_005"
+        },
+        {
+            "id": "char_346_aosta_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "In Siracusa, most people my age just want to join a family, but there are also a lot of people who want to live an honest life instead. Sometimes, I think those ones are the best of us all.",
+                "jp": "シラクーザでは、同年代の中にはファミリーの一員になりたいという人も多くいましたが、堅実に生活している人もたくさんいました。時々、そういう人たちは僕たちなんかよりもずっとすごいと感じるんです。",
+                "kr": "시라쿠사에서는 또래 중에 패밀리의 일원이 되고 싶다는 사람도 많았지만, 착실하게 생활하는 사람도 많이 있었습니다. 가끔 그런 사람들은 우리보다 훨씬 대단하다고 생각합니다.",
+                "cn": "在叙拉古，许多同龄人都想成为一个家族的一员，但也有许多脚踏实地生活的人。我有时候，觉得他们比我们更厉害。"
+            },
+            "asset": "char_346_aosta/CN_006"
+        },
+        {
+            "id": "char_346_aosta_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "(Yawn) ...Sorry, Doctor, I didn't get much sleep last night. Rhodes Island is way too safe. It's taking some time to get used to.",
+                "jp": "ふわぁ……失礼、ドクター。昨夜よく眠れなかったもので……ロドスがあまりにも安全なので、なかなか慣れないんです。",
+                "kr": "흐아암…… 실례, 박사님. 어젯밤에 잠을 설쳐서…… 로도스 아일랜드가 너무 안전해서 좀처럼 익숙해지지 않더라고요.",
+                "cn": "（哈欠声）......不好意思，博士，我昨晚没有睡好。罗德岛太安全了，我不是很习惯。"
+            },
+            "asset": "char_346_aosta/CN_007"
+        },
+        {
+            "id": "char_346_aosta_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Chiave, Broca, and me. The three of us are like brothers, and we've done all kinds of things together. But, sometimes, I really wonder if this really is the life for us.",
+                "jp": "キアーベ、ブローカ、そして僕の三人は、一緒に色んなことをやってきた仲間です。しかし時々思うんです。こんな生活は本当に僕たちに合っているのか、って。",
+                "kr": "키아베, 브로카, 그리고 저, 저희 셋은 함께 여러 일을 겪은 동료입니다. 하지만 가끔 이런 생각을 합니다. 이런 생활은 정말 우리에게 어울리는 것인가… 하고요.",
+                "cn": "贾维、布洛卡、我，我们三个是伙伴，也在一起做了不少事。但我有时候也会想，这样的生活，真的就是适合我们的生活吗？"
+            },
+            "asset": "char_346_aosta/CN_008"
+        },
+        {
+            "id": "char_346_aosta_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "To tell you the truth, I wanted to be a public servant when I was a kid. Up until my dad made me pick up a weapon for the first time, that is. I don't hate drifting around with the two of them, but I always felt like there was something I was missing, and I know what it is now. I wanted to become someone as strong-willed as you, Doctor.",
+                "jp": "実は僕、小さい頃は公務員になるのが夢でした。初めて父親に武器を持たされるまでは、の話ですけど。二人との放浪生活は嫌いじゃありませんでしたが、いつも何かが足りないと感じていました。ですが今は理解できました。僕もドクターのように意志の強い人になりたかったんです。",
+                "kr": "사실은 저, 어릴 적에는 공무원이 꿈이었습니다. 처음으로 아버지가 무기를 제 손에 쥐여주기 전의 얘기지만 말이죠. 둘과의 방랑 생활은 싫지는 않았지만, 항상 무언가가 부족하다 생각했습니다. 하지만 지금은 이해했습니다. 저도 박사님처럼 의지가 강한 사람이 되고 싶었던 겁니다.",
+                "cn": "其实，我小时候的梦想是成为一名公务员，直到父亲第一次让我拿起武器。我并不讨厌和他们四处闯荡的生活，但始终感觉缺少了一些什么，现在我知道了，我想成为博士你这样内心强大的人。"
+            },
+            "asset": "char_346_aosta/CN_009"
+        },
+        {
+            "id": "char_346_aosta_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Doctor... you're asleep? Taking it easy, aren't we?",
+                "jp": "ドクター……あっ、眠ってしまったのか。フッ、幸せそうな奴だな。",
+                "kr": "박사님…… 잠든 건가. 훗, 행복해 보이는 녀석이군.",
+                "cn": "博士......睡着了吗，真是个幸福的家伙。"
+            },
+            "asset": "char_346_aosta/CN_010"
+        },
+        {
+            "id": "char_346_aosta_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Hello, Doctor. I'm Aosta. It's thanks to you that the three of us are still alive. If you don't mind, please let us work here for the time being.",
+                "jp": "こんにちは、ドクター。僕はアオスタです。先日は僕たち三人を助けていただきありがとうございました。もしよければ、しばらくここで働かせてください。",
+                "kr": "안녕하세요, 박사님. 저는 아오스타입니다. 일전엔 우리 셋을 구해주셔서 감사했습니다. 괜찮다면, 잠시 이곳에서 일하게 해주십시오.",
+                "cn": "博士，你好。我叫奥斯塔。之前承蒙照顾，我们三个人才没有被干掉。不嫌弃的话，请让我们在这里工作一段时间吧。"
+            },
+            "asset": "char_346_aosta/CN_011"
+        },
+        {
+            "id": "char_346_aosta_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "...Looks like it's just luck that the three of us only managed to survive this long.",
+                "jp": "……どうやら僕たち三人が今日まで生きてこられたのは、本当に運が良かっただけのようですね。",
+                "kr": "……아무래도 우리 셋이 오늘까지 살아남았던 건, 정말 운이 좋았을 뿐인 것 같군요.",
+                "cn": "......看来，我们三个能活到今天，真的只是运气比较好。"
+            },
+            "asset": "char_346_aosta/CN_012"
+        },
+        {
+            "id": "char_346_aosta_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Doctor, is Rhodes Island really a pharmaceutical company? I've got the feeling that we might just be able to take over a Siracusan city if everyone here put themselves to it.",
+                "jp": "ドクター、ロドスは本当にただの製薬会社ですか？僕が思うに、ここの全員で一斉にかかれば、シラクーザの都市一つを手にするのも夢じゃありません。",
+                "kr": "박사님, 로도스 아일랜드는 정말 평범한 제약회사입니까? 제 생각에 여기 사람들이 전부 다 같이 덤비면, 시라쿠사의 도시 하나를 손에 넣는 것도 꿈은 아닐 것 같은데요.",
+                "cn": "博士，罗德岛真的是一家医药公司吗？我感觉，这里的人一起出动的话，说不定可以拿下叙拉古一座城。"
+            },
+            "asset": "char_346_aosta/CN_013"
+        },
+        {
+            "id": "char_346_aosta_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "I think I might just be able to live the life I've always wanted at Rhodes Island... Doctor, do I have permission to open a DIY shop here?",
+                "jp": "ロドスでなら、もしかすると僕がずっと探し求めていた生き方が見つかるかもしれません……ドクター、僕が艦内でハンドメイドショップを開くとしたらどう思いますか？",
+                "kr": "로도스 아일랜드에서라면, 어쩌면 제가 줄곧 찾고 있었던 삶을 찾을 수 있을지도 모릅니다…… 박사님, 제가 함내에서 핸드메이드 샵을 연다면 어떨 것 같습니까?",
+                "cn": "在罗德岛，或许我能找到一直以来我在追求的生活方式......博士，我能在舰内开一家DIY店吗？"
+            },
+            "asset": "char_346_aosta/CN_014"
+        },
+        {
+            "id": "char_346_aosta_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "I hope this isn't going to be too much of a pain in the back.",
+                "jp": "面倒事でなければいいんですが。",
+                "kr": "귀찮은 일이 아니라면 좋겠습니다만.",
+                "cn": "但愿不会是很麻烦的事情。"
+            },
+            "asset": "char_346_aosta/CN_017"
+        },
+        {
+            "id": "char_346_aosta_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "I'll give it my best shot.",
+                "jp": "なんとかします。",
+                "kr": "어떻게든 하겠습니다.",
+                "cn": "我尽力吧。"
+            },
+            "asset": "char_346_aosta/CN_018"
+        },
+        {
+            "id": "char_346_aosta_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Let's avoid any unnecessary fights.",
+                "jp": "必要のない戦闘はなるべく避けましょう。",
+                "kr": "필요 없는 전투는 되도록 피하죠.",
+                "cn": "尽量避免没必要的战斗吧。"
+            },
+            "asset": "char_346_aosta/CN_019"
+        },
+        {
+            "id": "char_346_aosta_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Guess we don't have a choice. Let's get this taken care of.",
+                "jp": "仕方ありません、さっさと片付けましょう。",
+                "kr": "어쩔 수 없네요, 빨리 정리해버리죠.",
+                "cn": "没办法，快点解决吧。"
+            },
+            "asset": "char_346_aosta/CN_020"
+        },
+        {
+            "id": "char_346_aosta_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "I'll go.",
+                "jp": "僕が行きましょう。",
+                "kr": "제가 가죠.",
+                "cn": "我去吧。"
+            },
+            "asset": "char_346_aosta/CN_021"
+        },
+        {
+            "id": "char_346_aosta_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Hmm?",
+                "jp": "はい？",
+                "kr": "네?",
+                "cn": "嗯？"
+            },
+            "asset": "char_346_aosta/CN_022"
+        },
+        {
+            "id": "char_346_aosta_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Take all of them down?",
+                "jp": "全員倒さないといけないですか？",
+                "kr": "모두 쓰러뜨려야 합니까?",
+                "cn": "全都要解决掉吗？"
+            },
+            "asset": "char_346_aosta/CN_023"
+        },
+        {
+            "id": "char_346_aosta_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "I'll give it a try.",
+                "jp": "やってみましょう。",
+                "kr": "해보죠.",
+                "cn": "让我来试一试吧。"
+            },
+            "asset": "char_346_aosta/CN_024"
+        },
+        {
+            "id": "char_346_aosta_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Hello.",
+                "jp": "こんにちは。",
+                "kr": "안녕하세요.",
+                "cn": "你好。"
+            },
+            "asset": "char_346_aosta/CN_025"
+        },
+        {
+            "id": "char_346_aosta_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Goodbye.",
+                "jp": "さようなら。",
+                "kr": "잘 가십시오.",
+                "cn": "再见。"
+            },
+            "asset": "char_346_aosta/CN_026"
+        },
+        {
+            "id": "char_346_aosta_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Time to put an end to this.",
+                "jp": "終わりにしましょう。",
+                "kr": "끝내도록 하죠.",
+                "cn": "该结束了。"
+            },
+            "asset": "char_346_aosta/CN_027"
+        },
+        {
+            "id": "char_346_aosta_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Tsk.",
+                "jp": "チッ。",
+                "kr": "칫.",
+                "cn": "啧。"
+            },
+            "asset": "char_346_aosta/CN_028"
+        },
+        {
+            "id": "char_346_aosta_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Phew... phew... Doctor, do you enjoy challenging yourself so much?",
+                "jp": "はぁ、はぁ……ドクター、限界に挑戦するのもあなたの趣味なんですか？",
+                "kr": "하아, 하아…… 박사님, 한계에 도전하는 것도 당신의 취미입니까?",
+                "cn": "呼、呼......博士，挑战极限是你的乐趣之一吗？"
+            },
+            "asset": "char_346_aosta/CN_029"
+        },
+        {
+            "id": "char_346_aosta_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "I got all of them. I just hope they're worth it.",
+                "jp": "全員喰らいつくしました。彼らにはそれだけする価値があったと思いたいです。",
+                "kr": "전부 다 먹어 치웠습니다. 이들에겐 이렇게 할 가치가 있었다고 생각하고 싶군요.",
+                "cn": "全吃下了，但愿这些人有让我们这么做的价值。"
+            },
+            "asset": "char_346_aosta/CN_030"
+        },
+        {
+            "id": "char_346_aosta_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "A few of them got through, but I think we'll be fine.",
+                "jp": "何人か逃してしまいましたが、まぁ問題ないでしょう。",
+                "kr": "몇 명은 도망갔지만… 뭐, 문제없겠죠.",
+                "cn": "跑了几个，不过问题应该不大。"
+            },
+            "asset": "char_346_aosta/CN_031"
+        },
+        {
+            "id": "char_346_aosta_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Doctor, you go on ahead. I'll clean up the mess here. It's what I'm good at.",
+                "jp": "ドクター、追手は僕に任せて先に行ってください。こういうのは得意ですから。",
+                "kr": "박사님, 추격은 저에게 맡기고 먼저 가십시오. 이런 일은 특기니까요.",
+                "cn": "博士，你先走，我来殿后，这种事我擅长。"
+            },
+            "asset": "char_346_aosta/CN_032"
+        },
+        {
+            "id": "char_346_aosta_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "I'll just sorta walk around, then.",
+                "jp": "では適当に回ってきます。",
+                "kr": "그럼 적당히 돌아보고 오겠습니다.",
+                "cn": "那我随便走走吧。"
+            },
+            "asset": "char_346_aosta/CN_033"
+        },
+        {
+            "id": "char_346_aosta_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "I can walk, Doctor.",
+                "jp": "自分で歩けますが。",
+                "kr": "혼자서도 걸을 수 있습니다만.",
+                "cn": "我自己有脚，博士。"
+            },
+            "asset": "char_346_aosta/CN_034"
+        },
+        {
+            "id": "char_346_aosta_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "How do you do, Doctor.",
+                "jp": "ドクターですか。どうも。",
+                "kr": "박사님입니까? 안녕하세요.",
+                "cn": "博士，你好。"
+            },
+            "asset": "char_346_aosta/CN_036"
+        },
+        {
+            "id": "char_346_aosta_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_346_aosta/CN_037"
+        },
+        {
+            "id": "char_346_aosta_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Hello, Doctor.",
+                "jp": "ドクター、こんにちは。",
+                "kr": "박사님, 안녕하세요.",
+                "cn": "你好，博士。"
+            },
+            "asset": "char_346_aosta/CN_042"
+        }
+    ],
+    "actors": {
+        "cn": {
+            "native": "王宁",
+            "global": "Kimi"
+        },
+        "jp": {
+            "native": "鈴木達央",
+            "global": "Tatsuhisa Suzuki"
+        }
+    },
+    "availability": [
+        "cn",
+        "jp"
+    ]
+}

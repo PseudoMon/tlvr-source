@@ -1,0 +1,596 @@
+{
+    "charid": "char_4009_irene",
+    "nameid": "irene",
+    "names": {
+        "en": "Irene",
+        "jp": "アイリーニ",
+        "kr": "아이린",
+        "cn": "艾丽妮"
+    },
+    "voices": [
+        {
+            "id": "char_4009_irene_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "All my tasks must relate to the sea or Iberia. Huh? You have too much work? Okay, I'll make some time to help you out.",
+                "jp": "海とイベリアに関するもの以外の業務を任される筋合いはありませんよ。えっ、あまりにも仕事が多すぎる？では、時間があるうちにお手伝いしましょう。",
+                "kr": "바다와 이베리아에 관한 업무 이외에는 제가 책임질 일이 아닙니다. 음, 일이 너무 많다고요? 그렇다면 시간 날 때 도와드릴게요.",
+                "cn": "大海与伊比利亚以外的事务，我可概不负责。呃，工作实在太多了？那好吧，我抽空帮你看看。"
+            },
+            "asset": "char_4009_irene/CN_001"
+        },
+        {
+            "id": "char_4009_irene_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "I have to get back to my handcannon practice once I'm done with my work here. Rhodes Island has shooting lessons? No, I'll pass. An inquisitor's handcannon isn't your normal firearm. It's not better aim you need to fully master it. It's an indomitable will.",
+                "jp": "ここの仕事が終わったら、戻ってハンドキャノンの練習もしないと……ロドスの射撃訓練？いえ、遠慮しておきます。審問官のハンドキャノンは普通の銃器とは違います。意のままに扱うためには、照準の精度よりも、確固たる意志を磨く必要があるんです。",
+                "kr": "이곳의 업무가 끝나면 돌아가서 핸드캐논 연습도 해야 합니다…… 로도스 아일랜드의 사격 훈련 말인가요? 아뇨, 사양하겠습니다. 재판관의 핸드캐논은 보통의 총기와는 다릅니다. 자유자재로 다루기 위해서는, 조준의 정확성보다는 굳건한 의지가 더욱 중요하답니다.",
+                "cn": "等这里的工作忙完，我还得回去继续练习使用手炮......罗德岛的射击课？不，谢谢了，审判官的手炮并非寻常铳械，想要控制自如，需要的是更顽强的意志，而不是瞄得更准。"
+            },
+            "asset": "char_4009_irene/CN_002"
+        },
+        {
+            "id": "char_4009_irene_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "It's been bugging me, so I really have to ask. Is Skadi like that when she talks to you, too? Like... Does she always say only the bare minimum, nothing more? Huh? No? She's actually very sentimental? Wait, are we really talking about the same Ægir?",
+                "jp": "どうしても気になるので質問させてください。スカジは普段あなたと話す時もあの調子なんですか？ええと……必要最低限しか喋らないというか。え、違うんですか？本当はすごく繊細？いや待ってください、本当に同じエーギル人の話をしていますか？",
+                "kr": "궁금해서 그러는데, 스카디는 평소에 박사님과 얘기할 때도 저런 태도인가요? 그러니까…… 최소한의 필요한 말들만 한다고나 할까요? 네? 아니라고요? 사실은 섬세하다고요? 잠깐만요, 우리가 얘기하는 게 정말 같은 에기르인 맞는 거죠?",
+                "cn": "我还是忍不住想问问，斯卡蒂平时跟你说话也是那副德行吗？就......能说一个字绝对不说两个字？咦，不是吗？她其实很多愁善感？等等，我们认识的真的是同一个阿戈尔人吗？"
+            },
+            "asset": "char_4009_irene/CN_003"
+        },
+        {
+            "id": "char_4009_irene_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "I make the other Iberian Operators nervous? To fear the Inquisition is to fear the law. Isn't that only natural? Unless... Some of our Ægirs have their reasons to dodge my gaze. I'll make it clear now. I can't promise I won't fight them.",
+                "jp": "……私がイベリア出身のオペレーターを萎縮させる？審問官を恐れ敬うのは、すなわち法に畏敬の念を抱くということですから、当然ではないでしょうか？あるいは……一部のエーギル人には私の視線を避ける理由があるのかもしれません。それなら先に言っておきますが、絶対に手を出さない保証はできませんからね。",
+                "kr": "……저 때문에 이베리아 출신 오퍼레이터들이 긴장하고 있다고요? 재판소에 대한 경외가 곧 율법에 대한 경외이니 당연한 것 아닌가요? 그게 아니라면…… 일부 에기르인들이 제 시선을 피하는 이유가 따로 있을 법도 하네요. 그렇다면 미리 말해 두겠는데, 절대 손대지 않겠다고 보증은 못 합니다.",
+                "cn": "......我让伊比利亚来的干员感到紧张？敬畏审判庭即是敬畏律法，这不是理所应当的吗？除非......某些阿戈尔人的确有躲避我的视线的理由。先说好，我不保证我不会动手。"
+            },
+            "asset": "char_4009_irene/CN_004"
+        },
+        {
+            "id": "char_4009_irene_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "'For Iberia's prosperity, for Iberia's defense, and for Iberia's orderliness and integrity, I shall raise my sword and my light!'—I may not be an Inquisitor anymore, but I know very well that my duty remains the same.",
+                "jp": "「イベリアの国家存続のため、イベリアの敵と戦うため、イベリアの潔白と美徳を守るため、私は剣と灯りを高く掲げる！」――審問官の肩書きこそおろしましたが、私の責務は今も変わらないとはっきり理解しています。",
+                "kr": "“이베리아의 존속을 위해, 이베리아의 적과 싸우기 위해, 이베리아의 순결과 덕행을 지키기 위해 검과 등불을 든다!”……비록 재판관이라는 직무는 그만뒀지만, 저의 책임에는 변함이 없음을 잘 알고 있습니다.",
+                "cn": "“我是为了伊比利亚的存续，为了同伊比利亚的敌人而战，为了守卫伊比利亚的洁净与德行，提起了剑与灯！”——虽然已卸去审判官的职务，但我很清楚，我的责任未曾改变。"
+            },
+            "asset": "char_4009_irene/CN_005"
+        },
+        {
+            "id": "char_4009_irene_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "The scriptures tell us the light of an Inquisitor's lantern is the light of faith within our hearts. It wasn't until I saw my master's last ray of light that I truly understood what this means. When an Inquisitor lays down judgment, her ruling should be based not on law, but instead her own heart.",
+                "jp": "経典には「審問官の灯りが放つのは、心に宿る信仰の光である」と書かれています。師匠が最期に放った光を目の当たりにして、私はようやくその言葉の真の意味を悟りました。審問官が下す判決は、法律のみに基づくものではなく、己の本心を反映したものであるべきなんです。",
+                "kr": "경전에 따르면, 재판관의 등불에서 뿜어 나오는 빛은 마음 속 신앙의 빛이라고 합니다. 스승님의 마지막 빛을 보고 나서야 이 말에 담긴 진정한 의미를 알 수 있었어요. 재판관이 판결을 내릴 때에는 율법만을 근거로 삼는 게 아니라, 자신의 양심을 따라야 한다는 뜻이었죠.",
+                "cn": "经书上说，审判官的提灯释放出来的，是我们心中的信仰之光。而当我看到老师最后的光亮，我才真正明白了这句话的含义。审判官作出判决，依据的不该仅是律法，更应是我的本心。"
+            },
+            "asset": "char_4009_irene/CN_006"
+        },
+        {
+            "id": "char_4009_irene_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Um... Do you have any old Iberian records? Any that can still play? I brought my master's record player... I know it's silly to dwell in our past glory, but I really want to know what Iberians could have been.",
+                "jp": "あの……イベリアの古いレコードは持っていませんか？腐蝕していないものです。師匠の蓄音機を持ってきているんです……煌びやかな過去に溺れるのは幼稚だと分かっていますが、イベリア人がどんな未来を迎えられたはずなのかを知りたいんです。",
+                "kr": "저기…… 혹시 이베리아의 오래된 레코드판을 갖고 계신가요? 손상되지 않은 것들 말이에요. 스승님의 축음기를 가져왔는데…… 지나간 과거의 아름다움에 빠져있는 게 우스운 일이라는 걸 알지만, 그래도 이베리아인들이 어떤 미래를 맞이할 수 있었을지 알고 싶어요.",
+                "cn": "请问......你有伊比利亚产的老唱片吗？还没坏的那种？我把老师的唱片机带来了......我知道沉湎在过去的美好里很可笑，可我还是很想知道，伊比利亚人本来可以是什么模样。"
+            },
+            "asset": "char_4009_irene/CN_007"
+        },
+        {
+            "id": "char_4009_irene_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "The truth felt like it swallowed me whole when it happened. Was I wavering? Crumbling? Despairing? No, I couldn't feel anything... until I killed another Sea Terror. I finally realized that I fought only because I wanted to live. Isn't that just like Iberia today?",
+                "jp": "あの時、真実が大潮のように私の頭を呑み込みました。動揺、失意、絶望？いえ、何も感じませんでした。次に向かってきた恐魚を殺して初めて、ああ、私は生きたいから戦ってるんだ、と気付かされたんです。今のイベリアも、同じではありませんか？",
+                "kr": "그 순간에는 진실이 머릿속에 파도처럼 밀려 들어왔습니다. 동요, 붕괴, 절망? 아니요, 전 아무것도 느끼지 못했어요. 또 한 마리의 시테러를 죽이기 전까지는…… 맞아요, 제가 싸웠던 것도 살아남고 싶었기 때문이었어요. 지금의 이베리아도 마찬가지 아닐까요?",
+                "cn": "那一刻，真相像海潮一样没过我的头顶。动摇，崩溃，绝望？不，我什么都感觉不到。直到我又杀死了一只恐鱼......是啊，原来我战斗，是因为我想活下去。如今的伊比利亚，不也一样吗？"
+            },
+            "asset": "char_4009_irene/CN_008"
+        },
+        {
+            "id": "char_4009_irene_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "All I did was sprain my shoulder on my last mission. The bite wound the mission before that's almost all healed up, too. Stop selling me short! I'm pretty jealous of those Ægir hunters power... Hmph forget it! When I get back... Um, you said I could go to the Rhodes Island ball. That's a promise, right?",
+                "jp": "前回の任務では肩を捻挫しただけですし、その前の噛み傷もほぼ治りました。私を見くびらないでください！はぁ、あのエーギルのハンターたちが羨ましい……なんでもありません、もう行きますね。戻ってきたら……ええっとその、ロドスの舞踏会ですけど、私も参加していいって言いましたよね？約束ですよ。",
+                "kr": "지난 임무에서는 어깨를 삐었을 뿐입니다. 그전에 물린 상처도 거의 다 나았고요. 절 무시하지 마세요! 하아, 그 에기르 헌터들이 부럽긴 하네요. 됐어요, 이만 가볼게요. 나중에 돌아오면…… 그, 로도스 아일랜드의 무도회 말인데요, 저도 참석할 수 있다 그러셨죠. 약속한 거예요.",
+                "cn": "上次任务只是扭了肩膀，上上次的咬伤也快好啦，你可不要小瞧我！唉，我还挺羡慕那几个阿戈尔猎人的。算啦，该走了。等我回来......那个，罗德岛的舞会，你说过我也能参加。约好了哦。"
+            },
+            "asset": "char_4009_irene/CN_009"
+        },
+        {
+            "id": "char_4009_irene_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "We're still in deep water, and you managed to fall asleep in a blink of an eye? It makes me wonder if I should be jealous... Fine, you can have your rest for now. I'll be waiting here.",
+                "jp": "危機を目前にして、随分寝付きが良いことで。羨むべきなのかしらね……まあいいわ、しばらく休ませてあげる。ここで待ってるから。",
+                "kr": "위기가 코앞에 닥쳤는데도, 편하게 자는 모양이네? 부러워해야 하는 건지…… 뭐, 잠시 쉬어도 괜찮겠지. 여기서 기다려야겠네.",
+                "cn": "危机当前，还能倒头就睡？也不知道该不该羡慕你......算了，就让你休息一会，我在这里等着。"
+            },
+            "asset": "char_4009_irene/CN_010"
+        },
+        {
+            "id": "char_4009_irene_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Irene, Inquisition Messenger of Iberia. Are you the Doctor of Rhodes Island? It seems the Ægir hunters really trust you... Do show me how special you are as we work together in the future.",
+                "jp": "イベリア裁判所のトランスポーター、アイリーニです。あなたがロドスのドクターですか？随分エーギルのハンターたちから信頼されているようですが……これからの付き合いで、あなたが如何に優れているのか見せてもらいますからね。",
+                "kr": "이베리아 재판소의 전달자, 아이린입니다. 당신이 로도스 아일랜드의 박사님인가요? 에기르의 헌터들은 당신을 매우 신뢰하고 있는 모양이던데…… 앞으로 함께 하면서 당신의 특별한 모습들을 지켜 보도록 하겠습니다.",
+                "cn": "伊比利亚审判庭信使，艾丽妮。你就是罗德岛的博士？那几个阿戈尔的猎人好像很信任你......接下来的合作中，让我看看你的特别之处吧。"
+            },
+            "asset": "char_4009_irene/CN_011"
+        },
+        {
+            "id": "char_4009_irene_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Hm... Are these all your operators? Is it just me or do some of them seem like an actual security risk? Alright, fine. I will try my best to focus on their combat techniques…",
+                "jp": "うわぁ……この方たちは全員ロドスのオペレーターなんですか？あからさまな危険人物が何人かいませんか！？わ、わかりました、戦闘技術に注目すればいいんでしょう……",
+                "kr": "음…… 전부 로도스 아일랜드의 오퍼레이터들이라고요? 몇몇 분은 아무리 봐도 위험인물 같은데요?! 알겠습니다, 저분들의 전투 기술에만 집중하도록 노력하죠……",
+                "cn": "唔......这些都是你们的干员？有几位怎么看都是危险人物吧？！好吧，我尽量把注意力放在他们的战斗技巧上......"
+            },
+            "asset": "char_4009_irene/CN_012"
+        },
+        {
+            "id": "char_4009_irene_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "What I need is Rhodes Island's power, not a commendation. But… I mean... this ribbon looks nice… Okay, I'll take it.",
+                "jp": "私はロドスの力がほしいのであって、褒美がほしいわけではありません。……あ、素敵なサッシュですね。いただいておきます。",
+                "kr": "제가 필요한 건 로도스 아일랜드의 힘이지, 표창 같은 것이 아닙니다. 앗, 참 예쁜 어깨띠네요…… 그럼 받아두겠습니다.",
+                "cn": "我需要的是罗德岛的力量，而不是褒奖。啊，这绶带还挺好看的嘛......那我就留下了。"
+            },
+            "asset": "char_4009_irene/CN_013"
+        },
+        {
+            "id": "char_4009_irene_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "It doesn't matter if Iberia faces ferocious tides or heavy storms. I will never back down, and my blade will never waver again!",
+                "jp": "イベリアを待ち受けるのが巨大な波であろうと、暴風雨であろうと、私は退くつもりはありません。剣に迷いが生じることなど、二度とあり得ません！",
+                "kr": "이베리아가 거대한 파도를 마주한다 해도, 그 어떤 폭풍에 휘말힌다 해도 저는 절대로 물러설 생각이 없습니다. 제 검 또한, 결코 흔들리지 않을 겁니다!",
+                "cn": "不管伊比利亚将要面对的是滔天巨浪，还是狂风暴雨，我都不会后退，我的剑更不会再有一丝动摇！"
+            },
+            "asset": "char_4009_irene/CN_014"
+        },
+        {
+            "id": "char_4009_irene_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Perfect. I've been very curious to see how Rhodes Island carries out its missions.",
+                "jp": "ちょうど良かった、ロドスがどうやって任務を進めるのか気になっていたんです。",
+                "kr": "잘 됐네요, 로도스 아일랜드가 어떻게 임무를 수행하는지 궁금했거든요.",
+                "cn": "很好，我一直很好奇罗德岛是怎么执行任务的。"
+            },
+            "asset": "char_4009_irene/CN_017"
+        },
+        {
+            "id": "char_4009_irene_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "I thought it would be years before I could lead a team alone... I won't disgrace my master.",
+                "jp": "単独でチームを率いるのはずっと先になると思っていたのですが……ふぅ、師匠を失望させはしません。",
+                "kr": "제가 단독으로 팀을 이끌게 되기까지는 더 많은 시간이 필요할 거라고 생각했는데…… 후우, 절대로 스승님을 실망시키지 않겠어요.",
+                "cn": "我本以为，要过好久，才会轮到我单独带队......呼，我不会让老师失望。"
+            },
+            "asset": "char_4009_irene/CN_018"
+        },
+        {
+            "id": "char_4009_irene_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Follow my light. Watch out for the tides and mist.",
+                "jp": "私の灯りに付いてきてください、潮と海霧に呑まれないように。",
+                "kr": "조수와 안개에 휩쓸리지 않도록, 제 불빛을 잘 따라와 주세요.",
+                "cn": "跟着我的灯光走，小心潮水和海雾。"
+            },
+            "asset": "char_4009_irene/CN_019"
+        },
+        {
+            "id": "char_4009_irene_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "The most dangerous enemies are usually masters of disguise .",
+                "jp": "最も危険な敵は、自らを偽る術（すべ）にも長けているものです。",
+                "kr": "가장 위험한 적은, 자신을 숨기는 일에도 뛰어나죠.",
+                "cn": "最危险的敌人，往往最会伪装自己。"
+            },
+            "asset": "char_4009_irene/CN_020"
+        },
+        {
+            "id": "char_4009_irene_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "See the light of my lantern? I'm right here.",
+                "jp": "私の灯りが見えますか？ここです。",
+                "kr": "제 등불이 보이시나요? 이쪽입니다.",
+                "cn": "看到我的灯了吗？我在这里。"
+            },
+            "asset": "char_4009_irene/CN_021"
+        },
+        {
+            "id": "char_4009_irene_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Don't step into the shadows.",
+                "jp": "影に踏み込まないで。",
+                "kr": "그림자에 발을 들이지 말도록.",
+                "cn": "别踏入阴影里。"
+            },
+            "asset": "char_4009_irene/CN_022"
+        },
+        {
+            "id": "char_4009_irene_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "My sword will respond the instant I spot the movement.",
+                "jp": "気配を感じたら、剣を抜きます。",
+                "kr": "기척이 느껴지면 검을 뽑겠습니다.",
+                "cn": "一有动静，我就出剑。"
+            },
+            "asset": "char_4009_irene/CN_023"
+        },
+        {
+            "id": "char_4009_irene_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Locked and Loaded.",
+                "jp": "狙いを定めました。",
+                "kr": "조준을 완료했습니다.",
+                "cn": "我瞄准了。"
+            },
+            "asset": "char_4009_irene/CN_024"
+        },
+        {
+            "id": "char_4009_irene_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "My light will purge the vice!",
+                "jp": "我が灯火が邪悪を払う！",
+                "kr": "나의 등불이 악을 멸하리라!",
+                "cn": "我的灯将净化邪恶！"
+            },
+            "asset": "char_4009_irene/CN_025"
+        },
+        {
+            "id": "char_4009_irene_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "My blade will cleave the tides!",
+                "jp": "我が刃が海を斬り裂く！",
+                "kr": "나의 검이 바다를 가르리라!",
+                "cn": "我的剑将劈开海潮！"
+            },
+            "asset": "char_4009_irene/CN_026"
+        },
+        {
+            "id": "char_4009_irene_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "My eyes will find the truth!",
+                "jp": "我が眼差しが真実を暴く！",
+                "kr": "나의 눈이 진실을 밝히리라!",
+                "cn": "我的眼将找出真相！"
+            },
+            "asset": "char_4009_irene/CN_027"
+        },
+        {
+            "id": "char_4009_irene_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "My heart will be the judge.",
+                "jp": "我が心が判決を下す。",
+                "kr": "나의 마음이 판결을 내리리라.",
+                "cn": "我的心会作出判决。"
+            },
+            "asset": "char_4009_irene/CN_028"
+        },
+        {
+            "id": "char_4009_irene_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "The tide still comes in. We can't let our guard down yet. Hm...? I'm smiling? What? Is there a rule that you can't smile after a victory?",
+                "jp": "潮はまだ迫りつつあります、気を抜かないでください。えっ、私が笑っていた？勝利の後に笑ってはいけない規則でもあるんですか？",
+                "kr": "조수가 여전히 다가오고 있으니, 아직은 안심할 때가 아닙니다. 앗…… 제가 웃었나요? 승리를 거둔 뒤 웃으면 안 된다는 법이라도 있나요?",
+                "cn": "潮水依然在逼近，还不到放松的时候。唔......我笑了吗？谁规定胜利之后不能笑的？"
+            },
+            "asset": "char_4009_irene/CN_029"
+        },
+        {
+            "id": "char_4009_irene_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Is this how you command the Ægir hunters too? Seems like the victory that the arrogant doctor promised might actually be plausible.",
+                "jp": "エーギルのハンターたちの指揮もこんな風にやっているんですか？どうやら、あの偉そうな医者が約束した勝利の信憑性が増したようですね。",
+                "kr": "에기르의 헌터들도 이런 식으로 지휘하셨던 건가요? 이제야 그 잘난 의사가 약속한 승리에, 어느 정도 신빙성이 생기긴 한 것 같네요.",
+                "cn": "你也是这样指挥阿戈尔的猎人作战的吗？现在看来，那个说话很拽的医生承诺的胜利倒多了几分可信度。"
+            },
+            "asset": "char_4009_irene/CN_030"
+        },
+        {
+            "id": "char_4009_irene_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Letting even a single enemy slip by could crumble our line of defense! Hurry, give me the order! Let me eliminate the threat!",
+                "jp": "敵を一人でも逃せば、防衛線の崩壊に繋がる可能性があります！いち早く指示を！私が危険因子を排除します！",
+                "kr": "적을 하나만 놓쳐도 방어선이 무너질 가능성이 있습니다! 어서 명령을 내리십시오, 제가 위협을 배제하러 가겠습니다!",
+                "cn": "漏过一个敌人，都可能会导致防线崩溃！快下令，让我去抹除威胁！"
+            },
+            "asset": "char_4009_irene/CN_031"
+        },
+        {
+            "id": "char_4009_irene_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "An Inquisitor must never yield in the face of evil! But I also made a promise to my master. I can't die here. Not yet.",
+                "jp": "審問官として、邪悪を前に後退することなど絶対にあり得ません！ですが、師匠に約束したんです。私はまだここでは死ねません……",
+                "kr": "재판관은 악을 앞에 두고 물러설 수 없습니다! 하지만 스승님과 약속했기 때문에 저는 아직 여기서 죽을 수는 없어요……",
+                "cn": "审判官绝不能忍受在邪祟面前后退！但是，我答应过老师，艾丽妮还不能死在这里......"
+            },
+            "asset": "char_4009_irene/CN_032"
+        },
+        {
+            "id": "char_4009_irene_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "You have a pretty big ship here, but it's not nearly as roomy as an old Iberian flagship.",
+                "jp": "あなたたちの船は随分大きいですが、それでもかつてのイベリアの旗艦には及びませんね。",
+                "kr": "꽤나 큰 함선이군요. 하지만 옛날 이베리아의 기함에 비할 바는 아니에요.",
+                "cn": "你们的舰船是挺大的，但还是不及伊比利亚曾经的旗舰宽敞嘛。"
+            },
+            "asset": "char_4009_irene/CN_033"
+        },
+        {
+            "id": "char_4009_irene_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Sea Terror?! Oh, it's you.",
+                "jp": "恐魚！？ああ、あなたですか。",
+                "kr": "시테러?! 아, 당신이었군요.",
+                "cn": "恐鱼？！哦，是你啊。"
+            },
+            "asset": "char_4009_irene/CN_034"
+        },
+        {
+            "id": "char_4009_irene_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Didn't you promise to show me around? If you were going to disappear the moment things got busy, you could've asked me to help.",
+                "jp": "艦内を案内してくれるんじゃなかったんですか？姿を消すほど忙しいなら、素直に手伝ってと言えばいいでしょうに。",
+                "kr": "저를 데리고 구경시켜 주겠다 하지 않았나요? 자리에 붙어있지도 못할 만큼 바쁘다면, 차라리 도와달라고 하면 될 텐데요.",
+                "cn": "不是说好要带我逛逛的吗？一忙起来就不见人影，还不如开口让我帮你一块儿干啊。"
+            },
+            "asset": "char_4009_irene/CN_036"
+        },
+        {
+            "id": "char_4009_irene_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4009_irene/CN_037"
+        },
+        {
+            "id": "char_4009_irene_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Doctor, there's new movement on the tides. We need to talk.",
+                "jp": "ドクター、海岸線にまた新たな動きがあったようです。相談させてください。",
+                "kr": "박사님. 해안선에서 새로운 움직임이 보입니다. 회의가 필요할 것 같네요.",
+                "cn": "博士，海岸线上又有新动静了，我得跟你聊聊。"
+            },
+            "asset": "char_4009_irene/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Lizzie Waterworth",
+            "global": "Lizzie Waterworth"
+        },
+        "cn": {
+            "native": "刘雯",
+            "global": "Wen Liu"
+        },
+        "jp": {
+            "native": "釘宮理恵",
+            "global": "Rie Kugimiya"
+        },
+        "kr": {
+            "native": "사문영",
+            "global": "Sa Moon-young"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

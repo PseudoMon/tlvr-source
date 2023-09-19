@@ -1,0 +1,596 @@
+{
+    "charid": "char_1024_hbisc2",
+    "nameid": "hbisc2",
+    "names": {
+        "en": "Hibiscus the Purifier",
+        "jp": "濯塵ハイビスカス",
+        "kr": "히비스커스 더 퓨리파이어",
+        "cn": "濯尘芙蓉"
+    },
+    "voices": [
+        {
+            "id": "char_1024_hbisc2_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Doctor—oh, no need to panic, I'm not dragging you into a checkup, I'd just like to sit down in here for a moment... Out of all of Rhodes Island, it feels like your office is the one place that hasn't changed.",
+                "jp": "ドクター――ああ、緊張しないでください。検査の催促に来たわけじゃないんです。ただ少しここにいたくて……このロドスでは、何も変わってないのはドクターの執務室だけですよね。",
+                "kr": "박사님. 아, 검사하러 온 게 아니니까 긴장하실 필요 없어요. 그냥 여기에 잠깐 있고 싶어서요…… 로도스 아일랜드에서 변하지 않는 건 박사님의 집무실 뿐인 것 같네요.",
+                "cn": "博士——欸，不用紧张，我不是来抓您做检查的，我只是想在您这里坐一会......在罗德岛上，好像只有博士的房间，一点都没有变呢。"
+            },
+            "asset": "char_1024_hbisc2/CN_001"
+        },
+        {
+            "id": "char_1024_hbisc2_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Doctor, we're about to partially renovate Rhodes Island's wards to better meet patient aftercare needs. I've written down all the supplies we need here. Would you like to check over it quickly? Yes, I am in charge of this work now.",
+                "jp": "患者さんの術後の経過観察が必要なので、ロドスの病室を一部改装する予定です。必要な物資はこちらにリストアップしましたけど、確認されますか？はい、こうした仕事は今私が担当していますよ。",
+                "kr": "박사님, 환자의 시술 후 경과를 관찰하기 위해 로도스 아일랜드의 병실을 일부 개조할 계획이에요. 필요한 물자는 제가 이곳에 적어 두겠습니다. 확인해 보시겠어요? 네, 현재 이런 일은 제가 담당하고 있답니다.",
+                "cn": "博士，根据病人术后护理的需求，我们准备对罗德岛的病房进行部分改造。需要的物资我都写在这里了，您需要再检查一下吗？嗯，这些工作现在是由我负责啦。"
+            },
+            "asset": "char_1024_hbisc2/CN_002"
+        },
+        {
+            "id": "char_1024_hbisc2_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Doctor, I've adjusted the flavor of my healthy meals based on everyone's input. I came to realize that blindly insisting on my own views might not actually be best—you can only resolve conflicts better once you listen to the other side, and stand in their shoes... It would've been nice if I'd realized that sooner.",
+                "jp": "ドクター、皆さんのご意見を参考に、健康食の味を改良しましたよ。自分の考えに固執するのがよくないこともありますからね。相手の意見に耳を傾けて、相手の立場に立って考えてこそ問題が解決できるんです……もっと早く気付いていたらよかったのに。",
+                "kr": "박사님, 모두의 의견을 참고해서 건강식의 맛을 개량해 봤어요. 자신의 생각만 고집한다는 게 꼭 좋은 일은 아니니까요. 상대방의 의견을 듣고, 상대방의 입장에서 생각해 봐야 문제를 더 잘 해결할 수 있죠… 이 사실을 조금 더 일찍 깨우쳤다면 좋았을 텐데.",
+                "cn": "博士，我根据大家的意见改良过健康餐的口味啦。其实一味地坚持己见未必是好事，倾听对方的意见，站在对方的立场思考才能更好地解决矛盾......我要是能早点明白这个道理就好了。"
+            },
+            "asset": "char_1024_hbisc2/CN_003"
+        },
+        {
+            "id": "char_1024_hbisc2_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "I've always been so hard on everyone, keeping them to healthy schedules, never letting them do anything bad for their illness. It turns out I was the one failing at all of that, heheh... But don't worry, there's still a lot I've got to do. I'm not giving in yet.",
+                "jp": "前はよく皆さんに厳しくあたっていて、健康な生活習慣を強要したり、病状を悪化させるような行動も絶対に許しませんでした。なのに自分がそれをできていないなんて、あはは……でも心配しないでくださいね、私にはまだやることがたくさんあるんです、ここで倒れたりしませんから。",
+                "kr": "예전에는 모두에게 엄격했었죠. 건강한 습관을 강요하거나 병을 악화시킬 수 있는 일은 절대 못 하게 하고 말이에요. 결국 저는 그러지 못했지만요. 하하… 하지만 걱정하지 마세요, 제겐 아직 할 일이 많으니까요. 여기서 쓰러지진 않을 거예요.",
+                "cn": "之前我总是对大家很严厉，一定要健康作息，不利于控制病情的事坚决不许做。结果反而是我自己没有做到呢，嘿嘿......不过不用担心啦，我还有很多事情要做，不会现在倒下的。"
+            },
+            "asset": "char_1024_hbisc2/CN_004"
+        },
+        {
+            "id": "char_1024_hbisc2_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Diseases don't just torment the body—they impact the mind too. 'How will others see me? Can I ever live how I used to?' Everyone has worries like that... If I can't help my patients put them to rest, then my treatment isn't done yet.",
+                "jp": "病気は肉体的につらいだけじゃなくて、心にも影響があるんです。「今の自分はどう思われてるんだろう？」「前みたいな生活に戻れるかな？」と心配してしまうんです……患者さんのそういう不安が消えるまで、私の治療は終わりとは言えません。",
+                "kr": "병은 육체적으로 힘든 것뿐만 아니라, 심리적인 부분에도 많은 영향을 주죠. 다들 “다른 사람들은 날 어떻게 생각할까? 예전의 생활로 돌아갈 수 있을까?” 하는 걱정을 갖곤 해요… 환자들이 그런 걱정을 떨쳐내기 전까지, 제 치료는 끝나지 않을 거예요.",
+                "cn": "病痛带来的不止是身体上的折磨，还有心理上的影响。“他人会怎样看待自己？能否回到过去的生活？”大家总会有这样的担心......如果不能让病人走出这种阴影，我的治疗就不能算完成。"
+            },
+            "asset": "char_1024_hbisc2/CN_005"
+        },
+        {
+            "id": "char_1024_hbisc2_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "I once saved a child in Leithanien. When she came to and saw me, she screamed for her life and ran away. Before that, I never thought there was much of a difference between Caprinae horns and Sarkaz horns. We can't change how everyone sees things, but at the very least, I don't want my patients to fear me.",
+                "jp": "リターニアで女の子を助けたことがあるんです。目が覚めて私の顔を見た瞬間、叫びながら逃げていきました。キャプリニーとサルカズの角ってそんなに変わらないと思ってたんですけどね。他人の考え方はそう簡単に変えられませんけど、少なくとも、患者さんには怖がられたくないなぁ。",
+                "kr": "라이타니엔에서 한 여자아이를 구한 적이 있어요. 그 아이는 깨어나서 절 보자마자 비명을 지르며 도망쳤죠. 카프리니와 살카즈의 뿔은 겉보기에 큰 차이가 없다고 생각했었는데 말이죠. 모든 이들의 생각을 바꿀 순 없겠지만, 적어도 환자들이 절 무서워하지 않게 되었으면 좋겠어요.",
+                "cn": "我在莱塔尼亚救过一个小女孩。她醒来一看到我，就大喊着救命逃走了。我之前还以为，卡普里尼和萨卡兹的角看起来区别不是很大呢。虽然不能改变所有人的看法，但至少，希望病人不要害怕我啊。"
+            },
+            "asset": "char_1024_hbisc2/CN_006"
+        },
+        {
+            "id": "char_1024_hbisc2_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "I think Lava's really changed lately. She gets up and sleeps early without needing me to remind her, and she barely ever talks back when I nag her, but it's all the more worrying for some reason... Doctor, if you ever feel tired or depressed, you can come vent to me! I'd be perfectly happy!",
+                "jp": "ラヴァちゃんってこの頃、人が変わったみたいなんですよね。注意しなくても早寝早起きするし、お説教される時もあんまり口ごたえしなくなって、それでなんだかかえって心配しちゃうんです……ドクター、もし疲れたりつらいと感じたら、何でも私に話してくださいね！喜んで聞きますから！",
+                "kr": "요즘 라바가 변한 것 같아요. 제가 깨우지 않아도 일찍 일어나고, 일찍 잠에 들고, 설교를 들을 때에도 대꾸를 잘 안 하니까, 오히려 더 걱정이 되네요… 박사님, 만약 피곤하시거나 힘든 일이 생긴다면 꼭 제게 알려 주세요. 기꺼이 들어 드릴 테니까요!",
+                "cn": "小炎熔最近好像变了一个人呢，不用我提醒也会早睡早起，被唠叨的时候也很少顶嘴了，可为什么我反而更担心了......博士，如果感到劳累或者难过的话，都可以来找我倾诉哦，我很乐意的！"
+            },
+            "asset": "char_1024_hbisc2/CN_007"
+        },
+        {
+            "id": "char_1024_hbisc2_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "This flute? It's actually an Arts staff. It's from when I went to Vyseheim. It was there I used Arts to harm someone for the first time, and it was the first I saw a friend leave us forever, just out of reach. Every time I hold this staff, all my feelings in that moment come back to me.",
+                "jp": "このフルートですか？実はこれ、アーツユニットなんですよ。ヴィセハイムから持ち帰ってきたものです。私はあの場所で、初めてアーツで人を傷つけ、初めて目の前で永遠に友人を失いました。これを手にする度に、あの時の気持ちが蘇るんです。",
+                "kr": "이 플루트 말인가요? 사실 이건 아츠 유닛이에요. 비세하임에서 가져온 거죠. 그곳에서 전 처음으로 오리지늄 아츠를 사용해 남을 다치게 했고, 또 처음으로 눈앞에서 친구를 영원히 잃었죠. 이 아츠 유닛을 들 때마다, 매번 그때의 기억이 떠올라요.",
+                "cn": "这支长笛？其实是法杖啦。是我从维谢海姆带回来的。在那里，我第一次用源石技艺去伤害别人，也是第一次在近在咫尺的地方目睹朋友永远离去。每次拿起这支法杖，我都会回想起当时的感受。"
+            },
+            "asset": "char_1024_hbisc2/CN_008"
+        },
+        {
+            "id": "char_1024_hbisc2_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "We happily see off recovered patients, and say goodbye to former companions with a smile. People come and leave. Our varied dreams may lead us to different paths, but we'll always mean something to  each other... Doctor, would you be open for food with me today? I'll go and ask Lava along.",
+                "jp": "回復した患者さんを嬉しい気持ちで送り出し、かつての仲間に微笑みながら別れを告げる。みんなそれぞれ違う理想を持って、異なる道を歩いても、きっと何かが残るはずです……ドクター、今日は一緒にお食事してもいいですか？ラヴァちゃんも呼んできましょう。",
+                "kr": "회복한 환자분을 기쁜 마음으로 보내 드리고, 한때 동료였던 이와 웃으며 헤어진다. 각자 다른 이상을 가지고 다른 길을 걸어간다 해도 무언가는 반드시 남는 법이죠…… 박사님, 오늘 함께 식사 어떠신가요? 라바도 함께 말이에요.",
+                "cn": "开心地送走病愈的病人，微笑着送别昔日的伙伴。哪怕大家的理想不尽相同，继而走上不同的道路，也总有些事物会留存下来......博士，今天还可以和您一起吃饭吗？我去叫上炎熔一起吧。"
+            },
+            "asset": "char_1024_hbisc2/CN_009"
+        },
+        {
+            "id": "char_1024_hbisc2_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Doctor, you might be reliable with work, but you act just like a child when you're off. Now you're sleeping on desk again. I've told you so many times, it's bad for your spine, and you might catch a cold just like that... *sigh* If I'm not there one day, could you really take care of yourself?",
+                "jp": "ドクターはお仕事だとしっかりしてるんですけど、それ以外はまるで子供みたいですね。もう、またそうやって机で眠っちゃって……何回も注意したんでしょ？背骨を痛めちゃうし、風邪も引いちゃいますって……はぁ、もし私がいなくなったら、ドクターはちゃんと自分の面倒を見れるんでしょうか。",
+                "kr": "박사님은 일은 제대로 하시는데 평소엔 어린아이 같다니까요. 또 책상 위에 엎드려서 주무시다니. 제가 전에도 몇 번이나 주의를 드렸잖아요. 이러면 척추에도 안 좋고, 감기에도 걸리기 쉽다구요… 하아, 제가 없어지기라도 하면 박사님께서 스스로를 잘 돌보 실 수 있을지 걱정이네요…",
+                "cn": "博士虽然在工作上很可靠，但平时就像个孩子呢。又趴在桌子上睡着了，说过多少遍，这样对脊椎不好，而且很容易感冒的......唉，如果哪天我不在了，博士能照顾好自己吗？"
+            },
+            "asset": "char_1024_hbisc2/CN_010"
+        },
+        {
+            "id": "char_1024_hbisc2_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Doctor, I'm back—Umm, Doctor, I know my last field assignment took longer than usual, but don't look at me like you don't recognize me... Medic Operator Hibiscus, reporting in.",
+                "jp": "ドクター、ただいま戻りました――あのー、ドクター？今回の外勤任務は期間が長かったですけど、だからって知らない人みたいな顔はやめてください……医療オペレーター・ハイビスカス、帰還しました。",
+                "kr": "박사님, 다녀왔습니다…… 박사님, 아무리 이번 외근 기간이 길었다고는 하지만, 그렇게 생판 처음 본다는 듯한 얼굴은 하지 말아 주세요… 메딕 오퍼레이터 히비스커스, 귀환했습니다.",
+                "cn": "博士，我回来了——博士，这一次外勤工作的时间是比较长，可也不要用不认识的眼神看着我啊......医疗干员芙蓉，向您报到。"
+            },
+            "asset": "char_1024_hbisc2/CN_011"
+        },
+        {
+            "id": "char_1024_hbisc2_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Everyone's taking charge of themselves, now—that's nice to see.",
+                "jp": "みんな一人前になりましたね、これも悪くないです。",
+                "kr": "모두 제 몫을 다할 수 있게 됐군요. 이것도 나쁘지 않네요.",
+                "cn": "现在大家都可以独当一面了，这样也不错呢。"
+            },
+            "asset": "char_1024_hbisc2/CN_012"
+        },
+        {
+            "id": "char_1024_hbisc2_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "I'm suddenly reminded of my time in A1, training with everybody... Everyone's matured so much now. I'll keep up the effort, for all we've been through.",
+                "jp": "A1小隊でみんなと一緒に訓練してた日々を思い出しますね……みんな本当に成長しましたよ。私も経験したことすべてに意味があるって言えるように、これからも努力を続けます。",
+                "kr": "갑자기 예비작전팀 A1의 모두와 훈련하던 시절의 기억이 나네요… 모두들 정말 많이 성장했군요. 저도 제가 겪은 모든 경험들에 가치가 있었다고 여길 수 있도록, 계속해서 노력하겠습니다.",
+                "cn": "突然想起了在A1小队，和大家一起训练的样子......其实大家都成长了许多呢。我也会继续努力的，为了让过去经历的一切值得。"
+            },
+            "asset": "char_1024_hbisc2/CN_013"
+        },
+        {
+            "id": "char_1024_hbisc2_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Bodily trauma can be treated through medicine and surgery, but how do we cure the pain from hostility and prejudice? Healing people's hearts, Doctor, that's what I will devote myself to.",
+                "jp": "病気や怪我は薬と手術で治療できますが、恨みと偏見がもたらした苦しみはどうやって治せばいいのでしょうか？ドクター、私は心を癒せる人になりたいです。",
+                "kr": "몸에 생긴 병이나 상처는 약물과 수술을 통해서 치료할 수 있겠지만, 원한과 편견이 가져온 고통은 어떻게 치료하는 게 좋을까요? 박사님, 전 마음을 치유하는 사람이 되고 싶어요.",
+                "cn": "身体的伤病可以通过药物和手术治疗，但是仇恨和偏见带来的痛苦该怎样治愈呢？博士，我想成为可以治愈心灵的人。"
+            },
+            "asset": "char_1024_hbisc2/CN_014"
+        },
+        {
+            "id": "char_1024_hbisc2_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "I won't fail you—this time, I'll be sure to protect everyone.",
+                "jp": "失望はさせません。今度こそきっと皆さんのことをお守りします。",
+                "kr": "실망시키지 않겠습니다, 이번에야말로 모두를 지키겠어요.",
+                "cn": "不会让您失望的，这次我一定会保护好大家。"
+            },
+            "asset": "char_1024_hbisc2/CN_017"
+        },
+        {
+            "id": "char_1024_hbisc2_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "I'm leading? I wasn't usually the one doing that before... No, I won't shirk responsibility.",
+                "jp": "隊長ですか？今までこういうお仕事は私の役目ではなかったんですけど……いいえ、辞退はしません。",
+                "kr": "팀장을 맡아 달라고요? 지금까지 이런 건 보통 제 역할이 아니었는데…… 아뇨, 거절하지는 않겠습니다.",
+                "cn": "担任队长？过去一般不是由我来做这种事......不，我不会推辞。"
+            },
+            "asset": "char_1024_hbisc2/CN_018"
+        },
+        {
+            "id": "char_1024_hbisc2_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Don't be afraid. I've got your backs.",
+                "jp": "安心して、私が背中をお預かりします。",
+                "kr": "안심하세요, 제가 뒤를 맡겠습니다.",
+                "cn": "别怕，背后就交给我吧。"
+            },
+            "asset": "char_1024_hbisc2/CN_019"
+        },
+        {
+            "id": "char_1024_hbisc2_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "I'm not going to let you harm my friends.",
+                "jp": "仲間は傷つけさせません。",
+                "kr": "동료들을 해치게 두지는 않을 겁니다.",
+                "cn": "不会允许你们伤害我的同伴。"
+            },
+            "asset": "char_1024_hbisc2/CN_020"
+        },
+        {
+            "id": "char_1024_hbisc2_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "I'll make sure everyone's safe.",
+                "jp": "皆さんの安全は私が保障します。",
+                "kr": "제가 모두의 안전을 보장하겠습니다.",
+                "cn": "我会保障大家的安全。"
+            },
+            "asset": "char_1024_hbisc2/CN_021"
+        },
+        {
+            "id": "char_1024_hbisc2_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Doctor, I'm here.",
+                "jp": "ドクター、いますよ。",
+                "kr": "여기 있어요, 박사님.",
+                "cn": "博士，我在。"
+            },
+            "asset": "char_1024_hbisc2/CN_022"
+        },
+        {
+            "id": "char_1024_hbisc2_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "First aid ready. Medical support standying by.",
+                "jp": "救急診療の準備は整いました、いつでも治療ができます。",
+                "kr": "응급처치 준비 완료입니다. 언제든 부상자를 치료할 수 있습니다.",
+                "cn": "急救准备已经就绪，随时可以治疗伤员。"
+            },
+            "asset": "char_1024_hbisc2/CN_023"
+        },
+        {
+            "id": "char_1024_hbisc2_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "I wish this to be the last time, if possible…",
+                "jp": "できることなら、これが最後であってほしいです……",
+                "kr": "가능하다면, 이게 마지막이었으면 좋겠네요……",
+                "cn": "如果可以，我希望这是最后一次......"
+            },
+            "asset": "char_1024_hbisc2/CN_024"
+        },
+        {
+            "id": "char_1024_hbisc2_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "If we can prevent more harm this way, I'll stand my ground.",
+                "jp": "これでより多くの悲劇を防げるなら、私は逃げません。",
+                "kr": "이걸로 더 많은 피해를 막을 수만 있다면, 전 도망치지 않을 거예요",
+                "cn": "如果这样可以阻止更多的伤害，我不会逃避。"
+            },
+            "asset": "char_1024_hbisc2/CN_025"
+        },
+        {
+            "id": "char_1024_hbisc2_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Please tell me if this hurts.",
+                "jp": "痛みを感じるなら、言ってください。",
+                "kr": "통증이 느껴지면 말씀해 주세요.",
+                "cn": "觉得痛的话，请告诉我。"
+            },
+            "asset": "char_1024_hbisc2/CN_026"
+        },
+        {
+            "id": "char_1024_hbisc2_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "I can do more than just heal.",
+                "jp": "私にできるのは、治療だけじゃないんです。",
+                "kr": "저는 치료 말고도 더 많은 일들을 할 수 있어요.",
+                "cn": "不只是治疗，我还能做到更多。"
+            },
+            "asset": "char_1024_hbisc2/CN_027"
+        },
+        {
+            "id": "char_1024_hbisc2_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Hold it. There's no sense in getting any more hurt.",
+                "jp": "止まって。これ以上無意味に怪我することないよ。",
+                "kr": "멈춰, 이 이상 자신을 무의미하게 다치게 하지 마.",
+                "cn": "停下吧，不要再让自己毫无意义地受伤了。"
+            },
+            "asset": "char_1024_hbisc2/CN_028"
+        },
+        {
+            "id": "char_1024_hbisc2_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "It's always easier to harm than heal. But... is it really something to be proud of...?",
+                "jp": "傷つけるのは癒すよりもずっと簡単です。でもこれって誇れることなんでしょうか……",
+                "kr": "다치게 하는 건 치료하는 것보다 더욱 쉬운 법이죠. 하지만 그게 정말로 자랑스러워할 만한 일일까요……",
+                "cn": "伤害总是比治疗容易，但是，这真的是件值得骄傲的事吗......"
+            },
+            "asset": "char_1024_hbisc2/CN_029"
+        },
+        {
+            "id": "char_1024_hbisc2_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "I'm so glad everyone could come back safe...",
+                "jp": "皆さんが無事に帰ってこれて、本当に良かったぁ……",
+                "kr": "모두가 무사히 돌아올 수 있어서 정말 다행이에요……",
+                "cn": "大家都能平安归来，真的是太好了......"
+            },
+            "asset": "char_1024_hbisc2/CN_030"
+        },
+        {
+            "id": "char_1024_hbisc2_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Prioritize treating the wounded. I'll guard against counterattacks.",
+                "jp": "負傷者の治療を優先してください。私は敵の反撃に備えます。",
+                "kr": "부상자 치료를 우선시해 주세요. 저는 적의 반격에 대비하겠습니다.",
+                "cn": "优先治疗伤员，我会戒备敌人的反击。"
+            },
+            "asset": "char_1024_hbisc2/CN_031"
+        },
+        {
+            "id": "char_1024_hbisc2_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "I still couldn't... protect everyone...",
+                "jp": "やっぱり私は……皆さんを守れませんでした……",
+                "kr": "이번에도 저는…… 모두를 지키지 못했어요……",
+                "cn": "我还是......没能保护好大家......"
+            },
+            "asset": "char_1024_hbisc2/CN_032"
+        },
+        {
+            "id": "char_1024_hbisc2_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Some beds have emptied.",
+                "jp": "ベッドに空きができましたね。",
+                "kr": "침대에 빈자리가 생겼네요.",
+                "cn": "有一些床位变空了呢。"
+            },
+            "asset": "char_1024_hbisc2/CN_033"
+        },
+        {
+            "id": "char_1024_hbisc2_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "You need me, Doctor?",
+                "jp": "ドクター、ご用でしょうか？",
+                "kr": "무슨 일인가요, 박사님?",
+                "cn": "博士需要我吗？"
+            },
+            "asset": "char_1024_hbisc2/CN_034"
+        },
+        {
+            "id": "char_1024_hbisc2_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Doctor, here's your healthy recipe for today. Make sure you eat on time.",
+                "jp": "ドクター、こちらが今日の健康食の献立です。ちゃんと時間通りにご飯を食べてくださいね！",
+                "kr": "박사님, 오늘의 건강 식단이에요. 꼭 제시간에 드셔야 해요.",
+                "cn": "博士，这是您今天的健康食谱，一定要按时吃饭哦。"
+            },
+            "asset": "char_1024_hbisc2/CN_036"
+        },
+        {
+            "id": "char_1024_hbisc2_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_1024_hbisc2/CN_037"
+        },
+        {
+            "id": "char_1024_hbisc2_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Staying healthy is just as important as working hard, Doctor. Don't let either slip.",
+                "jp": "ドクター、お仕事と体調管理は同じくらい大事なことですからね、どっちもおろそかにしちゃダメですよ。",
+                "kr": "박사님, 건강 관리도 열심히 일하는 것만큼이나 중요한 일이니까, 소홀히 하시면 안 된답니다.",
+                "cn": "博士，认真工作和保持健康一样重要，都不能懈怠哦。"
+            },
+            "asset": "char_1024_hbisc2/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Yuuki Luna",
+            "global": "Yuuki Luna"
+        },
+        "cn": {
+            "native": "龟娘",
+            "global": "D. QQ"
+        },
+        "jp": {
+            "native": "井口裕香",
+            "global": "Yuka Iguchi"
+        },
+        "kr": {
+            "native": "방연지",
+            "global": "Bang Yeon-ji"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

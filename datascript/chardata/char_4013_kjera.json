@@ -1,0 +1,596 @@
+{
+    "charid": "char_4013_kjera",
+    "nameid": "kjera",
+    "names": {
+        "en": "Kjera",
+        "jp": "イェラ",
+        "kr": "쉐라",
+        "cn": "耶拉"
+    },
+    "voices": [
+        {
+            "id": "char_4013_kjera_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Doctor! Was it me you wanted? Or did you want me to find Enya for something?",
+                "jp": "ドクター、用事があるのは私？それともエンヤに何か頼み事をしてほしいの？",
+                "kr": "박사, 나한테 볼일이 있는 거야? 아니면 엔야한테 뭐 부탁할 일이라도 있는 거야?",
+                "cn": "博士，你是想找我，还是想拜托我找恩雅？"
+            },
+            "asset": "char_4013_kjera/CN_001"
+        },
+        {
+            "id": "char_4013_kjera_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "I can't just pop up anywhere I want like I can back in Kjerag, Doctor. So if you want something delivered for you, you'll want someone else.",
+                "jp": "ここではイェラグの時みたいに、思いのままにどこにでも出られるわけじゃないの。だから誰かに物を届けてほしいという話なら他の人にした方がいいわ。",
+                "kr": "여기선 쉐라그에 있을 때처럼, 마음대로 아무 데나 갈 수 없어. 그러니까 물건을 전해달라 부탁할 거라면, 다른 사람한테 하는 게 좋을 거야.",
+                "cn": "博士，在这里，我可没法像在谢拉格那样随心所欲地出现在任何地方。所以，你要是想找我帮你送东西的话，那你可找错人了。"
+            },
+            "asset": "char_4013_kjera/CN_002"
+        },
+        {
+            "id": "char_4013_kjera_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Doctor! Is your belly empty? I've learned how to use Rhodes Island's kitchen, so I can put something together for you.... ah, but I can only do Kjerag food for the time being. Hmm... how about some cheese fondue?",
+                "jp": "ドクター、小腹は空いていない？ロドスの厨房の使い方は覚えたから、作ってあげられるのだけど。ああ、でもさしあたってはイェラグの料理だけね。うーん……チーズフォンデュなんてどう？",
+                "kr": "박사, 조금 출출하지 않아? 여기 주방 쓰는 법은 익혀뒀으니까, 뭐라도 좀 해줄까? 아, 그래도 지금 당장은 쉐라그 요리밖에 못하긴 하지만… 흐음… 치즈 퐁듀 같은 건 어때?",
+                "cn": "博士，你想吃点什么吗？我已经学会了使用罗德岛上的厨房，可以给你做一些吃的。啊，不过我暂时还只会做谢拉格的食物。嗯......奶酪火锅怎么样？"
+            },
+            "asset": "char_4013_kjera/CN_003"
+        },
+        {
+            "id": "char_4013_kjera_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Enya... Enya? Doctor, have you seen Enya? It's about time we return to Kjerag, and with all the things that need her attention, she has to come with us. Just where has that girl scurried off to now...?",
+                "jp": "エンヤ……エンヤ？ドクター、エンヤを見なかった？イェラグに帰る時間だというのに、エンヤがいないと始まらないのよ。あの子ったら、またどこをほっつき歩いているの……",
+                "kr": "엔야…… 엔야? 박사, 혹시 엔야 못 봤어? 쉐라그로 돌아갈 시간인데, 엔야가 처리해야 할 일이 많거든…… 얘는 또 어딜 돌아다니는 거람……",
+                "cn": "恩雅......恩雅？博士，你有没有看到恩雅？到返回谢拉格的时间了，还有很多事务等着她呢，结果这丫头又不知道跑到哪里去了......"
+            },
+            "asset": "char_4013_kjera/CN_004"
+        },
+        {
+            "id": "char_4013_kjera_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "'Prayer that will be found, devotion that will be rewarded...' If anything that convenient truly existed, I'd like to see it myself. Me? I'm hardly even perfect knitting sweaters—how could I grant anyone's wishes? Oh, but if you'd like a blizzard, that's something I can do for you.",
+                "jp": "敬虔に祈れば必ず通じ、真心は必ず報われる……本当にそんな便利なものが存在するのであれば、私も興味があるの。私？セーターを編む時すらよくミスするというのに、誰かの願いなんて叶えられるわけないでしょう。ああ、雪嵐の見物をしたいというのなら、見せてあげてもいいわ。",
+                "kr": "경건하게 기도하면 반드시 통하고, 진심은 반드시 보답 받는다…… 정말 그렇게 편한 게 있다면, 나도 한번 알아보고 싶네. 나? 스웨터 짤 때도 자주 실수하는데, 딴 사람 소원 같은 걸 들어줄 수 있을 리 없잖아? 아, 눈보라가 보고 싶은 거라면, 보여줄 수도 있긴 하지만.",
+                "cn": "祈祷便能有回报，诚心便能得所求......要是真的存在这么方便的东西，我也想见一见呢。我？我连毛衣都经常织错，怎么可能实现别人的愿望。不过，你想要看暴风雪，我倒是可以满足你。"
+            },
+            "asset": "char_4013_kjera/CN_005"
+        },
+        {
+            "id": "char_4013_kjera_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "In a certain way, Enya and Enciodes are the same to me. Both siblings want to change Kjerag, after all. But if I had to say why I'm so much closer to Enya... it's because she became my Saintess. Not Enciodes.",
+                "jp": "ある意味、エンヤとエンシオディスは私にとっては同じなの。あの兄妹は二人ともイェラグを変えようとしているから。それなのにどうして私がエンヤとばかり親しくしているかというと……私の巫女になったのはエンヤだもの、エンシオディスではないわ。",
+                "kr": "엔야나 엔시오데스나, 내가 보기엔 다 똑같아. 그 남매는 둘 다 쉐라그를 바꾸려고 하고 있으니까. 그런데 왜 내가 엔야하고만 친하게 지내냐고? 내 무녀가 된 건 엔야니까, 엔시오데스가 아니라.",
+                "cn": "从某种意义上来说，恩雅和恩希欧迪斯对我的意义是一样的，因为这对兄妹都想要改变谢拉格。至于为什么我会亲近恩雅......那毕竟成为圣女的是恩雅，又不是恩希欧迪斯。"
+            },
+            "asset": "char_4013_kjera/CN_006"
+        },
+        {
+            "id": "char_4013_kjera_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Doctor, next time you visit Kjerag, would you like to see the view from the peak of Karlan? Standing at the summit above the clouds amidst the mountains, seeing the sun once again is a heavenly feeling. You'll love it—ah, but there is the chance you'll freeze to death before then. Tricky, that...",
+                "jp": "ドクター、次にイェラグに行けたら、カランド山の頂に登ってみたくはない？山々の中で、雲を突き抜ける絶巓に立つのは良い心地よ。きっと気に入ってくれるわ――ああ、でもその前に凍え死ぬ可能性もあるわね。どうしましょう。",
+                "kr": "박사, 다음에 쉐라그에 가게 되면, 카란 성산 꼭대기에 올라가 볼래? 산속에서, 구름을 뚫고 정상에 서는 건 기분이 꽤 좋거든. 분명 마음에 들어 할 거야. 어머 내 정신 좀 봐, 정상까지 올라가기 전에 얼어 죽을 가능성도 있었네… 어떡하지…",
+                "cn": "博士，下次去谢拉格的时候，你想不想去圣山的山顶看一看？在群山之巅拨云见日的感觉，你会喜欢的——啊，不过，在那之前你也有可能被冻死。这可伤脑筋了。"
+            },
+            "asset": "char_4013_kjera/CN_007"
+        },
+        {
+            "id": "char_4013_kjera_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Enya's attitude towards her brother, well... I'm sure you understand—the opposite of intimacy isn't hatred, but indifference. And she likes to say as much, though it's not actually quite that bad between them. That said, in time... I have no clue at all.",
+                "jp": "エンヤの兄に対する態度ねぇ……あなたも分かっていると思うけど、親しさの対義語は憎しみではなくて無関心なの。あの子は口ではああ言っているけど、実際のところはまだそこまでは……でもこの先どうなるかは、私にも分からないわ。",
+                "kr": "엔야가 오빠를 대하는 태도 말이지…… 당신도 알고 있겠지만, 친근함의 반대말은 증오가 아니라, 무관심이잖아. 그 아이, 말은 그렇게 해도… 사실 그 정도는 아닐 거야. 앞으로 어떻게 될지는 나도 모르지만.",
+                "cn": "恩雅对她哥哥的态度啊......博士，我想你也明白，亲近的反义词不是憎恨，而是冷漠。她现在嘴上那么说，其实还不至于，但是未来......我不知道。"
+            },
+            "asset": "char_4013_kjera/CN_008"
+        },
+        {
+            "id": "char_4013_kjera_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "The world outside sprawls vast and far, Doctor. But I've come to realize something. It's like people are the same no matter where you go. The palette of emotions outside does not differ from what I have seen in Kjerag. It truly is a fascinating thing, though just as dull too.",
+                "jp": "外の天地は本当に広いわねぇ、ドクター。でもね、私気付いたの。どこにいても人は変わらないみたい。イェラグで私が目にしてきた人の喜怒哀楽は、外でも全く同じだわ。興味深いわよね、つまらなくもあるけど。",
+                "kr": "바깥세상은 정말 넓네, 박사. 그런데 말야, 나 깨달았지 뭐야. 어디에 있든 사람은 변하지 않는 거 같아. 쉐라그에서 내가 봤던 인간의 희노애락은, 밖에서도 완전히 같더라고. 흥미롭네, 시시하기도 하지만.",
+                "cn": "外面的天地真是广阔呀，博士。但我发现，人似乎是到哪里都是一样的，我在谢拉格见过的喜怒哀乐，到了外面，似乎没有任何改变。真有意思，但也真没意思。"
+            },
+            "asset": "char_4013_kjera/CN_009"
+        },
+        {
+            "id": "char_4013_kjera_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Oh, my, your sleeping posture is terrible... I'll run you a bowl of water. You can wash your face as soon as you come round.",
+                "jp": "あら、ドクターの寝相って酷いのね……水を汲んできておきましょう、起きたらすぐに顔を洗えるから。",
+                "kr": "어머, 박사는 자는 모습이 볼품없네…… 물을 떠다 놔야겠다. 일어나면 바로 세수할 수 있게.",
+                "cn": "哎呀，博士的睡相真差......去打盆水放着好了，这样醒来可以洗洗脸。"
+            },
+            "asset": "char_4013_kjera/CN_010"
+        },
+        {
+            "id": "char_4013_kjera_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Doctor... shh. I came out in secret with Enya. Make sure Ensia and the Karlan Trade people don't find out, or things will get messy for her.",
+                "jp": "ドクター、シッ……今回は内密に抜け出したエンヤの付き添いで来たの。エンシアとカランド貿易の人たちには内緒にね、じゃないとあの子が困っちゃうから。",
+                "kr": "박사, 쉿…… 이번엔 엔야가 몰래 빠져나올 때 같이 따라왔어. 엔시아랑 카란 무역회사 사람들한테는 비밀로 해줘. 안 그러면 그 아이가 난처해질 테니까.",
+                "cn": "嘘......博士，我这次是陪恩雅偷偷来的，你可不要告诉恩希亚还有喀兰贸易的人，不然的话，她就麻烦了。"
+            },
+            "asset": "char_4013_kjera/CN_011"
+        },
+        {
+            "id": "char_4013_kjera_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "*Sigh*. No matter how advanced our weapons get, combat is still so barbarous...",
+                "jp": "はぁ、武器がどんなに進化しようと、戦いは変わらず野蛮だなぁ……",
+                "kr": "하아, 무기가 아무리 진화해도, 싸움은 여전히 야만적이구나……",
+                "cn": "唔，无论武器变得多精良，战斗总是这么野蛮......"
+            },
+            "asset": "char_4013_kjera/CN_012"
+        },
+        {
+            "id": "char_4013_kjera_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Oh! A promotion...Well, I've come here with Enya quite a few times now...",
+                "jp": "あら、ということはつまり、エンヤにくっついてロドスへこっそり来たのもそれなりの回数になったのね……",
+                "kr": "어머, 그러고 보니… 엔야한테 붙어서 로도스 아일랜드에 몰래 온 것도, 벌써 몇 번이나 됐구나……",
+                "cn": "啊呀，这么说来，跟着恩雅悄悄来罗德岛也有好几次了啊......"
+            },
+            "asset": "char_4013_kjera/CN_013"
+        },
+        {
+            "id": "char_4013_kjera_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "The Rhodes Islanders by and large seem to know who I am now. Which means I can get a little closer to them, right...? Oh, can't I?",
+                "jp": "私の正体はロドスのみなにとって秘密でもなくなってきたようだし、それじゃ、みなと少し踏み入った話をしてもいいわよね？……え、いけない？",
+                "kr": "로도스 아일랜드에서 내 정체는 이제 딱히 비밀도 아닌 것 같은데, 그럼 앞으로는, 여기 사람들이랑 좀 더 깊게 대화해도 되는 거지? ……응, 안 된다고?",
+                "cn": "我的身份，对于罗德岛来说似乎也不算是秘密了呢，那么，稍微让大家认识一下我也是可以的吧？......咦，不行吗？"
+            },
+            "asset": "char_4013_kjera/CN_014"
+        },
+        {
+            "id": "char_4013_kjera_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Oh, won't you want me leading, Doctor?",
+                "jp": "あら、私が率いなくてもいいの、ドクター？",
+                "kr": "어머 박사, 내가 지휘하지 않아도 괜찮아?",
+                "cn": "咦，不用我来带队吗，博士？"
+            },
+            "asset": "char_4013_kjera/CN_017"
+        },
+        {
+            "id": "char_4013_kjera_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "I'll see you all safely through.",
+                "jp": "みなの面倒はちゃんと見るわ。",
+                "kr": "다들 잘 보살펴 줄게.",
+                "cn": "我会照看好其他人的。"
+            },
+            "asset": "char_4013_kjera/CN_018"
+        },
+        {
+            "id": "char_4013_kjera_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Anyone we've left behind?",
+                "jp": "遅れている子はいない？",
+                "kr": "늦은 아이는 없지?",
+                "cn": "没有人落下吧？"
+            },
+            "asset": "char_4013_kjera/CN_019"
+        },
+        {
+            "id": "char_4013_kjera_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Let me quell the enemy!",
+                "jp": "敵の牽制は任せなさい！",
+                "kr": "적을 견제하는 거라면, 맡겨 줘!",
+                "cn": "我来牵制住敌人！"
+            },
+            "asset": "char_4013_kjera/CN_020"
+        },
+        {
+            "id": "char_4013_kjera_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Dear me, I’m not done readying yet!",
+                "jp": "あら、まだ準備が済んでいないわ！",
+                "kr": "어머, 아직 준비가 다 안 끝났는데?!",
+                "cn": "哎呀，我还没准备好！"
+            },
+            "asset": "char_4013_kjera/CN_021"
+        },
+        {
+            "id": "char_4013_kjera_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Let's assist others, shall we?",
+                "jp": "みなを助けに行きましょうね。",
+                "kr": "모두를 도우러 가보자고.",
+                "cn": "去帮助其他人吧。"
+            },
+            "asset": "char_4013_kjera/CN_022"
+        },
+        {
+            "id": "char_4013_kjera_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Don't you fret. No matter the environment, I can 'see' them just fine.",
+                "jp": "安心なさい、どんな状況でも、私には「視」えるから。",
+                "kr": "안심해, 어떤 상황이라도 내게는 다 ‘보이니까’.",
+                "cn": "放心，无论什么环境，我都“看”得见。"
+            },
+            "asset": "char_4013_kjera/CN_023"
+        },
+        {
+            "id": "char_4013_kjera_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "No need for mercy on the enemy, correct?",
+                "jp": "敵への情けは無用よね？",
+                "kr": "적에게 자비는 필요 없겠지?",
+                "cn": "对敌人就不用手下留情了吧？"
+            },
+            "asset": "char_4013_kjera/CN_024"
+        },
+        {
+            "id": "char_4013_kjera_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "You thought I couldn't see you?",
+                "jp": "視えていないとでも思ってた？",
+                "kr": "보이지 않을 줄 알았니?",
+                "cn": "以为我没有看到吗？"
+            },
+            "asset": "char_4013_kjera/CN_025"
+        },
+        {
+            "id": "char_4013_kjera_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "I'm aimed at you, you know?",
+                "jp": "私が、狙っているのよ？",
+                "kr": "내가, 노리고 있단다?",
+                "cn": "是我在偷袭你哦。"
+            },
+            "asset": "char_4013_kjera/CN_026"
+        },
+        {
+            "id": "char_4013_kjera_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "You didn't think it'd come from this angle, did you?",
+                "jp": "この角度から来ると思ってもいなかったでしょう。",
+                "kr": "이 각도에서 올 거라곤 생각도 못 했지?",
+                "cn": "这个角度，没想到吧。"
+            },
+            "asset": "char_4013_kjera/CN_027"
+        },
+        {
+            "id": "char_4013_kjera_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "You're not getting close to me that easily, you know?",
+                "jp": "そう簡単にはこの身に近付けないわよ？",
+                "kr": "그렇게 쉽게, 내게 다가올 순 없을걸?",
+                "cn": "想靠近我没这么简单哦。"
+            },
+            "asset": "char_4013_kjera/CN_028"
+        },
+        {
+            "id": "char_4013_kjera_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Doctor, you can't be overzealous in challenging your limits, or you might hurt yourself.",
+                "jp": "ドクター、限界に挑むのもほどほどにね。さもないと自分の身を傷つけるわよ。",
+                "kr": "박사, 한계에 도전하는 것도 적당히 해. 안 그럼, 언제 한 번 정말 다칠 수도 있을 거야.",
+                "cn": "博士，挑战极限也要适可而止，不然的话，会伤到自己身体的。"
+            },
+            "asset": "char_4013_kjera/CN_029"
+        },
+        {
+            "id": "char_4013_kjera_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "What a splendid job, Doctor! You make me want to pat you on the head~",
+                "jp": "よくできました、ドクター。ふふ、よしよししてあげたくなるわね。",
+                "kr": "정말 잘 했어 박사. 후훗, 쓰다듬어주고 싶네~",
+                "cn": "做得真棒，博士，我都想摸一摸你的头了~"
+            },
+            "asset": "char_4013_kjera/CN_030"
+        },
+        {
+            "id": "char_4013_kjera_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Now, now, it's alright. These are fine enough results, aren't they?",
+                "jp": "大丈夫、この戦果だって十分なものよ、そうでしょう？",
+                "kr": "괜찮아, 이 정도 결과도 이미 충분한걸, 안 그래?",
+                "cn": "没事，这样的结果也已经很不错了，不是吗？"
+            },
+            "asset": "char_4013_kjera/CN_031"
+        },
+        {
+            "id": "char_4013_kjera_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Doctor, fear not. I'm here.",
+                "jp": "ドクター、心配しないで、私がいるわ。",
+                "kr": "박사, 걱정 마, 내가 있잖아.",
+                "cn": "博士，不要怕，有我在。"
+            },
+            "asset": "char_4013_kjera/CN_032"
+        },
+        {
+            "id": "char_4013_kjera_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Let's see, here's... whereabout is this?",
+                "jp": "ええと、ここは……どのあたりかしら？",
+                "kr": "어… 여기가… 어디쯤이었더라…?",
+                "cn": "咦，这里......是哪个区来着？"
+            },
+            "asset": "char_4013_kjera/CN_033"
+        },
+        {
+            "id": "char_4013_kjera_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Oh?!",
+                "jp": "えっ！？",
+                "kr": "엑!?",
+                "cn": "欸欸？！"
+            },
+            "asset": "char_4013_kjera/CN_034"
+        },
+        {
+            "id": "char_4013_kjera_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Doctor, would you like to go on a walk together?",
+                "jp": "ドクター、一緒にお散歩する？",
+                "kr": "박사, 같이 산책할래?",
+                "cn": "博士，要一起散步吗？"
+            },
+            "asset": "char_4013_kjera/CN_036"
+        },
+        {
+            "id": "char_4013_kjera_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4013_kjera/CN_037"
+        },
+        {
+            "id": "char_4013_kjera_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Doctor! Did you sleep well last night?",
+                "jp": "ドクター、昨日はよく眠れた？",
+                "kr": "박사, 어제는 잘 잤어?",
+                "cn": "博士，昨天晚上睡得好吗？"
+            },
+            "asset": "char_4013_kjera/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Sarah Ovens",
+            "global": "Sarah Ovens"
+        },
+        "cn": {
+            "native": "陈超群",
+            "global": "Emma Chen"
+        },
+        "jp": {
+            "native": "久川綾",
+            "global": "Aya Hisakawa"
+        },
+        "kr": {
+            "native": "전숙경",
+            "global": "Jun Suk-kyong"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

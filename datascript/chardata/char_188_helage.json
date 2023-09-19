@@ -1,0 +1,594 @@
+{
+    "charid": "char_188_helage",
+    "nameid": "helage",
+    "names": {
+        "en": "Hellagur",
+        "jp": "ヘラグ",
+        "kr": "헬라그",
+        "cn": "赫拉格"
+    },
+    "voices": [
+        {
+            "id": "char_188_helage_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Queching the flames of war demands prolonged suffering. To ignite them, however, it takes naught but a lapse of thought.",
+                "jp": "戦火をかき消すには、気が遠くなるほどの苦しみを乗り越えねばならん。しかしその戦火は、一時の過ちでいとも容易く轟々と燃え上がるものでもある。",
+                "kr": "전쟁의 불꽃을 끄기 위해서는 정신이 아득해질 정도의 고통을 극복해야 하지. 그러나 그 전쟁의 불꽃은 한순간의 잘못으로도 너무나 쉽게 활활 타오르는 것이기도 하다네.",
+                "cn": "想熄灭战火，要经历漫长的痛苦；兴起战争，却只需要一瞬间的失误。"
+            },
+            "asset": "char_188_helage/CN_001"
+        },
+        {
+            "id": "char_188_helage_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "The fall of Chernobog dealt a devastating blow to Azazel, our clinic. I must rebuild it for the children. As long as they can have a shelter to call home, any place will do. You don't need a reason to try for your family.",
+                "jp": "チェルノボーグの陥落と同時に、「アザゼル」も壊滅的な打撃を受けた。私はあの診療所を、子供たちの家を再建しなくてはならん。それが叶うのならば、再建の地がどこになろうと構わん。家族のために捧げる苦労に、理由など必要ない。",
+                "kr": "체르노보그 함락과 동시에 '아자젤'은 궤멸에 가까운 타격을 입었지, 나는 그 진료소를, 아이들의 집을 재건해야 하네. 그것을 이룰 수 있다면 재건의 땅은 어디가 되든 상관없지. 가족을 위한 고생에 이유 따윈 필요치 않네.",
+                "cn": "切尔诺伯格的陷落强烈地冲击了我们的诊所，“阿撒兹勒”。我要重建这座诊所、这个孩子们的家——在哪里都无所谓。为家人付出是无需理由的。"
+            },
+            "asset": "char_188_helage/CN_002"
+        },
+        {
+            "id": "char_188_helage_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Rhodes Island is in a respectable position, but the Infected of Ursus face prospects far worse than anyone could imagine. They must be ready to resort to violence in order to survive. At the end of the day, virtue and dignity hold meaning only for those who live to see the next dawn.",
+                "jp": "ロドスの立場は尊敬に値するが、ウルサスの感染者の境遇は想像よりも更に劣悪なものだ。彼らが生き延びるためには、暴力を振るわざるを得ないのだ。そこに善悪の概念は存在しない。",
+                "kr": "로도스 아일랜드의 입장은 존경할 만하지만, 우르수스 감염자들의 처지는 상상할 수 없을 만큼 훨씬 열악하다네. 그들은 살아남기 위해서 폭력을 일삼을 수밖에 없고, 거기에 선악의 개념이란 존재하지 않네.",
+                "cn": "罗德岛的立场虽然值得尊敬，但乌萨斯的感染者面对的处境比想象更恶劣。必须学会如何去运用暴力，只为生存，无关善恶。"
+            },
+            "asset": "char_188_helage/CN_003"
+        },
+        {
+            "id": "char_188_helage_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "All Ursus should take pride in their nation and their Emperor.' I, too, fought for Ursus once, but I don't have the passion driving me anymore. Time has robbed me of too much.",
+                "jp": "「ウルサス人は皆、其の国家と皇帝を自身の誇りとすべし」。私もかつてはそうやってウルサスに身を捧げていたが、今はもうその熱意を失ってしまった。時間が私から何もかも奪ってしまったのだ。",
+                "kr": " '우르수스인은 응당 국가와 황제를 자신의 긍지로 여겨야 한다.' 나도 한때는 그렇게 우르수스에 몸을 바쳤지만, 지금은 열의를 잃고 말았네. 시간이 나에게서 참 많은 것을 빼앗아 가버린 것 같군.",
+                "cn": "“每个乌萨斯人都应为他们的国家与皇帝感到骄傲”。我曾经也为之奋战过，但现在的我已经失去了热情。时间从我这里夺走了太多。"
+            },
+            "asset": "char_188_helage/CN_004"
+        },
+        {
+            "id": "char_188_helage_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Life in the military has taught me two things: First, have faith in your fellow soldiers; second, have faith in them, but do not trust them. This dilemma has always plagued our lands, and none can escape it.",
+                "jp": "軍隊での生活が私に教えてくれたことは二つ。一つ、戦友は信頼せよ。二つ、信頼しても信用はするな。この地で生きる以上、我々にはそんな矛盾が永遠について回る。その檻からは誰も逃れられん。",
+                "kr": "군 생활을 하며 배운 것이 두 가지 있네. 첫째, 전우를 믿어라. 둘째, 믿되 신뢰하진 마라. 이 대지에서 살아가는 이상, 우리에겐 그런 모순이 영원히 따라다닐 테지. 그 누구도 이 굴레에서 벗어날 수 없네.",
+                "cn": "军旅生活教会我两件事。第一，信任你的战友；第二，提防你信任的人。这片大地一直被这种矛盾纠缠着，没人能从中挣脱。"
+            },
+            "asset": "char_188_helage/CN_005"
+        },
+        {
+            "id": "char_188_helage_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Dr. {@nickname}, a limitless future awaits you, just as it does for those children. Though I can neither let go of yesterday nor look forward to tomorrow, I shall fight for you till my last drop of blood, so you may be part of that future.",
+                "jp": "ドクター、貴殿の眼前には、子供たちと同じように無限の未来が広がっているのだろう。過去にすがることしかできない明日なき身ではあるが、血の最後の一滴が滴り落ちるまで、貴殿たちのために戦うことでその未来をつなごう。",
+                "kr": "박사, 자네 앞에는 아이들과 마찬가지로 무한한 미래가 펼쳐져 있다네. 과거를 떠나보내지도 못하고, 내일도 없는 몸이지만, 자네들의 미래를 위해, 마지막 피 한 방울이 소진되는 그날까지 싸워보겠네.",
+                "cn": "Dr.{@nickname}，你和孩子们没什么区别，未来正等着你们去了解它。像我这样无法背离过去、同样也没有明天的人，会为你们战斗到流尽最后一滴血。"
+            },
+            "asset": "char_188_helage/CN_006"
+        },
+        {
+            "id": "char_188_helage_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "I am fine with Ursus as my enemy. Once I swore my utmost loyalty to it, but that was returned with endless disillusionment and shame. For the children's sake, I will never falter, much less surrender.",
+                "jp": "ウルサスと敵対することに異論はない。軍では骨の髄まで忠誠を誓った相手ではあるが、今となっては幻影と屈辱の残滓がこの身に纏わりついているだけだ。子供たちのためなら私は引かん。ましてや投降するなどもってのほかだ。",
+                "kr": "우르수스와 적대한다 해도 이의는 없네. 군에 있을 땐 뼛속까지 충성을 맹세했었지만, 이제는 환영과 굴욕의 잔재만이 이 몸에 들러붙어 있을 뿐이지. 아이들을 위해서라면 난 물러서지 않을 걸세. 하물며 투항은, 말할 것도 없지.",
+                "cn": "要与乌萨斯为敌也无妨。我的忠诚已经在我从军时完全地献给了它，而今只剩下幻觉和耻辱与我长久相伴。为了孩子们，我不会退缩，更不会向它投降。"
+            },
+            "asset": "char_188_helage/CN_007"
+        },
+        {
+            "id": "char_188_helage_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Once there was a long battle. When I finally broke into the enemy headquarters, I was too late... All I could do for my dying friend was take his pocket watch and sword. The enemy lost their commander, whose death brought us a brief victory. That day, Ursus enjoyed her momentary triumph, but I knew my war was over. A war where I lost everything.",
+                "jp": "かつては長きに渡る戦争があった。私が敵軍司令部のドアを斬り開いたときにはもう遅く、瀕死の友人から刀と懐中時計を受け取ることしかできなかった。敵は指揮官を失い、彼の死はウルサスにつかの間の勝利をもたらしたが、私は皮肉にもその戦争に敗北したようなものだ。",
+                "kr": "한때 기나긴 전쟁이 있었지. 내가 적군 사령부의 문을 베어 열었을 때 이미 늦었던 것일까, 죽어가는 친구의 손에서 검과 회중시계를 받는 것밖엔 하지 못했네. 적은 지휘관을 잃었고, 그의 죽음은 우르수스에 잠깐의 승리를 안겨줬지만…… 얄궂게도 난, 그 전쟁에서 패배했네.",
+                "cn": "曾经有一场漫长的战争。当我终于划开敌军指挥部的舱门，却只来得及接过我濒死好友递给我的佩刀与怀表。敌人失去了指挥官，他的死为乌萨斯带来了片刻的胜利，而我，可悲地输掉了这场战争。"
+            },
+            "asset": "char_188_helage/CN_008"
+        },
+        {
+            "id": "char_188_helage_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "The photograph inside my pocket watch? Hahahah, so you saw it... This is Neon from when she was little. Isn't she adorable? She's not so quiet anymore, but she loves herself now, and that's all that matters... Live free, Dr. {@nickname}, that's my wish, even if it is trite.",
+                "jp": "懐中時計の中の写真？ハハハ、見られてしまったか。これは幼き頃のネオンだ。可愛らしいだろう？今のあの子にはこの頃の淑やかさはないが、自分を愛せるように成長した。それだけで十分だ。ドクター、貴殿も自由に生きてくれ。それがこの私の、つまらない願いだ。",
+                "kr": "회중시계 안의 사진? 하하하, 보고 말았나. 이건 어릴 적의 네온이라네. 귀엽지 않나? 지금의 그 아이에겐 이때의 얌전한 모습은 찾아볼 수 없지만, 자기 자신을 사랑할 수 있는 사람으로 성장했지. 그거면 됐네. 박사, 자네도 자유롭게 살아가게나. 그게 나의 보잘것없는 바람일세.",
+                "cn": "怀表上的照片？被你看见了吗，哈哈。请看，小时候的奈音很可爱吧？现在的她可没这么文静，但她喜欢现在的自己。这就够了。{@nickname}，自由地生活下去吧，这是我平凡的愿望。"
+            },
+            "asset": "char_188_helage/CN_009"
+        },
+        {
+            "id": "char_188_helage_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Don't lose focus. You must be alert at all times on Rhodes Island.",
+                "jp": "怠慢はいかん。ロドスにいるときも常に警戒を怠るな。",
+                "kr": "나태해지지 말도록. 로도스 아일랜드에 있을 때도 항상 경계를 늦추지 말게나.",
+                "cn": "别懈怠。在罗德岛，你要时刻保持警惕。"
+            },
+            "asset": "char_188_helage/CN_010"
+        },
+        {
+            "id": "char_188_helage_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Hellagur, an infected mercenary. I will work with Rhodes Island in order to rebuild my Azazel Clinic and protect my family. But be advised, I have no medical skills.",
+                "jp": "私はヘラグ、感染者の身ではあるが、一介の武士だ。我が診療所「アザゼル」を再建し家族を守るために、ロドスにこの身を預けよう。齟齬を生まないために言っておくが、医学には疎い。",
+                "kr": "헬라그라고 하네. 감염자의 몸이나, 무사이기도 하지. 내 진료소 '아자젤'을 재건하고 가족을 지키기 위해 로도스 아일랜드에 이 몸을 맡기도록 하겠네. 미리 말해두겠네만, 난 의학에 대해선 아는 바가 없네.",
+                "cn": "赫拉格，一介被感染了的武夫。为了重建我的诊所“阿撒兹勒”以及保护我的家人，我愿意和罗德岛合作。事先声明，我不懂医术。"
+            },
+            "asset": "char_188_helage/CN_011"
+        },
+        {
+            "id": "char_188_helage_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Battlefields may change, but not the cruelty.",
+                "jp": "過去に比べれば戦場の様子は些か変わってしまったが、その残酷さだけは変わることはない。",
+                "kr": "전장의 상황은 예전과 달라졌을지 몰라도, 그 잔혹함만큼은 변하지 않았군.",
+                "cn": "战场变得和过去不同了，它的残酷却从没变过。"
+            },
+            "asset": "char_188_helage/CN_012"
+        },
+        {
+            "id": "char_188_helage_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "I'm used to it as a soldier, but I find it fascinating as an infected. Thank you for the ribbon, Dr. {@nickname}.",
+                "jp": "軍人としての昇進は慣れたものではあるが、感染者としては……いささか新鮮だ。ドクター、貴殿からの褒章、感謝する。",
+                "kr": "군인으로서 진급은 익숙하네만, 감염자로서는…… 조금 신선하군. 훈장 고맙네, 박사.",
+                "cn": "军人的我对此习以为常；作为感染者的我却......感到新奇。感谢你的绶带，Dr.{@nickname}。"
+            },
+            "asset": "char_188_helage/CN_013"
+        },
+        {
+            "id": "char_188_helage_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "War will never truly be over, but I believe even this land will end eventually. Maybe you can end our suffering one day, Dr. {@nickname}. Now, give me your order!",
+                "jp": "戦争が真に終結することはないが、この地にもその終点がどこかにあると信じているように、いつの日か貴殿が我々の苦しみを真に終わらせてくれるかもしれん。さあ、私に命令を！",
+                "kr": "전쟁에 진정한 끝은 없겠지만 이 대지 어딘가엔 그 끝이 있을 거라 믿네. 자네라면 언젠간 우리의 고통을 정말로 끝내줄지도 모르겠군. 자, 나에게 명령을 내려주게!",
+                "cn": "战争不会真正结束，但我相信即使是这片大地也有它的尽头。或许有一天你能真正结束我们的痛苦，Dr.{@nickname}。来吧，向我下令！"
+            },
+            "asset": "char_188_helage/CN_014"
+        },
+        {
+            "id": "char_188_helage_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Only butchers thirst for blood. We are merely paying the price of survival.",
+                "jp": "血に飢えて戦うのは虐殺者だけだ。我々は命の対価を支払うために戦っているに過ぎん。",
+                "kr": "피에 굶주려 싸우는 건 학살자뿐이지, 우리는 그저 생존을 위해 싸우는 것에 지나지 않다네.",
+                "cn": "只有屠夫才渴血。我们是在付出生存的代价。"
+            },
+            "asset": "char_188_helage/CN_017"
+        },
+        {
+            "id": "char_188_helage_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "I'll have them following orders to Ursus army standards!",
+                "jp": "ウルサスの軍規を借りて指揮をとろう。命令には服従させる！",
+                "kr": "우르수스 군법에 따라 지휘하겠네. 명령에 복종하도록!",
+                "cn": "我要用乌萨斯军人的标准要求他们。让他们服从命令！"
+            },
+            "asset": "char_188_helage/CN_018"
+        },
+        {
+            "id": "char_188_helage_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "I don't mind losing my life, if that is enough to end this all.",
+                "jp": "全てを終わらせることができるなら、この命など安いものさ。",
+                "kr": "모든 것을 끝낼 수 있다면, 이 목숨 따윈 아무것도 아니네.",
+                "cn": "如果能够结束这一切，赔上我的生命也无妨。"
+            },
+            "asset": "char_188_helage/CN_019"
+        },
+        {
+            "id": "char_188_helage_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "You have never seen a real war, pathetic runts.",
+                "jp": "この脆弱な者どもは、本物の戦争を目にしたことはないだろう。",
+                "kr": "이 연약한 놈들은 진짜 전쟁을 본 적이 없겠지.",
+                "cn": "孱弱的敌人，你们没见过真正的战争。"
+            },
+            "asset": "char_188_helage/CN_020"
+        },
+        {
+            "id": "char_188_helage_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "I was born to fight.",
+                "jp": "戦闘は私のかつての天職だ。",
+                "kr": "전투는 한때 나의 천직이었네.",
+                "cn": "战斗曾是我的天职。"
+            },
+            "asset": "char_188_helage/CN_021"
+        },
+        {
+            "id": "char_188_helage_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "A slip of the mind is the difference between life and death.",
+                "jp": "生と死は紙一重だ。",
+                "kr": "생과 사는 종이 한 장 차이다.",
+                "cn": "生死只在一念之间。"
+            },
+            "asset": "char_188_helage/CN_022"
+        },
+        {
+            "id": "char_188_helage_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Killing is but the last resort.",
+                "jp": "敵を殺してしまうのは下策と心得ろ。",
+                "kr": "적을 죽여버리는 것은 졸책이라는 것을 명심하게.",
+                "cn": "杀死敌人只是下策。"
+            },
+            "asset": "char_188_helage/CN_023"
+        },
+        {
+            "id": "char_188_helage_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "I've never truly left the battlefield, I know.",
+                "jp": "この地から真の意味で離れることはできん。私もわかっている。",
+                "kr": "이 땅에서 진정한 의미로 벗어나는 것은 불가능하지, 나도 알고 있네.",
+                "cn": "我没法真正离开这里。我知道。"
+            },
+            "asset": "char_188_helage/CN_024"
+        },
+        {
+            "id": "char_188_helage_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "A lash of blade, the flesh to flay.",
+                "jp": "刀を鞭となし、肉体を打ち据える。",
+                "kr": "검을 채찍 삼아 육체를 때려눕힌다!",
+                "cn": "以刀为鞭，可撩皮肉。"
+            },
+            "asset": "char_188_helage/CN_025"
+        },
+        {
+            "id": "char_188_helage_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "A thrust of whip, the sword to rip.",
+                "jp": "鞭を槍となし、兵刃を断つ。",
+                "kr": "채찍을 창 삼아 무기를 꺾는다!",
+                "cn": "以鞭行枪，可断兵刃。"
+            },
+            "asset": "char_188_helage/CN_026"
+        },
+        {
+            "id": "char_188_helage_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "A cleave of spear, the armor to tear!",
+                "jp": "槍を刀となし、甲冑を切り裂く！",
+                "kr": "창을 검 삼아 갑주를 벤다!",
+                "cn": "以枪作刀，可劈甲胄！"
+            },
+            "asset": "char_188_helage/CN_027"
+        },
+        {
+            "id": "char_188_helage_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Decapitator'… Our sacrifices were not in vain.",
+                "jp": "「降斬」……その主の犠牲を無駄にはせん。",
+                "kr": " '쿠다리키리'…… 네 주인의 희생을 헛되이 하지 않으마.",
+                "cn": "“降斩”......你主人的牺牲绝非无谓。"
+            },
+            "asset": "char_188_helage/CN_028"
+        },
+        {
+            "id": "char_188_helage_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "You leave the fight behind, and pay for it with yet more fighting.",
+                "jp": "紛争を遠ざけるためには、さらなる紛争に身を投じるほかない。",
+                "kr": "분쟁을 멀리하기 위해서는 더한 분쟁에 몸을 던지는 수밖에 없네.",
+                "cn": "远离纷争的代价就是被卷入更多的纷争。"
+            },
+            "asset": "char_188_helage/CN_029"
+        },
+        {
+            "id": "char_188_helage_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Avert your eyes, I'm about to end their misery.",
+                "jp": "見るな。彼らの最後の苦しみを、私が終わらせてこよう。",
+                "kr": "보지 말게. 그들의 마지막 고통은 내가 끝내고 오겠네.",
+                "cn": "别看。我去结束他们的挣扎。"
+            },
+            "asset": "char_188_helage/CN_030"
+        },
+        {
+            "id": "char_188_helage_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Keep your guard up. One flaw is all the enemy needs to turn the tables.",
+                "jp": "油断するな。少しの綻びが、敵に反撃の機会を与える。",
+                "kr": "방심하지 말게. 약간의 틈이 적에게 반격의 기회를 준다네.",
+                "cn": "不要大意，每个漏洞都会为敌人的反扑提供机会。"
+            },
+            "asset": "char_188_helage/CN_031"
+        },
+        {
+            "id": "char_188_helage_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "There is no shame in failure. At least you had the chance to learn from it.",
+                "jp": "失敗は恥ずべきことではない。少なくともそこから教訓を得ることはできるのだ。",
+                "kr": "실패는 부끄러워할 일이 아닐세. 적어도 거기에서 교훈을 얻을 수 있으니 말이네.",
+                "cn": "失败并不可耻，至少你还有机会吸取教训。"
+            },
+            "asset": "char_188_helage/CN_032"
+        },
+        {
+            "id": "char_188_helage_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "If only I can find shelter for the children.",
+                "jp": "子供たちにも雨風を凌ぐ場所を与えてやりたいものだ。",
+                "kr": "아이들에게도 비바람을 피할 곳을 주고 싶군.",
+                "cn": "真希望给孩子们找个能挡风遮雨的地方。"
+            },
+            "asset": "char_188_helage/CN_033"
+        },
+        {
+            "id": "char_188_helage_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Hmm?",
+                "jp": "んん？",
+                "kr": "으음?",
+                "cn": "嗯？"
+            },
+            "asset": "char_188_helage/CN_034"
+        },
+        {
+            "id": "char_188_helage_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Would you like a candy? I still have some. But watch out for cavities.",
+                "jp": "腹が減ったか？少し菓子が余っているから食べるといい。だが虫歯には気をつけるんだぞ。",
+                "kr": "배가 고픈가? 과자가 조금 남았으니 먹게나. 하지만 충치에는 주의해야 하네.",
+                "cn": "想吃点心？我这里还剩一些。小心蛀牙。"
+            },
+            "asset": "char_188_helage/CN_036"
+        },
+        {
+            "id": "char_188_helage_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_188_helage/CN_037"
+        },
+        {
+            "id": "char_188_helage_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "You look well, Doctor.",
+                "jp": "元気にしているか、ドクター。",
+                "kr": "잘 지내고 있나, 박사.",
+                "cn": "气色不错，博士。"
+            },
+            "asset": "char_188_helage/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Paul Herzberg",
+            "global": "Paul Herzberg"
+        },
+        "cn": {
+            "native": "刘若班",
+            "global": "Robin Liu"
+        },
+        "jp": {
+            "native": "速水奨",
+            "global": "Show Hayami"
+        },
+        "kr": {
+            "native": "시영준",
+            "global": "Si Young-jun"
+        }
+    },
+    "availability": [
+        "cn",
+        "jp"
+    ]
+}

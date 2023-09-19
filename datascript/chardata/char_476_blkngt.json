@@ -1,0 +1,596 @@
+{
+    "charid": "char_476_blkngt",
+    "nameid": "blkngt",
+    "names": {
+        "en": "Blacknight",
+        "jp": "ブラックナイト",
+        "kr": "블랙나이트",
+        "cn": "夜半"
+    },
+    "voices": [
+        {
+            "id": "char_476_blkngt_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Your files are all fully sorted. Hm? Was that fast? I wasn't dozing off on your last shift, after all. I have your whole workflow noted right inside my head.",
+                "jp": "資料のまとめ、全部できたよ。え？早い？こないだ君が仕事してる時、こっちだって寝てたわけじゃないんだから。君のワークフローくらい全部頭に入ってるって。",
+                "kr": "자료 정리, 전부 끝났어. 응? 빠르다고? 저번에 네가 일할 때, 나도 졸고만 있던 건 아니니까. 네 업무 습관 정도는 전부 머리에 들어 있거든.",
+                "cn": "资料都整理好了。嗯？很快吗？上回你干活的时候，我又没在打瞌睡。你的工作习惯，我都记在脑子里了。"
+            },
+            "asset": "char_476_blkngt/CN_001"
+        },
+        {
+            "id": "char_476_blkngt_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Stop! You're triggering one of my traps. Move any further, and a bolt will blow your brains out. How could I fall asleep surrounded by traps? That's a strange question. I couldn't sleep at all without these little trinkets around me.",
+                "jp": "ストップ！仕掛けに触れちゃってる、それ以上動けば脳天貫かれるよ。これだけの仕掛けに囲まれながらどうやって寝てるのかって？何その質問。この子たちがいなきゃ私は逆に眠れないよ。",
+                "kr": "스톱! 트랩에 닿았잖아. 그 이상 움직이면 화살에 정수리가 꿰뚫릴 거야. 이 정도나 되는 트랩에 둘러싸여서 어떻게 자냐고? 무슨 질문이 그래. 난 오히려 얘네들이 없으면 잠이 안 온다고.",
+                "cn": "别动！你碰到我的机关了，再动一下，这箭就会射穿你的脑袋。想知道一堆机关围着怎么睡觉？奇怪的问题，要是没了这些宝贝，我才睡不着。"
+            },
+            "asset": "char_476_blkngt/CN_002"
+        },
+        {
+            "id": "char_476_blkngt_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "What we stole from the Leithanian nobles, they plundered from the land before that. We're the children of the wilds, but we are not unreasonable. Lungmen traders do good to others, and Siracusans keep to the rules, so I told my team not to lay a finger on them.",
+                "jp": "私たちがリターニアの貴族サマから奪い取ったのは、元々あいつらがこの大地から掠め取ったものだよ。私たちは荒野育ちだけど、道理くらいわきまえてる。龍門人は人情に篤いし、シラクーザ人は掟を守るから、そういう人たちには手を出さないように私が目を光らせてるよ。",
+                "kr": "우리가 라이타니엔의 귀족 나리에게 훔쳐 온 건, 원래 놈들이 이 땅에서 훔쳐간 거야. 우리는 황야에서 자랐지만, 도리 정도는 구분할 줄 안다고. 용문 사람은 정이 많고, 시라쿠사 사람은 규칙을 지키니까, 그런 사람들에겐 손대지 않게 내가 눈 똑바로 뜨고 지켜보고 있어.",
+                "cn": "我们从莱塔尼亚贵族老爷们手里抢走的，本来就是他们从这片土地上攫取的。我们是荒地的孩子，但也懂点道理。龙门商队会行好事，叙拉古人讲规矩，我都管着大家不去碰。"
+            },
+            "asset": "char_476_blkngt/CN_003"
+        },
+        {
+            "id": "char_476_blkngt_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Is that Lee guy here too? He got me when I was careless, and now I want a rematch. No, no need to worry, none of the trinkets he carries interest me. You go tell him as much.",
+                "jp": "あのリーって奴も、ここにいるの？前にうっかりしてやられたから、リベンジしたいんだけど。ああ安心して、私はあいつが身につけてるチャラチャラしたものには興味ないから。あいつにも伝えといて。",
+                "kr": "그 리라는 녀석도, 여기 있는 거야? 전에 이상한 수법에 걸린 바람에 져버려서, 다시 겨뤄보고 싶은데. 아아 안심해, 나는 그 녀석 몸에 걸친 짤랑거리는 것은 관심 없다고 전해 둬.",
+                "cn": "那个叫老鲤的，也在你们这里？上回不小心着了他的道，我想再跟他比划比划。放心，你告诉他，我对他身上那些叮呤咣啷的玩意都没兴趣。"
+            },
+            "asset": "char_476_blkngt/CN_004"
+        },
+        {
+            "id": "char_476_blkngt_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Infected? Only city people would call themselves that. In the endless and cutthroat wilds, whether beast or human, survival means you can call yourself the strongest.",
+                "jp": "感染者？そんな風に名乗るのは都会の人だけでしょ。どこまでも広がる危険な荒野じゃ、野獣だって人間だって、生き残った奴はみんな強者って呼ばれるんだ。",
+                "kr": "감염자? 그런 식으로 이름 붙이는 건 도시 사람 뿐이잖아. 끝도 없는 위험이 도사리는 황야에선 야수든 사람이든, 살아남는 놈은 모두 강자라고 불려.",
+                "cn": "感染者？只有城市里的人才会这么称呼自己。在那片广阔又危险的荒原上，无论是野兽还是我们，只要能活下来，就都是强者。"
+            },
+            "asset": "char_476_blkngt/CN_005"
+        },
+        {
+            "id": "char_476_blkngt_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "There's plenty who think the wilds are a frightening place, but to me, they were my home. I made a mistake once. It torn my family apart,  and these slumberfoots are the only ones left to roam with me. I'll never make a mistake like it again.",
+                "jp": "荒野は怖いところって思ってる人は多いけど、私にとっては帰る家なんだ。だけどたった一度の失敗で、私はその家を失って、眠獣たちと共に流浪の旅に出ることを余儀なくされた。同じような過ちは、もう二度と犯さないよ。",
+                "kr": "황야가 무서운 곳이라고 생각하는 사람은 많지만, 내게는 돌아갈 집이야. 하지만 단 한 번의 실패로 나는 그 집을 잃었고, 어쩔 수 없이 슬럼버풋들과 함께 유랑의 길을 떠나게 됐지. 같은 실수는, 이제 두번 다시 저지르지 않아.",
+                "cn": "荒原对很多人来说是很恐怖的地方，对我来说却是家。我犯过一个错误，家也因此散了，只剩下眠兽们陪着我流浪。同样的错误，我绝不会犯第二次。"
+            },
+            "asset": "char_476_blkngt/CN_006"
+        },
+        {
+            "id": "char_476_blkngt_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "The name Blacknight was given to me by a Yan storyteller. I always used to do my work at night, pulling the floor from under them when those merchants were drowsy. Me and my slumberfoots would take away their wealth, and 'devour' their dreams too.",
+                "jp": "ブラックナイトって名前は、炎国の講談師がつけてくれたんだ。昔はいつも夜中に行動して、商隊がぐっすり寝てる間に不意打ちを仕掛けてたから。私と眠獣たちであいつらを追い剥ぎして、夢まで「喰らって」やってたんだ。",
+                "kr": "블랙 나이트란 이름은, 염국의 이야기꾼이 지어준 거야. 옛날엔 모두 한밤중에 행동해서, 상인들이 푹 잠든 틈에 기습했으니까. 나도 슬럼버풋들로 녀석들을 털고, 꿈까지 '잡아먹어' 버렸지.",
+                "cn": "夜半这个名字，是一个炎国说书人给我起的。过去我们总在入夜后行动，趁商队的人昏昏欲睡，打他们一个措手不及。我和我的眠兽们，取走了他们的钱财，也“吃”掉了他们的梦。"
+            },
+            "asset": "char_476_blkngt/CN_007"
+        },
+        {
+            "id": "char_476_blkngt_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Don't act so nice to me... you never know when my crossbow will be aimed at your head. You don't believe I'm like that? Up to you, then. I've got no interest in dealing with a penniless good guy.",
+                "jp": "私に、そんな親切にしないで……いつ君の頭にこのクロスボウを突きつけるかわからないんだから。そういう人だとは思えない？思えないなら思えないでいいよ、こっちだって君みたいに貧乏なお人好しに付き合う趣味はないから。",
+                "kr": "내게, 그렇게 친절하게 굴지마…… 언제 네 머리에 이 크로스보우를 들이댈지 모르니까. 그럴 만한 사람이라고 생각 안 해? 아니라면 그걸로 됐어, 나도 너처럼 빈곤하고 선량한 사람과 어울리는 취미는 없으니까.",
+                "cn": "别对我这么好......指不定什么时候我的弩就会顶在你脑袋上。怎么，你不信我是这样的人？不信就不信吧，我是没什么兴趣对付你这种身上没钱的好人。"
+            },
+            "asset": "char_476_blkngt/CN_008"
+        },
+        {
+            "id": "char_476_blkngt_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "They called me their boss. So I protected them, gave them food and a place to rest. But now, for as long as I haven't beaten you, you're my boss. I'll protect you, and I'll follow your orders.",
+                "jp": "あいつらにボスって呼ばれたから、私はボスとしてあいつらを守って、食事や寝床も確保してあげてたんだ。だけど今は、君に勝たない限り私のボスは君だよ。命を守ってあげるのはもちろん、命令にだって従うから。",
+                "kr": "녀석들이 보스라 불러줬으니까, 나는 보스로서 녀석들을 지켜주고, 식사나 잠자리도 확보해 줬지. 그래도 지금은, 널 이기기 전까지 내 보스는 너야. 목숨을 지켜주는 건 물론, 명령에도 따를 거라고.",
+                "cn": "他们叫我一声老大，我就会保护他们，让他们有饭吃，有地方睡。而只要我一天没有赢过你，你就始终是我老大，我会护你性命，供你差遣。"
+            },
+            "asset": "char_476_blkngt/CN_009"
+        },
+        {
+            "id": "char_476_blkngt_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "...Fell asleep hugging Helmet? Light, bring a blanket over. Keep your movements low.",
+                "jp": "……メットを抱きながら寝ちゃったの？ライト、毛布取ってきて。物音立てないようにね。",
+                "kr": "……헬멧을 안고 잠든 거야? 라이트, 모포 가져다 줘. 소리 안 나게 조심하고.",
+                "cn": "......抱着小帽睡着了？阿灯，把毯子取过来，动静小一些。"
+            },
+            "asset": "char_476_blkngt/CN_010"
+        },
+        {
+            "id": "char_476_blkngt_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "You're the best tactician on Rhodes Island? I'm Blacknight, and excuse me but we're going to need a showdown. If I lose, you'll be my boss from then on, and I ask to be trained properly.",
+                "jp": "君がロドス最強の戦術家？私はブラックナイト、早速だけど対決してちょうだい。もしこっちが負けたら、君はその時点から私のボス。しっかり鍛えてもらうよ。",
+                "kr": "네가 로도스 아일랜드 최강의 전술가야? 나는 블랙 나이트, 갑작스럽지만 나와 대결해줘. 혹시 내가 진다면, 너는 그 시점부터 내 보스야. 그땐 책임지고 잘 가르쳐 줘.",
+                "cn": "你就是罗德岛上最强的战术家？我叫夜半，麻烦跟我较量一下。要是我输了的话，以后你就是我老大，要负责好好教我的。"
+            },
+            "asset": "char_476_blkngt/CN_011"
+        },
+        {
+            "id": "char_476_blkngt_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Mm, all memorized. Anything else?",
+                "jp": "うん、全部覚えた。まだ他にある？",
+                "kr": "응, 전부 기억했어. 다른 거 더 있어?",
+                "cn": "嗯，都记住了。还有别的吗？"
+            },
+            "asset": "char_476_blkngt/CN_012"
+        },
+        {
+            "id": "char_476_blkngt_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "You're not worried I'll take the bonus and run? I'm joking. For that matter, a badge like this won't fetch any real money anyway.",
+                "jp": "私が昇進祝いだけ受け取って消えるかもって思わないの？はぁ、冗談だよ。それに、こんなメダルなんてどう見ても大した金にならないでしょ。",
+                "kr": "내가 승진 축하만 받고 사라질 수도 있다고 생각 안 해? 하아, 농담이야. 게다가, 이런 메달 같은 건 아무리 봐도 별로 돈이 안 되잖아.",
+                "cn": "不怕我拿了赏钱就跑？开玩笑的。再说了，就你们这勋章，看起来也不值几个钱啊。"
+            },
+            "asset": "char_476_blkngt/CN_013"
+        },
+        {
+            "id": "char_476_blkngt_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Work and earn a living. I wonder if my parents lived a life like this in Rim Billiton? It's fine, but I'm not letting my crossbow rust.",
+                "jp": "働いて生計を立てる――私の両親も昔レム・ビリトンでそういう生活をしてたのかな？悪くないけど、私のクロスボウを錆びさせるわけにはいかないよ。",
+                "kr": "일해서 생계를 유지한다…… 내 부모님도 예전 림 빌리턴에서 그런 생활을 했던 걸까? 나쁘진 않지만, 내 크로스보우를 녹슬게 할 수는 없어.",
+                "cn": "干活拿钱，我爸妈过去在雷姆必拓过的也是这样的日子吧？挺好的，不过，我不会让我的弩生锈。"
+            },
+            "asset": "char_476_blkngt/CN_014"
+        },
+        {
+            "id": "char_476_blkngt_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Good timing. I need something to do.",
+                "jp": "ちょうどよかった、暇してるところだったから。",
+                "kr": "마침 잘됐네, 한가한 참이었거든.",
+                "cn": "刚好，我也不想闲着。"
+            },
+            "asset": "char_476_blkngt/CN_017"
+        },
+        {
+            "id": "char_476_blkngt_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "You want me leading? Then you'll want to watch how I do it.",
+                "jp": "私が引率？じゃあまぁ見といて。",
+                "kr": "내가 인솔하라고? 뭐 그러면 잘 봐 둬.",
+                "cn": "让我带队？那就等着看我的表现吧。"
+            },
+            "asset": "char_476_blkngt/CN_018"
+        },
+        {
+            "id": "char_476_blkngt_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Listen up, darlings. Once we're on the battlefield, you need to listen to the Doctor too.",
+                "jp": "いい、ちびっ子たち。戦場ではあんたたちもドクターに従うようにね。",
+                "kr": "좋아, 꼬맹이들. 전장에선 너희들도 박사를 따르도록 해.",
+                "cn": "听好了，小家伙们，待会上了战场，你们也要听博士的。"
+            },
+            "asset": "char_476_blkngt/CN_019"
+        },
+        {
+            "id": "char_476_blkngt_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "You want to run? Before you do, remember to leave your valuables behind.",
+                "jp": "逃げたい？じゃその前に金目の物は置いてってもらうよ。",
+                "kr": "도망치고 싶어? 그럼 그 전에 돈 되는 건 놔두고 가.",
+                "cn": "想跑吗？跑之前，记得把值钱的东西留下。"
+            },
+            "asset": "char_476_blkngt/CN_020"
+        },
+        {
+            "id": "char_476_blkngt_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "I'm right by you. Don't make a sound.",
+                "jp": "すぐ側にいる、声を出さないで。",
+                "kr": "바로 옆에 있어, 소리 내지 마.",
+                "cn": "我在你旁边，别出声。"
+            },
+            "asset": "char_476_blkngt/CN_021"
+        },
+        {
+            "id": "char_476_blkngt_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Understood. Just as planned, then.",
+                "jp": "了解、じゃあ計画通りに。",
+                "kr": "확인, 그럼 계획대로 가자.",
+                "cn": "明白，按之前说好的来。"
+            },
+            "asset": "char_476_blkngt/CN_022"
+        },
+        {
+            "id": "char_476_blkngt_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "I'm heading that way.",
+                "jp": "あっちに行く。",
+                "kr": "저쪽으로 갈게.",
+                "cn": "我去那边。"
+            },
+            "asset": "char_476_blkngt/CN_023"
+        },
+        {
+            "id": "char_476_blkngt_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Let's clear this path up first.",
+                "jp": "まずはこっちを片付ける。",
+                "kr": "우선 여기를 정리하겠어.",
+                "cn": "先解决这一路。"
+            },
+            "asset": "char_476_blkngt/CN_024"
+        },
+        {
+            "id": "char_476_blkngt_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Helmet, lure the enemy left!",
+                "jp": "メット、敵を左に引きつけて！",
+                "kr": "헬멧, 적을 왼쪽으로 유인해!",
+                "cn": "小帽，左路诱敌！"
+            },
+            "asset": "char_476_blkngt/CN_025"
+        },
+        {
+            "id": "char_476_blkngt_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Light, harass the closest enemy!",
+                "jp": "ライト、付近の敵を妨害！",
+                "kr": "라이트, 근처의 적을 방해해!",
+                "cn": "阿灯，骚扰最近的敌人！"
+            },
+            "asset": "char_476_blkngt/CN_026"
+        },
+        {
+            "id": "char_476_blkngt_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Cart, set mines in the bushes!",
+                "jp": "カート、草むらに地雷を仕掛けて！",
+                "kr": "카트, 풀숲에 지뢰를 설치해!",
+                "cn": "车车，把雷送到草丛里去！"
+            },
+            "asset": "char_476_blkngt/CN_027"
+        },
+        {
+            "id": "char_476_blkngt_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Drill, open a hole!",
+                "jp": "ドリル、穴を開けて！",
+                "kr": "드릴, 구멍을 뚫어!",
+                "cn": "钻头，开洞！"
+            },
+            "asset": "char_476_blkngt/CN_028"
+        },
+        {
+            "id": "char_476_blkngt_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "How'd me and the darlings do? No compliments for us?",
+                "jp": "私とちびっ子たちの戦いっぷりはどうだった？褒めてくれないの？",
+                "kr": "나랑 꼬맹이들이 싸우는 모습은 어땠어? 칭찬 안 해 주는 거야?",
+                "cn": "我和小家伙们干得怎么样？你就不想表扬我一下吗？"
+            },
+            "asset": "char_476_blkngt/CN_029"
+        },
+        {
+            "id": "char_476_blkngt_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Not bad! I've learned some more moves.",
+                "jp": "いいね、また勉強になったよ。",
+                "kr": "좋네, 또 공부가 됐어.",
+                "cn": "不错嘛，我又学到了几招。"
+            },
+            "asset": "char_476_blkngt/CN_030"
+        },
+        {
+            "id": "char_476_blkngt_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "I'll take a few to the next crossing. We need to get this cleaned up.",
+                "jp": "仲間を連れて次の路地まで追ってみる、綺麗に片付けなきゃ。",
+                "kr": "동료를 데리고 다음 골목까지 쫓아가 볼게, 깨끗하게 청소해야 하니까.",
+                "cn": "我带人去下一个路口，争取收拾干净。"
+            },
+            "asset": "char_476_blkngt/CN_031"
+        },
+        {
+            "id": "char_476_blkngt_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "No, you have to get out of here! Do as I said, or the enemy will have you trapped. We'll retreat for now and think of a better way to fight back.",
+                "jp": "まずい、君はここから離れて！いいから、このままだと敵の思うつぼだよ。リベンジは戻ってもっといい対策を考えてから……",
+                "kr": "안돼, 넌 여기서 물러나! 내 말을 들어, 이대로라면 적이 의도한 대로야, 돌아가서 더 좋은 대책을 생각하고 다시 오자……",
+                "cn": "不行，你得离开这里！听我的，别中敌人圈套，我们回去想个更好的对策再来......"
+            },
+            "asset": "char_476_blkngt/CN_032"
+        },
+        {
+            "id": "char_476_blkngt_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Roaming under the night sky is just one hundred times better than getting shut in here.",
+                "jp": "部屋にこもってるより、やっぱり夜空の下にいる方が開放感があるね。",
+                "kr": "방에 틀어박혀 있는 것 보다, 역시 밤하늘 아래 있는 편이 개방감이 있네.",
+                "cn": "憋在屋子里，果然不如头顶夜空来得自在啊。"
+            },
+            "asset": "char_476_blkngt/CN_033"
+        },
+        {
+            "id": "char_476_blkngt_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Who was that?!",
+                "jp": "誰だっ！？",
+                "kr": "누구야!?",
+                "cn": "谁？！"
+            },
+            "asset": "char_476_blkngt/CN_034"
+        },
+        {
+            "id": "char_476_blkngt_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Tired? You can have Helmet to hug for a little bit, then. At least until tomorrow.",
+                "jp": "疲れた？じゃあメットを貸してあげるから抱いて寝るといいよ。明日の朝には返してね。",
+                "kr": "지쳤어? 그럼 헬멧을 빌려줄 테니까 안고 자도 돼. 내일 아침에 돌려줘.",
+                "cn": "累了？小帽借你抱一会儿，明天早上记得还给我。"
+            },
+            "asset": "char_476_blkngt/CN_036"
+        },
+        {
+            "id": "char_476_blkngt_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_476_blkngt/CN_037"
+        },
+        {
+            "id": "char_476_blkngt_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Hey, Helmet, no running about in the corridor! Don't think I can't see you just because you're hiding in someone's arms... oh, fine, I'll let you off, for {@nickname}'s sake.",
+                "jp": "ちょっとメット、通路で暴れ回らないで！人の懐に潜り込んで隠れるなんて甘い……って、まあいいや、ドクターの顔に免じて許してあげる。",
+                "kr": "잠깐만 헬멧, 통로에서 날뛰지 마! 사람 품에 몰래 들어가서 숨다니 어설프…… 아니, 뭐 됐어, 박사의 얼굴을 봐서 용서해 줄게.",
+                "cn": "喂，小帽，不准在走廊上乱跑！别以为蹿进别人怀里我就会看不见......好吧，看在{@nickname}的分上，饶你一次。"
+            },
+            "asset": "char_476_blkngt/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Norma Butikofer",
+            "global": "Norma Butikofer"
+        },
+        "cn": {
+            "native": "琦雯",
+            "global": "Ellen Wang"
+        },
+        "jp": {
+            "native": "野田順子",
+            "global": "Junko Noda"
+        },
+        "kr": {
+            "native": "윤아영",
+            "global": "Yun A-yeong"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

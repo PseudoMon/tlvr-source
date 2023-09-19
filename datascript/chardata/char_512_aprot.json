@@ -1,0 +1,586 @@
+{
+    "charid": "char_512_aprot",
+    "nameid": "aprot",
+    "names": {
+        "en": "Shalem",
+        "jp": "シャレム",
+        "kr": "샬렘",
+        "cn": "暮落"
+    },
+    "voices": [
+        {
+            "id": "char_512_aprot_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Doctor, might these be the books and documents you were looking for? No, no need to thank me, I'm simply glad to be of help. How could I have known what you needed? Heheh. That would be... a secret.",
+                "jp": "ドクター、お探しの本と資料はこちらでしょうか？いえ、お礼には及びませんよ。お役に立てたなら幸いです。どうして必要なものが分かったのかですって？ふふ、それはね……秘密です。",
+                "kr": "박사님, 찾으셨던 책과 자료는 이건가요? 아뇨, 감사하실 것까진 없어요. 도움이 되었다면 다행입니다. 어떻게 필요한 게 뭔지 알았냐고요? 후훗, 그건…… 비밀이에요.",
+                "cn": "博士，您在找的书和资料，是不是这些？不用客气，能帮上忙就好。您问我是怎么知道的？呵呵，这是......秘密。"
+            },
+            "asset": "char_512_aprot/CN_001"
+        },
+        {
+            "id": "char_512_aprot_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Phantom and I certainly have our similarities, in what we've been through. Though now he pursues the truth, while I only wish to be as far away from it as possible.",
+                "jp": "私とミスター・ファントムの経歴には、確かに近いところがあります。あの方はいまだ真実を探し求めているのですが、私はというと、ただ遠く離れたい、それだけです。",
+                "kr": "저와 미스터 팬텀의 경력엔, 확실히 밀접한 부분이 있죠. 그분은 아직도 진실을 찾고 계시지만, 저는… 그저, 멀리 떠나고 싶을 뿐입니다.",
+                "cn": "我和那位傀影先生，确实有一些相似的经历。他尚在追寻，而我，只想远远离开。"
+            },
+            "asset": "char_512_aprot/CN_002"
+        },
+        {
+            "id": "char_512_aprot_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Doctor. About that lady who came to borrow your books... is her codename Mint? She seems to be curious about a great many things. Too much curiosity usually invites disaster, you see, and I have my reservations.",
+                "jp": "ドクター、あなたに本を借りに来たあのレディ、たしかコードネームはミントと言いましたか？どうやら彼女は様々な物事に興味をお持ちのようですが、過ぎた好奇心は災いを招くもので、私は少々、気がかりですね。",
+                "kr": "박사님께 책을 빌리러 온 그 레이디, 분명 코드네임이… 민트라고 했었죠? 아무래도 그 분은 다양한 일에 흥미가 있으신 듯한데, 지나친 호기심은 화를 부르기 마련이다보니… 전 조금, 걱정이 되는군요.",
+                "cn": "博士，那个来找您借书的女孩，代号是叫做薄绿吗？她似乎对许多事情都感到好奇，过度的好奇心往往会招致灾难，我对此有些担忧。"
+            },
+            "asset": "char_512_aprot/CN_003"
+        },
+        {
+            "id": "char_512_aprot_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "It is quite the relief you were with us last mission, Doctor. I find myself dazed by the sight of you when you command. As if something crosses past the curtain of night and the stirring stars, leading your way...",
+                "jp": "今回の任務にあなたが居てくださって良かった、ドクター。あなたが指揮されているお姿を見ていると、時々心が奪われそうになります。まるで夜の帷と煌めく星たちの彼方から、何かがあなたを導いているような……",
+                "kr": "이번 임무에 박사님이 있어 주셔서 다행입니다. 당신이 지휘하는 모습을 보면, 가끔 마음을 빼앗길 것만 같은 기분이 들더군요. 마치 밤의 장막과 반짝이는 별들 저편에서, 무언가가 당신을… 이끌어주고 있는 것 같은……",
+                "cn": "这次作战多亏了有您在，博士。您在指挥时的模样，有时会令我感到有些恍然。就好像是跨越天幕与群星，有什么在指引您一样......"
+            },
+            "asset": "char_512_aprot/CN_004"
+        },
+        {
+            "id": "char_512_aprot_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Dance, music. Both soothe the soul, twin arts calling on us to focus and follow. But at times, too great a fixation can be our undoing. Such stories were already far too plenty where I formerly lived. Even I... am no exception to the rule.",
+                "jp": "舞踏と音楽はどちらも人を快さに沈め、心の臓を捉えて離さないものです。がしかし、過ぎた執着は滅びを招きます。私がかつて暮らしていた場所では、そういった物語があまりにも多く上演されていました。私自身ですらも……例外ではありませんでした。",
+                "kr": "춤과 음악은 사람을 즐거움에 빠져들게 하고, 심장을 사로잡고 놓아주지 않죠. 하지만 지나친 집착은 파멸을 부르기 마련입니다. 제가 살던 곳에선, 그런 이야기가 너무나도 많이 공연되었었죠. 저 조차도…… 예외는 아니었습니다.",
+                "cn": "舞蹈和音乐，都是令人心神愉快、叫人潜心追求的艺术。但有时，过度的追求也将招致毁灭。在我过去生活过的那个地方，这样的事情已经发生了太多次，包括我自己......也不例外。"
+            },
+            "asset": "char_512_aprot/CN_005"
+        },
+        {
+            "id": "char_512_aprot_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Doctor? What are you standing there for...? I see... you overheard me talking with someone...? Cease your jests, please. There is no one here... but me.",
+                "jp": "ドクター？なぜそこに立っているのです……？はい……私が誰かと話しているのが聞こえた、ですか？……冗談はおやめください、ここには私以外、誰もいませんよ。",
+                "kr": "박사님? 왜 거기에 서 계신 거죠……? 네…… 제가 누군가와 이야기 하는 걸 들으셨다… 는 건가요? ……농담은 그만하시죠, 여기엔 저 말곤 아무도 없는걸요.",
+                "cn": "博士？您站在那里做什么......？嗯......您是说，听到我在与什么人交谈？......请不要开这样的玩笑，这里除了我之外，并没有其他什么人。"
+            },
+            "asset": "char_512_aprot/CN_006"
+        },
+        {
+            "id": "char_512_aprot_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "You wish to learn of the Crimson Troupe's affairs? Of course, I know of them all. But take caution, Doctor, for should you stray like they from the proper path... or come near to too many of them, you may be taken hold of. And that is not, whatsoever, desirable.",
+                "jp": "クリムゾン劇団のことが聞きたい、ですか？ええ、それなりには知っています。しかしドクター、どうか気をつけてください。ああいった道を逸れたもの……あるいは人に近づき過ぎると、あなた自身も影響を受けてしまいます。それは望ましいことではありません。",
+                "kr": "크림슨 극단에 대해서 듣고 싶으신… 건가요? 네, 어느 정도는 알고 있습니다. 하지만 박사님, 부디 조심해주세요. 그런, 정상적인 길을 벗어난 것…… 혹은, 그런 사람을 너무 가까이하면 당신에게도 영향을 미치고 말 겁니다. 그건, 바람직한 일은 아니죠.",
+                "cn": "您想知道关于猩红剧团的事？当然，我对此有所了解。但是，请您小心，博士，要是与那样偏离正轨的事物......或是人接触过多，您自身或许也会受其影响。这并非好事。"
+            },
+            "asset": "char_512_aprot/CN_007"
+        },
+        {
+            "id": "char_512_aprot_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Here you are once more. Please, sit. Be reassured that I will not drive you out. So, what's the matter this time? Could Hibiscus have made another healthy meal? Or is Sideroca bound to whisk you away for training again?",
+                "jp": "……まあ。またいらしたのですね。どうぞおかけください、追い出したりなど無粋なことはいたしませんよ。それで、今日はどういう……？またミス・ハイビスカスが手製の健康食を持ってきたのですか？それとも、ミス・シデロカにジムへ連行されそうになったのですか？",
+                "kr": "아…… 또 오셨군요. 어서 오세요. 품위없게 내쫓거나 하진 않을 테니까요. 그래서… 오늘은 무슨 일로 오셨는지요? 또 미스 히비스커스가 직접 만든 건강식을 들고 왔었나요? 아니면, 미스 시데로카가 헬스장에 끌고 가려 했나요?",
+                "cn": "......您又来了。请坐下吧，放心，我不会将您赶出去的。那么，这次是怎么了？是芙蓉小姐又做了健康餐，还是铸铁小姐又要抓您去健身了？"
+            },
+            "asset": "char_512_aprot/CN_008"
+        },
+        {
+            "id": "char_512_aprot_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "My stories are hackneyed, bereft of novelty. Likely, not as engaging as you imagine. You would like to hear them nonetheless? Very well. Then I will tell you tales... but in exchange, Doctor, would you grant me a request?",
+                "jp": "私の話はありふれたもので、目新しさはありませんから、ドクターの想像ほど面白くないかもしれません。それでも是非知りたいと仰ると？いいでしょう、ではお話いたしますが……その代わりに、ドクター、ひとつ願いを聞いていただけますか？",
+                "kr": "제 이야기는 흔하고 진부하다보니, 박사님께서 상상하시는 것 만큼  재미있진 않을지도 모릅니다만… 그런데도 꼭 알고 싶으시다고요? 좋습니다, 정 그러시다면 말씀드리겠지만…… 그 대신 박사님, 제가 부탁을 하나 해도 될까요?",
+                "cn": "我的故事老套、没有新意，或许并不像您想的那样动听。即便如此，您也坚持想要知道？好吧，那么我就说给您听......作为交换，博士，您愿意答应我的一个请求吗？"
+            },
+            "asset": "char_512_aprot/CN_009"
+        },
+        {
+            "id": "char_512_aprot_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Doctor. Doctor? Beg pardon, I know I should not disturb your rest... but it is far too still here for me to fully be at ease.",
+                "jp": "ドクター、ドクター？申し訳ありません、お休みのところを邪魔してはいけないとは知っているのですが……ただここは静かすぎて、少し不安になっていただけです。",
+                "kr": "박사님, 박사님? 죄송합니다. 휴식을 방해해선 안 된다는 건 알고 있었습니다만…… 여기는 너무 조용해서, 그냥… 조금 불안했었습니다.",
+                "cn": "博士，博士？抱歉，我知道不该打扰您休息......只是，刚刚这里太安静了，稍微有些令人不安。"
+            },
+            "asset": "char_512_aprot/CN_010"
+        },
+        {
+            "id": "char_512_aprot_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "I envisaged the scene in which we would formally meet, Doctor, and this very moment brings it to life. Operator Shalem, pleased to make your acquaintance.",
+                "jp": "我々が正式に対面する時の風景を思い描いたことがあります、ドクター。まさに今この瞬間のような画でした。シャレム、あなたにお会いできて光栄です。",
+                "kr": "우리가 정식으로 만났을 때의 모습을 떠올렸던 적이 있습니다, 박사님. 바로 지금 이 순간 같은 모습이었죠. 샬렘이라고 합니다.  당신을 만나 뵙게 되어 영광입니다.",
+                "cn": "我设想过我们正式见面时的场景，博士，恰似现在。干员暮落，很高兴见到您。"
+            },
+            "asset": "char_512_aprot/CN_011"
+        },
+        {
+            "id": "char_512_aprot_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "At times, I do feel the battlefield and the stage resemble one another, in ways.",
+                "jp": "戦場と舞台はいくらか似ているように思う時がありますね。",
+                "kr": "전장과 무대는, 어느 정도 비슷하다 느껴질 때가 있습니다.",
+                "cn": "有时我会觉得，战场和舞台有些相似。"
+            },
+            "asset": "char_512_aprot/CN_012"
+        },
+        {
+            "id": "char_512_aprot_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Promotion, did you say...? Ah, I'm sorry, it just startled me. Thank you for your acknowledgment, Doctor.",
+                "jp": "昇進、ですか？……あ、すみません、少し驚いただけです。私を認めてくださってありがとうございます、ドクター。",
+                "kr": "승진…인가요? …아… 죄송합니다. 조금 놀라서요. 저를 인정해 주셔서 감사합니다, 박사님.",
+                "cn": "您是说晋升？......啊，抱歉，我只是有些吃惊。感谢您的认可，博士。"
+            },
+            "asset": "char_512_aprot/CN_013"
+        },
+        {
+            "id": "char_512_aprot_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Unlike he, still wreathed in his struggle, I had long since fled the past, never to concern me again... yes, Doctor, so I once hoped.",
+                "jp": "いまだ葛藤の中でもがいているあの方と違って、私はとっくに過去から逃げ出しており、二度とそれらに関わることはない……ええ、ドクター、私はかつて、そう願っていたのです。",
+                "kr": "아직도 갈등 속에 몸부림치는 그분과는 달리, 저는 오래 전에 과거로 부터 도망쳤고, 두 번 다시 그것에 관여할 일은 없을 겁니다…… 네, 박사님, 저는 예전부터, 줄곧 그렇게 되길 바랐었답니다.",
+                "cn": "和那个还在挣扎的人不同，我早已自那些过去中逃离，再不会有任何关联......是的，博士，我曾希望是这样。"
+            },
+            "asset": "char_512_aprot/CN_014"
+        },
+        {
+            "id": "char_512_aprot_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Worry not, coordinating with others is a strength of mine. So long as nothing untoward happens...",
+                "jp": "ご安心ください、人に合わせるのは得意です。予想外のことが起きなければ、ですが……",
+                "kr": "안심하세요, 남들에게 맞춰 주는 건 잘 합니다. 예상치 못했던 일이 안 생긴다면… 의 이야기긴 하지만요.",
+                "cn": "请您放心，我很擅长配合他人。只要，不出什么意外......"
+            },
+            "asset": "char_512_aprot/CN_017"
+        },
+        {
+            "id": "char_512_aprot_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "I may lack for power, but I will do all that I can.",
+                "jp": "微力ではありますが、力を尽くします。",
+                "kr": "미력하나마, 최선을 다하겠습니다.",
+                "cn": "虽然力量有限，但我会竭我所能。"
+            },
+            "asset": "char_512_aprot/CN_018"
+        },
+        {
+            "id": "char_512_aprot_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Everyone, follow me, please.",
+                "jp": "みなさま、私の後に続いてください。",
+                "kr": "여러분, 절 따라와 주십시오.",
+                "cn": "各位，请跟上我。"
+            },
+            "asset": "char_512_aprot/CN_019"
+        },
+        {
+            "id": "char_512_aprot_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "See those on the stage... knowing nothing of their fates.",
+                "jp": "板の上の人々をご覧ください……自分たちの行く末について何一つ知らずにいるようです。",
+                "kr": "무대 위에 있는 사람들을 보십시오…… 마치 자신의 앞날에 대해 아무것도 모르는 것 같군요.",
+                "cn": "看那些在台上的人......尚对自己的将来一无所知。"
+            },
+            "asset": "char_512_aprot/CN_020"
+        },
+        {
+            "id": "char_512_aprot_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Fret not.",
+                "jp": "ご安心を。",
+                "kr": "안심하세요.",
+                "cn": "请别担心。"
+            },
+            "asset": "char_512_aprot/CN_021"
+        },
+        {
+            "id": "char_512_aprot_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Their future is clear to see.",
+                "jp": "彼らの未来ははっきりと見えていますよ。",
+                "kr": "저들의 미래가… 선명하게 보이는군요.",
+                "cn": "他们的未来已清晰可见。"
+            },
+            "asset": "char_512_aprot/CN_022"
+        },
+        {
+            "id": "char_512_aprot_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "I hope we may resolve this peacefully.",
+                "jp": "平和的に解決できるといいですね。",
+                "kr": "평화적으로 해결되면 좋겠네요.",
+                "cn": "希望能够平稳地解决。"
+            },
+            "asset": "char_512_aprot/CN_023"
+        },
+        {
+            "id": "char_512_aprot_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "To kill and to be killed, to do battle. Far too many plays are penned on these themes.",
+                "jp": "殺し合い、紛争、こういったテーマの演目はあまりにも多すぎますね。",
+                "kr": "살육, 분쟁… 이런 주제의 공연은 너무 많아서 말이죠.",
+                "cn": "厮杀、争斗，这样主题的剧目实在是太多了。"
+            },
+            "asset": "char_512_aprot/CN_024"
+        },
+        {
+            "id": "char_512_aprot_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "And may this end as swiftly as can be.",
+                "jp": "一刻も早く終わりますように。",
+                "kr": "조금이라도 더 빨리 끝나기를.",
+                "cn": "请尽快结束吧。"
+            },
+            "asset": "char_512_aprot/CN_025"
+        },
+        {
+            "id": "char_512_aprot_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "The path you all now walk bears not one hope.",
+                "jp": "あなた方が今歩んでいる道には、希望など存在しません。",
+                "kr": "당신들이 지금 가는 길엔, 희망 따위는 존재하지 않는답니다.",
+                "cn": "各位正踏上一条没有希望的路。"
+            },
+            "asset": "char_512_aprot/CN_026"
+        },
+        {
+            "id": "char_512_aprot_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Surely, your skulls... would mesmerize to see?",
+                "jp": "あなた方の頭蓋骨も……きっと美しいのでしょうねぇ。",
+                "kr": "당신의 두개골도…… 분명 아름답겠죠.",
+                "cn": "你们的头颅......一定也很美吧？"
+            },
+            "asset": "char_512_aprot/CN_027"
+        },
+        {
+            "id": "char_512_aprot_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Hahahaha... haha, hahahahahahaha...",
+                "jp": "はは……はは、はははは……",
+                "kr": "하하…… 하하, 하하하하……",
+                "cn": "哈......哈哈，哈哈哈哈......"
+            },
+            "asset": "char_512_aprot/CN_028"
+        },
+        {
+            "id": "char_512_aprot_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "This is far beyond my wildest dreams. The best outcome, Doctor.",
+                "jp": "これは私の予想をはるかに超える、最上の結果です、ドクター。",
+                "kr": "이건… 제 예상을 아득히 뛰어넘는, 최상의 결과로군요, 박사님.",
+                "cn": "这是我未曾料想过的，最好的结果，博士。"
+            },
+            "asset": "char_512_aprot/CN_029"
+        },
+        {
+            "id": "char_512_aprot_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "It is done. Be at ease, for no danger remains. Well done, Doctor.",
+                "jp": "……終わりました。もう危険はありませんよ、ご安心ください。お疲れ様です、ドクター。",
+                "kr": "……끝났습니다. 이젠 위험하지 않으니 안심하세요. 수고하셨습니다, 박사님.",
+                "cn": "......结束了。已经没有危险了，请放心吧。辛苦了，博士。"
+            },
+            "asset": "char_512_aprot/CN_030"
+        },
+        {
+            "id": "char_512_aprot_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Our mission is complete, Doctor. As for those who escaped... they have their own fates to meet.",
+                "jp": "我々の任務は果たされました、ドクター。逃れていった者たちは……彼らの命運があるのでしょう。",
+                "kr": "우리의 임무는 끝났습니다, 박사님. 도망친 자들에겐…… 저들의 운명이 있겠지요.",
+                "cn": "我们的任务完成了，博士。至于那些离开的人......他们会有属于自己的命运。"
+            },
+            "asset": "char_512_aprot/CN_031"
+        },
+        {
+            "id": "char_512_aprot_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Haste not; ponder leisurely. We still have opportunities.",
+                "jp": "焦らずにゆっくりと考えましょう。我々にまだチャンスはありますからね。",
+                "kr": "서두르지 말고, 천천히 생각하죠. 우리에겐 아직 기회가 있으니까요.",
+                "cn": "别着急，慢慢考虑，我们还有机会。"
+            },
+            "asset": "char_512_aprot/CN_032"
+        },
+        {
+            "id": "char_512_aprot_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Shall we rest here a while? How about some music?",
+                "jp": "こちらで少し休まれてはいかがですか。音楽は？",
+                "kr": "여기서 잠시 쉬는 게 어떨까요? 음악이라도 좀 들으시겠습니까?",
+                "cn": "休息一下吧，要听音乐吗？"
+            },
+            "asset": "char_512_aprot/CN_033"
+        },
+        {
+            "id": "char_512_aprot_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Ah... I'm sorry, I was lost in thought.",
+                "jp": "……あ……すみません、考え事をしていました。",
+                "kr": "아…… 죄송합니다. 잠깐 뭘 좀 생각하느라… ",
+                "cn": "......啊......抱歉，我走神了。"
+            },
+            "asset": "char_512_aprot/CN_034"
+        },
+        {
+            "id": "char_512_aprot_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Doctor, could you hold my coat for me briefly? I'll be done in a moment. My thanks.",
+                "jp": "ドクター、外套を少し持っていてくださいませんか？すぐに済みますから。ありがとうございます。",
+                "kr": "박사님, 외투 좀 들어 주실 수 있을까요? 금방 끝나니까요. 감사합니다.",
+                "cn": "可以帮我拿一下外套吗，博士？一会儿就好，谢谢您。"
+            },
+            "asset": "char_512_aprot/CN_036"
+        },
+        {
+            "id": "char_512_aprot_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_512_aprot/CN_037"
+        },
+        {
+            "id": "char_512_aprot_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Welcome, Doctor. Indeed, I knew you would surely come.",
+                "jp": "今年も、もう終わりですね。ふう……時間が過ぎるのはいつだって早くて、私もあれから一体どれくらい経ったのか、忘れる時があります。",
+                "kr": "어서오세요, 박사님. 네, 알고 있었습니다. 당신이 꼭 오실 거란 걸요.",
+                "cn": "您来了，博士。当然，我知道您一定会来。"
+            },
+            "asset": "char_512_aprot/CN_042"
+        }
+    ],
+    "actors": {
+        "cn": {
+            "native": "郑武文杰",
+            "global": "Javen Zheng"
+        },
+        "jp": {
+            "native": "立花慎之介",
+            "global": "Shinnosuke Tachibana"
+        }
+    },
+    "availability": [
+        "cn",
+        "jp"
+    ]
+}

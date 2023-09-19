@@ -1,0 +1,596 @@
+{
+    "charid": "char_179_cgbird",
+    "nameid": "cgbird",
+    "names": {
+        "en": "Nightingale",
+        "jp": "ナイチンゲール",
+        "kr": "나이팅게일",
+        "cn": "夜莺"
+    },
+    "voices": [
+        {
+            "id": "char_179_cgbird_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "I apologize... It's my job to attend to you, but my body simply won't move like I want it to...",
+                "jp": "申し訳ございません、お世話をするのが私の仕事なのに、身体がうまく動かせなくて……。",
+                "kr": "대단히 죄송합니다. 도와드리는 게 제 일인데, 몸이 제대로 움직이지 않아서…… ",
+                "cn": "非常抱歉，明明我的工作是照看您，但我的身体没法很好地活动......"
+            },
+            "asset": "char_179_cgbird/CN_001"
+        },
+        {
+            "id": "char_179_cgbird_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "I once breathed in some kind of Originium toxin... it damaged my memory and the nervous system in my lower extremities... at least that is what Dr. Kal'tsit told me. So I often wonder... what was my life like before then?",
+                "jp": "源石の毒素を吸入したせいで、記憶と下半身の神経に障害が出ていると、ケルシー先生がおっしゃっていました……一体、過去の私に何があったのでしょうか？",
+                "kr": "오리지늄의 독소를 흡입한 탓에, 기억과 하반신의 신경에 장애가 생겨버렸다고, 켈시 선생님께서 말씀해주셨습니다… 대체, 과거의 제겐 무슨 일이 있었던 걸까요?",
+                "cn": "因为我吸入过某种源石毒素，所以记忆和下肢神经系统都受到了损害——凯尔希医生是这样告诉我的......过去的我，到底经历过什么呢？"
+            },
+            "asset": "char_179_cgbird/CN_002"
+        },
+        {
+            "id": "char_179_cgbird_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "This little blue bird often comes over and chats with me. Sometimes, I dream about turning into a bird myself... flying free in the skies, without a care...",
+                "jp": "この青い小鳥さん、よくおしゃべりしに来てくれます……ときどき、この子の姿になった自分が、自由に空を飛ぶ夢を見るんです……。",
+                "kr": "이 파란 새는 자주 이야기를 나누러 와줘요… 이따금, 제가 이 아이가 되어, 자유롭게 하늘을 나는 꿈을 꾸곤 한답니다…… ",
+                "cn": "这只蓝色的小鸟，时常飞来和我聊天......有时候，我会梦见自己变成这孩子的模样，在天空和大地上自由自在地飞翔......"
+            },
+            "asset": "char_179_cgbird/CN_003"
+        },
+        {
+            "id": "char_179_cgbird_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Once upon a time, I was imprisoned in an empty room. I only saw another human being when they needed my healing...",
+                "jp": "昔、誰もいない部屋に、私を閉じ込める人たちがいました。ほかの人に会えるのは、怪我をした方の治療のときだけ……。",
+                "kr": "예전에, 아무도 없는 방에 저를 가둔 사람이 있었습니다. 다른 사람과 만나는 건 다친 사람을 치료할 때뿐이었죠… ",
+                "cn": "曾经，有人把我紧闭在空房间中。只有在治疗别人时，我才能见到其他人......"
+            },
+            "asset": "char_179_cgbird/CN_004"
+        },
+        {
+            "id": "char_179_cgbird_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "With this staff in my hand, I can heal as many as I will. Is this... really an ability I was born with?",
+                "jp": "この杖を握れば、思うままに怪我を治療できるんです……これも、私が本来持っていた力でしょうか？",
+                "kr": "이 지팡이를 잡으면, 생각하는 대로 상처를 치료할 수 있게 되죠…… 이것도, 제가 원래 갖고 있던 힘일까요?",
+                "cn": "只要握住这把法杖，我就能随心所欲地治愈伤痛......这，难道也是我原本就具备的能力吗？"
+            },
+            "asset": "char_179_cgbird/CN_005"
+        },
+        {
+            "id": "char_179_cgbird_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Shining told me that the sins we carry... the guilt of starting the war, as devils... will one day catch up to us and we will have to face judgment. Those people who imprisoned me said the same thing. But...",
+                "jp": "シャイニングさんは、私たち魔族が起こした戦争の、その罪を償うべきだと教えてくれました……私を閉じ込めた人たちも同じことを言ってました……なのに……。",
+                "kr": "샤이닝 씨는, 전쟁을 일으킨 저희 살카즈가 죄값을 치러야 한다고 그랬어요… 저를 가둔 사람들도 같은 얘길… 했었는데… ",
+                "cn": "闪灵小姐告诉我，我们所背负着的，魔族挑起战争的罪恶，终有一天要被偿还。那些囚禁我的人也说过同样的话......可是......"
+            },
+            "asset": "char_179_cgbird/CN_006"
+        },
+        {
+            "id": "char_179_cgbird_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Amiya... I feel a sense of deja vu whenever I see her. Perhaps we met sometime in the past?",
+                "jp": "アーミヤさん……彼女を見ると、懐かしい感じがします……どこかで……会ったことがあるのでしょうか？",
+                "kr": "아미야 씨… 그분을 보면, 친숙한 느낌이 들어요… 어디선가… 만난 적이 있었던 걸까요?",
+                "cn": "阿米娅小姐......每次看到她，我都会产生一种怀念的感觉......我曾在哪里，见过她？"
+            },
+            "asset": "char_179_cgbird/CN_007"
+        },
+        {
+            "id": "char_179_cgbird_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "The memories I have are mere fragments. My people... Originium... my mission, the rebellion, the war... but tell me, why are you in one of my memories too?",
+                "jp": "私には、断片的な記憶しかありません……同胞、源石、使命、反抗、戦争……どうして……その中にあなたの姿が見えるのでしょうか？",
+                "kr": "제게는 단편적인 기억밖에 없어요… 동포, 오리지늄, 사명, 반항, 전쟁… 어째서… 그 안에 당신의 모습이 보이는 걸까요?",
+                "cn": "对我来说，记忆只是一些零散的碎片而已......同胞、源石、使命、反抗、战争......为什么，其中一枚碎片里，有您的身影呢？"
+            },
+            "asset": "char_179_cgbird/CN_008"
+        },
+        {
+            "id": "char_179_cgbird_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "How did I end up like this? Why must I suffer all that I do? Doctor, do you have the answers?",
+                "jp": "私がなぜこのようになったのか。なぜこのようにならなくてはいけなかったのか。ドクター、その答えを……探してくれますか？",
+                "kr": "제가 어째서 이렇게 됐는지, 어째서 이렇게 되어야만 했는지… 박사님, 그 답을… 찾아주시겠어요?",
+                "cn": "为什么我会是如今这副身姿呢？为什么我要去承受这迷乱的一切呢？博士，答案，是否就在您的手中呢？"
+            },
+            "asset": "char_179_cgbird/CN_009"
+        },
+        {
+            "id": "char_179_cgbird_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Do you too dream of flying freely through the skies like a bird?",
+                "jp": "……あなたも、自由な鳥になる夢を見ていますか？",
+                "kr": "……당신도, 자유로운 새가 되는 꿈을 꾸시나요?",
+                "cn": "......于睡梦中，您是否，也会成为一只自由的飞鸟呢？"
+            },
+            "asset": "char_179_cgbird/CN_010"
+        },
+        {
+            "id": "char_179_cgbird_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Liz... that's my real name. Everything else is just cloudy, indistinct memories...",
+                "jp": "リズ……それが私の本当の名前です。ほかのことについては、よく覚えていません……。",
+                "kr": "리즈… 그게 제 진짜 이름이에요. 이거 말고 다른 건 잘 기억나지 않아요… ",
+                "cn": "丽兹，这是我真正的名字。除此之外的事情，我都不记得了......"
+            },
+            "asset": "char_179_cgbird/CN_011"
+        },
+        {
+            "id": "char_179_cgbird_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Why is there a need for me to grow stronger?",
+                "jp": "どうして、私の力を強くする必要があるのでしょうか？",
+                "kr": "어째서, 제 힘을 강하게 해야 할 필요가 있는 거죠?",
+                "cn": "为什么，要壮大我的力量呢。"
+            },
+            "asset": "char_179_cgbird/CN_012"
+        },
+        {
+            "id": "char_179_cgbird_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "A promotion? I see. It sounds like something to rejoice over. But... I apologize, I don't feel any joy within...",
+                "jp": "昇進、ですか？わかりました……これはきっと喜ぶべきことなのでしょうね。ですが……申し訳ございません、喜びの感情が、全く湧いてきません……。",
+                "kr": "승진, 인가요? 알겠습니다… 이건 분명 기뻐해야 하는 일이겠죠. 그렇지만… 정말 죄송해요. 기쁨이란 감정이 전혀 생겨나지 않아요… ",
+                "cn": "晋升吗？我知道了，这一定是值得高兴的事吧。只是......非常抱歉，我完全没法体会，这种喜悦的感情......"
+            },
+            "asset": "char_179_cgbird/CN_013"
+        },
+        {
+            "id": "char_179_cgbird_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Thank you for personally informing me of my promotion, Doctor. But... to me, it doesn't matter as much as the story of the world outside that this little bird is telling me right now.",
+                "jp": "ドクター自ら昇進のお知らせに来ていただき、ありがとうございます……。ですが、今の私にとって一番大事なのは、この小鳥から聞ける外のお話です……。",
+                "kr": "박사님께서 직접 승진 소식을 알려주셔서, 대단히 감사드립니다… 하지만, 지금의 제게 있어 가장 중요한 건, 이 아이에게 전해 듣는 바깥 이야기랍니다… ",
+                "cn": "谢谢博士亲自通知我晋升的事，只是......对于现在的我来说最重要的，是这只小鸟所诉说的外面的故事......"
+            },
+            "asset": "char_179_cgbird/CN_014"
+        },
+        {
+            "id": "char_179_cgbird_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Is this the rendezvous point?",
+                "jp": "ここが集合地点ですか。",
+                "kr": "여기가 집합 장소인가요.",
+                "cn": "这里就是集合地点吗？"
+            },
+            "asset": "char_179_cgbird/CN_017"
+        },
+        {
+            "id": "char_179_cgbird_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "I shall do anything you command me to.",
+                "jp": "あなたの命令とあらば、何があっても従いましょう。",
+                "kr": "당신의 명령이라면, 뭐든지 따르겠습니다.",
+                "cn": "如果这是您的命令，那么我一定会服从。"
+            },
+            "asset": "char_179_cgbird/CN_018"
+        },
+        {
+            "id": "char_179_cgbird_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "I need only do as the manual said, yes?",
+                "jp": "マニュアル通りにすればよいのでしょう？",
+                "kr": "매뉴얼 대로하면 되는 거죠?",
+                "cn": "按照说明手册操作就可以了吧？"
+            },
+            "asset": "char_179_cgbird/CN_019"
+        },
+        {
+            "id": "char_179_cgbird_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "The battlefield... a place where lives are taken...",
+                "jp": "戦場は……命を奪いあう場所……。",
+                "kr": "전장은…… 목숨을 서로 빼앗는 장소…… ",
+                "cn": "战场是......夺走生命的地方......"
+            },
+            "asset": "char_179_cgbird/CN_020"
+        },
+        {
+            "id": "char_179_cgbird_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Doctor...",
+                "jp": "ドクター。",
+                "kr": "박사님.",
+                "cn": "博士。"
+            },
+            "asset": "char_179_cgbird/CN_021"
+        },
+        {
+            "id": "char_179_cgbird_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Who will you choose?",
+                "jp": "誰のことを選ぶのでしょうか？",
+                "kr": "누구를 선택하시겠습니까?",
+                "cn": "您要选择谁呢？"
+            },
+            "asset": "char_179_cgbird/CN_022"
+        },
+        {
+            "id": "char_179_cgbird_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "This is... the battlefield...",
+                "jp": "ここが……戦場……。",
+                "kr": "여기가…… 전장…… ",
+                "cn": "这就是......战场......"
+            },
+            "asset": "char_179_cgbird/CN_023"
+        },
+        {
+            "id": "char_179_cgbird_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "It's not my wish to take lives.",
+                "jp": "命を奪うようなことはいたしません。",
+                "kr": "목숨을 빼앗는 그런 일은 하지 않을 거예요.",
+                "cn": "掠夺性命，非我之愿。"
+            },
+            "asset": "char_179_cgbird/CN_024"
+        },
+        {
+            "id": "char_179_cgbird_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "My power is all yours now.",
+                "jp": "この力、どうか受け止めてください。",
+                "kr": "이 힘, 부디 받아주세요.",
+                "cn": "请将我的力量，尽数收下。"
+            },
+            "asset": "char_179_cgbird/CN_025"
+        },
+        {
+            "id": "char_179_cgbird_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Take flight.",
+                "jp": "飛べ。",
+                "kr": "날으렴.",
+                "cn": "飞翔吧。"
+            },
+            "asset": "char_179_cgbird/CN_026"
+        },
+        {
+            "id": "char_179_cgbird_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "You will not come to harm.",
+                "jp": "怪我はさせません。",
+                "kr": "다치게 놔두진 않겠어요.",
+                "cn": "你不会受伤。"
+            },
+            "asset": "char_179_cgbird/CN_027"
+        },
+        {
+            "id": "char_179_cgbird_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "I shall protect you.",
+                "jp": "私がお守りします。",
+                "kr": "제가 지켜 드릴게요.",
+                "cn": "我将保护你。"
+            },
+            "asset": "char_179_cgbird/CN_028"
+        },
+        {
+            "id": "char_179_cgbird_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "No matter how difficult the battle gets, I will always…",
+                "jp": "どんな戦いでも、私は……。",
+                "kr": "어떤 전투라도, 저는… ",
+                "cn": "无论是怎样的战斗，我都......"
+            },
+            "asset": "char_179_cgbird/CN_029"
+        },
+        {
+            "id": "char_179_cgbird_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "To fight to the very end... that's our destiny.",
+                "jp": "命尽きるまで戦う、それが私たちの宿命でしょう。",
+                "kr": "목숨이 다할 때까지 싸우는 것, 그게 우리들의 숙명이겠죠.",
+                "cn": "战斗，直至生命的尽头......这就是我们的宿命。"
+            },
+            "asset": "char_179_cgbird/CN_030"
+        },
+        {
+            "id": "char_179_cgbird_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Perhaps they've already escaped this cage called fate...",
+                "jp": "彼らは運命の鳥籠から、逃れたのかもしれません……。",
+                "kr": "저자들은 운명의 새장에서 도망친 걸지도 몰라요… ",
+                "cn": "或许，他们已经逃离了命运的牢笼......"
+            },
+            "asset": "char_179_cgbird/CN_031"
+        },
+        {
+            "id": "char_179_cgbird_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Is this... how despair feels?",
+                "jp": "これが……絶望という感情……。",
+                "kr": "이것이…… 절망이라는 감정…… ",
+                "cn": "这就是......绝望吗......"
+            },
+            "asset": "char_179_cgbird/CN_032"
+        },
+        {
+            "id": "char_179_cgbird_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Rooms... They too are a type of cage.",
+                "jp": "部屋……それも籠のひとつ。",
+                "kr": "방…… 그것도 하나의 새장이죠.",
+                "cn": "房间......也是一种牢笼。"
+            },
+            "asset": "char_179_cgbird/CN_033"
+        },
+        {
+            "id": "char_179_cgbird_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Yes? What is it?",
+                "jp": "はい、なんでしょう。",
+                "kr": "네, 무슨 일이시죠?",
+                "cn": "嗯，怎么了。"
+            },
+            "asset": "char_179_cgbird/CN_034"
+        },
+        {
+            "id": "char_179_cgbird_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Doctor... is this... what is known as 'intimacy'?",
+                "jp": "ドクター、今行っているのは……スキンシップと呼ばれるものでしょうか？",
+                "kr": "박사님, 지금 하고 계신 건…… 스킨십이라 부르는 건가요?",
+                "cn": "博士，您现在在做的，就是所谓的亲密接触吗？"
+            },
+            "asset": "char_179_cgbird/CN_036"
+        },
+        {
+            "id": "char_179_cgbird_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_179_cgbird/CN_037"
+        },
+        {
+            "id": "char_179_cgbird_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Good day, Doctor.",
+                "jp": "ごきげんよう、ドクター。",
+                "kr": "안녕하세요, 박사님.",
+                "cn": "您好，博士。"
+            },
+            "asset": "char_179_cgbird/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Sophie Colquhoun",
+            "global": "Sophie Colquhoun"
+        },
+        "cn": {
+            "native": "时音",
+            "global": "Claire"
+        },
+        "jp": {
+            "native": "石川由依",
+            "global": "Yui Ishikawa"
+        },
+        "kr": {
+            "native": "이현진",
+            "global": "Lee Hyun-jin"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

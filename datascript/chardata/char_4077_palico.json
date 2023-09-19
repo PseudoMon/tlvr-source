@@ -1,0 +1,510 @@
+{
+    "charid": "char_4077_palico",
+    "nameid": "palico",
+    "names": {
+        "en": "Terra Research Commission",
+        "jp": "テラ大陸調査団",
+        "kr": "테라 대륙 조사단",
+        "cn": "泰拉大陆调查团"
+    },
+    "voices": [
+        {
+            "id": "char_4077_palico_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Remember, you two, this purr-ticular assistant role calls for maximum vigilance. If any meownsters come knocking, we throw the Doctor on the cart and go!",
+                "jp": "二匹とも、ちゃんと覚えておきニャさい。ドクターの助手を務めるからには、気を引き締めて挑むんですよ。モンスターが急に乱入してきたら、すぐにこの人を台車へ放り込んで逃げますからニャ！",
+                "kr": "둘 다, 잘 기억해 두세요냥. 박사의 어시스턴트를 맡은 이상 정신 바짝 차리는 겁니다냥. 몬스터가 갑자기 달려오면, 바로 박사를 수레에 던져넣고 도망치는 겁니다냥!",
+                "cn": "你们两个记好了喵，既然当了这个人的助理，就要打起精神来。要是有怪物突然冲进来，我们就赶紧把他扔到车上推走喵！"
+            },
+            "asset": "char_4077_palico/CN_001"
+        },
+        {
+            "id": "char_4077_palico_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Curious about our latest research? We're gnawing on 'An Investigation into Biological Discrepancies Between Us Felynes with a Y and Terran Felines with an I.' We were halfway done, but then we found out you have Aslans too, so it's back to the scratching post for us... You Terrans are meowder with your subspecies!",
+                "jp": "最近の研究課題ですか？「アイルーとテラのフェリーンの種族差に関する研究」ニャんですが、半分くらい進めたところで、急にアスランという種族がいることが判明して、何もかもが振り出しに……テラの人種というのは、本当に厄介ですニャ！",
+                "kr": "요즘 진행하고 있는 연구 과제 말입니까냥? 《아이루와 테라의 필라인 종족 차이에 관한 연구》입니다냥. 절반 정도 진행했는데 갑자기 아슬란이라는 종족도 있다는 사실을 발견해서 모든 연구가 원점으로 돌아왔습니다냥…… 테라인 종족은 정말 머리 아파요냥!",
+                "cn": "最近研究的课题喵？《艾露与泰拉菲林的种族差异研究》，明明已经进行到一半了，但是突然又发现了名为阿斯兰的种族，前功尽弃了......泰拉人的种族真伤脑筋喵！"
+            },
+            "asset": "char_4077_palico/CN_002"
+        },
+        {
+            "id": "char_4077_palico_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Your Meowjesty, never forget to eat your fill before you go on a hunt. Dive into a fight with full stamina, and you might end up doing things you didn't even think you could... mrrreow!",
+                "jp": "ドクター殿、狩りに出る前は必ず、お腹いっぱい食べておくようにニャ。元気モリモリで戦いに挑めば、想像以上の力を発揮できるかもしれんから……ニャ！",
+                "kr": "박사, 사냥을 떠나기 전엔 반드시 배를 든든하게 채워야 한다냥. 에너지를 가득 충전하고 싸우면, 상상 이상의 힘을 낼 수 있을지도 모른다……냥!",
+                "cn": "阁下，出发狩猎前记得务必填饱肚子喵。精力满满地去战斗，说不定能爆发出超乎想象的能量......喵！"
+            },
+            "asset": "char_4077_palico/CN_003"
+        },
+        {
+            "id": "char_4077_palico_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "*dink* *dink* No Machalite Ore left...  Could substitute with Rock Spider stones and gloompincer shells... Don't know without trying. In you go.",
+                "jp": "えいっ、えいっ。マカライトがもうニャい……イワグモの背中の石と、鉗獣の殻も……全部入れて試してみようかニャ。",
+                "kr": "이얍, 이얍, 마카라이트 광석이 다 떨어졌다냥…… 대신 바위 거미의 등에 있는 돌이랑 글룸핀서의 껍데기를…… 일단 전부 넣어보자냥.",
+                "cn": "敲，敲，没有燕雀石了喵......作为替代，岩蛛背上的石头，钳兽的壳......都加进去试试喵。"
+            },
+            "asset": "char_4077_palico/CN_004"
+        },
+        {
+            "id": "char_4077_palico_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "The mountains never fail to remind me of an old bud, built just as tall and strong. He broke his weapon once and quit the Palico life after, but if memory serves, he then went with the Research Commission to take up cheffing in the New World... You never know what turn your next life'll take.",
+                "jp": "ワシはマウンテン殿を見るたび、ある旧友のことを思い出す。あやつはまさに山のような大きく逞しい体格の持ち主だったが、武器を折ったことをきっかけにオトモをやめてしまってニャ。しかしその後、調査団と共に新大陸へ赴き、その地で料理長になったそうな……ネコ生とはわからぬものだニャあ。",
+                "kr": "마운틴을 볼 때마다 옛 친구가 떠오른다냥. 그 녀석도 크고 건장한 체격이었는데, 어느 날 무기가 부러진 걸 계기로 동반자를 그만두었다냥. 하지만 그 후에 조사단이랑 함께 신대륙으로 가서 주방장이 됐다고 한다냥…… 역시 세상일은 모르는 법이다냥.",
+                "cn": "每次见到山的时候，老夫总会想起一位故人喵。他拥有同样高大健壮的身材，自某一次武器折断后就决定不做随从了喵，但后来他似乎跟随调查团去新大陆当了料理长......真是世事难料喵。"
+            },
+            "asset": "char_4077_palico/CN_007"
+        },
+        {
+            "id": "char_4077_palico_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Say, Doctor, I'll let you in on a secret trick, friend to... maybe furless friend. If you ever get hurt in battle and you need to chug a Potion, set off a Barrel Bomb behind you while you do. Why? It'll stop any baddies getting the pounce on you, that's why!",
+                "jp": "ドクター。友情の証として、あなたに秘密のテクニックを教えてあげますニャ。戦闘中に傷ついた時は、回復薬を飲む前に、自分の後ろに小タル爆弾を置くといいですよ。ニャぜかって？そうすれば、敵の奇襲を無傷で避けられるからですニャ！",
+                "kr": "박사님, 우정의 의미로 비밀 팁을 하나 전수해 드리겠습니다냥. 전투 중 부상을 입었을 때는, 회복약을 먹기 전에 등 뒤에 소형 폭탄 하나를 설치해 두는 게 좋습니다냥. 이유 말입니까냥? 그래야 적의 기습을 무사히 피할 수 있기 때문이죠냥!",
+                "cn": "博士喵，看在我们交情的分上，就告诉你一个秘诀好了。要是在作战中受伤了，喝药的时候记得在身后点燃一个爆弹喵。你问为什么？这样就可以毫发无损地躲开敌人的偷袭了喵！"
+            },
+            "asset": "char_4077_palico/CN_008"
+        },
+        {
+            "id": "char_4077_palico_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Terra has new materials. Lots of ores. Very lovely... Maybe I can make a weapon just like that Great Sword in the ice cave back home! For mew, Doctor!",
+                "jp": "テラで見つけた新素材、新しい石がいっぱいで気に入ったニャ……これなら、もしかすると故郷の洞窟にあった大剣みたいなすごい武器が作れるかもしれニャい！出来上がったらドクターにあげるのニャ！",
+                "kr": "테라에서 발견한 신소재 중엔 새로운 광석들이 잔뜩 있어서 좋다냥…… 이 소재들이라면, 고향 동굴에 있던 그 대검 같은 대단한 무기를 만들 수 있을지도 모른다냥! 다 만들면 박사한테도 주겠다냥!",
+                "cn": "泰拉的新素材喵，许多新的石头，喜欢喵......也许能做出和家乡冰窟里的那把大剑一样的武器喵！送给博士喵！"
+            },
+            "asset": "char_4077_palico/CN_009"
+        },
+        {
+            "id": "char_4077_palico_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Meow, meow, lots of... fascinating things in Doctor's room. Want to move them elsewhere, while Doctor's asleep... Smithy! Stay your paw!",
+                "jp": "ニャニャ。ドクターのお部屋には……変わったものがたくさんだニャ。ドクターが寝てる間に持って……/こら、やめニャさい下っ端くん！",
+                "kr": "냐아앙. 박사의 방에는…… 신기한 물건들이 엄청 많다냥. 박사가 졸고 있는 이 틈에 가져가면…… 잠깐, 대장장이님! 손 떼세요냥!",
+                "cn": "喵喵，博士的房间里......好多奇怪的东西喵，趁博士在睡觉，想要搬走......小工匠！快住手喵！"
+            },
+            "asset": "char_4077_palico/CN_010"
+        },
+        {
+            "id": "char_4077_palico_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "On Your Meowjesty's summons, we the Felyne Special Corps... cream of the crop of the Terra Research Commission's Furst Fleet, have arrived! Meowch! Get your hind paws off my head!",
+                "jp": "ドクター殿の召集に応え、我らアイルー特別行動小隊……/超一流の第一期テラ大陸調査団が馳せ参じました！ニャ～ッ、ちょっと！わたしの頭を踏まニャいで！",
+                "kr": "박사의 부름에 따라, 아이루 특별 작전…… 제일 우수한 우리 1기 테라 대륙 조사단이 왔습니다냥! 냐아! 머리 밟지 마세요냥!",
+                "cn": "听从阁下的召唤喵，艾露猫特别行动小组......最优秀的第一期泰拉大陆调查团来也！喵！不要踩我的脑袋喵！"
+            },
+            "asset": "char_4077_palico/CN_011"
+        },
+        {
+            "id": "char_4077_palico_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "What are you doing inside this box, Smithy? Im... Impawssible! It's all moving! How is it done?",
+                "jp": "どうしてこの箱に下っ端くんが入ってるんですかニャ？あれ……今動いたニャ！？一体どうニャってるんでしょうか？",
+                "kr": "대장장이님, 어째서 이 상자 안에 있는 겁니까냥? 어라……움직였다냥! 어떻게 한 거죠냥?",
+                "cn": "小工匠，你怎么在这盒子里面了？动......竟然动起来了！怎么做到的喵？"
+            },
+            "asset": "char_4077_palico/CN_012"
+        },
+        {
+            "id": "char_4077_palico_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Ready for departure!",
+                "jp": "アイルー小隊！準備万端だニャ！",
+                "kr": "전원 준비 완료입니다냥!",
+                "cn": "我们都整装待发了喵！"
+            },
+            "asset": "char_4077_palico/CN_017"
+        },
+        {
+            "id": "char_4077_palico_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "A simple task! I'm a purr-ime leader, after all!",
+                "jp": "当然、隊長こそわたしの天職ですからニャ！",
+                "kr": "놀랍지도 않습니다냥, 지휘는 제 천직입니다냥!",
+                "cn": "意料之中，我最擅长的就是指挥了喵！"
+            },
+            "asset": "char_4077_palico/CN_018"
+        },
+        {
+            "id": "char_4077_palico_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Let's go, 'Hunters!' Put some pep in your step!",
+                "jp": "ハンターさんたち！元気に行こうぞニャ！",
+                "kr": "'헌터' 여러분! 힘차게 출발이다냥!",
+                "cn": "“猎人”们喵！充满活力地出发喵！"
+            },
+            "asset": "char_4077_palico/CN_019"
+        },
+        {
+            "id": "char_4077_palico_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Purr-ey spotted. Watch out, Your Meowjesty.",
+                "jp": "獲物を見つけたニャ。ドクター殿、気をつけるんニャぞ。",
+                "kr": "사냥감을 발견했다냥. 조심해라냥, 박사.",
+                "cn": "发现猎物了，阁下请小心喵。"
+            },
+            "asset": "char_4077_palico/CN_020"
+        },
+        {
+            "id": "char_4077_palico_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "By your bidding, Your Meowjesty.",
+                "jp": "ドクター殿のご命令に従うニャ。",
+                "kr": "박사의 명령에 따르겠다냥.",
+                "cn": "听从阁下的派遣喵。"
+            },
+            "asset": "char_4077_palico/CN_021"
+        },
+        {
+            "id": "char_4077_palico_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Meow! Right here!",
+                "jp": "ニャ！ここにいるニャ！",
+                "kr": "냐앙! 여기 있다냥!",
+                "cn": "喵！在喵！"
+            },
+            "asset": "char_4077_palico/CN_022"
+        },
+        {
+            "id": "char_4077_palico_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "You two! Now!",
+                "jp": "行きニャさい、ユラ！",
+                "kr": "둘 다, 출격입니다냥!",
+                "cn": "你们两个！快上喵！"
+            },
+            "asset": "char_4077_palico/CN_023"
+        },
+        {
+            "id": "char_4077_palico_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "You're purr-essing too hard!",
+                "jp": "重すぎですニャ！",
+                "kr": "너무 무거워요냥!",
+                "cn": "太重了喵！"
+            },
+            "asset": "char_4077_palico/CN_024"
+        },
+        {
+            "id": "char_4077_palico_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Aim fur that weak spot!",
+                "jp": "弱点はあそこですニャ！",
+                "kr": "약점은 저기입니다냥!",
+                "cn": "弱点在那里喵！"
+            },
+            "asset": "char_4077_palico/CN_025"
+        },
+        {
+            "id": "char_4077_palico_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "They're wide open!",
+                "jp": "隙アリですニャ！",
+                "kr": "허점이 보입니다냥!",
+                "cn": "露出破绽了喵！"
+            },
+            "asset": "char_4077_palico/CN_026"
+        },
+        {
+            "id": "char_4077_palico_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Taste the flaming soul of a hunter!",
+                "jp": "燃え上がれ、狩猟魂！だニャ！",
+                "kr": "불꽃처럼 타오르는 사냥혼!",
+                "cn": "燃烧的狩猎之魂！"
+            },
+            "asset": "char_4077_palico/CN_027"
+        },
+        {
+            "id": "char_4077_palico_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "The purr-fect slinger technique!",
+                "jp": "最強の投擲技を食らうが良いニャ！",
+                "kr": "최강의 투척술을 보십시오냥!",
+                "cn": "最强的投掷技喵！"
+            },
+            "asset": "char_4077_palico/CN_028"
+        },
+        {
+            "id": "char_4077_palico_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Are... Are we out of danger meow? Can I open my eyes yet?",
+                "jp": "敵は……撃退できましたかニャ？もう目を開けてもいいでしょうか？",
+                "kr": "위기는…… 끝난 건가요냥? 이제 눈 떠도 되는 겁니까냥?",
+                "cn": "危机......危机解除了喵？我能睁开眼睛了吗？"
+            },
+            "asset": "char_4077_palico/CN_029"
+        },
+        {
+            "id": "char_4077_palico_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Absolutely stellar command, Your Meowjesty. That's what I call great gains... mrreow.",
+                "jp": "素晴らしい指揮だったニャ、ドクター殿。ワシも大層勉強になった……ニャ。",
+                "kr": "훌륭한 지휘였다냥. 많이 배웠다……냥.",
+                "cn": "阁下的指挥太精彩了，真是让老夫受益匪浅......喵。"
+            },
+            "asset": "char_4077_palico/CN_030"
+        },
+        {
+            "id": "char_4077_palico_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Equipment everywhere... grabbing, all of it. Grabbing and going.",
+                "jp": "装備が散らかってる……ぜ、全部拾ってこうニャ。",
+                "kr": "소재가 잔뜩이다냥…… 전부 주워가겠다냥.",
+                "cn": "一地的装备......捡，都捡走喵。"
+            },
+            "asset": "char_4077_palico/CN_031"
+        },
+        {
+            "id": "char_4077_palico_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Good gravy, they're catching up! Run, run like your tail's on fire!",
+                "jp": "わわ、追いつかれますよ！急いでくださいニャ！",
+                "kr": "냐앙, 따라잡히겠어요냥! 어서 도망치세요냥!",
+                "cn": "啊，要追上来了，快跑喵！"
+            },
+            "asset": "char_4077_palico/CN_032"
+        },
+        {
+            "id": "char_4077_palico_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Hauling, hauling... Smithy, why do you drag that meowntain of materials with you everywhere you go?",
+                "jp": "よいしょ、よいしょ……/下っ端くん、あなたどうしてどこへ行くにも大荷物なんですかニャ？",
+                "kr": "영차, 영차…… 대장장이님, 당신은 왜 어딜 가나 짐이 그렇게 많은 겁니까냥?",
+                "cn": "拖，拖喵......小工匠，你怎么去哪里都带着一大堆材料喵？"
+            },
+            "asset": "char_4077_palico/CN_033"
+        },
+        {
+            "id": "char_4077_palico_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Mrrow~",
+                "jp": "ニャ～。",
+                "kr": "냐아~",
+                "cn": "喵~"
+            },
+            "asset": "char_4077_palico/CN_034"
+        },
+        {
+            "id": "char_4077_palico_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "What <i>are</i> you doing? Mrrow... right there, please... Hey, save a pet or two for me!",
+                "jp": "一体ニャにを……ニャ、ニャ～……ここも撫でてくださいニャ……/おお、ワシも撫でてもらいたいニャあ！",
+                "kr": "뭐, 뭐 하는 겁니까냥? 냐아…… 여기도 만져주세요냥…… 오오, 나도 만져달라냥!",
+                "cn": "你在干什么喵？喵......请再摸摸这里......啊，老夫也要被摸喵！"
+            },
+            "asset": "char_4077_palico/CN_036"
+        },
+        {
+            "id": "char_4077_palico_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4077_palico/CN_037"
+        },
+        {
+            "id": "char_4077_palico_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Ah, Doctor! Fine day to mew!",
+                "jp": "ニャ、ドクター！こんにちはニャ！",
+                "kr": "박사냥! 안녕이다냥!",
+                "cn": "喵，是博士！你好喵！"
+            },
+            "asset": "char_4077_palico/CN_042"
+        }
+    ],
+    "actors": {},
+    "availability": []
+}

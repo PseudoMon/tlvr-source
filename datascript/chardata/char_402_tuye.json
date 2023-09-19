@@ -1,0 +1,591 @@
+{
+    "charid": "char_402_tuye",
+    "nameid": "tuye",
+    "names": {
+        "en": "Tuye",
+        "jp": "トゥイエ",
+        "kr": "투예",
+        "cn": "图耶"
+    },
+    "voices": [
+        {
+            "id": "char_402_tuye_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "You want me on work this boring thing...? Fine, fine. You're interesting enough to me. I'll go along with you.",
+                "jp": "こんなくだらない仕事をさせるつもりか？……はいはい、お前はそこそこ面白いし、付き合ってやる。",
+                "kr": "이런 시시한 일을 시킬 생각인가? 그래그래…… 너는 그럭저럭 재미도 있으니, 어울려 주지.",
+                "cn": "让我干这么无聊的事？......好吧，看在你这个人还算有趣的份上，陪你一次。"
+            },
+            "asset": "char_402_tuye/CN_001"
+        },
+        {
+            "id": "char_402_tuye_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "If you want something moved, don't ask me. I'm not that brand of Forte.",
+                "jp": "荷物の運搬は私に頼るな。フォルテだからって得意なわけじゃない。",
+                "kr": "짐 옮기는 건 내게 기대지 마. 포르테라고 해서 다 잘하는 건 아니니까.",
+                "cn": "要搬东西的话别找我。我才不是那种丰蹄。"
+            },
+            "asset": "char_402_tuye/CN_002"
+        },
+        {
+            "id": "char_402_tuye_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "This is some insanely precise instrument... huh? What, familiar sight? Huhhh. Oh, right. If that Mayer person comes 'round, don't tell her I'm here.",
+                "jp": "びっくりするほど精密な計器だな……え、これに見覚えがある？へー。そうだ、あのメイヤーとかいうのが来ても、私がここにいるって言うなよ。",
+                "kr": "깜짝 놀랄 정도로 정밀한 계기네…… 뭐? 이걸 본 적이 있다고? 헤에~ 아 그리고, 그 메이어인지 뭔지가 와도, 내가 여기 있단 얘긴 하지 마.",
+                "cn": "这仪器的构造可真精密......看起来眼熟？对了，如果那个叫梅尔的找过来，别告诉她我在这里。"
+            },
+            "asset": "char_402_tuye/CN_003"
+        },
+        {
+            "id": "char_402_tuye_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Never seen the equipment on my back before? Right, come over, put your hand here... keh-ka-hahahahahah! Look at your dumb face! You wanna know what just came out? It's water! And what's mixed in? Heh. You don't get to know.",
+                "jp": "私が背負（しょ）ってる装置が珍しい？じゃあちょっと来い、手をここに……アハハハハ！その驚いた顔は傑作だな！噴き出したのは何かって？ただの水だ。混ざってるものは……フッ、秘密だ。",
+                "kr": "내가 메고 있는 장치가 신기하다고? 그럼 잠깐 와 봐, 손 여기 놔봐…… 아하하하하! 얘 놀라는 표정 좀 봐! 아주 걸작인데?! 뿜어져 나온 게 뭐냐고? 그냥 물이야! 섞여 있는 건…… 훗, 비밀이고.",
+                "cn": "没见过我背后这种装置？过来，把手放在这里......哈哈哈哈！看你那狼狈的样子！你问喷出来的是什么？就是水咯。至于水之外还加了什么东西，嘁，不告诉你。"
+            },
+            "asset": "char_402_tuye/CN_004"
+        },
+        {
+            "id": "char_402_tuye_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "My interest in helping others is zip. But higher efficiency is good for everybody.",
+                "jp": "人助けなんか興味ないが、効率アップはみんなのためになる。",
+                "kr": "사람 돕는 일에는 관심 없지만, 효율이 올라가는 건 모두에게 도움이 되지.",
+                "cn": "我对帮助别人不感兴趣。但效率的提升对所有人来说都是好事。"
+            },
+            "asset": "char_402_tuye/CN_005"
+        },
+        {
+            "id": "char_402_tuye_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Battles finish up faster now. Good to know, I guess.",
+                "jp": "さっさと戦いが片付くようになったのは、いいことかもな。",
+                "kr": "전투가 빨리 끝나게 된 건 잘된 일일지도 모르지.",
+                "cn": "战斗结束得更快了，倒是个好消息。"
+            },
+            "asset": "char_402_tuye/CN_006"
+        },
+        {
+            "id": "char_402_tuye_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Cake? Soft and squishy—not my speed. But. Mmp, mmnm... the umeboshi on top's not bad, sure.",
+                "jp": "ケーキ？ふわふわしててくだらない。けど……上の梅干しはまあまあいけるな。",
+                "kr": "케이크? 폭신폭신해서 재미없어. 근데…… 위에 있는 매실장아찌는 꽤 괜찮네.",
+                "cn": "蛋糕？软绵绵，没意思。唔......上面这颗盐渍梅果味道还不错。"
+            },
+            "asset": "char_402_tuye/CN_007"
+        },
+        {
+            "id": "char_402_tuye_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "No rain in the ship? Wow. Like I don't know that? Now try and predict how it goes down out there. Next time there's a storm, just try it, get a little closer. Bet you won't stop thanking me then.",
+                "jp": "艦内じゃ雨は降らない？当然知ってるが、外じゃそうとも限らない。嵐が来たら近づいてみろ、きっと私のこれに感謝することになる。",
+                "kr": "함 내에는 비가 안 온다고? 당연히 알고 있지만, 밖에서는 그렇지도 않아. 폭풍이 오면 가까이 가봐, 분명 내 이것에 감사하게 될 테니까.",
+                "cn": "船上没雨，废话，我当然知道。可外面就不一定了。啧，等风暴到来的时候，记得靠近点，你会感谢我手里拿着它的。"
+            },
+            "asset": "char_402_tuye/CN_008"
+        },
+        {
+            "id": "char_402_tuye_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Oi. How does a day trip in the desert sound? I'll take you. I mean, anywhere else is fine too. As long as we have my multifunction jetpack, following the scent of the wind... heh. You must be dumb happy, having a guide as stellar as me.",
+                "jp": "おい、砂漠に日帰り旅行するのはどうだ？連れてってやるから。他の場所でもいいけど。とにかくこの多機能噴射バッグを持って、風の匂いに任せて行けば……フンッ、私みたいに優秀なガイドがいて、お前も幸せだな。",
+                "kr": "어이, 사막으로 당일치기 여행은 어때? 데려가 줄 테니까. 음…… 다른 장소도 상관없긴 한데, 아무튼 이 다기능 분사 가방을 가지고 바람 냄새를 따라가면…… 흥, 나같이 우수한 가이드가 있어서, 너는 참 행복하겠구나.",
+                "cn": "喂，想不想去沙漠一日游？我带你。去别的地方也可以。只要带上我的多功能喷气背包，跟着风的味道走......啧啧，像我这么优秀的向导，你赚翻了。"
+            },
+            "asset": "char_402_tuye/CN_009"
+        },
+        {
+            "id": "char_402_tuye_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "You out cold? Then let me just try this. Harder flow, greater spray area... And you get no right to complain.",
+                "jp": "寝てるのか？じゃあこれを試させてもらう。噴射力と噴射面積を上げて……文句はナシだからな。",
+                "kr": "자고 있나? 그럼 이걸 시험해 보지. 분사력과 분사 면적을 올려서…… 불평하기 없기다?",
+                "cn": "没动静？那我可以试试这招了，水流更劲，喷洒面积更大......可不许抱怨哦。"
+            },
+            "asset": "char_402_tuye/CN_010"
+        },
+        {
+            "id": "char_402_tuye_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "You the Doctor? They all say you're the one here who knows more than the rest. You're gonna let me figure that out.",
+                "jp": "お前がドクターか？みんなドクターって奴が一番の物知りって言ってたから、それを確かめさせてもらおう。",
+                "kr": "네가 박사야? 다들 박사라는 녀석이 제일 박식하다고 하던데, 그걸 확인해 보도록 하지.",
+                "cn": "博士？他们说在这里你懂得比谁都多，那我可要好好看看。"
+            },
+            "asset": "char_402_tuye/CN_011"
+        },
+        {
+            "id": "char_402_tuye_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Combat's just like crossing the desert, where experience means nothing. Your only need is survival instincts.",
+                "jp": "戦いは砂漠を渡るのと同じで、経験なんて役に立たない。必要なのは生存本能だけだ。",
+                "kr": "싸움은 사막을 건너는 것과 같아서, 경험 같은 건 그다지 도움이 안 돼. 필요한 것은 생존본능뿐이야.",
+                "cn": "和穿越沙漠一样，战斗也用不上经验。只需要想活下去的本能。"
+            },
+            "asset": "char_402_tuye/CN_012"
+        },
+        {
+            "id": "char_402_tuye_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Doesn't this Elite Medal have any other kind of function? No fun there.",
+                "jp": "このエリートメダル、何の機能もついてないのか？つまらないな。",
+                "kr": "이 정예 메달, 아무런 기능도 없는 거야? 재미없네.",
+                "cn": "这晋升徽章也没什么别的功能了啊，没劲。"
+            },
+            "asset": "char_402_tuye/CN_013"
+        },
+        {
+            "id": "char_402_tuye_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Medical pro? It's a weird world where I get called that. Anyway, it's all about getting my jobs done, either way, right?",
+                "jp": "医療のプロ？まさか私がそんな風に呼ばれるようになるとは。とにかく、今まで通り任務をこなせばいいんだな。",
+                "kr": "의료의 프로? 설마 내가 그런 식으로 불리게 될 줄이야. 아무튼, 지금처럼 임무를 수행하면 되는 거지?",
+                "cn": "医疗方面的专家？真是没想到。总之都是确保任务完成是吧。"
+            },
+            "asset": "char_402_tuye/CN_014"
+        },
+        {
+            "id": "char_402_tuye_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Out for field work again? Fine, fine. You're helping me test new equipment when we get back.",
+                "jp": "また外仕事か？はいはい、終わったら新装備のテストに付き合ってもらおう。",
+                "kr": "또 외근이야? 알았어, 알았다고. 갔다 돌아오면, 새 장비 테스트하는 것 좀 도와줘.",
+                "cn": "又要出外勤？好吧，回来帮我试新装备。"
+            },
+            "asset": "char_402_tuye/CN_017"
+        },
+        {
+            "id": "char_402_tuye_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Leading team combat doesn't differ much from being a guide.",
+                "jp": "作戦の隊長になるのは、ガイドをするのと同じようなものだろ。",
+                "kr": "작전에서 팀장이 된다는 건 가이드를 하는 거랑 같은 거잖아?",
+                "cn": "带队作战和当向导差别不大。"
+            },
+            "asset": "char_402_tuye/CN_018"
+        },
+        {
+            "id": "char_402_tuye_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Route, OK. Equipment, check. Go.",
+                "jp": "ルートOK、装備も異常なし。出発。",
+                "kr": "루트 오케이, 장비도 이상 없음. 출발.",
+                "cn": "路线合理，装备正常，出发。"
+            },
+            "asset": "char_402_tuye/CN_019"
+        },
+        {
+            "id": "char_402_tuye_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "More boring than running into a sandstorm.",
+                "jp": "砂嵐に遭うよりずっとくだらないな。",
+                "kr": "모래 폭풍을 맞는 것보다 훨씬 시시하네.",
+                "cn": "比遇上风沙还要无聊。"
+            },
+            "asset": "char_402_tuye/CN_020"
+        },
+        {
+            "id": "char_402_tuye_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Speak up.",
+                "jp": "さっさと言え。",
+                "kr": "빨리 말해.",
+                "cn": "有事就说。"
+            },
+            "asset": "char_402_tuye/CN_021"
+        },
+        {
+            "id": "char_402_tuye_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "I'm thinking...",
+                "jp": "考えてる……",
+                "kr": "생각 중이야……",
+                "cn": "我在思考......"
+            },
+            "asset": "char_402_tuye/CN_022"
+        },
+        {
+            "id": "char_402_tuye_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Good. Efficiency up by 17%.",
+                "jp": "よし、効率17%アップだ。",
+                "kr": "좋아, 효율 17% 상승.",
+                "cn": "很好，效率将会提升17%。"
+            },
+            "asset": "char_402_tuye/CN_023"
+        },
+        {
+            "id": "char_402_tuye_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Need to move faster.",
+                "jp": "早く動かないと。",
+                "kr": "빨리 움직여야 해.",
+                "cn": "得快些行动了。"
+            },
+            "asset": "char_402_tuye/CN_024"
+        },
+        {
+            "id": "char_402_tuye_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Faster.",
+                "jp": "もっと速く。",
+                "kr": "더 빨리.",
+                "cn": "再快一些。"
+            },
+            "asset": "char_402_tuye/CN_025"
+        },
+        {
+            "id": "char_402_tuye_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Time to test my upgraded equipment.",
+                "jp": "改良した装備のテストだ。",
+                "kr": "개량한 장비 테스트 좀 해봐야지.",
+                "cn": "试试新改的装备。"
+            },
+            "asset": "char_402_tuye/CN_026"
+        },
+        {
+            "id": "char_402_tuye_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "How's the newest nutritional fluid taste?",
+                "jp": "新しい栄養剤の味はどうだ？",
+                "kr": "새로운 영양제 맛은 좀 어때?",
+                "cn": "新款营养液味道如何？"
+            },
+            "asset": "char_402_tuye/CN_027"
+        },
+        {
+            "id": "char_402_tuye_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Scent of the wind's changed...",
+                "jp": "風の匂いが変わった……",
+                "kr": "바람 냄새가 달라졌어……",
+                "cn": "风的味道变了......"
+            },
+            "asset": "char_402_tuye/CN_028"
+        },
+        {
+            "id": "char_402_tuye_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Tch. The sandstorms I've seen beat this any day.",
+                "jp": "チッ、私が見てきた砂嵐はこんなのよりずっとすごい。",
+                "kr": "쳇, 내가 봐왔던 모래 폭풍은 이런 것보다 훨씬 어마어마하다고.",
+                "cn": "嘁，我见过的风沙比这个厉害多了。"
+            },
+            "asset": "char_402_tuye/CN_029"
+        },
+        {
+            "id": "char_402_tuye_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Scraped through, huh. Wasn't a waste of time.",
+                "jp": "ギリギリ合格だな。時間の無駄にはならなかった。",
+                "kr": "턱걸이로 합격. 시간 낭비는 안 했네.",
+                "cn": "马马虎虎吧，还不算浪费时间。"
+            },
+            "asset": "char_402_tuye/CN_030"
+        },
+        {
+            "id": "char_402_tuye_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Efficiency lacking. Gotta head back and adjust my equipment, or switch reagents, maybe.",
+                "jp": "効率不足だ。戻って装備の調整か、薬剤の交換だな。",
+                "kr": "효율이 부족해. 돌아가서 장비를 조정하거나 약제를 바꿔봐야겠어.",
+                "cn": "效率不够，回去试试调整装备，或许再换个试剂。"
+            },
+            "asset": "char_402_tuye/CN_031"
+        },
+        {
+            "id": "char_402_tuye_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "At least you figured a good retreat route...",
+                "jp": "少なくとも撤退ルートの選定は上手くできたみたいだな……",
+                "kr": "적어도, 철수 루트 선정은 잘 된 것 같네……",
+                "cn": "至少选了合格的撤退路线......"
+            },
+            "asset": "char_402_tuye/CN_032"
+        },
+        {
+            "id": "char_402_tuye_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "You have a lot of rooms, huh...",
+                "jp": "こんなたくさん部屋があるんだな……",
+                "kr": "이렇게나 방이 많다니……",
+                "cn": "原来有这么多房间......"
+            },
+            "asset": "char_402_tuye/CN_033"
+        },
+        {
+            "id": "char_402_tuye_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "You gotta stop the boring crap.",
+                "jp": "くだらないマネするな。",
+                "kr": "시시한 짓 하지 마.",
+                "cn": "别这么无聊。"
+            },
+            "asset": "char_402_tuye/CN_034"
+        },
+        {
+            "id": "char_402_tuye_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Wanna try touching my bag again? Won't hit your face this time. Promise.",
+                "jp": "もう一回私のバッグに触ってみるか？今回は顔に当てないと保証してやるから。",
+                "kr": "한 번 더 내 가방 만져볼래? 이번에는 얼굴에 안 맞춘다고 약속할게.",
+                "cn": "要不要再摸一下我的背包？这回会避开你的脸，我保证。"
+            },
+            "asset": "char_402_tuye/CN_036"
+        },
+        {
+            "id": "char_402_tuye_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_402_tuye/CN_037"
+        },
+        {
+            "id": "char_402_tuye_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Rain again. Good weather, huh, Doctor?",
+                "jp": "また雨か。いい天気だな、ドクター。",
+                "kr": "또 비가 오네…… 좋은 날씨야, 박사.",
+                "cn": "外面天气不错，又下雨了呢，博士。"
+            },
+            "asset": "char_402_tuye/CN_042"
+        }
+    ],
+    "actors": {
+        "cn": {
+            "native": "Z君",
+            "global": "Z"
+        },
+        "jp": {
+            "native": "中野さいま",
+            "global": "Saima Nakano"
+        },
+        "kr": {
+            "native": "한채언",
+            "global": "Han Chae-eon"
+        }
+    },
+    "availability": [
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

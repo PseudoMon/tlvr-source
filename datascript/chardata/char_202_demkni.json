@@ -1,0 +1,596 @@
+{
+    "charid": "char_202_demkni",
+    "nameid": "demkni",
+    "names": {
+        "en": "Saria",
+        "jp": "サリア",
+        "kr": "사리아",
+        "cn": "塞雷娅"
+    },
+    "voices": [
+        {
+            "id": "char_202_demkni_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "I've checked your schedule. Isn't it time you took a break? If you'll excuse me.",
+                "jp": "お前のスケジュールはチェックしてある。今は休憩時間だろ、邪魔したな。",
+                "kr": "네 스케줄은 이미 확인했다. 지금은 휴식시간이지? 방해했군.",
+                "cn": "我看过你的排班日程，现在确实是休息时间吧？那么，多有打扰。"
+            },
+            "asset": "char_202_demkni/CN_001"
+        },
+        {
+            "id": "char_202_demkni_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Evolution is the law of nature. But Rhine Lab attempted to tamper with this law, even to take control of it. What a foolish endeavor…",
+                "jp": "万物の進化は絶対の摂理。そうだというのにライン生命はそれを改変し、支配することまで目論んでいる。愚かな…。",
+                "kr": "만물의 진화는 절대적인 섭리다. 그런데도 라인 랩은 그걸 바꾸고, 지배하려고 까지 하고 있지. 어리석긴…",
+                "cn": "万物的演化本就是不可动摇的自然法则。莱茵生命却妄图修改它，甚至想要支配它，多么愚蠢的图谋......"
+            },
+            "asset": "char_202_demkni/CN_002"
+        },
+        {
+            "id": "char_202_demkni_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "As a researcher, have you ever participated in some experiments you probably shouldn't have? No? That's good.",
+                "jp": "お前も研究者として、禁忌に触れる実験に手を出したことは……いや、していなければそれでいいんだ。",
+                "kr": "너도 연구자로서, 금기를 건드리는 실험에 손을 댄 적은… 그래, 안 했다면 그걸로 됐다.",
+                "cn": "作为研究者，你是否也参与过一些不应触碰的实验？没有的话，自然最好。"
+            },
+            "asset": "char_202_demkni/CN_003"
+        },
+        {
+            "id": "char_202_demkni_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Don't you think it's too noisy at Rhodes Island? Everyone should be quiet and focused during work. You should enforce discipline on your subordinates.",
+                "jp": "ロドスはいささか騒がしすぎると思わないか？仕事は静かに集中して行うべきだ。そして、お前は部下に甘すぎる。",
+                "kr": "로도스 아일랜드는 조금 시끄럽다고 생각하지 않나? 일은 조용히 집중해서 해야 한다. 게다가 넌, 부하들한테 너무 물러.",
+                "cn": "你不觉得罗德岛太喧闹了吗？工作中就该保持安静、专注。你该严格管束你的部下。"
+            },
+            "asset": "char_202_demkni/CN_004"
+        },
+        {
+            "id": "char_202_demkni_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "My true power has nothing to do with first aid. However, I have slightly adjusted the operation of this power to accommodate it to your command.",
+                "jp": "私の能力は元は救急とは無関係だったが、お前の作戦に合わせて、少し力の使い方を調整した。",
+                "kr": "나의 능력은 원래 구급과는 관계없지만, 네 작전에 맞춰 능력의 운용 방법을 약간 조정했다.",
+                "cn": "我真正的能力，与急救这种行为并无关联。不过，为了配合你的战术指挥，我简单地调整了这个能力的使用方法。"
+            },
+            "asset": "char_202_demkni/CN_005"
+        },
+        {
+            "id": "char_202_demkni_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "You think Calcification Arts only makes organisms weaker? You're wrong. I can condense calcium into a tough enamel. The enemies can try as they want, but no one can break my shield.",
+                "jp": "カルシウム化のアーツは頼りないなんて思ってないか？最大まで精練しエナメル化した防壁は、誰も打ち破れないさ。",
+                "kr": "칼슘화 아츠는 믿을만하지 못하다고 생각하진 않나? 최대한으로 제련하여 에나멜화한 방벽은, 그 누구도 뚫지 못하지.",
+                "cn": "你是不是以为，钙质化法术会让生物变得脆弱？错了，我可以将钙精炼成坚硬的珐琅质。就让敌人试试看吧，没人摧毁得了我的防壁。"
+            },
+            "asset": "char_202_demkni/CN_006"
+        },
+        {
+            "id": "char_202_demkni_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "You've seen me arguing with Silence? Yes, we do that a lot... Sorry for causing trouble for you and Rhodes Island",
+                "jp": "サイレンスと口論しているところを見た？ふん、いつものことだ……。いや、すまない。ロドスにもお前にも、迷惑をかけたな。",
+                "kr": "사일런스와 언성을 높이는 모습을 봤다고? 흥, 늘 있는 일이다… 아니지… 미안하다. 로도스 아일랜드에게도 네게도, 폐를 끼쳤군.",
+                "cn": "你看到了我和赫默吵架？家常便饭而已......抱歉，给你和罗德岛带来了麻烦。"
+            },
+            "asset": "char_202_demkni/CN_007"
+        },
+        {
+            "id": "char_202_demkni_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Please tell Ifrit on my behalf, 'No matter what happens, I will protect you'... Meet her? No, I'm not ready for that.",
+                "jp": "イフリータに伝えてくれ……「これから何が起きようと、私が守る」と。……会いに？いや、まだ心の準備が……。",
+                "kr": "이프리트에게 전해줘… “앞으론 무슨 일이 있어도 내가 지켜주겠다”고… 만나라고? 아니, 그건 아직 마음의 준비가…",
+                "cn": "请你帮我转告伊芙利特，“无论今后发生什么，我都会保护你”......见面？不，我还没准备好去见她。"
+            },
+            "asset": "char_202_demkni/CN_008"
+        },
+        {
+            "id": "char_202_demkni_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Even in the most desperate of situations, one must stand fast to be a symbol of strength for the people they hold dear. That is where I draw my line and how I live my life. You'll do the same, won't you?",
+                "jp": "いかなる窮地に立たされようと、大切な者には誇りある姿しか見せない。私はそう決めている。お前もそうだろう？",
+                "kr": "어떠한 난관에 봉착하더라도, 소중한 사람에게는 긍지에 찬 모습만을 보여줘야 한다고, 난 그렇게 믿고 있다. 너도 그렇지?",
+                "cn": "即使身处绝境，也要将自己傲然挺立的身姿，永远地刻在重要的人眼中。这是我的底线，也是我生存的准则。你也会这样去做的，对吗？"
+            },
+            "asset": "char_202_demkni/CN_009"
+        },
+        {
+            "id": "char_202_demkni_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "I'll go back to my room if there's no further assignments.",
+                "jp": "……用がないなら、部屋に戻るぞ。",
+                "kr": "……용무가 없다면, 방으로 돌아가겠다.",
+                "cn": "如果没有其他任务需要处理，我就先一步返回自己的房间了。"
+            },
+            "asset": "char_202_demkni/CN_010"
+        },
+        {
+            "id": "char_202_demkni_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "I am Saria, formerly of the Rhine Lab Medical Research Institute Experiment Team. As for now... I need Rhodes Island's help to bring the astray back to the orthodox.",
+                "jp": "私はサリア、元ライン生命医科学研究所の実験チームメンバーだ。今は……摂理を踏み外したものを正すため、ロドスの協力が必要だ。",
+                "kr": "내 이름은 사리아, 전 라인 생명연구소의 실험팀 멤버다. 지금은…… 섭리에서 어긋난 자들을 바로잡기 위해, 로도스 아일랜드의 협력이 필요하다.",
+                "cn": "塞雷娅，原莱茵生命研究所实验组成员。至于现在......为了让偏离传统的事物回归正途，我需要罗德岛的协助。"
+            },
+            "asset": "char_202_demkni/CN_011"
+        },
+        {
+            "id": "char_202_demkni_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "What are you doing?",
+                "jp": "何をしているんだ？",
+                "kr": "뭘 하고 있는 거지?",
+                "cn": "你在干什么？"
+            },
+            "asset": "char_202_demkni/CN_012"
+        },
+        {
+            "id": "char_202_demkni_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Good, you must continue motivating your subordinates with your ideas if you hope to maintain influence over them.",
+                "jp": "いいか、部下への影響力を維持したいなら、お前の考えで彼らを動かし続けろ。",
+                "kr": "잘 들어라. 부하들에게 계속 영향력을 행사하고 싶다면, 너의 생각으로 그들을 계속 움직이게 해라.",
+                "cn": "很好，如果想保持对下属的影响力，你必须时刻用自己的想法去推动他们。"
+            },
+            "asset": "char_202_demkni/CN_013"
+        },
+        {
+            "id": "char_202_demkni_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Promotion? I don't want any special treatment. But for Ifrit's sake, I do need your help to correct all those twisted laws and rules.",
+                "jp": "昇進？ひいきされるのは不本意だが、あの子のために、お前の協力が必要だ。全ての歪みを修正するために……！",
+                "kr": "승진? 높은 평가를 받는 건 바라던 바가 아니지만, 그 아이를 위해서라도 네 협력이 꼭 필요하다. 뒤틀려버린 모든 것들을 바로잡기 위해서…!",
+                "cn": "晋升？我并不希望这是种特殊对待。只是，为了那个孩子，我确实需要你的协助，直到那些被扭曲过的法则，全都被修正为止......！"
+            },
+            "asset": "char_202_demkni/CN_014"
+        },
+        {
+            "id": "char_202_demkni_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "I am within my rights to oversee and bring up my own opinion on your command.",
+                "jp": "お前の采配に対しては、私にも意見する権利がある。",
+                "kr": "너의 지시에 대해서는, 나도 의견을 낼 권리가 있다.",
+                "cn": "对于你的指挥，我有权进行监督，并提出相应意见。"
+            },
+            "asset": "char_202_demkni/CN_017"
+        },
+        {
+            "id": "char_202_demkni_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Send me the operation briefing, I will review it.",
+                "jp": "早速、作戦のブリーフィングに入ろう。",
+                "kr": "그럼 바로, 작전 브리핑을 시작하지.",
+                "cn": "把这次行动的简报，提交给我审核一下。"
+            },
+            "asset": "char_202_demkni/CN_018"
+        },
+        {
+            "id": "char_202_demkni_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "All operators must maintain strict discipline.",
+                "jp": "全員、規律はしっかり守ってもらう。",
+                "kr": "전원, 규율은 제대로 지키도록.",
+                "cn": "所有干员，必须严格遵守纪律。"
+            },
+            "asset": "char_202_demkni/CN_019"
+        },
+        {
+            "id": "char_202_demkni_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Are they the ones who caused such destruction and started all this conflict?",
+                "jp": "奴らが災いを生み出し、戦争を引き起こした元凶なのか？",
+                "kr": "저 녀석들이 재난을 낳고, 전쟁을 일으킨 원흉인가?",
+                "cn": "就是他们制造了灾难，点燃了战争之火吗？"
+            },
+            "asset": "char_202_demkni/CN_020"
+        },
+        {
+            "id": "char_202_demkni_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "It's my turn.",
+                "jp": "私が行こう。",
+                "kr": "내가 가지.",
+                "cn": "让我来。"
+            },
+            "asset": "char_202_demkni/CN_021"
+        },
+        {
+            "id": "char_202_demkni_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Suppress them.",
+                "jp": "奴らを抑える。",
+                "kr": "놈들을 제압하겠다.",
+                "cn": "压制他们。"
+            },
+            "asset": "char_202_demkni/CN_022"
+        },
+        {
+            "id": "char_202_demkni_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Forward.",
+                "jp": "前に進むぞ。",
+                "kr": "앞으로 전진하겠다.",
+                "cn": "前进。"
+            },
+            "asset": "char_202_demkni/CN_023"
+        },
+        {
+            "id": "char_202_demkni_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Vermin.",
+                "jp": "……害虫が。",
+                "kr": "……이 해충 녀석이.",
+                "cn": "害虫。"
+            },
+            "asset": "char_202_demkni/CN_024"
+        },
+        {
+            "id": "char_202_demkni_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Just who are you weaklings going to stop like that?",
+                "jp": "この程度で止まると思うな。",
+                "kr": "이 정도로 멈출 거라 생각하지 마라.",
+                "cn": "这种程度，又能阻止谁？"
+            },
+            "asset": "char_202_demkni/CN_025"
+        },
+        {
+            "id": "char_202_demkni_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "This will be over soon.",
+                "jp": "すぐに終わる。",
+                "kr": "금방 끝난다.",
+                "cn": "很快就会结束。"
+            },
+            "asset": "char_202_demkni/CN_026"
+        },
+        {
+            "id": "char_202_demkni_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Solidify.",
+                "jp": "凝固しろ。",
+                "kr": "응고되어라.",
+                "cn": "凝固吧。"
+            },
+            "asset": "char_202_demkni/CN_027"
+        },
+        {
+            "id": "char_202_demkni_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Yielding is not an option.",
+                "jp": "諦めるな。",
+                "kr": "포기하지 마.",
+                "cn": "不许放弃。"
+            },
+            "asset": "char_202_demkni/CN_028"
+        },
+        {
+            "id": "char_202_demkni_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Your tactics appear modern, yet the ideas behind them are primitive at their roots. Just who are you?",
+                "jp": "お前の作戦、戦術は現代らしいものだが、根底にある思想は古くさいな。一体いつの時代の人間だ？",
+                "kr": "너의 전술은 현대적인데, 구상은 또 상당히 오래된 거로군. 넌 대체… 어떤 사람이지?",
+                "cn": "你的战术是现代的，构思却相当古老。你究竟是什么人？"
+            },
+            "asset": "char_202_demkni/CN_029"
+        },
+        {
+            "id": "char_202_demkni_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "All must return to the existing order. None may disobey the rules.",
+                "jp": "全ては秩序に則るべきだ。摂理に反することなど、誰にも許されない。",
+                "kr": "모든 것은 질서에 따라야 한다. 섭리에 반하려 한다면, 누구라도 용서치 않겠다.",
+                "cn": "一切必须回归既有的秩序，我不准许任何人违背法则。"
+            },
+            "asset": "char_202_demkni/CN_030"
+        },
+        {
+            "id": "char_202_demkni_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "The routed enemies may be calling for reinforcements. We must not drop our guard before we find the last of them.",
+                "jp": "離脱者が援軍を呼ぶ可能性がある。索敵を怠るな。",
+                "kr": "도망친 놈들이 원군을 부를 가능성이 있다. 색적을 게을리하지 마라.",
+                "cn": "溃退的敌人也许正在呼叫援军，对残余敌人的搜索，不可怠慢。"
+            },
+            "asset": "char_202_demkni/CN_031"
+        },
+        {
+            "id": "char_202_demkni_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Where did I go wrong...?",
+                "jp": "どこで道を間違えた…？",
+                "kr": "어디서 길을 잘못 든 거지…?",
+                "cn": "究竟是哪里搞错了......？"
+            },
+            "asset": "char_202_demkni/CN_032"
+        },
+        {
+            "id": "char_202_demkni_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "This room has interesting decor. I'd be more fond of a futuristic style, though.",
+                "jp": "この部屋、面白いデザインだな。個人的にはフューチャリズムを反映したデザインのほうが好みではあるが。",
+                "kr": "이 방, 디자인이 재미있군. 개인적으로는, 퓨처리즘을 반영한 디자인이 취향이긴 하지만.",
+                "cn": "这个房间的布置很有意思，虽然，我个人更喜欢未来主义的设计。"
+            },
+            "asset": "char_202_demkni/CN_033"
+        },
+        {
+            "id": "char_202_demkni_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Hm? What?",
+                "jp": "ん？なんだ？",
+                "kr": "응? 뭐지?",
+                "cn": "嗯？什么？"
+            },
+            "asset": "char_202_demkni/CN_034"
+        },
+        {
+            "id": "char_202_demkni_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Doctor, you might do a bit of research into the past in your free time. You will find many a thing of great interest.",
+                "jp": "ドクター、時間があればの話だが、過去の知識を学んでみるのも面白いぞ。",
+                "kr": "박사. 나중에 시간이 되면, 과거의 지식을 배워보는 것도 좋을 거다.",
+                "cn": "博士，有时间的话去补习一些过往的知识吧，你会在其中，发现许多有趣的事。"
+            },
+            "asset": "char_202_demkni/CN_036"
+        },
+        {
+            "id": "char_202_demkni_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_202_demkni/CN_037"
+        },
+        {
+            "id": "char_202_demkni_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Doctor, are you well?",
+                "jp": "ドクター、元気か。",
+                "kr": "박사, 잘 있었나.",
+                "cn": "博士，身体如何？"
+            },
+            "asset": "char_202_demkni/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Norma Butikofer",
+            "global": "Norma Butikofer"
+        },
+        "cn": {
+            "native": "陈彦亦",
+            "global": "Yee Chen"
+        },
+        "jp": {
+            "native": "井口裕香",
+            "global": "Yuka Iguchi"
+        },
+        "kr": {
+            "native": "원에스더",
+            "global": "Esther Won"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

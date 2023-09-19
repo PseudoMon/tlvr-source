@@ -1,0 +1,591 @@
+{
+    "charid": "char_145_prove",
+    "nameid": "prove",
+    "names": {
+        "en": "Provence",
+        "jp": "プロヴァンス",
+        "kr": "프로방스",
+        "cn": "普罗旺斯"
+    },
+    "voices": [
+        {
+            "id": "char_145_prove_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "If you need your room cleaned, I'd be glad to help, Doctor.",
+                "jp": "ドクター、部屋のお掃除をするときは呼んでね～。手伝ってあげるから。",
+                "kr": "박사, 방 청소할 땐 불러줘~ 도와줄 테니까.",
+                "cn": "博士，如果房间卫生需要打扫的话，记得叫我~"
+            },
+            "asset": "char_145_prove/CN_001"
+        },
+        {
+            "id": "char_145_prove_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "You seem really interested in my tail, don't you? You say it's furry and looks cute? Well, wanna touch it? No one else has a tail like this, you know!",
+                "jp": "僕のしっぽが気になるの？モフモフして可愛いでしょ？じゃあ……触らせてあげちゃおっかな～。こんなしっぽ、めったにないからね～。",
+                "kr": "내 꼬리가 왜? 복슬복슬한 게 귀엽지? 그럼… 조금 만지게 해 줄까~? 이런 꼬리, 어디 가서 못 보는 거라고~",
+                "cn": "我的尾巴您很在意吗？毛茸茸的，很可爱？那——要摸摸看吗？其他人身上，可没有这样的尾巴哦~"
+            },
+            "asset": "char_145_prove/CN_002"
+        },
+        {
+            "id": "char_145_prove_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Water is precious in the wild. Rhodes Island is in no danger of having a drought right now, but that doesn't mean we should waste water.",
+                "jp": "ロドスでは水の心配はないけど、荒野では貴重な資源なんだよ。ドクター、水は大切にしてね～。",
+                "kr": "로도스 아일랜드에선 물 걱정할 일이 없지만, 황야에서 물은 귀중한 자원이야. 박사, 물은 항상 아껴 써야 한다~?",
+                "cn": "荒野里水是珍贵资源呢，虽然罗德岛并不那么缺水，但还是希望博士你要节约使用哦。"
+            },
+            "asset": "char_145_prove/CN_003"
+        },
+        {
+            "id": "char_145_prove_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "It's my duty to search for and rescue those who encounter Catastrophes. I rarely find any survivors though...",
+                "jp": "天災時の救助活動も僕の仕事だよ。成果を得られたことはあんまりないけどね……。",
+                "kr": "재앙이 일어났을 때의 구조활동도 내 일이야. 성과를 낸 적은 별로 없었지만… ",
+                "cn": "搜救遭遇天灾的人也是我的职责，虽然大多数情况下都会空手而归......"
+            },
+            "asset": "char_145_prove/CN_004"
+        },
+        {
+            "id": "char_145_prove_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Retrieving beacons, exploring mineral deposits, and recycling... Then we can call it a day!",
+                "jp": "ビーコン回収、鉱床の探索、そしてリサイクルできる資源の回収。これで任務完了だよ。",
+                "kr": "비콘 회수, 광맥 탐색, 그리고 재활용할 자원 회수. 이걸로 임무 완료야~",
+                "cn": "信标回收、矿床勘探、然后是可利用资源回收，这样任务就完成咯~"
+            },
+            "asset": "char_145_prove/CN_005"
+        },
+        {
+            "id": "char_145_prove_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Mr. Grape is my buddy and a capable partner I can rely on! Where he came from, you ask?... Uh, hmm... Now that's a good question. Where did we first meet?...",
+                "jp": "僕のパートナーのグレープさん。何でもやってくれるし、とっても頼もしいんだ。知り合ったきっかけ？うーん……忘れちゃった……。",
+                "kr": "아, 그레이프 씨는 내 파트너야. 뭐든지 다 해주고, 정말 믿음직스럽다니까? 어떻게 만나게 됐냐고? 으음… 기억이 잘 안 나네?",
+                "cn": "葡萄先生是我的搭档。它什么都能做，非常可靠哦。它的来历？唔......对哦，我是怎么和它认识的呢......？"
+            },
+            "asset": "char_145_prove/CN_006"
+        },
+        {
+            "id": "char_145_prove_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "W-what's with that red one...? I... can't stop trembling... uh... Doctor, can you lend me your arm? I'd feel much safer that way...",
+                "jp": "あ、あの赤い子は何なの……僕……震えが止まらない……。あの、腕を借りてもいい……？そうすれば……安心できるから……。",
+                "kr": "저, 저기 빨간 아이는 누구야…… 나…… 계속 몸이 떨려…… 바… 박사, 팔 좀 빌려도 돼? 그러면… 마음이 놓이니까…… ",
+                "cn": "那、那个红色的孩子是怎么回事......我......颤抖，止不住呢......那个，博士的手臂能稍稍借下吗......？这样的话，我会安心很多的......"
+            },
+            "asset": "char_145_prove/CN_007"
+        },
+        {
+            "id": "char_145_prove_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Those who do Catastrophe relief work often develop all kinds of mutations. What mutation do I have? Well, it's better not to ask. The more you know, the more dangerous it gets for you, Doctor.",
+                "jp": "野外で活動してる天災の研究者ってね、みんな多かれ少なかれ身体に異変をきたすんだ。僕はどうなのかって？ドクター、好奇心はなんとかをも殺すってことわざがあるらしいよ？",
+                "kr": "야외에서 활동하는 재앙 연구자들한텐, 다들 크든 작든 몸에 이상이 생긴대. 나는 어떠냐고? 박사, 너무 많이 알려고 했다간 다칠 수도 있을걸?",
+                "cn": "一般来说，野外的天灾工作者都会产生这样各种各样的异变。我有什么变化？知道得越多，就离危险越近哦，博士。"
+            },
+            "asset": "char_145_prove/CN_008"
+        },
+        {
+            "id": "char_145_prove_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Catastrophe relief workers in the wilderness... don't usually come out unscathed. No need to worry about me, though! I'm already very happy to have a chance to rest at Rhodes Island.",
+                "jp": "荒野で働く天災の研究者は……みんなろくな最期を迎えられないんだ。あ、でも僕のことは心配しなくていいよ。ロドスで少しでも癒されることができたら、僕は十分に……幸せだから。",
+                "kr": "황야에서 일하는 재앙 연구자는… 다들 제대로 된 최후를 맞이하지 못해. 아, 그래도 내 걱정은 하지 마. 로도스 아일랜드에서 조금이라도 위안을 얻을 수 있다면 난 그것만으로도… 충분히… 행복하니까.",
+                "cn": "荒野中的天灾工作者......一般都无法善终。不用担心我哦，能在罗德岛稍事休息，我已经感到......很幸福了。"
+            },
+            "asset": "char_145_prove/CN_009"
+        },
+        {
+            "id": "char_145_prove_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Aw, falling asleep in this kinda place again... Guess 'safety' isn't a part of your vocabulary.",
+                "jp": "またこんな場所で寝転がって、もう……ホント無防備なんだから……。",
+                "kr": "또 이런 데서 자고 있네? 참… 너무 무방비하다니까… ",
+                "cn": "怎么又睡在这种地方，真是的......总是一副毫无防备的样子。"
+            },
+            "asset": "char_145_prove/CN_010"
+        },
+        {
+            "id": "char_145_prove_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "I'm Provence, your average Catastrophe relief worker. Hmm, why are you staring at me like that? Interested in my tail?",
+                "jp": "僕の名前はプロヴァンス、ごくありふれた天災の研究者だよ。そんなにじーっと見つめてどうしたの？僕のしっぽのことが気になるの～？",
+                "kr": "내 이름은 프로방스. 흔하디 흔한 재앙 연구자야. 뭘 그렇게 빤히 봐? 내 꼬리가 신경 쓰여서~?",
+                "cn": "我是普罗旺斯，是个普通的天灾工作者~您这样盯着我看，是在意我的尾巴吗~？"
+            },
+            "asset": "char_145_prove/CN_011"
+        },
+        {
+            "id": "char_145_prove_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "So... does this bring me closer to what you imagined I should be?",
+                "jp": "これでドクターの理想にもっと近づけたかな？",
+                "kr": "이제 박사의 이상에 더 가까워졌으려나?",
+                "cn": "这样的话，就更接近您心目中我应有的样子了吗？"
+            },
+            "asset": "char_145_prove/CN_012"
+        },
+        {
+            "id": "char_145_prove_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "It's fun working with you, Doctor!",
+                "jp": "ドクターとの共同作業は楽しいね～。",
+                "kr": "박사랑 함께 작업하는 건 즐겁다니까~",
+                "cn": "和博士一起工作，很愉快啊~"
+            },
+            "asset": "char_145_prove/CN_013"
+        },
+        {
+            "id": "char_145_prove_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "I sense a storm approaching Rhodes Island. But don't worry, leave the evacuation to me! I'm an expert at Catastrophe prevention!",
+                "jp": "ロドスの近くに竜巻が発生しそうな兆候が出てる――大丈夫だよ！避難はこの僕に任せておいて！こう見えて僕、避難のプロだから！",
+                "kr": "로도스 아일랜드 근처에 폭풍이 발생할 것 같은 조짐이 있어…… 괜찮을 거야! 대피라면 내게 맡겨! 이래 봬도 나, 대피하는 데는 프로거든!",
+                "cn": "罗德岛附近出现了风暴的征兆——不用担心，组织避难就交给我吧！我可是这方面的专家！"
+            },
+            "asset": "char_145_prove/CN_014"
+        },
+        {
+            "id": "char_145_prove_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Who will I be teaming up with this time?",
+                "jp": "今回は誰とチームを組むのかな？",
+                "kr": "이번엔 누구랑 팀을 짜게 될까?",
+                "cn": "这次和谁组队呢？"
+            },
+            "asset": "char_145_prove/CN_017"
+        },
+        {
+            "id": "char_145_prove_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Don't worry. Everything will be fine.",
+                "jp": "絶対うまくいくよ！",
+                "kr": "분명 잘 될 거야!",
+                "cn": "不会有任何问题的。"
+            },
+            "asset": "char_145_prove/CN_018"
+        },
+        {
+            "id": "char_145_prove_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "My job is to bring everyone home safely.",
+                "jp": "みんなを無事に連れて帰るのが僕の仕事だよ。",
+                "kr": "모두를 무사히 데리고 돌아가는 게 내 일이야.",
+                "cn": "我的工作是把大家平安带回来。"
+            },
+            "asset": "char_145_prove/CN_019"
+        },
+        {
+            "id": "char_145_prove_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "I despise natural Catastrophes and enemies equally!",
+                "jp": "天災も敵も、僕らの憎むべき相手だ……！",
+                "kr": "재앙이든, 적이든, 다 증오해야 할 상대야…!",
+                "cn": "无论天灾还是敌人，都是我痛恨的对手！"
+            },
+            "asset": "char_145_prove/CN_020"
+        },
+        {
+            "id": "char_145_prove_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Is it my turn?",
+                "jp": "僕の出番かな？",
+                "kr": "내가 나설 차례야?",
+                "cn": "该我出场了吗？"
+            },
+            "asset": "char_145_prove/CN_021"
+        },
+        {
+            "id": "char_145_prove_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "I am in peak condition!",
+                "jp": "いい調子だよ！",
+                "kr": "컨디션 좋고!",
+                "cn": "状态绝佳！"
+            },
+            "asset": "char_145_prove/CN_022"
+        },
+        {
+            "id": "char_145_prove_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Let's greet 'em with a warning shot.",
+                "jp": "まずは威嚇射撃からいくよ～。",
+                "kr": "우선 위협 사격부터 시작할게~",
+                "cn": "先从警告射击开始~"
+            },
+            "asset": "char_145_prove/CN_023"
+        },
+        {
+            "id": "char_145_prove_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Arrows loaded. Ready to go!",
+                "jp": "装填完了！いつでもいけるよ。",
+                "kr": "장전 완료! 언제든지 괜찮아.",
+                "cn": "弩箭装填完毕！随时都可以！"
+            },
+            "asset": "char_145_prove/CN_024"
+        },
+        {
+            "id": "char_145_prove_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "I've warned ya! Now time for Crowd Control!",
+                "jp": "警告はしたよ！災害処理、開始！",
+                "kr": "난 분명히 경고 했었다? 재해 처리, 개시!",
+                "cn": "已经警告过了哦！灾害处理，现在开始！"
+            },
+            "asset": "char_145_prove/CN_025"
+        },
+        {
+            "id": "char_145_prove_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Pinpointing enemy weakness!",
+                "jp": "弱点、丸見えだよ！",
+                "kr": "약점이 훤히 다 보인다구!",
+                "cn": "弱点洞察！"
+            },
+            "asset": "char_145_prove/CN_026"
+        },
+        {
+            "id": "char_145_prove_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "I'll distract the enemy.",
+                "jp": "攪乱するよ～。",
+                "kr": "교란할게~!",
+                "cn": "我来分散敌人的注意力。"
+            },
+            "asset": "char_145_prove/CN_027"
+        },
+        {
+            "id": "char_145_prove_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "The wilderness has its own rules.",
+                "jp": "荒野には荒野のルールがあるからね！",
+                "kr": "황야엔 황야만의 규칙이 있다고!",
+                "cn": "荒野有它自己的准则！"
+            },
+            "asset": "char_145_prove/CN_028"
+        },
+        {
+            "id": "char_145_prove_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Compared to natural Catastrophes, these enemies are really powerless.",
+                "jp": "天災よりもずーっと弱い敵たちだったね。",
+                "kr": "재앙이랑 비교하면 훨~씬 약한 적이었네.",
+                "cn": "与天灾的破坏相比，敌人还真是脆弱呢。"
+            },
+            "asset": "char_145_prove/CN_029"
+        },
+        {
+            "id": "char_145_prove_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Disaster assessment report: we received zero damage!",
+                "jp": "被害状況確認。うん、被害なし～。",
+                "kr": "피해 상황 확인. 응, 피해 없음~!",
+                "cn": "灾害评估报告，损伤是零~"
+            },
+            "asset": "char_145_prove/CN_030"
+        },
+        {
+            "id": "char_145_prove_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Everyone worked hard. Even if we suffered some damage,  let's not be discouraged!",
+                "jp": "みんなお疲れ様！すこし被害が出ちゃったみたいだけど、気を落とさないで。",
+                "kr": "다들 수고했어! 조금 피해가 생기긴 했지만, 너무 풀 죽지는 말고.",
+                "cn": "大家都辛苦了，即便稍有损害也不能气馁哦。"
+            },
+            "asset": "char_145_prove/CN_031"
+        },
+        {
+            "id": "char_145_prove_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Aw... my assessment was off. This'll leave a spot on my record for sure...",
+                "jp": "うう……読みが外れちゃった……プロとして失格だね……！",
+                "kr": "으으… 예측이 빗나갔어… 프로로서 실격이야…!",
+                "cn": "呃......评估失误了，真是我职业生涯的污点......！"
+            },
+            "asset": "char_145_prove/CN_032"
+        },
+        {
+            "id": "char_145_prove_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "It'd be nice to have a room to rest in!",
+                "jp": "ゆっくり休める部屋だといいな～。",
+                "kr": "푹 쉴 수 있는 곳이면 좋겠다~",
+                "cn": "如果是能好好休息的房间就好了~"
+            },
+            "asset": "char_145_prove/CN_033"
+        },
+        {
+            "id": "char_145_prove_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Oh, Doctor?",
+                "jp": "わわっ、ドクター？",
+                "kr": "아앗, 박사~?",
+                "cn": "啊啊，博士？"
+            },
+            "asset": "char_145_prove/CN_034"
+        },
+        {
+            "id": "char_145_prove_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "I've got a fluffy tail~ a fluffy tail~♪",
+                "jp": "僕のしっぽはもっふもふ～。もっふもふ～♪",
+                "kr": "내 꼬리는 복슬복슬~ 복슬복슬~♪",
+                "cn": "我的大尾巴毛绒绒~毛绒绒~♪"
+            },
+            "asset": "char_145_prove/CN_036"
+        },
+        {
+            "id": "char_145_prove_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_145_prove/CN_037"
+        },
+        {
+            "id": "char_145_prove_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Oh, good morning, Doctor.",
+                "jp": "あ～ドクターおはよー。",
+                "kr": "아~ 박사, 좋은 아침~",
+                "cn": "啊，博士早上好~"
+            },
+            "asset": "char_145_prove/CN_042"
+        }
+    ],
+    "actors": {
+        "cn": {
+            "native": "徐晨",
+            "global": "Chen Xu"
+        },
+        "jp": {
+            "native": "影山灯",
+            "global": "Akari Kageyama"
+        },
+        "kr": {
+            "native": "박지윤",
+            "global": "Park Ji-yoon"
+        }
+    },
+    "availability": [
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

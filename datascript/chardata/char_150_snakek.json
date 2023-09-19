@@ -1,0 +1,596 @@
+{
+    "charid": "char_150_snakek",
+    "nameid": "snakek",
+    "names": {
+        "en": "Cuora",
+        "jp": "クオーラ",
+        "kr": "쿠오라",
+        "cn": "蛇屠箱"
+    },
+    "voices": [
+        {
+            "id": "char_150_snakek_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Here I am! What should we play, baseball or board games? Oh, you're working?",
+                "jp": "わーい、来たよー！野球とこのボードゲーム、どっちで遊ぶ？……はれ？お仕事中？",
+                "kr": "와~ 나 왔어~! 야구랑 보드게임 중에 뭐 하고 놀까? ……어? 일하는 중?",
+                "cn": "我来啦！棒球和桌上游戏，挑一个来玩吧？诶？工作中？"
+            },
+            "asset": "char_150_snakek/CN_001"
+        },
+        {
+            "id": "char_150_snakek_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Where was I born, you ask? Well, umm...no idea. But that doesn't matter, right?",
+                "jp": "ボクの生まれたとこ？えーと、うーんと……よくわかんない。まぁいっか！",
+                "kr": "내가 태어난 곳? 에… 음…… 잘 모르겠네. 뭐 어때!",
+                "cn": "你问我，我是在哪儿出生的？唔，嗯......不太清楚。管它呢！"
+            },
+            "asset": "char_150_snakek/CN_002"
+        },
+        {
+            "id": "char_150_snakek_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Hello, Professor Rhodes Island! Wait, am I calling you by the right name?...",
+                "jp": "こんにちは、ロドス先生！はれ……こんな名前だっけ……。",
+                "kr": "안녕 로도스 아일랜드 선생님! 어라…… 이런 이름이었던가?",
+                "cn": "你好，罗德岛老师！嗯......好像你不是叫这个名字？"
+            },
+            "asset": "char_150_snakek/CN_003"
+        },
+        {
+            "id": "char_150_snakek_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Hm, what's my assignment today? To capture some long, sleek animals?",
+                "jp": "うーんと…。今日のお仕事なんだっけ？細長い生き物を捕まえることかな？",
+                "kr": "음…… 오늘 업무 뭐였더라? 길쭉한 생물을 잡는 거였나?",
+                "cn": "唔，我今天的工作是什么来着？是不是要抓一些细长的生物？"
+            },
+            "asset": "char_150_snakek/CN_004"
+        },
+        {
+            "id": "char_150_snakek_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Hey! Don't knock on my backpack! Oh, sorry, I'm not mad, I'm just worried. If you're not careful, you could hurt your hand! Here, let me show you how it's done.",
+                "jp": "ダメぇ！背中のリュックは叩かないで！あ、ごめんね。怒ったわけじゃなくて、気をつけないと、怪我しちゃうから。いま見せてあげるね！",
+                "kr": "안돼! 등에 멘 가방은 때리지 마! 아 미안, 화난 건 아니고, 조심하지 않으면 다치니까 그래. 지금 보여줄게!",
+                "cn": "不行！不要敲我的背包！啊，对不起，我不是冲你生气，不小心一点的话，手会受伤的。让我来给你演示一下！"
+            },
+            "asset": "char_150_snakek/CN_005"
+        },
+        {
+            "id": "char_150_snakek_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "If anyone dares to hurt you, I'll smash them with my baseball bat. Oh, uh... so... there really are people who hurt you? Um... actually, I'm not that good at fighting, hehe…",
+                "jp": "ドクターをいじめる人がいたら、ボクがこのバットでボコってあげるよ！……は、はれ？本当にいたの？あ、あのボク、本当はケンカとかよくわからないんだ。えへへ……。",
+                "kr": "박사를 괴롭히는 사람이 있으면, 내가 이 배트로 때려눕혀 줄게! …… 어, 어라? 진짜 있었어? 이, 있잖아 나, 실은 싸움 같은 거 잘 몰라. 에헤헤…… ",
+                "cn": "以后谁要是敢欺负你，我就用球棍扁他们！呃，还、还真有？其实我对打架不太在行，嘿嘿......"
+            },
+            "asset": "char_150_snakek/CN_006"
+        },
+        {
+            "id": "char_150_snakek_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "I love spending the whole day just walking down the street. I get to watch the people, enjoy the sunshine, and then… lose my way!",
+                "jp": "ボクね、一日かけて街をお散歩するのが好きなの。日向ぼっこして～、歩いてる人を見て～、そしたら……いつのまにか迷子になっちゃうんだ！",
+                "kr": "난 하루 온종일 거리를 산책하는 걸 좋아해. 햇빛도 쐬고~ 걸어 다니는 사람 구경도 하고~ 그러다 보면…… 어느새 또 미아가 되어버리지만!",
+                "cn": "我啊，喜欢花一天时间从街头走到街尾，一边晒太阳一边观察行人，然后......然后就迷路啦！"
+            },
+            "asset": "char_150_snakek/CN_007"
+        },
+        {
+            "id": "char_150_snakek_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "You've been treating my sickness, and you gave me a place to live... you're really so kind...",
+                "jp": "ボクの病気を診てくれて、住むところもくれて、ドクターは本当に優しいね……。",
+                "kr": "내 병을 진찰해주고, 살 곳도 내어주고, 박사는 정말 상냥하네…… ",
+                "cn": "帮我看病，还给我住的地方，博士真是个好人......"
+            },
+            "asset": "char_150_snakek/CN_008"
+        },
+        {
+            "id": "char_150_snakek_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Doctor, are you my big brother? Or big sister?... Well, does't matter! I'm not leaving you, even if you throw me out! It's not like I can walk far anyway.",
+                "jp": "ドクターはボクのお兄ちゃん？…それともお姉ちゃん？まぁどっちでもいいか！とにかくドクターはボクの一番大切な家族なの！ボク、決めたの。ドクターに出てけって言われても、ボクはここにいるんだ。どうせ遠くまで行きたくても行けないしね。",
+                "kr": "박사는 나보다 오빠야? ……아니면 언니야? 뭐 어느 쪽이든 상관없어! 박사가 나가라고 해도, 난 여기 있을 거야. 어차피 멀리 가고 싶어도 못 가긴 하지만.",
+                "cn": "博士是我的哥哥？还是姐姐？没关系，哪种都行！......就算你赶我走，我也是不会离开的！反正我也走不了多远嘛。"
+            },
+            "asset": "char_150_snakek/CN_009"
+        },
+        {
+            "id": "char_150_snakek_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Oh, the Doctor is busy. I'll just play by myself then...",
+                "jp": "ドクターがかまってくれないから、ひとりで遊んじゃおっと……。",
+                "kr": "박사가 안 놀아주니까, 혼자서 놀아야겠다…… ",
+                "cn": "博士没时间理我，我一个人玩会儿吧......"
+            },
+            "asset": "char_150_snakek/CN_010"
+        },
+        {
+            "id": "char_150_snakek_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Hm? Where am I? Who am I?",
+                "jp": "はれれ？ここはどーこー？ボクはだーれー？？？",
+                "kr": "어라라? 여긴 어~디? 나는 누~구???",
+                "cn": "欸？这里是什么地方？我是谁？"
+            },
+            "asset": "char_150_snakek/CN_011"
+        },
+        {
+            "id": "char_150_snakek_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "I can make myself super tough! It's my only special skill!",
+                "jp": "ガチガチに硬くなるよ！ボク、硬くなることしかできないの！",
+                "kr": "엄~청 딱딱해질 거야! 나, 딱딱해지는 거 밖에 못하니까!",
+                "cn": "变硬！除了变硬我什么都不会！"
+            },
+            "asset": "char_150_snakek/CN_012"
+        },
+        {
+            "id": "char_150_snakek_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Promotion? What's a promotion?... Whatever, let's play for a bit longer! You and me, together!",
+                "jp": "しょーしん？よくわからない。それより、もうちょっと一緒に遊ぼうよ！",
+                "kr": "승~진? 잘 모르겠다… 그러지 말고, 좀 더 같이 놀자!",
+                "cn": "晋升？我不懂啊......比起这个，再玩一会儿吧，我们两个一起！！"
+            },
+            "asset": "char_150_snakek/CN_013"
+        },
+        {
+            "id": "char_150_snakek_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "New position or not, I don't really care. All I want is to be by your side every day. Can you grant this tiny wish of mine?",
+                "jp": "ドクター、ドクター！ボクえらくなるのとか、別にどうでもいいよ。ドクターがずっと一緒にいてくれればそれでいい。いいよね？",
+                "kr": "박사, 박사~! 난 더 높은 자리로 올라가는 거 따윈 아무래도 상관없어. 박사가 늘 함께 있어주면 그걸로 족해. 같이 있어줄 거지?",
+                "cn": "博士博士，我不在乎什么新职位哦，我只要每天都有博士陪伴着我就好了，你能答应我吗？"
+            },
+            "asset": "char_150_snakek/CN_014"
+        },
+        {
+            "id": "char_150_snakek_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "I've got lots of friends here!",
+                "jp": "お友達がたくさん！",
+                "kr": "친구가 잔뜩!",
+                "cn": "有很多朋友在这里呢！"
+            },
+            "asset": "char_150_snakek/CN_017"
+        },
+        {
+            "id": "char_150_snakek_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Everybody, let's go!",
+                "jp": "みんな、ボクと一緒にきて！",
+                "kr": "다들, 나랑 같이 가자!",
+                "cn": "大家一起出发吧！"
+            },
+            "asset": "char_150_snakek/CN_018"
+        },
+        {
+            "id": "char_150_snakek_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "We'll be fine if we stick together!",
+                "jp": "みんなが一緒なら、大丈夫だよ！",
+                "kr": "모두와 함께라면, 괜찮아!",
+                "cn": "大家一起的话，一定没问题的！"
+            },
+            "asset": "char_150_snakek/CN_019"
+        },
+        {
+            "id": "char_150_snakek_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Everyone, let's play!",
+                "jp": "みんな、一緒に遊ぼう！",
+                "kr": "우리 다 같이 놀자!",
+                "cn": "大家一起玩吧！"
+            },
+            "asset": "char_150_snakek/CN_020"
+        },
+        {
+            "id": "char_150_snakek_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "I'm here~!",
+                "jp": "はーい。",
+                "kr": "네~",
+                "cn": "是——"
+            },
+            "asset": "char_150_snakek/CN_021"
+        },
+        {
+            "id": "char_150_snakek_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Doctor!",
+                "jp": "ドクター！",
+                "kr": "박사!",
+                "cn": "博士！"
+            },
+            "asset": "char_150_snakek/CN_022"
+        },
+        {
+            "id": "char_150_snakek_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Ora ora!",
+                "jp": "オラオラー！",
+                "kr": "덤벼덤벼!",
+                "cn": "来吧来吧！"
+            },
+            "asset": "char_150_snakek/CN_023"
+        },
+        {
+            "id": "char_150_snakek_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Hey, dummies, bring it on!",
+                "jp": "おバカさんたち！ボクが相手だよ！",
+                "kr": "이 바보들아! 내가 상대해주마!",
+                "cn": "你们这些笨蛋！我才是你们的对手！"
+            },
+            "asset": "char_150_snakek/CN_024"
+        },
+        {
+            "id": "char_150_snakek_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Muda muda muda muda!",
+                "jp": "無駄無駄ー！",
+                "kr": "소용없어~!",
+                "cn": "没用没用没用！"
+            },
+            "asset": "char_150_snakek/CN_025"
+        },
+        {
+            "id": "char_150_snakek_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "C'mon, show me what you got!",
+                "jp": "ボクと遊ぼう！",
+                "kr": "나랑 놀자!",
+                "cn": "来陪我玩玩吧！"
+            },
+            "asset": "char_150_snakek/CN_026"
+        },
+        {
+            "id": "char_150_snakek_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "This is my playground!",
+                "jp": "ここがボクのホームだよ！",
+                "kr": "여기가 내 홈이야!",
+                "cn": "这是我的主场！"
+            },
+            "asset": "char_150_snakek/CN_027"
+        },
+        {
+            "id": "char_150_snakek_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "I won't back down!",
+                "jp": "一歩も引かないよ！",
+                "kr": "한 발자국도 물러서지 않겠어!",
+                "cn": "绝对不会后退的！"
+            },
+            "asset": "char_150_snakek/CN_028"
+        },
+        {
+            "id": "char_150_snakek_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Was that tough? Didn't feel much different from any other battle.",
+                "jp": "難しかった？いつもと変わらないよ？",
+                "kr": "어려웠어? 평소랑 똑같은데?",
+                "cn": "很难吗？感觉和平时的战斗也没什么区别啊？"
+            },
+            "asset": "char_150_snakek/CN_029"
+        },
+        {
+            "id": "char_150_snakek_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Homerun!",
+                "jp": "ホーーームラーーーン！！",
+                "kr": "호~옴~러~언~!!",
+                "cn": "全垒打！！"
+            },
+            "asset": "char_150_snakek/CN_030"
+        },
+        {
+            "id": "char_150_snakek_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Safe!",
+                "jp": "ヒットだよ！",
+                "kr": "안타!",
+                "cn": "安打！"
+            },
+            "asset": "char_150_snakek/CN_031"
+        },
+        {
+            "id": "char_150_snakek_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Aww... struck out…",
+                "jp": "うわぁぁぁん……アウトぉ……うう……。",
+                "kr": "으아아아아…… 아웃…… 으으…… ",
+                "cn": "呜啊啊啊啊......出局了...."
+            },
+            "asset": "char_150_snakek/CN_032"
+        },
+        {
+            "id": "char_150_snakek_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Just don't throw fireballs at me, okay?",
+                "jp": "火の玉を投げないでね？",
+                "kr": "파이어볼은 던지지 없기다?",
+                "cn": "别用火球打我哦？"
+            },
+            "asset": "char_150_snakek/CN_033"
+        },
+        {
+            "id": "char_150_snakek_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Wow, fun!",
+                "jp": "わーい、面白～い！",
+                "kr": "와아~ 재밌어~!",
+                "cn": "哇，好玩！"
+            },
+            "asset": "char_150_snakek/CN_034"
+        },
+        {
+            "id": "char_150_snakek_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Hey Doctor! Can we play a little bit longer? Just a little bit!",
+                "jp": "ドクター、ドクター、もう少しだけ遊ぼう？もう少しだけ！",
+                "kr": "박사, 박사~ 좀만 더 놀면 안 돼? 좀만 더어!",
+                "cn": "博士，博士！再稍微玩一会儿吧？就一小会儿！"
+            },
+            "asset": "char_150_snakek/CN_036"
+        },
+        {
+            "id": "char_150_snakek_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ！",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_150_snakek/CN_037"
+        },
+        {
+            "id": "char_150_snakek_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Heya! Doctor!",
+                "jp": "ドクター！こんにちは！",
+                "kr": "박사! 안녕!",
+                "cn": "博士！你好！"
+            },
+            "asset": "char_150_snakek/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Xanthe Huynh",
+            "global": "Xanthe Huynh"
+        },
+        "cn": {
+            "native": "格林",
+            "global": "Gelin Tian"
+        },
+        "jp": {
+            "native": "諏訪彩花",
+            "global": "Ayaka Suwa"
+        },
+        "kr": {
+            "native": "정혜원",
+            "global": "Jung Hye-won"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

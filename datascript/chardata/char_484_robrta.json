@@ -1,0 +1,596 @@
+{
+    "charid": "char_484_robrta",
+    "nameid": "robrta",
+    "names": {
+        "en": "Roberta",
+        "jp": "ロベルタ",
+        "kr": "로베르타",
+        "cn": "罗比菈塔"
+    },
+    "voices": [
+        {
+            "id": "char_484_robrta_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Hello, Doctor. Have you figured out the style you wanna go with today? Huh...? You didn't call me here for that? I really, really hope you can give it at least a little more thought. Please?",
+                "jp": "ハロードクター、今日はどういうスタイルにしたいか決めた？えぇ……あたしを呼んだのってそういう用事じゃない？いやいや、そこはもうちょっと、もうちょっと考えて？ね？",
+                "kr": "헬로, 박사. 오늘은 어떤 스타일로 할지 정했어? 뭐…… 날 부른 건 그런 거 때문이 아니라고? 아니 잠깐 잠깐, 그건 좀만 더, 쪼~끔만 더 생각해 봐주면 안 될까? 제발!",
+                "cn": "您好啊博士，想好今天换什么造型了吗？咦......叫我过来不是想让我做这些工作？我非常、非常希望您能再考虑一下哦。"
+            },
+            "asset": "char_484_robrta/CN_001"
+        },
+        {
+            "id": "char_484_robrta_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Watch out! I've got tons of stuff in my pocket here. If this negative ion hair softener bumps into the horn growth stimulant and spills... Well... I could end up getting hanged on the deck! It's no joke!",
+                "jp": "気をつけて！あたしのポッケにはものがたくさん入ってるんだよ……このマイナスイオンヘアソフトナーがあの角成長促進剤にぶつかって溢れたら、えっとね……甲板に吊るされるのはほんとに勘弁だよ！",
+                "kr": "좀 조심해! 내 주머니엔 물건이 잔뜩 들어 있다구…… 이 음이온 헤어 소프트너가 뿔 성장 촉진제랑 부딪혀서 쏟아지기라도 하면, 아 그 뭐라 그러지…… 아무튼 갑판에 매달리긴 진짜 싫다구!",
+                "cn": "小心！我兜里东西有点多......这个负离子毛发柔顺器要是撞上那个角部生长溶液，咳咳......被挂上甲板真的很麻烦啊！"
+            },
+            "asset": "char_484_robrta/CN_002"
+        },
+        {
+            "id": "char_484_robrta_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "You've probably heard how assassins who know their stuff in anatomy work more efficiently, no? Of course, my goal's not to take anyone's hope to survive away. Instead, I want to turn that hope into something more vivid and brilliant! Styling is an art, but it's also a science!",
+                "jp": "解剖学に詳しい殺し屋の方が無駄のない動きをするって、聞いたことあるでしょ？もちろん、あたしの目的は相手の生きる希望を断つことじゃなくて、むしろその希望をもっと鮮やかにすることだけどね。スタイリングは芸術であり、科学でもあるんだよ。",
+                "kr": "해부학을 잘 아는 킬러한텐 움직임에 군더더기가 없단 말, 들어 본 적 있지? 물론 내 목적은 상대의 살아갈 희망을 끊는 게 아니라, 오히려 그 희망을 더 선명하게 만드는 거지만 말이야. 스타일링은 예술이자 과학이기도 하다고!",
+                "cn": "熟悉解剖学的杀手动作更高效——您应该听说过吧？当然，我的目标不是剥夺他人的生机，而是抓住那点生机，让它变得更鲜活。造型是艺术，更是科学哦。"
+            },
+            "asset": "char_484_robrta/CN_003"
+        },
+        {
+            "id": "char_484_robrta_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "She looks familiar... Is that the girl who shows up in all those kung fu movies? Whoa, don't ever tell her I'm here! Nah, it's not her that I'm afraid of, but I really don't wanna run into her stylist, Lauder! The last thing I need is anybody calling me 'Bobbi'...",
+                "jp": "この顔は……カンフー映画にいっぱい出てるあの人？うわっ、あたしがここにいるって絶対言わないで！いや、彼女が怖いんじゃなくて、そのスタイリングをしている、あのローダーってやつに会いたくないの！この船でも誰かに「バービー」って呼ばれるのは嫌だよ……",
+                "kr": "이 얼굴은…… 쿵푸 영화에 많이 나오던 그 사람? 으아아…… 내가 여기 있단 얘긴 절~대 하지 마! 알았지! 아니, 그 사람이 무서운 게 아니라, 그 사람 스타일링을 하는 그 로더라는 녀석이 만나기 싫은 거야! 이 배에서도 누가 막 ‘바비~’ 이러면서 부르는 건 싫어………",
+                "cn": "这张脸......是拍了挺多功夫电影的那个？哇，千万别说我在这里！我不是怕她，是想躲着给她做造型的那个劳德！我不想听见这艘船上也有人叫我“芭比”了......"
+            },
+            "asset": "char_484_robrta/CN_004"
+        },
+        {
+            "id": "char_484_robrta_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "I'm a researcher, not a modeler, and I definitely don't want to be the kind of girl who works her mindless brush on monotonous faces under spot light day in and day out! Coming on the ship's been kind of like a vacation to me, I guess? If I had to stare at those lifeless faces all day, my brain would get completely fried sooner or later. I'm not doing that no matter how much I get paid.",
+                "jp": "あたしは研究員だよ、モデラーじゃないし、一日中フラッシュライトに照らされる人工マスクのネジを捻ってるなんてもっとごめん。この船に避難してきたんだから、今はバカンスみたいなものだね。毎日あのピクリともしない顔と向かい合ってたら、そのうち頭が空っぽになっちゃうよ。どんなにお金を積まれたってやらないもんね！",
+                "kr": "나는 연구원이지 모델러가 아니라고. 하루 종일 플래시라이트를 쬐는 인공 마스크의 나사를 돌리라니, 그건 더 싫어! 난 지금 이 배로 피난을 온 거니까, 지금은 바캉스를 온 셈이라고. 매일 그 꼼짝도 하지 않는 얼굴을 마주보다 보면, 진짜 얼마 안 가서 머리가 어떻게 되어버릴걸? 돈을 아무리 많이 준대도 안 할 거야!",
+                "cn": "我是研究员，不是模具师，更不想成天给闪光灯下的人造面具拧螺丝。躲在这船上，也算放假了吧？如果整天对着那些毫无生气的脸，我的脑子迟早会被掏空。给再多的钱我都不干。"
+            },
+            "asset": "char_484_robrta/CN_005"
+        },
+        {
+            "id": "char_484_robrta_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "If I got no money, I can't buy any new tools or materials. That's why even I got to work sometimes. Hm... I think the girl who came to me last time just got an academy award? She'd be fine to spot me, right?",
+                "jp": "お金がないと、新しい道具の材料すら買えない。だからたまには仕事しないとね。うーん……この間依頼しに来たあの子、学院賞を獲ったんだっけ？報酬を多めにもらっても大丈夫だよね？",
+                "kr": "돈이 없으면 새로운 도구에 쓸 재료도 못 살 거 아냐. 그러니까 가끔은 일을 해야지~ 으음…… 전에 의뢰하러 왔던 그 아이, 아카데미상 받은 애라면서? 그럼 보수를 좀 더 많이 불러도 괜찮겠지?",
+                "cn": "没钱的话，连新的工具原材料都买不起啊。偶尔还是得开张。嗯......上次来找我的那个好像刚拿了学院奖？钱要多点没问题吧？"
+            },
+            "asset": "char_484_robrta/CN_006"
+        },
+        {
+            "id": "char_484_robrta_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Doctor, I asked Dr. Warfarin for some info about your body... and modified my brush texture based around that. I promise you it won't trigger any allergies this time!",
+                "jp": "ドクター、ワルファリン先生から君の体のデータを少しもらってきて……それでブラシの素材を調整したから、今回は絶対にアレルギー反応は出ないって約束する！",
+                "kr": "박사, 와파린 선생님한테 박사의 신체 데이터를 조금 받아 왔는데…… 그걸로 브러시의 재료를 조정했으니까, 이번에는 절대 알레르기 반응이 안 생길 거야, 약속할게!",
+                "cn": "博士，我问华法琳医生要了一点您的身体数据......然后调整了下刷子的材质。这次保证不会让您过敏！"
+            },
+            "asset": "char_484_robrta/CN_007"
+        },
+        {
+            "id": "char_484_robrta_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "If you want to touch my hair, go right ahead. It's pretty messy already anyway. Is that weird? When you do styling work for as many people as I do, you definitely won't find yourself in the mood to work on yourself even if you have the time.",
+                "jp": "あたしの髪の毛は好きに触ってていいよ、どうせもうぐちゃぐちゃなんだから。おかしい？仕事で人のスタイリングばっかりやってるとね、時間ができても自分のもやろうって気にならないんだよ。",
+                "kr": "내 머리카락은 마음대로 만져도 돼. 어차피 엉망진창이니까. 이상하다고? 일 때문에 남의 스타일링만 주구장창 하다 보면, 시간이 생겨도 내 건 할 생각이 안 들거든.",
+                "cn": "我的头发可以随便揉哦，反正够乱了。很奇怪吗？平时工作给别人做造型那么忙，闲下来当然没心情打理自己呀！"
+            },
+            "asset": "char_484_robrta/CN_008"
+        },
+        {
+            "id": "char_484_robrta_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Interesting faces are like stories in their own right. Dr. {@nickname}, you are like... a kinda damaged videotape, waiting for someone to dust you off. If the day ever comes that you get repaired, what kind of story will you reveal?",
+                "jp": "興味深い顔っていうのはつまり一つの物語なんだ。ドクター、君は……積もったホコリを誰かが綺麗にしてくれるのを待ってるような、欠けのある録画テープみたい。もし直ったら、その時はどんな物語を聞かせてくれるんだろうね？",
+                "kr": "흥미로운 얼굴이라는 건 즉, 하나의 이야기랑 같은 거야. {@nickname} 박사, 너는…… 쌓여 있는 먼지를 누군가가 깨끗이 치워 주기를 기다리는, 조금 망가진 녹화 테이프 같아. 만약 고쳐진다면 그땐, 어떤 이야기를 들려주게 될까?",
+                "cn": "一张有趣的脸等于一个故事。{@nickname}，你就像一卷......有些损坏了的录影带，等着别人刷尽浮灰。如果有修好的那天，你会向我讲述什么样的故事呢？"
+            },
+            "asset": "char_484_robrta/CN_009"
+        },
+        {
+            "id": "char_484_robrta_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Did you really fall asleep? In that case, I guess I can get to work? Your bone structure, your skin... Whoa, this is even more spectacular than I thought!",
+                "jp": "本当に寝ちゃってるの？だったら今顔をいじっても、誰も怒らないよね？この骨のライン、肌の触感……うわー、思ってたよりずっと素晴らしい！",
+                "kr": "진짜 잠든 건가? 그럼… 지금이라면 얼굴을 만져도 아무도 화내지 않겠지? 이 뼈의 라인, 피부의 감촉…… 우와~ 생각했던 것보다 훨씬 훌륭해!",
+                "cn": "是真的睡着了吗？那我现在开工的话，没人会反对吧？这个骨骼的走向，肌肤的触感......哇哦，比我想象的还要精彩啊！"
+            },
+            "asset": "char_484_robrta/CN_010"
+        },
+        {
+            "id": "char_484_robrta_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Hello, I'm Roberta! We meet again! Once I sign here, I'll be your personal stylist, right? Huh... 'You'll be an operator?' Doesn't matter as long as I get to stay!",
+                "jp": "ハロー、あたしはロベルタ、また会えたね！ここにサインしたら、君専属のスタイリストになれるってことかな？んん？「オペレーター」になる？どっちでもいいよ、ここにいられるなら問題なし。",
+                "kr": "헬로~ 난 로베르타야. 또 만났네? 여기에 사인하면 네 전속 스타일리스트가 될 수 있다 이거지? 으응? '오퍼레이터'가 되는 거라고? 어느 쪽이든 좋아, 여기 있을 수만 있다면 문제없어!",
+                "cn": "您好，我是罗比菈塔，又见面啦！请问在这里签名的话，我是不是就可以成为您的专属造型师了？咦......“成为干员”？随便啦，能留下就没问题。"
+            },
+            "asset": "char_484_robrta/CN_011"
+        },
+        {
+            "id": "char_484_robrta_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Beat up all the annoying guys, right? No more difficult than swinging ten brushes around while taking a sip of coffee. I'm from Siracusa, after all.",
+                "jp": "こうやってウザいやつを全員ぶっ倒せばいいんだね？コーヒーを飲みながらブラシを十本振り回すのと同じくらい楽勝。こう見えてあたしはシラクーザ人だよ？",
+                "kr": "이렇게 짜증 나는 녀석을 다 쓰러뜨리면 된다 이거지? 거의 뭐, 커피 마시면서 브러시를 10개 쯤 쓰는 것 마냥 쉽잖아? 이래 봬도 나, 시라쿠사 사람이라구.",
+                "cn": "像这样把烦人的家伙全部弄趴下对吧？这就跟边喝咖啡边挥舞十把刷子一样简单。我可是叙拉古人呀。"
+            },
+            "asset": "char_484_robrta/CN_012"
+        },
+        {
+            "id": "char_484_robrta_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "I've got an entire room full of medals like this one back in my studio in Wrankwood... Hey, Doctor, can't you give me something a little more interesting for my reward?",
+                "jp": "ランクウッドのスタジオに丸ごと一部屋、こういう勲章を入れてる場所があるんだ……ね、ドクター、ご褒美ってなんかもっと面白いものはないの？",
+                "kr": "랭크우드에 있는 스튜디오엔, 이런 훈장을 놔두는데 방 하나를 통째로 쓰는 곳도 있어…… 있잖아, 박사. 기왕에 상 받는 거, 더 재미있는 상은 없어?",
+                "cn": "我在蓝卡坞的工作室里有一整间屋子用来存放这些奖章......唉，博士，真的不能换成别的更有趣一点的奖励吗？"
+            },
+            "asset": "char_484_robrta/CN_013"
+        },
+        {
+            "id": "char_484_robrta_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Since you're giving me another promotion, I want a bigger studio. You'll approve it, right?",
+                "jp": "また昇進っていうなら、もっと大きいスタジオが欲しいんだけど、いいよね？",
+                "kr": "또 승진한 김에 하는 소린데 말야, 전보다 더~ 큰 스튜디오가 필요하거든? 해줄 수 있지?",
+                "cn": "既然又晋升了，那我想申请一间更大一些的工作室，您会批准的吧？"
+            },
+            "asset": "char_484_robrta/CN_014"
+        },
+        {
+            "id": "char_484_robrta_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Should I go with eyeshadow palette #3001... or perhaps #3002?",
+                "jp": "アイシャドウパレットは3001番がいいかな、それとも3002番？",
+                "kr": "아이섀도 팔레트는 3001번이 좋을까, 아니면 3002번이 좋을까?",
+                "cn": "眼影盘是带3001号更好，还是3002号更好呢？"
+            },
+            "asset": "char_484_robrta/CN_017"
+        },
+        {
+            "id": "char_484_robrta_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Doesn't look like we have a color base that works for all of us...",
+                "jp": "全員に合う色味のベースはなさそうだね……",
+                "kr": "모두한테 다 맞는 색깔의 베이스는 없을 것 같은데……",
+                "cn": "好像没有适合所有人的隔离色号......"
+            },
+            "asset": "char_484_robrta/CN_018"
+        },
+        {
+            "id": "char_484_robrta_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Let's go, everyone! I'll do the re-touch in case your makeup slides off.",
+                "jp": "みんな行け、メイクの直しは任せて！",
+                "kr": "다들 가! 화장 고치는 건 나한테 맡겨!",
+                "cn": "上吧各位，我会为大家补妆的！"
+            },
+            "asset": "char_484_robrta/CN_019"
+        },
+        {
+            "id": "char_484_robrta_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "I know exactly which part of the face is the most fragile!",
+                "jp": "顔のどの部分が一番脆いか、あたしが一番よく知ってるからね？",
+                "kr": "얼굴의 어느 부분이 가장 약한지는, 내가 제일 잘 알고 있거든?",
+                "cn": "脸上哪个部位最脆弱，我可一清二楚哦？"
+            },
+            "asset": "char_484_robrta/CN_020"
+        },
+        {
+            "id": "char_484_robrta_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "You gotta put on the most suitable style even when you're giving out commands in the frontlines.",
+                "jp": "前線で作戦を指揮するのにも、最適のスタイルってのがあるんだよ。",
+                "kr": "전선에서 작전을 지휘하는 데에도 최적의 ‘스타일’이란 게 있다고.",
+                "cn": "就算是在前线指挥作战，也有最合适的造型。"
+            },
+            "asset": "char_484_robrta/CN_021"
+        },
+        {
+            "id": "char_484_robrta_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "These real battlefields give me so much more inspiration than any film set I've been to.",
+                "jp": "本物の戦場では、どんな撮影現場よりもインスピレーションが湧くなあ。",
+                "kr": "진짜 전장은 역시, 어떤 촬영 현장보다도 영감이 샘솟는단 말이지.",
+                "cn": "真实的战场，比任何片场都要让我灵感喷发啊。"
+            },
+            "asset": "char_484_robrta/CN_022"
+        },
+        {
+            "id": "char_484_robrta_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Bring your face closer this way, okay? Thanks. I'll pay attention to how much force I use.",
+                "jp": "顔をもうちょっとこっちに持ってきて？ありがとう、力加減には気を付けるよ。",
+                "kr": "얼굴 좀만 더 이쪽으로 땡겨 줄래? 고마워, 너무 힘 안 들어가게 조심할게.",
+                "cn": "请把脸再凑过来一些，谢谢，我会注意力度的。"
+            },
+            "asset": "char_484_robrta/CN_023"
+        },
+        {
+            "id": "char_484_robrta_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Even the biggest stars out there gotta book me in advance, you know? You should count yourselves lucky!",
+                "jp": "大スターだって予約をとるんだよ、君たち運が良かったね？",
+                "kr": "잘 나간다는 스타들도 나 원래 예약 받아가면서 해주거든? 너넨 운 좋은 줄 알아!",
+                "cn": "连大明星找我都要预约，便宜你们了哦？"
+            },
+            "asset": "char_484_robrta/CN_024"
+        },
+        {
+            "id": "char_484_robrta_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Surface electrode tracking auto-filling concealer!",
+                "jp": "表面筋電位追跡オートフィリングコンシーラー！",
+                "kr": "표면 근전위 트래킹 오토 필링 컨실러!",
+                "cn": "表面肌电追踪自填充粉底遮瑕！"
+            },
+            "asset": "char_484_robrta/CN_025"
+        },
+        {
+            "id": "char_484_robrta_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Infused Originium Slug acid styling spray!",
+                "jp": "バクダンムシ抽出液スタイリングスプレー！",
+                "kr": "하이에너지 원석충 애시드 에센스 익스트랙션 스타일링 스프레이!",
+                "cn": "高能源石虫酸液萃取定型喷雾！"
+            },
+            "asset": "char_484_robrta/CN_026"
+        },
+        {
+            "id": "char_484_robrta_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Facial bone full structured self-image shading highlighter!",
+                "jp": "フェイシャルボーンフルストラクチャードセルフイメージシェーディングハイライター！",
+                "kr": "페이셜본 풀 스트럭처드 셀프 이미지 쉐이딩 하이라이터!",
+                "cn": "颅颌面全结构自成像修容高光！"
+            },
+            "asset": "char_484_robrta/CN_027"
+        },
+        {
+            "id": "char_484_robrta_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Wet/Dry ambient color adapted lipstick and blusher!",
+                "jp": "ウェット・ドライ両用アンビエントカラーアダプトグロスチーク！",
+                "kr": "웻 앤 드라이 앰비언트 컬러 소프트 글로우 파우더 블러셔!",
+                "cn": "干湿用环境色自适应唇彩腮红！"
+            },
+            "asset": "char_484_robrta/CN_028"
+        },
+        {
+            "id": "char_484_robrta_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Whoa... Not even I can replicate that look on your face right now.",
+                "jp": "うわ……このあたしでも、今の君の顔つきを別の顔で再現できないよ。",
+                "kr": "우와…… 지금 네 얼굴, 다른 사람 얼굴에 메이크업해서 재현하라 하면 절대 못 할 거야… 아마 나도 못 할 걸……",
+                "cn": "哇......就算是我，也没法在另一张脸上塑造出您此刻的神采。"
+            },
+            "asset": "char_484_robrta/CN_029"
+        },
+        {
+            "id": "char_484_robrta_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "What a perfect operation. Makes me want to add a few more touches to bring out that joy on your face.",
+                "jp": "パーフェクトな作戦だったね。君の顔にもっと喜びを足したいくらいだよ。",
+                "kr": "퍼펙트한 작전이었어! 네 얼굴에 기쁨을 더욱 더 더해주고 싶을 정도로!",
+                "cn": "完美的作战。真想为您脸上的喜色再添几笔。"
+            },
+            "asset": "char_484_robrta/CN_030"
+        },
+        {
+            "id": "char_484_robrta_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "There's nothing as boring as watching the cowards run. They always stiffen up like Rock Spiders that've spent a bit too much time in antiseptics.",
+                "jp": "腰抜けの姿ほどつまらないものはないよ。防腐剤に浸しすぎたイワグモみたいに固まった顔をしてるんだ。",
+                "kr": "겁쟁이만큼 시시한 건 없지. 저 놈들, 방부제에 절여진 바위 거미처럼 딱딱한 얼굴을 하고 있네.",
+                "cn": "逃兵的神态最无趣。他们僵硬得就像在防腐剂里泡了过久的岩蛛。"
+            },
+            "asset": "char_484_robrta/CN_031"
+        },
+        {
+            "id": "char_484_robrta_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Doctor, need me to give your face a little blush? If you go back like this, the others might worry when they look at you.",
+                "jp": "ドクター、顔色補正をしてあげようか？このまま帰ると、心配されるよ。",
+                "kr": "박사, 피부톤 보정이라도 좀 해 줄까? 이대로 돌아가면 다들 걱정하겠다.",
+                "cn": "需要我帮您提一下气色吗？这样回去的话，有人恐怕要担心了。"
+            },
+            "asset": "char_484_robrta/CN_032"
+        },
+        {
+            "id": "char_484_robrta_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Can I do my experiments here? Relax, I won't blow the walls out. At most... I guess the doors and windows might bend a little?",
+                "jp": "ここで実験をしてもいい？安心して、壁を壊したりしないから。酷くても……ドアとか窓をちょっぴり変形させるくらい？",
+                "kr": "여기서 실험해도 돼? 안심해, 괜히 멀쩡한 벽을 부수거나 그러진 않을 테니까. 심해 봤자…… 문이나 창문이 아주 살~짝 변형되는 정도?",
+                "cn": "我可以在这里做实验吗？放心，不会炸穿墙板的，最多......让门窗变一点形？"
+            },
+            "asset": "char_484_robrta/CN_033"
+        },
+        {
+            "id": "char_484_robrta_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Didn't I say I'm not seeing anyone...? Oh, it's you.",
+                "jp": "誰にも会わないって言ったでしょ……あれ、君だったんだ。",
+                "kr": "아무도 안 만난다고 했잖아…… 아, 너였구나.",
+                "cn": "不是说过谁找都不见吗......等等，是你呀？"
+            },
+            "asset": "char_484_robrta/CN_034"
+        },
+        {
+            "id": "char_484_robrta_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Doctor, can I come over to your room this evening? Your face could really use a massage.",
+                "jp": "ドクター、夕方部屋に行ってもいい？君の顔、とってもマッサージを必要としてるよ！",
+                "kr": "박사, 저녁에 방으로 가도 돼? 지금 네 얼굴, 굉장히 마사지를 필요로 하고 있다고!",
+                "cn": "博士，傍晚我可以去你房间吗？你脸上的皮肤真的很需要按摩哦！"
+            },
+            "asset": "char_484_robrta/CN_036"
+        },
+        {
+            "id": "char_484_robrta_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_484_robrta/CN_037"
+        },
+        {
+            "id": "char_484_robrta_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Hey, Doctor, want to try this new look I designed just for you?",
+                "jp": "ハイ、ドクター、君のために考えた新しいスタイル、試してみる？",
+                "kr": "하이~ 박사! 널 위해 또 새로운 스타일을 생각해 봤거든? 한번 시도해 볼래?",
+                "cn": "嗨，博士，想试试我为您专门设计的新造型吗？"
+            },
+            "asset": "char_484_robrta/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Becky Wright",
+            "global": "Becky Wright"
+        },
+        "cn": {
+            "native": "罗玉婷",
+            "global": "Anita Luo"
+        },
+        "jp": {
+            "native": "亀谷理子",
+            "global": "Ayako Kamegai"
+        },
+        "kr": {
+            "native": "김보민",
+            "global": "Kim Bo-min"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

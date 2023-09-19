@@ -1,0 +1,596 @@
+{
+    "charid": "char_493_firwhl",
+    "nameid": "firwhl",
+    "names": {
+        "en": "Firewhistle",
+        "jp": "ファイヤーホイッスル",
+        "kr": "파이어휘슬",
+        "cn": "火哨"
+    },
+    "voices": [
+        {
+            "id": "char_493_firwhl_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "With all this paper around, it's hard to resist the urge to start fires… Whoa, whoa, don't look at me like that, I'm just joshin', okay?",
+                "jp": "目の前にこんな紙の山を積まれたら、放火癖を抑えるのも一苦労だねぇ――ちょっとー、そんな目で見ないでよ。冗談だってばー。",
+                "kr": "눈앞에 종이들이 산더미처럼 쌓여있는데, 불을 붙이고 싶은 충동을 참는 것도 꽤나 고역이네. 잠깐, 그런 눈으로 쳐다보지 마, 농담이라고 농담.",
+                "cn": "面前放着这么多纸，要克制住点火的冲动也挺难的——呃，别那么盯着我啊，我开玩笑的。"
+            },
+            "asset": "char_493_firwhl/CN_001"
+        },
+        {
+            "id": "char_493_firwhl_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Doctor, our employees are all Billy natives who know the lay of the land. If any Rhodes operators are traveling to Rim Billiton and need an escort, come find us! We will offer you a fair price.",
+                "jp": "ドクター、うちの社員はみんな生まれも育ちもレム・ビリトンだから、現地の状況はバッチリわかってるよー。もしレム・ビリトンまでの護衛が必要になったら、絶対うちに依頼してね。料金のご相談にも乗りますよー！",
+                "kr": "박사, 우리 직원들은 전부 림 빌리턴 토박이라 현지 환경은 아주 잘 알고 있어. 만약 림 빌리턴으로 가는 오퍼레이터에게 호위가 필요하다면, 꼭 우리 회사에 맡겨 줘. 좋은 가격에 해 줄게!",
+                "cn": "博士，我司员工都是土生土长的雷姆必拓人，对当地环境了如指掌。如果有干员去雷姆必拓需要护卫，请务必交给我司，价格好商量！"
+            },
+            "asset": "char_493_firwhl/CN_002"
+        },
+        {
+            "id": "char_493_firwhl_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Why hire Infected when it's bad for business? Well, umm, because... Ah, come on, we all know how Oripathy's transmitted. All you need is proper protection and monitoring. Rhodes Island does the same, right? Ahaha…",
+                "jp": "商売の妨げになるってわかってるのに、どうして感染者を雇うのかって？えーっと、それは……どうせみんな鉱石病の感染経路は知ってるし、予防と経過観察さえちゃんとやっとけば大丈夫でしょー。ロドスだってそうしてるんじゃないの？アハッ、ハハハ……",
+                "kr": "회사 경영에 방해가 되는데, 왜 감염자들을 고용하냐고? 그거야…… 어차피 다들 광석병이 어떻게 전염되는진 잘 알고 있고, 예방이랑 모니터링만 잘하면 되는 거잖아. 그건 로도스 아일랜드도 마찬가지 아닌가. 하하하……",
+                "cn": "明知道对生意不利，为什么还雇佣感染者？这个......反正大家都知道矿石病是如何传染的，只要做好防护和监测就行，你看罗德岛不也是这样嘛，哈哈，哈哈。"
+            },
+            "asset": "char_493_firwhl/CN_003"
+        },
+        {
+            "id": "char_493_firwhl_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "The right type of ammo can turn the tide of a battle', it's a line every artilleryman knows. So their bags are filled with grapeshot, flashbangs and tracers. 'Course, they always have trouble deciding which to use when the time comes. As for me, I just bring incendiaries. Use 'em right, and they replace any type of ammo you could need.",
+                "jp": "「弾薬選びが戦況を左右する」っていう、砲撃手にはお馴染みの言葉があってさ、それを信じてみんな榴散弾に音響弾、曳光弾なんかをバッグに詰め込んでるんだけど、結局肝心な時にどれを使えばいいかわからなくなるんだよねー。でもあたしは焼夷弾だけで十分。上手に使えば、どんな弾薬代わりにだってなるからねー。",
+                "kr": "'탄약 선택이 전세를 좌우한다' 포격사수라면 이 말을 한 번쯤 들어봤을 거야. 그래서 다들 가방에 유산탄, 섬광탄, 예광탄 등을 넣어 두곤 하는데, 정작 상황이 닥치면 어떤 걸 쓰면 좋을지 잘 모르는 경우가 많단 말이지. 하지만 난 소이탄 하나면 충분해. 이건 잘만 쓰면 어떤 종류의 탄약이든 다 대체가 가능하거든.",
+                "cn": "“用合适的弹药改变战局”，炮手都知道这句话，于是他们往包里塞了榴霰弹、震撼弹、曳光弹，事到临头却不知道该用什么。而我只带燃烧弹就够了。只要用得好，它可以顶替任何一种弹药。"
+            },
+            "asset": "char_493_firwhl/CN_004"
+        },
+        {
+            "id": "char_493_firwhl_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "I hated it whenever anyone brought up my dad while I was in university. Are we on bad terms? Naw, he's not a bad dad, and I'm grateful to him. But I hate it when people look at me like a mining mogul's spoiled kid. I'm more than just my dad's daughter!",
+                "jp": "大学生の頃、父さんの話をされるのが一番嫌だったんだよねー――不仲？違う違う。父さんは優しいし、いつもすっごく感謝してるよ。だけど、先入観だけであたしを散財するしか能のない鉱山王のお嬢様って決めつける人が多くてさ！父さんは父さん、あたしはあたしでしょ！",
+                "kr": "대학에 다닐 땐 남들이 내 아버지 얘기를 하는 게 제일 싫었어. 아버지랑 사이가 안 좋았냐고? 그런 건 아니야. 우리 아버지는 상냥하신 데다, 나도 늘 감사하게 생각하고 있거든. 근데 아버지 때문에, 날 광산업 부잣집의 세상 물정 모르는 아가씨인 줄 아는 사람이 하도 많아서 말이야! 아버지는 아버지고, 난 나라고!",
+                "cn": "读大学的时候，我最讨厌的就是别人总提我爸——家庭矛盾？那倒不是。我爸人不坏，我也很感谢他，但总有人问都不问就把我当成矿老板家只会花钱的大小姐！他是他，我是我！"
+            },
+            "asset": "char_493_firwhl/CN_005"
+        },
+        {
+            "id": "char_493_firwhl_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Dad wouldn't let me near fire, Mum didn't let me play with the miners' kids, my old boss told me not to poke my nose into business that isn't my own, and everyone told me not to be too nice to the Infected. I never listened to any of that. You decide what's right and wrong for yourself, and never get swept up if you need time to make a choice.",
+                "jp": "父さんには火遊びを禁止されてたし、母さんからは作業員の子と関わるなって言われてた。上司には余計なことに首を突っ込むなってよく注意されたし、他にも色んな人から感染者に優しくし過ぎるなって警告されてきたけど、そんなの一言だって聞き入れなかったよ。善し悪しは自分で判断するし、判断できないならとりあえず反論しとく――あたしはそういう人間だから。",
+                "kr": "아버지는 내가 불을 가지고 놀지 못하게 하셨어. 그리고 어머니는 광부의 아이들이랑 놀지 말라고 하셨고. 전 상사한테는 쓸데없는 일에 참견하지 말라는 얘길 자주 들었고, 또 많은 사람들이 나더러 감염자들한테 너무 잘해 주지 말라고 하더라. 근데 난, 그런 말 한마디도 안 들었어. 옳고 그름은 스스로 판단하는 거니까, 긴가민가할 땐 일단 반론하고 봐야 돼, 나는 그런 사람이니까.",
+                "cn": "我爸禁止我碰火，我妈让我少和矿工的孩子玩，前东家让我少管闲事，还有好多人告诉我别对感染者太好，这些话我一句也不听。对错要靠自己判断，一时判断不出也要先唱唱反调，我就是这样的人。"
+            },
+            "asset": "char_493_firwhl/CN_006"
+        },
+        {
+            "id": "char_493_firwhl_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "That little firefighter always tenses up when she sees me, then points her hose right at me. Well, It's cute, sure, but that can't go on forever. The three of us should go for a drink sometime and clear up this misunderstanding. For the two of you, I'll make my special flaming cocktail.",
+                "jp": "あのちっこい消防員だけど、あたしを見る度に目の色変えて噴射口を向けてきてさー。まぁ可愛いんだけど、いつもそんな風にされたらたまらないよ。ねードクター、今度あの子も誘って三人で飲まない？あたしへの誤解を解いてくれたら、お手製のファイヤーカクテルをご馳走するからさ。",
+                "kr": "저기 저 작은 소방관 말이야, 날 볼 때마다 긴장해서, 소방 호스까지 들이밀고 있다니까. 귀엽긴 하지만 계속 이런 식이면 좀 곤란한데. 다음에 시간 되면 우리 셋이서 한잔하자. 박사가 나에 대한 오해 좀 풀어줘. 내가 직접 파이어 칵테일도 만들어 줄게.",
+                "cn": "那个小消防员一看到我就浑身紧绷，还用水炮对着我，可爱是挺可爱的，但总这样也不好。博士，下次我们仨喝一杯吧，麻烦你帮我消除一下她对我的误会，我请你们喝我自己调的火焰鸡尾酒。"
+            },
+            "asset": "char_493_firwhl/CN_007"
+        },
+        {
+            "id": "char_493_firwhl_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "I know I'm not great at business, but I also know how it feels to be helpless, relying on the kindness of others. It hurts, the company being in debt, but debtor's prison beats having to burn your own comrades to cinders.",
+                "jp": "あたしが経営に向いてないのには気付いてるよー。だけど肩身の狭い思いをして、無力さを痛感する苦しみは身に染みてわかってるから。何期も赤字が続くとまた別の辛さがあるけど、最終的に破産して檻に放り込まれたって、仲間を焼き殺せって言われるよりはマシでしょ。",
+                "kr": "나도 알아 내가 경영을 잘 못한다는 거. 그래도 남한테 얹혀살거나, 무기력하게 산다는 게 뭔지는 나도 똑똑히 느껴봤어. 연이어 적자가 나는 건 어쩔 수 없지만, 파산해서 감옥에 가는 게 동료들을 불태우라는 명령을 듣는 것보단 낫잖아.",
+                "cn": "我其实发现了，自己不擅长经商，可我切切实实地体会过什么叫做“寄人篱下”“无能为力”。连年亏损当然是另一种无奈，但就算是因为破产坐牢，也比被人吩咐烧死自己的战友要强得多。"
+            },
+            "asset": "char_493_firwhl/CN_008"
+        },
+        {
+            "id": "char_493_firwhl_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "I loved playing army when I was little, and I always dreamed of becoming a general. But Rim Billiton wasn't the place for that, so I had to settle for a private security firm... Now? Now I just want to keep my people warm and fed. My dream of becoming a general died the first time I saw someone get shot.",
+                "jp": "小さい頃はとにかく戦争ごっこが好きで、大将軍になるのが夢だったんだー。でもレム・ビリトンはそんな感じのとこじゃなかったから、民間の警備会社に入るしかなかったんだよね。今の夢？今は部下たちが衣食住困らないようにしてあげられたらって思ってるよ。将軍になる夢なんて、仲間が矢に倒れるのを初めて見た時に、すーって色あせちゃったよ。",
+                "kr": "어렸을 땐 전쟁놀이에 빠져서, 대장군이 되는 게 꿈이었어. 근데 림 빌리턴은 그런 걸 할 수 있는 곳이 아니었으니까, 결국 민간 경호 회사에 들어갈 수밖에 없었지. 지금? 지금은 그냥 직원들이 등 따시고 배부르게 지낼 수 있으면 돼. 그리고 대장군이 되겠다는 꿈 말인데, 옆에 있던 사람이 화살에 맞는 걸 처음 본 순간 싹 사라지더라.",
+                "cn": "我小时候很迷行军打仗，最想当的是大将军。但雷姆必拓没有这样的土壤，所以我只能进私人安保公司。现在？现在我只想让手下吃饱穿暖。至于将军梦，第一次看到身边有人中箭的时候就淡了。"
+            },
+            "asset": "char_493_firwhl/CN_009"
+        },
+        {
+            "id": "char_493_firwhl_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Yawn... I'm bored. Might as well build a grenade tower over here... Whoa?! You're awake? Er, these are blanks! Nah yeah, just blanks!",
+                "jp": "ふわー……つまんないなー。榴弾のタワーでも作ろっと――うわ、寝てないの！？いやいやいや。これ全部空砲、空砲だから！",
+                "kr": "하암…… 지루하네. 유탄으로 탑이나 쌓아볼까…… 앗, 자고 있었던 거 아니었어?! 아, 아냐. 이건 공포탄이야, 공포탄!",
+                "cn": "呼啊......好无聊啊，摆个榴弹塔吧——欸，你其实没睡？！不不不，这是空包弹，空包弹！"
+            },
+            "asset": "char_493_firwhl/CN_010"
+        },
+        {
+            "id": "char_493_firwhl_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Thank you for choosing Firewhistle Security Services! My name is... huh? Codename? Umm, just call me Firewhistle. Yup, that's the key to raising brand awareness!",
+                "jp": "弊社を選んでいただきありがとうございます！あたしはファイヤーホイッスル警備の責任者で、名前は――えっ？コードネーム？うーん……そのまま社名で「ファイヤーホイッスル」って呼んでください！そうそう、これも社名を覚えてもらうための戦略でーす！",
+                "kr": "저희 회사를 선택해 주셔서 감사합니다! 저는 파이어휘슬 경비 회사의 책임자…… 네? 코드네임이요? 으음…… 그냥 파이어휘슬이라고 불러 주세요! 네네, 이것도 회사 인지도를 높이기 위한 전략이에요~!",
+                "cn": "感谢您选择与我司合作！我是火哨安保公司的负责人，我叫——欸？干员代号？嗯......直接叫我火哨好了！没错，这也是提升客户认知度的重要环节！"
+            },
+            "asset": "char_493_firwhl/CN_011"
+        },
+        {
+            "id": "char_493_firwhl_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Nice strat. Would've been even better with some fire on that spot.",
+                "jp": "いい戦術だね。あそこに火を点けちゃえばもう完璧なんだけどなー。",
+                "kr": "괜찮은 전술인데? 저 위치에 불만 붙이면 더 완벽했을 거야.",
+                "cn": "这战术不错，要是在那个位置点把火就更完美了。"
+            },
+            "asset": "char_493_firwhl/CN_012"
+        },
+        {
+            "id": "char_493_firwhl_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "A promotion? Thank you! If you've got any more security jobs for me and my people, that'd be even better. Hehe.",
+                "jp": "昇進？ありがとうございまーす！警護任務をもうちょっと弊社に回していただけたらなお幸いです！",
+                "kr": "승진? 감사합니다~! 경호 임무를 좀 더 저희 회사 쪽으로 돌려주신다면 더욱 감사하겠습니다!",
+                "cn": "晋升？多谢多谢，要是能多给我派几单安保任务我也会很开心的！"
+            },
+            "asset": "char_493_firwhl/CN_013"
+        },
+        {
+            "id": "char_493_firwhl_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Working with Rhodes Island's seen my company turn a profit at last. I'm not paying my employees out of my own pocket anymore! Thank you so much, Doctor! You have all my appreciation and all my gratitude!",
+                "jp": "ロドスと提携するようになって、うちの会社もようやく黒字化できたよ。もうこれで貯金を切り崩して給料出さなくて済むね！ドクター、ほんとにほんっとにありがとー！",
+                "kr": "로도스 아일랜드와의 협력 덕분에, 파이어휘슬사도 드디어 흑자를 보게 됐어. 나도 더 이상 적금을 깨서 직원 월급을 주지 않아도 되겠네! 진짜 진짜 고마워, 박사!",
+                "cn": "和罗德岛达成合作之后，火哨公司终于扭亏为盈，我也不用再掏私房钱发工资了！博士，真的太感谢你了！"
+            },
+            "asset": "char_493_firwhl/CN_014"
+        },
+        {
+            "id": "char_493_firwhl_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Firewhistle, at your service!",
+                "jp": "ファイヤーホイッスル、誠心誠意尽くします！",
+                "kr": "파이어휘슬, 성심성의껏 서비스하겠습니다!",
+                "cn": "火哨，竭诚为你服务！"
+            },
+            "asset": "char_493_firwhl/CN_017"
+        },
+        {
+            "id": "char_493_firwhl_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Captain? No problem, I'm used to running the show.",
+                "jp": "隊長？いいよー。一番しっくりくるポジションだからね。",
+                "kr": "팀장? 문제없어. 늘 해 왔던 포지션이니까.",
+                "cn": "队长？没问题，这个位置我再熟悉不过了。"
+            },
+            "asset": "char_493_firwhl/CN_018"
+        },
+        {
+            "id": "char_493_firwhl_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Let's go,everyone! I'll buy a round for us all when we're done.",
+                "jp": "みんな行くよー。終わったらご飯奢ったげるからねー！",
+                "kr": "다들 출발하자. 끝나면 밥은 내가 쏠게~!",
+                "cn": "出发，任务结束之后我请客！"
+            },
+            "asset": "char_493_firwhl/CN_019"
+        },
+        {
+            "id": "char_493_firwhl_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Stay low. Wait 'till you see my fire.",
+                "jp": "みんなまずは隠れといて。火がついてから行動開始ねー。",
+                "kr": "모두 잘 숨어 있어. 불이 붙으면 그때 움직이자고.",
+                "cn": "大家先做好隐蔽，等火点起来再动手。"
+            },
+            "asset": "char_493_firwhl/CN_020"
+        },
+        {
+            "id": "char_493_firwhl_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Need some fire to turn up the heat?",
+                "jp": "なに？火をつけて場を温めてほしいの？",
+                "kr": "왜, 불이라도 붙여서 분위기 좀 띄워 볼까?",
+                "cn": "怎么，需要点火焰助助兴？"
+            },
+            "asset": "char_493_firwhl/CN_021"
+        },
+        {
+            "id": "char_493_firwhl_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Your orders please.",
+                "jp": "どうぞご指示を。",
+                "kr": "명령을 내려 줘.",
+                "cn": "请尽管下令。"
+            },
+            "asset": "char_493_firwhl/CN_022"
+        },
+        {
+            "id": "char_493_firwhl_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "In position and ready to light'em up.",
+                "jp": "準備完了、いつでも燃やせます。",
+                "kr": "준비 완료. 언제든 불태울 수 있어.",
+                "cn": "准备就绪，随时可以点火。"
+            },
+            "asset": "char_493_firwhl/CN_023"
+        },
+        {
+            "id": "char_493_firwhl_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Artilleryman in position!",
+                "jp": "砲手、位置につきました！",
+                "kr": "포수, 위치로!",
+                "cn": "炮手就位！"
+            },
+            "asset": "char_493_firwhl/CN_024"
+        },
+        {
+            "id": "char_493_firwhl_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Let's burn'em up!",
+                "jp": "燃えろ！",
+                "kr": "불타올라라!",
+                "cn": "烧吧！"
+            },
+            "asset": "char_493_firwhl/CN_025"
+        },
+        {
+            "id": "char_493_firwhl_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "This one's for you!",
+                "jp": "この一発はプレゼントだよ！",
+                "kr": "이건 선물이야!",
+                "cn": "这一发是送给你的！"
+            },
+            "asset": "char_493_firwhl/CN_026"
+        },
+        {
+            "id": "char_493_firwhl_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Panicking just spreads the fire faster.",
+                "jp": "パニクってたら余計丸焦げになっちゃうよ。",
+                "kr": "당황하면 더 심하게 타 버릴걸?",
+                "cn": "惊慌失措会被烧得更惨哦。"
+            },
+            "asset": "char_493_firwhl/CN_027"
+        },
+        {
+            "id": "char_493_firwhl_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Load, fire!",
+                "jp": "装填、発射！",
+                "kr": "장전, 발사!",
+                "cn": "装填，发射！"
+            },
+            "asset": "char_493_firwhl/CN_028"
+        },
+        {
+            "id": "char_493_firwhl_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Your plan actually worked! Sure wish I had a tactical genius like you on my payroll.",
+                "jp": "勝てちゃったの！？はぁ……うちにも君みたいな天才指揮官がいたらなぁ。",
+                "kr": "이겼네?! 하아…… 우리 회사에도 박사 같은 천재 지휘관이 있으면 좋을 텐데.",
+                "cn": "这也可以？！唉......要是我司也有一个像你一样的战术天才就好了。"
+            },
+            "asset": "char_493_firwhl/CN_029"
+        },
+        {
+            "id": "char_493_firwhl_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "We should put out the fires before we call it a day. Wanna join me?",
+                "jp": "撤退する前に、消火活動に付き合ってよー。",
+                "kr": "철수하기 전에 소화 작업 같이 가자.",
+                "cn": "收工之前，先陪我去把火灭了吧。"
+            },
+            "asset": "char_493_firwhl/CN_030"
+        },
+        {
+            "id": "char_493_firwhl_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Leaving a smoldering ember is a good way to end up with a wildfire. Let's watch out for those.",
+                "jp": "放っとくつもりなら、燻ったままの薪はいつか火事の原因になるから、気をつけた方がいいよ。",
+                "kr": "그을린 장작은 언젠가 화재의 원인이 될 수도 있으니까, 조심하는 편이 좋아.",
+                "cn": "要是放着不管，阴燃的柴草总有一天会变成火灾的源头，请务必注意。"
+            },
+            "asset": "char_493_firwhl/CN_031"
+        },
+        {
+            "id": "char_493_firwhl_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "I'll cover our retreat. Don't worry, I've done this a bunch of times.",
+                "jp": "後始末は任せて。こういう戦いならもう数え切れないくらいやってきたから、心配しなくていいよ。",
+                "kr": "뒤처리는 맡겨 줘. 걱정 마, 이런 싸움이야 한두 번 해 본 것도 아니니까.",
+                "cn": "我来断后。别担心，这样的仗我打过不知多少次了。"
+            },
+            "asset": "char_493_firwhl/CN_032"
+        },
+        {
+            "id": "char_493_firwhl_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Rhodes Island's base is outfitted so much better than my little office.",
+                "jp": "うちのせっまい事務所に比べたら、ロドスの設備は充実してるよねー。",
+                "kr": "내가 빌린 그 작은 사무실에 비하면 로도스 아일랜드의 시설이 확실히 좋네.",
+                "cn": "和我租的那间小办公室相比，罗德岛的设施真齐全啊。"
+            },
+            "asset": "char_493_firwhl/CN_033"
+        },
+        {
+            "id": "char_493_firwhl_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Hey, Wanna see some fireworks?",
+                "jp": "へぇ、花火が見たいの？",
+                "kr": "불꽃놀이 보고 싶어?",
+                "cn": "想看烟花吗？"
+            },
+            "asset": "char_493_firwhl/CN_034"
+        },
+        {
+            "id": "char_493_firwhl_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Here, I made this ornament out of a shell casing. Hehe, I'm really good at it, right?",
+                "jp": "はい、薬莢で作ったオブジェだよ。どう？なかなか良い腕してるでしょー？",
+                "kr": "자, 탄피로 만든 공예품이야. 어때, 나 손재주 괜찮지 않아?",
+                "cn": "给，弹壳做的工艺品。怎么样，我手艺不错吧？"
+            },
+            "asset": "char_493_firwhl/CN_036"
+        },
+        {
+            "id": "char_493_firwhl_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_493_firwhl/CN_037"
+        },
+        {
+            "id": "char_493_firwhl_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "G'day, Doctor! Need a warm fire?",
+                "jp": "おーっすドクター。火でも点けてあったまらない？",
+                "kr": "안녕, 박사. 몸 데우게 불이라도 피워 줄까?",
+                "cn": "你好啊，博士，想不想生把火暖和一下？"
+            },
+            "asset": "char_493_firwhl/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Jennifer Losi",
+            "global": "Jennifer Losi"
+        },
+        "cn": {
+            "native": "若舞",
+            "global": "Luttefair"
+        },
+        "jp": {
+            "native": "松井恵理子",
+            "global": "Eriko Matsui"
+        },
+        "kr": {
+            "native": "김소희",
+            "global": "Kim So-hee"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

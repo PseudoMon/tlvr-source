@@ -1,0 +1,596 @@
+{
+    "charid": "char_171_bldsk",
+    "nameid": "bldsk",
+    "names": {
+        "en": "Warfarin",
+        "jp": "ワルファリン",
+        "kr": "와파린",
+        "cn": "华法琳"
+    },
+    "voices": [
+        {
+            "id": "char_171_bldsk_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Doctor, Dr. Kal'tsit sent me to take a blood sample from you. We can chat as I'm getting the needle ready.",
+                "jp": "ドクター、ケルシー先生からそなたの血液検査を頼まれた。準備をしながら少し話しでもしないか。",
+                "kr": "박사, 닥터 켈시에게 그대의 혈액검사를 부탁받았다. 준비하는 동안 잠깐 얘기라도 하지 않겠나.",
+                "cn": "博士，凯尔希医生让我给您做个血液化验，在我准备好之前先随便聊聊吧。"
+            },
+            "asset": "char_171_bldsk/CN_001"
+        },
+        {
+            "id": "char_171_bldsk_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Can I control the urge to feed, you ask? How dare you underestimate me! I'm a trained professional. Of course I can tell patients from food!",
+                "jp": "吸血衝動を抑えられるかだと？なめるな痴れ者が！訓練を積んだプロの医師として、食料と患者の線引きくらいわきまえておるわ！",
+                "kr": "흡혈 충동을 자제할 수 있냐고? 무지한지고! 무시하지 마라! 훈련을 쌓아온 프로 의사로서, 식재료와 환자의 선은 확실히 긋고 있다!",
+                "cn": "我能不能控制吸血冲动？是不是小看我了呀！作为经受过训练的专业医生，我还是能分得清食物和病人的！"
+            },
+            "asset": "char_171_bldsk/CN_002"
+        },
+        {
+            "id": "char_171_bldsk_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "It's my job to track blood indicators for all our operators, even if they aren't exactly happy about it—huh...? These blood bags? They're samples, of course! What were you thinking!?",
+                "jp": "オペレーター全員の血液型を記録するのは必須事項だ。たとえ当事者が嫌がっても、な。この血？検査で採血したものだ。いったい何を勘違いしている？",
+                "kr": "오퍼레이터 전원의 혈액형을 기록하는 건 필수사항이다. 설령 당사자가 싫어한다고 해도 말이지. 이 피? 검사 때문에 채혈한 거다, 대체 무슨 착각을 하고 있는 거지?",
+                "cn": "记录全体干员的血液常规指数是我的工作，即使当事人不太情愿，也是没办法的......这些血？这些......当然是用作血液检查的样本啊！你在想什么啦！"
+            },
+            "asset": "char_171_bldsk/CN_003"
+        },
+        {
+            "id": "char_171_bldsk_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "There's another one of my kind here. And she's an... engineer? Hm…maybe she likes the smell of machine oil more than blood?",
+                "jp": "ここに妾の同族がいて、担当は……エンジニアだと？人間の血液よりも、機械のオイルの方が好みというわけか？",
+                "kr": "여기 나의 동족이 있는데, 엔지니어…… 담당이라고? 인간의 혈액보다 기계의 오일이 더 취향이란 건가?",
+                "cn": "这里居然还有一位我的同族，而且担任的职位居然是......工程师？比起血液，她好像更喜欢机油的味道欸？"
+            },
+            "asset": "char_171_bldsk/CN_004"
+        },
+        {
+            "id": "char_171_bldsk_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Why I chose to become a doctor? I can't say it was any sort of lofty calling. It's just that, you know, OUR kind... we don't exactly have the brightest prospects. But it turned out my skills were actually in surprisingly high demand, so... I just went with the flow.",
+                "jp": "医師になった理由か？別に崇高な理由があるわけではない、一族の歪な宿命といったところか。有り体に言えば、必要に迫られての成り行きということだな……。",
+                "kr": "의사가 된 이유 말인가? 딱히 숭고한 이유가 있는 건 아냐, 일족의 비뚤어진 숙명이랄까… 솔직히 말하면… 필요에 따라 떠밀려서 하게 되었다고 할 수 있지.",
+                "cn": "成为医生的理由？其实也不是什么高尚的念头啦，仅仅是出于我们一族畸形的遭遇吧。之后，我的能力意外被人需要，事情就顺理成章地变成这样了......"
+            },
+            "asset": "char_171_bldsk/CN_005"
+        },
+        {
+            "id": "char_171_bldsk_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "How do we fight the urge to feed? We actually have a course that helps us control our desires. And we've invented artificial blood, so we drink that if we need. We can be very resourceful, you know.",
+                "jp": "本能からくる衝動を抑える方法だと？自己暗示に、食用血液を代用品として摂取するなどが有効だな。まあ、方法なんていくらでもある。",
+                "kr": "본능적으로 생기는 충동을 억누르는 방법? 자기암시라든지, 식용 혈액을 대용품으로 섭취하는 방법… 같은 게 효과 있지. 뭐, 방법이라면 얼마든지 있어.",
+                "cn": "我们抑制本能冲动的方法？有一整套的自我暗示课程，食用的血液也有代用品，总之方法多种多样。"
+            },
+            "asset": "char_171_bldsk/CN_006"
+        },
+        {
+            "id": "char_171_bldsk_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "This is the standard procedure. It's the same for everyone getting blood drawn. Don't move, Doctor. Ah... blood... your blood... it smells delicious... It's just… it's just… captivating...",
+                "jp": "ドクター。採血後の処理をするから動くな。……くっ……そなたの血液……今まで嗅いだことのない芳しい香りだ……妾の心を惑わせる……。",
+                "kr": "박사, 채혈 후처리를 할 테니 움직이지 마. 큭… 그대의 혈액… 지금까지 맡아본 적 없는 향긋한 향기가 나…… 내 마음을 들뜨게 하는군……",
+                "cn": "这只是采血后的常规处理啊，博士请不要动......唔，血、血液......您的血......我，我从来没闻过这么香的味道......我似乎被，被迷惑住了......！"
+            },
+            "asset": "char_171_bldsk/CN_007"
+        },
+        {
+            "id": "char_171_bldsk_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Replenishing saline solution! Changing filters! Sterilizing sand and charcoal canisters... all done! Doctor, you'd better keep your medical supplies well-maintained. As Dr. Kal'tsit said, when your kidneys give out, these machines are going to save your life... aw, come on, just kidding.",
+                "jp": "精製水の補充、フィルター交換、チャコールキャニスターの消毒……。ん？ドクターか。医療機器には徹底したメンテナンスが必要なんだ……。もしそなたが腎不全にでもなったら、これらの機器で生命をつなぎとめるしかないと、ケルシー先生が言っていたぞ。……冗談だ、本気にするな。",
+                "kr": "정제수 보충, 필터 교환, 활성탄 캐니스터 소독…… 음? 박사인가, 의료기기는 철저히 정비해야 해서 말이야. 혹시 그대에게 신부전이라도 오면, 이 기기로 생명을 유지시킬 수밖에 없다고 닥터 켈시가 그랬거든… 농담이다, 진지하게 받아들이지 말라고.",
+                "cn": "补充生理盐水！更换过滤器！砂罐、碳罐消毒......好嘞。博士，医疗设备可需要好好维护哦，凯尔希医生说过，等到博士您肾衰竭的时候，就得靠这些设备救命了......哎呀，开，开玩笑的啦。"
+            },
+            "asset": "char_171_bldsk/CN_008"
+        },
+        {
+            "id": "char_171_bldsk_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Fine, fine, I'll come clean... I have tasted lots of blood of many different types from all different races. And I do enjoy the subtle differences in flavor, okay? In fact, the only type of blood I've never tasted is... yours, Doctor. Heheh...",
+                "jp": "まぁ、確かに、様々な種族や血液型の血を飲み比べ、その違いを味わって楽しんだりしたこともある……。飲んだことがないのはそなたの血だけかもしれぬな。ふふ……。",
+                "kr": "뭐, 확실히, 다양한 종족과 혈액형의 피를 맛보며 그 차이를 음미했던 적도 있었지…… 맛보지 못한 건 그대의 피 정도일지도 모르겠군. 후후……",
+                "cn": "好啦好啦，我承认，以前我是品尝过不少种族不同类型的血，而且，也确实以分析它们味道间的差异为乐......现在我没尝过的，大概就只有博士您的血了吧？呵呵......"
+            },
+            "asset": "char_171_bldsk/CN_009"
+        },
+        {
+            "id": "char_171_bldsk_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Hm? So you still have time to sleep? I'm jealous.",
+                "jp": "……ふっ、のんきに眠る時間があるとは、羨ましいことだ。",
+                "kr": "흥…… 느긋하게 잘 시간도 있고, 부럽군그래.",
+                "cn": "哎，你居然还有时间睡觉，真让人羡慕啊。"
+            },
+            "asset": "char_171_bldsk/CN_010"
+        },
+        {
+            "id": "char_171_bldsk_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "I am Warfarin, the blood-scientist-slash-doctor. Besides typical healing Arts, I also bring you specialized medical treatments, courtesy of my remarkable expertise in hematology and plentiful experience. Anyway, look forward to working with you.",
+                "jp": "妾はワルファリン。血液学が専門の医師だ。ヒーリングアーツでのサポートもそうだが、血液学で得た知識と経験が、よりそなたたちの役に立つはずだ。では……世話になる。",
+                "kr": "이 몸은 와파린. 혈액학이 전문인 의사다. 힐링 아츠로 서포트하는 것도 그렇지만… 혈액학으로 익힌 지식과 경험이, 그대에게 더욱 도움이 될 것이다. 그럼…… 잘 부탁하지.",
+                "cn": "我，华法琳，血液学专科医师。比起普通的治疗法术，我会利用血液学相关知识和经验，为你们提供比常规方式更好的医疗保障。那么，请多关照啦。"
+            },
+            "asset": "char_171_bldsk/CN_011"
+        },
+        {
+            "id": "char_171_bldsk_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Hm, my work efficiency seems to have improved.",
+                "jp": "ふむ。仕事の効率化がはかれそうだな。",
+                "kr": "흠. 업무 효율이 높아질 것 같군.",
+                "cn": "嗯。工作效率好像提高了。"
+            },
+            "asset": "char_171_bldsk/CN_012"
+        },
+        {
+            "id": "char_171_bldsk_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Are you even listening? We're having trouble collecting rare blood types for the emergency blood bank. So—what? What did you say? A promotion? Now?",
+                "jp": "いいか！？緊急時に輸血用として使える希少血液は、手に入れるだけでも一苦労なんだ、だから……は……？昇進？今更か？",
+                "kr": "잘 들어라! 긴급상황에서 수혈용으로 쓰는 희소 혈액은 입수하는 것만으로도 수고가 이만저만이 아니라고, 그러니까… 뭐? ……승진? 이제 와서?",
+                "cn": "......所以说，您有在认真听吗？急救备用的稀有血型呀，想要搜集这些血液是非常艰难的，所以......啊？晋升？是现在吗？"
+            },
+            "asset": "char_171_bldsk/CN_013"
+        },
+        {
+            "id": "char_171_bldsk_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "This only means more work for me, right? Ha, I saw that a mile away! I'm an expert in this field after all. Don't worry, I am well prepared!",
+                "jp": "これからもっと仕事が増える、そういうことだろう？こういう日が来ることは予想していたし、妾はもともとこの道のプロだからな。安心しろ、準備はできている。",
+                "kr": "앞으로 더 일이 늘어날 거라… 이 말이지? 이런 날이 올 줄은 이미 예상하고 있었다. 나도 원래 이쪽으론 프로니까 말이야. 안심해라, 준비는 되어있다.",
+                "cn": "也就是说，今后的工作会更繁重了，对吧？我早就预料到会有这一天了！毕竟，我原本就是这个领域的专家嘛。放心吧，一切都已经准备好了！"
+            },
+            "asset": "char_171_bldsk/CN_014"
+        },
+        {
+            "id": "char_171_bldsk_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Wait, I need to prepare my equipment first.",
+                "jp": "待て、医療器具を準備してからだ。",
+                "kr": "기다려, 먼저 의료 기구부터 준비해야지.",
+                "cn": "等一下，至少等我准备好医疗器具之后再说。"
+            },
+            "asset": "char_171_bldsk/CN_017"
+        },
+        {
+            "id": "char_171_bldsk_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "A leader reports only to you, right?",
+                "jp": "隊長というのは、そなたに責任を約束すればよいのだろう？",
+                "kr": "팀장이라는 건, 그대에게 책임을 약속하면 되는 거지?",
+                "cn": "队长只需要向您负责就好了，对吧？"
+            },
+            "asset": "char_171_bldsk/CN_018"
+        },
+        {
+            "id": "char_171_bldsk_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "My equipment is ready. We can start any time.",
+                "jp": "医薬品の積み込みは完了した。それでは出発する。",
+                "kr": "의약품 보급은 마쳐뒀다. 그럼 출발하지.",
+                "cn": "医疗用品都准备好了，随时都可以出发。"
+            },
+            "asset": "char_171_bldsk/CN_019"
+        },
+        {
+            "id": "char_171_bldsk_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "I don't have the leisure for enemy intel at the moment. Taking care of our operators has already occupied my whole schedule...",
+                "jp": "敵の状況はまだ不明瞭だ、味方の世話だけで時間がいっぱいいっぱいでな……。",
+                "kr": "적의 상황은 아직 파악되지 않았다. 우리 편을 챙기느라 시간이 빠듯해서 말이야……",
+                "cn": "现在还不太了解敌人的情况，毕竟光是照料我方人员，就把我的时间都排满了......"
+            },
+            "asset": "char_171_bldsk/CN_020"
+        },
+        {
+            "id": "char_171_bldsk_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Go ahead.",
+                "jp": "言ってみろ。",
+                "kr": "말해보아라.",
+                "cn": "请说。"
+            },
+            "asset": "char_171_bldsk/CN_021"
+        },
+        {
+            "id": "char_171_bldsk_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Medical equipment set.",
+                "jp": "医療機器の設置は済んでいる。",
+                "kr": "의료기기 설치는 끝내놨다.",
+                "cn": "医疗器械设置完毕。"
+            },
+            "asset": "char_171_bldsk/CN_022"
+        },
+        {
+            "id": "char_171_bldsk_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Call for help immediately if you're injured!",
+                "jp": "負傷した者はすぐに知らせるんだ！",
+                "kr": "부상당하면 바로 알려주도록!",
+                "cn": "负伤的人，要记得立刻求救！"
+            },
+            "asset": "char_171_bldsk/CN_023"
+        },
+        {
+            "id": "char_171_bldsk_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Commence treatment.",
+                "jp": "治療開始……。",
+                "kr": "치료 개시……",
+                "cn": "开始治疗。"
+            },
+            "asset": "char_171_bldsk/CN_024"
+        },
+        {
+            "id": "char_171_bldsk_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Ready for blood transfusion!",
+                "jp": "輸血準備！",
+                "kr": "수혈 준비!",
+                "cn": "准备输血！"
+            },
+            "asset": "char_171_bldsk/CN_025"
+        },
+        {
+            "id": "char_171_bldsk_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Get the hemostat!",
+                "jp": "止血鉗子！",
+                "kr": "지혈집게!",
+                "cn": "止血钳！"
+            },
+            "asset": "char_171_bldsk/CN_026"
+        },
+        {
+            "id": "char_171_bldsk_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "First aid here, take it!",
+                "jp": "救急キットだ、使え。",
+                "kr": "구급상자다, 잘 쓰도록.",
+                "cn": "这里有急救箱，请用这个！"
+            },
+            "asset": "char_171_bldsk/CN_027"
+        },
+        {
+            "id": "char_171_bldsk_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "I'll be right there!",
+                "jp": "いま行くぞ！",
+                "kr": "지금 바로 가겠다.",
+                "cn": "我马上就来！"
+            },
+            "asset": "char_171_bldsk/CN_028"
+        },
+        {
+            "id": "char_171_bldsk_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "It's really nerve-wracking being in the medic squad. Support troops are really under lots of pressure! Good thing I'm already used to it.",
+                "jp": "医療班もそうだが、後方部隊の負担は増える一方だ……。なんとか慣れてはきたが……。",
+                "kr": "의료부도 그렇지만, 후방 지원팀의 부담도 점점 늘어나고 있다…… 어찌저찌 익숙해지긴 했다만……",
+                "cn": "医疗小队也这么紧张，后方部队的压力实在不小......还好，我已经习惯啦。"
+            },
+            "asset": "char_171_bldsk/CN_029"
+        },
+        {
+            "id": "char_171_bldsk_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "The battlefield is a place of tragedy. I hope they come to understand this one day.",
+                "jp": "戦場は凄惨な悲劇を生むだけの場所だ……こいつらにもそれを理解してもらいたいものだ。",
+                "kr": "전장은 처참한 비극을 낳기만 하는 장소란 걸…… 이 녀석들도 알았으면 좋겠군.",
+                "cn": "战场是一个只会制造可怕悲剧的地方，希望那些人也能理解到这点。"
+            },
+            "asset": "char_171_bldsk/CN_030"
+        },
+        {
+            "id": "char_171_bldsk_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Forget about those fleeing enemies at the moment, our priority now is to help the injured.",
+                "jp": "負傷者の救助が先だ。逃亡した敵兵など放っておけ。",
+                "kr": "부상자의 구조가 우선이다. 도주한 적병 따윈 내버려 둬.",
+                "cn": "优先救助伤员吧，先别管那些逃跑的敌人了。"
+            },
+            "asset": "char_171_bldsk/CN_031"
+        },
+        {
+            "id": "char_171_bldsk_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "I am sorry, we've even ran out reserve medicine…",
+                "jp": "すまない……薬剤の用意不足だ……。",
+                "kr": "미안하다…… 약제 준비가 부족했다……",
+                "cn": "对不起，备用药剂也不够了......"
+            },
+            "asset": "char_171_bldsk/CN_032"
+        },
+        {
+            "id": "char_171_bldsk_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "I guess I'm more accustomed to figuring things out myself...",
+                "jp": "やはりひとりで考え事をするほうが、性に合うな……。",
+                "kr": "역시 혼자 고민하는 편이 성미에 맞는군……",
+                "cn": "果然，我还是习惯一个人思考问题啊......"
+            },
+            "asset": "char_171_bldsk/CN_033"
+        },
+        {
+            "id": "char_171_bldsk_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Huh? What are you doing?",
+                "jp": "っ！おい！何をしている……。",
+                "kr": "꺄악! 그대! 지금 뭐 하는 건가!",
+                "cn": "欸，您在做什么呀......"
+            },
+            "asset": "char_171_bldsk/CN_034"
+        },
+        {
+            "id": "char_171_bldsk_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Doctor, isn't it almost time for your annual checkup?",
+                "jp": "ドクター、そろそろ定期検診が必要なのではないか？",
+                "kr": "박사, 슬슬 정기검진 받아야 하지 않나?",
+                "cn": "博士，给您做定期检查的日子，是不是快到了？"
+            },
+            "asset": "char_171_bldsk/CN_036"
+        },
+        {
+            "id": "char_171_bldsk_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_171_bldsk/CN_037"
+        },
+        {
+            "id": "char_171_bldsk_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Hello, Doctor.",
+                "jp": "ふむ、ドクターか。",
+                "kr": "흠, 박사인가.",
+                "cn": "你好，博士。"
+            },
+            "asset": "char_171_bldsk/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Lindsay Morton",
+            "global": "Lindsay Morton"
+        },
+        "cn": {
+            "native": "格林",
+            "global": "Gelin Tian"
+        },
+        "jp": {
+            "native": "石見舞菜香",
+            "global": "Manaka Iwami"
+        },
+        "kr": {
+            "native": "신송이",
+            "global": "Shin Song-yi"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

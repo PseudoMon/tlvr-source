@@ -17,14 +17,15 @@ def move_chardata():
     print("Succesfully moved all chardata")
 
 def move_charlist():
-    # Still use dummy chars for now
-    chosens = ["indigo", "texas", "lmlee", "jnight", 
-    "lolxh", "ncdeer", "aprot2"]
     charlist = load_json("charlist.json")
-    charlist = [char for char in charlist if char["nameid"] in chosens]
+    # Some selections for testing
+    # chosens = ["indigo", "texas", "lmlee", "jnight", 
+    # "lolxh", "ncdeer", "aprot2"]
+    #charlist = [char for char in charlist if char["nameid"] in chosens]
 
     save_json(charlist, path.join("..", "site", "static", 
             "data", "charlist.json"), False)
+    print("Character list moved!")
 
 def ffmpeg_convert(sourcefile, targetfile, skipoverwrite = False):
     if (skipoverwrite):

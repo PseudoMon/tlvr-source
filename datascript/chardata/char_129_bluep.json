@@ -1,0 +1,596 @@
+{
+    "charid": "char_129_bluep",
+    "nameid": "bluep",
+    "names": {
+        "en": "Blue Poison",
+        "jp": "アズリウス",
+        "kr": "블루포이즌",
+        "cn": "蓝毒"
+    },
+    "voices": [
+        {
+            "id": "char_129_bluep_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Greetings, Doctor. You're glowing today. To see you so well... it's all I could ever hope for.",
+                "jp": "あら、ごきげんよう、ドクター。今日もお元気そうでなによりですわね。",
+                "kr": "어머. 안녕하신가요, 박사님. 오늘도 건강해 보이셔서 다행이네요.",
+                "cn": "哎呀，你好，博士。今天的您看起来也很健康，这比什么都好。"
+            },
+            "asset": "char_129_bluep/CN_001"
+        },
+        {
+            "id": "char_129_bluep_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "I prepared an antidote to nullify the effects of any common poison. I'd like you to take one dose before every battle. Do you mind?",
+                "jp": "解毒剤を調合しましたの、普通の毒ならまず解毒できますわ。作戦前には必ずお飲みになって。よろしいですわね？",
+                "kr": "해독제를 조합했답니다. 평범한 독이라면 대부분 해독할 수 있을 거예요. 작전 전에 꼭 마셔 두세요. 아시겠죠?",
+                "cn": "我准备了解毒剂，它能使普通的毒物完全无效。希望您在每次作战前都服用一杯，可以吗？"
+            },
+            "asset": "char_129_bluep/CN_002"
+        },
+        {
+            "id": "char_129_bluep_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Actually, the toxin in my body is an ingredient in some high-quality medicines. That's why Dr. Kal'tsit needs me in her lab a lot.",
+                "jp": "毒の成分は薬の良い原料になるということで、ケルシー先生はいつも私を実験室に呼びつけますの……。",
+                "kr": "제 몸의 독의 성분은 좋은 약의 원료가 된다고 해서, 켈시 선생님께선 늘 저를 실험실로 부르시곤 한답니다……",
+                "cn": "因为我身体中的毒素也是一种优质的药品原料，所以凯尔希医生经常把我叫去她的实验室......"
+            },
+            "asset": "char_129_bluep/CN_003"
+        },
+        {
+            "id": "char_129_bluep_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Hmm, why do you keep staring at me... You mean, it's because my eye color is special? Is that a compliment, Doctor?",
+                "jp": "あら、私のことをじっとお見つめになって、何かご用ですの？……はい？私の目が珍しい？……ドクター、それで褒めているおつもり？",
+                "kr": "어머, 절 그렇게 지긋이 바라보시다니, 무슨 일이라도 있으신가요? ……네? 제 눈이 신기하다고요? 박사님, 설마 그걸 칭찬이라고 하시는 건 아니겠지요?",
+                "cn": "哎呀，一直盯着我看，有什么事吗？......嗯？我的眼睛很罕见？博士，这是在称赞我吗？"
+            },
+            "asset": "char_129_bluep/CN_004"
+        },
+        {
+            "id": "char_129_bluep_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "I'm the one our enemies fear the most. After all, who wouldn't want to kill me before I can torture them to death with my poison? What really worries me is that my teammates might think the same…",
+                "jp": "私は敵から最も忌み嫌われる存在ですの。仕方ありませんわ、「毒物」などに苦しんで殺されるなら、真っ先にそれを消そうと考えるのは当然ですもの。……時々、味方も同じことを考えているのではないかと不安になります。",
+                "kr": "저는 적이 가장 기피하고 꺼리는 존재랍니다. 어쩔 수 없겠죠. '독극물' 따위에 괴로워하다 죽기보단, 가장 먼저 없애고 싶어 하는 게 당연하니까요…… 가끔, 아군도 같은 생각을 하곤 해서 불안해지곤 한답니다.",
+                "cn": "我是敌人最畏惧的存在。没办法啊，比起被“毒物”折磨而死，不如抢先杀死我，敌人们理所当然会这样选择吧......只是有时候，我的同伴也会思考同样的事，这让我有些不安。"
+            },
+            "asset": "char_129_bluep/CN_005"
+        },
+        {
+            "id": "char_129_bluep_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Why am I staring at this cake? Actually... I baked it to share with everyone, but no one wanted it... Would you like to try it, Doctor?",
+                "jp": "どうしてケーキを見てボーッとしているか、ですか？私が皆様に焼いたケーキなんですが、誰も食べてくださらないのです……もしかして、ドクターが食べてくださると？",
+                "kr": "왜 우두커니 케이크만 바라보고 있느냐고요? 제가 다른 분들을 위해 구운 케이크입니다만, 아무도 드시지를 않네요…… 설마, 박사님께서 드셔 주시려고요?",
+                "cn": "为什么我在盯着这块蛋糕发呆？其实蛋糕是我为大家烤的，只是谁都不肯吃......难道，博士想要尝尝看吗？"
+            },
+            "asset": "char_129_bluep/CN_006"
+        },
+        {
+            "id": "char_129_bluep_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Doctor, you're always wearing the same outfit. How about I choose some new clothes for you? I think I have pretty good taste. Oh... it's a uniform? So you can't change it? Okay…",
+                "jp": "ドクターはいつも同じ服を着てらっしゃるのね。なんなら新しい服を選んでさしあげましょうか？私、服のコーディネートには自信がありますのよ。……あら、制服は勝手に変えてはいけない……ですか？",
+                "kr": "박사님께서는 항상 같은 옷을 입고 있으시네요. 괜찮으시면 제가 옷을 골라 드릴까요? 저, 옷 코디하는 것 하난 자신 있거든요… 어머, 유니폼을 마음대로 바꾸어선 안 된다…… 고요?",
+                "cn": "博士总是穿着相同的衣服呢，不如让我帮您挑选些新的吧？我觉得自己还挺有挑衣服的品味......哎，制服是不能随便更换的......这样吗？"
+            },
+            "asset": "char_129_bluep/CN_007"
+        },
+        {
+            "id": "char_129_bluep_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "I'm 'toxic'... so people prefer to stay away from me. But now I have you by my side, Doctor, and I'm really, really happy.",
+                "jp": "私は「毒物」なので、誰も私に近づこうとしません……。でもドクターは、こんな私の側にいてくださる……嬉しいです……本当に……。",
+                "kr": "저는 '독극물'이라, 아무도 가까이 다가오려 하지 않는답니다… 하지만, 박사님께서는 이런 제 곁에 있어 주시네요… 기뻐요… 진심으로…",
+                "cn": "因为我是“毒物”，所以谁都不想接近我......但，这样的我的身边，现在总能有博士相伴。我很开心哟，真的。"
+            },
+            "asset": "char_129_bluep/CN_008"
+        },
+        {
+            "id": "char_129_bluep_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "My body isn't that different from everyone else. I may be 'toxic,' but nothing bad will happen if someone touches me. Doctor, if you can prove this to everyone, then maybe they won't always keep away from me. Could you... hold my hand out there?",
+                "jp": "本当のところ、私の身体は皆様と同じですの。私が「毒物」だからといって、触れると何か起きるなんてことはありませんのよ……。ドクターがそれを証明してくだされば、皆様も信じてくれるかもしれません……。ドクター、もしよろしければ、皆様の前で私の手に触れてくださるかしら？",
+                "kr": "사실 제 몸은 다른 분들과 똑같답니다. 제가 '독극물'이라고 해도, 닿는 것만으로 큰일이 나는 건 아니거든요… 박사님께서 그걸 증명해 주신다면, 다들 믿어주실지도 모르죠… 박사님, 혹시 실례가 되지 않는다면, 사람들 앞에서… 제 손을 잡아주지 않으시겠어요?",
+                "cn": "实际上，我的身体和大家没什么不同，即使我是“毒物”，只是触碰的话并不会发生什么坏事。如果您能亲自证明这一点的话，也许大家就能相信......博士，可以在大家面前，触碰我的手吗？"
+            },
+            "asset": "char_129_bluep/CN_009"
+        },
+        {
+            "id": "char_129_bluep_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Doctor? Oh, already asleep. Gotta find a blanket to keep the Doctor warm...",
+                "jp": "ドクター？……あら、お休みになられたわね。何かお掛けするものはないのかしら……。",
+                "kr": "박사님? …아, 쉬고 계셨군요. 뭔가 덮어 드릴 게 어디 없나…",
+                "cn": "博士？哎呀，好像睡着了。有没有毯子能给博士盖一下呢。"
+            },
+            "asset": "char_129_bluep/CN_010"
+        },
+        {
+            "id": "char_129_bluep_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Nice to meet you, I'm Blue Poison. I'm sure Dr. Kal'tsit must have told you about me. In that case, it'll be up to you to decide how to use my 'toxic' powers.",
+                "jp": "はじめまして、アズリウスと申しますわ。ケルシー先生から伺ってらっしゃると思いますが、「毒物」と呼ばれるこの私の力、使い方はお任せいたしますわ。",
+                "kr": "처음 뵙겠습니다. 블루포이즌이라고 합니다. 켈시 선생님께 들으셨겠지만, '독극물'이라 불리는 저의 힘을 어떻게 사용하실지는, 박사님께 맡기도록 하지요.",
+                "cn": "初次见面，我是蓝毒，想必您已经听凯尔希医生提起过我，那么，该如何运用我这“毒物”的能力，就交由您来决定了。"
+            },
+            "asset": "char_129_bluep/CN_011"
+        },
+        {
+            "id": "char_129_bluep_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "I think I hear the sound of toxic liquid boiling, like music to my ears.",
+                "jp": "毒が沸々と滾る音が聞こえるよう……いい気分ですわ。",
+                "kr": "마치 독이 부글거리는 소리가 들리는 것 같은…… 좋은 기분이네요.",
+                "cn": "似乎听到了毒液沸腾的声音，真让人心情愉快啊。"
+            },
+            "asset": "char_129_bluep/CN_012"
+        },
+        {
+            "id": "char_129_bluep_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Thank you so much... I'm so glad I get to help out in all these battles. It's like a dream come true.",
+                "jp": "幾多の戦いで功績を得られて、私も本望ですわ。ありがとうございます。",
+                "kr": "수많은 전투에서 공을 세울 수 있게 되어 저도 더할 나위 없이 만족스럽네요. 감사드립니다.",
+                "cn": "很感谢您。能在这么多的战斗中有所建树，我的愿望实现了呢。"
+            },
+            "asset": "char_129_bluep/CN_013"
+        },
+        {
+            "id": "char_129_bluep_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "I used to hold back and hide my 'toxic' self, but now I've accepted what I am, trying to move forward to change my fate. I have you to thank for helping me make this shift, Doctor. You have my sincerest gratitude.",
+                "jp": "「毒物」として負い目を感じながら生きていくより、ありのままの自分を受け入れて、運命を変えられる努力をしよう――こんなささやかな夢を叶える機会を与えてくださったのはドクター、あなたですわ。本当に、感謝してもしきれませんわ……。",
+                "kr": "독극물'로서의 부담감을 안고 살기보다, 있는 그대로의 나 자신을 받아들이고, 운명을 바꾸도록 노력하자… 이런 자그마한 꿈을 이룰 기회를 주신 건… 박사님, 바로 당신이에요. 정말, 뭐라고 감사의 말씀을 드려야 할지……",
+                "cn": "与其作为“毒物”浑浑噩噩地活下去，不如坦率接受这样的自己，努力去改变命运——能让我实现这小小梦想的人，正是博士您啊。所以，真的，真的非常感谢......"
+            },
+            "asset": "char_129_bluep/CN_014"
+        },
+        {
+            "id": "char_129_bluep_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Great. I'm good at supporting assaults.",
+                "jp": "いいですわね。攻撃支援に長けた私に、ピッタリの仕事ですわ。",
+                "kr": "좋습니다. 공격 지원이 특기인 제게 딱 맞는 일이네요.",
+                "cn": "这样很好，我很适合做辅助进攻的工作。"
+            },
+            "asset": "char_129_bluep/CN_017"
+        },
+        {
+            "id": "char_129_bluep_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "I'd be much better off supporting the others. Wouldn't want my poison to harm you, Doctor...",
+                "jp": "やはり援護の任務がいいですわ。この毒液が、ドクターにも牙を剥くかもしれませんのよ。",
+                "kr": "전 역시 엄호하는 임무가 좋아요. 이 독액은 박사님께 이빨을 드러낼지도 모르니까요.",
+                "cn": "派我去援护其他人比较好哦？否则我的毒液，说不定会伤到博士......"
+            },
+            "asset": "char_129_bluep/CN_018"
+        },
+        {
+            "id": "char_129_bluep_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Everyone, there's no need for you all to stand so far from me...",
+                "jp": "あらあら、そんなに私を避けなくても大丈夫ですのよ……。",
+                "kr": "어머나, 그렇게 절 피하지 않으셔도 되는데……",
+                "cn": "各位，没必要离我那么远的......"
+            },
+            "asset": "char_129_bluep/CN_019"
+        },
+        {
+            "id": "char_129_bluep_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "I prepared a 'gift' for you. Like it?",
+                "jp": "あなた方のためにプレゼントを用意しましたの。気に入っていただけるかしら？",
+                "kr": "여러분께 드릴 선물을 준비했어요. 마음에 드실지 모르겠군요.",
+                "cn": "我为你们准备了“礼物”。喜欢吗？"
+            },
+            "asset": "char_129_bluep/CN_020"
+        },
+        {
+            "id": "char_129_bluep_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Awaiting your orders.",
+                "jp": "お待ちしておりましたわ。",
+                "kr": "기다리고 있었답니다.",
+                "cn": "恭候您的指令。"
+            },
+            "asset": "char_129_bluep/CN_021"
+        },
+        {
+            "id": "char_129_bluep_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Please don't be scared of me.",
+                "jp": "私のことはお構いなく。",
+                "kr": "무서워하지 마세요.",
+                "cn": "请不要怕我。"
+            },
+            "asset": "char_129_bluep/CN_022"
+        },
+        {
+            "id": "char_129_bluep_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Don't worry, my poison is not contagious.",
+                "jp": "ご安心くださいまし。この毒は移りませんから。",
+                "kr": "안심하세요. 이 독은 옮지 않으니까요.",
+                "cn": "请安心，毒素是不会传染的。"
+            },
+            "asset": "char_129_bluep/CN_023"
+        },
+        {
+            "id": "char_129_bluep_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "My toxicant is ready.",
+                "jp": "毒薬の準備が整いましたわ。",
+                "kr": "독약 준비라면 이미 다 끝났답니다.",
+                "cn": "毒剂准备好了哦。"
+            },
+            "asset": "char_129_bluep/CN_024"
+        },
+        {
+            "id": "char_129_bluep_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "My toxins will slowly burn your life away...",
+                "jp": "この毒は、ゆっくりとあなた方の命を蝕みますのよ。",
+                "kr": "이 독은, 천천히 당신들의 목숨을 끊어줄 거예요.",
+                "cn": "这种毒素，将会慢慢侵蚀你的生命......"
+            },
+            "asset": "char_129_bluep/CN_025"
+        },
+        {
+            "id": "char_129_bluep_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Are you hallucinating?",
+                "jp": "幻覚が見えるかしら？",
+                "kr": "환각이 보이시나요?",
+                "cn": "是不是看到幻觉了呢？"
+            },
+            "asset": "char_129_bluep/CN_026"
+        },
+        {
+            "id": "char_129_bluep_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Honey to me, poison to you.",
+                "jp": "我が蜜液が、汝に死をもたらさん。",
+                "kr": "나의 꿀이 그대에게 죽음을 가져오리라.",
+                "cn": "我之蜜糖，汝之砒霜。"
+            },
+            "asset": "char_129_bluep/CN_027"
+        },
+        {
+            "id": "char_129_bluep_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Poison kiss.",
+                "jp": "ポイズン・キス。",
+                "kr": "포이즌 키스.",
+                "cn": "毒吻。"
+            },
+            "asset": "char_129_bluep/CN_028"
+        },
+        {
+            "id": "char_129_bluep_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Use poison to fight the evils and crimes... Isn't that ironic to you?",
+                "jp": "「毒物」が陰謀と罪悪に勝るだなんて、どう、皮肉な話だと思いませんこと？",
+                "kr": "독극물'이 음모와 죄악을 이기다니, 어떠신가요? 정말 얄궂은 얘기지 않나요?",
+                "cn": "用“毒物”去战胜阴谋和罪恶。会不会让您觉得这是种讽刺呢？"
+            },
+            "asset": "char_129_bluep/CN_029"
+        },
+        {
+            "id": "char_129_bluep_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "I've got a poison to melt away all these remains in an instant. Want me to show you?",
+                "jp": "この死骸たち、一瞬で溶かしてしまうこともできますのよ……見てみたいかしら？",
+                "kr": "이 시체들, 단숨에 녹여버릴 수도 있답니다… 보고 싶으신가요?",
+                "cn": "有种方法，能让这些残骸在一瞬间溶化掉......您想欣赏一下吗？"
+            },
+            "asset": "char_129_bluep/CN_030"
+        },
+        {
+            "id": "char_129_bluep_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Good, finished before my clothes got dirty.",
+                "jp": "たいして服を汚さずに済みましたわ。",
+                "kr": "생각보다 옷을 더럽히지 않고 끝냈네요.",
+                "cn": "还好，没弄脏衣服就结束了。"
+            },
+            "asset": "char_129_bluep/CN_031"
+        },
+        {
+            "id": "char_129_bluep_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "How ridiculous. Feels like I killed myself with my own poison...",
+                "jp": "この戦い……「毒物」が自分の毒で死ぬように滑稽ですわ……。",
+                "kr": "이 전투… '독극물'이 자신의 독에 죽는 것처럼 우스꽝스럽네요……",
+                "cn": "真是可笑的战斗，就像“毒物”被自己毒死一样......"
+            },
+            "asset": "char_129_bluep/CN_032"
+        },
+        {
+            "id": "char_129_bluep_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Resting when you're tired helps you focus on your work.",
+                "jp": "良い仕事をするためには、適度な休憩が必要ですわ。",
+                "kr": "일을 잘하려면, 적당한 휴식이 필요하죠.",
+                "cn": "适当的休息，也是为了工作更有状态哦。"
+            },
+            "asset": "char_129_bluep/CN_033"
+        },
+        {
+            "id": "char_129_bluep_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Huh?",
+                "jp": "えっ……。",
+                "kr": "어라……",
+                "cn": "欸？"
+            },
+            "asset": "char_129_bluep/CN_034"
+        },
+        {
+            "id": "char_129_bluep_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "D-Did you just touch me? C-Can you do that again? Please?",
+                "jp": "い、いま、私に触れてくださったのですか？……も、もう一度、もう一度、お願いできないかしら…？",
+                "kr": "바, 방금 저를 만지셨나요? ……하, 한 번만, 한 번만 더 해 주실 수 있나요…?",
+                "cn": "您、碰到我了？再做、再做一次，能拜托您再做一次吗？"
+            },
+            "asset": "char_129_bluep/CN_036"
+        },
+        {
+            "id": "char_129_bluep_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_129_bluep/CN_037"
+        },
+        {
+            "id": "char_129_bluep_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Hello, Doctor.",
+                "jp": "ごきげんよう、ドクター。",
+                "kr": "안녕하신지요, 박사님.",
+                "cn": "你好，博士。"
+            },
+            "asset": "char_129_bluep/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Alex Tregear",
+            "global": "Alex Tregear"
+        },
+        "cn": {
+            "native": "陈彦亦",
+            "global": "Yee Chen"
+        },
+        "jp": {
+            "native": "種﨑敦美",
+            "global": "Atsumi Tanezaki"
+        },
+        "kr": {
+            "native": "우정신",
+            "global": "Woo Jeong-sin"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

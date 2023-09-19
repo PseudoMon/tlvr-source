@@ -1,0 +1,596 @@
+{
+    "charid": "char_4055_bgsnow",
+    "nameid": "bgsnow",
+    "names": {
+        "en": "Pozëmka",
+        "jp": "パゼオンカ",
+        "kr": "파죰카",
+        "cn": "鸿雪"
+    },
+    "voices": [
+        {
+            "id": "char_4055_bgsnow_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Hello, Doctor. I'll be acting as your assistant from here on. Please keep an appropriate distance from me; I'll be more at ease that way.",
+                "jp": "ご機嫌ようドクター。これからわらわが秘書を務めますわ、適切な距離を保つようお願いいたしますわね。そちらの方が安心できますの。",
+                "kr": "안녕하세요, 박사님. 이제부터는 제가 당신의 비서입니다. 저와는 적절한 거리를 유지해 주셨으면 좋겠습니다. 그편이 더 안심되니까요.",
+                "cn": "您好，博士，现在由我来担任您的助理，请您和我保持适当的距离，这样我会更放松一点。"
+            },
+            "asset": "char_4055_bgsnow/CN_001"
+        },
+        {
+            "id": "char_4055_bgsnow_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "I recall my first time ordering a fountain pen from Zeruertza's artisans, where I didn't make my requirements clear. Then I ended up with this crossbow. It plagues me to have had the peace-loving Durin forges a weapon… Operator Myrtle? Calling herself Generalissimo? That's just a childish fan—Ahem, it's her own self-styling.",
+                "jp": "ゼルウェルツァの匠に初めて万年筆の製作を依頼した折に得たのがこのクロスボウですの。わらわの説明不足で平和を愛するドゥリン族の方に兵器を作らせたなんて、罪深いことをしましたわ……テンニンカさん？大将軍？あれは子供のおままご――いえ、彼女の個人的な嗜好ですわ。",
+                "kr": "제가 쎄루에르차에서 장인 분께 처음 만년필 제작을 의뢰했을 때, 요구사항을 명확히 말하지 않는 바람에 결국 이 크로스보우를 얻게 되었답니다. 평화를 사랑하는 두린족에게 무기를 만들게 하다니, 정말 죄스러운 일이네요…… 오퍼레이터 머틀 씨? 대장군? 저건 그냥 애들 장난…… 아니, 단지 그녀의 개인적인 취향일 뿐이랍니다.",
+                "cn": "我第一次找际崖城的工匠订做钢笔时没说清楚需求，结果得到了这把弩。让爱好和平的杜林人打造兵器，真是罪过......桃金娘干员？大将军？那只是小孩子的游戏——呃，只是她的个人兴趣。"
+            },
+            "asset": "char_4055_bgsnow/CN_002"
+        },
+        {
+            "id": "char_4055_bgsnow_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "If you'll permit my frankness, it's my belief Rhodes Island should build work and living environments more suited to the Durin operators. At least the cafeteria menu should be decided by vote—they're all satisfied? They can't be! I'll go and ask them, lest you—lest someone be tricking them.",
+                "jp": "率直な物言いをお許しくださいまし、ロドスはドゥリン族のオペレーターにより相応しい仕事と生活環境を整えるべきですわ。少なくともお食事の内容は投票で決定すべきで――皆様非常に満足されている？ありえませんわ！直接伺って参ります、貴方――いえ、人に騙されてはいけませんから。",
+                "kr": "실례를 무릅쓰고, 솔직하게 말씀드리지요. 저는 로도스 아일랜드가 두린족 오퍼레이터들을 위해 더욱 적합한 업무와 생활 환경을 제공해야 한다고 생각합니다. 적어도 투표로 식사 메뉴를 정해야…… 모두 만족하고 있다고요? 그럴 리가! 제가 그들에게 직접 물어보겠습니다. 당신에게…… 아니, 남에게 속아서는 안 되니까요.",
+                "cn": "恕我直言，我认为罗德岛应该为杜林族干员营造更适合他们的工作和生活环境，至少应当投票决定餐食内容——他们都很满意？不可能！我要去问问他们，免得他们被您——被人骗了。"
+            },
+            "asset": "char_4055_bgsnow/CN_003"
+        },
+        {
+            "id": "char_4055_bgsnow_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "You require me to draft some slogans? I'd be happy to. It was routine work of mine in Zeruertza. You only need to provide me a typewriter, and that's all... Why do I not use a pen? My fountain pen is typically for more private things, more... not-so-Durin things.",
+                "jp": "わらわにスローガンやキャッチコピーを考案してほしい？喜んで。ゼルウェルツァでも似たような類のお仕事をしていましたの。タイプライターが一台あれば十分ですわ……どうしてペンを使わないのかって？あれはどちらかといえば個人的なものを書く際に使用するのです……その、ドゥリン的でないものを書く時に。",
+                "kr": "제가 슬로건이나 멘트들을 고안해 줬으면 한다고요? 그렇게 하죠. 쎄루에르차에서도 비슷한 일을 한 적이 있거든요. 타자기 한 대만 있으면 충분하답니다…… 왜 만년필을 쓰지 않냐고요? 그건 좀 더 개인적인 일을 할 때 쓰는 편이거든요. 그…… 두린족과 관련 없는 걸 쓸 때 말이에요.",
+                "cn": "需要我设计一些标语和台词？乐意效劳，我在际崖城常做这种工作，只要给我一台打字机就好......为什么不用笔？我的钢笔一般用来写一些更私人的东西，更......不那么杜林的东西。"
+            },
+            "asset": "char_4055_bgsnow/CN_004"
+        },
+        {
+            "id": "char_4055_bgsnow_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "I was a steadfast teetotaler back in Ursus, but to my surprise, I could keep more drink down than most in Zeruertza. Truth be told, I didn't immediately understand why they loved their drink so, but I did eventually come to realize. We only drink in excess when hope is lost, and a forever stagnant, easy life can lose us hope as well as anything.",
+                "jp": "ウルサスではお酒とは距離をとっていましたが、ゼルウェルツァで飲んでみると大体の方より酒量は上でしたわね。正直申し上げまして、初めの頃はなぜ彼らがあれほどお酒を好むのか分かりませんでしたが、後に理解が及びましたわ。人は希望を失うと酒と親しくなるもので、安寧不変の生活というのもまた希望を失わせるに足るのだと。",
+                "kr": "우르수스에서는 술을 입에 대지 않았지만, 쎄루에르차에서는 웬만한 이들보다 주량이 높다는 걸 알게 되었답니다. 솔직히 처음에는 그들이 왜 그렇게나 술을 좋아하는 건지 알지 못했지만, 나중에는 이해할 수 있었죠. 사람은 희망을 잃으면 술을 가까이하게 된다는 걸. 그리고 변하는 것 하나 없는 영원한 평화 속에서의 삶 또한, 희망을 잃게 만든다는 걸요.",
+                "cn": "我在乌萨斯滴酒不沾，到了际崖城，居然比大多数人都能喝。说实话，一开始我不懂为什么他们这么喜欢喝酒，后来我才明白，人失去希望才会酗酒，而一成不变的安逸生活，同样会使人失去希望。"
+            },
+            "asset": "char_4055_bgsnow/CN_005"
+        },
+        {
+            "id": "char_4055_bgsnow_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "I still hold that life in the Durin cities far surpasses that of the surface, but I have to admit, the flowerets that vie to bloom in the ruins have more of a power than all the blossoms of Durin greenhouses... Hah. All these years, and yet I'm a surface-dweller through and through.",
+                "jp": "わらわはいまだに地上の暮らしはドゥリンの地下都市に及ばないと考えておりますわ。でも認めねばなりませんわね、廃墟の中で健気に花開く可憐な一輪は、ドゥリン族の温室で綻ぶ大輪に勝るとも劣らぬ生命力がございます。……ああ、これほどの時が経っても、わらわはやはり骨の髄まで地上の人間ですのね。",
+                "kr": "전 지금도 지상의 삶이 두린족의 지하 도시보다 못 하다고 생각해요. 하지만 인정해야겠죠, 폐허 속에서 발버둥 치며 피어나는 작은 꽃은, 두린족이 온실 속에서 피워낸 꽃보다도 기운차다는 걸…… 하하, 이렇게 많은 시간이 흘렀음에도, 전 여전히 머리부터 발끝까지 지상인이네요.",
+                "cn": "我至今仍认为地上的生活远不如杜林城邦，但我不得不承认，在废墟中挣扎开放的小花，比杜林人温室中盛放的鲜花更有力量......呵，这么多年过去，我仍然是个彻头彻尾的地上人啊。"
+            },
+            "asset": "char_4055_bgsnow/CN_006"
+        },
+        {
+            "id": "char_4055_bgsnow_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Ursus desserts and wine? Let someone else have the pastries, please. 'Ursus-style' is an exceptional stranger to me by now. That said, do leave the liquor here. Zeruertzans love their drink, and I'm no exception—wait, this isn't mead. Is this pure spirits? Oh, my head...",
+                "jp": "ウルサスのスイーツとお酒？スイーツは他の方に差し上げてくださいまし、「ウルサスの味」はわらわにとってもはや親しみの薄いものでございますから。ただ、お酒は頂いておきますわね。ゼルウェルツァの方たちはお酒が大好きで、わらわも――ゴクッ、んん？こちら、ミードではなくて蒸留酒ですの？ああ、くらくらしますわ……",
+                "kr": "우르수스의 디저트와 술 말인가요? 디저트라면 다른 분들께 나눠 주세요. 이제는 '우르수스의 맛'이 낯설게 느껴져서요. 다만 술은 받아 두겠습니다. 쎄루에르차 분들은 대부분 술을 좋아하시니까요. 저도 예외는 아닙니다. 잠깐, 이거 벌꿀주가 아니라 증류주인가요? 아…… 어지럽네요……",
+                "cn": "乌萨斯的甜点和酒？点心请给其他人吃吧，“乌萨斯风味”对我来说已经非常陌生了，不过酒还请您留下。际崖城的人大多好酒，我也不例外——等下，这不是蜜酒，是蒸馏酒？好晕......"
+            },
+            "asset": "char_4055_bgsnow/CN_007"
+        },
+        {
+            "id": "char_4055_bgsnow_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Noble?' Correct, I was once a noble. Until a conspiracy wrested my family away, and left me with the sole luck of escaping underground to Zeruertza. There was no avaricious nobility in the city, nor any commoners who'd take advantage for their own gain. Only kindhearted Durins... What more could I ask for?",
+                "jp": "貴族？その通りでしてよ。わらわはかつて貴族でしたわ。陰謀に家族を奪われ、命からがらどうにか地下のゼルウェルツァに逃れるまではね。あそこには強欲な貴族はおりませんし、混乱に乗じて強盗を働く民もおりません。いるのは善良なドゥリンの方たちだけですわ……これ以上どのような贅沢を望めましょうか？",
+                "kr": "'귀족' 말인가요? 네, 전 귀족이었습니다. 어떤 음모로인해 가족들을 빼앗기고, 저 혼자만 운 좋게 지하의 쎄루에르차로 도망가기 전까지는 말이죠. 그곳엔 탐욕스러운 귀족도 없고, 혼란을 틈타 강도질을 하려는 평민도 없으며, 단지 선량한 두린족들 뿐이랍니다…… 제가 여기서 무엇을 더 바랄 수 있을까요?",
+                "cn": "“贵族”？没错，我曾是贵族，直到一场阴谋夺走了我的家人，只有我侥幸逃进了地下的际崖城。城内没有贪得无厌的贵族，也没有趁火打劫的平民，只有善良的杜林人......我还能奢求什么？"
+            },
+            "asset": "char_4055_bgsnow/CN_008"
+        },
+        {
+            "id": "char_4055_bgsnow_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Doctor, I'd like to talk with you of beauty and virtue, of those things I consider vanished from the surface. I've witnessed their existence aboard Rhodes Island, and you've told me that more of their sparks are alight upon this land still... I don't dare trust. I have to go and see it for myself.",
+                "jp": "ドクター、善と美について――地上では絶えたとばかり思っていたものたちについて、語りませんこと。わらわはロドスでそれらを目の当たりにいたしましたが、この大地にはまだまだ善と美の灯火が煌めいていると貴方は仰っておりました……とても、にわかには信じられません。確かめに行かなくては。",
+                "kr": "박사님. 아름다움과 선함에 대해서, 그리고 지상에서 이미 자취를 감춘 줄로만 알았던 것들에 대해 이야기를 나누고 싶습니다. 저는 로도스 아일랜드에서 그것의 존재를 보았고, 당신께선 아직 이 대지에 수많은 아름다움과 선한 불꽃들이 피어 있다 말해 주셨죠…… 하지만 전 그 말씀을 믿을 수 없습니다. 제가 직접 확인해야겠어요.",
+                "cn": "博士，我想和您聊聊美和善，聊聊那些我以为地面上已经绝迹的东西。我在罗德岛上见证了它们的存在，而您告诉过我，大地上还有更多美和善的星火......我不敢相信。我必须自己去看看。"
+            },
+            "asset": "char_4055_bgsnow/CN_009"
+        },
+        {
+            "id": "char_4055_bgsnow_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Doctor, are you asleep? No? Well, no matter. If you're planning to hold the same posture for a while, perhaps I might draw a fountain pen sketch of you.",
+                "jp": "ドクター、お休みになったのかしら？眠ってはいない？眠っていなくても問題ありませんわ。長時間その体勢でいらっしゃるおつもりでしたら、一枚デッサンしてもいいかしら。",
+                "kr": "박사님, 주무시고 계신 건가요? 아닌가요? 아니라도 상관없습니다. 다만 계속 같은 자세로 계실 생각이라면, 제가 데생 한 장 그려도 괜찮을까요?",
+                "cn": "博士，您睡了吗？没睡？没睡也没关系，如果您打算长时间保持同一种姿势，我或许可以为您画一张钢笔素描。"
+            },
+            "asset": "char_4055_bgsnow/CN_010"
+        },
+        {
+            "id": "char_4055_bgsnow_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "I believe you're the Doctor? It's nice to meet you. Please accept my gratitude; thank you for allowing me to lodge here, a refuge on the unseemly surface.",
+                "jp": "貴方がドクターですわね？お初にお目にかかりますわ、そしてどうかお礼を言わせてくださいませ。この醜悪な大地の上で束の間の居場所をわらわに与えてくださってありがとうございます。",
+                "kr": "당신이 박사님이신가요? 처음 뵙겠습니다. 그리고 부디 감사의 인사를 전하고 싶습니다. 제가 이 추악한 대지에서 잠시나마 쉴 수 있는 공간을 제공해 주셔서 감사합니다.",
+                "cn": "您就是博士吧？初次见面，请接受我的谢意，感谢您让我在这片丑陋的大地上有暂时的栖身之处。"
+            },
+            "asset": "char_4055_bgsnow/CN_011"
+        },
+        {
+            "id": "char_4055_bgsnow_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "I could never imagine. Do you show these violent, bloody tapes to the Durins as well?",
+                "jp": "ありえませんわ。貴方がたはドゥリンの子たちにもこのように野蛮な映像を見せていますの？",
+                "kr": "믿을 수 없네요. 당신들은 두린족들에게도 이런 야만적인 영상을 보여 주고 계셨던 건가요?",
+                "cn": "难以置信，你们给杜林人看的也是这种打打杀杀的录像吗？"
+            },
+            "asset": "char_4055_bgsnow/CN_012"
+        },
+        {
+            "id": "char_4055_bgsnow_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Thank you for the gesture of confidence. I'll endure the urge to flee the award ceremony as best I can, so please, if you could wrap it up soon... There's no ceremony, it's just a normal presentation? Oh, that's a relief.",
+                "jp": "信頼してくださってありがとうございますわ。逃げ出したい衝動をなるべく抑えて受勲式に臨みますので、どうか手早く済ませていただければ……あら、受勲式ではなく普通の通達式ですの？よかったですわぁ。",
+                "kr": "신뢰해 주셔서 감사합니다. 저도 최대한 수여식에서 도망치고 싶은 충동을 참아보도록 할 테니, 가능한 빠르게 부탁드립니다…… 수여식이 아니라 평범한 의식이라고요? 다행이네요.",
+                "cn": "感谢您的信任。我会尽量在授勋过程中忍住逃走的冲动，也请您尽快结束......不是授勋，只是普通的仪式？太好了。"
+            },
+            "asset": "char_4055_bgsnow/CN_013"
+        },
+        {
+            "id": "char_4055_bgsnow_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Another promotion, is it? Thank you. I'll accept this honor with my chest out in pride... And of course, we don't need to end this presentation as quickly as last time. Do not be afraid of those I should not fear—this is what life aboard Rhodes Island has taught me.",
+                "jp": "また昇進ですの？ありがとうございます、胸を張ってこの栄誉をお受けいたしますわ……もちろん、速戦即決はもう必要ございませんわ。恐れる必要のない者に怯えることなかれ、これがロドスでの暮らしでわらわが学んだことですの。",
+                "kr": "또 승진인가요? 감사합니다. 이 영예를 가슴에 펴고 받아들이겠습니다…… 물론 더 이상 속전속결로 끝낼 필요는 없습니다. 두려워할 필요 없는 자를 두려워하지 않는 것, 이것이 제가 로도스 아일랜드에서 생활하며 배운 것입니다.",
+                "cn": "又是晋升吗？多谢，我会挺起胸膛接受这份荣誉......当然，不用再速战速决了。不要害怕不应畏惧的人，这是罗德岛上的生活教会我的。"
+            },
+            "asset": "char_4055_bgsnow/CN_014"
+        },
+        {
+            "id": "char_4055_bgsnow_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "The day shall come for every land dweller, the day they find a cold weapon in their arms. And I learned it the hard way.",
+                "jp": "地上で暮らすのであれば、必ずや武器を手にする時が来ますわ。わらわはよく存じておりますの。",
+                "kr": "지상에 사는 이상, 언젠가는 무기를 들게 될 날이 오겠지요. 저는 잘 알고 있답니다.",
+                "cn": "只要在地上生活，就一定会有拿起武器的那一天，我知道。"
+            },
+            "asset": "char_4055_bgsnow/CN_017"
+        },
+        {
+            "id": "char_4055_bgsnow_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "For those of you who've spent not a second out of the fight, decades-old tactical thinking from Ursus must be far past its prime.",
+                "jp": "常に戦いに身を置いている貴方がたからすれば、何十年も前のウルサスの戦術はとうに時代遅れのものでしょうね。",
+                "kr": "항상 전투에 임하고 있는 당신들에겐, 수십 년 전 우르수스에서 사용되던 전술은 이미 시대에 뒤떨어진 것이겠죠.",
+                "cn": "对无时无刻不在战斗的你们来说，几十年前的乌萨斯战术思路应该早就过时了吧。"
+            },
+            "asset": "char_4055_bgsnow/CN_018"
+        },
+        {
+            "id": "char_4055_bgsnow_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "May we all return safely.",
+                "jp": "誰一人欠けることなく平穏無事に帰還できることを願っておりますわ。",
+                "kr": "모두가 무사히 돌아올 수 있기를.",
+                "cn": "愿我们都能平安归来。"
+            },
+            "asset": "char_4055_bgsnow/CN_019"
+        },
+        {
+            "id": "char_4055_bgsnow_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Enemy... A noun I hardly want to reunite with outside of writing. It's been so long.",
+                "jp": "「敵」……創作以外でご無沙汰のこの名詞に出会わないことを願いたいものですわね。",
+                "kr": "'적'…… 창작물 외에는 접한 지 오래된 그 명사를, 마주할 일이 없기를 바랍니다.",
+                "cn": "“敌人”......真不想在创作之外碰到这个阔别已久的名词啊。"
+            },
+            "asset": "char_4055_bgsnow/CN_020"
+        },
+        {
+            "id": "char_4055_bgsnow_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Your orders, please.",
+                "jp": "ご命令は？",
+                "kr": "명령을 내려 주세요.",
+                "cn": "请下命令。"
+            },
+            "asset": "char_4055_bgsnow/CN_021"
+        },
+        {
+            "id": "char_4055_bgsnow_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "With pleasure.",
+                "jp": "よろしくてよ。",
+                "kr": "네.",
+                "cn": "是。"
+            },
+            "asset": "char_4055_bgsnow/CN_022"
+        },
+        {
+            "id": "char_4055_bgsnow_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Good visibility. I'm ready to fire.",
+                "jp": "くっきりはっきり見えますわよ、いつでも撃てますわ。",
+                "kr": "시야는 양호합니다, 언제든 준비되어 있습니다.",
+                "cn": "视野良好，准备就绪。"
+            },
+            "asset": "char_4055_bgsnow/CN_023"
+        },
+        {
+            "id": "char_4055_bgsnow_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "I'll cover my allies.",
+                "jp": "皆様の援護をいたしますわ。",
+                "kr": "여러분을 엄호하겠습니다.",
+                "cn": "我会为其他干员提供掩护。"
+            },
+            "asset": "char_4055_bgsnow/CN_024"
+        },
+        {
+            "id": "char_4055_bgsnow_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Bolt pierces deeper than nib on the battlefield.",
+                "jp": "戦場では矢はペン先よりも鋭いのですわ。",
+                "kr": "전장에서는, 화살이 펜촉보다 날카롭답니다.",
+                "cn": "战场上，弩箭比笔尖更锋利。"
+            },
+            "asset": "char_4055_bgsnow/CN_025"
+        },
+        {
+            "id": "char_4055_bgsnow_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "For a life of peace...!",
+                "jp": "平穏な暮らしのために……！",
+                "kr": "평온한 삶을 위해……!",
+                "cn": "为了安宁的生活......！"
+            },
+            "asset": "char_4055_bgsnow/CN_026"
+        },
+        {
+            "id": "char_4055_bgsnow_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Abandon resistance now, or I pull the trigger!",
+                "jp": "即刻、抵抗をおやめなさい。撃ちますわよ！",
+                "kr": "즉시 저항을 멈추세요, 쏠 겁니다!",
+                "cn": "立刻放弃抵抗，我要扣扳机了！"
+            },
+            "asset": "char_4055_bgsnow/CN_027"
+        },
+        {
+            "id": "char_4055_bgsnow_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Hff... haa... Fire!",
+                "jp": "すー……ふー……はーっ！",
+                "kr": "스읍……후우……발사!",
+                "cn": "嘶......呼......发射！"
+            },
+            "asset": "char_4055_bgsnow/CN_028"
+        },
+        {
+            "id": "char_4055_bgsnow_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Surface civilization is no different to the ferocious vile beasts, but perhaps you can become one who loops its reins.",
+                "jp": "地上の文明は獰猛な獣のようなものですの。貴方はそれに手綱をつけることができる人物になりえますわ。",
+                "kr": "지상의 문명은 사나운 짐승과도 같죠. 당신은 거기에 고삐를 채울 사람이 될 수 있을 겁니다.",
+                "cn": "地上的文明与凶猛的恶兽无异，而您或许能成为那个为其套上缰绳的人。"
+            },
+            "asset": "char_4055_bgsnow/CN_029"
+        },
+        {
+            "id": "char_4055_bgsnow_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "The battle is over. It's time to return and write, and do something more meaningful than this.",
+                "jp": "戦いは終わりましたわ。戻って書き物をしたり、もっと有意義なことに時間を使う頃合いですわね。",
+                "kr": "전투는 끝났습니다. 돌아가서 글을 쓰거나, 더 의미 있는 일을 해야 할 시간이네요.",
+                "cn": "战斗已经结束，是时候回去写写东西，做一些更有意义的事情了。"
+            },
+            "asset": "char_4055_bgsnow/CN_030"
+        },
+        {
+            "id": "char_4055_bgsnow_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Apologies, Doctor. I'm still unaccustomed to the sensation of combat.",
+                "jp": "申し訳ありませんドクター、わらわはやはり戦いというものに慣れませんの。",
+                "kr": "죄송합니다, 박사님. 전 역시 싸움에 익숙하지 않네요.",
+                "cn": "抱歉，博士，我还是不太习惯战斗的感觉。"
+            },
+            "asset": "char_4055_bgsnow/CN_031"
+        },
+        {
+            "id": "char_4055_bgsnow_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Doctor, evacuate everyone as fast as you can, I—I'll bring up the rear! Don't mind me, go!",
+                "jp": "ドクター、皆様を連れて撤退してくださいまし、わらわ――わらわが殿を務めますわ……いいから、早く逃げて！",
+                "kr": "박사님, 모두를 데리고 철수해 주세요. 제가…… 제가 뒤를 맡겠습니다. 저는 신경 쓰지 마시고, 어서 도망쳐요!",
+                "cn": "博士，快带着大家撤离，我——我来殿后，别管我了，快走！"
+            },
+            "asset": "char_4055_bgsnow/CN_032"
+        },
+        {
+            "id": "char_4055_bgsnow_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Zeruertza has molded me. I'm still a little unused to moving about these narrow spaces.",
+                "jp": "ゼルウェルツァに住み慣れてしまうと、このように狭く息苦しい空間で生活するのに慣れませんわね。",
+                "kr": "쎄루에르차에 살다 와서 그런지, 이런 협소한 공간에서 생활하는 건 역시 익숙하지 않네요.",
+                "cn": "住惯了际崖城，在这种狭小的空间里活动，我还是有点不习惯。"
+            },
+            "asset": "char_4055_bgsnow/CN_033"
+        },
+        {
+            "id": "char_4055_bgsnow_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Hands off! ...Apologies, that wasn't intentional.",
+                "jp": "触らないで！……申し訳ありません、故意ではないの。",
+                "kr": "건드리지 마! ……죄송합니다, 고의는 아니었어요.",
+                "cn": "别碰我！......抱歉，我不是故意的。"
+            },
+            "asset": "char_4055_bgsnow/CN_034"
+        },
+        {
+            "id": "char_4055_bgsnow_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Doctor, if you insist on chatting with me, what say we talk about your favorite books?",
+                "jp": "ドクター、どうしてもわらわとお喋りがしたいと仰るのなら、あなたのお好きな本について語ってくださいまし。",
+                "kr": "박사님. 굳이 저와 계속 대화하고 싶으신 거라면, 박사님이 좋아하는 책에 대해 이야기를 나눠보시는 건 어떨까요?",
+                "cn": "博士，如果您执意要和我聊天，不如来聊一聊您喜欢的书吧。"
+            },
+            "asset": "char_4055_bgsnow/CN_036"
+        },
+        {
+            "id": "char_4055_bgsnow_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4055_bgsnow/CN_037"
+        },
+        {
+            "id": "char_4055_bgsnow_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "*yawn*... Good morning, Doctor. The book you recommended was very interesting. I finished reading it overnight.",
+                "jp": "ふあ……おはようございます、ドクター。お勧めいただいたご本ですが、非常に読み応えがあって、徹夜で読んでしまいましたわ。",
+                "kr": "하암…… 좋은 아침입니다, 박사님. 당신이 추천해 주신 책이 너무 흥미로워서 밤을 새워 다 읽어버렸답니다.",
+                "cn": "呼啊......早安，博士，您推荐的书很有趣，我熬夜把它看完了。"
+            },
+            "asset": "char_4055_bgsnow/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Alyson Leigh Rosenfeld",
+            "global": "Alyson Leigh Rosenfeld"
+        },
+        "cn": {
+            "native": "云鹤追",
+            "global": "Yi Zhu"
+        },
+        "jp": {
+            "native": "安済知佳",
+            "global": "Chika Anzai"
+        },
+        "kr": {
+            "native": "박리나",
+            "global": "Park Ri-na"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}
