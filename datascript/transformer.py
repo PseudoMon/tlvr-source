@@ -54,23 +54,6 @@ def make_and_save_charlist():
 	print("Loaded {} characters".format(len(charlist)))
 	save_json(charlist, "charlist.json")
 
-def download_avatars():
-	# We've downloaded up to the 149th btw
-	charlist = load_json("charlist.json")
-	count = 0
-	for char in charlist:
-		count += 1
-
-		if count > 100:
-			numberid = char["numberid"] 
-			nameid = char["nameid"]
-			print(f"{numberid}_{nameid}")
-
-			grabfiles.grab_avatar(char)
-
-		if count > 150:
-			break
-
 def load_wordtables():
 	tables = {}
 	for lang in langs:
@@ -213,12 +196,4 @@ for char in chars:
 	charid = f"char_{char['numberid']}_{char['nameid']}"
 	get_and_write_chardata(charid, wordtables, char["name"])
 
-# wordtables = load_wordtables()
-# charid = "char_102_texas"
-# names = {
-#             "en": "Texas",
-#             "jp": "テキサス",
-#             "kr": "텍사스",
-#             "cn": "德克萨斯"
-#         }
-# get_and_write_chardata(charid, wordtables, names)
+	

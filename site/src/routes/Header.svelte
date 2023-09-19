@@ -3,6 +3,10 @@
   import Drawer from "svelte-drawer-component";
 
   let open = false;
+
+  function closeDrawer() {
+    open = false;
+  }
 </script>
 
 <header>
@@ -20,9 +24,9 @@
   size="200px" on:clickAway={() => open = false}>
   
   <nav>
-    <a href="/">Home</a>
-    <a href="/credits">Credits</a>
-    <a href="/characters">Characters</a>
+    <a href="/" on:click={closeDrawer}>Home</a>
+    <a href="/credits" on:click={closeDrawer}>Credits</a>
+    <a href="/operators" on:click={closeDrawer}>Operators</a>
   </nav>
 
 </Drawer>

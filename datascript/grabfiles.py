@@ -1,5 +1,6 @@
 import requests
 from os import path
+from utils import load_json
 
 base_chardicturl = "https://raw.githubusercontent.com/050644zf/ArknightsStoryJson/main/{}/chardict.json"
 chardictsurls = {
@@ -70,5 +71,19 @@ def grab_avatar(char):
     target = path.join("images", "avatars", f"{fullid}.png") 
     download_image(url, target)
 
+def grab_avatars():
+    # We've downloaded up to the th btw
+    charlist = load_json("charlist.json")
+    count = 0
+    for char in charlist:
+        count += 1
+
+        if count > 200:
+            numberid = char["numberid"] 
+            nameid = char["nameid"]
+            print(f"{numberid}_{nameid}")
+
+            grab_avatar(char)
+
 if __name__ == "__main__":  
-    grab_all_charword_tables()
+    grab_avatars()

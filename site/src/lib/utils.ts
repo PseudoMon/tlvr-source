@@ -9,3 +9,13 @@ export interface LoadArgs {
     origin: string
   }
 }
+
+export function getAvatarUrl(file: string): string {
+  // Image from Aceship
+  //`https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/${data.charid}.png` 
+
+  // Image from local
+  //`/images/avatars/${data.nameid}.webp` 
+
+  return `/images/avatars/${file}.webp` 
+}

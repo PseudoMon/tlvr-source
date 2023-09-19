@@ -39,7 +39,7 @@
     align-items: center;
 
     position: sticky;
-    z-index: 99;
+    z-index: 90;
     top: 0;
 
     background-color: var(--color-background);

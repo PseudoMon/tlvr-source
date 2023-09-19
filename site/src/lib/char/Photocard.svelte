@@ -10,6 +10,8 @@
 
 <style>
   .photocard {
+    --width: 76px;
+
     background-color: #E8E5DC;
     padding: 4px 5px;
 
@@ -21,16 +23,23 @@
     color: var(--color-background);
     font-weight: 600;
     font-size: 0.75em;
+
+    /* This width does not include padding!
+       So it should be the same as image */
+    width: var(--width);
+    min-height: 98px;
   }  
 
   span {
-    height: calc(1em + 8px);
-     /* Manual sizing bc font size autosizing in flexbox is whack */
+    text-align: center;
+    line-height: 1em;
+    margin-top: 7px;
+    /* Sizing eyeballing bc font size autosizing in flexbox is whack */
   }
 
   img {
     background-color: #3A3A3A;
-    width: 76px;
-    height: 76px;
+    width: var(--width);
+    height: var(--width);
   }
 </style>
