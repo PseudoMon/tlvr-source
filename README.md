@@ -10,7 +10,6 @@ I'm learning Chinese and Japanese and I am hopelessly in love with web design an
 - Xiaohei only have the cat noise, not the human form voice. Low-priority, but might be worth a look
 
 # Things to do
-- Add search to list page
 - Add rarity and class filter to list page
 - Lazy loading on list page (low prio but still)
 - Make 404 page
