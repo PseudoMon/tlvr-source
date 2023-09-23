@@ -30,11 +30,19 @@ import Header from "./Header.svelte";
     letter-spacing: -1%;
     font-size: 16px;
   }  
-
+  
   :global(main) {
     box-sizing: border-box;
     width: 100%;
     max-width: 700px;
     padding: 0 36px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  @media (min-width: 800px) {
+    :global(body) {
+      font-size: 18px;    
+    }
   }
 </style>

@@ -47,7 +47,7 @@
 
 <style>
   main {
-    margin: 12px 0;
+    margin-top: 12px;
   }
   h1 {
     font-size: 2em;

@@ -35,32 +35,35 @@
 
 <main>
   <LangButtonBar />
-  <h1>Operator List</h1>
-  <section class="filter-options">
-    <label for="name-search">Search</label>
-    <input type="text" placeholder="Search" 
-      on:input={handleSearchName}
-    />
-    
-  </section>
 
-  <ol class="charlist">
-    {#each filteredCharlist as char}
-    <li>
-      <a href=/operators/{char.nameid}>
-        <Photocard 
-          imgsrc={getAvatarUrl(char.nameid)} 
-          text={char.name[$currentLang]}
-        />
-      </a>
-    </li>
-    {/each}
-  </ol>
+  <article class="charpage">
+    <h1>Operator List</h1>
+    <section class="filter-options">
+      <label for="name-search">Search</label>
+      <input type="text" placeholder="Search" 
+        on:input={handleSearchName}
+      />
+      
+    </section>
+
+    <ol class="charlist">
+      {#each filteredCharlist as char}
+      <li>
+        <a href=/operators/{char.nameid}>
+          <Photocard 
+            imgsrc={getAvatarUrl(char.nameid)} 
+            text={char.name[$currentLang]}
+          />
+        </a>
+      </li>
+      {/each}
+    </ol>
+  </article>
 </main>
 
 <style>
   main {
-    margin: 12px 0;
+    margin-top: 12px;
   }
 
   h1 {
@@ -80,8 +83,6 @@
   }
 
   .charlist {
-    /*display: flex;
-    flex-wrap: wrap;*/
     display: grid;
     grid-template-columns: repeat(auto-fill, 86px);
     gap: 12px;
@@ -118,5 +119,16 @@
 
   input:focus, input:focus-visible {
     outline: solid 2px #CC495D;
+  }
+
+  @media (min-width: 800px) {
+    .charlist {
+      grid-template-columns: repeat(auto-fill, 105px);
+    }
+
+    .charlist :global(.photocard) {
+      --width: 80px;
+      font-size: 0.8em;
+    }
   }
 </style>

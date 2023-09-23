@@ -19,8 +19,8 @@
   .voiceinfo {
     display: grid;
     grid-template-columns: 2em 1fr;
-    column-gap: 8px;
-    row-gap: 10px;
+    column-gap: 0.5em;
+    row-gap: 0.625em;
 
     line-height: 1.1em;
   }

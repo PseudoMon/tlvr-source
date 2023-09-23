@@ -42,4 +42,12 @@
     width: var(--width);
     height: var(--width);
   }
+
+  @media (min-width: 800px) {
+    .photocard {
+      --width: 120px;
+      padding: 8px 10px;
+      font-size: 1.1em;
+    }
+  }
 </style>
