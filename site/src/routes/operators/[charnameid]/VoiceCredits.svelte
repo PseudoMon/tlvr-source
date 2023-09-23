@@ -38,4 +38,15 @@
     font-weight: 600;
     align-self: center;
   }
+
+  @media (min-width: 800px)
+  {
+    h2 { 
+      font-size: 1.2em; 
+      margin-bottom: 0.2em; 
+      margin-top: 0.5em;
+      text-align: left;
+      grid-column: 2;
+    }
+  }
 </style>

@@ -42,11 +42,11 @@
 
   @media (min-width: 800px) {
     button { 
-      font-size: 28px;
+      font-size: 24px;
       box-shadow: 0px -6px 0px 0px rgba(0, 0, 0, 0.25) inset;
-      width: 100px;
-      height: 45px;
+      width: 90px;
+      height: 40px;
       padding-bottom: 6px;
     } 
-}
+  }
 </style>

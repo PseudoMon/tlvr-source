@@ -123,11 +123,11 @@
 
   @media (min-width: 800px) {
     .charlist {
-      grid-template-columns: repeat(auto-fill, 105px);
+      grid-template-columns: repeat(auto-fill, 110px);
     }
 
     .charlist :global(.photocard) {
-      --width: 80px;
+      --width: 90px;
       font-size: 0.8em;
     }
   }

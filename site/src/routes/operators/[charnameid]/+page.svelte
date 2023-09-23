@@ -19,29 +19,34 @@
 
 <main>
   <LangButtonBar />
-  <h1>Operator File</h1>
-
   {#if data !== null}
-  <section class="basicinfo">
-    <Photocard 
-      imgsrc={photosrc}
-      text={data.names[$currentLang]}
-    />
-    <VoiceCredits actors={data.actors} />
-  </section>
+  <article class="charpage">
+    <div class="leftcolumn">
+      <h1>Operator File</h1>
 
-  <ol class="voicelines">
-    {#each data.voices as voicedata}
-    <li>
-    <Voiceline 
-      voicedata={voicedata}
-      availability={data.availability}
-    />
-    </li>
-    {/each}
-  </ol>
+      <section class="basicinfo">
+        <Photocard 
+          imgsrc={photosrc}
+          text={data.names[$currentLang]}
+        />
+        <VoiceCredits actors={data.actors} />
+      </section>
+    </div>
+
+    <ol class="voicelines">
+      {#each data.voices as voicedata}
+      <li>
+      <Voiceline 
+        voicedata={voicedata}
+        availability={data.availability}
+      />
+      </li>
+      {/each}
+    </ol>
+    
+  </article>
   {:else}
-  <h2>Loading...</h2>
+    <h2>Loading...</h2>
   {/if}
 </main>
 
@@ -60,7 +65,7 @@
   .basicinfo {
     display: flex;
     align-items: center;
-    column-gap: 20px;
+    gap: 20px;
   }
 
   .voicelines {
@@ -76,5 +81,32 @@
   
   .voicelines li {
     display: block;
+  }
+
+  @media (min-width: 1000px) {
+    main {
+      max-width: 1100px;
+    }
+
+    .charpage {
+      display: grid;
+      grid-template-columns: 1fr 1.8fr;
+      column-gap: 6%;
+    }
+
+    .leftcolumn {
+      position: sticky;
+      top: 80px;
+      z-index: 89;
+      align-self: start;
+    }
+
+    h1 {
+      text-align: center;
+    }
+
+    .basicinfo {
+      flex-direction: column;
+    }
   }
 </style>
