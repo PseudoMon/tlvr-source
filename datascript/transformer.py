@@ -186,20 +186,22 @@ def get_and_write_chardata(charid, wordtables, names={}):
 	save_json(chardata, f"chardata/{charid}.json")
 	print(f"Written chardata for {charid}")
 
-
-if __name__ == "__main__":  
-	charlist = load_json("charlist.json")
-	test_chars = ["indigo", "texas", "lmlee", "jnight", 
-		"lolxh", "ncdeer", "aprot2"]
-	chars = [char for char in charlist if char["nameid"] in test_chars]
-
-	wordtables = load_wordtables()
-	for char in chars:
-		charid = f"char_{char['numberid']}_{char['nameid']}"
-		get_and_write_chardata(charid, wordtables, char["name"])
-
+def process_all_characters():
 	charlist = load_json("charlist.json")
 	wordtables = load_wordtables()
 	for char in charlist:
 		charid = f"char_{char['numberid']}_{char['nameid']}"
 		get_and_write_chardata(charid, wordtables, char["name"])
+
+if __name__ == "__main__":  
+	# charlist = load_json("charlist.json")
+	# test_chars = ["indigo", "texas", "lmlee", "jnight", 
+	# 	"lolxh", "ncdeer", "aprot2"]
+	# chars = [char for char in charlist if char["nameid"] in test_chars]
+
+	# wordtables = load_wordtables()
+	# for char in chars:
+	# 	charid = f"char_{char['numberid']}_{char['nameid']}"
+	# 	get_and_write_chardata(charid, wordtables, char["name"])
+
+	process_all_characters()

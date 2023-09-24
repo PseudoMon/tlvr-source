@@ -72,18 +72,19 @@ def grab_avatar(char):
     download_image(url, target)
 
 def grab_avatars():
-    # We've downloaded up to the th btw
+    # count was useful to download just bit by bit
     charlist = load_json("charlist.json")
-    count = 0
+    #count = 0
     for char in charlist:
-        count += 1
+        #count += 1
 
-        if count > 200:
-            numberid = char["numberid"] 
-            nameid = char["nameid"]
-            print(f"{numberid}_{nameid}")
+        #if count > 200:
+        numberid = char["numberid"] 
+        nameid = char["nameid"]
+        print(f"{numberid}_{nameid}")
 
-            grab_avatar(char)
+        grab_avatar(char)
 
 if __name__ == "__main__":  
-    grab_avatars()
+    grab_all_chardicts()
+    grab_all_charword_tables()
