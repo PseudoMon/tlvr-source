@@ -585,12 +585,17 @@
         "kr": {
             "native": "이새벽",
             "global": "Lee Sae-byeok"
+        },
+        "cn_topolect": {
+            "native": "师欣",
+            "global": "Shixin Peng"
         }
     },
     "availability": [
         "en",
         "cn",
         "jp",
-        "kr"
+        "kr",
+        "cn_topolect"
     ]
 }

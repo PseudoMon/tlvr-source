@@ -5,7 +5,12 @@
 <div class="voiceinfo">
   <h2>Voice Credits</h2>
   {#each Object.keys(actors) as lang}
-    <div class="label">{lang.toUpperCase()}</div>
+    <div class="label">
+      {#if lang == "linkage"}OG
+      {:else if lang == "cn_topolect"}CN REG
+      {:else}{lang.toUpperCase()}
+      {/if}
+    </div>
     <div class="content">
       {actors[lang]["native"]}
       {#if actors[lang]["native"] != actors[lang]["global"]}
@@ -18,7 +23,7 @@
 <style>
   .voiceinfo {
     display: grid;
-    grid-template-columns: 2em 1fr;
+    grid-template-columns: 3em 1fr;
     column-gap: 0.5em;
     row-gap: 0.625em;
 
@@ -36,6 +41,10 @@
   .label {
     text-align: right;
     font-weight: 600;
+    align-self: center;
+  }
+
+  .content {
     align-self: center;
   }
 

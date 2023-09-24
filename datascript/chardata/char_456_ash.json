@@ -569,6 +569,13 @@
             "asset": "char_456_ash/CN_042"
         }
     ],
-    "actors": {},
-    "availability": []
+    "actors": {
+        "linkage": {
+            "native": "Patricia Summersett",
+            "global": "Patricia Summersett"
+        }
+    },
+    "availability": [
+        "linkage"
+    ]
 }

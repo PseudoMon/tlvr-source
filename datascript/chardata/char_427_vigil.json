@@ -585,12 +585,17 @@
         "kr": {
             "native": "이상호",
             "global": "Lee Sang-ho"
+        },
+        "ita": {
+            "native": "Alessandro Pili",
+            "global": "Alessandro Pili"
         }
     },
     "availability": [
         "en",
         "cn",
         "jp",
-        "kr"
+        "kr",
+        "ita"
     ]
 }

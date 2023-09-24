@@ -585,12 +585,17 @@
         "kr": {
             "native": "배정미",
             "global": "Bae Jeong-mi"
+        },
+        "cn_topolect": {
+            "native": "空无的念",
+            "global": "Blank"
         }
     },
     "availability": [
         "en",
         "cn",
         "jp",
-        "kr"
+        "kr",
+        "cn_topolect"
     ]
 }

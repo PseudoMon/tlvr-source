@@ -114,6 +114,9 @@ def get_actors_from_voicedict(voicedict):
 		"cn" :"CN_MANDARIN",
 		"jp": "JP",
 		"kr": "KR",
+		"linkage": "LINKAGE",
+		"ita": "ITA",
+		"cn_topolect": "CN_TOPOLECT"
 	}
 
 	actors = {}
@@ -154,7 +157,7 @@ def get_actors(charid, wordtables):
 def get_voice_availability(charid, wordtables):
 	print ("Checking voice availability for", charid)
 	# Check which languages this character has voice of
-	# Check in CN since it might not be on global yet
+	# Use CN since that's what Aceship's voice data is based on
 
 	table = wordtables["cn"]
 	voicedict = table["voiceLangDict"][charid]["dict"]
@@ -166,7 +169,7 @@ def get_voice_availability(charid, wordtables):
 	for lang in cn_names:
 		availability.append(lang)
 
-	print("Availability found.")
+	print("Availability found with langs:", availability)
 	return availability
 
 def get_and_write_chardata(charid, wordtables, names={}):

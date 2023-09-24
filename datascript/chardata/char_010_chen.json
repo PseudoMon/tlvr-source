@@ -585,12 +585,17 @@
         "kr": {
             "native": "정유정",
             "global": "Chung Yu-joung"
+        },
+        "cn_topolect": {
+            "native": "包少爷",
+            "global": "Sunny So"
         }
     },
     "availability": [
         "en",
         "cn",
         "jp",
-        "kr"
+        "kr",
+        "cn_topolect"
     ]
 }

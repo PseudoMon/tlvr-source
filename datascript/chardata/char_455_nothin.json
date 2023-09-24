@@ -581,11 +581,16 @@
         "kr": {
             "native": "임채헌",
             "global": "Lim Chae-heon"
+        },
+        "cn_topolect": {
+            "native": "刘飞",
+            "global": "Flynn Liu"
         }
     },
     "availability": [
         "cn",
         "jp",
-        "kr"
+        "kr",
+        "cn_topolect"
     ]
 }

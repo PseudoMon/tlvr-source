@@ -585,12 +585,17 @@
         "kr": {
             "native": "김나율",
             "global": "Kim Na-yul"
+        },
+        "cn_topolect": {
+            "native": "橙璃",
+            "global": "Li Cheng"
         }
     },
     "availability": [
         "en",
         "cn",
         "jp",
-        "kr"
+        "kr",
+        "cn_topolect"
     ]
 }

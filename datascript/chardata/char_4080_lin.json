@@ -585,12 +585,17 @@
         "kr": {
             "native": "강은애",
             "global": "Kang Eun-ae"
+        },
+        "cn_topolect": {
+            "native": "闲踏梧桐",
+            "global": "Cotton Candy"
         }
     },
     "availability": [
         "en",
         "cn",
         "jp",
-        "kr"
+        "kr",
+        "cn_topolect"
     ]
 }

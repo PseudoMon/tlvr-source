@@ -585,12 +585,17 @@
         "kr": {
             "native": "서유리",
             "global": "Seo Yu-ri"
+        },
+        "ita": {
+            "native": "Elisa Contestabile",
+            "global": "Elisa Contestabile"
         }
     },
     "availability": [
         "en",
         "cn",
         "jp",
-        "kr"
+        "kr",
+        "ita"
     ]
 }

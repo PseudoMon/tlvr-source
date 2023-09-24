@@ -585,12 +585,17 @@
         "kr": {
             "native": "이다은",
             "global": "Lee Da-eun"
+        },
+        "cn_topolect": {
+            "native": "余珊",
+            "global": "Shan"
         }
     },
     "availability": [
         "en",
         "cn",
         "jp",
-        "kr"
+        "kr",
+        "cn_topolect"
     ]
 }

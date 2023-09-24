@@ -581,11 +581,16 @@
         "kr": {
             "native": "방시우",
             "global": "Bang Si-u"
+        },
+        "cn_topolect": {
+            "native": "猫倩",
+            "global": "Mao Qian"
         }
     },
     "availability": [
         "cn",
         "jp",
-        "kr"
+        "kr",
+        "cn_topolect"
     ]
 }

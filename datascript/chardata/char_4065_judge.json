@@ -585,12 +585,17 @@
         "kr": {
             "native": "비주언",
             "global": "Bi Ju-eon"
+        },
+        "ita": {
+            "native": "Annalisa Longo",
+            "global": "Annalisa Longo"
         }
     },
     "availability": [
         "en",
         "cn",
         "jp",
-        "kr"
+        "kr",
+        "ita"
     ]
 }

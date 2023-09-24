@@ -569,6 +569,13 @@
             "asset": "char_459_tachak/CN_042"
         }
     ],
-    "actors": {},
-    "availability": []
+    "actors": {
+        "linkage": {
+            "native": "Vlado Stokanic",
+            "global": "Vlado Stokanic"
+        }
+    },
+    "availability": [
+        "linkage"
+    ]
 }

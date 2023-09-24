@@ -569,6 +569,13 @@
             "asset": "char_457_blitz/CN_042"
         }
     ],
-    "actors": {},
-    "availability": []
+    "actors": {
+        "linkage": {
+            "native": "Christopher J. Domig",
+            "global": "Christopher J. Domig"
+        }
+    },
+    "availability": [
+        "linkage"
+    ]
 }

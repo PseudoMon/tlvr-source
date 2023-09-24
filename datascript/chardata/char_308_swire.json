@@ -585,12 +585,17 @@
         "kr": {
             "native": "김율",
             "global": "Kim Yul"
+        },
+        "cn_topolect": {
+            "native": "东东",
+            "global": "Qiantong Wu"
         }
     },
     "availability": [
         "en",
         "cn",
         "jp",
-        "kr"
+        "kr",
+        "cn_topolect"
     ]
 }

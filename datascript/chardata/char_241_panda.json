@@ -585,12 +585,17 @@
         "kr": {
             "native": "송하림",
             "global": "Song Ha-rim"
+        },
+        "cn_topolect": {
+            "native": "周童",
+            "global": "Atom"
         }
     },
     "availability": [
         "en",
         "cn",
         "jp",
-        "kr"
+        "kr",
+        "cn_topolect"
     ]
 }

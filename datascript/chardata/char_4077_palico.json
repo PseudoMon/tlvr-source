@@ -505,6 +505,13 @@
             "asset": "char_4077_palico/CN_042"
         }
     ],
-    "actors": {},
-    "availability": []
+    "actors": {
+        "linkage": {
+            "native": "-",
+            "global": "-"
+        }
+    },
+    "availability": [
+        "linkage"
+    ]
 }

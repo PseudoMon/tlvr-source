@@ -585,12 +585,17 @@
         "kr": {
             "native": "구자형",
             "global": "Koo Ja-hyoung"
+        },
+        "cn_topolect": {
+            "native": "贾邱",
+            "global": "Bill"
         }
     },
     "availability": [
         "en",
         "cn",
         "jp",
-        "kr"
+        "kr",
+        "cn_topolect"
     ]
 }

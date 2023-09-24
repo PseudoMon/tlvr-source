@@ -585,12 +585,17 @@
         "kr": {
             "native": "장경희",
             "global": "Chang Kyug-hee"
+        },
+        "cn_topolect": {
+            "native": "张雨曦",
+            "global": "Nancie"
         }
     },
     "availability": [
         "en",
         "cn",
         "jp",
-        "kr"
+        "kr",
+        "cn_topolect"
     ]
 }

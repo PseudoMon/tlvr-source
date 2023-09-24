@@ -14,8 +14,37 @@
     "kr": "voice_kr",
   }
 
+  const teamrainbow = ["tachak", "blitz", "ash", "rfrost"]
+
+  function getAudioFileUrl(lang) {
+    if (lang === null) {
+      return null;
+    }
+    
+    if (Object.keys(voiceMap).includes(lang)) {
+      return `${sourceurl}/${voiceMap[selectedLang]}/${assetloc}.mp3`;
+    }
+    else {
+      if (lang === "linkage") {
+        if (teamrainbow.some(name => assetloc.includes(name))) {
+          return `${sourceurl}/${voiceMap["jp"]}/${assetloc}.mp3`
+        } 
+
+        if (assetloc.includes("ncdeer")) {
+          return `${sourceurl}/${voiceMap["cn"]}/${assetloc}.mp3`
+        }
+
+        if (assetloc.includes("palico")) {
+          return `${sourceurl}/${voiceMap["jp"]}/${assetloc}.mp3`
+        }
+      }
+    }
+
+    return null;
+  }
+
   let audiofile: string;
-  $: audiofile = `${sourceurl}/${voiceMap[selectedLang]}/${assetloc}.mp3`;
+  $: audiofile = getAudioFileUrl(selectedLang);
 
   let selectedLang: string = null;
   let showAudio: boolean;
@@ -57,6 +86,12 @@
       on:click={() => clickLang("kr")}
       class:selected={selectedLang === "kr"} 
     >KR</button>
+    {/if}
+    {#if availability.includes("linkage")}
+     <button
+      on:click={() => clickLang("linkage")}
+      class:selected={selectedLang === "linkage"} 
+    >OG</button>
     {/if}
   </div>
   {#if showAudio}

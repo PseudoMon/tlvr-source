@@ -569,6 +569,13 @@
             "asset": "char_458_rfrost/CN_042"
         }
     ],
-    "actors": {},
-    "availability": []
+    "actors": {
+        "linkage": {
+            "native": "Julie Tamiko Manning",
+            "global": "Julie Tamiko Manning"
+        }
+    },
+    "availability": [
+        "linkage"
+    ]
 }

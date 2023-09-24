@@ -569,6 +569,13 @@
             "asset": "char_4019_ncdeer/CN_042"
         }
     ],
-    "actors": {},
-    "availability": []
+    "actors": {
+        "linkage": {
+            "native": "杨梦露",
+            "global": "Menglu Yang"
+        }
+    },
+    "availability": [
+        "linkage"
+    ]
 }

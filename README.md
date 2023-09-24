@@ -19,6 +19,8 @@ Also checkout the [Arknights Story Text Reader](https://github.com/050644zf/Arkn
 ## Bugs to squash
 - Nine-colored Deer (and other crossover characters) puts CV data in different place, so they're not shown here. Fix that.
 - Xiaohei only have the cat noise, not the human form voice. Low-priority, but might be worth a look
+- Tuli is missing English voice for some reason? (Is it not available in the CN server?)
+- Search by voice actor / same voice actor section
 
 ## Upcoming features
 - Rarity and faction filters in the list page
