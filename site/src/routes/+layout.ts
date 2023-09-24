@@ -1,2 +1,2 @@
-// Uncomment this if you want to build a static site!
+// Set to true for static sites
 export const prerender = true;

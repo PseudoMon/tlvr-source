@@ -1,4 +1,5 @@
 <script lang="ts">
+  import { base } from "$app/paths"
   import MenuIcon from "$lib/icons/MenuIcon.svelte";
   import Drawer from "svelte-drawer-component";
 
@@ -10,18 +11,18 @@
 </script>
 
 <header>
-  <a href="/"><h1>TLVR</h1></a>
+  <a href="{base}/"><h1>TLVR</h1></a>
   <button 
     class="burger-button"
     on:click={() => open = true}
   ><MenuIcon /></button>
 
-  <h2>Rhodes Island Tetralingual Voice Record Database</h2>
+  <h2>Rhodes Island Tetralingual Voice Record Archive</h2>
 
   <nav class="fullsize-nav">
-    <a href="/" on:click={closeDrawer}>Home</a>
-    <a href="/credits" on:click={closeDrawer}>Credits</a>
-    <a href="/operators" on:click={closeDrawer}>Operators</a>
+    <a href="{base}/" on:click={closeDrawer}>Home</a>
+    <a href="{base}/credits" on:click={closeDrawer}>Credits</a>
+    <a href="{base}/operators" on:click={closeDrawer}>Operators</a>
   </nav>
 </header>
 
@@ -32,9 +33,9 @@
   size="200px" on:clickAway={() => open = false}>
   
   <nav>
-    <a href="/" on:click={closeDrawer}>Home</a>
-    <a href="/credits" on:click={closeDrawer}>Credits</a>
-    <a href="/operators" on:click={closeDrawer}>Operators</a>
+    <a href="{base}/" on:click={closeDrawer}>Home</a>
+    <a href="{base}/credits" on:click={closeDrawer}>Credits</a>
+    <a href="{base}/operators" on:click={closeDrawer}>Operators</a>
   </nav>
 
 </Drawer>
@@ -59,6 +60,10 @@
 
   h2 {
     display: none;
+  }
+
+  a {
+    text-decoration: none;
   }
 
   .fullsize-nav {
@@ -143,8 +148,6 @@
     .fullsize-nav a {
       padding: 12px 16px;
       border-radius: 10px 10px 0 0;
-
-      text-decoration: none;
       color: #D3D3D3;
       transition: 0.5s;
     }

@@ -1,5 +1,6 @@
 <script lang="ts">
-import Header from "./Header.svelte";
+  import SiteHeader from "./SiteHeader.svelte";
+  import SiteFooter from "./SiteFooter.svelte";
 </script>
 
 <svelte:head>
@@ -9,8 +10,9 @@ import Header from "./Header.svelte";
 
   <link rel="stylesheet" href="https://necolas.github.io/normalize.css/8.0.1/normalize.css">
 </svelte:head>
-<Header />
+<SiteHeader />
 <slot></slot>
+<SiteFooter />
 
 <style>
   :root {

@@ -1,4 +1,5 @@
 <script lang="ts">
+  import { base } from "$app/paths"
   import { currentLang } from "$lib/stores";
   import { getAvatarUrl } from "$lib/utils"
   import LangButtonBar from "$lib/LangButtonBar.svelte";
@@ -49,9 +50,9 @@
     <ol class="charlist">
       {#each filteredCharlist as char}
       <li>
-        <a href=/operators/{char.nameid}>
+        <a href="{base}/operators/{char.nameid}">
           <Photocard 
-            imgsrc={getAvatarUrl(char.nameid)} 
+            imgsrc={getAvatarUrl(char.nameid, base)} 
             text={char.name[$currentLang]}
           />
         </a>

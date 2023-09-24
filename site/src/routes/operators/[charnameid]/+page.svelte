@@ -1,5 +1,7 @@
 <script lang="ts">
+  import { base } from "$app/paths";
   import { currentLang } from "$lib/stores";
+  import { getAvatarUrl } from "$lib/utils";
   import LangButtonBar from "$lib/LangButtonBar.svelte";
   import Photocard from "$lib/char/Photocard.svelte";
   import VoiceCredits from "./VoiceCredits.svelte";
@@ -7,9 +9,8 @@
 
   export let data;
   let photosrc: string;
-  $: photosrc = data === null ? null : 
-    `/images/avatars/${data.nameid}.webp` 
-    
+  $: photosrc = data === null ? null : getAvatarUrl(data.nameid, base)
+
   // Image from Aceship
   //`https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/${data.charid}.png` 
 
