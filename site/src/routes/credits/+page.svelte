@@ -1,6 +1,10 @@
+<svelte:head>
+  <title>Credits - TLVR</title>
+</svelte:head>
+
 <main>
   <h1>Credits page</h1>
-  <p>This site was made with love by <a href="http://pseudomon.github.io/">PseudoMon</a>! It's made with <a href="https://kit.svelte.dev">SvelteKit</a> with entirely custom styling and hosted on <a href="https://pages.github.com">Github Pages</a>.
+  <p>This site was made with love by <a href="http://pseudomon.github.io/">PseudoMon</a>! It's made with <a href="https://kit.svelte.dev">SvelteKit</a>, with icons from <a href="https://fontawesome.com">FontAwesome</a> and hosted on <a href="https://pages.github.com">Github Pages</a>.
 
   <p>I'd like to thank these Arknights community projects:</p>
   <ul>

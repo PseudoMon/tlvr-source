@@ -14,16 +14,16 @@ The two folders of this repo are for the two parts of this project: the part whe
 ## Special Thanks
 Voice files are from [Aceship's repo](https://github.com/Aceship/Arknight-voices) (they're not provided in this repo) and text data are processed from [Kengxxiao's repo](https://github.com/Kengxxiao/ArknightsGameData).  
 
-Also checkout the [Arknights Story Text Reader](https://github.com/050644zf/ArknightsStoryTextReader) if you're looking for the story text instead of voices.
+Also check out the [Arknights Story Text Reader](https://github.com/050644zf/ArknightsStoryTextReader) if you're looking for the story text instead of voices. They're the main inspiration for this site.
 
 ## Bugs to squash
-- Nine-colored Deer (and other crossover characters) puts CV data in different place, so they're not shown here. Fix that.
 - Xiaohei only have the cat noise, not the human form voice. Low-priority, but might be worth a look
-- Tuli is missing English voice for some reason? (Is it not available in the CN server?)
-- Search by voice actor / same voice actor section
+- Tulip is missing English voice for some reason? (Is it not available in the CN server?)
 
 ## Upcoming features
+- Link for specific voice line
 - Rarity and faction filters in the list page
 - Regional voice
+- Search by voice actor / same voice actor section
 - Lazy loading in list page so users don't have to load all uhh 3MB of images
 - Command line tooling (or maybe even Github actions?) for updating the data

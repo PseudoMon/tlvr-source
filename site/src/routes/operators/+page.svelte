@@ -34,6 +34,10 @@
   }
 </script>
 
+<svelte:head>
+  <title>Operators - TLVR</title>
+</svelte:head>
+
 <main>
   <LangButtonBar />
 

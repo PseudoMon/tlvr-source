@@ -8,6 +8,10 @@ let welcomeText : string = "..."
 $: welcomeText = data.welcomeText[$currentLang]
 </script>
 
+<svelte:head>
+  <title>Rhodes Island Tetralingual Voice Record Archive</title>
+</svelte:head>
+
 <main>
   <header>
     <h1>TLVR</h1>

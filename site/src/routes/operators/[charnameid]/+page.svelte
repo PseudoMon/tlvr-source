@@ -18,6 +18,10 @@
   //`/images/avatars/${data.nameid}.webp` 
 </script>
 
+<svelte:head>
+  <title>{data.names.en} - TLVR</title>
+</svelte:head>
+
 <main>
   <LangButtonBar />
   {#if data !== null}
