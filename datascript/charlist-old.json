@@ -7,8 +7,7 @@
             "jp": "Lancet-2",
             "kr": "Lancet-2",
             "cn": "Lancet-2"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "cast3",
@@ -18,8 +17,7 @@
             "jp": "Castle-3",
             "kr": "Castle-3",
             "cn": "Castle-3"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "therex",
@@ -29,8 +27,7 @@
             "jp": "THRM-EX",
             "kr": "THRM-EX",
             "cn": "THRM-EX"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "jnight",
@@ -40,8 +37,7 @@
             "jp": "ジャスティスナイト",
             "kr": "저스티스 나이트",
             "cn": "正义骑士号"
-        },
-        "nation": "kazimierz"
+        }
     },
     {
         "nameid": "palico",
@@ -51,8 +47,7 @@
             "jp": "テラ大陸調査団",
             "kr": "테라 대륙 조사단",
             "cn": "泰拉大陆调查团"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "nblade",
@@ -62,8 +57,7 @@
             "jp": "ヤトウ",
             "kr": "야토",
             "cn": "夜刀"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "noirc",
@@ -73,8 +67,7 @@
             "jp": "ノイルホーン",
             "kr": "느와르 코르네",
             "cn": "黑角"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "rang",
@@ -84,8 +77,7 @@
             "jp": "レンジャー",
             "kr": "레인저",
             "cn": "巡林者"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "durin",
@@ -95,8 +87,7 @@
             "jp": "ドゥリン",
             "kr": "두린",
             "cn": "杜林"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "12fce",
@@ -106,8 +97,7 @@
             "jp": "12F",
             "kr": "12F",
             "cn": "12F"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "fang",
@@ -117,8 +107,7 @@
             "jp": "フェン",
             "kr": "팽",
             "cn": "芬"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "wyvern",
@@ -128,8 +117,7 @@
             "jp": "バニラ",
             "kr": "바닐라",
             "cn": "香草"
-        },
-        "nation": "columbia"
+        }
     },
     {
         "nameid": "falco",
@@ -139,8 +127,7 @@
             "jp": "プリュム",
             "kr": "플룸",
             "cn": "翎羽"
-        },
-        "nation": "laterano"
+        }
     },
     {
         "nameid": "melan",
@@ -150,8 +137,7 @@
             "jp": "メランサ",
             "kr": "멜란사",
             "cn": "玫兰莎"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "popka",
@@ -161,8 +147,7 @@
             "jp": "ポプカル",
             "kr": "포푸카",
             "cn": "泡普卡"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "ardign",
@@ -172,8 +157,7 @@
             "jp": "カーディ",
             "kr": "카디건",
             "cn": "卡缇"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "beagle",
@@ -183,8 +167,7 @@
             "jp": "ビーグル",
             "kr": "비글",
             "cn": "米格鲁"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "spot",
@@ -194,8 +177,7 @@
             "jp": "スポット",
             "kr": "스팟",
             "cn": "斑点"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "kroos",
@@ -205,8 +187,7 @@
             "jp": "クルース",
             "kr": "크루스",
             "cn": "克洛丝"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "adnach",
@@ -216,8 +197,7 @@
             "jp": "アドナキエル",
             "kr": "아드나키엘",
             "cn": "安德切尔"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "lava",
@@ -227,8 +207,7 @@
             "jp": "ラヴァ",
             "kr": "라바",
             "cn": "炎熔"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "hibisc",
@@ -238,8 +217,7 @@
             "jp": "ハイビスカス",
             "kr": "히비스커스",
             "cn": "芙蓉"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "ansel",
@@ -249,8 +227,7 @@
             "jp": "アンセル",
             "kr": "안셀",
             "cn": "安赛尔"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "stward",
@@ -260,19 +237,7 @@
             "jp": "スチュワード",
             "kr": "스튜어드",
             "cn": "史都华德"
-        },
-        "nation": "rhodes"
-    },
-    {
-        "nameid": "rcast",
-        "numberid": "505",
-        "name": {
-            "en": "Reserve Operator - Caster",
-            "jp": "予備隊員-術師",
-            "kr": "예비 인원 - 캐스터",
-            "cn": "预备干员-术师"
-        },
-        "nation": null
+        }
     },
     {
         "nameid": "orchid",
@@ -282,8 +247,7 @@
             "jp": "オーキッド",
             "kr": "오키드",
             "cn": "梓兰"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "nights",
@@ -293,8 +257,7 @@
             "jp": "ヘイズ",
             "kr": "헤이즈",
             "cn": "夜烟"
-        },
-        "nation": "victoria"
+        }
     },
     {
         "nameid": "fmout",
@@ -304,8 +267,7 @@
             "jp": "ギターノ",
             "kr": "기타노",
             "cn": "远山"
-        },
-        "nation": "sami"
+        }
     },
     {
         "nameid": "greyy",
@@ -315,8 +277,7 @@
             "jp": "グレイ",
             "kr": "그레이",
             "cn": "格雷伊"
-        },
-        "nation": "bolivar"
+        }
     },
     {
         "nameid": "cammou",
@@ -326,8 +287,7 @@
             "jp": "カシャ",
             "kr": "클릭",
             "cn": "卡达"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "indigo",
@@ -337,8 +297,7 @@
             "jp": "インディゴ",
             "kr": "인디고",
             "cn": "深靛"
-        },
-        "nation": "iberia"
+        }
     },
     {
         "nameid": "pudd",
@@ -348,8 +307,7 @@
             "jp": "プリン",
             "kr": "푸딩",
             "cn": "布丁"
-        },
-        "nation": "columbia"
+        }
     },
     {
         "nameid": "jesica",
@@ -359,8 +317,7 @@
             "jp": "ジェシカ",
             "kr": "제시카",
             "cn": "杰西卡"
-        },
-        "nation": "columbia"
+        }
     },
     {
         "nameid": "shotst",
@@ -370,8 +327,7 @@
             "jp": "メテオ",
             "kr": "메테오",
             "cn": "流星"
-        },
-        "nation": "kazimierz"
+        }
     },
     {
         "nameid": "clour",
@@ -381,8 +337,7 @@
             "jp": "ヴァーミル",
             "kr": "버메일",
             "cn": "红云"
-        },
-        "nation": "siracusa"
+        }
     },
     {
         "nameid": "mm",
@@ -392,8 +347,7 @@
             "jp": "メイ",
             "kr": "메이",
             "cn": "梅"
-        },
-        "nation": "victoria"
+        }
     },
     {
         "nameid": "yuki",
@@ -403,8 +357,7 @@
             "jp": "シラユキ",
             "kr": "시라유키",
             "cn": "白雪"
-        },
-        "nation": "higashi"
+        }
     },
     {
         "nameid": "pinecn",
@@ -414,8 +367,7 @@
             "jp": "パインコーン",
             "kr": "파인콘",
             "cn": "松果"
-        },
-        "nation": "columbia"
+        }
     },
     {
         "nameid": "glaze",
@@ -425,8 +377,7 @@
             "jp": "アンブリエル",
             "kr": "엠브리엘",
             "cn": "安比尔"
-        },
-        "nation": "laterano"
+        }
     },
     {
         "nameid": "acdrop",
@@ -436,8 +387,7 @@
             "jp": "アシッドドロップ",
             "kr": "애시드드롭",
             "cn": "酸糖"
-        },
-        "nation": "columbia"
+        }
     },
     {
         "nameid": "totter",
@@ -447,8 +397,7 @@
             "jp": "トター",
             "kr": "토터",
             "cn": "铅踝"
-        },
-        "nation": "sargon"
+        }
     },
     {
         "nameid": "blackd",
@@ -458,8 +407,7 @@
             "jp": "クーリエ",
             "kr": "쿠리어",
             "cn": "讯使"
-        },
-        "nation": "kjerag"
+        }
     },
     {
         "nameid": "scave",
@@ -469,8 +417,7 @@
             "jp": "スカベンジャー",
             "kr": "스캐빈저",
             "cn": "清道夫"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "vigna",
@@ -480,8 +427,7 @@
             "jp": "ヴィグナ",
             "kr": "비그나",
             "cn": "红豆"
-        },
-        "nation": "columbia"
+        }
     },
     {
         "nameid": "myrtle",
@@ -491,8 +437,7 @@
             "jp": "テンニンカ",
             "kr": "머틀",
             "cn": "桃金娘"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "bstalk",
@@ -502,8 +447,7 @@
             "jp": "ビーンストーク",
             "kr": "빈스토크",
             "cn": "豆苗"
-        },
-        "nation": "columbia"
+        }
     },
     {
         "nameid": "doberm",
@@ -513,8 +457,7 @@
             "jp": "ドーベルマン",
             "kr": "도베르만",
             "cn": "杜宾"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "gyuki",
@@ -524,8 +467,7 @@
             "jp": "マトイマル",
             "kr": "마토이마루",
             "cn": "缠丸"
-        },
-        "nation": "higashi"
+        }
     },
     {
         "nameid": "peacok",
@@ -535,8 +477,7 @@
             "jp": "コンビクション",
             "kr": "컨빅션",
             "cn": "断罪者"
-        },
-        "nation": "minos"
+        }
     },
     {
         "nameid": "frostl",
@@ -546,8 +487,7 @@
             "jp": "フロストリーフ",
             "kr": "프로스트리프",
             "cn": "霜叶"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "estell",
@@ -557,8 +497,7 @@
             "jp": "エステル",
             "kr": "에스텔",
             "cn": "艾丝黛尔"
-        },
-        "nation": "sargon"
+        }
     },
     {
         "nameid": "frncat",
@@ -568,8 +507,7 @@
             "jp": "ムース",
             "kr": "무스",
             "cn": "慕斯"
-        },
-        "nation": "victoria"
+        }
     },
     {
         "nameid": "cutter",
@@ -579,8 +517,7 @@
             "jp": "カッター",
             "kr": "커터",
             "cn": "刻刀"
-        },
-        "nation": "columbia"
+        }
     },
     {
         "nameid": "utage",
@@ -590,8 +527,7 @@
             "jp": "ウタゲ",
             "kr": "우타게",
             "cn": "宴"
-        },
-        "nation": "higashi"
+        }
     },
     {
         "nameid": "spikes",
@@ -601,8 +537,7 @@
             "jp": "アレーン",
             "kr": "아렌",
             "cn": "芳汀"
-        },
-        "nation": "laterano"
+        }
     },
     {
         "nameid": "lolxh",
@@ -612,8 +547,7 @@
             "jp": "羅小黒",
             "kr": "나소흑",
             "cn": "罗小黑"
-        },
-        "nation": "yan"
+        }
     },
     {
         "nameid": "quartz",
@@ -623,8 +557,7 @@
             "jp": "クォーツ",
             "kr": "쿼츠",
             "cn": "石英"
-        },
-        "nation": "columbia"
+        }
     },
     {
         "nameid": "gravel",
@@ -634,8 +567,7 @@
             "jp": "グラベル",
             "kr": "그라벨",
             "cn": "砾"
-        },
-        "nation": "kazimierz"
+        }
     },
     {
         "nameid": "strong",
@@ -645,8 +577,7 @@
             "jp": "ジェイ",
             "kr": "제이",
             "cn": "孑"
-        },
-        "nation": "lungmen"
+        }
     },
     {
         "nameid": "rope",
@@ -656,8 +587,7 @@
             "jp": "ロープ",
             "kr": "로프",
             "cn": "暗索"
-        },
-        "nation": "lungmen"
+        }
     },
     {
         "nameid": "myrrh",
@@ -667,8 +597,7 @@
             "jp": "ミルラ",
             "kr": "미르",
             "cn": "末药"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "ccheal",
@@ -678,8 +607,7 @@
             "jp": "ガヴィル",
             "kr": "가비알",
             "cn": "嘉维尔"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "susuro",
@@ -689,8 +617,7 @@
             "jp": "ススーロ",
             "kr": "수수로",
             "cn": "苏苏洛"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "flower",
@@ -700,8 +627,7 @@
             "jp": "パフューマー",
             "kr": "퍼퓨머",
             "cn": "调香师"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "finlpp",
@@ -711,8 +637,7 @@
             "jp": "セイリュウ",
             "kr": "퓨어스트림",
             "cn": "清流"
-        },
-        "nation": "yan"
+        }
     },
     {
         "nameid": "chnut",
@@ -722,8 +647,7 @@
             "jp": "チェストナット",
             "kr": "체스트넛",
             "cn": "褐果"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "yak",
@@ -733,8 +657,7 @@
             "jp": "マッターホルン",
             "kr": "마터호른",
             "cn": "角峰"
-        },
-        "nation": "kjerag"
+        }
     },
     {
         "nameid": "snakek",
@@ -744,8 +667,7 @@
             "jp": "クオーラ",
             "kr": "쿠오라",
             "cn": "蛇屠箱"
-        },
-        "nation": "columbia"
+        }
     },
     {
         "nameid": "bubble",
@@ -755,8 +677,7 @@
             "jp": "バブル",
             "kr": "버블",
             "cn": "泡泡"
-        },
-        "nation": "sargon"
+        }
     },
     {
         "nameid": "sunbr",
@@ -766,8 +687,7 @@
             "jp": "グム",
             "kr": "굼",
             "cn": "古米"
-        },
-        "nation": "ursus"
+        }
     },
     {
         "nameid": "durnar",
@@ -777,8 +697,7 @@
             "jp": "ジュナー",
             "kr": "듀나",
             "cn": "坚雷"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "deepcl",
@@ -788,8 +707,7 @@
             "jp": "ディピカ",
             "kr": "딥컬러",
             "cn": "深海色"
-        },
-        "nation": "egir"
+        }
     },
     {
         "nameid": "skgoat",
@@ -799,8 +717,7 @@
             "jp": "アーススピリット",
             "kr": "어스스피릿",
             "cn": "地灵"
-        },
-        "nation": "leithanien"
+        }
     },
     {
         "nameid": "podego",
@@ -810,8 +727,7 @@
             "jp": "ポデンコ",
             "kr": "포덴코",
             "cn": "波登可"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "robrta",
@@ -821,8 +737,7 @@
             "jp": "ロベルタ",
             "kr": "로베르타",
             "cn": "罗比菈塔"
-        },
-        "nation": "columbia"
+        }
     },
     {
         "nameid": "ethan",
@@ -832,8 +747,7 @@
             "jp": "イーサン",
             "kr": "에단",
             "cn": "伊桑"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "sqrrel",
@@ -843,8 +757,7 @@
             "jp": "ショウ",
             "kr": "쇼",
             "cn": "阿消"
-        },
-        "nation": "lungmen"
+        }
     },
     {
         "nameid": "plosis",
@@ -854,8 +767,7 @@
             "jp": "フィリオプシス",
             "kr": "프틸롭시스",
             "cn": "白面鸮"
-        },
-        "nation": "columbia"
+        }
     },
     {
         "nameid": "breeze",
@@ -865,8 +777,7 @@
             "jp": "ブリーズ",
             "kr": "브리즈",
             "cn": "微风"
-        },
-        "nation": "victoria"
+        }
     },
     {
         "nameid": "headbr",
@@ -876,8 +787,7 @@
             "jp": "ズィマー",
             "kr": "지마",
             "cn": "凛冬"
-        },
-        "nation": "ursus"
+        }
     },
     {
         "nameid": "texas",
@@ -887,8 +797,7 @@
             "jp": "テキサス",
             "kr": "텍사스",
             "cn": "德克萨斯"
-        },
-        "nation": "lungmen"
+        }
     },
     {
         "nameid": "chiave",
@@ -898,8 +807,7 @@
             "jp": "キアーベ",
             "kr": "키아베",
             "cn": "贾维"
-        },
-        "nation": "siracusa"
+        }
     },
     {
         "nameid": "apionr",
@@ -909,8 +817,7 @@
             "jp": "チューリップ",
             "kr": "튤립",
             "cn": "郁金香"
-        },
-        "nation": null
+        }
     },
     {
         "nameid": "sddrag",
@@ -920,8 +827,7 @@
             "jp": "リード",
             "kr": "리드",
             "cn": "苇草"
-        },
-        "nation": "victoria"
+        }
     },
     {
         "nameid": "wildmn",
@@ -931,8 +837,7 @@
             "jp": "ワイルドメイン",
             "kr": "와일드메인",
             "cn": "野鬃"
-        },
-        "nation": "kazimierz"
+        }
     },
     {
         "nameid": "elysm",
@@ -942,8 +847,7 @@
             "jp": "エリジウム",
             "kr": "엘리시움",
             "cn": "极境"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "blkngt",
@@ -953,8 +857,7 @@
             "jp": "ブラックナイト",
             "kr": "블랙나이트",
             "cn": "夜半"
-        },
-        "nation": "rim"
+        }
     },
     {
         "nameid": "ctable",
@@ -964,8 +867,7 @@
             "jp": "カンタービレ",
             "kr": "칸타빌레",
             "cn": "晓歌"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "puzzle",
@@ -975,8 +877,7 @@
             "jp": "パズル",
             "kr": "퍼즐",
             "cn": "谜图"
-        },
-        "nation": "victoria"
+        }
     },
     {
         "nameid": "swire",
@@ -986,8 +887,7 @@
             "jp": "スワイヤー",
             "kr": "스와이어",
             "cn": "诗怀雅"
-        },
-        "nation": "lungmen"
+        }
     },
     {
         "nameid": "sophia",
@@ -997,8 +897,7 @@
             "jp": "ウィスラッシュ",
             "kr": "위슬래시",
             "cn": "鞭刃"
-        },
-        "nation": "kazimierz"
+        }
     },
     {
         "nameid": "franka",
@@ -1008,8 +907,7 @@
             "jp": "フランカ",
             "kr": "프란카",
             "cn": "芙兰卡"
-        },
-        "nation": "columbia"
+        }
     },
     {
         "nameid": "flameb",
@@ -1019,8 +917,7 @@
             "jp": "エンカク",
             "kr": "플레임브링어",
             "cn": "炎客"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "aguard",
@@ -1030,8 +927,7 @@
             "jp": "Sharp",
             "kr": "Sharp",
             "cn": "Sharp"
-        },
-        "nation": null
+        }
     },
     {
         "nameid": "tiger",
@@ -1041,8 +937,7 @@
             "jp": "インドラ",
             "kr": "인드라",
             "cn": "因陀罗"
-        },
-        "nation": "victoria"
+        }
     },
     {
         "nameid": "flint",
@@ -1052,8 +947,7 @@
             "jp": "フリント",
             "kr": "플린트",
             "cn": "燧石"
-        },
-        "nation": "sargon"
+        }
     },
     {
         "nameid": "dagda",
@@ -1063,8 +957,7 @@
             "jp": "ダグザ",
             "kr": "다그다",
             "cn": "达格达"
-        },
-        "nation": "victoria"
+        }
     },
     {
         "nameid": "whitew",
@@ -1074,8 +967,7 @@
             "jp": "ラップランド",
             "kr": "라플란드",
             "cn": "拉普兰德"
-        },
-        "nation": "siracusa"
+        }
     },
     {
         "nameid": "ayer",
@@ -1085,8 +977,7 @@
             "jp": "エアースカーペ",
             "kr": "에이어스카르페",
             "cn": "断崖"
-        },
-        "nation": "rim"
+        }
     },
     {
         "nameid": "chimes",
@@ -1096,8 +987,7 @@
             "jp": "ウィンドチャイム",
             "kr": "윈드차임스",
             "cn": "铎铃"
-        },
-        "nation": "yan"
+        }
     },
     {
         "nameid": "bibeak",
@@ -1107,8 +997,7 @@
             "jp": "バイビーク",
             "kr": "바이비크",
             "cn": "柏喙"
-        },
-        "nation": "sami"
+        }
     },
     {
         "nameid": "tachak",
@@ -1118,8 +1007,7 @@
             "jp": "Tachanka",
             "kr": "Tachanka",
             "cn": "战车"
-        },
-        "nation": null
+        }
     },
     {
         "nameid": "ghost",
@@ -1129,8 +1017,7 @@
             "jp": "スペクター",
             "kr": "스펙터",
             "cn": "幽灵鲨"
-        },
-        "nation": "egir"
+        }
     },
     {
         "nameid": "broca",
@@ -1140,8 +1027,7 @@
             "jp": "ブローカ",
             "kr": "브로카",
             "cn": "布洛卡"
-        },
-        "nation": "siracusa"
+        }
     },
     {
         "nameid": "astesi",
@@ -1151,8 +1037,7 @@
             "jp": "アステシア",
             "kr": "아스테시아",
             "cn": "星极"
-        },
-        "nation": "columbia"
+        }
     },
     {
         "nameid": "sidero",
@@ -1162,8 +1047,7 @@
             "jp": "シデロカ",
             "kr": "시데로카",
             "cn": "铸铁"
-        },
-        "nation": "minos"
+        }
     },
     {
         "nameid": "akafyu",
@@ -1173,8 +1057,7 @@
             "jp": "アカフユ",
             "kr": "아카후유",
             "cn": "赤冬"
-        },
-        "nation": "higashi"
+        }
     },
     {
         "nameid": "noirc2",
@@ -1184,8 +1067,7 @@
             "jp": "レウスSノイルホーン",
             "kr": "레우스S 느와르 코르네",
             "cn": "火龙S黑角"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "crow",
@@ -1195,8 +1077,7 @@
             "jp": "ラ・プルマ",
             "kr": "라 플루마",
             "cn": "羽毛笔"
-        },
-        "nation": "bolivar"
+        }
     },
     {
         "nameid": "highmo",
@@ -1206,8 +1087,7 @@
             "jp": "ハイモア",
             "kr": "하이모어",
             "cn": "海沫"
-        },
-        "nation": "iberia"
+        }
     },
     {
         "nameid": "takila",
@@ -1217,8 +1097,7 @@
             "jp": "テキーラ",
             "kr": "테킬라",
             "cn": "龙舌兰"
-        },
-        "nation": "bolivar"
+        }
     },
     {
         "nameid": "bluep",
@@ -1228,8 +1107,7 @@
             "jp": "アズリウス",
             "kr": "블루포이즌",
             "cn": "蓝毒"
-        },
-        "nation": "iberia"
+        }
     },
     {
         "nameid": "platnm",
@@ -1239,8 +1117,7 @@
             "jp": "プラチナ",
             "kr": "플래티넘",
             "cn": "白金"
-        },
-        "nation": "kazimierz"
+        }
     },
     {
         "nameid": "swllow",
@@ -1250,8 +1127,7 @@
             "jp": "グレースロート",
             "kr": "그레이스롯",
             "cn": "灰喉"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "asnipe",
@@ -1261,8 +1137,7 @@
             "jp": "Stormeye",
             "kr": "Stormeye",
             "cn": "Stormeye"
-        },
-        "nation": null
+        }
     },
     {
         "nameid": "aprl",
@@ -1272,8 +1147,7 @@
             "jp": "エイプリル",
             "kr": "에이프릴",
             "cn": "四月"
-        },
-        "nation": "rim"
+        }
     },
     {
         "nameid": "kroos2",
@@ -1283,8 +1157,7 @@
             "jp": "寒芒クルース",
             "kr": "크루스 더 킨 글린트",
             "cn": "寒芒克洛丝"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "meteo",
@@ -1294,8 +1167,7 @@
             "jp": "メテオリーテ",
             "kr": "메테오라이트",
             "cn": "陨星"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "sesa",
@@ -1305,8 +1177,7 @@
             "jp": "シェーシャ",
             "kr": "세사",
             "cn": "慑砂"
-        },
-        "nation": "sargon"
+        }
     },
     {
         "nameid": "bdhkgt",
@@ -1316,8 +1187,7 @@
             "jp": "ジエユン",
             "kr": "지에윈",
             "cn": "截云"
-        },
-        "nation": "yan"
+        }
     },
     {
         "nameid": "excu",
@@ -1327,8 +1197,7 @@
             "jp": "イグゼキュター",
             "kr": "이그제큐터",
             "cn": "送葬人"
-        },
-        "nation": "laterano"
+        }
     },
     {
         "nameid": "aosta",
@@ -1338,8 +1207,7 @@
             "jp": "アオスタ",
             "kr": "아오스타",
             "cn": "奥斯塔"
-        },
-        "nation": "siracusa"
+        }
     },
     {
         "nameid": "amiya",
@@ -1349,8 +1217,7 @@
             "jp": "アーミヤ",
             "kr": "아미야",
             "cn": "阿米娅"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "absin",
@@ -1360,8 +1227,7 @@
             "jp": "アブサント",
             "kr": "압생트",
             "cn": "苦艾"
-        },
-        "nation": "ursus"
+        }
     },
     {
         "nameid": "tomimi",
@@ -1371,8 +1237,7 @@
             "jp": "トミミ",
             "kr": "토미미",
             "cn": "特米米"
-        },
-        "nation": "sargon"
+        }
     },
     {
         "nameid": "qanik",
@@ -1382,8 +1247,7 @@
             "jp": "カニパラート",
             "kr": "카니팔라트",
             "cn": "雪绒"
-        },
-        "nation": "sami"
+        }
     },
     {
         "nameid": "skfire",
@@ -1393,8 +1257,7 @@
             "jp": "スカイフレア",
             "kr": "스카이파이어",
             "cn": "天火"
-        },
-        "nation": "victoria"
+        }
     },
     {
         "nameid": "acast",
@@ -1404,8 +1267,7 @@
             "jp": "Pith",
             "kr": "Pith",
             "cn": "Pith"
-        },
-        "nation": null
+        }
     },
     {
         "nameid": "leizi",
@@ -1415,8 +1277,7 @@
             "jp": "レイズ",
             "kr": "레이즈",
             "cn": "惊蛰"
-        },
-        "nation": "yan"
+        }
     },
     {
         "nameid": "halo",
@@ -1426,8 +1287,7 @@
             "jp": "アステジーニ",
             "kr": "아스트젠",
             "cn": "星源"
-        },
-        "nation": "columbia"
+        }
     },
     {
         "nameid": "beewax",
@@ -1437,8 +1297,7 @@
             "jp": "ビーズワクス",
             "kr": "비즈왁스",
             "cn": "蜜蜡"
-        },
-        "nation": "sargon"
+        }
     },
     {
         "nameid": "lionhd",
@@ -1448,8 +1307,7 @@
             "jp": "レオンハルト",
             "kr": "레온하르트",
             "cn": "莱恩哈特"
-        },
-        "nation": "rim"
+        }
     },
     {
         "nameid": "mint",
@@ -1459,8 +1317,7 @@
             "jp": "ミント",
             "kr": "민트",
             "cn": "薄绿"
-        },
-        "nation": "victoria"
+        }
     },
     {
         "nameid": "iris",
@@ -1470,8 +1327,7 @@
             "jp": "アイリス",
             "kr": "아이리스",
             "cn": "爱丽丝"
-        },
-        "nation": "victoria"
+        }
     },
     {
         "nameid": "hamoni",
@@ -1481,8 +1337,7 @@
             "jp": "ハーモニー",
             "kr": "아르모니",
             "cn": "和弦"
-        },
-        "nation": "victoria"
+        }
     },
     {
         "nameid": "lava2",
@@ -1492,8 +1347,7 @@
             "jp": "炎獄ラヴァ",
             "kr": "라바 더 퍼거토리",
             "cn": "炎狱炎熔"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "serum",
@@ -1503,8 +1357,7 @@
             "jp": "コロセラム",
             "kr": "코로세럼",
             "cn": "蚀清"
-        },
-        "nation": "columbia"
+        }
     },
     {
         "nameid": "kjera",
@@ -1514,8 +1367,7 @@
             "jp": "イェラ",
             "kr": "쉐라",
             "cn": "耶拉"
-        },
-        "nation": "kjerag"
+        }
     },
     {
         "nameid": "rockr",
@@ -1525,8 +1377,7 @@
             "jp": "ロックロック",
             "kr": "락락",
             "cn": "洛洛"
-        },
-        "nation": "victoria"
+        }
     },
     {
         "nameid": "malist",
@@ -1536,8 +1387,7 @@
             "jp": "ミニマリスト",
             "kr": "미니멀리스트",
             "cn": "至简"
-        },
-        "nation": "sargon"
+        }
     },
     {
         "nameid": "otter",
@@ -1547,8 +1397,7 @@
             "jp": "メイヤー",
             "kr": "메이어",
             "cn": "梅尔"
-        },
-        "nation": "columbia"
+        }
     },
     {
         "nameid": "folivo",
@@ -1558,8 +1407,7 @@
             "jp": "シーン",
             "kr": "씬",
             "cn": "稀音"
-        },
-        "nation": "sargon"
+        }
     },
     {
         "nameid": "silent",
@@ -1569,8 +1417,7 @@
             "jp": "サイレンス",
             "kr": "사일런스",
             "cn": "赫默"
-        },
-        "nation": "columbia"
+        }
     },
     {
         "nameid": "bldsk",
@@ -1580,8 +1427,7 @@
             "jp": "ワルファリン",
             "kr": "와파린",
             "cn": "华法琳"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "folnic",
@@ -1591,8 +1437,7 @@
             "jp": "フォリニック",
             "kr": "폴리닉",
             "cn": "亚叶"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "amedic",
@@ -1602,8 +1447,7 @@
             "jp": "Touch",
             "kr": "Touch",
             "cn": "Touch"
-        },
-        "nation": null
+        }
     },
     {
         "nameid": "ceylon",
@@ -1613,8 +1457,7 @@
             "jp": "セイロン",
             "kr": "실론",
             "cn": "锡兰"
-        },
-        "nation": "columbia"
+        }
     },
     {
         "nameid": "whispr",
@@ -1624,8 +1467,7 @@
             "jp": "ウィスパーレイン",
             "kr": "위스퍼레인",
             "cn": "絮雨"
-        },
-        "nation": "iberia"
+        }
     },
     {
         "nameid": "tuye",
@@ -1635,8 +1477,7 @@
             "jp": "トゥイエ",
             "kr": "투예",
             "cn": "图耶"
-        },
-        "nation": "sargon"
+        }
     },
     {
         "nameid": "mberry",
@@ -1646,8 +1487,7 @@
             "jp": "マルベリー",
             "kr": "멀베리",
             "cn": "桑葚"
-        },
-        "nation": "yan"
+        }
     },
     {
         "nameid": "glider",
@@ -1657,8 +1497,7 @@
             "jp": "ハニーベリー",
             "kr": "허니베리",
             "cn": "蜜莓"
-        },
-        "nation": "rim"
+        }
     },
     {
         "nameid": "hbisc2",
@@ -1668,8 +1507,7 @@
             "jp": "濯塵ハイビスカス",
             "kr": "히비스커스 더 퓨리파이어",
             "cn": "濯尘芙蓉"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "peper",
@@ -1679,8 +1517,7 @@
             "jp": "パプリカ",
             "kr": "파프리카",
             "cn": "明椒"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "nearl",
@@ -1690,8 +1527,7 @@
             "jp": "ニアール",
             "kr": "니어",
             "cn": "临光"
-        },
-        "nation": null
+        }
     },
     {
         "nameid": "hmau",
@@ -1701,8 +1537,7 @@
             "jp": "ウン",
             "kr": "훔",
             "cn": "吽"
-        },
-        "nation": "lungmen"
+        }
     },
     {
         "nameid": "red",
@@ -1712,8 +1547,7 @@
             "jp": "レッド",
             "kr": "레드",
             "cn": "红"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "waaifu",
@@ -1723,8 +1557,7 @@
             "jp": "ワイフー",
             "kr": "와이후",
             "cn": "槐琥"
-        },
-        "nation": "lungmen"
+        }
     },
     {
         "nameid": "kafka",
@@ -1734,8 +1567,7 @@
             "jp": "カフカ",
             "kr": "카프카",
             "cn": "卡夫卡"
-        },
-        "nation": "columbia"
+        }
     },
     {
         "nameid": "nothin",
@@ -1745,8 +1577,7 @@
             "jp": "ウユウ",
             "kr": "우요우",
             "cn": "乌有"
-        },
-        "nation": "yan"
+        }
     },
     {
         "nameid": "liskam",
@@ -1756,8 +1587,7 @@
             "jp": "リスカム",
             "kr": "리스캄",
             "cn": "雷蛇"
-        },
-        "nation": "columbia"
+        }
     },
     {
         "nameid": "moeshd",
@@ -1767,8 +1597,7 @@
             "jp": "クロワッサン",
             "kr": "크루아상",
             "cn": "可颂"
-        },
-        "nation": "lungmen"
+        }
     },
     {
         "nameid": "bison",
@@ -1778,8 +1607,7 @@
             "jp": "バイソン",
             "kr": "바이슨",
             "cn": "拜松"
-        },
-        "nation": "lungmen"
+        }
     },
     {
         "nameid": "hpsts",
@@ -1789,8 +1617,7 @@
             "jp": "ヴァルカン",
             "kr": "벌컨",
             "cn": "火神"
-        },
-        "nation": "minos"
+        }
     },
     {
         "nameid": "asbest",
@@ -1800,8 +1627,7 @@
             "jp": "アスベストス",
             "kr": "아스베스토스",
             "cn": "石棉"
-        },
-        "nation": "rim"
+        }
     },
     {
         "nameid": "aprot",
@@ -1811,8 +1637,7 @@
             "jp": "シャレム",
             "kr": "샬렘",
             "cn": "暮落"
-        },
-        "nation": null
+        }
     },
     {
         "nameid": "aprot2",
@@ -1822,8 +1647,7 @@
             "jp": "シャレム",
             "kr": "샬렘",
             "cn": "暮落"
-        },
-        "nation": "victoria"
+        }
     },
     {
         "nameid": "pianst",
@@ -1833,8 +1657,7 @@
             "jp": "ツェルニー",
             "kr": "체르니",
             "cn": "车尔尼"
-        },
-        "nation": "leithanien"
+        }
     },
     {
         "nameid": "blitz",
@@ -1844,8 +1667,7 @@
             "jp": "Blitz",
             "kr": "Blitz",
             "cn": "闪击"
-        },
-        "nation": null
+        }
     },
     {
         "nameid": "zebra",
@@ -1855,8 +1677,7 @@
             "jp": "ヘビーレイン",
             "kr": "헤비레인",
             "cn": "暴雨"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "ashlok",
@@ -1866,8 +1687,7 @@
             "jp": "アッシュロック",
             "kr": "애쉬락",
             "cn": "灰毫"
-        },
-        "nation": "kazimierz"
+        }
     },
     {
         "nameid": "firwhl",
@@ -1877,8 +1697,7 @@
             "jp": "ファイヤーホイッスル",
             "kr": "파이어휘슬",
             "cn": "火哨"
-        },
-        "nation": "rim"
+        }
     },
     {
         "nameid": "aurora",
@@ -1888,8 +1707,7 @@
             "jp": "オーロラ",
             "kr": "오로라",
             "cn": "极光"
-        },
-        "nation": "kjerag"
+        }
     },
     {
         "nameid": "prove",
@@ -1899,8 +1717,7 @@
             "jp": "プロヴァンス",
             "kr": "프로방스",
             "cn": "普罗旺斯"
-        },
-        "nation": "siracusa"
+        }
     },
     {
         "nameid": "milu",
@@ -1910,8 +1727,7 @@
             "jp": "ファイヤーウォッチ",
             "kr": "파이어워치",
             "cn": "守林人"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "cuttle",
@@ -1921,8 +1737,7 @@
             "jp": "アンドレアナ",
             "kr": "안드레아나",
             "cn": "安哲拉"
-        },
-        "nation": "egir"
+        }
     },
     {
         "nameid": "lunacu",
@@ -1932,8 +1747,7 @@
             "jp": "ルナカブ",
             "kr": "루나컵",
             "cn": "子月"
-        },
-        "nation": "siracusa"
+        }
     },
     {
         "nameid": "toddi",
@@ -1943,8 +1757,7 @@
             "jp": "トギフォンス",
             "kr": "토디폰스",
             "cn": "熔泉"
-        },
-        "nation": "victoria"
+        }
     },
     {
         "nameid": "erato",
@@ -1954,8 +1767,7 @@
             "jp": "エラト",
             "kr": "에라토",
             "cn": "埃拉托"
-        },
-        "nation": "minos"
+        }
     },
     {
         "nameid": "greyy2",
@@ -1965,8 +1777,7 @@
             "jp": "承曦グレイ",
             "kr": "그레이 더 라이트닝베어러",
             "cn": "承曦格雷伊"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "slchan",
@@ -1976,8 +1787,7 @@
             "jp": "クリフハート",
             "kr": "클리프하트",
             "cn": "崖心"
-        },
-        "nation": "kjerag"
+        }
     },
     {
         "nameid": "snsant",
@@ -1987,8 +1797,7 @@
             "jp": "スノーズント",
             "kr": "스노우상트",
             "cn": "雪雉"
-        },
-        "nation": "lungmen"
+        }
     },
     {
         "nameid": "slbell",
@@ -1998,8 +1807,7 @@
             "jp": "プラマニクス",
             "kr": "프라마닉스",
             "cn": "初雪"
-        },
-        "nation": "kjerag"
+        }
     },
     {
         "nameid": "vodfox",
@@ -2009,8 +1817,7 @@
             "jp": "シャマレ",
             "kr": "샤마르",
             "cn": "巫恋"
-        },
-        "nation": "siracusa"
+        }
     },
     {
         "nameid": "glassb",
@@ -2020,8 +1827,7 @@
             "jp": "イースチナ",
             "kr": "이스티나",
             "cn": "真理"
-        },
-        "nation": "ursus"
+        }
     },
     {
         "nameid": "glacus",
@@ -2031,8 +1837,7 @@
             "jp": "グラウコス",
             "kr": "글라우쿠스",
             "cn": "格劳克斯"
-        },
-        "nation": "iberia"
+        }
     },
     {
         "nameid": "provs",
@@ -2042,8 +1847,7 @@
             "jp": "プロヴァイゾ",
             "kr": "프로바이조",
             "cn": "但书"
-        },
-        "nation": "kazimierz"
+        }
     },
     {
         "nameid": "windft",
@@ -2053,8 +1857,7 @@
             "jp": "ウインドフリット",
             "kr": "윈드플릿",
             "cn": "掠风"
-        },
-        "nation": "columbia"
+        }
     },
     {
         "nameid": "sora",
@@ -2064,8 +1867,7 @@
             "jp": "ソラ",
             "kr": "소라",
             "cn": "空"
-        },
-        "nation": "lungmen"
+        }
     },
     {
         "nameid": "heidi",
@@ -2075,8 +1877,7 @@
             "jp": "ハイディ",
             "kr": "하이디",
             "cn": "海蒂"
-        },
-        "nation": "victoria"
+        }
     },
     {
         "nameid": "tknogi",
@@ -2086,8 +1887,7 @@
             "jp": "ツキノギ",
             "kr": "츠키노기",
             "cn": "月禾"
-        },
-        "nation": "higashi"
+        }
     },
     {
         "nameid": "ncdeer",
@@ -2097,8 +1897,7 @@
             "jp": "九色鹿",
             "kr": "나인컬러드 디어",
             "cn": "九色鹿"
-        },
-        "nation": "yan"
+        }
     },
     {
         "nameid": "quercu",
@@ -2108,8 +1907,7 @@
             "jp": "クエルクス",
             "kr": "퀘르쿠스",
             "cn": "夏栎"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "mantic",
@@ -2119,8 +1917,7 @@
             "jp": "マンティコア",
             "kr": "맨티코어",
             "cn": "狮蝎"
-        },
-        "nation": "sargon"
+        }
     },
     {
         "nameid": "kirara",
@@ -2130,8 +1927,7 @@
             "jp": "キララ",
             "kr": "키라라",
             "cn": "绮良"
-        },
-        "nation": "higashi"
+        }
     },
     {
         "nameid": "panda",
@@ -2141,8 +1937,7 @@
             "jp": "エフイーター",
             "kr": "에프이터",
             "cn": "食铁兽"
-        },
-        "nation": "lungmen"
+        }
     },
     {
         "nameid": "forcer",
@@ -2152,8 +1947,7 @@
             "jp": "エンフォーサー",
             "kr": "인포서",
             "cn": "见行者"
-        },
-        "nation": "laterano"
+        }
     },
     {
         "nameid": "robin",
@@ -2163,8 +1957,7 @@
             "jp": "ロビン",
             "kr": "로빈",
             "cn": "罗宾"
-        },
-        "nation": "columbia"
+        }
     },
     {
         "nameid": "rfrost",
@@ -2174,8 +1967,7 @@
             "jp": "Frost",
             "kr": "Frost",
             "cn": "霜华"
-        },
-        "nation": null
+        }
     },
     {
         "nameid": "bena",
@@ -2185,8 +1977,7 @@
             "jp": "ベナ",
             "kr": "베나",
             "cn": "贝娜"
-        },
-        "nation": "victoria"
+        }
     },
     {
         "nameid": "kazema",
@@ -2196,8 +1987,7 @@
             "jp": "カゼマル",
             "kr": "카제마루",
             "cn": "风丸"
-        },
-        "nation": "higashi"
+        }
     },
     {
         "nameid": "angel",
@@ -2207,8 +1997,7 @@
             "jp": "エクシア",
             "kr": "엑시아",
             "cn": "能天使"
-        },
-        "nation": "lungmen"
+        }
     },
     {
         "nameid": "archet",
@@ -2218,8 +2007,7 @@
             "jp": "アルケット",
             "kr": "아르케토",
             "cn": "空弦"
-        },
-        "nation": "laterano"
+        }
     },
     {
         "nameid": "ash",
@@ -2229,8 +2017,7 @@
             "jp": "Ash",
             "kr": "Ash",
             "cn": "灰烬"
-        },
-        "nation": null
+        }
     },
     {
         "nameid": "shwaz",
@@ -2240,8 +2027,7 @@
             "jp": "シュヴァルツ",
             "kr": "슈바르츠",
             "cn": "黑"
-        },
-        "nation": "columbia"
+        }
     },
     {
         "nameid": "bgsnow",
@@ -2251,8 +2037,7 @@
             "jp": "パゼオンカ",
             "kr": "파죰카",
             "cn": "鸿雪"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "fartth",
@@ -2262,8 +2047,7 @@
             "jp": "ファートゥース",
             "kr": "파투스",
             "cn": "远牙"
-        },
-        "nation": "kazimierz"
+        }
     },
     {
         "nameid": "cqbw",
@@ -2273,8 +2057,7 @@
             "jp": "W",
             "kr": "W",
             "cn": "W"
-        },
-        "nation": null
+        }
     },
     {
         "nameid": "phenxi",
@@ -2284,8 +2067,7 @@
             "jp": "フィアメッタ",
             "kr": "피아메타",
             "cn": "菲亚梅塔"
-        },
-        "nation": "laterano"
+        }
     },
     {
         "nameid": "poca",
@@ -2295,8 +2077,7 @@
             "jp": "ロサ",
             "kr": "로사",
             "cn": "早露"
-        },
-        "nation": "ursus"
+        }
     },
     {
         "nameid": "rosmon",
@@ -2306,8 +2087,7 @@
             "jp": "ロスモンティス",
             "kr": "로즈몬티스",
             "cn": "迷迭香"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "chen2",
@@ -2317,8 +2097,7 @@
             "jp": "遊龍チェン",
             "kr": "첸 더 홀룽데이",
             "cn": "假日威龙陈"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "siege",
@@ -2328,8 +2107,7 @@
             "jp": "シージ",
             "kr": "시즈",
             "cn": "推进之王"
-        },
-        "nation": "victoria"
+        }
     },
     {
         "nameid": "bpipe",
@@ -2339,8 +2117,7 @@
             "jp": "バグパイプ",
             "kr": "백파이프",
             "cn": "风笛"
-        },
-        "nation": "victoria"
+        }
     },
     {
         "nameid": "saga",
@@ -2350,8 +2127,7 @@
             "jp": "サガ",
             "kr": "사가",
             "cn": "嵯峨"
-        },
-        "nation": "higashi"
+        }
     },
     {
         "nameid": "sleach",
@@ -2361,8 +2137,7 @@
             "jp": "サイラッハ",
             "kr": "사일라흐",
             "cn": "琴柳"
-        },
-        "nation": "victoria"
+        }
     },
     {
         "nameid": "flamtl",
@@ -2372,8 +2147,7 @@
             "jp": "フレイムテイル",
             "kr": "플레임테일",
             "cn": "焰尾"
-        },
-        "nation": "kazimierz"
+        }
     },
     {
         "nameid": "vigil",
@@ -2383,8 +2157,7 @@
             "jp": "ヴィジェル",
             "kr": "비질",
             "cn": "伺夜"
-        },
-        "nation": "siracusa"
+        }
     },
     {
         "nameid": "ifrit",
@@ -2394,8 +2167,7 @@
             "jp": "イフリータ",
             "kr": "이프리트",
             "cn": "伊芙利特"
-        },
-        "nation": "columbia"
+        }
     },
     {
         "nameid": "mostma",
@@ -2405,8 +2177,7 @@
             "jp": "モスティマ",
             "kr": "모스티마",
             "cn": "莫斯提马"
-        },
-        "nation": "laterano"
+        }
     },
     {
         "nameid": "amgoat",
@@ -2416,8 +2187,7 @@
             "jp": "エイヤフィヤトラ",
             "kr": "에이야퍄들라",
             "cn": "艾雅法拉"
-        },
-        "nation": "leithanien"
+        }
     },
     {
         "nameid": "cerber",
@@ -2427,8 +2197,7 @@
             "jp": "ケオベ",
             "kr": "케오베",
             "cn": "刻俄柏"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "dusk",
@@ -2438,8 +2207,7 @@
             "jp": "シー",
             "kr": "시",
             "cn": "夕"
-        },
-        "nation": "yan"
+        }
     },
     {
         "nameid": "pasngr",
@@ -2449,8 +2217,7 @@
             "jp": "パッセンジャー",
             "kr": "패신저",
             "cn": "异客"
-        },
-        "nation": "sargon"
+        }
     },
     {
         "nameid": "billro",
@@ -2460,8 +2227,7 @@
             "jp": "カーネリアン",
             "kr": "카넬리안",
             "cn": "卡涅利安"
-        },
-        "nation": "leithanien"
+        }
     },
     {
         "nameid": "lin",
@@ -2471,8 +2237,7 @@
             "jp": "リン",
             "kr": "린",
             "cn": "林"
-        },
-        "nation": "lungmen"
+        }
     },
     {
         "nameid": "gdglow",
@@ -2482,8 +2247,7 @@
             "jp": "ゴールデングロー",
             "kr": "골든글로우",
             "cn": "澄闪"
-        },
-        "nation": "victoria"
+        }
     },
     {
         "nameid": "ebnhlz",
@@ -2493,8 +2257,7 @@
             "jp": "エーベンホルツ",
             "kr": "에벤홀츠",
             "cn": "黑键"
-        },
-        "nation": "leithanien"
+        }
     },
     {
         "nameid": "gnosis",
@@ -2504,8 +2267,7 @@
             "jp": "ノーシス",
             "kr": "노시스",
             "cn": "灵知"
-        },
-        "nation": "kjerag"
+        }
     },
     {
         "nameid": "aglina",
@@ -2515,8 +2277,7 @@
             "jp": "アンジェリーナ",
             "kr": "안젤리나",
             "cn": "安洁莉娜"
-        },
-        "nation": "siracusa"
+        }
     },
     {
         "nameid": "lisa",
@@ -2526,8 +2287,7 @@
             "jp": "スズラン",
             "kr": "스즈란",
             "cn": "铃兰"
-        },
-        "nation": "siracusa"
+        }
     },
     {
         "nameid": "mgllan",
@@ -2537,8 +2297,7 @@
             "jp": "マゼラン",
             "kr": "마젤란",
             "cn": "麦哲伦"
-        },
-        "nation": "columbia"
+        }
     },
     {
         "nameid": "skadi2",
@@ -2548,8 +2307,7 @@
             "jp": "濁心スカジ",
             "kr": "스카디 더 커럽팅 하트",
             "cn": "浊心斯卡蒂"
-        },
-        "nation": "egir"
+        }
     },
     {
         "nameid": "ling",
@@ -2559,8 +2317,7 @@
             "jp": "リィン",
             "kr": "링",
             "cn": "令"
-        },
-        "nation": "yan"
+        }
     },
     {
         "nameid": "ironmn",
@@ -2570,8 +2327,7 @@
             "jp": "ステインレス",
             "kr": "스테인리스",
             "cn": "白铁"
-        },
-        "nation": "victoria"
+        }
     },
     {
         "nameid": "phatom",
@@ -2581,8 +2337,7 @@
             "jp": "ファントム",
             "kr": "팬텀",
             "cn": "傀影"
-        },
-        "nation": "victoria"
+        }
     },
     {
         "nameid": "texas2",
@@ -2592,8 +2347,7 @@
             "jp": "血掟テキサス",
             "kr": "텍사스 디 오메르토사",
             "cn": "缄默德克萨斯"
-        },
-        "nation": "lungmen"
+        }
     },
     {
         "nameid": "yato2",
@@ -2603,8 +2357,7 @@
             "jp": "キリンRヤトウ",
             "kr": "키린R 야토",
             "cn": "麒麟R夜刀"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "lmlee",
@@ -2614,8 +2367,7 @@
             "jp": "リー",
             "kr": "리",
             "cn": "老鲤"
-        },
-        "nation": "lungmen"
+        }
     },
     {
         "nameid": "weedy",
@@ -2625,8 +2377,7 @@
             "jp": "ウィーディ",
             "kr": "위디",
             "cn": "温蒂"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "haak",
@@ -2636,8 +2387,7 @@
             "jp": "ア",
             "kr": "아",
             "cn": "阿"
-        },
-        "nation": "lungmen"
+        }
     },
     {
         "nameid": "glady",
@@ -2647,8 +2397,7 @@
             "jp": "グレイディーア",
             "kr": "글래디아",
             "cn": "歌蕾蒂娅"
-        },
-        "nation": "egir"
+        }
     },
     {
         "nameid": "mizuki",
@@ -2658,8 +2407,7 @@
             "jp": "ミヅキ",
             "kr": "미즈키",
             "cn": "水月"
-        },
-        "nation": "higashi"
+        }
     },
     {
         "nameid": "ghost2",
@@ -2669,8 +2417,7 @@
             "jp": "帰溟スペクター",
             "kr": "스펙터 디 언체인드",
             "cn": "归溟幽灵鲨"
-        },
-        "nation": "egir"
+        }
     },
     {
         "nameid": "doroth",
@@ -2680,8 +2427,7 @@
             "jp": "ドロシー",
             "kr": "도로시",
             "cn": "多萝西"
-        },
-        "nation": "columbia"
+        }
     },
     {
         "nameid": "shining",
@@ -2691,8 +2437,7 @@
             "jp": "シャイニング",
             "kr": "샤이닝",
             "cn": "闪灵"
-        },
-        "nation": null
+        }
     },
     {
         "nameid": "cgbird",
@@ -2702,8 +2447,7 @@
             "jp": "ナイチンゲール",
             "kr": "나이팅게일",
             "cn": "夜莺"
-        },
-        "nation": null
+        }
     },
     {
         "nameid": "kalts",
@@ -2713,8 +2457,7 @@
             "jp": "ケルシー",
             "kr": "켈시",
             "cn": "凯尔希"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "lumen",
@@ -2724,8 +2467,7 @@
             "jp": "ルーメン",
             "kr": "루멘",
             "cn": "流明"
-        },
-        "nation": "iberia"
+        }
     },
     {
         "nameid": "reed2",
@@ -2735,8 +2477,7 @@
             "jp": "焔影リード",
             "kr": "리드 더 플레임 섀도우",
             "cn": "焰影苇草"
-        },
-        "nation": "victoria"
+        }
     },
     {
         "nameid": "hsguma",
@@ -2746,8 +2487,7 @@
             "jp": "ホシグマ",
             "kr": "호시구마",
             "cn": "星熊"
-        },
-        "nation": "lungmen"
+        }
     },
     {
         "nameid": "demkni",
@@ -2757,8 +2497,7 @@
             "jp": "サリア",
             "kr": "사리아",
             "cn": "塞雷娅"
-        },
-        "nation": "columbia"
+        }
     },
     {
         "nameid": "blemsh",
@@ -2768,8 +2507,7 @@
             "jp": "ブレミシャイン",
             "kr": "블레미샤인",
             "cn": "瑕光"
-        },
-        "nation": "kazimierz"
+        }
     },
     {
         "nameid": "nian",
@@ -2779,8 +2517,7 @@
             "jp": "ニェン",
             "kr": "니엔",
             "cn": "年"
-        },
-        "nation": "yan"
+        }
     },
     {
         "nameid": "mudrok",
@@ -2790,8 +2527,7 @@
             "jp": "マドロック",
             "kr": "머드락",
             "cn": "泥岩"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "judge",
@@ -2801,8 +2537,7 @@
             "jp": "ペナンス",
             "kr": "페넌스",
             "cn": "斥罪"
-        },
-        "nation": "siracusa"
+        }
     },
     {
         "nameid": "zumama",
@@ -2812,8 +2547,7 @@
             "jp": "ユーネクテス",
             "kr": "유넥티스",
             "cn": "森蚺"
-        },
-        "nation": "sargon"
+        }
     },
     {
         "nameid": "horn",
@@ -2823,8 +2557,7 @@
             "jp": "ホルン",
             "kr": "혼",
             "cn": "号角"
-        },
-        "nation": "victoria"
+        }
     },
     {
         "nameid": "f12yin",
@@ -2834,8 +2567,7 @@
             "jp": "マウンテン",
             "kr": "마운틴",
             "cn": "山"
-        },
-        "nation": "columbia"
+        }
     },
     {
         "nameid": "chyue",
@@ -2845,8 +2577,7 @@
             "jp": "チョンユエ",
             "kr": "총웨",
             "cn": "重岳"
-        },
-        "nation": "yan"
+        }
     },
     {
         "nameid": "svrash",
@@ -2856,8 +2587,7 @@
             "jp": "シルバーアッシュ",
             "kr": "실버애쉬",
             "cn": "银灰"
-        },
-        "nation": "kjerag"
+        }
     },
     {
         "nameid": "thorns",
@@ -2867,8 +2597,7 @@
             "jp": "ソーンズ",
             "kr": "쏜즈",
             "cn": "棘刺"
-        },
-        "nation": "iberia"
+        }
     },
     {
         "nameid": "qiubai",
@@ -2878,8 +2607,7 @@
             "jp": "チューバイ",
             "kr": "치우바이",
             "cn": "仇白"
-        },
-        "nation": "yan"
+        }
     },
     {
         "nameid": "chen",
@@ -2889,8 +2617,7 @@
             "jp": "チェン",
             "kr": "첸",
             "cn": "陈"
-        },
-        "nation": "lungmen"
+        }
     },
     {
         "nameid": "irene",
@@ -2900,8 +2627,7 @@
             "jp": "アイリーニ",
             "kr": "아이린",
             "cn": "艾丽妮"
-        },
-        "nation": "iberia"
+        }
     },
     {
         "nameid": "huang",
@@ -2911,8 +2637,7 @@
             "jp": "ブレイズ",
             "kr": "블레이즈",
             "cn": "煌"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "gvial2",
@@ -2922,8 +2647,7 @@
             "jp": "百錬ガヴィル",
             "kr": "가비알 디 인빈서블",
             "cn": "百炼嘉维尔"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "surtr",
@@ -2933,8 +2657,7 @@
             "jp": "スルト",
             "kr": "수르트",
             "cn": "史尔特尔"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "helage",
@@ -2944,8 +2667,7 @@
             "jp": "ヘラグ",
             "kr": "헬라그",
             "cn": "赫拉格"
-        },
-        "nation": "ursus"
+        }
     },
     {
         "nameid": "pallas",
@@ -2955,8 +2677,7 @@
             "jp": "パラス",
             "kr": "팔라스",
             "cn": "帕拉斯"
-        },
-        "nation": "minos"
+        }
     },
     {
         "nameid": "nearl2",
@@ -2966,8 +2687,7 @@
             "jp": "耀騎士ニアール",
             "kr": "니어 더 래디언트 나이트",
             "cn": "耀骑士临光"
-        },
-        "nation": "kazimierz"
+        }
     },
     {
         "nameid": "mlynar",
@@ -2977,8 +2697,7 @@
             "jp": "ムリナール",
             "kr": "무에나",
             "cn": "玛恩纳"
-        },
-        "nation": "kazimierz"
+        }
     },
     {
         "nameid": "savage",
@@ -2988,8 +2707,7 @@
             "jp": "サベージ",
             "kr": "새비지",
             "cn": "暴行"
-        },
-        "nation": "rim"
+        }
     },
     {
         "nameid": "catap",
@@ -2999,8 +2717,7 @@
             "jp": "カタパルト",
             "kr": "캐터펄트",
             "cn": "空爆"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "midn",
@@ -3010,8 +2727,7 @@
             "jp": "ミッドナイト",
             "kr": "미드나이트",
             "cn": "月见夜"
-        },
-        "nation": "rhodes"
+        }
     },
     {
         "nameid": "brownb",
@@ -3021,8 +2737,7 @@
             "jp": "ビーハンター",
             "kr": "비헌터",
             "cn": "猎蜂"
-        },
-        "nation": "ursus"
+        }
     },
     {
         "nameid": "jaksel",
@@ -3032,8 +2747,7 @@
             "jp": "ジャッキー",
             "kr": "재키",
             "cn": "杰克"
-        },
-        "nation": "columbia"
+        }
     },
     {
         "nameid": "nightm",
@@ -3043,8 +2757,7 @@
             "jp": "ナイトメア",
             "kr": "나이트메어",
             "cn": "夜魔"
-        },
-        "nation": "victoria"
+        }
     },
     {
         "nameid": "grani",
@@ -3054,8 +2767,7 @@
             "jp": "グラニ",
             "kr": "그라니",
             "cn": "格拉尼"
-        },
-        "nation": "victoria"
+        }
     },
     {
         "nameid": "skadi",
@@ -3065,7 +2777,6 @@
             "jp": "スカジ",
             "kr": "스카디",
             "cn": "斯卡蒂"
-        },
-        "nation": "egir"
+        }
     }
 ]

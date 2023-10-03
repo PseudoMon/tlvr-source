@@ -14,14 +14,27 @@ def load_wordtable(region):
 	sourcepath = path.join(region, "charword_table.json")
 	return load_json(sourcepath)
 
+def load_chartable(region):
+	sourcepath = path.join(region, "character_table.json")
+	return load_json(sourcepath)
+
 def loadchardicts(regions):
 	dicts = {}
 	for region in regions:
 		dicts[region] = loadchardict(region)
 	return dicts
 
-def make_charlist():
+def load_chartables(regions):
+	dicts = {}
+	for region in regions:
+		dicts[region] = load_chartable(region)
+	return dicts
+
+def make_charlist(check_nation=True):
 	chardicts = loadchardicts(langs)
+	if check_nation:
+		chartable = load_chartable("en")
+	
 	charlist = []
 
 	# Use EN as base
@@ -44,6 +57,10 @@ def make_charlist():
 
 			regional_name = chardicts[lang][char]["name"]
 			newchar["name"][lang] = regional_name
+
+		if check_nation:
+			fulldata = chartable[f"char_{newchar['numberid']}_{char}"]
+			newchar["nation"] = fulldata["nationId"]
 
 		charlist.append(newchar)
 
@@ -202,9 +219,20 @@ if __name__ == "__main__":
 	# 	"lolxh", "ncdeer", "aprot2"]
 	# chars = [char for char in charlist if char["nameid"] in test_chars]
 
-	# wordtables = load_wordtables()
-	# for char in chars:
-	# 	charid = f"char_{char['numberid']}_{char['nameid']}"
-	# 	get_and_write_chardata(charid, wordtables, char["name"])
+	# chartable = load_chartable("en")
+	# factions = []
+	# for charid in chartable:
+	# 	chardata = chartable[charid]
+	# 	faction = chardata["nationId"]
+	# 	if faction not in factions:
+	# 		factions.append(faction)
 
-	process_all_characters()
+	# nonationfactions = ["rainbow", "babel", "followers"]
+	# nations = ['rhodes', 'kazimierz', 'columbia', None, 
+	# 	'laterano', 'victoria', 'sami', 'bolivar', 'iberia', 
+	# 	'siracusa', 'higashi', 'sargon', 'kjerag', 'minos', 'yan', 
+	# 	'lungmen', 'ursus', 'egir', 'leithanien', 'rim']
+
+	# print(factions)
+
+	make_and_save_charlist()

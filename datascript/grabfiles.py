@@ -2,23 +2,26 @@ import requests
 from os import path
 from utils import load_json
 
+def getregurls(baseurl):
+    return {
+        "en": baseurl.format("en_US"),
+        "jp": baseurl.format("ja_JP"),
+        "cn": baseurl.format("zh_CN"),
+        "kr": baseurl.format("ko_KR"),
+    }
+
 base_chardicturl = "https://raw.githubusercontent.com/050644zf/ArknightsStoryJson/main/{}/chardict.json"
-chardictsurls = {
-    "en": base_chardicturl.format("en_US"),
-    "jp": base_chardicturl.format("ja_JP"),
-    "cn": base_chardicturl.format("zh_CN"),
-    "kr": base_chardicturl.format("ko_KR"),
-}
+chardictsurls = getregurls(base_chardicturl)
+
 base_avatar = "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_{}.png"
 
 base_charwordurl = "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/{}/gamedata/excel/charword_table.json"
-charwordsurls = {
-    "en": base_charwordurl.format("en_US"),
-    "jp": base_charwordurl.format("ja_JP"),
-    "cn": base_charwordurl.format("zh_CN"),
-    "kr": base_charwordurl.format("ko_KR"),
-}
+charwordsurls = getregurls(base_charwordurl)
 
+base_chartable = "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/{}/gamedata/excel/character_table.json"
+chartableurls = getregurls(base_chartable)
+
+base_faction_url = "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/factions/logo_{}.png"
 
 def download_text(url, target):
     response = requests.get(url)
@@ -65,6 +68,13 @@ def grab_all_charword_tables():
     for region in charwordsurls:
         grab_charword_table(region)
 
+def grab_all_chartable():
+    for region in chartableurls:
+        download_text(
+            chartableurls[region],
+            path.join(region, "character_table.json")
+        )
+
 def grab_avatar(char):
     fullid = f"{char['numberid']}_{char['nameid']}"
     url = base_avatar.format(fullid)
@@ -85,6 +95,23 @@ def grab_avatars():
 
         grab_avatar(char)
 
+def grab_factions():
+    # This will require charlist.json that also contains nation data
+    # Since those are the faction images we'll be taking
+    charlist = load_json("charlist.json")
+
+    factions_to_grab = []
+    for char in charlist:
+        nation = char["nation"]
+        if nation is not None and nation not in factions_to_grab:
+            factions_to_grab.append(nation) 
+
+    for faction in factions_to_grab:   
+        url = base_faction_url.format(faction) 
+        download_image(url, f"images/factions/{faction}.png")
+
 if __name__ == "__main__":  
-    grab_all_chardicts()
-    grab_all_charword_tables()
+    #grab_all_chardicts()
+    #grab_all_charword_tables()
+    #grab_all_chartable()
+    grab_factions()
