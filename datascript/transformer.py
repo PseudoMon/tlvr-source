@@ -32,8 +32,7 @@ def load_chartables(regions):
 
 def make_charlist(check_nation=True):
 	chardicts = loadchardicts(langs)
-	if check_nation:
-		chartable = load_chartable("en")
+	chartable = load_chartable("en")
 	
 	charlist = []
 
@@ -58,9 +57,10 @@ def make_charlist(check_nation=True):
 			regional_name = chardicts[lang][char]["name"]
 			newchar["name"][lang] = regional_name
 
-		if check_nation:
-			fulldata = chartable[f"char_{newchar['numberid']}_{char}"]
-			newchar["nation"] = fulldata["nationId"]
+		fulldata = chartable[f"char_{newchar['numberid']}_{char}"]
+		newchar["nation"] = fulldata["nationId"]
+		newchar["rating"] = fulldata["rarity"] + 1 
+		# 1-star operators have rarity data 0
 
 		charlist.append(newchar)
 

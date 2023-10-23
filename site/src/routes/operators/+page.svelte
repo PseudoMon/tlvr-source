@@ -4,33 +4,54 @@
   import { getAvatarUrl } from "$lib/utils"
   import LangButtonBar from "$lib/LangButtonBar.svelte";
   import Photocard from "$lib/char/Photocard.svelte";
+  import RatingFilter from "./RatingFilter.svelte";
+
   import type { SingleChar } from "./+page"; 
   export let data;
 
   let charlist: SingleChar[];
   let filteredCharlist: SingleChar[];
   $: charlist = data.charlist;
-  $: filteredCharlist = charlist.filter(char => {
-    if (appliedFilters.name != "") {
-      const nameToSearch = appliedFilters.name.toLowerCase();
-      const names = Object.values(char.name);
-      return names.some(name => 
-        name.toLowerCase().includes(nameToSearch)
-      );
-    }
-    else {
-      return true;
-    }
+  $: filteredCharlist = filterCharlist(charlist, appliedFilters)
 
-  });
+  type Filters = {
+    name: string,
+    rating: string[],
+  }
 
-  let appliedFilters = {
+  let appliedFilters: Filters = {
     name: "",
+    rating: [],
+  }
+
+  function filterCharlist(list, filter) {
+    return list.filter(char => {
+      let include: boolean = true;
+
+      if (filter.name != "") {
+        const nameToSearch = filter.name.toLowerCase();
+        const names = Object.values(char.name);
+        include = names.some(name => 
+          name.toLowerCase().includes(nameToSearch)
+        );
+      }
+
+      if (include && filter.rating.length > 0) {
+        include = filter.rating.includes(char.rating);
+      }
+
+      return include;
+    })
   }
 
   function handleSearchName(e) {
-    const value = e.target.value 
-    appliedFilters = { ...appliedFilters, name: value }
+    const value = e.target.value;
+    appliedFilters = { ...appliedFilters, name: value };
+  }
+
+  function handleFilterRatings(e) {
+    const rating = e.detail;
+    appliedFilters = { ...appliedFilters, rating };
   }
 </script>
 
@@ -42,13 +63,14 @@
   <LangButtonBar />
 
   <article class="charpage">
-    <h1>Operator List</h1>
     <section class="filter-options">
+      <h1>Operator List</h1>
       <label for="name-search">Search</label>
       <input type="text" placeholder="Search" 
         on:input={handleSearchName}
       />
-      
+
+      <RatingFilter on:onRatingsChange={handleFilterRatings} />
     </section>
 
     <ol class="charlist">
@@ -134,6 +156,22 @@
     .charlist :global(.photocard) {
       --width: 90px;
       font-size: 0.8em;
+    }
+  }
+
+  @media (min-width: 1000px) {
+    main {
+      max-width: 1100px;
+    }
+
+    .charpage {
+      display: grid;
+      grid-template-columns: 261px 1fr;
+      column-gap: 6%;
+    }
+
+    h1 {
+      font-size: 2.2em;
     }
   }
 </style>

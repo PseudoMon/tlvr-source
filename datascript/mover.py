@@ -45,4 +45,4 @@ def move_avatars():
         print("Succesfully moved", targetname)
 
 if __name__ == "__main__":  
-    move_chardata()
+    move_charlist()
