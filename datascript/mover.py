@@ -44,5 +44,17 @@ def move_avatars():
 
         print("Succesfully moved", targetname)
 
+def move_factions():
+    factionpaths = glob.glob("images/factions/*.png") 
+    for factionpath in factionpaths:
+        targetname = path.basename(factionpath).split("_")[-1]
+        targetname = path.splitext(targetname)[0] + ".webp"
+        targetpath = path.join("..", "site", "static", 
+            "images", "factions", targetname)
+        ffmpeg_convert(factionpath, targetpath)
+
+        print("Succesfully moved", targetname)
+
 if __name__ == "__main__":  
     move_charlist()
+    #move_factions()

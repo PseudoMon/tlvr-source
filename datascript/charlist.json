@@ -288,18 +288,6 @@
         "rating": 3
     },
     {
-        "nameid": "rcast",
-        "numberid": "505",
-        "name": {
-            "en": "Reserve Operator - Caster",
-            "jp": "予備隊員-術師",
-            "kr": "예비 인원 - 캐스터",
-            "cn": "预备干员-术师"
-        },
-        "nation": null,
-        "rating": 3
-    },
-    {
         "nameid": "orchid",
         "numberid": "278",
         "name": {
@@ -1965,18 +1953,6 @@
             "cn": "石棉"
         },
         "nation": "rim",
-        "rating": 5
-    },
-    {
-        "nameid": "aprot",
-        "numberid": "512",
-        "name": {
-            "en": "Shalem",
-            "jp": "シャレム",
-            "kr": "샬렘",
-            "cn": "暮落"
-        },
-        "nation": null,
         "rating": 5
     },
     {

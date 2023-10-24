@@ -5,14 +5,17 @@
   import LangButtonBar from "$lib/LangButtonBar.svelte";
   import Photocard from "$lib/char/Photocard.svelte";
   import RatingFilter from "./RatingFilter.svelte";
+  import FactionFilter from "./FactionFilter.svelte";
 
   import type { SingleChar } from "./+page"; 
   export let data;
 
   let charlist: SingleChar[];
   let filteredCharlist: SingleChar[];
+  let nations: string[];
   $: charlist = data.charlist;
   $: filteredCharlist = filterCharlist(charlist, appliedFilters)
+  $: nations = data.miscdata.nations.filter(n => !!n);
 
   type Filters = {
     name: string,
@@ -71,6 +74,8 @@
       />
 
       <RatingFilter on:onRatingsChange={handleFilterRatings} />
+
+      <FactionFilter nations={nations} />
     </section>
 
     <ol class="charlist">

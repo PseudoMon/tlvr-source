@@ -4,7 +4,7 @@ import grabfiles
 from utils import save_json, load_json
 
 langs = ["en", "jp", "kr", "cn"] 
-mute_chars = ["rguard", "rdfend", "rsnipe", "rmedic", "rcast" "aprot"]
+mute_chars = ["rguard", "rdfend", "rsnipe", "rmedic", "rcast", "aprot"]
 
 def loadchardict(region):
 	sourcepath = path.join(region, "chardict.json")
@@ -213,6 +213,17 @@ def process_all_characters():
 		charid = f"char_{char['numberid']}_{char['nameid']}"
 		get_and_write_chardata(charid, wordtables, char["name"])
 
+def get_and_save_misc_data(charlist):
+	nations = []
+	for char in charlist:
+		if char["nation"] not in nations:
+			nations.append(char["nation"])
+
+	miscdata = { "nations": nations }
+
+	save_json(miscdata, "miscdata.json")
+	print("Created misc data file")
+
 if __name__ == "__main__":  
 	# charlist = load_json("charlist.json")
 	# test_chars = ["indigo", "texas", "lmlee", "jnight", 
@@ -236,3 +247,6 @@ if __name__ == "__main__":
 	# print(factions)
 
 	make_and_save_charlist()
+
+	charlist = load_json("charlist.json")
+	get_and_save_misc_data(charlist)

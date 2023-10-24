@@ -18,15 +18,23 @@ interface SingleChar {
   },
 }
 
-interface ListData {
-  charlist: SingleChar[]
+interface MiscData {
+  nations: string[],
 }
 
-export async function load({ url }: LoadArgs): Promise<ListData> {  
-  const dataurl = `${url.origin}/data/charlist.json`;
-  const chars = await loadJson<SingleChar[]>(dataurl);
+interface ReturnData {
+  charlist: SingleChar[],
+  miscdata: MiscData,
+}
+
+export async function load({ url }: LoadArgs): Promise<ReturnData> {  
+  const dataurl = `${url.origin}/data/`;
+
+  const charlist = await loadJson<SingleChar[]>(dataurl + "charlist.json");
+  const miscdata = await loadJson<MiscData>(dataurl + "miscdata.json");
 
   return {
-    charlist: chars,
+    charlist,
+    miscdata,
   }
 }
