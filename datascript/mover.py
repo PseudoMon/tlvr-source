@@ -57,4 +57,4 @@ def move_factions():
 
 if __name__ == "__main__":  
     move_charlist()
-    #move_factions()
+    move_chardata()

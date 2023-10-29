@@ -20,11 +20,13 @@
   type Filters = {
     name: string,
     rating: string[],
+    nation: string[],
   }
 
   let appliedFilters: Filters = {
     name: "",
     rating: [],
+    nation: [],
   }
 
   function filterCharlist(list, filter) {
@@ -43,6 +45,10 @@
         include = filter.rating.includes(char.rating);
       }
 
+      if (include && filter.nation.length > 0) {
+        include = filter.nation.includes(char.nation);
+      }
+
       return include;
     })
   }
@@ -55,6 +61,11 @@
   function handleFilterRatings(e) {
     const rating = e.detail;
     appliedFilters = { ...appliedFilters, rating };
+  }
+
+  function handleFilterNations(e) {
+    const nation = e.detail;
+    appliedFilters = { ...appliedFilters, nation };
   }
 </script>
 
@@ -75,7 +86,10 @@
 
       <RatingFilter on:onRatingsChange={handleFilterRatings} />
 
-      <FactionFilter nations={nations} />
+      <FactionFilter 
+        nations={nations}
+        on:nationsChange={handleFilterNations} 
+      />
     </section>
 
     <ol class="charlist">
@@ -119,6 +133,7 @@
     grid-template-columns: repeat(auto-fill, 86px);
     gap: 12px;
     justify-content: center;
+    align-self: start;
   }
 
   .charlist > * {
@@ -171,12 +186,23 @@
 
     .charpage {
       display: grid;
-      grid-template-columns: 261px 1fr;
+      grid-template-columns: 300px 1fr;
       column-gap: 6%;
     }
 
     h1 {
       font-size: 2.2em;
+    }
+
+    .filter-options {
+      position: sticky;
+      top: 60px;
+      z-index: 89;
+      align-self: start;
+      max-height: calc(100vh - 60px);
+      overflow-y: auto;
+      overflow-x: clip;
+      padding-right: 30px;
     }
   }
 </style>

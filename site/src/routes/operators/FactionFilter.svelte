@@ -1,7 +1,12 @@
 <script lang="ts">
+  import { createEventDispatcher } from "svelte";
+
+  const dispatch = createEventDispatcher();
+
   export let nations: string[] = [];
   
   let selectedNations: string[] = [];
+  $: dispatch('nationsChange', selectedNations)
 
   function selectNation(nation) {
     if (!selectedNations.includes(nation)) {
@@ -16,7 +21,10 @@
 <h2>Nation</h2>
 <div class="nations">
   {#each nations as nation}
-    <button on:click={() => selectNation(nation)}>
+    <button 
+      on:click={() => selectNation(nation)}
+      class:selected={selectedNations.includes(nation)} 
+    >
       <img 
         src={`/images/factions/${nation}.webp`}
       >
@@ -32,7 +40,7 @@
 
   .nations {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: repeat(auto-fit, minmax(77px, 1fr));
   }
 
   .nations button {
@@ -42,7 +50,7 @@
     cursor: pointer;
   }
 
-  .nations button:hover {
+  .nations button:hover, .nations button.selected {
     opacity: 1.0;
   }
 
