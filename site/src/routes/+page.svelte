@@ -21,9 +21,9 @@ $: welcomeText = data.welcomeText[$currentLang]
   <aside class="home-quote">{welcomeText}</aside>
   <p>TLVR is an Arknights fansite that makes it easy to browse voice lines from the game in all its four languages (English, Chinese, Japanese, Korean). It’s created with multilingual speakers and language-learners in mind!</p>
 
-  <p>We have all characters and text from the Global servers of the game, with voice files in English, Mandarin Chinese, Japanese, and Korean from the CN server. Regional voices will be added soon.</p>
+  <p>This site includes all characters from the Global servers of the game, with voice files in English, Mandarin Chinese, Japanese, and Korean. Regional voices will be added soon. Check footer for when the site was last updated.</p>
 
-  <p>This site was made with love by <a href="https://pseudomon.github.io">PseudoMon</a>. It links to voice files uploaded by <a href="https://aceship.github.io/">Aceship</a>, and its creation was inspired by <a href="https://050644zf.github.io/ArknightsStoryTextReader">ASTR</a>. The site's source code is available on <a href="https://github.com/PseudoMon/tlvr-source">GitHub</a>.</p>
+  <p>This site was made with love by <a href="https://pseudomon.github.io">PseudoMon</a>. Its creation was inspired by <a href="https://050644zf.github.io/ArknightsStoryTextReader">ASTR</a>. The site's source code is available on <a href="https://github.com/PseudoMon/tlvr-source">GitHub</a>.</p>
 
   <p>If you found a bug or have suggestions for the site, you can <a href="https://github.com/PseudoMon/tlvr-source/issues">submit an issue in Github</a> or contact me directly on <a href="https://twitter.com/PseudoMonious">Twitter</a> or <a href="https://mastodon.social/@PseudoMon">Mastodon</a>.</p>
 </main>

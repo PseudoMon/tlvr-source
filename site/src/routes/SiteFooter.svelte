@@ -4,8 +4,8 @@
 
 <footer>
   <a href="https://github.com/PseudoMon/tlvr-source" target="_blank"><GithubIcon /></a>
-  <span>Site version 1.0</span>
-  <span>Data last updated: 2023-09-24 (Guide Ahead Rerun in Global)</span>
+  <span>Site version 1.1</span>
+  <span>Data last updated: 2023-10-24 (Main Story Chapter 12 in Global)</span>
 </footer>
 
 <style>
