@@ -1,4 +1,5 @@
 <script lang="ts">
+  import { base } from "$app/paths"
   import { createEventDispatcher } from "svelte";
 
   const dispatch = createEventDispatcher();
@@ -26,7 +27,7 @@
       class:selected={selectedNations.includes(nation)} 
     >
       <img 
-        src={`/images/factions/${nation}.webp`}
+        src={`${base}/images/factions/${nation}.webp`}
       >
     </button>
   {/each}
