@@ -570,6 +570,10 @@
         }
     ],
     "actors": {
+        "cn": {
+            "native": "陈婷婷",
+            "global": "Chen Tingting"
+        },
         "jp": {
             "native": "春野杏",
             "global": "Anzu Haruno"

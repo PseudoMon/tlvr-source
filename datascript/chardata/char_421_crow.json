@@ -570,6 +570,10 @@
         }
     ],
     "actors": {
+        "cn": {
+            "native": "刘一蕾",
+            "global": "Liu Yilei"
+        },
         "jp": {
             "native": "高野麻里佳",
             "global": "Marika Kohno"

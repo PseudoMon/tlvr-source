@@ -6,7 +6,8 @@ def getregurls(baseurl):
     return {
         "en": baseurl.format("en_US"),
         "jp": baseurl.format("ja_JP"),
-        "cn": baseurl.format("zh_CN"),
+        "cn": baseurl.replace("ArknightsGameData_YoStar", "ArknightsGameData")
+              .format("zh_CN"),
         "kr": baseurl.format("ko_KR"),
     }
 
@@ -15,10 +16,10 @@ chardictsurls = getregurls(base_chardicturl)
 
 base_avatar = "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_{}.png"
 
-base_charwordurl = "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/{}/gamedata/excel/charword_table.json"
+base_charwordurl = "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData_YoStar/master/{}/gamedata/excel/charword_table.json"
 charwordsurls = getregurls(base_charwordurl)
 
-base_chartable = "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/{}/gamedata/excel/character_table.json"
+base_chartable = "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData_YoStar/master/{}/gamedata/excel/character_table.json"
 chartableurls = getregurls(base_chartable)
 
 base_faction_url = "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/factions/logo_{}.png"
@@ -111,7 +112,9 @@ def grab_factions():
         download_image(url, f"images/factions/{faction}.png")
 
 if __name__ == "__main__":  
-    #grab_all_chardicts()
-    #grab_all_charword_tables()
-    #grab_all_chartable()
+    # grab_all_chardicts()
+    # grab_all_charword_tables()
+    # grab_all_chartable()
+
     grab_factions()
+    grab_avatars()

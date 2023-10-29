@@ -570,6 +570,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Amy Lennox",
+            "global": "Amy Lennox"
+        },
         "cn": {
             "native": "有匪",
             "global": "Certain"
@@ -584,6 +588,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

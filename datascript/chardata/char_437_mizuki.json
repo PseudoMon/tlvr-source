@@ -570,6 +570,10 @@
         }
     ],
     "actors": {
+        "cn": {
+            "native": "绿绮",
+            "global": "Ruth"
+        },
         "jp": {
             "native": "村瀬歩",
             "global": "Ayumu Murase"

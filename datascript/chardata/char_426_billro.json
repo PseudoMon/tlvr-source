@@ -570,6 +570,10 @@
         }
     ],
     "actors": {
+        "cn": {
+            "native": "蔡娜",
+            "global": "Cai Na"
+        },
         "jp": {
             "native": "喜多村英梨",
             "global": "Eri Kitamura"

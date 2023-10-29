@@ -570,6 +570,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Jack Ayres",
+            "global": "Jack Ayres"
+        },
         "cn": {
             "native": "张沛",
             "global": "Pei Zhang"
@@ -584,6 +588,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

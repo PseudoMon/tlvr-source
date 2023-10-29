@@ -570,6 +570,10 @@
         }
     ],
     "actors": {
+        "cn": {
+            "native": "黄莺",
+            "global": "Fiona"
+        },
         "jp": {
             "native": "生天目仁美",
             "global": "Hitomi Nabatame"

@@ -35,7 +35,7 @@
             "text": {
                 "en": "This communicator can transmit signals over considerable distances and is a powerful means of communicating between teams. And, yes, my Arts can amplify the signal and ensure that communication between teams goes unimpeded. Battlefield communication, simply put, is a job that was practically made for me.",
                 "jp": "この発信器があれば信号を相当な距離まで飛ばせるから、小隊間で連絡を取り合う有力な手段になるんだ。さらに僕のアーツで信号を強めれば、もう誰にも止められない。戦場通信、まさに僕のために用意された役割だよね。",
-                "kr": "이 발신기가 있으면 신호를 상당한 거리까지 날릴 수 있어서 팀 간에 연락할 수 있는 유력한 수단이 되지. 게다가 내 아츠로 신호를 증폭시키면 더는 아무도 막을 수 없게 돼. 전장 통신, 그야말로 날 위해 준비된 역할이지?",
+                "kr": "이 발신기가 있으면 신호를 상당한 거리까지 날릴 수 있어서 팀 간에 연락할 수 있는 유력한 수단이 되지. 게다가 내 아츠로 신호를 증폭시키잖아? 그럼 아무도 막을 수 없게 되는 거라고. 전장 통신, 그야말로 날 위해 준비된 역할이지?",
                 "cn": "这杆发信器能将信号传递到相当远的地方，也是小队之间进行沟通的有力手段。而且啊，我的法术能让信号变得很强，让小队之间的交流畅通无阻，战地通讯，简直就是为我设计的工作嘛。"
             },
             "asset": "char_401_elysm/CN_002"
@@ -51,7 +51,7 @@
             "text": {
                 "en": "Lost? No worries, let me take a look. To get there, first go up the stairs on the left and head up to the fourth floor. Then turn right, and after passing the third fork, make a left. Go down a floor, then proceed to your left. It's directly across from Miss Closure's #3 Engineering Room. How's that? Were my instructions clear enough?",
                 "jp": "迷子？大丈夫、僕に任せて。この場所へ行くには、まず左の階段で四階に上がり、右に直進して、三つ目の分かれ道を過ぎたら左に曲がり、一つ下の階に降りて、左に直進したところのクロージャさんの第三エンジニアルームの向かい側がそうだ。どう、わかりやすいでしょ？",
-                "kr": "길을 못 찾겠다고? 괜찮아, 나한테 맡겨. 여기로 가려면 우선 왼쪽 계단으로 4층으로 올라가서, 오른쪽으로 직진한 후에 세 번째 갈림길을 지나서 왼쪽으로 꺾은 다음, 한층 내려가서 왼쪽으로 직진하면 나오는 클로저 씨의 제3 엔지니어실의 맞은편으로 가면 돼. 어때, 알기 쉽지?",
+                "kr": "길을 못 찾겠다고? 괜찮아, 나한테 맡겨. 여기로 가려면 말이지, 우선 왼쪽 계단으로 4층까지 올라가서, 오른쪽으로 쭉~ 직진한 다음에 세 번째 갈림길을 지나서 왼쪽으로 꺾은 다음, 한층 내려가서 왼쪽으로 직진하면 나오는 클로저 씨의 제3 엔지니어실 맞은편으로 가면 돼. 어때, 알기 쉽지?",
                 "cn": "找不到路？没问题，交给我。要去这里的话，先从左边的楼梯上到四层，然后右转，走过第三个岔口后左转，再下一层，继续向左，可露希尔小姐的三号工程室对面就是。怎么样，是不是简洁易懂？"
             },
             "asset": "char_401_elysm/CN_003"
@@ -67,7 +67,7 @@
             "text": {
                 "en": "Thorns and I have reached an agreement- next time, neither of us will hold back, and a victor will be crowned. This time, I'll make sure to end his existence... Huh? Rhodes Island has an explicit ban on personal fights? You must be mistaken, I'm simply talking about chess. Loser has to shave his head, what say you to this bet?",
                 "jp": "ソーンズと話したよ、次はお互い情けはかけず、必ず決着をつける、とね。今度こそ彼を跡形もなく……え？ロドスで私闘は禁止？いやいや誤解しないで、今のはチェスの話だよ。ね、負けた方は坊主頭にするなんて賭けはどう？",
-                "kr": "쏜즈랑 이야기했어. 다음엔 서로 봐주는 것 없이 반드시 결판을 내겠다고. 이번에야말로 그를 흔적도 없이…… 뭐? 로도스 아일랜드에서 사적인 결투는 금지? 아냐, 아냐. 오해하지 마. 방금 그건 체스 이야기야. 있잖아, 진 쪽이 삭발하기 같은 내기는 어때?",
+                "kr": "쏜즈랑 이야기했어. 다음엔 서로 봐주는 것 없이 반드시 결판을 내겠다고. 이번에야말로 걔를 흔적도 없이…… 뭐? 로도스 아일랜드에서 사적인 결투는 금지라고? 아냐, 아냐. 오해하지 마. 방금 그건 체스 이야기야. 있잖아, 이런 건 어때? 진 쪽이 머리를 빡빡 미는 거야.",
                 "cn": "我和棘刺约好，下次双方都不再留手，一定要分出个胜负。这次我一定将他杀得片甲不留......什么？罗德岛禁止私斗？别误会，我是在说下棋，你觉得输了的人就剃光头，这个赌注怎么样？"
             },
             "asset": "char_401_elysm/CN_004"
@@ -83,7 +83,7 @@
             "text": {
                 "en": "Of course I'm also not used to being someone else's assistant, since my squad captain relies on me to deliver her orders, and I have to stay on the squad to support her. Wait, these words are just between the two of us. For both of our sakes, don't ever let her know about what I just told you, okay?",
                 "jp": "僕だって人の助手をするのは慣れないけど、うちの隊長は僕の力がないと命令を皆に伝えられないから、僕は隊に残って彼女の面倒を見てあげるしかないんだ。あ、ここだけの話にしてね。僕たちの将来のためにも、絶対彼女に知られちゃだめだよ。いいね？",
-                "kr": "나도 남의 조수를 하는 건 서툴지만, 우리 대장은 내 능력이 없으면 명령을 모두에게 전달할 수 없는 사람이다 보니 난 부대에 남아서 그녀를 돌봐줄 수밖에 없어. 아, 이건 우리끼리만 하는 이야기로 해줘. 우리의 미래를 위해서라도 절대 그녀한테 말하면 안 돼. 알았지?",
+                "kr": "나도 남의 조수를 하는 건 서툴지만, 우리 팀장은 내 능력이 없으면 명령을 모두에게 전달할 수 없거든, 그래서 난, 팀에 남아서 그 여자를 돌봐줄 수밖에 없어. 아, 이건 우리끼리만 하는 이야기다? 우리의 미래를 위해서라도, 절대 그 여자한테 말하면 안 돼. 알았지?",
                 "cn": "我当然也不习惯当别人的副手，但是我的队长只有靠我才能传达命令，我也就只能留在队伍里照顾她啦。等等，这些话你知我知，为了我们两个人的前途着想，千万别让她知道，行吗？"
             },
             "asset": "char_401_elysm/CN_005"
@@ -99,7 +99,7 @@
             "text": {
                 "en": "There is no overstating the importance of communication on the battlefield, and of course whoever facilitates that will be the first to get targeted. But don't worry, as long as I'm here, I'll make sure your orders are smoothly transmitted to every combat personnel.",
                 "jp": "戦場通信の重要性は語るまでもないな。敵に狙われやすいのも当然でしょ。けどまぁ安心して。僕がいれば、ドクターの指令を無事仲間たち全員に届けてみせるさ。",
-                "kr": "전장 통신의 중요성은 말할 것도 없지. 적의 표적이 되기 쉬운 것도 당연해. 하지만 뭐, 안심해. 내가 있으면, 박사의 지령을 무사히 동료들 모두에게 전달해 보일 테니까.",
+                "kr": "전장 통신의 중요성이야, 말할 것도 없지. 적의 표적이 되기 쉬운 것도 당연해. 그래도 뭐, 안심해. 내가 있으면, 박사의 지령을 무사히 동료들 모두에게, 전달해 줄 테니까.",
                 "cn": "战场上通讯的重要性不用多说，会首先受到攻击，也是当然的。放心吧，只要有我在，就一定让博士你的指令顺利传达到每一个作战人员。"
             },
             "asset": "char_401_elysm/CN_006"
@@ -115,7 +115,7 @@
             "text": {
                 "en": "Doctor, you came right on time. Actually, there's something bothering me. Why does everyone prefer looking at a map over asking me for directions? The captain said that my glib tone really gets on peoples' nerves, but there's no way that's true, right? I'm clearly nothing but compassionate towards everyone!",
                 "jp": "ドクター、ちょうどいいところに。実はちょっと悩んでて……みんな僕に道を聞くより、地図に頼ろうとするのは何でだと思う？前に隊長は僕がぺらぺらと上調子で喋るのが気に食わないと言ってたし、どうしてそんな風に思われるんだろう。みんなには優しくしてるはずなのになぁ。",
-                "kr": "박사, 마침 잘 왔어. 실은 좀 고민 중이거든…… 다들 나한테 길을 물어보는 것보다 지도에 의지하려 하는 건 왜일까? 전에 대장이 내가 주절주절 신나서 떠드는 게 마음에 안 든다고도 했었고, 다들 왜 그렇게 생각하는 걸까? 모두한테 친절하게 대하고 있는데 말이야…",
+                "kr": "박사, 마침 잘 왔어. 실은 좀 고민 중이거든…… 다들 왜, 나한테 길을 안 물어보고 지도에 의지하려 하는 걸까? 전에 팀장이 내가 주절주절 신나서 떠드는 게 마음에 안 든다고 한 적도 있었는데…… 다들 왜 그렇게 생각하는 걸까? 난 모두한테 친절하게 대하고 있는 건데 말이야……",
                 "cn": "博士，你来得正好。其实，我正在烦恼，为什么大家宁愿看地图，也不找我问路呢？队长她之前说我油腔滑调惹人烦，怎么会这样，明明我对大家都很温柔啊。"
             },
             "asset": "char_401_elysm/CN_007"
@@ -147,7 +147,7 @@
             "text": {
                 "en": "Doctor, you've earned my trust. There's no need to be so humble. I have confidence in my perception of others. How about I call you my comrade-in-arms from now on? My captain and I are like oil and water, but I believe that, much like her, you will eventually be moved by my sincerity. No? The captain sent you a letter complaining about me? Ehh?",
                 "jp": "ドクターは信頼していいと決めたんだ。お世辞じゃないよ、僕は人を見る目には自信があるから。君のことを「戦友」と呼ぶってのはどう？隊長も僕と最初は水と油の仲だったけど、彼女と同じように、戦友も僕の誠実さに心動かされると思うよ。そんなことない？隊長は今でも僕についてクレームをよこしてる？ええ？",
-                "kr": "박사는 신뢰해도 된다고 결정했어. 예의상 하는 말이 아니야. 난 내 눈에 자신이 있거든. 널 '전우'라고 부르는 건 어때? 팀장도 나랑 처음에는 물과 기름 같은 사이였지만, 그 여자처럼 전우도 내 성실함에 마음이 움직일 거라고 봐. 그렇지도 않다고? 팀장은 지금도 나에 대해 클레임을 걸고 있다고? 엥?",
+                "kr": "박사는 신뢰해도 되겠다고 정했어. 예의상 하는 말이 아니야. 사람 보는 눈 하나는 자신 있거든. 널 '전우'라고 부르는 건 어때? 우리 팀장도 나랑 처음엔 거의 물과 기름 같은 사이였지만, 그 여자처럼 전우도 내 성실함에 마음이 움직이지 않겠어? 그렇지도 않다고? 팀장은 지금도 나 때문에 클레임을 걸고 있다고? 엥?",
                 "cn": "博士你值得我信任。别谦虚，我对自己的眼光有信心。用战友来称呼你，怎么样？队长和我本来也水火不容，但我相信战友你和她一样，最后都会被我的真诚感动。不会？队长也寄信投诉我？呃？"
             },
             "asset": "char_401_elysm/CN_009"
@@ -163,7 +163,7 @@
             "text": {
                 "en": "Doctor, the files over here are... Hm? Already asleep, huh? Well, even if it's just me, you really shouldn't let your guard down like that.",
                 "jp": "ドクター、このファイルなんだけど……あれ？眠ってしまったのか。はぁ、僕がいるからって、そんな無防備だと困るな。",
-                "kr": "박사, 이 파일 말인데…… 어라? 잠들었네. 하아, 내가 있다고 해서 그렇게 무방비하면 곤란한데.",
+                "kr": "박사, 이 파일 말인데…… 어라? 잠들었네. 하아, 아무리 내가 있다 그래도, 이렇게 무방비하면 곤란한데.",
                 "cn": "博士，这边的文件......嗯？居然睡着了吗。唉，就算是因为有我在，也不能这么没戒心啊。"
             },
             "asset": "char_401_elysm/CN_010"
@@ -179,7 +179,7 @@
             "text": {
                 "en": "3rd Combat Squad, Vanguard and communications specialist, Elysium, reporting in. I do believe that this is our first time speaking face-to-face rather than through electronic means, Doctor?",
                 "jp": "第三作戦小隊所属、先鋒通信員のエリジウム、ただいま着任したよ。通信機越しじゃなくて、直接話せたのは初めてだよね、ドクター。",
-                "kr": "제3 작전팀 소속 선봉 통신원 엘리시움, 지금 막 착임했어. 통신기 너머가 아니라 직접 이야기하는 건 처음이지? 박사.",
+                "kr": "제3 작전팀 소속 선봉 통신원 엘리시움, 지금 막 착임했어. 통신기 너머가 아니라 이렇게 직접 이야기하는 건 처음이지? 박사.",
                 "cn": "三号作战小队，先锋通讯员极境，前来报到。这应该还是头一次不是机械通讯，而是直接与你对话吧，博士？"
             },
             "asset": "char_401_elysm/CN_011"
@@ -195,7 +195,7 @@
             "text": {
                 "en": "I can see myself in a lot of these battle records. Talk about weird.",
                 "jp": "内部の作戦記録で自分の戦う様子を目にするなんて、なんか不思議だよね。",
-                "kr": "내부 작전기록으로 내 전투 모습을 보다니, 뭔가 신기하네.",
+                "kr": "내부 작전 기록으로 내가 싸우는 모습을 보다니, 왠지 신기한데.",
                 "cn": "很多内部的作战记录里都能看到我自己，这种感觉有点奇怪。"
             },
             "asset": "char_401_elysm/CN_012"
@@ -211,7 +211,7 @@
             "text": {
                 "en": "Thank you very much. I won't end up with a higher rank than my captain if I get promoted again, will I?",
                 "jp": "感謝するよ。けどさ、もう一度昇進したら、もしかして僕の役職は隊長を超えてしまう感じ？",
-                "kr": "고마워. 그런데 말이야, 한 번 더 승진하면 혹시 내 계급이 팀장을 뛰어넘어버리는 건가?",
+                "kr": "고마워. 근데 말이야~ 여기서 한 번 더 승진하면, 이제 내 계급이 팀장을 뛰어넘게 되는 건가?",
                 "cn": "非常感谢。不过再晋升的话，我的职位该不会就要超过队长了吧？"
             },
             "asset": "char_401_elysm/CN_013"
@@ -259,7 +259,7 @@
             "text": {
                 "en": "Don't worry, I'm just a stand-in. The captain's not here right now after all.",
                 "jp": "安心して、あくまで一時的な代役だから。隊長がいない間だけのね。",
-                "kr": "안심해. 어디까지나 일시적인 대역이니까. 팀장이 없는 동안만인 거지.",
+                "kr": "안심해. 어디까지나 일시적인 대역이니까. 팀장이 없는 동안만이라 이거지.",
                 "cn": "放心，只是暂时代理。毕竟队长现在不在嘛。"
             },
             "asset": "char_401_elysm/CN_018"
@@ -275,7 +275,7 @@
             "text": {
                 "en": "In that case, let's go. Everyone, follow the route I drafted.",
                 "jp": "それじゃ出発しようか。みんな、僕のルートに沿って行動してね。",
-                "kr": "그럼 출발할까. 다들 내 루트에 따라 행동해줘.",
+                "kr": "그럼 출발할까. 다들 내 루트에 따라 행동해 줘.",
                 "cn": "那么就出发吧，大家跟随我的路线行动。"
             },
             "asset": "char_401_elysm/CN_019"
@@ -355,7 +355,7 @@
             "text": {
                 "en": "Gather under this banner in the name of the Lord— Hah, I've always wanted to try saying that.",
                 "jp": "主の名を掲げ、この旗の下へ集え――ふむ、こんなセリフを一度言ってみたかったんだ。",
-                "kr": "주님의 이름을 걸고, 이 깃발 아래 모여라…… 응, 이런 대사, 한번 해보고 싶었어.",
+                "kr": "주님의 이름을 걸고, 이 깃발 아래 모여라…… 후우~ 이런 대사, 한번 해보고 싶었거든.",
                 "cn": "以主之名，聚集于此旗之下——嗯，我一直都想尝试说一次这种台词。"
             },
             "asset": "char_401_elysm/CN_024"
@@ -371,7 +371,7 @@
             "text": {
                 "en": "S-sorry, I'm really not religious.",
                 "jp": "いや、悪いね、僕は別に信徒じゃないよ。",
-                "kr": "아냐, 미안해. 난 딱히 신자는 아니야.",
+                "kr": "이야~ 이거 미안해서 어쩌지? 난 딱히 신자는 아닌데 말이야.",
                 "cn": "不，对不起，我并不信教。"
             },
             "asset": "char_401_elysm/CN_025"
@@ -403,7 +403,7 @@
             "text": {
                 "en": "See that?",
                 "jp": "これで分かったでしょう！",
-                "kr": "이걸로 알았지?!",
+                "kr": "이제 알겠지?!",
                 "cn": "看清了吗！"
             },
             "asset": "char_401_elysm/CN_027"
@@ -435,7 +435,7 @@
             "text": {
                 "en": "This just confirms it. We really do make the best partners.",
                 "jp": "僕たちがいいパートナーになるって、改めて証明されたね。",
-                "kr": "우리가 좋은 파트너라는 게 다시 한번 증명되었네.",
+                "kr": "우리가 좋은 파트너라는 게 다시 한번 증명됐네.",
                 "cn": "再次确认，我们果然很适合搭档。"
             },
             "asset": "char_401_elysm/CN_029"
@@ -451,7 +451,7 @@
             "text": {
                 "en": "Our teamwork's pretty good. High five!",
                 "jp": "いい連携だったね、ハイタッチしようか。",
-                "kr": "좋은 연계였어. 하이파이브할까?",
+                "kr": "좋은 연계였어. 하이파이브 할까?",
                 "cn": "配合得真不错，来击个掌吧。"
             },
             "asset": "char_401_elysm/CN_030"
@@ -483,7 +483,7 @@
             "text": {
                 "en": "It's too dangerous. I'll make sure our last line of defense holds. Doctor, please give the order to retreat!",
                 "jp": "このままじゃ危険だ、最後の防衛線は僕が守るから、ドクターは早く撤退命令を！",
-                "kr": "이대로는 위험해. 마지막 방위선은 내가 지킬 테니까 박사는 빨리 철수 명령을!",
+                "kr": "이대로는 위험해! 마지막 방어선은 내가 지킬 테니까, 박사는 빨리 철수 명령을 내려줘!",
                 "cn": "太危险了，最后的防线由我来守，博士，请立即指挥撤退！"
             },
             "asset": "char_401_elysm/CN_032"
@@ -499,7 +499,7 @@
             "text": {
                 "en": "Hm? Has this room been renovated?",
                 "jp": "へぇ？この部屋はリフォームでもしたのかな？",
-                "kr": "헤에? 이 방, 리모델링이라도 한 건가?",
+                "kr": "오호? 이 방, 리모델링이라도 한 건가?",
                 "cn": "嗯？这个房间是不是翻新过？"
             },
             "asset": "char_401_elysm/CN_033"
@@ -515,7 +515,7 @@
             "text": {
                 "en": "What's up?",
                 "jp": "なになに？",
-                "kr": "뭐야, 뭐야?",
+                "kr": "아, 왜 그러는데?",
                 "cn": "什么事？"
             },
             "asset": "char_401_elysm/CN_034"
@@ -531,7 +531,7 @@
             "text": {
                 "en": "I heard that if this tuft of red hair on my head falls out, it won't ever grow back. This is a very serious problem Doctor.",
                 "jp": "僕の髪のこの赤いところ、全て抜けてしまえばもう生えてこないんだって。由々しき問題だよ、ドクター。",
-                "kr": "내 머리의 이 빨간 부분, 전부 빠져버리면 그 뒤론 안 자란다더라. 그냥 넘어갈 수 없는 문제라고, 박사.",
+                "kr": "내 머리카락에 이 빨간 부분 있잖아, 이건 빠져버리면 그 뒤론 안 자란다는 거 있지? 이건, 그냥 넘어갈 수 없는 문제라고, 박사.",
                 "cn": "听说我头上的这撮红发，掉光就不会再长了。问题很严峻，博士。"
             },
             "asset": "char_401_elysm/CN_036"
@@ -577,10 +577,15 @@
         "jp": {
             "native": "森久保祥太郎",
             "global": "Showtaro Morikubo"
+        },
+        "kr": {
+            "native": "남도형",
+            "global": "Nam Doh-hyeong"
         }
     },
     "availability": [
         "cn",
-        "jp"
+        "jp",
+        "kr"
     ]
 }

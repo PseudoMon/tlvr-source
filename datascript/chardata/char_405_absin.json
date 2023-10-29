@@ -35,7 +35,7 @@
             "text": {
                 "en": "Rhodes Island is a nice place. Everyone follows the rules and goes about their business, like an idyllic island paradise isolated from reality.",
                 "jp": "ロドスはいいところだね。みんな秩序を守って、それぞれの役目を果たしてる。まるで現実から隔離された、理想の孤島みたい。",
-                "kr": "로도스 아일랜드는 좋은 곳이네. 다들 질서를 지키고, 각자의 역할을 다하고 있어. 마치 현실에서 격리된 이상적인 외딴 섬 같아.",
+                "kr": "로도스 아일랜드는 좋은 곳이네. 다들 질서를 지키고, 각자의 역할을 다하고 있어. 마치 현실에서 격리된 이상적인 외딴섬 같아.",
                 "cn": "这里是个好地方，大家都遵从秩序做自己的工作，简直就像是隔绝于现实之外，理想中的孤岛一样。"
             },
             "asset": "char_405_absin/CN_002"
@@ -51,7 +51,7 @@
             "text": {
                 "en": "Doctor, those students over there, are they all from Chernobog? Middle schoolers from that city...? I see, I need to observe them a bit more.",
                 "jp": "ドクター、あそこにいる学生たちって、もしかしてみんなチェルノボーグから来た人たち？市内の学校に通ってた？……そう、もう少し様子を見よう。",
-                "kr": "박사, 저기에 있는 학생들은 혹시 모두 체르노보그에서 온 사람들이야? 시내에 있는 학교에 다녔다고? …그렇구나. 좀 더 지켜봐야겠다.",
+                "kr": "박사, 저기에 있는 학생들은 혹시 모두 체르노보그에서 온 사람들이야? 시내에 있는 학교에 다녔다고? ……그렇구나. 좀 더 지켜봐야겠다.",
                 "cn": "博士，那边的那些学生，他们都来自切尔诺伯格吗？他们都是那边的中学的？......原来如此，我还要再多观察一下。"
             },
             "asset": "char_405_absin/CN_003"
@@ -67,7 +67,7 @@
             "text": {
                 "en": "Were you the one commanding at Chernobog, Doctor? Then you also must have seen the state of things there. How are you able to sleep at night, after all that? I can't get it out of my mind… I just can't…",
                 "jp": "チェルノボーグの作戦での指揮官はドクター、あなただった？だったらあそこの現状を目の当たりにしたでしょ。なのにどうして冷静でいられるの？私には到底無理……。",
-                "kr": "체르노보그 작전의 지휘관은 박사, 당신이었어? 그럼 그곳의 상황을 직접 봤을 거 아니야. 그런데 어떻게 냉정하게 있을 수 있는 거지? 내겐 도저히 무리야…",
+                "kr": "체르노보그 작전의 지휘관은 박사, 당신이었어? 그럼 거기 상황을 직접 봤을 거 아니야. 근데 어쩜 그렇게 냉정할 수 있는 거지? 내겐 도저히 무리야……",
                 "cn": "在切尔诺伯格时的指挥官就是你？既然如此，你应该也看到了那里的现状，博士，为什么你还能保持平静？我真的做不到......"
             },
             "asset": "char_405_absin/CN_004"
@@ -83,7 +83,7 @@
             "text": {
                 "en": "I've done well...? No, I haven't! I've achieved nothing, I even fled my homeland. A girl like me never does good… Uh, stop that. Why are you patting my head...?",
                 "jp": "仕事もよくやってる？こんな無様に故郷から逃げ出して、何もできなかった私が？本当に人の役に立ててるの？……うっ、なに、どうして頭なんか撫でるの。",
-                "kr": "일도 잘하고 있다고? 이렇게 꼴사납게 고향에서 도망쳐 나와서 아무것도 못했던 내가? 정말로 남들한테 도움이 되고 있다고? …윽, 뭐야. 왜 머리를 쓰다듬는 거야.",
+                "kr": "일도 잘하고 있다고? 이렇게 꼴사납게 고향에서 도망쳐 나와서 아무것도 못 했던 내가? 정말로 남들한테 도움이 되고 있다고? ……윽, 뭐야. 머리는 왜 쓰다듬고 그래.",
                 "cn": "我的工作做得很好？像这样慌慌张张逃离故土，一事无成的我，真的有帮到什么人吗？......唔，干嘛，你干嘛摸我的头啊。"
             },
             "asset": "char_405_absin/CN_005"
@@ -99,7 +99,7 @@
             "text": {
                 "en": "Who needs my protection? Who can I protect? I've been asking myself, since that nightmare... Back then, I saw the malice in people's hearts, it was... it was pouring out all over the place. It drowned the whole city... Under those circumstances, maybe justice no longer means anything, it no longer exists.",
                 "jp": "誰が私に守られることを望むの？私は誰を守れるの？あの動乱を経験してから、いつもそんなことを自分に問いかけてる……あの時私は、人々の心に積もった悪意が溢れ出して、最後には都市全体を呑み込むのを見たの。そんな状況じゃ、正義なんて語る価値はないし、存在し得ないかもしれないから。",
-                "kr": "누가 내가 지켜주길 바랄까? 난 누구를 지킬 수 있을까? 그 폭동을 경험한 뒤로 항상 그런 질문을 나에게 하고 있어… 그때 나는 사람들의 마음에 쌓인 악의가 흘러넘쳐 끝내는 도시 전체를 집어삼키는 걸 봤어. 그런 상황에선 정의 따윈 말할 가치도 없고, 존재할 수 없을지도 모르니까.",
+                "kr": "내가 지켜주길 바라는 건 누굴까? 난 누구를 지킬 수 있을까? 그 폭동을 경험한 뒤로 항상 그런 질문을 나에게 하고 있어… 그때 나는 사람들의 마음에 쌓이다 못해 흘러넘친 악의가 끝내는 도시 전체를 집어삼키는 걸 봤어. 그런 상황에선 정의 따윈 말할 가치도 없고, 존재할 수 없을지도 몰라.",
                 "cn": "谁要我的保护？我能保护谁？自那场动乱以来，我就一直在问自己......我看到人们心中的恶意在溢出，最终淹没整座城市。在那样的情况下，或许正义根本不值一提，也不复存在。"
             },
             "asset": "char_405_absin/CN_006"
@@ -115,7 +115,7 @@
             "text": {
                 "en": "Something wrong with my hair? It's... a little messy? Well, it is what it is. I had to cut it myself when I fled the city... Don't give me that look. It's just hair, it'll grow back eventually. Relax, okay?",
                 "jp": "私の髪がどうしたの。え、ちょっと変？しょうがないよ、逃げてるとき自分で切ったから……なにその顔。気にしないで、髪の毛なんて放っとけば勝手に伸びるから。",
-                "kr": "내 머리가 왜? 어? 좀 이상하다고? 어쩔 수 없어. 도망칠 때 내가 잘랐으니까…… 뭐야, 그 표정은. 신경 쓰지 마. 머리카락 같은 건 내버려 두면 알아서 자라니까.",
+                "kr": "내 머리가 왜? 어? 좀 이상하다고? 별수 없잖아, 도망칠 때 내가 잘랐으니까…… 뭐야, 그 표정은. 신경 쓰지 마. 머리카락 같은 건 내버려 두면 알아서 자라니까.",
                 "cn": "我的头发怎么了，欸，有点乱？没办法，这是在逃出来的时候，我自己剪的......哎，你那是什么表情啊，别在意，头发而已，放着不管的话总会再长出来的。"
             },
             "asset": "char_405_absin/CN_007"
@@ -131,7 +131,7 @@
             "text": {
                 "en": "This device belonged to my father, a police officer who dedicated himself to protecting the public each and every day. I can understand, same as my mother. We've never blamed him. It's just that... Doctor, all that my father did, was it really worth it?",
                 "jp": "この装備は元々は父さんのものだった。あの人は仕事命の警察官で、口を開けばいつも市民の安全を説いてた。そんな父さんのことは理解してるし、私も母さんも、一度だって責めてない。だけど……ドクター、父さんがやってきたことに、本当に価値はあるの？",
-                "kr": "이 장비는 원래 아빠 거였어. 그 사람은 일밖에 모르는 경찰관이라 입만 열면 항상 시민의 안전에 대해 이야기했었어. 그런 아빠를 이해하고 있었고, 나도 엄마도 한 번도 책망한 적 없어. 하지만… 박사, 아빠가 해온 일에 정말로 가치가 있는 걸까?",
+                "kr": "이 장비는 원래 아빠 거였어. 아빠는 일밖에 모르는 경찰관이라 입만 열었다 하면 맨날 시민의 안전이 어쩌고 하는 얘기밖에 안 했지. 아빠가 그런 건 물론 이해해, 나도 엄마도 한 번도 책망한 적 없고. 근데… 박사, 아빠가 해온 일에 정말로 가치가 있는 걸까?",
                 "cn": "这身装备原属于我的父亲，一个尽职尽责，整天把保护市民挂在嘴边的警员。我能够理解，我从没有怪过他，我和母亲都没有。只是......博士，我父亲所做的一切，真的值得吗？"
             },
             "asset": "char_405_absin/CN_008"
@@ -147,7 +147,7 @@
             "text": {
                 "en": "Those people, the civilians, their faces were so twisted. They looked just like the murderers who destroyed our city. But they were the people my father and I were supposed to protect. Doctor, what is actually just in this world? What should I do...? I just don't know...",
                 "jp": "あの人たち、あの市民たちの表情が、街に押し入る暴徒と同じものになってた。あれは、私と父さんが守るべき人たちなのに。ドクター、一体なにが正しいことなの。一体、なにが……私はどうすれば……わからないよ……。",
-                "kr": "그 사람들, 그 시민들의 표정이, 마을에 몰려드는 폭도들과 똑같아졌었어. 그들은, 나와 아빠가 지켜야만 하는 사람들인데…… 박사, 대체 뭐가 옳은 거야? 대체 뭐가… 난 어떻게 해야 할지… 모르겠어…",
+                "kr": "그 사람들, 그 시민들의 표정이, 마을에 몰려드는 폭도들과 똑같아졌었어. 그 사람들은, 나랑 아빠가 지켜야 하는 사람들인데…… 박사, 대체 뭐가 옳은 거야? 대체 뭐가… 난 어떻게 해야 할지…… 모르겠어……",
                 "cn": "那些人、那些市民的表情，变得和闯入城市的凶徒一样，但他们明明都是我和父亲该保护的人。博士，到底什么才是正确，到底，什么才是，我该怎么办......我不知道......"
             },
             "asset": "char_405_absin/CN_009"
@@ -163,7 +163,7 @@
             "text": {
                 "en": "So sleepy... But I can't afford to... fall asleep…",
                 "jp": "眠い……でもダメ、寝たらダメ……Zzzz……。",
-                "kr": "졸려… 그래도 안돼. 자면 안 돼… 쿠울…",
+                "kr": "졸려… 그래도 안 돼. 자면 안 돼…… 쿠울……",
                 "cn": "好困......但是我不能、不能睡着......呼啊......"
             },
             "asset": "char_405_absin/CN_010"
@@ -179,7 +179,7 @@
             "text": {
                 "en": "Thank you for rescuing me, I pledge my life to you. There's not a lot I can do, but if you find some way for me to be useful, please let me know. Codename...? Ummm, just call me Absinthe.",
                 "jp": "救援には感謝してる。あなたたちが命の恩人と言ってもいい。できることは少ないかもしれないけど、私にできそうなことがあれば何でも言って。コードネーム？……うん、アブサントと呼んで。",
-                "kr": "구해준 것엔 감사하고 있어. 당신들이 생명의 은인이라고 해도 좋아. 할 수 있는 일은 적을지도 모르지만, 내가 할 수 있을 법한 일이 있으면 뭐든지 말해. 코드네임? …응, 압생트라고 불러줘.",
+                "kr": "구해준 것엔 감사하고 있어. 당신들이 생명의 은인이라고 해도 좋아. 할 수 있는 일은 적을지도 모르지만, 내가 할 수 있을 법한 일이 있으면 뭐든지 말해줘. 코드네임? ……응, 압생트라고 불러줘.",
                 "cn": "感谢救助，我这条命算是欠你们的。虽然能做的不多，但以后如果有用得着我的地方，尽管说。代号？......嗯，就叫我苦艾吧。"
             },
             "asset": "char_405_absin/CN_011"
@@ -195,7 +195,7 @@
             "text": {
                 "en": "What's the point of watching this stuff?",
                 "jp": "こんなの見たところで、何の意味があるっていうの。",
-                "kr": "이런 걸 본다고 해서 무슨 의미가 있다는 거야.",
+                "kr": "이런 걸 본다고 뭐가 달라진단 거야.",
                 "cn": "看这些，又有什么意义呢。"
             },
             "asset": "char_405_absin/CN_012"
@@ -211,7 +211,7 @@
             "text": {
                 "en": "There's no need for a promotion. Rhodes Island does enough for me… I-I have to take it? But, well… Okay... Thank you.",
                 "jp": "昇進なんて必要ない。いつもお世話になってばかりだし……え、どうしても？えっと、じゃあ…とにかくありがとう。",
-                "kr": "승진 따윈 필요 없어. 항상 신세만 지고 있고… 어? 꼭 해달라고? 저기, 그럼… 어쨌든 고마워.",
+                "kr": "승진 따윈 필요 없어. 항상 신세만 지고 있고…… 어? 꼭 해달라고? 저기, 그럼…… 어쨌든 고마워.",
                 "cn": "晋升就不必了，我在这里受到的照顾已经够多了......呃，一定要？总之，那个，谢谢。"
             },
             "asset": "char_405_absin/CN_013"
@@ -227,7 +227,7 @@
             "text": {
                 "en": "I still haven't figured out what justice really is. But you told me before that my beliefs mean something... You might be right. I-I want to believe.",
                 "jp": "一体なにが正義なのか、今でもよくわからない。でも私が守ってきたことは無意味じゃないって、あなたが言ってくれた……もしかしたらその通りかもしれない、私もそう信じてみたい。",
-                "kr": "대체 무엇이 정의인지, 지금도 잘 모르겠어. 하지만 내가 지켜온 것은 무의미하지 않다고 당신이 말해 줬어… 어쩌면 그 말대로일지도 모른다고, 나도 그렇게 믿어보고 싶어.",
+                "kr": "대체 무엇이 정의인지, 지금도 잘 모르겠어. 하지만 내가 지켜온 것은 무의미하지 않다고 당신이 말해 줬어…… 어쩌면 그 말대로일지도 모른다고, 나도 그렇게 믿어보고 싶어.",
                 "cn": "到底什么才是正义，至今我也没能想明白。但你对我说过，我所坚持的东西不是没有意义的......也许你说得对，我，想要相信。"
             },
             "asset": "char_405_absin/CN_014"
@@ -259,7 +259,7 @@
             "text": {
                 "en": "Whoever the squad leader is, what's the status on the... Huh, it's me?",
                 "jp": "隊長は誰？現場での振り分けはどう……え、私？",
-                "kr": "대장은 누구야? 현장에서의 역할 분담은 어떻게… 어, 나야?",
+                "kr": "팀장은 누구야? 현장에서의 역할 분담은 어떻게…… 어, 나라고?",
                 "cn": "谁是队长，现场的调配该怎么......欸，是我？"
             },
             "asset": "char_405_absin/CN_018"
@@ -291,7 +291,7 @@
             "text": {
                 "en": "Halt! Suspicious individuals thirty meters ahead… It's those guys again.",
                 "jp": "止まって！前方三十メートルに不審な人物を確認……またあの連中か。",
-                "kr": "멈춰! 30m 전방에 수상한 인물 확인… 또 저 녀석들인가.",
+                "kr": "멈춰! 30m 전방에 거수자 확인…… 또 저 녀석들인가.",
                 "cn": "停下！前方三十米外有可疑人员......又是那些人吗。"
             },
             "asset": "char_405_absin/CN_020"
@@ -355,7 +355,7 @@
             "text": {
                 "en": "This time... I must!",
                 "jp": "今度こそ……必ず！",
-                "kr": "이번에야말로… 반드시!",
+                "kr": "이번에야말로…… 반드시!",
                 "cn": "这一次......一定！"
             },
             "asset": "char_405_absin/CN_024"
@@ -419,7 +419,7 @@
             "text": {
                 "en": "Why does it always end up like this…?",
                 "jp": "どうしていつも最後にこうなるの……。",
-                "kr": "왜 항상 마지막엔 이렇게 되는 거야…",
+                "kr": "왜 항상 마지막엔 이렇게 되는 거지……",
                 "cn": "为什么总是会变成这样......"
             },
             "asset": "char_405_absin/CN_028"
@@ -435,7 +435,7 @@
             "text": {
                 "en": "If only you were there back then, maybe things would've turned out different…",
                 "jp": "もしあの時あなたがいれば、もしかしたら……。",
-                "kr": "만약 그때 당신이 있었다면, 어쩌면…",
+                "kr": "만약 그때 당신이 있었다면, 어쩌면……",
                 "cn": "如果当时有你在的话，或许......"
             },
             "asset": "char_405_absin/CN_029"
@@ -483,7 +483,7 @@
             "text": {
                 "en": "It's a panic, we've lost control! We have to retreat now, go!",
                 "jp": "恐怖も、混乱も広がってる。早く、今すぐに撤退しないと！",
-                "kr": "공포도, 혼란도 퍼지고 있어. 서둘러. 지금 당장 퇴각해야 해!",
+                "kr": "공포와 혼란이 퍼지고 있어. 서둘러. 지금 당장 퇴각해야 돼!",
                 "cn": "恐惧在爆发，混乱在爆发，必须得走，必须得赶快撤退！！"
             },
             "asset": "char_405_absin/CN_032"
@@ -499,7 +499,7 @@
             "text": {
                 "en": "This terrace... if enough snow built up on it, you could jump off like this and have a great time. Hup!",
                 "jp": "このバルコニー……雪がたくさん積もったら、こんなふうに飛び降りて遊べるよ。それっ！",
-                "kr": "이 발코니… 눈이 많이 쌓이면 이런 식으로 뛰어내리면서 놀 수 있어. 이얍!",
+                "kr": "이 발코니…… 눈이 많이 쌓이면 이런 식으로 뛰어내리면서 놀 수 있어. 이얍!",
                 "cn": "这片露台......如果积雪足够多，可以像这样跳下去玩。嘿！"
             },
             "asset": "char_405_absin/CN_033"
@@ -531,7 +531,7 @@
             "text": {
                 "en": "Oh, Doctor. Are you thirsty? Come, let's find something to drink.",
                 "jp": "あ、ドクター。喉は渇いてない？一緒に飲もう。",
-                "kr": "아, 박사. 목마르지 않아? 같이 마시자.",
+                "kr": "어, 박사. 목 안 말라? 같이 마시자.",
                 "cn": "是博士啊。口渴吗，来一起喝一点吧。"
             },
             "asset": "char_405_absin/CN_036"
@@ -581,10 +581,16 @@
         "jp": {
             "native": "村川梨衣",
             "global": "Rie Murakawa"
+        },
+        "kr": {
+            "native": "송하림",
+            "global": "Song Ha-rim"
         }
     },
     "availability": [
+        "en",
         "cn",
-        "jp"
+        "jp",
+        "kr"
     ]
 }

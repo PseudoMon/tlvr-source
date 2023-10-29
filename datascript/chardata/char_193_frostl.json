@@ -83,7 +83,7 @@
             "text": {
                 "en": "The songs I like are probably not so popular. They're only good for humming to myself when I'm alone.",
                 "jp": "私が好きな歌は、世間では流行らないだろうな。一人でいるときに口ずさみたくなる、孤独な曲ばかりだ。",
-                "kr": "내가 좋아하는 노래는 이 세상에 유행하진 않겠지. 혼자 있을 때 흥얼거리고 싶어지는 고독한 곡밖에 없으니까.",
+                "kr": "내가 좋아하는 노래는 별로 인기가 없을 거야. 이 노래들은 혼자 있을 때 흥얼거리기 좋을 뿐이거든.",
                 "cn": "我喜欢的歌，应该也不怎么流行吧。这些歌只适合独处的时候哼给自己听。"
             },
             "asset": "char_193_frostl/CN_005"
@@ -259,7 +259,7 @@
             "text": {
                 "en": "Go your own ways and do your own jobs.",
                 "jp": "自分のやれることをやるだけだ。",
-                "kr": "내가 할 수 있는 걸 하는 것뿐이다.",
+                "kr": "모두 각자의 위치에서 각자의 역할을 다하도록.",
                 "cn": "各行其道，各尽其职。"
             },
             "asset": "char_193_frostl/CN_018"
@@ -387,7 +387,7 @@
             "text": {
                 "en": "Extend my edge!",
                 "jp": "この切っ先で貫く！",
-                "kr": "이 창끝으로 꿰뚫어 주마!",
+                "kr": "칼날이여, 먼 곳의 적들을 베어라.",
                 "cn": "延伸我的锋芒吧——！"
             },
             "asset": "char_193_frostl/CN_026"
@@ -403,7 +403,7 @@
             "text": {
                 "en": "Life, brittle as frost, fragile like leaves.",
                 "jp": "ゴミのように、惨めに果てろ！",
-                "kr": "쓰레기처럼 비참하게 죽어버려!",
+                "kr": "너희 목숨은 쓰레기나 다름없다!",
                 "cn": "凡有生气，尽都如草。"
             },
             "asset": "char_193_frostl/CN_027"
@@ -483,7 +483,7 @@
             "text": {
                 "en": "I'll hold up the rear.",
                 "jp": "私が後始末をつけよう……！",
-                "kr": "내가 마무리를 짓겠다…!",
+                "kr": "뒤는 내가 맡겠다……!",
                 "cn": "我来断后......！"
             },
             "asset": "char_193_frostl/CN_032"

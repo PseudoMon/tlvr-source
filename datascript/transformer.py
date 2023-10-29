@@ -6,6 +6,10 @@ from utils import save_json, load_json
 langs = ["en", "jp", "kr", "cn"] 
 mute_chars = ["rguard", "rdfend", "rsnipe", "rmedic", "rcast", "aprot"]
 
+def rarity_str_to_int(raritystr):
+	# Transform rarity data from e.g. TIER_6 to 6 as an integer
+	return int(raritystr.split("_")[-1])
+
 def loadchardict(region):
 	sourcepath = path.join(region, "chardict.json")
 	return load_json(sourcepath)
@@ -59,7 +63,8 @@ def make_charlist(check_nation=True):
 
 		fulldata = chartable[f"char_{newchar['numberid']}_{char}"]
 		newchar["nation"] = fulldata["nationId"]
-		newchar["rating"] = fulldata["rarity"] + 1 
+		rarity = rarity_str_to_int(fulldata["rarity"])
+		newchar["rating"] = rarity + 1 
 		# 1-star operators have rarity data 0
 
 		charlist.append(newchar)
@@ -174,9 +179,9 @@ def get_actors(charid, wordtables):
 def get_voice_availability(charid, wordtables):
 	print ("Checking voice availability for", charid)
 	# Check which languages this character has voice of
-	# Use CN since that's what Aceship's voice data is based on
+	# Use EN since that's what our data is based on
 
-	table = wordtables["cn"]
+	table = wordtables["en"]
 	voicedict = table["voiceLangDict"][charid]["dict"]
 	cn_names = get_actors_from_voicedict(voicedict)
 	# technically the name itself is not needed
@@ -250,3 +255,5 @@ if __name__ == "__main__":
 
 	charlist = load_json("charlist.json")
 	get_and_save_misc_data(charlist)
+
+	process_all_characters()

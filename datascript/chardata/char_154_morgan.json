@@ -1,0 +1,596 @@
+{
+    "charid": "char_154_morgan",
+    "nameid": "morgan",
+    "names": {
+        "en": "Morgan",
+        "jp": "モーガン",
+        "kr": "모건",
+        "cn": "摩根"
+    },
+    "voices": [
+        {
+            "id": "char_154_morgan_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "You want to chat future op planning? You've come to the right person, Doctor, love. I'm the entire stuffing brains of Glasgow.",
+                "jp": "今後の計画を話し合いたいって？ドクター、吾輩を選んで正解だよ～。なんてったってグラスゴーのブレインだからね。",
+                "kr": "앞으로의 계획을 논의하고 싶다고? 그럼 잘 찾아왔어, 박사. 이 몸이 바로 글래스고의 브레인이거든.",
+                "cn": "想跟我聊聊之后的行动计划吗？博士，你找对人了。我可是格拉斯哥帮的大脑哦。"
+            },
+            "asset": "char_154_morgan/CN_001"
+        },
+        {
+            "id": "char_154_morgan_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Eugh, this doesn't taste right. Is this can gone off...? Ay, get Hannah to try this for me, will you? And if she scoffs the whole thing in one go... well, waste not want not, yeah?",
+                "jp": "あれぇ、この缶詰ちょっと変な味がしてるな～、もしかして賞味期限切れ？　……よし、ハンナちゃんに食べさせてみよう。もし一気に全部食べてくれたら……無駄もなくなるし。ね？",
+                "kr": "뭐지, 통조림 맛이 좀 이상한데, 유통기한이 지났나…… 좋아, 그럼 일단 한나한테 먹여 보자. 만약 한나가 이걸 한입에 다 먹으면…… 낭비도 안 하고, 딱이다. 안 그래?",
+                "cn": "唔，这个罐头的味道不太对，是不是过期了......这样吧，带去给汉娜尝尝看。万一她一口气全吃了下去......那正好不浪费，是吧？"
+            },
+            "asset": "char_154_morgan/CN_002"
+        },
+        {
+            "id": "char_154_morgan_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Why do I fight with such a naff-off big machete? Because I'm trying to be efficient here! If I scare some enemies off, that's enemies I don't need to do in. No, obviously, I'm handy with my fists too. You spend as long as us on the streets, you learn how to scrap from every angle.",
+                "jp": "どうしてこんな大きい剣を武器に選んだかって？楽するためだよ！敵が怯えて退いてくれたら、わざわざ倒さなくって済むじゃない。まっ、吾輩の拳もそこまでひょろひょろじゃないよ。ストリートで長いことやってきたからね、喧嘩の仕方なら多少は心得てるって。",
+                "kr": "왜 이렇게 커다란 검을 무기로 쓰냐고? 재밌잖아! 적들이 이 검을 보고 겁에 질려 도망치면 굳이 싸울 필요도 없고! 물론 그렇다고 내 주먹이 약하다는 건 아니야. 길바닥에서 보낸 시간이 얼만데, 싸움 기술 같은 건 당연히 알고 있지.",
+                "cn": "为什么选择这么大的刀作为武器？图省力啊！要是能把敌人吓退的话，我就不用打倒他们了。当然咯，我的拳头也不差。在街头混了这么久，什么打架的招数都得会一点吧。"
+            },
+            "asset": "char_154_morgan/CN_003"
+        },
+        {
+            "id": "char_154_morgan_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "When we left the Glasgow Gang behind, see, I thought we'd all be back in a jiffy. But here we are ages later, and still on the go. Everything's changed. Vina, Hannah, Baird, and especially me... yeah, I might have changed most out of us.",
+                "jp": "グラスゴーを離れた時は、すぐに戻ってこれると思ってたんだよ。まさかこんなに長くなるなんてなぁ。それに、何もかも変わっちゃったよ。ヴィーナにハンナちゃん、ベアードちゃん、それに吾輩自身もね……うーん、もしかしたら吾輩が一番変わったのかも。",
+                "kr": "글래스고를 떠날 땐, 금방 돌아올 줄 알았는데. 설마 이렇게 길어질 줄이야. 게다가, 이젠 많은 것들이 변해버렸어. 비나도 한나도 베어드도, 그리고 나 자신까지도…… 음, 어쩌면 내가 가장 많이 변했을지도 모르겠네.",
+                "cn": "离开格拉斯哥帮的时候，我还以为我们用不了多久就能回来。没想到，这一走就是这么长时间。什么都变了，维娜，汉娜，贝尔德，还有我自己......嗯，说不定我是变得最多的那一个。"
+            },
+            "asset": "char_154_morgan/CN_004"
+        },
+        {
+            "id": "char_154_morgan_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "I had my grievances, I did. While Victoria was booming, I was living on scraps. Who said I should pay the price once the bloody place went arse-up? But look at me, I came back anyway. I mean, my life, everyone I care about... all of it's here still.",
+                "jp": "吾輩はね、確かに恨んだこともあったよ。ヴィクトリアがすごく栄えてた頃、吾輩は貧しくってぴいぴいしてて、何の恩恵も得てなかったのに、どうして落ちぶれてきたら吾輩がその尻ぬぐいをしなきゃなんないのってね。でもやっぱり戻ってきちゃったんだよねぇ。だって、吾輩の大事な人も、日常も……ずっとこの場所に残ってるから。",
+                "kr": "빅토리아가 한창 잘나갈 때 난 가난에 허덕이고 있었는데, 왜 망하고 나니까 이 몸이 뒤치다꺼리를 해줘야 해? 하는 원망을 한 적도 있었어. 하지만 그래도 돌아오게 되더라고. 그야, 내 소중한 사람도, 일상도…… 여전히 이곳에 남아있잖아.",
+                "cn": "我呀，是有过怨气的。维多利亚很繁荣的时候，我穷困潦倒，等它走向衰亡，凭什么要我来付出代价？可我依然回来了。毕竟，所有我牵挂的人和我的生活......都还在这个地方。"
+            },
+            "asset": "char_154_morgan/CN_005"
+        },
+        {
+            "id": "char_154_morgan_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "I guess my old Morgan's Memoirs is gone. Probably lost it in the Glasgow Gang base, if you'd even call it a base... and if the Glasgow Gang still exists. War's not some heroic fantasy. There's moments of deathly honest grief... just, instants you can't describe.",
+                "jp": "『モーガンの回顧録』が見当たらないんだけど、グラスゴーの拠点に置いてきちゃったのかも。あれがまだ拠点って言えて、グラスゴーがまだ存在するならの話だけどね。戦争は英雄伝説なんかじゃないし、本当に痛ましい瞬間っていうのは……言葉なんかで表せるものじゃないんだよ。",
+                "kr": "《모건의 회고록》을 못 찾겠어. 설마 글래스고의 거점에 두고 왔나…… 뭐, 아직 글래스고가 존재하고, 그걸 거점이라고 할 수 있는 상태여야 찾을 수 있겠지만 말이야. 전쟁은 영웅전기 같지만은 않아. 글로 다 표현할 수 없을 정도로…… 정말로 고통스러운 순간이거든.",
+                "cn": "“摩根回忆录”不见了，可能丢在格拉斯哥帮的据点了吧，如果那还算是个据点，格拉斯哥帮也还存在的话。战争不是什么英雄传奇，那些真正惨痛的瞬间......是无法被描绘的。"
+            },
+            "asset": "char_154_morgan/CN_006"
+        },
+        {
+            "id": "char_154_morgan_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Got a good head on my shoulders, don't I? Not like I'm book-smart or anything here—the most I'm good at is scheming a thing or two in the street. Be honest, sometimes, there's this thought that plagues me, how maybe I'm not helping Vina at all. But that's rubbish, though... right? Yeah, alright, love! I'm not quitting any time soon!",
+                "jp": "吾輩のおつむの出来ってなかなかでしょ？でもお勉強はあまりしたことがなくて、唯一得意なのは、ストリートでよくやる小細工なんだよねぇ。ときたま、吾輩は端っからヴィーナの役になんて立てないんじゃないかって考えちゃう。……そんなことない？そっかぁ、なら吾輩は引き続き頑張るよ！",
+                "kr": "내 머리도 제법 쓸만하지? 살면서 책도 몇 개 안 읽었고, 할 줄 아는 거라곤 길거리 잔재주뿐이라, 가끔은 내가 정말 비나에게 도움이 되긴 하는 건지 의심이 들 때가 있어…… 도움이 된다고? 그렇구나, 그럼 나도 계속 노력할게!",
+                "cn": "我的脑瓜还不错吧？但我没读过什么书，唯一擅长的只是一些街头小算计。偶尔我忍不住想，会不会我根本帮不上维娜什么忙？不是这样......吗？嗯，博士，那我就继续努力吧！"
+            },
+            "asset": "char_154_morgan/CN_007"
+        },
+        {
+            "id": "char_154_morgan_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "It might be easy for us to follow the leader, but you know what? While we go after Vina—who's Vina got to go after? I don't want to be behind her anymore, Doctor. I want to go <i>with</i> her, or <i>take</i> her along. That way, when she gets tired, at least she'll have my shoulder to rest on.",
+                "jp": "リーダーの後ろについてくのは楽ちんだよね。でもさ、吾輩たちはヴィーナについてくけど、あの子の前には誰もいないでしょ？ドクター、吾輩はねぇ、もうヴィーナの後ろにくっついてくのは嫌なんだよ。あの子と並んで歩きたい。それか、手を引いて前を行きたい。そうすれば、疲れた時には少なくとも吾輩の肩を貸せるでしょ。",
+                "kr": "리더의 뒤만 졸졸 따라다니는 건 꽤나 편한 일이야. 근데 우리야 비나를 따라가면 된다지만, 비나의 앞에는 아무도 없잖아? 박사, 난 더 이상 비나의 꽁무니만 쫓고 싶지 않아. 난 비나와 함께 나란히 걷고 싶어, 더 나아가서 내가 앞에서 비나를 이끌어 줄 수 있었으면 좋겠어. 그러면 적어도 비나가 지쳤다고 느꼈을 때, 내가 어깨 정도는 빌려줄 수 있잖아.",
+                "cn": "跟在老大后头跑是很轻松，但是，我们跟着维娜，维娜又能跟着谁呢？博士，我不想再跟着维娜了。我想和她一起走，或者领着她走，这样的话，当她觉得累的时候，至少还有我的肩和背可以靠一靠。"
+            },
+            "asset": "char_154_morgan/CN_008"
+        },
+        {
+            "id": "char_154_morgan_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Once we succeed with all this, I... hahah, this is going to sound terrible, but first thing I'll wanna do is get smashed with the girls again... Doctor, promise you'll come crawling with us. We'll have a right hoot... forget all our troubles. Sound good, love?",
+                "jp": "成功したら、吾輩は……はは、その時に吾輩がしたいことって、やっぱりあの子たちと思いっきり飲むことなんだよね……ドクター、約束して、あんたも一緒に乾杯するんだからね、もうダメってくらい飲んで……辛いことは全部忘れるの。いいね？",
+                "kr": "이 몸이 성공하면…… 하하, 그때 가장 하고 싶은 건, 역시 애들이랑 실컷 마시는 거야…… 약속해 줘, 박사. 그땐 너도 같이 마시는 거야. 마음껏 마시고…… 괴로운 일들은 전부 잊어버리는 거지. 어때?",
+                "cn": "等成功以后，我......哈哈，到那时候，我最想干的事情竟然还是和她们大醉一场......博士，答应我，你也要一起喝，我们痛痛快快地......忘掉所有痛苦的事，好吗？"
+            },
+            "asset": "char_154_morgan/CN_009"
+        },
+        {
+            "id": "char_154_morgan_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "...Ay-yi-yi, someone's wide open. I could do some face painting on you, love?",
+                "jp": "……おやぁ、無防備な寝顔だねぇ～。ちょっと落書きしちゃおっかな。",
+                "kr": "……오호, 이렇게 무방비하게 자고 있다니~ 얼굴에 낙서라도 해볼까?",
+                "cn": "......哎呀，毫无防备的样子。要不要在你脸上画点什么呢？"
+            },
+            "asset": "char_154_morgan/CN_010"
+        },
+        {
+            "id": "char_154_morgan_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Alright, Doctor? I'm Morgan. Vina said you'd like some assistance from me? I've got brains to pick and brawn with a machete—whatever you need, love, just ask.",
+                "jp": "はーい。ドクター、こんちは～。モーガンさんで～す。ヴィーナに聞いたけど、手伝ってほしいことがあるんだって？吾輩の頭が必要なの、それともこの剣？好きに言いたまえ～。",
+                "kr": "안녕, 박사! 난 모건이라고 해. 비나가 말하던데, 이 몸의 도움이 필요하다면서? 아이디어를 내는 것도, 누굴 베어버리는 것도, 다 상관 없으니까 말만 해.",
+                "cn": "嗨，博士，我是摩根。维娜说你想要我帮点忙？出出主意还是挥挥砍刀，你尽管说。"
+            },
+            "asset": "char_154_morgan/CN_011"
+        },
+        {
+            "id": "char_154_morgan_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Not bad, not bad, learned a thing or two. In exchange, why not have a copy of How to Fight with the Glasgow Gang?",
+                "jp": "うむうむ、また色々学びがあったねぇ。お返しに『グラスゴー戦術指南』をあげよっか～？",
+                "kr": "음음, 또 배웠는걸. 답례로 《글래스고 패거리 전투 지침》 한 권 줄까?",
+                "cn": "不错不错，又学到了不少。作为回礼，《格拉斯哥帮战斗指南》也送你们一本呗？"
+            },
+            "asset": "char_154_morgan/CN_012"
+        },
+        {
+            "id": "char_154_morgan_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Well, I'm honored! You've got a sharp eye, Doctor, just like Vina.",
+                "jp": "吾輩を高く買ってくれて光栄だよ～！さすがドクター、ヴィーナと同じで見る目があるぅ。",
+                "kr": "날 좋게 평가해 줘서 고마워! 역시 박사야, 비나처럼 보는 눈이 있다니까?",
+                "cn": "多谢赏识！不愧是博士，和维娜一样有眼光。"
+            },
+            "asset": "char_154_morgan/CN_013"
+        },
+        {
+            "id": "char_154_morgan_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "There'll be plenty more trouble in future for the Glasgow Gang, but you won't catch me running. Whatever we can't handle, you bet I'll keep trying to figure it out. Whatever we <i>can</i> handle, you let my machete and Molotovs do the work!",
+                "jp": "この先、グラスゴーはきっともっとたくさんの困難に直面するけど、吾輩は逃げたりしないよ。解決できないなら、なんとかなるまで考えるし、解決できるものは、吾輩の剣と火焔瓶にお任せ！",
+                "kr": "앞으로 글래스고도 분명 더 많은 어려움에 직면하겠지만, 난 도망치지 않을 거야. 해결할 수 없는 문제도 어떻게든 될 때까지 시도해 보고, 해결할 수 있는 문제라면 이 몸의 검과 화염병에게 맡겨만 줘!",
+                "cn": "未来格拉斯哥帮一定还会面临更多困难，但我不会逃走。解决不了的问题我会继续琢磨，剩下能解决的，就交给我的刀和燃烧瓶吧！"
+            },
+            "asset": "char_154_morgan/CN_014"
+        },
+        {
+            "id": "char_154_morgan_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Yeah, I'm coming. Am I on time?",
+                "jp": "はいは～い、来たよ。時間ぴったっしょ？",
+                "kr": "자자, 왔어 왔어. 시간 딱 맞췄지?",
+                "cn": "来啦来啦，够准时吧？"
+            },
+            "asset": "char_154_morgan/CN_017"
+        },
+        {
+            "id": "char_154_morgan_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "No prob. Minding you lot's a breeze compared to Glasgow.",
+                "jp": "へーきだよ、グラスゴーの子たちの方がずっとおてんばだからねぇ。",
+                "kr": "문제없어. 글래스고 그 말썽쟁이들에 비하면 식은 죽 먹기지.",
+                "cn": "没问题，格拉斯哥帮那些家伙可难管多了。"
+            },
+            "asset": "char_154_morgan/CN_018"
+        },
+        {
+            "id": "char_154_morgan_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Doctor, love, how'd you even come up with these plans?",
+                "jp": "ドクター、こういう作戦って一体全体どうやって思いついてるの～？",
+                "kr": "박사, 이런 작전 계획은 도대체 어떻게 생각해 내는 거야?",
+                "cn": "博士，这些计划你都是怎么想出来的呀？"
+            },
+            "asset": "char_154_morgan/CN_019"
+        },
+        {
+            "id": "char_154_morgan_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Maybe let's try ambushing them?",
+                "jp": "待ち伏せしてみる～？",
+                "kr": "매복해 볼까~?",
+                "cn": "试试看埋伏他们吧？"
+            },
+            "asset": "char_154_morgan/CN_020"
+        },
+        {
+            "id": "char_154_morgan_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Machete's all sharp.",
+                "jp": "剣はピカピカに研いだよ～。",
+                "kr": "검은 잘 갈아놨어~",
+                "cn": "刀磨好啦。"
+            },
+            "asset": "char_154_morgan/CN_021"
+        },
+        {
+            "id": "char_154_morgan_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Alright, who am I hacking up?",
+                "jp": "さぁ、誰を斬るか教えて？",
+                "kr": "자, 누굴 베면 되는지 말만 해!",
+                "cn": "说吧，去砍谁？"
+            },
+            "asset": "char_154_morgan/CN_022"
+        },
+        {
+            "id": "char_154_morgan_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Yeah, there's method to a brawl.",
+                "jp": "喧嘩にも作法ってもんがあるのよ。",
+                "kr": "싸움에도 절차라는 게 있다고.",
+                "cn": "打架也是有章法的。"
+            },
+            "asset": "char_154_morgan/CN_023"
+        },
+        {
+            "id": "char_154_morgan_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Can't just count on flesh alone.",
+                "jp": "筋肉頼りじゃダメダメ。",
+                "kr": "근육만 믿어서야 되나!",
+                "cn": "光靠肌肉可不行。"
+            },
+            "asset": "char_154_morgan/CN_024"
+        },
+        {
+            "id": "char_154_morgan_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Here, watch your left.",
+                "jp": "さっ、左だよ。",
+                "kr": "자, 왼쪽이야.",
+                "cn": "来，看左边。"
+            },
+            "asset": "char_154_morgan/CN_025"
+        },
+        {
+            "id": "char_154_morgan_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Nah, mate, I'm on your right.",
+                "jp": "はっずれ～、吾輩は右だよ。",
+                "kr": "땡~ 오른쪽이지롱.",
+                "cn": "错了哦，我在右边。"
+            },
+            "asset": "char_154_morgan/CN_026"
+        },
+        {
+            "id": "char_154_morgan_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Who's the next sap getting duffed up?",
+                "jp": "さぁ、どこの間抜けがボコられにきたのかなぁ？",
+                "kr": "오늘은 또 어떤 재수 없는 녀석이 걸렸으려나?",
+                "cn": "看看哪个倒霉蛋又挨揍了？"
+            },
+            "asset": "char_154_morgan/CN_027"
+        },
+        {
+            "id": "char_154_morgan_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "You don't win until you beat us all.",
+                "jp": "吾輩たち全員を倒さないと勝ちじゃないからねぇ。",
+                "kr": "우릴 전부 쓰러뜨려야 승리하는 거라고.",
+                "cn": "打倒我们所有人才算赢哦。"
+            },
+            "asset": "char_154_morgan/CN_028"
+        },
+        {
+            "id": "char_154_morgan_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "All that command was complex stuff... I'm having trouble keeping up <i>now.</i> Doctor, love, once we're back, can you break down today's battle for me? You'd do me a solid!",
+                "jp": "こんなに複雑な指揮……吾輩じゃ頭が追いつかないよ～。ドクター、戻ったら吾輩に今日の戦況分析をしてくれないかな？お願い！",
+                "kr": "이렇게까지 복잡한 지휘라니…… 따라가는 것도 벅차네. 박사, 돌아가서 오늘 전황에 대해 설명해 줄 수 있을까? 부탁이야!",
+                "cn": "这样复杂的指挥......我连跟上都很困难。博士，等回去以后，能带着我分析一下今天的战况吗？拜托啦！"
+            },
+            "asset": "char_154_morgan/CN_029"
+        },
+        {
+            "id": "char_154_morgan_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Doctor, want to celebrate the Glasgow way? First me and Hannah grab a leg each, then we shut our eyes, and then we hip-hip-hurray and send you flying... ay, no need to run, love, I'm just joking!",
+                "jp": "ドクター、グラスゴー式の祝福を試してみない？まずね～、吾輩とハンナちゃんでドクターの足を一本ずつ担いで、それから目をつぶって、歓声のリズムに合わせて上に飛……も～引かないでよ、冗談だってば！",
+                "kr": "박사, 글래스고식 축하를 경험해 보고 싶지 않아? 우선 나랑 한나가 박사의 다리를 한 쪽씩 든 다음, 눈을 감고 환호성의 리듬에 맞춰서 하늘로 날리면…… 앗, 도망가지 마! 농담이라고, 농담!",
+                "cn": "博士，想不想试试格拉斯哥帮的庆祝方式？首先，让我和汉娜一人扛起你的一条腿，然后闭上眼，随着欢呼的节奏往上飞......不要后退呀，我只是开个玩笑！"
+            },
+            "asset": "char_154_morgan/CN_030"
+        },
+        {
+            "id": "char_154_morgan_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "I know every bend around these parts. Give me one minute, and I'll root those bastards out.",
+                "jp": "この辺の道には詳しいから、すぐにあいつらを見つけ出せるよ。",
+                "kr": "이 주변의 지리는 나도 잘 아니까 금방 녀석들을 찾을 수 있을 거야.",
+                "cn": "附近的路我很熟，用不了多久，就能把这些家伙揪出来。"
+            },
+            "asset": "char_154_morgan/CN_031"
+        },
+        {
+            "id": "char_154_morgan_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "I'm not... I'm not falling here. The story of Vina and every one of us... is NOT over!",
+                "jp": "ダメ……倒れちゃダメだ。ヴィーナと吾輩たち一人一人の物語は、まだ……終わってない！",
+                "kr": "안 돼…… 아직 쓰러지면 안 돼. 비나와 우리 모두의 이야기는…… 아직 끝나지 않았어!",
+                "cn": "不能......不能倒下。属于维娜和我们每一个人的故事......还没有结束！"
+            },
+            "asset": "char_154_morgan/CN_032"
+        },
+        {
+            "id": "char_154_morgan_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Dead quiet around here... hahah, makes me wish I could do it like Vina and kip somewhere.",
+                "jp": "すっごく静かだねぇ……はは、ヴィーナみたいに、どこかで昼寝したいなぁ。",
+                "kr": "엄청 조용하네…… 하하, 비나처럼 어디서 낮잠이나 자볼까.",
+                "cn": "好安静啊......哈哈，真想学学维娜，找地方打个盹呢。"
+            },
+            "asset": "char_154_morgan/CN_033"
+        },
+        {
+            "id": "char_154_morgan_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Ooh, surprise Doctor attack!",
+                "jp": "わぁ、ドクターの奇襲だぁ～！",
+                "kr": "우왓, 박사의 기습이다!",
+                "cn": "哇，是博士的突然袭击！"
+            },
+            "asset": "char_154_morgan/CN_034"
+        },
+        {
+            "id": "char_154_morgan_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Got some good news to share, Doctor? Because if you don't, let me tell you a joke.",
+                "jp": "ドクター、何かいいことがあるの？何もないなら、面白いジョークを話してあげよっか～。",
+                "kr": "박사, 무슨 좋은 소식 없어? 없으면 내가 재밌는 얘기 하나 들려줄까~",
+                "cn": "博士，有什么好消息想和我分享吗？没有的话，我来讲个笑话给你听吧。"
+            },
+            "asset": "char_154_morgan/CN_036"
+        },
+        {
+            "id": "char_154_morgan_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_154_morgan/CN_037"
+        },
+        {
+            "id": "char_154_morgan_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Fancy that, Doctor, bumping into you again.",
+                "jp": "奇遇だねぇ、ドクター、また会ったや。",
+                "kr": "박사, 또 만나다니, 이런 우연이 다 있네!",
+                "cn": "真巧啊，博士，又碰面了呢。"
+            },
+            "asset": "char_154_morgan/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Denise Hoey ",
+            "global": "Denise Hoey "
+        },
+        "cn": {
+            "native": "叶知秋",
+            "global": "Zhiqiu Ye"
+        },
+        "jp": {
+            "native": "金子真由美",
+            "global": "Mayumi Kaneko"
+        },
+        "kr": {
+            "native": "강새봄",
+            "global": "Kang Sae-bom"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

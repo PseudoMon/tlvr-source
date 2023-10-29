@@ -40,7 +40,7 @@ def move_avatars():
         targetname = path.splitext(targetname)[0] + ".webp"
         targetpath = path.join("..", "site", "static", 
             "images", "avatars", targetname)
-        ffmpeg_convert(avapath, targetpath)
+        ffmpeg_convert(avapath, targetpath, True)
 
         print("Succesfully moved", targetname)
 
@@ -51,10 +51,11 @@ def move_factions():
         targetname = path.splitext(targetname)[0] + ".webp"
         targetpath = path.join("..", "site", "static", 
             "images", "factions", targetname)
-        ffmpeg_convert(factionpath, targetpath)
+        ffmpeg_convert(factionpath, targetpath, True)
 
         print("Succesfully moved", targetname)
 
 if __name__ == "__main__":  
     move_charlist()
     move_chardata()
+    move_avatars()

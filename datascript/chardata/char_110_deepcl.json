@@ -570,6 +570,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Jenny Yokobori",
+            "global": "Jenny Yokobori"
+        },
         "cn": {
             "native": "米糊",
             "global": "Misty"
@@ -584,6 +588,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

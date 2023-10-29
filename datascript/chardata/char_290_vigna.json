@@ -570,6 +570,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Julia Gu",
+            "global": "Julia Gu"
+        },
         "cn": {
             "native": "张安琪",
             "global": "Angel Zhang"
@@ -584,6 +588,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

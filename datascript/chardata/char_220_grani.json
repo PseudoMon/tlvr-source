@@ -570,6 +570,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Carina Reeves",
+            "global": "Carina Reeves"
+        },
         "cn": {
             "native": "木雅瑞林",
             "global": "Rylynn"
@@ -584,6 +588,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

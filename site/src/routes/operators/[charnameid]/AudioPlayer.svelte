@@ -4,8 +4,7 @@
   export let assetloc: string;
   export let availability: string[] = [];
 
-  const sourceurl = "https://raw.githubusercontent.com/Aceship/Arknight-voices/main"
-  // Thanks, Aceship!
+  const sourceurl = "https://raw.githubusercontent.com/PseudoMon/arknights-audio/global-server-voices"
 
   const voiceMap = {
     "jp": "voice",
