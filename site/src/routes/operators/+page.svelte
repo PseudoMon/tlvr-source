@@ -6,6 +6,7 @@
   import Photocard from "$lib/char/Photocard.svelte";
   import RatingFilter from "./RatingFilter.svelte";
   import FactionFilter from "./FactionFilter.svelte";
+  import MobileFilterMenu from "./MobileFilterMenu.svelte";
 
   import type { SingleChar } from "./+page"; 
   export let data;
@@ -108,6 +109,12 @@
   </article>
 </main>
 
+<MobileFilterMenu 
+  on:onRatingsChange={handleFilterRatings}
+  on:nationsChange={handleFilterNations} 
+  nations={nations}
+/>
+
 <style>
   main {
     margin-top: 12px;
@@ -152,6 +159,7 @@
 
   .filter-options {
     margin-left: 4px;
+    display: none;
   }
 
   .filter-options label {
@@ -197,6 +205,7 @@
     }
 
     .filter-options {
+      display: initial;
       position: sticky;
       top: 60px;
       z-index: 89;
