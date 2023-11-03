@@ -21,7 +21,7 @@ $: welcomeText = data.welcomeText[$currentLang]
   <aside class="home-quote">{welcomeText}</aside>
   <p>TLVR is an Arknights fansite that makes it easy to browse voice lines from the game in all its four languages (English, Chinese, Japanese, Korean). It’s created with multilingual speakers and language-learners in mind!</p>
 
-  <p>This site includes all characters from the Global servers of the game, with voice files in English, Mandarin Chinese, Japanese, and Korean. Regional voices will be added soon. Check footer for when the site was last updated.</p>
+  <p>This site includes all characters and all voice files currently available in the Global servers, including regional voices. Check footer for when the site was last updated.</p>
 
   <p>This site was made with love by <a href="https://pseudomon.github.io">PseudoMon</a>. Its creation was inspired by <a href="https://050644zf.github.io/ArknightsStoryTextReader">ASTR</a>. The site's source code is available on <a href="https://github.com/PseudoMon/tlvr-source">GitHub</a>.</p>
 
