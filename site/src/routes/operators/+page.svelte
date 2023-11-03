@@ -77,8 +77,9 @@
   <LangButtonBar />
 
   <article class="charpage">
+    <h1>Operator List</h1>
     <section class="filter-options">
-      <h1>Operator List</h1>
+      
       <label for="name-search">Search</label>
       <input type="text" placeholder="Search" 
         on:input={handleSearchName}
@@ -192,6 +193,7 @@
 
     h1 {
       font-size: 2.2em;
+      grid-column: 1 / -1;
     }
 
     .filter-options {

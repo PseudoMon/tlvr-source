@@ -45,10 +45,11 @@
   header {
     background-color: #333737;
     box-sizing: border-box;
-    min-height: 35px;
+    min-height: 48px;
     padding: 6px 16px;
     display: flex;
     align-items: center;
+    font-size: 1.3em;
   }
 
   h1 {
