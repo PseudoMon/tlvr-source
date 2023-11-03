@@ -1,6 +1,5 @@
 import json
 from os import path
-import grabfiles
 from utils import save_json, load_json
 
 langs = ["en", "jp", "kr", "cn"] 
@@ -109,10 +108,11 @@ def get_voices(wordkey, wordtables):
 		if basedata["wordKey"] != wordkey:
 			continue
 
+		voiceText = basedata["voiceText"].replace(" ", " ")
 		voicedata = {
 			"id": wordid,
 			"title": {"en": basedata["voiceTitle"]},
-			"text": {"en": basedata["voiceText"]},
+			"text": {"en": basedata["voiceText"].replace(" ", " ")},
 			"asset": basedata["voiceAsset"],
 		}
 

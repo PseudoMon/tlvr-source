@@ -17,7 +17,7 @@
                 "cn": "任命助理"
             },
             "text": {
-                "en": "Heheh, Dr. {@nickname}, What can I do for you today?",
+                "en": "Heheh, Dr. {@nickname}, What can I do for you today?",
                 "jp": "ふふ！ドクター、今日は何を手伝えばいい？",
                 "kr": "후후! {@nickname} 박사, 오늘은 뭘 도와주면 좋을까?",
                 "cn": "嘿嘿！Dr.{@nickname}，今天又需要我来帮忙做些什么呢？"
@@ -49,7 +49,7 @@
                 "cn": "交谈2"
             },
             "text": {
-                "en": "When I worked for RIM Billiton, I was in charge of a lot of things: mining ores, doing geological surveys with electromagnets, all kinds of stuff. Hmm... sounds like a mouthful, right? To put it simply, I smashed what blocks the way and kept digging down!",
+                "en": "When I worked for RIM Billiton, I was in charge of a lot of things: mining ores, doing geological surveys with electromagnets, all kinds of stuff. Hmm... sounds like a mouthful, right? To put it simply, I smashed what blocks the way and kept digging down!",
                 "jp": "レム・ビリトンにいた時は、戦い以外のこともやってたよ。鉱物の採掘とか、電磁法を活用した地質探査とか、それから……難しくてよくわからない？まぁ、簡単に言うと、障害物をぶっ壊して掘り進める仕事！",
                 "kr": "림 빌리턴에 있을 땐, 싸우는 거 말고 다른 것도 했었어. 광물 채굴이라던가, 전자법을 활용한 지질 탐사라던가, 그리고… 어려워서 잘 모르겠다고? 뭐, 간단히 말하자면, 장애물을 부수고 파내려 가는 일이야!",
                 "cn": "我在雷姆必拓时也会负责些其它工作，像是矿物的开采啦，用电磁法进行地质勘探啦，嗯......很难理解吧，简单点说，就是把阻碍砸碎，然后往下挖！"
@@ -65,7 +65,7 @@
                 "cn": "交谈3"
             },
             "text": {
-                "en": "Amiya has a lot on her shoulders. If only I could help share her burden a little... And perhaps yours too, Doctor. Don't hesitate to let me know if there's anything you need help with!",
+                "en": "Amiya has a lot on her shoulders. If only I could help share her burden a little... And perhaps yours too, Doctor. Don't hesitate to let me know if there's anything you need help with!",
                 "jp": "アーミヤちゃんが背負ってるもの、こんなに大きいなんて……少しでも力になれたらいいな……。ドクターも、何か手伝ってほしいことがあったら、絶対言ってね！",
                 "kr": "아미야가 짊어지고 있는 게 이렇게 클 줄은… 조금이라도 힘이 될 수 있으면 좋을 텐데… 박사도, 뭔가 도움이 필요하면 꼭 말해줘!",
                 "cn": "阿米娅身上的担子可是很重的，要是我能帮她分担些就好了......博士，你也是，有什么需要我的地方，一定要说哦！"
@@ -81,7 +81,7 @@
                 "cn": "晋升后交谈1"
             },
             "text": {
-                "en": "Providing cover, trailblazing, area denial... I might not be able to literally shield my teammates like the Defender Operators, but I can still protect everyone in my own way!",
+                "en": "Providing cover, trailblazing, area denial... I might not be able to literally shield my teammates like the Defender Operators, but I can still protect everyone in my own way!",
                 "jp": "援護攻撃、進路確保、戦況管理――重装オペレーターみたいにみんなの盾にはなれないけど、わたしなりにみんなを守ってみせる！",
                 "kr": "엄호 공격, 진로 확보, 전황 관리…… 디펜더 오퍼레이터같이 모두의 방패는 되지 못하겠지만, 내 나름대로 모두를 지켜 보이겠어!",
                 "cn": "提供掩护、清空路线、控制战局——即使不能像各位重装干员一样化作队员们的屏障，我也能用我自己的方式保护大家！"
