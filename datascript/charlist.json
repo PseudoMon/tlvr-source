@@ -9,7 +9,7 @@
             "cn": "Lancet-2"
         },
         "nation": "rhodes",
-        "rating": 2
+        "rating": 1
     },
     {
         "nameid": "cast3",
@@ -21,7 +21,7 @@
             "cn": "Castle-3"
         },
         "nation": "rhodes",
-        "rating": 2
+        "rating": 1
     },
     {
         "nameid": "therex",
@@ -33,7 +33,7 @@
             "cn": "THRM-EX"
         },
         "nation": "rhodes",
-        "rating": 2
+        "rating": 1
     },
     {
         "nameid": "jnight",
@@ -45,7 +45,7 @@
             "cn": "正义骑士号"
         },
         "nation": "kazimierz",
-        "rating": 2
+        "rating": 1
     },
     {
         "nameid": "palico",
@@ -57,7 +57,7 @@
             "cn": "泰拉大陆调查团"
         },
         "nation": "rhodes",
-        "rating": 2
+        "rating": 1
     },
     {
         "nameid": "nblade",
@@ -69,7 +69,7 @@
             "cn": "夜刀"
         },
         "nation": "rhodes",
-        "rating": 3
+        "rating": 2
     },
     {
         "nameid": "noirc",
@@ -81,7 +81,7 @@
             "cn": "黑角"
         },
         "nation": "rhodes",
-        "rating": 3
+        "rating": 2
     },
     {
         "nameid": "rang",
@@ -93,7 +93,7 @@
             "cn": "巡林者"
         },
         "nation": "rhodes",
-        "rating": 3
+        "rating": 2
     },
     {
         "nameid": "durin",
@@ -105,7 +105,7 @@
             "cn": "杜林"
         },
         "nation": "rhodes",
-        "rating": 3
+        "rating": 2
     },
     {
         "nameid": "12fce",
@@ -117,7 +117,7 @@
             "cn": "12F"
         },
         "nation": "rhodes",
-        "rating": 3
+        "rating": 2
     },
     {
         "nameid": "fang",
@@ -129,7 +129,7 @@
             "cn": "芬"
         },
         "nation": "rhodes",
-        "rating": 4
+        "rating": 3
     },
     {
         "nameid": "wyvern",
@@ -141,7 +141,7 @@
             "cn": "香草"
         },
         "nation": "columbia",
-        "rating": 4
+        "rating": 3
     },
     {
         "nameid": "falco",
@@ -153,7 +153,7 @@
             "cn": "翎羽"
         },
         "nation": "laterano",
-        "rating": 4
+        "rating": 3
     },
     {
         "nameid": "melan",
@@ -165,7 +165,7 @@
             "cn": "玫兰莎"
         },
         "nation": "rhodes",
-        "rating": 4
+        "rating": 3
     },
     {
         "nameid": "popka",
@@ -177,7 +177,7 @@
             "cn": "泡普卡"
         },
         "nation": "rhodes",
-        "rating": 4
+        "rating": 3
     },
     {
         "nameid": "ardign",
@@ -189,7 +189,7 @@
             "cn": "卡缇"
         },
         "nation": "rhodes",
-        "rating": 4
+        "rating": 3
     },
     {
         "nameid": "beagle",
@@ -201,7 +201,7 @@
             "cn": "米格鲁"
         },
         "nation": "rhodes",
-        "rating": 4
+        "rating": 3
     },
     {
         "nameid": "spot",
@@ -213,7 +213,7 @@
             "cn": "斑点"
         },
         "nation": "rhodes",
-        "rating": 4
+        "rating": 3
     },
     {
         "nameid": "kroos",
@@ -225,7 +225,7 @@
             "cn": "克洛丝"
         },
         "nation": "rhodes",
-        "rating": 4
+        "rating": 3
     },
     {
         "nameid": "adnach",
@@ -237,7 +237,7 @@
             "cn": "安德切尔"
         },
         "nation": "rhodes",
-        "rating": 4
+        "rating": 3
     },
     {
         "nameid": "lava",
@@ -249,7 +249,7 @@
             "cn": "炎熔"
         },
         "nation": "rhodes",
-        "rating": 4
+        "rating": 3
     },
     {
         "nameid": "hibisc",
@@ -261,7 +261,7 @@
             "cn": "芙蓉"
         },
         "nation": "rhodes",
-        "rating": 4
+        "rating": 3
     },
     {
         "nameid": "ansel",
@@ -273,7 +273,7 @@
             "cn": "安赛尔"
         },
         "nation": "rhodes",
-        "rating": 4
+        "rating": 3
     },
     {
         "nameid": "stward",
@@ -285,7 +285,7 @@
             "cn": "史都华德"
         },
         "nation": "rhodes",
-        "rating": 4
+        "rating": 3
     },
     {
         "nameid": "orchid",
@@ -297,7 +297,7 @@
             "cn": "梓兰"
         },
         "nation": "rhodes",
-        "rating": 4
+        "rating": 3
     },
     {
         "nameid": "nights",
@@ -309,7 +309,7 @@
             "cn": "夜烟"
         },
         "nation": "victoria",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "fmout",
@@ -321,7 +321,7 @@
             "cn": "远山"
         },
         "nation": "sami",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "greyy",
@@ -333,7 +333,7 @@
             "cn": "格雷伊"
         },
         "nation": "bolivar",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "cammou",
@@ -345,7 +345,7 @@
             "cn": "卡达"
         },
         "nation": "rhodes",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "indigo",
@@ -357,7 +357,7 @@
             "cn": "深靛"
         },
         "nation": "iberia",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "pudd",
@@ -369,7 +369,7 @@
             "cn": "布丁"
         },
         "nation": "columbia",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "jesica",
@@ -381,7 +381,7 @@
             "cn": "杰西卡"
         },
         "nation": "columbia",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "shotst",
@@ -393,7 +393,7 @@
             "cn": "流星"
         },
         "nation": "kazimierz",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "clour",
@@ -405,7 +405,7 @@
             "cn": "红云"
         },
         "nation": "siracusa",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "mm",
@@ -417,7 +417,7 @@
             "cn": "梅"
         },
         "nation": "victoria",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "yuki",
@@ -429,7 +429,7 @@
             "cn": "白雪"
         },
         "nation": "higashi",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "pinecn",
@@ -441,7 +441,7 @@
             "cn": "松果"
         },
         "nation": "columbia",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "glaze",
@@ -453,7 +453,7 @@
             "cn": "安比尔"
         },
         "nation": "laterano",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "acdrop",
@@ -465,7 +465,7 @@
             "cn": "酸糖"
         },
         "nation": "columbia",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "totter",
@@ -477,7 +477,7 @@
             "cn": "铅踝"
         },
         "nation": "sargon",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "blackd",
@@ -489,7 +489,7 @@
             "cn": "讯使"
         },
         "nation": "kjerag",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "scave",
@@ -501,7 +501,7 @@
             "cn": "清道夫"
         },
         "nation": "rhodes",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "vigna",
@@ -513,7 +513,7 @@
             "cn": "红豆"
         },
         "nation": "columbia",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "myrtle",
@@ -525,7 +525,7 @@
             "cn": "桃金娘"
         },
         "nation": "rhodes",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "bstalk",
@@ -537,7 +537,7 @@
             "cn": "豆苗"
         },
         "nation": "columbia",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "doberm",
@@ -549,7 +549,7 @@
             "cn": "杜宾"
         },
         "nation": "rhodes",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "gyuki",
@@ -561,7 +561,7 @@
             "cn": "缠丸"
         },
         "nation": "higashi",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "peacok",
@@ -573,7 +573,7 @@
             "cn": "断罪者"
         },
         "nation": "minos",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "frostl",
@@ -585,7 +585,7 @@
             "cn": "霜叶"
         },
         "nation": "rhodes",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "estell",
@@ -597,7 +597,7 @@
             "cn": "艾丝黛尔"
         },
         "nation": "sargon",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "frncat",
@@ -609,7 +609,7 @@
             "cn": "慕斯"
         },
         "nation": "victoria",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "cutter",
@@ -621,7 +621,7 @@
             "cn": "刻刀"
         },
         "nation": "columbia",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "utage",
@@ -633,7 +633,7 @@
             "cn": "宴"
         },
         "nation": "higashi",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "spikes",
@@ -645,7 +645,7 @@
             "cn": "芳汀"
         },
         "nation": "laterano",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "lolxh",
@@ -657,7 +657,7 @@
             "cn": "罗小黑"
         },
         "nation": "yan",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "quartz",
@@ -669,7 +669,7 @@
             "cn": "石英"
         },
         "nation": "columbia",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "humus",
@@ -681,7 +681,7 @@
             "cn": "休谟斯"
         },
         "nation": "rhodes",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "gravel",
@@ -693,7 +693,7 @@
             "cn": "砾"
         },
         "nation": "kazimierz",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "strong",
@@ -705,7 +705,7 @@
             "cn": "孑"
         },
         "nation": "lungmen",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "rope",
@@ -717,7 +717,7 @@
             "cn": "暗索"
         },
         "nation": "lungmen",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "myrrh",
@@ -729,7 +729,7 @@
             "cn": "末药"
         },
         "nation": "rhodes",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "ccheal",
@@ -741,7 +741,7 @@
             "cn": "嘉维尔"
         },
         "nation": "rhodes",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "susuro",
@@ -753,7 +753,7 @@
             "cn": "苏苏洛"
         },
         "nation": "rhodes",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "flower",
@@ -765,7 +765,7 @@
             "cn": "调香师"
         },
         "nation": "rhodes",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "finlpp",
@@ -777,7 +777,7 @@
             "cn": "清流"
         },
         "nation": "yan",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "chnut",
@@ -789,7 +789,7 @@
             "cn": "褐果"
         },
         "nation": "rhodes",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "yak",
@@ -801,7 +801,7 @@
             "cn": "角峰"
         },
         "nation": "kjerag",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "snakek",
@@ -813,7 +813,7 @@
             "cn": "蛇屠箱"
         },
         "nation": "columbia",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "bubble",
@@ -825,7 +825,7 @@
             "cn": "泡泡"
         },
         "nation": "sargon",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "sunbr",
@@ -837,7 +837,7 @@
             "cn": "古米"
         },
         "nation": "ursus",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "durnar",
@@ -849,7 +849,7 @@
             "cn": "坚雷"
         },
         "nation": "rhodes",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "deepcl",
@@ -861,7 +861,7 @@
             "cn": "深海色"
         },
         "nation": "egir",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "skgoat",
@@ -873,7 +873,7 @@
             "cn": "地灵"
         },
         "nation": "leithanien",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "podego",
@@ -885,7 +885,7 @@
             "cn": "波登可"
         },
         "nation": "rhodes",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "robrta",
@@ -897,7 +897,7 @@
             "cn": "罗比菈塔"
         },
         "nation": "columbia",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "ethan",
@@ -909,7 +909,7 @@
             "cn": "伊桑"
         },
         "nation": "rhodes",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "sqrrel",
@@ -921,7 +921,7 @@
             "cn": "阿消"
         },
         "nation": "lungmen",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "plosis",
@@ -933,7 +933,7 @@
             "cn": "白面鸮"
         },
         "nation": "columbia",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "breeze",
@@ -945,7 +945,7 @@
             "cn": "微风"
         },
         "nation": "victoria",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "headbr",
@@ -957,7 +957,7 @@
             "cn": "凛冬"
         },
         "nation": "ursus",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "texas",
@@ -969,7 +969,7 @@
             "cn": "德克萨斯"
         },
         "nation": "lungmen",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "chiave",
@@ -981,7 +981,7 @@
             "cn": "贾维"
         },
         "nation": "siracusa",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "apionr",
@@ -993,7 +993,7 @@
             "cn": "郁金香"
         },
         "nation": null,
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "sddrag",
@@ -1005,7 +1005,7 @@
             "cn": "苇草"
         },
         "nation": "victoria",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "wildmn",
@@ -1017,7 +1017,7 @@
             "cn": "野鬃"
         },
         "nation": "kazimierz",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "elysm",
@@ -1029,7 +1029,7 @@
             "cn": "极境"
         },
         "nation": "rhodes",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "blkngt",
@@ -1041,7 +1041,7 @@
             "cn": "夜半"
         },
         "nation": "rim",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "ctable",
@@ -1053,7 +1053,7 @@
             "cn": "晓歌"
         },
         "nation": "rhodes",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "puzzle",
@@ -1065,7 +1065,7 @@
             "cn": "谜图"
         },
         "nation": "victoria",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "swire",
@@ -1077,7 +1077,7 @@
             "cn": "诗怀雅"
         },
         "nation": "lungmen",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "sophia",
@@ -1089,7 +1089,7 @@
             "cn": "鞭刃"
         },
         "nation": "kazimierz",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "franka",
@@ -1101,7 +1101,7 @@
             "cn": "芙兰卡"
         },
         "nation": "columbia",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "flameb",
@@ -1113,7 +1113,7 @@
             "cn": "炎客"
         },
         "nation": "rhodes",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "morgan",
@@ -1125,7 +1125,7 @@
             "cn": "摩根"
         },
         "nation": "victoria",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "aguard",
@@ -1137,7 +1137,7 @@
             "cn": "Sharp"
         },
         "nation": null,
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "tiger",
@@ -1149,7 +1149,7 @@
             "cn": "因陀罗"
         },
         "nation": "victoria",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "flint",
@@ -1161,7 +1161,7 @@
             "cn": "燧石"
         },
         "nation": "sargon",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "dagda",
@@ -1173,7 +1173,7 @@
             "cn": "达格达"
         },
         "nation": "victoria",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "whitew",
@@ -1185,7 +1185,7 @@
             "cn": "拉普兰德"
         },
         "nation": "siracusa",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "ayer",
@@ -1197,7 +1197,7 @@
             "cn": "断崖"
         },
         "nation": "rim",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "chimes",
@@ -1209,7 +1209,7 @@
             "cn": "铎铃"
         },
         "nation": "yan",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "bibeak",
@@ -1221,7 +1221,7 @@
             "cn": "柏喙"
         },
         "nation": "sami",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "tachak",
@@ -1233,7 +1233,7 @@
             "cn": "战车"
         },
         "nation": null,
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "ghost",
@@ -1245,7 +1245,7 @@
             "cn": "幽灵鲨"
         },
         "nation": "egir",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "broca",
@@ -1257,7 +1257,7 @@
             "cn": "布洛卡"
         },
         "nation": "siracusa",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "astesi",
@@ -1269,7 +1269,7 @@
             "cn": "星极"
         },
         "nation": "columbia",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "sidero",
@@ -1281,7 +1281,7 @@
             "cn": "铸铁"
         },
         "nation": "minos",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "akafyu",
@@ -1293,7 +1293,7 @@
             "cn": "赤冬"
         },
         "nation": "higashi",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "noirc2",
@@ -1305,7 +1305,7 @@
             "cn": "火龙S黑角"
         },
         "nation": "rhodes",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "crow",
@@ -1317,7 +1317,7 @@
             "cn": "羽毛笔"
         },
         "nation": "bolivar",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "highmo",
@@ -1329,7 +1329,7 @@
             "cn": "海沫"
         },
         "nation": "iberia",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "takila",
@@ -1341,7 +1341,7 @@
             "cn": "龙舌兰"
         },
         "nation": "bolivar",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "bluep",
@@ -1353,7 +1353,7 @@
             "cn": "蓝毒"
         },
         "nation": "iberia",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "platnm",
@@ -1365,7 +1365,7 @@
             "cn": "白金"
         },
         "nation": "kazimierz",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "swllow",
@@ -1377,7 +1377,7 @@
             "cn": "灰喉"
         },
         "nation": "rhodes",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "asnipe",
@@ -1389,7 +1389,7 @@
             "cn": "Stormeye"
         },
         "nation": null,
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "aprl",
@@ -1401,7 +1401,7 @@
             "cn": "四月"
         },
         "nation": "rim",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "kroos2",
@@ -1413,7 +1413,7 @@
             "cn": "寒芒克洛丝"
         },
         "nation": "rhodes",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "meteo",
@@ -1425,7 +1425,7 @@
             "cn": "陨星"
         },
         "nation": "rhodes",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "sesa",
@@ -1437,7 +1437,7 @@
             "cn": "慑砂"
         },
         "nation": "sargon",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "bdhkgt",
@@ -1449,7 +1449,7 @@
             "cn": "截云"
         },
         "nation": "yan",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "excu",
@@ -1461,7 +1461,7 @@
             "cn": "送葬人"
         },
         "nation": "laterano",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "aosta",
@@ -1473,7 +1473,7 @@
             "cn": "奥斯塔"
         },
         "nation": "siracusa",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "amiya",
@@ -1485,7 +1485,7 @@
             "cn": "阿米娅"
         },
         "nation": "rhodes",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "absin",
@@ -1497,7 +1497,7 @@
             "cn": "苦艾"
         },
         "nation": "ursus",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "tomimi",
@@ -1509,7 +1509,7 @@
             "cn": "特米米"
         },
         "nation": "sargon",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "qanik",
@@ -1521,7 +1521,7 @@
             "cn": "雪绒"
         },
         "nation": "sami",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "skfire",
@@ -1533,7 +1533,7 @@
             "cn": "天火"
         },
         "nation": "victoria",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "acast",
@@ -1545,7 +1545,7 @@
             "cn": "Pith"
         },
         "nation": null,
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "leizi",
@@ -1557,7 +1557,7 @@
             "cn": "惊蛰"
         },
         "nation": "yan",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "halo",
@@ -1569,7 +1569,7 @@
             "cn": "星源"
         },
         "nation": "columbia",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "beewax",
@@ -1581,7 +1581,7 @@
             "cn": "蜜蜡"
         },
         "nation": "sargon",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "lionhd",
@@ -1593,7 +1593,7 @@
             "cn": "莱恩哈特"
         },
         "nation": "rim",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "mint",
@@ -1605,7 +1605,7 @@
             "cn": "薄绿"
         },
         "nation": "victoria",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "iris",
@@ -1617,7 +1617,7 @@
             "cn": "爱丽丝"
         },
         "nation": "victoria",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "hamoni",
@@ -1629,7 +1629,7 @@
             "cn": "和弦"
         },
         "nation": "victoria",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "lava2",
@@ -1641,7 +1641,7 @@
             "cn": "炎狱炎熔"
         },
         "nation": "rhodes",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "serum",
@@ -1653,7 +1653,7 @@
             "cn": "蚀清"
         },
         "nation": "columbia",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "kjera",
@@ -1665,7 +1665,7 @@
             "cn": "耶拉"
         },
         "nation": "kjerag",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "rockr",
@@ -1677,7 +1677,7 @@
             "cn": "洛洛"
         },
         "nation": "victoria",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "malist",
@@ -1689,7 +1689,7 @@
             "cn": "至简"
         },
         "nation": "sargon",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "otter",
@@ -1701,7 +1701,7 @@
             "cn": "梅尔"
         },
         "nation": "columbia",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "folivo",
@@ -1713,7 +1713,7 @@
             "cn": "稀音"
         },
         "nation": "sargon",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "silent",
@@ -1725,7 +1725,7 @@
             "cn": "赫默"
         },
         "nation": "columbia",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "bldsk",
@@ -1737,7 +1737,7 @@
             "cn": "华法琳"
         },
         "nation": "rhodes",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "folnic",
@@ -1749,7 +1749,7 @@
             "cn": "亚叶"
         },
         "nation": "rhodes",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "amedic",
@@ -1761,7 +1761,7 @@
             "cn": "Touch"
         },
         "nation": null,
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "ceylon",
@@ -1773,7 +1773,7 @@
             "cn": "锡兰"
         },
         "nation": "columbia",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "whispr",
@@ -1785,7 +1785,7 @@
             "cn": "絮雨"
         },
         "nation": "iberia",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "tuye",
@@ -1797,7 +1797,7 @@
             "cn": "图耶"
         },
         "nation": "sargon",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "mberry",
@@ -1809,7 +1809,7 @@
             "cn": "桑葚"
         },
         "nation": "yan",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "glider",
@@ -1821,7 +1821,7 @@
             "cn": "蜜莓"
         },
         "nation": "rim",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "hbisc2",
@@ -1833,7 +1833,7 @@
             "cn": "濯尘芙蓉"
         },
         "nation": "rhodes",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "peper",
@@ -1845,7 +1845,7 @@
             "cn": "明椒"
         },
         "nation": "rhodes",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "nearl",
@@ -1857,7 +1857,7 @@
             "cn": "临光"
         },
         "nation": null,
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "hmau",
@@ -1869,7 +1869,7 @@
             "cn": "吽"
         },
         "nation": "lungmen",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "red",
@@ -1881,7 +1881,7 @@
             "cn": "红"
         },
         "nation": "rhodes",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "waaifu",
@@ -1893,7 +1893,7 @@
             "cn": "槐琥"
         },
         "nation": "lungmen",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "kafka",
@@ -1905,7 +1905,7 @@
             "cn": "卡夫卡"
         },
         "nation": "columbia",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "nothin",
@@ -1917,7 +1917,7 @@
             "cn": "乌有"
         },
         "nation": "yan",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "liskam",
@@ -1929,7 +1929,7 @@
             "cn": "雷蛇"
         },
         "nation": "columbia",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "moeshd",
@@ -1941,7 +1941,7 @@
             "cn": "可颂"
         },
         "nation": "lungmen",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "bison",
@@ -1953,7 +1953,7 @@
             "cn": "拜松"
         },
         "nation": "lungmen",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "hpsts",
@@ -1965,7 +1965,7 @@
             "cn": "火神"
         },
         "nation": "minos",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "asbest",
@@ -1977,7 +1977,7 @@
             "cn": "石棉"
         },
         "nation": "rim",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "aprot2",
@@ -1989,7 +1989,7 @@
             "cn": "暮落"
         },
         "nation": "victoria",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "pianst",
@@ -2001,7 +2001,7 @@
             "cn": "车尔尼"
         },
         "nation": "leithanien",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "blitz",
@@ -2013,7 +2013,7 @@
             "cn": "闪击"
         },
         "nation": null,
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "zebra",
@@ -2025,7 +2025,7 @@
             "cn": "暴雨"
         },
         "nation": "rhodes",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "ashlok",
@@ -2037,7 +2037,7 @@
             "cn": "灰毫"
         },
         "nation": "kazimierz",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "firwhl",
@@ -2049,7 +2049,7 @@
             "cn": "火哨"
         },
         "nation": "rim",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "aurora",
@@ -2061,7 +2061,7 @@
             "cn": "极光"
         },
         "nation": "kjerag",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "cement",
@@ -2073,7 +2073,7 @@
             "cn": "洋灰"
         },
         "nation": "rim",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "prove",
@@ -2085,7 +2085,7 @@
             "cn": "普罗旺斯"
         },
         "nation": "siracusa",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "milu",
@@ -2097,7 +2097,7 @@
             "cn": "守林人"
         },
         "nation": "rhodes",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "cuttle",
@@ -2109,7 +2109,7 @@
             "cn": "安哲拉"
         },
         "nation": "egir",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "lunacu",
@@ -2121,7 +2121,7 @@
             "cn": "子月"
         },
         "nation": "siracusa",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "toddi",
@@ -2133,7 +2133,7 @@
             "cn": "熔泉"
         },
         "nation": "victoria",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "erato",
@@ -2145,7 +2145,7 @@
             "cn": "埃拉托"
         },
         "nation": "minos",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "greyy2",
@@ -2157,7 +2157,7 @@
             "cn": "承曦格雷伊"
         },
         "nation": "rhodes",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "slchan",
@@ -2169,7 +2169,7 @@
             "cn": "崖心"
         },
         "nation": "kjerag",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "snsant",
@@ -2181,7 +2181,7 @@
             "cn": "雪雉"
         },
         "nation": "lungmen",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "slbell",
@@ -2193,7 +2193,7 @@
             "cn": "初雪"
         },
         "nation": "kjerag",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "vodfox",
@@ -2205,7 +2205,7 @@
             "cn": "巫恋"
         },
         "nation": "siracusa",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "glassb",
@@ -2217,7 +2217,7 @@
             "cn": "真理"
         },
         "nation": "ursus",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "glacus",
@@ -2229,7 +2229,7 @@
             "cn": "格劳克斯"
         },
         "nation": "iberia",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "provs",
@@ -2241,7 +2241,7 @@
             "cn": "但书"
         },
         "nation": "kazimierz",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "windft",
@@ -2253,7 +2253,7 @@
             "cn": "掠风"
         },
         "nation": "columbia",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "sora",
@@ -2265,7 +2265,7 @@
             "cn": "空"
         },
         "nation": "lungmen",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "heidi",
@@ -2277,7 +2277,7 @@
             "cn": "海蒂"
         },
         "nation": "victoria",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "tknogi",
@@ -2289,7 +2289,7 @@
             "cn": "月禾"
         },
         "nation": "higashi",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "ncdeer",
@@ -2301,7 +2301,7 @@
             "cn": "九色鹿"
         },
         "nation": "yan",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "quercu",
@@ -2313,7 +2313,7 @@
             "cn": "夏栎"
         },
         "nation": "rhodes",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "mantic",
@@ -2325,7 +2325,7 @@
             "cn": "狮蝎"
         },
         "nation": "sargon",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "kirara",
@@ -2337,7 +2337,7 @@
             "cn": "绮良"
         },
         "nation": "higashi",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "panda",
@@ -2349,7 +2349,7 @@
             "cn": "食铁兽"
         },
         "nation": "lungmen",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "forcer",
@@ -2361,7 +2361,7 @@
             "cn": "见行者"
         },
         "nation": "laterano",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "robin",
@@ -2373,7 +2373,7 @@
             "cn": "罗宾"
         },
         "nation": "columbia",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "rfrost",
@@ -2385,7 +2385,7 @@
             "cn": "霜华"
         },
         "nation": null,
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "bena",
@@ -2397,7 +2397,7 @@
             "cn": "贝娜"
         },
         "nation": "victoria",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "kazema",
@@ -2409,7 +2409,7 @@
             "cn": "风丸"
         },
         "nation": "higashi",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "angel",
@@ -2421,7 +2421,7 @@
             "cn": "能天使"
         },
         "nation": "lungmen",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "archet",
@@ -2433,7 +2433,7 @@
             "cn": "空弦"
         },
         "nation": "laterano",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "ash",
@@ -2445,7 +2445,7 @@
             "cn": "灰烬"
         },
         "nation": null,
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "shwaz",
@@ -2457,7 +2457,7 @@
             "cn": "黑"
         },
         "nation": "columbia",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "bgsnow",
@@ -2469,7 +2469,7 @@
             "cn": "鸿雪"
         },
         "nation": "rhodes",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "fartth",
@@ -2481,7 +2481,7 @@
             "cn": "远牙"
         },
         "nation": "kazimierz",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "cqbw",
@@ -2493,7 +2493,7 @@
             "cn": "W"
         },
         "nation": null,
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "phenxi",
@@ -2505,7 +2505,7 @@
             "cn": "菲亚梅塔"
         },
         "nation": "laterano",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "poca",
@@ -2517,7 +2517,7 @@
             "cn": "早露"
         },
         "nation": "ursus",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "rosmon",
@@ -2529,7 +2529,7 @@
             "cn": "迷迭香"
         },
         "nation": "rhodes",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "chen2",
@@ -2541,7 +2541,7 @@
             "cn": "假日威龙陈"
         },
         "nation": "rhodes",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "siege",
@@ -2553,7 +2553,7 @@
             "cn": "推进之王"
         },
         "nation": "victoria",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "bpipe",
@@ -2565,7 +2565,7 @@
             "cn": "风笛"
         },
         "nation": "victoria",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "saga",
@@ -2577,7 +2577,7 @@
             "cn": "嵯峨"
         },
         "nation": "higashi",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "sleach",
@@ -2589,7 +2589,7 @@
             "cn": "琴柳"
         },
         "nation": "victoria",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "flamtl",
@@ -2601,7 +2601,7 @@
             "cn": "焰尾"
         },
         "nation": "kazimierz",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "vigil",
@@ -2613,7 +2613,7 @@
             "cn": "伺夜"
         },
         "nation": "siracusa",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "ines",
@@ -2625,7 +2625,7 @@
             "cn": "伊内丝"
         },
         "nation": "rhodes",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "ifrit",
@@ -2637,7 +2637,7 @@
             "cn": "伊芙利特"
         },
         "nation": "columbia",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "mostma",
@@ -2649,7 +2649,7 @@
             "cn": "莫斯提马"
         },
         "nation": "laterano",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "amgoat",
@@ -2661,7 +2661,7 @@
             "cn": "艾雅法拉"
         },
         "nation": "leithanien",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "cerber",
@@ -2673,7 +2673,7 @@
             "cn": "刻俄柏"
         },
         "nation": "rhodes",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "dusk",
@@ -2685,7 +2685,7 @@
             "cn": "夕"
         },
         "nation": "yan",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "pasngr",
@@ -2697,7 +2697,7 @@
             "cn": "异客"
         },
         "nation": "sargon",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "billro",
@@ -2709,7 +2709,7 @@
             "cn": "卡涅利安"
         },
         "nation": "leithanien",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "lin",
@@ -2721,7 +2721,7 @@
             "cn": "林"
         },
         "nation": "lungmen",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "gdglow",
@@ -2733,7 +2733,7 @@
             "cn": "澄闪"
         },
         "nation": "victoria",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "ebnhlz",
@@ -2745,7 +2745,7 @@
             "cn": "黑键"
         },
         "nation": "leithanien",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "gnosis",
@@ -2757,7 +2757,7 @@
             "cn": "灵知"
         },
         "nation": "kjerag",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "aglina",
@@ -2769,7 +2769,7 @@
             "cn": "安洁莉娜"
         },
         "nation": "siracusa",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "lisa",
@@ -2781,7 +2781,7 @@
             "cn": "铃兰"
         },
         "nation": "siracusa",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "mgllan",
@@ -2793,7 +2793,7 @@
             "cn": "麦哲伦"
         },
         "nation": "columbia",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "skadi2",
@@ -2805,7 +2805,7 @@
             "cn": "浊心斯卡蒂"
         },
         "nation": "egir",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "ling",
@@ -2817,7 +2817,7 @@
             "cn": "令"
         },
         "nation": "yan",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "ironmn",
@@ -2829,7 +2829,7 @@
             "cn": "白铁"
         },
         "nation": "victoria",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "phatom",
@@ -2841,7 +2841,7 @@
             "cn": "傀影"
         },
         "nation": "victoria",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "texas2",
@@ -2853,7 +2853,7 @@
             "cn": "缄默德克萨斯"
         },
         "nation": "lungmen",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "yato2",
@@ -2865,7 +2865,7 @@
             "cn": "麒麟R夜刀"
         },
         "nation": "rhodes",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "lmlee",
@@ -2877,7 +2877,7 @@
             "cn": "老鲤"
         },
         "nation": "lungmen",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "weedy",
@@ -2889,7 +2889,7 @@
             "cn": "温蒂"
         },
         "nation": "rhodes",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "haak",
@@ -2901,7 +2901,7 @@
             "cn": "阿"
         },
         "nation": "lungmen",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "glady",
@@ -2913,7 +2913,7 @@
             "cn": "歌蕾蒂娅"
         },
         "nation": "egir",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "mizuki",
@@ -2925,7 +2925,7 @@
             "cn": "水月"
         },
         "nation": "higashi",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "ghost2",
@@ -2937,7 +2937,7 @@
             "cn": "归溟幽灵鲨"
         },
         "nation": "egir",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "doroth",
@@ -2949,7 +2949,7 @@
             "cn": "多萝西"
         },
         "nation": "columbia",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "shining",
@@ -2961,7 +2961,7 @@
             "cn": "闪灵"
         },
         "nation": null,
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "cgbird",
@@ -2973,7 +2973,7 @@
             "cn": "夜莺"
         },
         "nation": null,
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "kalts",
@@ -2985,7 +2985,7 @@
             "cn": "凯尔希"
         },
         "nation": "rhodes",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "lumen",
@@ -2997,7 +2997,7 @@
             "cn": "流明"
         },
         "nation": "iberia",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "reed2",
@@ -3009,7 +3009,7 @@
             "cn": "焰影苇草"
         },
         "nation": "victoria",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "hsguma",
@@ -3021,7 +3021,7 @@
             "cn": "星熊"
         },
         "nation": "lungmen",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "demkni",
@@ -3033,7 +3033,7 @@
             "cn": "塞雷娅"
         },
         "nation": "columbia",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "blemsh",
@@ -3045,7 +3045,7 @@
             "cn": "瑕光"
         },
         "nation": "kazimierz",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "nian",
@@ -3057,7 +3057,7 @@
             "cn": "年"
         },
         "nation": "yan",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "mudrok",
@@ -3069,7 +3069,7 @@
             "cn": "泥岩"
         },
         "nation": "rhodes",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "judge",
@@ -3081,7 +3081,7 @@
             "cn": "斥罪"
         },
         "nation": "siracusa",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "zumama",
@@ -3093,7 +3093,7 @@
             "cn": "森蚺"
         },
         "nation": "sargon",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "horn",
@@ -3105,7 +3105,7 @@
             "cn": "号角"
         },
         "nation": "victoria",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "f12yin",
@@ -3117,7 +3117,7 @@
             "cn": "山"
         },
         "nation": "columbia",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "chyue",
@@ -3129,7 +3129,7 @@
             "cn": "重岳"
         },
         "nation": "yan",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "svrash",
@@ -3141,7 +3141,7 @@
             "cn": "银灰"
         },
         "nation": "kjerag",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "thorns",
@@ -3153,7 +3153,7 @@
             "cn": "棘刺"
         },
         "nation": "iberia",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "qiubai",
@@ -3165,7 +3165,7 @@
             "cn": "仇白"
         },
         "nation": "yan",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "chen",
@@ -3177,7 +3177,7 @@
             "cn": "陈"
         },
         "nation": "lungmen",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "irene",
@@ -3189,7 +3189,7 @@
             "cn": "艾丽妮"
         },
         "nation": "iberia",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "huang",
@@ -3201,7 +3201,7 @@
             "cn": "煌"
         },
         "nation": "rhodes",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "gvial2",
@@ -3213,7 +3213,7 @@
             "cn": "百炼嘉维尔"
         },
         "nation": "rhodes",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "surtr",
@@ -3225,7 +3225,7 @@
             "cn": "史尔特尔"
         },
         "nation": "rhodes",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "helage",
@@ -3237,7 +3237,7 @@
             "cn": "赫拉格"
         },
         "nation": "ursus",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "pallas",
@@ -3249,7 +3249,7 @@
             "cn": "帕拉斯"
         },
         "nation": "minos",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "nearl2",
@@ -3261,7 +3261,7 @@
             "cn": "耀骑士临光"
         },
         "nation": "kazimierz",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "mlynar",
@@ -3273,7 +3273,7 @@
             "cn": "玛恩纳"
         },
         "nation": "kazimierz",
-        "rating": 7
+        "rating": 6
     },
     {
         "nameid": "savage",
@@ -3285,7 +3285,7 @@
             "cn": "暴行"
         },
         "nation": "rim",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "catap",
@@ -3297,7 +3297,7 @@
             "cn": "空爆"
         },
         "nation": "rhodes",
-        "rating": 4
+        "rating": 3
     },
     {
         "nameid": "midn",
@@ -3309,7 +3309,7 @@
             "cn": "月见夜"
         },
         "nation": "rhodes",
-        "rating": 4
+        "rating": 3
     },
     {
         "nameid": "brownb",
@@ -3321,7 +3321,7 @@
             "cn": "猎蜂"
         },
         "nation": "ursus",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "jaksel",
@@ -3333,7 +3333,7 @@
             "cn": "杰克"
         },
         "nation": "columbia",
-        "rating": 5
+        "rating": 4
     },
     {
         "nameid": "nightm",
@@ -3345,7 +3345,7 @@
             "cn": "夜魔"
         },
         "nation": "victoria",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "grani",
@@ -3357,7 +3357,7 @@
             "cn": "格拉尼"
         },
         "nation": "victoria",
-        "rating": 6
+        "rating": 5
     },
     {
         "nameid": "skadi",
@@ -3369,6 +3369,6 @@
             "cn": "斯卡蒂"
         },
         "nation": "egir",
-        "rating": 7
+        "rating": 6
     }
 ]

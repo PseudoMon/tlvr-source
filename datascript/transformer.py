@@ -63,8 +63,7 @@ def make_charlist(check_nation=True):
 		fulldata = chartable[f"char_{newchar['numberid']}_{char}"]
 		newchar["nation"] = fulldata["nationId"]
 		rarity = rarity_str_to_int(fulldata["rarity"])
-		newchar["rating"] = rarity + 1 
-		# 1-star operators have rarity data 0
+		newchar["rating"] = rarity
 
 		charlist.append(newchar)
 
