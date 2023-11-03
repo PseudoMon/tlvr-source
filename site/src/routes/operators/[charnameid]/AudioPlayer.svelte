@@ -13,6 +13,7 @@
     "kr": "voice_kr",
   }
 
+  const regionalLangs = ["ita", "cn_topolect"]
   const teamrainbow = ["tachak", "blitz", "ash", "rfrost"]
 
   function getAudioFileUrl(lang) {
@@ -20,24 +21,32 @@
       return null;
     }
     
+    // One of the standart voice languages
     if (Object.keys(voiceMap).includes(lang)) {
       return `${sourceurl}/${voiceMap[selectedLang]}/${assetloc}.mp3`;
     }
-    else {
-      if (lang === "linkage") {
-        if (teamrainbow.some(name => assetloc.includes(name))) {
-          return `${sourceurl}/${voiceMap["jp"]}/${assetloc}.mp3`
-        } 
 
-        if (assetloc.includes("ncdeer")) {
-          return `${sourceurl}/${voiceMap["cn"]}/${assetloc}.mp3`
-        }
+    // Regional voice
+    else if (regionalLangs.includes(lang)) {
+      const regionalAssetloc = assetloc.replace("/", `_${lang}/`);
+      return `${sourceurl}/voice_custom/${regionalAssetloc}.mp3`;
+    }
 
-        if (assetloc.includes("palico")) {
-          return `${sourceurl}/${voiceMap["jp"]}/${assetloc}.mp3`
-        }
+    // Specific file location for crossover characters
+    else if (lang === "linkage") {
+      if (teamrainbow.some(name => assetloc.includes(name))) {
+        return `${sourceurl}/${voiceMap["jp"]}/${assetloc}.mp3`
+      } 
+
+      if (assetloc.includes("ncdeer")) {
+        return `${sourceurl}/${voiceMap["cn"]}/${assetloc}.mp3`
+      }
+
+      if (assetloc.includes("palico")) {
+        return `${sourceurl}/${voiceMap["jp"]}/${assetloc}.mp3`
       }
     }
+    
 
     return null;
   }
@@ -86,6 +95,18 @@
       class:selected={selectedLang === "kr"} 
     >KR</button>
     {/if}
+    {#if availability.includes("cn_topolect")}
+    <button
+      on:click={() => clickLang("cn_topolect")}
+      class:selected={selectedLang === "cn_topolect"} 
+    >CN REG</button>
+    {/if}
+    {#if availability.includes("ita")}
+    <button
+      on:click={() => clickLang("ita")}
+      class:selected={selectedLang === "ita"} 
+    >ITA</button>
+    {/if}
     {#if availability.includes("linkage")}
      <button
       on:click={() => clickLang("linkage")}
@@ -105,7 +126,9 @@
     background-color: var(--color-lighterbg);
     border-radius: 0 0 20px 20px;
     padding: 0 10px 10px 10px;
-    max-width: 268px;
+    display: inline-block;
+    box-sizing: border-box;
+    max-width: 100%;
   }
 
   .audio-selector {
@@ -114,10 +137,13 @@
     justify-content: flex-start;
     column-gap: 7px;
     padding-left: 15px;
+    padding-right: 15px;
     padding-bottom: 6px;
 
     background-color: var(--color-background);
     border-radius: 8px;
+
+    overflow-x: auto;
   }
 
   .audio-selector :global(svg) {
@@ -132,6 +158,7 @@
     color: #fff;
     box-shadow: 0px -4px 0px 0px rgba(0, 0, 0, 0.35) inset;
     border: none;
+    line-height: 0.8;
   }
 
   .audio-selector button:active, .audio-selector button.selected {
