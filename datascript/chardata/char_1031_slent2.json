@@ -1,0 +1,596 @@
+{
+    "charid": "char_1031_slent2",
+    "nameid": "slent2",
+    "names": {
+        "en": "Silence the Paradigmatic",
+        "jp": "淬羽サイレンス",
+        "kr": "사일런스 더 패러디그매틱",
+        "cn": "淬羽赫默"
+    },
+    "voices": [
+        {
+            "id": "char_1031_slent2_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Let's commence work, Doctor. We have a mountain of issues to face.",
+                "jp": "仕事にかかろう、ドクター。問題は山積みだよ。",
+                "kr": "일하자, 박사. 처리해야 할 문제가 산더미야.",
+                "cn": "开始工作吧，博士，问题堆积如山。"
+            },
+            "asset": "char_1031_slent2/CN_001"
+        },
+        {
+            "id": "char_1031_slent2_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Doctor, can you pass a message onto Ifrit for me? I'm returning to Trimounts—there's some urgent business that requires me in person—so she'll have to eat dinner with Saria tonight. I... I'll make it up to her next time, I promise.",
+                "jp": "ドクター、イフリータへの伝言を頼んでもいい？立ち会いが必要な急ぎの用件が入ったから、予定より早くトリマウンツに戻ることになって。今日の夕飯はサリアと食べて、って伝えてほしいんだ。今度は……絶対埋め合わせするから。",
+                "kr": "박사, 급하게 처리할 일이 생겨서 예정보다 빨리 트리마운츠에 돌아가게 되었거든, 오늘 저녁은 일단 사리아랑 먹으라고 이프리트한테 전해 줄 수 있을까? 내가 다음에…… 어떻게든 갚겠다는 말도 부탁할게.",
+                "cn": "博士，能帮我转告伊芙利特吗？我要提前回特里蒙了，有些急事必须要我在场，今晚的晚饭让她和塞雷娅一起吃吧，下次......我会补偿她的，我保证。"
+            },
+            "asset": "char_1031_slent2/CN_002"
+        },
+        {
+            "id": "char_1031_slent2_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Do you need coffee? This is a special bean Joyce prepared for me, that keeps me up even in the daytime. After all, I can't coop up alone in the lab day and night like I once did. I have lots of meetings that I'd rather not take, and lots of reports to read that I'd also rather not.",
+                "jp": "コーヒー、飲む？これ、昼間も元気でいられるようにってジョイスがくれた特別な豆なんだ。私はもう、昔みたいに一日中ラボにこもってはいられないしね。今は会いたくもない人にたくさん会って、読みたくもないレポートにたくさん目を通さないといけないんだ。",
+                "kr": "커피 마실래? 이건 낮에도 부담 없이 마실 수 있게 조이스가 특별히 준비해 준 원두야. 덕분에 대낮에도 정신 멀쩡하게 지낼 수 있지. 이젠 예전처럼 밤낮없이 혼자 실험실에 틀어박혀 있으면 안 되잖아, 앞으로는 만나기 싫은 사람들도 수없이 만나야 하고, 읽고 싶지 않은 리포트도 수없이 읽어야만 할 테니까.",
+                "cn": "喝咖啡吗？这是乔伊丝给我准备的特殊咖啡豆，它让我在白天也能保持精神。毕竟我不能再像过去那样一个人没日没夜地缩在实验室里，我要见许多不想见的人，看许多不想看的报告。"
+            },
+            "asset": "char_1031_slent2/CN_003"
+        },
+        {
+            "id": "char_1031_slent2_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "My thoughts on returning to Rhine Lab...? I'd rather not reflect on it like that, if I could. All I can say is, I used to perennially expect someone would come to my aid, but now I understand—I can only rely on myself if I am to achieve anything.",
+                "jp": "ライン生命に戻ってみた感想？……できることなら、こんな形で戻りたくはなかったな。これまでの私はいつも誰かの助けを期待してたけど、今はよくわかってるんだ。何もかも、自分の力で掴み取るしかないんだってことを。",
+                "kr": "라인 랩에 돌아온 소감? ……사실 이런 식으로 돌아오고 싶진 않았어. 그동안 난 항상 누군가가 날 도와주길 기다리고 있었던 걸지도 몰라. 하지만 이제는 무엇이 되었던 스스로 쟁취할 수밖에 없다는 걸 잘 알고 있어.",
+                "cn": "重回莱茵生命的感想？......如果可能的话，我并不想以这种方式回归。只能说，过去的我总是在期待着有人来帮助我，而现在我明白了，我只能靠自己去争取一切。"
+            },
+            "asset": "char_1031_slent2/CN_004"
+        },
+        {
+            "id": "char_1031_slent2_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Guess what this stack of papers is? They're whistleblower reports. Some labs think they can protect themselves by airing other labs' dirty laundry to me. *sigh*... The more they do this, the more anger I feel welling up inside.",
+                "jp": "この手紙の山、何だと思う？全部告発用の書状だよ。ほかのラボの悪事を告発すれば、自分たちは見逃してもらえると思っているラボもあるみたいでね。はぁ……こんなことされても、この人たちへの憤りが募るだけなのに。",
+                "kr": "이 편지 더미, 뭔지 알아? 전부 고발서야. 다른 실험실의 악행을 고발하면 자신들은 봐주리라 생각하는 것 같은데…… 하아, 이럴수록 그들을 향한 분노만 커질 뿐이라는 걸 모르나 봐.",
+                "cn": "你猜这一叠信件是什么？是举报信。一些实验室以为把其他实验室做的肮脏的事放到我的面前就可以保全自己，唉......他们越是这么做，越是让我感到愤怒。"
+            },
+            "asset": "char_1031_slent2/CN_005"
+        },
+        {
+            "id": "char_1031_slent2_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Return those gifts to senders, and have them convey to whoever's behind them that I'll be making a personal visit, and they'd better be prepared... Sorry, Doctor, am I bothering you at work? I'll excuse myself for now. Yes, alright, I'll be back in Trimounts later today...",
+                "jp": "付け届けは全部送り返しておいて。ついでに、その人たちからバックについてる人に伝えてもらってほしい。「会いに行くから、準備しておいて」って……あ、ごめん、ドクター。仕事の邪魔だった？少し離れるね……うん、わかった。じゃあ、もうすぐトリマウンツに戻るから……",
+                "kr": "선물은 전부 돌려보내. 그리고 그 사람들 배후에 있는 인물한테, 내가 직접 만나러 갈 테니 미리 준비나 잘 해두라는 말도 전하라고 하고…… 미안, 박사. 일에 방해된 건 아니지? 조금 떨어져 있을게…… 응, 알았어. 나도 곧 트리마운츠로 돌아가니까……",
+                "cn": "把那些礼物退回去吧，然后让他们转告自己背后的人，我会去见他们的，请他们做好准备......抱歉，博士，打扰到你工作了吗？我先回避一下。嗯，好的，我晚些就会返回特里蒙......"
+            },
+            "asset": "char_1031_slent2/CN_006"
+        },
+        {
+            "id": "char_1031_slent2_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "This contract pertains to the ensuing direction of our partnership with Rhodes Island, Doctor. You'd better take a look. I don't want us to blindly accept Rhodes Island's aid. Of course, I do hope that outside of work, we'll remain good friends.",
+                "jp": "ドクター、この契約はロドスとの今後の協力体制を方向付けるものだから、目を通しておいてほしい。私はロドスから一方的に援助を受けることはしたくないから。もちろん、仕事以外では親しい友達のままでいたいと思ってるけどね。",
+                "kr": "박사, 이번 계약은 로도스 아일랜드와의 향후 협력 방향과 관련이 있으니까 한번 잘 살펴봐. 나도 로도스 아일랜드로부터 일방적으로 도움만 받을 생각은 없어. 물론, 비즈니스적인 부분 외에는 이전과 같이 계속 친구일 거야.",
+                "cn": "这份合约有关接下来与罗德岛的合作方向，博士，你应该看一看，我不希望只是一味接受罗德岛的帮助。当然，我也希望在工作之外，我们依然是好朋友。"
+            },
+            "asset": "char_1031_slent2/CN_007"
+        },
+        {
+            "id": "char_1031_slent2_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Yes, Doctor? No, I'm no longer restricting Ifrit from seeing Saria. Honestly, on the contrary, I hope they see more of each other now. Ifrit is grown up, after all, and more importantly, her presence will remind Saria that not all prices are numbers, and reports do not remove scars.",
+                "jp": "ん？うん、イフリータがサリアに会うのを制限するのはやめたんだ。今はむしろ、二人にはもっと一緒に過ごしてほしいと思ってるくらい。イフリータは成長したし、何より、あの子の存在はサリアに大切なことを思い出させてくれるから――払った対価は単なる数字じゃないし、残った傷跡もただの報告書上のものではないってことをね。",
+                "kr": "응? 맞아, 이젠 더 이상 이프리트랑 사리아가 만나는 걸 막지 않을 거야. 아니, 오히려 그 둘이 더 자주 만났으면 좋겠어. 이프리트도 이제 다 컸고, 무엇보다 이프리트의 존재는 사리아에게 중요한 걸 상기시켜 주거든…… 우리가 치른 대가가 단순히 수치로 셈할 수 있는 게 아니고, 남은 흉터 또한 단순한 서류상의 보고가 아니라는 걸 말이야.",
+                "cn": "嗯？对，我不会再限制伊芙利特去找塞雷娅，实际上，现在我反而希望她们能多见一见。伊芙利特已经长大了，更重要的是，她的存在会提醒塞雷娅，代价不是数字，伤痕不是报告。"
+            },
+            "asset": "char_1031_slent2/CN_008"
+        },
+        {
+            "id": "char_1031_slent2_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "To be honest, being domineering is an awful sensation. When people come to my desk, the way they look at me makes me—uncomfortable, but that's something I'll gradually adapt to. *yawn*... I'm going to rest for a short while, Doctor. I'd like to hear your thoughts after I wake up.",
+                "jp": "立場が強くなる感覚は、正直すごく嫌なんだ。私のデスクまで来た人たちがこっちを見るあの視線、本当に嫌気が差してくる。でも、少しずつ慣れていくつもり。ふわあ……ちょっと休むね、ドクター。目が覚めたら、あなたの意見を聞かせて。",
+                "kr": "입지가 넓어지는 느낌, 사실 정말 싫어. 솔직히 내 책상 앞에 온 사람들이 보내는 그 시선들도 조금 힘들지만, 그래도 점점 익숙해지겠지. 후아암…… 박사, 난 조금 쉴게. 이따가 일어나면 박사 생각도 한번 들려줘.",
+                "cn": "变得强势的感觉其实很讨厌，每一个走到我办公桌前的人看我的眼神都让我难过，但我会逐渐适应的。呼啊......博士，我要稍微休息一下，醒来之后，我想听一听你的想法。"
+            },
+            "asset": "char_1031_slent2/CN_009"
+        },
+        {
+            "id": "char_1031_slent2_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "I'll deal with some minor affairs for you, Doctor. Rest well.",
+                "jp": "ドクター。雑務はいくつか片付けておくから、ゆっくり休んで。",
+                "kr": "잡다한 일은 내가 처리해 둘 테니까, 박사는 푹 쉬어.",
+                "cn": "我会帮你处理掉一些琐事，博士，好好休息吧。"
+            },
+            "asset": "char_1031_slent2/CN_010"
+        },
+        {
+            "id": "char_1031_slent2_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Doctor, my time aboard Rhodes Island will be inevitably diminished in the future. There is one thing, however, that I can guarantee: my relationship with Rhodes Island will only grow closer, because I trust Rhodes Island, and I trust you.",
+                "jp": "ドクター。この先、ロドスでの滞在時間はどうしても減ってしまうと思う。だけど、ロドスとの繋がりはますます強くなっていくってことだけは保証するよ。だって、私はロドスを、あなたを信じているから。",
+                "kr": "박사, 아무래도 앞으로 로도스 아일랜드에서 머무는 시간이 줄어들 것 같아. 하지만 난 로도스 아일랜드와 당신을 믿으니까, 우리의 관계가 더욱 끈끈해질 거란 점만큼은 보장할게.",
+                "cn": "博士，往后我在罗德岛的逗留时间会不可避免地有所减少。但是有一点我可以保证，我与罗德岛的联系只会更加紧密，因为我相信罗德岛，也相信你。"
+            },
+            "asset": "char_1031_slent2/CN_011"
+        },
+        {
+            "id": "char_1031_slent2_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Some battles are unavoidable. I know.",
+                "jp": "わかってる。避けられない戦いもあるものだよね。",
+                "kr": "나도 알아. 피할 수 없는 싸움도 있다는걸.",
+                "cn": "有些战斗是无法避免的，我明白。"
+            },
+            "asset": "char_1031_slent2/CN_012"
+        },
+        {
+            "id": "char_1031_slent2_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "The pharmaceutical I took part in developing is highly effective? That's excellent. Though I have to devote more of my energy elsewhere, I would never want to give up my research.",
+                "jp": "あの薬、よく効いた？前に私が開発に携わってたあれだよね。そう、よかった。ほかのことに注力しないといけないのはわかってるけど、研究を諦めたくはないから。",
+                "kr": "예전에 내가 개발에 참여했던 약이 효과가 좋다고? 다행이네. 비록 지금은 다른 곳에 힘을 더 쏟고 있지만, 그렇다고 연구를 포기하고 싶지는 않아.",
+                "cn": "之前我参与研究的那个药物效果很不错？太好了，虽然我必须把更多的精力投在别的地方，但我并不想因此放弃科研。"
+            },
+            "asset": "char_1031_slent2/CN_013"
+        },
+        {
+            "id": "char_1031_slent2_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "I know what you want to ask. The path I'm about to walk is a thorny one. Am I really prepared for it...? I don't know whether future me will come to regret this, but at least right now, I will firmly walk on.",
+                "jp": "あなたの聞きたいことはわかってる。茨の道を行く覚悟が、本当にできているのかってことでしょう……後悔せずにいられるかどうかはわからないけど、少なくとも今は、精一杯進んでいきたいと思ってる。",
+                "kr": "내게 어떤 걸 묻고 싶은 건지 다 알아. 가시밭길을 걸을 준비가, 그 각오가 되어 있냐는 거겠지? ……그래, 어쩌면 후회하게 될지도 모르지만, 적어도 지금은 꿋꿋이 앞으로 나아가고 싶어.",
+                "cn": "我知道你想问什么，我要走的是一条荆棘之路，我真的下定决心了吗？......我不知道未来的我会不会后悔，但是，至少现在，我会坚定地走下去。"
+            },
+            "asset": "char_1031_slent2/CN_014"
+        },
+        {
+            "id": "char_1031_slent2_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Support role aside, you can delegate some tactical planning work to me too.",
+                "jp": "支援の仕事だけじゃなく、戦術立案の一部も任せてくれていいよ。",
+                "kr": "지원 업무뿐만 아니라, 전술 계획 업무 일부를 내게 맡겨도 좋아.",
+                "cn": "除了支援工作，一些战术规划工作也可以交给我。"
+            },
+            "asset": "char_1031_slent2/CN_017"
+        },
+        {
+            "id": "char_1031_slent2_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "I'll see to it our tactics are drawn up.",
+                "jp": "しっかり戦術を組み立てておくから。",
+                "kr": "전술은 제대로 짜놓을 테니까 걱정 마.",
+                "cn": "我会制定好战术。"
+            },
+            "asset": "char_1031_slent2/CN_018"
+        },
+        {
+            "id": "char_1031_slent2_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "We should probe into the significance of the fight, and not indulge its outbreak.",
+                "jp": "戦いが起きるままにしておくんじゃなくて、その意味を見極めないと。",
+                "kr": "우린 싸움이 일어나는 걸 방임할 게 아니라, 그 싸움의 의미를 연구해야 해.",
+                "cn": "我们应当探究战斗的意义，而不是放任它发生。"
+            },
+            "asset": "char_1031_slent2/CN_019"
+        },
+        {
+            "id": "char_1031_slent2_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "I'm a physician, but also a member of the squad. Let's go.",
+                "jp": "行こう。私は医者だけど、チームの一員でもあるんだ。",
+                "kr": "나는 의사지만, 팀의 일원이기도 해. 가자.",
+                "cn": "我是医生，但也是队伍的一员。走吧。"
+            },
+            "asset": "char_1031_slent2/CN_020"
+        },
+        {
+            "id": "char_1031_slent2_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Any change in tactics?",
+                "jp": "戦術を変えてみようか？",
+                "kr": "전술을 바꿔볼까?",
+                "cn": "要改变战术吗？"
+            },
+            "asset": "char_1031_slent2/CN_021"
+        },
+        {
+            "id": "char_1031_slent2_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "I'm ready.",
+                "jp": "こっちは準備万端だ。",
+                "kr": "준비됐어.",
+                "cn": "我准备好了。"
+            },
+            "asset": "char_1031_slent2/CN_022"
+        },
+        {
+            "id": "char_1031_slent2_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "I concur.",
+                "jp": "私もそう思ってた。",
+                "kr": "나도 그렇게 생각해.",
+                "cn": "我也这么想。"
+            },
+            "asset": "char_1031_slent2/CN_023"
+        },
+        {
+            "id": "char_1031_slent2_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Understood.",
+                "jp": "わかった。",
+                "kr": "알겠어.",
+                "cn": "我了解了。"
+            },
+            "asset": "char_1031_slent2/CN_024"
+        },
+        {
+            "id": "char_1031_slent2_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Don't act rashly.",
+                "jp": "無闇に動かないで。",
+                "kr": "무모한 행동은 그만둬.",
+                "cn": "不要莽撞行事。"
+            },
+            "asset": "char_1031_slent2/CN_025"
+        },
+        {
+            "id": "char_1031_slent2_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "This is an excellent opportunity.",
+                "jp": "今がチャンスだ。",
+                "kr": "지금이 기회야.",
+                "cn": "现在是个很好的时机。"
+            },
+            "asset": "char_1031_slent2/CN_026"
+        },
+        {
+            "id": "char_1031_slent2_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "I hope nobody is hurt.",
+                "jp": "負傷者が出ないことを祈るよ。",
+                "kr": "부상자가 발생하지 않길 바랄게.",
+                "cn": "希望没有人受伤。"
+            },
+            "asset": "char_1031_slent2/CN_027"
+        },
+        {
+            "id": "char_1031_slent2_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Just as planned.",
+                "jp": "これも計画のうち。",
+                "kr": "계획대로야.",
+                "cn": "这在计划之内。"
+            },
+            "asset": "char_1031_slent2/CN_028"
+        },
+        {
+            "id": "char_1031_slent2_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Doctor, I always find a great deal to learn from you, though I hope I never have occasion to use these tactics.",
+                "jp": "ドクター、あなたからはいつも学ぶことがたくさんあるよ。そうして得た戦術や知識を生かす場面が訪れないのが一番だけど。",
+                "kr": "박사한테는 항상 배울 게 많네. 물론 이런 전술 지식을 활용하는 일은 없는 편이 가장 좋겠지만.",
+                "cn": "博士，我总是能从你身上学到许多东西，虽然我更希望不会有用上这些战术知识的时候。"
+            },
+            "asset": "char_1031_slent2/CN_029"
+        },
+        {
+            "id": "char_1031_slent2_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "The samples in this area... We've taken these before. Let's move on.",
+                "jp": "ここのサンプルは……集め終えたね。進もう。",
+                "kr": "이쪽 샘플은…… 다 모았네. 가자.",
+                "cn": "这里的样本......已经采集过了，继续前进吧。"
+            },
+            "asset": "char_1031_slent2/CN_030"
+        },
+        {
+            "id": "char_1031_slent2_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "I'll organize aid for wounded personnel. Everyone else, please assist in maintaining the perimeter.",
+                "jp": "負傷者の救助は私が指揮を執る。ほかの人たちは周囲の安全を確保して。",
+                "kr": "부상자 구조는 내가 지휘할게, 다른 사람들은 계속 주위를 경계해 줘.",
+                "cn": "我来组织救助伤员，其他人请协助周围警戒。"
+            },
+            "asset": "char_1031_slent2/CN_031"
+        },
+        {
+            "id": "char_1031_slent2_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Doctor... it looks like we should reformulate our tactics.",
+                "jp": "……戦術を練り直す必要がありそうだね、ドクター。",
+                "kr": "……박사, 아무래도 전술을 다시 짜야겠어.",
+                "cn": "......博士，看来我们应该重新制定战术了。"
+            },
+            "asset": "char_1031_slent2/CN_032"
+        },
+        {
+            "id": "char_1031_slent2_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "This place still feels like home.",
+                "jp": "やっぱり、ここが一番安心する。",
+                "kr": "역시 여기가 가장 마음 놓인다니까.",
+                "cn": "还是这里让人安心。"
+            },
+            "asset": "char_1031_slent2/CN_033"
+        },
+        {
+            "id": "char_1031_slent2_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "...Huh?",
+                "jp": "……えっ？",
+                "kr": "……응?",
+                "cn": "......欸？"
+            },
+            "asset": "char_1031_slent2/CN_034"
+        },
+        {
+            "id": "char_1031_slent2_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Doctor, I happen to have some issues I'd like to discuss with you. Are you available right now?",
+                "jp": "ちょうどよかった、ドクター。意見を聞きたいことがあるんだけど、今大丈夫？",
+                "kr": "박사, 같이 의논하고 싶은 일이 있는데, 시간 있어?",
+                "cn": "博士，我恰好有些问题想和你讨论，你现在有空吗？"
+            },
+            "asset": "char_1031_slent2/CN_036"
+        },
+        {
+            "id": "char_1031_slent2_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_1031_slent2/CN_037"
+        },
+        {
+            "id": "char_1031_slent2_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Coffee, Doctor?",
+                "jp": "ドクター、コーヒーはどう？",
+                "kr": "박사, 커피 한 잔 어때?",
+                "cn": "喝咖啡吗，博士？"
+            },
+            "asset": "char_1031_slent2/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Erica Lindbeck",
+            "global": "Erica Lindbeck"
+        },
+        "cn": {
+            "native": "梁爽",
+            "global": "Shuang Liang"
+        },
+        "jp": {
+            "native": "鬼頭明里",
+            "global": "Akari Kito"
+        },
+        "kr": {
+            "native": "서다혜",
+            "global": "Seo Dahye"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

@@ -5,7 +5,7 @@
 <footer>
   <a href="https://github.com/PseudoMon/tlvr-source" target="_blank"><GithubIcon /></a>
   <span>Site version 1.2</span>
-  <span>Data last updated: 2023-10-24 (Main Story Chapter 12 in Global)</span>
+  <span>Data last updated: 2023-11-10 (Lone Trail in Global)</span>
 </footer>
 
 <style>

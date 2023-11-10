@@ -581,11 +581,16 @@
         "kr": {
             "native": "최낙윤",
             "global": "Choi Na-kyoon"
+        },
+        "cn_topolect": {
+            "native": "碌斌",
+            "global": "Lost"
         }
     },
     "availability": [
         "cn",
         "jp",
-        "kr"
+        "kr",
+        "cn_topolect"
     ]
 }

@@ -1,0 +1,596 @@
+{
+    "charid": "char_249_mlyss",
+    "nameid": "mlyss",
+    "names": {
+        "en": "Muelsyse",
+        "jp": "ミュルジス",
+        "kr": "뮤엘시스",
+        "cn": "缪尔赛思"
+    },
+    "voices": [
+        {
+            "id": "char_249_mlyss_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "So you're saying I have the right to decide your schedule and itinerary? Which means, whatever I write in this memo book, Doctor, you've gotta do. Wowie! Too late for regrets now, heehee~",
+                "jp": "あら、仕事のタイムシフトも、外出のスケジューリングも任せてくれるのね？つまり、あなたはあたしがメモに書いた通りに行動するのよ、ドクター。ほ～ら、いまさら後悔しても遅いんだからね、フフッ。",
+                "kr": "어라, 근무 시간 조정도, 외출 스케줄도 다 나한테 맡긴다고? 그렇다는 건, 이 노트에 적은 대로 행동한다는 거네? 박~사~ 이제 와서 후회해 봤자 늦었다고, 후훗.",
+                "cn": "你是说，把工作时间和行程的决定权交给我吗，那就意味着，我在备忘录上写什么，你就得做什么了哦，博士。哎呀，现在反悔已经来不及了，呼呼~"
+            },
+            "asset": "char_249_mlyss/CN_001"
+        },
+        {
+            "id": "char_249_mlyss_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Ecology's about filling some dirt, putting some plants and animals on it, then making a profound study about the cyclic relationships between individual species and biocommunities. With the help of innovative research, we can improve the ecosphere or even forge a brand-new... Well, someone clearly knows it all, because that's an unadorable look you're giving me. Alrighty, let's change topics.",
+                "jp": "生態学では、特定の生息環境を用意して、その環境下に置いた動植物の各個体及び群集間の相互作用を詳細に研究するのよ。研究を通して、生態系の改善を行ったり、新たな可能性を創造……あら、あなたはとってもよく理解しているみたいね。涼しい顔しちゃって可愛くないわ。もういいわ、話題を変えましょ。",
+                "kr": "생태학에서는, 특정한 서식 환경을 조성하고, 그 안에서 동식물의 개체, 개체군, 군집 간의 상호작용을 연구하곤 해. 이를 통해서 생태계를 개선하거나 새로운 가능성을 상정하는…… 어라, 이미 알고 있던 내용인가 보네…… 재미없다는 표정이나 하고,  이럴 땐 정말 귀엽지가 않다니까. 뭐 됐어, 다른 이야기나 하자.",
+                "cn": "生态学就是填上土放些动植物进去，详细研究物种个体、种群集体间循环作用关系，通过研究创新改进或创造生态圈的新......你好像很了解的样子，表情一点都不可爱。算啦，我们换个话题。"
+            },
+            "asset": "char_249_mlyss/CN_002"
+        },
+        {
+            "id": "char_249_mlyss_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "I want you to come with me next time I go clothes shopping. The thing is, I don't really understand fashion stuff so much, and I wanna hear your ideas. What, you don't either? Sure! If you've got opinions, and I've got opinions, then we can do swapsies. Plus I get to see you wearing something else for once.",
+                "jp": "次に洋服を買う時は付き合ってくれる？ファッションにはあまり詳しくないから、意見が欲しいのよ。あなたもよく分からないの？それならお互いに相談できるからちょうどいいわ。あなたが他の格好をしているところも見れるしね。",
+                "kr": "다음에 나랑 같이 옷 사러 가지 않을래? 패션 같은 건 잘 모르니까, 조언을 좀 받고 싶거든. 당신도 잘 모른다고? 그럼 서로 논의해 보면 되겠네. 당신이 다른 옷을 입은 모습도 기대되는걸.",
+                "cn": "下次买衣服我要你陪我一起去，主要是我不太懂潮流风格之类的，想听听你的观点。你也不了解？那我们正好能互相交换下意见，还能看到你穿其他衣服的样子。"
+            },
+            "asset": "char_249_mlyss/CN_003"
+        },
+        {
+            "id": "char_249_mlyss_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Are your lips kind of dry there...? Yeah, they look a little chapped. You need more water on the regular. *sigh* Alright, you can have my chapstick, and then we're even again once you buy me a new stick. This is the only brand I use, and it's gotta be peppermint flavor. Dooon't get the wrong one. Okay?",
+                "jp": "唇が乾いているんじゃないかしら？……皮が剥けちゃってるわよ、普段からお水をたくさん飲まなきゃだめだからね。ん～、あたしのリップクリームをあげる。後で買って返してくれればいいから。そうそう、あたしはこのブランドのしか使わないの。ミントのやつよ、間違えないでね。",
+                "kr": "입술이 좀 말라 있는 것 같은데? ……각질도 일고, 입술이 다 텄잖아, 그러니까 평소에 물을 많이 마셔줘야 한다니까, 참. 음~ 내 립밤 줄게, 나중에 새로 하나 사서 돌려줘. 맞아, 난 이 브랜드 제품밖에 안 써. 민트향이니까, 틀리면 안 된다?",
+                "cn": "嘴唇是不是有些干？......好像还有些脱皮了，平常一定要多喝水啊。唉，我的润唇膏给你吧，之后买一支还给我就行。我只用这个牌子的，薄荷味，可别买错了，好吗？"
+            },
+            "asset": "char_249_mlyss/CN_004"
+        },
+        {
+            "id": "char_249_mlyss_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Looking back on it, it's like Rhine was just founded yesterday. The stuff we fought over at that time was a total one-eighty compared to now. Heheh, good memories. Doctor, do you still remember when Rhodes Island was new on its feet? No? That's fine—you'll remember with enough time.",
+                "jp": "今思い返すと、ライン生命を立ち上げたのがまるで昨日のことのように感じるわ。当時あたしたちが喧嘩してた内容だって、今とは全く違うもの。フフ、ほんと懐かしいわね～。ドクターは、ロドスができたばかりの時のこと覚えてる？忘れちゃったの？大丈夫よ、先は長いんだから、いつかは思い出すわ。",
+                "kr": "라인 랩을 설립하던 때가 마치 어제 일처럼 아직도 생생하게 떠올라. 그때 우리가 다퉜던 이유도 지금과는 전혀 달랐었는데. 후훗, 정말 그립네~ 로도스 아일랜드가 설립되었을 때는 어땠어, 박사? 기억나지 않는다고? 괜찮아 시간이 지나면 언젠간 떠올릴 수 있을 거야.",
+                "cn": "现在想来，莱茵的建立就像是昨天发生的事，那时我们争吵的内容和现在也完全不同。哼哼，真令人怀念。你还记得罗德岛刚刚成立的时候吗，博士？记不得？没事的，时间一长，你总会想起来的。"
+            },
+            "asset": "char_249_mlyss/CN_005"
+        },
+        {
+            "id": "char_249_mlyss_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Here I am, dewdrop landed on a leaf, but we'll be baked away in the sun soon enough. Oh, don't let it end here. We could melt together, dew filling leaf's veins, and make our grand return to the land... Um, that's about dew, okay? Like, it's just dew that wants to—ahh, nnn... *sigh*...",
+                "jp": "葉の上に降りてしまった露は、陽の光で蒸発するに任せる他、ないかもしれないわ。どれだけ葉脈の中を泳いで、大地に還りたいか……あ、えっと、露の話よ、ええ、露がそう願って——あぁ、うん……はぁ……",
+                "kr": "잎사귀 위에 떨어진 이슬은, 햇빛에 증발되기만을 기다릴 수밖에 없을지도 몰라. 분명 잎맥에 스며들어 대지로 돌아가고 싶겠지… 어? 아, 내 말은 그러니까…… 이슬 말하는 거야, 이슬! 그래, 이슬이 아마 그러고 싶을…… 아, 음…… 하아……",
+                "cn": "露水滴在叶片上，可就只能被太阳烤干了。我们是多么想融进叶脉，回归大地啊......唔，我是说露水，是露水想要——啊，嗯......唉......"
+            },
+            "asset": "char_249_mlyss/CN_006"
+        },
+        {
+            "id": "char_249_mlyss_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Has Magallan been good recently? Oh, still out exploring? Hasn't said when she gets back yet? Aw, okay... I've still got the crystals she sent me last time, out in cold storage. Any interest in this stuff? Well, well! I see you have a good hobby. Come on, let's crack open your horizons.",
+                "jp": "マゼランは元気？あら、また調査に出かけてて、いつ戻るかも分からないの？そう……前回あの子がお土産でくれた晶石はまだ冷蔵倉庫にとってあるのよ。ドクターもこういうのに興味があるの？いい趣味ね。ほら来て、すごいものを見せてあげる。",
+                "kr": "마젤란은 요즘 어떻게 지내? 어머, 또 조사하러 나가서 언제 돌아올지 모르겠다고? 그렇구나…… 전에 그 아이가 준 광석을 아직 냉동고에 보관하고 있거든. 박사도 이런 물건에 관심 있어? 좋은 취미네? 그럼 따라와 봐, 내가 엄청난 걸 보여줄게.",
+                "cn": "麦哲伦最近还好吗？喔，还在外头科考，也没说什么时候回来？好吧......她上次带给我的晶石还在冷库里存着呢。你对这种东西感兴趣吗？真是个不错的爱好，来吧，让你开开眼界。"
+            },
+            "asset": "char_249_mlyss/CN_007"
+        },
+        {
+            "id": "char_249_mlyss_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "If Kristen didn't have the talent and leadership, Rhine Lab would've never been founded. But maybe it was her power that got her to bare her true self to everyone in the end. People change. I wonder what I'll become?",
+                "jp": "クリステンに才能とリーダーシップがなかったら、ライン生命はそもそも立ち上げられなかったでしょうね。でも、力を持ったからこそ、彼女は最後に本当の自分をあたしたちみんなに晒したのかもしれないわ。人って変わるものよ。果たしてあたしはどんな風に変わっていくのかしらね。",
+                "kr": "크리스틴에게 재능과 리더십이 없었다면, 라인 랩은 애초에 설립되지도 못했을 거야. 하지만 힘을 가졌기 때문에, 마지막에 우리에게 진정한 자신을 보여줬던 걸지도 몰라. 사람이니까 변하는 거겠지. 과연 나는 어떤 모습으로 변할까?",
+                "cn": "如果克丽斯腾没有才能和领导力，莱茵生命根本就不会建立，但或许就是因为拥有了力量，她才在最后把真实的自己暴露给我们所有人吧。人是会变的，我会变成什么样子呢？"
+            },
+            "asset": "char_249_mlyss/CN_008"
+        },
+        {
+            "id": "char_249_mlyss_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "My people have no future. We've only been able to pray for answers from the past. You're from the past, Doctor. You're the hope of my people, and me. But even if that wasn't the case, you're still the one who pulled me from the bubbles, and you're still gripping my hand. How could I ever let go now, right?",
+                "jp": "あたしの種族には未来がないから、過去が答えを与えてくれるのを願うしかないわ。あなたは過去から来たのよね、ドクター。あなたはあたし、そしてあたしたちの希望よ。でも、こういう繋がりがなかったとしても、あなたはあたしを泡沫から引っ張り出してくれた人なの。まだ繋がれているっていうのに、どうしてこの手を離せるかしら？",
+                "kr": "우리 종족에겐 미래가 없으니까, 과거가 우리에게 답을 주길 바랄 수밖에 없어. 과거에서 온 박사는 나의, 그리고 우리의 희망이야. 게다가 당신은 나를 물거품 속에서 꺼내줬잖아. 과거와 미래라는 연결고리가 없었더라도 네가 내 손을 잡고 있는 한 나는 이 손을 놓지 않을 거야.",
+                "cn": "我的种群没有未来，只能希冀过往赐予我们答案。你来自过去，博士，你是我，是我们的希望。但，就算没有这层关系，你仍然是那个把我拉出泡沫的人，你还拉着我的手，我怎么能就此放开呢？"
+            },
+            "asset": "char_249_mlyss/CN_009"
+        },
+        {
+            "id": "char_249_mlyss_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Getting distracted on the job? Terrible habit.",
+                "jp": "お仕事の時に気を散らすのは良くないわよ～。",
+                "kr": "일하는 중에 딴생각하는 건 안 좋은 버릇이야~",
+                "cn": "工作的时候分神可不是个好习惯。"
+            },
+            "asset": "char_249_mlyss/CN_010"
+        },
+        {
+            "id": "char_249_mlyss_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Muelsyse, Director of the Ecological Section at Rhine Lab. Not that I think we need any formal how-do-you-dos, Doctor. After all, we've been friends forever now.",
+                "jp": "あたしはライン生命生態課主任の、ミュルジスよ。といっても、あたしたちの仲だし、別にかしこまった挨拶は必要ないわよね、ドクター。だって、とっくに友達じゃない。",
+                "kr": "라인 랩 생태과 주임 뮤엘시스야. 근데 박사, 우리 사이에 이런 격식 차린 인사는 필요 없지 않아? 우린 이미 친구잖아.",
+                "cn": "莱茵生命，生态科主任，缪尔赛思。不过我们之间应该不需要这么正式的问候吧，博士。毕竟，我们早就是朋友了。"
+            },
+            "asset": "char_249_mlyss/CN_011"
+        },
+        {
+            "id": "char_249_mlyss_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "There really isn't a single fresh thing anywhere across the lands.",
+                "jp": "この大地ってほんと～に、代り映えしないわよね。",
+                "kr": "이 대지는 진~짜로 새로운 일이 없구나.",
+                "cn": "大地之上还真是没有新鲜事呢。"
+            },
+            "asset": "char_249_mlyss/CN_012"
+        },
+        {
+            "id": "char_249_mlyss_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "A present from you? I'll keep it nice and safe, that's a guarantee. How about in return, let's go to the movies?",
+                "jp": "あなたがくれたプレゼントは、絶対に大事にするわ。お返しに、一緒に映画に行きましょう。",
+                "kr": "당신이 준 선물은 소중히 간직할게, 답례로 같이 영화 보러 가지 않을래?",
+                "cn": "你赠送的礼物，我一定会好好保存的，作为回报，就一起去影院吧。"
+            },
+            "asset": "char_249_mlyss/CN_013"
+        },
+        {
+            "id": "char_249_mlyss_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Dew gets turned to vapor, and everything in it vanishes without a trace. Will I ever see showers of blessing? Will I ever meet my people again, and know them anew?",
+                "jp": "露は蒸発してしまうもの。その中にある全てが消え去ってしまうわ。空から滴った雨の雫が、再び同胞と団欒する姿を見る機会なんて、あたしにまだあるかしら。",
+                "kr": "이슬은 언젠가 증발하겠지. 그 안에 있던 모든 것들도 그렇게 사라져 버릴 거야. 하늘에서 떨어진 빗방울이 동족들과 재회하는 모습을 볼 기회가, 나한테 아직 남아 있으려나……",
+                "cn": "露水会被蒸腾，其中的一切都将消失不见。我还有机会见到天降雨露，重新与同胞聚首相认吗？"
+            },
+            "asset": "char_249_mlyss/CN_014"
+        },
+        {
+            "id": "char_249_mlyss_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Sunlight's a little spicy. Just let me take five.",
+                "jp": "日差しが強いわ。先にちょこっと休むわね。",
+                "kr": "햇빛이 너무 쨍쨍한걸~ 난 조금 쉬고 있을게.",
+                "cn": "阳光有点辣，我先休息一会。"
+            },
+            "asset": "char_249_mlyss/CN_017"
+        },
+        {
+            "id": "char_249_mlyss_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Okay, maybe I should assign roles first?",
+                "jp": "もしかして、先に任務の分配をしといたほうがいいかしら？",
+                "kr": "혹시, 임무 분배를 먼저 해두는 편이 좋으려나?",
+                "cn": "或许，我应该先分配一下任务？"
+            },
+            "asset": "char_249_mlyss/CN_018"
+        },
+        {
+            "id": "char_249_mlyss_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "The way seems kind of rough. Careful, you don't want to trip.",
+                "jp": "道があまり良くないみたい。気を付けて、転ばないようにね。",
+                "kr": "길 상태가 별로네. 넘어지지 않게, 조심해.",
+                "cn": "路好像不太好走，小心些，可别摔倒了。"
+            },
+            "asset": "char_249_mlyss/CN_019"
+        },
+        {
+            "id": "char_249_mlyss_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Annoying people, annoying business. Let's deal with them ASAP.",
+                "jp": "面倒事に、面倒な相手。さっさと片付けちゃいましょう。",
+                "kr": "귀찮은 일에, 귀찮은 상대들이네. 얼른 끝내버리자.",
+                "cn": "麻烦人，麻烦事，我们尽快处理一下吧。"
+            },
+            "asset": "char_249_mlyss/CN_020"
+        },
+        {
+            "id": "char_249_mlyss_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Hiya~.",
+                "jp": "ハロ～。",
+                "kr": "헬로~",
+                "cn": "哈喽。"
+            },
+            "asset": "char_249_mlyss/CN_021"
+        },
+        {
+            "id": "char_249_mlyss_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Want a candy?",
+                "jp": "キャンディはいかが？",
+                "kr": "사탕 먹을래?",
+                "cn": "吃糖果吗？"
+            },
+            "asset": "char_249_mlyss/CN_022"
+        },
+        {
+            "id": "char_249_mlyss_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Okay, serious face.",
+                "jp": "少しは真面目にやらないとね。",
+                "kr": "조금 진지하게 임해야겠어.",
+                "cn": "还是得认真些。"
+            },
+            "asset": "char_249_mlyss/CN_023"
+        },
+        {
+            "id": "char_249_mlyss_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Easy peasy.",
+                "jp": "お安い御用よ。",
+                "kr": "문제없어.",
+                "cn": "小问题。"
+            },
+            "asset": "char_249_mlyss/CN_024"
+        },
+        {
+            "id": "char_249_mlyss_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Shaped like water.",
+                "jp": "水が形に沿うように。",
+                "kr": "물의 형태를 따르듯이.",
+                "cn": "如水随形。"
+            },
+            "asset": "char_249_mlyss/CN_025"
+        },
+        {
+            "id": "char_249_mlyss_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Now's not the time for hellos.",
+                "jp": "まだ挨拶するには早いわよ。",
+                "kr": "아직 인사하기엔 이른데.",
+                "cn": "现在还不是问好的时候。"
+            },
+            "asset": "char_249_mlyss/CN_026"
+        },
+        {
+            "id": "char_249_mlyss_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Let animosity be gone with the flow.",
+                "jp": "恩讐よ、流れに添いて行きなさい。",
+                "kr": "은원이여, 물결을 따라 흘러가거라.",
+                "cn": "让恩怨随水流淌吧。"
+            },
+            "asset": "char_249_mlyss/CN_027"
+        },
+        {
+            "id": "char_249_mlyss_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Oh wishes, I beg you coalesce.",
+                "jp": "願いよどうか、形を成して。",
+                "kr": "소망이여, 부디 형태를 이루어라.",
+                "cn": "愿望啊，请你凝结。"
+            },
+            "asset": "char_249_mlyss/CN_028"
+        },
+        {
+            "id": "char_249_mlyss_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Good work. Need to get under this umbrella?",
+                "jp": "お疲れ様～。傘を差してあげましょうか？",
+                "kr": "수고했어~ 우산 씌워줄까?",
+                "cn": "辛苦了，需要我帮你打伞吗？"
+            },
+            "asset": "char_249_mlyss/CN_029"
+        },
+        {
+            "id": "char_249_mlyss_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Job's done. Be sure to rest up now.",
+                "jp": "お仕事完了ね、ゆっくり休むのよ。",
+                "kr": "일 끝~ 이제 푹 쉬는 거다.",
+                "cn": "工作完成，好好休息。"
+            },
+            "asset": "char_249_mlyss/CN_030"
+        },
+        {
+            "id": "char_249_mlyss_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "I told you to be careful... any ouchies?",
+                "jp": "もう、気を付けなさいって言ったでしょう……痛くない？平気？",
+                "kr": "아이 참, 조심하라고 했잖아…… 아프지는 않아? 괜찮은 거지?",
+                "cn": "都说让你当心点了......疼不疼？"
+            },
+            "asset": "char_249_mlyss/CN_031"
+        },
+        {
+            "id": "char_249_mlyss_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "I got my mirages to lead them off. We'll go this way.",
+                "jp": "幻影があいつらを引き付けてるわ。こっちに逃げましょう。",
+                "kr": "환영이 녀석들을 유인할 거야. 이쪽으로 도망가자.",
+                "cn": "幻象引开他们了，我们走这边吧。"
+            },
+            "asset": "char_249_mlyss/CN_032"
+        },
+        {
+            "id": "char_249_mlyss_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Let's really decorate this place. It'll be cozy in no time, promise.",
+                "jp": "ちゃんと内装を整えたら、きっと居心地が良くなるわ。",
+                "kr": "제대로 인테리어를 하면, 분명 아늑해질 거야.",
+                "cn": "好好装修一下，一定能变得很舒适。"
+            },
+            "asset": "char_249_mlyss/CN_033"
+        },
+        {
+            "id": "char_249_mlyss_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Hm?",
+                "jp": "ん？",
+                "kr": "응?",
+                "cn": "嗯？"
+            },
+            "asset": "char_249_mlyss/CN_034"
+        },
+        {
+            "id": "char_249_mlyss_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "If anything's bothering you, put it to one side for now. Try this out, 'Citrus Storm.'",
+                "jp": "何か悩み事があるなら、ひとまず棚上げしときなさい。ほら、この「オレンジストーム」を食べてみて？",
+                "kr": "뭔가 고민이 있는 거라면, 일단 한편에 내려 둬. 자, 이 '오렌지 스톰' 한번 먹어봐.",
+                "cn": "如果还有事情在困扰着你，就先把它丢到一旁吧，来尝尝这个“橙味风暴”。"
+            },
+            "asset": "char_249_mlyss/CN_036"
+        },
+        {
+            "id": "char_249_mlyss_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_249_mlyss/CN_037"
+        },
+        {
+            "id": "char_249_mlyss_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Hiya~. How about a little chat before you get to work?",
+                "jp": "仕事を始めるまで、ちょっとおしゃべりしましょうよ。",
+                "kr": "일 시작하기 전까지, 수다나 좀 떨까?",
+                "cn": "在你开始工作前，我们聊会天吧。"
+            },
+            "asset": "char_249_mlyss/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Kayli Mills",
+            "global": "Kayli Mills"
+        },
+        "cn": {
+            "native": "王雅欣",
+            "global": "Wang Yaxin"
+        },
+        "jp": {
+            "native": "田村ゆかり",
+            "global": "Yukari Tamura"
+        },
+        "kr": {
+            "native": "박시윤",
+            "global": "Park Shi-yoon"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

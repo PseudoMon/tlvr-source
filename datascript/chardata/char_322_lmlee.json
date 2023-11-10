@@ -585,12 +585,17 @@
         "kr": {
             "native": "최한",
             "global": "Choi Han"
+        },
+        "cn_topolect": {
+            "native": "潘皓明",
+            "global": "Peter"
         }
     },
     "availability": [
         "en",
         "cn",
         "jp",
-        "kr"
+        "kr",
+        "cn_topolect"
     ]
 }

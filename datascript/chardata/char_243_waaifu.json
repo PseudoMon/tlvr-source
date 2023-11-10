@@ -581,11 +581,16 @@
         "kr": {
             "native": "윤은서",
             "global": "Yoon Eun-seo"
+        },
+        "cn_topolect": {
+            "native": "闲踏梧桐",
+            "global": "Cotton Candy"
         }
     },
     "availability": [
         "cn",
         "jp",
-        "kr"
+        "kr",
+        "cn_topolect"
     ]
 }

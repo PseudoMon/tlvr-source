@@ -581,11 +581,16 @@
         "kr": {
             "native": "전숙경",
             "global": "Jun Suk-kyong"
+        },
+        "cn_topolect": {
+            "native": "英英",
+            "global": "Joanne"
         }
     },
     "availability": [
         "cn",
         "jp",
-        "kr"
+        "kr",
+        "cn_topolect"
     ]
 }

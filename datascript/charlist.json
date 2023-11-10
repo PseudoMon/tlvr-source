@@ -2088,6 +2088,18 @@
         "rating": 5
     },
     {
+        "nameid": "melnte",
+        "numberid": "4006",
+        "name": {
+            "en": "Melanite",
+            "jp": "メラナイト",
+            "kr": "멜라나이트",
+            "cn": "玫拉"
+        },
+        "nation": "columbia",
+        "rating": 5
+    },
+    {
         "nameid": "milu",
         "numberid": "158",
         "name": {
@@ -2616,6 +2628,18 @@
         "rating": 6
     },
     {
+        "nameid": "mlyss",
+        "numberid": "249",
+        "name": {
+            "en": "Muelsyse",
+            "jp": "ミュルジス",
+            "kr": "뮤엘시스",
+            "cn": "缪尔赛思"
+        },
+        "nation": "columbia",
+        "rating": 6
+    },
+    {
         "nameid": "ines",
         "numberid": "4087",
         "name": {
@@ -2673,6 +2697,18 @@
             "cn": "刻俄柏"
         },
         "nation": "rhodes",
+        "rating": 6
+    },
+    {
+        "nameid": "heyak",
+        "numberid": "4027",
+        "name": {
+            "en": "Ho'olheyak",
+            "jp": "ホルハイヤ",
+            "kr": "오올헤약",
+            "cn": "霍尔海雅"
+        },
+        "nation": "columbia",
         "rating": 6
     },
     {
@@ -2805,6 +2841,18 @@
             "cn": "浊心斯卡蒂"
         },
         "nation": "egir",
+        "rating": 6
+    },
+    {
+        "nameid": "slent2",
+        "numberid": "1031",
+        "name": {
+            "en": "Silence the Paradigmatic",
+            "jp": "淬羽サイレンス",
+            "kr": "사일런스 더 패러디그매틱",
+            "cn": "淬羽赫默"
+        },
+        "nation": "columbia",
         "rating": 6
     },
     {
