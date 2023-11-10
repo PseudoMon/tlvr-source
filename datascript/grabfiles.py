@@ -80,16 +80,15 @@ def grab_avatar(char):
     fullid = f"{char['numberid']}_{char['nameid']}"
     url = base_avatar.format(fullid)
     target = path.join("images", "avatars", f"{fullid}.png") 
-    download_image(url, target)
+
+    if path.isfile(target):
+        print("Image already exists. Skipping...")
+    else:
+        download_image(url, target)
 
 def grab_avatars():
-    # count was useful to download just bit by bit
     charlist = load_json("charlist.json")
-    #count = 0
     for char in charlist:
-        #count += 1
-
-        #if count > 200:
         numberid = char["numberid"] 
         nameid = char["nameid"]
         print(f"{numberid}_{nameid}")
@@ -116,5 +115,5 @@ if __name__ == "__main__":
     # grab_all_charword_tables()
     # grab_all_chartable()
 
-    grab_factions()
+    #grab_factions()
     grab_avatars()
