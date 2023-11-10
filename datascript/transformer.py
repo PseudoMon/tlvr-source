@@ -1,6 +1,5 @@
 import json
 from os import path
-import grabfiles
 from utils import save_json, load_json
 
 langs = ["en", "jp", "kr", "cn"] 
@@ -64,8 +63,7 @@ def make_charlist(check_nation=True):
 		fulldata = chartable[f"char_{newchar['numberid']}_{char}"]
 		newchar["nation"] = fulldata["nationId"]
 		rarity = rarity_str_to_int(fulldata["rarity"])
-		newchar["rating"] = rarity + 1 
-		# 1-star operators have rarity data 0
+		newchar["rating"] = rarity
 
 		charlist.append(newchar)
 
@@ -109,10 +107,11 @@ def get_voices(wordkey, wordtables):
 		if basedata["wordKey"] != wordkey:
 			continue
 
+		voiceText = basedata["voiceText"].replace(" ", " ")
 		voicedata = {
 			"id": wordid,
 			"title": {"en": basedata["voiceTitle"]},
-			"text": {"en": basedata["voiceText"]},
+			"text": {"en": basedata["voiceText"].replace(" ", " ")},
 			"asset": basedata["voiceAsset"],
 		}
 

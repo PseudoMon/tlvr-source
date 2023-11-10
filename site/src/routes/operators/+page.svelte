@@ -6,6 +6,7 @@
   import Photocard from "$lib/char/Photocard.svelte";
   import RatingFilter from "./RatingFilter.svelte";
   import FactionFilter from "./FactionFilter.svelte";
+  import MobileFilterMenu from "./MobileFilterMenu.svelte";
 
   import type { SingleChar } from "./+page"; 
   export let data;
@@ -77,8 +78,9 @@
   <LangButtonBar />
 
   <article class="charpage">
+    <h1>Operator List</h1>
     <section class="filter-options">
-      <h1>Operator List</h1>
+      
       <label for="name-search">Search</label>
       <input type="text" placeholder="Search" 
         on:input={handleSearchName}
@@ -106,6 +108,12 @@
     </ol>
   </article>
 </main>
+
+<MobileFilterMenu 
+  on:onRatingsChange={handleFilterRatings}
+  on:nationsChange={handleFilterNations} 
+  nations={nations}
+/>
 
 <style>
   main {
@@ -151,6 +159,7 @@
 
   .filter-options {
     margin-left: 4px;
+    display: none;
   }
 
   .filter-options label {
@@ -192,9 +201,11 @@
 
     h1 {
       font-size: 2.2em;
+      grid-column: 1 / -1;
     }
 
     .filter-options {
+      display: initial;
       position: sticky;
       top: 60px;
       z-index: 89;
