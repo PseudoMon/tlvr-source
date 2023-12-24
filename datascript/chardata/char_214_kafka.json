@@ -19,7 +19,7 @@
             "text": {
                 "en": "You give Kafka the work that needs doing, Doctor, and then I pass it all on... okay. This's just like how underground work goes!",
                 "jp": "ドクターがそれぞれのやるべき仕事をカフカに伝えて、それからカフカがみんなに伝える……オッケー。こんなの、闇仲介の仕事と一緒じゃん！",
-                "kr": "박사가 각자 해야 할 일을 카프카에게 전하고, 그걸 카프카가 모두에게 전한다…… 오케이~ 이런 거, 뒷 중개하는 일이랑 똑같네!",
+                "kr": "박사가 각자 해야 할 일을 카프카에게 전하고, 그걸 카프카가 모두에게 전한다…… 오케이~ 이런 거, 브로커 일이랑 똑같네 뭐~!",
                 "cn": "博士把要做的工作告诉卡夫卡，再由卡夫卡来转达......明白了。这不就是地下中介的标准工作流程吗！"
             },
             "asset": "char_214_kafka/CN_001"
@@ -35,7 +35,7 @@
             "text": {
                 "en": "Seeing as you're my friend now, Doctor, you can ask me for anything. Uh, apart from lending you my shears.",
                 "jp": "ドクターはもうカフカの友達なんだから、やってほしいことは何でも言って！あっ、ハサミの貸し出し以外でね。",
-                "kr": "박사는 이제 카프카의 친구니까, 원하는 게 있으면 뭐든지 말해! 아, 가위 빌려달라는 것만 빼고.",
+                "kr": "박사는 이제 카프카랑 친구니까, 원하는 게 있으면 뭐든지 말해! 아, 가위 빌려달라는 것만 빼고.",
                 "cn": "既然博士已经成为卡夫卡的朋友了，那么除了剪刀不能外借，其他的请求尽管提就可以了！"
             },
             "asset": "char_214_kafka/CN_002"
@@ -51,7 +51,7 @@
             "text": {
                 "en": "Rhodes Island's fulla people I never met before. Everywhere I go, I see what I wants. Hm? You're wonderin' WHAT it is I want? Thaaat's a secret, y'know. Seee-cret.",
                 "jp": "ロドスには知らない人ばっかり、カフカの欲しいものだらけだ！ん？何が欲しいって？それはー、秘密だよ。ひー、みー、つー。",
-                "kr": "로도스 아일랜드는 모르는 사람이 잔뜩, 카프카가 원하는 걸로 가득해! 응? 무엇을 원하냐고? 그건~ 비밀이야. 비. 밀.",
+                "kr": "로도스 아일랜드는 모르는 사람이 잔뜩~ 카프카가 원하는 걸로 가득해! 응? 원하는 게 뭐냐고? 그건~ 비밀이야. 비. 밀.",
                 "cn": "罗德岛有好多陌生的人，到处都是卡夫卡想要的东西。嗯？博士问我想要什么？这可是秘密啊。秘、密。"
             },
             "asset": "char_214_kafka/CN_003"
@@ -67,7 +67,7 @@
             "text": {
                 "en": "Hmm... still can't read your eyes. They're calm as a lake... but there'll come a day when I get your number, Doctor, just you wait!",
                 "jp": "むむ……ドクターの目からは相変わらず何も読み取れないなー。波一つ立たない湖みたい……でもいつか絶対、ドクターの尻尾を掴んでやるぞ！",
-                "kr": "으음…… 박사의 눈에서는 여전히 아무것도 읽을 수가 없네. 파도 한 점 없는 호수 같아…… 그래도 언젠가 반드시 박사의 꼬리를 잡고야 말 거야!",
+                "kr": "으음…… 박사의 눈에서는 여전히 아무것도 읽을 수가 없네. 파도 한 점 없는 호수 같아…… 그래도 두고 봐! 언젠가 반드시! 박사의 꼬리를 잡고 말 테니까!",
                 "cn": "嗯......博士的眼神还是一如既往地平静如水。完全看不透啊......不过总有一天，卡夫卡会抓住博士的破绽的！"
             },
             "asset": "char_214_kafka/CN_004"
@@ -83,7 +83,7 @@
             "text": {
                 "en": "Doctooor, Silence kicked me out againnn, I just can't take it, sob, sob... huh? I started it by messing up her experiment? Hmm, Silence got to you first... eh-hem, well, I'm just gonna go now!",
                 "jp": "ドクター、カフカまたサイレンスに追い出されちゃったよ。もう悲しくて涙が止まらないよしくしく……え？カフカが実験をダメにしたのが悪いって聞いてる？むむ、先を越されたか……コホン、じゃあカフカは退散するわ～。",
-                "kr": "박사, 카프카 또 사일런스한테 쫓겨났어. 너무 슬퍼서 눈물이 멈추지 않아, 훌쩍훌쩍…… 응? 카프카가 실험을 망친 게 잘못이라고 들었다고? 으으, 선수를 빼앗겼나…… 크흠, 그럼 카프카는 이만 철수할게~",
+                "kr": "박사, 카프카 또 사일런스한테 쫓겨났어. 너무 슬퍼서 눈물이 멈추지 않아, 흐흑…… 응? 카프카가 실험을 망친 게 잘못이라 들었다고? 쳇…… 선수를 빼앗겼나…… 크흠, 그럼 카프카는 이만 철수할게~",
                 "cn": "博士，赫默又把我赶出来了，我好难过哦，呜呜呜......诶？是我先把她的实验搞砸了？唔，居然被赫默抢先一步......咳咳，那我先走了！"
             },
             "asset": "char_214_kafka/CN_005"
@@ -115,7 +115,7 @@
             "text": {
                 "en": "Story goes, I used to live in a real baaad place, dealing with bad people almost everyday. Then ever since I came here, everyone's been nice with me, givin' me snacks and all! Mm-hm, that's why I like it here at Rhodes Island!",
                 "jp": "カフカは昔、とってもやばいところに住んでたの。毎日のように悪い人に付き合ってたよ。でもここに来てから、みんなカフカに親切だし、美味しいお菓子もたくさんくれるし。だからカフカはロドスが好きだよー！",
-                "kr": "카프카는 옛날에 엄청 위험한 곳에서 살았었어. 매일같이 나쁜 사람들하고 어울렸지. 그래도 여기에 오고 나선 모두 카프카에게 친절하게 대해주고 맛있는 과자도 많이 줘. 그래서 카프카는 로도스 아일랜드가 좋아~!",
+                "kr": "카프카는 전에 엄~청 위험한 곳에서 살았었어. 매일같이 나쁜 사람들이랑 어울려 다녔지. 근데 여기 오고 나니까, 모두 카프카에게 친절하게 대해주고, 맛있는 과자도 많이 줘. 그래서, 카프카는 로도스 아일랜드가 좋아~!",
                 "cn": "卡夫卡以前住在很糟糕的地方，每天几乎都在和坏人打交道。来到这里以后，大家对卡夫卡都很友善，还给我很多好吃的零食。嗯，所以卡夫卡还是很喜欢罗德岛的！"
             },
             "asset": "char_214_kafka/CN_007"
@@ -131,7 +131,7 @@
             "text": {
                 "en": "...Y'know the secrets everyone tries their best to hide? They're like monsters, hidden in the dead shadows, waitin' for their chance. Beautiful... and dangerous. That's exactly why I do my darndest to collect them! Doctor, don't you got anything for my hoard?",
                 "jp": "……みんな必死に隠してる秘密は、物陰に潜んで機を伺う怪物のように危険で美しい。だからカフカは、こうやって頑張ってコレクションにしてるの。ドクターにも何かカフカのコレクションに入るようなものはない？",
-                "kr": "……다들 필사적으로 숨기는 비밀은 그늘에 숨어서 기회를 엿보는 괴물처럼 위험하고 아름다워. 그래서 카프카는 이렇게 열심히 컬렉션으로 만들고 있어. 박사한테도 무언가 카프카의 컬렉션에 들어갈 만한 거 없어?",
+                "kr": "……다들 필사적으로 숨기는 비밀은 그늘에 숨어서 기회를 엿보는 괴물처럼 위험하고 아름다워. 그래서 카프카는, 이렇게 열심히 컬렉션으로 만들고 있어. 박사는 뭐, 카프카의 컬렉션에 넣을 만한 거 없어?",
                 "cn": "......大家竭力隐藏的秘密，就像静静潜伏在阴影里，伺机而动的怪物一样美丽而危险。所以我才要努力把它们变成我的收藏品啊。博士，你有什么能够让我收藏的东西吗？"
             },
             "asset": "char_214_kafka/CN_008"
@@ -147,7 +147,7 @@
             "text": {
                 "en": "Doctor, if you've ever got a problem, we can always call my 'friends' from Columbia in to help... though you don't really gotta. One Kafka'll sort out all your troubles head to tail!",
                 "jp": "ドクター、もし何か困り事があれば、クルビアにいるカフカの「お友達」を呼べばいいよ……まぁそこまでする必要はないけどね。どんな難題でも、カフカ一人でぜーんぶ片付けちゃうから。",
-                "kr": "박사, 혹시 곤란한 일이 있으면 컬럼비아에 있는 카프카의 '친구'를 부르면 돼…… 뭐, 그렇게까지 할 필요는 없지만. 어떠한 난제라도 카프카 혼자서 다~ 정리할 수 있으니까.",
+                "kr": "박사, 혹시 곤란한 일이 있으면 컬럼비아에 있는 카프카의 '친구'를 부르면 돼~ 뭐, 사실 그렇게까지 할 필요는 없지만. 어떤 난관이라도 카프카 혼자서 다~ 정리할 수 있으니까.",
                 "cn": "博士如果遇到难处，就把我在哥伦比亚的“朋友们”叫来帮忙吧......不过没什么必要啦。卡夫卡一个人就能把任何困难统统解决掉的。"
             },
             "asset": "char_214_kafka/CN_009"
@@ -179,7 +179,7 @@
             "text": {
                 "en": "What did you need me for...? Wait, not in front of everybody! Just treat me like a normal gardener, okay?",
                 "jp": "カフカに何の用……ちょっと、こんな大勢の前で言っちゃダメでしょ、普通の園芸師として扱ってよ。",
-                "kr": "카프카한테 무슨 일…… 잠깐 이렇게 많은 사람 앞에서 말하면 안 되잖아! 평범한 원예사로 대해달라고.",
+                "kr": "카프카한테 무슨 일…… 잠깐, 사람들 이렇게 많을 땐 그렇게 말하지 말라니까?! 내가 전에 평범한 원예사 취급해달라 그랬잖아!",
                 "cn": "找卡夫卡有什么事吗......喂，不要当着这么多人说出来啊。当我是个普通的园艺师就好啦。"
             },
             "asset": "char_214_kafka/CN_011"
@@ -211,7 +211,7 @@
             "text": {
                 "en": "Seeing as you really need my power, Doctor, just c'mon and say it. Be like Kafka here, all serious and open, yeah?",
                 "jp": "ドクター、どーしてもカフカの力が欲しいなら、はっきり言ってよ。カフカみたいに真面目で素直でいいんじゃない？",
-                "kr": "박사, 어떻게든 카프카의 힘이 필요하면 확실히 말해달라고. 카프카처럼 진지하고 솔직하면 좋잖아?",
+                "kr": "박사, 그렇~게까지 카프카의 힘이 필요하면, 그냥 확실히 말해달라구~ 카프카처럼 진지하고 솔직하면 어디 좀 좋아?",
                 "cn": "既然博士非常需要卡夫卡的力量的话，直说就可以了。像卡夫卡一样认真又坦率不是很好吗？"
             },
             "asset": "char_214_kafka/CN_013"
@@ -227,7 +227,7 @@
             "text": {
                 "en": "Gardenin' or fightin', I didn't start doing either for compliments. But having my own efforts get noticed by you and the rest, well, that makes a Kafka real happy.",
                 "jp": "園芸も戦いも、褒められるために始めたわけじゃないよ。でもドクターやみんなにカフカの努力を認めてもらえるのって、やっぱり嬉しいな！",
-                "kr": "원예도 전투도 칭찬받으려고 시작한 건 아니야. 그래도 박사와 모두가 카프카의 노력을 인정해 주는 건 역시 기쁘네!",
+                "kr": "원예도 전투도, 칭찬받으려고 시작한 건 아니야. 그래도 박사랑 딴 사람들이 카프카의 노력을 인정해 주니까, 역시 기쁘네!",
                 "cn": "无论是园艺还是战斗，这些事最初并不是为了得到夸奖而做的。但是自己的努力能够受到博士和大家的认可，卡夫卡觉得非常高兴。"
             },
             "asset": "char_214_kafka/CN_014"
@@ -259,7 +259,7 @@
             "text": {
                 "en": "Just leave it to me. I guarantee you're all in for a fun time!",
                 "jp": "カフカに任せて、絶対みんなを楽しませてあげるよ。",
-                "kr": "카프카에게 맡겨줘, 반드시 모두를 즐겁게 해줄 거야.",
+                "kr": "카프카에게 맡겨줘, 반드시 모두를 즐겁게 해줄 테니까.",
                 "cn": "尽管交给我吧，保证会让大家玩个痛快的。"
             },
             "asset": "char_214_kafka/CN_018"
@@ -275,7 +275,7 @@
             "text": {
                 "en": "Ah, thinkin' sucks... I guess I'll be listenin' to you, Doctor.",
                 "jp": "頭使うのめんどくさいな……やっぱりドクターの指示に従うよ。",
-                "kr": "머리 쓰는 거 귀찮아… 역시 박사의 지시에 따를게.",
+                "kr": "머리 쓰는 거 귀찮은데에~ 에이 됐다, 그냥 박사가 지시하는 거 따를게.",
                 "cn": "动脑子好麻烦啊......所以一切还是听博士的吧。"
             },
             "asset": "char_214_kafka/CN_019"
@@ -291,7 +291,7 @@
             "text": {
                 "en": "Look at all these naughty li'l saplings. Ain'tcha cute... sit tight and Kafka'll trim ya up~",
                 "jp": "言うことを聞かない苗木がこんなにたくさん、可愛いね……カフカが剪定してあげるよ～。",
-                "kr": "말을 안 듣는 묘목이 이렇게 많다니, 귀엽네…… 카프카가 가지치기해 줄게~",
+                "kr": "말 안 듣는 묘목이 왜 이렇게 많아~? 귀엽네~ 카프카가 가지치기해 줄게~",
                 "cn": "这么多顽劣的树苗吗，真可爱啊......就让卡夫卡来好好修剪你们吧~"
             },
             "asset": "char_214_kafka/CN_020"
@@ -323,7 +323,7 @@
             "text": {
                 "en": "Kafka, roger~",
                 "jp": "カフカ、了解～。",
-                "kr": "카프카, 알았습니다~",
+                "kr": "카프카, 알겠슴다~",
                 "cn": "卡夫卡明白~"
             },
             "asset": "char_214_kafka/CN_022"
@@ -387,7 +387,7 @@
             "text": {
                 "en": "You're all just hedges who know how to walk~",
                 "jp": "君たちって、ただの動く生垣じゃん。",
-                "kr": "너희는 그저 움직이는 울타리잖아.",
+                "kr": "너희는 그냥 움직이는 울타리잖아.",
                 "cn": "你们只是会动的树篱嘛~"
             },
             "asset": "char_214_kafka/CN_026"
@@ -435,7 +435,7 @@
             "text": {
                 "en": "Smooth sailin' just like always, Doctor. Alright, makes a Kafka wanna go get 'em!",
                 "jp": "ドクターは相変わらず冷静だね。よーし、カフカも頑張るぞー！",
-                "kr": "박사는 여전히 냉정하네. 좋았어~ 카프카도 힘내자~!",
+                "kr": "박사는 여전히 냉정하네. 좋았어~ 카프카도 힘내야지~!",
                 "cn": "博士还是一如既往地淡定啊。好，我也要加油！"
             },
             "asset": "char_214_kafka/CN_029"
@@ -451,7 +451,7 @@
             "text": {
                 "en": "Man, were those enemies pushovers. If I'd known sooner, I woulda messed with 'em some.",
                 "jp": "敵ってば弱っちいな。こうなるって知ってたらテキトーに相手してやったのに。",
-                "kr": "적이 너무 약한데. 이렇게 될 줄 알았으면 대충 상대하는 거였는데.",
+                "kr": "적이 너무 약한데? 이렇게 될 줄 알았으면 그냥 대충 상대하는 거였는데.",
                 "cn": "敌人好弱啊。早知道就随便糊弄一下了。"
             },
             "asset": "char_214_kafka/CN_030"
@@ -467,7 +467,7 @@
             "text": {
                 "en": "Hmm, guess I gotta be more careful with the pruning next time.",
                 "jp": "うーん、今度の剪定はもっと真面目にやらなきゃ。",
-                "kr": "음~ 이번 가지치기도 더 열심히 해야겠다.",
+                "kr": "음~ 다음 가지치기는 더 열심히 해야겠다.",
                 "cn": "唔，下次还要更加认真地修剪才行啊。"
             },
             "asset": "char_214_kafka/CN_031"
@@ -499,7 +499,7 @@
             "text": {
                 "en": "Where's Silence's lab, again?",
                 "jp": "サイレンスの実験室ってどこだっけ？",
-                "kr": "사일런스의 실험실이 어디였더라?",
+                "kr": "사일런스네 실험실이 어디였더라?",
                 "cn": "赫默的办公室在哪里来着？"
             },
             "asset": "char_214_kafka/CN_033"
@@ -515,7 +515,7 @@
             "text": {
                 "en": "...Whaddaya think you're doin'.",
                 "jp": "……何する気なの。",
-                "kr": "……뭐하려고 그래?",
+                "kr": "……뭐 하려고 그러는데?",
                 "cn": "......你要干什么啊。"
             },
             "asset": "char_214_kafka/CN_034"
@@ -531,7 +531,7 @@
             "text": {
                 "en": "Doctor, Kafka here wants to deck out your office with some bonsai. Don'tcha worry, I'll make 'em look real good~",
                 "jp": "ドクター、執務室にカフカの作った盆栽を飾ろうよ。立派なものを作ってあげるから安心して～！",
-                "kr": "박사, 집무실에 카프카가 만든 분재로 장식하자. 멋진 걸 만들어 줄 테니까 안심하라고~!",
+                "kr": "박사~ 집무실에 카프카가 만든 분재를 놔두는 건 어때? 멋진 녀석으로 만들어 줄 테니까 안심하라구~!",
                 "cn": "博士，卡夫卡想要做盆栽来装点博士的办公室。放心，我会做得很好看的~"
             },
             "asset": "char_214_kafka/CN_036"
@@ -577,10 +577,15 @@
         "jp": {
             "native": "富田美憂",
             "global": "Miyu Tomita"
+        },
+        "kr": {
+            "native": "우정신",
+            "global": "Woo Jeong-sin"
         }
     },
     "availability": [
         "cn",
-        "jp"
+        "jp",
+        "kr"
     ]
 }

@@ -60,6 +60,18 @@
         "rating": 1
     },
     {
+        "nameid": "frston",
+        "numberid": "4093",
+        "name": {
+            "en": "Friston-3",
+            "jp": "Friston-3",
+            "kr": "Friston-3",
+            "cn": "Friston-3"
+        },
+        "nation": "rhodes",
+        "rating": 1
+    },
+    {
         "nameid": "nblade",
         "numberid": "502",
         "name": {
@@ -1416,6 +1428,18 @@
         "rating": 5
     },
     {
+        "nameid": "inside",
+        "numberid": "498",
+        "name": {
+            "en": "Insider",
+            "jp": "インサイダー",
+            "kr": "인사이더",
+            "cn": "隐现"
+        },
+        "nation": "laterano",
+        "rating": 5
+    },
+    {
         "nameid": "meteo",
         "numberid": "219",
         "name": {
@@ -2169,6 +2193,18 @@
             "cn": "承曦格雷伊"
         },
         "nation": "rhodes",
+        "rating": 5
+    },
+    {
+        "nameid": "spuria",
+        "numberid": "4015",
+        "name": {
+            "en": "Spuria",
+            "jp": "スプリア",
+            "kr": "스푸리아",
+            "cn": "空构"
+        },
+        "nation": "laterano",
         "rating": 5
     },
     {
@@ -3309,6 +3345,18 @@
             "cn": "耀骑士临光"
         },
         "nation": "kazimierz",
+        "rating": 6
+    },
+    {
+        "nameid": "excu2",
+        "numberid": "1032",
+        "name": {
+            "en": "Executor the Ex Foedere",
+            "jp": "聖約イグゼキュター",
+            "kr": "이그제큐터 디 엑스 포에데레",
+            "cn": "圣约送葬人"
+        },
+        "nation": "laterano",
         "rating": 6
     },
     {

@@ -19,7 +19,7 @@
             "text": {
                 "en": "Let's see what goodies the Doctor hides in this drawer.",
                 "jp": "ドクターの引き出しにどんなお宝が入ってるか、見てみるぞ！",
-                "kr": "박사의 서랍에 어떤 보물이 있는지 봐야지!",
+                "kr": "박사 서랍엔 어떤 보물이 들어 있는지 한번 봐볼까!",
                 "cn": "让我看看博士的抽屉里都藏了点什么好东西。"
             },
             "asset": "char_381_bubble/CN_001"
@@ -35,7 +35,7 @@
             "text": {
                 "en": "I'm probably only about as big as one of Papa's legs right now, but I'm gonna be as big as him and trample over all the bad guys! Graaagh!",
                 "jp": "ボク、今はパパの足くらいしかないけど、いつかパパみたいにデカくなって、それで悪い人をぜーんぶ吹き飛ばすぞ！わうーーー！！",
-                "kr": "나, 지금은 아빠의 다리 정도까지 밖에 되지 않지만, 언젠가 아빠처럼 커져서 나쁜 사람들을 전부 날려 버릴 거야! 와아……!!",
+                "kr": "나, 지금은 키가 겨우 아빠 다리 정도지만, 언젠간 아빠처럼 키 커져서 나쁜 사람들을 전부 날려 버릴 거야! 와아……!!",
                 "cn": "我现在大概只有爸爸一条腿那么大吧，以后我也要变那么大，然后撞翻所有的坏人！哇嗷！！"
             },
             "asset": "char_381_bubble/CN_002"
@@ -67,7 +67,7 @@
             "text": {
                 "en": "Fighting is easy. I point my shield one way, and nobody can beat me. Huh? What if they get behind me? Uh oh, why didn't I think of that?",
                 "jp": "ケンカはすっごく簡単だぞ。この盾さえ置いとけば、だーれもボクの相手じゃないんだ。じゃあボクの後ろに回ればいい？そっか、そうだった。なんで思いつかなかったんだろ。",
-                "kr": "싸움은 진짜 간단해! 이 방패만 있으면, 그 누~구도 내 상대가 되지 않아. 그럼 내 뒤로 돌아오면 된다고? 그렇네? 왜 그 생각을 못 했지?",
+                "kr": "싸우는 건 진짜 간단해! 이 방패만 있으면, 다~들 내 상대도 안 돼. 그럼 내 뒤로 돌아오면 된다고? 맞다, 그렇네? 왜 그 생각을 못 했지?",
                 "cn": "打架超简单的啦，盾往那里一竖，就没人能打过我了。啊绕到我背后就行？对哦，我怎么没想到呢？"
             },
             "asset": "char_381_bubble/CN_004"
@@ -83,7 +83,7 @@
             "text": {
                 "en": "Gavial? Never heard of her. She's tough? And famous in Sargon? Okay, whatever. I'll see for myself how tough she is.",
                 "jp": "ガヴィル？知らない。強いのか？サルゴンでは有名な人？口で言うだけじゃわからないぞ。すごいかどうか、ボクが見てみる。",
-                "kr": "가비알? 몰라. 강해? 사르곤에서 유명한 사람? 말만으론 모르지! 대단한지 어떤지 내가 볼 거야!",
+                "kr": "가비알? 몰라. 강해? 사르곤에서 유명하다고? 말만으론 모르지! 대단한지 어떤지는 내가 확인해 볼 거야!",
                 "cn": "嘉维尔？没听说过，很强吗，在萨尔贡很有名吗？哎呀别说了，厉害不厉害我看看就知道了。"
             },
             "asset": "char_381_bubble/CN_005"
@@ -99,7 +99,7 @@
             "text": {
                 "en": "Oh, you're talking about Gavial? I'm Gavial's number one fan. See, she even signed my shield for me. That's her autograph! I think, besides Papa, pretty much nobody could take down Gavial.",
                 "jp": "え、ガヴィル姉ちゃんのこと？ボクはガヴィル姉ちゃんのファン第一号だぞ。この盾に書いてあるサインを見た？直筆だぞ！きっとパパ以外で、ガヴィル姉ちゃんに勝てる人なんてほとんどいないと思うぞ。",
-                "kr": "엥? 가비알 언니 말이야? 나는 가비알 언니의 넘버원 팬이야! 이 방패에 있는 사인 봤어? 직접 써준 거라고! 분명 아빠 말고 가비알 언니한테 이길 수 있는 사람은 거의 없을걸?!",
+                "kr": "엥? 가비알 언니? 내가 또 가비알 언니 넘버원 팬이거든! 이 방패에 적힌 사인 봤어? 직접 써준 거라고! 아빠 빼고 가비알 언니한테 이길 수 있는 사람은 진짜 거의 없을걸?!",
                 "cn": "哦，你是说嘉维尔姐姐吗，哎呀我可是嘉维尔姐姐的头号粉丝，看到我盾牌里那个签名了吗，是亲笔签名哦！我觉得吧，除了老爹，估计也没几个人能打过嘉维尔姐姐了。"
             },
             "asset": "char_381_bubble/CN_006"
@@ -115,7 +115,7 @@
             "text": {
                 "en": "Doctor, shhh, tell me the truth. Kay says Vulcan can hammer straight through the floor, can she? No? I knew it. That means my Papa is definitely stronger. He could bust down a Rhodes smoke stack with one punch.",
                 "jp": "ドクター、こっそり教えて。ケーちゃんのヴァルカンお姉ちゃんは、このフロアをハンマーひと振りでぶち抜けるのか？そんなことない？ほらやっぱり。ボクのパパのほうが強いぞ、拳一つでロドスの煙突を粉々にできるんだぞ！",
-                "kr": "박사, 몰래 알려줘. 케오의 벌컨 언니는 이 층을 망치질 한 번으로 뚫어버릴 수 있는 거야? ……아니라고? 봐, 역시! 우리 아빠가 더 쎄! 주먹 하나로 로도스 아일랜드의 굴뚝을 산산조각낼 수 있다구!",
+                "kr": "박사, 몰래 알려줘. 케오랑 같이 있는 그 벌컨 언니는 진짜 이 바닥을 망치질 한 번으로 뚫어버릴 수 있는 거야? ……아니라고? 봐봐, 이럴 줄 알았다니까! 우리 아빠가 더 세거든! 우리 아빤 주먹 하나로 로도스 아일랜드의 굴뚝을 산산조각낼 정도로 쎄다구!",
                 "cn": "博士你悄悄告诉我，小刻的火神大姐能不能一锤砸穿这层楼？不会吗？我就知道是这样，那还是我爸爸比较厉害，一拳就能打碎罗德岛的大烟囱。"
             },
             "asset": "char_381_bubble/CN_007"
@@ -131,7 +131,7 @@
             "text": {
                 "en": "Do I really... have to keep writing this...? Fine... 'I knocked over Lancet-2 today. I won't do it again.'",
                 "jp": "ホントに……またこのノートに書かないといけないの……はーい……「今日、バブルはLancet-2さんを吹き飛ばしてしましました。もう二度としません。」",
-                "kr": "진짜…… 또 이 노트에 써야 하는 거야……? 알았어…… \"오늘, 버블은 Lancet-2 씨를 날려버렸습니다…… 앞으론 안 그러겠습니다.\"",
+                "kr": "진짜…… 이 노트에 또 써야 하는 거야……? 알았어…… “오늘, 버블은 Lancet-2 씨를 날려버렸습니다…… 앞으론 안 그러겠습니다.”",
                 "cn": "真的......还要在这本本子上加一笔吗......好吧......“今天，泡泡撞翻了Lancet-2小姐，泡泡下次不会这样做了。”"
             },
             "asset": "char_381_bubble/CN_008"
@@ -147,7 +147,7 @@
             "text": {
                 "en": "This is my shield. It'll be one of my greaves someday, or maybe a pauldron. Then as long as I'm standing behind you, hehe, nobody'll ever bully you.",
                 "jp": "今はこれを盾にしてるけど、ボクが大きくなったらすね当てか、肩当てにするかもしれないぞ。そしたら、ボクがドクターの後ろですごんでれば、へへ、誰も君をいじめられないぞ。",
-                "kr": "지금은 이걸 방패로 쓰지만, 내가 크면 정강이 보호구나 어깨 보호구로 쓰게 될지도 모른다구! 그렇게 되고 나서 내가 박사 뒤에서 위협하고 있으면…… 헤헤, 아무도 널 못 괴롭힐걸!",
+                "kr": "지금은 이걸 방패로 쓰지만, 내가 크면 정강이 보호구나 어깨 보호구로 쓰게 될지도 모른다고! 그렇게 되고 나서 내가 박사 뒤에 서있기만 해도…… 헤헤, 아무도 박사를 못 괴롭힐걸!",
                 "cn": "这是我的盾牌，以后会是我的腿甲，说不定会变成我的肩甲哦，到那时候，我只要往你身后一站，嘿嘿，就没人敢欺负你啦。"
             },
             "asset": "char_381_bubble/CN_009"
@@ -179,7 +179,7 @@
             "text": {
                 "en": "You're the boss of this training camp? And they call you the Doctor? Hrm... But you don't look strong... Whatever. I'm Bubble. I may be the weakest in my tribe right now, but you're gonna train me until I'm the second strongest.",
                 "jp": "君が訓練場のボス？ドクターって君の名前？うーん……でも君、丈夫そうに見えないぞ……まぁいっか。ボクはバブル、今のところ部族では一番弱いけど、パパの次ぐらいに強くなれるように訓練してもらうぞ。",
-                "kr": "너가 훈련장의 보스? 박사가 네 이름이야? 으음…… 근데 너 안 쎄 보이는데…… 뭐, 됐어! 나는 버블, 지금은 부족에서 가장 약하지만, 아빠 다음으로 쎄질 수 있도록 훈련시켜줘!",
+                "kr": "너가 훈련장의 보스? 박사가 네 이름이야? 으음…… 근데 너 안 세 보이는데…… 뭐, 됐어! 내 이름은 버블이야, 지금은 부족에서 가장 약하지만, 아빠 다음으로 세질 수 있도록 훈련시켜줘, 알았지?",
                 "cn": "你就是训练营的老大吗，你叫博士吗？嗯......但你看起来不壮啊......算了，我叫泡泡，是部落里最弱的，你要负责把我训练成第二强的哦。"
             },
             "asset": "char_381_bubble/CN_011"
@@ -211,7 +211,7 @@
             "text": {
                 "en": "A reward for my training? Great! I can't eat it? Grrr...",
                 "jp": "これは訓練のご褒美？わかった。食べちゃダメ？ふーん……。",
-                "kr": "이거 훈련했다고 상 주는 거야? 알았어. 먹으면 안 돼? 흐음……",
+                "kr": "이거 훈련했다고 상 주는 거야? 알았어. 먹으면 안 된다고? 흐음……",
                 "cn": "这是训练的奖励？哦好的。不能吃？唔......"
             },
             "asset": "char_381_bubble/CN_013"
@@ -227,7 +227,7 @@
             "text": {
                 "en": "I think I got a good chance of beating Kay now! Okay, lemme at her. Doctor, you come watch!",
                 "jp": "これでケーちゃんともどっこいどっこいで戦えそう！よーし、勝負するぞ。ドクターは見届け人ね！",
-                "kr": "이제 케오랑도 막상막하로 싸울 수 있을 거 같아! 좋~았어! 승부다! 박사가 증인 해줘!",
+                "kr": "이제 케오랑도 막상막하로 싸울 수 있을 거 같아! 좋~았어! 승부다! 박사가 증인해줘야 된다, 알았지!",
                 "cn": "我觉得我能和小刻五五开了！好，我要和她大战一场，博士你来做见证！"
             },
             "asset": "char_381_bubble/CN_014"
@@ -259,7 +259,7 @@
             "text": {
                 "en": "I count down to one and we charge, okay?",
                 "jp": "一まで数えたら走るぞ。いいか？",
-                "kr": "하나까지 세면 달릴 거다? 알았지?",
+                "kr": "하나까지 세면 달리는 거다? 알았지?",
                 "cn": "我们数到一就开始跑，好不好？"
             },
             "asset": "char_381_bubble/CN_018"
@@ -371,7 +371,7 @@
             "text": {
                 "en": "Traaaaaample!",
                 "jp": "体当たりだー！",
-                "kr": "몸통 박치기다!",
+                "kr": "몸통 박치기!",
                 "cn": "我撞！"
             },
             "asset": "char_381_bubble/CN_025"
@@ -435,7 +435,7 @@
             "text": {
                 "en": "Doctor, if you're strong enough, you gotta be warrior like my Papa!",
                 "jp": "ドクターがもし筋肉モリモリだったら、きっとパパみたいにすっごい戦士になってたぞ！",
-                "kr": "박사가 만약 근육이 우락부락했다면, 분명 아빠처럼 대단한 전사가 됐을 거야!",
+                "kr": "만약에 박사가 근육까지 우락부락했으면, 분명 아빠처럼 대단한 전사가 됐을 거야!",
                 "cn": "博士你要是够强壮，一定也是像我爸爸那样的勇士！"
             },
             "asset": "char_381_bubble/CN_029"
@@ -451,7 +451,7 @@
             "text": {
                 "en": "What did I tell you? I'm super strong.",
                 "jp": "言っただろう、ボクはすっごく強いんだって。",
-                "kr": "말했잖아, 난 정말 강하다고.",
+                "kr": "말했지, 난 되게 되게 강하다니까.",
                 "cn": "我就说嘛，我超厉害的。"
             },
             "asset": "char_381_bubble/CN_030"
@@ -467,7 +467,7 @@
             "text": {
                 "en": "Huh? Some of them got away? Did I let them through?",
                 "jp": "あれ、逃げた人がいる？ボクが止めきれなかったかな？",
-                "kr": "어, 도망간 사람이 있어? 내가 못 막았나?",
+                "kr": "어, 도망간 사람이 있다고? 내가 못 막았나?",
                 "cn": "嗯，有人跑了？是我没挡住吗？"
             },
             "asset": "char_381_bubble/CN_031"
@@ -483,7 +483,7 @@
             "text": {
                 "en": "I can't beat them! What do I do?!",
                 "jp": "勝てないぞ！どうしよどうしよ！？",
-                "kr": "이길 수 없어! 어떡하지, 어떡하지?!",
+                "kr": "못 이기겠어! 어떡하지, 어떡하지?!",
                 "cn": "打不过了！怎么办怎么办？！"
             },
             "asset": "char_381_bubble/CN_032"
@@ -499,7 +499,7 @@
             "text": {
                 "en": "I need a way, waaay bigger room. How can anyone live in a little place like this?",
                 "jp": "もっと広く、広くして！こんな狭い部屋にどうやって住むんだ？",
-                "kr": "좀 더 넓게, 넓혀줘! 이렇게 좁은 방에서 어떻게 살아?",
+                "kr": "좀 더 크게, 크게 넓혀줘! 이렇게 좁은 방에서 어떻게 살아?",
                 "cn": "再大点，再大点嘛，这么小怎么住人？"
             },
             "asset": "char_381_bubble/CN_033"
@@ -515,7 +515,7 @@
             "text": {
                 "en": "Oof. That tickles.",
                 "jp": "んっ、なんかかゆいぞ。",
-                "kr": "으엑, 왠지 가려운데.",
+                "kr": "으엑, 뭐지, 방금 간질간질했는데.",
                 "cn": "哎呀，有点痒。"
             },
             "asset": "char_381_bubble/CN_034"
@@ -577,10 +577,15 @@
         "jp": {
             "native": "赤尾ひかる",
             "global": "Hikaru Akao"
+        },
+        "kr": {
+            "native": "방연지",
+            "global": "Bang Yeon-ji"
         }
     },
     "availability": [
         "cn",
-        "jp"
+        "jp",
+        "kr"
     ]
 }

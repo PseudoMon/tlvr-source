@@ -17,7 +17,7 @@
                 "cn": "任命助理"
             },
             "text": {
-                "en": "This here Croissant guarantees yer safety no matter where ya headin', Baws! Oh, 'n payment's upfront! 'Member that!",
+                "en": "This here Croissant guarantees yer safety, no matter where yer headin', Baws! Oh, 'n payment's upfront! 'Member that!",
                 "jp": "旦那さんがどこ行っても、安全はこのウチが保証するでー。それよりな、作戦前には内金をよろしく～、忘れたらアカンで。",
                 "kr": "사장님이 얼로 가도, 안전은 마 내가 확실히 보증해주께~ 그건 그렇고, 작전 전에는 선입금으로 부탁한데이~ 잊어버리면 안 돼~",
                 "cn": "放心吧老板，不论在哪儿我都是您生命安全的保障！对了对了，每次行动前要扫一下这里的码，别忘记哟~"
@@ -33,7 +33,7 @@
                 "cn": "交谈1"
             },
             "text": {
-                "en": "Make a buncha money by workin' yer butt off! We can't be livin' in no poverty, after all!",
+                "en": "Make a buncha money workin' yer butt off! We can't be livin' in no poverty, after all!",
                 "jp": "仕事頑張って、よーさん稼いで、ええ暮らしせなアカンな。",
                 "kr": "일 열심히 하고, 돈도 어마어마하이 벌고, 잘 묵고 잘 살아야지 않겠나?",
                 "cn": "努力工作，赚取报酬，都是为了提升自己的生活品质嘛。"
@@ -49,7 +49,7 @@
                 "cn": "交谈2"
             },
             "text": {
-                "en": "Yer kiddin'! All yer folks done got such shiny gear on 'em! Lemme have a touch too!",
+                "en": "Yer kiddin'! All yer people got such shiny gear on 'em! Lemme have a touch too!",
                 "jp": "なんや、どいつもこいつも装備がピカピカやないかい！ちょっとウチにも触らせてーな。",
                 "kr": "뭐고, 이놈도 저놈도 장비가 삐까뻔쩍 하네! 내도 좀 만지게 해도!",
                 "cn": "大家的装备都在闪闪发光！好想摸一下啊～"
@@ -65,7 +65,7 @@
                 "cn": "交谈3"
             },
             "text": {
-                "en": "Boy, I really love orderin' new gear! Feels like I bought 'nuff stuff to fill the whole depot! This what they call a 'shoppin' addiction'?",
+                "en": "Boy, I sure love orderin' new gear! Feels like I bought enough stuff to fill the whole depot! This what they call a 'shoppin' addiction'?",
                 "jp": "新しい装備っちゅーもんは、ホンマええもんやわ。ウチなんかすぐ買うてしまうわ。これが沼っちゅーもんやな。",
                 "kr": "새 장비란 게 참 좋은 물건이제. 내같은 사람은 고마 눈 깜짝할 새에 사삔다니까. 이게 바로 '과소비의 늪'이란 거구만…",
                 "cn": "我最喜欢新装备了！无论是看到什么都好想买下来啊。就这样，我陷入了无止境的购物漩涡......"
@@ -97,7 +97,7 @@
                 "cn": "晋升后交谈2"
             },
             "text": {
-                "en": "If we've gotta transport stuff, might as well pick the easy-to-use and yummy-yummy stuff!",
+                "en": "Move this, lift that. If we gotta be haulin' things, might as well pick some easy-to-use and yummy-yummy stuff!",
                 "jp": "どうせ物運ぶんなら、使いやすいもんや美味いもん、そっちを運びたいわ！",
                 "kr": "어차피 물건 옮길 꺼면 쓰기 편한 거나 맛있는 거, 그런 걸 쫌 옮기고 싶데이!",
                 "cn": "这也是运货，那也是运货，既然都是运货，我当然更愿意搬运些好用的东西，或者美味的食物！"
@@ -129,7 +129,7 @@
                 "cn": "信赖提升后交谈2"
             },
             "text": {
-                "en": "Baws, c'mere for a sec, will ya? Take a look at my wares! From fancy clothes 'n everyday items to office supplies and gear, ya name it, I've got it! Buy in bulk 'n ya get a discount!",
+                "en": "Baws, c'mere a sec, wouldja? Take a gander at my wares! From fancy clothes 'n everyday items to office supplies and gear, ya name it, I got it! Buy in bulk 'n I'll give ya a discount!",
                 "jp": "旦那さん、ちょっと寄っていかへん？ウチが仕入れたもの見ていってな～。シャレオツな服に、日用品から事務用品、装備までなんでもあるで～。いっぱい買うてくれたら、まけたるで。",
                 "kr": "사장님, 잠깐 들렀다 안 갈래? 내가 사온 거 좀 봐봐~ 때깔 나는 옷은 물론이고, 일용품부터 사무용품 그리고 장비까지~ 마 뭐든지 다 있다 안카나~ 마이 사주면 디씨해주께.",
                 "cn": "老板！要不要来看看我刚进的一批货？潮款服装，日用工具，办公用品，武器装备，应有尽有哦！买的越多，折扣越大哦！"
@@ -145,7 +145,7 @@
                 "cn": "信赖提升后交谈3"
             },
             "text": {
-                "en": "Baws, ya deserve a huge thanks! Thanks to yer work referrals, I can buy all the stuff I ever wanted! Yer the best, Baws! I love ya!",
+                "en": "Baws, I gotta thank ya! With all them referrals, I can buy everything I ever wanted! Yer the best, Baws! Love ya lots!",
                 "jp": "旦那さんには、ホンマ感謝やわ。仕事をめっちゃ回してくれはったおかげで、ウチ、欲しいもんみーんな買えてん。ホンマ旦那さん最高やわ！ウチ、大好きやねん！",
                 "kr": "사장님한테는 진짜로 감사하고 있데이. 일 빡세게 돌려준 덕분에 내, 원하는 거 전부 살 수 있었다 아이가, 진짜 사장님 최고! 내, 사장님 진짜로 좋아한다!",
                 "cn": "老板，谢谢您！为我介绍了这么多的工作！托您的福，以前买不起的东西，现在我都负担的起啦！您是最好的老板！最喜欢您了！"
@@ -161,7 +161,7 @@
                 "cn": "闲置"
             },
             "text": {
-                "en": "Aw shucks, this gon' be 'nother frugal month...",
+                "en": "Aw shucks, gotta tighten my belt again this month...",
                 "jp": "あちゃ～。アカン、今月もピンチやねん……。",
                 "kr": "아이고야… 안 되겠는데, 이번 달도 개털 되삣네…",
                 "cn": "哎呀~这个月也完蛋了......"
@@ -177,7 +177,7 @@
                 "cn": "干员报到"
             },
             "text": {
-                "en": "My name's Croissant, and by golly yer in luck, Baws! Ya won't find many as good at their trade as I am! I'm strong, last forever, 'n if ya hire me right now, ya get a 20% discount!",
+                "en": "The name's Croissant, and by golly yer in luck, Baws! Won't find nobody as good at their trade as I am! I'm strong, don't break easy, 'n if ya hire me right now, I'll give ya a 20% discount!",
                 "jp": "ウチはクロワッサン。旦那さんは運のええお人やな～。ウチみたいに優秀なんは、なかなかおらんでー。丈夫で長持ち、おまけに料金二割引にしたるわ！",
                 "kr": "내는 크루아상, 사장님은 운이 엄청 좋구마~ 내처럼 우수한 사람은 좀처럼 없다 아이가. 튼튼하지 끈기 있지… 덤으로 요금은 20% 깎아주께!",
                 "cn": "我是可颂。老板您的运气可真好，能得到我这样安全可靠刀枪不入的优质干员！另外，现在雇佣我的话，还可以给您打八折哦！"
@@ -209,7 +209,7 @@
                 "cn": "精英化晋升1"
             },
             "text": {
-                "en": "Thanks much for helpin' me get my hands on better work, Baws!",
+                "en": "Thank ya kindly, Baws, fer helpin' me find such a nice job.",
                 "jp": "旦那さんのおかげで、ええ仕事ができてるねん。ほんま感謝やわ。",
                 "kr": "사장님 덕분에 일도 잘하고 안 있나, 정말로 고맙데이.",
                 "cn": "多亏了老板，我才能得到这么好的岗位，太感谢您了！"
@@ -225,7 +225,7 @@
                 "cn": "精英化晋升2"
             },
             "text": {
-                "en": "Baws, Baws, I made good use of that there bonus ya gave me! Check it out, I done gotten new gear to protect ya better from now on!",
+                "en": "Baws, Baws, I made good use of that there bonus ya gave me! Check it out, I don’t got myself some new gear. All the better to keep ya safe!",
                 "jp": "旦那さん旦那さん、もらったボーナス、めっちゃ有効活用してるねん。な、な、ほら見て見て、旦那さんを守るための装備更新に使ってん！",
                 "kr": "사장님 사장님, 보너스 준 거 진짜 유용하게 잘 쓰고 있데이. 자 자 봐봐라, 사장님 지켜줄라꼬 장비 업그레이드 하는데 썼다 아이가!",
                 "cn": "老板老板，您发的奖金，我可没有乱花哦。快看快看，这些都是用来保护您的新装备！"
@@ -257,7 +257,7 @@
                 "cn": "任命队长"
             },
             "text": {
-                "en": "Listen, y'all! Let's do this here mission flawlessly!",
+                "en": "Listen up, y'all! Let's do this here mission nice and cleanlike!",
                 "jp": "みんな、この任務、完璧に果たしてみせるで！",
                 "kr": "야들아, 이번 임무, 완벽하게 완수해 보제이!",
                 "cn": "大家！让我们漂漂亮亮地完成这次工作吧！"
@@ -273,7 +273,7 @@
                 "cn": "行动出发"
             },
             "text": {
-                "en": "We'll be back with the best results ya ever seen!",
+                "en": "We'll be back with the best results ya ever did see!",
                 "jp": "完璧な戦果をあげてこな！",
                 "kr": "완벽한 성과를 가꼬 올 끼다!",
                 "cn": "一定给老板一个您满意的战果！"
@@ -289,7 +289,7 @@
                 "cn": "行动开始"
             },
             "text": {
-                "en": "Look at that, the enemy's comin' to donate their gear to us!",
+                "en": "Well lookee here. The bad guys're comin' to donate their gear!",
                 "jp": "なぁ、なぁ、敵が装備を届けに来てくれはったわ！",
                 "kr": "저 봐봐라, 적이 장비를 가져다주러 왔구만!",
                 "cn": "敌人给咱们送装备来了！"
@@ -369,7 +369,7 @@
                 "cn": "作战中1"
             },
             "text": {
-                "en": "Stop!",
+                "en": "End of the road!",
                 "jp": "ストップ！",
                 "kr": "스톱!",
                 "cn": "停下！"
@@ -465,7 +465,7 @@
                 "cn": "非3星结束行动"
             },
             "text": {
-                "en": "Dagnabbit... the enemy got away! My reputation's gon' suffer...",
+                "en": "Dagnabbit... the enemy got away! That ain't good for my rep…",
                 "jp": "アカン、敵逃してもーた。ウチのクチコミが下がってまうわ……。",
                 "kr": "아이고야, 노치뿟네. 내 평판 떨어지겠구만…",
                 "cn": "欸，敌人逃跑了，我的业务信誉又要下跌啦......"
@@ -481,7 +481,7 @@
                 "cn": "行动失败"
             },
             "text": {
-                "en": "Aw, shucks... My wallet's gon' take a hit from this loss...",
+                "en": "Aw, shucks… First I lost the fight, and now my wallet…",
                 "jp": "しまったわ～。負けてしもたから、財布までなくしてしまったわ……うう……。",
                 "kr": "당했다… 아이고~ 져삐리가, 지갑까지 이라뿟네… 우으으…",
                 "cn": "太糟了，不光输了战斗，还弄丢了钱包......"
@@ -529,7 +529,7 @@
                 "cn": "信赖触摸"
             },
             "text": {
-                "en": "Baws, Baws, got any cool stuff on hand? C'mon, I wanna see!",
+                "en": "Baws, Baws, got any nifty stuff on hand? C'mon, I wanna see!",
                 "jp": "旦那さん旦那さん、何かめっちゃすごいもんとか持ってへんの？ウチにも見せてーや～！",
                 "kr": "사장님 사장님, 요즘 장난 아니게 뭐 대단한 거, 그런 거 없나? 내도 좀 보이도!",
                 "cn": "老板老板，有什么好东西吗？也给我看一下！"
@@ -570,6 +570,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Risa Mei",
+            "global": "Risa Mei"
+        },
         "cn": {
             "native": "刘雯",
             "global": "Wen Liu"
@@ -584,6 +588,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

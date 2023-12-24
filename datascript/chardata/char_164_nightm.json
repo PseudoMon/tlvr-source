@@ -177,7 +177,7 @@
                 "cn": "干员报到"
             },
             "text": {
-                "en": "I'm Nightmare... Aah, that's a code name. My real name is Gloria. But, if you don't mind, I'd rather you call me that... I think my code name... is kind of scary...",
+                "en": "I'm Nightmare... Ah, that's a code name. My real name is Gloria. But, if you don't mind, I'd rather you call me that... I think my code name... is kind of scary...",
                 "jp": "ナイトメア、です。あっ……これはコードネームで、本名はグロリアといいます。あの、良かったら、本名のほうを覚えていただけると嬉しいです……このコードネーム、怖いので私も苦手で……。",
                 "kr": "나이트메어, 입니다. 앗…… 이건 코드네임이고, 본명은 글로리아라고 해요. 저, 괜찮으시면, 본명으로 기억해 주셨으면 해요…… 이 코드네임, 저도 좀 무서워서……",
                 "cn": "夜魔......啊，这只是我的代号。我的名字是葛罗莉亚，如果能叫我的名字，我会很高兴的......我很害怕，那个代号......"
@@ -273,7 +273,7 @@
                 "cn": "行动出发"
             },
             "text": {
-                "en": "What sorts of incredible powers will you show me? I can't wait to see~",
+                "en": "What sorts of incredible powers will you show me? I can't wait to see.",
                 "jp": "みんな、どんな素敵な能力を持っているのかしらね？楽しみだわ～。",
                 "kr": "다들 어떤 훌륭한 능력을 갖고 있을까? 기대되네~",
                 "cn": "各位，都会展现出什么样的精彩能力呢？我很期待啊~"
@@ -417,7 +417,7 @@
                 "cn": "作战中4"
             },
             "text": {
-                "en": "Y-You'll run if you know what's good for you.",
+                "en": "You'll run if—if you know what's good for you.",
                 "jp": "ま、まだ進むんですか……？",
                 "kr": "아, 앞으로 더 가야 한다고요……?",
                 "cn": "还、还要继续向前走吗？"
@@ -561,7 +561,7 @@
                 "cn": "问候"
             },
             "text": {
-                "en": "Good morning, Doctor~",
+                "en": "Good morning, Doctor.",
                 "jp": "おはようございます、ドクター～。",
                 "kr": "안녕하세요 박사님~",
                 "cn": "早安，博士~"
@@ -570,6 +570,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Triya Leong",
+            "global": "Triya Leong"
+        },
         "cn": {
             "native": "张洪",
             "global": "Elivia"
@@ -584,6 +588,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

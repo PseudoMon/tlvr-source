@@ -17,7 +17,7 @@
                 "cn": "任命助理"
             },
             "text": {
-                "en": "Do you want these files here? Oh, one of the Liberi girls taught me how to use a printer! Look, I even learned how to print on both sides! Majt javla? (What's this?) This needs to be single-sided? Oh, er, I'll print it again!",
+                "en": "Doctor! Do you want these files here? A Liberi lady just taught me how to use a printer! Look, I even learned how to print on both sides! This needs to be single-sided? Uh-oh, sorry! I'll print it again!",
                 "jp": "ドクター、この書類はここでいい？さっきね、リーベリーのお姉さんにプリンターというものの使い方を教わったんだ。言われた通りに操作したら、両面印刷っていうのもできたんだよ！えっ、重要な文書は片面印刷……？や、やり直してくるね！",
                 "kr": "박사, 이 서류들은 여기 두면 돼? 아까 어떤 리베리 누나가 프린터 사용법을 가르쳐 줘서 알려준 대로 했더니 양면 인쇄도 할 수 있더라고. 앗, 중요한 문서는 단면으로 인쇄해야 한다고? 다, 다시 프린트해 올게!",
                 "cn": "博士，这些文件是放在这里吗？还有那个叫做打印机的，一位黎博利姐姐教了我怎么用它，我按照说明还做到了双面打印！啊，重要文件需要打成单面？我——我再去打印一份！"
@@ -33,7 +33,7 @@
                 "cn": "交谈1"
             },
             "text": {
-                "en": "Ieddne (Mother) has gotten a lot better. If not for the medical equipment we got from the explorers, she might have... even tsoavttsom (divination) showed a dark future. But that was the reason I decided to go out into the world. If I could bring equipment like that back sijddaj... (to the village...)",
+                "en": "My mother has gotten a lot better. That time, even divination showed a dark future. If not for the medical equipment we got from the explorers, she might have left us... Since then, I decided to go out into the world. I hope to bring more equipment like that back to the village. ",
                 "jp": "母さんの病気はだいぶ良くなってるよ。あの時探検隊の人たちが医療機器を提供してくれなかったら、おそらく今は……だって占いも良くない結果が出てたんだし。でも、ぼくが外に出て見識を深めようって思ったのもそれがきっかけなんだよね。ああいう設備をうちの部族にも導入できたら……",
                 "kr": "어머니의 병은 많이 나아졌어. 그때 탐험대 사람들이 의료 기기를 제공해 주지 않았다면, 아마 어머니는 지금쯤…… 점을 쳤을 때도 좋은 결과가 나오지 않았거든. 하지만 그런 일들이 있었기 때문에, 나도 바깥으로 나올 결심을 할 수 있었어. 만약 그 장비들을 우리 부족에도 도입할 수 있다면……",
                 "cn": "母亲的病已经好很多了，如果当初不是探险队提供了医疗设备，可能母亲就——毕竟，连占卜都预示了不好的结果。但也正是因为这件事，我决定出来看看。那些设备，如果能带回部落......"
@@ -49,7 +49,7 @@
                 "cn": "交谈2"
             },
             "text": {
-                "en": "I'm really grateful to Magallan. We've only met a few times during search and rescue operations, but she put me in touch with Rhodes Island after hearing my situation. She's an incredible woman. There aren't many in our sijdan (tribe) who have set foot on the jiegŋadievddamin (ice fields). It's a place that's feared and revered.",
+                "en": "I'm really grateful to Magallan. We've only met a few times during search and rescue operations, but she put me in touch with Rhodes Island after hearing my situation. And she's an incredible lady. Not many people dare to explore the ice fields like her. Even people in our tribe seldom set foot there. It's a place that's feared and revered.",
                 "jp": "マゼランお姉さんにはもちろん感謝してるよ。救助活動の時に何回か会っただけなのに、ぼくの事情を聞いたら、すぐロドスに取り次いでくれたんだもの。それにお姉さんは本当にすごい人なんだ。ぼくら部族の民でも、氷原に踏み入ろうって人はなかなかいないよ……あそこは畏れ多い場所だからね。",
                 "kr": "마젤란 누나한테는 정말 감사하고 있어. 구조 활동 때 몇 번 만난 사이일 뿐인데 내 처지를 듣고는 바로 로도스 아일랜드에 연락해 줬잖아. 게다가 누나는 정말 대단해, 우리 부족 사람들조차도 좀처럼 빙원에 발을 들여놓으려고 하지 않거든. 거긴 경외스러운 곳이니까 말이야.",
                 "cn": "我也很感谢麦哲伦姐姐，我们只在搜救行动中见过几次面，但她知道我的遭遇后，想办法帮我联系到了罗德岛。而且她真的很厉害，在我们部落，很少有人会踏足冰原，那是一个值得敬畏的地方。"
@@ -65,7 +65,7 @@
                 "cn": "交谈3"
             },
             "text": {
-                "en": "I'm part of my sijdda's (tribe's) rescue team, helping people who accidentally wander into the sæmssaj (bog), or get lost in the guollduj (snowstorms). That's how I met a lot of explorers from Columbia. Huh? How did you know they liked my tail?",
+                "en": "I'm part of my tribe's rescue team, helping people who accidentally wander into the bog, or get lost in the snowstorms. That's how I met a lot of explorers from Columbia. Woah, Doctor, how did you know they always compliment my tail?",
                 "jp": "ぼく、故郷では捜索救助隊員だったんだ。誤って沼に入ったり、吹雪で方向を見失う人も多くってね。部族のお兄さんやお姉さんたちと一緒に遭難者を助けてるうちに、クルビアから来た探検隊ともたくさん知り合えたんだ。え？確かにみんなにぼくのしっぽを褒められてたけど、どうしてドクターがそれを知ってるの？",
                 "kr": "난 마을에서 구조 대원으로 일했어. 실수로 늪에 빠지거나, 눈보라 속에서 길을 잃는 사람들이 있었거든. 나랑 부족의 형, 누나들은 그런 사람들을 구하면서 컬럼비아에서 온 탐험대들을 많이 알게 되곤 했지. 어라, 사람들이 내 꼬리를 칭찬했다는 걸, 박사가 어떻게 알고 있는 거야?",
                 "cn": "我是部落里的搜救人员，有些人可能会误入沼泽，或者在风雪里走失。我和其他几位哥哥姐姐就负责把他们救回来，因此认识了很多哥伦比亚来的探险队。欸，博士怎么知道他们夸过我的尾巴？"
@@ -81,7 +81,7 @@
                 "cn": "晋升后交谈1"
             },
             "text": {
-                "en": "I never thought I would leave the sijdda (tribe) to come here. I didn't use to be interested in this stuff, but that shiny medical equipment made a strong impression. They worked a miracle, and proved our tsoavttsom (divination) wrong.",
+                "en": "I never thought I would leave the tribe and come here. I was never interested in things from the outside world. But that shiny medical equipment blew me away. They went against our divination. That's a miracle to me.",
                 "jp": "部族を飛び出して、こんな所まで来るなんて夢にも思わなかった。外のものには全然関心がなかったけど、あちこち光っていた医療機器には実に驚かされたよ――だってあれは占いの結果さえも覆したんだもの。ぼくにとってはある種の奇跡のように感じたんだ。",
                 "kr": "난 내가 정말로 부족을 떠나 여기로 오게 될 줄은 몰랐어. 원래 바깥세상엔 크게 관심이 없었거든. 근데 그 반짝거리던 의료 기기들은 정말 놀라웠어…… 그것들은 점의 결과마저 바꿨잖아, 내게 있어선 그게 일종의 기적처럼 느껴졌어.",
                 "cn": "我之前从来没有想过自己有一天会真的走出部落，来到这里。我原本对这些完全不感兴趣，但还是被那些闪着光的医疗器械震慑到了——它们扭转了占卜的结果，对我来说是另一种奇迹。"
@@ -113,7 +113,7 @@
                 "cn": "信赖提升后交谈1"
             },
             "text": {
-                "en": "Can I do divination like Gitano? I suppose I could tsoavttsot your future, but I'm not great at it. If you want me to tell your fortune for the day, let's see... the stars will fall from the sky, and eggplant must goes on top of rice.",
+                "en": "Can I see the future like Gitano? I suppose I could divine your future, but I'm not great at it. If you really want me to tell your fortune for the day, let's see... Okay, it says... the stars will fall from the sky, and eggplant must go on top of rice.",
                 "jp": "ギターノお姉さんみたいな占いをぼくが？うーんと……できるにはできるけど、あまり得意じゃないんだ。どうしてもって言うならやってみるね。えっと、あなたの今日の運勢は……天星が零れ落ち……ナスは、ご飯に乗せるべし？",
                 "kr": "기타노 누나처럼 점을 칠 수 있냐고? 으음…… 할 수 있긴 한데, 그렇게 잘하진 못하는데 박사가 그렇게까지 원한다면야, 한 번 해볼게. 박사의 오늘 운세는…… 별이 떨어지고…… 가지는 밥 위에 올려야 한다.",
                 "cn": "远山姐姐那样的占卜我能做到吗？嗯......我会，但是并不是特别擅长。要是您真的想要我来占卜，比如您今天的运势，我得到的结果是......天星降落，茄子要放在米饭上。"
@@ -129,7 +129,7 @@
                 "cn": "信赖提升后交谈2"
             },
             "text": {
-                "en": "Doctor, Accounting says my reimbursement claim has been delayed. What does 'reimbursement claim' mean? There's still so much I don't understand about paperwork...",
+                "en": "Doctor, Accounting says my 'reimbursement claim' has been delayed. What does 'reimbursement claim' mean? Sorry, but there's still so much I don't understand about paperwork…",
                 "jp": "ドクター、経理部の人から経費精算の申請が何か月分も溜まってるって言われたんだけど、「経費精算」って何？申請とかも、いまだによくわからなくて……",
                 "kr": "박사, 재무 부서에서 내 경비 정산 신청이 몇 개월이나 밀려 있다던데, 경비 정산이 뭐야? 서류 신청 같은 거 아직도 잘 모르겠네……",
                 "cn": "博士，财务部门今天说我的报销审核已经拖了好几个月了，“报销”是什么意思？填表相关的工作，我到现在还不太明白......"
@@ -145,7 +145,7 @@
                 "cn": "信赖提升后交谈3"
             },
             "text": {
-                "en": "I'm back from my field mission! We delivered some equipment to my sijdda (tribe) and taught them how to use it. Turns out muohtá's (aunt's) leg pains were caused by bone spurs. Now that we know how to treat it, she won't have to rely on my oarbbenbiele's (cousin's) Arts to relieve the pain.",
+                "en": "Doctor! I'm back from my field mission! We delivered some equipment to my tribe and taught them how to use it. Turns out aunt's leg pains were caused by bone spurs. Now that we know how to treat it, she won't have to rely on my cousin's Arts to relieve the pain.",
                 "jp": "ドクター、外勤から帰ってきたよ！今回部族へ持ち帰る分の小型機器は全部無事に届けて、使い方もばっちりみんなに教えてきたよ。あとうちのおばちゃん、足が痛むのは骨棘が生えたからだった。原因が特定できて治療法もわかったことだし、これでお従姉ちゃんが毎日アーツで痛みを和らげずに済みそうだよ。",
                 "kr": "외근 다녀왔어, 박사! 이번에 가져간 소형 기기는 무사히 전달했고, 부족 사람들한테 사용법도 가르쳐 줬어. 알고 보니까 우리 이모의 다리가 아팠던 건 골극 때문이었더라고. 다행히 이젠 병의 원인이랑 치료 방법을 알았으니, 더 이상 사촌 누나가 매일 오리지늄 아츠로 통증을 덜어 줄 필요도 없어졌지.",
                 "cn": "博士，我结束外勤回来啦！这次带回部落的小型器械已经运输完毕，也教会了大家怎么用。原来姨姨腿疼是因为长了骨刺，找到了病因和治疗方法，表姐就不用每天用源石技艺为她缓解疼痛了。"
@@ -161,7 +161,7 @@
                 "cn": "闲置"
             },
             "text": {
-                "en": "Telefåvnnå skuollá! Majt dal Dåktår javlaj hæhttuv dajna dahkat... (The phone is ringing! What did the Doctor say I should do in this situation...) Hello? Er, this is the Doctor's office...",
+                "en": "Oh, the phone is ringing! What did the Doctor say I should do in this situation… Okay... He-hello? Um, nice to hear you. This is the Doctor's office.",
                 "jp": "あっ、電話が鳴った……どうやって対応するって言ってたっけ――もしもし？えっと、こ、こんにちは、こちらドクターの執務室です！",
                 "kr": "……앗, 전화 왔네! 박사가 이 상황에선 어떻게 하라고 했더라…… 여보세요? 아, 안녕하세요, 박사 사무실입니다!",
                 "cn": "......电话响了！博士当初是怎么教我的来着——喂？呃，您好，这里是博士办公室。"
@@ -209,7 +209,7 @@
                 "cn": "精英化晋升1"
             },
             "text": {
-                "en": "Is this what you call a 'contract'? The language is very difficult. Do I have to sign it? This won't get me into any trouble, will it? I can trust you, right? Right?",
+                "en": "Doctor, is this what you call a 'contract'? It's very difficult to understand. Do I have to sign it? You say if I don't sign it, I'll be forced to work day and night by a cruel boss? But Doctor, you are not cruel… What? What do you mean don't be so sure?",
                 "jp": "ドクター、これが「契約書」と呼ばれるものなの？書いてあること、難しくて分からないよ。どうしてもサインしなきゃダメなの？……そうしないと、悪徳経営者にいいように搾取されちゃう？でも、ドクターはきっと違うよね……えっ、そうとも限らないって！？",
                 "kr": "박사, 이게 그 계약서라는 거야? 적혀 있는 내용이 어려워서 무슨 말인지 잘 모르겠네, 꼭 서명해야 하는 거야? 안 하면 악덕 사장한테 착취당할 수도 있다고? 박사는 그런 사람이 아니잖아…… 어, 그럴 수도 있다고!?",
                 "cn": "博士，这个就是你们称为“合同”的东西吗？里面的条款好难理解，我必须要签吗？不签会被黑心老板压榨？博士您应该不是那种人吧......说不定？"
@@ -225,7 +225,7 @@
                 "cn": "精英化晋升2"
             },
             "text": {
-                "en": "This won't be like last time! You've helped me so much. Ieddne's (Mother's) getting better, and my sijdda (tribe) is learning to use Rhodes Island medical equipment. I hope I can do even more for them.",
+                "en": "I won't make a fool of myself like before, Doctor! You've helped me so much. My mother's getting better, and my tribe is learning to use Rhodes Island medical equipment. I hope I can do even more for them in the future.",
                 "jp": "あんな恥ずかしいミスはもうしないよ！それにしても、ドクターには本当に色々とお世話になったね。母さんもだんだん回復してきたし、部族にもロドスの医療機器を持ち帰れたし……ドクター、ぼくはこれからも部族の役に立てるように頑張りたいんだ。",
                 "kr": "저번처럼 부끄러운 실수는 이제 안 한다니까! 그건 그렇고 박사한텐 정말 많은 도움을 받았네. 어머니의 건강도 점점 나아지고 있고, 나도 부족에 로도스 아일랜드의 의료 기기들을 가져다줄 수 있고 말이야. 박사, 난 앞으로도 부족에 더 많은 도움이 될 수 있으면 좋겠어.",
                 "cn": "我不会再像上次那样闹笑话啦！您帮了我很多，母亲的身体在渐渐好转，我也为部落带去了罗德岛的医疗器械。博士，我希望自己以后还能帮到部落更多。"
@@ -257,7 +257,7 @@
                 "cn": "任命队长"
             },
             "text": {
-                "en": "Everybody, pay attention and don't run off on your own.",
+                "en": "Everyone, follow my orders and don't run off on your own.",
                 "jp": "皆さん、ぼくの指示に従ってね。勝手な行動はくれぐれも慎むように。",
                 "kr": "모두 내 지시에 따라 줘. 멋대로 행동하는 건 절대 안 돼.",
                 "cn": "请大家听从我的指挥，千万不要私自行动。"
@@ -289,7 +289,7 @@
                 "cn": "行动开始"
             },
             "text": {
-                "en": "A rescuer has to be in top form at all times.",
+                "en": "Make sure you're well-prepared. That's the foundation of a successful rescue.",
                 "jp": "皆さん、まずは自身の状態が万全であることを確認するように。救助活動においてはそれが第一だよ。",
                 "kr": "다들 컨디션을 잘 유지해 줘, 그게 구조의 기본이니까.",
                 "cn": "请大家确保自己状态良好，这是救援的根本。"
@@ -353,7 +353,7 @@
                 "cn": "部署2"
             },
             "text": {
-                "en": "Save your strength and wait for rescue.",
+                "en": "Please save your strength, we will get you out!",
                 "jp": "救助の到着まで、体力を温存して待っていてね。",
                 "kr": "구조가 도착하기 전까지 일단 체력을 비축해 둬.",
                 "cn": "在此之前请您保存体力，等待救援。"
@@ -385,7 +385,7 @@
                 "cn": "作战中2"
             },
             "text": {
-                "en": "Rescue location identified.",
+                "en": "Rescue location confirmed.",
                 "jp": "要救助者の位置は確認したよ。",
                 "kr": "구조 대상자 위치 확인 완료.",
                 "cn": "已经确认救援目标所处位置。"
@@ -401,7 +401,7 @@
                 "cn": "作战中3"
             },
             "text": {
-                "en": "Working out the rescue plan.",
+                "en": "Formulating a rescue plan.",
                 "jp": "最適な救助プランを策定中。",
                 "kr": "최적의 구조 방안을 계획 중이야.",
                 "cn": "正在规划最合适的救援方案。"
@@ -417,7 +417,7 @@
                 "cn": "作战中4"
             },
             "text": {
-                "en": "Don't worry. Rescue operation successful!",
+                "en": "Don't worry. You're going to be fine!",
                 "jp": "心配しないで、救助に成功したよ！",
                 "kr": "걱정 마, 구조에 성공했어!",
                 "cn": "不用担心，救援成功！"
@@ -433,7 +433,7 @@
                 "cn": "完成高难行动"
             },
             "text": {
-                "en": "I was nervous, but experience really comes in handy!",
+                "en": "I was nervous, but my experience really came in handy!",
                 "jp": "ふぅ……たくさん経験を積んできてよかった、本当は緊張してたんだ。",
                 "kr": "후우…… 그동안 쌓아 둔 경험이 있어서 다행이야. 솔직히 좀 긴장했었거든.",
                 "cn": "呼——还好之前的经验足够，我本来还有些紧张呢！"
@@ -449,7 +449,7 @@
                 "cn": "3星结束行动"
             },
             "text": {
-                "en": "A well-planned and well-executed rescue operation!",
+                "en": "A well-planned and well-executed rescue operation, our target has been brought to safety.",
                 "jp": "事前準備はばっちりだったからね。救出した人たちはもう問題ないよ！",
                 "kr": "사전 준비는 철저히 했으니까. 구출된 사람들은 이제 안전해!",
                 "cn": "准备充足的救援行动，目标已经得到妥善安排！"
@@ -465,7 +465,7 @@
                 "cn": "非3星结束行动"
             },
             "text": {
-                "en": "The objective was injured... don't worry, I'll stop the pain!",
+                "en": "The victim was injured… Don't worry, I'll ease the pain for you.",
                 "jp": "結局怪我人を出してしまった……心配しないで、すぐに鎮痛を行うからね！",
                 "kr": "구조 대상자가 부상을 당하다니…… 걱정하지 마, 우선 응급 처치를 해 줄게!",
                 "cn": "救援目标还是受伤了......不要紧张，我先来帮你镇痛！"
@@ -481,7 +481,7 @@
                 "cn": "行动失败"
             },
             "text": {
-                "en": "Need support over here!",
+                "en": "Over here! We need backup!",
                 "jp": "こっち！救助隊の支援が必要だ！",
                 "kr": "여기야! 후발 구조대의 지원이 필요해!",
                 "cn": "这里！需要后续救援队支持！"
@@ -497,7 +497,7 @@
                 "cn": "进驻设施"
             },
             "text": {
-                "en": "Oh, so this is where I'm supposed to use that 'access card.'",
+                "en": "Oh, so this is where I'm supposed to use this 'access card.'",
                 "jp": "「カードキー」って、こういうところで使うものなんだね。",
                 "kr": "'카드키'라는 건 이런 데 쓰는 거였구나.",
                 "cn": "“门禁卡”！原来就是用在这里的。"
@@ -513,7 +513,7 @@
                 "cn": "戳一下"
             },
             "text": {
-                "en": "Whoa!",
+                "en": "Oh!",
                 "jp": "わっ！？",
                 "kr": "앗!?",
                 "cn": "哇！"
@@ -529,7 +529,7 @@
                 "cn": "信赖触摸"
             },
             "text": {
-                "en": "Are you sure you want me to tsoavttsot (divine) your future Doctor?",
+                "en": "Doctor, you don't really want me to divine your future, do you?",
                 "jp": "ドクター、本気でぼくに占ってほしいの？",
                 "kr": "박사, 정말로 내가 점을 봐줬으면 좋겠어?",
                 "cn": "博士，您不会真的想让我来给您占卜吧！"
@@ -561,7 +561,7 @@
                 "cn": "问候"
             },
             "text": {
-                "en": "Boo! Did that scare you? What? No? I used to spook lots of people in the muohttagin (snow).",
+                "en": "Boo! Did that scare you? Not at all? Aw, I used to spook lots of people in the snow.",
                 "jp": "わぁ！！……驚いた？えっ、全然！？そんな……雪原でこれをやると、みんな結構驚くのになぁ。",
                 "kr": "우왁! ……놀랐어? 하나도 안 놀랐다고!? 설원에서 이걸 하면 다들 깜짝 놀라던데……",
                 "cn": "呼啊！有没有被吓到？什么，完全没有！原先在雪地里，我能吓到不少人呢。"
@@ -570,6 +570,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Kim Kasin",
+            "global": "Kim Kasin"
+        },
         "cn": {
             "native": "张桐铭",
             "global": "Tongming Zhang"
@@ -584,6 +588,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

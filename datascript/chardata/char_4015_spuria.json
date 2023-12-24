@@ -1,0 +1,596 @@
+{
+    "charid": "char_4015_spuria",
+    "nameid": "spuria",
+    "names": {
+        "en": "Spuria",
+        "jp": "スプリア",
+        "kr": "스푸리아",
+        "cn": "空构"
+    },
+    "voices": [
+        {
+            "id": "char_4015_spuria_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "No problem. Just leave the documents here, and I'll filter out anything that isn't worth you reading... Can't do it that way? We have to take each one seriously? Fine, fine, whatever you say.",
+                "jp": "書類はここに置いといていいよ。見る必要のないやつは抜いてあげるから……ダメ？全部真面目に目を通さないといけないの？はぁ、面倒くさい人～。",
+                "kr": "알았어, 파일은 여기에 둬. 볼 필요 없는 부분은 내가 대신 빼놓을 테니까…… 안 된다고? 전부 꼼꼼히 처리해야 한다고? 아, 진짜 까다롭네.",
+                "cn": "没问题，这些文件就放在这里吧，我会替你筛选出没必要看的部分......行不通？全都要认真处理？欸，你这人真难对付啊。"
+            },
+            "asset": "char_4015_spuria/CN_001"
+        },
+        {
+            "id": "char_4015_spuria_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "I guarantee that field op will be cleared without a hitch, so— I can't dump it on another operator? Come on, It was a long trip for me to come here, and I'm better off spending my time in the workshop while I'm on the ship. Work with me here, will you？",
+                "jp": "私に任せた外勤任務、ちゃんと果たしてあげるから安心して……えぇ、他の子に実働をお願いしちゃダメなの？ロドスに来ただけでも、随分な遠出なのよ。本艦にいる時間は、工房で使いたいの。ねぇお願い……やっぱりダメ？",
+                "kr": "내게 맡긴 외근 임무는 꼭 제대로 완수할게…… 어? 다른 오퍼레이터에게 넘기는 건 안 된다고? 나한텐 로도스 아일랜드에 온 게 먼 길을 온 것과 마찬가지란 말이야. 함선 위에 있는 동안은 공방에서 더 보내고 싶은데, 좀 이해해 줘…… 정말 안 될까?",
+                "cn": "你安排的外勤任务，我会确保顺利完成的......欸，不可以转交给其他干员完成吗？我来罗德岛已经算是出远门了，在舰上的时间还是花在工坊更好，体谅一下我嘛......真的不行？"
+            },
+            "asset": "char_4015_spuria/CN_002"
+        },
+        {
+            "id": "char_4015_spuria_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "How's my stay? So far so good. Here I can focus on reviewing my designs without headphones on my head. No need to block everything out with music. Feels kinda refreshing. Still, I haven't modded any of the equipment in the dorm myself, so it does feel kinda like we're missing some features here. For example, something that automatically orders cactus tarts takeout at preset times.",
+                "jp": "別に慣れないことはないよ～。デザイン案を集中して見たい時に、イヤホンで耳を塞いで音楽を流す必要もなくなったし、ロドスも悪くないね。でも宿舎の設備はまだ手を入れてなくって、やっぱり少し機能が少ないのよね。たとえば、定時にサボテンタルトのデリバリー注文をしてくれるやつとか。",
+                "kr": "어디 불편한 덴 없냐고? 없어. 이젠 설계안 검토에 전념한다고 이어폰 끼고 음악을 듣지 않아도 되거든. 이런 느낌도 제법 괜찮더라고. 근데 숙소 안의 장비는 아직 개조하지 않아서 그런가, 기능이 좀 부족한 것 같아. 예를 들면, 자동으로 선인장 타르트 배달을 예약하는 기능 같은 거 말이야.",
+                "cn": "不习惯？没有哦，想专心审阅设计方案的时候不用塞着耳机听音乐了，这种感觉还挺不错的。不过，宿舍里的设备我还没有亲自改造过，总觉得少了些功能，比如定时帮我预订仙人掌挞外卖之类的。"
+            },
+            "asset": "char_4015_spuria/CN_003"
+        },
+        {
+            "id": "char_4015_spuria_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Do me a favor and tell me when Lemuen shows up, Doctor. I help maintain her sister's gun every now and then, so my guess is she wants to have a few words with me. Why don't I just go see her? Uhmm... The way I put it, one can't be so proactive with everybody. Sometimes, you need to keep a certain distance. You know what I mean?",
+                "jp": "たまにレミュアン先輩の妹の銃をメンテしてあげてるの。だから今度あの子がロドスに来たら声かけてね、ドクター。どうして直接レミュアンに会いに行かないのかって？ん……こっちが積極的になりすぎちゃうとダメな相手もいるんだよ。適切な距離を保ってあげないと。わかる？",
+                "kr": "가끔 선배 여동생의 총을 정비해 주곤 했어. 그러니까 다음에 그 애가 오면 나한테도 알려줘, 박사. 왜 직접 르무엔 선배를 만나러 가지 않냐고? 음…… 너무 적극적으로 굴면 안 되는 사람도 있거든. 적절한 거리를 유지해야 한다고. 무슨 말인지 알지?",
+                "cn": "我偶尔会帮学姐的妹妹保养她的铳，所以下次人来的时候，拜托通知我一声哦，博士。你问我为什么不直接去见蕾缪安？嗯......对有的人不能总是太主动，得学会把握距离，你懂我的意思吗？"
+            },
+            "asset": "char_4015_spuria/CN_004"
+        },
+        {
+            "id": "char_4015_spuria_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Laterano has tons of magazines covering the combat attire of other countries. Their designs seem to have drawn inspiration from a variety of sources, all of which I'd like to try out. Oh, just so you know, I'm more of an order-by-phone kind of girl. I don't go shopping unless I'm invited by some <i>very</i>  specific people. So, you gonna ask me out?",
+                "jp": "ラテラーノにはね、各国の戦闘服デザインを紹介する雑誌が結構あって、デザイナーたちのアイデアも十人十色！私も、違ったスタイルにチャレンジするのは好きなのよね。あっでも、特定の誰かさんからの誘いじゃないなら、外での買い物はごめんよ。電話で買うのが一番ね。それで？ドクターは誘ってくれるの？",
+                "kr": "라테라노엔 각국의 전투복 디자인을 소개하는 잡지가 많아. 디자이너의 아이디어도 각양각색이고. 나도 남들과 다른 스타일을 시도하는 걸 좋아해. 앗, 하지만 특별한 누군가와 약속을 잡는 게 아니라면, 밖에서 쇼핑하는 건 사양이야. 전화로 주문하는 게 더 편하거든. 그래서 말인데, 박사가 날 초대해 줄래?",
+                "cn": "拉特兰介绍各国战术服装设计的杂志可不少哦，设计师的灵感来源自然也五花八门，我还挺喜欢尝试不同风格的。啊，不过不是特定的人邀请，我才不逛街。我比较喜欢电话订购。所以，要邀请我吗？"
+            },
+            "asset": "char_4015_spuria/CN_005"
+        },
+        {
+            "id": "char_4015_spuria_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "I'm more willing to go on field ops than before? That's because I'm after inspiration for firearms upgrades. When I stand in war-torn ruins, where there's none of the ear-rending ruckus of Laterano, I get this weird sense of fear. I have to find a way to use my technology to combat that somehow.",
+                "jp": "私が近頃、外勤任務を嫌がらなくなった？銃を改良するためのインスピレーションを探してるからね。暴力の嵐が吹いた後の廃墟で、ラテラーノの耳が痛くなるほどの騒がしさから遠く離れた時、言い表せない恐怖を感じるの。だから、自分の技術でそれに対抗する方法を考えないといけないの。",
+                "kr": "전보단 외근 임무를 덜 싫어하는 것 같다고? 요즘 총을 개조하기 위해 영감을 줄 만한 것들을 찾고 있거든. 라테라노의 귀가 아플 정도로 떠들썩한 소리도 들리지 않는, 전투가 끝난 아수라장이 된 폐허에 있다 보면, 형언할 수 없는 공포를 느껴. 그리고 난, 내 기술로 그 공포에 맞설 방법을 찾을 거야.",
+                "cn": "我最近变得乐意出外勤了？因为我在找铳械改良的灵感。站在一片狼藉的战后废墟里，周围没有拉特兰那种吵得人耳朵疼的喧闹声时，我会有种莫名的恐惧感。我得想个办法用我的技术去对抗它。"
+            },
+            "asset": "char_4015_spuria/CN_006"
+        },
+        {
+            "id": "char_4015_spuria_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "If the Lateran Curia ever asks for me, make an excuse and turn them down, will you? I don't wanna go back to listen to my boss nag about faith and standing. She thinks she can talk me into recognizing my mistakes, but I don't ever think that much when I do stuff.",
+                "jp": "教皇庁の方から呼び出しが来たら、適当な理由をつけて断っておいてくれない？戻って口うるさい上司の説教を聞くなんてまっぴらよ。立場だの信念だの、彼女ってどうも議論で私を言い負かして、自分の間違いを認めさせようとしてくるけど、もともと何かする時にそんなに色々考えてないしねぇ。",
+                "kr": "혹시 교황청에서 연락이 오면 적당한 핑계 아무거나 상관없으니까 대신 거절해 줄래? 돌아가서 상사의 잔소리를 듣는 건 정말 싫거든. 입장이니, 신념이니 하면서 분명 논쟁으로 나를 설득하고 잘못을 깨닫게 하려고 할 텐데, 난 원래 뭘 할 때 그렇게 생각을 많이 하는 타입이 아니란 말이야.",
+                "cn": "教皇厅那边来消息的话，帮我找借口回绝一下好不好？我可不想回去听我的上司唠叨，什么立场啊信念啊，她觉得要用辩论让我心服口服，认识到自己的错误，可我做事的时候根本没有想那么多嘛。"
+            },
+            "asset": "char_4015_spuria/CN_007"
+        },
+        {
+            "id": "char_4015_spuria_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "I study firearm assistive technologies, but I don't fundamentally understand what a gun means to a Sankta... Hm? Oh, nothing. Just a friend of mine who told me she's starting to use a gun again. Anyway, I'll be going on a trip soon. Be sure to approve my disembarkation when the time comes, Doctor.",
+                "jp": "私の専攻は銃器補助技術だったんだけど、銃がサンクタにとって結局どんな意味を持つのか、未だに分かってないんだよね……ん？ああ、友達がまた銃を使い始めたって言うから、それだけよ。そうだ、近々旅行に行くから、離艦申請を出したら許可をよろしくね。",
+                "kr": "내가 배운 건 총기 보조 기술이야. 산크타에게 총이 대체 어떤 의미인지는 아직도 모르겠지만…… 응? 아, 그냥 친구가 다시 총을 쓰기 시작했다고 알려줬거든, 그것뿐이야. 참, 조만간 여행 갈 거니까, 신청하면 승인 부탁할게.",
+                "cn": "我学的是铳械辅助技术，但我其实不明白，铳对萨科塔来说究竟意味着什么......嗯？只是有朋友说她重新开始用铳了，仅此而已。对了，最近我要出门旅行了，到时候要批准我的离舰申请哦。"
+            },
+            "asset": "char_4015_spuria/CN_008"
+        },
+        {
+            "id": "char_4015_spuria_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "You look like you're in a bad mood, so I grabbed you a snack from— Hey, what's that surprised look for? Yes, you're no Sankta and I can't feel your emotion, but that doesn't mean I can't care about you. Alright, eat up now. I wanna see if this is from the tainted batch.",
+                "jp": "あまり気分が良くなさそうだったから、おやつ持ってきたよ。テーブルにあった――そんなびっくりしないでよ。あなたはサンクタじゃないから、感情は伝わってこないけど、だからって心配しちゃいけないの？もう、ほら早く食べて。これがみんなの言ってた材料を入れ間違えたやつか気になってるのよね～。",
+                "kr": "별로 기분 안 좋아 보이길래 간식 좀 챙겨왔어. 티 테이블 위에 있던 걸 가져왔…… 너무 그렇게 놀라지 마. 네가 산크타가 아니라서 너의 감정을 느낄 순 없지만, 그래도 걱정할 수는 있는 거잖아? 자, 빨리 먹어봐. 이게 재료를 잘못 넣었다는 그건지, 확인해 보고 싶거든.",
+                "cn": "看你心情不好，我给你捎了份点心，从茶桌上拿的——别这么惊讶嘛，虽然你不是萨科塔，我感觉不到你的情绪，但我就不能关心你吗？好了，快吃吧，我想看看这是不是他们放错配料的那一份。"
+            },
+            "asset": "char_4015_spuria/CN_009"
+        },
+        {
+            "id": "char_4015_spuria_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "You asleep...? Hehe... Well, well, seems like a good chance to release a drone in the hallway and stream someone's sleep-talking... No response? Looks like you're actually asleep.",
+                "jp": "眠っちゃった？じゃあドローンを廊下に放して、ドクターの寝言を拡散しちゃおかな……ふ～ん、これでも反応ないんだ。本当に寝ちゃったのね。",
+                "kr": "잠들었나? 그럼 드론을 복도에 두고 박사의 잠꼬대를 중계해버려야겠네…… 음, 이래도 반응이 없네? 진짜 잠든 거구나.",
+                "cn": "睡着了？那我可要把无人机放到走廊里，广播博士的梦话......欸，还没反应，原来真的不是在装睡啊。"
+            },
+            "asset": "char_4015_spuria/CN_010"
+        },
+        {
+            "id": "char_4015_spuria_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Spuria, liaison from the Sixth Tribunal of the Lateran Curia, here for cultural exchange. Oh, right. To prevent any safety inspections, my luggage has a self-destruct mechanism. Yep, the stuff inside isn't necessarily all safe.",
+                "jp": "交流のために、ラテラーノ教皇庁第六庁からロドスに派遣された、スプリアよ。そうだ、安全検査を避けるために、荷物には自爆装置がついてるから。まっ、中身も全部無害ってわけじゃないんだけどね～。",
+                "kr": "교류를 위해, 라테라노 교황청 제6청에서 로도스 아일랜드로 파견된 스푸리아야. 참, 내 짐에는 안전 검사를 피하기 위한 자폭 장치가 있어. 뭐, 안의 내용물들도 다 안전하다고 할 수는 없지만~",
+                "cn": "拉特兰教皇厅第六厅外派人员，空构，前来罗德岛交流。对了，为了避免安全检查，我的行李上有会自爆的小机关哦。嗯，行李里也不一定都是安全物品。"
+            },
+            "asset": "char_4015_spuria/CN_011"
+        },
+        {
+            "id": "char_4015_spuria_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "You want to watch combat records together? You aren't gonna complain that I'm not serious enough when I watch the videos, right?",
+                "jp": "一緒に作戦記録を見る？真面目に見なさいとか、あなたならそういう注意はしないよね？",
+                "kr": "같이 작전기록 볼래? 진지하게 안 본다고 뭐라 하진 않을 거지?",
+                "cn": "要一起欣赏作战录像吗？你是不会指责我看录像时不够严肃的，对吧。"
+            },
+            "asset": "char_4015_spuria/CN_012"
+        },
+        {
+            "id": "char_4015_spuria_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "If you're giving me more permissions, I won't have to check with you the next time I want to do something, right?",
+                "jp": "これまで以上の権限を与えてくれるってことは、今度何かしたい時、あなたへの報告はいらないよね？",
+                "kr": "내게 더 많은 권한을 줬다는 건, 다음에 뭔가 하고 싶을 때 너에게 보고할 필요 없다는 거지?",
+                "cn": "既然你给了我更多权利，那我下次想做点什么的时候，就不用跟你报告了吧？"
+            },
+            "asset": "char_4015_spuria/CN_013"
+        },
+        {
+            "id": "char_4015_spuria_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "We Sankta know how to shoot just by the instincts we were born with. Then, after seven years of schooling, we've mastered advanced shooting techniques and learned the basics of maintenance and retrofitting. After that, we may spend our <i>entire</i> lifetimes without ever realizing... guns hurt people.",
+                "jp": "サンクタは生まれつき銃の撃ち方を知っているの。それから七年の学校教育を経て、より洗練された射撃技術と基礎的なメンテやカスタムを習得する。そしてね、一生をかけても、銃が人を傷つけるものだって理解できないかもしれないんだ～。",
+                "kr": "산크타인은 날 때부터 총을 쏠 줄 안다고 보면 돼. 타고난 거지. 그리고 7년간의 학교생활을 통해서 고급 사격 스킬과 기본적인 수리 및 개조를 배워. 하지만 그렇기 때문에 총이 사람을 다치게 할 수 있다는 걸 평생 깨닫지 못할 때도 있어.",
+                "cn": "萨科塔人只用天生的直觉就能学会射击，经过七年学校生涯就能学会进阶射击技巧和基础的维修改装，然后，也许一生都学不明白，铳是会伤人的。"
+            },
+            "asset": "char_4015_spuria/CN_014"
+        },
+        {
+            "id": "char_4015_spuria_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Yep, no problem. I've got the objectives all memorized.",
+                "jp": "うん、問題ないよ。作戦の内容は全部覚えといたから。",
+                "kr": "응, 문제없어. 작전 임무는 모두 기억해놨으니까.",
+                "cn": "嗯，没问题，作战任务我都记下来了。"
+            },
+            "asset": "char_4015_spuria/CN_017"
+        },
+        {
+            "id": "char_4015_spuria_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Relax, just leave it to me. What kind of havoc can I wreak?",
+                "jp": "安心して任せて。私が問題を起こすはずないでしょ？",
+                "kr": "안심하고 내게 맡겨. 내가 무슨 문제라도 일으키겠어?",
+                "cn": "放心，都交给我吧，我能惹出什么乱子呢？"
+            },
+            "asset": "char_4015_spuria/CN_018"
+        },
+        {
+            "id": "char_4015_spuria_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Aww, I prefer combat strategies without so many twists and turns.",
+                "jp": "やっぱり私、ストレートなやり方が好きかな～。",
+                "kr": "역시 난 직접적인 방식이 좋다니까.",
+                "cn": "我还是喜欢少绕弯路的作战方式哦。"
+            },
+            "asset": "char_4015_spuria/CN_019"
+        },
+        {
+            "id": "char_4015_spuria_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Perfect opportunity to observe the battlefield.",
+                "jp": "戦場を観察する良い機会ね。",
+                "kr": "전장을 관찰할 좋은 기회네.",
+                "cn": "是个观察战场的好时机。"
+            },
+            "asset": "char_4015_spuria/CN_020"
+        },
+        {
+            "id": "char_4015_spuria_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Comms online and stable.",
+                "jp": "通信は安定してるよ。",
+                "kr": "통신은 안정적이야.",
+                "cn": "通讯很稳定。"
+            },
+            "asset": "char_4015_spuria/CN_021"
+        },
+        {
+            "id": "char_4015_spuria_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Go ahead. Tell me your plan.",
+                "jp": "さっ、計画を教えて？",
+                "kr": "어떤 계획인지, 말해 봐.",
+                "cn": "说吧，有什么计划？"
+            },
+            "asset": "char_4015_spuria/CN_022"
+        },
+        {
+            "id": "char_4015_spuria_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Hello, on-site service.",
+                "jp": "こんにちは。出張サービスよ。",
+                "kr": "안녕하세요. 출장 서비스입니다.",
+                "cn": "您好，上门服务。"
+            },
+            "asset": "char_4015_spuria/CN_023"
+        },
+        {
+            "id": "char_4015_spuria_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "It's about time we switched to a frontal assault, no?",
+                "jp": "そろそろ正面からの突撃に変えるべきじゃない？",
+                "kr": "정면 돌격 모드로 전환해야 하는 거 아니야?",
+                "cn": "是不是该切换成正面突击模式了？"
+            },
+            "asset": "char_4015_spuria/CN_024"
+        },
+        {
+            "id": "char_4015_spuria_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Come on, don't be such a drag.",
+                "jp": "せっかく楽しくなってたのに。",
+                "kr": "분위기 깨지 마.",
+                "cn": "别这么扫兴嘛。"
+            },
+            "asset": "char_4015_spuria/CN_025"
+        },
+        {
+            "id": "char_4015_spuria_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Just a smaaaall test.",
+                "jp": "ちょっとしたテストよ。",
+                "kr": "간단한 테스트일 뿐이야.",
+                "cn": "只是个小测试。"
+            },
+            "asset": "char_4015_spuria/CN_026"
+        },
+        {
+            "id": "char_4015_spuria_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Take a guess. Am I holding my gun to pray?",
+                "jp": "私が銃を握ってるのは、祈りのためだと思う？",
+                "kr": "내가 기도하려고 총을 쥐고 있는 것 같아?",
+                "cn": "你猜，我握着铳是不是为了祈祷？"
+            },
+            "asset": "char_4015_spuria/CN_027"
+        },
+        {
+            "id": "char_4015_spuria_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Uh-oh, you got it wrong.",
+                "jp": "ざんね～ん、不正解。",
+                "kr": "아쉽네~ 틀렸어.",
+                "cn": "猜错了哦。"
+            },
+            "asset": "char_4015_spuria/CN_028"
+        },
+        {
+            "id": "char_4015_spuria_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "What a surprise. It's been a while since I had so many casings at my feet. You really know how to put on a show.",
+                "jp": "びっくりした～、足元に薬莢がこんな転がってるの久々よ。あなたって結構やんちゃね。",
+                "kr": "정말 예상 밖이네. 발밑에 탄피가 이렇게 많이 굴러다니는 것도 오랜만이야. 너 굉장한 장난꾸러기구나.",
+                "cn": "真是出乎意料，好久没在自己脚边看到这么多子弹壳了，你挺能闹的嘛。"
+            },
+            "asset": "char_4015_spuria/CN_029"
+        },
+        {
+            "id": "char_4015_spuria_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Just as promised, the mission's a success. What was I doing? Whoa, whoa, whoa, that's hurting. Nobody likes a Doctor who pries too much, yes?",
+                "jp": "約束した通り、任務は完璧に終わらせたよ。さっきは何してたかって？ちょっと、そう真面目に追及すると嫌われるよ。",
+                "kr": "약속한 대로 임무를 제대로 완수했어. 아까는 어디 갔었냐고? 아 쫌, 제발, 그렇게 진지하게 따지면 매력 없다니까.",
+                "cn": "就像我保证过的一样，任务顺利完成了。我刚刚去做什么了？拜托，太过认真地追究可就让人讨厌了。"
+            },
+            "asset": "char_4015_spuria/CN_030"
+        },
+        {
+            "id": "char_4015_spuria_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "No worries, it's not a big deal. Just act like you're all remorseful, and nobody will press it too hard. But I still saw every mistake you made with my own eyes, better keep that in mind.",
+                "jp": "心配しないで、これくらいの失敗、ちょっと申し訳なさそうな顔でしょぼくれてれば、みんな追及しないよ。まぁ、ミスしたところは全部見てたけどね～。",
+                "kr": "걱정하지 마. 이런 사소한 일은 미안한 척만 하면, 다들 더 이상 추궁하지 않을 거야. 물론, 네가 실수한 부분은 내가 다 눈여겨보고 있긴 했지만~",
+                "cn": "别担心，这种小事，只要你装出一副愧疚的样子，大家就不会追究了。当然，你犯的错我都看在眼里了。"
+            },
+            "asset": "char_4015_spuria/CN_031"
+        },
+        {
+            "id": "char_4015_spuria_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Uh, you're not gonna fix the part of the perimeter that got blown up? That wouldn't fly in Laterano.",
+                "jp": "ねぇ、爆破された防衛線を直す気ないの？ラテラーノのやり方だと、それじゃダメよ。",
+                "kr": "어, 방어선이 폭파된 곳을 수리할 생각은 없어? 라테라노의 규칙대로라면 저래선 안 되거든.",
+                "cn": "欸，防线被人炸坏的地方，你不打算修补一下吗？以拉特兰的规矩来说，这可不行。"
+            },
+            "asset": "char_4015_spuria/CN_032"
+        },
+        {
+            "id": "char_4015_spuria_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Woo, I love this icy, modern feel.",
+                "jp": "こういうクールでモダンな感じ、好きよ。",
+                "kr": "이런 쿨하고 모던한 느낌, 난 좋아.",
+                "cn": "这种冷冰冰的现代感，我喜欢。"
+            },
+            "asset": "char_4015_spuria/CN_033"
+        },
+        {
+            "id": "char_4015_spuria_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Careful. My gun might go off.",
+                "jp": "私の銃が暴発しないように気をつけることね。",
+                "kr": "총이 오발될지도 모르니까, 조심해.",
+                "cn": "小心铳走火。"
+            },
+            "asset": "char_4015_spuria/CN_034"
+        },
+        {
+            "id": "char_4015_spuria_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "How much do you know about Sankta guns? There's no way you'd ever be able to fire one, but I don't mind explaining things to you.",
+                "jp": "サンクタの銃についてどれくらい知ってる？絶対に理解できないだろうけど、説明してあげてもいいよ。",
+                "kr": "산크타의 총에 대해 얼마나 알고 있어? 제대로 이해하지는 못하겠지만, 설명이라면 한번 해 줄 수 있는데.",
+                "cn": "你对萨科塔的铳有多少了解？虽然你肯定学不会，但我也不介意给你讲解一下。"
+            },
+            "asset": "char_4015_spuria/CN_036"
+        },
+        {
+            "id": "char_4015_spuria_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4015_spuria/CN_037"
+        },
+        {
+            "id": "char_4015_spuria_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Hey, Doctor, you're finally here. While you were gone, <i>absolutely</i> nothing happened.",
+                "jp": "はぁ～い、ドクター、やっと来たのね。留守の間は何も起きてないよ。",
+                "kr": "안녕, 박사. 드디어 왔구나. 네가 없는 동안, 여기엔 아무 일도 없었어.",
+                "cn": "哟，博士，你终于来了。你不在的时候，这里什么事都没发生哦。"
+            },
+            "asset": "char_4015_spuria/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Kelly Baskin",
+            "global": "Kelly Baskin"
+        },
+        "cn": {
+            "native": "秦紫翼",
+            "global": "Ziyi Qin"
+        },
+        "jp": {
+            "native": "宮元悠里",
+            "global": "Yuuri Miyamoto"
+        },
+        "kr": {
+            "native": "박이서",
+            "global": "Park Yi-seo"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

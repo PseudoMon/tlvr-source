@@ -1,0 +1,596 @@
+{
+    "charid": "char_1032_excu2",
+    "nameid": "excu2",
+    "names": {
+        "en": "Executor the Ex Foedere",
+        "jp": "聖約イグゼキュター",
+        "kr": "이그제큐터 디 엑스 포에데레",
+        "cn": "圣约送葬人"
+    },
+    "voices": [
+        {
+            "id": "char_1032_excu2_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Yes, I have received the notification that fragmentation mines are forbidden in the corridors. But rest assured, Doctor, the high voltage fencing installed on your door violates no ordinances.",
+                "jp": "ええ、「廊下での地雷設置は禁止」との通知は受け取りました。ドクター、安心してください。ドアに電気柵を設置することは、いずれの規則にも違反しておりません。",
+                "kr": "네, 복도에 지뢰를 설치하지 말라는 통지는 받았습니다. 걱정하지 마십시오, 박사님. 문에 전기 울타리를 설치하는 것은 규정에 위반되지 않습니다.",
+                "cn": "是的，我已收到走廊禁止架设破片地雷的通知。你可以放心，博士，在门上安装高压电网并不违反任何条例。"
+            },
+            "asset": "char_1032_excu2/CN_001"
+        },
+        {
+            "id": "char_1032_excu2_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Indeed, I was the one who introduced recent Lateran Operators to Rhodes Island. If you have no objections, I will continue to introduce functionaries with special circumstances to you. I hope to study how Sankta live outside Lateran, and how it compares to their life within.",
+                "jp": "近頃新しく入職したラテラーノ出身のオペレーターたちは、確かに私の紹介によるものです。もしあなたが反対しないのであれば、今後も引き続き特殊な状況に置かれている職員を、ロドスに斡旋するつもりです。ラテラーノ内外におけるサンクタの暮らしがどう異なるのかを把握するために。",
+                "kr": "최근 새로 온 라테라노 출신 오퍼레이터들은 제 소개로 온 것이 맞습니다. 만약 박사님께서 반대하지 않으신다면 앞으로도 계속 특수한 상황에 처한 직원에게 로도스 아일랜드를 소개해 줄 생각입니다. 저는 라테라노 밖의 산크타가 어떤 생활을 하는지 궁금하거든요.",
+                "cn": "最近一些来自拉特兰的新干员确实来自我的介绍。如果你没有意见，之后我会继续介绍一些状况特殊的职员与罗德岛合作。我希望了解萨科塔人在外的生活状态，它会与在拉特兰时有什么不同？"
+            },
+            "asset": "char_1032_excu2/CN_002"
+        },
+        {
+            "id": "char_1032_excu2_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "This mission may call for a piano performance? Do not worry. I have memorized the complete scores of over a hundred classical pieces, and I can play every note in accurate order. Any properly trained executor should be capable of this. That does not count as playing the piano? I do not understand.",
+                "jp": "今回の任務はピアノの演奏が必要になるかもしれないのですね。安心してください。私は百曲以上の名曲の楽譜を暗譜しておりますし、鍵盤を順序通り精確に叩くことも可能です。専門的な訓練を受けた法定執行人として当然のスキルです。それは演奏とは言えない？なぜでしょうか、私には理解できません。",
+                "kr": "이번 임무에서 피아노 연주가 필요할 수도 있다고요? 안심하십시오. 저는 백여 곡의 악보를 완벽하게 외우고 있으며, 건반도 순서에 맞춰 정확하게 누를 수 있습니다. 이건 전문적인 훈련을 받은 집행자로서 당연한 능력입니다. 네? 그건 연주라고 할 수 없다고요? 이해가 되지 않습니다.",
+                "cn": "这次的任务可能需要钢琴演奏？请放心，我能够背诵过百首经典曲目的完整乐谱，也能够一个不错地按下琴键，任何一个经过专业训练的执行者都理应能够做到。什么？这不算弹奏钢琴？我不理解。"
+            },
+            "asset": "char_1032_excu2/CN_003"
+        },
+        {
+            "id": "char_1032_excu2_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "The title 'Saint' can neither enhance my abilities nor reveal any precise mission to me. Though it has added difficulties to my work, I cannot fathom why I was chosen. Its objective and demands are something I must seek myself.",
+                "jp": "「聖徒」という肩書きは、私の実力を向上させることもできなければ、明確に使命を与えるものでもありません。なぜ自分が選ばれたのかを理解していませんし、この称号によって仕事の難易度が上がりました。私は何をすべきか？この称号に求められるものとは何なのか？答えを全て、自分で見つけ出さないといけません。",
+                "kr": " '성도'라는 칭호는 제 실력을 향상시키지도, 제게 명확한 사명을 부여하지도 않았습니다. 제가 왜 선택되었는지 이해하지 못했음에도, 이 칭호로 인해 제 업무의 난이도가 높아졌습니다. 도대체 제가 무엇을 해야 하는지, 이 칭호가 제게 무엇을 요구하는지, 그 답은 반드시 스스로 찾아내고 말 것입니다.",
+                "cn": "“圣徒”这个称号既不能使人提升实力，也没有向我揭示任何明确的使命。我不明白自己为什么被选择，这个称号增加了我的工作难度。我需要做什么？它对我有什么要求？我必须自己寻找答案。"
+            },
+            "asset": "char_1032_excu2/CN_004"
+        },
+        {
+            "id": "char_1032_excu2_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Doctor, this is my medical examination report, please confirm. Currently, no horns have grown on my head, and my halo has seen no changes in shape or form. Indeed, my violation of the law has not had a physical effect on me, but it's nothing worthy of celebration. Abnormalities have been on the rise. This is an omen of disaster.",
+                "jp": "ドクター、こちらは私のメディカルチェックの結果です、ご確認ください。角は生えていませんし、光輪の形状にも変化はありません。法に背く行為は、私に何の影響も及ぼしていないのです。しかし、別段喜ばしいことでもありません。異常な状況が絶えず増加するのは、危険な予兆です。",
+                "kr": "이건 제 건강검진 결과입니다, 확인해 주십시오 박사님. 뿔은 자라지 않았고, 광륜의 형태도 변화가 없습니다. 법을 어기는 행위는 제게 아무런 영향을 미치지 않았습니다. 하지만 이건 기뻐할 일은 아닌 것 같군요. 이상 징후가 계속 늘어난다는 건 위험한 징조이니까요.",
+                "cn": "这是我的体检报告。你可以亲自确认，博士，我没有长出双角，光环也没有形态上的改变，违背条律并没有对我造成影响。但这并不是值得欣慰的事，异常情况在不断增多，这是危险的预兆。"
+            },
+            "asset": "char_1032_excu2/CN_005"
+        },
+        {
+            "id": "char_1032_excu2_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Doctor, during my recent missions, my limbs have been acting before I complete my thought processes. This phenomenon can impede successful completion of my missions. I am troubled. Could you tell me whether it's a kind of disease? Will my condition worsen? Is there (a) medicine that can heal it?",
+                "jp": "ドクター、このところ、任務中に私の身体が思考に先んじて動くことがあるのです。このような現象は任務の遂行において障害となるため、私は困惑しています。これは病でしょうか？症状は重くなるのでしょうか？何らかの薬で治癒可能なものでしょうか？",
+                "kr": "박사님, 최근 임무 중에 몸이 생각보다 먼저 반응을 하는 경우가 간혹 있습니다. 이러한 현상은 임무 수행에 방해가 되어 곤혹스럽습니다. 혹시 제가 병에 걸린 걸까요? 증세가 더 심해지는 것은 아니겠지요? 치료할 수 있는 약이 있을까요?",
+                "cn": "博士，近期在任务中有时我的肢体动作会先于我的思维，这种现象会对完成任务造成一定阻碍。我感到困扰。这是否算是一种疾病？它是否会继续加重？是否有药品可以将其治愈？"
+            },
+            "asset": "char_1032_excu2/CN_006"
+        },
+        {
+            "id": "char_1032_excu2_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Most confuse Arturia's Arts as tampering with cognition and mental faculty, but I know the fact is just the oppoiste. Arturia is interested only in the truest emotions, and cares not for where these emotions lead. The influence she can command is far worse than anyone can possibly imagine.",
+                "jp": "アルトリアのアーツは他者の認知や思考を改変するものだと、多くの者は誤解していますが、私の知る事実は真逆です。アルトリアの興味は生々しい感情にこそあり、その感情の行方にはありません。彼女が作り出す悪夢は、人の想像をはるかに超えてしまうものです。",
+                "kr": "많은 사람들이 아르투리아의 오리지늄 아츠는 다른 사람의 인식이나 사고를 변화시키는 것으로 오해하고 있지만, 제가 아는 바는 그와 반대입니다. 아르투리아는 가장 진실한 감정에만 흥미를 느낄 뿐, 그 감정의 흐름은 신경 쓰지 않습니다. 그녀가 만들어내는 영향은 사람들의 상상을 훨씬 뛰어넘을 정도로 위험합니다.",
+                "cn": "大多数人会误以为阿尔图罗的源石技艺是篡改他人的认知，改变他人的思想，而我知道事实恰恰相反。阿尔图罗只关注最真实的情感，而不在乎情感的走向。她能造成的影响远比人们想得到的更恶劣。"
+            },
+            "asset": "char_1032_excu2/CN_007"
+        },
+        {
+            "id": "char_1032_excu2_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "What are you doing, Doctor? Bodily contact is no replacement for spoken language. I cannot decipher your thoughts through your limbs. You think that I need comfort? If that is your judgement, then I have no reason to refuse. Infact, I am merely thinking back to my recent mission. What leaves a man no other choice(,) but death?",
+                "jp": "何をしているのですか、ドクター？肉体の接触は言語の代替にはなりませんから、この行為によってあなたの考えを把握することは不可能です。私に慰めが必要に見えた？それがあなたの判断であれば、私に止める理由はありません。ただ以前の任務を思い返し、死を選ばざるを得ない極限まで人を追い詰めるものは何かと考えていただけです。",
+                "kr": "무엇을 하시는 겁니까, 박사님? 스킨십은 언어를 대체할 수 없기에, 전 이 행위로 당신이 무슨 생각을 하시는지 알 수 없습니다. 제게 위로가 필요해 보였다고요? 그것이 당신의 판단이라면 막을 이유는 없습니다. 저는 그저 저번의 임무를 돌이켜보고 있었을 뿐입니다. 도대체 무엇이 사람들을 죽음에까지 몰아붙였던 걸까요?",
+                "cn": "你在做什么，博士？肢体接触并不能代替语言，我不能凭此悉知你的想法。感觉我需要安慰？如果这是你的判断，我没有理由制止。我只是在考虑之前的任务，是什么让人除死亡外别无选择？"
+            },
+            "asset": "char_1032_excu2/CN_008"
+        },
+        {
+            "id": "char_1032_excu2_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "As you can see, this is a burnt flower. I have, to the best of my abilities, maintained its condition in order to bring it to you. It is not a gift, becuase it does not meet the criteria for one. It's a question in my mind. I am still pondering the things behind this flower.",
+                "jp": "ご覧の通り、焦げた一輪の花です。これでも、なるべく整った状態でドクターにお渡しするため、力を尽くしたつもりです。焦げた花は贈り物としての基準には満たないでしょう。ですからこれはプレゼントではなく、私が抱えている疑問です。私は今でもこの花について思考を巡らせています。",
+                "kr": "보시다시피, 이건 불에 탄 꽃입니다. 최대한 완전한 상태로 박사님께 전달하기 위해 노력했습니다만, 선물로선 적합하지 않은 것 같군요. 그러니 이건 선물이라기보단 저의 의문이라고 생각하시면 좋을 것 같습니다. 저는 아직도 이 꽃에 대해 생각하고 있거든요.",
+                "cn": "如你所见，这是一朵烧焦了的花。我已尽力维持它的状态，以便能完整地把它交到你手上。它不符合礼物的标准，因此这不算是一份礼物，而是我的一个疑问。我还在思考有关于这朵花的问题。"
+            },
+            "asset": "char_1032_excu2/CN_009"
+        },
+        {
+            "id": "char_1032_excu2_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "You lack sleep, Doctor. You need more rest.",
+                "jp": "休憩時間が短すぎます、ドクター。あなたには更なる休息が必要です。",
+                "kr": "휴식 시간이 너무 짧군요, 박사님. 당신에게는 더 많은 휴식이 필요합니다.",
+                "cn": "你的休息时间过短，博士。你需要更多休息时间。"
+            },
+            "asset": "char_1032_excu2/CN_010"
+        },
+        {
+            "id": "char_1032_excu2_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "You seem surprised, Doctor. Please rest assured that the change in my equipment won't affect my ability to complete my missions. If you find yourself ill at ease because of my attire, I can change into my previous garments before I enter Rhodes Island. No need? Understood.",
+                "jp": "驚かれているようですね、ドクター。安心してください。装備の変化は任務の遂行に何の影響も及ぼしません。どうしても気にされるのであれば、ロドスを訪ねる際には以前の服装に着替えます。不要ですか？了解しました。",
+                "kr": "놀라신 모양이군요, 박사님. 안심하십시오, 장비의 변화는 임무의 수행에 어떠한 영향도 주지 않습니다. 그래도 신경이 쓰이신다면, 로도스 아일랜드에 방문할 때는 이전 의상으로 갈아입겠습니다. 그럴 필요는 없다고요? 알겠습니다.",
+                "cn": "你似乎很惊讶，博士。请放心，装备的变动不会影响我完成任务，如果你真的很在意，我可以在进入罗德岛之前更换回之前的服装。不必？好的。"
+            },
+            "asset": "char_1032_excu2/CN_011"
+        },
+        {
+            "id": "char_1032_excu2_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "I have attempted a few combat techniques, and they have yielded excellent results.",
+                "jp": "このうちいくつかの戦闘技術を試したことがあります。実戦での効果は悪くありませんでした。",
+                "kr": "이 중 몇 가지 전투 기술은 시도해 본 적이 있습니다. 실전에서도 제법 괜찮더군요.",
+                "cn": "我尝试过其中几种战斗技巧，实践效果不错。"
+            },
+            "asset": "char_1032_excu2/CN_012"
+        },
+        {
+            "id": "char_1032_excu2_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "You put together an all new profile. Is this a false identity for my next mission? If the need arises, I know where to prepare identification that can pass checks. No need? This, too, is a normal promotion?",
+                "jp": "全く新しいプロファイルを作成していただいたようですが、次の任務で私は身分を偽る必要があるということですか？もしご入用なら、IDチェックを通過できる身分証を取得するツテがあります。いらない？今回も通常の昇進なんですか？",
+                "kr": "새로운 파일을 작성하셨군요, 혹시 다음 임무에 위장 신분이 필요한 겁니까? 만약 그런 것이라면, 검사를 통과할 수 있는 신분증을 구할만한 곳을 알고 있습니다. 필요 없다고요? 이번에도 단순한 승진일 뿐인 건가요?",
+                "cn": "你制作了一份全新的档案，是接下来的任务需要我使用伪造的身份吗？如果需要，我知道在哪里可以获得经得起查验的身份证明。不用？这次也只是正常晋升？"
+            },
+            "asset": "char_1032_excu2/CN_013"
+        },
+        {
+            "id": "char_1032_excu2_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "I am trying to understand the law. Is Laterano's foundation truly these words alone? Is that applicable to lands other than Laterano? I must admit I have indeed been affected by it, to a certain degree. I will attempt to find the answer posthaste.",
+                "jp": "法の理解を試みています。ラテラーノは、確かにこれらの言葉に支えられているのでしょうか？法は、ラテラーノ以外の地でも働くのでしょうか？私自身、ある程度の影響を受けていることは認めねばなりません。できるだけ早く結論を出します。",
+                "kr": "법을 이해해 보려고 하고 있습니다. 라테라노는 정말 이 문구들에 의해 지탱되고 있는 걸까요? 이러한 법들은 라테라노 이외의 지역에서도 적용되고 있는 걸까요? 제가 어느 정도 영향을 받고 있다는 것은 인정할 수밖에 없겠군요. 가능한 한 빨리 답을 찾아내겠습니다.",
+                "cn": "我在尝试理解条律，拉特兰是否确实由这些语句支撑？它是否适用于拉特兰以外的其他土地？我必须承认自己确实受到了一定影响，我会尽快得出答案。"
+            },
+            "asset": "char_1032_excu2/CN_014"
+        },
+        {
+            "id": "char_1032_excu2_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "The law itself has no power. It calls for enforcers.",
+                "jp": "法そのものには力はありません。それゆえに、執行する者が必要なのです。",
+                "kr": "법 자체에는 힘이 없습니다. 그러니 그것을 집행할 사람이 필요한 것입니다.",
+                "cn": "条律本身没有力量，因此需要执行它的人。"
+            },
+            "asset": "char_1032_excu2/CN_017"
+        },
+        {
+            "id": "char_1032_excu2_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "I require those who can act on their own judgment.",
+                "jp": "自主的な判断を下せるメンバーが必要です。",
+                "kr": "자주적인 판단력을 가진 팀원이 필요합니다.",
+                "cn": "我需要拥有自主判断能力的成员。"
+            },
+            "asset": "char_1032_excu2/CN_018"
+        },
+        {
+            "id": "char_1032_excu2_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Move out.",
+                "jp": "出発します。",
+                "kr": "출발하겠습니다.",
+                "cn": "行动。"
+            },
+            "asset": "char_1032_excu2/CN_019"
+        },
+        {
+            "id": "char_1032_excu2_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Commencing operation. Please confirm the mission objective.",
+                "jp": "任務開始。作戦目標のご確認をお願いします。",
+                "kr": "임무 개시, 작전 목표 확인 부탁드립니다.",
+                "cn": "任务开始，请确认本次任务目标。"
+            },
+            "asset": "char_1032_excu2/CN_020"
+        },
+        {
+            "id": "char_1032_excu2_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Understood.",
+                "jp": "了解しました。",
+                "kr": "알겠습니다.",
+                "cn": "明白。"
+            },
+            "asset": "char_1032_excu2/CN_021"
+        },
+        {
+            "id": "char_1032_excu2_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Your request is reasonable.",
+                "jp": "ドクターの要望はごもっともです。",
+                "kr": "합리적인 요청이시군요.",
+                "cn": "你的诉求非常合理。"
+            },
+            "asset": "char_1032_excu2/CN_022"
+        },
+        {
+            "id": "char_1032_excu2_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Prayers are unnecessary.",
+                "jp": "祈りは不要です。",
+                "kr": "기도는 필요하지 않습니다.",
+                "cn": "祈祷是不必要的。"
+            },
+            "asset": "char_1032_excu2/CN_023"
+        },
+        {
+            "id": "char_1032_excu2_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "I shall ensure the integrity of the law.",
+                "jp": "法の正確性を担保します。",
+                "kr": "법의 정확성을 보장하겠습니다.",
+                "cn": "我会确保条律的正确。"
+            },
+            "asset": "char_1032_excu2/CN_024"
+        },
+        {
+            "id": "char_1032_excu2_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Target confirmed.",
+                "jp": "目標を確認しました。",
+                "kr": "목표를 확인했습니다.",
+                "cn": "目标已确认。"
+            },
+            "asset": "char_1032_excu2/CN_025"
+        },
+        {
+            "id": "char_1032_excu2_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Destruction is the most naive behavior.",
+                "jp": "破壊は最も単純な行為です。",
+                "kr": "파괴는 가장 단순한 행위입니다.",
+                "cn": "破坏是最单纯的行为。"
+            },
+            "asset": "char_1032_excu2/CN_026"
+        },
+        {
+            "id": "char_1032_excu2_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Annihilation is the most common result.",
+                "jp": "破滅は最もありがちな結果です。",
+                "kr": "파멸은 가장 흔한 결과입니다.",
+                "cn": "毁灭是最常见的结果。"
+            },
+            "asset": "char_1032_excu2/CN_027"
+        },
+        {
+            "id": "char_1032_excu2_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Violated taboos hold no power.",
+                "jp": "破られた禁忌に、もはや力はありません。",
+                "kr": "깨진 금기엔 더 이상 힘이 없습니다.",
+                "cn": "被打破的禁忌不再保有力量。"
+            },
+            "asset": "char_1032_excu2/CN_028"
+        },
+        {
+            "id": "char_1032_excu2_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "No casualties, no commotions. All good.",
+                "jp": "負傷者はおらず、混乱も生じていません。問題ありませんよ。",
+                "kr": "부상자는 없고 혼란도 발생하지 않았습니다. 문제없습니다.",
+                "cn": "没有人员伤亡，没有引发动乱。没有问题。"
+            },
+            "asset": "char_1032_excu2/CN_029"
+        },
+        {
+            "id": "char_1032_excu2_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Mission complete.",
+                "jp": "任務完了。",
+                "kr": "임무 완료.",
+                "cn": "行动结束。"
+            },
+            "asset": "char_1032_excu2/CN_030"
+        },
+        {
+            "id": "char_1032_excu2_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "The result is acceptable.",
+                "jp": "受け入れられない結果ではありません。",
+                "kr": "받아들일 수 있는 결과입니다.",
+                "cn": "可接受的结果。"
+            },
+            "asset": "char_1032_excu2/CN_031"
+        },
+        {
+            "id": "char_1032_excu2_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "We need to reformulate our battle plans.",
+                "jp": "新たな作戦を立てる必要があります。",
+                "kr": "새로운 작전 계획을 세울 필요가 있습니다.",
+                "cn": "需要制定新的行动计划。"
+            },
+            "asset": "char_1032_excu2/CN_032"
+        },
+        {
+            "id": "char_1032_excu2_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Maintaining a dedicated room is a show of respect? I see.",
+                "jp": "専用の部屋をキープすることで誠意を表しているのですね。なるほど。",
+                "kr": "이렇게 방을 남겨두는 것이 성의를 표현하는 방식이군요. 알겠습니다.",
+                "cn": "保留固定房间是表达诚意的方式？了解了。"
+            },
+            "asset": "char_1032_excu2/CN_033"
+        },
+        {
+            "id": "char_1032_excu2_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "I have heard there are certain hobbies that are not easily understood by others. Perhaps this is one such hobby?",
+                "jp": "他者には理解されない趣味もあると聞きますが、これもその類でしょうか？",
+                "kr": "타인에게 이해받지 못하는 취미도 있다고 들었는데, 이것도 그중 하나인가요?",
+                "cn": "我听说有些人会有不被他人理解的兴趣，这是否也是其中一种？"
+            },
+            "asset": "char_1032_excu2/CN_034"
+        },
+        {
+            "id": "char_1032_excu2_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Speak the word if you need anything, Doctor.",
+                "jp": "要望があれば何でも仰ってください、ドクター。",
+                "kr": "제가 할 수 있는 일이 있다면 뭐든 말씀하십시오, 박사님.",
+                "cn": "如果你有任何需求，请说，博士。"
+            },
+            "asset": "char_1032_excu2/CN_036"
+        },
+        {
+            "id": "char_1032_excu2_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_1032_excu2/CN_037"
+        },
+        {
+            "id": "char_1032_excu2_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "You have changed greatly, Doctor.",
+                "jp": "ずいぶんと変わりましたね、ドクター。",
+                "kr": "많이 변하셨군요, 박사님.",
+                "cn": "你的变化很大，博士。"
+            },
+            "asset": "char_1032_excu2/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Eliah Mountjoy",
+            "global": "Eliah Mountjoy"
+        },
+        "cn": {
+            "native": "冷泉夜月",
+            "global": "Ji Huang"
+        },
+        "jp": {
+            "native": "近藤隆",
+            "global": "Takashi Kondo"
+        },
+        "kr": {
+            "native": "김영선",
+            "global": "Kim Young-sun"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

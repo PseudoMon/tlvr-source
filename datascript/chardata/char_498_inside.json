@@ -1,0 +1,596 @@
+{
+    "charid": "char_498_inside",
+    "nameid": "inside",
+    "names": {
+        "en": "Insider",
+        "jp": "インサイダー",
+        "kr": "인사이더",
+        "cn": "隐现"
+    },
+    "voices": [
+        {
+            "id": "char_498_inside_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "You need my help with your mountain of work? Haha, I'm not sure if I should be <i>intervening</i> in Rhodes Island's internal affairs though...? It's no problem? Uh, really?",
+                "jp": "仕事が多すぎて天使の手も借りたいってか？はは、ロドスの内部事務によそ者が関わるのは流石にまずい……って大丈夫？え、本気で言ってんのか？",
+                "kr": "업무가 너무 많아서 도움이 필요하다고? 하하, 로도스 아일랜드의 내부 일에 내가 개입하는 건 적절하지 않은 것 같은데…… 괜찮다고? 어, 정말?",
+                "cn": "工作太多了需要帮忙？哈哈，罗德岛的内部事务让我插手不太合适吧......没问题？呃，真的？"
+            },
+            "asset": "char_498_inside/CN_001"
+        },
+        {
+            "id": "char_498_inside_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Our laws are incapable of perfectly solving every dispute. There are many situations where even the saints can't help. I must admit, I have a deep respect for people like the bishop from that monastery, considering the problems he faced. Too bad I don't have such lofty faith.",
+                "jp": "俺たちの法はあらゆる争いを完璧に解決できるわけじゃないし、聖徒もお手上げって状況も多い。それこそ修道院のあの司教殿でも同じだと思うぜ。俺はああいう人のことは尊敬するけど、残念ながら崇高な信念なんて持ち合わせちゃいないんでね。",
+                "kr": "우리의 법이 모든 분쟁을 완벽하게 해결할 수는 없어. 성도라고 해도 속수무책인 때도 많아. 그 수도원의 주교님이 마주했던 상황이 그런 경우라 할 수 있지. 내가 그런 사람들을 존경하긴 하지만 아쉽게도 나한테 그런 숭고한 신념은 없어.",
+                "cn": "我们的条律无法完美地解决所有的争端，哪怕是圣徒，很多时候也无能为力。就像是修道院的那位主教阁下，我会尊敬他那样的人，只是很遗憾，我本人没有那种崇高的信念。"
+            },
+            "asset": "char_498_inside/CN_002"
+        },
+        {
+            "id": "char_498_inside_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Was that Arene earlier? Now when did that punk learn some manners...? You taught him? Wow, now that's impressive! I guess even a devious boy like him is still just a boy. Easy enough to trick him onto the right track... Huh...? You didn't trick him?",
+                "jp": "ありゃアレーンのきかん坊か？いつの間にあんなに落ち着いたんだ……ドクターが躾けた？へぇ、大したもんだなぁ！まぁそれもそうか。いくらずる賢くてもまだまだガキだし、言いくるめるのはそんなに難しくないはず……え？言いくるめたわけじゃない？",
+                "kr": "저거 설마 아렌이야? 언제 저렇게 어른스러워졌대…… 박사가 가르친 거야? 이야, 정말 대단한데! 하긴, 꼼수를 잘 부리긴 해도 아직은 어린애니까, 얼렁뚱땅 속여 넘기는 건 어렵지 않았겠지…… 어? 속인 게 아니라고?",
+                "cn": "那是芳汀那臭小子？他什么时候变得听话了......都是博士你教的？嚯，真是了不起！不过也是，虽然那小子心眼不少，但人年纪还轻着呢，要糊弄一下不难......嗯？不是糊弄？"
+            },
+            "asset": "char_498_inside/CN_003"
+        },
+        {
+            "id": "char_498_inside_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Yo, Doctor! Ambriel and the others are doing a dessert potluck, and I'm bringing donuts. Mind helping me taste test? Okay, so what do you think—Whoa whoa, slow down on the water! It's too sweet and greasy? Strange, I thought the sugar level was just right...",
+                "jp": "よっ、ドクター。アンブリエルたちがスイーツ大会をやるってんで、俺もドーナツ作って参加しようと思ってるんだけど、ちょっと試食してくれるか？どうだ？味は……っておい、そんな水をがぶ飲みしたらむせるぞ！甘すぎてくどい？おかしいな、ちょうどいい甘さだと思ったんだけど……",
+                "kr": "여어, 박사. 엠브리엘이랑 친구들이 디저트 대회를 연다고 해서, 도넛을 가져갈까 하는데, 맛 좀 봐줄래? 어때? ……이봐, 물 좀 천천히 마셔, 그러다가 사레들리겠다! 너무 달고, 느끼하다고? 이상하네, 나한텐 딱 적당히 달던데……",
+                "cn": "哟，博士，安比尔他们举办了甜品大会，我准备做点甜甜圈带去，能帮忙尝尝口味吗？怎么样，味道......哎哎慢点喝水，小心呛到！太甜、太腻了？奇怪，我觉得糖度正好啊......"
+            },
+            "asset": "char_498_inside/CN_004"
+        },
+        {
+            "id": "char_498_inside_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Don't get me wrong, Doctor, yes, I was elected as 'a representative of the Notarial Hall', but that's just because everyone's curious about what magical place could  Federico endorse, and they needed someone out to take a look for them. In other words, they picked me to come take a look-see here. I've got no say on any matters relating to the Notarial Hall, so don't ask me about that sort of thing, okay?",
+                "jp": "ドクター、「俺は公証人役場の代表」とは言ったけど、変な誤解はしないでくれよ。あのフェデリコがオススメするほどの会社がどんなところかってみんな興味津々でな、それを確かめるために選ばれた代表が俺ってだけだ。役場に関する質問なんてされても、俺の答えはあてにならないから聞くなよ。",
+                "kr": "박사, '내가 공증소 대표'라고는 말했지만, 이상한 오해는 하지 말아 줘. 그 페데리코가 추천할 정도의 회사가 어떤 곳인지 다들 궁금해해서, 그걸 확인하기 위해 선택된 대표가 나라는 것뿐이야. 공증소와 관련된 문제는 내겐 결정권이 없으니까 나한테 묻지 말라고.",
+                "cn": "别误会，博士，“我是公证所代表”的意思是，大家都很好奇，什么样的地方居然能让那个费德里科开口推荐，而我就是那个被推出来看看的代表。公证所相关的问题，我说了可不算，别找我啊。"
+            },
+            "asset": "char_498_inside/CN_005"
+        },
+        {
+            "id": "char_498_inside_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "I'm lucky I was born a Lateran. No, Doctor, our good fortune does not lie in our halos, but in our material abundance and strong state. You have an ideal Rhodes Island of your own? It's not easy, chasing your dreams, but... good luck I guess?",
+                "jp": "ラテラーノ人に生まれたのは幸せなことだぜ。いやいや、サンクタの光輪を授ったからじゃなくて、豊かな環境に恵まれて、それなりの力を持つ国に生まれられたからだ。あんたにも理想のロドス像があったりすんのか？理想を追い求めるのはしんどいぜ。まぁ……上手くいくといいな。",
+                "kr": "라테라노인으로 태어난 건 행복한 일이야. 아니, 박사, 산크타의 광륜 때문에 그렇다는 게 아니라, 라테라노는 물질적으로 풍족하고, 나름대로 힘을 가진 나라잖아. 박사 네 마음속에도 이상적인 로도스 아일랜드가 있겠지? 이상을 추구하는 건 쉬운 일이 아니지만, 음…… 부디 잘 되길 바랄게.",
+                "cn": "身为一个拉特兰人是件幸运的事。不，博士，我们的幸运不在于萨科塔的光环，而在于我们物质富足，也还算有点实力。你也有你心中理想的罗德岛？要追逐理想可不容易，嗯......祝你顺利？"
+            },
+            "asset": "char_498_inside/CN_006"
+        },
+        {
+            "id": "char_498_inside_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Take note of your posture, keep your crossbow aimed straight ahead, turn your body slightly... Yes, just like that, and then pull the trigger! Wow, bullseye! Very nice! Oh no, no need to thank me, I just helped correct your posture, that's all. You're very talented, Doctor.",
+                "jp": "姿勢を意識して、クロスボウの向きがブレないように少し体をひねって……そうだ、いいぞ。じゃあ引き金を引いてみな。よーし、ど真ん中だ！いやいや、お礼なんていいよ。ちょっと姿勢を指導しただけだから、俺のおかげじゃなくてドクターのスジがよかったのさ。",
+                "kr": "자세에 주의하고, 크로스보우의 방향은 유지하면서, 몸은 약간 옆으로 비틀어…… 응, 바로 그거야. 이제 방아쇠를 당겨! 잘했어, 아주 좋은데. 과녁 정중앙에 맞았네! 아니, 고마워할 필요는 없어, 난 그냥 자세만 바로잡아 줬을 뿐이잖아. 내 덕이 아니라 박사가 재능이 있는 거라고.",
+                "cn": "注意姿势，保持弩身方向，身体稍微侧一些......对，就是这样，然后扣下扳机！嗯，很好，正中靶心！不不，不用谢，只是帮忙纠正一下姿势，不算是我的功劳，博士本身就很有天赋。"
+            },
+            "asset": "char_498_inside/CN_007"
+        },
+        {
+            "id": "char_498_inside_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Come sit over here, Doctor. I have something to discuss with you. There's a bunch of Sarkaz I know, and they're pretty good in a fight, so if Rhodes Island ever needs a few helping hands... Haha, yes, I'm not eager to make trouble for myself, but... Well, I might be going too soft, but why not consider it?",
+                "jp": "ほらドクター、ここに座ってくれ。ちょっと相談したいことがあるんだ。そこそこやり手のサルカズを何人か知ってるんだけど、ロドスに人手は必要かと思ってさ。はは、そうだな、面倒事に首を突っ込むのは嫌いだけど、まぁ……俺の頭がイカれちまったとでも思ってくれりゃいい。とにかく考えといてくれよ。",
+                "kr": "잠깐, 박사, 여기 좀 앉아 봐. 너랑 의논하고 싶은 게 있어. 내가 실력 좋은 살카즈 몇 명 아는데, 혹시 로도스 아일랜드의 임무 수행에 일손이 더 필요하진 않아? 하하, 그래, 솔직히 귀찮은 일을 사서 하는 걸 좋아하진 않지만…… 그냥 내 머리가 어떻게 됐나 보다라고 생각해도 괜찮으니까, 한번 생각해 봐줘.",
+                "cn": "来，博士，坐这儿，有件事想和你商量。我认识一些萨卡兹人，还算能打，罗德岛的任务还需不需要帮手？哈哈，是啊，我是不喜欢自找麻烦，但......你就当我脑子进水了，总之考虑一下？"
+            },
+            "asset": "char_498_inside/CN_008"
+        },
+        {
+            "id": "char_498_inside_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "I thought you might have found this business annoying, so I dealt with it in your place, and here's the mission report. The scene was something of an eyesore, so I didn't attach any photos. I executed every last name in your notes, no exceptions.   What's with the look, Doctor? Do you feel unwell?",
+                "jp": "あんたもこういう厄介事にゃ手を焼くかと思って、代わりに片付けといたぜ。これが報告書な。ひでえ有様だったから写真は添付してないけど、あんたのメモ書きのリスト通りに一人残らず執行したからな。うん？ドクター、なんだその顔？具合でも悪いのか？",
+                "kr": "이런 골칫거리 때문에 괴로워하고 있을 것 같아서 내가 대신 해결해 뒀어. 자, 이건 임무 보고서야. 별로 아름다운 장면은 아니라서 사진을 첨부하진 않았어. 그래도 너의 메모에 있던 리스트대로 하나도 빠짐없이 집행했으니까…… 어, 박사, 왜 그런 표정이야? 혹시 어디 아파?",
+                "cn": "我觉得你应该也会为这种麻烦头疼，所以我替你处理了，这是任务报告。场面不好看，不适合附上照片，但我是按照你笔记里的名单执行的，一个也没有落下。博士，怎么这副表情？有哪里不舒服吗？"
+            },
+            "asset": "char_498_inside/CN_009"
+        },
+        {
+            "id": "char_498_inside_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Oh, Doctor, you're awake… What? Please don't tell Dr. Kal'tsit and Amiya you were napping at work? Ahaha, what napping?",
+                "jp": "ドクター、目が覚めたか……え？サボってたことはケルシー先生とアーミヤにはチクらないでくれって？はは、サボってる奴なんかいたっけなー？俺は何も見てないぜ。",
+                "kr": "박사, 깼어……? 뭐? 켈시 선생님과 아미야한테 네가 업무 중에 게으름을 피웠다고 말하지 말아 달라고? 하하, 근무 시간에 게으름을 피운 사람이 있었나? 나는 모르겠는데.",
+                "cn": "博士，你醒了......嗯？求我别告诉凯尔希医生和阿米娅你工作时偷懒？啊哈哈，有谁工作时间偷懒了吗？我可什么都没看到。"
+            },
+            "asset": "char_498_inside/CN_010"
+        },
+        {
+            "id": "char_498_inside_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Liaison from the Lateran Notarial Hall, Insider. Here's the paperwork for our collaboration. May I ask which office I should be heading to next? I'm making my first impression here at Rhodes Island, so I want to do this perfectly.",
+                "jp": "ラテラーノ公証人役場からこちらに派遣されました、インサイダーと申します。こちらが契約関連の書類です。次はどちらのオフィスへ向かえばよいでしょうか？ロドスに好印象を与えられるように、些細なミスも気をつけないとですね。",
+                "kr": "라테라노 공증소에서 파견된 인사이더라고 합니다. 이건 계약 관련 서류입니다. 이제 어느 사무실로 가면 되죠? 로도스 아일랜드에 좋은 인상을 남길 수 있도록 실수하지 않게 조심해야겠네요.",
+                "cn": "拉特兰公证所外派人员，隐现，这是合作相关文件。请问接下来我需要去哪个办公室？事关罗德岛对我的第一印象，我可千万不能出什么差错啊。"
+            },
+            "asset": "char_498_inside/CN_011"
+        },
+        {
+            "id": "char_498_inside_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Let's see... Ezell is still so merciful in battle, huh... Sheesh, Federico is the exact opposite!",
+                "jp": "どれどれ……エゼルの野郎、やっぱり手加減してやがるな……うわっ、フェデリコの方は慈悲の欠片もねえなぁ！",
+                "kr": "어디 보자, 에젤 이 녀석, 작전 때 또 상대를 봐줬잖아…… 우와, 역시 페데리코는 무자비하네.",
+                "cn": "让我看看啊，艾泽尔这小子，作战时还是留手了吧......嘶，费德里科下手真不留情啊！"
+            },
+            "asset": "char_498_inside/CN_012"
+        },
+        {
+            "id": "char_498_inside_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Promotion? Thank you for your affirmation, Doctor. However, does this mean I'm going to have to handle even more difficult work in the future?",
+                "jp": "昇進？認めてくれてありがとな、ドクター。だけどこれって、今後はもっと厄介な仕事を任されるってことじゃないのか？",
+                "kr": "승진? 인정해 줘서 고마워, 박사. 근데 설마 이거, 앞으로 더 성가신 일을 처리해야 한다는 뜻은 아니겠지?",
+                "cn": "晋升？谢谢你的肯定，博士。不过，这是不是意味着，接下来有什么更棘手的事情得要我去处理了？"
+            },
+            "asset": "char_498_inside/CN_013"
+        },
+        {
+            "id": "char_498_inside_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Many thanks. I will report that Rhodes Island intends to deepen the level of cooperation with the Notarial Hall... Wait, this is a personal commendation for me? Haha, what an honor.",
+                "jp": "サンキュー。ロドスにはもっと深い協力関係を築く意向があるって役場に報告しとくよ……これは俺個人への表彰？あはは、そいつは光栄極まりないな。",
+                "kr": "고마워. 로도스 아일랜드가 더 깊은 협력 관계를 구축할 의향이 있다고 공증소에 보고해 둘게…… 이건 내 개인 표창이라고? 하하, 그렇다면 정말 영광이네.",
+                "cn": "多谢，我会把罗德岛有意深化合作的消息报告给公证所的......这是对我个人的表彰？哈哈，那可真是太荣幸了。"
+            },
+            "asset": "char_498_inside/CN_014"
+        },
+        {
+            "id": "char_498_inside_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Got it. You've determined that use of force is required in the current situation, and I'll trust you on that.",
+                "jp": "了解。あんたが武力行使するしかないって判断したんなら、俺は信じるぜ。",
+                "kr": "알겠어, 네가 무력을 사용할 수밖에 없다고 판단한 거면 그런 거겠지, 난 널 믿어.",
+                "cn": "没问题，既然你判断当前情况必须动用武力，我当然相信你啦。"
+            },
+            "asset": "char_498_inside/CN_017"
+        },
+        {
+            "id": "char_498_inside_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "I'm in charge? Alright then, I would like everyone to act freely as they wish. And everyone is responsible for their own actions.",
+                "jp": "俺が決めていいのか？じゃあみんな好きにやってもらうのがいいな。ああ、そんで各自自分の行動には責任を持ってもらうんだ。",
+                "kr": "내가 팀장이라고? 그럼 난 다들 알아서 하라고 할래. 음, 그리고 자신의 행동에 대해서도 스스로 책임지라 할 거야.",
+                "cn": "我说了算？那我喜欢各人都尽情自由发挥的做法，嗯，然后各人对自己的行动负责。"
+            },
+            "asset": "char_498_inside/CN_018"
+        },
+        {
+            "id": "char_498_inside_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Firearm, check.",
+                "jp": "銃の準備はできてるぜ。",
+                "kr": "총은 준비됐어.",
+                "cn": "铳械已准备。"
+            },
+            "asset": "char_498_inside/CN_019"
+        },
+        {
+            "id": "char_498_inside_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "I wish everyone could just calm down, before I raise my gun to settle things.",
+                "jp": "私がこの銃で問題解決にあたる前に、皆さん少し冷静になっていただけませんか。",
+                "kr": "제가 총으로 문제를 해결하기 전에 여러분이 먼저 진정해 주실 수 있으신가요?",
+                "cn": "在我举起铳处理问题之前，各位最好先冷静一下。"
+            },
+            "asset": "char_498_inside/CN_020"
+        },
+        {
+            "id": "char_498_inside_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Alright, mission accepted.",
+                "jp": "OK、任務は承ったぜ。",
+                "kr": "오케이, 임무를 수락할게.",
+                "cn": "好的，接受任务。"
+            },
+            "asset": "char_498_inside/CN_021"
+        },
+        {
+            "id": "char_498_inside_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Bullets may be fast, but they aren't always so quick to solve disputes.",
+                "jp": "弾丸は速いけど、同じ速さで問題を解決できるとは限らないぜ。",
+                "kr": "총알은 빠르지만, 분쟁 해결이 그만큼 빨라진다곤 장담 못 해.",
+                "cn": "子弹很快，但解决争端的效率不一定高。"
+            },
+            "asset": "char_498_inside/CN_022"
+        },
+        {
+            "id": "char_498_inside_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Chill, everyone, I'm just here for a few questions.",
+                "jp": "あー皆さん、どうか誤解なきよう。私は状況を把握したいだけですので。",
+                "kr": "여러분 오해하지 마세요. 전 상황을 파악하러 온 것뿐이라고요.",
+                "cn": "各位，别误会，我只是想来了解一下情况。"
+            },
+            "asset": "char_498_inside/CN_023"
+        },
+        {
+            "id": "char_498_inside_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "If you insist on being so stubborn, then... prepare for execution.",
+                "jp": "あんたらがそこまで頑ななら……執行準備。",
+                "kr": "당신들, 정말 이렇게까지 막무가내로 나온다면…… 집행 준비.",
+                "cn": "你们真的这么固执的话......准备执行。"
+            },
+            "asset": "char_498_inside/CN_024"
+        },
+        {
+            "id": "char_498_inside_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "I'm actually better at wrestling than shooting. Makes the cleanup easier.",
+                "jp": "実は射撃よりも格闘の方が得意なんだ。ああ、後片付けもそっちの方が楽だしな。",
+                "kr": "사실 난 사격보다 격투를 더 잘해, 음, 뒷정리도 그게 더 편하잖아.",
+                "cn": "比起射击，其实我更擅长格斗，嗯，事后处理会比较轻松。"
+            },
+            "asset": "char_498_inside/CN_025"
+        },
+        {
+            "id": "char_498_inside_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "I'll give you some time to cry out in pain while I adjust my weapon.",
+                "jp": "ちょっくら武器を調整して、悲鳴を上げる時間を作ってやるからな。",
+                "kr": "잠깐 무기 좀 조정할 테니까, 아프면 비명 질러도 돼.",
+                "cn": "我调整一下武器，给你喊疼的时间。"
+            },
+            "asset": "char_498_inside/CN_026"
+        },
+        {
+            "id": "char_498_inside_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "I was really hoping it wouldn't turn out like this.",
+                "jp": "はぁ、ホントはこんなことしたくないんだけどな。",
+                "kr": "하아, 사실 나도 이러고 싶지 않아.",
+                "cn": "呃，我其实不想这么做的。"
+            },
+            "asset": "char_498_inside/CN_027"
+        },
+        {
+            "id": "char_498_inside_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "In our current situation... A complete sweep would be the most efficient solution.",
+                "jp": "現状……全員片付けるのが一番効率的だな。",
+                "kr": "현재 상황으로선…… 모두 제거하는 게 가장 효율적이겠네.",
+                "cn": "当前状况......全部清除就是最有效率的做法。"
+            },
+            "asset": "char_498_inside/CN_028"
+        },
+        {
+            "id": "char_498_inside_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "I knew I was getting into trouble coming here, but thankfully I've got you, Doctor. I wouldn't have figured out how to resolve such a complicated conflict by myself.",
+                "jp": "また余計なことに首を突っ込んだかと思ったけど、ドクターがいてくれてよかったよ。じゃなきゃこんなこじれた衝突の解決策なんて浮かびっこなかったぜ。",
+                "kr": "내가 또 귀찮은 일을 사서 한 줄 알았는데, 박사가 있어서 정말 다행이야. 박사가 아니었으면 이렇게 복잡한 갈등을 어떻게 풀어야 할지 감도 안 잡혔을 거야.",
+                "cn": "我来这里真是自找麻烦，还好有你在，博士。不然，我真想不出那么复杂的冲突要如何化解。"
+            },
+            "asset": "char_498_inside/CN_029"
+        },
+        {
+            "id": "char_498_inside_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Alright, time to pack up my gun. Mission complete, Doctor. We achieved victory just as planned, so there shouldn't be any post mortem work required, right?",
+                "jp": "よし、銃はもうしまってもよさそうだな。任務完了だ、ドクター。計画通りの大勝利だし、特に後始末はいらないよな？",
+                "kr": "좋았어, 총은 이제 넣어도 되겠다. 임무 완료야, 박사. 계획대로의 승리니까, 뒷수습 같은 건 필요 없겠지?",
+                "cn": "嗯，铳可以收起来了。任务已完成，博士，既然是和计划一致的胜利，那应该也不需要什么善后工作了吧？"
+            },
+            "asset": "char_498_inside/CN_030"
+        },
+        {
+            "id": "char_498_inside_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "What, did some of them escape? Ah, I had one eye closed while aiming my shots, so maybe they happened to be out of my sight.",
+                "jp": "マジかよ、逃げた奴がいんのか？はぁ、片目を閉じて照準を合わせてたから、見逃しちまったのかもな。",
+                "kr": "뭐? 도망간 녀석이 있다고? 하아, 한쪽 눈을 감고 조준하느라 못 봤나 보네.",
+                "cn": "什么，有人溜走了吗？哎，我闭着一只眼睛在瞄准，可能刚好没看到吧。"
+            },
+            "asset": "char_498_inside/CN_031"
+        },
+        {
+            "id": "char_498_inside_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "It's clear we need to overhaul our plans.",
+                "jp": "言うまでもないけど、作戦を練り直す必要がありそうだ。",
+                "kr": "당연한 말이지만, 우리 작전을 다시 짜야 할 것 같아.",
+                "cn": "很显然，我们需要重新考虑方案。"
+            },
+            "asset": "char_498_inside/CN_032"
+        },
+        {
+            "id": "char_498_inside_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "You have such good accommodation here? This place is top-notch in all the foreign posting I've had.",
+                "jp": "こんないい住まいを提供してもらえんのか？これまでの派遣任務の中じゃ、ここの環境はトップクラスだよ。",
+                "kr": "이렇게 좋은 숙소를 제공한다고? 지금까지 맡은 파견 임무 중에서 여기 환경이 제일 완벽해!",
+                "cn": "这么好的住宿条件？在我执行过的外派任务里，这环境算是顶尖啦。"
+            },
+            "asset": "char_498_inside/CN_033"
+        },
+        {
+            "id": "char_498_inside_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Haha, Doctor. You're not scaring me that easily.",
+                "jp": "はは、ドクター。そんなんじゃ俺はビビらないぜ。",
+                "kr": "하하, 박사, 이런다고 날 놀래킬 수는 없어.",
+                "cn": "哈哈，博士，你这样是吓不到我的。"
+            },
+            "asset": "char_498_inside/CN_034"
+        },
+        {
+            "id": "char_498_inside_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "It's nice to occasionally get some rest in places like this corridor. After all, most of Laterano's benches are found only outdoors.",
+                "jp": "たまにはこうやって通路でくつろぐのも乙なもんだな。ラテラーノのベンチはだいたい屋外にあるからさ。",
+                "kr": "가끔은 이렇게 실내 복도에서 휴식을 취하는 것도 나쁘지 않네. 라테라노의 벤치는 대부분 실외에 있거든.",
+                "cn": "偶尔在这种室内走廊上休息也挺惬意的，毕竟，拉特兰的长椅基本都在室外嘛。"
+            },
+            "asset": "char_498_inside/CN_036"
+        },
+        {
+            "id": "char_498_inside_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_498_inside/CN_037"
+        },
+        {
+            "id": "char_498_inside_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "You can take a break first, Doctor.",
+                "jp": "いったん休憩ってのも悪くないんじゃないか、ドクター。",
+                "kr": "일단 쉬는 것도 나쁘지 않은 선택이야, 박사.",
+                "cn": "你也可以选择先休息一下，博士。"
+            },
+            "asset": "char_498_inside/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Bill Millsap",
+            "global": "Bill Millsap"
+        },
+        "cn": {
+            "native": "马洋",
+            "global": "Yang Ma"
+        },
+        "jp": {
+            "native": "伊東健人",
+            "global": "Kent Ito"
+        },
+        "kr": {
+            "native": "정의진",
+            "global": "Jung Eui-jin"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

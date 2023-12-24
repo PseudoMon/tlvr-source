@@ -17,7 +17,7 @@
                 "cn": "任命助理"
             },
             "text": {
-                "en": "Did you call me here for a new hunt? Oh, not quite...?",
+                "en": "Did you call me here for a new hunt? No? Gah…",
                 "jp": "オレを呼んだってことは新しい任務だな？なんだよ、違うのか…。",
                 "kr": "나를 불렀다는 건 새 임무가 있다는 거지? 뭐야, 아닌가……",
                 "cn": "你叫我来，是有新的狩猎任务吗？哦，没有吗......"
@@ -33,7 +33,7 @@
                 "cn": "交谈1"
             },
             "text": {
-                "en": "This claw pendant? It's a symbol of my vengeance. Those Ursus mercenaries who harmed my companions treat these things as dogtags, so there's no mistaking them.",
+                "en": "This claw pendant? It's a symbol of revenge. The Ursus mercenaries who hurt my people treat these things as dogtags, so there's no mistaking them.",
                 "jp": "この爪形の首飾りか？これはオレの復讐の記念品だ。オレの仲間を奪ったウルサスの傭兵共がこれをドッグタグ代わりに身に着けていてな、奴らを絶対に見間違わないようにってオレも持ってんだ。",
                 "kr": "이 발톱 모양 목걸이? 이건 내 복수의 기념품이야. 내 동료를 앗아간 우르수스 용병들이 이걸 군번줄 대신 몸에 달고 다니더라고. 녀석들을 절대로 착각하지 않도록, 나도 갖고 있는 거야.",
                 "cn": "这个爪形吊坠？是我的复仇的纪念品，那些伤害过我同伴的乌萨斯佣兵会把类似的东西当成狗牌，所以我才不会认错他们。"
@@ -49,7 +49,7 @@
                 "cn": "交谈2"
             },
             "text": {
-                "en": "I lost my left hand to a beast that I was hunting. Luckily, a mechanic helped make me a prosthetic limb so that I can draw my bowstring again.",
+                "en": "A beast took my left hand when I was hunting. Luckily, a mechanic gave me a prosthetic limb, so I can draw my bowstring again.",
                 "jp": "オレの左腕は狩りの最中に野獣に引きちぎられちまったんだ。だが、運がいいことにある機械師が義手を作ってくれてな。おかげで今もこうして弓を引けてるってわけさ。",
                 "kr": "내 왼팔은 사냥 도중에 야수한테 뜯겨버렸어. 뭐 근데, 운 좋게도 어떤 기계공이 의수를 만들어 줬거든. 덕분에 지금도 이렇게 활을 쏠 수 있는 거지.",
                 "cn": "我的左手是在一次狩猎中被野兽撕碎的，幸好一位机械师帮我制作了义肢，我才能重新拉动弓弦。"
@@ -65,7 +65,7 @@
                 "cn": "交谈3"
             },
             "text": {
-                "en": "The old me would've turned anyone who dared to mock my scars into a pincushion, one arrow at a time! But now? Well, people like those aren't worth the effort.",
+                "en": "There was a time when I would've turned anyone who mocked my scars into a pincushion! But if you ask me now... Well, people like that aren't even worth the trouble.",
                 "jp": "昔はオレの傷跡をあざ笑う奴がいれば絶対針山にしてやってたが……今は、そんな奴には手を出す価値もないんだってわかったよ。",
                 "kr": "옛날엔 내 흉터를 비웃는 녀석이 있으면 반드시 고슴도치로 만들어 줬는데…… 지금은 그런 녀석한테는 손 쓸 가치도 없다는 걸 깨달았어.",
                 "cn": "若是以前，我绝对会把嘲讽我伤痕的家伙一箭一箭地射成筛子！不过现在......呵，为了那种人动手，真是一点都不值得。"
@@ -81,7 +81,7 @@
                 "cn": "晋升后交谈1"
             },
             "text": {
-                "en": "If you're ever facing a difficult decision, let your instincts decide for you, and your body will not lie. This is the experience I've had as an expert hunter.",
+                "en": "If you're ever facing a difficult decision, let your instincts decide for you. Your body won't lie—This is what I've learned after a lifetime of hunts.",
                 "jp": "決断が難しい時は直感で決めちまえばいい。自分の身体は嘘をつかねぇからな。ハンターの経験則ってやつだ。",
                 "kr": "결단을 내리기 어려울 때는 직감으로 정해버리면 돼. 자기 몸은 거짓말을 안 하니까. 이것도 나름 사냥꾼의 경험이라 할 수 있겠지.",
                 "cn": "若是有实在难以决断的事就凭直觉去选择，身体是不会骗人的，这可是资深猎手的经验。"
@@ -97,7 +97,7 @@
                 "cn": "晋升后交谈2"
             },
             "text": {
-                "en": "I've been living alone ever since my companions passed away, so I'm still getting used to being surrounded by people... But since you've given me your trust and depend on me, I swear I'll return the favor.",
+                "en": "I've been living alone ever since my village was wiped out.  So, I… I'm still getting used to being around people... But since you trust me and give me important work, I swear I'll return the favor.",
                 "jp": "同胞たちがみんな逝っちまって、一人きりで生活をするようになって長い。だから、今みたいに毎日誰かと接するのにはまだ慣れないんだ……でもあんたはオレのことを信頼してくれてるから、それには絶対応えてみせるぜ。",
                 "kr": "동포들이 모두 죽어버려서, 혼자서 생활한 지는 꽤 됐거든. 그래서, 지금처럼 매일 누군가와 접하는 건 아직 적응이 안 돼…… 하지만 넌 나를 신뢰해 주니까, 거기엔 반드시 보답하도록 할게.",
                 "cn": "自从同伴们逝去之后，我一个人生活很久了，所以这种每天都要和人打交道的日子，我还不太适应......但既然你给了我充分的信任，任用我，那我一定得回报你。"
@@ -113,7 +113,7 @@
                 "cn": "信赖提升后交谈1"
             },
             "text": {
-                "en": "Ehh, it seems like a pebble got stuck in my prosthetic finger...? What a pain, looks like I'm going to have to find a mechanic to fix it up... N-no, I don't need your help, I can handle this by myself!",
+                "en": "Ehh, a pebble got stuck in my prosthetic finger...? Darn it, I'm going to need a mechanic to fix it... N-No, I don't need you, I can handle this myself!",
                 "jp": "うっ、指の関節に小石が入り込んじまったみたい。ちっ、機械師に見てもらわないとな……だ、大丈夫だって、オレ一人でどうにかなる！",
                 "kr": "윽, 손가락 관절에 돌멩이가 들어갔나 봐. 쳇, 기계공한테 봐달라고 해야겠네…… 괘, 괜찮다니까, 나 혼자 해결할 수 있어!",
                 "cn": "呃，义肢手指好像被小石子卡住了？讨厌，得去找机械师调整一下......不、不用你帮忙，我一个人也能行！"
@@ -129,7 +129,7 @@
                 "cn": "信赖提升后交谈2"
             },
             "text": {
-                "en": "You'll make sure I won't ever lose any more companions? Hmph. Big words, but let's see you back it up!",
+                "en": "You'll make sure I don't ever lose anyone else? Hmph. Big words. But I'll see for myself if you can back those up.",
                 "jp": "「もう同胞を失うことはない」って？ふん、でかい口を叩くのはいいが、この目で確かめるまで信じねぇから覚悟しとけよ！",
                 "kr": "“이제 동포를 잃을 일은 없다”고? 흥, 큰소리치는 건 좋지만, 내 눈으로 직접 확인할 때까진 못 믿으니까 각오해 두라고!",
                 "cn": "你说，今后不会让我再失去同伴了？哼，是不是在说大话，我可是要亲眼见证的！"
@@ -145,7 +145,7 @@
                 "cn": "信赖提升后交谈3"
             },
             "text": {
-                "en": "The doctors here offered to get rid of my more recent scars, but I refused. I want to keep them, because they're a proof of my service here... You, you understand what I'm getting at?",
+                "en": "The doctors here offered to get rid of my more recent scars, but I said no. I want to keep them. They're proof of my work here... You, you understand what I'm getting at?",
                 "jp": "ここの医者にかかれば最近の傷跡ならキレイに取っちまえるらしいが、断っといた。あんたのために戦ってできた傷跡は残しておきたいんだ……オレの言ってる意味、わかるか？",
                 "kr": "여기 의사가 요즘 생긴 흉터는 깨끗하게 없앨 수 있다 그랬는데, 내가 됐다 그랬어. 널 위해 싸우다 생긴 흉터는 남겨두고 싶거든…… 내가 하는 말, 무슨 뜻인지 알았지?",
                 "cn": "这里的医生说可以抹去我身上新添的伤疤，但我拒绝了。我要留着它们，因为这是为你战斗时留下的......你，能明白我的意思吗？"
@@ -161,7 +161,7 @@
                 "cn": "闲置"
             },
             "text": {
-                "en": "You're asleep? Can you fall asleep just about anywhere? Well, that's a trait that many of us hunters share...",
+                "en": "You're sleeping? Looks like this one can fall asleep almost anywhere. Well, that's a trait we hunters share…",
                 "jp": "寝てんのか？……こいつはどんな状況でも寝れるんだな。ハンターにゃ向いてるかもな……。",
                 "kr": "자는 거야? ……이 녀석은 어떤 상황에서도 잠이 드는구나. 사냥꾼이 체질일지도 모르겠는데……",
                 "cn": "睡着了？这个人什么场合都睡得着吗？这种体质倒是挺像我们猎人的......"
@@ -177,7 +177,7 @@
                 "cn": "干员报到"
             },
             "text": {
-                "en": "Vermeil, hunter. You won't regret giving work to me.",
+                "en": "Vermeil, hunter. You won't regret giving me work.",
                 "jp": "ヴァーミル、ハンターだ。オレに仕事をくれ、失望はさせねぇからさ。",
                 "kr": "버메일, 사냥꾼이야. 나한테 일을 줘. 실망은 시키지 않을 테니까.",
                 "cn": "红云，猎人。给我工作吧，你不会失望的。"
@@ -209,7 +209,7 @@
                 "cn": "精英化晋升1"
             },
             "text": {
-                "en": "Thank you, but... are you sure you're fine with promoting someone like me?",
+                "en": "Thank you, but... are you sure it's okay to promote someone like me?",
                 "jp": "ありがてぇが……これでいいのか？オレみたいなのを昇進させて。",
                 "kr": "고맙기는 한데…… 이래도…… 돼? 나 같은 걸 승진시켜도.",
                 "cn": "谢谢你，可......让我这样的人晋升，真的没问题吗？"
@@ -225,7 +225,7 @@
                 "cn": "精英化晋升2"
             },
             "text": {
-                "en": "I don't really care about stuff like Oripathy or 'the rest of my life.' Right now, what could make me happier than being able to fight by your side on the battlefield?",
+                "en": "I don't really care about stuff like Oripathy or 'the rest of my life.' Right now, the happiest thing I can imagine is fighting by your side.",
                 "jp": "鉱石病とか、残りの寿命とか、もうどうでもいいんだ。今のオレが一番楽しいと思えるのは、あんたと肩を並べて戦うことだからな。",
                 "kr": "광석병이나 남은 수명 같은 건 이제 아무래도 상관없어. 지금의 나에게 가장 즐거운 건 너와 어깨를 나란히 하고 싸우는 거니까.",
                 "cn": "矿石病也好，剩下的生命也好，已经全都无所谓了。现在让我最快乐的事，不就是和你一起并肩作战吗？"
@@ -273,7 +273,7 @@
                 "cn": "行动出发"
             },
             "text": {
-                "en": "The big game hunting is about to start!",
+                "en": "The big game hunt is about to start!",
                 "jp": "ワイルドハントを始めようぜ！",
                 "kr": "와일드 헌트를 시작해 보자고!",
                 "cn": "大捕猎，即将开幕！"
@@ -289,7 +289,7 @@
                 "cn": "行动开始"
             },
             "text": {
-                "en": "Those who have fallen in my trap, do you understand your current predicament?",
+                "en": "You don't seem to understand your situation here. You've fallen into my trap.",
                 "jp": "お前らはもう罠の中だ。まだ気付かねぇのか？",
                 "kr": "너희는 이미 함정에 빠진 거야. 아직도 모르겠어?",
                 "cn": "踏入陷阱的你们，还没明白自己的处境吗？"
@@ -305,7 +305,7 @@
                 "cn": "选中干员1"
             },
             "text": {
-                "en": "Let me go forth.",
+                "en": "I'll go ahead.",
                 "jp": "オレにやらせろ。",
                 "kr": "내가 하게 해줘.",
                 "cn": "让我上。"
@@ -321,7 +321,7 @@
                 "cn": "选中干员2"
             },
             "text": {
-                "en": "Give the order.",
+                "en": "Give me the order.",
                 "jp": "命令をくれ。",
                 "kr": "명령을 내려줘.",
                 "cn": "下令吧。"
@@ -337,7 +337,7 @@
                 "cn": "部署1"
             },
             "text": {
-                "en": "I can smell the prey in the wind.",
+                "en": "I can smell the game on the wind.",
                 "jp": "風に獲物のにおいが混じってる。",
                 "kr": "바람에 사냥감의 냄새가 섞여 있어.",
                 "cn": "我闻到风中的猎物气味了。"
@@ -353,7 +353,7 @@
                 "cn": "部署2"
             },
             "text": {
-                "en": "I will be waiting here.",
+                "en": "I'll be waiting here.",
                 "jp": "オレはここで待ってる。",
                 "kr": "나는 여기서 기다릴게.",
                 "cn": "我就在这等着。"
@@ -369,7 +369,7 @@
                 "cn": "作战中1"
             },
             "text": {
-                "en": "If you don't escape, you will only have one ending.",
+                "en": "You'd better start running, or there's only one way this ends.",
                 "jp": "逃げねぇってんなら、お前らの結末は一つだ！",
                 "kr": "도망치지 않는다면 너희의 결말은 하나다!",
                 "cn": "再不逃的话，你就只有一个下场了！"
@@ -385,7 +385,7 @@
                 "cn": "作战中2"
             },
             "text": {
-                "en": "Don't underestimate the people of the wilderness!",
+                "en": "Don't underestimate the people of the wilderness.",
                 "jp": "荒野育ちをなめんな！",
                 "kr": "황야에서 자란 사람을 얕보지 마라!",
                 "cn": "别小看荒野的子民！"
@@ -433,7 +433,7 @@
                 "cn": "完成高难行动"
             },
             "text": {
-                "en": "A strong prey is still just prey.",
+                "en": "Strong game is still just game.",
                 "jp": "どんなに強い獲物だろうと、しょせん獲物だ。",
                 "kr": "사냥감이 아무리 강해봤자, 결국은 사냥감이지.",
                 "cn": "再强大的猎物，也只是猎物而已。"
@@ -449,7 +449,7 @@
                 "cn": "3星结束行动"
             },
             "text": {
-                "en": "Impressive. If you were born in Siracusa, you would have definitely been an excellent hunter.",
+                "en": "Nice. If you were born in Siracusa, you would've been a great hunter.",
                 "jp": "やるじゃねぇか。もしシラクーザに生まれてたら、あんたは間違いなく凄腕のハンターになってたぜ。",
                 "kr": "제법이잖아. 만약 시라쿠사에서 태어났다면 넌 틀림없이 굉장한 실력의 사냥꾼이 됐을 거야.",
                 "cn": "真厉害。如果你生在叙拉古，一定会是位技艺超绝的猎人。"
@@ -465,7 +465,7 @@
                 "cn": "非3星结束行动"
             },
             "text": {
-                "en": "The prey got away. I'll pursue it.",
+                "en": "The target got away. I'm going after it.",
                 "jp": "獲物に逃げられたか。追ってくる。",
                 "kr": "사냥감이 도망쳤나. 쫓아갈게.",
                 "cn": "猎物逃走了，我去追。"
@@ -481,7 +481,7 @@
                 "cn": "行动失败"
             },
             "text": {
-                "en": "We can't let things end like this...",
+                "en": "We can't let it end like this…",
                 "jp": "こんなんじゃ終われねぇ……。",
                 "kr": "이렇게는 못 끝내……",
                 "cn": "不能就这样结束......"
@@ -497,7 +497,7 @@
                 "cn": "进驻设施"
             },
             "text": {
-                "en": "As long as there's four walls and a ceiling, it's more than enough for me.",
+                "en": "This place has walls and a roof… that's enough for me.",
                 "jp": "壁も天井もあるなんて、いい部屋じゃねぇか。",
                 "kr": "벽에 천장도 있다니… 좋은 방이잖아.",
                 "cn": "有墙和天花板，已经是很棒的屋子了啊。"
@@ -513,7 +513,7 @@
                 "cn": "戳一下"
             },
             "text": {
-                "en": "Oh...",
+                "en": "Wha?",
                 "jp": "えっ……",
                 "kr": "앗……",
                 "cn": "呣......"
@@ -529,7 +529,7 @@
                 "cn": "信赖触摸"
             },
             "text": {
-                "en": "...Today's plans? Helping out with missions, shooting arrows at enemies until I have no more arrows, then heading back to eat and sleep. Pretty simple.",
+                "en": "...My plans for the day? Help you with missions. Shoot at enemies. Use up all my arrows. Finish the mission. Eat dinner, go to sleep. Simple enough.",
                 "jp": "……今日の予定？あんたにもらった任務に、敵めがけてありったけの矢をぶっ放す。それが終わったら、メシを食って寝る。それだけ。",
                 "kr": "……오늘 일정? 너한테 받은 임무를 수행하면서, 적을 향해 있는 대로 화살을 날려댈 거야. 그게 끝나면 밥 먹고 잘 거고. 그게 다야.",
                 "cn": "......今天的安排吗？帮你做任务，对着敌人射箭，把箭射光；任务结束，吃饭睡觉。就这么简单。"
@@ -570,6 +570,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Lara Jill Miller",
+            "global": "Lara Jill Miller"
+        },
         "cn": {
             "native": "钟可",
             "global": "Ke Zhong"
@@ -584,6 +588,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

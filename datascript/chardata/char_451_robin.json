@@ -19,7 +19,7 @@
             "text": {
                 "en": "Doctor. Should I help with anything?",
                 "jp": "ドクター、何か手伝おうか？",
-                "kr": "박사, 뭐 좀 도와줄까?",
+                "kr": "박사, 뭐 도와줄까?",
                 "cn": "博士，需要我做什么吗？"
             },
             "asset": "char_451_robin/CN_001"
@@ -35,7 +35,7 @@
             "text": {
                 "en": "Doctor. You always seem busy with work. Don't you have any hobbies? Me, I like seeing old movies people don't really remember.",
                 "jp": "ドクター、いつも仕事ばかりしてるようだけど、何か趣味はないの？例えば私は、あまり人気のない古い映画を観るのが好きだよ。",
-                "kr": "박사, 항상 일만 하는 것 같은데, 취미 같은 건 없어? 예를 들자면 나는, 별로 유명하지 않은 옛날 영화를 보는 걸 좋아해.",
+                "kr": "박사, 맨날 일만 하는 것 같은데, 취미 같은 건 없어? 나 같은 경우엔, 별로 안 유명한 옛날 영화를 보는 걸 좋아하거든.",
                 "cn": "博士，你好像总是在工作的样子，你平时没有什么爱好吗？我的话，我喜欢找一些冷门的老电影看。"
             },
             "asset": "char_451_robin/CN_002"
@@ -51,7 +51,7 @@
             "text": {
                 "en": "Truthfully, I learned how to fight because of this movie I saw when I was young. Main character used all these knives and homemade traps, and I thought it was really cool, so I started learning myself. My knives here, they're actually the same kind as the ones in that movie.",
                 "jp": "戦闘技術を学ぶきっかけは、小さい頃に見た映画だった。その主人公が、ナイフやお手製のトラップで戦っていて、かっこいいなと思ってそれを真似し始めたの。このナイフも、実は主人公が使っていたのと同じ物なんだ。",
-                "kr": "전투 기술을 배우게 된 계기는 어릴 적에 본 영화였어. 그 영화 주인공이 나이프랑 직접 만든 트랩으로 싸우는데, 멋있다고 생각해서 따라 하기 시작했지. 이 나이프도 사실은 주인공이 쓰던 거랑 똑같은 거야.",
+                "kr": "전투 기술을 배우게 된 계기는 어릴 적에 본 영화였어. 그 영화 주인공이 나이프랑 직접 만든 트랩으로 싸우는데, 멋있다고 생각해서 따라 하기 시작했지. 이 나이프도 사실은 그 영화 주인공이 쓰던 거랑 똑같은 거야.",
                 "cn": "我会学习战斗技巧，其实是因为小时候看了一部电影，里面的主角就是用匕首和自制陷阱战斗的，我当时觉得很帅，就开始学了起来。这些匕首，其实也是电影主角使用的同款。"
             },
             "asset": "char_451_robin/CN_003"
@@ -67,7 +67,7 @@
             "text": {
                 "en": "In Columbia, anything can be bought with money. It sounds great, maybe, until you turn it around. Without money, nothing's yours at all.",
                 "jp": "クルビアでは、何でもお金で買える。いい話に聞こえるけど、逆に言えば、お金がなければ何も手に入らないってこと。",
-                "kr": "컬럼비아에선 뭐든 돈으로 살 수 있어. 좋은 말로 들리지만, 반대로 말하자면 돈이 없으면 아무것도 얻을 수 없다는 말이야.",
+                "kr": "컬럼비아에선 뭐든 돈으로 살 수 있어. 좋은 말처럼 들리지만, 반대로 말하자면 돈이 없으면 아무것도 얻을 수 없다는 얘기지.",
                 "cn": "在哥伦比亚，什么都可以用钱买到，这听起来很好，但反过来说，就是没有钱什么都无法得到。"
             },
             "asset": "char_451_robin/CN_004"
@@ -115,7 +115,7 @@
             "text": {
                 "en": "I don't hate Anthony. If we have to talk about the past, I think my pop's to blame too. And honestly, I thank Anthony. If he weren't where he was, I might've done something by now I could never take back.",
                 "jp": "アンソニーには恨みなんてないよ。もう過ぎたことだし、強いて言うなら、父さんにも責任があると思う。むしろアンソニーには感謝してるんだ。彼がいなかったら、私はもう取り返しのつかないことをしてたかもしれない。",
-                "kr": "앤소니한테 원한은 없어. 이미 지난 일이고, 굳이 말하자면 아버지에게도 책임이 있다고 생각해. 오히려 앤소니에겐 감사하고 있는걸. 그가 없었다면 나는 이미 돌이킬 수 없는 짓을 했을지도 몰라.",
+                "kr": "앤소니한테 원한은 없어. 이미 지난 일이고, 굳이 따지자면 난 아버지한테도 책임이 있다고 생각해. 오히려 앤소니에겐 감사하고 있는 걸. 앤소니가 없었다면 난 이미 돌이킬 수 없는 짓을 저질렀을지도 몰라.",
                 "cn": "我不恨安东尼，过去的事一定要说的话，我觉得爸爸也有责任。而且其实我很感谢他，如果不是他，我大概已经做出无法挽回的事了。"
             },
             "asset": "char_451_robin/CN_007"
@@ -131,7 +131,7 @@
             "text": {
                 "en": "Pop never understood. Mom didn't leave because we had no money. It was 'cause his temper got worse every day. I've thought about if I went with Mom instead, but Pop used to be... so nice to me.",
                 "jp": "父さんにはわからないんだ。母さんが家を出たのは貧乏だからじゃなくて、父さんがどんどん短気になっていったからだって。母さんと一緒に行くことも考えたけど、でも昔の父さんは……優しかったから。",
-                "kr": "아버지는 모를 거야. 엄마가 집을 나간 건 가난해서가 아니라 아빠가 점점 다혈질이 되어서라는 걸. 어머니와 같이 가는 것도 생각해 봤지만, 그래도 예전의 아빠는…… 자상했으니까.",
+                "kr": "아버지는 모를 거야. 엄마가 집을 나간 건 가난해서가 아니라 아버지가 점점 다혈질이 되어서라는 걸. 어머니랑 같이 나가는 것도 생각해 봤지만, 그래도 예전의 아버지는…… 자상했으니까.",
                 "cn": "爸爸永远都不明白，妈妈离开他不是因为家里没钱了，而是他的性格越来越暴躁了。我也想过跟妈妈一起走，但爸爸以前......对我很好的。"
             },
             "asset": "char_451_robin/CN_008"
@@ -147,7 +147,7 @@
             "text": {
                 "en": "Doctor, there's times I'm following you, and I ease up so much I forget my own stuff. I have the money for treating my pop's illness now, but he's got troubles, and I can't cure that just on my own... Doctor, could you help me?",
                 "jp": "ドクターについていると、気を緩めすぎて自分の現状を忘れそうだよ。今は父さんの病気を治療する分のお金はあるけど、あの心の病は私一人じゃどうにもできない……ドクター、助けてもらえる？",
-                "kr": "박사와 함께 있다 보면 긴장이 너무 풀려서 내 상황을 잊어버릴 것 같아. 지금은 아빠의 병을 치료할만한 돈은 있지만, 그 마음의 병은 나 혼자서는 어쩔 수 없어…… 박사, 도와줄 수 있어?",
+                "kr": "박사랑 같이 있으면 긴장이 너무 풀려서 그런가, 지금 내 상황이 어떤지 까먹을 것만 같아. 지금은 아버지의 병을 치료할만한 돈은 생겼지만, 마음의 병까진 나 혼자서는 어쩔 수 없어서…… 박사, 혹시 도와줄 수 있어?",
                 "cn": "跟在博士身边有时候会因为太过放松而让我忘记了自己的事，虽然现在有钱给爸爸治病了，但是爸爸的心病光靠我可能是无法治愈的......博士，可以帮帮我吗？"
             },
             "asset": "char_451_robin/CN_009"
@@ -163,7 +163,7 @@
             "text": {
                 "en": "So you drop right where you are when you're tired too, Doctor...",
                 "jp": "疲れたらその場で休むような人なんだね、ドクターも……",
-                "kr": "피곤하면 그 자리에서 쉬는 사람이구나, 박사도……",
+                "kr": "피곤하면 그 자리에서 바로 쉬는 스타일이구나, 박사도……",
                 "cn": "博士也是累了就会直接就地休息的人呢......"
             },
             "asset": "char_451_robin/CN_010"
@@ -211,7 +211,7 @@
             "text": {
                 "en": "Huh? I got a raise so quick...? That's great. Thank you, Doctor!",
                 "jp": "えっ、こんなに早く昇給できるの……助かる、ありがとうドクター！",
-                "kr": "어? 이렇게 빨리 승급할 수 있는 거야? 잘 됐다, 정말 고마워, 박사!",
+                "kr": "어? 이렇게 빨리 승진할 수 있는 거야? 잘 됐다, 정말 고마워, 박사!",
                 "cn": "咦，这么快就涨薪了吗......太好了，谢谢博士！"
             },
             "asset": "char_451_robin/CN_013"
@@ -227,7 +227,7 @@
             "text": {
                 "en": "I never stuck with my old jobs for very long. The company itself had problems, or it was something with my pop... This time, it feels like I'll be able to stick with Rhodes Island.",
                 "jp": "これまでの仕事はどれも長続きしなかった。会社の事情、父さんの病気……でも今度はロドスに長くいられそうだね。",
-                "kr": "지금까지의 업무는 다 오래 하지 못했어. 회사 사정, 아빠의 병…… 하지만 이번에는 로도스 아일랜드에 오래 있을 수 있을 것 같아.",
+                "kr": "지금까진 일을 다 오래 하지 못했어. 회사 사정도 그렇고 아버지가 편찮으신 것도 그렇고…… 하지만 이번에는 로도스 아일랜드에 오래 있을 수 있을 것 같네.",
                 "cn": "我过去的工作都没有持续很久，要么是公司自己有问题，要么是爸爸出事了......这一次，感觉能在罗德岛待很久。"
             },
             "asset": "char_451_robin/CN_014"
@@ -259,7 +259,7 @@
             "text": {
                 "en": "I'm not too good at figuring teamwork...",
                 "jp": "チームプレーはあまり得意じゃないかも……",
-                "kr": "팀플레이는 잘하지 못할지도……",
+                "kr": "팀플레이는 잘 못 할 것 같은데……",
                 "cn": "我不太擅长团队协作......"
             },
             "asset": "char_451_robin/CN_018"
@@ -323,7 +323,7 @@
             "text": {
                 "en": "I'm ready to go.",
                 "jp": "準備、できてる。",
-                "kr": "준비, 되어 있어.",
+                "kr": "준비, 됐어.",
                 "cn": "我准备好了。"
             },
             "asset": "char_451_robin/CN_022"
@@ -371,7 +371,7 @@
             "text": {
                 "en": "I get mad too!",
                 "jp": "私だって怒るよ！",
-                "kr": "나도 화낼 거야!",
+                "kr": "진짜 화낼 거야!",
                 "cn": "我也是有脾气的！"
             },
             "asset": "char_451_robin/CN_025"
@@ -403,7 +403,7 @@
             "text": {
                 "en": "Where are you looking?",
                 "jp": "どこ見てんの。",
-                "kr": "어딜 보는 거야.",
+                "kr": "어딜 보고 있는 거지?",
                 "cn": "你们在看哪里呢。"
             },
             "asset": "char_451_robin/CN_027"
@@ -451,7 +451,7 @@
             "text": {
                 "en": "I bet everybody dreams of having a boss like you, Doctor.",
                 "jp": "ドクターのような上司を持つことって、きっと大勢の人の夢だと思うよ。",
-                "kr": "박사 같은 상사를 만나는 건, 분명 많은 사람의 꿈일 거라 생각해.",
+                "kr": "박사 같은 상사를 만나는 건, 분명 많은 사람들의 꿈일 거라 생각해.",
                 "cn": "有博士这样的上司应该是很多人梦寐以求的事情吧。"
             },
             "asset": "char_451_robin/CN_030"
@@ -483,7 +483,7 @@
             "text": {
                 "en": "Doctor, you go! I'll cover you!",
                 "jp": "ドクター、先に逃げて、あとは私が！",
-                "kr": "박사, 먼저 도망가, 뒤는 내가!",
+                "kr": "박사, 먼저 도망가, 뒤는 내가 맡을 테니까!",
                 "cn": "博士，你先走，我来掩护你！"
             },
             "asset": "char_451_robin/CN_032"
@@ -499,7 +499,7 @@
             "text": {
                 "en": "Let's get to know this place, then.",
                 "jp": "とりあえずぐるっと見てみよう。",
-                "kr": "일단 빙 둘러보고 와야겠다.",
+                "kr": "일단 한 바퀴 둘러보고 와야겠다.",
                 "cn": "熟悉一下环境吧。"
             },
             "asset": "char_451_robin/CN_033"
@@ -563,7 +563,7 @@
             "text": {
                 "en": "Doctor. Need me to guard you today?",
                 "jp": "ドクター、今日は護衛は要る？",
-                "kr": "박사, 오늘…… 호위는 필요해?",
+                "kr": "박사, 오늘은…… 호위 안 필요해?",
                 "cn": "博士，今天需要我护卫吗？"
             },
             "asset": "char_451_robin/CN_042"
@@ -577,10 +577,15 @@
         "jp": {
             "native": "小野涼子",
             "global": "Ryoko Ono"
+        },
+        "kr": {
+            "native": "김하영",
+            "global": "Kim Ha-young"
         }
     },
     "availability": [
         "cn",
-        "jp"
+        "jp",
+        "kr"
     ]
 }

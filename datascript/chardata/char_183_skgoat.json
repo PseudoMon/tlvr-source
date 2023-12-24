@@ -17,7 +17,7 @@
                 "cn": "任命助理"
             },
             "text": {
-                "en": "Doctor, I've picked out the Originium from the pile of other ores according to your orders. Any other requests?",
+                "en": "Doctor, I've finished sorting the Originium from the other ores, as you requested. Is there anything else?",
                 "jp": "ドクター、注文の通り、源石とそれ以外の鉱石を選別したわ。ほかに何か仕事はないかしら？",
                 "kr": "박사. 부탁한대로, 오리지늄과 그 외의 광석을 선별해놨어. 다른 할 일은 더 없나?",
                 "cn": "博士，我已经按您的要求，将源石和其他矿物甄别分拣完毕了，还有别的需求吗？"
@@ -33,7 +33,7 @@
                 "cn": "交谈1"
             },
             "text": {
-                "en": "Oripathy is really troublesome. I can't even go on operations without the okay from Dr. Kal'tsit. And patients will lose some years of their lives, you say? Yeah, that's true, but I'm okay with that.",
+                "en": "Oripathy is indeed troublesome. I can't even go on operations without approval from Dr. Kal'tsit. Oripathy shortens one's lifespan, you say? Yes, that's true, but I don't really mind.",
                 "jp": "鉱石病は面倒な病ね。ケルシーからもアレはダメ、コレはダメと言われるし。寿命が縮む？いいえ、それはそこまで重要ではないわ。",
                 "kr": "광석병은 귀찮은 병이네. 켈시한테도 이건 안 된다 저건 안 된다 잔소리나 듣고 말이야. 수명이 줄어든다고? 아니, 그건 그렇게 중요하지 않아.",
                 "cn": "矿石病真麻烦啊，我现在，就连行动都会被凯尔希医生限制。寿命会被矿石病削减？不，这个倒无所谓啦。"
@@ -49,7 +49,7 @@
                 "cn": "交谈2"
             },
             "text": {
-                "en": "This tuning fork? It's actually a wand. It's not only a weapon but also useful for geological surveying. I find it really handy.",
+                "en": "This tuning fork? It's actually a staff — not only a weapon but also useful for geological surveys. I find it always comes in handy.",
                 "jp": "音叉？これは杖よ。もちろん武器にもなるし、地質調査用の道具でもあるわ。とっても便利なのよ。",
                 "kr": "소리굽쇠? 이건 지팡이야. 물론 무기도 되고, 지질조사용 도구로도 쓸 수 있어서, 매우 편리하지.",
                 "cn": "这把音叉？是魔杖。它不仅是武器，也是用在地质勘探上的工具，用起来十分顺手。"
@@ -81,7 +81,7 @@
                 "cn": "晋升后交谈1"
             },
             "text": {
-                "en": "Oh? I have dark circles under my eyes? Aw, I knew it...",
+                "en": "What? I have dark circles under my eyes? Aw, I knew it…",
                 "jp": "えっ？目の下にクマ？やだ、やっぱり……。",
                 "kr": "어? 눈 밑에 다크서클 생겼다고? 하, 그럴 거 같더라…",
                 "cn": "啊？我有黑眼圈了？讨厌，我就知道......"
@@ -113,7 +113,7 @@
                 "cn": "信赖提升后交谈1"
             },
             "text": {
-                "en": "Some rocks talk to me, you know... and they talk a lot! Some of them even squabble... so much that I lose sleep over it. You think I'm kidding? Do I look like I'm kidding?",
+                "en": "Some rocks talk to me, you know. They chatter and even squabble away. Sometimes, I lose sleep because of it… You think I'm kidding? Do I look like I'm kidding?",
                 "jp": "石の中には、話しかけてくるものもあるのよ。ずっとぶつぶつ言ってるから、近くに置くと眠れないぐらいなの。……冗談？これが冗談を言ってる顔に見えるかしら？",
                 "kr": "돌 중에는 말을 걸어오는 것도 있어. 계속 중얼중얼 대서 가까이 놔두면 잠을 못 잘 정도라니까… 농담? 이게 지금 농담하는 얼굴로 보여?",
                 "cn": "有些石头是会跟我说话的，絮絮叨叨，相互争吵不休，把我弄到失眠......你以为我在开玩笑？我难道像是在开玩笑的样子吗？"
@@ -145,7 +145,7 @@
                 "cn": "信赖提升后交谈3"
             },
             "text": {
-                "en": "Look at this! Look at this! This surface... it couldn't have been formed without pressure in the earth's crust since 350 thousand years ago. Isn't it wonderful? You know, Doctor, those people who refuse to believe geological studies are truly fools.",
+                "en": "Astonishing...! Look at this, Doctor! This surface... it couldn't have been formed without high pressure in the crust three hundred and fifty thousand years ago. Isn't it incredible…? Guess what, Doctor? The theory is correct! Those who refuted it are the true fools!",
                 "jp": "これ！これよ！ドクター！見て……この断層面、少なくとも三十五万年以上の堆積と地殻圧縮がないとできないはず！素晴らしいわ……。ドクター、これで私の学説に異論を唱えてきた連中の鼻を明かせるわ。",
                 "kr": "이거! 이거야! 박사! 봐봐… 이 단층면, 적어도 35만 년 이상은 지층이 퇴적되고 지각이 압축되지 않으면 안 나오는 거라고! 훌륭해…… 박사, 이제 내 학설에 반론을 제기해왔던 녀석들 코를 납작하게 해줄 수 있겠어.",
                 "cn": "就是这个，就是这个！你看，你看......至少距今三十五万年的地壳挤压，才会形成这种截面！太棒了......博士，知道吗，那些一直以来反驳这项理论的人才是愚昧的......！"
@@ -161,7 +161,7 @@
                 "cn": "闲置"
             },
             "text": {
-                "en": "Doctor—oh, you're sleeping? You must be tired from all the hard work.",
+                "en": "Doctor—oh, you're sleeping? You must be tired from all your hard work.",
                 "jp": "ねぇドクター……あらあら。働きすぎたのかしら。",
                 "kr": "저기 박사… 이런, 일을 너무 많이 했나.",
                 "cn": "博士......哎，是不是工作得太疲惫了。"
@@ -193,7 +193,7 @@
                 "cn": "观看作战记录"
             },
             "text": {
-                "en": "Hm, is this academic data or something else?",
+                "en": "Hm, is this academic data, or something else?",
                 "jp": "ふーん……学会の資料か何かかしら？",
                 "kr": "흐음…… 학회 자료… 뭐 그런 건가?",
                 "cn": "嗯，这是学术资料还是别的什么？"
@@ -209,7 +209,7 @@
                 "cn": "精英化晋升1"
             },
             "text": {
-                "en": "Methods of scientific research must continue to be improved on.",
+                "en": "We must continue to refine our scientific method.",
                 "jp": "研究のやり方も、絶えず向上させていかないとね。",
                 "kr": "연구 방법도 끊임없이 발전시켜야겠지.",
                 "cn": "科研方法也有不断精进的必要呢。"
@@ -225,7 +225,7 @@
                 "cn": "精英化晋升2"
             },
             "text": {
-                "en": "Forgive me for my bluntness, but do remember that I only receive the salary for one person, so you can't make me do the work of more than one person even if you promote me.",
+                "en": "Forgive my bluntness, but do bear in mind you are paying me only a single salary. No matter how far you promote me, I won't do more than a single person's work.",
                 "jp": "悪いけど、昇進しても昇給してもらえないのなら、これ以上の仕事はしないわよ。",
                 "kr": "미안하지만, 승진해도 급료를 올려주지 못한다면, 이 이상의 일은 하지 않을 거야.",
                 "cn": "冒昧提醒一下，我只拿一份薪水。不加薪的话，就算升职，我也不会做更多的工作哦。"
@@ -241,7 +241,7 @@
                 "cn": "编入队伍"
             },
             "text": {
-                "en": "Got it.",
+                "en": "Understood.",
                 "jp": "わかったわ。",
                 "kr": "알았어.",
                 "cn": "知道了。"
@@ -257,7 +257,7 @@
                 "cn": "任命队长"
             },
             "text": {
-                "en": "I hope this squad could work well in all kinds of extreme environments.",
+                "en": "I hope this squad performs well in all types of extreme environment.",
                 "jp": "どんな厳しい環境にも耐えられるチームだといいわね。",
                 "kr": "어떤 가혹한 환경이라도, 다 버텨낼 수 있는 팀이었으면 좋겠네.",
                 "cn": "希望这会是一支能应付各种极端环境的小队。"
@@ -289,7 +289,7 @@
                 "cn": "行动开始"
             },
             "text": {
-                "en": "We can't let them misuse the Originium like this.",
+                "en": "We can't let them misuse Originium like this.",
                 "jp": "これ以上、源石の濫用を許すわけにはいかないわ。",
                 "kr": "이 이상, 오리지늄을 남용하게 놔둘 순 없어.",
                 "cn": "不能让他们再这样滥用源石。"
@@ -369,7 +369,7 @@
                 "cn": "作战中1"
             },
             "text": {
-                "en": "Be swallowed by the earth!",
+                "en": "Sink into the earth!",
                 "jp": "埋もれろ！",
                 "kr": "묻혀라!",
                 "cn": "陷下去吧！"
@@ -401,7 +401,7 @@
                 "cn": "作战中3"
             },
             "text": {
-                "en": "Your life ends here!",
+                "en": "This ends here!",
                 "jp": "ここまでよ！",
                 "kr": "여기까지다!",
                 "cn": "到此为止了！"
@@ -417,7 +417,7 @@
                 "cn": "作战中4"
             },
             "text": {
-                "en": "You shouldn't have set foot on this land.",
+                "en": "You shouldn't have set foot here.",
                 "jp": "そこに立つべきじゃなかったわね！",
                 "kr": "거기 서 있지를 말았어야지!",
                 "cn": "你不该踏足这里！"
@@ -433,7 +433,7 @@
                 "cn": "完成高难行动"
             },
             "text": {
-                "en": "What the enemies are doing... will only bring disaster.",
+                "en": "What the enemy was doing… would only bring disaster.",
                 "jp": "彼らの行い、災害の発生を早めるだけだわ――。",
                 "kr": "놈들의 행동은, 재해의 발생을 앞당길 뿐이야…",
                 "cn": "敌人的这种行为，只会招致灾难。"
@@ -481,7 +481,7 @@
                 "cn": "行动失败"
             },
             "text": {
-                "en": "How is this possible...",
+                "en": "How is this possible…?",
                 "jp": "なんてことなの……。",
                 "kr": "대체 어떻게 된 거지…",
                 "cn": "怎么会这样......"
@@ -529,7 +529,7 @@
                 "cn": "信赖触摸"
             },
             "text": {
-                "en": "This piece of ore... for me? Really? But... it's expensive, right?",
+                "en": "This piece of ore is… for me? Really? But… it must be very expensive, no?",
                 "jp": "この鉱石……私に？本当にいいの……？だってこれ、貴重なものよ？",
                 "kr": "이 광석을… 나한테? 정말 괜찮아…? 이거, 귀한 거잖아?",
                 "cn": "这块矿石......给我的？真的可以吗......这......很贵重啊？"
@@ -570,6 +570,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Sarah Wiedenheft",
+            "global": "Sarah Wiedenheft"
+        },
         "cn": {
             "native": "瞿子兰",
             "global": "Zilan Qu"
@@ -584,6 +588,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

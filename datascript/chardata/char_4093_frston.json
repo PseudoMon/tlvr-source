@@ -1,0 +1,532 @@
+{
+    "charid": "char_4093_frston",
+    "nameid": "frston",
+    "names": {
+        "en": "Friston-3",
+        "jp": "Friston-3",
+        "kr": "Friston-3",
+        "cn": "Friston-3"
+    },
+    "voices": [
+        {
+            "id": "char_4093_frston_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "If I become your assistant, Closure won't be able to touch me anymore, yes? I'm aware of her extreme interest in me. But those ridiculous modifications, are such an insult to a scientist, even... in my current form, I won't allow it.",
+                "jp": "君の助手になれば、クロージャは僕の身体に好き勝手できなくなるのだろう？彼女が僕に興味津々なのは知っているよ。けど、ああいうとんちきな改装は、一科学者への侮辱なのだ。たとえ……今の僕がこのような有様であっても、許容はできない。",
+                "kr": "자네의 어시스턴트가 되면 클로저도 내 몸을 함부로 할 수 없게 되겠지? 그녀가 내게 많은 관심을 갖고 있다는 사실은 알고 있네. 하지만 그런 어리석은 개조는 과학자에 대한 모욕이나 다름없어…… 비록 지금 내가 이런 모습이 되었을지라도, 그건 용납 못하네.",
+                "cn": "成为你的助理，可露希尔就无权在我身上动手动脚了吧？她对我非常感兴趣，我知道。但那些愚蠢的改装，是对一名科学家的侮辱，哪怕......我现在是这个模样，也不行。"
+            },
+            "asset": "char_4093_frston/CN_001"
+        },
+        {
+            "id": "char_4093_frston_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Why would humanity grow horns and tails? This stage of biological evolution is past my parameters of understanding... I know tens of thousands of years have passed— Kal'tsit has mentioned this countless times. I will need a bit more time to formulate my deduction.",
+                "jp": "なぜ人類に角と尻尾が生えているんだろう？このような生物の進化は、僕の理解を超えている……数万年の時が過ぎたのは理解しているさ、ケルシーに何度も説明されたからね。演繹に少々時間を要するだけだ。",
+                "kr": "어째서 인류에게 뿔과 꼬리가 자라난 것일까? 이런 생물적 진화는 내 인지 체계를 뛰어넘었어…… 나도 켈시가 여러 차례 설명해 줬으니, 수만 년의 시간이 지난 것쯤은 알고 있네. 단지 이해할 시간이 조금 필요할 뿐이야.",
+                "cn": "为什么人类会长出角和尾巴？这样的生物进化状态超出了我的认知体系......我知道时间已经过了数万年，凯尔希说过无数次了。我需要一点时间推演。"
+            },
+            "asset": "char_4093_frston/CN_002"
+        },
+        {
+            "id": "char_4093_frston_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Closure wanted me to sound like a 'thirty-year-old rock band vocalist with a raspy voice,' but my original body was already twice that age... at least, that's what my final memories tell me.",
+                "jp": "クロージャは僕のボイス設定を「三十歳男性、滑舌の良いスモーキーボイス」としたいらしいけど、僕は六十を超えた老骨なんだよ……少なくとも、それが僕の最後の記憶だ。",
+                "kr": "클로저는 내 목소리를 '발성 좋고 허스키한 30대 남성의 목소리'로 설정하고 싶었던 모양이지만, 난 이미 60이 넘은 노인일세…… 적어도 내 마지막 기억으론 그렇다네.",
+                "cn": "可露希尔想将我的声线设置成“三十岁、有颗粒感的摇滚烟嗓”，但我本身已经是个六十多岁的老人了......起码，这是我最后的记忆。"
+            },
+            "asset": "char_4093_frston/CN_003"
+        },
+        {
+            "id": "char_4093_frston_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Let's stop here for today, Doctor. I have to go over to Kal'tsit's office, she's probably needlessly burning the midnight oil again. Trudging on for thousands of years in service of what she feels is her mission, just to stop what exactly? It would be better to get more sleep.",
+                "jp": "本日の仕事はこれまでとしよう、ドクター。このあとケルシーの執務室へ行かないといけなくてね、また意味もなく徹夜をしているだろうから。数万年もの間、使命感に背を押されて歩き続けて来た人に、いまさら何を止められるというのだ？いっそ睡眠を取った方が有意義だ。",
+                "kr": "오늘 일은 여기까지 하도록 하지, 박사. 난 조금 있다 켈시의 사무실에도 들러야 한다네. 켈시는 분명 오늘도 의미 없이 밤을 지새우고 있겠지. 수만 년이라는 시간 동안 사명감에 등을 떠밀려 왔는데, 이제 와서 또 무얼 막을 수 있겠나? 차라리 잠이라도 일찍 자는 편이 낫겠지.",
+                "cn": "今天的工作就到此为止吧，博士。我还要去一趟凯尔希的办公室，想必她又在无谓地熬夜。一个人被使命感推着走了数万年，又能阻止什么呢？不如早点睡吧。"
+            },
+            "asset": "char_4093_frston/CN_004"
+        },
+        {
+            "id": "char_4093_frston_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Doctor, don't look at me the same way you do Castle-3 and the others. They are very... cute, but my robot body is just like your hood, merely... a sort of costume... a style. I know who I am, and thus you and I are alike.",
+                "jp": "ドクター、どうか僕をキャッスル-3たちと同列に扱わないでくれよ。彼らはとても……可愛らしいけれど、僕のこのロボットの身体は君のフードと同じで、ただの様式であって、ある種の……スタイルだ。僕は自分が誰であるかは理解しているし、僕たちこそが同じなんだ。",
+                "kr": "박사, 부디 Castle-3 같은 아이들과 나를 똑같이 취급하진 말아 주게. 그 아이들은 꽤나…… 사랑스럽지만, 내 기계 몸은 자네의 후드처럼 일종의 양식이자, 일종의…… 스타일에 불과하다네. 나도 내가 누군지는 잘 알고 있네, 그리고 우리야말로 똑같다 할 수 있지.",
+                "cn": "博士，不要用看待Castle-3他们的眼光看待我。他们很......可爱，但我这副机械之躯，就像你的兜帽，只是一种仪式，一种......风格。我知道自己是谁，我们才是一样的。"
+            },
+            "asset": "char_4093_frston/CN_007"
+        },
+        {
+            "id": "char_4093_frston_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "I'm not arrogant, but I am angry at your ignorance and lack of self-awareness, angry at your self-righteousness. Yes, I've lost all my knowledge, so you can take this anger as merely a 'result' of my 'calculations,' and a very clear result at that.",
+                "jp": "僕は傲慢なのではない、怒っているだけだ。君たちの無知でありながら分を弁えない行いに、君たちの思い上がりに、怒っているんだ。そうさ、今の僕はもう知識を失った。だからこの怒りを「演算の結果」だと思ってくれて構わないよ、とても分かりやすい結果であろう。",
+                "kr": "나는 오만한 것이 아니라 분노하고 있을 뿐이네. 자네들의 무지함과 분수를 모르는 행동에, 자네들의 자만심에 분노하고 있는 걸세. 그래, 난 이제 지식을 잃었네. 그러니 자네도 지금 이 분노를 '연산의 결과'라고 생각해도 좋네. 참으로 이해하기 쉬운 결과일 테지.",
+                "cn": "我并非傲慢，我只是愤怒，为你们的无知却不自知，为你们的自以为是愤怒。没错，我现在已经失去了知识，你就权且将这种愤怒理解成“运算的结果”吧，这结果清晰可见。"
+            },
+            "asset": "char_4093_frston/CN_008"
+        },
+        {
+            "id": "char_4093_frston_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "My wife, daughter, and the rest of my people are eternally resting in those sarcophagi, and will never wake up again. I've made many decisions, I'm well aware. But all I remember is that final dinner, where everyone bid me farewell, and prayed that the subsequent odyssey would go smoothly...",
+                "jp": "僕の妻と娘、それから他の同志たちは石棺の中で長い眠りについて、目覚めることはない。僕は数多くの決断を下してきた、そのことは既に知っている。けれども、記憶に残っているのは最後の晩餐のことだけなんだ。皆が僕に別れの言葉を贈って、順調な旅路になるよう祈ってくれた……",
+                "kr": "내 아내와 딸, 그리고 다른 동포들은 그 석관 속에서 기나긴 잠에 들어 다시는 깨어나지 않겠지. 나는 수많은 결정들을 내렸고, 나도 그 사실을 알고 있네. 하지만 지금 내 기억에 남은 건 그 최후의 만찬뿐이네. 모두가 나와 작별 인사를 나누고, 앞으로의 여정이 순조롭기를 기도해 주었지……",
+                "cn": "我的妻子、女儿，还有其他同胞都长眠于那些石棺之中，不会再醒来。我做了很多决定，我已经知道了这些。可我依然只记得最后那顿晚餐，所有人与我道别，祈祷接下来的远行能够顺利......"
+            },
+            "asset": "char_4093_frston/CN_009"
+        },
+        {
+            "id": "char_4093_frston_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Doctor, are you free? I hope you might take me out for a walk.",
+                "jp": "ドクター、時間はあるかな？散歩に連れて行ってくれないか。",
+                "kr": "박사, 시간 있나? 같이 산책이라도 다녀오는 건 어떤가.",
+                "cn": "博士，有空吗？带着我到处走走吧。"
+            },
+            "asset": "char_4093_frston/CN_010"
+        },
+        {
+            "id": "char_4093_frston_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Hello there, I am Friston. That's right, just 'Friston,' not a 'Friston-3' or whatever. I am not a replica, and very much less a reproduction of a replica. I hope you understand.",
+                "jp": "初めまして、僕はフリストンだ。そう、「フリストン」であって、「フリストン-3」などという名ではない。僕は誰かのコピーではないし、コピーのコピーでもない。理解してくれると助かる。",
+                "kr": "반갑네, 나는 Friston일세. 그래, 'Friston'이지, 'Friston-3' 같은 게 아니네. 난 복제품이 아닐뿐더러, 복제품의 복제품도 아니지. 부디 이해해 줬으면 좋겠군.",
+                "cn": "你好，我是Friston。没错，就是“Friston”，不是什么“Friston-3”，我不是复制品，更不是复制品的复制品，希望你能理解。"
+            },
+            "asset": "char_4093_frston/CN_011"
+        },
+        {
+            "id": "char_4093_frston_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "This is valuable research material. I shall require a copy for myself.",
+                "jp": "なかなか価値のある研究資料じゃないか。コピーして保存する必要があるね。",
+                "kr": "꽤나 가치가 있는 연구 자료로군. 복사해서 보존하는 게 좋겠어.",
+                "cn": "挺有价值的研究资料，我需要复制一份。"
+            },
+            "asset": "char_4093_frston/CN_012"
+        },
+        {
+            "id": "char_4093_frston_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Doctor, which sector do you need me to take charge of?",
+                "jp": "ドクター、僕はどの役割を担当すればいいのかな？",
+                "kr": "박사, 난 어떤 역할을 맡으면 되는 건가?",
+                "cn": "博士，你需要我负责哪个环节？"
+            },
+            "asset": "char_4093_frston/CN_017"
+        },
+        {
+            "id": "char_4093_frston_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Am I to lead everyone and find a new direction...? Alright.",
+                "jp": "再び皆を率いて、新しい可能性を模索しないといけないのかな？……いいさ。",
+                "kr": "다시 모두를 이끌고, 새로운 가능성을 찾아내라는 건가? ……알겠네.",
+                "cn": "我要再次带领所有人寻找新的方向吗？......好。"
+            },
+            "asset": "char_4093_frston/CN_018"
+        },
+        {
+            "id": "char_4093_frston_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Let's go. This is also a new journey.",
+                "jp": "行こう、これも新しい旅立ちだ。",
+                "kr": "출발하도록 하지. 이 또한 새로운 여정일지니.",
+                "cn": "走吧，也算是新的旅程。"
+            },
+            "asset": "char_4093_frston/CN_019"
+        },
+        {
+            "id": "char_4093_frston_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Danger detected!",
+                "jp": "危険を感知！",
+                "kr": "위험을 감지했네!",
+                "cn": "感应到危险！"
+            },
+            "asset": "char_4093_frston/CN_020"
+        },
+        {
+            "id": "char_4093_frston_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "I will relay our combat strategies to THRM-EX and Lancet-2.",
+                "jp": "サーマル-EXとランセット-2に作戦を共有しておくよ。",
+                "kr": "작전 계획은 THRM-EX와 Lancet-2에게도 공유해 두겠네.",
+                "cn": "我会将作战计划布置给THRM-EX和Lancet-2。"
+            },
+            "asset": "char_4093_frston/CN_021"
+        },
+        {
+            "id": "char_4093_frston_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "I am naturally capable of more than THRM-EX and the others. I will stand on the front lines.",
+                "jp": "僕は当然、サーマル-EXたちよりも多くのことを担える。だから最前線に立つよ。",
+                "kr": "당연히 THRM-EX 같은 녀석들보다 많은 걸 할 수 있지. 그러니 내가 최전선에 서겠네.",
+                "cn": "我能做的，当然比THRM-EX他们要多。我会站在最前面。"
+            },
+            "asset": "char_4093_frston/CN_022"
+        },
+        {
+            "id": "char_4093_frston_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "As long as I'm still standing, no one will come to harm.",
+                "jp": "僕が斃れるまで、皆が傷つくことはない。",
+                "kr": "내가 쓰러지지 않는 한, 아무도 다치지 않을 걸세.",
+                "cn": "我倒下之前，大家不会有事。"
+            },
+            "asset": "char_4093_frston/CN_023"
+        },
+        {
+            "id": "char_4093_frston_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "I will not fall.",
+                "jp": "僕は斃れやしない。",
+                "kr": "난 쓰러지지 않네.",
+                "cn": "我不会倒下。"
+            },
+            "asset": "char_4093_frston/CN_024"
+        },
+        {
+            "id": "char_4093_frston_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Are you all... staring at my expression display?",
+                "jp": "僕の感情表示が気になっているのかな？",
+                "kr": "내 감정 도장이 신경 쓰이는 건가?",
+                "cn": "你们，是在盯着我的表情涂装看？"
+            },
+            "asset": "char_4093_frston/CN_025"
+        },
+        {
+            "id": "char_4093_frston_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "I have taken photos of all your behaviors.",
+                "jp": "君たちの行動は、既に撮影して記録保存した。",
+                "kr": "자네들의 행동은 촬영해서 기록으로 보존했다네.",
+                "cn": "你们的行径，我已经拍照存档。"
+            },
+            "asset": "char_4093_frston/CN_026"
+        },
+        {
+            "id": "char_4093_frston_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Take me to your leader! I want to talk!",
+                "jp": "責任者との対話を要求する。",
+                "kr": "자네들의 책임자와 대화를 해봐야겠네!",
+                "cn": "我要和你们的负责人对话！"
+            },
+            "asset": "char_4093_frston/CN_027"
+        },
+        {
+            "id": "char_4093_frston_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Such... ugly creatures.",
+                "jp": "まったく……醜い生き物だ。",
+                "kr": "정말이지…… 끔찍한 생물이로군.",
+                "cn": "真是......丑陋的生物。"
+            },
+            "asset": "char_4093_frston/CN_028"
+        },
+        {
+            "id": "char_4093_frston_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Doctor, your thinking routines and command style are very much distinct and different from the others... I guess some things never change.",
+                "jp": "ドクター、君の思考回路、そして指揮のスタイルは明らかに余人と異なる……変えられないことはあるんだよ。",
+                "kr": "박사, 자네의 사고 회로와 지휘 스타일은 다른 사람들과 확연히 다르군…… 이 세상에는 변하지 않는 것도 존재하는 법이지.",
+                "cn": "博士，你的思维习惯、指挥风格很明显与其他人都不同......有些东西是改变不了的。"
+            },
+            "asset": "char_4093_frston/CN_029"
+        },
+        {
+            "id": "char_4093_frston_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "I still remember the duty I bear, but I must admit, I am no longer able to fulfill it, let alone execute it as well as you do. You have my respect, Doctor.",
+                "jp": "自分が背負っていた使命は覚えているけれど、僕がそれを達成することは既に不可能だと、認めざるを得ない。いわんや、君のように完璧にこなすのはね。君は敬意を表すべき相手だ、ドクター。",
+                "kr": "내게 주어진 사명은 기억하고 있지만, 이젠 그걸 완수할 수 없다는 사실을 인정할 수밖에 없다네. 더군다나 자네처럼 완벽하게 해내는 건 더더욱 말이지. 자네는 존경받아 마땅한 사람일세, 박사.",
+                "cn": "我还记得我背负的使命，但得承认，我已经不可能完成它，更不可能像你这样完成得这么好。你值得尊敬，博士。"
+            },
+            "asset": "char_4093_frston/CN_030"
+        },
+        {
+            "id": "char_4093_frston_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "An odyssey will always have nigh-avoidable accidents, even if you plan ahead, and though they may be painful to accept... what else can I possibly do but accept them?",
+                "jp": "長旅にハプニングはつきものだし、計画は狂う時もあるさ。受け入れ難いことではあるけれど……受け入れるよりほか、僕に何ができる？",
+                "kr": "긴 여정에 변수는 항상 생기기 마련이고, 계획이 틀어지는 것도 흔한 일이지. 받아들이기 힘든 일이지만…… 받아들이는 것 외에, 내가 뭘 할 수 있겠나?",
+                "cn": "远行总有变故，计划也难免出差错，虽然很难接受......但除了接受，我还能做什么呢？"
+            },
+            "asset": "char_4093_frston/CN_031"
+        },
+        {
+            "id": "char_4093_frston_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "If the worst possible outcome isn't as bad as turning into something like me, then there is nothing to be afraid of. Doctor, you should evacuate first, and leave the rest to me.",
+                "jp": "最悪な場合でも、今の僕のような有様になるだけというなら、恐れることはない。ドクター、先に撤退してくれ、残りは僕が引き受ける。",
+                "kr": "최악의 경우가 그저 나처럼 되는 것뿐이라면 두려워할 필요 없네. 박사, 나머지는 내게 맡기고 자네는 일단 후퇴하게.",
+                "cn": "如果最坏的可能性，也不过是变成我这样，那倒是没什么可怕的。博士，你先撤离，剩下的交给我。"
+            },
+            "asset": "char_4093_frston/CN_032"
+        },
+        {
+            "id": "char_4093_frston_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "I would like to stack all of my borrowed ecological research materials over here. I trust there will be no issues with that?",
+                "jp": "拝借してきた生物研究資料を全てここに置くつもりだが、問題はないか？",
+                "kr": "대여한 생물 연구 자료를 전부 이쪽에 두어도 괜찮겠나?",
+                "cn": "我要把借来的生物研究资料都堆在这里，应该没问题吧？"
+            },
+            "asset": "char_4093_frston/CN_033"
+        },
+        {
+            "id": "char_4093_frston_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "You should have observed the 'anger' expression on my display.",
+                "jp": "見えていると思うけれど、僕の感情表示は「怒り」になっている。",
+                "kr": "자네가 본 대로, 지금 내 표정이 뜻하는 건 '분노'일세.",
+                "cn": "你应该看到了，我的表情涂装是“生气”。"
+            },
+            "asset": "char_4093_frston/CN_034"
+        },
+        {
+            "id": "char_4093_frston_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "I've taken a photo of you, Doctor. You want to see it? Sorry, but I've already saved it to my archives.",
+                "jp": "……君の写真を撮ったよ、ドクター。見てみたいのかい？すまないね、もう印刷してコレクションにしたよ。",
+                "kr": "……자네 사진을 한 장 찍었다네, 박사. 보고 싶은가? 미안하군, 이미 인쇄하고 저장까지 했다네.",
+                "cn": "......刚刚为你拍了张照片，博士。你想看看？对不起，我已经打印存档了。"
+            },
+            "asset": "char_4093_frston/CN_036"
+        },
+        {
+            "id": "char_4093_frston_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4093_frston/CN_037"
+        },
+        {
+            "id": "char_4093_frston_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Hello, Doctor.",
+                "jp": "やあ、ドクター。",
+                "kr": "안녕하신가, 박사.",
+                "cn": "你好，博士。"
+            },
+            "asset": "char_4093_frston/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "John Kassir ",
+            "global": "John Kassir "
+        },
+        "cn": {
+            "native": "董胜章",
+            "global": "Dong Shengzhang"
+        },
+        "jp": {
+            "native": "池田秀一",
+            "global": "Shuichi Ikeda"
+        },
+        "kr": {
+            "native": "임채빈",
+            "global": "Lim Chae-bin"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}
