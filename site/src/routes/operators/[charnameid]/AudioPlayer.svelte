@@ -115,7 +115,7 @@
     {/if}
   </div>
   {#if showAudio}
-  <audio controls src={audiofile} preload="metadata">
+  <audio controls src={audiofile} preload="auto">
     <a href={audiofile}> Download audio </a>
   </audio>
   {/if}
