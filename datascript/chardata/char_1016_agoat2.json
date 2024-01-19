@@ -1,0 +1,596 @@
+{
+    "charid": "char_1016_agoat2",
+    "nameid": "agoat2",
+    "names": {
+        "en": "Eyjafjalla the Hvít Aska",
+        "jp": "純燼エイヤフィヤトラ",
+        "kr": "에이야퍄들라 더 크비트 아스카",
+        "cn": "纯烬艾雅法拉"
+    },
+    "voices": [
+        {
+            "id": "char_1016_agoat2_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Were you looking for these documents, Professor? Here you are. I personally believe that some of these theories aren't explained in enough detail. If you wanted a springboard for your ideas, I suggest referencing these two papers. I've added some of my own commentary, so feel free to look it over.",
+                "jp": "先輩、こちらの資料をお探しですか？個人的にはまだ一部理論の説明が不十分なように感じたので、何か閃きがほしいなら、この二つもセットで見るのがおすすめです。私の考えもメモしてあるので、よかったら参考にしてくださいね。",
+                "kr": "선배, 이 자료 찾으시는 거예요? 제가 보기엔 이론적 설명이 충분하지 않은 부분이 있는 것 같아요. 뭔가 새로운 아이디어를 얻고 싶으신 거면, 여기 이 두 자료도 함께 살펴보시는 걸 추천드려요. 제 의견도 메모해뒀으니까, 괜찮으시다면 참고해 주세요.",
+                "cn": "前辈在找这些资料吗？我个人觉得它有些理论讲得还不够详尽，要是想有什么启发，还是要配合着这两份资料来看。我在上面写了些自己的见解，前辈可以参考着看看呀。"
+            },
+            "asset": "char_1016_agoat2/CN_001"
+        },
+        {
+            "id": "char_1016_agoat2_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "The little lamb didn't go away even after the volcano erupted. It's actually been staying with me the whole time, and sometimes gets into trouble. H-Hey, you can't go standing on the Doctor's head! That's terribly rude! Sorry, Professor. Um, Can you see the little lamb? It's right here, hand to the right, and then down a little. Yeah, you're petting it right now.",
+                "jp": "ちびめーちゃんは、目の前で火山が噴火した時も私の側を離れませんでしたし、ずっと一緒にいてくれるんです。たまにやんちゃもしますけどね。あっ、ちょっと、ダメだよ、ドクターの頭に乗ったら失礼でしょ！……先輩、見えますか？ここです、右側の……もうちょっと下です。はい、これでちびめーちゃんに触れてますよ。",
+                "kr": "이 양들은 화산이 폭발한 뒤에도 제 곁을 떠나지 않았어요. 지금도 매일 저와 함께해 주고 있고요. 물론 가끔은 말썽도 피우긴 하지만…… 잠깐, 박사님 머리 위에 올라가는 건 실례라고요! ……선배 보이세요? 여기요, 오른쪽, 더 아래쪽으로요, 네, 지금 만지고 계신 거예요.",
+                "cn": "小羊在火山爆发后也没有离开，还是每天陪着我，有时还会捣乱。等等，不可以站在博士头上呀，这样很不礼貌的！......前辈能看到吗？就在这里，右边，再下边一点，对，您现在摸到它啦。"
+            },
+            "asset": "char_1016_agoat2/CN_002"
+        },
+        {
+            "id": "char_1016_agoat2_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "This coat was Mom's old protective gear. Professor Keller once told me, this mark came from a sudden burst of magma. It almost left a scar on her, but Mom just laughed, saying she had good luck. If I were to go on an expedition with her, I'd probably need to be the one to lead.",
+                "jp": "このコートはお母さんが防護服として使っていたものなのですが、ケラー先生によると、ここは溶岩が跳ねてできた焼け跡なんだそうです。もう少しで大怪我しちゃうところだったのに、お母さんは運が良かったって笑ってたとか……もしお母さんと一緒に調査することになったら、私がリードしてあげなきゃダメかもですね。",
+                "kr": "이 외투는 어머니가 방호복으로 사용하시던 물건이에요. 켈러 선생님이 그러시던데 이 부분은 용암이 튀어서 생긴 자국이라고 하더라고요. 하마터면 큰 흉터가 남을 뻔했는데도, 어머니는 운이 좋았다며 웃으셨다고 해요…… 만약 어머니랑 같이 탐사를 나갈 수 있었다면, 오히려 제가 리드를 해야 했을지도 모르겠네요.",
+                "cn": "这件外套是妈妈的防护服，凯勒老师告诉过我，这个痕迹是因为岩浆突然迸了出来，差点给妈妈留下了疤，但她还是笑着说自己真是好运气。要是和妈妈一起做考察，可能还需要我拉着她吧？"
+            },
+            "asset": "char_1016_agoat2/CN_003"
+        },
+        {
+            "id": "char_1016_agoat2_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Shh. Here, Professor, I snuck these over! I saw it all – you were muttering about how badly you wanted some snacks earlier, right? I've actually gotten pretty good at reading lips. Not to brag, but I might be better than Rhodes Island's intelligence agents by now. But, just maybe.",
+                "jp": "シーッ、先輩、どうぞ。こっそり持ってきちゃいました！さっき「おやつ食べたい」ってつぶやいてましたよね？見てましたよ～。もうかなりの言葉が読唇術でわかっちゃうので、ロドスの諜報員のお姉さんたちよりもすごいかも、なんちゃって。",
+                "kr": "쉿, 선배, 여기요. 제가 몰래 가져왔어요! 아까부터 계속 '간식 먹고 싶다'라고 중얼거리셨죠? 저 다 봤어요! 이젠 웬만한 입술 모양은 다 읽을 수 있어서, 그쪽으로는 로도스 아일랜드 첩보원 언니들보다 제가 더 대단할지도 몰라요!",
+                "cn": "嘘，前辈，给，我偷偷拿来的！我都看到啦，前辈刚刚在嘟囔的是“好想吃零食”，对不对？我现在已经能看懂很多唇语了，说不定比罗德岛上几位情报员小姐都要厉害呢。"
+            },
+            "asset": "char_1016_agoat2/CN_004"
+        },
+        {
+            "id": "char_1016_agoat2_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "I'm getting ready to head out, Professor. Another volcano is about to become active. While luck is still on my side, I need to go a bit farther, a bit deeper. I want to wear the brightly-colored ornaments, and get to the truth in the hot magma, just like Mom and Dad did.",
+                "jp": "先輩、また新しい火山が目覚めそうなので、ちょっと準備したらすぐ出ますね。遠くへ……もっと遠くへ行ってみたいんです。私の運が尽きてしまう前に、お父さんやお母さんみたいに綺麗なアクセサリーで着飾って、たくさん熱い溶岩に触れてみようって思って。",
+                "kr": "선배, 또 새로운 화산이 깨어나려는 조짐이 보여서 준비가 끝나는 대로 바로 출발할 예정이에요. 이번엔 더 멀리…… 더 먼 곳으로 가 볼까 해요. 제 운이 다하기 전까지, 부모님처럼 화려한 악세사리를 달고, 뜨거운 용암을 잔뜩 접해 보고 싶어요.",
+                "cn": "我准备一下就要出发了，前辈，又有一座火山要睡醒了。我要走得远一点，再远一点，运气暂且还站在我这边，我可以和爸爸妈妈一样戴着鲜艳的挂饰，和它们一起去触及那些炽热的岩浆。"
+            },
+            "asset": "char_1016_agoat2/CN_005"
+        },
+        {
+            "id": "char_1016_agoat2_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Professor, in a few days, I'll be going to Leithanien to attend a press conference and the premiere of my documentary. Our research is too obscure for the ordinary people who want to learn about volcanoes. But I still hope that one day, I can use this method to show everyone the beauty of volcanoes.",
+                "jp": "先輩、私、数日後にリターニアでの発表会とドキュメンタリーの試写会に参加する予定なんです。私たちの研究は火山に興味を持っている一般の方にとっては難しすぎるので、こういうイベントでたくさんの人に火山の美しさを感じてもらえたらって……そんな日が来るといいなって思ってます。",
+                "kr": "선배, 저, 며칠 후에 라이타니엔에 가서 발표회랑 다큐멘터리 시사회에 참석할 예정이에요. 화산에 관심이 있다고 해도 저희 연구는 일반인에게는 어려운 분야잖아요. 이런 방식을 통해서라도 더 많은 사람들이 화산의 아름다움을 느낄 수 있었으면 좋겠어요.",
+                "cn": "前辈，过几天我要去莱塔尼亚参加一场发布会，还有纪录片的首映礼。我们的研究对那些想了解火山的普通人来说太晦涩，能用这种方式让更多人感受到火山的美......希望能有那一天。"
+            },
+            "asset": "char_1016_agoat2/CN_006"
+        },
+        {
+            "id": "char_1016_agoat2_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Frostleaf has been going to Mousse's book club a lot these days. Earthspirit and Provence have been trekking far and wide. I've been exploring more volcanoes... Professor, I still remember those early days, when Mousse was so nervous she couldn't even talk, and Frostleaf was always alone. But look at them now... they're getting better.",
+                "jp": "ここ最近、フロストリーフはよくムースの読書会に参加してるみたいですし、プロヴァンスお姉さんとアーススピリット先輩は相変わらず大地を奔走していて、私もそれに負けじと新しい火山に挑戦し続けています。先輩、昔ムースは人見知りで全然話せない子でしたし、フロストリーフはいつも独りぼっちだったんですよ。それが今では……ほんとによかったです。",
+                "kr": "요즘 프로스트리프가 무스의 독서회에 자주 참여하는 것 같아요. 어스스피릿 선배랑 프로방스 씨는 여전히 대지를 누비고 다니고요. 물론 저도 수많은 화산을 다녀왔어요. 선배, 있죠. 그 모습들을 보고 있으니, 전에 무스가 낯가림 때문에 말도 잘 못하고, 프로스트리프도 혼자 다니는 걸 좋아하던 모습이 떠오르더라고요. 하지만 지금은…… 정말 다행이에요.",
+                "cn": "霜叶最近常去慕斯的读书会，地灵前辈和普罗旺斯姐姐仍在大地上奔走，我也踏上了更多火山。前辈，我记得一开始慕斯紧张得连话都不敢说，霜叶也总是一个人，您看现在......真好呀。"
+            },
+            "asset": "char_1016_agoat2/CN_007"
+        },
+        {
+            "id": "char_1016_agoat2_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Hehe, Mr. Kahn's letter just arrived. He says he's really mad that Professor Keller and I went rowing on a sulfuric acid lake without protective gear. Mom and Dad did crazy things just like that before they had me, and they didn't bring Professor Keller along. So this time, so I took her with me!",
+                "jp": "フフッ、カーン先輩からの手紙が届いたんです。私とケラー先生が防護措置も取らずに硫酸の湖でボートに乗ったから、すっごく怒ってるって。私の両親も昔同じことをやらかしたそうなんですが、当時私はまだ産まれてませんでしたし、ケラー先生も同行させてもらえなかったらしいので、今回は私たち二人で挑戦しちゃいました！",
+                "kr": "후후, 칸 선배한테서 편지가 왔어요. 저랑 켈러 선생님이 보호 장비도 없이 황산 호수에서 보트를 탔다고 엄청 화가 나셨다고 하네요. 제 부모님도 예전에 저희처럼 막무가내로 행동하셨다고 하던데, 그땐 저도 태어나기 전이고, 켈러 선생님도 안 데려가셨다고 해서…… 그래서 이번엔 저희 둘이 도전해 봤어요!",
+                "cn": "噗，卡恩前辈的信件到了，他说他很生气，因为我和凯勒老师没有防护措施地在硫酸湖上划船。爸爸妈妈之前也这样子胡来过，那时还没有我，他们也不带着凯勒老师，所以我们两个这回就一起划啦！"
+            },
+            "asset": "char_1016_agoat2/CN_008"
+        },
+        {
+            "id": "char_1016_agoat2_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "One moment, Professor, I'm changing out my hearing aid battery. Hmm? You're... Did you forget, Professor? I can read lips now. Besides, the sign you want should be like this, then this. What you just did was 'I have been suppressed by the volcano.'",
+                "jp": "あっ、先輩、補聴器の電池交換中なので、ちょっと待ってください……えっ？それって……先輩、そんなことしなくても、私は唇が読めるって忘れちゃいましたか？それに――こうして、こうして、指をこうしないと正しい意味になりませんよ。先輩がさっきやっていた手話は「火山に押しつぶされた」って意味になっちゃいますから。",
+                "kr": "잠시만요, 선배. 보청기 배터리를 교체하는 중이라서요. 네? 아…… 선배, 혹시 제가 입술 모양을 읽을 줄 안다는 걸 잊으신 건 아니죠? 그리고 선배, 손가락을 이렇게, 이렇게 해야 올바른 의미예요. 방금 선배가 한 수화는, '화산에 깔렸어'라는 의미예요.",
+                "cn": "前辈，稍等，我正在给助听器换电池。嗯？您在......前辈忘啦，我能看懂唇语，而且前辈——这样、这样、手指这样摆，它的意思才是正确的，刚刚您摆出来的是“我已经被火山压住了”。"
+            },
+            "asset": "char_1016_agoat2/CN_009"
+        },
+        {
+            "id": "char_1016_agoat2_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Phew... Even without my hearing aid, I can still pick up the little sounds of Professor's breathing…",
+                "jp": "ふぅ……こうしていれば、補聴器がなくたって……先輩の息の音が聴こえる……",
+                "kr": "후우…… 이렇게 있으면…… 보청기를 안 껴도…… 선배의 숨소리가 들려요……",
+                "cn": "呼......就这样，就算没有戴助听器，我也还是能听到一点前辈的......呼吸声......"
+            },
+            "asset": "char_1016_agoat2/CN_010"
+        },
+        {
+            "id": "char_1016_agoat2_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Professor, I'm back, and I brought some souvenirs for you. I'll send them over to Dr. Kal'tsit and Amiya in a bit. I also managed to get a good amount of new data and specimens from Siesta's volcanic eruption. Would you like to come and take a look with me?",
+                "jp": "先輩、ただいま戻りました～。こちらはみなさんへのお土産です。この後ケルシー先生とアーミヤさんにもお届けします。今回のシエスタ火山の噴火で、たくさんデータとサンプルが採れたので、先輩も一緒に見ませんか？",
+                "kr": "선배, 저 왔어요~ 이건 여러분께 드리는 선물이에요. 이따가 켈시 선생님이랑 아미야 씨한테도 전해드릴게요. 이번 시에스타 화산 폭발로 새로운 데이터랑 샘플을 채취할 수 있었는데, 선배도 같이 보러 가지 않으실래요?",
+                "cn": "前辈，我回来啦，这些是带给你们的礼物，我等下拿去送给凯尔希医生和阿米娅。这次汐斯塔的火山爆发，我拿到了不少新数据和标本，前辈要来一起看看吗？"
+            },
+            "asset": "char_1016_agoat2/CN_011"
+        },
+        {
+            "id": "char_1016_agoat2_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "A volcano's every change and movement is fleeting. Only by capturing them on camera are we able to preserve every last detail.",
+                "jp": "火山の活動はどれも一瞬の出来事なので、カメラで記録しておかないと細かな部分を見逃しちゃうんですよね。",
+                "kr": "화산 활동의 변화는 모두 순식간에 지나가기 때문에, 영상으로 기록해 두지 않으면 세세한 부분을 놓칠 수도 있어요.",
+                "cn": "火山的每一次变化活动都转瞬即逝，只有用摄像机记录下来，我们才能不遗漏任何一个细节。"
+            },
+            "asset": "char_1016_agoat2/CN_012"
+        },
+        {
+            "id": "char_1016_agoat2_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Our documentaries are being taken seriously? That's great! During my inspections in recent years, I've seen a lot of governments that don't trust our judgment and won't allocate resources to evacuate the residents. I hope I'll be able to make a difference.",
+                "jp": "私たちのドキュメンタリーが注目されてる？よかった～。ここ数年のフィールドワークでは、私たちの判断を疑って住民の避難にリソースを費やすまでもないと考える政府に出会ってばかりだったので、ずっと別の角度から何かできればいいなと思ってたんです。",
+                "kr": "그 다큐멘터리가 주목받고 있다고요? 전에 탐사할 때 현장에서의 저희의 판단을 의심하고, 주민 대피에 비용 쓰는 걸 꺼려 하는 정부들을 종종 만났거든요. 그래서 뭐라도 하고 싶었는데, 정말 다행이에요~.",
+                "cn": "那些纪录片受到重视了？太好了。这几年我经常会在考察时遇到不信任我们的判断，不愿意花费资源撤离居民的政府，我希望自己能做到点什么。"
+            },
+            "asset": "char_1016_agoat2/CN_013"
+        },
+        {
+            "id": "char_1016_agoat2_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "I know what you want to say, Professor, but I've never made my expeditions hard for myself. Starting from the smallest example, I bet you've never fried a fowlbeast egg over lava before, but I have!",
+                "jp": "先輩、言いたいことが顔に出ちゃってますよ。でも、私はフィールドワークを苦しいものじゃなくて楽しいものだと思ってるんです。小さな楽しみの一つに、溶岩の上で目玉焼きなんてのがあるんですが、先輩はきっと未経験ですよね。でも私はぜーんぶ経験済みなんですから！",
+                "kr": "선배가 하려는 말이 뭔지 알 것 같아요, 얼굴에 다 쓰여 있다고요~ 하지만 전 현장에 나가는 걸 한 번도 힘들다고 생각한 적 없어요. 현장만의 소소한 즐거움을 꼽자면…… 선배, 용암을 이용해 요리한 파울비스트 프라이 드셔보신 적 없죠? 전 이런 것도 해 봤다고요!",
+                "cn": "前辈，我知道您想说什么。我从来没有把考察弄得很艰苦，就从最小的说起，我猜您肯定没有在岩浆上煎过羽兽蛋，但我已经这么做过啦！"
+            },
+            "asset": "char_1016_agoat2/CN_014"
+        },
+        {
+            "id": "char_1016_agoat2_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "How about a slice of lava cake before we head out? It was one of Mom's traditions.",
+                "jp": "出発前にみんなで溶岩ケーキを食べませんか。お母さんがやってたゲン担ぎなんです。",
+                "kr": "출발 전에 다 같이 초콜릿 라바 케이크를 먹는 건 어때요? 이건 저희 어머니의 루틴이거든요~",
+                "cn": "出发前，我们应该去吃一块熔岩蛋糕。这是妈妈之前的习惯~"
+            },
+            "asset": "char_1016_agoat2/CN_017"
+        },
+        {
+            "id": "char_1016_agoat2_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Volcano field investigations are extremely dangerous. Everyone, please follow my instructions.",
+                "jp": "火山の実地調査はかなりの危険が伴うので、みなさん私の指示に従ってくださいね。",
+                "kr": "화산 탐사는 정말 위험한 일이니까, 모두 제 지시에 따라 주세요.",
+                "cn": "火山实地考察是很危险的事情，各位请听我的指挥。"
+            },
+            "asset": "char_1016_agoat2/CN_018"
+        },
+        {
+            "id": "char_1016_agoat2_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Please double check your protective gear. Also, remember to keep a safe distance from the lava, and give regular status reports.",
+                "jp": "みなさん、もう一度防護装備の確認をお願いします。溶岩と安全な距離を保って、体調の報告は怠らないようにしてください。",
+                "kr": "여러분, 다시 한번 보호 장비를 체크해 주세요. 용암과 안전거리를 유지하고, 컨디션에 이상이 있으면 즉시 보고해 주셔야 해요.",
+                "cn": "各位，再检查一下自己的防护装备，和岩浆保持安全距离，及时报告自己的身体状态。"
+            },
+            "asset": "char_1016_agoat2/CN_019"
+        },
+        {
+            "id": "char_1016_agoat2_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Relax, volcano. We're just here to collect a few precious samples. Please don't get mad.",
+                "jp": "ふぅ、ふぅ……火山さん、お願いだから大人しくしててね。貴重なサンプルをちょっと採らせてもらうだけだから、まだ怒らないでね。",
+                "kr": "후우, 후…… 화산 씨, 조금 진정해 주세요. 중요한 샘플을 아주 조금만 채취하고자 하는 것뿐이니까, 화내지 마세요.",
+                "cn": "呼，呼，火山，放轻松些，我们只是来这里取走一些珍贵的样本，请不要现在就生气。"
+            },
+            "asset": "char_1016_agoat2/CN_020"
+        },
+        {
+            "id": "char_1016_agoat2_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "This time, we can make up for the missing data in the last report.",
+                "jp": "これで前回取り損ねたデータも補完できそうです。",
+                "kr": "이걸로 저번 보고에서 놓친 데이터를 보완할 수 있겠네요.",
+                "cn": "这次能够补上上次报告遗漏的数据啦。"
+            },
+            "asset": "char_1016_agoat2/CN_021"
+        },
+        {
+            "id": "char_1016_agoat2_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Don't worry about me, Professor. I've scaled a lot more volcanoes than you can imagine.",
+                "jp": "先輩、どうかご心配なく。これでも先輩よりもうんとたくさん火山に登ってきてますから。",
+                "kr": "선배, 제 걱정은 마세요. 이래 봬도 화산 경험이라면 선배보다 제가 더 많은걸요.",
+                "cn": "前辈，不用担心我，我攀登过的火山已经比您多了哦。"
+            },
+            "asset": "char_1016_agoat2/CN_022"
+        },
+        {
+            "id": "char_1016_agoat2_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Volcanic soot contains lots of Originium particles. Let's not stay too long.",
+                "jp": "火山の煙や粉塵には大量の源石粒子が含まれるので、長居は避けましょう。",
+                "kr": "화산재 속에는 대량의 오리지늄 입자가 섞여 있으니까, 오래 머무는 건 좋지 않아요.",
+                "cn": "火山烟尘中含有大量源石颗粒，我们不要待太久。"
+            },
+            "asset": "char_1016_agoat2/CN_023"
+        },
+        {
+            "id": "char_1016_agoat2_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Magma will dredge up Originium veins. Keep your distance.",
+                "jp": "源石鉱脈を載せた溶岩には、絶対に近づかないでくださいね。",
+                "kr": "오리지늄 광맥에 있는 용암에는 절대 가까이 가시면 안 돼요.",
+                "cn": "岩浆会带出源石矿脉，不要靠近。"
+            },
+            "asset": "char_1016_agoat2/CN_024"
+        },
+        {
+            "id": "char_1016_agoat2_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Melt away, life-depriving stone...",
+                "jp": "命を攫う石よ、融けてしまえ……",
+                "kr": "생명을 앗아가는 돌이여, 녹아내려라……",
+                "cn": "攫取生命的石头，融化吧......"
+            },
+            "asset": "char_1016_agoat2/CN_025"
+        },
+        {
+            "id": "char_1016_agoat2_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Ashes from vocalnoes, they consume and erase, then nourish and propagate.",
+                "jp": "灰燼は生命を育み、新葉を芽吹かせ、穢れを濯ぐもの。",
+                "kr": "재는 생명을 키우고, 새잎을 틔워, 더러움을 씻어내리니.",
+                "cn": "灰烬孕育生灵，催生枝叶，濯净浑浊。"
+            },
+            "asset": "char_1016_agoat2/CN_026"
+        },
+        {
+            "id": "char_1016_agoat2_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Those particles have no place here. I'll send them away.",
+                "jp": "去るべき灰塵は、私が送り出します。",
+                "kr": "남아있는 재는 제가 흘려보내겠습니다.",
+                "cn": "那些晶尘不该停留，我来送它们离开。"
+            },
+            "asset": "char_1016_agoat2/CN_027"
+        },
+        {
+            "id": "char_1016_agoat2_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Oh, flowing magma, please slow your steps.",
+                "jp": "大地を這う溶岩よ、どうか穏やかに。",
+                "kr": "대지를 흐르는 용암이여, 부디 천천히 흘러가거라.",
+                "cn": "流过大地的岩浆，请你慢些走。"
+            },
+            "asset": "char_1016_agoat2/CN_028"
+        },
+        {
+            "id": "char_1016_agoat2_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "We are one step closer to the truth of this land, Professor.",
+                "jp": "また一歩大地の真実に近づきましたね、先輩。",
+                "kr": "이걸로 대지의 진실에 한 발짝 더 가까워졌네요, 선배.",
+                "cn": "我们离大地的真相更近了一步，前辈。"
+            },
+            "asset": "char_1016_agoat2/CN_029"
+        },
+        {
+            "id": "char_1016_agoat2_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Perhaps there will still be people gazing across this volcano a century from now. Their footprints will cover ours, and the seeds buried beneath the ash will bloom into even more beautiful flowers...",
+                "jp": "百年経っても、きっと誰かがこの火山に目を向けているはずですよね。彼らの歩みは私たちの足跡に重なって、火山灰に埋もれた種はもっと美しい花を咲かせるんです……",
+                "kr": "어쩌면 백 년이 지난 후에도 이 화산에 관심을 갖는 사람이 있을지 몰라요. 그들의 발자국이 우리의 발자국과 겹치고, 화산재 아래에 묻힌 씨앗은 더 아름다운 꽃을 피워낼 거예요……",
+                "cn": "或许百十年后仍有人注视这座火山，他们的脚印会覆盖上我们的，埋在火山灰下的种子也会开出更漂亮的花......"
+            },
+            "asset": "char_1016_agoat2/CN_030"
+        },
+        {
+            "id": "char_1016_agoat2_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Why…? I'm not seeing any errors in the formula or the data... Um? I think I see something surfing through the lava...?",
+                "jp": "演算とデータに問題はなかったのに、どうして……あれ、何かが溶岩の上を滑っていったような……？",
+                "kr": "계산과 데이터에는 문제가 없었어요, 근데 어째서…… 어라, 무언가가 용암을 타고 지나간 것 같지 않나요……?",
+                "cn": "计算和数据都没有问题，为什么会......欸，我好像看到了有什么东西在岩浆里冲浪......？"
+            },
+            "asset": "char_1016_agoat2/CN_031"
+        },
+        {
+            "id": "char_1016_agoat2_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Phew... Thankfully, the volcano didn't want to keep me that badly.",
+                "jp": "ふぅ……良かった。火山はまだそこまで私を連れ去りたいわけじゃなさそうです。",
+                "kr": "휴우…… 다행이에요. 아직은 화산이 절 그다지 데려가고 싶지는 않은 모양이네요.",
+                "cn": "呼——还好，看来这一次，火山还没有那么想让我去陪它呢。"
+            },
+            "asset": "char_1016_agoat2/CN_032"
+        },
+        {
+            "id": "char_1016_agoat2_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Professor, I brought the documents you asked me about.",
+                "jp": "先輩、こないだ約束した資料です～。",
+                "kr": "선배, 저번에 말씀하신 자료 가져왔어요~",
+                "cn": "前辈，我把上次说好要给您的资料也拿来啦。"
+            },
+            "asset": "char_1016_agoat2/CN_033"
+        },
+        {
+            "id": "char_1016_agoat2_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "I heard you coming, Professor. I recognized your footsteps.",
+                "jp": "こんな重い足音くらい、私でもとっくに聞こえてますよ。",
+                "kr": "그렇게 무거운 발소리 정도는, 저도 진작에 들었다고요.",
+                "cn": "这么重的脚步声，我早就听到了哦。"
+            },
+            "asset": "char_1016_agoat2/CN_034"
+        },
+        {
+            "id": "char_1016_agoat2_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Professor, I know how good you are at learning. I can tell you're doing the wrong sign on purpose just to make me laugh!",
+                "jp": "プッ……覚えの早い先輩のことですし、間違った手話で笑わせようとしてるのはすぐわかりますよ！",
+                "kr": "후후…… 선배가 똑똑하다는 거 잘 알고 있어요. 지금은 일부러 틀린 수화로 절 웃기시려는 거죠!",
+                "cn": "噗......前辈，我知道您的学习能力有多好，您现在一看就是故意在用错的手语逗我笑啦！"
+            },
+            "asset": "char_1016_agoat2/CN_036"
+        },
+        {
+            "id": "char_1016_agoat2_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_1016_agoat2/CN_037"
+        },
+        {
+            "id": "char_1016_agoat2_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Professor, the fault lines of mountain ranges and trenches are quietly moving beneath our feet. Little by little, they inch us closer to the volcanoes we hope to visit.",
+                "jp": "先輩、山脈と地溝帯の断層線は、今日も私たちの足下でゆっくりと動いているんです。つまり、私たちは知らないうちに、行きたい火山に少しずつ近づいているんですよ。",
+                "kr": "선배, 산맥과 열곡의 단층선은 오늘도 우리의 발밑에서 천천히 이동하고 있어요. 우린 우리가 가고 싶은 화산들과 점점 가까워지고 있다는 얘기예요.",
+                "cn": "前辈，山脉和裂谷的断层线今天也在我们脚下缓慢地移动，我们离每一座想去的火山都悄悄地更近了一点。"
+            },
+            "asset": "char_1016_agoat2/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Hollie Taylor",
+            "global": "Hollie Taylor"
+        },
+        "cn": {
+            "native": "杜松子",
+            "global": "Juniper Berry"
+        },
+        "jp": {
+            "native": "種田梨沙",
+            "global": "Risa Taneda"
+        },
+        "kr": {
+            "native": "김하루",
+            "global": "Kim Ha-ru"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

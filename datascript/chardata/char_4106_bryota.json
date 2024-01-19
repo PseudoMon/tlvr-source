@@ -1,0 +1,596 @@
+{
+    "charid": "char_4106_bryota",
+    "nameid": "bryota",
+    "names": {
+        "en": "Bryophyta",
+        "jp": "ブライオファイタ",
+        "kr": "브라이오피타",
+        "cn": "苍苔"
+    },
+    "voices": [
+        {
+            "id": "char_4106_bryota_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Doctor, if you need me for anything, just say the word! You want me to file the documents? Oof, I'm no good with paperwork... How about this, we set work aside and I take you for a spin?  Wink.",
+                "jp": "ドクター、何かあったらいつでも呼んでくださいね！書類の整理？やー、そういうのはあんまり得意じゃないっていうか……いっそサボっちゃいませんか？ドライブだったらご一緒しますよ！",
+                "kr": "무슨 일 있으면 언제든 불러 주세요, 박사님! 서류 정리요? 전 그런 일은 잘 못하는 편이라…… 차라리 같이 땡땡이나 치러 가는 건 어떨까요? 드라이브라던가 어떠세요?",
+                "cn": "博士，有任何需要可以随时喊我来帮忙！你说要我来帮你整理文件？可我不太擅长这种工作啊......或者我们一起偷会懒，我开车带你去兜兜风？"
+            },
+            "asset": "char_4106_bryota/CN_001"
+        },
+        {
+            "id": "char_4106_bryota_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Doctor, I got the ceiling light fixed. Is it bright enough for you? If you don't need me for anything else, I'll go take care of other stuff. You think all this work is hard on me? I get to make some money, meet new friends, and seize the life I want to live with my own two hands. There's nothing better than this.",
+                "jp": "ドクター、天井の照明は直しときましたよ。これでだいぶ明るくなったでしょ？そんじゃ他に用がなければ、俺別の仕事かたしてきますね。いつも忙しそうで大変じゃないかって？ふっ、そんなことないっすよ。お金が入るし、新しい友達もできるし、自分の手で欲しい生活を掴み取れるんですから、これ以上ないくらい素晴らしいことだって思ってますよ。",
+                "kr": "박사님, 천장 조명을 고쳐 봤는데 어때요? 많이 밝아졌죠? 혹시 다른 용무가 없으시다면 전 다른 일을 해결하러 가볼게요. 너무 바쁜 거 아니냐고요? 별로 그렇지도 않아요. 돈도 벌면서, 새로운 친구도 사귈 수 있고, 제가 원하는 삶을 제 두 손으로 얻어낼 수 있으니까 이보다 더 멋진 일은 없죠.",
+                "cn": "博士，顶灯我修好了，亮不亮？如果没有别的需要，我就去处理其他工作了。你说我这样会很辛苦？既能赚钱，又能认识新朋友，靠双手就能换来我想要的生活，没有比这更棒的事了。"
+            },
+            "asset": "char_4106_bryota/CN_002"
+        },
+        {
+            "id": "char_4106_bryota_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Ugh, I hit the wrong note again. Come on, don't laugh at me. Not all Siestans are natural-born musicians. Besides, the kalimba is harder than it looks! You wanna try? Here you go. Alright, Hold it a little further down, and gently pluck it with your thumb... You want me to teach you more later? Oh no, I'm no good at teaching either.",
+                "jp": "っと、またしくった……って、笑わないでくださいよ！シエスタ人ならみんながみんな楽器が得意なわけじゃないんですからね！それに、カリンバも見た目ほど簡単じゃないし。弾いてみたい？ふっ、いいっすよ。そうそう、もうちょい下に持って、そっと弾いてみて……えっ、弾けるまで俺に教わりたい？まいったなー、教えられるほど上手くもないんだよな。",
+                "kr": "윽, 또 실수했다…… 우, 웃지 마세요! 시에스타 사람이라고 다 연주를 잘하는 건 아니라고요. 그리고 칼림바도 보기보다 다루기 힘든 악기라고요! 한번 쳐보고 싶다고요? 좋아요, 조금 더 밑을 잡고, 손가락으로 살살 튕겨보세요. 네? 나중에 또 저한테 배우러 오겠다고요? 저도 그렇게까지 잘하는 편은 아닌데요?",
+                "cn": "呃，我又弹错了，不要笑我啊！并不是所有汐斯塔人都天生擅长乐器，况且拇指琴也没有看上去那么简单！你要试试？嗯，往下拿一点，手指轻轻拨它。以后要来找我学？可我也不是很会教啊！"
+            },
+            "asset": "char_4106_bryota/CN_003"
+        },
+        {
+            "id": "char_4106_bryota_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Doctor, I found the perfect spot for sunbathing on the deck. It's got a great view. We can set up a parasol there, grab some ice-cold sodas, lounge on some beach chairs, and watch the clouds. When I was a kid, I used to take naps after I was done helping out at the store. Fell asleep listening to the waves like this.",
+                "jp": "ドクター、デッキで日向ぼっこに最適な場所を見つけましたよ。眺めも最高です。パラソルを立てて、キンキンに冷えたサイダーでも飲みながら、ビーチチェアに寝そべって雲でも眺めませんか？俺、子供の頃は店の手伝いが終わったら、よくそうやって波の音を聞きながらお昼寝してたんですよ。",
+                "kr": "갑판에서 햇볕 쬐기 좋은 장소를 발견했어요, 시야가 탁 트여서 전망도 좋더라고요. 파라솔 하나 가져다가, 차가운 사이다도 한잔하고 썬베드에 누워 구름 구경이나 같이 하는 건 어때요? 제가 어렸을 땐, 가게 일이 끝나면 이렇게 파도 소리를 들으면서 낮잠을 자곤 했거든요.",
+                "cn": "我在甲板上发现了一片晒太阳的好地方，视野很开阔。我们可以支起遮阳伞，来一杯冰汽水，躺在沙滩椅上看看云。小时候，帮着忙完店里的活计，我就会这样枕着海浪声睡午觉。"
+            },
+            "asset": "char_4106_bryota/CN_004"
+        },
+        {
+            "id": "char_4106_bryota_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "A police officer taught me these combat techniques. She said that when you run a business, you gotta have a few tricks up your sleeve. Most important is self-defense. Oh, right, she also gave me a membership card. She said it lets me sightsee all around Lungmen. What, You have one, too? What?! And there's no expiration date?!",
+                "jp": "俺の戦闘テクは全部とある警官さんから教わったんですよね。商売をしてると、どうしてもちょっとした「ズル」が必要になるから、護身術は身につけたほうがいいんでしょ？そうだ、あの人からメンバーズカードももらったんすけど、この一枚で龍門中を遊び放題だって……えぇ、もう持ってる？しかも無期限！？",
+                "kr": "제 전투 기술들은 전부 어떤 경관 분께 배운 거예요. 장사를 하다 보면 어쩔 수 없이 약간의 '잔꾀'가 필요한 순간도 있으니까, 호신술 정도는 배워 두는 게 좋잖아요. 참, 이건 그분이 준 회원 카드인데, 이게 있으면 용문을 마음껏 돌아다닐 수 있다고…… 어라, 박사님도 가지고 계세요? 게다가 무제한?!",
+                "cn": "这些战斗技巧都是一位警官教给我的，做生意时难免要耍点“小聪明”，学点防身术很有必要。对了，这是她给我的会员卡，说是可以靠它畅游龙门。你居然也有一张？还是无限期的？！"
+            },
+            "asset": "char_4106_bryota/CN_005"
+        },
+        {
+            "id": "char_4106_bryota_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Doctor, look! I marked all the sightseeing destinations on the map. There's the volcano Miss Naumann talked about, and the underground forest on Chuck's postcard. When Rhodes Island passes by these places, I'll be sure to apply for... Aw, darn it, my nose is bleeding again...",
+                "jp": "見てドクター、マップに俺の行ってみたい場所を全部書き込んでみたんっす。アデルさんが言ってた火山に、チャックのハガキにある地下森林も！ロドスが近くを通る時は休暇届を出しますから、許可してくだ――うわやばっ、鼻血が……よりによってこんな時に……",
+                "kr": "보세요, 박사님! 제가 가 보고 싶은 곳들을 모두 지도에 표시해 봤어요. 여기에 아델 씨가 얘기했던 화산이랑, 척의 엽서에 있던 지하 숲도 있어요. 나중에 로도스 아일랜드가 이 지역을 지나갈 때 휴가를 내서 가 볼 생각이에…… 앗, 왜 또 코피가 난담……",
+                "cn": "博士你看！我在地图上标出了我所有的旅行目的地。有阿黛尔小姐提过的火山，查克明信片上的地底森林，等罗德岛路过这些地方时，我会向您提交请假申请的！欸，我怎么又流鼻血了......"
+            },
+            "asset": "char_4106_bryota/CN_006"
+        },
+        {
+            "id": "char_4106_bryota_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Oh, I'm writing Harley back, telling her all about the places I've visited. Can't let'em think I traveled less than Chuck, you know. I used to think about the future very little, and I never thought I'd one day leave the 'White Volcano.' That said, when I made up my mind and said goodbye to the past, the future was already there before my eyes.",
+                "jp": "あっ、今ヘイリーに返信を書いてるところっす。ここのところ行ってきた場所とかを書いたりね。数じゃチャックには負けないぞ～。ふっ、昔は未来についてはめったに考えなかったし、「ホワイト・ヴォルケーノ」を離れるなんて想像したこともなかったんだ。でも、いざ過去に別れを告げると決心したら、未来はすでに目の前にあったんですよね。",
+                "kr": "아, 지금 헤일리한테 답장을 쓰는 중이에요. 그동안 가 봤던 곳에 대해 쓰고 있는데, 아마 그 숫자로는 척에게도 안 질 거예요. 예전에는 미래에 대해서 별로 생각해 본 적이 없었어요. 그야 '순백의 화산'을 떠나게 될 거라곤 상상도 못했으니까요. 하지만 제가 과거와 작별하기로 결심한 그 순간, 미래는 이미 제 눈앞에 펼쳐졌던 거죠.",
+                "cn": "啊，我在给哈莉回信，写写我去过的地方，数量上我可不能输给查克。曾经的我很少去想未来的事，也没想过有一天会离开“纯白火山”。不过，当我下定决心和过去道别时，未来已经在我眼前了。"
+            },
+            "asset": "char_4106_bryota/CN_007"
+        },
+        {
+            "id": "char_4106_bryota_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "This round little thing isn't a fowlbeast egg. It's a cobble found on the old Siestan beaches. My sister really treasured it, but she gave it to me right before I left. You know, Doctor, ties between people are like the beach. After the tides recede, you find only treasure. My life here at Rhodes Island has made me believe that even more.",
+                "jp": "この丸っこいのは羽獣の卵じゃなくて、旧シエスタの浜辺にあった玉砂利です。妹がだいぶ気に入ってたやつっすけど、別れ際に無理やり渡してきて……人と人のつながりってのは潮が引いたビーチと一緒で、残ったものこそが宝物だって思うんすよね。ドクター、ここでの暮らしはそれをより確信させてくれました。",
+                "kr": "이 동그란 건 파울비스트의 알이 아니라, 옛 시에스타 해변가의 조약돌이에요. 제 여동생이 정말 아끼던 건데, 저랑 헤어질 때 억지로 건네주더라고요. 사람과 사람의 관계는 마치 파도가 빠진 해변과도 같고, 해변 위에 남은 것이야말로 진짜 보물이라고 생각해요. 박사님, 이곳에서의 생활은 그 생각을 더 확신할 수 있게 해줬어요.",
+                "cn": "圆圆的这颗，不是羽兽蛋，是旧汐斯塔浅滩上的卵石。妹妹很宝贝它，却在我临走时硬塞给了我。人与人的联系，就像海潮退去的沙滩，留下的才是宝物。博士，在这里的生活让我更加坚信这一点。"
+            },
+            "asset": "char_4106_bryota/CN_008"
+        },
+        {
+            "id": "char_4106_bryota_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "I promised Lut and Liv that I'd keep track of all my 'journey experiences' with Rhodes Island. Our adventure team may have disbanded for now, but when I become more mature and when they grow up, I'll definitely take them on this journey of mine.",
+                "jp": "ルートとリーフに約束したんです。ロドスでの「壮大な旅」は全部記録しとく、って。俺たち「探検隊」はしばらく離れ離れになっちゃうけど、俺が立派な大人になって、あいつらがもっと成長したら、もう一度この旅の軌跡を一緒に全部辿るんです。絶対に。",
+                "kr": "루트, 리브랑 약속했어요. 로도스 아일랜드와 함께한 '장대한 여정'은 하나도 빠짐없이 다 기록해 두겠다고요. 비록 우리 '탐험대'는 잠시 떨어졌지만, 제가 더 훌륭한 어른이 되고 그 아이들도 더 성장한다면, 다 함께 제가 지나왔던 여정들을 다시 한번 탐험해 볼 생각이에요. 반드시요.",
+                "cn": "我答应过路特和丽芙，要把我在罗德岛的“远行经历”都记下来。“探险队”的我们暂时分开了，等我成熟一些，等他们再长大一些，我会带他们再走一遍我走过的旅程，一定会。"
+            },
+            "asset": "char_4106_bryota/CN_009"
+        },
+        {
+            "id": "char_4106_bryota_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "One yawn, two yawns... Doctor, why don't I make you a glass of 'Cotton Sunset?' Trust me. You'll find yourself drifting in a fluffy, pillowy dream.",
+                "jp": "あくびがひとーつ、あくびがふたーつ……ふっ、ドクター、「サンセット・コットンファズ」でも作りましょうか？一杯飲めば、夢の中へふわふわっと蕩け落ちますよ。",
+                "kr": "하품 한 번, 하품 두 번…… 박사님, 제가 '선셋 코튼 퍼즈' 한잔 만들어 드릴게요. 걱정 마세요, 이거 한 잔이면 푹신푹신 편안한 꿈속으로 빠져들게 될 테니까요.",
+                "cn": "一个哈欠、两个哈欠......博士，我来为你调一杯“棉花落日”吧。相信我，你会在软绵绵、毛绒绒的梦里飘游的。"
+            },
+            "asset": "char_4106_bryota/CN_010"
+        },
+        {
+            "id": "char_4106_bryota_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Hello, Doctor. I'm Enis, and I'm formally joining Rhodes Island today. What, a codename? Umm, let me think... How about 'Bryophyta?' I hope I'll get to leave my mark on the mountain rocks and reefs, just like the moss.",
+                "jp": "ちーっす、ドクター。俺はエニス、今日から正式にロドスにお世話になります！えっ？コードネーム？そうすねぇ……んじゃ、「ブライオファイタ」ってことでひとつよろしく。コケのようにどこにでも生えて、山の巨岩や海の岩礁、あらゆる場所に足跡を残せますようにってね。",
+                "kr": "안녕하세요, 박사님. 제 이름은 에니스입니다. 오늘부터 로도스 아일랜드에서 신세를 지게 됐습니다. 네? 코드네임이요? 그럼…… '브라이오피타'라고 불러주세요. 저는 이끼처럼 모든 산의 바위나 바다의 암초에 발자국을 남기고 싶거든요.",
+                "cn": "博士你好，我是埃尼斯，从今天起就正式加入罗德岛了。啊？代号？我想想......就叫“苍苔”吧，希望我能像青苔一样，在山岩和礁石上留下脚印。"
+            },
+            "asset": "char_4106_bryota/CN_011"
+        },
+        {
+            "id": "char_4106_bryota_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "I didn't know you could work together in battle like that! Uh, I'm getting a little hungry. I'll go make some popcorn. You want some?",
+                "jp": "へぇ、戦場ではこういう協力プレイもあるんすね！あっ、なんか小腹が減ってきたな……ポップコーンでも作るか。ドクターもいります？",
+                "kr": "우와, 전장에는 이런 협력 방식도 존재하는구나! 앗, 보다 보니 조금 출출해졌네…… 팝콘이라도 가져올까 하는데, 박사님도 드실래요?",
+                "cn": "原来在战场上还有这种协作方式啊！呃，有点看饿了，我去弄点爆米花，你要不要也来点？"
+            },
+            "asset": "char_4106_bryota/CN_012"
+        },
+        {
+            "id": "char_4106_bryota_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "This counts as a promotion, right?  Nice~ I'll write a postcard back to 'White Volcano', and brag all about this to my siblings, heheh. Yeah, I'll have to use a postcard with a picture of Rhodes Island.",
+                "jp": "これって出世したってことっすよね？よーし、早速「ホワイト・ヴォルケーノ」にハガキ出して、チビたちにうーんと自慢しよ！もちろん、ロドスの写真が載ってるやつを使わせてもらいますよ。",
+                "kr": "이게 승진이라는 건가요? '순백의 화산'에 있는 동생들한테 편지를 보내서 승진했다고 자랑해야겠어요! 네, 물론 로도스 아일랜드의 사진이 붙어 있는 그 엽서를 사용할 거예요.",
+                "cn": "这就算是升职了吧？我要写在明信片里，寄回“纯白火山”，好好向弟弟妹妹炫耀一下。对，我会用印有罗德岛照片的那一款明信片。"
+            },
+            "asset": "char_4106_bryota/CN_013"
+        },
+        {
+            "id": "char_4106_bryota_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Elite instructor? You aren't trying to get me to become a kindergarten teacher or a boy scout leader, right? Haha, just kidding. But I've gotten pretty used to life here at Rhodes Island now. Let me keep following you guys to even more distant lands, Doctor.",
+                "jp": "上級教官？幼稚園のせんせーとかボーイスカウトのリーダー的なのになれって言うんですか？……アハハ！冗談っすよ。まあ確かにロドスでの生活にも慣れてきましたしね。そんじゃ、ロドスの壮大な船旅に、これからもぜひついて行かせてください。",
+                "kr": "상급 교관이요? 설마 저한테 유치원 선생님이나, 보이스카우트의 리더를 시키시려는 건 아니겠죠? 하하, 농담이에요. 로도스 아일랜드에서 생활하는 것도 이제 익숙해지기 시작했어요. 박사님, 로도스 아일랜드의 머나먼 항행에, 앞으로도 계속 함께할 수 있게 해주세요.",
+                "cn": "高级教官？该不会要我做幼儿园老师或者童子军领队吧？开玩笑啦。罗德岛上的生活，我确实已经开始习惯了。博士，就让我继续跟随你们，航向更远方吧。"
+            },
+            "asset": "char_4106_bryota/CN_014"
+        },
+        {
+            "id": "char_4106_bryota_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Huh? I-I'm heading to the battlefield, too?",
+                "jp": "は？お、俺も戦場に行くんすか？",
+                "kr": "네? 저, 저도 전장에 나가는 건가요?",
+                "cn": "啊？我、我也要上战场吗？"
+            },
+            "asset": "char_4106_bryota/CN_017"
+        },
+        {
+            "id": "char_4106_bryota_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "My gosh, you want me to lead the team? It's not the pay I'm worried about. I'm worried I could mess it up!",
+                "jp": "えぇ！？俺が隊長！？いやいや給料がどうとかの問題じゃなくて、しくじったらどーするんすか！",
+                "kr": "네?! 제가 팀장을? 아니 아니, 돈이 문제가 아니라 실수하면 어떡해요!",
+                "cn": "欸？！要让我来当队长？不是嫌钱少，我是怕搞砸啊！"
+            },
+            "asset": "char_4106_bryota/CN_018"
+        },
+        {
+            "id": "char_4106_bryota_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "It's okay... Relax…",
+                "jp": "大丈夫大丈夫、リラックス……",
+                "kr": "괜찮을 거야, 진정하자……",
+                "cn": "没事的，放轻松......"
+            },
+            "asset": "char_4106_bryota/CN_019"
+        },
+        {
+            "id": "char_4106_bryota_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Gotta give it 200%, better take a coffee mint…",
+                "jp": "こりゃエンジン全開でいくしか……ミントコーヒー飴でも舐めるか。",
+                "kr": "이거 의욕을 200%는 끌어올려야겠는데…… 민트 커피 사탕이라도 하나 먹을까.",
+                "cn": "还是来颗咖啡薄荷糖吧，得提起二百分的干劲了......"
+            },
+            "asset": "char_4106_bryota/CN_020"
+        },
+        {
+            "id": "char_4106_bryota_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "A capable helping hand? Me?",
+                "jp": "凄腕助っ人？それって俺のこと？",
+                "kr": "든든한 조력자? 설마 절 부르시는 건가요?",
+                "cn": "得力帮手？是说我吗？"
+            },
+            "asset": "char_4106_bryota/CN_021"
+        },
+        {
+            "id": "char_4106_bryota_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Alright! I'll guard this place well.",
+                "jp": "っしゃ！ここは絶対守る。",
+                "kr": "알겠습니다! 반드시 여길 지켜내겠습니다!",
+                "cn": "好！我会好好守着这里的。"
+            },
+            "asset": "char_4106_bryota/CN_022"
+        },
+        {
+            "id": "char_4106_bryota_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Fasten your seatbelts, everyone. I'm starting the meter now.",
+                "jp": "シートベルトをしっかり。ここからはメーターを切るよ。",
+                "kr": "안전벨트 꽉 매시고, 지금부턴 미터기 켭니다.",
+                "cn": "系好安全带，我要开始打表了。"
+            },
+            "asset": "char_4106_bryota/CN_023"
+        },
+        {
+            "id": "char_4106_bryota_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "You want me out of the way? Don't be silly. You can't get inside without tickets.",
+                "jp": "どけだって？そうはいかないよ。チケットを見せてもらわないとここは通さないからな！",
+                "kr": "비키라고? 웃기지 마, 표를 안 사면 여긴 못 지나간다고!",
+                "cn": "让我闪开？别开玩笑了，这里得买票才能通行。"
+            },
+            "asset": "char_4106_bryota/CN_024"
+        },
+        {
+            "id": "char_4106_bryota_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Fierce winds won't push me back.",
+                "jp": "強風にもなびかず。",
+                "kr": "강한 바람에 흔들리지 않고.",
+                "cn": "狂风吹不动。"
+            },
+            "asset": "char_4106_bryota/CN_025"
+        },
+        {
+            "id": "char_4106_bryota_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Rough seas won't pull me under.",
+                "jp": "荒波にも蝕まれず……",
+                "kr": "거센 파도에 꺾이지 않으며……",
+                "cn": "海水泡不烂......"
+            },
+            "asset": "char_4106_bryota/CN_026"
+        },
+        {
+            "id": "char_4106_bryota_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Wildfire won't burn me down.",
+                "jp": "烈火にも負けない！",
+                "kr": "뜨거운 불길에도 지지 않는다!",
+                "cn": "烈火烧不坏！"
+            },
+            "asset": "char_4106_bryota/CN_027"
+        },
+        {
+            "id": "char_4106_bryota_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Who says a logistics operator... can't fight?!",
+                "jp": "後方支援要員だって……やる時はやるんすよ！",
+                "kr": "후방지원 오퍼레이터라도…… 할 때는 한다고!",
+                "cn": "谁说......后勤干员......不能上战场啊！"
+            },
+            "asset": "char_4106_bryota/CN_028"
+        },
+        {
+            "id": "char_4106_bryota_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "I really thought I wouldn't make it... But looks like we can overcome even the biggest waves when we're working together.",
+                "jp": "マジで無理かと思いましたよ……にしても、ドクターと一緒なら、どんな難局でも乗り切れそうっすね。",
+                "kr": "진짜 무리라고 생각했어요…… 하지만 지금은, 아무리 높은 파도라도 박사님과 함께라면 이겨 낼 수 있을 것만 같은 기분이네요.",
+                "cn": "我还以为真要撑不住了......看来再大的风浪，我们也能一起扛下来嘛。"
+            },
+            "asset": "char_4106_bryota/CN_029"
+        },
+        {
+            "id": "char_4106_bryota_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Doctor, I did well, right? I'm gonna get some ice cream. You want some, too? Alright, I can give you an extra scoop. Okay, okay, I'll give you <i>two</i> extra scoops.",
+                "jp": "ドクター、俺……結構うまくやれてましたよね？へへ、なんかアイス食べたくなっちゃったな……ドクターも食べたいすか？ダブルにしてもいいですよ！もっと？じゃあトリプルにするか！",
+                "kr": "박사님, 저…… 꽤 잘하지 않았나요? 왠지 아이스크림이 먹고 싶어지는데…… 박사님도 드실래요? 그럼 특별히 하나 더 얹어 드릴게요! 더? 하하, 알았어요, 그럼 삼단으로!",
+                "cn": "博士，我......干得还不错吧？好想吃冰淇淋......你也要？我可以多给你一个球！好好好，多给你两个。"
+            },
+            "asset": "char_4106_bryota/CN_030"
+        },
+        {
+            "id": "char_4106_bryota_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Uh, I got careless... Hm? I did well enough already...?",
+                "jp": "やっぱしくじったかー……へ？これでもうまくいった方っすか……？",
+                "kr": "역시 실수했나…… 네? 이 정도면 꽤 괜찮은 편이라고요……?",
+                "cn": "果然还是疏忽了......嗯？这已经算做得很好了吗......"
+            },
+            "asset": "char_4106_bryota/CN_031"
+        },
+        {
+            "id": "char_4106_bryota_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Go. Don't worry about me... I've got a lifesaver license, you know.",
+                "jp": "先行ってて、俺のことなら心配いらないよ……これでも、ライフセーバーの資格を持ってるんでね！",
+                "kr": "제 걱정은 마시고 먼저 가세요…… 이, 이래 봬도 저, 구조사 자격증도 있다고요!",
+                "cn": "你先走，不用担心我......我、我可是考过救生员执照的！"
+            },
+            "asset": "char_4106_bryota/CN_032"
+        },
+        {
+            "id": "char_4106_bryota_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "If only we had a surfboard here, oof…",
+                "jp": "ここにサーフボードが並んでたら完璧だったんだけどな。",
+                "kr": "여기에 서핑보드도 있으면 참 좋았을 텐데.",
+                "cn": "要是能摆点冲浪板就好了。"
+            },
+            "asset": "char_4106_bryota/CN_033"
+        },
+        {
+            "id": "char_4106_bryota_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Watch out! Phew, that was close... I almost spilled it.",
+                "jp": "おっと危ない！ふぅ……こぼしちゃうとこだった。",
+                "kr": "조심! 휴우…… 하마터면 쏟을 뻔했어요.",
+                "cn": "小心！好险......差点就洒出来了。"
+            },
+            "asset": "char_4106_bryota/CN_034"
+        },
+        {
+            "id": "char_4106_bryota_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "H-Hold on! Don't look! I'm not done with the lyrics yet! You... want to hear it?",
+                "jp": "あー、ちょっと！まだ見ないで！歌詞、埋めてる途中だから……聞いてみたいっすか？",
+                "kr": "자, 잠깐! 보지 마세요! 아직 가사를 다 못 썼단 말이에요…… 그래도 들어보고 싶다고요?",
+                "cn": "等、等一下！不要看啊！歌词，我还没写完......你想听吗？"
+            },
+            "asset": "char_4106_bryota/CN_036"
+        },
+        {
+            "id": "char_4106_bryota_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4106_bryota/CN_037"
+        },
+        {
+            "id": "char_4106_bryota_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Doctor, want to try some Siestan coffee? You can add some tonic water, too.",
+                "jp": "ドクター、シエスタのコーヒーはいかがです？サイダー入りにしてもいいすよ！",
+                "kr": "박사님, 시에스타의 커피는 어떠신가요? 탄산수도 넣어 드릴 수 있어요!",
+                "cn": "博士，要不要尝尝汐斯塔的咖啡？可以加气泡水哦。"
+            },
+            "asset": "char_4106_bryota/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "John Patneaude",
+            "global": "John Patneaude"
+        },
+        "cn": {
+            "native": "张沛",
+            "global": "Pei Zhang"
+        },
+        "jp": {
+            "native": "阪口大助",
+            "global": "Daisuke Sakaguchi"
+        },
+        "kr": {
+            "native": "임혁",
+            "global": "Lim Hyeok"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

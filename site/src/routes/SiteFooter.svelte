@@ -5,7 +5,7 @@
 <footer>
   <a href="https://github.com/PseudoMon/tlvr-source" target="_blank"><GithubIcon /></a>
   <span>Site version 1.2</span>
-  <span>Data last updated: 2023-12-24 (Hortus de Escapismo in Global)</span>
+  <span>Data last updated: 2024-01-19 (So Long, Adele in Global)</span>
 </footer>
 
 <style>

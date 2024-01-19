@@ -996,6 +996,18 @@
         "rating": 5
     },
     {
+        "nameid": "buildr",
+        "numberid": "488",
+        "name": {
+            "en": "Poncirus",
+            "jp": "ポンシラス",
+            "kr": "폰사이러스",
+            "cn": "青枳"
+        },
+        "nation": "columbia",
+        "rating": 5
+    },
+    {
         "nameid": "apionr",
         "numberid": "513",
         "name": {
@@ -1101,6 +1113,18 @@
             "cn": "鞭刃"
         },
         "nation": "kazimierz",
+        "rating": 5
+    },
+    {
+        "nameid": "bryota",
+        "numberid": "4106",
+        "name": {
+            "en": "Bryophyta",
+            "jp": "ブライオファイタ",
+            "kr": "브라이오피타",
+            "cn": "苍苔"
+        },
+        "nation": "columbia",
         "rating": 5
     },
     {
@@ -2964,6 +2988,18 @@
         "rating": 6
     },
     {
+        "nameid": "swire2",
+        "numberid": "1033",
+        "name": {
+            "en": "Swire the Elegant Wit",
+            "jp": "琳琅スワイヤー",
+            "kr": "스와이어 디 엘리건트 위트",
+            "cn": "琳琅诗怀雅"
+        },
+        "nation": "lungmen",
+        "rating": 6
+    },
+    {
         "nameid": "weedy",
         "numberid": "400",
         "name": {
@@ -3081,6 +3117,18 @@
             "cn": "流明"
         },
         "nation": "iberia",
+        "rating": 6
+    },
+    {
+        "nameid": "agoat2",
+        "numberid": "1016",
+        "name": {
+            "en": "Eyjafjalla the Hvít Aska",
+            "jp": "純燼エイヤフィヤトラ",
+            "kr": "에이야퍄들라 더 크비트 아스카",
+            "cn": "纯烬艾雅法拉"
+        },
+        "nation": "leithanien",
         "rating": 6
     },
     {

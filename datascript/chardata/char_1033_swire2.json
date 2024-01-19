@@ -1,0 +1,601 @@
+{
+    "charid": "char_1033_swire2",
+    "nameid": "swire2",
+    "names": {
+        "en": "Swire the Elegant Wit",
+        "jp": "琳琅スワイヤー",
+        "kr": "스와이어 디 엘리건트 위트",
+        "cn": "琳琅诗怀雅"
+    },
+    "voices": [
+        {
+            "id": "char_1033_swire2_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Alright, chop chop. Finish your work during your coffee break so the rest of your day is all coffee break!",
+                "jp": "急いでちょうだい。コーヒー休憩の時間で仕事を片付ければ、残りの仕事時間は全部休めるじゃない？",
+                "kr": "커피 타임에 일을 마무리하면, 남은 업무 시간은 다 쉴 수 있잖아? 그러니까 서둘러. ",
+                "cn": "抓紧点，用喝咖啡的时间把工作全部解决掉的话，那工作时间不就都可以用来休息了？"
+            },
+            "asset": "char_1033_swire2/CN_001"
+        },
+        {
+            "id": "char_1033_swire2_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "It's a holiday, so of course I gotta dress a little more casual. I may not have taken as many field missions these past few years, but I still passed the L.G.D.'s physical exams, in high heels.",
+                "jp": "バカンスなんだから、当然楽な恰好をしなきゃね。ここしばらくは確かに任務に出る回数は減ったけど、ハイヒールのままでも近衛局の体力測定に余裕で合格できるんだから！",
+                "kr": "바캉스니까 편한 옷차림인 게 당연한 거 아니야? 확실히 요 몇 년간 현장에 나가는 빈도가 줄긴 했지만, 그래도 난 하이힐을 신고도 근위국의 체력 테스트 정도는 거뜬하게 통과할 수 있다고!",
+                "cn": "度假当然要穿得轻松一点，虽然这两年出任务的次数确实少了，但我就算穿着高跟鞋，也能在近卫局的体能测试中拿到及格分！"
+            },
+            "asset": "char_1033_swire2/CN_002"
+        },
+        {
+            "id": "char_1033_swire2_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "If Rhodes Island's looking for business partners, you can definitely trust these companies. Hey! Why are you looking at me like that? I'm just genuinely listing off my recommendations. You're making it look like I'm plotting a hostile takeover of Rhodes Island. If I'm actually planning an M&A... I just need to talk you round, right?",
+                "jp": "ロドスがビジネスパートナーを探してるなら、ここらへんの会社は信用できるわよ――何よその目？真面目におススメしてあげてるのに、まるでアタシがロドスの吸収合併を企んでるみたいじゃない。というか、もし本当にそれを狙ってたら――アンタを説得すればいいの？",
+                "kr": "로도스 아일랜드가 비즈니스 파트너를 찾고 있는 거라면, 내가 추천해 줄 회사가 몇 군데 있어…… 뭐야 그 눈은? 나름 진지하게 추천해 주려던 건데, 설마 내가 로도스 아일랜드를 합병하기라도 할까 봐? 훗, 내가 정말 그럴 생각이었다면, 진작에 그 회사에 연락해서... 아! 그땐 너만 설득하면 되는 건가?",
+                "cn": "罗德岛要谈商业合作的话，可以信任这几家公司——干嘛这么看着我？我是在很真诚地推荐合作伙伴，为什么搞得好像我准备兼并罗德岛一样？如果我真的有这个打算——是不是只要说服你就好？"
+            },
+            "asset": "char_1033_swire2/CN_003"
+        },
+        {
+            "id": "char_1033_swire2_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Ahem... I've taken a glance at our recent mission records. Looks like Rhodes Island's tactics have got more professional over the past few years. Not bad, not bad... Excuse me?! What's wrong with your former training consultant checking your operators' records? I absolutely have not been looking at Ch'en's files!",
+                "jp": "コホンッ……最近の作戦記録をチェックしてみたけど、ここ何年かでロドスの戦術も洗練されてきたみたいね。なかなかやるじゃない……はぁ？元々教官だったアタシが記録を見るのは普通でしょ？ちょっ、チェンの情報なんか覗いていないわよ！",
+                "kr": "크흠…… 최근의 작전 기록을 체크해 봤는데, 로도스 아일랜드의 전술도 전보다 더 세련되어진 것 같네. 나쁘지 않아…… 뭐야? 훈련 고문을 맡았던 내가 작전 기록을 좀 보겠다는데 무슨 문제라도 있어? 첸 그 녀석의 자료 따윈 본 적 없거든!",
+                "cn": "咳......检查了一下最近的行动记录，看得出这几年来，罗德岛的战术也更专业了，不错不错......哈？作为曾经的训练顾问看看任务记录不是很正常吗？我才没有偷看陈的资料！"
+            },
+            "asset": "char_1033_swire2/CN_004"
+        },
+        {
+            "id": "char_1033_swire2_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "It's not really a big deal, being L.G.D. chief. I've got a little more on my shoulders, a little more to worry about, and I can put myself in Ch'en's shoes a little more now... Oh, let me reiterate: I'm taking over the L.G.D., not taking over for Ch'en! If that stupid Lung came back right now, she'd have to call me 'Chief.'",
+                "jp": "局長なんて大したものじゃないわ。ちょっと責任が重たくなって、心配事が多くなって、チェンのことをもっと理解できるようになっただけ……あぁ、もう一度言っとくわよ。アタシは近衛局を背負ってるけど、チェンの代わりにやってんじゃないの！たとえ今あのバカ龍が戻ってきたとしても、アタシを「長官」って呼ばなきゃなんだからね！",
+                "kr": "국장도 생각보다 별거 없어. 책임이 조금 무거워지고, 걱정거리가 더 늘어나서 첸을 더 이해할 수 있게 된…… 아, 다시 한번 말하는데, 난 근위국을 인계받은 거지, 첸의 대타 같은 게 아니야! 지금 그 바보가 돌아온다고 해도 날 '장관님'이라고 불러야 한다고!",
+                "cn": "当上局长也没什么大不了的，无非是任务重了点、操心的事多了点，更能理解陈了点......啊，再强调一遍，我是接管近卫局，不是接陈的班！就算她现在回来，也是要叫我“长官”的！"
+            },
+            "asset": "char_1033_swire2/CN_005"
+        },
+        {
+            "id": "char_1033_swire2_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "I may have left my family's company, but I still deal in business every now and then. It's a way to build Lungmen, so there's no need to avoid the subject. And now that I've figured out what I need to do, I don't find my grandfather so scary anymore. Hmhm, Once you've made use of your fears, that's when you've truly conquered them, right?",
+                "jp": "一族からは離れたけど、まだいくつかのビジネスをしてるわ。アタシはこういうやり方で龍門を良くすることができるから、わざわざ避ける必要はないよ。すべきことをちゃんと理解したら、お祖父様も別に怖くなくなったのよね。自分が怖がってた力を存分に利用してこそ、本当の意味で恐怖に打ち勝つってことでしょ？",
+                "kr": "가족의 기업과는 거리를 두고 있긴 하지만, 개인적인 사업 몇 가지는 아직까지도 경영하고 있어. 이런 방법으로 용문을 더 좋은 곳으로 만들 수 있다면야 굳이 피할 필요는 없잖아. 오히려 해야 할  일을 깨닫고 나니까 할아버지도 별로 무섭지 않게 느껴지는 거 있지? 자신이 두려워했던 힘을 제대로 활용할 수 있을 때 비로소 그 두려움을 이겨냈다고 할 수 있는 건가 봐. 안 그래?",
+                "cn": "我脱离了家族集团，不过还是会经手一些生意，我可以用这种方式建设龙门，没必要回避。想通了自己该做的事，就觉得祖父也没那么可怕。让过去恐惧的力量为自己所用，才算真的战胜恐惧，对吧？"
+            },
+            "asset": "char_1033_swire2/CN_006"
+        },
+        {
+            "id": "char_1033_swire2_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "The new Siesta's an interesting place. Even without its beaches and volcano, it's still worth a visit for its sky pools and natural springs. My investment there has resulted in pretty decent returns too. Doctor, if you find the time, you should go and see for yourself. Heading back to a place you haven't been in a while... might be just like a reunion with an old friend.",
+                "jp": "新しいシエスタは面白いわよ。ビーチや火山がなくったって、空中プールとか温泉があるもの。一回行く価値はあるわ。そこらにした投資の利益率もなかなか良かったのよね～。時間があったら行ってみるといいわ、ドクター。ご無沙汰してた都市に遊びに行くのって、古馴染みに会うのと同じ感じがしない？",
+                "kr": "새로운 시에스타는 정말 흥미로워. 해변이나 화산은 없지만, 워터파크나 온천은 가볼 만한 것 같아. 그쪽에 투자해서 본 이익도 꽤나 쏠쏠하다니까~ 박사도 시간 있으면 한번 가 봐. 한동안 가지 않았던 도시에 다시 놀러 가면, 오랜 친구를 만나는 느낌이 들기도 하잖아.",
+                "cn": "新汐斯塔很有趣，离开了海滩和火山，天际泳池和温泉还是值得一看，我在那里的投资回报很不错~博士，有空的话再回去看看吧。去很久没去过的城市转转，也有一种见老朋友的感觉吧。"
+            },
+            "asset": "char_1033_swire2/CN_007"
+        },
+        {
+            "id": "char_1033_swire2_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Things are looking up for the trading company I'm running with Bison. Transporting one country's goods to another, sharing the cultures of places afar, these are the charms of commerce. Many are afraid of breaking barriers, but, Doctor, I'm sure we can find common ground.",
+                "jp": "バイソンと共同経営してる商社が良い感じなのよね～。違う国に商品を運んで、遠くの景色と文化を別の地域の人々に見せるのが、ビジネスの魅力ってものよ。自分たちを守ってる殻を壊して外に出るのが怖いと思う人は、たくさんいるわ。でもねドクター、アタシたちなら、共通の話題を持てるはずだわ。",
+                "kr": "바이슨과 공동 경영하는 무역 회사가 꽤 잘나가고 있어. 한 나라의 상품을 다른 나라로 배송하고, 한 지역의 경치와 문화를 다른 지역 사람들에게 보여주는 것, 그게 바로 비즈니스의 매력이라고 생각해. 비록 아직 많은 사람들이 벽을 부수고 밖으로 나오는 걸 두려워하지만, 난 그들과 우리 사이에 공통된 이야깃거리가 있을 거라고 생각해, 박사.",
+                "cn": "我和拜松合办的贸易公司有了起色。把一个国家的货物运到另一个国家，把一个地方的风貌展现给另一个地方的人，这就是商业的魅力。许多人会害怕打破隔阂，但是博士，我们应该会有共同话题。"
+            },
+            "asset": "char_1033_swire2/CN_008"
+        },
+        {
+            "id": "char_1033_swire2_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Is this the last document you have? Alright! You really kept me waiting this time, but finally, time for supper! I know this new place that's not so bad. It's on me tonigh—Oh, You don't want me spending money?  Umm... alright, then it's on you. I know some other places.",
+                "jp": "これが最後のファイルね、お疲れ様！待ちくたびれたわ。やっと仕事とおさらばしてご飯に行けるわね～。新しくオープンした良い店を知ってるから、アタシのおごりで――これ以上、気を遣わせたくないって言うの？そう……じゃあ、おごられてあげてもいいわよ。もう一軒おすすめがあるから行きましょ。",
+                "kr": "이게 마지막 파일이지? 오케이, 기다려줘서 고마워! 드디어 퇴근하고 밥 먹으러 갈 수 있겠네. 아, 새로 오픈한 괜찮은 레스토랑을 하나 알고 있는데, 내가 쏠 테니까 같이…… 더 이상 돈 쓰게 하고 싶지 않다고? 흐음…… 그럼 네가 쏘는 거지? 다른 가게도 괜찮은 데 있으니까 거기로 가자.",
+                "cn": "这是最后一份文件了吧，好！等了这么久，终于可以下班去吃饭了。我知道有家新开的店还不错，我请客——不想再让我破费？唔......那让你请客也行，我还知道另一家店。"
+            },
+            "asset": "char_1033_swire2/CN_009"
+        },
+        {
+            "id": "char_1033_swire2_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Rawr... Ahem... You finished your work?",
+                "jp": "がお～……コホンッ、アンタ、仕事は終わったの？",
+                "kr": "하아암~ ……크흠, 박사. 일은 다 끝났어?",
+                "cn": "嗷~呜......咳咳，博士，你的工作完成了吗？"
+            },
+            "asset": "char_1033_swire2/CN_010"
+        },
+        {
+            "id": "char_1033_swire2_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Long time no see, Doctor. Ahem, let me introduce myself again. Beatrix Schwire, soon-to-be Chief Commissioner of the Lungmen Guard Department—I really am the chief! Whoever said the L.G.D. chief can't take holidays?!",
+                "jp": "久しぶりね、ドクター！コホン、改めて自己紹介するわね。龍門近衛局「次期局長」のベアトリクス・スワイヤーよ――本当にアタシが局長なの！局長だからバカンスを楽しんじゃいけないって、誰が決めたのよ？",
+                "kr": "오랜만이야, 박사. 크흠, 다시 한번 내 소개를 하지, 용문 근위국 '차기 국장', 베아트릭스 스와이어야. 정말로 국장 맞다니까! 근위국 국장은 바캉스를 즐기면 안 된다는 법이라도 있어?",
+                "cn": "好久不见，博士。咳咳，重新自我介绍一下，龙门近卫局“准局长”，碧翠克斯·施怀雅——我真的是局长！谁说近卫局局长就不能放假？"
+            },
+            "asset": "char_1033_swire2/CN_011"
+        },
+        {
+            "id": "char_1033_swire2_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "It's been a while, but that's quite the improvement—Excuse me!? Why must you emphasize that this happened <i>when</i> I wasn't working here as an instructor?",
+                "jp": "ちょっと目を離してた隙に、ずいぶん成長したじゃない――ねえ、どうしてアタシが教官じゃなかった間だって強調するのよ！",
+                "kr": "오호~ 안 본 사이에 꽤 늘었잖아! 잠깐, 왜 내가 교관이 아니었던 때라고 강조하는 건데!",
+                "cn": "一段时间不见，进步很大嘛——喂，为什么要强调是我不当教官的时候？"
+            },
+            "asset": "char_1033_swire2/CN_012"
+        },
+        {
+            "id": "char_1033_swire2_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Exceptional talents earn exceptional rewards. That's how things should be.",
+                "jp": "優秀な人材が表彰をされる、まったくもって当たり前ね！",
+                "kr": "우수한 인재가 표창을 받는 건 당연한 일이지!",
+                "cn": "优秀的人才得到嘉奖，这是理所应当的。"
+            },
+            "asset": "char_1033_swire2/CN_013"
+        },
+        {
+            "id": "char_1033_swire2_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Alright, alright. I get that you can't do without me anymore. No sense beating around the bush like that. If you need my help, just say the word. I'll always be here for you, as your friend.",
+                "jp": "はいはい、アンタにはアタシがいなきゃダメってことでしょ。分かったから、回りくどいやり方は必要ないわ。アタシの手を借りたいなら、そう言ってちょうだい。友達として、アタシはずっと側にいるわよ。",
+                "kr": "그래그래, 넌 이제 내가 없으면 안 된다는 거잖아. 알았으니까 그렇게 돌려서 말할 필요 없다고. 도움이 필요하면 언제든지 말해. 나는 네 친구로서 계속 옆에 있을게.",
+                "cn": "好、好，知道你现在离不开我了，没必要这么拐弯抹角的。需要我帮忙的话直接告诉我吧，作为朋友，我一直都在。"
+            },
+            "asset": "char_1033_swire2/CN_014"
+        },
+        {
+            "id": "char_1033_swire2_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Really? Not making me captain?",
+                "jp": "ふーん？隊長をアタシに任せなくていいの？",
+                "kr": "어라? 팀장 내가 안 맡아도 되겠어?",
+                "cn": "嗯？不让我当队长吗？"
+            },
+            "asset": "char_1033_swire2/CN_017"
+        },
+        {
+            "id": "char_1033_swire2_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Just follow my command and it'll all be fine.",
+                "jp": "アタシの指示に従っていれば大丈夫よ。",
+                "kr": "내 지시에 잘 따르기만 하면 돼.",
+                "cn": "听我指挥就对了。"
+            },
+            "asset": "char_1033_swire2/CN_018"
+        },
+        {
+            "id": "char_1033_swire2_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Let's try to take up as little of our holiday time as possible.",
+                "jp": "とっとと片付けてバカンスに戻るわよ。",
+                "kr": "바캉스 시간 아까우니까 얼른 정리하자.",
+                "cn": "把占用假期的时间控制在最小范围内吧。"
+            },
+            "asset": "char_1033_swire2/CN_019"
+        },
+        {
+            "id": "char_1033_swire2_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "I don't really want my holiday mood ruined, so hurry up and stop resisting arrest.",
+                "jp": "バカンスの気分を壊したくないのよね。大人しく縄についてくれない？",
+                "kr": "바캉스 기분 망치긴 싫은데, 순순히 잡혀줄래?",
+                "cn": "我不太想破坏度假的心情，所以能请你们束手就擒吗？"
+            },
+            "asset": "char_1033_swire2/CN_020"
+        },
+        {
+            "id": "char_1033_swire2_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "I haven't taken orders in a long time… feels kinda weird.",
+                "jp": "誰かの指示に従うのは久しぶり……なんだか慣れないわね。",
+                "kr": "다른 사람의 지시를 듣는 건 오랜만이네…… 왠지 좀 어색한데.",
+                "cn": "好久没有听过别人的命令......还真有点不习惯。"
+            },
+            "asset": "char_1033_swire2/CN_021"
+        },
+        {
+            "id": "char_1033_swire2_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Follow your orders…? <i>Fine.</i>",
+                "jp": "アンタの指示には従わない……こともないけど。",
+                "kr": "네 명령에 따르는 거라면…… 안 될 건 없지.",
+                "cn": "听你指挥......也不是不行。"
+            },
+            "asset": "char_1033_swire2/CN_022"
+        },
+        {
+            "id": "char_1033_swire2_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Wait for my orders.",
+                "jp": "アタシの指示を待ちなさい。",
+                "kr": "내 지시를 기다려.",
+                "cn": "等我命令。"
+            },
+            "asset": "char_1033_swire2/CN_023"
+        },
+        {
+            "id": "char_1033_swire2_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Start the operation.",
+                "jp": "作戦開始よ。",
+                "kr": "작전 개시.",
+                "cn": "行动开始。"
+            },
+            "asset": "char_1033_swire2/CN_024"
+        },
+        {
+            "id": "char_1033_swire2_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "The moment you break the law, your back's against the wall.",
+                "jp": "法を犯した瞬間から、アンタにはもう逃げ道はないの。",
+                "kr": "법을 어긴 순간부터, 너에게 도망칠 길 따윈 없어.",
+                "cn": "你从违法的那一刻起，就已经走投无路了。"
+            },
+            "asset": "char_1033_swire2/CN_025"
+        },
+        {
+            "id": "char_1033_swire2_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Where are you trying to run?",
+                "jp": "どこに逃げるつもり？",
+                "kr": "어디로 도망치려고?",
+                "cn": "还打算往哪逃？"
+            },
+            "asset": "char_1033_swire2/CN_026"
+        },
+        {
+            "id": "char_1033_swire2_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Be good, be cuffed, I'll hear your motive after taking you in.",
+                "jp": "お利口さんに手錠をかけられときなさい。取調室で事情をちゃんと聞いてあげるから。",
+                "kr": "얌전히 잡히시지. 범행 동기라면 취조실에서 들어줄게.",
+                "cn": "乖乖戴上手铐，我会在审讯室里认真听你的犯罪动机的。"
+            },
+            "asset": "char_1033_swire2/CN_027"
+        },
+        {
+            "id": "char_1033_swire2_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Freeze! Hands in the air!",
+                "jp": "手を上げて！動くな！",
+                "kr": "손들어! 움직이지 마!",
+                "cn": "举起手，不许动！"
+            },
+            "asset": "char_1033_swire2/CN_028"
+        },
+        {
+            "id": "char_1033_swire2_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "That's all the men and wares accounted for. Let's call it a day here.",
+                "jp": "証拠も犯人もまるっと確保。さっ、撤収するわよ～。",
+                "kr": "범인도 증거도 다 확보했으니까 철수하자~",
+                "cn": "人赃俱获，收队下班~"
+            },
+            "asset": "char_1033_swire2/CN_029"
+        },
+        {
+            "id": "char_1033_swire2_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Don't get cocky. This is just barely a pass mark by L.G.D. standards, but if you manage to keep this up, I guess I could still commend you.",
+                "jp": "得意にならないでね。近衛局の求める基準からすると、ギリギリ合格ってところだから。でも、もしこれを維持できるっていうなら、アンタを褒めてあげなくもないわよ。",
+                "kr": "우쭐대지 마. 근위국이 요구하는 기준에서 보자면 아슬아슬하게 합격인 수준이니까. 그래도 지금 이 상태를 계속 유지한다면 칭찬 정도는 해줄게.",
+                "cn": "别骄傲，以近卫局的要求勉强是及格分吧。但如果能保持的话，也不是不能表扬你一下。"
+            },
+            "asset": "char_1033_swire2/CN_030"
+        },
+        {
+            "id": "char_1033_swire2_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "If you can take care of something in one go, it's best not to do it twice. Keep your costs under control.",
+                "jp": "一度で解決できることに二回もかけないことね。コスト管理は基本よ。",
+                "kr": "한 번에 해결할 수 있는 일을 두 번에 걸쳐서 하지는 마. 자금 관리는 기본인 거 알지?",
+                "cn": "能一次解决的事最好不要做两次，记得控制成本。"
+            },
+            "asset": "char_1033_swire2/CN_031"
+        },
+        {
+            "id": "char_1033_swire2_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Let's wrap it up here. I'll take care of the mission report.",
+                "jp": "まずは撤退しましょう。報告はアタシがするわ。",
+                "kr": "일단 철수하자, 임무 보고는 내가 할게.",
+                "cn": "先收队吧，我会负责任务报告的。"
+            },
+            "asset": "char_1033_swire2/CN_032"
+        },
+        {
+            "id": "char_1033_swire2_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "This place hasn't been redecorated even once this whole time? You serious?",
+                "jp": "この部屋の内装ってずっと変えてないの？本気で言ってるの？",
+                "kr": "여기 인테리어는 한 번도 바꾸지 않은 거야? 진짜로?",
+                "cn": "这里的装修一直都没有变过？你认真的？"
+            },
+            "asset": "char_1033_swire2/CN_033"
+        },
+        {
+            "id": "char_1033_swire2_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Doctor, do you know the consequences for attacking a cop in Lungmen? Don't worry. I'm just teaching you about the laws there.",
+                "jp": "ドクター、龍門で警官を襲撃した場合どうなるか知ってるかしら？硬くならなくていいわよ、法教育をしているだけだから。",
+                "kr": "박사, 용문에서 경관을 공격하면 어떻게 되는지 알아? 긴장하지 마, 그냥 법률 상식 좀 알려주려는 거야.",
+                "cn": "博士，知道在龙门袭警的话是什么后果吗？别紧张，我只是普法而已。"
+            },
+            "asset": "char_1033_swire2/CN_034"
+        },
+        {
+            "id": "char_1033_swire2_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Oh, you like this fashion brand? I can pick out an outfit for you.",
+                "jp": "このブランドの服に興味があるかしら？一揃い見立ててあげてもいいわよ。",
+                "kr": "이 브랜드 옷에 관심 있어? 세트로 맞춰줄 수 있는데.",
+                "cn": "对这个牌子的衣服感兴趣吗？可以帮你搭配一套。"
+            },
+            "asset": "char_1033_swire2/CN_036"
+        },
+        {
+            "id": "char_1033_swire2_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_1033_swire2/CN_037"
+        },
+        {
+            "id": "char_1033_swire2_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Good morning... Hm? Just saying hello. What were you expecting? Rawr?",
+                "jp": "おはよぉ……どうしたの？普通の挨拶じゃない。何を期待してるの？がおー？",
+                "kr": "좋은 아침…… 응? 평범한 인사인데 뭘 더 기대하는 거야? 어흥?",
+                "cn": "早上好啊......嗯？就是普通的问候，你在期待什么？嗷呜？"
+            },
+            "asset": "char_1033_swire2/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Emma Ballantine",
+            "global": "Emma Ballantine"
+        },
+        "cn": {
+            "native": "谢莹",
+            "global": "Ying Xie"
+        },
+        "jp": {
+            "native": "徳井青空",
+            "global": "Sora Tokui"
+        },
+        "kr": {
+            "native": "김율",
+            "global": "Kim Yul"
+        },
+        "cn_topolect": {
+            "native": "东东",
+            "global": "Qiantong Wu"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr",
+        "cn_topolect"
+    ]
+}

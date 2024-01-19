@@ -1,0 +1,596 @@
+{
+    "charid": "char_488_buildr",
+    "nameid": "buildr",
+    "names": {
+        "en": "Poncirus",
+        "jp": "ポンシラス",
+        "kr": "폰사이러스",
+        "cn": "青枳"
+    },
+    "voices": [
+        {
+            "id": "char_488_buildr_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "The wind blew the documents all over the place… This can't be because of my luck, can it…?",
+                "jp": "……さっき書類が風で飛ばされたのって、あたしの運が悪いせいじゃないよね……？",
+                "kr": "……서류가 갑자기 바람에 날아간 게, 내 운이 나빠서는 아니겠지……?",
+                "cn": "......刚刚文件突然都被风吹乱了，应该不是我运气太差的原因吧......？"
+            },
+            "asset": "char_488_buildr/CN_001"
+        },
+        {
+            "id": "char_488_buildr_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "When I was a kid, Grandpa told me stories of how they built Siesta, but before he could see it to completion, he moved to Columbia with my parents. I went back to Siesta hoping to see what it had become in his place, only to find that it's all volcanic ash now.",
+                "jp": "子供の頃、おじいがよくシエスタを作ってた時のお話をしてくれて。途中でパパとママと一緒にクルビアに来ちゃったから、結局都市が出来上がるのを見届けられなかったって。あたしがシエスタに行ったのも、元々はおじいのために都市の様子を見てみたかったからなのに、まさか全部火山灰になっちゃってるなんて……",
+                "kr": "어렸을 때, 할아버지가 종종 시에스타를 건설할 때의 이야기를 들려주시곤 했어. 하지만 엄마 아빠랑 같이 컬럼비아로 이사 오는 바람에 도시가 완성된 모습을 보지 못하셨대. 그래서 할아버지를 대신해서 도시의 모습을 보고 싶어서 시에스타에 돌아왔는데, 이렇게 전부 화산재에 덮여버렸을 줄 누가 알았겠어.",
+                "cn": "爷爷在我小时候经常会给我讲他们建汐斯塔的故事，但他最后也没看到汐斯塔建成的样子，就和爸爸妈妈一起搬来哥伦比亚了。我回汐斯塔原本也是想替爷爷看看，谁知道它已经全变成火山灰了。"
+            },
+            "asset": "char_488_buildr/CN_002"
+        },
+        {
+            "id": "char_488_buildr_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "This is my grandpa's hammer. It's been with me all the way, from when I was a civil engineering student to my demolition work, and finally to what I always wanted to be——a builder. If Rhodes Island ever needs any demolition work done, just say the word! Uh, by that, I mean construction work! Anyway, for some reason, I find hammers more wieldy...",
+                "jp": "これはおじいのハンマーだよ。学生の頃も、卒業して現場で解体作業をすることになった時も、専攻してた施工管理に戻った時もずーっと一緒にいてくれたんだ。ロドスで解体の仕事があったら、あたしに任せて！えっと、違う違う、建てる方ね建てる方！……コホン、なんでだろう、やっぱりハンマーの方が手に馴染むんだよねぇ～。",
+                "kr": "이건 할아버지의 해머야. 학창 시절부터 시작해서 현장에서 철거 작업을 하게 됐을 때도, 그리고 전공이었던 건축 설계를 다시 하게 되었을 때도 계속 함께였어. 혹시 로도스 아일랜드도 철거가 필요하다면 나한테 맡겨줘! 앗, 아니지. 철거가 아니라 뭔갈 지어야 할 때 불러 줘! 크흠, 아무래도 해머를 쓰는 편이 더 손에 익긴 해서……",
+                "cn": "这是爷爷的锤子，它陪着我从课堂一路混到工地拆迁，又从拆迁做回原本学的工程建造。罗德岛要是拆迁，找我就好！说顺嘴了，是建造！咳，不知道为什么，总感觉还是锤子更顺手些......"
+            },
+            "asset": "char_488_buildr/CN_003"
+        },
+        {
+            "id": "char_488_buildr_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Everybody knows making bets with Rope is a good way to lose your stuff. And I know Glaucus's cocktails are a little different from the ones everyone else gets. And anything Savage's hammer touches is bound to blow up—Oh, um! I know all that, but not because I've got rotten luck!",
+                "jp": "ロープさんとの賭けですってんてんになるのは常識だよ。グラウコスさん用の特製ドリンクが他と違うのも知ってるし。サベージさんのハンマーが叩いたとこが爆発しちゃうことだって――別にあたしの運が悪いわけじゃないもん！",
+                "kr": "로프 씨와의 내기에서 물건을 전부 뺏기는 건 매우 정상적인 일이야. 그리고 글라우쿠스 씨의 특제 음료가 다른 사람들 거하고 다르다는 사실도 알고 있고, 또 새비지 씨가 해머를 내리치는 곳에는 항상 폭발이 일어나…… 내, 내가 운이 나빠서 그런 게 아니라니까!",
+                "cn": "和暗索小姐打赌被偷光了东西很正常，我还知道格劳克斯小姐的特调饮品和别人不一样，被暴行小姐锤子砸过的地方会爆炸——我、我才不是运气不好！"
+            },
+            "asset": "char_488_buildr/CN_004"
+        },
+        {
+            "id": "char_488_buildr_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "New Siesta has some unfinished city plates where you can see the volcano. Old workers like to gather there and chat about what the old Siesta looked like. I've heard most of their stories, but I still stay and listen, the same way I listened to Grandpa's stories... I still wonder what it was really like...",
+                "jp": "よくベテランの建築職人がね、火山が見える未完成エリアで、昔のシエスタのことを語ってくれるんだ。似たような話はたくさん聞いてるんだけど、何回聞いても飽きないんだよね。おじいのお話を聞いてた時みたいにさ……シエスタって一体どんなところだったんだろうね？",
+                "kr": "화산이 보이는 미완성 섹터에 있던 베테랑 건축 장인들이 과거 시에스타 이야기를 해주곤 했어. 물론 많이 들었던 이야기들이야. 그래도 할아버지의 이야기처럼 몇 번을 들어도 계속 듣고 싶더라고...... 시에스타는 과연 어떤 곳이었을까?",
+                "cn": "经常会有老工人站在那些能看到火山的未建成地块上，讲起老汐斯塔的样貌。这样的故事我听过很多，但总是愿意一遍一遍地听他们讲，就像听爷爷讲一样......那究竟是一个什么样的地方呢？"
+            },
+            "asset": "char_488_buildr/CN_005"
+        },
+        {
+            "id": "char_488_buildr_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Back in school, my classmates always told me that Siesta is a tourist destination. It doesn't have its own architectural style. People just build whatever attracts the tourists. Look at Siesta today, though. <i>We</i> are her style.",
+                "jp": "学生の頃、シエスタはただの観光都市で、人寄せになれば何でも作るって感じだから、独自の理念がない建築スタイルだってみんなよく言ってた。でも見てなさいよ、あたしたちこそが今のシエスタのスタイルなんだから。",
+                "kr": "학교 다닐 때 친구들이 시에스타라는 관광 도시는 자기만의 특별한 스타일도 없고, 사람들을 끌어모을 수만 있다면 뭐든 만들 수 있는 것 같다고 했어. 하지만 지금의 시에스타를 봐, 여기에 살고 있는 우리가 바로 시에스타 스타일이라고.",
+                "cn": "上学时同学们都说汐斯塔是个旅游城市，根本没有它自己的城市建设风格，只是什么吸引人就造什么。看看现在的汐斯塔吧，我们就是它的风格。"
+            },
+            "asset": "char_488_buildr/CN_006"
+        },
+        {
+            "id": "char_488_buildr_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Want some walnut jam? Freshly made. Uh, I didn't mean to make it. It just, you know, happened. What's that on my hammer, you ask? Oh, um... it's walnut husks... Okay, okay, I admit it. Vulcan said it's a good way to train my strength control, but I didn't get a single one right. So, do you want the walnut jam or not?",
+                "jp": "クルミバター食べる？出来立てほやほやだよ。いや、わざわざ作ったわけじゃなくて、ついでだよ……ハンマーについてるもの？あー、うん、クルミの殻だよ。そうだよ、ヴァルカンさんがこうすると力のコントロールを鍛えられるっていうから、試してたの。一回も成功しなかったけど。で、クルミバターは要るの？要らないの？",
+                "kr": "호두 버터 먹을래? 방금 막 만든 거야. 음, 그냥 어쩌다 보니 만들게 됐어. 해머에 묻은 건 뭐냐고? 아, 그…… 호두 껍질이야. 그게, 벌컨 씨가 이렇게 하면 힘을 컨트롤하는 방법을 익힐 수 있다고 해서…… 한 번도 성공하지 못했지만. 아무튼, 호두 버터 먹을 거야, 말 거야?",
+                "cn": "吃核桃酱吗？新鲜的，刚做出来的。不是专门做的，顺手。锤子上沾的是什么？啊，嗯......是核桃壳。好吧我承认，火神小姐说这样可以锻炼发力技巧，但没一个成功，所以，核桃酱要不要？"
+            },
+            "asset": "char_488_buildr/CN_007"
+        },
+        {
+            "id": "char_488_buildr_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Look, the last time I came to the landship, the incomplete city plate was still empty, but now there are rows o f houses there, and the lights of the high-tech district reach even the beaches nearby. I'm building our new homeland bit by bit, alongside many others. It's, how do you say, an interesting feeling, right?",
+                "jp": "あたしが前回本艦に来た時、シエスタはまだ未完成エリアがだだっぴろく広がってたのに、今は――ほら見て、建物がズラッと並んでて、ハイテク産業区の灯りがビーチを照らしてるんだよ。たくさんの人たちと一緒に少しずつ新しい故郷を作り上げてるんだ。なんだか、不思議な感じでしょ？",
+                "kr": "지난번에 왔을 땐, 시에스타 함선에 아직 미완성인 섹터가 잔뜩 있었는데, 지금은 건물이 쭉 늘어져 있고, 고도 개발 구역의 불빛이 주변 해안가를 비추고 있어. 난, 다른 사람들과 함께 조금씩 우리의 새로운 고향을 만들어 가고 있는 거야. 이런 기분, 뭔가 신기하지 않아?",
+                "cn": "你看，我上次来本舰的时候，未建成地块还是一片荒凉，现在它已经有了一排排房屋，高新区的灯光也能照亮周围的海滩了，我正在和很多人一起一点一点地建起我们新的故乡。这种感觉，很奇妙吧？"
+            },
+            "asset": "char_488_buildr/CN_008"
+        },
+        {
+            "id": "char_488_buildr_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "After I graduated, I could only find demolition work in Columbia, and I even caught Oripathy. I wanted to go back to Siesta to make a living, only find a pile of volcanic ash waiting for me. It took a lot of work to find the new Siesta, so I was real happy that day. I even yelled out loud: Hey hey hey—That's it for my rotten luck! Everything's going to work out just fine from here on out!",
+                "jp": "学校を卒業したあと、クルビアでは解体の仕事しか見つからなくてね。その上鉱石病にも罹っちゃったし、シエスタで一旗揚げようと思ったら火山灰しか残ってないし。苦労してやっと移転先を見つけたから、あの日は本当に嬉しくて、もう叫んじゃったくらいだよ。「いやっほー！ノーモアバッドラック！未来はきっと良くなるぞー！」ってね。",
+                "kr": "학교를 졸업한 뒤, 컬럼비아에선 철거 말고는 할 수 있는 일이 없었어. 게다가 광석병에 걸리기까지 하고, 또 시에스타에 돌아가려고 보니 그곳은 이미 화산재뿐이었지 뭐야. 어렵게 어렵게 이사할 곳을 찾았던 그날은 정말 너무 기뻐서 소리까지 지를 정도였어. “야호! 재수 옴 붙은 것도 오늘로 끝이다! 앞으로는 좋은 일만 가득할 거야!”라면서 말이야.",
+                "cn": "我毕业后在哥伦比亚只找到拆迁的活，还得了矿石病，再想回汐斯塔打拼却只看到一堆火山灰。我好不容易找到新址，所以那天特别高兴，我对它喊：喂——倒霉就到此为止吧！接下来都是好日子了！"
+            },
+            "asset": "char_488_buildr/CN_009"
+        },
+        {
+            "id": "char_488_buildr_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "I've got classmates still with the demolition teams, another who's a contractor, and yet another who's a Pioneer... I'm the only one who, after that roundabout path, came back to Siesta to work on what I actually studied... I guess it worked out pretty well for me?",
+                "jp": "先輩たちはまだ解体作業隊をやったり現場の親方をやったりしてるし、同級生は開拓に行っちゃってるし……こんなにたくさんいる同窓の中で、あたしだけが一周回ってシエスタで専攻の施工管理をやってるって……運は良い方だよね？",
+                "kr": "선배들은 아직 철거팀에 있거나 현장에서 공사 작업을 하는 중이고, 동기들은 개척을 하러 떠나 버렸어…… 그렇게 많은 동창 중에 나만이 돌고 돌아 이렇게 시에스타에서 시공 관리를 하고 있다니…… 그래도 이 정도면 운이 좋은 편이지?",
+                "cn": "学长还在拆迁队，学姐混成了包工头，同桌已经去拓荒了......这么多同学，就我绕了一圈来汐斯塔做回本行搞工程建造......应该也算不错了吧？"
+            },
+            "asset": "char_488_buildr/CN_010"
+        },
+        {
+            "id": "char_488_buildr_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "You're the Doctor that Ceylon talked about, right? I'm Poncirus. Thanks for agreeing to provide medical assistance to us workers. My codename? It's a kind of fruit that's very close to my hair in color. The workers like to squeeze its juices into wine.",
+                "jp": "君がセイロンさんの話してたドクターね？あたしはポンシラス。あたしたち労働者に治療を提供してくれてありがとうね。コードネームの由来？あたしの髪と似た色の果物があって、みんなそれ絞って果汁をお酒に混ぜるのが好きだから、そこからとったよ。",
+                "kr": "네가 실론 씨가 얘기했던 박사 맞지? 난 폰사이러스라고 해, 우리 노동자들한테 치료를 제공해 줘서 고마워. 코드네임? 내 머리색이랑 비슷한 색의 과일이 하나 있는데, 거기서 따온 거야. 다들 그 과일의 과즙을 술에 섞어 마시는 걸 좋아했거든.",
+                "cn": "您就是锡兰小姐说的博士了吧？我是青枳，谢谢你们愿意给我们这些工人提供治疗。这个代号？是一种和我发色很像的水果，工人们喜欢把它的汁挤在酒里。"
+            },
+            "asset": "char_488_buildr/CN_011"
+        },
+        {
+            "id": "char_488_buildr_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Finding the structural support core in an instant and destroying it right away...  Alright, with a little practice, I'm sure I can do this, too.",
+                "jp": "構造物の核心となる支点の部分を瞬時に見つけて、直ちに壊す、と……練習すれば、あたしにもできるはず。",
+                "kr": "구조물의 핵심이 되는 곳을 빠르게 찾은 다음 신속하게 부순다라…… 조금만 연습하면 나도 할 수 있을 거야.",
+                "cn": "瞬间找到结构的核心支点，迅速击破......练习一下的话，我应该也能做到。"
+            },
+            "asset": "char_488_buildr/CN_012"
+        },
+        {
+            "id": "char_488_buildr_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "A promotional medal... I'll take it. Thanks for your acknowledgment, Doctor. I'll work hard to make sure I'm worth it.",
+                "jp": "昇進メダルか……もらっとくね。認めてくれてありがとう、ドクター。この重さに見合うように頑張るよ。",
+                "kr": "승진 메달이라니…… 받아 둘게. 인정해 줘서 고마워, 박사. 앞으로도 이 메달의 무게에 걸맞도록 열심히 노력할게.",
+                "cn": "晋升勋章......我收下了，谢谢您的认可，博士，我会努力让自己配得上它的重量。"
+            },
+            "asset": "char_488_buildr/CN_013"
+        },
+        {
+            "id": "char_488_buildr_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Senior Engineering Operator? Does that mean my pay goes up, too? That's great! I can send more money back home to my parents now, and I gotta write a letter to Grandpa, too. Yeah, everything's working out just fine!",
+                "jp": "上級エンジニアオペレーター？ということは、昇進したらもっとお給料もらえるの？やった。パパとママに多めに仕送りできるね。おじいにも手紙を書いて知らせなきゃ。うん、やっぱり未来は良くなるんだよね！",
+                "kr": "상급 엔지니어 오퍼레이터? 승진하면 월급도 더 받을 수 있는 거야? 우와, 그럼 이제 엄마 아빠한테 넉넉하게 보내드릴 수 있겠네, 좋았어. 할아버지한테도 편지를 써서 알려 드려야겠어. 역시, 앞으로는 좋은 일만 가득할 건가 봐!",
+                "cn": "资深工程干员吗？这样我是不是就可以领到更多的工资了？可以多寄回去一点给爸爸妈妈，也要写一封信告诉爷爷。嗯，果然，我接下来的都是好日子啦！"
+            },
+            "asset": "char_488_buildr/CN_014"
+        },
+        {
+            "id": "char_488_buildr_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "I'll check out our surroundings.",
+                "jp": "周りの状況を見てくるね。",
+                "kr": "주변 환경을 살펴보고 올게.",
+                "cn": "我去查看一下周边环境。"
+            },
+            "asset": "char_488_buildr/CN_017"
+        },
+        {
+            "id": "char_488_buildr_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "What did those stubborn professors do back in college again... Hold a seminar first? Pff... Everyone would hate me so much...",
+                "jp": "大学の時の頑固教授どもってどんな感じだったっけ……とりあえず壮行会？ぷっ、みんなにうざがられちゃうやつだ。",
+                "kr": "대학교 때 고집불통 교수님들은 이런 상황에서 어떻게 했더라…… 오리엔테이션이라도 열어야 하나? 풋, 그러면 모두에게 미움만 잔뜩 사겠지……",
+                "cn": "之前学校里的老顽固教授们通常都做什么来着......先开个动员会？噗，会被大家讨厌吧......"
+            },
+            "asset": "char_488_buildr/CN_018"
+        },
+        {
+            "id": "char_488_buildr_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Bring your site plans, everyone. Watch out for accident-prone areas.",
+                "jp": "みんな構造図は持った？事故多発エリアには気を付けてね。",
+                "kr": "다들 구조도는 챙겼어? 사고 다발 구역에선 조심해야 해.",
+                "cn": "大家拿好结构图，小心事故多发区域。"
+            },
+            "asset": "char_488_buildr/CN_019"
+        },
+        {
+            "id": "char_488_buildr_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Arrived at the most optimal combat location. Ready to move.",
+                "jp": "理想の戦闘地点に到着！いつでも動けるよ。",
+                "kr": "최적의 작전 위치에 도착했어! 언제든 움직일 수 있어.",
+                "cn": "已抵达最佳作战位置，随时可以行动。"
+            },
+            "asset": "char_488_buildr/CN_020"
+        },
+        {
+            "id": "char_488_buildr_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Request acknowledged.",
+                "jp": "オーダーは全部了解したよ。",
+                "kr": "오더는 다 이해했어.",
+                "cn": "以上需求均已收到。"
+            },
+            "asset": "char_488_buildr/CN_021"
+        },
+        {
+            "id": "char_488_buildr_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "I'll give you the best plan possible.",
+                "jp": "ベストな立案をしてみせるよ。",
+                "kr": "최적의 방법을 찾아볼게.",
+                "cn": "我会提出最佳方案。"
+            },
+            "asset": "char_488_buildr/CN_022"
+        },
+        {
+            "id": "char_488_buildr_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "If you need me to, I'll wreck this place without hesitation.",
+                "jp": "やれっていうなら、迷わずここをぶっ壊すよ。",
+                "kr": "네가 원한다면, 망설임 없이 여길 때려 부술 거야.",
+                "cn": "如果您需要，我会毫不犹豫地破坏这里。"
+            },
+            "asset": "char_488_buildr/CN_023"
+        },
+        {
+            "id": "char_488_buildr_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "My hammer's not so weak!",
+                "jp": "あたしのハンマーは強いんだから！",
+                "kr": "내 해머는 강하다니까!",
+                "cn": "我的锤子没那么脆弱！"
+            },
+            "asset": "char_488_buildr/CN_024"
+        },
+        {
+            "id": "char_488_buildr_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Load capacity calculations complete!",
+                "jp": "負荷限界の計算完了！",
+                "kr": "하중 한계 계산 완료!",
+                "cn": "极限承载强度计算完成！"
+            },
+            "asset": "char_488_buildr/CN_025"
+        },
+        {
+            "id": "char_488_buildr_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Stress concentration point measured!",
+                "jp": "応力が集中するエリアの推計完了！",
+                "kr": "응력 집중 구역 추산 완료!",
+                "cn": "应力集中区域测算完毕！"
+            },
+            "asset": "char_488_buildr/CN_026"
+        },
+        {
+            "id": "char_488_buildr_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Enemy cover demolished.",
+                "jp": "敵の掩体は破ったよ！",
+                "kr": "적의 엄폐물을 파괴했어!",
+                "cn": "敌方掩体已击毁。"
+            },
+            "asset": "char_488_buildr/CN_027"
+        },
+        {
+            "id": "char_488_buildr_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "The structure's stable and sound. Nothing to worry about!",
+                "jp": "構造は安定してるから安心して！",
+                "kr": "안정적인 구조니까 안심해!",
+                "cn": "结构稳定，大家放心！"
+            },
+            "asset": "char_488_buildr/CN_028"
+        },
+        {
+            "id": "char_488_buildr_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Like a building that'll never be destroyed.",
+                "jp": "永遠に壊れない建物みたいだね。",
+                "kr": "마치 영원히 무너지지 않을 건물 같네.",
+                "cn": "如同一座永远不会被摧毁的建筑物。"
+            },
+            "asset": "char_488_buildr/CN_029"
+        },
+        {
+            "id": "char_488_buildr_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Looks like luck's on my side instead of theirs this time!",
+                "jp": "今回運が悪いのはあたしじゃないからね。あいつらがツイてないの！",
+                "kr": "이번엔 내가 아니라 저 녀석들이 운이 없었던 거야!",
+                "cn": "这次就不是我倒霉啦，是他们运气不好！"
+            },
+            "asset": "char_488_buildr/CN_030"
+        },
+        {
+            "id": "char_488_buildr_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "It's okay, Doctor. A city covered in volcanic ash is always pale, but beautiful flowers will eventually sprout on it.",
+                "jp": "心配しないで、ドクター。火山灰に覆われた都市は色を失うけど、その上に綺麗な花を咲かせるものだからね。",
+                "kr": "걱정하지 마, 박사. 화산재로 덮인 도시는 색을 잃지만, 그 위에는 예쁜 꽃이 피어나는 법이니까.",
+                "cn": "没关系，博士，被火山灰覆盖了的城市总是苍白的，但上面也会开出美丽的花。"
+            },
+            "asset": "char_488_buildr/CN_031"
+        },
+        {
+            "id": "char_488_buildr_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "The road's been demolished. Enemy pursuit vehicles intercepted.",
+                "jp": "道路の破壊完了、敵車両は追ってこれないよ！",
+                "kr": "도로 파괴 완료, 적 차량은 이제 쫓아오지 못할 거야.",
+                "cn": "道路截断完成，敌方车辆已无法追击。"
+            },
+            "asset": "char_488_buildr/CN_032"
+        },
+        {
+            "id": "char_488_buildr_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "What a sophisticated design... I gotta find time to really look at it.",
+                "jp": "すごく緻密なデザイン……時間作ってよく見てみよっと。",
+                "kr": "이렇게 정교한 디자인이라니…… 시간을 내서 천천히 연구해 봐야겠어.",
+                "cn": "这么精巧的设计......得找时间好好研究一下。"
+            },
+            "asset": "char_488_buildr/CN_033"
+        },
+        {
+            "id": "char_488_buildr_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Got a new mission, Doctor?",
+                "jp": "新しい任務があるの、ドクター？",
+                "kr": "새로운 임무라도 있어, 박사?",
+                "cn": "有新的任务吗，博士？"
+            },
+            "asset": "char_488_buildr/CN_034"
+        },
+        {
+            "id": "char_488_buildr_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Ah! Doctor, remember to stay clear of my hammer the next time you talk to me. It's dangerous!",
+                "jp": "っ……ドクター、次から声をかける時は離れといてね。ハンマーって危ないんだよ！",
+                "kr": "……박사, 다음부터 말 건 땐 해머에서 멀리 떨어져 있어 줘, 위험하다고!",
+                "cn": "......博士，下次叫我时记得离锤子远一些，很危险的！"
+            },
+            "asset": "char_488_buildr/CN_036"
+        },
+        {
+            "id": "char_488_buildr_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_488_buildr/CN_037"
+        },
+        {
+            "id": "char_488_buildr_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Why don't we head outside together for some fresh air, Doctor? Staying in one place can really slow your thinking.",
+                "jp": "気分転換に散歩行こうよ、ドクター。ずっと同じ場所に籠ってると、思考だって窮屈になっちゃうよ。",
+                "kr": "기분 전환 겸 바람이나 쐬러 가자, 박사. 계속 같은 장소에 틀어박혀 있으면 생각도 답답해진다고.",
+                "cn": "我陪您出去透透气吧，博士，总是待在一个地方思路也会受限的。"
+            },
+            "asset": "char_488_buildr/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Jeannie Tirado",
+            "global": "Jeannie Tirado"
+        },
+        "cn": {
+            "native": "孙艳琦",
+            "global": "Yanqi Sun"
+        },
+        "jp": {
+            "native": "中村カンナ",
+            "global": "Kanna Nakamura"
+        },
+        "kr": {
+            "native": "이은조",
+            "global": "Lee Eun-jo"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}
