@@ -40,9 +40,13 @@ def move_avatars():
         targetname = path.splitext(targetname)[0] + ".webp"
         targetpath = path.join("..", "site", "static", 
             "images", "avatars", targetname)
-        ffmpeg_convert(avapath, targetpath, True)
 
-        print("Succesfully moved", targetname)
+        if path.isfile(targetpath):
+            print(targetname, "already exists, skipping...")
+        else:
+            ffmpeg_convert(avapath, targetpath, True)
+
+            print("Succesfully moved", targetname)
 
 def move_factions():
     factionpaths = glob.glob("images/factions/*.png") 
