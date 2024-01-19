@@ -10,12 +10,6 @@
   export let data;
   let photosrc: string;
   $: photosrc = data === null ? null : getAvatarUrl(data.nameid, base)
-
-  // Image from Aceship
-  //`https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/${data.charid}.png` 
-
-  // Image from local
-  //`/images/avatars/${data.nameid}.webp` 
 </script>
 
 <svelte:head>
