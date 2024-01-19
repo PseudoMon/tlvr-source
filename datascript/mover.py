@@ -60,6 +60,6 @@ def move_factions():
         print("Succesfully moved", targetname)
 
 if __name__ == "__main__":  
-    #move_charlist()
-    #move_chardata()
+    move_charlist()
+    move_chardata()
     move_avatars()

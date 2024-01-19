@@ -9,10 +9,6 @@ def rarity_str_to_int(raritystr):
 	# Transform rarity data from e.g. TIER_6 to 6 as an integer
 	return int(raritystr.split("_")[-1])
 
-def loadchardict(region):
-	sourcepath = path.join(region, "chardict.json")
-	return load_json(sourcepath)
-
 def load_wordtable(region):
 	sourcepath = path.join(region, "charword_table.json")
 	return load_json(sourcepath)
@@ -20,12 +16,6 @@ def load_wordtable(region):
 def load_chartable(region):
 	sourcepath = path.join(region, "character_table.json")
 	return load_json(sourcepath)
-
-def loadchardicts(regions):
-	dicts = {}
-	for region in regions:
-		dicts[region] = loadchardict(region)
-	return dicts
 
 def load_chartables(regions):
 	dicts = {}
@@ -56,18 +46,16 @@ def make_charlist_v2():
 	save_json(characters, "text.json")
 
 
-def make_charlist(check_nation=True):
-	chartables = load_chartables()
-	chardicts = loadchardicts(langs)
-	chartable = chartables("en")
+def make_charlist():
+	chartables = load_chartables(langs)
 	
 	charlist = []
 
 	# Use EN as base
-	for charid in chartable:
+	for charid in chartables["en"]:
 		splitid = charid.split("_")
 
-		if splitid("_")[0] != "char":
+		if splitid[0] != "char":
 			continue
 
 		charname = splitid[-1]
@@ -79,53 +67,20 @@ def make_charlist(check_nation=True):
 		newchar = {
 			"nameid": charname,
 			"numberid": splitid[1],
-			"name": {
-				"en": chartable[charid]["name"],
-			}
+			"name": { }
 		}
 
 		for lang in langs:
-			if lang == "en":
-				continue
-
-			regional_name = chartable[charid]["name"]
+			regional_name = chartables[lang][charid]["name"]
 			newchar["name"][lang] = regional_name
 
-		fulldata = chartable[charid]
+		# Set additional data
+		fulldata = chartables["en"][charid] # just use en as base
 		newchar["nation"] = fulldata["nationId"]
 		rarity = rarity_str_to_int(fulldata["rarity"])
 		newchar["rating"] = rarity
 
 		charlist.append(newchar)
-
-	# old version!
-	# Use EN as base
-	# for char in chardicts["en"]:
-	# 	if char in mute_chars:
-	# 		print("Found mute char", char)
-	# 		continue
-
-	# 	newchar = {
-	# 		"nameid": char,
-	# 		"numberid": chardicts["en"][char]["id"],
-	# 		"name": {
-	# 			"en": chardicts["en"][char]["name"],
-	# 		}
-	# 	}
-
-	# 	for lang in langs:
-	# 		if lang == "en":
-	# 			continue
-
-	# 		regional_name = chardicts[lang][char]["name"]
-	# 		newchar["name"][lang] = regional_name
-
-	# 	fulldata = chartable[f"char_{newchar['numberid']}_{char}"]
-	# 	newchar["nation"] = fulldata["nationId"]
-	# 	rarity = rarity_str_to_int(fulldata["rarity"])
-	# 	newchar["rating"] = rarity
-
-	# 	charlist.append(newchar)
 
 	return charlist
 
@@ -310,11 +265,9 @@ if __name__ == "__main__":
 
 	# print(factions)
 
-	# make_and_save_charlist()
+	make_and_save_charlist()
 
-	# charlist = load_json("charlist.json")
-	# get_and_save_misc_data(charlist)
+	charlist = load_json("charlist.json")
+	get_and_save_misc_data(charlist)
 
-	# process_all_characters()
-
-	make_charlist_v2()
+	process_all_characters()

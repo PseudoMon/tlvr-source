@@ -49,6 +49,7 @@ def download_image(url, target):
     print("Sucesfully downloaded image {} to {}".format(url, target))
 
 def grab_chardict(region):
+    # This is not longer used since we don't take from ASTR anymore
     download_text(
         chardictsurls[region], 
         path.join(region, "chardict.json")
@@ -110,10 +111,9 @@ def grab_factions():
         url = base_faction_url.format(faction) 
         download_image(url, f"images/factions/{faction}.png")
 
-if __name__ == "__main__":  
-    grab_all_chardicts()
+if __name__ == "__main__":
     grab_all_charword_tables()
     grab_all_chartable()
 
-    #grab_factions()
+    # grab_factions()
     grab_avatars()
