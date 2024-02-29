@@ -116,4 +116,4 @@ if __name__ == "__main__":
     grab_all_chartable()
 
     # grab_factions()
-    grab_avatars()
+    # grab_avatars()

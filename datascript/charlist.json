@@ -1644,6 +1644,18 @@
         "rating": 5
     },
     {
+        "nameid": "sntlla",
+        "numberid": "341",
+        "name": {
+            "en": "Santalla",
+            "jp": "サンタラ",
+            "kr": "산탈라",
+            "cn": "寒檀"
+        },
+        "nation": "sami",
+        "rating": 5
+    },
+    {
         "nameid": "mint",
         "numberid": "388",
         "name": {
@@ -2388,6 +2400,18 @@
         "rating": 5
     },
     {
+        "nameid": "threye",
+        "numberid": "4102",
+        "name": {
+            "en": "Valarqvin",
+            "jp": "ヴァラルクビン",
+            "kr": "발라크빈",
+            "cn": "凛视"
+        },
+        "nation": "sami",
+        "rating": 5
+    },
+    {
         "nameid": "mantic",
         "numberid": "215",
         "name": {
@@ -2589,6 +2613,18 @@
             "cn": "早露"
         },
         "nation": "ursus",
+        "rating": 6
+    },
+    {
+        "nameid": "typhon",
+        "numberid": "2012",
+        "name": {
+            "en": "Typhon",
+            "jp": "ティフォン",
+            "kr": "티폰",
+            "cn": "提丰"
+        },
+        "nation": "sami",
         "rating": 6
     },
     {

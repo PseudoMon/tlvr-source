@@ -17,7 +17,7 @@
                 "cn": "任命助理"
             },
             "text": {
-                "en": "Hey, hey! I'm watching a rock concert, Doctor! Stop blocking the TV! I just missed the best part thanks to you!",
+                "en": "Hey, hey! I'm watching a rock concert, Doctor! Stop blocking the TV! Just missed the best part thanks to you!",
                 "jp": "ち、ちょっと！ドクター！ライブを見てるんだからテレビの前に立たないで！いいところを見逃しちゃったじゃない！",
                 "kr": "자, 잠깐! 박사! 라이브 보고 있으니까 텔레비전 앞에 서지 마! 아~! 좋은 장면 다 놓쳤잖아!",
                 "cn": "喂，喂，博士！我还在看乐队演出呢，别挡着屏幕啊，刚刚可是最精彩的部分！"
@@ -177,7 +177,7 @@
                 "cn": "干员报到"
             },
             "text": {
-                "en": "Excuse me, is this the office of the Dr. {@nickname}? I've been looking for the place quite a while and it'd be really appreciated if—what? YOU'RE the Doctor? Hmpf, I see. Operator Vigna, reporting in!",
+                "en": "Excuse me, is this the office of the Doctor? I've been looking for the place quite a while and it'd be really appreciated if—what? YOU'RE the Doctor? Hmpf, I see. Operator Vigna, reporting in!",
                 "jp": "すみません、ドクターの執務室はこちらでよろしかったでしょうか？ドクターはいらっしゃいま……え？あなたがドクター？ふーん、あたしはヴィグナ、よろしくね。",
                 "kr": "실례합니다. {@nickname} 박사 집무실이 여기 맞나요? 박사는 여기 있… 어? 당신이 박사야? 흐음… 나는 비그나라고 해, 잘 부탁해.",
                 "cn": "请问，这里是Dr.{@nickname}的办公室吗，我找博士很久了，麻烦你......什么？你就是博士？哼哼，干员红豆来报到了！"
@@ -193,7 +193,7 @@
                 "cn": "观看作战记录"
             },
             "text": {
-                "en": "You gotta be willing to sweat a lot to keep up the battle tempo, (is that right)?",
+                "en": "You gotta be willing to sweat a lot to keep up the battle tempo!",
                 "jp": "刻一刻と変化する戦いのリズムについていくためにも、それ相応の努力をしないとね。そうでしょう！",
                 "kr": "시시각각 변화하는 싸움의 리듬에 따라가기 위해서라도, 그만큼의 노력을 해야지, 안 그래?",
                 "cn": "要跟得上不断变快的战斗节奏，就必须坚持挥洒汗水，没错吧！"
@@ -449,7 +449,7 @@
                 "cn": "3星结束行动"
             },
             "text": {
-                "en": "You all deserve a commendation from me, oh, but not you, Doctor, not yet! Your job's not finished until I see everyone back home safe and sound~",
+                "en": "You all deserve a commendation from me, oh, but not you, Doctor, not yet! Your job's not finished until I see everyone back home safe and sound.",
                 "jp": "皆さん素晴らしい戦いぶりでした！……ドクターも褒めてほしい？まぁ、戻ってからにしてね。",
                 "kr": "여러분 정말 훌륭한 전투였습니다! …박사도 칭찬해달라고? 뭐, 돌아가서 해줄게.",
                 "cn": "大家都做的很好！不过博士，想听我表扬你，可要等到回去以后哦~"

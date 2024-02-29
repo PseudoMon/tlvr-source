@@ -1,0 +1,596 @@
+{
+    "charid": "char_341_sntlla",
+    "nameid": "sntlla",
+    "names": {
+        "en": "Santalla",
+        "jp": "サンタラ",
+        "kr": "산탈라",
+        "cn": "寒檀"
+    },
+    "voices": [
+        {
+            "id": "char_341_sntlla_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "I... can take care of some basic tasks, but your assistant should be able to take on a large share of your work. That may be… beyond my abilities.",
+                "jp": "私ですか……基本的な事務ならできますが、補佐を務める以上、もっと幅広いお手伝いができて然るべきですよね……まだ私には相応しくないと思います。",
+                "kr": "저 말인가요? ……기본적인 업무는 할 수 있지만, 당신의 어시스턴트를 맡는다면 더 많은 도움을 드릴 수 있어야 할 텐데…… 저는 그 일을 하기엔 아직 부족한 것 같네요.",
+                "cn": "我......可以操办些基础事务，但作为您的副手应当为您分担更多工作......我还没有这个资格。"
+            },
+            "asset": "char_341_sntlla/CN_001"
+        },
+        {
+            "id": "char_341_sntlla_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Prejudice is common between peoples. Before I came to Rhodes Island, I actually thought people outside of Sami left the womb with weapons in their hands... That's not a joke, Doctor. I really did.",
+                "jp": "人々の間に偏見が生じるのはごく普通のことです。私もロドスに来るまでは、サーミの外の人は皆武器と一緒に産まれると思い込んでいたくらいですし……冗談ではありませんよ、ドクター。本気でそう思っていたんです。",
+                "kr": "사람과 사람 사이에 편견이 있는 건 당연한 일이죠. 로도스 아일랜드에 오기 전까지, 전 사미 밖의 사람들은 모두 무기와 함께 태어난다고 생각했답니다…… 농담이 아니에요, 박사님. 정말로 그렇게 생각했답니다.",
+                "cn": "人与人之间有些偏见再寻常不过了，在来到罗德岛之前，我还以为萨米之外的人就是同武器一起诞生的呢......这不是玩笑话，博士。这就是事实。"
+            },
+            "asset": "char_341_sntlla/CN_002"
+        },
+        {
+            "id": "char_341_sntlla_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "You're still bothered by the cold? Hmm... Sometimes, I feel like you're needier than a newborn. Hold your hands out then... Haah... Feel better? You're welcome. Give me a moment, I'll fetch you another blanket.",
+                "jp": "まだ寒いですか？はぁ……あなたは時々赤ん坊よりもわがままになりますね。手を出してください……はぁー……はぁー……温かくなりましたか？はい、どういたしまして。毛布も持ってきますね。",
+                "kr": "아직도 추우신가요? 흠…… 가끔 보면 당신은 어린아이보다 더 투정을 부리시는 것 같네요. 손을 잠깐 내밀어 주시겠어요? 호오…… 호오…… 훗, 조금 따뜻해지신 것 같나요? 별거 아니랍니다. 담요도 하나 가져다드릴게요.",
+                "cn": "还觉得冷吗？哼......有时候您倒是比婴孩还会抱怨。把手伸出来吧......哈......哈......有没有暖和些？嗯，不客气，我再去拿条毯子给您。"
+            },
+            "asset": "char_341_sntlla/CN_003"
+        },
+        {
+            "id": "char_341_sntlla_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Yes, I know this is a general education course meant for children. But a shaman's calling is to master all forms of knowledge, whether metal or wood. And my knowledge of the South probably isn't much greater than a local child. So a course like this suits me just fine.",
+                "jp": "知識を身につけることはシャーマンの使命です。それが鋼鉄のものであれ、樹木のものであれ選り好みはしません。ええ、子供向けの一般教養講座であることは承知していますよ。私の南に対する理解は子供たちと同程度なので、ああいう授業はうってつけなんです。",
+                "kr": "많은 지식을 습득하는 건 샤먼의 본분입니다. 그것이 강철에 관한 것이든, 숲에 관한 것이든 말이죠. 네, 그 수업이 아이들을 위한 교양 수업 수준이라는 건 저도 잘 알고 있습니다. 하지만 제가 알고 있는 남쪽 지역에 관한 지식은 아이들보다 못하니, 저한텐 그 정도의 수업이 적합한 거겠죠.",
+                "cn": "掌握知识是萨满的天职，无论它属于钢铁还是林木。是的，我很清楚那是为孩子开设的通识课。我对南方的了解并不比孩子们知道的多。那样的课程，很适合我。"
+            },
+            "asset": "char_341_sntlla/CN_004"
+        },
+        {
+            "id": "char_341_sntlla_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Fighting is not in Sami nature. But, if you do not become the hunter, then you can only be the hunted. This is true whether facing the elements, the demons... or the people of Ursus. It's the law of nature.",
+                "jp": "戦うことはサーミ人の使命などではありません。しかし、常に狩る側でいなければ、狩られる側に回るだけです。相手が大自然でも、北方の厄災でも……ウルサス人であっても同じことです。この摂理からは誰も逃れられませんよ。",
+                "kr": "전투는 사미인의 사명이 아닙니다. 하지만 사냥꾼이 되지 않는다면, 사냥감으로 전락하기 마련이죠. 상대가 자연이든, 북쪽의 재이든…… 우르수스인이든. 그 무엇도 이 법칙에선 벗어날 수 없답니다.",
+                "cn": "战斗不是萨米人的天职。可不成为猎手，就只能沦为猎物，无论是面对自然、面对北方的灾异......还是对抗乌萨斯人。没有什么能够逃脱这个规律。"
+            },
+            "asset": "char_341_sntlla/CN_005"
+        },
+        {
+            "id": "char_341_sntlla_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "I respect you, and so I give you my word. As long as I am aboard this iron ship, I will not trouble the people of Ursus. But when in Sami, I hope you'll turn a blind eye to... some of my actions. There is always a price to be paid, even if it falls to Ursus rather than a particular individual.",
+                "jp": "あなたのことは尊敬していますし、この鋼の船にいる限り、ウルサス人には手を出さないと約束しましょう。ですがサーミでは、どうか私の行動を……詮索しないでいただけますか。誰かが代償を支払わなければなりません。その原因が彼ら自身ではなく、ウルサスそのものにあったとしても。",
+                "kr": "저는 당신을 존경합니다. 그리고 약속드리죠. 이 강철 함선에 있는 동안은 우르수스인과 문제를 일으키지 않겠습니다. 하지만 사미에선, 부디 저의 특정 행동에…… 너무 관여하지 말아 주셨으면 합니다. 누군가는 대가를 치러야만 하는 법이니까요. 그게 그들 스스로가 아닌, 우르수스가 저지른 짓이라 할지라도요.",
+                "cn": "我尊敬您，也给您我的承诺，只要还在这钢舟上，我不会为难乌萨斯人。但是在萨米，我希望您不要过问我的一些......行动。总有人要付出代价，即使那来自乌萨斯，而非他们自身。"
+            },
+            "asset": "char_341_sntlla/CN_006"
+        },
+        {
+            "id": "char_341_sntlla_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "My friends here at Rhodes Island made this outfit not long after I arrived. I was still a stubborn rockhorn back then, unwilling to accept even the slightest bit of kindness. Now... I'm probably not so inflexible. Even the coldest ice melts in the spring sun.",
+                "jp": "この服は、ここに来て間もない頃にロドスの友人が作ってくれたものです。当時の私はまるで岩角獣の様に石頭で、どれほど些細な好意も受け入れられませんでした。今は……多少柔和になったでしょうか。陽のもとに長くいれば、堅い氷塊もいずれは溶けて清流を成すものです。",
+                "kr": "이 옷은 로도스 아일랜드의 친우들이 제가 여기 온 지 얼마 되지 않았을 때 만들어 준 것이랍니다. 그때의 전 고집 센 록혼비스트처럼 자그마한 호의마저도 받아들이지 못했죠. 지금은…… 그때보단 나아졌으려나요. 따뜻한 햇볕을 오래 쬐면 단단한 빙하도 맑은 개울로 녹아내리는 법이니까요.",
+                "cn": "这套衣物是罗德岛的朋友在我上岛不久后帮忙定做的，那时候我还像是头倔强的岩角兽，不愿接受一点善意。现在......应该没那么固执了吧。被太阳晒久了，坚冰也是会融成清泉的。"
+            },
+            "asset": "char_341_sntlla/CN_007"
+        },
+        {
+            "id": "char_341_sntlla_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Tribe cannot go on without a shaman. It was painful to part with the branches of my family tree, and let go of the responsibility of protecting my tribesmen. It used to be my only wish to remain in my ancestral home, accompanying the long-withered tree. But now, that is not possible anymore...",
+                "jp": "サーミの雪祭司が一人欠けても支障はありませんが、部族のシャーマンが欠けることは許されません。私には部族の木末を手放すことも、一族を守る責を放棄することもできませんでした。故郷に残り、とうに枯れきった木に寄り添うことが、かつては私のたった一つの願いだったんです。しかし、もうその願いが叶うことは決してありません……",
+                "kr": "사미는 눈의 사제가 한 명쯤 없어도 괜찮겠지만, 부족엔 반드시 한 명의 샤먼이 존재해야 합니다. 저는 부족 나무의 가지를 포기할 수도, 부족 사람들에 대한 책임을 내려놓을 수도 없었습니다. 옛 땅에 남아 이미 오래전 말라죽은 나무를 지키는 것이, 한때 제 유일한 소망이었죠. 지금은, 이뤄질 수 없는 소망이 되었지만요……",
+                "cn": "萨米可以少一位雪祀，但部族里不能少一位萨满。我舍不得族树的枝，放不下守护族人的责。留在古地陪伴早已枯死的树，曾是我唯一的愿望。现在，它已没可能实现了......"
+            },
+            "asset": "char_341_sntlla/CN_008"
+        },
+        {
+            "id": "char_341_sntlla_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "One crystallized eye is enough to turn a woman into a monster. The Southerners use Originium to command metal to move, yet fear that it will grow upon their bodies. Alas, what deadly weapons indifference and fear have become. Though they leave no wounds on the body, they instead bleed the spirit dry.",
+                "jp": "結晶化した目一つで、怪物扱いするには充分なんです。南の人は源石で鋼鉄の塊を動かしながらも、それが自らの体に根付くことを恐れていますからね。無関心と畏れがあれほど鋭い武器になり得るとは思ってもみませんでした。貫かれても血こそ流れませんが、心が枯れ果ててしまいます。",
+                "kr": "결정화된 눈은 사람을 '괴물'로 만들기에 충분합니다. 남쪽 사람들은 오리지늄으로 강철을 움직이지만, 그것이 몸에서 자라나는 건 두려워하더군요. 무시와 두려움이, 그토록 날카로운 무기가 되리라곤 생각지 못했습니다. 그것에 찔린다 한들 피는 나지 않겠지만, 정신이 메말라 버리죠.",
+                "cn": "一只结晶的眼睛，就足以让人成为怪物。南方人以源石驱动钢铁，自己却害怕它长在身体上。漠视与畏惧能成为多么尖锐的武器啊，刺在身上虽不流血，倒是让精神就此干涸了。"
+            },
+            "asset": "char_341_sntlla/CN_009"
+        },
+        {
+            "id": "char_341_sntlla_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": " I wave a twig… for a fresh and healthy year... ",
+                "jp": "彼方より来たる苦難よ……結い髪の茨に慄き……消え……され……",
+                "kr": "가시덤불로 자라나라…… 저편의 고통은…… 흩어지리…… 흩어지리……",
+                "cn": "结发为荆棘......彼方苦难......消散......消散......"
+            },
+            "asset": "char_341_sntlla/CN_010"
+        },
+        {
+            "id": "char_341_sntlla_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "She was born under the tribe's santalla tree, so it became her identity, her codename, and a part of her life. Now the outcast returns to the tribe, regaining the right to use her name. She will commit herself to her new leader.",
+                "jp": "彼女は部族に崇められしサンタラの木の下で生を受けました。そしてその木の名は彼女の名前となり、コードネームとなり、命の一部となったのです。ある日、追放された彼女は部族に戻り、再びこの名を冠する権利を得ました。今後彼女は新たな族長のために力を尽くすことでしょう。",
+                "kr": "그녀는 부족의 산탈라 나무 아래에서 태어났습니다. 그리하여 이는 그녀의 이름이자 코드네임, 그리고 생명의 일부가 되었습니다. 그리고 어느 날, 추방되었던 그녀는 부족으로 돌아가 다시금 이름을 쓸 수 있는 권리를 되찾게 됩니다. 이제 그녀는 자신의 새로운 족장을 위해 최선을 다할 것입니다.",
+                "cn": "她在部族的寒檀木下降生，所以那成为了她的名字、代号，以及生命的一部分。一位黜人回归部族，以此重获使用名字的权利。她将为她的新族长尽心尽力。"
+            },
+            "asset": "char_341_sntlla/CN_011"
+        },
+        {
+            "id": "char_341_sntlla_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "They do not yet comprehend the enemy's cruelty…",
+                "jp": "彼らは敵の残酷さがまだよくわかっていないようですね……",
+                "kr": "그들은 아직 적의 잔혹함을 모르는 것 같군요……",
+                "cn": "他们还不了解敌人的残酷......"
+            },
+            "asset": "char_341_sntlla/CN_012"
+        },
+        {
+            "id": "char_341_sntlla_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "May the generosity you've afforded me plant the seedlings of joy within your heart.",
+                "jp": "あなたが私に施した慈しみが、その心に喜びの苗を植え付けますように。",
+                "kr": "제게 베풀어 주신 관대함이, 당신의 마음에도 기쁨의 싹을 틔웠기를 바랍니다.",
+                "cn": "愿您予我的慷慨，也在您心中植下喜悦的芽。"
+            },
+            "asset": "char_341_sntlla/CN_013"
+        },
+        {
+            "id": "char_341_sntlla_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "The curse cannot extinguish the pain in my heart. Since it is conquest that Ursus craves, then let them be conquered by nature.",
+                "jp": "いくら相手を呪ったところで、この心の痛みや苦しみを和らげることはできません。ウルサス人が征服に飢えているのならば……大自然による征服を味わわせてやりましょう。",
+                "kr": "상대를 저주하는 것만으론 제 마음속의 고통을 가라앉힐 수 없습니다. 우르수스인들이 정복을 갈망하는 거라면…… 우르수스를 대자연에 정복당하게 할 것입니다.",
+                "cn": "咒诅平息不了我心中的苦痛，既然乌萨斯人渴望征服，那就......让自然征服乌萨斯。"
+            },
+            "asset": "char_341_sntlla/CN_014"
+        },
+        {
+            "id": "char_341_sntlla_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "What do you wish for the battlefield to become?",
+                "jp": "戦場をどんな姿に変えたいですか？",
+                "kr": "당신은 전장을 어떤 모습으로 바꾸고 싶으신 거죠?",
+                "cn": "您希望战场变成什么样？"
+            },
+            "asset": "char_341_sntlla/CN_017"
+        },
+        {
+            "id": "char_341_sntlla_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Protect our teammates, and victory will be ours.",
+                "jp": "仲間を守り抜けば、きっと勝利を掴めます。",
+                "kr": "동료를 보호할 수 있다면, 우리는 승리할 것입니다.",
+                "cn": "保护好队友，我们就能赢得胜利。"
+            },
+            "asset": "char_341_sntlla/CN_018"
+        },
+        {
+            "id": "char_341_sntlla_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Look into the distance, and be mindful of your feet. Nature has already warned you of the changes.",
+                "jp": "地に足を付け、彼方を望むれば……目に映るは大自然の啓示なり。",
+                "kr": "자연은 이미 모든 변화를 알려 주었으니, 멀리 보고, 발아래를 조심하도록. ",
+                "cn": "看着远方，注意脚下，自然已将变化悉数告知。"
+            },
+            "asset": "char_341_sntlla/CN_019"
+        },
+        {
+            "id": "char_341_sntlla_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "The hunter... and the hunted…",
+                "jp": "狩る者と……狩られる者……",
+                "kr": "사냥꾼…… 사냥감……",
+                "cn": "猎人......猎物......"
+            },
+            "asset": "char_341_sntlla/CN_020"
+        },
+        {
+            "id": "char_341_sntlla_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Did you have need of me?",
+                "jp": "私が必要ですか？",
+                "kr": "제가 필요하십니까?",
+                "cn": "您需要我？"
+            },
+            "asset": "char_341_sntlla/CN_021"
+        },
+        {
+            "id": "char_341_sntlla_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Your orders?",
+                "jp": "指示はありますか？",
+                "kr": "지시할 사항이 있습니까?",
+                "cn": "有何指示？"
+            },
+            "asset": "char_341_sntlla/CN_022"
+        },
+        {
+            "id": "char_341_sntlla_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "As you wish.",
+                "jp": "あなたの意のままに。",
+                "kr": "당신의 뜻대로.",
+                "cn": "依您意愿。"
+            },
+            "asset": "char_341_sntlla/CN_023"
+        },
+        {
+            "id": "char_341_sntlla_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "We shall begin.",
+                "jp": "ええ、そうしましょう。",
+                "kr": "네, 그렇게 하죠.",
+                "cn": "就这样吧。"
+            },
+            "asset": "char_341_sntlla/CN_024"
+        },
+        {
+            "id": "char_341_sntlla_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "The withered tree demands sacrifices.",
+                "jp": "枯れ木が贄を求めているの。",
+                "kr": "고목은 제물을 원하는 법.",
+                "cn": "枯树索求祭品。"
+            },
+            "asset": "char_341_sntlla/CN_025"
+        },
+        {
+            "id": "char_341_sntlla_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "The wild wind plunders your warmth.",
+                "jp": "その温もりを雪嵐が掠め取るわ。",
+                "kr": "광풍은 온기를 약탈하지.",
+                "cn": "狂风掠夺暖意。"
+            },
+            "asset": "char_341_sntlla/CN_026"
+        },
+        {
+            "id": "char_341_sntlla_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "The deadly cold sends its regards.",
+                "jp": "骨身に染みる冷気のご挨拶よ。",
+                "kr": "죽음의 한기가 안부를 묻는구나.",
+                "cn": "亡寒致以问候。"
+            },
+            "asset": "char_341_sntlla/CN_027"
+        },
+        {
+            "id": "char_341_sntlla_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "The eyes of Sami witness your end.",
+                "jp": "サーミが最期を看取ってあげる。",
+                "kr": "사미가 마지막을 지켜보겠다.",
+                "cn": "萨米见证终结。"
+            },
+            "asset": "char_341_sntlla/CN_028"
+        },
+        {
+            "id": "char_341_sntlla_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Perhaps in your eyes, nature is just another tool.",
+                "jp": "あなたにとっては、大自然もある種の道具に過ぎないのかもしれませんね。",
+                "kr": "어쩌면, 당신에겐 자연도 그저, 하나의 도구에 지나지 않을지도 모르겠네요.",
+                "cn": "或许在您眼中自然只是另一种器械。"
+            },
+            "asset": "char_341_sntlla/CN_029"
+        },
+        {
+            "id": "char_341_sntlla_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "You are the true hunter.",
+                "jp": "あなたこそ真の狩猟者です。",
+                "kr": "당신이야말로 진정한 사냥꾼이시군요.",
+                "cn": "您才是真正的猎手。"
+            },
+            "asset": "char_341_sntlla/CN_030"
+        },
+        {
+            "id": "char_341_sntlla_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "War is like nature, full of variables.",
+                "jp": "戦争は自然と同じく、不確定要素に満ちています。",
+                "kr": "전쟁은 자연과도 같습니다, 항상 변수로 가득 차 있죠.",
+                "cn": "战争和自然一样，总是充满了变数。"
+            },
+            "asset": "char_341_sntlla/CN_031"
+        },
+        {
+            "id": "char_341_sntlla_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "The blizzard approaches. We should go.",
+                "jp": "雪嵐が来ます。行きましょう。",
+                "kr": "눈보라가 다가옵니다, 떠나시죠.",
+                "cn": "风雪来了，我们离开吧。"
+            },
+            "asset": "char_341_sntlla/CN_032"
+        },
+        {
+            "id": "char_341_sntlla_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "My room, my domain…",
+                "jp": "私の部屋、私の領域……",
+                "kr": "나의 방, 나의 영역……",
+                "cn": "我的房间，我的境域......"
+            },
+            "asset": "char_341_sntlla/CN_033"
+        },
+        {
+            "id": "char_341_sntlla_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Is there anything I can do for you?",
+                "jp": "何か手伝ってほしいことでも？",
+                "kr": "도움이 필요하신가요?",
+                "cn": "有什么要帮忙的？"
+            },
+            "asset": "char_341_sntlla/CN_034"
+        },
+        {
+            "id": "char_341_sntlla_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "In Sami, there is no food sweeter than honey. Is this... candy? Hmm... Oh, so sweet!",
+                "jp": "サーミにははちみつ以上に甘い食べ物はありません。これは……キャンディですか？なるほど……うっ……甘い。",
+                "kr": "사미에는 벌꿀보다 단 음식이 없답니다. 이건…… 사탕인가요? 아…… 음…… 달콤하네요.",
+                "cn": "在萨米没有比蜂蜜更甜的食物了。这是......糖？哦......唔......好甜。"
+            },
+            "asset": "char_341_sntlla/CN_036"
+        },
+        {
+            "id": "char_341_sntlla_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_341_sntlla/CN_037"
+        },
+        {
+            "id": "char_341_sntlla_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "I am here, by your side.",
+                "jp": "いつでもあなたの側に。",
+                "kr": "저는 당신의 곁에 있답니다.",
+                "cn": "我就在您身旁。"
+            },
+            "asset": "char_341_sntlla/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Veera Lummi",
+            "global": "Veera Lummi"
+        },
+        "cn": {
+            "native": "范楚绒",
+            "global": "Churong Fan"
+        },
+        "jp": {
+            "native": "志田有彩",
+            "global": "Arisa Shida"
+        },
+        "kr": {
+            "native": "이은조",
+            "global": "Lee Eun-jo"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

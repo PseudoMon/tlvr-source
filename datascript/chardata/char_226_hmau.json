@@ -17,7 +17,7 @@
                 "cn": "任命助理"
             },
             "text": {
-                "en": "Hey, Doc. Have you eaten yet? You could have one of my cookies if you're hungry.",
+                "en": "Hi, Doc. Have you eaten yet? Here, I got some cookies if you're hungry.",
                 "jp": "やあ旦那。ご飯はもう食べたかな？クッキーがあるんだけど、まだなら一つどうだい？",
                 "kr": "여어, 나리. 밥은 벌써 먹었나? 쿠키가 있는데, 아직 안 먹었으면 하나 어때?",
                 "cn": "嗨，老板，吃过没，我这有些饼干你要吗？"
@@ -33,7 +33,7 @@
                 "cn": "交谈1"
             },
             "text": {
-                "en": "Doc, if Aak ever steps out of line, could you be lenient with him? He teases people a lot, but he's not a bad person. Also, if he ever gets under your skin, just tell me and I'll get him to tone it down.",
+                "en": "Doc, I know Aak's been a nuisance to you, but could you be lenient with him? He teases people a lot, but he's not a bad person. Also, let me know if he ever gets under your skin, I'll give him a lesson on that.",
                 "jp": "旦那、アのやつにもしちょっかい出されても、大目に見てあげてほしいな。あいつはよく人をいじるんだけど、悪気はないんだ。ま、どうしても我慢できなかったら俺に言ってくれればいいよ。ちょっとシメてくるから。",
                 "kr": "나리, 아 녀석이 혹시 성가시게 굴어도, 될 수 있으면 너그럽게 봐줘. 그 녀석은 사람을 자주 괴롭히긴 하지만, 악의가 있어서 그러는 게 아니거든. 뭐, 도저히 못 참겠으면 나한테 말해줘. 혼 좀 내줄 테니까.",
                 "cn": "老板，阿要是来骚扰您，还麻烦您多担待担待，这小子虽然爱耍人，不过没什么恶意的，您要是真受不了，喊我来收拾他也行。"
@@ -49,7 +49,7 @@
                 "cn": "交谈2"
             },
             "text": {
-                "en": "Just call on me when you're hungry, Doc, and I'll make you a little something to eat. I may not be a chef, but Mr. Lee taught me how to cook a few recipes.",
+                "en": "Just call on me when you're hungry, Doc, and I'll make you a little something to eat. I may not look a like a chef, but I did learn a recipe or two from Mr. Lee.",
                 "jp": "旦那、小腹が空いたら俺を呼んで。何か手頃なおかずでも作るからさ。こう見えて俺、リー先生から覚えた料理をいくつか作れるんだ。",
                 "kr": "나리, 출출하면 불러줘. 간단한 반찬이라도 좀 만들어줄 테니까. 이래 봬도 나, 리 선생님한테 배운 요리 몇 가지 정도는 할 줄 알거든.",
                 "cn": "老板，您要是饿了就说一声，我去给您炒几个菜。别看我这样，其实我还是从老鲤那里学了几手的。"
@@ -81,7 +81,7 @@
                 "cn": "晋升后交谈1"
             },
             "text": {
-                "en": "Hahah, just between you and me, Doc, for the longest time I thought all detectives do the same stuff as Mr. Lee. You know, like investigating crime scenes, that sort of thing.",
+                "en": "Hahah, just between you and me, Doc, for the longest time I thought all detectives do the same stuff as Mr. Lee. You know, taking sips of tea at the scene of gang fights, that sort of thing.",
                 "jp": "ハハッ、旦那、ここだけの話だけど、俺は結構長いあいだ、探偵ならみんなリー先生と同じことをするものだとばかり思ってたよ。マフィアの乱闘現場の野次馬とかね。",
                 "kr": "하하, 나리. 우리끼리만 하는 얘기인데, 난 꽤 오랫동안 탐정은 모두 리 선생님 같은 일을 하는 줄만 알았어. 마피아의 난투 현장 구경 같은 거 말이야.",
                 "cn": "哈哈，老板，不瞒你说，其实很长一段时间里，我都以为每个侦探都会做老鲤那些事，比如去黑帮火并现场喝茶看戏什么的。"
@@ -97,7 +97,7 @@
                 "cn": "晋升后交谈2"
             },
             "text": {
-                "en": "I'm sure you already know, but with the intellect and talent that Aak's got, he's destined for great things one day. But personally, all that matters to me is that he doesn't ever go back to his old way of doing things.",
+                "en": "I'm sure you already know, but with the intellect and talent that Aak's got, he's destined for great things one day. But personally, all that matters to me is that he doesn't ever go back to what he used to be.",
                 "jp": "旦那も分かってるとは思うけど、あれほどの頭脳と能力をもってすれば、アのやつはいつか絶対すごいことをやってのけるはずだよ。けど俺としては、何をするにしても昔のあいつにだけは戻ってほしくないかな。",
                 "kr": "나리도 알고 있겠지만, 아 녀석은 그 정도 두뇌와 능력이 있으니까 언젠가 분명 엄청난 일을 해낼 거야. 그래도 난, 그 녀석이 옛날의 아로 돌아가진 않았으면 좋겠네.",
                 "cn": "老板，您也知道，以阿那小子的头脑和能力，将来一定会有大出息的。但对我来说，我只希望，他永远不要变回以前的样子。"
@@ -113,7 +113,7 @@
                 "cn": "信赖提升后交谈1"
             },
             "text": {
-                "en": "Me and Mr. Lee, well... How should I put it... I was a bit scared at first. He seemed like a guy who's got dark secrets, which had me on edge... But now after knowing him for so many years, I know that's definitely not the case.",
+                "en": "Me and Mr. Lee, well... How should I put it... I was a bit scared of him at first. He seemed like a clever guy who's got a lot going on, which had me on edge... But now after knowing him for so many years, I know I have nothing to worry about, haha.",
                 "jp": "俺とリー先生の関係ね、どう言ったらいいか……始めはちょっと怖かったんだよ。腹に一物を持ってそうな人は苦手でさ……今はそんなことないって。知り合ってもう何年にもなるからね。",
                 "kr": "나와 리 선생님의 관계 말이지. 어떻게 말해야 할까…… 처음에는 좀 무서웠어. 꿍꿍이가 있어 보이는 사람은 대하기 좀 거북하거든…… 물론 지금은 안 그러지. 알게 된 지 벌써 몇 년이나 됐으니까.",
                 "cn": "我和老鲤的关系啊，怎么说呢，最早我还是比较怕他的，因为我特别不会应付那种一看城府就很深的人......现在肯定不怕了，也认识这么多年了嘛。"
@@ -129,7 +129,7 @@
                 "cn": "信赖提升后交谈2"
             },
             "text": {
-                "en": "If you need info on something or someone, just tell me and I'll ask Mr. Lee for you. Nothing in Lungmen happens without him knowing about it.",
+                "en": "Hey, Doc, If you need info on something or someone, just tell me and I'll ask Mr. Lee for you. Nothing in Lungmen happens without him knowing about it.",
                 "jp": "旦那、もし何か知りたいことがあれば、リー先生に聞いてみるから俺に言って。龍門で起きたことなら、あの人が知らないことはないからね。",
                 "kr": "나리, 혹시 알고 싶은 게 있으면 언제든 나한테 말해. 내가 리 선생님한테 물어봐 줄 테니까. 용문에서 생긴 일이라면, 그 사람이 모르는 건 없거든.",
                 "cn": "老板，您要是有什么想知道的事，我可以帮您联络老鲤，只要是龙门里发生的事情，我还没见过他不知道的。"
@@ -145,7 +145,7 @@
                 "cn": "信赖提升后交谈3"
             },
             "text": {
-                "en": "To be honest with you, I actually don't like getting into fights. I'd much rather we could all get along with each other. But I'm not a militant pacifist; there are things I'll fight to protect. Things like the agency, and now, Rhodes Island as well.",
+                "en": "To be honest with you, I actually don't like getting into fights. I'd much rather we could all get along with each other. But I won't back down from inevitable conflicts; there are things I'll fight to protect. Things like the agency, and now, Rhodes Island as well.",
                 "jp": "実を言うと、喧嘩はあんまり得意じゃないんだ。みんなで和気あいあいとできるに越したことはないからね。でもいつでもそんなことを言っていられるわけじゃない、俺にだって失いたくないものがあるからさ。これまでは事務所がそれだった、今はロドスもその一つさ。",
                 "kr": "사실, 싸움은 그다지 잘하는 편이 아니야. 다 같이 화기애애하게 지내는 것보다 나은 건 없으니까. 그래도, 언제까지 그런 소리만 하고 있을 수는 없어. 나한테도 잃고 싶지 않은 게 있거든. 전까지는 사무소가 그랬어. 지금은… 로도스 아일랜드도 그중 하나고.",
                 "cn": "打打杀杀的事情，老实说我不是很擅长，大家坐下和和气气的该有多好。不过很多时候就是没办法，我也有不想失去的东西。以前，那是侦探所，现在，也包括罗德岛了。"
@@ -161,7 +161,7 @@
                 "cn": "闲置"
             },
             "text": {
-                "en": "Do– Phew, I just nearly woke the Doc up... Guess I'll take this opportunity to rest too.",
+                "en": "Do– Phew, almost woke the Doc up... Guess I'll take this opportunity to rest too.",
                 "jp": "だ……ふぅ、危なかったな。旦那を起こしちゃうところだった。じゃあ俺もちょっと休もうかな。",
                 "kr": "나…… 후우, 위험했다. 나리를 깨울 뻔했어. 그럼, 나도 좀 쉬어볼까.",
                 "cn": "老......呼，好险，差点就把老板吵醒了，那我也眯一会儿好了。"
@@ -177,7 +177,7 @@
                 "cn": "干员报到"
             },
             "text": {
-                "en": "You must be the doctor that Mr. Lee talked about. The name's Hung, it's a pleasure to meet you. My fields of expertise are security and repairing machinery. If you ever need a bodyguard for a public appearance, or if your TV or fridge break down, then be sure to give me a holler!",
+                "en": "You must be the doctor that Mr. Lee talked about. The name's Hung, it's a pleasure to meet you. My fields of expertise are security and repairing machinery. If you ever need a bodyguard for a public appearance, or if your TV or fridge break down, just give me a holler!",
                 "jp": "君がリー先生の言ってたドクターかな？初めまして、俺はウンって言うんだ。得意分野は警護と機械の修理。お出かけにボディーガードがほしい時や、テレビや冷蔵庫が壊れた時は、ぜひ俺を呼んでほしいな。",
                 "kr": "당신이 리 선생님이 말했던 박사인가? 반가워, 난 훔이라고 해. 경호하는 거랑 기계 수리하는 게 내 특기지. 외출할 때 보디가드가 필요하거나, 텔레비전이나 냉장고가 고장 나면, 언제든 나를 불러달라고.",
                 "cn": "您就是老鲤说的博士了吧，您好，我是吽，擅长的是安保工作和机械修理，您要是出门缺个保镖，或者电视冰箱坏了，都可以叫我。"
@@ -193,7 +193,7 @@
                 "cn": "观看作战记录"
             },
             "text": {
-                "en": "So this is what the elite of the elite are like... I've got to work just as hard.",
+                "en": "Woah, your operators never cease to amaze me... I've got to work harder.",
                 "jp": "上には上がいるってことか。俺も頑張らないとな。",
                 "kr": "뛰는 놈 위엔 나는 놈이 있다 이건가…… 나도 열심히 해야겠는데.",
                 "cn": "人外有人，天外有天呐，我也要加把劲才行。"
@@ -225,7 +225,7 @@
                 "cn": "精英化晋升2"
             },
             "text": {
-                "en": "Doc, don't hesitate to give me all the work you need done. I'll admit I'm not an expert at many things, but I've got the build for physically intense tasks!",
+                "en": "Doc, don't hesitate to give me all the work you need done. I might not have the brain for many things, but I've got the brawn!",
                 "jp": "旦那、俺のことは遠慮せずにこき使ってくれていいよ。自信のあることなんて少ないけど、身体に関してはそれなりに丈夫だからさ！",
                 "kr": "나리, 사양 말고 날 맘껏 부려 먹어도 돼. 다른 일은 몰라도, 몸은 그런대로 튼튼하니까!",
                 "cn": "老板，别客气，尽管差遣我就好。别的事情我没什么自信，但是在皮糙肉厚这一点上，我自认还是有点实力的！"
@@ -273,7 +273,7 @@
                 "cn": "行动出发"
             },
             "text": {
-                "en": "Stay close behind me so we don't get split up.",
+                "en": "Stay close behind so we don't get split up.",
                 "jp": "しっかり俺に付いてきて、はぐれないようにね。",
                 "kr": "나를 잘 따라와, 떨어지지 말고.",
                 "cn": "大家跟紧我，可别走丢了。"
@@ -289,7 +289,7 @@
                 "cn": "行动开始"
             },
             "text": {
-                "en": "You can all rest easy, knowing I'm here!",
+                "en": "Don't worry, you've got me.",
                 "jp": "俺がいるから安心して。",
                 "kr": "내가 있으니까 안심해.",
                 "cn": "有我在，别怕。"
@@ -337,7 +337,7 @@
                 "cn": "部署1"
             },
             "text": {
-                "en": "Get behind me!",
+                "en": "I'll cover you!",
                 "jp": "みんな、俺の後ろに！",
                 "kr": "다들, 내 뒤로!",
                 "cn": "都来我的身后！"
@@ -369,7 +369,7 @@
                 "cn": "作战中1"
             },
             "text": {
-                "en": "Don't think you're getting past us!",
+                "en": "You shall not pass!",
                 "jp": "先に進めると思うな！",
                 "kr": "앞으로 나아갈 수 있을 거라 생각하지 마라!",
                 "cn": "别想前进一步！"
@@ -385,7 +385,7 @@
                 "cn": "作战中2"
             },
             "text": {
-                "en": "Is anyone in need of healing?",
+                "en": "Anyone need healing?",
                 "jp": "治療が必要な人は？",
                 "kr": "치료가 필요한 사람은?",
                 "cn": "有谁需要治疗？"
@@ -417,7 +417,7 @@
                 "cn": "作战中4"
             },
             "text": {
-                "en": "It's just a scratch!",
+                "en": "A little scratch ain't gonna stop me!",
                 "jp": "このくらいの傷、なんてことないさ！",
                 "kr": "이 정도 상처는, 아무것도 아니야!",
                 "cn": "这点小伤不算什么！"
@@ -433,7 +433,7 @@
                 "cn": "完成高难行动"
             },
             "text": {
-                "en": "*pant*... *pant*... Sorry, Doc, but could you give me a minute? My body's shaking.",
+                "en": "*pant*... *pant*... Sorry, Doc, but could you give me a minute? I'm totally burned out.",
                 "jp": "はぁっ、はぁっ……旦那、悪いけどちょっと休ませてもらっていいかな。身体がガタガタだ。",
                 "kr": "하아, 하아…… 나리, 미안한데…… 좀 쉬어도 될까. 이거, 온몸이 다 후들거리네.",
                 "cn": "哈，哈，哈......老板，不好意思，让我歇会儿，可把我累坏了。"
@@ -449,7 +449,7 @@
                 "cn": "3星结束行动"
             },
             "text": {
-                "en": "You just stay here and rest, Doc. I'll clean up the battlefield.",
+                "en": "You can stay here and rest, Doc. I'll clean up the battlefield.",
                 "jp": "旦那、ここで休んでるといいよ。俺が戦場をきれいにしてくるからさ。",
                 "kr": "나리, 여기서 쉬고 있어. 전장은 내가 정리하고 올 테니까.",
                 "cn": "老板，您在这边休息一下吧，我去打扫一下战场。"
@@ -513,7 +513,7 @@
                 "cn": "戳一下"
             },
             "text": {
-                "en": "Are there any broken machines in here?",
+                "en": "Any broken machines need fixing?",
                 "jp": "壊れた機械はあるかな？",
                 "kr": "어디 망가진 기계는 없어?",
                 "cn": "哪里有机器坏了吗？"
@@ -529,7 +529,7 @@
                 "cn": "信赖触摸"
             },
             "text": {
-                "en": "Need a hand, Doc?",
+                "en": "Sup, Doc? Anything I can help you with?",
                 "jp": "旦那、手伝おうか？",
                 "kr": "나리, 도와줄까?",
                 "cn": "老板，需要我帮忙吗？"
@@ -570,6 +570,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Greg Chun",
+            "global": "Greg Chun"
+        },
         "cn": {
             "native": "吕书君",
             "global": "Lv ShuJun"
@@ -588,6 +592,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr",

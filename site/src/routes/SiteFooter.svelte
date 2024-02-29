@@ -5,7 +5,7 @@
 <footer>
   <a href="https://github.com/PseudoMon/tlvr-source" target="_blank"><GithubIcon /></a>
   <span>Site version 1.2</span>
-  <span>Data last updated: 2024-01-19 (So Long, Adele in Global)</span>
+  <span>Data last updated: 2024-02-29 (The Black Forest Wills a Dream in Global)</span>
 </footer>
 
 <style>

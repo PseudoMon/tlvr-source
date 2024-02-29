@@ -570,6 +570,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Xanthe Huynh",
+            "global": "Xanthe Huynh"
+        },
         "cn": {
             "native": "徐晨",
             "global": "Chen Xu"
@@ -584,6 +588,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

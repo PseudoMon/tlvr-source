@@ -17,7 +17,7 @@
                 "cn": "任命助理"
             },
             "text": {
-                "en": "If I become your assistant, Closure won't be able to touch me anymore, yes? I'm aware of her extreme interest in me. But those ridiculous modifications, are such an insult to a scientist, even... in my current form, I won't allow it.",
+                "en": "If I become your assistant, Closure won't be able to touch me anymore, yes? I'm aware of her extreme interest in me, but her planned modifications on my body are both ridiculous and unacceptable. They're an insult to a scientist, and I won't allow it even in my current form.",
                 "jp": "君の助手になれば、クロージャは僕の身体に好き勝手できなくなるのだろう？彼女が僕に興味津々なのは知っているよ。けど、ああいうとんちきな改装は、一科学者への侮辱なのだ。たとえ……今の僕がこのような有様であっても、許容はできない。",
                 "kr": "자네의 어시스턴트가 되면 클로저도 내 몸을 함부로 할 수 없게 되겠지? 그녀가 내게 많은 관심을 갖고 있다는 사실은 알고 있네. 하지만 그런 어리석은 개조는 과학자에 대한 모욕이나 다름없어…… 비록 지금 내가 이런 모습이 되었을지라도, 그건 용납 못하네.",
                 "cn": "成为你的助理，可露希尔就无权在我身上动手动脚了吧？她对我非常感兴趣，我知道。但那些愚蠢的改装，是对一名科学家的侮辱，哪怕......我现在是这个模样，也不行。"
@@ -33,7 +33,7 @@
                 "cn": "交谈1"
             },
             "text": {
-                "en": "Why would humanity grow horns and tails? This stage of biological evolution is past my parameters of understanding... I know tens of thousands of years have passed— Kal'tsit has mentioned this countless times. I will need a bit more time to formulate my deduction.",
+                "en": "Why would humanity grow horns and tails? This stage of biological evolution is past my parameters of understanding... I know tens of thousands of years have passed— Kal'tsit has mentioned this countless times. Hmm, I will need a bit more time to formulate my deduction.",
                 "jp": "なぜ人類に角と尻尾が生えているんだろう？このような生物の進化は、僕の理解を超えている……数万年の時が過ぎたのは理解しているさ、ケルシーに何度も説明されたからね。演繹に少々時間を要するだけだ。",
                 "kr": "어째서 인류에게 뿔과 꼬리가 자라난 것일까? 이런 생물적 진화는 내 인지 체계를 뛰어넘었어…… 나도 켈시가 여러 차례 설명해 줬으니, 수만 년의 시간이 지난 것쯤은 알고 있네. 단지 이해할 시간이 조금 필요할 뿐이야.",
                 "cn": "为什么人类会长出角和尾巴？这样的生物进化状态超出了我的认知体系......我知道时间已经过了数万年，凯尔希说过无数次了。我需要一点时间推演。"
@@ -65,7 +65,7 @@
                 "cn": "交谈3"
             },
             "text": {
-                "en": "Let's stop here for today, Doctor. I have to go over to Kal'tsit's office, she's probably needlessly burning the midnight oil again. Trudging on for thousands of years in service of what she feels is her mission, just to stop what exactly? It would be better to get more sleep.",
+                "en": "Let's stop here for today, Doctor. I have to go over to Kal'tsit's office. She must be needlessly burning the midnight oil again. A soul, driven by her sheer sense of mission to trudge on for tens of thousands of years, just to stop what exactly? It would be better for her to get more sleep.",
                 "jp": "本日の仕事はこれまでとしよう、ドクター。このあとケルシーの執務室へ行かないといけなくてね、また意味もなく徹夜をしているだろうから。数万年もの間、使命感に背を押されて歩き続けて来た人に、いまさら何を止められるというのだ？いっそ睡眠を取った方が有意義だ。",
                 "kr": "오늘 일은 여기까지 하도록 하지, 박사. 난 조금 있다 켈시의 사무실에도 들러야 한다네. 켈시는 분명 오늘도 의미 없이 밤을 지새우고 있겠지. 수만 년이라는 시간 동안 사명감에 등을 떠밀려 왔는데, 이제 와서 또 무얼 막을 수 있겠나? 차라리 잠이라도 일찍 자는 편이 낫겠지.",
                 "cn": "今天的工作就到此为止吧，博士。我还要去一趟凯尔希的办公室，想必她又在无谓地熬夜。一个人被使命感推着走了数万年，又能阻止什么呢？不如早点睡吧。"
@@ -81,7 +81,7 @@
                 "cn": "信赖提升后交谈1"
             },
             "text": {
-                "en": "Doctor, don't look at me the same way you do Castle-3 and the others. They are very... cute, but my robot body is just like your hood, merely... a sort of costume... a style. I know who I am, and thus you and I are alike.",
+                "en": "Doctor, don't look at me the same way you do Castle-3 and the others. They are very... cute. But my robot body is just like your hood, merely a sort of costume... a style. I know who I am, and thus you and I are more alike.",
                 "jp": "ドクター、どうか僕をキャッスル-3たちと同列に扱わないでくれよ。彼らはとても……可愛らしいけれど、僕のこのロボットの身体は君のフードと同じで、ただの様式であって、ある種の……スタイルだ。僕は自分が誰であるかは理解しているし、僕たちこそが同じなんだ。",
                 "kr": "박사, 부디 Castle-3 같은 아이들과 나를 똑같이 취급하진 말아 주게. 그 아이들은 꽤나…… 사랑스럽지만, 내 기계 몸은 자네의 후드처럼 일종의 양식이자, 일종의…… 스타일에 불과하다네. 나도 내가 누군지는 잘 알고 있네, 그리고 우리야말로 똑같다 할 수 있지.",
                 "cn": "博士，不要用看待Castle-3他们的眼光看待我。他们很......可爱，但我这副机械之躯，就像你的兜帽，只是一种仪式，一种......风格。我知道自己是谁，我们才是一样的。"
@@ -97,7 +97,7 @@
                 "cn": "信赖提升后交谈2"
             },
             "text": {
-                "en": "I'm not arrogant, but I am angry at your ignorance and lack of self-awareness, angry at your self-righteousness. Yes, I've lost all my knowledge, so you can take this anger as merely a 'result' of my 'calculations,' and a very clear result at that.",
+                "en": "I'm not arrogant, but I am angry at your ignorance and lack of self-awareness, angry at your self-righteousness, all of you. Yes, I've lost all my knowledge, so you can take this anger as merely a 'result' of my 'calculations,' and a very clear result at that.",
                 "jp": "僕は傲慢なのではない、怒っているだけだ。君たちの無知でありながら分を弁えない行いに、君たちの思い上がりに、怒っているんだ。そうさ、今の僕はもう知識を失った。だからこの怒りを「演算の結果」だと思ってくれて構わないよ、とても分かりやすい結果であろう。",
                 "kr": "나는 오만한 것이 아니라 분노하고 있을 뿐이네. 자네들의 무지함과 분수를 모르는 행동에, 자네들의 자만심에 분노하고 있는 걸세. 그래, 난 이제 지식을 잃었네. 그러니 자네도 지금 이 분노를 '연산의 결과'라고 생각해도 좋네. 참으로 이해하기 쉬운 결과일 테지.",
                 "cn": "我并非傲慢，我只是愤怒，为你们的无知却不自知，为你们的自以为是愤怒。没错，我现在已经失去了知识，你就权且将这种愤怒理解成“运算的结果”吧，这结果清晰可见。"
@@ -145,7 +145,7 @@
                 "cn": "干员报到"
             },
             "text": {
-                "en": "Hello there, I am Friston. That's right, just 'Friston,' not a 'Friston-3' or whatever. I am not a replica, and very much less a reproduction of a replica. I hope you understand.",
+                "en": "Hello there, I am Friston. That's right, just 'Friston,' not 'Friston-3' or whatever. I am not a replica, and very much less a reproduction of a replica. I hope you understand.",
                 "jp": "初めまして、僕はフリストンだ。そう、「フリストン」であって、「フリストン-3」などという名ではない。僕は誰かのコピーではないし、コピーのコピーでもない。理解してくれると助かる。",
                 "kr": "반갑네, 나는 Friston일세. 그래, 'Friston'이지, 'Friston-3' 같은 게 아니네. 난 복제품이 아닐뿐더러, 복제품의 복제품도 아니지. 부디 이해해 줬으면 좋겠군.",
                 "cn": "你好，我是Friston。没错，就是“Friston”，不是什么“Friston-3”，我不是复制品，更不是复制品的复制品，希望你能理解。"
@@ -193,7 +193,7 @@
                 "cn": "任命队长"
             },
             "text": {
-                "en": "Am I to lead everyone and find a new direction...? Alright.",
+                "en": "Am I to lead everyone and find a new direction...? Very well, I won't let them down this time.",
                 "jp": "再び皆を率いて、新しい可能性を模索しないといけないのかな？……いいさ。",
                 "kr": "다시 모두를 이끌고, 새로운 가능성을 찾아내라는 건가? ……알겠네.",
                 "cn": "我要再次带领所有人寻找新的方向吗？......好。"
@@ -257,7 +257,7 @@
                 "cn": "选中干员2"
             },
             "text": {
-                "en": "I am naturally capable of more than THRM-EX and the others. I will stand on the front lines.",
+                "en": "I am naturally capable of more than THRM-EX and the others. I will shield them on the front line.",
                 "jp": "僕は当然、サーマル-EXたちよりも多くのことを担える。だから最前線に立つよ。",
                 "kr": "당연히 THRM-EX 같은 녀석들보다 많은 걸 할 수 있지. 그러니 내가 최전선에 서겠네.",
                 "cn": "我能做的，当然比THRM-EX他们要多。我会站在最前面。"
@@ -305,7 +305,7 @@
                 "cn": "作战中1"
             },
             "text": {
-                "en": "Are you all... staring at my expression display?",
+                "en": "Are you all staring at my expression doodle?",
                 "jp": "僕の感情表示が気になっているのかな？",
                 "kr": "내 감정 도장이 신경 쓰이는 건가?",
                 "cn": "你们，是在盯着我的表情涂装看？"
@@ -321,7 +321,7 @@
                 "cn": "作战中2"
             },
             "text": {
-                "en": "I have taken photos of all your behaviors.",
+                "en": "Your behaviors have been recorded and archived.",
                 "jp": "君たちの行動は、既に撮影して記録保存した。",
                 "kr": "자네들의 행동은 촬영해서 기록으로 보존했다네.",
                 "cn": "你们的行径，我已经拍照存档。"
@@ -337,7 +337,7 @@
                 "cn": "作战中3"
             },
             "text": {
-                "en": "Take me to your leader! I want to talk!",
+                "en": "Where's your leader? I need to talk!",
                 "jp": "責任者との対話を要求する。",
                 "kr": "자네들의 책임자와 대화를 해봐야겠네!",
                 "cn": "我要和你们的负责人对话！"
@@ -353,7 +353,7 @@
                 "cn": "作战中4"
             },
             "text": {
-                "en": "Such... ugly creatures.",
+                "en": "What a disgrace... these ugly creatures.",
                 "jp": "まったく……醜い生き物だ。",
                 "kr": "정말이지…… 끔찍한 생물이로군.",
                 "cn": "真是......丑陋的生物。"
@@ -401,7 +401,7 @@
                 "cn": "非3星结束行动"
             },
             "text": {
-                "en": "An odyssey will always have nigh-avoidable accidents, even if you plan ahead, and though they may be painful to accept... what else can I possibly do but accept them?",
+                "en": "An odyssey will always have nigh-avoidable accidents, and a plan might always go wrong. They may be painful to accept... but what else can I do except accept them?",
                 "jp": "長旅にハプニングはつきものだし、計画は狂う時もあるさ。受け入れ難いことではあるけれど……受け入れるよりほか、僕に何ができる？",
                 "kr": "긴 여정에 변수는 항상 생기기 마련이고, 계획이 틀어지는 것도 흔한 일이지. 받아들이기 힘든 일이지만…… 받아들이는 것 외에, 내가 뭘 할 수 있겠나?",
                 "cn": "远行总有变故，计划也难免出差错，虽然很难接受......但除了接受，我还能做什么呢？"
@@ -417,7 +417,7 @@
                 "cn": "行动失败"
             },
             "text": {
-                "en": "If the worst possible outcome isn't as bad as turning into something like me, then there is nothing to be afraid of. Doctor, you should evacuate first, and leave the rest to me.",
+                "en": "If the worst possible outcome is turning into something like me, then there is nothing to be afraid of. Doctor, you should evacuate first, and leave the rest to me.",
                 "jp": "最悪な場合でも、今の僕のような有様になるだけというなら、恐れることはない。ドクター、先に撤退してくれ、残りは僕が引き受ける。",
                 "kr": "최악의 경우가 그저 나처럼 되는 것뿐이라면 두려워할 필요 없네. 박사, 나머지는 내게 맡기고 자네는 일단 후퇴하게.",
                 "cn": "如果最坏的可能性，也不过是变成我这样，那倒是没什么可怕的。博士，你先撤离，剩下的交给我。"
@@ -449,7 +449,7 @@
                 "cn": "戳一下"
             },
             "text": {
-                "en": "You should have observed the 'anger' expression on my display.",
+                "en": "You should have observed my expression doodle. Currently, it's 'anger'.",
                 "jp": "見えていると思うけれど、僕の感情表示は「怒り」になっている。",
                 "kr": "자네가 본 대로, 지금 내 표정이 뜻하는 건 '분노'일세.",
                 "cn": "你应该看到了，我的表情涂装是“生气”。"
@@ -465,7 +465,7 @@
                 "cn": "信赖触摸"
             },
             "text": {
-                "en": "I've taken a photo of you, Doctor. You want to see it? Sorry, but I've already saved it to my archives.",
+                "en": "I've taken a photo of you, Doctor. You want to see it? Sorry, I've already saved it to my archives.",
                 "jp": "……君の写真を撮ったよ、ドクター。見てみたいのかい？すまないね、もう印刷してコレクションにしたよ。",
                 "kr": "……자네 사진을 한 장 찍었다네, 박사. 보고 싶은가? 미안하군, 이미 인쇄하고 저장까지 했다네.",
                 "cn": "......刚刚为你拍了张照片，博士。你想看看？对不起，我已经打印存档了。"
@@ -497,7 +497,7 @@
                 "cn": "问候"
             },
             "text": {
-                "en": "Hello, Doctor.",
+                "en": "How do you do, Docor?",
                 "jp": "やあ、ドクター。",
                 "kr": "안녕하신가, 박사.",
                 "cn": "你好，博士。"

@@ -17,7 +17,7 @@
                 "cn": "任命助理"
             },
             "text": {
-                "en": "Dr. {@nickname}, please sit. I'm just here to check up on your body's state, so don't be so stiff. If there are any irregularities, please tell me in full. Meaning? We'll set aside what it means to Rhodes Island for now. To me, the meaning it holds is quite significant.",
+                "en": "Doctor, please sit. I'm just here to give you a physical examination, so relax. If there are any irregularities, please tell me in full. Meaning? We'll set aside what it means to Rhodes Island for now. To me, the meaning it holds is quite significant.",
                 "jp": "ドクター、かけてくれ。ただの回診だから、そう固くなるな。もし身体に何か違和感があれば、ありのままを教えてくれ。意味、か。ロドスにとっての意味はともかく、少なくとも私にとってはかなり重要な意味を持つことだ。",
                 "kr": "박사, 앉아. 그냥 평범한 회진이니까 너무 긴장하지 말고. 만약 몸에 뭔가 이상한 점이 느껴지면 있는 그대로 말해 줘. 이런 게 다 무슨 의미냐고? 로도스 아일랜드가 갖는 의미야 둘째치더라도, 적어도 나에겐 꽤 중요한 의미가 있어.",
                 "cn": "Dr.{@nickname}，请坐。别紧张，我只是来查看你的身体状况。如果有任何异常，请务必详实报告给我。有什么意义？对罗德岛暂且不提，对我，则是有着相当重要的意义。"
@@ -33,7 +33,7 @@
                 "cn": "交谈1"
             },
             "text": {
-                "en": "I will conduct scientific examinations on you at regular intervals, recording your vital signs and state of consciousness. Others do not have this authority. If anyone wishes to conduct an examination on you, you have the right to refuse. Do you understand?",
+                "en": "I will conduct scientific examinations on you at regular intervals, recording your vital signs and state of consciousness. No other personnel have this authority. If anyone wishes to conduct an examination on you, you have the right to refuse. Do you understand?",
                 "jp": "君には私自ら定期的に理学的検査を実施し、バイタルサインと意識状態の記録を行う。そして、私以外の者にこの権限はない。つまり、他の誰かが踏み込んだ検査をしようとした場合、君には拒否権がある。わかったな？",
                 "kr": "너는 내가 직접 정기적으로 이학적 검사를 실시하고 바이탈 사인과 의식 상태를 기록하겠다. 그리고, 나 말고 다른 사람한텐 이럴 수 있는 권한이 없어. 그러니까, 다른 누군가가 필요 이상으로 검사를 하려고 들면, 너한텐 거부권이 있다는 소리야. 알아들었지?",
                 "cn": "我会定期为你进行理学检查，记录你的生命征象与意识状态，其他人没有这个权限。任何人想对你进行进一步的检查，你都有权拒绝，明白吗？"
@@ -49,7 +49,7 @@
                 "cn": "交谈2"
             },
             "text": {
-                "en": "The core department of Rhodes Island is the Medical Department. Theoretical research and practical aid both require medical talent, and the need for medical staff on field missions is always growing. Please remember that in the time to come, you will need to recruit ever more Medic Operators.",
+                "en": "Medical is the core Department of Rhodes Island. Theoretical research and practical treatment both require medical talent, and the need for medical staff on field missions is always growing. Please remember that in the time to come, you will need to recruit ever more Medic Operators.",
                 "jp": "医療部門こそロドスの中核だ。理論研究と臨床実践のどちらにも医学従事者が必要となるし、外勤任務に要する医療人員も日々増えている。つまり、これからはより多くの医療オペレーターを集める必要があるということを、覚えておいてくれ。",
                 "kr": "의료 부문이야말로 로도스 아일랜드의 중심이지. 이론 연구든 임상 실험이든 의료 종사자가 필요하고 외근 임무에 필요한 의료 인원도 하루가 멀다 하고 늘어나고 있어. 그러니 기억해둬, 앞으로는 더 많은 메딕 오퍼레이터를 모아야 한다는 걸.",
                 "cn": "罗德岛的核心部门是医疗部门，理论研究与实践救治都需要医学人才，外勤行动所需的医护人员也在不断增加，请记住，之后的时间里，你需要招募更多的医疗干员。"
@@ -81,7 +81,7 @@
                 "cn": "晋升后交谈1"
             },
             "text": {
-                "en": "Amiya has left to eat with the young Operators. She is a child too, and you should accompany her well. The earth has no mercy on the basis of age, but children will always be our unvarying hope. I very much admire this notion of... a certain someone's.",
+                "en": "Amiya has left to eat with the young Operators. She is a child too, and you should accompany her well. These lands has no mercy on the basis of age, but children will always be our unvarying hope. I very much admire this notion of... a certain someone's.",
                 "jp": "アーミヤなら若いオペレーターたちとの会食に向かったよ。彼女はまだ子供だ、君も彼女との時間を大事にしてあげてほしい。「大地は年齢を理由に慈しみを与えることはないが、子供が我々の希望であることは不変である」。私も気に入っているんだ……あの人のこの考えがな。",
                 "kr": "아미야라면 젊은 오퍼레이터들이랑 회식하러 갔어. 아미야는 아직 어린애야. 너도 아미야랑 보내는 시간을 소중히 여겨줬으면 해. “대지는 나이를 이유로 자애를 베풀지는 않지만, 아이가 우리의 희망이라는 점은 변함이 없다”…… 나도 마음에 들거든…… 그 사람의 이런 생각이 말이야.",
                 "cn": "阿米娅去参加年轻干员们的聚餐了，她也是个孩子，你也该多陪陪她。大地不因年龄而仁慈半点，但孩子总是我们不变的希望，我很欣赏......某人的这个想法。"
@@ -97,7 +97,7 @@
                 "cn": "晋升后交谈2"
             },
             "text": {
-                "en": "Doctor, do you ever doubt the meaning in your own existence? I do. Life upon the earth is duly tenacious, evolving to have its own place, nurtured tameness and confrontation often being futile. Doctor, where can we return to? It is only in my power to persevere until you may find an answer.",
+                "en": "Doctor, do you ever doubt the meaning in your own existence? I do. Life upon these lands is tremendously tenacious. It evolves to suit a unique niche, often finding nurtured tameness and confrontation futile. What is our destination, Doctor? I believe you will find an answer. I can only persevere in that belief.",
                 "jp": "ドクター、君は己の存在意義を疑うことはあるか？私はある。大地に芽吹いた命はどれも強く、進化と共にその土台を確立していくが、後天的な馴化や抵抗はどれも往々にして徒労に終わる。ドクター、我々の還る場所はどこにあるのだろうか？君になら答えが見つかる――私にはそう願い続けることしかできない。",
                 "kr": "박사, 너는 자신의 존재 의의를 의심해 본 적이 있나? 나는 있어. 대지에 싹튼 생명은 전부 강하고, 진화와 함께 그 토대를 확립해 가지만, 후천적인 순화나 저항은 둘 다 으레 헛수고로 끝나지. 박사, 우리가 돌아갈 곳은 어디일까? 너라면 답을 찾을 수 있을 거다…… 난 그렇게 계속 바랄 수밖에 없어.",
                 "cn": "你会质疑自己存在的意义吗，博士？我会。大地上的生命十分顽强，它们在演化有着自己的位置，后天的驯化与对抗往往只是徒劳。我们的归宿会在何方，博士？你会有自己的答案，我只能这样坚持。"
@@ -113,7 +113,7 @@
                 "cn": "信赖提升后交谈1"
             },
             "text": {
-                "en": "Don't spare too much worry for me. Rhodes Island shouldn't be so fragile that one person's departure would leave it unable to proceed on. What? No, it's only a slightly hyperbolic supposition. No matter what, I thank you for your concern, Doctor. But more than myself, I am concerned for you.",
+                "en": "Don't spare too much worry for me. Rhodes Island shouldn't be so fragile that one person's departure would leave it unable to proceed on. What is it? No, it's only a slightly hyperbolic supposition. No matter what, I thank you for your concern, Doctor. But more than myself, I am concerned for you.",
                 "jp": "私のことならあまり気にかけなくていい。どのみちロドスは、誰かが欠けた程度で止まるほど弱くあるべきではないのだから。なんだ？いや、少し大げさだったかもしれないが、あくまで例えさ。なにはともあれ、君の気持ちには感謝している、ドクター。だが私は自分よりも、君のことが気がかりなんだ。",
                 "kr": "로도스 아일랜드는 누구 하나 빠진다고 멈춰서는 안 되니까, 나에 관한 거는 너무 신경 쓰지 말도록 해. 왜? 아니야, 조금 호들갑을 떤 것 같지만 그냥 말이 그렇다는 거다. 어찌 되었든, 네 마음에 대해선 감사하고 있어, 박사. 하지만, 나는 나보다 네가 더 걱정돼.",
                 "cn": "不用太担心我的事情，罗德岛不应当脆弱到离开了某人就无法前行。嗯？只是个稍显偏激的例子而已。不管怎么说，感谢你的关心，博士。比起我自己，我更关心你。"
@@ -129,7 +129,7 @@
                 "cn": "信赖提升后交谈2"
             },
             "text": {
-                "en": "The path along which Amiya grew into Rhodes Island's leader was considerably troubled, and the sacrifices we've experienced bear testimony to that. From the faintest glimpse you caught in that stretch of the past, you may gradually come to understand the meaning of it all. You can make your own choices... someone once told me that.",
+                "en": "The path along which Amiya grew into Rhodes Island's leader was considerably troubled, and the sacrifices we've made bear testimony to that. From the faintest glimpse you caught in that stretch of the past, you may gradually come to understand the meaning of it all. You can make your own choices, Doctor... someone once told me that.",
                 "jp": "アーミヤがロドスの統率者に成長するのは、決して容易なことではない。我々が払ってきた犠牲は、どれもその証明だ。あの過去の一端を垣間見た以上、君もその全ての意味を少しずつ理解していくことだろう。そして、君は自分の選択をするはずだ……ある人がそう私に言ったんだ。",
                 "kr": "아미야가 로도스 아일랜드의 통솔자로 성장하는 건 결코 쉬운 일이 아니다. 우리가 치러 온 희생이 전부 다 그 증거지. 그 과거의 단편을 엿본 이상, 너도 그 모든 것의 의미를 조금씩 이해하게 되겠지. 그리고, 너는 자신의 선택을 할 거다…… 어떤 사람이 나한테 그렇게 말해줬거든.",
                 "cn": "阿米娅成长为罗德岛的领袖的路途十分坎坷，我们所经历的牺牲都是证明。那段过去，你已经窥见了一丝半点，你会慢慢理解这一切的意义。你会做出自己的选择......有人这么对我说过。"
@@ -145,7 +145,7 @@
                 "cn": "信赖提升后交谈3"
             },
             "text": {
-                "en": "My wish? It is to protect your and Amiya's wishes, Doctor; I will never abandon an oath I have sworn. Though our definitions of 'protect' have nothing in common with each other, I will be standing here, until the very end. We are unable to forget the past, but a different future may await you.",
+                "en": "My hope? It is to protect yours and Amiya's hopes, Doctor. Though our definitions of 'protect' have nothing in common, it's an oath I will never abandon. I will be standing here with you, until the very end. We are unable to forget the past, but a different future may await you.",
                 "jp": "私の願い？それは、君とアーミヤの願いを守ることだ。自らの誓いに背くようなことはしないさ。「守る」の定義の違いこそあれ、私は最後までここに立ち続けるつもりだ。我々に過去を忘却することはできないが、君にはまた違った未来が待っているはずだ。",
                 "kr": "내 소원? 그건 너와 아미야의 소원을 지키는 거다. 내 맹세를 저버리는 일은 하지 않아. '지킨다'는 말을 어떻게 정의할지는 각자 다르겠지만, 나는 마지막까지 여기에 있을 거다. 우리는 과거를 망각할 수는 없지만, 네게는 또 다른 미래가 기다리고 있을 거야.",
                 "cn": "我的愿望？我的愿望就是守护好你和阿米娅的愿望，博士，我立下的誓言我永远不会背弃。尽管我们对守护的定义各不相同，但我会站在这里，直到最后。我们无法忘怀过去，但你会有不一样的未来。"
@@ -177,7 +177,7 @@
                 "cn": "干员报到"
             },
             "text": {
-                "en": "Doctor, my appearance here indicates that the situation has turned for the worse. You must concentrate... on continuing to accomplish your mission.",
+                "en": "Doctor, my appearance here indicates that the situation has turned for the worse. You must <i>concentrate</i> on continuing to accomplish your mission.",
                 "jp": "私がここに現れるということは、つまり事態が切迫しているということだ。これからも引き続き、使命を果たせるように精励してほしい。",
                 "kr": "내가 여기 나타났다는 건, 요컨대 사태가 절박해졌다는 뜻이다. 앞으로도 계속 사명을 다할 수 있도록 정진하길 바라지.",
                 "cn": "博士，我出现在这里，说明局势不容乐观。你需要专心......继续完成你的使命。"
@@ -209,7 +209,7 @@
                 "cn": "精英化晋升1"
             },
             "text": {
-                "en": "The stronger, the more fragile. That is the principle of all living things.",
+                "en": "With strength comes fragility. Such is the principle of all living things.",
                 "jp": "強くなればなるほど、同時に脆さをも内包してしまう。それが万物の理なのだ。",
                 "kr": "강해지면 강해질수록 동시에 물러져 버리게 되지. 그게 만물의 이치야.",
                 "cn": "越是强大越是脆弱，这就是万物的道理。"
@@ -241,7 +241,7 @@
                 "cn": "编入队伍"
             },
             "text": {
-                "en": "I will see you all through.",
+                "en": "I will see to them.",
                 "jp": "皆の行動に気を配っておく。",
                 "kr": "모두의 행동에 신경 써두도록 하지.",
                 "cn": "我会看好他们。"
@@ -289,7 +289,7 @@
                 "cn": "行动开始"
             },
             "text": {
-                "en": "Are combat plans ready? Everyone, interception formation.",
+                "en": "You know the plan. Move to intercept.",
                 "jp": "作戦の準備はできたか？各位、迎撃体制。",
                 "kr": "작전 준비는 끝났나? 전원, 전투 태세로.",
                 "cn": "准备好作战计划了吗？迎敌。"
@@ -305,7 +305,7 @@
                 "cn": "选中干员1"
             },
             "text": {
-                "en": "What's the situation?",
+                "en": "Situation?",
                 "jp": "状況は？",
                 "kr": "상황은?",
                 "cn": "情况如何？"
@@ -321,7 +321,7 @@
                 "cn": "选中干员2"
             },
             "text": {
-                "en": "Have your deployment optimally worked out.",
+                "en": "Optimize your deployment.",
                 "jp": "最適な布陣を考えてくれ。",
                 "kr": "최적의 포진을 생각해 줘.",
                 "cn": "计算好你的布防配置。"
@@ -337,7 +337,7 @@
                 "cn": "部署1"
             },
             "text": {
-                "en": "At designated position.",
+                "en": "Arrived at designated position.",
                 "jp": "指定の座標に到着。",
                 "kr": "지정된 좌표에 도착했다.",
                 "cn": "到达指定位置了。"
@@ -385,7 +385,7 @@
                 "cn": "作战中2"
             },
             "text": {
-                "en": "Carry out your mission.",
+                "en": "Peform your task.",
                 "jp": "役目を果たせ。",
                 "kr": "역할을 다해라.",
                 "cn": "执行你的任务。"
@@ -417,7 +417,7 @@
                 "cn": "作战中4"
             },
             "text": {
-                "en": "What?",
+                "en": "Go ahead.",
                 "jp": "どうした？",
                 "kr": "무슨 일이지?",
                 "cn": "怎么？"
@@ -433,7 +433,7 @@
                 "cn": "完成高难行动"
             },
             "text": {
-                "en": "Ensure video records of this battle are processed for database storage purposes.",
+                "en": "Make sure a video record of this battle is properly cataloged.",
                 "jp": "今作戦の映像記録は、分析ののちデータベースに保存するように。",
                 "kr": "이번 작전의 영상 기록은 분석한 다음 데이터베이스에 보존하도록.",
                 "cn": "整理好这次作战的录像记录，储存进档案库中。"
@@ -449,7 +449,7 @@
                 "cn": "3星结束行动"
             },
             "text": {
-                "en": "Mon3tr, collect my necessary tissue samples.",
+                "en": "Mon3tr, collect tissue samples.",
                 "jp": "Mon3tr、必要な組織サンプルの採取を開始しろ。",
                 "kr": "Mon3tr, 필요한 조직 샘플 채취를 시작해.",
                 "cn": "Mon3tr，采集好我需要的组织样本。"
@@ -465,7 +465,7 @@
                 "cn": "非3星结束行动"
             },
             "text": {
-                "en": "Assess the danger factor of those fleeing, as well as the possibility of a reprise attack from enemy forces.",
+                "en": "Assess the risk coefficient of those fleeing, as well as the possibility of a reprisal attack by enemy forces.",
                 "jp": "取り逃がした者たちの危険指数、及び再襲撃の可能性を急ぎ試算すること。",
                 "kr": "놓친 자들의 위험 지수 그리고 재습격의 가능성을 서둘러 계산하도록.",
                 "cn": "评估一下逃亡人员的危险系数，以及敌军再突袭的可能性。"
@@ -497,7 +497,7 @@
                 "cn": "进驻设施"
             },
             "text": {
-                "en": "How has the infrastructure here been coming along?",
+                "en": "How is the infrastructure project here developing?",
                 "jp": "こちらのインフラ設備の構築は進んでいるか？",
                 "kr": "이쪽의 인프라 설비 구축은 잘되고 있나?",
                 "cn": "这里的基础设施完成得怎么样了？"

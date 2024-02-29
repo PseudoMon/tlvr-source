@@ -33,7 +33,7 @@
                 "cn": "交谈1"
             },
             "text": {
-                "en": "You can't go out without permission? What? Aren't you the one in charge? Screw the rules, let's just get out.",
+                "en": "You can't go out without permission? Что? Aren't you the one in charge? Screw the rules, let's just get out.",
                 "jp": "勝手に動き回るなって？責任者は誰だ？オマエか？それともアイツらか？めんどくせえ、とりあえず一緒に出かけるぞ。",
                 "kr": "멋대로 돌아다니지 말라고? 여기 책임자 누구야? 너냐? 아니면 저놈들? 귀찮구만, 일단 다 따라 나와.",
                 "cn": "未经许可你就不能外出走动？这里是谁管事啊，不是你吗？真麻烦，总之快跟我一起出门走走。"
@@ -49,7 +49,7 @@
                 "cn": "交谈2"
             },
             "text": {
-                "en": "You said something? My headphone was on.",
+                "en": "You said something? My headphones were on.",
                 "jp": "何か言ったか？イヤホンしてて聞こえなかった。",
                 "kr": "방금 무슨 말 했어? 이어폰 꽂고 있어서 안 들렸는데.",
                 "cn": "你刚才有话要说吗？我戴着耳机没听见。"
@@ -65,7 +65,7 @@
                 "cn": "交谈3"
             },
             "text": {
-                "en": "The leader of Rhodes Island looks younger than even Istina. How can you let a kid like that go to battle? Huh?",
+                "en": "The leader of Rhodes Island looks younger than even Istina. How can you let a kid like that go to battle?!",
                 "jp": "ロドスのトップはイースチナよりも若いじゃねえか。どうしてあんな子供を戦わせるんだ？あ？",
                 "kr": "로도스 아일랜드의 수장은 이스티나보다도 어리잖아. 저렇게나 어린애를 왜 싸움에 내보내는 거야? 어?",
                 "cn": "罗德岛的首领看起来比真理年纪还小吧，你怎么能让那样的孩子上战场？嗯？"
@@ -97,7 +97,7 @@
                 "cn": "晋升后交谈2"
             },
             "text": {
-                "en": "Every soldier wants to be the general. And I trust you have no opinion on me taking your position?",
+                "en": "Every soldier wants to be the general. And I trust you have no opinion on me taking your position someday?",
                 "jp": "トップに立つのは全兵士の目標だ。オマエの座だってぶん取りたいと思ってる。悪いか？",
                 "kr": "정점에 서는 건 모든 병사들의 목표지. 그래서 네 자리도 확 뺏어버릴까 생각하고 있다. 왜 뭐, 꼽냐?",
                 "cn": "所有的士兵都想当上将军，那么，我想取代你好像也没什么问题吧？"
@@ -129,7 +129,7 @@
                 "cn": "信赖提升后交谈2"
             },
             "text": {
-                "en": "I found Istina and her gang along my travels. There are quiet a few of them. Where are the others, you ask? I dealt with them. Had no choice, they refused to behave themselves.",
+                "en": "I found Istina and the girls out there in the field. We used to have a bunch more, too. What happened to them…? I dealt with 'em. Had no choice, they wouldn't play nice.",
                 "jp": "イースチナ達は旅の途中で拾った。ほかの奴もいたけど……処分した。大人しくしてろって言っても聞かなかったからな。",
                 "kr": "이스티나 쪽 애들은 도중에 만난 녀석들이야. 다른 녀석들도 있었지만…… 처분해 버렸지. 얌전히 있으라고 해도 영 말을 안 듣더라고.",
                 "cn": "真理她们是我在路上捡到的，不过一开始可不只有她们几个人。你问其他人在哪？哦......收拾掉了，因为那些家伙，不怎么老实。"
@@ -177,7 +177,7 @@
                 "cn": "干员报到"
             },
             "text": {
-                "en": "I'm Zima, leader of the Ursus Student Self-Governing Group. I can make do without one, but my comrades need a place to call home. Let's cut the crap, gimme a job to do. I know lodging here ain't free.",
+                "en": "I'm Zima, leader of the Ursus Student Self-governing Group. I can make do without one, but my comrades need a place to call home. Let's cut the crap, gimme a job to do. I know lodging here ain't free.",
                 "jp": "ズィマー、ウルサス学生自治団の団長だ。アタシは別にどうでもいいが、仲間達には居場所が要る。いいから何か仕事をくれ。ここで暮らすのもタダじゃねえってことくらいわかってる。",
                 "kr": "우르수스 학생자치단의 단장, 지마다. 난 딱히 상관없긴 한데, 우리 쪽 애들한텐 머물 곳이 필요해서 말이야. 뭐든 좋으니까 일거리나 좀 줘봐. 여기서 지내는 것도 공짠 아니라는 것 정돈 알고 있으니까.",
                 "cn": "凛冬，乌萨斯学生自治团团长。我自己怎么样无所谓，但现在我的同伴需要一个安身之处。好了，快给我安排些工作，我知道在这里生活不是免费的。"
@@ -209,7 +209,7 @@
                 "cn": "精英化晋升1"
             },
             "text": {
-                "en": "A promotion? Cool. So I'll keep getting promoted if I keep doing a good job knocking heads, yeah?",
+                "en": "A promotion? Cool! So I'll keep getting promoted if I keep doing a good job knocking heads, yeah?",
                 "jp": "昇進？おもしれえ。戦果をあげ続けりゃ、もっと上にいける。だろ？",
                 "kr": "승진? 그거 솔깃한데. 성과를 계속 내면 더 올라갈 수 있단 얘기잖아?",
                 "cn": "晋升？有趣，也就是说只要一直取得战功，就能不断晋升下去，对吧？"
@@ -273,7 +273,7 @@
                 "cn": "行动出发"
             },
             "text": {
-                "en": "Let's go.",
+                "en": "Time to go.",
                 "jp": "出る。",
                 "kr": "나간다.",
                 "cn": "走了。"
@@ -289,7 +289,7 @@
                 "cn": "行动开始"
             },
             "text": {
-                "en": "Time to throw a fight.",
+                "en": "Roll out.",
                 "jp": "行くぞ。",
                 "kr": "가자.",
                 "cn": "上。"
@@ -305,7 +305,7 @@
                 "cn": "选中干员1"
             },
             "text": {
-                "en": "Who else can it be?",
+                "en": "Duh, it's me!",
                 "jp": "とーぜん、アタシだろ！",
                 "kr": "당연히 나겠지!",
                 "cn": "当然，是我！"
@@ -321,7 +321,7 @@
                 "cn": "选中干员2"
             },
             "text": {
-                "en": "I'm heading into the thick of it!",
+                "en": "I'm heading into the thick of it.",
                 "jp": "やってやるってんだ。",
                 "kr": "내가 싹 다 발라줄게.",
                 "cn": "我要去战斗。"
@@ -353,7 +353,7 @@
                 "cn": "部署2"
             },
             "text": {
-                "en": "Hah!",
+                "en": "Hah.",
                 "jp": "ふん。",
                 "kr": "흥.",
                 "cn": "哼。"
@@ -369,7 +369,7 @@
                 "cn": "作战中1"
             },
             "text": {
-                "en": "The hell are you afraid of?!",
+                "en": "What're you scared of?!",
                 "jp": "ビビってんじゃねえ！",
                 "kr": "쫄지 말고 싸워!",
                 "cn": "怕什么！"
@@ -433,7 +433,7 @@
                 "cn": "完成高难行动"
             },
             "text": {
-                "en": "Who else has a death wish? No line over here!",
+                "en": "Who else has a death wish? Happy to help!",
                 "jp": "もう死にてぇ奴はいねぇのか！マッハであの世に送ってやる！",
                 "kr": "뒤지고 싶으면 빨리 튀어나와! 순식간에 골로 보내줄 테니까!",
                 "cn": "急着送命就来找我，我这里不需要排队。"
@@ -449,7 +449,7 @@
                 "cn": "3星结束行动"
             },
             "text": {
-                "en": "Not bad. A decent victory.",
+                "en": "Not bad. A solid win.",
                 "jp": "悪くねえ結果だな。",
                 "kr": "나쁘지 않은 결과네.",
                 "cn": "不错的战果。"
@@ -481,7 +481,7 @@
                 "cn": "行动失败"
             },
             "text": {
-                "en": "Man, you guys suck. Get lost!",
+                "en": "Man, you suck. Get lost!",
                 "jp": "情けねえ奴だ。さっさと消えろ！",
                 "kr": "한심한 녀석이구만. 빨리 꺼져!",
                 "cn": "丢人，你马上给我退出战场！"
@@ -513,7 +513,7 @@
                 "cn": "戳一下"
             },
             "text": {
-                "en": "Hmm?",
+                "en": "Huh?",
                 "jp": "ん？",
                 "kr": "응?",
                 "cn": "嗯？"

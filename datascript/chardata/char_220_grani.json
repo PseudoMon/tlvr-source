@@ -17,7 +17,7 @@
                 "cn": "任命助理"
             },
             "text": {
-                "en": "Reporting in, Dr. {@nickname}! Patrol completed. Nothing out of the ordinary!",
+                "en": "Reporting in, Doctor! Patrol completed. Nothing out of the ordinary!",
                 "jp": "ドクターに報告！巡回完了、異常なし！",
                 "kr": "{@nickname} 박사에게 보고! 순찰 완료! 이상 무!",
                 "cn": "报告Dr.{@nickname}！巡查完毕，没有异常！"
@@ -65,7 +65,7 @@
                 "cn": "交谈3"
             },
             "text": {
-                "en": "Dr. {@nickname}, I might not make it to training on Wednesdays or Fridays... Right, I need to be out there helping the civil corps to keep the peace and catch the bad guys! Wh-what? I have an important mission on Friday?!",
+                "en": "Doctor, I might not make it to training on Wednesdays or Fridays... Right, I need to be out there helping the civil corps to keep the peace and catch the bad guys! Wh-waht? I have an important mission on Friday?!",
                 "jp": "ドクター、あたし、水曜日と金曜日の夜の定期訓練には参加できないかも……そう、民間組織の治安維持と犯罪の取締を手伝うんだよ！え？緊急任務が入るから金曜日は参加必須？",
                 "kr": "{@nickname}, 나 수요일이랑 금요일 밤에 정기훈련 참가 못 할 거 같아… 응, 민간조직에서 치안 유지하는 거랑 범죄 단속하는 거 도우러 가거든! 뭐? 긴급 임무가 있으니까 금요일엔 반드시 참가해야 한다고?",
                 "cn": "{@nickname}，星期三和星期五晚上的常规训练我也许不能参加......嗯，这两天我会帮助民间组织维护治安、打击犯罪！唉？星期五因为有紧急任务，所以不行吗！"
@@ -97,7 +97,7 @@
                 "cn": "晋升后交谈2"
             },
             "text": {
-                "en": "Time flies, Dr. {@nickname}. We've been working together so long. I will never forget anything we've been through. But we can't stop now! We have to keep striving for that bright future, don't we?",
+                "en": "Time flies, Dcotor. We've been working together so long. I will never forget anything we've been through. But we can't stop now! We have to keep striving for that bright future, don't we?",
                 "jp": "いつの間にか、ドクターとこんなに長い時間を過ごしてきたんだね。一緒に戦ってきたこと、あたしは絶対に忘れない。でも、まだここで立ち止まったらダメだよ！あたしたちにはもっと晴々しい未来が待ってるんだ！そうでしょ？",
                 "kr": "언제부턴가, 박사랑 이렇게나 긴 시간을 지내왔구나. 함께 싸운 거, 난 절대 잊지 않을 거야. 그래도, 아직 여기에 멈춰있으면 안 돼! 우리한텐 더 밝은 미래가 기다리고 있으니까! 안 그래?",
                 "cn": "不知不觉中，已经和你共度了这么长的时光呢。{@nickname}，一起经历过的那些战斗，我一点都不会忘记。但停在这里可不行！我们的未来可是更加广阔的，对吗？"
@@ -113,7 +113,7 @@
                 "cn": "信赖提升后交谈1"
             },
             "text": {
-                "en": "I just bumped into Skadi in the hallway... Dr. {@nickname}, you think she's cold and distant, don't you? She's actually very kind. Really!",
+                "en": "I just bumped into Skadi in the hallway... Doctor, you think she's cold and distant, don't you? She's actually very kind. Really!",
                 "jp": "さっき通路でスカジに会ったよ……ドクター、彼女のことを冷たい人だと思ったりしてない？本当はとても優しい人だよ、本当！",
                 "kr": "아까 통로에서 스카디랑 마주쳤어… 박사는 스카디가 차가운 사람인 줄 알지? 사실은 되게 상냥한 사람이야, 진짜로!",
                 "cn": "刚才我在走廊上碰见了斯卡蒂......{@nickname}是不是觉得她平常对人很冷淡？其实她是个很善良的人哦，真的！"
@@ -145,7 +145,7 @@
                 "cn": "信赖提升后交谈3"
             },
             "text": {
-                "en": "Dr. {@nickname}, you always worry so much about your people, but you never remember to take care of yourself. You can't do that! No matter what dangers you may face, I promise I'll be there to hold your hand! Definitely, you have my word!",
+                "en": "Doctor, you always worry so much about your people, but you never remember to take care of yourself. You can't do that! No matter what dangers you may face, I promise I'll be there to hold your hand! Definitely, you have my word!",
                 "jp": "ドクターはいつもみんなのことばかり考えて、自分の安全をすぐ忘れちゃうよね。そんなのダメだよ！これからどんな危険が待っていても、あたしがちゃんと手を握っててあげるから！いい？約束だよ！",
                 "kr": "{@nickname} 박사는 늘 다른 사람들만 생각해서, 자기 자신의 안전에도 신경 써야 한다는 걸 자주 깜빡하는데, 그러면 안 돼! 앞으로 어떤 위험이 기다릴지라도 내가 손을 꽉 잡아줄 테니까! 알았지? 약속이야!",
                 "cn": "{@nickname}始终在为大家着想，却从来没有顾及过自己的安全，这可不对！无论你今后遇到什么样的危险，我可都会拉住你的手的！嗯嗯，就这样约好了！"
@@ -161,7 +161,7 @@
                 "cn": "闲置"
             },
             "text": {
-                "en": "Hmm? Why do you smell so good, Dr. {@nickname}? You're definitely hiding something tasty, aren't you?!",
+                "en": "Hmm? Why do you smell so good, Doctor? You're definitely hiding something tasty, aren't you?!",
                 "jp": "むむ、なんかドクターからすごーく美味しそうな匂いがするよ？さては何か隠してるんだね？そうでしょ！",
                 "kr": "음? 왠지 {@nickname} 박사한테서 굉~장히 맛있는 냄새가 나는데? 그렇다면… 뭔가 숨기고 있단 얘기겠지? 그렇지?!",
                 "cn": "唔唔，为什么{@nickname}身上会飘出这么香的味道？你一定藏了什么好吃的，对不对！"
@@ -209,7 +209,7 @@
                 "cn": "精英化晋升1"
             },
             "text": {
-                "en": "An elite promotion medal? For me? Thank you, Dr. {@nickname}! I'll hang it up with my police medal!",
+                "en": "An elite promotion medal? For me? Thank you, Doctor! I'll hang it up with my police medal!",
                 "jp": "昇進のエリートメダル？これをあたしに？サンキュードクター！警官勲章と一緒に付けるよ！",
                 "kr": "승진의 정예 메달? 이걸 나한테? 땡큐~ {@nickname} 박사! 경관 훈장이랑 같이 걸어둘게!",
                 "cn": "晋升勋章？给我的吗？谢谢{@nickname}！我会把它和骑警勋章挂在一起的！"
@@ -465,7 +465,7 @@
                 "cn": "非3星结束行动"
             },
             "text": {
-                "en": "Dr. {@nickname}, please stay close to me. There may still be some enemies around.",
+                "en": "Doctor, please stay close to me. There may still be some enemies around.",
                 "jp": "ドクター、まだあたしから離れないで。逃した敵がいるかもしれないから。",
                 "kr": "{@nickname} 박사, 아직 나한테서 떨어지지 마. 도망친 적이 있을지도 모르니까.",
                 "cn": "{@nickname}，请不要离我太远，也许还有漏网的敌人。"
@@ -529,7 +529,7 @@
                 "cn": "信赖触摸"
             },
             "text": {
-                "en": "If we get the chance, I hope we can see the world together, Dr. {@nickname}.",
+                "en": "If we get the chance, I hope we can see the world together, Doctor.",
                 "jp": "いつか機会があれば、ドクターと一緒に世界中を回ってみたいな。",
                 "kr": "언젠가 기회가 되면, {@nickname} 박사랑 같이 이 세계를 돌아다녀 보고 싶어.",
                 "cn": "如果有机会，我想和{@nickname}一起去看一看这个世界。"
