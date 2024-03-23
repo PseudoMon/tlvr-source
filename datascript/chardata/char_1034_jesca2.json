@@ -1,0 +1,596 @@
+{
+    "charid": "char_1034_jesca2",
+    "nameid": "jesca2",
+    "names": {
+        "en": "Jessica the Liberated",
+        "jp": "滌火ジェシカ",
+        "kr": "제시카 더 리버레이티드",
+        "cn": "涤火杰西卡"
+    },
+    "voices": [
+        {
+            "id": "char_1034_jesca2_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "While you were out, I tried to sort the documents on your desk for you... It shames me to admit it, but... I haven't made much progress when it comes to desk work.",
+                "jp": "ドクターのご不在時に、デスクにある書類のお片付けをやってみたんですが……恥ずかしながら、こういう仕事はちっとも上達していないみたいです。",
+                "kr": "박사님께서 자리에 안 계실 때, 책상 위의 문서를 정리해 보려고 했는데요…… 말씀드리기 부끄럽지만, 이런 일들은 어찌해도 늘지 않은 것 같네요.",
+                "cn": "您不在的时候，我试着为您整理了桌子上的文件......说起来很难为情，我才发现，在处理这种工作上，我还是没什么长进。"
+            },
+            "asset": "char_1034_jesca2/CN_001"
+        },
+        {
+            "id": "char_1034_jesca2_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "I ran into Franka and Liskarm on my way to the dorms. Even though I hadn't seen them in so long, we talked like we were never apart... Um, Doctor, do you think, maybe, I c-could apply to serve on missions with them?",
+                "jp": "部屋に戻る時に、フランカ先輩とリスカム先輩に再会したんです。ずっと会ってなかったのに、話してみたら全然そんな感じがしなくて……ドクター、も、もしよければ、先輩たちの任務にわたしも加えていただけないでしょうか？",
+                "kr": "숙소로 돌아가던 길에 프란카 선배랑 리스캄 선배를 만났어요. 오랜만에 보는 건데도 대화가 그렇게 어색하지 않더라고요…… 박사님, 호, 혹시 괜찮다면, 선배들의 임무에 저도 함께할 수 있을까요?",
+                "cn": "我在去宿舍的路上遇到了芙兰卡前辈和雷蛇前辈。没想到这么久不见，和她们聊天也没有觉得很生疏......如果可以的话，博士，我、我能申请加入她们的任务吗？"
+            },
+            "asset": "char_1034_jesca2/CN_002"
+        },
+        {
+            "id": "char_1034_jesca2_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "I don't have as much money on hand these days. I argued with my father a lot about pioneering in the barrenlands. And so... I stopped drawing from the family trust fund. But I can still earn some money out there pioneering, at least enough to maintain my equipment.",
+                "jp": "今はもう昔みたいに懐に余裕はありません。開拓地行きを決めた件で、父と何度も喧嘩になってしまって、それから……家族信託からお金を下ろすのはやめたんです。でもまあ……開拓地では自分で稼げますし、少なくとも装備の修理代くらいはどうにかなるので大丈夫ですよ。",
+                "kr": "이제는 전처럼 지갑 사정이 넉넉하진 않아요, 개척지에 가는 일 때문에 아버지랑 여러 번 다퉜거든요. 그 뒤로는…… 가족 신탁에서 돈을 인출한 적이 없어요. 그래도 괜찮아요, 개척지에서는 스스로 돈을 벌 수 있고, 적어도 장비를 수리할 돈은 아직 있거든요.",
+                "cn": "现在我的手头没有以前那么宽裕了，因为去拓荒地的事，我和父亲吵了很多次，之后......就没再从家族信托中领钱了。不过还好，在拓荒地我能自己挣到钱，至少修装备的钱还是有的。"
+            },
+            "asset": "char_1034_jesca2/CN_003"
+        },
+        {
+            "id": "char_1034_jesca2_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "When I was little, everyone always had so much on their plates. Only my retired grandfather could stay at home with me. He would tell me stories about his time in the army, so that he can cheer me up this way. Even though his past never stopped tormenting him, he was still willing to fluff it into tidy little stories, just to make me smile.",
+                "jp": "小さい頃は家族みんな忙しくしていたので、お家で遊んでくれたのは定年した祖父だけでした。わたしを喜ばせるために、軍にいた時の出来事なんかをお話ししてくれて……本当はいつもフラッシュバックで苦しんでいたのに、それを面白おかしく話して笑わせてくれたんです。",
+                "kr": "어릴 적엔, 다른 가족들은 모두 바빠서 은퇴하신 할아버지만이 저랑 같이 있어 주셨어요. 할아버지는 군대에서 있었던 일들을 얘기해 주시면서 절 돌봐주셨는데…… 본인은 늘 그때의 기억 때문에 괴로워하셨으면서 저에겐 그때의 일들을 마치 무용담인 양 꾸며 절 웃게 해주셨어요.",
+                "cn": "小时候，其他人都有事要忙，在家里只有退休的祖父陪我。为了哄我开心，他会将自己在军中的经历讲给我听。明明他总在为过去的事难受，却还是愿意将它们美化成故事来换我的笑容。"
+            },
+            "asset": "char_1034_jesca2/CN_004"
+        },
+        {
+            "id": "char_1034_jesca2_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "There was a soirée a while ago where someone brought up the war in Victoria. I chimed in with my own experiences. Only a few words, but enough to ruin everyone's time. You know, Doctor, that was the moment I finally realized why Blacksteel mercenaries rarely talk about themselves.",
+                "jp": "以前社交パーティーでヴィクトリアでの戦争の話題になった時、ほんの少し実体験を話したら、場をすっかりシラけさせてしまったことがありました。あの時やっと理解したんです。BSWの傭兵たちが人前で安易に自分の話をしないのは、こういう理由なんだって。",
+                "kr": "저번에 사교 파티에서 빅토리아의 전쟁 얘기가 나오길래, 제가 직접 겪었던 일들을 살짝 꺼냈더니 분위기가 싸해졌던 적이 있어요. 그제야 전, 왜 블랙스틸의 용병들이 함부로 자기 얘기를 꺼내지 않는지 알게 되었죠.",
+                "cn": "之前有场社交晚宴，有人聊到发生在维多利亚的战事，我就用自己的亲身经历回复了几句，不多，却扫了所有人的兴致。博士，那时我才明白，为什么黑钢的佣兵从不轻易在人前聊自己。"
+            },
+            "asset": "char_1034_jesca2/CN_005"
+        },
+        {
+            "id": "char_1034_jesca2_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "I'm nominally still employed by Blacksteel, but it's been a while since I've done any mercenary work. No, it's not that I regret the decision I made back then; I'm just tired of responding to disaster, always one step behind. This time, I want to be there to protect something from the beginning.",
+                "jp": "一応籍はまだBSWに残っていますが、もう随分の間傭兵の仕事をしていないんです。いえ、傭兵の道を選んだことは後悔していませんが、いつもいつも、何か起きてから駆けつけることしかできないのが嫌になったんです。これからは、最初から何かを守り抜ければと思っています。",
+                "kr": "허울뿐이지만 아직 블랙스틸에서의 직함이 남아있어요. 하지만 용병 일을 하지 않은지는 사실 꽤 오래됐죠. 아뇨, 그때의 선택을 후회하는 게 아니라, 그저 비극이 벌어진 뒤에야 뒤늦게 달려가는 그런 상황이 싫어졌을 뿐이에요. 이번에는, 처음부터 뭔가를 지키고 싶어요.",
+                "cn": "虽然在黑钢还挂着虚职，但其实我不做佣兵这行已经有段时间了。不，不是后悔自己当时的选择，只是不想每次祸事铸成后才匆匆赶到。这次，我想从一开始就守护些什么。"
+            },
+            "asset": "char_1034_jesca2/CN_006"
+        },
+        {
+            "id": "char_1034_jesca2_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Doctor... Would you mind coming to the training room with me? I don't need a spotter, it's just... new operators keep coming to me for advice, and facing them alone makes me feel a— a little nervous.",
+                "jp": "ドクター……少しだけ訓練室に付き合ってくださいませんか？訓練の付き添いではなく、えっと……わたし、訓練室に行くといろんな新人オペレーターにアドバイスをお願いされるので、一人で皆さんの相手をしていると、ちょっと緊張しちゃって。",
+                "kr": "박사님…… 혹시 저랑 같이 잠깐 훈련실에 가주실 수 있으실까요? 같이 훈련하자는 건 아니고, 그…… 훈련실에 가면 신입 오퍼레이터분들이 항상 저한테 조언을 구하곤 하는데…… 혼자서는 조금 기, 긴장이 돼서요.",
+                "cn": "博士......您介意陪我去训练室待一会儿吗？不是陪我训练，是......是我总在那里碰到很多新来的干员向我请教，一个人面对他们的话，我、我有点紧张。"
+            },
+            "asset": "char_1034_jesca2/CN_007"
+        },
+        {
+            "id": "char_1034_jesca2_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Oh... You want to know about the flower on my chest? Actually... it wasn't an accessory to begin with. It was a shard of metal that got lodged in my leg. After it was surgically removed, I... decided to turn it into a buttonhole flower instead of throwing it away. Y-Yeah, I guess it is kinda weird. I'm not sure what I was thinking.",
+                "jp": "えっと……このブローチですか？元々はアクセサリーでもなんでもなくて、実は去年太腿に刺さった鉄の破片なんです。手術で取った後、捨てずにブローチにしてみたものなんですが……ち、ちょっと変ですよね。わたし、いったい何を考えてたんでしょうね。",
+                "kr": "아…… 이 브로치요? 이건 원래 액세서리가 아니라, 작년에 제 허벅지에 박혔던 쇳조각이에요. 수술로 꺼낸 뒤에 버리지 않고 브로치로 만들었는데. 이, 이상하죠? 저도 그때 제가 무슨 생각이었는지 모르겠어요.",
+                "cn": "啊......您问我这个胸花的来历？其实它原本不是饰品，是去年扎进大腿上的一块铁片。手术取出后，我没有把它扔掉，而是做成了胸花。是、是有点古怪，我也不知道当时是怎么想的。"
+            },
+            "asset": "char_1034_jesca2/CN_008"
+        },
+        {
+            "id": "char_1034_jesca2_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "I know now that there's no shame in crying... or having a soft heart. If you're sad about something you can't put into words, why not express your feelings with tears? It's part of being human, so there's nothing to be ashamed of.  Um... Am I right, Doctor?",
+                "jp": "今ではもう泣くのを恥ずかしいことだとは思いません……涙もろいのは別に恥ずべきことじゃないって思えるようになったんです。言葉にならない辛い思いを涙で表すのは、人なら当たり前、そんなことで自分を卑下しなくたっていい……そうですよね、ドクター。",
+                "kr": "이제는 더 이상 우는 게 부끄럽지 않아요…… 마음이 여린 건 부끄러워할 일이 아닌걸요. 말로 표현할 수 없는 슬픔을 눈물로 표현하는 건, 사람이라면 누구나 다 그러는 거니까 부끄러운 일이 아닌 거잖아요. 그렇죠, 박사님?",
+                "cn": "我现在已经不会为哭泣而感到羞耻了......心肠软也不是什么丢人的事情。难过的事情用话讲不出来，就让眼泪来表达，那都是人之常情，没什么好羞耻的，对吧，博士？"
+            },
+            "asset": "char_1034_jesca2/CN_009"
+        },
+        {
+            "id": "char_1034_jesca2_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "You look a little worse for wear every time I see you... Are you doing alright these days, Doctor?",
+                "jp": "お会いする度に、疲労の色が濃くなっているように見えますが……大丈夫ですか、ドクター？",
+                "kr": "뵐 때마다 더 피곤해 보이시는 것 같은데…… 괜찮으세요, 박사님?",
+                "cn": "每次见您，都觉得您看着比上次还要疲惫，最近还好吗，博士？"
+            },
+            "asset": "char_1034_jesca2/CN_010"
+        },
+        {
+            "id": "char_1034_jesca2_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "It's been a while since we last met, Doctor. I'm glad there's still something I can do for you. That's right, I have changed a lot. If you could find the time, I'd love to sit down with you and catch up...",
+                "jp": "ご無沙汰しています、ドクター。またお手伝いさせていただけるなんてすごく嬉しいです。はい、わたしも昔のままじゃありませんよ。もしお時間に余裕があれば、じっくりお話しさせてほしいです……",
+                "kr": "정말 오랜만이네요, 박사님. 다시 박사님께 도움을 드릴 수 있게 되어 기뻐요. 네, 저도 많이 변했답니다. 시간 괜찮으시면 박사님이랑 같이 얘기를 나누고 싶어요……",
+                "cn": "有很长一段时间没见了，博士，很开心还能为您做事。是啊，我是有了很多变化。如果能抽出时间来，我真的很想和您聊聊......"
+            },
+            "asset": "char_1034_jesca2/CN_011"
+        },
+        {
+            "id": "char_1034_jesca2_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "I just dug up my old combat records, which proved to be pretty useful. Comparing my before-and-after, I at least know what mistakes I shouldn't be making again. Ugh, I really looked like a... bumbling idiot back then.",
+                "jp": "さっき昔の自分の作戦記録も出てきたんですが、これを見れば今後気をつけるべきミスを振り返ることくらいはできますので、それなりに役に立つと思います。はぁ、あの時のわたしったら、なんだか……どんくさいなぁ。",
+                "kr": "방금 제 옛날 작전 기록을 봤는데, 나름 유용한 것 같아요. 앞으로 어떤 실수를 조심해야 할지 돌아볼 수 있었거든요. 하아, 저 때의 전 다시 봐도 참…… 바보 같았네요.",
+                "cn": "我刚刚翻到了自己过去的作战录像，也算是有价值，对照下来，至少能知道什么错误不该再犯。唉，当时的我看着还真是......傻乎乎的。"
+            },
+            "asset": "char_1034_jesca2/CN_012"
+        },
+        {
+            "id": "char_1034_jesca2_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "I'm just glad to receive your acknowledgement, Doctor. The rewards are secondary.",
+                "jp": "ドクターに褒めていただけるだけですごく嬉しいです。褒賞なんて二の次ですよ。",
+                "kr": "보상은 둘째치고, 박사님이 칭찬해 주시는 것만으로도 저는 정말 기뻐요.",
+                "cn": "单单获得博士您的夸奖我就很开心了，奖励都是其次的。"
+            },
+            "asset": "char_1034_jesca2/CN_013"
+        },
+        {
+            "id": "char_1034_jesca2_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Doctor, are you giving me a promotion? Then, can I... make a teensy tiny extra request? It's nothing big, just... Can I... have a hug?",
+                "jp": "ドクター、またわたしを昇進させてくださるんですか？それなら……ちょっとしたお願いをしてもいいですか？無茶なことは言いませんから……ハグしてもいいですか？",
+                "kr": "박사님, 저를 또 승진시켜 주시려고요? 그럼…… 혹시 작은 부탁 하나 드려도 될까요? 과한 부탁은 아니에요…… 하…… 한 번만 안아 주시겠어요?",
+                "cn": "博士，您要提拔我吗？那我......可不可以再提一个小小的附加要求，不会很过分的......就拥抱一下下。"
+            },
+            "asset": "char_1034_jesca2/CN_014"
+        },
+        {
+            "id": "char_1034_jesca2_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Come in, Commander, this is Jessica. On the line and ready to roll.",
+                "jp": "指揮官応答願います。こちらジェシカ、前線に到着。作戦スタンバイ。",
+                "kr": "지휘관님, 응답 바랍니다. 여기는 제시카, 전선에 도착했습니다. 작전 대기 중.",
+                "cn": "呼叫指挥官，这里是杰西卡，已抵达前线，准备开始作战。"
+            },
+            "asset": "char_1034_jesca2/CN_017"
+        },
+        {
+            "id": "char_1034_jesca2_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Rally on me.",
+                "jp": "各員、こちらに集合してください。",
+                "kr": "이쪽으로 집합해 주세요.",
+                "cn": "在我身边集合。"
+            },
+            "asset": "char_1034_jesca2/CN_018"
+        },
+        {
+            "id": "char_1034_jesca2_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "ETA six mikes.",
+                "jp": "あと六分で到着予定です。",
+                "kr": "도착 예정 시간까지 앞으로 6분.",
+                "cn": "预计抵达时间，六分钟。"
+            },
+            "asset": "char_1034_jesca2/CN_019"
+        },
+        {
+            "id": "char_1034_jesca2_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Hostiles sighted, over.",
+                "jp": "敵を視認しました、オーバー。",
+                "kr": "시야 내 적 출현, 이상.",
+                "cn": "视野中有敌军出现，完毕。"
+            },
+            "asset": "char_1034_jesca2/CN_020"
+        },
+        {
+            "id": "char_1034_jesca2_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "In position.",
+                "jp": "位置に着きました。",
+                "kr": "위치에 도착했습니다.",
+                "cn": "已就位。"
+            },
+            "asset": "char_1034_jesca2/CN_021"
+        },
+        {
+            "id": "char_1034_jesca2_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Roger, wilco.",
+                "jp": "ラジャー。",
+                "kr": "롸저.",
+                "cn": "收到。"
+            },
+            "asset": "char_1034_jesca2/CN_022"
+        },
+        {
+            "id": "char_1034_jesca2_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "I'm headed into the thick of it.",
+                "jp": "わたしが最前線に立ちます。",
+                "kr": "제가 최전방에 서겠습니다.",
+                "cn": "我会站在最前方。"
+            },
+            "asset": "char_1034_jesca2/CN_023"
+        },
+        {
+            "id": "char_1034_jesca2_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "With all of you behind me, I won't take a single step back.",
+                "jp": "皆さんが後ろにいる限り、わたしは一歩も引きません。",
+                "kr": "여러분들이 제 뒤에 있는 한, 전 한 발자국도 물러서지 않겠습니다.",
+                "cn": "有你们在身后，我不会退缩一步。"
+            },
+            "asset": "char_1034_jesca2/CN_024"
+        },
+        {
+            "id": "char_1034_jesca2_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Drawing a bead on the target.",
+                "jp": "ターゲット、ロックオン……",
+                "kr": "타겟 조준……",
+                "cn": "已瞄准敌方目标......"
+            },
+            "asset": "char_1034_jesca2/CN_025"
+        },
+        {
+            "id": "char_1034_jesca2_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Don't come any closer…",
+                "jp": "もうそれ以上近づかないで……",
+                "kr": "더 이상 다가오지 말아 줘……",
+                "cn": "别再靠近了......"
+            },
+            "asset": "char_1034_jesca2/CN_026"
+        },
+        {
+            "id": "char_1034_jesca2_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Requesting permission to fire.",
+                "jp": "射撃許可を求めます……",
+                "kr": "발포 허가 바랍니다……",
+                "cn": "请求开火......"
+            },
+            "asset": "char_1034_jesca2/CN_027"
+        },
+        {
+            "id": "char_1034_jesca2_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Be adviced. Target… eliminated.",
+                "jp": "報告、ターゲット……オールクリア。",
+                "kr": "보고드립니다, 타겟…… 제거.",
+                "cn": "报告，目标......已清除。"
+            },
+            "asset": "char_1034_jesca2/CN_028"
+        },
+        {
+            "id": "char_1034_jesca2_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "No resting on your laurels now... We've got more fighting ahead of us.",
+                "jp": "まだ気は抜けません……この先にも新たな戦いが待ち受けているはずですから。",
+                "kr": "아직 긴장을 늦춰선 안 돼요…… 저 앞에는 분명 새로운 전투가 저희를 기다리고 있을 테니까요.",
+                "cn": "不能就此放松......前方肯定有新的战斗在等待我们。"
+            },
+            "asset": "char_1034_jesca2/CN_029"
+        },
+        {
+            "id": "char_1034_jesca2_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "That was close, I almost... A-Anyway, good thing I managed to pull through in the end... Sorry, Doctor. Please, give me a minute. I need to get my emotions under control.",
+                "jp": "ふぅ。あ、危なかった……なんとか持ち直せて本当によかった。すみません、ドクター。す、少しだけ時間をください……気持ちを整理しますから。",
+                "kr": "하아. 아, 아슬아슬했다…… 정말 다행이야, 마지막까지 버텨냈어. 죄송해요, 박사님. 조금, 조금만 시간을 주세요, 금방 추스를게요.",
+                "cn": "呼，差点，差一点点就......幸好最后还是坚持下来了。不好意思，博士，请给、给我点时间，我会控制好情绪的。"
+            },
+            "asset": "char_1034_jesca2/CN_030"
+        },
+        {
+            "id": "char_1034_jesca2_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "I think... a minor setback is no big deal. It's already enough that none of our people got hurt.",
+                "jp": "小さな失敗は……そこまで気にしなくていいと思います。一人も負傷者が出なかっただけで、もう十分な戦果ですよ。",
+                "kr": "작은 실패는…… 그렇게 신경 쓰지 않아도 된다고 생각해요. 한 명도 다치지 않은 것만으로 이미 충분히 괜찮은 결과인걸요.",
+                "cn": "我想......小小的失利并不算什么，战斗中我方无人受伤，这就已经非常好了。"
+            },
+            "asset": "char_1034_jesca2/CN_031"
+        },
+        {
+            "id": "char_1034_jesca2_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Doctor, an apology doesn't even begin to cut it... I'll try to make up for this failure on subsequent operations.",
+                "jp": "ドクター、あの――いえ、謝っても仕方ありませんよね……今回の失敗による損失は、次の任務で挽回してみせます。",
+                "kr": "박사님, 죄송…… 아뇨, 사과는 의미가 없겠죠…… 이번 실패로 인한 손실은, 다음 임무에서 만회해 보겠습니다.",
+                "cn": "博士，道歉实在是太无力了......后续任务中我会尽力用行动弥补这次失败造成的损失。"
+            },
+            "asset": "char_1034_jesca2/CN_032"
+        },
+        {
+            "id": "char_1034_jesca2_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "How I miss the time I spent on this landship... If only I could've stayed longer...",
+                "jp": "この船で過ごした日々が懐かしいです。ずっとここにいられたらいいのに……",
+                "kr": "이 함선에서 지내던 나날들이 그리워요. 계속 여기에 남아 있을 수 있다면 좋을 텐데……",
+                "cn": "好怀念啊，在这艘舰船上度过的时日。如果能一直留在这里该有多好......"
+            },
+            "asset": "char_1034_jesca2/CN_033"
+        },
+        {
+            "id": "char_1034_jesca2_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Go ahead, Doctor.",
+                "jp": "どうしましたか、ドクター。",
+                "kr": "말씀하세요, 박사님.",
+                "cn": "请讲，博士。"
+            },
+            "asset": "char_1034_jesca2/CN_034"
+        },
+        {
+            "id": "char_1034_jesca2_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "You looked a little surprised shaking my hand just now... D-Did my calluses scare you, Doctor?",
+                "jp": "さっき握手した時に、不思議な顔をされていましたが……も、もしかしてわたしの手のタコで驚かせてしまいましたか？",
+                "kr": "방금 악수할 때 잠깐 흠칫하시던데…… 호, 혹시 제 손의 굳은살 때문에 놀라셨나요?",
+                "cn": "刚刚握手时您愣了下......是、是我手上的茧子吓到您了吗，博士？"
+            },
+            "asset": "char_1034_jesca2/CN_036"
+        },
+        {
+            "id": "char_1034_jesca2_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_1034_jesca2/CN_037"
+        },
+        {
+            "id": "char_1034_jesca2_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Glad to see you again, Doctor.",
+                "jp": "お久しぶりです、ドクター。",
+                "kr": "오랜만이에요, 박사님.",
+                "cn": "好久不见，博士。"
+            },
+            "asset": "char_1034_jesca2/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Yuuki Luna",
+            "global": "Yuuki Luna"
+        },
+        "cn": {
+            "native": "侯小菲",
+            "global": "Fifi"
+        },
+        "jp": {
+            "native": "広橋涼",
+            "global": "Ryo Hirohashi"
+        },
+        "kr": {
+            "native": "김하영",
+            "global": "Kim Ha-young"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

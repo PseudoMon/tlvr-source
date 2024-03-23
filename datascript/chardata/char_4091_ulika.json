@@ -1,0 +1,532 @@
+{
+    "charid": "char_4091_ulika",
+    "nameid": "ulika",
+    "names": {
+        "en": "U-Official",
+        "jp": "U-Official",
+        "kr": "U-Official",
+        "cn": "U-Official"
+    },
+    "voices": [
+        {
+            "id": "char_4091_ulika_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Can I go live in here? I'm not really comfortable having a whole crowd standing around watching me stream, so I'd feel way more at ease in your office... Besides, I'm your assistant now anyway, heehee.",
+                "jp": "ここで配信してもいいですか？配信中にたくさんの人に囲まれるとちょっと怖いから、ドクターの執務室なら安心です……それに、今は助手もやってますしね、えへへ。",
+                "kr": "여기서 방송을 켜도 될까요? 전 방송할 때 사람들한테 구경당하면 긴장하게 되거든요. 하지만 박사님의 집무실이라면 안심도 되고…… 게다가 지금 전 박사님의 어시스턴트이기도 하잖아요, 헤헤.",
+                "cn": "我可以在这里开播吗？我有点害怕直播的时候被很多人围观，还是博士的办公室更让我安心一点......再说，现在我好歹也是你的助理嘛，嘿嘿。"
+            },
+            "asset": "char_4091_ulika/CN_001"
+        },
+        {
+            "id": "char_4091_ulika_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Doctor, I got to thinking that the stream incident might not have been a totally bad thing. After all, I got to know so many nice people ready to lend a helping hand, and you too... Shoot! I forgot to turn off my mic–– Yes, and all of you as well! With your support, I'll break out of this funk!",
+                "jp": "ドクター、今ふと思ったんですけど、あの放送事故も悪いことばかりじゃなかったです。こんなにたくさんの、私に手を差し伸べてくれる人に会えましたし、それにドクターも――やばい、配信切れてない――リスナーのみんなもだよ！みんなが応援してくれたから、私はいっちばんどん底の時期を乗り越えられたんだから！",
+                "kr": "박사님, 문득 저번 방송사고도 마냥 나쁜 일만은 아니었던 것 같다는 생각이 들었어요. 제게 손을 내밀어 주는 분들을 이렇게나 많이 만날 수 있었고, 게다가 박사님도! ……망했다, 마이크 끄는 걸 깜빡했잖아! 물론, 시청자 여러분도 마찬가지야! 여러분의 응원 덕분에, 슬럼프를 극복할 수 있었다고!",
+                "cn": "博士，我突然觉得那次播出事故也不全是坏事，毕竟认识了这么多愿意帮我的人，还有你——完蛋了，下播忘关麦了——还有你们大家！有了大家的支持，我才能走出低谷呀！"
+            },
+            "asset": "char_4091_ulika/CN_002"
+        },
+        {
+            "id": "char_4091_ulika_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "I need to decompress after that stream... Games? Doctor, were you even watching my stream? Chat wouldn't stop making fun of how much I suck. I don't wanna play another game this whole week... And that's why I need to practice every day? Uhh... I guess you have a point there?",
+                "jp": "配信終わった～、たっぷりストレス発散するぞ――ゲーム？ドクター、今の配信全然見てなかったんですね。コメントでずーっと、下手くそって煽られていたんですよ。今週いっぱいゲームなんて触りたくもないぐらいなんですから……だからこそ普段の練習が必要？あれ……確かにそうかも？",
+                "kr": "방송 끝~ 이제 제대로 스트레스 풀어야지. 게임이요? 박사님, 방금 방송 안 보셨구나? 채팅에서 못한다고 얼마나 놀림받았는데요. 이번 주는 게임의 게 자도 듣고 싶지 않을 정도라고요. 실력이 안 좋으니까 평소에 더 연습이 필요한 거라고요? ……어? 그것도 그럴지도?",
+                "cn": "下播了，我要好好减减压——打游戏？博士你刚才根本没看我直播对吧，弹幕一直在嘲讽我游戏打得菜，我这星期都不想打游戏了......所以才要日常训练？好像......也有道理？"
+            },
+            "asset": "char_4091_ulika/CN_003"
+        },
+        {
+            "id": "char_4091_ulika_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Awwgh, it's so frustrating! How come a clip of me tripping over my words gets so many more views than all my VODs combined? I really don't understand viewers these days... Look, Doctor, what's so funny about this compilation of my brain-far—you just laughed, right? You totally laughed just now!",
+                "jp": "へこむなぁ、どうして言い間違いの切り抜きが、元の動画を全部足したやつより回ってるの？ったく今どきのリスナーって本当に訳分からない……見てドクター、私の言い間違いを編集で繋げただけなんですよ、なにがそんなに面白いのか――待って、今笑いましたね。絶対に笑ったよね！",
+                "kr": "어째서 제 말실수 모음 영상의 조회수가 제 다른 영상의 조회수를 다 합친 것보다 높은 걸까요? 너무해요. 요즘 시청자들은 정말 이해하기 어렵다니까요…… 보세요, 박사님. 제 말실수 클립들을 편집한 영상일 뿐인데 이게 뭐가 그렇게 재밌다고…… 잠깐, 지금 웃으신 거죠! 방금 분명히 웃었잖아요!",
+                "cn": "好郁闷啊，为什么口误剪辑的播放量比所有录播加起来还高这么多，真搞不懂现在的观众......博士你看，只是把我的口误剪在一起，有什么好笑的——等等，你笑了吧，你刚刚绝对笑了吧！"
+            },
+            "asset": "char_4091_ulika/CN_004"
+        },
+        {
+            "id": "char_4091_ulika_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "I won an award the first time I did a solo show. Pretty lucky, huh? What, don't believe me? Look right here, 'Awarded to the employee who stayed put until the end of the show during an earthquake'! Getting hit by an earthquake hit during your debut sounds unlucky? Ah-Ahaha...",
+                "jp": "初めて一人で司会した番組で、さっそく表彰されてたんですよ。ラッキーでしょう。嘘だと思ってます？ほら、ここ見てください。「地震発生当時、当該社員は報道スタジオに残り、番組の終了まで職務を全うした。よって、ここに表彰する」！初司会からトラブルはむしろ運が悪い？えっと……あはは。",
+                "kr": "처음 단독 MC를 맡은 프로그램에서 상을 받았었어요. 운이 좋았죠. 지금 못 믿으시는 거예요? 여기요, 이걸 보세요. “지진이 발생하였음에도, 해당 사원은 스튜디오에 남아 방송이 끝날 때까지 자신의 본분을 다하였기에, 이 상을 표창한다.”라고 쓰여있잖아요. 첫 방송에 지진이 일어난 건 운이 없는 거 아니냐고요? 그건 뭐, 음…… 하하하……",
+                "cn": "我第一次独立主持节目就收到了奖状，运气不错吧。不信？你看这里，“地震发生时，该员工在演播室坚守到节目结束，特此奖励”！首次登场就地震是不是也有点倒霉？这......啊哈哈。"
+            },
+            "asset": "char_4091_ulika/CN_007"
+        },
+        {
+            "id": "char_4091_ulika_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "I used to work my butt off every day so I could make more money, then shop more and shop better. But you know, when I use fancy concealer to hide my eye bags, I sometimes wanna cry... Oh, uh, s-speaking of crying, getting fired from the TV station made me want to cry a lot more. ",
+                "jp": "前の私は毎日一生懸命仕事をしていました。そうするとお給料が増えて、いいものもたくさん買えるから。でも、高いコスメでくま消しをする時、たまに涙が出そうになるんです……まっ、涙と言えば、テレビ局から解雇された時はもっと泣きたくなりましたけどね。",
+                "kr": "예전에 전 매일매일 열심히 일만 하면서 지냈어요. 열심히 일을 해야 월급도 오르고 좋은 물건도 살 수 있으니까요. 하지만 비싼 화장품으로 다크서클을 가리다 보면 가끔 눈물이 나더라고요…… 뭐, 눈물 얘기가 나와서 하는 말인데, 방송국에서 해고당했을 때만큼 울고 싶었던 적은 없더라고요.",
+                "cn": "以前我每天都拼命工作，这样就能加薪，能买更多更好的东西。可当我用高级化妆品遮掩黑眼圈时，我偶尔会很想哭......不过，说到想哭，还是被电视台解雇的时候更想哭啦。"
+            },
+            "asset": "char_4091_ulika/CN_008"
+        },
+        {
+            "id": "char_4091_ulika_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "When I get up there to face my audience, the only advantage I have is the angle of my camera. But you, Doctor... You're the only one who watches my stream in person. You're my most special, and most unique audience. Ahem, it would be even nicer if you tossed a little dono my way~",
+                "jp": "リスナーを前にした時、私が持てる武器ってカメラの角度だけなんです。でもドクターは……あなたはただ一人、画面を通さないで私の配信を見てくれる人なので、誰より特別で、唯一無二のリスナーです――こほん、もっと収益の方でも貢献してくれたら言うことないんですけどね。",
+                "kr": "시청자들 앞에서 제가 가진 가장 강력한 무기는 바로 카메라 앵글이에요. 하지만 박사님은…… 화면을 통하지 않고 제 방송을 지켜봐 주시는 유일한 분이라, 제겐 박사님이 가장 특별하고 유일무이한 시청자세요. 크흠, 그러니 수익 부분에서도 더 많은 기여를 해 주시면 어떨까 싶은데……",
+                "cn": "面对观众时，我唯一的优势就是摄像头的角度，而博士你......你是唯一一个一直不通过摄像头看我直播的人，是独一无二、最最特别的观众——咳，如果给我贡献点收入就更好啦。"
+            },
+            "asset": "char_4091_ulika/CN_009"
+        },
+        {
+            "id": "char_4091_ulika_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Hello. You looking for the Doctor? What? No, no bother at all. The Doctor's fast asleep, and I'm just eating some dry instant noodles. Want a chunk?",
+                "jp": "はろ～、ドクターを探しに来たの？……全然邪魔なんてしてないよ、本人は寝ちゃってて、私はドクターのインスタントラーメンを齧ってるだけだから。あなたも一つ要る？",
+                "kr": "헬로~ 박사님을 만나러 오셨어요? ……방해라니요, 전혀요. 박사님은 주무시고 계시고, 전 그런 박사님의 라면을 먹고 있었을 뿐인걸요. 하나 드실래요?",
+                "cn": "你好，是来找博士的吗？......完全不打扰哦，博士睡了，我只是在干吃他的泡面而已。要来一块吗？"
+            },
+            "asset": "char_4091_ulika/CN_010"
+        },
+        {
+            "id": "char_4091_ulika_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Hello everyone, this is your omnipotent streamer, Eure—Errrr, sorry, scratch that. Rhodes Island operator, U-official! Reporting in, Doctor!",
+                "jp": "やほ～、リスナーのみんな今日も元気かな？みんなのユーリ……っとと、違う違う！ロドスのオペレーター、U-Official、ただいま着任しましたドクター！",
+                "kr": "야호~ 안녕 시청자 여러분! 난 여러분의 유레…… 가 아니라! 로도스 아일랜드의 오퍼레이터 U-Official, 박사님께 인사드립니다!",
+                "cn": "呀嚯~观众朋友你们好，我是你们的尤......呀！不对不对，罗德岛干员，U-Official，向博士报到！"
+            },
+            "asset": "char_4091_ulika/CN_011"
+        },
+        {
+            "id": "char_4091_ulika_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Doctor, I'm not gonna sugarcoat it. No matter how many vids like this I watch, I won't learn how to fight.",
+                "jp": "ドクター、正直言うと、こういう映像をいくら見たところで、私に喧嘩は無理です。",
+                "kr": "박사님, 솔직히 말하면, 이 영상들 아무리 봐도 제가 싸울 수 있을 것 같진 않아요.",
+                "cn": "博士，不骗你，这样的录像看得再多，我也学不会打架的啦。"
+            },
+            "asset": "char_4091_ulika/CN_012"
+        },
+        {
+            "id": "char_4091_ulika_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Go to war? Me?! This <i>has</i> to be a dream…",
+                "jp": "戦場に？誰がです？私？これってきっと夢だよね。",
+                "kr": "전장에요? 누가요? 제가요? 내가 아직 꿈을 꾸고 있나?",
+                "cn": "上战场？谁？我？这一定是梦吧。"
+            },
+            "asset": "char_4091_ulika/CN_017"
+        },
+        {
+            "id": "char_4091_ulika_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "And you're giving me command of the squad to boot? This dream sure is funny, haha...",
+                "jp": "一小隊の指揮をするの？おかしな夢だなぁ、はは。",
+                "kr": "저한테 지휘도 맡기신다고요? 꿈이 참 희한하네, 하하.",
+                "cn": "还让我指挥小队？这梦真怪，哈哈。"
+            },
+            "asset": "char_4091_ulika/CN_018"
+        },
+        {
+            "id": "char_4091_ulika_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Well, since this is a dream anyway, I will mop up all the enemies for you!",
+                "jp": "どうせ夢だし、みんなのために敵をまとめて片付けちゃうよ！",
+                "kr": "어차피 꿈이니까, 모두를 도와 적들을 한꺼번에 쓸어버리겠어!",
+                "cn": "反正是梦，我会一口气帮大家把所有敌人解决掉的！"
+            },
+            "asset": "char_4091_ulika/CN_019"
+        },
+        {
+            "id": "char_4091_ulika_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Bow down before the true master! Wooooo-wata! Scared now?",
+                "jp": "こっち来ないで、私はとっても強いんだから！ふっ、はっ！ほら、怖いでしょ？",
+                "kr": "이쪽으로 오지 마! 나 엄청 강하거든?! 슉, 슈슉! 어때, 완전 무섭지?",
+                "cn": "别过来，我很强的！呼，哈！怕了吧？"
+            },
+            "asset": "char_4091_ulika/CN_020"
+        },
+        {
+            "id": "char_4091_ulika_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Heehee, mind sending me the instructions... in a superchat?",
+                "jp": "スパコメで指示が欲しいな～。",
+                "kr": "이왕이면 슈퍼챗으로 지시해 줬으면 좋겠는데~",
+                "cn": "能不能用超级弹幕给我发指示？"
+            },
+            "asset": "char_4091_ulika/CN_021"
+        },
+        {
+            "id": "char_4091_ulika_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Your streamer is in perfect condition and ready to go live!",
+                "jp": "ライバーの準備は万端、いつでも配信できます！",
+                "kr": "라이브 컨디션 최고야. 언제든 방송 시작할 수 있어!",
+                "cn": "主播状态良好，随时可以开播！"
+            },
+            "asset": "char_4091_ulika/CN_022"
+        },
+        {
+            "id": "char_4091_ulika_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Deep breaths... stay calm…",
+                "jp": "深呼吸して……気持ちを落ち着けて……",
+                "kr": "심호흡하고…… 평정심을 유지하는 거야……",
+                "cn": "调整呼吸......心态放平......"
+            },
+            "asset": "char_4091_ulika/CN_023"
+        },
+        {
+            "id": "char_4091_ulika_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Just treat it like a regular stream? I'll try!",
+                "jp": "え？配信だと思えばいいんですか？やってみます！",
+                "kr": "네? 방송이라고 생각하라고요? 한번 해 볼게요!",
+                "cn": "欸？当成在直播就好了？我试试！"
+            },
+            "asset": "char_4091_ulika/CN_024"
+        },
+        {
+            "id": "char_4091_ulika_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Ah, ah, mic check! Can everyone hear me?",
+                "jp": "マイクテストでーす。みんな～、聞こえる？",
+                "kr": "아아, 마이크 테스트. 여러분~ 잘 들려?",
+                "cn": "麦克风测试！大家能听见吗？"
+            },
+            "asset": "char_4091_ulika/CN_025"
+        },
+        {
+            "id": "char_4091_ulika_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Let me know what you think in chat!",
+                "jp": "言いたいことがあったら、コメントで教えて！",
+                "kr": "좋은 아이디어 있으면 채팅창으로 알려 줘!",
+                "cn": "有什么想法就在弹幕里告诉我吧！"
+            },
+            "asset": "char_4091_ulika/CN_026"
+        },
+        {
+            "id": "char_4091_ulika_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Next up, time to read the comments!",
+                "jp": "次はコメント読みだよ～！",
+                "kr": "이번엔 댓글을 읽어 볼게~!",
+                "cn": "接下来是读评论环节！"
+            },
+            "asset": "char_4091_ulika/CN_027"
+        },
+        {
+            "id": "char_4091_ulika_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Dear viewer, for your aggressive behavior, you've been permabaned from the channel! Oh no!",
+                "jp": "これ書いた人、やりすぎだからブロックするよ。配信出禁！",
+                "kr": "이 댓글은 선을 너무 넘었잖아, 밴이야!",
+                "cn": "这位观众，你因为行为过激被踢出直播间了！"
+            },
+            "asset": "char_4091_ulika/CN_028"
+        },
+        {
+            "id": "char_4091_ulika_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "The battle's over, so why haven't I woken up from my dream yet... What? This isn't a dream? Then, how come I'm not hurt at all?!",
+                "jp": "戦いは終わったのに、まだ夢から覚めないなぁ……ええっ、夢じゃないんですか？でも私、無傷ですよ！？",
+                "kr": "전투가 끝났는데 왜 아직도 꿈속이지…… 앗, 꿈이 아니라고요? 그렇지만 저, 상처 하나 없이 멀쩡한데요?!",
+                "cn": "仗都打完了，这梦怎么还是醒不过来......什么，不是做梦？那为什么我一点伤都没有？！"
+            },
+            "asset": "char_4091_ulika/CN_029"
+        },
+        {
+            "id": "char_4091_ulika_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Phew, it's finally over... Time to get a good night's sleep. I hope I don't have any more weird dreams about war.",
+                "jp": "ふぅ～……やっと終わったぁ、ゆっくり寝るぞ。もう戦場に行くなんて変な夢見ませんように……",
+                "kr": "휴~ 드디어 끝났다…… 이제 마음 놓고 푹 자야지. 전장에 가는 꿈 같은 건 이젠 사양이야……",
+                "cn": "呼啊......终于结束了，我要好好睡一会儿，别再做这种上战场的怪梦了。"
+            },
+            "asset": "char_4091_ulika/CN_030"
+        },
+        {
+            "id": "char_4091_ulika_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Hey you guys running off there, don't forget to tell your friends and family about me. Thank you!",
+                "jp": "逃げてった人たち～、周りに私の配信をいっぱい勧めてね、よろしく！",
+                "kr": "지금 도망치는 여러분~ 주변에 내 방송 많이 많이 추천해 줘, 부탁할게!",
+                "cn": "跑掉的那几位，记得向亲朋好友多多宣传我的直播，谢谢啦！"
+            },
+            "asset": "char_4091_ulika/CN_031"
+        },
+        {
+            "id": "char_4091_ulika_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Waahhh… this is the worst ending to a stream I could've imagined…",
+                "jp": "うぅ～、これもう放送事故だよね……",
+                "kr": "으으…… 이건 방송사고인데……",
+                "cn": "呜呜，这已经算是耻辱下播了吧......"
+            },
+            "asset": "char_4091_ulika/CN_032"
+        },
+        {
+            "id": "char_4091_ulika_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Can I use this place as the backdrop for my next stream? No? Fine, I'll try someplace else then.",
+                "jp": "ここ、次の配信で背景に使ってもいいですか？だめ？分かりましたよ、他の場所でやります。",
+                "kr": "다음 방송 여기에서 해도 괜찮을까요? 안 된다고요? 알겠어요, 다른 곳에서 할게요.",
+                "cn": "这里可以做下次直播的背景吗？不行？好吧，我换个地方。"
+            },
+            "asset": "char_4091_ulika/CN_033"
+        },
+        {
+            "id": "char_4091_ulika_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Don't jumpscare me like that! A monster just pushed me into the pit, now I have to do a 'no death run'…",
+                "jp": "驚かせないでくださいよ――敵に穴に落とされちゃった、ライフ一個でクリアしないといけなくなるなんて……",
+                "kr": "갑자기 놀래키지 마세요! 아, 박사님 때문에 구멍으로 떨어졌잖아요. 이제 목숨 하나로 클리어해야 된단 말이에요……",
+                "cn": "别突然吓我啊——被怪物推到坑里去了，接下来只能挑战一命通关了......"
+            },
+            "asset": "char_4091_ulika/CN_034"
+        },
+        {
+            "id": "char_4091_ulika_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "I'm done streaming, Doctor. Wanna take a walk around the deck?",
+                "jp": "ドクター、配信終わりましたよ。甲板へ散歩にでも行きますか？",
+                "kr": "박사님, 방송도 끝났는데 같이 갑판에서 산책이나 하실래요?",
+                "cn": "博士，我下播啦。去甲板上转转吗？"
+            },
+            "asset": "char_4091_ulika/CN_036"
+        },
+        {
+            "id": "char_4091_ulika_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4091_ulika/CN_037"
+        },
+        {
+            "id": "char_4091_ulika_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Thanks for letting me stream from your office, Doctor.",
+                "jp": "ドクター、いつも執務室で配信させてくれてありがとうね。",
+                "kr": "박사님, 집무실에서 방송하는 거 허락해 주셔서 정말 감사해요!",
+                "cn": "博士，经常在你的办公室里直播，给你添麻烦啦。"
+            },
+            "asset": "char_4091_ulika/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "LilyPichu",
+            "global": "LilyPichu"
+        },
+        "cn": {
+            "native": "筱筝",
+            "global": "ZZ"
+        },
+        "jp": {
+            "native": "高田憂希",
+            "global": "Yuuki Takada"
+        },
+        "kr": {
+            "native": "방시우",
+            "global": "Bang Si-u"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

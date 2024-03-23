@@ -60,6 +60,18 @@
         "rating": 1
     },
     {
+        "nameid": "ulika",
+        "numberid": "4091",
+        "name": {
+            "en": "U-Official",
+            "jp": "U-Official",
+            "kr": "U-Official",
+            "cn": "U-Official"
+        },
+        "nation": "rhodes",
+        "rating": 1
+    },
+    {
         "nameid": "frston",
         "numberid": "4093",
         "name": {
@@ -2232,6 +2244,18 @@
         "rating": 5
     },
     {
+        "nameid": "coldst",
+        "numberid": "4104",
+        "name": {
+            "en": "Coldshot",
+            "jp": "コールドショット",
+            "kr": "콜드샷",
+            "cn": "冰酿"
+        },
+        "nation": "columbia",
+        "rating": 5
+    },
+    {
         "nameid": "spuria",
         "numberid": "4015",
         "name": {
@@ -2265,6 +2289,18 @@
             "cn": "雪雉"
         },
         "nation": "lungmen",
+        "rating": 5
+    },
+    {
+        "nameid": "almond",
+        "numberid": "4105",
+        "name": {
+            "en": "Almond",
+            "jp": "アーモンド",
+            "kr": "아몬드",
+            "cn": "杏仁"
+        },
+        "nation": "columbia",
         "rating": 5
     },
     {
@@ -3273,6 +3309,18 @@
             "cn": "号角"
         },
         "nation": "victoria",
+        "rating": 6
+    },
+    {
+        "nameid": "jesca2",
+        "numberid": "1034",
+        "name": {
+            "en": "Jessica the Liberated",
+            "jp": "滌火ジェシカ",
+            "kr": "제시카 더 리버레이티드",
+            "cn": "涤火杰西卡"
+        },
+        "nation": "columbia",
         "rating": 6
     },
     {

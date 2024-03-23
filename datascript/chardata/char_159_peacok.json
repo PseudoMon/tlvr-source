@@ -570,6 +570,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Jad Saxton",
+            "global": "Jad Saxton"
+        },
         "cn": {
             "native": "谢莹",
             "global": "Ying Xie"
@@ -584,6 +588,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

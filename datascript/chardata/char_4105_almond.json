@@ -1,0 +1,596 @@
+{
+    "charid": "char_4105_almond",
+    "nameid": "almond",
+    "names": {
+        "en": "Almond",
+        "jp": "アーモンド",
+        "kr": "아몬드",
+        "cn": "杏仁"
+    },
+    "voices": [
+        {
+            "id": "char_4105_almond_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Eh, how come work at the Engineering Department here is even more exhausting than Blacksteel? Good thing I've got some easy paperwork for a change of pace. Lemme start with this one. Umm... Hehe, sorry I bothered you, Doctor. I've got work to do, so I'm heading back to Engineering.",
+                "jp": "はぁ～、ここのエンジニア部さぁ、BSWよりハードで訳分かんないよ。楽ちんな仕事で気分転換したいから書類触らせて。とりまこれでいいや。うわぁ……ごめん、邪魔したね、ドクター！やっぱエンジニア部に戻るわ！",
+                "kr": "하아, 너네 엔지니어링부 일이 어째 블랙스틸 일보다 더 빡세단 말이지. 마침 여기 왔으니까 간단한 서류 작업이라도 하면서 머리 좀 식혀야겠다. 그럼 이것부터 해볼까. 씁…… 미안, 박사, 실례. 이만 엔지니어링 부로 돌아가 볼게.",
+                "cn": "唉，你们的工程部怎么比黑钢还累，正好来你这做做简单的文书工作换换脑子，就从这份文件先开始好了。嘶......对不起，打扰了，博士，我先回工程部了。"
+            },
+            "asset": "char_4105_almond/CN_001"
+        },
+        {
+            "id": "char_4105_almond_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Doctor, you should've told me you dropped something behind this shelf. Look at you, wriggling around on the floor all day. Alright, get up. I've got specialized tools I use to carry bulky, heavy engineering equipment. We'll move it aside and grab your stuff. Do you have earplugs, though? It's probably gonna hurt your ears when I tow around this heavy-ass metal shelf...",
+                "jp": "ドクター、棚の下に物を落としたなら早く言ってよね、こんな這いつくばっちゃってさ。はい、立って立って。運搬専用の道具があるからこれを使お。普段でっかくて重たい設備は全部この子たちに頼ってるんだ。ところで耳栓持ってる？この鉄の棚を動かすってなると、キーキーするよ？",
+                "kr": "박사, 그러게 내가 캐비닛 이동하자고 했지, 그렇게 아래 들어간 물건 못 꺼낸다니까 나참. 일어나 일어나, 나한테 딱 적절한 운반 도구가 있거든. 평소에 그 크고 무거운 설비들을 옮길 땐 이 녀석들 덕을 톡톡히 보고 있지. 아, 근데 혹시 귀마개 있어? 철제 캐비닛이라 옮길 때 꽤 시끄러울 것 같거든……",
+                "cn": "博士，早说你要搬柜子捡东西嘛，看你在这里趴了半天。起来起来，我有专门的工具，平时搬运那些巨大又笨重的工程设备全靠它俩。不过你有耳塞吗？这铁皮柜子拖起来声音应该挺刺耳......"
+            },
+            "asset": "char_4105_almond/CN_002"
+        },
+        {
+            "id": "char_4105_almond_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Be brave, Laura. If you want your work to go smoothly and advance your career, you gotta take the plunge. Think about your future... Think about your dreams... Ah! What are you doing behind me?! I, I'm fine, it's just... I gotta get an injection tomorrow. I'm... I'm trying to get myself ready.",
+                "jp": "勇気を出せ、ローラ。仕事を無事に終わらせるために、もうワンステージ上のキャリアを築くために、自分の夢と未来のために、やってやるんだ……ちょっ、なんで後ろにいるの！いや、なんでもないよ。ただ……明日注射を打たないといけないから、心の準備をしてたの。",
+                "kr": "용기를 내, 로라. 일을 순조롭게 끝내기 위해, 커리어를 쌓기 위해, 너의 꿈과 미래를 위해, 눈 딱 감고 단번에 해 버리는 거야…… 뭐야, 갑자기 뒤에서! 아, 아무것도 아니야, 그게…… 내일 주사를 맞아야 해서, 마음의 준비를 하고 있었어.",
+                "cn": "勇敢点，罗拉，为了工作能够顺利进行，为了事业能够更进一步，想想你的未来与梦想，放手一搏吧。欸，你怎么在我身后！嘘！没事啦，就......明天要去打针，我做点心理准备嘛。"
+            },
+            "asset": "char_4105_almond/CN_003"
+        },
+        {
+            "id": "char_4105_almond_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "If you ask me, the most annoying part of engineering projects and experiments is the funding! Even when you get your hands on it, you still have lots to worry about. Everything I do costs money, and every monthly account statement is red as hell, and my budget's always like toilet paper! Speaking of, how much funding can you give me next month? I gotta start planning early.",
+                "jp": "工学の実験で何が一番困るってお金だよお金！予算をもらったとしても終わりじゃないんだ。何をするにもお金がかかるし、月末の帳簿は真っ赤っかだし、計画なんて毎回倒れるもん。予算っていえばさドクター、来月はいくら割り当ててくれるの？早めに次のプラン立てなきゃなんだよね～。",
+                "kr": "공학 실험에서 가장 골치 아픈 건 예산이야, 예산! 근데 또 예산을 받았다고 끝나는 건 아니란 말이지. 사방에 돈 나갈 구석밖에 없어서, 월말에 장부를 보면 싹 다 시뻘건 글씨뿐이라고, 계획 같은 건 하-나도 쓸모가 없어. 말 나온 김에 박사, 다음 달에 예산은 얼마나 배정해 줄 거야? 나 다음 계획을 빨리 세워야 하거든~",
+                "cn": "要我说，搞工程做实验最烦的就是经费啊经费！就算拿到手也要愁，每个地方都要花钱，一到月底账目表上全是赤字，计划总白做。说起来，博士你下个月能批多少预算啊？我得早早做个计划。"
+            },
+            "asset": "char_4105_almond/CN_004"
+        },
+        {
+            "id": "char_4105_almond_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "My whole family lived in a single basement room when we first moved from Bolívar to Columbia. The space under my mother's bed was my first 'engineering lab.' I made lots of weird trinkets there. But I also got smacked just as much, heheh.",
+                "jp": "ボリバルからクルビアに来たばっかりの頃は、家族全員でちっちゃな地下室で暮らしててね、ママのベッドの下が、あたしちゃん人生初の「マイラボ」だったんだよね。そこで面白いものいっぱい作ったんだから！ま～、いっぱい大目玉も食らったんだけど。",
+                "kr": "볼리바르에서 컬럼비아로 막 왔을 때, 온 가족이 작은 지하실 단칸방에서 부대끼며 살았었어. 엄마 침대 밑이 바로 인생 첫 '마이 랩'이었지. 거기서 재밌는 거 완전 많이 만들었었는데! 하아, 물론 그만큼 혼나기도 많이 혼났지만.",
+                "cn": "刚从玻利瓦尔来哥伦比亚时，我和家里人挤在一间地下室里，妈妈的床底下就是我人生中第一个“工程实验室”，在那里我搞了很多稀奇古怪的小玩意儿，唉，不过挨的揍也很多就是了。"
+            },
+            "asset": "char_4105_almond/CN_005"
+        },
+        {
+            "id": "char_4105_almond_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "The power plant is like the heart of a nomadic plate. During my years in the field with my team, I've basically been its primary physician. Either I'm giving it all I got to recover its pulse, or... I'm pronouncing it dead when there's nothing more I can do.",
+                "jp": "移動区画にとって、動力炉って心臓なんだよね。うちのチームと外勤に明け暮れてたここ数年間のあたしちゃんは、動力炉の執刀医みたいなもんだったよ。全身全霊かけて心拍を再開させるか、その……無力さを噛みしめて死亡宣告をするかってとこ。",
+                "kr": "이동도시에 있어서 동력로는 심장이나 다름없어. 팀이랑 같이 현장을 뛰던 지난 몇 년간, 난 동력로의 집도의나 마찬가지였지. 마지막 기력을 쥐어짜서라도 그 심장을 다시 뛰게 만들던가, 아니면…… 무기력하게 사망 선고를 내린다든가 말이야……",
+                "cn": "对于移动地块来说，动力炉就是它的心脏。和小队一起出外勤的这些年，我就像是它的主刀医生，要么拼尽最后一丝力气让它的心脏恢复搏动，要么，唉，在最后一刻无可奈何地宣布它的死亡。"
+            },
+            "asset": "char_4105_almond/CN_006"
+        },
+        {
+            "id": "char_4105_almond_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Hey, hey, Doctor! Down here! Look at me! I've got good news. Our engineering project just had a major breakthrough. Don't stand there like a bump on a log. Come, let's sit down, I'll show you... Oh my gosh, I'm sorry, I forgot to wash my hands. I got a handprint on your coat....",
+                "jp": "ねえねえ、ドクター！こっち見て！すっごく良い知らせがあるの。ロドスとの共同プロジェクトでめちゃくちゃ大きい進展があって、立ってないで早く座って、説明をするから、うわぁ……ごめんごめん！手を洗うの忘れてて、コートにべっとり手形つけちゃった。",
+                "kr": "여기, 여기! 박사! 아래쪽이야! 아주 좋은 소식이 있어, 우리의 공동 프로젝트에 굉장한 진전이 있다고! 서 있지 말고 빨리 앉아 봐. 내가 말이지, 으아악…… 미안, 손 씻는 걸 깜빡했네, 네 겉옷에 까만 손자국이 남아버렸어.",
+                "cn": "哎呀，博士！低头看我！有个好消息我要向你汇报，我们合作的工程项目刚有了重大突破，别站着，赶紧坐，让我给你，嘶......抱歉，我忘记洗手了，给你外套上留了个黑手印。"
+            },
+            "asset": "char_4105_almond/CN_007"
+        },
+        {
+            "id": "char_4105_almond_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Nah, don't worry. My kneecap's not hurt. I just have a small crystal there, so I hide it with a band-aid. I know there's no need to hide it here, but I'm used to it. You know, Doctor, sometimes I wonder, If I'd met you guys before Blacksteel... Never mind. We don't have time for what-ifs.",
+                "jp": "違う違う、別にケガしてないよ。単に小さい結晶が膝にできたから、絆創膏を貼っといただけ。ロドスだと隠す必要はないけど、もう習慣になっちゃってさぁ。もしあの時出会ったのがBSWじゃなくて、キミたちだったら……おって、やめやめ。「もしも」を考えてる時間なんてないもん。",
+                "kr": "아니야 아니야, 무릎 안 다쳤어. 그냥 작은 결정이 하나 자라서, 반창고를 붙여놨을 뿐이야. 로도스 아일랜드에선 가릴 필요가 없지만 습관이 돼서 말이지. 만약 그때 먼저 만났던 게 블랙스틸이 아니라 너희들이었다면…… 아니야, 됐다. '만약' 같은 걸 생각할 시간이 어딨어.",
+                "cn": "没啦没啦，我膝盖没受伤，就是长了一个小结晶，所以用创可贴遮起来了。在这里是不用遮，但习惯了嘛。如果当时先遇见的不是黑钢，而是你们......算啦，我哪有时间能留给假设呢。"
+            },
+            "asset": "char_4105_almond/CN_008"
+        },
+        {
+            "id": "char_4105_almond_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Doctor, you give everything you've got, even when there's nothing in it for you, just like Jessica. I'm not nearly as selfless as you guys, but I know when to be grateful. I won't let you down or squander the money and trust you two invested in me. I promise.",
+                "jp": "ドクターってジェシカちゃんと同じで、見返りがなくても相手のために動くよね。あたしちゃんはそこまで無条件に人に優しくできないけど、感謝の気持ちはちゃんと持ってるよ。キミたちが出してくれたお金にも、寄せてくれた信頼にも応えてみせる。絶対絶対その期待は裏切らないよ。",
+                "kr": "박사, 너도 제시카처럼 대가 없이도 남을 돕는구나. 난 너희들처럼 사심 없이 누군가를 돕진 못하겠지만, 고마움은 알아. 너희가 나한테 투자한 돈 한 푼, 나한테 준 믿음 한 조각, 모두 져버리지 않을 거야, 절대로.",
+                "cn": "博士，你和杰西卡一样，就算没有回报，也愿意付出。我是没你们那样无私，不过我是知道感恩的，你们投资给我的每一分钱，投注在我身上的每一份信任，我都不会辜负，绝对绝对不会。"
+            },
+            "asset": "char_4105_almond/CN_009"
+        },
+        {
+            "id": "char_4105_almond_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Falling asleep right on your desk... and your hair blocking your eyes like that. Hmm, guess I'll leave you this bone-shaped hairpin.",
+                "jp": "デスクで寝ちゃってるじゃん……てかその前髪、垂れて見にくかったりしないの？しょうがないなぁ、この骨ちゃんヘアピンをあげるよ。",
+                "kr": "책상에 엎드린 채로 자는 건가…… 잠깐, 앞머리가 눈 찌를 거 같은데. 어쩔 수 없지, 이 뼈다귀 핀은 너한테 줘야겠네.",
+                "cn": "居然趴在办公桌上睡着了......等等，你额前的头发垂下来不会挡到眼睛吗？啧，这枚小骨头发卡留给你好了。"
+            },
+            "asset": "char_4105_almond/CN_010"
+        },
+        {
+            "id": "char_4105_almond_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Pleasure to meet ya! I'm the engineer Blacksteel sent here on exchange. Just call me Almond. Are you the Doctor Jessica's always talking about? Let me get a good look at you. Hmm... You seem fine and... Normal, I guess?",
+                "jp": "こんにちは！あたしちゃんは、BSWから交流派遣されてきたエンジニアだよ。アーモンドって呼んでね。キミがジェシカちゃんが言ってたドクター？なら、よーく見ないとね。うんうん……なんだ至ってフツーじゃない。",
+                "kr": "안녕~! 난 이번에 블랙스틸에서 로도스 아일랜드로 파견된 엔지니어야, 아몬드라고 불러줘. 네가 바로 제시카가 말하던 박사구나? 어디 보자, 음…… 별로 신기할 건 없는 것 같은데?",
+                "cn": "我是此次黑钢派来与罗德岛交流的工程师，叫我杏仁就好。你就是杰西卡口中的博士？我可得好好看看你，嗯......也没有什么稀奇的嘛。"
+            },
+            "asset": "char_4105_almond/CN_011"
+        },
+        {
+            "id": "char_4105_almond_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Now this is interesting. I never thought you could use engineering machinery like that.",
+                "jp": "ふむふむ……興味深いね、まさか工学機械がこんな風に使えるなんてね。",
+                "kr": "음…… 흥미롭네, 공학 기계를 이렇게도 쓰는구나.",
+                "cn": "嗯......有意思，想不到工程机械还能这么应用。"
+            },
+            "asset": "char_4105_almond/CN_012"
+        },
+        {
+            "id": "char_4105_almond_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Oh, you shouldn't have. It's all a part of our contract. I'm just doing my job so… Hold on! What did you just say...? Invest · ment?",
+                "jp": "全部契約書で決まってる話でしょ、大したことないない。待って！今……投資って言った？",
+                "kr": "전부 계약서에 쓰여 있던 내용이잖아, 뭐 당연한 걸 가지고. 잠깐! 방금…… 투자라고 했어?",
+                "cn": "都是合同里的内容啦，小事小事都是小事。等等！你刚说什么......投资？"
+            },
+            "asset": "char_4105_almond/CN_013"
+        },
+        {
+            "id": "char_4105_almond_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Aw, come on. you can drop the act. I've worked on so many projects with Rhodes Island's Engineering Department. You're not here just to nitpick, are you?",
+                "jp": "へっへーん、もったいぶらなくっていいよ。あたしちゃんはロドスのエンジニア部とあーんなに沢山のプロジェクトを成功させたんだし、まさか叱りに来たわけじゃないでしょ？",
+                "kr": "후후, 아닌 척하긴. 내가 로도스 아일랜드의 엔지니어링부랑 같이 해낸 프로젝트가 몇 갠데, 설마 혼내러 온 건 아닐 거잖아?",
+                "cn": "哼哼，别装啦，我和罗德岛的工程部一起做成了那么多项目，你来总不会是为了批评我吧？"
+            },
+            "asset": "char_4105_almond/CN_014"
+        },
+        {
+            "id": "char_4105_almond_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "You need my tech on the battlefield too? No problem!",
+                "jp": "戦場であたしちゃんの力が必要なの？任せなさい！",
+                "kr": "전장에서 내 기술이 필요하다고? 맡겨만 줘!",
+                "cn": "战场上也需要我的技术吗？没问题！"
+            },
+            "asset": "char_4105_almond/CN_017"
+        },
+        {
+            "id": "char_4105_almond_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "I used to lead an engineering team, but now a combat team…? Alright, let's do this. Everyone, listen for the whistle!",
+                "jp": "前にリーダーしてたのは全部エンジニアチームだったんだよ、今回はまさかの戦闘部隊かぁ……まっいいか。みんな、あたしちゃんの笛に従ってね。",
+                "kr": "전에 이끌던 건 항상 엔지니어링 팀이었는데, 이젠 전투 소대까지…… 뭐, 괜찮아. 다들, 내 호루라기 소리 잘 듣고 움직여!",
+                "cn": "以前带的都是工程小队，这次居然是战斗小队......也好，大家听我哨声行动。"
+            },
+            "asset": "char_4105_almond/CN_018"
+        },
+        {
+            "id": "char_4105_almond_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Woo! I just got a new idea. Better write it down as soon as the fight's over.",
+                "jp": "おっ、新しいアイデアを思いついた。戦いが終わったらすぐにメモしなきゃ。",
+                "kr": "오, 새로운 아이디어가 떠올랐어. 전투가 끝나는 대로 적어 둬야지.",
+                "cn": "嘶，突然想到了新点子，战斗结束后可得抓紧时间记下来。"
+            },
+            "asset": "char_4105_almond/CN_019"
+        },
+        {
+            "id": "char_4105_almond_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Careful now, 'cause you won't escape once my little friends catch you!",
+                "jp": "どっちの鈎ちゃんに引っかかっても、逃げられないからね～。",
+                "kr": "어느 장비에 걸리든 못 도망칠걸~",
+                "cn": "不管被哪件装备吸住，都是逃不掉的哦。"
+            },
+            "asset": "char_4105_almond/CN_020"
+        },
+        {
+            "id": "char_4105_almond_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Need me for something?",
+                "jp": "あたしちゃんの出番？",
+                "kr": "내가 나갈 차례야?",
+                "cn": "需要我做什么？"
+            },
+            "asset": "char_4105_almond/CN_021"
+        },
+        {
+            "id": "char_4105_almond_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "You need anything, I'm your girl!",
+                "jp": "要望があるなら、遠慮せずに言って！",
+                "kr": "요구사항이 있으면 뭐든 말해!",
+                "cn": "有什么需求尽管提！"
+            },
+            "asset": "char_4105_almond/CN_022"
+        },
+        {
+            "id": "char_4105_almond_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "It's all just like the blueprints. Peerrfect!",
+                "jp": "何もかも図面通り、完璧だね！",
+                "kr": "모든 게 도면대로야, 완벽해!",
+                "cn": "一切都和图纸上一样，完美！"
+            },
+            "asset": "char_4105_almond/CN_023"
+        },
+        {
+            "id": "char_4105_almond_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Even without a blueprint, I'm adaptable enough to work it out.",
+                "jp": "図面がなくったって、あたしちゃんの臨機応変な対応で十分よ！",
+                "kr": "도면이 없더라도, 내 임기응변이면 충분하지!",
+                "cn": "就算没有图纸，有我的随机应变也足够啦。"
+            },
+            "asset": "char_4105_almond/CN_024"
+        },
+        {
+            "id": "char_4105_almond_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "All parameters set. Fire!",
+                "jp": "パラメータ設定完了。発射！",
+                "kr": "파라미터 설정 완료, 발사!",
+                "cn": "参数设定完毕，发射！"
+            },
+            "asset": "char_4105_almond/CN_025"
+        },
+        {
+            "id": "char_4105_almond_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Sheesh, why are you so heavy?",
+                "jp": "ねぇ、ちょっと重すぎるんだけど。",
+                "kr": "아니, 왜 이렇게 무거운 건데.",
+                "cn": "拜托，你怎么这么重啊。"
+            },
+            "asset": "char_4105_almond/CN_026"
+        },
+        {
+            "id": "char_4105_almond_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Get over here!",
+                "jp": "サクッとおいで！",
+                "kr": "이쪽으로 와!",
+                "cn": "过来吧你！"
+            },
+            "asset": "char_4105_almond/CN_027"
+        },
+        {
+            "id": "char_4105_almond_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Oh shoot, my grappling hook's stuck! Sorry for tripping you!",
+                "jp": "あ～、鈎縄が引っかかっちゃった――転ばせてごめんね！",
+                "kr": "앗, 갈고리에 걸렸네…… 넘어뜨린 건 미안!",
+                "cn": "哎呀，钩索卡住了——害你摔倒还真不好意思呢！"
+            },
+            "asset": "char_4105_almond/CN_028"
+        },
+        {
+            "id": "char_4105_almond_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Doctor! Once we're back, be sure to check my blueprints! I can't just let you go when you've got such a great mind!",
+                "jp": "ドクター！戻ったらあたしちゃんの図面見てよね！キミみたいな頭脳は、有効活用しなきゃ！",
+                "kr": "박사! 돌아가면 내 도면 좀 같이 봐줘! 네 두뇌는 가만히 놔두면 낭비라고!",
+                "cn": "博士！回去麻烦看一下我的设计图！像你这样的头脑，我可不能随便放过！"
+            },
+            "asset": "char_4105_almond/CN_029"
+        },
+        {
+            "id": "char_4105_almond_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Good work, Doctor! Want a cookie? Too tough to chew...? Hmm… I think it's fine…",
+                "jp": "ドクター、お疲れ様！クッキー食べる？……硬いの？そんなことないと思うけどなぁ。",
+                "kr": "박사, 수고했어. 쿠키 먹을래? ……딱딱하다고? 난 괜찮던데.",
+                "cn": "博士，辛苦了，要不要来块饼干？......很硬吗？我没觉得欸。"
+            },
+            "asset": "char_4105_almond/CN_030"
+        },
+        {
+            "id": "char_4105_almond_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "I would've liked a more perfect finish, but these results aren't so bad.",
+                "jp": "あたしちゃん的にはもっと完璧に勝ちたいけどさ、今の戦果だって悪くはないよ。",
+                "kr": "조금 더 완벽했으면 좋았겠지만. 뭐, 이런 결과도 나쁘진 않네.",
+                "cn": "我是希望更完美一点的啦，不过这样的结果也不坏。"
+            },
+            "asset": "char_4105_almond/CN_031"
+        },
+        {
+            "id": "char_4105_almond_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Laying down smoke! Doctor, we'd better fall back while the enemy can't see us!",
+                "jp": "スモーク起動！ドクター、敵に見つからないうちに早く逃げるよ！",
+                "kr": "스모크 가동! 박사, 적에게 들키기 전에 빨리 도망가자!",
+                "cn": "发烟器启动！博士，趁敌人看不清，我们赶紧跑！"
+            },
+            "asset": "char_4105_almond/CN_032"
+        },
+        {
+            "id": "char_4105_almond_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "The wiring in this room's terrible. Who did this? I'm gonna sort everything out here line by line.",
+                "jp": "ここ配線ぐちゃぐちゃすぎ。誰がやったの？くー、全部綺麗にしてやるんだから！",
+                "kr": "이 방, 배선이 엉망이잖아. 도대체 누가 한 거야? 흥, 오늘 내가 아주 하나하나 뜯어고쳐 주겠어.",
+                "cn": "你这个房间布线也太乱了，谁搞的？哼，今天非得一根根给你排整齐了不可。"
+            },
+            "asset": "char_4105_almond/CN_033"
+        },
+        {
+            "id": "char_4105_almond_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Wai-wai-wait! Don't push! You'll mess up all the cables in my backpack!",
+                "jp": "ちょちょちょ、触らないで！リュックの中の線材がぐちゃぐちゃになる！",
+                "kr": "아아앗, 안 돼! 가방 안에 있는 케이블선이 엉켜 버린다고!",
+                "cn": "啊啊啊，不要动我！背包里的线材会乱的！"
+            },
+            "asset": "char_4105_almond/CN_034"
+        },
+        {
+            "id": "char_4105_almond_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "No · touching · my head!",
+                "jp": "頭は撫でちゃだめ！",
+                "kr": "머리는 쓰다듬지 마!",
+                "cn": "脑袋不可以摸！"
+            },
+            "asset": "char_4105_almond/CN_036"
+        },
+        {
+            "id": "char_4105_almond_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4105_almond/CN_037"
+        },
+        {
+            "id": "char_4105_almond_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "I'm all set, Doctor. Ready to start working whenever!",
+                "jp": "ドクター、準備はできてるから、いつでも仕事できるよ！",
+                "kr": "박사, 난 준비 다 됐으니까 얼른 일 시작하자.",
+                "cn": "博士，我已经准备好了，随时可以开工！"
+            },
+            "asset": "char_4105_almond/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Eden Riegel",
+            "global": "Eden Riegel"
+        },
+        "cn": {
+            "native": "二娇",
+            "global": "Er Jiao"
+        },
+        "jp": {
+            "native": "芹澤優",
+            "global": "Yu Serizawa"
+        },
+        "kr": {
+            "native": "김예림",
+            "global": "Kim Yea-lim"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}
