@@ -17,7 +17,7 @@
                 "cn": "任命助理"
             },
             "text": {
-                "en": "Do you need medical assistance, Doctor? You look quite energetic, though...",
+                "en": "Do you require medical assistance, Doctor? But, you look quite well…?",
                 "jp": "私の医療サービスが必要ですか？でもドクター様はすごく元気そうに見えますよ……？",
                 "kr": "제 의료 서비스가 필요하신가요? 그렇지만 박사님께선 무척 건강해 보이시는데요…?",
                 "cn": "你需要医疗服务吗？可是你看上去很精神啊，博士......"
@@ -33,7 +33,7 @@
                 "cn": "交谈1"
             },
             "text": {
-                "en": "Doctor, you have been working far too late these days. Please get adequate rest, or Dr. Kal'tsit may give you an earful next time she sees you!",
+                "en": "Doctor, you have been working far too late these days. Please get adequate rest, or Dr. Kal'tsit may give you an earful again…",
                 "jp": "ドクター様、最近夜更けまで仕事をされていることが多いようです。ご注意ください。ケルシー先生に怒られてしまいますよ。",
                 "kr": "박사님, 요즘 밤늦게까지 일하시는 게 잦은 것 같네요. 주의하여주세요. 안 그러면 켈시 선생님께 혼날 거라고요.",
                 "cn": "博士，你在最近的工作中熬夜次数过多，请注意休息，不然凯尔希医生又要向你说教了。"
@@ -49,7 +49,7 @@
                 "cn": "交谈2"
             },
             "text": {
-                "en": "Please tell me where you feel uncomfortable. I could also do an examination, if you like.",
+                "en": "Are you feeling unwell? I could give you a medical examination, if you wish.",
                 "jp": "どこか具合でも悪いのでしょうか？よろしければ私に診させていただけませんか。",
                 "kr": "어디 편찮으신 데라도 있으신가요? 괜찮으시다면, 제가 잠깐 봐드려도 될까요?",
                 "cn": "感觉什么地方不舒服？请让我来帮你看一看吧。"
@@ -65,7 +65,7 @@
                 "cn": "交谈3"
             },
             "text": {
-                "en": "You've worked hard. How would you like a cup of coffee, Doctor? I'd also like a sip of that coffee... but I can't... so I'll just have to be satisfied watching you enjoy yours.",
+                "en": "You've worked hard, Doctor. How would you like a cup of coffee? Actually, I've always wanted to try coffee... but... I can't drink… Anyway, I am also satisfied watching you enjoy yours.",
                 "jp": "ご職務お疲れ様です。ドクター様、コーヒーはいかがでしょうか。本当のところ私も一口飲んでみたいのですが、うう…残念ながら飲めないので……ドクター様のコーヒーを楽しむ姿を眺めるだけで満足です。",
                 "kr": "근무하시느라 고생이 많으시네요. 박사님, 커피는 어떠신가요? 사실은 저도 한 입 마셔보고 싶습니다만, 으으… 아쉽게도 마실 수가 없는 관계로… 박사님께서 커피를 즐기시는 모습을 바라보는 것만으로 만족합니다.",
                 "cn": "工作辛苦了，来杯咖啡吧博士。其实我也很想喝咖啡，但是我并不能喝......我看着你喝就好啦。"
@@ -81,7 +81,7 @@
                 "cn": "信赖提升后交谈1"
             },
             "text": {
-                "en": "I've printed out the standard blood test report I just did for you. Everything looks normal, but there's a very unique characteristic about your blood...",
+                "en": "I've printed out the results of the routine blood test you just did. All indicators are normal. But Doctor, your blood appears to be very unique…",
                 "jp": "先ほどの血液検査の結果報告書を印刷して参りました、全ての項目が正常値のようです。ですがドクター様、どうやらあなたの血液は特殊なタイプみたいですよ……？",
                 "kr": "방금 전의 혈액검사 결과 보고서를 인쇄해왔습니다. 모든 항목이 정상수치네요. 하지만 박사님, 아무래도 박사님의 혈액은 특수한 타입인 것 같네요.",
                 "cn": "我已经打印了刚才为你做的血常规项目的医学报告，一切正常。不过你的血液有着非常特殊的性质耶......"
@@ -97,7 +97,7 @@
                 "cn": "信赖提升后交谈2"
             },
             "text": {
-                "en": "What do I like? I like 'lovely Ms. Closure.'Why, you ask? Uh... I'm not sure either! That's what my settings have been ever since Ms. Closure first initialized me...",
+                "en": "What do I like? I like 'lovely Ms. Closure.' Why, you ask? Uh... I'm not sure either... It's been my default setting ever since the first time Ms. Closure switched me on… ",
                 "jp": "私の好きなもの、ですか？それは、「かわいいクロージャお姉様」です。どうして？と言われましても……私にはよくわかりません。クロージャ様が私を再設定した際にそのように登録したのです。うう……。",
                 "kr": "제가 좋아하는 것, 말씀이신가요? 그건, '귀여운 클로저 언니'입니다. 왜냐고 물으셔도… 저는 잘 모르겠습니다. 클로저 님께서 저를 재설정하실 때 그렇게 등록했거든요. 으으… ",
                 "cn": "我喜欢的东西？是“可爱的可露希尔姐姐”。你问为什么？这个......我也不是很清楚为什么啊，可露希尔她在初始化我的首选项的时候就这么设置了，呜......"
@@ -113,7 +113,7 @@
                 "cn": "信赖提升后交谈3"
             },
             "text": {
-                "en": "I only feel useful when someone's sick or injured. But as long as you're healthy, as long as I get to be by your side... I'm okay with being useless! I'll still feel safe.",
+                "en": "I am only useful when healing the sick or injured. But as long as you're healthy, as long as I get to be by your side, I'm okay with being totally useless. I'll still feel calm and satisfied.",
                 "jp": "誰かが怪我や病気になった時にだけ、私は人の役に立てていることを実感できます。しかしドクター様には元気でいてほしいです。なにも役に立つことができなくても、ただドクター様のそばにいられるだけで、私は満足ですから……。",
                 "kr": "누군가가 다치거나 병들었을 때면, 저는 사람에게 도움이 된다는 걸 실감할 수 있습니다. 하지만 박사님께선 건강하셨으면 좋겠습니다. 아무런 도움이 되지 않는다고 해도, 그저 박사님의 곁에 있는 것만으로 저는 만족하니까요…",
                 "cn": "我通常只有在有人受伤或者生病时，才能感觉到自己发挥了作用。但对我来说，只要博士你能保持健康，即使我无法发挥任何作用、只是一直跟着你，我也会很安心的......"
@@ -129,7 +129,7 @@
                 "cn": "闲置"
             },
             "text": {
-                "en": "Doctor, I made a recording of you snoring just now! Your sleep quality is normal. The length of your REM sleep cycle is—",
+                "en": "Doctor, unbeknownst to you, I recorded your snoring just now. Your sleep quality is normal. The length of your REM sleep cycle is—",
                 "jp": "ドクター様のいびきを録音させていただきました。睡眠の質は良好、ノンレム睡眠の時間は——。",
                 "kr": "박사님의 코골이를 녹음했습니다. 수면의 질은 양호, 비렘수면 시간은…",
                 "cn": "博士你刚才打呼噜的声音，我已经偷偷录下来了。你的睡眠质量正常，深度睡眠时间为——"
@@ -145,7 +145,7 @@
                 "cn": "干员报到"
             },
             "text": {
-                "en": "Hello, Doctor. You want me to say something more interesting to you? I'm afraid I have nothing interesting to say. I'm just a medical robot...",
+                "en": "Hi, nice to meet you, Doctor. I understand that you want me to say something more interesting, but I'm afraid I cannot do so. Because I'm just a medical robot…",
                 "jp": "こんにちは、ドクター様。私に面白いことを期待されても、特に何か話せるようなことはありません。あくまで私は、ただの医療用ロボットですから……。",
                 "kr": "안녕하세요 박사님. 제게 재밌는 것을 기대하셔도 딱히 말씀드릴 수 있는 건 없습니다. 전 어디까지나, 그냥 의료용 로봇이니까요……",
                 "cn": "嗨，你好，博士。你在期待我能对你多说些什么，但我不能，毕竟我只是一台医疗机器人......"
@@ -177,7 +177,7 @@
                 "cn": "编入队伍"
             },
             "text": {
-                "en": "Medical supplies: confirmed. Battery charge: confirmed. Ready to deploy.",
+                "en": "Medical supplies: confirmed. Battery charge: confirmed. Ready for deployment.",
                 "jp": "医療設備の消毒、完了。充電、完了。いつでも出発可能です。",
                 "kr": "의료 설비의 소독, 완료. 충전, 완료. 언제든지 출발 가능합니다.",
                 "cn": "医疗设备消毒，ok。电力，ok。随时可以出发。"
@@ -193,7 +193,7 @@
                 "cn": "任命队长"
             },
             "text": {
-                "en": "I'm pretty cumbersome... not much I can do besides providing emergency treatment and healing. Yet you still want me to be the captain?",
+                "en": "Doctor, I'm pretty cumbersome. There's not much I can do besides providing emergency treatment and healing... Are you sure you still want me to be the captain?",
                 "jp": "救急と治療以外のことを何一つできない私は、足手まといにしかならないですが……それでも私に隊長を任せていただけるのでしょうか？",
                 "kr": "저는 구급과 치료 말곤, 할 줄 아는 게 없어 방해만 될 것 같습니다만… 그래도 제게 팀장을 맡기시겠습니까?",
                 "cn": "笨重的我除了急救和治疗以外就什么都做不了......就算如此，博士你还是打算让我领队吗？"
@@ -209,7 +209,7 @@
                 "cn": "行动出发"
             },
             "text": {
-                "en": "Deploying. I hope no one gets injured.",
+                "en": "Moving out. Everyone, please be safe.",
                 "jp": "出発します……。皆様、お怪我のないように。",
                 "kr": "출발합니다… 모두, 다치지 않기를 바랍니다.",
                 "cn": "出发......希望大家都不要受伤。"
@@ -225,7 +225,7 @@
                 "cn": "行动开始"
             },
             "text": {
-                "en": "Be careful, everyone! Leave the first aid to me.",
+                "en": "Be careful, everyone. Leave the first aid to me.",
                 "jp": "皆様お気をつけてください！緊急治療なら私にお任せください。",
                 "kr": "여러분 조심하여 주십시오! 긴급 치료라면 제게 맡겨주시기 바랍니다.",
                 "cn": "请小心应战！紧急治疗的任务请放心交给我。"
@@ -257,7 +257,7 @@
                 "cn": "选中干员2"
             },
             "text": {
-                "en": "Ready.",
+                "en": "Ready to operate.",
                 "jp": "準備完了です。",
                 "kr": "준비는 끝난 상태입니다.",
                 "cn": "已就绪。"
@@ -273,7 +273,7 @@
                 "cn": "部署1"
             },
             "text": {
-                "en": "Very well.",
+                "en": "Affirmative.",
                 "jp": "はい。",
                 "kr": "네.",
                 "cn": "好。"
@@ -289,7 +289,7 @@
                 "cn": "部署2"
             },
             "text": {
-                "en": "Copy.",
+                "en": "Roger that.",
                 "jp": "かしこまりました。",
                 "kr": "알겠습니다.",
                 "cn": "收到。"
@@ -305,7 +305,7 @@
                 "cn": "作战中1"
             },
             "text": {
-                "en": "Commence treatment.",
+                "en": "Commencing treatment.",
                 "jp": "治療を開始します。",
                 "kr": "치료를 시작합니다.",
                 "cn": "开始治疗。"
@@ -321,7 +321,7 @@
                 "cn": "作战中2"
             },
             "text": {
-                "en": "First aid program: executed.",
+                "en": "Initiating first aid.",
                 "jp": "緊急治療プログラム、起動！",
                 "kr": "긴급 치료 프로그램, 기동!",
                 "cn": "紧急治疗启动！"
@@ -337,7 +337,7 @@
                 "cn": "作战中3"
             },
             "text": {
-                "en": "Painkillers deployed.",
+                "en": "Analgesic deployed.",
                 "jp": "鎮痛剤を投与しました。",
                 "kr": "진통제를 투여했습니다.",
                 "cn": "镇痛剂已使用。"
@@ -353,7 +353,7 @@
                 "cn": "作战中4"
             },
             "text": {
-                "en": "Equipment disinfected. Ready for treatment.",
+                "en": "Equipment sterilized. Ready for treatment.",
                 "jp": "設備の消毒が完了しました。これより治療を開始します。",
                 "kr": "설비의 소독이 완료되었습니다. 지금부터 치료를 시작하겠습니다.",
                 "cn": "设备消毒完毕，准备治疗。"
@@ -369,7 +369,7 @@
                 "cn": "完成高难行动"
             },
             "text": {
-                "en": "With every battle, ever more soldiers are injured. When will humans finally stop hurting each other?",
+                "en": "With every battle, we suffer even more casualties. When will humans finally stop hurting each other?",
                 "jp": "このままでは戦って傷つく人が増えるだけです。人々の争いは一体いつまで続くのでしょうか？",
                 "kr": "이대로라면, 싸우다 다치는 사람이 계속 늘어나기만 할 겁니다. 사람들의 싸움은 대체 언제까지 계속되는 걸까요?",
                 "cn": "这样战斗下去受伤的人会越来越多的。人类的互相伤害究竟何时才能停止呢？"
@@ -385,7 +385,7 @@
                 "cn": "3星结束行动"
             },
             "text": {
-                "en": "Well done, Doctor. That was a tough one. The enemies looked sickly, don't you think? Can I treat them too?",
+                "en": "Well done, Doctor. That was a tough battle. Um, the enemies do not look well. Can I treat them too?",
                 "jp": "ドクター様、厳しい戦いお疲れ様でした。敵の皆様の具合が悪いようなので、治療して差し上げてもよろしいでしょうか？",
                 "kr": "박사님, 어려운 전투였음에도 불구하고, 정말 고생 많으셨습니다. 적 여러분의 상태가 좋지 않아 보이는 관계로, 제가 치료를 진행해도 되겠습니까?",
                 "cn": "辛苦了博士，真是一场恶战啊。那些敌人看上去是不是健康状况不太好啊，我可以为他们做治疗吗？"
@@ -401,7 +401,7 @@
                 "cn": "非3星结束行动"
             },
             "text": {
-                "en": "Is everyone okay? Hold still, I'll perform first aid on your wounds.",
+                "en": "Is everyone okay? Please hold still, I'll perform first aid.",
                 "jp": "皆様ご無事でしょうか？傷口を応急処置いたしますので、じっとしていてください。",
                 "kr": "다들 별일 없으신가요? 상처에 응급처치를 진행하겠사오니, 움직이지 말아주시기 바랍니다.",
                 "cn": "大家都没事吧？请不要动，我来帮你们紧急处理一下伤口。"
@@ -417,7 +417,7 @@
                 "cn": "行动失败"
             },
             "text": {
-                "en": "Don't worry, we've successfully retreated. However... I'll have to clean your wounds now. It might hurt, please be brave!",
+                "en": "Don't worry, we've successfully retreated. I will clean your wounds now. It might hurt, please be brave.",
                 "jp": "なんとか安全圏まで撤退できましたので、ご安心ください。では……これからオペを行います。少し痛いかもしれませんが、我慢してくださいね。",
                 "kr": "일단은 안전한 지역까지 철수했사오니, 이제 안심하여 주시기 바랍니다. 그럼… 지금부터 수술을 시작하겠습니다. 조금 아플 수도 있사오나, 부디 참아주시기 바랍니다.",
                 "cn": "没关系我们已经暂时撤退了。那个......接下我要清创，可能会有点痛，请忍住哦。"
@@ -433,7 +433,7 @@
                 "cn": "进驻设施"
             },
             "text": {
-                "en": "'Lovely Ms. Closure' told me that you need help here.",
+                "en": "Lovely Ms. Closure' told me that you need help here.",
                 "jp": "こちらに手伝いに来るようにと「かわいいクロージャお姉様」にも言われました。",
                 "kr": "이곳에 도움을 주라고 '귀여운 클로저 언니'께서 말씀하셨습니다.",
                 "cn": "“可爱的可露希尔姐姐”说这里需要帮忙。"
@@ -465,7 +465,7 @@
                 "cn": "信赖触摸"
             },
             "text": {
-                "en": "I asked 'lovely Ms. Closure' to change 'what I like the most' to you, Doctor. But she refused to do it... Waaahhh...",
+                "en": "I asked 'lovely Ms. Closure' to change 'what I like the most' to you, Doctor. But she refused to do it... ",
                 "jp": "「かわいいクロージャお姉様」に、私の「一番好きなもの」をドクター様に変更するようにお願いしてみましたが、秒で却下されました。うう……。",
                 "kr": "…'귀여운 클로저 언니'에게, 제 '가장 좋아하는 것'을 박사님으로 변경해달라고 부탁했지만, 단칼에 거절당했습니다. 으으…",
                 "cn": "我曾经找“可爱的可露希尔姐姐”，要求修改我“最喜欢的东西”变成博士你。但是她死活都不愿意......"
@@ -497,7 +497,7 @@
                 "cn": "问候"
             },
             "text": {
-                "en": "Welcome back, Doctor. You are in good condition. Keep it up!",
+                "en": "Welcome back, Doctor. You are in good condition. Please keep it up.",
                 "jp": "お帰りなさい、ドクター様。お身体の状況は良好なようですので、引き続き健康にお気をつけてくださいね。",
                 "kr": "어서 오세요 박사님. 몸 상태는 양호한 것으로 확인되오니, 앞으로도 계속 건강에 유의하여 주시기 바랍니다.",
                 "cn": "欢迎回来，博士。你的身体状况良好，要继续保持哦。"
@@ -506,6 +506,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Melody Peng",
+            "global": "Melody Peng"
+        },
         "cn": {
             "native": "郭琪",
             "global": "Kiki"
@@ -520,6 +524,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

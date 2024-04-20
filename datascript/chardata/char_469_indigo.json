@@ -35,7 +35,7 @@
             "text": {
                 "en": "I... I'm not very good at making conversation. I've always been alone. When I first left home to the outside world, I came across many people who were afraid of me. I even got my things stolen. It's no problem, though... As long as I still have my staff, I can work, so I don't often go hungry for long.",
                 "jp": "私……お話するのは苦手で、いつも一人でした。外に出たばかりの頃は、私を怖がる人もいましたし、荷物を騙し取られたこともあります。ですがご心配には及びませんよ。この杖さえあれば働けるので、食いつなぐことはできていましたから。",
-                "kr": "전…… 대화하는 게 서툴러서 항상 혼자였어요. 바깥에 나온 지 얼마 안 됐을 무렵엔 저를 무서워하는 사람들도 있었고, 속여서 물건을 빼앗은 사람도 있었죠. 하지만 걱정하실 필요는 없어요. 이 지팡이만 있으면 일할 수 있으니까 먹고살 수는 있었으니까요.",
+                "kr": "전…… 대화하는 게 서툴러서 항상 혼자였어요. 바깥에 나온 지 얼마 안 됐을 무렵엔 저를 무서워하는 사람들도 있었고, 속여서 짐을 빼앗은 사람도 있었죠. 하지만 걱정하실 필요는 없어요. 이 지팡이만 있으면 일할 수 있으니까, 어떻게든 먹고 살 수는 있었거든요.",
                 "cn": "我......不太擅长说话。以前总是一个人。刚到外面的时候，有些人很怕我。还有人骗走了我的行李。不过没关系......只要法杖还在，就还能工作，不至于饿很久。"
             },
             "asset": "char_469_indigo/CN_002"
@@ -51,7 +51,7 @@
             "text": {
                 "en": "Life inside the lighthouse was hardly boring at all. The seas are always changing. However, my teacher drove me out of the lighthouse, and said to me, 'If you don't see more of this world, you won't be able to protect even a small corner of the sea.' That's how I made my way here.",
                 "jp": "灯台での暮らしは、別に退屈ではありませんでした。海面が色んな表情を見せてくれましたから。ですが先生に、この大地をもっと見ないと海の片隅を守ることはできないと言われて、灯台の外に追い立てられました。それで、ここに来ることになったんです。",
-                "kr": "등대 생활이 딱히 따분하진 않았어요. 바다가 다양한 표정을 보여줬거든요. 하지만 선생님이 이 대지를 더 보지 않으면 바다의 한구석을 지킬 수 없다 하시면서 등대 밖으로 쫓아내셨죠. 그래서, 여기로 오게 된 거예요.",
+                "kr": "등대 생활이 딱히 따분하진 않았어요. 바다가 다양한 표정을 보여줬거든요. 하지만 선생님께서 이 대지를 더 보지 않으면 바다의 한구석을 지킬 수 없다 하시면서 등대 밖으로 쫓아내셨죠. 그래서, 여기로 오게 된 거예요.",
                 "cn": "灯塔里的日子并不枯燥。海面，总在变化。可老师把我赶了出来。她说我需要多看看这片大地，才能守好海边一隅。所以，我来到了这里。"
             },
             "asset": "char_469_indigo/CN_003"
@@ -67,7 +67,7 @@
             "text": {
                 "en": "Blue Poison gave me a new pair of gloves. Pretty, aren't they? She said the materials are improved as well. With these, it'll be harder for me to come in contact with any poison even if I hang out with my poison-wielding friends more. Actually, since I've been touching poisons by mistake all the time... it seems I may have built up an immunity.",
                 "jp": "アズリウスさんから新しい手袋を貰ったんですよ、綺麗でしょう？改良型の生地を使っていて、これがあれば、毒使いのお友達と仲良くしても、毒に接触しにくくなるそうです。ですが実は、いつもうっかり触ってしまうので……身体の方はもう毒に慣れてしまったみたいなんです。",
-                "kr": "블루포이즌 씨에게서 새 장갑을 받았어요. 예쁘죠? 개량형 원단으로 만들어져서 이게 있으면 독을 가진 친구랑 있어도 독에 잘 접촉되지 않게 해준대요. 하지만 사실, 늘 저도 모르게 만져 버려서…… 몸은 이미 독에 익숙해진 것 같아요.",
+                "kr": "블루포이즌 씨한테 새 장갑을 받았어요. 예쁘죠? 개량형 원단으로 만들어져서 이게 있으면 독을 가진 친구랑 있어도 독에 잘 접촉되지 않게 해준대요. 하지만 사실, 늘 저도 모르게 만져 버려서…… 몸은 이미 독에 익숙해진 것 같아요.",
                 "cn": "蓝毒送了我一副新手套，是不是很好看？她说材质也改良了，这样的话，我和那些精通毒理的朋友们相处，更不容易误触有毒物品。其实，因为总是不小心碰到......我的身体好像也习惯啦。"
             },
             "asset": "char_469_indigo/CN_004"
@@ -83,7 +83,7 @@
             "text": {
                 "en": "I used to gaze out at the sea each and every night. No one in town knew what it was we were guarding, and my teacher never told me. All I know is that, where there is darkness, there must always be lighthouses. I will stand firm, with all my power, until that day comes.",
                 "jp": "これまで夜になると、あの海を眺めて過ごすのが常でした。私たちが何を守っているのかは、町の人たちは誰も知りませんし、先生も教えてくれたことはありません。ですが、闇の中に灯台が必要だということだけはわかります。必ず守り抜きます、あの日が訪れるまで。",
-                "kr": "지금까지는 밤이 되면 그 바다를 보는 게 일상이었어요. 저희가 뭘 지키고 있는 건지는 마을 사람들도 전혀 모르고, 선생님도 가르쳐주지 않았죠. 하지만 어둠 속에 등대가 필요하다는 것만은 알아요. 반드시 지켜내겠어요, 그날이 찾아올 때까지.",
+                "kr": "지금까지는 밤이 되면 그 바다를 보는 게 일상이었어요. 저희가 뭘 지키고 있는 건지는 마을 사람들도 전혀 모르고, 선생님도 가르쳐주지 않았죠. 하지만 어둠 속에 등대가 필요하다는 것만은 알고 있어요. 반드시 지켜내겠어요, 그날이 찾아올 때까지.",
                 "cn": "过去的每一夜，我都在凝视那片海。我们在守望什么，镇子上无人知晓，老师也不曾说过。我只知道，黑暗中必须有灯塔。我将坚守，直至那一天来到。"
             },
             "asset": "char_469_indigo/CN_005"
@@ -99,7 +99,7 @@
             "text": {
                 "en": "Some people say this light is Originium Arts, but according to my teacher, this is a power that originates from my heart. With the light's guidance, those who sail through the foggiest nights will be able to resist the raging tides and find the correct bearing. That is why I will do my best to protect this light.",
                 "jp": "この光、アーツだと言う方もいますが、先生のお話によると、これは心の力だそうです。光の導きさえあれば、霧の夜を運航しても、波に呑まれずに正しい方向を把握できます。ですから、精一杯この光を守っていくつもりです。",
-                "kr": "이 빛을 아츠라고 하는 분들도 있지만, 선생님 이야기에 따르면 이건 마음의 힘이라고 해요. 빛의 인도만 있으면 밤안개 속을 항해하더라도 파도에 휩쓸리지 않고 올바른 방향을 파악할 수 있죠. 그래서 있는 힘껏 이 빛을 지키려고 해요.",
+                "kr": "이 빛을 아츠라고 부르는 분들도 있지만, 선생님 이야기에 따르면 이건 마음의 힘이라고 해요. 빛의 인도만 있으면 밤안개 속을 항해하더라도 파도에 휩쓸리지 않고 올바른 방향을 파악할 수 있죠. 그래서 전 있는 힘껏 이 빛을 지키려고 해요.",
                 "cn": "你看到的光，有人说，是源石技艺。可老师说，这是我们内心的力量。只要有光的指引，行驶在夜雾里的人，也能抵抗海浪的拉扯，找到正确的航向。我会努力守住这光亮。"
             },
             "asset": "char_469_indigo/CN_006"
@@ -131,7 +131,7 @@
             "text": {
                 "en": "My hair can get tangled up if they get too long. Could you hold it for me? It takes time to get my hair set properly, but it makes it much easier to stay on the move while I'm on the battlefield. I want to be able to help you even more.",
                 "jp": "髪が長くなりすぎると、よく絡まってしまいます。少し持ち上げていてもらえますか？整えるのは少し時間がかかりますが、その方が戦場で動きやすいので。私ももっとあなたの力になりたいんです。",
-                "kr": "머리가 너무 길어지면 자주 엉켜버려요. 잠깐 들어 올려주실래요? 정리하는 데 시간이 좀 걸리지만, 그편이 전장에서도 움직이기 편하니까요. 저도 더욱더, 당신의 힘이 되고 싶어요.",
+                "kr": "머리가 너무 길어지면 자주 엉켜버려서요. 잠깐 들어 올려주실래요? 정리하는 데 시간이 좀 걸리지만, 그편이 전장에서도 움직이기 편하거든요. 저도 더욱더, 당신의 힘이 되고 싶어요.",
                 "cn": "头发，太长了。会缠到。能帮我拿一下吗？整理起来会花一点时间。好了以后，上战场会更方便。我想更好地帮助你。"
             },
             "asset": "char_469_indigo/CN_008"
@@ -147,7 +147,7 @@
             "text": {
                 "en": "I've been starting to think that humans and lighthouses are very much alike... Some people can shine much farther and brighter than even lighthouses. Like you, Doctor. Would it be okay if I stay beside you for a little longer before I go back?",
                 "jp": "最近思うんです、人も灯台と同じだって……灯台よりも明るくて、遠くを照らせる人だっています。例えば、ドクターのような人。帰る前に、もう少しあなたの側にいてもいいですか？",
-                "kr": "요즘 이런 생각을 해요. 사람도 등대랑 똑같다고…… 등대보다 더 밝고 멀리까지 비추는 사람도 있는걸요. 예를 들면 박사님 같은 분처럼요. 돌아가기 전에 조금만 더, 당신 곁에 있어도 될까요?",
+                "kr": "요즘 이런 생각을 해요. 사람도 등대랑 똑같다고…… 등대보다 더 밝고 멀리까지 비추는 사람도 있는 걸요. 예를 들면 박사님 같은 분처럼요. 돌아가기 전에 조금만 더, 당신 곁에 있어도 될까요?",
                 "cn": "最近我开始觉得，人也能和灯塔一样......有的人，甚至比灯塔照得更远、更亮。比如说，博士你。在回去之前，我想在你身边待久一些，可以吗？"
             },
             "asset": "char_469_indigo/CN_009"
@@ -179,7 +179,7 @@
             "text": {
                 "en": "Hello, Doctor. My name is Aria... Uh, my mistake. It's Indigo. I used to be a lighthouse keeper... apprentice. Now, I'm a Caster... Also an apprentice. Please look after me.",
                 "jp": "はじめまして、ドクター。アリアと申し……あ、いえ、インディゴと申します。これまでは灯台の守り人……の見習いをしていました。これからは術師として……もちろん見習いとして、よろしくお願いします。",
-                "kr": "처음 뵙겠습니다, 박사님. 아리아라고 합…… 아, 아니, 인디고라고 합니다. 지금까지는 등대지기…… 견습생이었어요. 앞으로 캐스터로서…… 물론 견습생으로서, 잘 부탁드릴게요.",
+                "kr": "처음 뵙겠습니다, 박사님. 아리아라고 합…… 아, 아니, 인디고라고 합니다. 지금까지는 등대지기…… 견습생이었어요. 앞으론 캐스터로서…… 물론 견습생으로서, 잘 부탁드릴게요.",
                 "cn": "你好，博士，我叫艾莉亚......呃，不对，是深靛。我以前是一名灯塔看守人......见习的。现在是一名术师，还是......见习的。"
             },
             "asset": "char_469_indigo/CN_011"
@@ -227,7 +227,7 @@
             "text": {
                 "en": "Eh? I can do much more? It's true. My light is able to shine on a much larger area than before... Thank you. I will keep doing all I can.",
                 "jp": "えっ、私ならもっとできる？確かに、私の光も、以前より遠くまで届くようになってきました……ありがとうございます。これからも頑張ります。",
-                "kr": "네? 저라면 더 할 수 있다고요? 듣고 보니 제 빛도 전보다 더 멀리까지 닿게 됐네요…… 고맙습니다. 앞으로도 열심히 할게요.",
+                "kr": "네? 저라면 더 할 수 있다고요? 그러고 보니 제 빛도 전보다 더 멀리까지 닿게 됐네요…… 고맙습니다. 앞으로도 열심히 할게요.",
                 "cn": "呃，我还能做更多？确实，我发出来的光，照亮的范围变大了......谢谢。我会加油的。"
             },
             "asset": "char_469_indigo/CN_014"
@@ -243,7 +243,7 @@
             "text": {
                 "en": "Indigo at the ready.",
                 "jp": "インディゴ、いつでもいけます。",
-                "kr": "인디고, 언제든 가능합니다.",
+                "kr": "인디고, 언제든 출발할 수 있습니다.",
                 "cn": "深靛，随时待命。"
             },
             "asset": "char_469_indigo/CN_017"
@@ -291,7 +291,7 @@
             "text": {
                 "en": "If you won't let us pass through, then we have no choice but to defeat all of you.",
                 "jp": "道を開けてくれないのなら、全員倒すしかありません。",
-                "kr": "길을 열어 주지 않는다면 모두 쓰러뜨리는 수밖에요.",
+                "kr": "길을 열어 주지 않는다면 모두 쓰러뜨리는 수밖에 없겠네요.",
                 "cn": "不愿意让开的话，就只好把你们全部打退。"
             },
             "asset": "char_469_indigo/CN_020"
@@ -467,7 +467,7 @@
             "text": {
                 "en": "S-Some enemies got away? I saw. We must let everyone know.",
                 "jp": "に、逃げた敵がいる？見てしまったからには、絶対に皆さんに伝えないと。",
-                "kr": "도, 도망친 적이 있잖아? 발견한 이상 반드시 다른 분들께 전달해야 해.",
+                "kr": "도, 도망친 적이 있잖아? 발견한 이상 반드시 다른 분들께 전달해야 하는데.",
                 "cn": "有、有敌人逃跑？我看见了，这个消息必须让大家都知道。"
             },
             "asset": "char_469_indigo/CN_031"
@@ -577,10 +577,15 @@
         "jp": {
             "native": "氷青",
             "global": "Hyosei"
+        },
+        "kr": {
+            "native": "김서영",
+            "global": "Kim Seo-young"
         }
     },
     "availability": [
         "cn",
-        "jp"
+        "jp",
+        "kr"
     ]
 }

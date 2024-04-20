@@ -17,7 +17,7 @@
                 "cn": "任命助理"
             },
             "text": {
-                "en": "That's fine. If I stick with you, I'll at least be able to escape that dusty cabin and catch some fresh air.",
+                "en": "Fine. At least I can get a break from the dusty air outside, if I stay here with you.",
                 "jp": "まぁいい。あんたと一緒にいれば、少なくともホコリまみれの空気の中で一息つけるから。",
                 "kr": "뭐, 좋아.  적어도 당신과 함께 있으면 먼지투성이의 공기 속에서 한숨 돌릴 수 있으니까.",
                 "cn": "也好，和你待在一起的话，至少能在满是粉尘的空气中稍微喘口气。"
@@ -33,7 +33,7 @@
                 "cn": "交谈1"
             },
             "text": {
-                "en": "I don't shy away from sensitive topics regarding the Infected? That's correct, they're not like us, which should be obvious, but they're also like us in the sense that they have the right to seize hope. Therefore, there's no need for me to take extra care of them. That's equality, is it not?",
+                "en": "I don't shy away from sensitive discussions about the Infected? That's true. They're obviously different from us. But they also have the right to seize hope, just like us. So they don't need me to do anything special for them. That's equality, isn't it?",
                 "jp": "私が感染者の話題を避けたりしないって？ええ、彼らが私やあんたと違うってのは見れば分かるけど、彼らにだって希望を勝ち取る権利はある。その点では私たちと同じだからね。だから過剰に気を使う必要はないと思う。それこそが平等ってものでしょ、違う？",
                 "kr": "내가 감염자에 대한 화제를 피하지 않는다고? 맞아, 그들이 나나 당신과 다르다는 건 보면 알지만, 그들에게도 희망을 쟁취할 권리는 있어. 그 점에서는 우리와 같으니까. 그러니까 지나치게 신경을 쓸 필요는 없어. 그게 바로 평등하다는 거잖아, 아니야?",
                 "cn": "我不避讳关于感染者的话题？没错，他们和你我不同，这显而易见，但他们也有赢得希望的权利，这点上我们又是一样的。所以我没必要太过照顾他们，这才是一视同仁，不是吗？"
@@ -49,7 +49,7 @@
                 "cn": "交谈2"
             },
             "text": {
-                "en": "Blaze is sometimes too reckless. I know she's strong, but... What? You know how to deal with her? Tch... Forget it, I'll ask Amiya how to handle her after we get back.",
+                "en": "Blaze is too reckless sometimes. I know she's strong, but… What? You know how to handle her?  Forget it, I'll ask Amiya what I should do to get along with her after we get back.",
                 "jp": "ブレイズは無鉄砲過ぎるところがある。もちろん彼女が強いのは知ってるけど、でも……え？あんたは平気？ハァ……もういい、あの人の手懐け方、後でアーミヤにちょっと聞いてみる。",
                 "kr": "블레이즈는 너무 무모한 면이 있어. 물론 그녀가 강하다는 건 알지만, 그래도…… 뭐? 당신은 괜찮다고? 하아…… 그만하자. 그 사람을 상대하는 법, 나중에 아미야한테 잠깐 물어볼게.",
                 "cn": "煌有时候太莽撞了，我知道她很强，但是......什么？你能应付得来？啧，算了，回头向阿米娅好好请教一下，到底怎么对付那个家伙。"
@@ -65,7 +65,7 @@
                 "cn": "交谈3"
             },
             "text": {
-                "en": "I'm just speaking objectively here, but if you don't want to be discriminated against, then you also shouldn't expect preferential treatment from others... What, she went back to her room to cry? Look, I feel a little bad about it, but is someone like her really suited to be an Operator?",
+                "en": "I was just speaking objectively. If you don't want to be discriminated against, then you shouldn't expect special treatment... What, she went back to her room crying? Look, I feel a little bad about it, but is someone that fragile really operator material?",
                 "jp": "客観的な意見を述べただけ。差別されたくないなら、逆に気を使ってもらいたいなんて考えは捨てて。……えっ、部屋に戻って大泣きしてた？ちょっとは悪いと思うけど、ああいう人にオペレーターなんて本当に務まるの？",
                 "kr": "객관적인 의견을 말한 것뿐이야. 차별받고 싶지 않으면서 반대로 신경 써 주길 바라는 생각은 버려…… 뭐? 방으로 돌아가서 엄청나게 울었다고? 조금은 미안하게 생각하지만, 그런 사람이 정말로 오퍼레이터 일을 잘 해낼 수 있겠어?",
                 "cn": "我只是客观地表达意见而已，既然不愿意被他人歧视，那就不要指望他人会顾虑自己......什么，回到宿舍大哭？虽然有点过意不去，但这样的人真的适合成为干员吗？"
@@ -81,7 +81,7 @@
                 "cn": "晋升后交谈1"
             },
             "text": {
-                "en": "Rhodes Island is changing. Maybe you might not feel it, {@nickname}, since these changes are because of you, and not everyone is as disagreeable as I am. However, I do enjoy Rhodes Island's current direction.",
+                "en": "Rhodes Island is changing, Doctor. Maybe you don't feel it, since you're the reason it's changing, and not everyone is so annoyingly outspoken as I am. Anyway, I do appreciate the direction Rhodes Island is moving.",
                 "jp": "ロドスは変わりつつある、あんたは気づいてないかもしれないけどね。変化のきっかけはあんたにあるし、周りの人も私みたいに嫌な奴ばかりじゃないから。まぁ、今のロドスの方向性、私は結構好きよ。",
                 "kr": "당신은 눈치채지 못했을지도 모르지만, 로도스 아일랜드는 변하고 있어. 변화의 계기는 당신한테 있어, 주변에 나처럼 짜증 나는 녀석만 있는 건 아니니까. 뭐, 지금 로도스 아일랜드의 방향성, 난 꽤 좋다고 봐.",
                 "cn": "罗德岛在变化，也许{@nickname}没什么感觉，毕竟这些变化本就是因你而起，况且也不是所有人都像我一样招人讨厌。不过，我倒是挺喜欢罗德岛现在的方向。"
@@ -97,7 +97,7 @@
                 "cn": "晋升后交谈2"
             },
             "text": {
-                "en": "I used to prefer choosing long-distance missions, as if trying to flee from Rhodes Island. Isn't that a bit ungrateful, considering Rhodes Island adopted me? As for right now? Haha, if there are still operators who like splattering blood everywhere, maybe I will apply to be sent somewhere else.",
+                "en": "I used to prefer long-distance missions, like I was running away from Rhodes Island. I'll admit that was a little ungrateful, considering Rhodes Island adopted me. But now? Hehe, if you still have operators who like splattering blood all over the place, maybe I'll apply to serve in some faraway place again.",
                 "jp": "前までは、ここから遠く離れるような任務を受けていた。そう、まるでロドスから逃げるみたいにね。拾ってもらったのに、まさに恩知らずってことよ。最近は違う？フフ、そこら中に血を撒き散らすやつが参加してる任務なら、やっぱり他のエリアに行かせてもらうかもね。",
                 "kr": "예전에는 여기서 멀리 떨어지는 임무를 받았어. 맞아, 마치 로도스 아일랜드에서 도망치듯 말이야. 날 주워줬는데 정말로 은혜도 몰랐지. 최근엔 다르다고? 후후, 여기저기 피를 흩뿌리는 녀석이 참가하는 임무라면 역시 다른 지역으로 보내달라고 할지도 몰라.",
                 "cn": "以前我喜欢选择一些路途遥远的任务，就像是要逃离罗德岛一样。明明罗德岛收养了我，这么做可真是忘恩负义。现在？呵呵，如果还有干员喜欢把血撒得到处都是，那我应该还是会申请去其他地区吧。"
@@ -113,7 +113,7 @@
                 "cn": "信赖提升后交谈1"
             },
             "text": {
-                "en": "Doctor, are you afraid? Of Catastrophes, Originite, Oripathy, and the Infected? Mm, even now, I'm still plagued by nightmares. But now, I have Amiya, as well as idiots like that Blaze. It seems that I'm not as afraid as I used to be.",
+                "en": "Doctor, would you sometimes feel afraid? Catastrophes, Originium, Oripathy, and the Infected? Hm, I'm still plagued by nightmares even now. But these days, I have Amiya, and idiots like that Blaze. I guess I'm not as afraid as I used to be.",
                 "jp": "天災、源石、鉱石病、そして感染者、ドクターは怖くない？ええ、私は相変わらず、悪夢にうなされる日々よ。でも今はアーミヤ、あと……あのバカ……ブレイズもいるし、最初の頃よりかは、怖くなくなったのかもね。",
                 "kr": "재앙, 오리지늄, 광석병, 그리고 감염자. 박사는 무섭지 않아? 맞아, 난 여전히 매일 악몽에 시달리는 날들을 보내고 있어. 하지만 지금은 아미야, 그리고 그 바보…… 블레이즈도 있고. 처음보다는 덜 무서워졌는지도 모르겠네.",
                 "cn": "博士，你会害怕吗？天灾，源石，矿石病，还有感染者。嗯，我现在都在被噩梦侵扰。不过现在有阿米娅，还有煌那样的笨蛋，好像也没有一开始那么恐怖了。"
@@ -129,7 +129,7 @@
                 "cn": "信赖提升后交谈2"
             },
             "text": {
-                "en": "Why are you called 'Doctor?' No, I'm not trying to get you to remember anything, it's just that title makes me very... wistful. Looking at all the Infected people around you makes me remember... just a little bit of the past.",
+                "en": "Why are you called 'Doctor?' No, I'm not trying to get you to remember anything, it's just that title makes me very... wistful. Looking at all the Infected around you... Brings to mind a little bit of the past.",
                 "jp": "あんたってどうしてドクターと呼ばれてるの？いや、何か思い出せって言ってるわけじゃない、ただ、その呼び方はとても……懐かしくて。あの感染者たちがあんたを囲んでるのを見て、少しだけ、昔の思い出が浮かんできちゃって。",
                 "kr": "당신은 왜 박사라고 불리는 거야? 아니, 뭔가를 생각해 내라는 게 아니라, 그냥 그 호칭이 무척…… 그리워서. 저 감염자들이 당신을 둘러싸고 있는 걸 보고 조금이지만 옛날 추억이 떠올랐거든.",
                 "cn": "你为什么被称为博士？不，我不是要你回忆什么，只是这个称呼......让我很怀念。看着那些感染者们围绕在你身边，稍微，让我会想起过去的事情。"
@@ -145,7 +145,7 @@
                 "cn": "信赖提升后交谈3"
             },
             "text": {
-                "en": "I've known this entire time. When my mother brought me to Rhodes Island, she had already gone crazy. I could not feel the pain of her turmoil, but I can relate with it, because I relied on that obsession to get me to where I am today. Only now, I've found a new direction... I want to find her, and I want to save her.",
+                "en": "I've known the whole time. When my mother brought me to Rhodes Island, she'd already lost her mind. I didn't feel the pain her inner conflicts caused her, but I can relate to it, because I relied on that obsession to get me to where I am today. Only now, I've found a new direction... I want to find her, and I want to save her.",
                 "jp": "本当は知ってた。母さんが私を連れてきたときには、あの人はもう狂ってしまっていた。あの狂気を孕んだ苦しみは私には知りえないけど、理解はできるよ。私もそんな執念に駆られて今日まで生きてきたから。でも、私は新しい生き方を見つけた……あの人を見つけて、助けてあげたいんだ。",
                 "kr": "사실은 알고 있었어. 엄마가 날 데리고 왔을 때, 그 사람은 이미 미쳐있었어. 그 광기를 품은 고통을 내가 알 길은 없지만, 이해는 할 수 있어. 나도 그런 집념에 사로잡혀 오늘까지 살아왔으니까. 하지만 난 새로운 삶의 방식을 찾았어…… 그 사람을 찾아서, 도와주고 싶어.",
                 "cn": "其实我知道，母亲把我送来的时候就已经疯了。我无法对她混沌的痛苦感同身受，但我能理解，因为我也靠着那股执念走到了今天。只是，我找到了新的方向......我想找到她，我想拯救她。"
@@ -161,7 +161,7 @@
                 "cn": "闲置"
             },
             "text": {
-                "en": "You shoulder the future of Rhodes Island, and those who hold up the bridge cannot be so lackadaisical.",
+                "en": "You shoulder the future of Rhodes Island. And with the burden of that responsibility, you can't be so lackadaisical.",
                 "jp": "あんたはロドスの未来を背負ってる人よ。そんな支えになる人がこんなに弛んでてどうするの。",
                 "kr": "당신은 로도스 아일랜드의 미래를 짊어진 사람이야. 그런 버팀목이 될 사람이 이렇게 풀어져 있으면 어떡해.",
                 "cn": "你肩负着罗德岛的将来，撑起桥梁的人可不能如此懈怠。"
@@ -177,7 +177,7 @@
                 "cn": "干员报到"
             },
             "text": {
-                "en": "So you're {@nickname}? Amiya told me about you. I'm GreyThroat; please don't disappoint me.",
+                "en": "So you're the Doctor? Amiya told me about you. I'm GreyThroat. Please don't disappoint me.",
                 "jp": "あんたがドクター？あんたのことはアーミヤから聞いてる。私はグレースロート、がっかりさせないでね。",
                 "kr": "당신이 박사? 당신에 대해선 아미야한테 들었어. 난 그레이스롯이야, 날 실망시키지 마.",
                 "cn": "你就是{@nickname}？我听阿米娅提起过你，我就是灰喉，请不要让我失望。"
@@ -193,7 +193,7 @@
                 "cn": "观看作战记录"
             },
             "text": {
-                "en": "For efficiency's sake, speed up the playback. I can still see it clearly.",
+                "en": "For efficiency's sake, speed up the playback. I'll still be able to see it all clearly.",
                 "jp": "効率悪いから、適当に倍速再生をして。私は問題ないから。",
                 "kr": "비효율적이니까 대충 2배속으로 재생해. 난 문제 없으니까.",
                 "cn": "为了效率，适当地加速播放吧，我看得清。"
@@ -209,7 +209,7 @@
                 "cn": "精英化晋升1"
             },
             "text": {
-                "en": "Even now, there are still a handful of Operators who I am on bad terms with. Hopefully my promotion will not be a cause of criticism?",
+                "en": "Even now, I'm still on bad terms with a handful of operators. My promotion might spark controversy, just a reminder.",
                 "jp": "今でも私と仲の悪いオペレーターは結構いるよ。私を昇進させたら非難されるかもしれないけどいいの？",
                 "kr": "지금도 나와 사이가 나쁜 오퍼레이터는 꽤 있어. 날 승진시키면 비난받을지도 모르는데, 괜찮겠어?",
                 "cn": "即使是现在，和我关系不好的干员依旧不在少数，让我获得晋升恐怕会引起非议哦？"
@@ -225,7 +225,7 @@
                 "cn": "精英化晋升2"
             },
             "text": {
-                "en": "Whether Infected or not, we all choose to step upon this land through our own free will, and so we must all work hard to survive, right?",
+                "en": "Whether Infected or not, we all choose to walk upon this land of our own free will. And so we must all work hard to survive, right?",
                 "jp": "感染者も普通の人も、自分の意志でこの大地で立ってるからには、必死に生きていかなきゃいけない。そうでしょう？",
                 "kr": "감염자도 평범한 사람도, 자신의 의지로 이 대지에 선 이상 필사적으로 살아가지 않으면 안 돼. 그렇잖아?",
                 "cn": "感染者也好，普通人也罢，既然我们以自己的意志踩在这片土地上，就必须要努力活着，对吧？"
@@ -305,7 +305,7 @@
                 "cn": "选中干员1"
             },
             "text": {
-                "en": "I'm right here.",
+                "en": "I'm here.",
                 "jp": "ここ。",
                 "kr": "여기야.",
                 "cn": "我在这里。"
@@ -369,7 +369,7 @@
                 "cn": "作战中1"
             },
             "text": {
-                "en": "Your movements are too slow.",
+                "en": "Such slow movements.",
                 "jp": "遅すぎる。",
                 "kr": "너무 느려.",
                 "cn": "动作也太慢了。"
@@ -385,7 +385,7 @@
                 "cn": "作战中2"
             },
             "text": {
-                "en": "I see them. But they don't see me. Too bad.",
+                "en": "I see them. Too bad they don't see me.",
                 "jp": "私からは敵が見えるけど、向こうからは……残念だったね。",
                 "kr": "내 쪽에서는 적이 보이지만, 저쪽에서는…… 아쉽게 됐네.",
                 "cn": "我看得清他们，他们看不清我，可惜。"
@@ -401,7 +401,7 @@
                 "cn": "作战中3"
             },
             "text": {
-                "en": "The skills are enough to solve this situation.",
+                "en": "I'm skilled enough to resolve this.",
                 "jp": "テクニックを使えば、これくらい楽勝でしょ。",
                 "kr": "테크닉을 쓰면 이 정도는 식은 죽 먹기야.",
                 "cn": "靠技巧足以解决这些问题。"
@@ -417,7 +417,7 @@
                 "cn": "作战中4"
             },
             "text": {
-                "en": "Don't worry, there's nothing in their line of sight.",
+                "en": "Don't worry, their sights are totally empty.",
                 "jp": "敵の視界には何も映らない、心配無用よ。",
                 "kr": "적의 시야에는 아무것도 비치지 않으니까 걱정할 필요 없어.",
                 "cn": "他们的视野里空无一物，无需担心。"
@@ -449,7 +449,7 @@
                 "cn": "3星结束行动"
             },
             "text": {
-                "en": "I have no talent to speak of, so as a crossbowman, I cannot allow an enemy to get within three meters of me.",
+                "en": "I have no talent to speak of. So as a crossbowman, I can't let an enemy within three meters. Not even a corpse.",
                 "jp": "私には誇れる才能なんて何もない。だから狙撃手として、敵は必ず半径三メートル圏外で仕留めるように気をつけてる。",
                 "kr": "나에겐 자랑할만한 재능은 아무것도 없어. 그러니까 저격수로서 적은 반드시 반경 3미터 범위 밖에서 처리하도록 주의하고 있어.",
                 "cn": "我没有任何天赋可言，所以我作为弩手，绝不能允许敌人的尸首出现在三米之内。"
@@ -481,7 +481,7 @@
                 "cn": "行动失败"
             },
             "text": {
-                "en": "Be aware of your surroundings; I'll ensure the safety of the retreat route.",
+                "en": "Watch your flanks. I'll cover our retreat.",
                 "jp": "周囲を警戒しておいて。撤退ルートの安全確保は私に任せて。",
                 "kr": "주위를 경계해. 철수 경로의 안전 확보는 나한테 맡겨.",
                 "cn": "注意周围，我去确保撤退路线的安全。"
@@ -497,7 +497,7 @@
                 "cn": "进驻设施"
             },
             "text": {
-                "en": "Though I've been here for many years, I rarely go anywhere else...",
+                "en": "I've been here for years, but I rarely wander around inside…",
                 "jp": "ここで何年も過ごしてきたけど、基地以外の場所はほとんど行かないよね……。",
                 "kr": "여기서 몇 년이나 지냈지만, 기반시설 외의 장소는 거의 가지 않아……",
                 "cn": "尽管在这里待了很多年，我却很少去其他地方......"
@@ -513,7 +513,7 @@
                 "cn": "戳一下"
             },
             "text": {
-                "en": "Hyah?!",
+                "en": "Huh?!",
                 "jp": "うわっ！？",
                 "kr": "으앗?!",
                 "cn": "唔啊！？"
@@ -529,7 +529,7 @@
                 "cn": "信赖触摸"
             },
             "text": {
-                "en": "Aren't you afraid of upsetting the Operators who are Infected if you're always around me?",
+                "en": "Aren't you afraid of upsetting the Infected operators if they see you with me all the time?",
                 "jp": "あんた、いつも私と一緒にいて、感染者の人たちに文句言われない？",
                 "kr": "당신, 항상 나와 함께 있는데 감염자들이 불평하지 않아?",
                 "cn": "你总是和我待在一起，不会让那些感染者干员们不满吗？"
@@ -570,6 +570,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Risa Mei",
+            "global": "Risa Mei"
+        },
         "cn": {
             "native": "翁媛",
             "global": "Yuan Weng"
@@ -580,6 +584,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp"
     ]

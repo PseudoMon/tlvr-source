@@ -164,7 +164,7 @@
                 "en": "Captain of Reserve Op Team A6, Orchid, reporting in. Are you the Dr. {@nickname}? I look forward to working with you.",
                 "jp": "行動予備隊A6の隊長、オーキッドよ。ドクターというのはあなたのことかしら？これからよろしくお願いするわ。",
                 "kr": "예비작전팀 A6의 팀장, 오키드야. 당신이 {@nickname} 박사지? 앞으로 잘 부탁해.",
-                "cn": "预备行动组A6的组长，梓兰，前来报道。您就是Dr.{@nickname}吗，接下来的工作请多多关照。"
+                "cn": "预备行动组A6的组长，梓兰，前来报到。您就是Dr.{@nickname}吗，接下来的工作请多多关照。"
             },
             "asset": "char_278_orchid/CN_011"
         },

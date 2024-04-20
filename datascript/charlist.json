@@ -948,6 +948,18 @@
         "rating": 4
     },
     {
+        "nameid": "vrdant",
+        "numberid": "4107",
+        "name": {
+            "en": "Verdant",
+            "jp": "ヴァーダント",
+            "kr": "버던트",
+            "cn": "维荻"
+        },
+        "nation": "victoria",
+        "rating": 4
+    },
+    {
         "nameid": "plosis",
         "numberid": "128",
         "name": {
@@ -1704,6 +1716,18 @@
         "rating": 5
     },
     {
+        "nameid": "delphn",
+        "numberid": "4110",
+        "name": {
+            "en": "Delphine",
+            "jp": "デルフィーン",
+            "kr": "델핀",
+            "cn": "戴菲恩"
+        },
+        "nation": "victoria",
+        "rating": 5
+    },
+    {
         "nameid": "lava2",
         "numberid": "1011",
         "name": {
@@ -1905,6 +1929,18 @@
             "cn": "濯尘芙蓉"
         },
         "nation": "rhodes",
+        "rating": 5
+    },
+    {
+        "nameid": "vendla",
+        "numberid": "494",
+        "name": {
+            "en": "Vendela",
+            "jp": "ヴァンデラ",
+            "kr": "벤델라",
+            "cn": "刺玫"
+        },
+        "nation": "victoria",
         "rating": 5
     },
     {
@@ -3381,6 +3417,18 @@
             "cn": "仇白"
         },
         "nation": "yan",
+        "rating": 6
+    },
+    {
+        "nameid": "hodrer",
+        "numberid": "4088",
+        "name": {
+            "en": "Hoederer",
+            "jp": "へドリー",
+            "kr": "외드레르",
+            "cn": "赫德雷"
+        },
+        "nation": "rhodes",
         "rating": 6
     },
     {

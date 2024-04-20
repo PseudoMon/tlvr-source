@@ -1,0 +1,596 @@
+{
+    "charid": "char_4088_hodrer",
+    "nameid": "hodrer",
+    "names": {
+        "en": "Hoederer",
+        "jp": "へドリー",
+        "kr": "외드레르",
+        "cn": "赫德雷"
+    },
+    "voices": [
+        {
+            "id": "char_4088_hodrer_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Why is this history book only half-written? Because it is waiting to be filled with the wars yet to come. Those Sarkaz who march off to their deaths will be nothing but footnotes. Speak your mind, Doctor. You might just as well leave behind some unique commentary on this segment of history.",
+                "jp": "この歴史書が半分しか記されていない理由か？まだくすぶっている戦争がページを埋めるのを待っているのさ。死に急ぐサルカズの隊列はせいぜい脚注にしかならんだろうな。ドクター、思うことがあれば遠慮なく言ってくれ。お前ならこの歴史に、より独創的な評価が下せるかもしれない。",
+                "kr": "이 역사책은 왜 절반만 기록되어 있냐고? 그야, 앞으로 일어날 전쟁의 기록들이 자신의 빈칸을 채워 주기만을 기다리고 있기 때문이지. 죽음을 향해 발걸음을 재촉하는 그 살카즈들도 기껏해야 각주에 등장하는 정도일 거다. 박사, 하고 싶은 말이 있으면 주저 없이 말하도록. 어쩌면 너는 이 역사에 조금 더 독창적인 평가를 내릴 수 있을지도 모르겠군",
+                "cn": "为何这册历史书只有一半内容？它正等待着一场场尚未发生的战争来填充自己，那些列队走向死亡的萨卡兹也只配成为脚注而已。博士，请畅所欲言，也许你能为这段历史留下些更独特的评价。"
+            },
+            "asset": "char_4088_hodrer/CN_001"
+        },
+        {
+            "id": "char_4088_hodrer_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "I was the one who killed Scout. We made a 'transaction,' then I jammed my sword through through his heart. Mercenaries like us could put a price on anything. Hmph, the most unfair part of the deal was that I had to keep on living.",
+                "jp": "Scoutは俺が殺した。剣で心臓をひと突きだったよ。だが、あれはあくまで俺たちの間で交わされた「取引」の一環に過ぎない。傭兵の俺たちに、値踏みできないものなどないんだ。フッ、あの取引でなによりも不公平なのは、俺が生き続けなければならないという点だな。",
+                "kr": "그래, 스카우트는 내가 죽였어. 내가 칼로 그의 심장을 찔렀지. 하지만 그건 어디까지나 우리 사이에 오고 간 '거래'의 일부분일 뿐이야. 우리 같은 용병에게 있어, 값을 매길 수 없는 건 이 세상에 존재하지 않으니까. 하, 이 거래에서 가장 불공평한 점은, 난 계속해서 살아가야 한다는 점이겠지.",
+                "cn": "是我杀了Scout，用剑刺穿了他的心脏。在那时，我们把这件事定义为一场“交易”，我们是佣兵，没什么是不能估价的。哈，而这场交易最不公平的地方是，我仍需活下去。"
+            },
+            "asset": "char_4088_hodrer/CN_002"
+        },
+        {
+            "id": "char_4088_hodrer_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "A pathetic soul looking to crawl up out of the quagmire? Ines is right. Still, when the mire wanted to drag me under, I realized there was no escape. For most Sarkaz, they'd find only hatred-borne victories to swallow when they're hungry for revenge. But I refuse to believe it's the way it should be, and I won't stop finding for us a true path to freedom.",
+                "jp": "泥沼から逃れようと足掻く哀れな奴？そうだな、イネスの言う通りだ。しかしその泥沼の中心部に身を置いてみたら、逃げ場などないことを痛感させられたよ。普通のサルカズには、憎しみで凝り固まった勝利に身を捧げる以外に選択肢はないんだ……だが、本来そうあるべきではないはずだ。俺は絶対に、俺たちの自由な未来を諦めない。",
+                "kr": "수렁에서 벗어나기 위해 발버둥치던 불쌍한 녀석? 그래, 이네스 말이 맞아. 수렁 한가운데에 있고 나서야, 더 이상 도망칠 곳 따윈 없다는 걸 뼈저리게 깨달았지. 증오로 굳어진 승리에 목숨을 바치는 것 외에 평범한 살카즈에겐 별다른 선택지가 없어…… 하지만 그렇다고 해도, 난 우리의 자유로운 미래를 위해 포기하지 않을 생각이다.",
+                "cn": "想要逃离泥沼的可怜人？伊内丝说得对。可真正身处泥沼中心时，我发现无处可逃。为了由仇恨凝结的胜利，普通萨卡兹没有选择的权利......但不该如此，我不会放弃寻找我们更自由的结局。"
+            },
+            "asset": "char_4088_hodrer/CN_003"
+        },
+        {
+            "id": "char_4088_hodrer_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "When I was young, my mother taught me to read and write Sarkaz. I still remember that volume of 'Qui'lon's Expedition' she kept on her, its ink smudged with some guy's blood... She died of Oripathy. As for the book, it's gonna carry our hopes and tears, until time wears it out.",
+                "jp": "子どもの頃、よく母親にサルカズ文字を教わったものだ。母がよく手にしていた『クイロンの遠征』という本と、誰かの血で滲んだインクがよく印象に残っているよ。母は鉱石病で死んだが、あの本はきっと擦り切れてなくなるまで、俺たちの涙や希望を載せておいてくれるんだろうな。",
+                "kr": "어렸을 때, 어머니는 내게 살카즈 문자를 가르쳐 주시곤 했지. 지금도 어머니 손에 들린 《콜람의 원정대》라는 책과 누군가의 피로 얼룩진 잉크가 기억이 나는군. 어머니는 광석병으로 돌아가셨지만, 그 책만큼은 닳아서 없어질 때까지 우리의 눈물과 희망을 담고 있을 거다.",
+                "cn": "我还年幼的时候，母亲一直在教我萨卡兹文字，我仍记得她手中那一本《奎隆的远征》，和不知被谁的鲜血洇开的墨迹。她因矿石病而死，至于那本书，它注定承载我们的泪水与希望，直到磨灭殆尽。"
+            },
+            "asset": "char_4088_hodrer/CN_004"
+        },
+        {
+            "id": "char_4088_hodrer_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "While I was in prison, I liked to kill time by debating a scholar, an old Feline in the next cell over. Our conversations usually ended with him trying to prove that Victoria was more civilized than Kazdel. Eventually, he failed to prove it before the Sarkaz guards executed him. I should say it's not something I feel happy about.",
+                "jp": "獄中では、隣に収容されていた年寄りのフェリーンの学者と論じ合って時間を潰していたな。だが、ヴィクトリアの文明がカズデルよりも進んでいることを彼が証明するところでいつも話が止まっていたよ。サルカズの看守に処刑されて、結局その持論も証明されずじまいだったが、それで俺の勝ちだと喜べるはずもない。",
+                "kr": "감옥에 있었을 땐, 옆방에 수감된 늙은 필라인 학자와 논쟁을 벌이며 시간을 때우곤 했어. 하지만 이야기는 늘 그가 빅토리아의 문명이 카즈델보다 앞서 있다는 걸 증명하려는 부분에서 멈췄지. 살카즈 위병에게 처형당하기 전까지도 그는 자신의 생각을 증명하지 못했지만, 그걸 내 승리로 간주하고 기뻐할 순 없더군.",
+                "cn": "在监狱里，我喜欢同隔壁的菲林老学士辩论打发时间，但我们的对话往往中止于他试图证明维多利亚比卡兹戴尔更加文明。虽然直到被萨卡兹卫兵处决，他都没成功证明他的观点，可我很难为此开心。"
+            },
+            "asset": "char_4088_hodrer/CN_005"
+        },
+        {
+            "id": "char_4088_hodrer_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Most of the Sarkaz history books I collected have been lost. Whether burned to ash or cast aside in action like worthless scraps, their whereabouts hardly piqued anyone else's curiosity. But... for better or for worse, we have other ways to remember history.",
+                "jp": "集めていたサルカズの歴史書はもうほとんど失くしたよ。焼けて灰になろうが、作戦中にゴミとして捨てられようが、そんなもの誰も気にしないからな。だが……幸か不幸か、俺たちが歴史を記しておけるのは、本に限ったことじゃない。",
+                "kr": "내가 수집하던 살카즈 역사책들은 이제 대부분 사라지고 없어. 불에 타서 잿더미가 되기도, 작전 도중 다른 이들에 의해 쓰레기처럼 버려지기도 했지. 그런 역사책따위 아무도 신경 쓰지 않으니까. 하지만…… 불행인지 다행인지, 우리가 역사를 기록하는 방식은 책뿐만이 아니야.",
+                "cn": "我收藏的萨卡兹历史书籍大都遗失了，不论是在火焰中化作灰烬，还是在行动中被人弃之如敝屣，它们的下落都鲜有人问津。但......不知是幸运还是不幸，我们记住历史的方式，不仅有书籍。"
+            },
+            "asset": "char_4088_hodrer/CN_006"
+        },
+        {
+            "id": "char_4088_hodrer_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "No, it's nothing... Fine, 'Introduction to Accounting Practice,' borrowed it from the library. Ines says that all you need to know to open a shop is how to collect money and give change, and now I'm a little surprised to find out she's right. Well, I won't call this a waste of effort. At the very least...there's no harm in having some idle thoughts.",
+                "jp": "っ……いや、何もしてないが……はぁ、まあいい。図書室で借りた『実務経理入門』を読んでいただけだ。イネスは店をやるなら代金と釣りの計算さえできればいいと言っていたが、まさにその通りだったよ……いや、別に無駄にはならんだろう。何にせよ……ちょっと考えてみただけだ。",
+                "kr": "아니, 이건, 별 거 아니고…… 하아, 그래. 《실무 회계 입문》이라는 책을 도서실에서 빌려 읽고 있었다. 이네스가 가게를 열려면 돈 받는 거랑 거스름돈 계산만 할 줄 알면 된다고 했는데, 그 말이 진짜였을 줄이야. 뭐, 어쨌든 헛수고는 아니겠지. 나도 그냥…… 생각만 해 본 것뿐이다.",
+                "cn": "不，我没在干什么......好吧，《会计实务入门》，从图书室借的。伊内丝说开店只要懂得收钱和找零就行，她居然真的是对的。也不是无用功吧，反正......只是想想罢了。"
+            },
+            "asset": "char_4088_hodrer/CN_007"
+        },
+        {
+            "id": "char_4088_hodrer_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Can you guess who made these salted potatoes? W, Yeah. Hard to believe, huh? She actually cooks a lot more than Ines does. Try one, they're not bad. Mercenaries are good at taking lives, but there's a limit to one's energy. To hone our craft, we have to set aside everything else.",
+                "jp": "このじゃがいもの塩焼きを作ったのは誰だと思う？Wだよ。意外だったか？あいつはイネス以上に調理を任されることが多かったからな。案外イケるから一つどうだ。殺戮の専門家にならなければ傭兵は務まらんが、それを極めたければ他をすべて手放すしかないんだ。人間の行動力にも限界というものがあるのでな。",
+                "kr": "이 소금 감자구이를 만든 사람이 누구인지 알겠나? W다. 의외라고? 그 녀석이 이네스보다 요리를 더 자주 했었지. 한번 먹어 봐, 나쁘지 않을 거다. 용병으로 살아남기 위해선 살육의 전문가가 되어야 하지만, 인간의 행동력에도 한계는 있는 법이지. 이 길을 걷기로 선택한 이상, 다른 모든 걸 내려놓을 뿐이야.",
+                "cn": "你能猜到这些盐土豆是谁做的吗？是W。很不可思议？她做饭的次数比伊内丝还要多。尝尝吧，很不错。佣兵必须是杀戮的专家，但人的精力毕竟有限，我们要精于此道，就得放下其他所有东西。"
+            },
+            "asset": "char_4088_hodrer/CN_008"
+        },
+        {
+            "id": "char_4088_hodrer_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "What were you like back then? My lips are sealed, Doctor. Oftentimes, getting to forget is a gift. Make no mistake, I'm not suggesting you were a good person or some kind of bastard. People always expect things to 'return to the way they were,' whether it's about circumstances or people. However, amnesia won't give anyone a clean restart of life.",
+                "jp": "昔のお前？俺からは何も言うつもりはないぞ。忘却もある種の幸運だからな。過去のお前の善し悪しを揶揄しているわけではないし、記憶を失ったところで本当にすべてをやり直せるわけでもない。だが、人は「やり直し」に期待を寄せたくなるものだ。過去の出来事に対しても、人に対してもな。",
+                "kr": "과거의 너? 난 별로 하고 싶은 말이 없다만. 망각도 어떤 의미에선 행운이거든. 난 과거의 네가 좋은 사람이었는지 나쁜 사람이었는지를 암시하려는 게 아니야. 게다가 기억을 잃었다고 모든 걸 처음부터 다시 시작할 수 있는 것도 아니지 않나. 그런데도 사람들은 언제나 '다시 시작'하는 것에 대해 기대감을 가지고 있지. 과거의 일이든, 사람 관계든 말이야.",
+                "cn": "当年的你？我什么都不会说的，博士。很多时候遗忘是一种馈赠，我并不是暗示你以前是个好人或混蛋，失忆也不能真的让人重新来过，但人们总会对“回到起点”怀有期待，无论是对事，还是对人。"
+            },
+            "asset": "char_4088_hodrer/CN_009"
+        },
+        {
+            "id": "char_4088_hodrer_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Seems like a lifetime ago...  Only that room with the swaying white curtains is long gone.",
+                "jp": "隔世の感を禁じ得ない……白いカーテンが揺れるあの部屋はもうどこにもないんだな。",
+                "kr": "이런 게 바로 격세지감이라는 건가…… 하얀 커튼이 휘날리던 그 방은 이제 어디에도 없는 모양이군.",
+                "cn": "恍如隔世......那间摇曳着幽白窗帘的房间已经找不到了。"
+            },
+            "asset": "char_4088_hodrer/CN_010"
+        },
+        {
+            "id": "char_4088_hodrer_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "A nostalgic place, Doctor. As for this commission of yours, I trust we can both set aside its details for the moment. I do have some other ideas on the rewards, though, beyond the bounty itself.",
+                "jp": "懐かしい場所だな、ドクター。この依頼の詳細は別に気にしないが、報酬については、賞金以外にもっといい考えがある。",
+                "kr": "옛 생각이 나는 장소로군, 박사. 이 의뢰의 자세한 내용은 아무래도 상관없지만, 보수에 관해선 돈 말고도 더 좋은 생각이 있는데, 들어 보겠나?",
+                "cn": "令人怀念的地方，博士。这份委托的细节我并不在意，只是关于报酬，除了赏金之外，我还有些更好的想法。"
+            },
+            "asset": "char_4088_hodrer/CN_011"
+        },
+        {
+            "id": "char_4088_hodrer_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Is this your upgraded training regimen? Hmm, it's definitely safer for the masses, but I'd do better with something more direct.",
+                "jp": "これはロドスが改良した訓練方法か？ああ、大半の者にとってはこの方が安全だろうが、俺はもっと直接的なやり方の方がしっくりくる。",
+                "kr": "이게 로도스 아일랜드에서 개선한 훈련 방법인가? 그래. 대부분의 사람들에겐 이 편이 더 안전하겠지만, 난 좀 더 직접적인 방식을 선호한다.",
+                "cn": "这是你们改进过的训练方式？嗯，的确对大多数人来说更安全，但我还是更习惯直接一点。"
+            },
+            "asset": "char_4088_hodrer/CN_012"
+        },
+        {
+            "id": "char_4088_hodrer_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "I don't need these, Doctor. But if you insist on some sort of reward... you think I could teach a class to the children here in my free time? No, not to teach military history. I just want to share with them... some Sarkaz folk songs.",
+                "jp": "俺にこんなものは不要だ、ドクター。もしどうしても見返りを与えたいのなら……都合のいい時に、ロドスの子供たちに授業をさせてもらえないか？いや、戦争史などではない。俺は子供たちに……サルカズの田舎民謡を教えてやりたいんだ。",
+                "kr": "박사, 내게 이런 건 필요하지 않아. 그럼에도 내게 보답을 하고 싶은 거라면…… 혹시 시간 날 때 내가 로도스 아일랜드 아이들에게 어떤 수업을 하는 걸 허락해주지 않겠나? 아니, 전쟁사 수업 같은 게 아니다. 난 아이들에게…… 살카즈의 시골 민요를 가르쳐 주고 싶다.",
+                "cn": "我不需要这些，博士。如果你执意要给我一些回报......你愿意让我在空闲的时候给罗德岛的孩子们开一门课吗？不，不是什么战争史，我想给他们分享些......萨卡兹田间的民谣。"
+            },
+            "asset": "char_4088_hodrer/CN_013"
+        },
+        {
+            "id": "char_4088_hodrer_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Medals and titles give people an illusion of some kind of irreplaceable responsibility. Most times, though, it begets nothing but ruination. That's true for 'elite,' 'leader,' 'king'... and even 'the Lord of Fiends.'",
+                "jp": "勲章や称号は、何か重要な役割を背負わなければならないのだと人を錯覚させる。そしてその錯覚は、しばしば破滅を招く原因になるんだ。「エリート」「リーダー」「君主」、そういった称号はいくらでもあるが……もしかすると、「魔王」もその一つかもしれないな。",
+                "kr": "메달이나 칭호는 마치 중요한 책임을 짊어지고 있는 듯한 착각을 불러일으키지. 그리고 그 착각은 종종 파멸의 원인이 되기도 한다. '정예', '리더', '군주', 어쩌면, '마왕'도…… 그러한 칭호 중 하나일지도 모르겠군.",
+                "cn": "勋章和名号会给人带来错觉，让人以为自己肩负着什么无可取代的职责。而这种错觉，往往会成为毁灭的源头，这类称号有很多，“精英”“领袖”“君主”......也许也有“魔王”。"
+            },
+            "asset": "char_4088_hodrer/CN_014"
+        },
+        {
+            "id": "char_4088_hodrer_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "If conflict is unavoidable, a swift end is a form of mercy.",
+                "jp": "争いが避けられないのなら、すぐに終わらせるのが慈悲だろう。",
+                "kr": "피할 수 없는 싸움이라면, 빠르게 끝내는 것이 자비일 테지.",
+                "cn": "既然斗争无法避免，尽早结束也是一种仁慈。"
+            },
+            "asset": "char_4088_hodrer/CN_017"
+        },
+        {
+            "id": "char_4088_hodrer_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "I only hope this is temporary. It's not really my thing.",
+                "jp": "暫定的なものと約束してくれ。こういう役割には興味ないんだ。",
+                "kr": "이러한 역할은 일시적인 거라고 약속해줬으면 좋겠군. 별로 흥미가 없어서 말이야.",
+                "cn": "答应我，这只是暂时的，我对这些没那么感兴趣。"
+            },
+            "asset": "char_4088_hodrer/CN_018"
+        },
+        {
+            "id": "char_4088_hodrer_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Embers will hide our footsteps.",
+                "jp": "余燼が俺たちの痕跡を覆い隠してくれるさ。",
+                "kr": "잿더미가 우리의 흔적을 덮어줄 것이다.",
+                "cn": "余烬会掩去我们的踪迹。"
+            },
+            "asset": "char_4088_hodrer/CN_019"
+        },
+        {
+            "id": "char_4088_hodrer_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "...War never changes.",
+                "jp": "……戦争はいつまでも変わらないな。",
+                "kr": "……전쟁은 변하지 않는군.",
+                "cn": "......战争从未改变。"
+            },
+            "asset": "char_4088_hodrer/CN_020"
+        },
+        {
+            "id": "char_4088_hodrer_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Don't doubt your own judgment.",
+                "jp": "自ら下した決断を疑うな。",
+                "kr": "네 결정을 의심하지 마라.",
+                "cn": "不必怀疑自己的决策。"
+            },
+            "asset": "char_4088_hodrer/CN_021"
+        },
+        {
+            "id": "char_4088_hodrer_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Seize the moment.",
+                "jp": "いいチャンスだ。",
+                "kr": "좋은 기회로군.",
+                "cn": "机会难得。"
+            },
+            "asset": "char_4088_hodrer/CN_022"
+        },
+        {
+            "id": "char_4088_hodrer_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Order acknowledged.",
+                "jp": "依頼内容は承知した。",
+                "kr": "의뢰 내용은 확인했다.",
+                "cn": "委托已确认。"
+            },
+            "asset": "char_4088_hodrer/CN_023"
+        },
+        {
+            "id": "char_4088_hodrer_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Same battlefield, different day.",
+                "jp": "慣れ親しんだ戦場だ。",
+                "kr": "익숙한 전장이군.",
+                "cn": "熟悉的战场。"
+            },
+            "asset": "char_4088_hodrer/CN_024"
+        },
+        {
+            "id": "char_4088_hodrer_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Eyes blind by hatred.",
+                "jp": "憎悪がお前の視野を奪う。",
+                "kr": "증오가 네 눈을 가릴 것이다.",
+                "cn": "仇恨蔽目。"
+            },
+            "asset": "char_4088_hodrer/CN_025"
+        },
+        {
+            "id": "char_4088_hodrer_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Sense deprived by ember.",
+                "jp": "余燼がその目を曇らせる。",
+                "kr": "잿더미에 눈이 멀지어다.",
+                "cn": "余烬迷眼。"
+            },
+            "asset": "char_4088_hodrer/CN_026"
+        },
+        {
+            "id": "char_4088_hodrer_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "The battlefield's all around you. Where do you think you're running?",
+                "jp": "見渡す限り戦場だ。どこに逃げるつもりだ？",
+                "kr": "보이는 족족 전장일 텐데, 어디로 도망칠 셈이지?",
+                "cn": "举目都是战场，你想逃去哪？"
+            },
+            "asset": "char_4088_hodrer/CN_027"
+        },
+        {
+            "id": "char_4088_hodrer_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Enough. Time to end this.",
+                "jp": "もういい。終わりにしよう。",
+                "kr": "여기까지 하지, 끝낼 시간이다.",
+                "cn": "够了，该结束了。"
+            },
+            "asset": "char_4088_hodrer/CN_028"
+        },
+        {
+            "id": "char_4088_hodrer_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "One great victory isn't enough to tip the balance, but it can buy you a moment of respite. You may catch a breath now.",
+                "jp": "たった一度の快勝では局面を覆すことなどできないが、ひとときの安らぎは得られる。お前も一息ついたらどうだ。",
+                "kr": "단 한 번의 승리로 형세를 뒤집을 수는 없지만, 적어도 한숨 돌릴 시간 정도는 벌었겠지. 그러니 너도 잠시 쉬는 게 어떻겠나, 박사.",
+                "cn": "一场大胜不足以改变局势，但也能换回片刻喘息的时间，你可以松一口气了。"
+            },
+            "asset": "char_4088_hodrer/CN_029"
+        },
+        {
+            "id": "char_4088_hodrer_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "A single military victory means nothing in the face of what we're putting a stop to.  This is just a nuisance we've cleared aside.",
+                "jp": "俺たちが消し去ろうとしているものを思えば、たった一度の軍事的な勝利に意味などない。これはあくまで、道すがら解決せざるを得ない面倒事の一つというだけだ。",
+                "kr": "우리가 목표하는 바를 생각하면, 지금 이 한 번의 승리엔 큰 의미가 없을 테지. 우린 단지 처리해야만 하는 일을 처리했을 뿐이다.",
+                "cn": "对于我们想要消弭的东西而言，一场军事上的胜利没什么意义。这只是我们不得不解决的麻烦罢了。"
+            },
+            "asset": "char_4088_hodrer/CN_030"
+        },
+        {
+            "id": "char_4088_hodrer_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Why the long face, Doctor? Our heads are still sitting on our shoulders. As for them, don't worry, I'll take care of that for you.",
+                "jp": "そう落ち込むな、ドクター。俺たちが味方に付いているんだ。逃げた連中についても、俺が片付けておくから安心してくれ。",
+                "kr": "그렇게 낙담하지 말도록, 박사. 지금 넌 우리와 함께 이곳에 있지 않나. 도망친 녀석들이라면 내가 알아서 처리할 테니, 안심해라.",
+                "cn": "别发愁了，博士，你现在正和我们站在一起。至于那些人，放心，我会为你处理掉的。"
+            },
+            "asset": "char_4088_hodrer/CN_031"
+        },
+        {
+            "id": "char_4088_hodrer_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Less guys on your case isn't such a bad thing, is it?",
+                "jp": "お前の首を付け狙う奴が減るのも、悪いことじゃないだろう？",
+                "kr": "네 목을 노리는 놈이 줄어드는 것도 나쁘지 않은 결과인 것 같은데, 안 그런가?",
+                "cn": "少些人惦记你的头也不是坏事，对吧？"
+            },
+            "asset": "char_4088_hodrer/CN_032"
+        },
+        {
+            "id": "char_4088_hodrer_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Ines and W? They're here too?",
+                "jp": "イネスとW……二人もここにいるのか？",
+                "kr": "이네스와 W…… 그 둘도 여기에 있나?",
+                "cn": "伊内丝和W......她们也在吗？"
+            },
+            "asset": "char_4088_hodrer/CN_033"
+        },
+        {
+            "id": "char_4088_hodrer_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "You… Anything else you want to know?",
+                "jp": "これ以上……何を確かめようとしてるんだ？",
+                "kr": "넌…… 대체 뭘 더 확인하고 싶은 거지?",
+                "cn": "你......还想确认什么？"
+            },
+            "asset": "char_4088_hodrer/CN_034"
+        },
+        {
+            "id": "char_4088_hodrer_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "I don't have time for small talk. If you want fun and games, go look for W. Huh, so I'm not the only one who just got kicked out.",
+                "jp": "悪いが無駄話に付き合う暇はない……遊び相手が欲しいならWに聞いてみろ。ん？お前も追い出されたのか。",
+                "kr": "미안하지만 잡담이나 나눌 시간은 없다…… 심심한 거라면 W라도 찾아가보던가. 음? 너도 쫓겨난 건가.",
+                "cn": "我没有时间闲聊......想找乐子应该去问问W。哦？你也被赶出来了。"
+            },
+            "asset": "char_4088_hodrer/CN_036"
+        },
+        {
+            "id": "char_4088_hodrer_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4088_hodrer/CN_037"
+        },
+        {
+            "id": "char_4088_hodrer_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Didn't see you there. I was just... thinking about the future.",
+                "jp": "おっと、いたのか。少し、考え事をしていた……未来について。",
+                "kr": "아, 거기 있었나. 그저 잠깐…… 미래에 대해서 생각하고 있었다.",
+                "cn": "我没注意到你，我只是在思考......未来的事。"
+            },
+            "asset": "char_4088_hodrer/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Jason Spisak",
+            "global": "Jason Spisak"
+        },
+        "cn": {
+            "native": "苏至豪",
+            "global": "Zhihao Su"
+        },
+        "jp": {
+            "native": "細谷佳正",
+            "global": "Yoshimasa Hosoya"
+        },
+        "kr": {
+            "native": "장민혁",
+            "global": "Jang Min-hyuck"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

@@ -19,7 +19,7 @@
             "text": {
                 "en": "Done with everything. Um... Sorry, do you mind if I read my manga here?",
                 "jp": "全部できたけど。……あの、ここで漫画読んでていい？",
-                "kr": "다 했는데…… 저기, 여기서 만화책 봐도 돼?",
+                "kr": "다 했는데…… 아 그, 여기서 만화책 봐도 돼?",
                 "cn": "全都做完了。......请问，我能在这里看漫画吗？"
             },
             "asset": "char_478_kirara/CN_001"
@@ -35,7 +35,7 @@
             "text": {
                 "en": "Doing human relationships is so not working out... And all you've gotta do on SNS is send a request and you're friends. Reality is a nightmare.",
                 "jp": "人間関係ってやつ、からっきしダメなんだよね……SNSじゃ申請すればすぐフレンドになれるのに、リアルってムズイな。",
-                "kr": "인간관계라는 거, 영 젬병이란 말이지…… SNS에선 신청하면 바로 친구가 될 수 있는데, 현실은 어렵네.",
+                "kr": "인간관계라는 거, 영 젬병이란 말이지…… SNS에선 신청하면 바로 친구 될 수 있는데, 현실은 어렵네.",
                 "cn": "完全没能和人搞好关系......明明社交软件上只要进行申请就可以成为朋友了，现实真的好难。"
             },
             "asset": "char_478_kirara/CN_002"
@@ -51,7 +51,7 @@
             "text": {
                 "en": "Utage was my classmate in middle school, and the one who introduced me here. What are we like? Not bad, I guess... but, Doctor, this is what you wanna remember: riajuu are a terrifying species!",
                 "jp": "ウタゲは中学の同級生で、あいつがロドスを紹介してくれたんだ。どんな仲？まぁ悪くはないけど……でもドクター、これだけは肝に銘じといて。リア充はめちゃくちゃ怖い生き物ってこと！",
-                "kr": "우타게는 중학교 동창인데, 걔가 로도스 아일랜드를 소개해 줬어. 어떤 사이냐고? 뭐 나쁘진 않은데…… 하지만 박사, 이것만은 명심해둬. 인싸는 장난 아니게 무서운 생물이라는 걸!",
+                "kr": "우타게는 중학교 동창인데, 로도스 아일랜드는 걔가 소개해 준 거야. 어떤 사이냐고? 뭐 나쁘진 않은데…… 그래도 박사, 이것만은 명심해 둬. 인싸는 장난 아니게 무서운 생물이라는 걸!",
                 "cn": "宴是我的中学同学，是她介绍我来这里的。我们的关系？是不差......但是博士，一定要记住：现充是很恐怖的！"
             },
             "asset": "char_478_kirara/CN_003"
@@ -67,7 +67,7 @@
             "text": {
                 "en": "Whuh? Why send messages even though we're face to face? I mean... it's 'cause it's easier that way, right, of course...",
                 "jp": "えっ、なんで目の前にいるのにメッセージを送るかって？そりゃあ……そっちの方が気が楽だからに決まってるでしょ……",
-                "kr": "에? 왜 눈앞에 있는데 메시지를 보내냐고? 그야 당연히…… 그게 더 편하니까……",
+                "kr": "어? 왜 눈앞에 있는데 문자 보내냐고? 왜냐니…… 그게 더 편하니까……",
                 "cn": "呃，你问为什么明明面对面却要发信息？这个......当然是因为这样比较轻松啊......"
             },
             "asset": "char_478_kirara/CN_004"
@@ -83,7 +83,7 @@
             "text": {
                 "en": "Back in Higashi, I saw Koga election vans on the street a bunch. I guess their representative was pretty cool... uh, but I don't understand much about that whole side of things, so usually I just voted whatever.",
                 "jp": "極東にいた頃は、道端でよく枯我家の選挙カーを見かけたよ。あの代表はまあまあカッコよかったっけ……あ、でもそっち方面のことは全然わかんないから、いつも適当に投票してたけどね。",
-                "kr": "극동에 있었을 때는 길거리에서 코가 가문의 선거 유세 차량을 자주 봤어. 그 대표 그럭저럭 멋있었는데…… 아, 그쪽에 대해서는 전혀 모르니까 매번 대충 투표했지만.",
+                "kr": "극동에 있었을 때는 길거리에서 코가 가문의 선거 유세 차량을 자주 봤어. 거기 대표 생긴 건 나름 괜찮았는데…… 아, 근데 나 그런 쪽으론 전혀 모르니까 매번 대충 투표하긴 했지만.",
                 "cn": "在我离开东国之前，街上还经常能看见枯我家的宣传车，那个家族的代表人还挺帅的......啊，不过我在这方面没什么了解，通常都是随便投投票而已。"
             },
             "asset": "char_478_kirara/CN_005"
@@ -99,7 +99,7 @@
             "text": {
                 "en": "My family says that we all came out of the sea onto dry land forever ago, and that's how we settled down. Huh? Would I wanna go back into the sea? Mmnn... honestly, I could take it or leave it. As long as none of them get Oripathy, all of them are doing pretty fine in Higashi anyway.",
                 "jp": "家族が言うには、私たちはずーっと昔に海から陸地にやってきて、そのまま定住したんだって。えっ、海に戻りたくならないかって？うーん……正直どうでもいいかな。鉱石病にさえかからなけりゃ、みんな極東で楽しく暮らせるからね。",
-                "kr": "가족들한테 들었는데, 우리는 아~주 옛날에 바다에서 육지로 올라와 그대로 정착했대. 뭐? 바다로 돌아가고 싶어지지 않냐고? 음…… 솔직히 아무래도 상관없달까. 광석병에 걸리지만 않는다면 다들 극동에서 즐겁게 살 수 있으니까.",
+                "kr": "가족들한테 들었는데, 우리는 되~게되게되게 옛날에 바다에서 올라와서 그대로 육지에 정착했대. 뭐? 바다로 돌아가고 싶어지지 않냐고? 음…… 솔직히 아무래도 상관없달까. 광석병에 걸리지만 않는다면 다들 극동에서 즐겁게 살 수 있으니까.",
                 "cn": "我听家人说，我们是好久好久之前从海里迁徙来到陆地，然后就此安顿下来的。呃，你问我想不想回去海里？嗯......说实话，无所谓，只要不得矿石病，大家在东国过得也挺好的。"
             },
             "asset": "char_478_kirara/CN_006"
@@ -115,7 +115,7 @@
             "text": {
                 "en": "World's been kinda messy lately, huh. I hear us and the Kougon guys up north of us are getting heated again. This could suck... I wonder if the new games from them are gonna make it over...",
                 "jp": "最近世の中ってちょっと物騒だよね。うちの地元と北の光厳の人がまた揉めてるって噂だし……心配だなぁ、向こうの新作ゲームはちゃんと届くかなぁ……",
-                "kr": "요즘 세상이 좀 뒤숭숭하다더라. 우리 고향이랑 북쪽 코우곤 사람들 사이에 또 마찰이 생겼다던데…… 걱정되네, 그쪽 신작 게임은 무사히 도착하려나……",
+                "kr": "요즘 세상이 좀 뒤숭숭하다더라. 우리 고향이랑 북쪽 코우곤 사람들 사이에 또 마찰이 생겼다나 뭐라나…… 아 이거 걱정되는데, 그쪽에서 신작 게임 하나 산 거 있는데, 택배 안 오는 거 아니야 이거……",
                 "cn": "最近世道好像有点乱，听说我们和北边光严那的人又发生了摩擦......好在意，不知道这次对面的新游戏还能不能递得过来......"
             },
             "asset": "char_478_kirara/CN_007"
@@ -131,7 +131,7 @@
             "text": {
                 "en": "Doctor, do you... think my hobbies are weird, or anything? When I was young, all the other kids made fun of me a bunch, like, I was so gloomy, or gross, stuff like that. H-Hmph. Who cares what they said, not like it was anything to care about...",
                 "jp": "ドクターってさ……私の趣味が変だって思う？小さい頃、よく周りの子たちにからかわれてさ、暗いとかキモイとか言われてたから。ふんっ、別に何を言われたって、気にすることなんてないっつーの……",
-                "kr": "박사는 말야…… 내 취미가 이상하다고 생각해? 어렸을 때 자주 주위 애들한테 자주 놀림받았거든. 음침하네 기분나쁘네 막 그러더라고. 흥, 딱히 남들이 뭐라고 하든 신경 쓸 필요 없지만……",
+                "kr": "박사, 근데 있잖아…… 내 취미가 이상하다고 생각해? 어렸을 땐 주위 애들이 자주 놀렸거든. 음침하네 기분나쁘네 막 그러더라고. 아이, 딱히 남들이 뭐라고 하든 신경 쓸 필요 없지만……",
                 "cn": "博士，你......会觉得我的兴趣很怪吗？小的时候，周围的孩子都笑话我，说我阴沉，恶心什么的。哼，随便他们怎么说，我才不在乎......"
             },
             "asset": "char_478_kirara/CN_008"
@@ -147,7 +147,7 @@
             "text": {
                 "en": "Doctoooor, I'll lend you this game, and this manga and CD too! These are all masterpieces I chose from the heart so once you know them all we'll be soulmates, and then we can have so much to talk about! If you have any other genres you like you can tell me—oh—okay, how about you come over to mine and pick something out?",
                 "jp": "ドクター、このゲーム貸してあげる。あとこの漫画とCDも。どれも私が誠心誠意選んだ名作だから、全部履修してくれればうちらはもうソウルメイトだよ。そしたらじっくり語り合えるからさ！他にも好きなジャンルがあれば教えて、あ、なんなら今から私のとこに来て選んだらどう？",
-                "kr": "박사~ 이 게임 빌려줄게. 그리고 이 만화책이랑 CD도. 내가 심혈을 기울여 고른 명작들이니까 이거 다 보면 우린 바로 소울메이트 되는 거라고. 그럼 진득하게 이야기도 나눌 수 있을 테니까! 다른 거 또 좋아하는 장르 있으면 알려 줘. 아, 뭣하면 지금 바로 내 방 가서 골라 볼래?",
+                "kr": "박사~ 이 게임 빌려줄게. 그리고 이 만화책이랑 CD도. 다 내가 심혈을 기울여 고른 명작들이니까 이거 다 보면 우린 바로 소울메이트 되는 거라고. 그럼 진득하게 얘기 나눌 수 있을 테니까! 다른 거, 또 좋아하는 장르 있으면 알려 줘. 아님, 지금 바로 내 방 가서 골라 볼래?",
                 "cn": "博士这个游戏借你，还有这本漫画和这张CD，这可都是我精心挑选的名作，看完之后我们就是灵魂战友，大可把酒言欢了！还有什么喜欢的分类也可以告诉我，啊，要不然干脆去我那里直接挑吧？"
             },
             "asset": "char_478_kirara/CN_009"
@@ -163,7 +163,7 @@
             "text": {
                 "en": "Oh jeez, gimme a sec here, just a little bit more... just need to land one more hit! —Nice! Rare drop, please and thank you!",
                 "jp": "いやちょっと黙ってて、もう少しで……あと一撃でいけるっ！――ナイス！レアドロップいただき！",
-                "kr": "아 잠깐만 말 걸지 말아봐, 조금만…… 한 대만 더 치면 돼! ……나이스! 레어템 떴다!",
+                "kr": "아 잠만잠만잠만 말 걸지 말아봐, 한 대만…… 한 대만 한 대만 더 치면 돼! ……나이스! 레어템 떴다!",
                 "cn": "等等，现在先别和我说话，还差一点......再吃一招对面就完蛋了！——啊！好耶稀有素材掉落了！"
             },
             "asset": "char_478_kirara/CN_010"
@@ -179,7 +179,7 @@
             "text": {
                 "en": "...I'm Kirara. Nice to meet you... Uh, um... So that's all then? Can I leave?",
                 "jp": "……キララです、よろしくおねがいします。……えーっと、特に要件がないなら、もう行っていい？",
-                "kr": "……키라라입니다, 잘 부탁드립니다…… 아, 어…… 별 용건 없으면 이만 가 봐도 될까?",
+                "kr": "……키라라입니다, 잘 부탁드립니다…… 아, 어…… 별 용건 없으면 이제 가도 되지?",
                 "cn": "......您好，我是绮良。......那个，如果没什么事了的话，我可以走了吗？"
             },
             "asset": "char_478_kirara/CN_011"
@@ -195,7 +195,7 @@
             "text": {
                 "en": "Crap, this goes... uhhhh, but this is kind of a... humiliating name to give a special move, isn't it.",
                 "jp": "イケてるじゃん……あーでもこの必殺技の名前、ちょっとイタイなこれ。",
-                "kr": "쩌는데…… 아…… 근데 이 필살기 이름은 좀 오그라드네 이거.",
+                "kr": "오 쩐다…… 아…… 근데 이 필살기 이름은 좀 오그라드네 이거.",
                 "cn": "好帅......啊不过这个大招名稍微有点羞耻啊。"
             },
             "asset": "char_478_kirara/CN_012"
@@ -227,7 +227,7 @@
             "text": {
                 "en": "I wanted to thank everyone for sticking by me all this way, and... uh, I guess this isn't something you should really do by text, so... um, tha-I mean, it-it's not anything other than that, even! I just wanted to say that!",
                 "jp": "ここまでお世話になったこと、改めてみんなにお礼がしたくてさ……いや、こういうことはさすがにメールで済ませるわけにはいかないでしょ。だから……その、いや、べ、別に深い意味はないよ。ただそれを伝えたかっただけ！",
-                "kr": "여태까지 신세 진 거, 제대로 모두한테 감사 인사 하고 싶은데…… 아니, 이런 얘기까지 문자로 하는 건 좀 그렇잖아. 그러니까, 그…… 따, 딱히 깊은 뜻은 없어. 그냥 그렇다고!",
+                "kr": "여태까지 신세 진 거, 제대로 모두한테 감사 인사하고 싶은데…… 아니, 이런 얘기까지 문자로 하는 건 좀 그렇잖아. 그러니까, 그…… 따, 딱히 다른 뜻은 없어. 그냥 그렇다고!",
                 "cn": "这段时间承蒙照顾，想和大家说声谢谢......这种事情不愧是不能发短信了事，所以......那个，没、没什么其他的，就只是想说这个而已！"
             },
             "asset": "char_478_kirara/CN_014"
@@ -259,7 +259,7 @@
             "text": {
                 "en": "...Huh? Me? Captain? Me? Are you being serious?",
                 "jp": "……は、私？隊長？私がやるの？本気で言ってる？",
-                "kr": "……뭐, 나? 팀장? 내가? 진심으로 하는 소리야?",
+                "kr": "……뭐, 나? 팀장? 내가? 아, 진심 에반데 이거.",
                 "cn": "......欸，我？当队长？我吗？真的假的？"
             },
             "asset": "char_478_kirara/CN_018"
@@ -307,7 +307,7 @@
             "text": {
                 "en": "Huh? Started already?",
                 "jp": "えっ、もうスタート？",
-                "kr": "에? 벌써 스타트야?",
+                "kr": "어? 벌써 스타트야?",
                 "cn": "欸，要开始了？"
             },
             "asset": "char_478_kirara/CN_021"
@@ -339,7 +339,7 @@
             "text": {
                 "en": "Oh, crap. I think I'm getting a little nervous.",
                 "jp": "やば、ちょっと緊張してるかも。",
-                "kr": "큰일났네, 좀 긴장되는 거 같은데.",
+                "kr": "아, 큰일 났네. 좀 긴장되는 거 같은데.",
                 "cn": "糟了，我好像有点紧张。"
             },
             "asset": "char_478_kirara/CN_023"
@@ -355,7 +355,7 @@
             "text": {
                 "en": "I've... seriously never seen scenes like this beyond manga before.",
                 "jp": "こういうシーン、マジで漫画でしか見たことないんだけど。",
-                "kr": "이런 장면은 진짜 만화에서밖에 본 적 없는데.",
+                "kr": "이런 장면은 진짜 만화에서밖에 못 봤는데.",
                 "cn": "这种场景，我真的只在漫画里见过。"
             },
             "asset": "char_478_kirara/CN_024"
@@ -371,7 +371,7 @@
             "text": {
                 "en": "Cakewalk, coming through.",
                 "jp": "余裕余裕。",
-                "kr": "식은 죽 먹기지.",
+                "kr": "이 정도는 식은 죽 먹기지.",
                 "cn": "小菜一碟。"
             },
             "asset": "char_478_kirara/CN_025"
@@ -419,7 +419,7 @@
             "text": {
                 "en": "Huh? Hey, that move was kind of... kind of pretty cool just now, right?",
                 "jp": "あれ、さっきの技、なんかカッコよくない？",
-                "kr": "어라, 아까 기술, 좀 멋지지 않았어?",
+                "kr": "오, 아까 기술, 솔직히 좀 멋있었다. 인정.",
                 "cn": "欸？我刚刚是不是还挺帅气的？"
             },
             "asset": "char_478_kirara/CN_028"
@@ -483,7 +483,7 @@
             "text": {
                 "en": "Yeah, this is done for. Let's quit out.",
                 "jp": "ダメだなこりゃ、リタイアしよ。",
-                "kr": "망했다 이거, 지지치자.",
+                "kr": "망했다 이거, GG치자.",
                 "cn": "不行了，重开一局吧。"
             },
             "asset": "char_478_kirara/CN_032"
@@ -577,10 +577,15 @@
         "jp": {
             "native": "春野杏",
             "global": "Anzu Haruno"
+        },
+        "kr": {
+            "native": "윤미나",
+            "global": "Yoon Mi-na"
         }
     },
     "availability": [
         "cn",
-        "jp"
+        "jp",
+        "kr"
     ]
 }

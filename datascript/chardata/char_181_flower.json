@@ -17,7 +17,7 @@
                 "cn": "任命助理"
             },
             "text": {
-                "en": "You'd better listen to me, Doctor!",
+                "en": "Listen to me, Doctor, it's for your own good.",
                 "jp": "私の言うこと、ちゃんと聞いてね、ドクターくん。",
                 "kr": "내가 하는 말, 잘 들어줘, 박사.",
                 "cn": "要好好听我的话哦，博士。"
@@ -33,7 +33,7 @@
                 "cn": "交谈1"
             },
             "text": {
-                "en": "This fragrance... how was it? Do you feel all healed? I got the inspiration from Melantha's samples.",
+                "en": "How do you like this fragrance? You feel refreshed, right? It's all thanks to Melantha. Her samples inspired me.",
                 "jp": "この香り、どうかしら？癒やされる？メランサからもらったサンプルがきっかけで閃いたの。",
                 "kr": "이 향, 어때? 편안해진다고? 멜란사한테 받은 샘플에서 영감을 받았지.",
                 "cn": "这个香气，怎么样？是不是有种，被治愈了的感觉？多亏玫兰莎给我的样品，我才获得了这种灵感。"
@@ -49,7 +49,7 @@
                 "cn": "交谈2"
             },
             "text": {
-                "en": "Thanks for building a greenhouse for my flowers. I think it'll be a good place for everyone to rest.",
+                "en": "Thank you for building me that flower greenhouse. It'll be a good place for our people to rest and ease their minds.",
                 "jp": "温室、作ってくれてありがとう。これで、みんな安心してくつろげると思うわ。",
                 "kr": "온실, 만들어줘서 고마워. 이제 모두 안심하고 편히 쉴 수 있을 거야.",
                 "cn": "谢谢您帮我建设花卉温室，我想，这里会是大家都能放松休息的好地方。"
@@ -65,7 +65,7 @@
                 "cn": "交谈3"
             },
             "text": {
-                "en": "Oh, are you awake? You feel all refreshed, right? My aromatherapy is definitely working. I'm really confident in it!",
+                "en": "Oh, you're up? Try stretching, see if you got all the tiredness out. Nice. I put a lot into this new fragrance. Glad it works.",
                 "jp": "あら、起きた？ふふ、寝ている間に疲れが取れているでしょう？この香りが効いてくれたみたいね。これ、私の自信作なの。",
                 "kr": "어머, 일어났어? 후후, 자는 동안 피로가 좀 풀렸지? 이 향이 잘 들었나 보네. 이거, 내 야심작이거든.",
                 "cn": "啊，您醒了吗？是不是一点疲惫都感觉不到了？看来我新调制的香薰起了作用。毕竟，这也算是我的自信之作呢。"
@@ -81,7 +81,7 @@
                 "cn": "晋升后交谈1"
             },
             "text": {
-                "en": "Narcissus, rabbitear iris, kalanchoe, boronia... I always carry seeds of all sorts of flowers on me.",
+                "en": "Narcissus, rabbitear iris, kalanchoe, boronia... I always carry all sorts of flower seeds on me.",
                 "jp": "ナルシサス、アイリス、カランコエ、ボロニア――香料が採れる花の種は、いつも持ち歩いてるわ。",
                 "kr": "수선화, 아이리스, 칼랑코에, 보로니아…… 향료를 만들 수 있는 꽃은 늘 가지고 다니거든.",
                 "cn": "水仙、燕子花、长寿花、波罗尼——这些用来培育花朵的种子，我总是会随身携带的哦。"
@@ -97,7 +97,7 @@
                 "cn": "晋升后交谈2"
             },
             "text": {
-                "en": "Oh, you mean this little one? It's still a baby, but quite helpful for concocting all sorts of things.",
+                "en": "Oh, you mean this little one? She's still young, but she's been a big help with my fragrances.",
                 "jp": "え、この子狐がどうかした？小さい子だけど、調香する時は結構役に立ってくれるのよ。",
                 "kr": "응? 이 아기 여우가 왜? 작은 아이지만, 조향할 땐 꽤 도움이 되거든.",
                 "cn": "哎？您问这孩子吗？虽然它还很小，不过，她可总能在调制过程中帮上大忙呢。"
@@ -113,7 +113,7 @@
                 "cn": "信赖提升后交谈1"
             },
             "text": {
-                "en": "The society of ants is maintained based on smells. The relationship between perfumers and their clients is the same.",
+                "en": "I've heard that scents are the foundation of ant society. The relationship between perfumers and their clients is the same.",
                 "jp": "アリの社会って、フェロモンの香りで関係を維持するでしょ？パフューマーとお客様の関係も、似たようなものよ。",
                 "kr": "개미의 사회는 페로몬 향으로 관계를 유지하잖아? 퍼퓨머와 손님의 관계도 비슷한 거야.",
                 "cn": "蚂蚁们的社会关系，是依靠气味来维持的吧？我觉得调香师和顾客的关系也是如此。"
@@ -129,7 +129,7 @@
                 "cn": "信赖提升后交谈2"
             },
             "text": {
-                "en": "You seem to visit the greenhouse a lot these days. Oh, there's some pollen here on your sleeve. Let me wipe it off for you...",
+                "en": "You seem to visit the greenhouse a lot these days. Oh, there's some pollen on your sleeve. Let me wipe it for you… Alright, you're good.",
                 "jp": "最近よく温室に来てくれるわね……あら、袖に花粉がついてるわよ？はい、取れた。",
                 "kr": "요즘 온실에 자주 오네… 어머, 소매에 꽃가루 묻었다. 자, 털어줬어.",
                 "cn": "最近您经常来温室做客呢......哎呀，您的袖口，沾着些花粉哟？好，已经帮您擦掉了~"
@@ -145,7 +145,7 @@
                 "cn": "信赖提升后交谈3"
             },
             "text": {
-                "en": "You seem to have been sleeping for quite a while. What did you dream about, I wonder?",
+                "en": "You were asleep for quite a while. What did you dream about, I wonder?",
                 "jp": "ずいぶん眠ってたみたいだけど、今度はどんな夢を見たの？",
                 "kr": "꽤 오래 잔 거 같은데, 이번엔 무슨 꿈 꿨어?",
                 "cn": "您好像睡了很久呢，这次，又做了什么样的梦呢？"
@@ -161,7 +161,7 @@
                 "cn": "闲置"
             },
             "text": {
-                "en": "Oh, Doctor? Hm, the lavender was much more effective than I imagined!",
+                "en": "Doctor? Doctor...? Wow, the lavender was much more effective than I expected…",
                 "jp": "あれ……ドクターくん？ラベンダーの香りが効きすぎたのかな……。",
                 "kr": "어라…… 박사? 라벤더 향이 너무 잘 들었나…",
                 "cn": "嗯，博士？哎，薰衣草的效果，超乎我的意料呢......"
@@ -177,7 +177,7 @@
                 "cn": "干员报到"
             },
             "text": {
-                "en": "Nice to meet you, Doctor. I'm Lena, a perfumer. Interesting job, right? Did you know it existed?",
+                "en": "Nice to meet you, Doctor. I'm Lena, the perfumer. Interesting job, right? Have you heard the word before?",
                 "jp": "はじめまして、ドクターくん。私はパフューマーのラナ。あら、パフューマーって聞いたことない？",
                 "kr": "만나서 반가워, 박사. 난 퍼퓨머 '레나'라고 해. 어머, 퍼퓨머란 직업… 들어본 적 없어?",
                 "cn": "初次见面，博士。我是调香师莱娜。您听说过调香师这种职业吗？"
@@ -193,7 +193,7 @@
                 "cn": "观看作战记录"
             },
             "text": {
-                "en": "Please check and tell me how I did.",
+                "en": "Please take a look and tell me how I did.",
                 "jp": "成果の確認、よろしくね～。",
                 "kr": "성과 확인, 부탁해~",
                 "cn": "就拜托您检验我的成果了。"
@@ -209,7 +209,7 @@
                 "cn": "精英化晋升1"
             },
             "text": {
-                "en": "The promotion... are you here to tell me about it? Aw, sorry, Doctor... give me a sec... your collar... it's wrinkled, so I smoothed it out. That's all.",
+                "en": "A promotion...? You came to tell me in person? I'm flattered. Oh, just a moment, Doctor… There we go, your collar was wrinkled, so I smoothed it out for you.",
                 "jp": "昇進のこと、わざわざ伝えに来てくれたの？悪いわね、ドクターくん。それはそうと――エリが曲がってるわよ、ちょっと失礼。",
                 "kr": "승진했다고 일부러 알려주러 온 거야? 미안해 박사. 그건 그렇고… 옷깃 비뚤어졌다, 잠깐 실례~",
                 "cn": "有关晋升的消息......您是特意来向我传达这个的吗？真是不好意思，博士......啊，抱歉，请稍等。没事，只是您的领角皱了，我稍微整理了一下~"
@@ -225,7 +225,7 @@
                 "cn": "精英化晋升2"
             },
             "text": {
-                "en": "Fighting when you could have just talked it out... I don't like that kind of unnecessary violence. But I'll still do my best to get used to it for you, Doctor.",
+                "en": "I don't appreciate violence as a tactic... But I'll do my best to get used to it for Rhodes Island, Doctor.",
                 "jp": "本当はああいう野蛮な戦い方は苦手なんだけどね。でもまあ、ドクターくんのために頑張るわ。",
                 "kr": "사실… 그렇게 야만스러운 방식으로 싸우는 건 잘 못 하는데… 그래도 뭐, 박사를 위해 열심히 할게.",
                 "cn": "其实我不太适合那些蛮不讲理的战斗方式。不过，如果是为了博士，我也是会去努力适应的。"
@@ -241,7 +241,7 @@
                 "cn": "编入队伍"
             },
             "text": {
-                "en": "Gladly.",
+                "en": "With pleasure.",
                 "jp": "喜んで。",
                 "kr": "기꺼이.",
                 "cn": "非常乐意。"
@@ -257,7 +257,7 @@
                 "cn": "任命队长"
             },
             "text": {
-                "en": "No matter as a perfumer or healer, I promise to fulfill all your expectations.",
+                "en": "Whether you need me as a perfumer or a healer, I won't let you down, Doctor.",
                 "jp": "調香と治療、どちらでもドクターくんの要求を満足させてあげるわ。",
                 "kr": "조향과 치료, 어느 쪽이든 박사의 요구를 만족시켜줄게.",
                 "cn": "调香与治疗，无论哪一项工作，我都会让博士您满意的。"
@@ -289,7 +289,7 @@
                 "cn": "行动开始"
             },
             "text": {
-                "en": "What kind of battle would it end up being, I wonder...",
+                "en": "What kind of battle will it end up being, I wonder…?",
                 "jp": "どんな戦いになるかしらね……。",
                 "kr": "어떤 싸움이 될까나…",
                 "cn": "这会是一场怎样的战斗呢。"
@@ -305,7 +305,7 @@
                 "cn": "选中干员1"
             },
             "text": {
-                "en": "Mhmm.",
+                "en": "Yes?",
                 "jp": "ええ。",
                 "kr": "응.",
                 "cn": "嗯。"
@@ -321,7 +321,7 @@
                 "cn": "选中干员2"
             },
             "text": {
-                "en": "I'm fine.",
+                "en": "That's fine with me.",
                 "jp": "問題ないわ。",
                 "kr": "문제없어.",
                 "cn": "我没问题的。"
@@ -337,7 +337,7 @@
                 "cn": "部署1"
             },
             "text": {
-                "en": "This is war.",
+                "en": "So this is a battlefield…",
                 "jp": "これが戦場というものね。",
                 "kr": "이게 전장이란 거구나.",
                 "cn": "这就是战场啊。"
@@ -369,7 +369,7 @@
                 "cn": "作战中1"
             },
             "text": {
-                "en": "Start gathering your wits.",
+                "en": "Let fragrance revive your mind.",
                 "jp": "気を確かに。",
                 "kr": "기운 차리렴.",
                 "cn": "恢复神智吧。"
@@ -385,7 +385,7 @@
                 "cn": "作战中2"
             },
             "text": {
-                "en": "Chin up!",
+                "en": "Come on, chin up!",
                 "jp": "ほら、しっかり！",
                 "kr": "자, 정신 차리렴.",
                 "cn": "打起精神来。"
@@ -401,7 +401,7 @@
                 "cn": "作战中3"
             },
             "text": {
-                "en": "How do you like this smell?",
+                "en": "How do you like this scent?",
                 "jp": "こういう香りは好き？",
                 "kr": "이런 향은 좋아해?",
                 "cn": "喜欢这种香味吗？"
@@ -417,7 +417,7 @@
                 "cn": "作战中4"
             },
             "text": {
-                "en": "Stay calm.",
+                "en": "Stay calm, my friends.",
                 "jp": "落ち着いて。",
                 "kr": "침착해.",
                 "cn": "冷静一些哪。"
@@ -433,7 +433,7 @@
                 "cn": "完成高难行动"
             },
             "text": {
-                "en": "I've always believed that victory will be ours as long as you're the one giving orders.",
+                "en": "I always knew we'd win, Doctor, so long as you're the one in command.",
                 "jp": "ドクターくんが指揮を執れば、きっと勝てると信じていたわ。",
                 "kr": "박사가 지휘를 해주면, 반드시 이길 거라 믿고 있었어.",
                 "cn": "我一直都相信啊，只要是博士来担任指挥的话，我们就一定会获胜的。"
@@ -449,7 +449,7 @@
                 "cn": "3星结束行动"
             },
             "text": {
-                "en": "Well done, Doctor.",
+                "en": "Very well done, Doctor.",
                 "jp": "良かったわね、ドクターくん。",
                 "kr": "잘됐네, 박사.",
                 "cn": "真是太好了，博士。"
@@ -465,7 +465,7 @@
                 "cn": "非3星结束行动"
             },
             "text": {
-                "en": "Good job, everyone. Get some rest.",
+                "en": "Good job, everyone. Go get some rest.",
                 "jp": "みんなお疲れ様、ゆっくり休んで。",
                 "kr": "다들 수고했어, 푹 쉬어.",
                 "cn": "大家辛苦了，请好好休息下吧。"
@@ -481,7 +481,7 @@
                 "cn": "行动失败"
             },
             "text": {
-                "en": "Too bad we didn't win, but I will not be discouraged because of it.",
+                "en": "It's too bad we didn't win, but I won't let it discourage me.",
                 "jp": "今回は残念だったけど……これくらいでは諦めないわ。",
                 "kr": "이번엔 아쉽게 됐지만… 이 정도로 포기하진 않을 거야.",
                 "cn": "虽然没能赢下战斗确实有些遗憾，但我是不会气馁的。"
@@ -497,7 +497,7 @@
                 "cn": "进驻设施"
             },
             "text": {
-                "en": "I belong at your side, after all.",
+                "en": "I always feel best when I'm at your side, Doctor.",
                 "jp": "やっぱり、ドクターくんのそばが一番居心地がいいわ。",
                 "kr": "역시, 박사 옆이 제일 마음 놓인다니까.",
                 "cn": "还是博士的身边，最适合我呢。"
@@ -513,7 +513,7 @@
                 "cn": "戳一下"
             },
             "text": {
-                "en": "Ah.",
+                "en": "Oh.",
                 "jp": "あら。",
                 "kr": "어머.",
                 "cn": "哎呀。"
@@ -529,7 +529,7 @@
                 "cn": "信赖触摸"
             },
             "text": {
-                "en": "You... smell good, Doctor.",
+                "en": "I sense… a pleasant smell from you, Doctor",
                 "jp": "ドクターくんって、いい香りがするわね。",
                 "kr": "박사한테선, 좋은 향기가 나네.",
                 "cn": "博士身上......有着美妙的香气呢。"
@@ -570,6 +570,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Sam Slade",
+            "global": "Sam Slade"
+        },
         "cn": {
             "native": "杨冬会",
             "global": "Rachel"
@@ -584,6 +588,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

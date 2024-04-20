@@ -5,7 +5,7 @@
 <footer>
   <a href="https://github.com/PseudoMon/tlvr-source" target="_blank"><GithubIcon /></a>
   <span>Site version 1.2</span>
-  <span>Data last updated: 2024-03-23 (Come Catastrophes or Wakes of Vultures in Global)</span>
+  <span>Data last updated: 2024-04-20 (Main Story Episode 13 on Global)</span>
 </footer>
 
 <style>

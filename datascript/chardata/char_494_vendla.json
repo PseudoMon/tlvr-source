@@ -1,0 +1,596 @@
+{
+    "charid": "char_494_vendla",
+    "nameid": "vendla",
+    "names": {
+        "en": "Vendela",
+        "jp": "ヴァンデラ",
+        "kr": "벤델라",
+        "cn": "刺玫"
+    },
+    "voices": [
+        {
+            "id": "char_494_vendla_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "I can choose my own workplace? Thank you, I'll have the documents over shortly! Hmm, was the Convalescent Garden this way... or that way? Sorry, I'll still need you to show me the way after all…",
+                "jp": "仕事する場所を自由に選んでいいんですか？ありがとうございます、すぐに書類を持って移動しますね！あれ、療養庭園ってこっち？ううん、あっちだっけ……え、案内していただけるんですか？すみません……",
+                "kr": "사무실을 마음대로 고를 수 있다고요? 고맙습니다. 그럼 전 이 문서들 가지고 먼저 가볼게요! 음, 요양정원이 이쪽이었던가…… 아님 저쪽인가? 저, 박사님, 안내해 주실 수 있으실까요? 죄송해요……",
+                "cn": "您允许我自由选择办公地点？谢谢您，我马上就带着这些文件过去！唔，疗养庭院在这边......还是那边？啊，结果还是要麻烦您带路......"
+            },
+            "asset": "char_494_vendla/CN_001"
+        },
+        {
+            "id": "char_494_vendla_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "My grandfather told me how wild roses used to grow all over behind the town. White ones, red ones, out in the mountains and fields... Children loved them. Dignitaries took pride in them... But I never saw any. Perhaps he just wanted to trick a naughty child into going to sleep...",
+                "jp": "祖父の話では、故郷の町の裏山は昔、白や赤の野バラで埋め尽くされていたらしくて……子供たちにとっては楽しい遊び場で、偉い方々にとっては誇りだったそうです。でも私は一度も見たことがないので、元気すぎる子供を寝かしつけるための作り話だったのかもしれません……",
+                "kr": "전에 할아버지가 그러셨는데, 마을 뒷산엔 야생 장미로 가득했었대요…… 하얗고 붉은 장미로 가득한 그곳은 아이들에겐 놀이터였고, 높으신 분들에겐 자랑거리였다고 하죠. 하지만 전 한 번도 본 적이 없어요. 어쩌면 장난꾸러기 아이들을 재우기 위해 지어낸 이야기일지도 모르겠네요……",
+                "cn": "祖父告诉我，曾经小镇的后山上漫山遍野都是野玫瑰，白的，红的......孩子们以此为乐，达官贵人们以此为荣。不过我从未见过，也许他只是想哄骗一个调皮的孩子早点入睡吧......"
+            },
+            "asset": "char_494_vendla/CN_002"
+        },
+        {
+            "id": "char_494_vendla_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "The sunlight through the glass, the town's humid air, the aroma of petals and soil... Those were what made naps special for me, alone in the afternoons. No one would ever bother me—at most they'd quietly leave behind their coin, and take what flowers they fancied back home. At least, that's how it was until the tragedy.",
+                "jp": "ガラスを通り抜けて差し込む日の光、町のしっとりとした空気、花びらと土の匂い。こんな午後にのんびりするのが大好きだったんです。私が休んでいる時はみんな声をかけずにお金だけ置いて、気に入ったお花を持って帰るんですよ。少なくとも、あの悲劇が起きる前はずっとそうでした。",
+                "kr": "유리창을 뚫고 들어오는 햇살, 촉촉한 마을의 공기, 그리고 꽃과 흙의 냄새까지. 전 따스한 오후, 홀로 여유로운 시간을 보내는 걸 좋아했어요. 모두들 제가 쉬고 있을 땐, 절 깨우지 않고 말없이 돈만 남기고 좋아하는 꽃을 가져가시곤 했죠. 그 비극이 일어나기 전까지는…… 그랬어요.",
+                "cn": "穿透玻璃的阳光，小镇湿润的空气，花瓣与泥土的气息，我喜欢在这样的下午独自小憩。大家从不会在这时候打扰我，他们会悄悄留下硬币，将喜欢的花带回家。至少在那场悲剧之前一直如此。"
+            },
+            "asset": "char_494_vendla/CN_003"
+        },
+        {
+            "id": "char_494_vendla_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "I was bringing some seeds back, and Lena was smiling at me the whole time. Why...? Oh, I didn't even notice I had dirt on my face! I feel like when I get busy, I start letting all sorts of things slip my mind. Has it been this way? Well... I used to never have so many worries in the first place.",
+                "jp": "種を取りに行った帰り道、ラナさんはどうしてずっと私を見て笑っていたんだろ……あっ、顔が汚れてるの全然気付きませんでした……忙しくしてると、色々忘れられますよね。昔ですか？昔は……忘れたいほどの悩み事はありませんでしたから。",
+                "kr": "씨앗을 채집하고 돌아오는 길에 레나 씨가 계속 절 보면서 웃으시던데…… 앗, 얼굴에 뭐가 묻었다고요? 바쁘게 지내다 보면 참 여러 가지를 잊게 되는 것 같아요. 예전에요? 예전에는…… 잊고 싶을 정도의 걱정거리가 없었죠.",
+                "cn": "为什么取种子回来的路上莱娜小姐一直看着我笑呢......啊，我都没注意到脸已经脏了！总觉得忙起来可以忘记很多东西。以前？以前......可没有这么多烦恼需要忘记哦。"
+            },
+            "asset": "char_494_vendla/CN_004"
+        },
+        {
+            "id": "char_494_vendla_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "I don't think me stepping onto the front lines was an act of bravery. My time in the Self-Salvation Corps wasn't that dramatic either. My hometown's gone and I had nowhere to go. All I could do was carry on my friend's last wish, and never look back. Isn't that what war's all about?",
+                "jp": "別に自分が戦場に身を投じたのを勇敢だとは思いません。自救軍に参加したことも、そこまでドラマチックな話ではありませんよ。故郷がなくなって、どこにも行く場所がなくなったから、友達の遺志を継いで前へ歩いていくしかない。戦争って結局そういうものでしょう？",
+                "kr": "전 제가 전장으로 나선 게 용감한 행동이라고 생각하지 않아요. 자경단에 들어가게 된 계기도 그렇게 드라마틱한 얘기는 아니고요. 고향이 사라지고, 갈 곳이 없어진 제가 할 수 있었던 건, 친구의 의지를 이어받아서 앞으로 나아가는 것뿐이었어요. 전쟁이라는 게 결국 그런 거잖아요?",
+                "cn": "我不认为自己走上前线是一种勇敢，加入自救军的过程也并没有那么戏剧性。家乡不在了，我也没有什么地方好去，只能带着朋友的遗愿头也不回地继续走下去。战争不就是这么一回事吗？"
+            },
+            "asset": "char_494_vendla/CN_005"
+        },
+        {
+            "id": "char_494_vendla_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Do you think flowers can grow once more, in steel and soil's gaps? Ever since I saw again what that city of iron's become, the question has been bothering me. Maybe Rockrock was right—I'd better take a bag of seeds back home after the war dies down... You don't think we'll be waiting too long?",
+                "jp": "鉄に覆われてしまった土でも、本当に隙間からお花が咲くんでしょうか？あの変わり果てた鋼鉄の町を見た後、ずっとこのことを考えているんです。ロックロックさんの言う通り、戦争が終わったら種を持って行くべきかもしれません……その日はもう近い、ですか？",
+                "kr": "철로 뒤덮인 땅 위의 작은 틈새에서도 정말 꽃이 피어날 수 있을까요? 그 변해 버린 강철 도시를 다시 본 이후로 이런 생각이 머릿속에서 떠나지 않았어요. 어쩌면 락락 씨가 말씀하신 것처럼 전쟁이 끝나면 씨앗을 한 주머니 들고 돌아가야 할지도 모르겠네요…… 네? 그런 날이 멀지 않았다고요?",
+                "cn": "钢铁和泥土的缝隙间真的还能长出花朵吗？再次见到那座变了样的钢铁城市后，这个问题一直困扰着我。也许洛洛说得对，等战事平息之后我得带上一袋种子回去......您觉得不用等太久？"
+            },
+            "asset": "char_494_vendla/CN_006"
+        },
+        {
+            "id": "char_494_vendla_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Excuse me, Doctor, I'm not getting in the way of your sunbathing, am I? I like it here too... The portholes might not be that big, but their sunlight's enough for these flowers to grow. What do you think? It worries me when a place feels lonely, so I took the initiative to decorate the room with them.",
+                "jp": "ごめんなさい、ドクター様。日向ぼっこのお邪魔をしてしまいましたか？私もここがお気に入りなんです……窓はあまり大きくないですけど、差し込む光はこの子たちの生長には十分ですから。お気に召しますか？寂しいのが嫌なので、勝手にここに植えることにしたんです。",
+                "kr": "죄송해요, 박사님. 제가 박사님 햇빛 쬐시는 걸 방해한 건 아니죠? ……저도 여길 좋아해요. 함선의 창문은 크지 않지만, 식물들이 자라는 데 필요한 햇빛은 충분히 들어오죠. 제가 썰렁한 걸 싫어해서, 식물들을 전부 여기에 옮겨 심었는데, 박사님은 어떠세요, 마음에 드세요?",
+                "cn": "抱歉，博士，没有妨碍您享受阳光吧？我也喜欢这里......虽然舷窗不大，但透进来的阳光已经足够它们生长了。喜欢吗？我害怕冷清，所以就擅作主张把它们都安排在这里了。"
+            },
+            "asset": "char_494_vendla/CN_007"
+        },
+        {
+            "id": "char_494_vendla_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Doctor, watch out for the thorns on the stems! It's not that I don't want to pick them for you, it's just that they haven't reached the peak of their beauty yet. Hm...? You'd like to help me take care of them? Oh, no problem. Do you need me to teach you how?",
+                "jp": "ドクター様、枝にある棘に気を付けてくださいね！お花をあげるのが嫌なわけではないんです。ただこの子たちが一番綺麗な時期はもっとずっと先で……え？手入れを手伝ってくれるんですか？も……もちろん歓迎しますよ。やり方が分からないなら教えましょうか？",
+                "kr": "박사님, 가시 조심하세요! 박사님께 꽃을 드리기 싫어서 그런 게 절대 아니고요, 그냥 아직 이 꽃들이 가장 예쁠 시기가 아니거든요. 네? 관리하는 걸 도와주시겠다고요? 저, 저야 물론 좋죠. 그럼 제가 어떻게 해야 하는지 가르쳐 드릴까요?",
+                "cn": "博士，小心花枝上的刺！并非我不愿意将花朵摘下来送给您，只是现在还远没到它们最美的时刻。嗯？您愿意帮我打理？没......没问题的，需要我教您吗？"
+            },
+            "asset": "char_494_vendla/CN_008"
+        },
+        {
+            "id": "char_494_vendla_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "To be honest, my greatest wish would be to return to my hometown, and rebuild my greenhouse. Doctor, are you laughing? I'm guessing you—think I should have loftier dreams...? No need, you say? Heheh, I suppose. Well, not that this'll be easy either, seeing as my hometown's rubble now.",
+                "jp": "実は私の一番の夢は、故郷に帰って自分の温室を建て直すことなんです。ドクター様、笑っていますか？あなたも、もっと大きな志を持つべきだと思いますか……そんな必要はない？そうですよね。この夢だって、簡単に実現できることじゃないと思っているんです。だって、あそこはまだ廃墟のままなんですから。",
+                "kr": "사실 제 꿈은 고향으로 돌아가서 온실을 다시 짓는 거예요. ……지금 웃고 계시는 거죠? 박사님도 제가 더 큰 꿈을 가져야 한다고 생각하시는 건가요…… 그럴 필요는 없다고요? 네, 사실 이 꿈도 쉽게 이룰 수 있는 건 아니라고 생각해요. 그야, 지금 제 고향은 아직도 폐허로 남아 있으니까요……",
+                "cn": "其实我最大的愿望就是回家重建我的温室。您是在笑吗？难道博士也觉得我应该有更远大的理想......不用吗？嗯，其实我并不认为这是件容易的事，毕竟家乡至今还是一片废墟。"
+            },
+            "asset": "char_494_vendla/CN_009"
+        },
+        {
+            "id": "char_494_vendla_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Take a deep breath, Doctor. The scent of roses will put your mind at ease.",
+                "jp": "深呼吸をしてみてください、ドクター様。バラの香りは気持ちを落ち着かせてくれますよ。",
+                "kr": "크게 숨을 들이켜 보세요, 박사님. 장미향이 마음을 안정시켜 줄 거예요.",
+                "cn": "深呼吸，博士，玫瑰的香气会让您的心绪更加宁静。"
+            },
+            "asset": "char_494_vendla/CN_010"
+        },
+        {
+            "id": "char_494_vendla_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Greetings, Doctor. Vendela reporting in. Um, what did Rockrock write for me next, I can't remember... Never mind! Please take this flower, I insist! Its meaning is good luck.",
+                "jp": "ドクター様、ヴァンデラただいま着任しました。えっと、ロックロックさんの原稿だと次は……その、とりあえずこのお花を受け取ってください！幸運をもたらしてくれますよ。",
+                "kr": "박사님, 안녕하세요. 벤델라, 인사드립니다. 앗, 락락 씨가 준비해주신 대본의 다음 내용이 뭐였더라…… 이, 일단 이 꽃을 받아 주세요! 박사님께 행운을 가져다줄 거예요.",
+                "cn": "博士，刺玫向您报到。欸，洛洛小姐为我准备的稿子后面是什么来着......总之，请您先收下这朵花！它代表着好运哦。"
+            },
+            "asset": "char_494_vendla/CN_011"
+        },
+        {
+            "id": "char_494_vendla_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "The method's a perfect fit. You prune leaves and branches the same way.",
+                "jp": "適切な処理ですね、剪定と似ています。",
+                "kr": "가지치기처럼 합리적인 처리 방식이네요.",
+                "cn": "很恰当的处理方式，修剪枝叶也是如此。"
+            },
+            "asset": "char_494_vendla/CN_012"
+        },
+        {
+            "id": "char_494_vendla_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "A promotion? Then may I request a bigger room? No... It's not that I can't get used to it. I just have more and more roses in my room, and they need more sunlight... Okay, maybe the same goes for me.",
+                "jp": "昇進ですか？それなら、もう少し大きな個室を申請してもいいでしょうか？いえ……今の部屋が不満というわけじゃなくて、ただバラがどんどん多くなっていて、日光がもっと欲しいかなと……はい、そうです。私にもです。",
+                "kr": "승진이요? 그렇다면, 혹시 조금 더 큰 방을 신청해도 될까요? 아뇨, 지금 쓰는 방이 불편한 게 아니라…… 방에 장미가 많아져서 햇빛이 더 많이 들어왔으면 좋겠다 싶어서요…… 물론, 저도 필요하고요.",
+                "cn": "晋升？那我可以申请一间更大的房间吗？不......并不是住得不习惯，只是房间里的玫瑰越来越多，它们需要更多的阳光......好吧，我也需要。"
+            },
+            "asset": "char_494_vendla/CN_013"
+        },
+        {
+            "id": "char_494_vendla_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Don't worry yourself about these entangled thorns. They're just trying to protect me.",
+                "jp": "周りの茨に関しては心配しなくて大丈夫ですよ。この子たちは私を守ろうとしているだけなんです。",
+                "kr": "주변의 가시덤불은 걱정하지 않으셔도 돼요. 이 아이들은 그저 절 보호하려는 것뿐이니까요.",
+                "cn": "请不要担心这些缠绕的荆棘，它们只是想守护我而已。"
+            },
+            "asset": "char_494_vendla/CN_014"
+        },
+        {
+            "id": "char_494_vendla_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "I'll try my best to help everyone out.",
+                "jp": "みなさんの役に立てるよう頑張ります。",
+                "kr": "여러분께 도움이 될 수 있도록 최선을 다하겠습니다.",
+                "cn": "我会尽力帮上大家的。"
+            },
+            "asset": "char_494_vendla/CN_017"
+        },
+        {
+            "id": "char_494_vendla_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Everyone, please follow where the petals flutter.",
+                "jp": "みなさん、花びらが舞う方向に進んでください。",
+                "kr": "여러분, 꽃잎이 흩날리는 방향으로 가주세요.",
+                "cn": "各位，请沿着花瓣飘舞的方向前进。"
+            },
+            "asset": "char_494_vendla/CN_018"
+        },
+        {
+            "id": "char_494_vendla_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Don't be afraid of the thorns. They are here to help us.",
+                "jp": "茨を怖がる必要はありません、助けになってくれますから。",
+                "kr": "가시를 두려워하지 마세요. 이 아이들은 우리의 힘이 되어 줄 거예요.",
+                "cn": "不用害怕荆棘，它们会成为我们的助力。"
+            },
+            "asset": "char_494_vendla/CN_019"
+        },
+        {
+            "id": "char_494_vendla_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "I won't allow them to trample apart this land!",
+                "jp": "この場所をめちゃくちゃにはさせません！",
+                "kr": "저들이 이곳을 파괴하게 두진 않을 거예요!",
+                "cn": "我不允许他们糟蹋这片土地！"
+            },
+            "asset": "char_494_vendla/CN_020"
+        },
+        {
+            "id": "char_494_vendla_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Ugh, there's a bad scent in the air.",
+                "jp": "う、空気に嫌な匂いが混じっています。",
+                "kr": "으으, 공기 중에 이상한 냄새가 섞여 있는 것 같아요.",
+                "cn": "唔，空气里弥漫着不好的味道。"
+            },
+            "asset": "char_494_vendla/CN_021"
+        },
+        {
+            "id": "char_494_vendla_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Will it really be possible to plant seeds here?",
+                "jp": "本当にここに種を植えてもいいんですか？",
+                "kr": "정말로 여기에 씨앗을 심어도 괜찮을까요?",
+                "cn": "真的可以在这里埋下种子吗？"
+            },
+            "asset": "char_494_vendla/CN_022"
+        },
+        {
+            "id": "char_494_vendla_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "I like these high places. They have plenty of sunshine.",
+                "jp": "高い場所はいいですね。お日様の光がたっぷりです。",
+                "kr": "전 높은 곳이 좋아요, 햇빛도 충분하잖아요.",
+                "cn": "我喜欢这些高地，阳光充足。"
+            },
+            "asset": "char_494_vendla/CN_023"
+        },
+        {
+            "id": "char_494_vendla_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "I heard someone tried planting sunflowers on the roof? Not a bad idea.",
+                "jp": "ヒマワリを屋根の上に植えた人がいるんですか？素敵なチャレンジですね。",
+                "kr": "지붕 위에 해바라기를 심는 사람이 있다고 들었어요. 괜찮은 시도라고 생각해요.",
+                "cn": "听说有人把向日葵种在了屋顶上？不错的尝试。"
+            },
+            "asset": "char_494_vendla/CN_024"
+        },
+        {
+            "id": "char_494_vendla_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Watch out for the thorns.",
+                "jp": "棘に気を付けて！",
+                "kr": "가시 조심하세요!",
+                "cn": "当心那些刺！"
+            },
+            "asset": "char_494_vendla/CN_025"
+        },
+        {
+            "id": "char_494_vendla_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Bloom forth!",
+                "jp": "咲いて！",
+                "kr": "피어나라!",
+                "cn": "绽放吧！"
+            },
+            "asset": "char_494_vendla/CN_026"
+        },
+        {
+            "id": "char_494_vendla_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Pay attention to where the petals fall.",
+                "jp": "花びらが散る方向に気を付けて。",
+                "kr": "꽃잎이 떨어지는 방향을 조심해 주세요.",
+                "cn": "注意花瓣落下的方位。"
+            },
+            "asset": "char_494_vendla/CN_027"
+        },
+        {
+            "id": "char_494_vendla_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "What blooms, must also wither.",
+                "jp": "芽吹き、枯れる。",
+                "kr": "싹은 피어나고, 꽃은 시들기 마련이죠.",
+                "cn": "复苏，凋零。"
+            },
+            "asset": "char_494_vendla/CN_028"
+        },
+        {
+            "id": "char_494_vendla_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Do you see the dew shimmering on the petals? Such splendid scenery in the morning light… We wouldn't be enjoying this if not for you.",
+                "jp": "花びらの上で露がキラキラ光っているのを見ましたか？朝日の中でこの光景を目にできたのも、全部ドクター様のおかげです！",
+                "kr": "꽃잎 위 반짝이는 이슬을 보셨나요? 아침 햇살 아래에서 이런 장면을 볼 수 있는 건, 전부 박사님 덕분이에요!",
+                "cn": "您看到花瓣上闪耀的露珠了吗？我们能在晨曦中欣赏这一幕，全都仰仗您！"
+            },
+            "asset": "char_494_vendla/CN_029"
+        },
+        {
+            "id": "char_494_vendla_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Scything, uprooting... It sounds cruel. But if we want to deal with the weeds competing for nutrients, then I think there's no other way, Doctor.",
+                "jp": "一人残らず根絶やしにするのは……残酷なように思えるかもしれませんが、栄養を奪ってしまう雑草を徹底的に駆除するには、こうするしかないんです。",
+                "kr": "풀을 베고 뿌리까지 뽑는다…… 잔인해 보일 수도 있지만, 영양분을 앗아가는 잡초를 제거하기 위해서는 당연한 거겠죠. 그렇죠, 박사님?",
+                "cn": "斩草除根......虽然听上去残忍，但是想要彻底处理这些争夺养分的杂草，我们确实只能如此，博士。"
+            },
+            "asset": "char_494_vendla/CN_030"
+        },
+        {
+            "id": "char_494_vendla_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "While on the front lines, I caught a glimpse of an unforgettable field of flowers, blooming with vigor and vitality. I was always curious where their nutrients came from. Now, I think I know…",
+                "jp": "戦場で、忘れられないお花畑を見たんです。生命力に溢れていて、どこから栄養をとっているのかとても不思議でした。今、その答えが分かった気がします……",
+                "kr": "전장 위, 생기가 가득한 꽃밭을 본 적이 있어요. 전 그 꽃들이 어디서 영양분을 얻었는지 항상 궁금했었는데, 이젠…… 그 답을 알 것 같아요.",
+                "cn": "我在前线瞥见过一片难以忘记的花田，充满生机，我曾无比好奇它们的养分从何而来。现在，我想我知道了......"
+            },
+            "asset": "char_494_vendla/CN_031"
+        },
+        {
+            "id": "char_494_vendla_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Their petals... have crumbled away.",
+                "jp": "花びらが……散ってしまいましたね。",
+                "kr": "꽃잎들이…… 흩어지고 있어요.",
+                "cn": "它们的花瓣......碎了。"
+            },
+            "asset": "char_494_vendla/CN_032"
+        },
+        {
+            "id": "char_494_vendla_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Cold and isolated... Is this the sort of atmosphere you prefer, Doctor?",
+                "jp": "寂しい部屋ですね。ドクター様はこういう雰囲気が好きなんですか？",
+                "kr": "쓸쓸한 분위기의 방이네요. 박사님은 이런 스타일을 좋아하시는 건가요?",
+                "cn": "好冷清，博士喜欢的风格是这样的吗？"
+            },
+            "asset": "char_494_vendla/CN_033"
+        },
+        {
+            "id": "char_494_vendla_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Oh! Did you want to buy some flowers?",
+                "jp": "あれ、お花が欲しいんですか？",
+                "kr": "어, 꽃을 사러 오셨나요?",
+                "cn": "咦，想要买花吗？"
+            },
+            "asset": "char_494_vendla/CN_034"
+        },
+        {
+            "id": "char_494_vendla_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Eep. You knocked the flower out of my hair.",
+                "jp": "あっ、頭のお花が落ちてしまいました。",
+                "kr": "앗, 머리 위에 있던 꽃이 떨어졌어요.",
+                "cn": "欸，头上的花被您碰掉了。"
+            },
+            "asset": "char_494_vendla/CN_036"
+        },
+        {
+            "id": "char_494_vendla_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_494_vendla/CN_037"
+        },
+        {
+            "id": "char_494_vendla_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "You spotted it, Doctor? That's a new variety I've been breeding. Do you like it?",
+                "jp": "ドクター様、気付きました？これは私が育てた新種のお花です。気に入ってもらえますか？",
+                "kr": "박사님, 눈치채셨나요? 이건 제가 새로 키우고 있는 품종이에요. 마음에 드시나요?",
+                "cn": "博士，被您发现了。这是我刚培育的新品种，喜欢吗？"
+            },
+            "asset": "char_494_vendla/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Cassandra Lee Morris",
+            "global": "Cassandra Lee Morris"
+        },
+        "cn": {
+            "native": "常佳梦",
+            "global": "Jiameng Chang"
+        },
+        "jp": {
+            "native": "和久井優",
+            "global": "Yu Wakui"
+        },
+        "kr": {
+            "native": "김미소",
+            "global": "Kim Mi-so"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

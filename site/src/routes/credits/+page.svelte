@@ -9,11 +9,12 @@
   <p>I'd like to thank these Arknights community projects:</p>
   <ul>
     <li><a href="https://github.com/Kengxxiao/ArknightsGameData">Kengxxiao/ArknightsGameData</a> for up to date textual game data which is used by this site.</li>
-    <li><a href="https://aceship.github.io/AN-EN-Tags/">Aceship Toolbox</a> for being the original source of the audio files before I figured out how to take the data straight from the game, and for being a cool toolbox!</li>
+    <li><a href="https://aceship.github.io/AN-EN-Tags/">Aceship Toolbox</a> for being the original source of the audio files before I figured out how to take the data straight from the game, and for being a cool toolbox</li>
     <li><a href="https://050644zf.github.io/ArknightsStoryTextReader">Arknights Story Text Reader</a>, for being an easy site to look up in-game story references.</li>
+    <li><a href="https://akgcc.github.io/cc/story.html">AKGCC Arknights Story Reader</a>, for letting people who don't play the game enjoy the story too.
     <li><a href="https://arknights.wiki.gg">Arknights Terra Wiki</a> for being a robust English-language compilation of info. Thank you for moving from fandom dot com, the hell site.</li>
-    <li><a href="https://prts.wiki">PRTS Wiki</a>, for being the best Arknights wiki!</li>
-    <li><a href="https://gamepress.gg/arknights/">Arknights Wiki on GamePress</a>. Though you are ad-ridden and your tier list is Wrong, you still have many fun writeups.</li>
+    <li><a href="https://prts.wiki">PRTS Wiki</a>, gottap pay respect to the og wiki.</li>
+    <li><a href="https://gamepress.gg/arknights/">Arknights Wiki on GamePress</a>, for having some fun writeups even though they're an ad-ridden hellsite still.</li>
     <li><a href="https://twitter.com/arknightsfess">Arknightsfess</a>, for being a fun local community.</li>
     <li><a href="https://www.youtube.com/@KyoStinV">KyoStinV</a>, thank you for my life.</li>
   </ul>

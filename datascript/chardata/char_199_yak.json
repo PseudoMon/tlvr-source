@@ -67,7 +67,7 @@
             "text": {
                 "en": "It's not exactly polite to talk about Miss Enya behind her back, but... *sigh* I do pity Miss Enya for what she has suffered. She really deserves a better life.",
                 "jp": "ぶしつけな話ですが、エンヤ様の御身に起きたことは……実にお気の毒でした。あの方にはもっと明るい未来があったはずなのに。",
-                "kr": "무례한 이야기입니다만, 엔야 님의 몸에 일어난 일은… 정말 안타까웠습니다. 그분께는 더 밝은 미래가 기다리고 있었을 텐데…",
+                "kr": "무례한 이야기일 수 있습니다만, 엔야 님께 일어난 일은…… 정말 안타까웠습니다. 그분께는 더 밝은 미래가 기다리고 있었을 텐데……",
                 "cn": "谈论这个是不礼貌的，但恩雅小姐的遭遇......确实令人感到忧伤。她理应有更好的生活。"
             },
             "asset": "char_199_yak/CN_004"
@@ -115,7 +115,7 @@
             "text": {
                 "en": "Life at Rhodes Island is fun. The Snow Realm is rather bland in comparison.",
                 "jp": "ロドスでの生活は刺激に満ちていますね。それに比べると、雪境の生活はずいぶん穏やかなものでした。",
-                "kr": "로도스 아일랜드에선 자극적인 일이 정말 많이 생기는군요. 여기에 비하면, 히라에서의 생활은 무척 평온한 편이었습니다.",
+                "kr": "로도스 아일랜드의 생활은 매우 흥미롭군요. 이곳에 비하면, 히라에서의 생활은 무척 평온한 편이었습니다.",
                 "cn": "罗德岛的生活十分有趣，相比之下，在雪境度过的日子都比较平淡。"
             },
             "asset": "char_199_yak/CN_007"
@@ -147,7 +147,7 @@
             "text": {
                 "en": "I am slowly starting to understand why Master SilverAsh holds you in such high regard. Doctor, from this day, feel free to command me as your shield.",
                 "jp": "我が主、シルバーアッシュ様があなたのことを評価している理由が、俺にも少し理解できたような気がします。",
-                "kr": "제 주인이신, 실버애쉬 님께서 당신을 높게 평가하고 있는 이유를… 저도 조금은 이해하게 된 것 같습니다.",
+                "kr": "제 주인이신, 실버애쉬 님께서 당신을 높게 평가하고 있는 이유를…… 저도 조금은 이해하게 된 것 같습니다. 앞으로는 저도 당신의 방패로 삼아 주십시오.",
                 "cn": "银灰老爷对你如此器重的原因，我多少也有点明白了。以后请把我也当作你的盾。"
             },
             "asset": "char_199_yak/CN_009"
@@ -371,7 +371,7 @@
             "text": {
                 "en": "Retribution!",
                 "jp": "因果応報だ。",
-                "kr": "인과응보다.",
+                "kr": "자업자득이다.",
                 "cn": "自讨苦吃。"
             },
             "asset": "char_199_yak/CN_025"

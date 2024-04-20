@@ -1,0 +1,596 @@
+{
+    "charid": "char_4107_vrdant",
+    "nameid": "vrdant",
+    "names": {
+        "en": "Verdant",
+        "jp": "ヴァーダント",
+        "kr": "버던트",
+        "cn": "维荻"
+    },
+    "voices": [
+        {
+            "id": "char_4107_vrdant_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Doctor, I'm putting the flowerpots here. The scent from these clears the mind. It'll help you sift through those documents, guaranteed.",
+                "jp": "ドクター、ここに鉢植えを置いておくね。この花の香りは頭をスッキリさせる効果があるから、書類仕事がはかどるはずだよ。",
+                "kr": "박사, 화분은 여기에 둘게. 이 꽃의 향기는 머리를 맑게 해주거든. 박사가 서류 작업하는 데 분명 도움이 될 거야.",
+                "cn": "博士，这盆花我放在这里了，这种花的香气能让人头脑清醒，肯定对你批文件有帮助。"
+            },
+            "asset": "char_4107_vrdant/CN_001"
+        },
+        {
+            "id": "char_4107_vrdant_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "I used to have to collect plant samples for my employer whenever he barked the order. Give me a scarcely-traveled rainforest and I'll head in happy. Thing is, once our specimens started growing in people's hydroponic pots, and then protected areas, and then test farms... Well, that's where the trouble began.",
+                "jp": "以前は雇い主から指示があれば、どんなところへだって飛んで行ったんだ。採取する植物がめったに人が足を踏み入れないようなジャングルにあるならまだしも、それが人様の水耕栽培鉢だったり、自然保護区や試験畑に生えていたりしたら……はぁ、面倒なことこの上なかったよ。",
+                "kr": "예전엔 고용주 한 마디면 어디든 달려가서 식물의 샘플을 채취했었어. 채취할 식물이 사람 발길이 뜸한 정글 같은 데 있으면 그나마 괜찮지만, 다른 사람이 키우는 수경 재배 화분이나, 자연 보호 구역, 실험용 밭 같은 곳에 있으면…… 하아, 일이 상당히 귀찮아져.",
+                "cn": "以前，雇主一声令下，我就得去替他采集植物样品。要是去人迹罕至的雨林我倒是很乐意，可一旦目标长在别人的水培钵、保护区、试验田......唉，那麻烦事就多了。"
+            },
+            "asset": "char_4107_vrdant/CN_002"
+        },
+        {
+            "id": "char_4107_vrdant_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "I was in the Convalescent Garden, and I saw the plant almanac Perfumer's compiling. Lots of gaps, no way to fill them in as of yet. See, a good plant hunter fills the blanks with their 'prey.' A great plant hunter not only does that, they also get the author to leave them plenty more new blanks.",
+                "jp": "療養庭園でパフューマーさんが作ってる植物図鑑を見たんだけど、まだ埋まってない空白がたくさんあったんだ。普通の植物ハンターは「獲物」でその空白を埋めるけど、偉大な植物ハンターは、埋めるだけでなく、もっとたくさんの「空白」を用意してあげなきゃって編集者に思わせるものなんだ。",
+                "kr": "요양정원에서 퍼퓨머 씨가 만들고 있는 식물도감을 봤는데 아직 못 채운 빈칸이 많더라고. 평범한 식물 사냥꾼이라면 그 빈칸을 '사냥감'으로 채우겠지만, 위대한 식물 사냥꾼은 그 빈칸을 채우는 것뿐만이 아니라, 편집자가 더 많은 빈칸이 필요하겠다는 생각을 하게 만들어.",
+                "cn": "在疗养庭院，我看到了调香师正在编纂的植物图鉴，上面有许多暂时无法填补的空白。合格的植物猎人会用“猎物”填空，而伟大的植物猎人会在填空之余，让编纂者为他们留出更多的空白。"
+            },
+            "asset": "char_4107_vrdant/CN_003"
+        },
+        {
+            "id": "char_4107_vrdant_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "I've been to Acahualla plenty. The residents there, Tiacauhs, I believe the name is. They're good people. They'll be frank with you, straight with you. It's just, two things I can't stand: one, they force me to go wrestling when they get drunk, and two, they keep judging my tail... is it really that thin, Doctor? My tail?",
+                "jp": "アカフラなら何度も行ったことがあるよ。あそこの住民――ティアカウって言うんだっけ？みんな素直でいい人だけど、二つだけどうしても受け付けないことがあるんだよね。一つは酔っ払うとレスリングをしろと迫ってくることで、もう一つはボクの尻尾についてあれこれ言うことだ……ドクター、ボクの尻尾ってそんなに細いのかな？",
+                "kr": "아카후알라는 나도 여러 번 가 봤어. 거기 주민들, 그러니까, 티아카우였나? 다들 솔직하고 좋은 사람들인 건 맞는데, 딱 두 가지 마음에 안 드는 점이 있었어. 하나는 술에 취하기만 하면 나랑 레슬링 하려고 드는 점이고, 다른 하나는 내 꼬리에 대해 이러쿵저러쿵하는 거였지…… 박사, 내 꼬리가 그렇게 얇은 편이야?",
+                "cn": "阿卡胡拉我去过好多次。那里的居民——应该是叫提亚卡乌吧，是些直脾气的好人，只有两点我受不了，第一是喝醉会拉我摔跤，第二是喜欢品评我的尾巴......博士，我的尾巴真有那么细吗？"
+            },
+            "asset": "char_4107_vrdant/CN_004"
+        },
+        {
+            "id": "char_4107_vrdant_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "This handsaw was custom-made for me by my mother while I was still in school. Never thought I'd be using it again after I got infected. Thanks to that employer of mine, hiring plant hunters. He let me continue doing what I loved... even if he's the same bloke who fired me out of paranoia in the end.",
+                "jp": "このノコギリは、学生の頃に母ちゃんがボクのために特注で作ってくれたんだ。鉱石病に感染してからはもう使う機会もないと思ってたけど、こればかりは植物ハンターとして雇ってくれた人に感謝してるよ。そうでもなきゃ、好きなことを仕事になんてとてもできなかったし……まあ、変に怪しんで、ボクをクビにしたのもその人だけどね。",
+                "kr": "이 톱은 학창시절에 엄마가 날 위해 특별히 만들어 준 거야. 광석병에 감염되고 나선 더 이상 쓸 일이 없을 줄 알았는데, 이것 하나만큼은 식물 사냥꾼으로 고용해 준 그 고용주한테 고마울 정도라니까. 덕분에 나도 내가 좋아하는 일을 계속할 수 있었어…… 물론, 날 의심하고 해고했던 것도 그 사람이지만.",
+                "cn": "这把手锯是我上学的时候母亲为我定做的，感染之后还以为再也用不上了。多亏那位在招植物猎人的雇主，我才能继续做自己喜欢的事情......虽然最后因为疑心病解雇我的也是他就是了。"
+            },
+            "asset": "char_4107_vrdant/CN_005"
+        },
+        {
+            "id": "char_4107_vrdant_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Doctor, this is the plant that got me fired. No monetary value, so you can imagine... I told my boss I forsook my assigned target for this bit of shrubbery, and he thinks I'm having him on somehow... But listen. I discovered this 'un. I gave it its name. And nothing could matter more than that.",
+                "jp": "ドクター、ボクがクビになった原因の植物がこれだよ。商品価値のないちっぽけな草だから、こいつを採るのを優先して任務は諦めたって報告したら、嘘だと思われちゃって……それでも、この植物を最初に発見したのがボクで、命名したのもボク。この事実が何よりも大事なんだ。",
+                "kr": "박사, 이게 바로 날 해고당하게 만든 그 식물이야. 아무런 상품 가치도 없는 조그만 녀석이지. 이 녀석을 채취하느라 임무 목표를 포기했다고 하니까, 고용주는 내가 거짓말한다고 생각한 모양이더라고…… 그래도 이 녀석은 내가 처음 발견했고, 이름도 내가 지어줬어. 나한테 이게 가장 중요해.",
+                "cn": "博士，这就是害我被解雇的那种植物，没有任何经济价值，也难怪我说为这株小草放弃了任务目标时，雇主觉得我在骗他......但它是我发现的，它的名字是我起的，这比什么都重要。"
+            },
+            "asset": "char_4107_vrdant/CN_006"
+        },
+        {
+            "id": "char_4107_vrdant_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "To make a 'scarecrow,' you need a whole lot more than just straw. You also need a variety of tough, poisonous, and insect-eating plants, Originium Arts, as well as my dad's techniques to sew everything together... Tch, leaked my trade secrets again. Doctor, remember not to tell anyone.",
+                "jp": "麦わら以外にも、ボクの「かかし」作りには様々な植物が欠かせないんだ。しなやかだったり、毒を持ったり、虫を食べるものなんかも。それからアーツと、父ちゃん譲りのかかし作りの腕も……っと、いけない、しゃべり過ぎちゃった。ドクター、今の話は内緒にしてくれる？",
+                "kr": " '허수아비'를 만들기 위해선 짚 말고도 다른 여러 재료가 필요해. 두껍고 질긴 식물, 독이 있는 식물 그리고 식충 식물까지. 거기에 아버지한테 물려받은 허수아비 만드는 기술이랑 오리지늄 아츠도 필요하지…… 앗, 너무 많이 말해 버렸나? 박사, 방금 한 얘기는 우리 둘만의 비밀로 하는 거다?",
+                "cn": "要做“稻草人”，需要的可不止秸秆，还需要各种坚韧的、有毒的、食虫的植物，还需要源石技艺，还需要我父亲捆稻草人的手艺......啧，透露得有点多了，博士，记得替我保密啊。"
+            },
+            "asset": "char_4107_vrdant/CN_007"
+        },
+        {
+            "id": "char_4107_vrdant_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "You're right, I am in fact used to keeping a cold, stoic persona in front of strangers. After all, your average plant hunter doesn't usually get into interpersonal conflict with a standing army. It's more often absent-minded guards with fixed salaries. Overpowering your opposition by putting on airs can actually ensure your safety, funny enough.",
+                "jp": "そう、確かにボクは初対面の人にはわざと冷たく当たってるよ。植物ハンターとして活動するうえで、揉める相手は軍隊というより、むしろ固定給で働いてるようなやる気のない門番の方が多いからね。だから相手を怖気づかせておいた方が身の安全を守れるんだ。",
+                "kr": "그래 맞아. 난 처음 보는 사람한테 일부러 차갑게 굴어. 식물 사냥꾼으로 활동하면서 자주 부딪히게 되는 상대는 군인들보단 주로 의욕 없는 월급쟁이 문지기들이거든. 그러니까 상대방을 겁먹게 만들면, 오히려 나의 안전을 챙길 수 있다 이 말이지.",
+                "cn": "没错，我确实习惯在陌生人面前做出一副很冷酷的样子，毕竟植物猎人一旦和人起了冲突，面对的往往不是军队，而是拿着固定工资，心不在焉的看守，在气势上压倒对方，反而能保证自己的安全。"
+            },
+            "asset": "char_4107_vrdant/CN_008"
+        },
+        {
+            "id": "char_4107_vrdant_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Doctor, this is my very first time making a 'Scarecrow' for someone else. What d'you think? Uncanny resemblance, right? If danger's ever afoot, this can help—oi, slow down, don't touch those vines, else they'll—Hrm. It'll let go of your arm naturally after a short while. Trust me.",
+                "jp": "他人のために「かかし」を作ったのは初めてだったけど、どう？かなりドクターに似せてできたと思うけど。これがあれば、いざという時に――ダメ！そのツルは触ると絡まれる――あぁ……えっと、まあ、少し経てば勝手にほどけるから大丈夫だよ。うん。",
+                "kr": "다른 사람을 위해 '허수아비'를 만드는 건 처음인데, 어때? 박사랑 꽤 닮았지? 이것만 있으면 앞으로 위험할 때…… 잠깐, 그 덩굴을 만지면…… 아…… 조, 조금 시간이 지나면 알아서 팔을 놔줄 거야. 어…… 정말이야.",
+                "cn": "博士，我还是第一次为别人做“稻草人”，怎么样，看起来和你很像吧？这样你遇到危险时就可以——等下，别碰那些藤蔓，会被缠住——啊......这，它过一会儿就会放开你手臂的。真的。"
+            },
+            "asset": "char_4107_vrdant/CN_009"
+        },
+        {
+            "id": "char_4107_vrdant_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "You were just trying to chat with me and I wasn't responding? Ooh, um, see, I was DEFINITELY, NOT using a 'Scarecrow', tooooo skive off work. Honest.",
+                "jp": "さっき声をかけたのに反応がなかったって？その……コホン、「かかし」を身代わりにしてサボってなんかないよ。ホントだよ。",
+                "kr": "방금 말을 걸었는데 반응이 없었다고? 크흠, '허수아비'를 세워 두고 땡땡이 치거나 한 건 아니야. 진짜로.",
+                "cn": "刚刚和我搭话我没反应？咳，我可没有用“稻草人”偷懒，真的哦。"
+            },
+            "asset": "char_4107_vrdant/CN_010"
+        },
+        {
+            "id": "char_4107_vrdant_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "I need a job, and being a pharmaceutical company, surely Rhodes Island won't turn down an experienced plant hunter. And the plant hunter in question is none other than... Y'what? I just need to sign here, that's it? No fibs?",
+                "jp": "オレには飯の種が必要で、ロドスも製薬会社として、経験豊富な植物ハンターを拒む理由がないはずだ。ああ、植物ハンターというのは……って、え？ここにサインをするだけでいいの？本当に？",
+                "kr": "나한테는 일거리가 필요하고, 로도스 아일랜드도 제약 회사로서 나처럼 경험이 풍부한 식물 사냥꾼을 거절할 이유가 없겠지. 아, 참고로 식물 사냥꾼이라는 건…… 어? 여기에 사인만 하면 된다고? 정말?",
+                "cn": "我需要一份工作，而作为一家制药公司，罗德岛想必不会拒绝一名经验丰富的植物猎人。所谓植物猎人，就是......啊？在这里签字就可以了？真的？"
+            },
+            "asset": "char_4107_vrdant/CN_011"
+        },
+        {
+            "id": "char_4107_vrdant_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Hang on! I think I saw a very rare shrub. Might even be a new species! Where was this video taken?",
+                "jp": "ちょっと待って！さっき何か変わった低木が見えたような……ひょっとしたら新種かも！この映像はどこで撮ったの？",
+                "kr": "잠깐! 방금 엄청 특이하게 생긴 관목을 본 것 같아, 새로운 품종일 수도 있어! 이 영상 어디서 찍은 거야?",
+                "cn": "我好像看到了一种很独特的灌木，也许是新物种！这录像是在什么地方拍的？"
+            },
+            "asset": "char_4107_vrdant/CN_012"
+        },
+        {
+            "id": "char_4107_vrdant_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "There's a beautiful medal... but the design's a bit dull. You considered adding some plant motifs to it?",
+                "jp": "キレイなメダルだね……でも、ちょっとシンプル過ぎるかな。植物のモチーフとか取り入れてみるのもいいんじゃない？",
+                "kr": "엄청 예쁜 훈장이네…… 근데 디자인이 좀 심심하다. 혹시 식물을 모티브로 한 디테일을 추가해 볼 생각은 없어?",
+                "cn": "好漂亮的勋章......不过稍微单调了点，有没有考虑过在其中加入一些植物元素？"
+            },
+            "asset": "char_4107_vrdant/CN_013"
+        },
+        {
+            "id": "char_4107_vrdant_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Never mind contending with people. I prefer exploring the wilderness, delving into the rainforest, living among the plants... Want to come along with me next time, Doctor?",
+                "jp": "人間同士の腹の探り合いより、荒野へ出たり、ジャングルに潜ったりして、生き生きとした植物たちの相手をする方がボクは好きだな……ドクター、今度一緒に行ってみない？",
+                "kr": "난 사람들과 옥신각신 투닥거리는 것보단, 황야나 정글에 가서 생기 넘치는 식물들이랑 같이 있는 게 훨씬 좋아…… 박사, 다음에 나랑 같이 가 볼래?",
+                "cn": "比起和人勾心斗角，我还是更喜欢去荒原，去雨林，去和鲜活的植物待在一起......博士，下次要和我一起去吗？"
+            },
+            "asset": "char_4107_vrdant/CN_014"
+        },
+        {
+            "id": "char_4107_vrdant_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Can we settle disputes some other way that's not direct conflict?",
+                "jp": "正面衝突以外で問題を解決する方法はないのか？",
+                "kr": "정면으로 부딪치는 거 말고는 문제를 해결할 방법이 없는 거야?",
+                "cn": "我们能不能用直接冲突以外的方法解决争端？"
+            },
+            "asset": "char_4107_vrdant/CN_017"
+        },
+        {
+            "id": "char_4107_vrdant_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "All I can assure you is everyone returns safe. I cannot guarantee victory like the others can. Are you SURE you want me as squad leader?",
+                "jp": "ボクにできるのは、せいぜいみんなを安全に連れて帰ることくらいで、他の人みたいに勝利の約束はできないよ？本当に隊長はボクなんかでいいの？",
+                "kr": "내가 할 수 있는 건 기껏해야 모두를 안전하게 데려오는 정도지, 다른 사람들처럼 승리를 장담할 순 없어. 그런데도 내가 팀장을 맡아도 괜찮겠어?",
+                "cn": "我只能确保大家安全回来，可没法像其他人一样向你保证胜利哦？真的要我当队长吗？"
+            },
+            "asset": "char_4107_vrdant/CN_018"
+        },
+        {
+            "id": "char_4107_vrdant_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "If this conflict truly is necessary, I suppose there's no way around it.",
+                "jp": "これが必要な衝突なら、仕方ないね。",
+                "kr": "필요한 충돌이라면, 어쩔 수 없지.",
+                "cn": "既然是必要的冲突，那就没办法了。"
+            },
+            "asset": "char_4107_vrdant/CN_019"
+        },
+        {
+            "id": "char_4107_vrdant_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Good bit of bravery in you to stand as my enemy.",
+                "jp": "……このオレを敵に回すとは、なかなかの度胸だ。",
+                "kr": "……이 나를 적으로 돌리다니, 배짱이 두둑한걸.",
+                "cn": "......敢与我为敌，你们胆子很大啊。"
+            },
+            "asset": "char_4107_vrdant/CN_020"
+        },
+        {
+            "id": "char_4107_vrdant_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Chop-chop with the orders. I'll make 'em regret showing their faces.",
+                "jp": "さあ、指示を。オレの前に立ったことを奴らに後悔させてやる。",
+                "kr": "어서 명령을 내려 줘, 저들이 내 앞에 선 걸 후회하게 만들어 주겠어.",
+                "cn": "请赶快下令，我会让敌人后悔来到我面前的。"
+            },
+            "asset": "char_4107_vrdant/CN_021"
+        },
+        {
+            "id": "char_4107_vrdant_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Chop-chop with the orders? I can see them coming...",
+                "jp": "早く次の指示を。敵がもう目の前に迫ってるよ……",
+                "kr": "빨리 다음 지시를 내려 줘. 적들이 곧 눈앞까지 온단 말이야……",
+                "cn": "请赶快下令，敌人马上就到我面前了......"
+            },
+            "asset": "char_4107_vrdant/CN_022"
+        },
+        {
+            "id": "char_4107_vrdant_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Dead branches and rotten leaves! I'll sweep up in no time, just you watch.",
+                "jp": "こんな枯れ葉なんか、跡形もなく吹き飛ばしてやる。",
+                "kr": "너희 같은 낙엽따위 흔적도 없이 날려주겠어.",
+                "cn": "眼前这些枯枝败叶，很快就能清理干净。"
+            },
+            "asset": "char_4107_vrdant/CN_023"
+        },
+        {
+            "id": "char_4107_vrdant_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Bunch of ten-a-penny weeds. Nothing I'm interested in.",
+                "jp": "どこにでも生えてるような雑草には興味ない。",
+                "kr": "난 흔하디 흔한 잡초한텐 관심 없어.",
+                "cn": "我对随处可见的杂草没有兴趣。"
+            },
+            "asset": "char_4107_vrdant/CN_024"
+        },
+        {
+            "id": "char_4107_vrdant_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "The harder on the outside, the softer on the inside.",
+                "jp": "強面な連中に限って案外弱虫だったりする。",
+                "kr": "강해 보이는 사람일수록 의외로 약골인 경우가 많지.",
+                "cn": "面目狰狞的人往往格外脆弱。"
+            },
+            "asset": "char_4107_vrdant/CN_025"
+        },
+        {
+            "id": "char_4107_vrdant_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Plant looks risky, who can tell. Plant looks safe, you're in for hell.",
+                "jp": "無害に見える植物の方がよっぽど危険だ。",
+                "kr": "가끔 평범해 보이는 식물이 더 위험할 때가 있어.",
+                "cn": "看似无害的植物往往更加危险。"
+            },
+            "asset": "char_4107_vrdant/CN_026"
+        },
+        {
+            "id": "char_4107_vrdant_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Never assume the simple days will last.",
+                "jp": "自由気ままの時間はあっという間に過ぎるもの。",
+                "kr": "근심 걱정 없는 시간은 순식간에 지나가는 법.",
+                "cn": "无忧无虑的时光往往稍纵即逝。"
+            },
+            "asset": "char_4107_vrdant/CN_027"
+        },
+        {
+            "id": "char_4107_vrdant_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "...Uh-oh. Time I dropped a 'Scarecrow'!",
+                "jp": "……マズい、ここはもう「かかし」に任せよう！",
+                "kr": "……위험하네, '허수아비'를 써야겠어!",
+                "cn": "......不妙，该用“稻草人”了！"
+            },
+            "asset": "char_4107_vrdant/CN_028"
+        },
+        {
+            "id": "char_4107_vrdant_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "I never thought I'd be getting the best of that vicious an enemy... At this rate, you think we could be off somewhere more dangerous for sample-collecting?",
+                "jp": "こんな凶悪な敵に勝てるなんて思いもしなかったよ……この調子だと、もっと危険な場所へもサンプル採取に行けたりして？",
+                "kr": "이렇게나 흉악한 적을 이길 수 있을 거라곤 상상도 못했어…… 이 정도면 더 위험한 장소로 샘플을 채취하러 갈 수도 있지 않을까?",
+                "cn": "我从来没想过还能打赢这么凶恶的敌人......这样一来，我们是不是就可以去更危险的地方采集样品了？"
+            },
+            "asset": "char_4107_vrdant/CN_029"
+        },
+        {
+            "id": "char_4107_vrdant_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "There we go, enemies dealt with, now we can show ourselves the door and leave.",
+                "jp": "もう全部片付けたし、これ以上長居する必要はないよ。早く引き揚げよう。",
+                "kr": "적들은 전부 해치웠으니까, 우리도 얼른 움직이자. 여기 오래 있을 필요는 없잖아.",
+                "cn": "既然敌人已经全部收拾掉了，我们也赶紧走吧，别在这儿多待了。"
+            },
+            "asset": "char_4107_vrdant/CN_030"
+        },
+        {
+            "id": "char_4107_vrdant_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "A few of 'em got away... They're not coming back, are they?",
+                "jp": "何人か逃しちゃった……あとで戻ってきたりはしないよね？",
+                "kr": "몇 명 놓쳤네…… 쟤네들 다시 오는 건 아니겠지?",
+                "cn": "放跑了几个......他们不会再回来了吧？"
+            },
+            "asset": "char_4107_vrdant/CN_031"
+        },
+        {
+            "id": "char_4107_vrdant_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Stay alive, Doctor. You won't have a future to count on otherwise.",
+                "jp": "生きるんだ、ドクター。生き延びてこそ、未来が語れるんだよ。",
+                "kr": "살아남아야 해, 박사. 일단 살아야 미래도 있는 거야.",
+                "cn": "活下去，博士，活下去才有未来可言。"
+            },
+            "asset": "char_4107_vrdant/CN_032"
+        },
+        {
+            "id": "char_4107_vrdant_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "If I want to help improve Rhodes Island's plant diversity, where do I apply?",
+                "jp": "植物の品種を増やして、ロドスをもっと緑豊かにしたいんだけど、許可を取るにはどこに申請を出せばいいかな？",
+                "kr": "식물의 품종을 늘려서 로도스 아일랜드를 더 푸르게 가꾸고 싶은데, 이런 건 어디서 신청하면 돼?",
+                "cn": "如果我想帮罗德岛提升一下植被多样性，需要去哪里申请？"
+            },
+            "asset": "char_4107_vrdant/CN_033"
+        },
+        {
+            "id": "char_4107_vrdant_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "If you can't tell the difference between me and a 'Scarecrow,' I think the vines might've poisoned you.",
+                "jp": "ボクと「かかし」の見分けがつかないようじゃ、ツルの毒にやられちゃうよ。",
+                "kr": "나와 내 '허수아비'를 구분하지 못하면, 덩굴의 독에 중독될 수도 있다?",
+                "cn": "要是分不清我和我的“稻草人”，没准会被藤蔓毒倒的哦。"
+            },
+            "asset": "char_4107_vrdant/CN_034"
+        },
+        {
+            "id": "char_4107_vrdant_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Hmm... Where should I go to collect samples next time?",
+                "jp": "うーん……次はどこへサンプル採取に行こうかな。",
+                "kr": "으음…… 다음엔 어디서 샘플을 채취하면 좋으려나?",
+                "cn": "嗯......下次要去哪里采集样品呢？"
+            },
+            "asset": "char_4107_vrdant/CN_036"
+        },
+        {
+            "id": "char_4107_vrdant_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4107_vrdant/CN_037"
+        },
+        {
+            "id": "char_4107_vrdant_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Good morning, Doctor. I watered the flowers in your office for you.",
+                "jp": "おはよう、ドクター。執務室のお花、水やりしといたよ。",
+                "kr": "좋은 아침, 박사. 집무실의 꽃엔 내가 이미 물 줬어.",
+                "cn": "早啊，博士，我帮你给办公室里的花浇过水了。"
+            },
+            "asset": "char_4107_vrdant/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Harry McEntire",
+            "global": "Harry McEntire"
+        },
+        "cn": {
+            "native": "马程未",
+            "global": "Chengwei Ma"
+        },
+        "jp": {
+            "native": "美藤大樹",
+            "global": "Taiki Bito"
+        },
+        "kr": {
+            "native": "김윤기",
+            "global": "Kim Yoon-gi"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}
