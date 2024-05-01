@@ -1,0 +1,601 @@
+{
+    "charid": "char_4011_lessng",
+    "nameid": "lessng",
+    "names": {
+        "en": "Lessing",
+        "jp": "レッシング",
+        "kr": "레싱",
+        "cn": "止颂"
+    },
+    "voices": [
+        {
+            "id": "char_4011_lessng_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Certainly. I'll stay by your side... At the very least, you don't curse loudly while kicking books all around the room.",
+                "jp": "了解。側にいる……少なくともドクターは、暴言を吐きながら本を部屋中に蹴散らしたりはしないだろ。",
+                "kr": "알겠어, 박사 옆에 있을게…… 적어도 박사는 욕하면서 책을 바닥에 던지거나 하진 않을 테니까.",
+                "cn": "明白了，我会待在您身边......起码您不会骂骂咧咧地把书踢得满房间都是。"
+            },
+            "asset": "char_4011_lessng/CN_001"
+        },
+        {
+            "id": "char_4011_lessng_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "We Leithanians do fuss over our horns a lot. Some visit specialized salons to trim any excess cutin, and to keep their horns in shape... Me? I just use this sword. What's that look on your face...? It's up to you to believe me, but there's no way I could demonstrate it for you right now.",
+                "jp": "確かにリターニア人は角の手入れには気を遣ってる。定期的にそれ専門のサロンで角質を取り除いたり、形を整えたり……俺か？この剣でやってる。ずいぶんな顔だな……信じられないなら信じなくていい。今ここでやってみせるわけにもいかないし。",
+                "kr": "라이타니엔 사람들은 확실히 뿔에 신경을 많이 쓰는 편이야. 정기적으로 살롱에 가서 각질을 제거하거나, 모양을 다듬기도 하니까…… 나? 난 그냥 이 검으로 관리하는데. 뭐야 그 표정……  못 믿겠으면 됐어, 내가 지금 여기서 뿔 다듬는 걸 보여 줄 수 있는 것도 아니고.",
+                "cn": "莱塔尼亚人确实会在角上花很多心思，他们定期去专门的店里，去除多余的角质，修剪形状......我？我都是用这把剑。这是什么表情......不信就不信吧，我总不能现场证明给您看。"
+            },
+            "asset": "char_4011_lessng/CN_002"
+        },
+        {
+            "id": "char_4011_lessng_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "I'm just an auditing student at Ludwigs-Universität. The old man needs my help for a lot of things, and I'm the only one who can stand his temperament. It's no matter, he's like a mobile library, so I've learned a lot from him.",
+                "jp": "ルートヴィヒ大学へはただの聴講生として通ってた。爺さんの方でも俺の助けが必要なことは多かったし、あの激情家の相手ができるのは俺くらいだったから。別に。爺さんは歩く図書館みたいな人だったから、俺も色々と勉強になった。",
+                "kr": "루트비히스 대학엔 그냥 청강생으로 다닌 거야. 할아버지 쪽도 내 도움이 필요했고, 그 성질을 받아 줄 사람도 나밖에 없었으니까. 괜찮아, 할아버지는 걸어 다니는 도서관이나 마찬가지라 덕분에 나도 꽤 많이 배웠어.",
+                "cn": "我在路德维格大学只是旁听。老爷子那边有很多事要我帮忙，只有我受得了他的脾气。没什么，他自己就是个移动的图书馆，我也学到了很多东西。"
+            },
+            "asset": "char_4011_lessng/CN_003"
+        },
+        {
+            "id": "char_4011_lessng_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "The bindings on this sword? There are some on my body as well. They tighten my joints and keep my muscles taut, preventing my mind from slacking off. They are not just for show.",
+                "jp": "剣に巻いてるベルト？身体にも巻いてるけど。こうすれば関節が締め付けられて筋肉が張るし、気の緩みも抜ける。こいつはくだらない飾りなんかじゃない。",
+                "kr": "검에 감고 있는 벨트? 내 몸에도 감고 있어. 이렇게 하면 관절이 조여져서 근육이 긴장되고, 근육이 긴장되면 내 정신도 긴장이 풀리지 않게 되거든. 이 벨트는 단순한 장식이 아니야.",
+                "cn": "剑上的这些束缚带？我身上也有。它们箍紧我的关节，使我的肌肉紧绷，使我的精神不至于松懈。它们可不是无聊的装饰。"
+            },
+            "asset": "char_4011_lessng/CN_004"
+        },
+        {
+            "id": "char_4011_lessng_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "It doesn't matter if a weapon is easy to wield or not, I'd find a way to wield this sword even if it were twice as big. A Leithanian noble can have multiple violin bows made to order, but commoners might only have sticks to use... and we can't depend on others to protect us.",
+                "jp": "使い心地なんて武器に求めてない。この剣がもう一回り大きくなっても、どうにか使いこなしてみせる。楽器の弓をいくらでもオーダーメイドできるリターニアの貴族と違って、平民が手にできるのは木の棒くらいのもんだし……人に守ってもらおうなんて甘いことも言ってられない。",
+                "kr": "무기의 사용감은 중요하지 않아. 이 검이 지금보다 두 배로 커진다 해도 난 어떻게든 이걸 휘둘렀을 거야. 악기의 활을 얼마든지 주문할 수 있는 라이타니엔 귀족과는 달리, 평민이 손에 쥘 수 있는 건 겨우 나무 막대기 같은 것이거든…… 우린 스스로 지켜야만 했어.",
+                "cn": "武器无所谓方不方便，哪怕这把剑再大上一倍，我也会想办法挥动它。一个莱塔尼亚贵族能够定制很多把琴弓，但平民的手边可能只有木棍......不能指望别人来保护我们。"
+            },
+            "asset": "char_4011_lessng/CN_005"
+        },
+        {
+            "id": "char_4011_lessng_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Looks, background, titles, Arts aptitude... everything that we passively inherit is specific only to ourselves. What use they have is for us to determine on our own, not up to abstract concepts like 'fate'.",
+                "jp": "見た目、身分、肩書き、アーツの才能……俺たちが自然と引き継いだものは、どれも具体的ではっきりしてる。それをどう活かすか決めるのは自分であって、絶対に「運命」みたいに抽象的なものじゃない。",
+                "kr": "외모, 신분, 직함, 아츠 재능…… 우리가 타고난 것들은 모두 구체적이고 명확해. 하지만 그걸 어떻게 활용할지는 모두 자신에게 달렸지. 절대 '운명' 같이 추상적인 것에 그걸 맡겨선 안 돼.",
+                "cn": "长相、身份、头衔、法术天赋......我们被动继承的每一样东西都是具体的，那么它们能有什么作用，当然取决于我们自己，而不是“命运”这种抽象的概念。"
+            },
+            "asset": "char_4011_lessng/CN_006"
+        },
+        {
+            "id": "char_4011_lessng_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "You don't have to switch it off. Everyone has their own peculiar habits after all. You can work only when there's music in the room, I get it... Don't worry about it, I'll listen to whatever you pick. I don't know much about music, but your taste... shouldn't be that bad, right?",
+                "jp": "切らなくていい。変わった習慣の一つや二つ誰にだってあるだろ。音楽がないと仕事ができないってのも、わからなくはないし……曲もこのままでいい。ドクターの好きな曲を俺も聴く。俺は音楽には疎いけど、ドクターのことだし……センスが悪いはずないだろ？",
+                "kr": "안 꺼도 돼. 누구나 특이한 습관 하나씩은 가지고 있는 법이잖아. 박사는 음악이 있으면 일이 더 잘 되는 거겠지, 이해해…… 다른 곡으로 바꾸지 않아도 괜찮아. 박사가 듣는 걸 나도 들으면 되니까. 내가 음악을 잘 아는 건 아니지만, 박사 취향이…… 나쁠 리는 없으니까.",
+                "cn": "不用关，人都有些怪习惯。您必须要听着歌才能干活，我懂......也不用切，您听什么，我听什么。我对音乐没什么研究，但您的品味......应该差不了？"
+            },
+            "asset": "char_4011_lessng/CN_007"
+        },
+        {
+            "id": "char_4011_lessng_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "The more engrossed you get reading up on things, the stranger your mood becomes... If you're feeling moody, a little throwing or smashing might help you vent it out. I'll take care of the clean up afterward... You're saying that, you were restless because I was staring at you as your mind wandered...? I'll go check if dinner's ready.",
+                "jp": "学問を究めれば究めるほど、人は正気を失っていく。イライラするなら手当たり次第物を投げつければいい。後で俺が片付けとくから。え？つまり、落ち着かないのは俺がボーっとしてるドクターを見つめてるからか……じゃあ俺は、夜メシができたか聞いてくるよ。",
+                "kr": "학문은 쌓을수록 깊어지지만, 감정은 쌓일수록 문제가 생겨. 그러니 짜증이 날 땐 아무 물건이나 닥치는 대로 던져 봐. 뒷정리는 내가 할 테니까. 응? 멍 때리고 있는데 내가 계속 쳐다봐서 안절부절 못했던 거라고? ……그럼 난 저녁 다 됐는지 물어보고 올게.",
+                "cn": "学问越积越深，情绪越积越怪，烦闷的话，您可以扔一扔砸一砸，到时候我来收拾。您是说，之所以有些坐立不安，是因为我在您发呆的时候盯着您看......我去问问晚餐好了没有。"
+            },
+            "asset": "char_4011_lessng/CN_008"
+        },
+        {
+            "id": "char_4011_lessng_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Doctor, if you're truly altruistically advocating for the masses—then please believe me, that even if you take away my sword, cover my eyes, and bind my hands, I, Lessing Maeyer, am still willing to fight for you to the very end.",
+                "jp": "ドクター、あなたが本当に、人々のために見返りも求めずに奔走してるなら――どうか信じてほしい。たとえ剣を奪われようと、目を覆われようと、両腕を縛られようと、このレッシング・マイヤーは必ずあなたのために最後まで戦い抜く、と。",
+                "kr": "박사, 만약 당신이 정말로 아무런 대가도 바라지 않고 사람들을 위해 이렇게 열심히 뛰어다니는 거라면…… 날 믿어 줘. 검을 빼앗기고, 눈이 가려지고, 손이 묶여 있다 해도, 나 레싱 마이어는 반드시 박사를 위해 끝까지 싸우겠어.",
+                "cn": "博士，如果您确实在为多数人而无私奔走——那么请相信，哪怕夺走我的剑、蒙上我的眼、捆住我的手，莱辛·梅耶尔依然愿为您战斗到最后一刻。"
+            },
+            "asset": "char_4011_lessng/CN_009"
+        },
+        {
+            "id": "char_4011_lessng_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Get some sleep. I'll keep watch from a spot where I won't disturb you.",
+                "jp": "寝てくれ。俺は邪魔にならないところで見守っておく。",
+                "kr": "좀 자. 난 방해가 되지 않는 곳에서 지켜볼 테니까.",
+                "cn": "睡吧。我会在不打扰到您的地方守夜。"
+            },
+            "asset": "char_4011_lessng/CN_010"
+        },
+        {
+            "id": "char_4011_lessng_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Franz... oh, Ebenholz, as you might know him, he told me about this place. I come from Leithanien, I have a sword, I know some Arts... I can help you.",
+                "jp": "フランツ……ああ、つまり「エーベンホルツ」からここの話を聞いて来た。俺はリターニア出身で、この剣があるし、アーツも多少使える……あなたの力になれるはずだ。",
+                "kr": "프란츠…… 아, 그러니까 '에벤홀츠'한테 얘기를 듣고 이곳으로 오게 됐어. 난 라이타니엔에서 왔고, 지금 가진 건 검 한 자루뿐이지만 아츠도 어느 정도 쓸 줄 알아…… 난, 분명 박사에게 도움이 될 수 있을 거야.",
+                "cn": "弗朗茨，哦，也就是“黑键”，跟我说了这里。我从莱塔尼亚来，我有一把剑，我会一些法术......我能帮上您的忙。"
+            },
+            "asset": "char_4011_lessng/CN_011"
+        },
+        {
+            "id": "char_4011_lessng_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "If you say this is useful, then it will be. I'll make sure to watch it... eleven times a day.",
+                "jp": "ドクターが役に立つって言うなら役に立つんだろう。これから毎日……十一回見るようにする。",
+                "kr": "박사가 도움이 된다고 하는 거면, 그런 거겠지. 앞으로도 매일 ……11번씩은 보도록 할게.",
+                "cn": "您说这有用，那它应该就有用，我会坚持每天看上十一遍。"
+            },
+            "asset": "char_4011_lessng/CN_012"
+        },
+        {
+            "id": "char_4011_lessng_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Doctor, there's no need to make such a big fuss, and don't you give me a reward either. I already made it clear then, that I agree with your ideals and am willing to work for your sake.",
+                "jp": "ドクター、こんな大袈裟なことしなくていい……というより表彰自体いらない。あなたの理想に共感したからこそ、力を貸してるだけだ。最初にはっきりそう伝えただろ。",
+                "kr": "박사, 나한테 이런 거창한 건 필요 없어…… 칭찬도 필요 없고. 난 박사의 이상에 공감하기에 힘을 보태는 것뿐이야. 그때 분명히 말했잖아.",
+                "cn": "博士，不用搞这么大阵仗，甚至不用嘉奖我。我认同您的理想，我愿意为您出力，当时说得很清楚了。"
+            },
+            "asset": "char_4011_lessng/CN_013"
+        },
+        {
+            "id": "char_4011_lessng_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "There are many spires in Leithanien, but there are even more people below them. It's natural for one of my background to make such a choice, but what's difficult is to actually shake up the ways of things. We still have a long way to go.",
+                "jp": "リターニアは高塔だらけだが、その下にはそれよりもずっと多くの平民がいる。俺みたいな出身の奴がこういう選択をするのは当たり前だけど、結局現実をぶち破ることが何よりも難しい。まだまだ先は長そうだな。",
+                "kr": "라이타니엔엔 고탑이 많아. 하지만 고탑 아래의 평민의 수는 훨씬 많지. 내 출신에, 이런 선택은 당연한 거지만, 정말로 어려운 건 현실을 뒤바꾸는 일이야. 아직 갈 길이 멀어.",
+                "cn": "莱塔尼亚有很多高塔，但高塔下的普通人更多。以我的出身，做出这样的选择理所应当，难的是真正撬动现实。路还有得走呢。"
+            },
+            "asset": "char_4011_lessng/CN_014"
+        },
+        {
+            "id": "char_4011_lessng_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "You're responsible for the plan, and I'll be responsible for you. Give me the order.",
+                "jp": "ドクターが策略に責任を持つように、俺はそれを実行することに責任を持つ。命令を。",
+                "kr": "박사가 계획에 책임을 지듯, 난 그 계획의 실행에 책임을 질게. 명령을 내려 줘.",
+                "cn": "您对计划负责，我对您负责。下命令吧。"
+            },
+            "asset": "char_4011_lessng/CN_017"
+        },
+        {
+            "id": "char_4011_lessng_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "I accept this job as a valuable training opportunity.",
+                "jp": "……任されよう。貴重な自分磨きの機会だ。",
+                "kr": "……맡겨 줘. 이건 소중한 단련의 기회이기도 하니까.",
+                "cn": "......我接受这次任命，这是宝贵的锻炼机会。"
+            },
+            "asset": "char_4011_lessng/CN_018"
+        },
+        {
+            "id": "char_4011_lessng_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Stay close to me, and don't fall behind.",
+                "jp": "はぐれないようについてこい。",
+                "kr": "놓치지 말고 잘 따라와.",
+                "cn": "跟紧我，别掉队。"
+            },
+            "asset": "char_4011_lessng/CN_019"
+        },
+        {
+            "id": "char_4011_lessng_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Hmm?!",
+                "jp": "あれは！？",
+                "kr": "저건?!",
+                "cn": "嗯？！"
+            },
+            "asset": "char_4011_lessng/CN_020"
+        },
+        {
+            "id": "char_4011_lessng_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "I've long been ready.",
+                "jp": "とっくに準備できてる。",
+                "kr": "준비는 이미 되어 있어.",
+                "cn": "我早就准备好了。"
+            },
+            "asset": "char_4011_lessng/CN_021"
+        },
+        {
+            "id": "char_4011_lessng_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "You can call me earlier next time.",
+                "jp": "次は早めに呼んでくれ。",
+                "kr": "다음엔 더 일찍 불러 줘.",
+                "cn": "下次可以早点叫我。"
+            },
+            "asset": "char_4011_lessng/CN_022"
+        },
+        {
+            "id": "char_4011_lessng_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "I've experienced more chaotic scenes than this.",
+                "jp": "もっと荒れた戦場を乗り越えてきた。",
+                "kr": "더 힘든 전장도 경험해 봤어.",
+                "cn": "我经历过比这更混乱的场面。"
+            },
+            "asset": "char_4011_lessng/CN_023"
+        },
+        {
+            "id": "char_4011_lessng_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "I'll go someplace else that needs more help.",
+                "jp": "より俺の助けを必要とする場所を目指そう。",
+                "kr": "여기보다 더 도움이 필요한 곳을 목표로 하겠어.",
+                "cn": "我会去到比这更需要帮助的地方。"
+            },
+            "asset": "char_4011_lessng/CN_024"
+        },
+        {
+            "id": "char_4011_lessng_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "You shall not pass, while I'm here.",
+                "jp": "俺がここにいる限り、この先には行けない。",
+                "kr": "내가 여기 있는 한, 너흰 못 지나가.",
+                "cn": "我在这，你们过不去。"
+            },
+            "asset": "char_4011_lessng/CN_025"
+        },
+        {
+            "id": "char_4011_lessng_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "You can run, but I'll keep chasing.",
+                "jp": "逃げれば果てまで追うだけだ。",
+                "kr": "어디 도망쳐 봐, 끝까지 따라가 줄 테니까.",
+                "cn": "你们逃，我会一直追。"
+            },
+            "asset": "char_4011_lessng/CN_026"
+        },
+        {
+            "id": "char_4011_lessng_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "The only thing to hold a sword back is the cowardice of its wielder.",
+                "jp": "剣を縛り付けられるのは、その主の臆病さだけだ。",
+                "kr": "검을 옭아매는 건, 검을 지닌 자의 나약함뿐이야.",
+                "cn": "能束缚一把剑的，只有持剑者的怯懦。"
+            },
+            "asset": "char_4011_lessng/CN_027"
+        },
+        {
+            "id": "char_4011_lessng_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Answer for your own sins!",
+                "jp": "罪の報いを受けろ！",
+                "kr": "죗값을 치러라!",
+                "cn": "承担自己的罪责！"
+            },
+            "asset": "char_4011_lessng/CN_028"
+        },
+        {
+            "id": "char_4011_lessng_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "You've made me believe in something: no opponent is undefeatable, and no goal unachievable.",
+                "jp": "絶対に勝てない相手はいないし、達成できない目標もないって、ドクターのおかげで信じられるようになったよ。",
+                "kr": "박사 덕분에 이 세상엔 이기지 못할 상대도, 달성하지 못할 목표도 없다는 걸 믿을 수 있게 됐어.",
+                "cn": "您让我相信了一件事：没有什么对手是不可战胜的，没有什么目标是不可达成的。"
+            },
+            "asset": "char_4011_lessng/CN_029"
+        },
+        {
+            "id": "char_4011_lessng_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Sometimes I put you and the old man together to compare... and the difference is obvious. He would be excitedly hurling curses everywhere if he were in your shoes now. Yes, that's how he acts when he's happy.",
+                "jp": "時々ドクターと爺さんを置き換えてみるんだが……結果は明らかだ。もしあの人がこの場にいたら、興奮して思い切り口を荒げてたと思う。ああ、爺さんは喜ぶ時もそんな感じなんだ。",
+                "kr": "가끔 박사랑 할아버지를 바꿔 생각해 보는데…… 매번 답은 똑같더라. 할아버지가 여기 있었다면 분명 흥분해선 엄청 욕을 퍼부었을 거야. 응, 할아버지는 기분 좋을 때도 그러시거든.",
+                "cn": "我有时候会把您和老爷子放在一起比......答案很明显。要是他的话这会儿已经激动得骂骂咧咧了。是的，他高兴的时候也这样。"
+            },
+            "asset": "char_4011_lessng/CN_030"
+        },
+        {
+            "id": "char_4011_lessng_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Mission complete, oder?",
+                "jp": "少なくとも任務は達した。そうだろ？",
+                "kr": "적어도 임무는 완수했잖아, 그렇지?",
+                "cn": "任务完成了，不是吗？"
+            },
+            "asset": "char_4011_lessng/CN_031"
+        },
+        {
+            "id": "char_4011_lessng_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Every time I fail, I tighten my bindings so that the pain leaves them to weigh on my mind. No, you don't have to, I'll bear yours along with mine.",
+                "jp": "何かに失敗する度に、身体のベルトをきつく絞るようにしてる。痛みがこの失敗を忘れるなって教えてくれるんだ。いや、ドクターはいい。俺がドクターの痛みも背負うから。",
+                "kr": "실패할 때마다, 난 몸의 벨트를 더욱 꽉 묶고는 해. 이 아픔은 실패를 잊지 않겠다는 의미거든. 아니, 박사는 괜찮아. 내가 박사의 몫까지 함께 짊어질 거니까.",
+                "cn": "每次遭遇失败，我都会收紧身上的束缚带，疼痛会提醒我记住一切。不，您不用，我会连同您的那份一起承受。"
+            },
+            "asset": "char_4011_lessng/CN_032"
+        },
+        {
+            "id": "char_4011_lessng_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "It's nice and neat here. I'm going to change my bindings... I was referring to my sword, you don't have to look away.",
+                "jp": "綺麗でいいところだ。さて、ベルトを交換しよう……剣の話だ。ここにいてくれて構わない。",
+                "kr": "깨끗하고 좋은 곳이네. 나도 벨트나 갈아볼까…… 검 얘기니까, 여기 있어도 괜찮아.",
+                "cn": "很好很整洁。我要更换束缚带了......我是说给剑，您不用回避。"
+            },
+            "asset": "char_4011_lessng/CN_033"
+        },
+        {
+            "id": "char_4011_lessng_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Is this how you supervise others? That's not good.",
+                "jp": "これがドクターの業務管理か？嫌なやり方だ。",
+                "kr": "이게 박사의 업무 관리 방식이야? 이건 좀 그런데.",
+                "cn": "这是您监工的方式吗？不好。"
+            },
+            "asset": "char_4011_lessng/CN_034"
+        },
+        {
+            "id": "char_4011_lessng_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "And what will you do if I overreact? ",
+                "jp": "もし俺が過剰反応したらどうするつもりだ？",
+                "kr": "내가 과하게 반응했으면 어쩔 뻔했어?",
+                "cn": "我要是过度反应的话，怎么办？"
+            },
+            "asset": "char_4011_lessng/CN_036"
+        },
+        {
+            "id": "char_4011_lessng_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4011_lessng/CN_037"
+        },
+        {
+            "id": "char_4011_lessng_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Hello. I'm not nervous, I've always been like this... what else can I even say instead....? Heya?",
+                "jp": "こんにちは。いや、硬くなってるわけじゃない。俺はいつもこうだし、挨拶にやり方もなにもないと思うが、こういうのはどうだ。こんちわ……っす？",
+                "kr": "안녕. 아니, 긴장했을 리가 없잖아. 나는 늘 이런 느낌으로 인사했었다고. 인사에 방법이 필요한 것도 아니고…… 그럼, 여어…… 는 어때?",
+                "cn": "您好。我不是紧张，我一直这样，打招呼还能有什么花样。您好......呀？"
+            },
+            "asset": "char_4011_lessng/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Jesse Grimm",
+            "global": "Jesse Grimm"
+        },
+        "cn": {
+            "native": "安志",
+            "global": "ZhiAn"
+        },
+        "jp": {
+            "native": "内田雄馬",
+            "global": "Yuma Uchida"
+        },
+        "kr": {
+            "native": "김민주",
+            "global": "Kim Min-ju"
+        },
+        "ger": {
+            "native": "Jesse Grimm",
+            "global": "Jesse Grimm"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr",
+        "ger"
+    ]
+}

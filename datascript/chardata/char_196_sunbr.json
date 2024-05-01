@@ -585,12 +585,17 @@
         "kr": {
             "native": "김채하",
             "global": "Kim Chae-ha"
+        },
+        "rus": {
+            "native": "Varvara Sarantzeva",
+            "global": "Varvara Sarantzeva"
         }
     },
     "availability": [
         "en",
         "cn",
         "jp",
-        "kr"
+        "kr",
+        "rus"
     ]
 }

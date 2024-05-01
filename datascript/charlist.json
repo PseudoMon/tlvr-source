@@ -504,6 +504,18 @@
         "rating": 4
     },
     {
+        "nameid": "caper",
+        "numberid": "4100",
+        "name": {
+            "en": "Caper",
+            "jp": "ケイパー",
+            "kr": "케이퍼",
+            "cn": "跃跃"
+        },
+        "nation": "bolivar",
+        "rating": 4
+    },
+    {
         "nameid": "blackd",
         "numberid": "198",
         "name": {
@@ -1788,6 +1800,18 @@
         "rating": 5
     },
     {
+        "nameid": "kaitou",
+        "numberid": "499",
+        "name": {
+            "en": "Diamante",
+            "jp": "ディアマンテ",
+            "kr": "디아만테",
+            "cn": "折光"
+        },
+        "nation": "leithanien",
+        "rating": 5
+    },
+    {
         "nameid": "otter",
         "numberid": "242",
         "name": {
@@ -1977,6 +2001,18 @@
             "cn": "吽"
         },
         "nation": "lungmen",
+        "rating": 5
+    },
+    {
+        "nameid": "baslin",
+        "numberid": "4109",
+        "name": {
+            "en": "Bassline",
+            "jp": "ベースライン",
+            "kr": "베이스라인",
+            "cn": "深律"
+        },
+        "nation": "leithanien",
         "rating": 5
     },
     {
@@ -3048,6 +3084,18 @@
         "rating": 6
     },
     {
+        "nameid": "cello",
+        "numberid": "245",
+        "name": {
+            "en": "Virtuosa",
+            "jp": "ヴィルトゥオーサ",
+            "kr": "비르투오사",
+            "cn": "塑心"
+        },
+        "nation": "laterano",
+        "rating": 6
+    },
+    {
         "nameid": "phatom",
         "numberid": "250",
         "name": {
@@ -3492,6 +3540,18 @@
         "rating": 6
     },
     {
+        "nameid": "vvana",
+        "numberid": "4098",
+        "name": {
+            "en": "Viviana",
+            "jp": "ヴィヴィアナ",
+            "kr": "비비아나",
+            "cn": "薇薇安娜"
+        },
+        "nation": "leithanien",
+        "rating": 6
+    },
+    {
         "nameid": "helage",
         "numberid": "188",
         "name": {
@@ -3525,6 +3585,18 @@
             "cn": "耀骑士临光"
         },
         "nation": "kazimierz",
+        "rating": 6
+    },
+    {
+        "nameid": "lessng",
+        "numberid": "4011",
+        "name": {
+            "en": "Lessing",
+            "jp": "レッシング",
+            "kr": "레싱",
+            "cn": "止颂"
+        },
+        "nation": "leithanien",
         "rating": 6
     },
     {

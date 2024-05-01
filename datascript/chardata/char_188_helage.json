@@ -585,12 +585,17 @@
         "kr": {
             "native": "시영준",
             "global": "Si Young-jun"
+        },
+        "rus": {
+            "native": "Denis Nekrasov",
+            "global": "Denis Nekrasov"
         }
     },
     "availability": [
         "en",
         "cn",
         "jp",
-        "kr"
+        "kr",
+        "rus"
     ]
 }

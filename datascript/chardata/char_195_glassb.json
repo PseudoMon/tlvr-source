@@ -585,12 +585,17 @@
         "kr": {
             "native": "김가령",
             "global": "Kim Ga-ryeong"
+        },
+        "rus": {
+            "native": "Marusia Savicheva",
+            "global": "Marusia Savicheva"
         }
     },
     "availability": [
         "en",
         "cn",
         "jp",
-        "kr"
+        "kr",
+        "rus"
     ]
 }

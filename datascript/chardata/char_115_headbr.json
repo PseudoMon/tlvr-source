@@ -585,12 +585,17 @@
         "kr": {
             "native": "이명희",
             "global": "Lee Myung-hi"
+        },
+        "rus": {
+            "native": "Eva Finkelshtein",
+            "global": "Eva Finkelshtein"
         }
     },
     "availability": [
         "en",
         "cn",
         "jp",
-        "kr"
+        "kr",
+        "rus"
     ]
 }

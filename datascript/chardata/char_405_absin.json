@@ -585,12 +585,17 @@
         "kr": {
             "native": "송하림",
             "global": "Song Ha-rim"
+        },
+        "rus": {
+            "native": "Taisiya Trishina",
+            "global": "Taisiya Trishina"
         }
     },
     "availability": [
         "en",
         "cn",
         "jp",
-        "kr"
+        "kr",
+        "rus"
     ]
 }

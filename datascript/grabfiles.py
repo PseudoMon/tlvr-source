@@ -115,5 +115,6 @@ if __name__ == "__main__":
     grab_all_charword_tables()
     grab_all_chartable()
 
+    # Run these after we got a charlist!
     # grab_factions()
     # grab_avatars()

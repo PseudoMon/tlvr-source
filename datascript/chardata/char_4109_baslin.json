@@ -1,0 +1,596 @@
+{
+    "charid": "char_4109_baslin",
+    "nameid": "baslin",
+    "names": {
+        "en": "Bassline",
+        "jp": "ベースライン",
+        "kr": "베이스라인",
+        "cn": "深律"
+    },
+    "voices": [
+        {
+            "id": "char_4109_baslin_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "That's a huge stack of documents... I can lend you a hand if you're struggling to clear them, Doctor… Oh, sorry. I should be on standby waiting for your request.",
+                "jp": "書類がこんなにうず高く積み上がって……もし処理にお困りなら、僕が代わりに――失礼、黙って待機しているべきでしたね。必要になればお声がけください。",
+                "kr": "문서들이 이렇게 잔뜩 쌓여 있다니. 정리가 힘드신 거라면 제가 도와드릴…… 이런, 실례했습니다, 옆에 있을 테니 제가 필요한 일이 있다면 언제든 불러 주세요.",
+                "cn": "文件已经堆这么高了。您如果在纠结该怎么处理，我可以帮忙......抱歉，我应该待在旁边，等您有需要的时候叫我。"
+            },
+            "asset": "char_4109_baslin/CN_001"
+        },
+        {
+            "id": "char_4109_baslin_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Hildegard doesn't care how Leithanians think of her, and I'm not some civil servant mincing words for her. It's just that we've been together for a long time now, so I'm able to stand in for her on unofficial occasions, to speak words she's not at liberty to speak, or meet people unsuitable for her to see.",
+                "jp": "グリムマハトはリターニア人からどう見られているのかなど気にしていませんし、僕も彼女の体面を取り繕うための文官ではありません。ただ、一緒に過ごす時間が長いので、非公式の場では便宜のために代弁を務めたり、面会を代行したりしているだけです。",
+                "kr": "그리마흐트 님은 라이타니엔 사람들이 자신을 어떻게 생각하는지 신경 쓰지 않아요. 저도 그 사람의 평판을 관리하는 문관 같은 게 아니었고요. 다만 함께 지낸 시간이 길어지다 보니, 비공식적인 자리에서 할 말을 대신해 주거나 만나기 불편한 사람을 대신 만나주게 된 것뿐이에요.",
+                "cn": "赫琳玛特并不介意莱塔尼亚人怎样看她，我也不是替她矫饰的文官，只是待在一起的时间长了，能在非正式的场合，替她说一些她不方便说的话，见一些她不方便见的人。"
+            },
+            "asset": "char_4109_baslin/CN_002"
+        },
+        {
+            "id": "char_4109_baslin_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "That must have been Federico earlier... He's also the type to think of normal conversation as stepping on glass. But once you know them long enough, you'll be able to understand what they're perplexed with, or what they're chasing after. My advice? Get used to awkward silence.",
+                "jp": "今通りかかったのはフェデリコさんでしょうか……彼もまた、余計な言葉は身体に毒だと思ってそうなお人ですよね。しかし、そういった方たちでも付き合いが長くなれば、本人たちが内心で何に戸惑い、何を求めているのか分かってくるものです。僕の経験則では、何度か場をしらけさせられていれば、そのうちコツが掴めますよ。",
+                "kr": "방금 지나가신 분은 페데리코 씨죠? 저분도 불필요한 말은 오히려 독이 된다고 여기는 분이시던데…… 하지만 저런 분들과 오래 교류하다 보면 나중엔 그들이 어떤 고민을 안고 있는지, 또 어떤 생각을 가지고 있는지 알 수 있게 돼요. 제 경험상…… 어색함도 여러 번 마주치다 보면 익숙해지더라고요.",
+                "cn": "刚刚过去的是费德里科吧......他也是那种好好说话仿佛会有害健康的人。但相处久了，你其实能明白他们在困惑什么、追求什么。我的经验是，冷场的次数多了就习惯了。"
+            },
+            "asset": "char_4109_baslin/CN_003"
+        },
+        {
+            "id": "char_4109_baslin_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "I just heard some people discussing my age, but I don't see the issue, really. I met a sickly fellow in Zwillingstürme. He was younger than me by a few months, but he's skating on thin ice every day due to his status as Graf... Well, at least I don't have to worry about my own safety like that. ",
+                "jp": "先程、僕の年齢について議論されているのを耳にしましたが、問題視に値するほどのことでもないと思います。ツヴィリングトゥルムに病弱な知り合いがいて、僕よりも数ヶ月年下なのに、伯爵の身分のせいで、いつも危険な状況に置かれているんです……彼に比べて、僕は少なくとも身の危険を心配する必要はありませんから。",
+                "kr": "방금 누군가 제 나이에 대해 얘기하는 걸 들었어요. 사실 그렇게까지 신경 쓰고 있지는 않아요. 전에 츠빌링슈튀르메에서 병약한 사람 한 명을 알게 되었는데, 그는 저보다도 몇 개월 어렸지만 백작이라는 신분 때문에 늘 위험에 처해 있었죠…… 그에 비하면 적어도 전 신변의 위험을 걱정할 필요는 없으니까요.",
+                "cn": "刚才听到有人在讨论我的年纪。其实没什么吧。我在崔林特尔梅结识过一个病弱的家伙，比我还小几个月，却因为伯爵身份而如履薄冰......我起码不用担心自己的安危。"
+            },
+            "asset": "char_4109_baslin/CN_004"
+        },
+        {
+            "id": "char_4109_baslin_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": " 'Wolfgang, everything you say and do will affect Wulfsburg's future.' That's what I told myself back then. My life is my answer sheet, which I keep neat. But the problem is... maybe not everything has to be treated as an exam... Um, I still seem tense, even now?",
+                "jp": "「ヴォルフガング、お前の一挙手一投足にはループカーンの未来がかかってるんだ。」当時の僕は、自分にそう言い聞かせていました。僕の答案は完璧だったのですが、問題は、全てのことを試験として捉える必要がなかったということ……え、今でもそんなに、肩に力が入っているように見えますか？",
+                "kr": "“볼프강, 너의 일거수일투족에 루푸카른의 미래가 달려 있어.” 그때 전 이렇게 제 자신을 타일렀어요. 제 답은 완벽했지만, 문제는 세상 모든 일을 그렇게 시험처럼 생각할 필요는 없었다는 거예요…… 으음, 지금도 제가 그렇게 긴장돼 보이나요?",
+                "cn": "“沃尔夫冈，你的一言一行都将关系到鲁珀坎的未来。”我当时这么告诫自己。我的答卷很工整，问题在于，不是所有事情都需要当成考试......唔，我现在也很紧绷吗？"
+            },
+            "asset": "char_4109_baslin/CN_005"
+        },
+        {
+            "id": "char_4109_baslin_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Thank you for your concern, but I don't mind Hildegard's disappearance at all. She told me the enclosure of war was built so that it could be torn down in the future without any worries. She must have been somewhat aware of it that day, but she still... Anyway, my mission isn't over yet, and I remain her envoy still.",
+                "jp": "お気遣いには感謝しますが、グリムマハトの失踪に関してはあまり気に留めてはいません。彼女は言っていました、狩場を設けて戦争をするのは、全てが済んだ後に気兼ねなく取り潰せるからだと。あの日もきっと何かを予感していたのでしょう。ただ……何はともあれ、僕の役目は終わっていませんし、僕は今でもあの人の密偵です。",
+                "kr": "신경 써 주셔서 감사하지만, 그리마흐트의 실종에 대해선 저도 별로 신경 쓰지 않고 있습니다. 그녀는 사낭터를 만들어 전쟁을 일으킨 건, 나중에 모든 것이 끝나더라도 아무런 부담 없이 그걸 없애버릴 수 있기 때문이라고 말한 적이 있어요. 그날도 분명 어느 정도 예상하고 있었겠죠. 다만…… 제 임무는 아직 끝나지 않았고, 여전히 전 그 사람의 밀사입니다.",
+                "cn": "感谢您的好心，但我并不在意赫琳玛特的失踪。她说过，建起战争的围场，是为了将来能毫无顾虑地拆掉它。她那天肯定有所察觉，但......也就是说，我的任务还没结束，我仍是她的密使。"
+            },
+            "asset": "char_4109_baslin/CN_006"
+        },
+        {
+            "id": "char_4109_baslin_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Doctor, why are fowlbeasts unable to touch the stars no matter how far they fly? Uh, no, I'm just used to breaking the silence when it gets too quiet. Please pay me no heed. I don't think the answer's that important...? It's because they can't even fly right when they're... Ahem, seeing stars.",
+                "jp": "ドクター、どうして羽獣はいくら高く羽ばたいても、星には手が届かないのでしょう？……あっいえ、周りが静かすぎるとつい何か話したくなってしまうんですよね。気にしないでください。えっと、考え込まなくていいですよ……だって、羽獣には手がありませんから。",
+                "kr": "박사님, 왜 파울비스트가 높게 날아도 별에 닿을 수 없는지 아세요? 아, 아뇨, 그냥 주변이 너무 조용하면 아무 얘기나 꺼내는 게 습관 같은 거라, 너무 신경 쓰지 않으셔도 돼요. 으음, 굳이 답을 생각하실 필요는 없는데…… 정답은, 파울비스트가 별 볼 일 없기 때문이에요.",
+                "cn": "博士，为什么羽兽飞得再高，也永远无法碰到星星？啊不，我只是习惯了在太安静的时候说点什么，您不用理会。呃，答案不重要吧......因为星星会闪。"
+            },
+            "asset": "char_4109_baslin/CN_007"
+        },
+        {
+            "id": "char_4109_baslin_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Didn't I soundproof the room with Arts...? This castanet? It's a gift from Lieselotte, given during my first audience with her. When I was living in the Spire, I would kick it at the books in my room. Knocking them down one by one, then put them back before the sun came up. It's normal for me to be childish at my age, isn't it?",
+                "jp": "アーツでちゃんと防音対策してたのに……このカスタネットは、リーゼロッテに初めて謁見した時に賜った物です。高塔にいた頃は、よくこいつで部屋の本を一冊ずつ蹴り落として、夜明け前にまた元通りに並べていました。幼稚だと思いますか？僕の場合、それが年相応というものでしょう。",
+                "kr": "분명 아츠로 방음을 해 뒀을 텐데…… 이 캐스터네츠는 제가 리젤로테를 처음 알현했을 때 받았던 물건이에요. 고탑에 있을 때, 전 이 캐스터네츠로 방 안의 책들을 한 권 한 권 차서 떨어뜨린 다음, 날이 밝기 전에 다시 제자리에 되돌려 놓곤 했었어요. 제 나이에 이 정도 유치한 건 괜찮잖아요?",
+                "cn": "明明用法术隔音了呀......这块响板是初次觐见时莉泽洛特赏赐的礼物，在高塔的时候，我经常用它把房间里的书一本本踢下来，天亮前再一本本摆回去。我这个年纪幼稚点很正常吧？"
+            },
+            "asset": "char_4109_baslin/CN_008"
+        },
+        {
+            "id": "char_4109_baslin_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "You two are so similar... Sorry for disturbing you with my sudden words, Doctor... I was just thinking about how you and Hildegard are so alike. Both of you shoulder so many responsibilities in silence, and I can't tell when to step in. Can I help you? Or... can you help me?",
+                "jp": "やはりよく似ている……すみません、急に喋って驚かせてしまいましたよね……単に、ドクターとグリムマハトがよく似ていると思いまして。たくさん背負っているのに、誰にも話さず、その心のうちに秘める苦しみを見せようとしない。僕であなたの助けになりますか？あなたは、僕を助けてくれますか？",
+                "kr": "정말 많이 닮았네요…… 아, 죄송합니다…… 왠지 박사님께서 그리마흐트랑 정말 닮은 거 같아서요. 많은 걸 짊어지고 있으면서도 누구에게도 얘기하지 않고, 마음속에 괴로움을 숨겨 두는 모습이 정말 비슷하네요. 제가 박사님의 도움이 될 수 있을까요? 박사님은 절 도와주실 수 있나요?",
+                "cn": "你们很像......抱歉，博士，突然说话吵到您了......我只是觉得您和赫琳玛特很像，明明承担了许多，又从不对谁说起，我却看不到你们的苦闷。我能帮助您吗？您能帮助我吗？"
+            },
+            "asset": "char_4109_baslin/CN_009"
+        },
+        {
+            "id": "char_4109_baslin_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "My tuba? Of course I can play it... Speaking of which, can you play the piano? Can you practice with me when you're free?",
+                "jp": "このチューバですか？もちろん吹けますよ……そうだ、ドクターはピアノが弾けますか？時間があるうちに、僕の練習に付き合っていただけませんか？",
+                "kr": "이 튜바요? 당연히 연주할 수 있죠…… 아, 박사님 혹시 피아노 칠 줄 아세요? 그럼 시간 나실 때 제 연습을 도와주실 수 있으신가요?",
+                "cn": "这支低音号？当然是能吹响的......对了，您会弹钢琴吗？趁有时间，能陪我练习一下吗？"
+            },
+            "asset": "char_4109_baslin/CN_010"
+        },
+        {
+            "id": "char_4109_baslin_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Doctor, I am here at the behest of Empress Hildegard of Leithanien, and I hope to maintain friendly relations with you. I can act as a your Messenger, and perform music for you as well.",
+                "jp": "リターニアの女帝、グリムマハトの命に従い参上致しました。ドクターとは友好的な関係を築いていけたらと思いますので、今後ともどうぞよろしくお願いします。専属のトランスポーターでも、楽師でも、何なりとお申し付けください。",
+                "kr": "안녕하십니까 박사님. 저는 라이타니엔의 여황, 그리마흐트 님의 명에 따라 이곳으로 오게 되었습니다. 박사님과 지속적으로 우호적인 관계를 유지할 수 있기를 바라니 앞으로 잘 부탁드립니다. 박사님의 전달자로든 악사로든 전부 가능하니, 뭐든 말씀해 주세요.",
+                "cn": "博士，我受莱塔尼亚女皇赫琳玛特所托来此，希望接下来能与您保持友好交流。我可以做您的信使，也可以做您的乐手。"
+            },
+            "asset": "char_4109_baslin/CN_011"
+        },
+        {
+            "id": "char_4109_baslin_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "I've already seen this... Hold on, I have some old recordings of the annual Kaiserinnensfest. Would you like to watch them together with me?",
+                "jp": "それはもう拝見しましたが……ちょっと待ってください。例年の女帝の祭典の映像を持ってきてるんですよ。よかったら見てみませんか？",
+                "kr": "그건 이미 본 건데…… 잠시만요, 저한테 예전에 치렀던 여황 축제 영상이 있는데, 같이 보시겠어요?",
+                "cn": "我已经看过了......您等等，我随身带着往年女皇庆典的录像，要一起看看吗？"
+            },
+            "asset": "char_4109_baslin/CN_012"
+        },
+        {
+            "id": "char_4109_baslin_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Phew... Seems like I haven't disappointed you. Uh, Doctor. Should I be acting more nonchalant about this?",
+                "jp": "ふぁ、どうやら失望はさせなかったようですね……あっ、もっと動じずに堂々とする感じがよかったですかね？",
+                "kr": "휴우, 다행히 박사님을 실망시키지 않은 모양이네요…… 아, 방금은 좀 더 담담하게 받아들이는 편이 나았을까요?",
+                "cn": "呼，看来没有让您失望......呃，博士，我是不是应该表现得更宠辱不惊些？"
+            },
+            "asset": "char_4109_baslin/CN_013"
+        },
+        {
+            "id": "char_4109_baslin_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Mm... I'm glad to have met your expectations.",
+                "jp": "はい……ご期待に添えることができたようで幸いです。",
+                "kr": "네…… 기대에 부응한 것 같아서 정말 다행이에요.",
+                "cn": "嗯......幸不辱命。"
+            },
+            "asset": "char_4109_baslin/CN_014"
+        },
+        {
+            "id": "char_4109_baslin_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "I'll follow your baton for the time being.",
+                "jp": "作戦中は、あなたのタクトの指し示すままに。",
+                "kr": "작전 수행 중에는 박사님의 지휘에 따르겠습니다.",
+                "cn": "在此期间，我愿随您的指挥棒行动。"
+            },
+            "asset": "char_4109_baslin/CN_017"
+        },
+        {
+            "id": "char_4109_baslin_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "I knew you were too lazy to show up, so I went to run some errands... I'm very much used to this. ",
+                "jp": "はいはい、ご自分で向われるのが面倒だから、代わりに僕をけしかけると……いいですよ、こういうのには慣れっこですから。",
+                "kr": "네네, 직접 나서기 귀찮으시면 제가 박사님 대신에 나가 드려야죠…… 이런 일은 익숙하니까요.",
+                "cn": "我知道，您懒得出面，所以我去跑腿......这种感觉很熟悉。"
+            },
+            "asset": "char_4109_baslin/CN_018"
+        },
+        {
+            "id": "char_4109_baslin_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "A music score or a battle plan—you have to give me one of those at least.",
+                "jp": "楽譜か作戦プランか、どちらかはいただかないと。",
+                "kr": "악보든 작전 계획서든, 둘 중 하나는 저한테 주셔야 하는 거 아닌가요?",
+                "cn": "乐谱或者作战计划，总得给我一样吧。"
+            },
+            "asset": "char_4109_baslin/CN_019"
+        },
+        {
+            "id": "char_4109_baslin_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Hm. Dissonances.",
+                "jp": "うっ、不協和音が……",
+                "kr": "으윽, 불협화음이……",
+                "cn": "唔，不和谐音。"
+            },
+            "asset": "char_4109_baslin/CN_020"
+        },
+        {
+            "id": "char_4109_baslin_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Opening with a tuba? A rare arrangement.",
+                "jp": "イントロにチューバを持ってくるんですか？珍しい編成ですね。",
+                "kr": "시작을 튜바로요? 꽤나 특이한 구성이네요.",
+                "cn": "以低音号开场吗？很少有这样的编排。"
+            },
+            "asset": "char_4109_baslin/CN_021"
+        },
+        {
+            "id": "char_4109_baslin_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Am I the only tuba in your band?",
+                "jp": "あなたの楽団でチューバ奏者は僕だけですか？",
+                "kr": "박사님의 악단에서 튜바를 연주하는 건 저뿐인가요?",
+                "cn": "您的乐团里只有我一支低音号吗？"
+            },
+            "asset": "char_4109_baslin/CN_022"
+        },
+        {
+            "id": "char_4109_baslin_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "I'll warm up my fingers first.",
+                "jp": "まずは指の運動です。",
+                "kr": "일단 손가락부터 풀게요.",
+                "cn": "我先活动下手指。"
+            },
+            "asset": "char_4109_baslin/CN_023"
+        },
+        {
+            "id": "char_4109_baslin_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "I'll join in the performance at the right section.",
+                "jp": "適切なタイミングで演奏に加わりますよ。",
+                "kr": "적절한 마디에 같이 연주할게요.",
+                "cn": "我会在合适的段落加入演奏。"
+            },
+            "asset": "char_4109_baslin/CN_024"
+        },
+        {
+            "id": "char_4109_baslin_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Can you hear it, the restorative vigor of that fortissimo?",
+                "jp": "聞こえますか？この重厚なフォルティッシモが。",
+                "kr": "들리시나요? 이 중후한 포르티시모가!",
+                "cn": "听见了吗？这强奏的恢弘气势。"
+            },
+            "asset": "char_4109_baslin/CN_025"
+        },
+        {
+            "id": "char_4109_baslin_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Can you feel it, the melodious emotions of that pianissimo?",
+                "jp": "感じますか？この情緒溢れるピアニッシモを。",
+                "kr": "느껴지시나요? 이 감성적인 피아니시모가!",
+                "cn": "感受到了吗？这弱奏的悠扬思绪。"
+            },
+            "asset": "char_4109_baslin/CN_026"
+        },
+        {
+            "id": "char_4109_baslin_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "A shrill howl? That's what happens when you mess up while performing.",
+                "jp": "けたたましい悲鳴？ピッチが狂った結果です。",
+                "kr": "처절한 울음소리? 연주할 때 실수하면 나는 소리예요.",
+                "cn": "凄厉的嚎叫？吹奏失误就会这样。"
+            },
+            "asset": "char_4109_baslin/CN_027"
+        },
+        {
+            "id": "char_4109_baslin_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Out of my way, or I'll shove your head up this tuba.",
+                "jp": "早く退かないと、ベルで顔面を殴りますよ。",
+                "kr": "빨리 물러서지 않으면 벨로 얼굴을 때릴 거예요.",
+                "cn": "再不走，我就用喇叭口杵你们的脸。"
+            },
+            "asset": "char_4109_baslin/CN_028"
+        },
+        {
+            "id": "char_4109_baslin_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "While the tuba is one of the most difficult instruments to play, I'm sure I'll get somewhat proficient at it in time. But you, you seem like a musician who was born proficient with all kinds of instruments... Life is so unfair.",
+                "jp": "チューバは演奏するのが最も難しい楽器の一つとされていますが、いつかはある程度の造詣を得られる自信はあります。しかし、あなたはと言えば、まるで生まれながらにしてどんな楽器にも精通しているかのよう……実に不公平ですね。",
+                "kr": "튜바는 연주하기 어려운 악기로 손꼽히지만, 시간을 들이면 저도 이 악기에 대한 조예를 깊이 쌓을 수 있을 거라는 자신이 있어요. 그런데 박사님은 마치 태어날 때부터 모든 악기에 능통한 사람처럼 느껴지네요…… 정말이지 불공평해요.",
+                "cn": "低音号是最难演奏的乐器之一，我有自信，假以时日能有一些造诣。但您像是生来就精通百种乐器的乐手......真不公平啊。"
+            },
+            "asset": "char_4109_baslin/CN_029"
+        },
+        {
+            "id": "char_4109_baslin_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Your ingenuity put to shame any conductor I've seen.",
+                "jp": "あなたは、最も素晴らしい想像力を持った指揮者です。",
+                "kr": "박사님께선 최고의 상상력을 가진 지휘자세요.",
+                "cn": "您是最具想象力的指挥。"
+            },
+            "asset": "char_4109_baslin/CN_030"
+        },
+        {
+            "id": "char_4109_baslin_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "How does one keep their musicality in tip-top shape? Practice. A flawed performance simply means you haven't practiced enough.",
+                "jp": "音楽のセンスを磨くには、練習のみです。演奏にほころびが出るのは、まさに練習不足の証拠です。",
+                "kr": "어떻게 하면 연주 실력을 항상 최고의 상태로 유지할 수 있냐고요? 연습이죠. 연주 중에 실수를 한다는 건, 연습이 부족하다는 뜻이에요.",
+                "cn": "怎样让乐感保持在最佳状态？练习。演奏有瑕疵只能说明练习得还不够。"
+            },
+            "asset": "char_4109_baslin/CN_031"
+        },
+        {
+            "id": "char_4109_baslin_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Did we fail? I don't think so. People like you usually factor failure into your plans, yes?",
+                "jp": "失敗？僕にはそうとは思えません。あなた方であれば、失敗も込みで計画を立てるに違いない、そうでしょう？",
+                "kr": "실패라고요? 전 그렇게 생각하지 않아요. 여러분이라면 분명 실패도 계획의 일부로 포함시켜두셨겠죠, 그렇죠?",
+                "cn": "我们失败了吗？我不觉得。你们这样的人，会将失败也纳入计划，对吧？"
+            },
+            "asset": "char_4109_baslin/CN_032"
+        },
+        {
+            "id": "char_4109_baslin_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "The soundproofing here should be decent...?",
+                "jp": "ここの防音は大丈夫かな？",
+                "kr": "여기 방음은 괜찮으려나?",
+                "cn": "这里的隔音效果，应该还不错吧？"
+            },
+            "asset": "char_4109_baslin/CN_033"
+        },
+        {
+            "id": "char_4109_baslin_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Ahh... you gave me a fright.",
+                "jp": "わー、びっくりしましたー。",
+                "kr": "아이고~ 깜짝이야.",
+                "cn": "啊~您吓到我了。"
+            },
+            "asset": "char_4109_baslin/CN_034"
+        },
+        {
+            "id": "char_4109_baslin_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Doctor, I'm just about to replace the bell on my tuba. Can you lend me a hand?",
+                "jp": "ドクター、今ちょうどベルを交換しているところです。よかったら少し手伝っていただけますか？",
+                "kr": "박사님, 튜바의 벨을 교체하고 싶은데 도와주실 수 있나요?",
+                "cn": "博士，我正准备更换低音号的喇叭口，帮我一下。"
+            },
+            "asset": "char_4109_baslin/CN_036"
+        },
+        {
+            "id": "char_4109_baslin_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4109_baslin/CN_037"
+        },
+        {
+            "id": "char_4109_baslin_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Are you resting well, Doctor?",
+                "jp": "ドクター、ちゃんと休めていますか？",
+                "kr": "박사님, 잘 쉬셨나요?",
+                "cn": "博士，休息得还好吗？"
+            },
+            "asset": "char_4109_baslin/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Cassandra Schütt",
+            "global": "Cassandra Schütt"
+        },
+        "cn": {
+            "native": "洪海天",
+            "global": "Hong Haitian"
+        },
+        "jp": {
+            "native": "金田アキ",
+            "global": "Aki Kaneda"
+        },
+        "kr": {
+            "native": "허예은",
+            "global": "Hur Yea-eun"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

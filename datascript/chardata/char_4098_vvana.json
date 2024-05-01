@@ -1,0 +1,601 @@
+{
+    "charid": "char_4098_vvana",
+    "nameid": "vvana",
+    "names": {
+        "en": "Viviana",
+        "jp": "ヴィヴィアナ",
+        "kr": "비비아나",
+        "cn": "薇薇安娜"
+    },
+    "voices": [
+        {
+            "id": "char_4098_vvana_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Hm, by the way, may I ask who was your previous assistant? No, I'm not snooping or anything. It's just... There's not much I can do for you here, besides offer my quiet thoughts on the occasional poem.",
+                "jp": "そういえば、先任の秘書の方はどなたなのですか？いえ、他意はないのです。単に今のヴィヴィアナはあなたと落ち着いて詩歌の話をする以外に、できることはあまりありませんので。",
+                "kr": "그러고 보니 전임 어시스턴트는 어떤 분이셨나요? 아니요, 다른 의도는 없습니다. 그저 지금의 비비아나는 당신과 조용히 시에 대해 얘기를 나누는 것 말고는 할 수 있는 일이 그렇게 많지 않으니까요.",
+                "cn": "唔，说起来，您的上一任助理是谁？我无意打听什么，只不过现在的薇薇安娜，除了与您安静地讨论诗歌，能做的并不多。"
+            },
+            "asset": "char_4098_vvana/CN_001"
+        },
+        {
+            "id": "char_4098_vvana_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "I see what you're hiding behind your back. Be at ease, I know very well that Leithanien needs a citizen to heighten her glory in foreign lands. Kazimierz, on the other hand, needs a scandal-plagued knight of self-professed purity. Both are as plain as day. Besides, that issue of The Red Wine is outdated. Their kinds never run short of personalities to gossip over.",
+                "jp": "あなたが背後に隠した物は見えています――リターニアが異国の地にて自身の栄誉を高める民を、そしてカジミエーシュがスキャンダルに塗れながらも高潔な騎士を求めているのは、とても理解しやすいことですよ。それに、その『ザ・レッドワイン』はもう時代遅れですしね。メディアは話題の人物に事欠きませんから。",
+                "kr": "당신이 등 뒤에 무엇을 숨기셨는지 이미 봤습니다. 라이타니엔은 이국땅에서 나라의 명예를 드높이는 백성을 필요로 하고, 카시미어는 스캔들에 휩싸여도 고결함을 주장하는 기사를 필요로 하죠. 그건 이해하기 어렵지 않습니다. 그리고, 그 《레드 와인》은 이미 오래전 겁니다. 미디어에는 언제나 새로운 화제 인물들이 등장하니까요.",
+                "cn": "我已经看到了您藏在背后的东西——莱塔尼亚需要一个在异国为其增辉的子民，卡西米尔需要一个绯闻缠身却自命高洁的骑士，这很好理解。再说这份《红酒报》已经过期了，他们从不缺话题人物。"
+            },
+            "asset": "char_4098_vvana/CN_002"
+        },
+        {
+            "id": "char_4098_vvana_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "The wind can get very strong up on the decks. Perhaps you should change into something warmer. Me? I'm just dressing this place up as a certain city of greenery and shade in my imagination. The one where the gentle breeze blew from lands unknown, and the blacksmith's rhythmic hammering sounded the passage of time... Those days were brief. So brief, they are worth remembering.",
+                "jp": "デッキは風が強いので、戻って何か羽織って来られてはいかがですか？……私はただあの緑豊かで木陰の多い都市のことを思い出していたのです。どこからともなく吹いてくる風、鍛冶屋から響く規則正しい音が時計代わりになるあの都市……ほんの短い間でしたが、だからこそ懐かしむべきものです。",
+                "kr": "갑판 위는 바람이 많이 부는 데, 옷을 더 챙겨 입고 오시는 건 어때요? ……전 여기서 푸르른 나무 그늘로 가득했던 그 도시를 떠올리고 있었답니다. 어디선가 불어오는 바람, 그리고 대장간에서 들려오는 규칙적인 쇳소리가 시계를 대신했던 그 도시…… 아주 잠깐이었지만, 그렇기에 더욱 그리운 것 같아요.",
+                "cn": "甲板上的风很大吧，要不要回去加件衣服？我只是在想象这里是那座铺满林荫的城市，风不知从何处吹来，铁匠作坊规律的叮当声是时间的刻度......那段日子很短暂，短暂到值得怀念。"
+            },
+            "asset": "char_4098_vvana/CN_003"
+        },
+        {
+            "id": "char_4098_vvana_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": " 'Droste' is my mother's maiden name. It is a common name with no place in the spires. How long would you stay in an alley full of marigolds, Doktor? Very few would grace their proses and stanzas with these forbidden blossoms, but they're really beautiful... To be honest, I'm surprised you actually remembered my full name, Doktor.",
+                "jp": "「ドロステ」は母方の姓なのです。ごく平凡なもので、高塔とは無関係です。カレンデュラが咲き誇る小路で、あなたはどれだけ足を止めるでしょうか？季節外れの花について書き表す人は少ないですが、本当に美しいのですよ……まあ、私のフルネームを覚えてらしたのですね、ドクター。",
+                "kr": " '드로스테'는 제 어머니의 성이에요. 정말 평범하고, 고탑과는 아무런 관계가 없죠. 박사님이시라면 금잔화로 가득한 골목에서 얼마나 오랫동안 머무르실까요? 피지 말아야 했던 꽃에 대해 글을 쓸 사람은 거의 없겠지만, 그럼에도 그 꽃들은 정말로 아름다웠답니다…… 아, 제 본명을 기억해 주고 계셨군요, 박사님.",
+                "cn": "“德罗斯特”是我母亲的姓氏，它很普通，它不属于高塔。您会在一条金盏花盛开的小巷驻足多久？少有人书写那些错开的花，但它们真的很美......唔，博士，您竟然记得我的全名。"
+            },
+            "asset": "char_4098_vvana/CN_004"
+        },
+        {
+            "id": "char_4098_vvana_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Poetry is charming as a respite from grammatical convention. It is a search for the most fitting of expressions in the most irrational.  The Candle Knight, who upholds virtue, and Viviana, who loves poetry... I have been a contradiction since the very beginning.",
+                "jp": "詩歌の魅力とは、文法から解き放たれ、不合理の中から最も適した表現を見つけ出すことにあります。「美徳」を尊び自制する燭騎士と、詩歌を好むヴィヴィアナは初めから矛盾していましたね。",
+                "kr": "시의 매력은 문법에 얽매이지 않고 불합리 속에서 가장 합리적인 표현을 찾아내는 데에 있어요. '미덕'을 수호하는 양초의 기사, 그리고 시를 사랑하는 비비아나는 사실 처음부터 모순되는 존재였죠.",
+                "cn": "诗歌的魅力，在于拧断惯常的语法，于不合理处找到最合适的表达。恪守“德行”的烛骑士，和喜爱诗歌的薇薇安娜，其实从一开始就充满矛盾。"
+            },
+            "asset": "char_4098_vvana/CN_005"
+        },
+        {
+            "id": "char_4098_vvana_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Tales about foreign lands usually end with the traveler returning home. I was always preparing to return to Leithanien, but even after having experienced so much, my truest imp ression of the place remains in the candlelit books on those dark nights. I've seen the people I wanted to see, and I've made my choice.",
+                "jp": "異国の地を描く物語においては、長く他郷に身を置いた人も最後には故郷に帰ります。 私もいつかはリターニアに戻る日が来ると思っていましたが、多くの経験をした今でも、あの国への印象はあの闇夜に灯る燭火と本の山だけです――私は会うべき人に会いましたし、とうに選んでいたのです。",
+                "kr": "이국땅을 배경으로 하는 이야기에선, 오랫동안 타향에 머무르던 사람들도 결국 고향으로 돌아가게 되죠. 저도 언젠가는 라이타니엔에 돌아가기 위해서 계속 준비하고 있었어요. 하지만 많은 일들을 겪은 지금도, 라이타니엔에 대한 제 이미지는 여전히 어두운 밤 속 켜져 있는 촛불과 쌓여 있는 책더미가 전부입니다. 제가 만나야 했던 사람들은 전부 만났고, 결정도 이미 내렸답니다.",
+                "cn": "那些描写异乡的故事里，羁旅之人终归故土。我一直在做回莱塔尼亚的准备，但经历了这么多后，我对它最真实的印象，依然只有那些暗夜里的烛火和书本——我见过该见的人了，我早就做了选择。"
+            },
+            "asset": "char_4098_vvana/CN_006"
+        },
+        {
+            "id": "char_4098_vvana_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Look. What is it the candle lights here? Our faces? Lines of poetry that no one reads? Or the dark and mired path ahead of us? I guess you've always been able to see them, even without my candlelight. Right then, rest your eyes upon me. Don't let the light distract your gaze.",
+                "jp": "ご覧ください、燭火は今何を照らしているでしょう？私たちの顔でしょうか、この誰も知らない詩歌でしょうか、それとも先に続く暗くぬかるんだ道でしょうか？本当はあなたには見えているのですよね？であれば、火の輝きに気を取られないで、私のことをよく見ていてください。",
+                "kr": "보세요, 촛불은 지금 뭘 비추고 있는 걸까요? 당신과 저의 얼굴? 아무도 관심을 갖지 않는 시들? 아니면 어둡고, 진흙탕이 되어 버린 앞길? 당신이라면 촛불 없이도 이 모든 걸 볼 수 있으실 거예요. 그러니, 불빛에 현혹되지 말고 절 바라봐 주세요.",
+                "cn": "看，烛火此时照耀着什么？你我的脸，这些无人问津的诗句，晦暗而泥泞的前路？其实你本来就能看清这些的，对吧？既然如此，注意看我，别因它的光亮分了神。"
+            },
+            "asset": "char_4098_vvana/CN_007"
+        },
+        {
+            "id": "char_4098_vvana_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "I returned to that small, dark chamber in the spire and spoke to the little girl within. I told her that she will endure a lifetime of slander, suffer regrets that cannot be undone, and be trapped in a cycle of endless pursuit and loss… Yes, farewells feel the same as a dream. Do you find me, as I am in this moment, real enough?",
+                "jp": "高塔のあの小さく暗い部屋に戻り、そこにいる少女に伝えるのです。この先あなたは、いつも汚泥を投げつけられ、取り返しのつかないことに後悔を抱え、探求と喪失の中に囚われることになると……ええ、別れとは夢のようなものです。ではあなたは今この瞬間の私は、掴めるほどに確かと思うでしょうか？",
+                "kr": "고탑의 그 작고 어두운 방으로 돌아가 그곳에 있는 소녀한테 말해 줬습니다. 앞으로 당신은 수많은 음해로 얼룩지고, 돌이킬 수 없는 후회를 하며, 빠져나올 수 없는 탐구와 상실의 늪에 얽매일 거라고…… 네, 이별은 꿈과도 같은 거죠. 그럼 당신은, 지금의 제가 진실되다고 생각하나요?",
+                "cn": "我回到了高塔上那个又小又暗的房间，我告诉那个小女孩，今后总有泼向她的污浊，无可挽回的遗憾，她将囿于寻找与失去......是的，所谓的告别就如一场梦。那你觉得此刻的我足够真实吗？"
+            },
+            "asset": "char_4098_vvana/CN_008"
+        },
+        {
+            "id": "char_4098_vvana_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": " 'If you and I were notes from one stanza, on which instrument are we strung? And what player has us in his hand?' Oh, I knew you would come. Have you finished reading the poems I gave you? Let me guess. I couldn't possibly share the image of your beloved, and it must lie within the most uplifting cantata.",
+                "jp": "「もし私たちが音なら、どのような楽器から鳴るのだろう？その楽器は誰の手にあるのだろう？」 ……あら、きっといらっしゃると思っていました。 詩集は読み終わりましたか？あなたの好きな一節はきっと私とは異なるでしょう。人の心を一番揺さぶる章にあるはずです。",
+                "kr": "“만약 우리가 소리라면, 우린 어떤 악기에서 연주되고 있을까? 그 악기를 연주하는 사람은 누구일까?” ……아, 오실 줄 알았어요. 시집은 다 읽으셨나요? 당신이 가장 좋아하는 구절은 분명 저와는 다를 거예요. 틀림없이 사람의 마음을 가장 강렬하게 뒤흔드는 장에 있겠죠.",
+                "cn": "“若我们同为一段声音，我们被奏响在怎样的乐器上，又是谁将那样的乐器握在手中？”我就知道你肯定会来。诗集读完了？我猜，你最爱的意象肯定和我不一样，它一定在最震撼人心的那章。"
+            },
+            "asset": "char_4098_vvana/CN_009"
+        },
+        {
+            "id": "char_4098_vvana_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Mein Tag war heiter, glücklich meine Nacht.",
+                "jp": "……私の昼は光にあふれ、私の夜は幸せだった。",
+                "kr": "……나의 낮은 화창했고, 나의 밤은 행복했다.",
+                "cn": "......我的白昼晴朗，我的夜晚幸福。"
+            },
+            "asset": "char_4098_vvana/CN_010"
+        },
+        {
+            "id": "char_4098_vvana_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Greetings. Margaret told me about you.  It's a shame we didn't have a chance to meet in the Grand Knight Territory… They called me 'The Candle Knight' at the time. You can call me Viviana, Doktor.",
+                "jp": "ご機嫌よう、ドクター。マーガレットからお噂はかねがね伺っております。大騎士領にいらしていた時にお目に掛かれなかったのが残念です……あの頃は私もまだ「燭騎士」と呼ばれておりました。今はどうぞヴィヴィアナとお呼びくださいね。",
+                "kr": "안녕하세요, 박사님. 마가렛에게 이야기를 듣고 왔습니다. 그랜드 나이트 영지에 있었을 땐 아쉽게도 뵐 기회가 없었지만…… 네, 그때 저는 '양초의 기사'라고 불렸었죠. 앞으로는 절 비비아나라고 불러 주세요, 박사님.",
+                "cn": "您好，玛嘉烈向我提起过您。可惜在大骑士领的时候，我们没有机会认识......当时我还被称作“烛骑士”。叫我薇薇安娜吧，博士。"
+            },
+            "asset": "char_4098_vvana/CN_011"
+        },
+        {
+            "id": "char_4098_vvana_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Watching my own fights through a screen... For a moment, I thought I was still in Kazimierz.",
+                "jp": "モニターを通して自分の戦いを見ると……一瞬カジミエーシュにいるような錯覚を覚えますね。",
+                "kr": "화면으로 제가 싸우는 모습을 보고 있으면…… 잠시나마 제가 아직 카시미어에 있다는 착각을 하게 돼요.",
+                "cn": "通过屏幕观看自己的战斗......一瞬间我以为自己仍在卡西米尔。"
+            },
+            "asset": "char_4098_vvana/CN_012"
+        },
+        {
+            "id": "char_4098_vvana_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Are you going to grant me a title as well?  There's no need for that, but it probably won't matter anyway. This place is no arena.",
+                "jp": "ドクターも私に称号を授けるつもりなのですか？いえ、そうであっても差し支えはありませんね。ここは競技場ではないと私も理解していますから。",
+                "kr": "박사님도 저한테 칭호를 주시려고요? 아뇨, 그렇다고 해도 상관없습니다. 저도 여기가 경기장이 아니라는 건 잘 알고 있으니까요.",
+                "cn": "您也要授予我一个什么称号吗？不，即便如此也没有什么，这里不是竞技场，我知道。"
+            },
+            "asset": "char_4098_vvana/CN_013"
+        },
+        {
+            "id": "char_4098_vvana_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Can I interpret this as... your hope that I will stay?",
+                "jp": "これは、私に残ってほしいという認識で問題ないでしょうか？",
+                "kr": "이건, 제가 이곳에 계속 머물러도 괜찮다는 의미로 받아들여도 괜찮을까요?",
+                "cn": "我是否可以理解为，你希望我继续留在这里？"
+            },
+            "asset": "char_4098_vvana/CN_014"
+        },
+        {
+            "id": "char_4098_vvana_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "I, Viviana Droste, shall wield candle and blade to win victories in your name.",
+                "jp": "ヴィヴィアナ・ドロステとして、この燭火と剣でもって、あなたに勝利を捧げます。",
+                "kr": "비비아나 드로스테. 이 촛불과 검으로 당신에게 승리를 가져다 드리겠습니다.",
+                "cn": "薇薇安娜·德罗斯特，将凭她的烛与剑，为您夺取胜利。"
+            },
+            "asset": "char_4098_vvana/CN_017"
+        },
+        {
+            "id": "char_4098_vvana_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Um, truth be told, the General Chamber of Commerce's spokesmen kept complaining that I didn't care much about my own matches.",
+                "jp": "ふふ、商業連合会の代弁者によく、私は自分の試合にまるで興味がないとぼやかれたものです。",
+                "kr": "후후. 상업연합회의 대변인은, 제가 제 시합에도 관심이 없는 것 같다는 불평을 종종 했었는데 말이죠.",
+                "cn": "唔，商业联合会的发言人当时经常抱怨，我对自己的比赛都不怎么上心。"
+            },
+            "asset": "char_4098_vvana/CN_018"
+        },
+        {
+            "id": "char_4098_vvana_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Let us move. A timely departure paves the way for an early return.",
+                "jp": "さあ、すぐに出発して、なるべく早く戻ってきましょう。",
+                "kr": "바로 출발하시죠. 최대한 빨리 돌아올 수 있도록 해요.",
+                "cn": "走吧。立刻启程，尽早回来。"
+            },
+            "asset": "char_4098_vvana/CN_019"
+        },
+        {
+            "id": "char_4098_vvana_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Moonlight barely laid upon the breezy parterre, yet you've witnessed the entirety of autumn?",
+                "jp": "風がそよぐ花園に月明かりが差したばかりだというのに、あなたにはもう秋が見えたのですか？",
+                "kr": "바람이 살랑거리는 꽃밭에 이제야 달빛이 드리우건만, 당신은 벌써 가을을 눈에 담고 계신 건가요?",
+                "cn": "月光才没入起风的花圃，你就已经看见了秋天？"
+            },
+            "asset": "char_4098_vvana/CN_020"
+        },
+        {
+            "id": "char_4098_vvana_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "I listen, to this passing silence.",
+                "jp": "私は、この沈黙に耳を傾けたいのです。",
+                "kr": "전 지금 이 순간의 침묵에 귀를 기울이고 싶어요.",
+                "cn": "我愿倾听此刻的沉默。"
+            },
+            "asset": "char_4098_vvana/CN_021"
+        },
+        {
+            "id": "char_4098_vvana_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "I wait, for that belated serenity.",
+                "jp": "遅れてやってくる静けさを待っています。",
+                "kr": "전 뒤늦게 찾아오는 고요함을 기다리고 있습니다.",
+                "cn": "我在等待迟来的宁静。"
+            },
+            "asset": "char_4098_vvana/CN_022"
+        },
+        {
+            "id": "char_4098_vvana_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "This is no arena. No scars will be remembered or awarded.",
+                "jp": "ここは競技場ではありません。傷跡は栄誉ではなく記録されるべきものでもないのです。",
+                "kr": "이곳은 경기장이 아니에요. 흉터는 영광이 아닐뿐더러, 기록할 만한 가치도 없습니다.",
+                "cn": "这里不是竞技场，伤痕不值得记录与嘉奖。"
+            },
+            "asset": "char_4098_vvana/CN_023"
+        },
+        {
+            "id": "char_4098_vvana_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Leave. This is my last suggestion.",
+                "jp": "去りなさい。これは最後の忠告です。",
+                "kr": "떠나세요. 제 마지막 충고입니다.",
+                "cn": "离开，这是最后一句忠告。"
+            },
+            "asset": "char_4098_vvana/CN_024"
+        },
+        {
+            "id": "char_4098_vvana_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Why obsess over rhymes? Poetry is woven with the thread of ideas.",
+                "jp": "韻にこだわる必要はありません。詩を紡ぐのは思いなのです。",
+                "kr": "운율에 집착할 필요는 없습니다. 시를 엮어 주는 건 바로 생각이니까요. ",
+                "cn": "何必在意韵脚，思想才能织就诗行。"
+            },
+            "asset": "char_4098_vvana/CN_025"
+        },
+        {
+            "id": "char_4098_vvana_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": " 'Pale roses,' pale minds.",
+                "jp": "「蒼白なバラ」、蒼白な想像。",
+                "kr": " '창백한 장미', 창백한 상상.",
+                "cn": "“苍白的玫瑰”，苍白的想象。"
+            },
+            "asset": "char_4098_vvana/CN_026"
+        },
+        {
+            "id": "char_4098_vvana_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Alas, but tying your legs together won't make you fly.",
+                "jp": "両の足を縛ったところで、飛べはしません。",
+                "kr": "두 다리를 묶었다고 날 수 있는 건 아닙니다.",
+                "cn": "绑上双腿，并不能让你们飞翔。"
+            },
+            "asset": "char_4098_vvana/CN_027"
+        },
+        {
+            "id": "char_4098_vvana_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Let time rest upon this unlit night.",
+                "jp": "燭火なき夜に留まりなさい。",
+                "kr": "촛불 하나 없는 이 밤에 머무르세요.",
+                "cn": "让时间停在这个无烛的夜晚吧。"
+            },
+            "asset": "char_4098_vvana/CN_028"
+        },
+        {
+            "id": "char_4098_vvana_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Tired already, Doktor? Me too. The last time I had such an unforgettable bout was that match I fought in Kawalerielki.",
+                "jp": "ドクター、お疲れですか？私もです。これほど忘れがたい戦いをしたのは、大騎士領のあの試合以来です。",
+                "kr": "박사님, 피곤하신가요? 저도 마찬가지예요. 그랜드 나이트 영지에서의 그 시합 이후, 이렇게 잊을 수 없는 전투는 정말 오랜만이네요.",
+                "cn": "博士，你已经筋疲力尽了吗？我也是。上一次经历让人如此难忘的战斗，还是在大骑士领的那场比赛。"
+            },
+            "asset": "char_4098_vvana/CN_029"
+        },
+        {
+            "id": "char_4098_vvana_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Doktor, you're right. Words that shake one's soul always come from within the storm.",
+                "jp": "ドクターのおっしゃる通りですね。心を震わせる言葉は、嵐の中から生まれるものです。",
+                "kr": "박사님의 말씀이 맞았어요. 가슴을 울리는 글귀는 언제나 폭풍 속에서 탄생하는 법이죠.",
+                "cn": "博士，你说得没错，震撼心灵的词句，总是自风暴中来。"
+            },
+            "asset": "char_4098_vvana/CN_030"
+        },
+        {
+            "id": "char_4098_vvana_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Even the most uninspiring poetry may contain a few lines that tug at our hearts. Despite the regrettable techniques employed, I can't help but approve of the writer's expression.",
+                "jp": "凡庸だと評される詩の中にも、人の心を動かす一節が隠されていたりします。作者の技巧の拙さを残念に思うことはありますが、彼らが伝えたいものを私は否定できないのです。",
+                "kr": "평범하다고 비판되는 시에도, 사람의 마음을 움직이는 구절이 숨겨져 있기 마련이죠. 작가의 기교가 부족해서 아쉬울 때도 있지만, 전 그들이 전달하고자 하는 바를 부정할 수는 없어요.",
+                "cn": "有些被骂平庸的诗歌，其中也藏着牵动人心的句子。我遗憾于作者的技法，却无法不认同对方的表达。"
+            },
+            "asset": "char_4098_vvana/CN_031"
+        },
+        {
+            "id": "char_4098_vvana_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Doktor, accept this temporary lapse in creativity and remember how this moment feels. I'm still looking forward to the completion of this sonnet.",
+                "jp": "ドクター、ひとまずインスピレーションが失われた事実を受け止めて、この感覚を覚えておきましょう。いつかこの詩が完成することを、心より楽しみにしています。",
+                "kr": "박사님, 영감이 고갈된 지금 이 순간을 받아들이고 기억해두세요. 언젠가 완성될 당신의 시를, 진심으로 기대하고 있겠습니다.",
+                "cn": "博士，暂时接受此刻灵感的枯竭，并记住这种感受。对这未完的诗篇，我将满怀期待。"
+            },
+            "asset": "char_4098_vvana/CN_032"
+        },
+        {
+            "id": "char_4098_vvana_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "No bathtub...? Never mind. Just a little joke.",
+                "jp": "バスタブもないのですか……いえ、ただの冗談です。",
+                "kr": "욕조는 없나요…… 아뇨, 농담입니다.",
+                "cn": "没有浴缸吗......没什么，一个玩笑。"
+            },
+            "asset": "char_4098_vvana/CN_033"
+        },
+        {
+            "id": "char_4098_vvana_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Hmm, who is there? Whatever. I already knew it was you.",
+                "jp": "あら、どなた……ふっ、やめておきましょう。実はとっくにあなただと気づいていたのですよ。",
+                "kr": "어머, 누구지…… 하하, 장난은 그만둘게요. 사실, 박사님인 거 이미 알고 있었어요.",
+                "cn": "唔，谁......算了算了，其实我早就发现你了。"
+            },
+            "asset": "char_4098_vvana/CN_034"
+        },
+        {
+            "id": "char_4098_vvana_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Doktor, if the candle goes out, I can't say for sure what might happen next.",
+                "jp": "ドクター、もし燭火を消してしまったら、何が起きるかは分かりませんよ。",
+                "kr": "박사님, 혹시라도 촛불이 꺼지면, 저도 무슨 일이 벌어질지 모른답니다.",
+                "cn": "博士，如果弄熄了烛火，我可不确定会发生什么。"
+            },
+            "asset": "char_4098_vvana/CN_036"
+        },
+        {
+            "id": "char_4098_vvana_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4098_vvana/CN_037"
+        },
+        {
+            "id": "char_4098_vvana_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Hmm, Doktor, what are you muttering there? I won't force you to recite any poems. But you have read them, have you not?",
+                "jp": "まあドクター、何を唱えていらっしゃるのですか？詩の抜き打ちチェックなどいたしませんのに。それで、読みましたか？読んだのですよね？",
+                "kr": "아, 박사님. 오늘은 어떤 시를 읽고 계신가요? 전 박사님의 숙제 검사 같은 걸 하러 온 게 아닙니다만. 그래서, 읽으셨나요? 읽으셨죠?",
+                "cn": "欸，博士，你在念念有词些什么？我又不会抽背那些诗。你看了吗？你看了吧？"
+            },
+            "asset": "char_4098_vvana/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Lena Tiemann",
+            "global": "Lena Tiemann"
+        },
+        "cn": {
+            "native": "秦紫翼",
+            "global": "Ziyi Qin"
+        },
+        "jp": {
+            "native": "M・A・O",
+            "global": "M・A・O"
+        },
+        "kr": {
+            "native": "이슬",
+            "global": "Lee Seul"
+        },
+        "ger": {
+            "native": "Lena Tiemann",
+            "global": "Lena Tiemann"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr",
+        "ger"
+    ]
+}

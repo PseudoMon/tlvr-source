@@ -1,0 +1,596 @@
+{
+    "charid": "char_4100_caper",
+    "nameid": "caper",
+    "names": {
+        "en": "Caper",
+        "jp": "ケイパー",
+        "kr": "케이퍼",
+        "cn": "跃跃"
+    },
+    "voices": [
+        {
+            "id": "char_4100_caper_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Oh, thank you so much, Doc! Why am I thanking you? Heehee, because you just signed… MY PAID LEAVE APPLICATION!",
+                "jp": "サインしてくれた？やったー！ありがとね、ドクター！何をそんなに喜んでるのかって？ふふーん、これ、アタシの有給届だからだよん。",
+                "kr": "진짜 고마워, 박사! 뭐가 고맙냐고? 히히, 방금 박사가 사인한 건 내 유급 휴가 신청서거든.",
+                "cn": "博士，太感谢你啦！你问我为什么要谢你？嘻嘻，你刚刚签上字的，是我的带薪休假申请单呀。"
+            },
+            "asset": "char_4100_caper/CN_001"
+        },
+        {
+            "id": "char_4100_caper_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "I used to be a troublemaker for hire. People PAY for my epic pranks. The coalition government, the Singas, True Bolívar. I don't care who I work for. Sometimes, I even work both sides. I take care of one job on my way to one place, and the other on the way back. Jajaja! All that ruckus, it was glorious!!",
+                "jp": "アタシがやってたオシゴトってのは「イタズラ」代行だよ。稼ぎになれば商売相手が連合政府だろうとシンガス王朝だろうと、トゥルーボリバリアンであっても大して変わらないよ。にらみ合ってる勢力の両方から依頼を受けることもあってね、行く時に一丁かまして、帰りにもう一丁仕掛けるの。ああいう大騒ぎったらたまんないよ。",
+                "kr": "내 예전 직업은 남을 대신해서 '말썽'을 부리고 다니는 거였어. 돈만 벌 수 있다면 상대가 연립 정부든, 싱가스 왕조든, 진정한 볼리바르인이든 신경 안 썼지. 가끔 서로 대립하는 양측의 의뢰를 모두 받을 때도 있었는데, 갈 때 의뢰 하나, 올 때 반대쪽 의뢰 하나 해주면 아주 재밌는 장면이 펼쳐졌다고.",
+                "cn": "我以前的工作就是专门替人捣乱。管他联合政府、辛嘉斯王朝，还是真正玻利瓦尔人，给谁干活都差不多啦。有时候我会接下敌对两边的活，去的时候干一单，回来的时候再干一单，那场面可热闹了。"
+            },
+            "asset": "char_4100_caper/CN_002"
+        },
+        {
+            "id": "char_4100_caper_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Here, some corn bugles. Want some? No, no! You can't just throw them in your mouth. Where are your manners? Give me your hand, let me show you. First, you put them on each of your fingertips like that, then—Om! Hehe! Thanks for the food!",
+                "jp": "はい、コーンスナック、いる？ってちょっと！わしづかみにして口に放り込むだなんて乱暴すぎるよ。手を出して、教えたげる。こーやって、一本ずつ指に被せていくの。そんで――あむっ！ごちそうさま！",
+                "kr": "자, 콘 스낵이야. 먹을래? 아냐, 아냐! 그렇게 바로 입에 넣어버리면 어떡해! 손 줘 봐, 내가 어떻게 먹는 건지 가르쳐 줄게. 자, 일단 이 콘 스낵을 하나하나 손가락에 끼운 다음…… 하압! 맛있다!",
+                "cn": "喏，玉米角，你要吃吗？错了错了！才不是直接扔进嘴里这么粗暴的吃法。把手伸出来，我教你。要先这样把玉米角一个一个戴在指头上，然后——啊呜！谢谢啦！"
+            },
+            "asset": "char_4100_caper/CN_003"
+        },
+        {
+            "id": "char_4100_caper_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "You call this a weapon? Hahaha, that's so funny. I call it 'Twirly-twirl.' It's a toy my mama made for me. You can throw it out like this, and then it comes back. What? It's too destructive? That's the fun part.",
+                "jp": "武器って、この子のこと？アハッ、うけるー。これは「グルグルちゃん」っていって、ママが作ってくれたオモチャだよ。こーやって飛ばしたら戻ってくるの。それにしては破壊力があり過ぎるって？何言ってんの、それが一番面白いトコじゃん。",
+                "kr": "무기라니, 이거 말이야? 하핫, 박사는 정말 재밌다니까. 이건 엄마가 만들어준 장난감인데, '빙글이'라고 해. 이렇게 날리면 다시 돌아올 수 있어. 장난감이라고 하기엔 파괴력이 이상하다고? 무슨 소리야, 그게 제일 재미있는 건데.",
+                "cn": "你说这是武器？哈哈哈，你可太逗了。它叫“转转”，是妈妈给我做的玩具，可以像这样飞过去再回来。有破坏力很奇怪吗？这就是它最好玩的地方。"
+            },
+            "asset": "char_4100_caper/CN_004"
+        },
+        {
+            "id": "char_4100_caper_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "I've been pretty playful ever since I was a kid. I had enough tricks up my sleeve to turn the tables on the bullies, even pulled a few ducats out of them sometimes. I mean, come on, you need a thrill like that to really feel alive. But here you are, working your butt off all day long. Aren't you bored?",
+                "jp": "アタシはね、小さい時からイタズラをするのが大好きだったんだ。いじめっ子たちをあの手この手でおちょくって、そいつらから「お小遣い」をもらうのなんて朝飯前だった。そういう刺激がなきゃ、生きてるとは言えないから――そういえばアンタさ、毎日机に張り付いて、つまんないって思わないわけ？",
+                "kr": "난 어릴 때부터 장난치는 걸 좋아했어. 못된 녀석들을 온갖 방법으로 골려 주고 '용돈'을 타는 것쯤이야 식은 죽 먹기였지. 그런 신선한 자극이 있어야 생활이 재미있어지잖아? 그러고 보니, 박사는 하루 종일 사무실에만 앉아 있으면 지루하지 않아?",
+                "cn": "我从小就爱玩，能变着法子把那些爱欺负人的家伙耍得团团转，找他们收点“补贴”都是小菜一碟。多点新鲜刺激，生活才像样。倒是你，整天都在办公，不会觉得无聊吗？"
+            },
+            "asset": "char_4100_caper/CN_005"
+        },
+        {
+            "id": "char_4100_caper_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Can't hear the rain in here at all.... You know, Doctor, back when I was a kid, rainy days meant I couldn't go out to play. All I could do was stay in mama's workshop, helping her count screws, and listening to the pitter-patter of rain on the sheetmetal roof... But I don't mind days like that. You surprised?",
+                "jp": "ここじゃ雨の音が聞こえないのね。小さい頃、雨の日は遊びに行けないから、ママの仕事場にこもるしかなかったんだ。トタン屋根を叩く雨の音に耳を傾けながら、ママのために指折りでネジを数えるの……そんな生活も嫌いじゃなかったけどね。意外でしょ？",
+                "kr": "여기선 빗소리가 안 들리네. 어렸을 땐 비가 오면 놀러 나가질 못했으니까, 엄마의 일터에 틀어박혀 있을 수밖에 없었어. 지붕 위에서 타닥거리는 빗소리를 들으면서 엄마를 도와 나사를 셌던 그 시간들도…… 그렇게 나쁘진 않았지. 꽤 의외지?",
+                "cn": "在你这里听不到雨声啊。小时候下雨天我没地方可去，只能待在妈妈的工作间里，掰着指头帮妈妈数螺丝，听雨点噼里啪啦敲着屋顶的铁皮......猜不到吧，我不讨厌那样的日子。"
+            },
+            "asset": "char_4100_caper/CN_006"
+        },
+        {
+            "id": "char_4100_caper_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "A Liberi dude who calls himself a hottie, a Vulpo car mechanic who does things his way, and my fellow Bolívarian with the huge appetite. Just where did you find all these fun people? I knew I made the right choice joining you guys.",
+                "jp": "自称「イケメン」のリーベリに、マイペースなヴァルポの整備士、それからあの食いしん坊なアタシの同郷……マジでどっからこんなに面白いメンツを揃えてきたわけ？うんうん、やっぱアンタらについてきて正解だったわ。",
+                "kr": "자칭 '절세미남'이라는 리베리, 완전 마이웨이 불포 정비사, 나랑 같은 지역 출신인 그 먹보까지…… 넌 대체 어디서 이렇게 재밌는 사람들을 모아 온 거야? 흠, 역시 너희들을 따라오길 잘했어.",
+                "cn": "自称“大帅哥”的黎博利，我行我素的沃尔珀修车工，还有那位特能吃的我的同乡......你是从哪里招到这么多有意思的员工的？嗯，果然混进你们中间是个正确的决定。"
+            },
+            "asset": "char_4100_caper/CN_007"
+        },
+        {
+            "id": "char_4100_caper_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Before I left home, I had a huge fight with mama, all because I caught Oripathy. I have my ways to keep from being a burden to my family, but mama… she hugged me so tight, she said she'd sell everything in the house to get me treated. I've never wanted to admit it, but I guess my life really is miserable.",
+                "jp": "家を出る前、鉱石病にかかってるのをママに知られて、大ゲンカしたんだよね。自力でなんとかできるから家の負担にはならないよって言ったら、たとえ家中の物全部売ってでもアタシの病気を治すって、力いっぱい抱きしめられた……その時はっと気が付いたよ。アタシ、真っ当な生き方をしてなかったんだなって。",
+                "kr": "집을 떠나기 전에, 광석병에 걸렸다는 사실을 엄마에게 들키고 나서 크게 한번 싸웠었어. 나는 집안에 부담을 주지 않으려 했던 건데, 엄마는…… 사실 엄마가 날 그렇게 꽉 안아 줄 줄은 몰랐어. 집안 살림을 팔아서라도 어떻게든 내 병을 고쳐 주겠다는 말도 했었는데, 그때 나도 내가 정말 못난 사람이었다는 걸 깨달았지.",
+                "cn": "离家前我和妈妈吵了一架，不过是因为我患上了矿石病。我自然有办法不给家里添负担，可妈妈......她居然那么用力地抱住我，还说砸锅卖铁都要把我治好。呵，我的生活原来也挺差劲的。"
+            },
+            "asset": "char_4100_caper/CN_008"
+        },
+        {
+            "id": "char_4100_caper_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "You know what 'can soccer' is? It's my favorite game! Just take a can out of the ditch or whatever scrap heap, then play ball. Oye wey! What's that look on your face? We may have been poor, but there was plenty of fun to be had. Don't believe me? Come try for yourself!",
+                "jp": "「缶蹴りサッカー」って知らない？アタシの一番好きな遊びなんだけどさ、排水溝から適当に缶とか金属のガラクタを拾えばできる……って、何その顔。暮らし向きが悪いからって、楽しみを見つけることに関しちゃ負ける気しないよ。なんなら勝負してみる？",
+                "kr": " '깡통 차기'라고 들어봤어? 내가 제일 좋아하는 놀이인데, 배수구에서 아무 깡통이나 잡동사니를 주워오면 할 수 있어…… 표정이 왜 그래? 우린 사는 건 힘들었지만, 즐거움을 찾는 것만큼은 다른 사람들한테 안 졌거든. 어때, 나랑 한 번 붙어볼래?",
+                "cn": "你知道“罐子足球”吗？那是我最喜欢的游戏，从水沟里捞个罐子或是随便什么金属垃圾就能玩啦......你那副表情是什么意思？就算生活环境不济，我们找的乐子可不差。不信，你和我试试？"
+            },
+            "asset": "char_4100_caper/CN_009"
+        },
+        {
+            "id": "char_4100_caper_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "If you're that tired, how about you hand me all your top-secret documents and get some rest?",
+                "jp": "そんなに眠いならもう寝ちゃいなよ。機密書類のチェックはアタシに任せて、ね？",
+                "kr": "그렇게 졸리면 이제 그만 자, 기밀 서류는 나한테 맡기고.",
+                "cn": "你都那么困了，不如就把机密文件都交给我处理，放心休息好啦。"
+            },
+            "asset": "char_4100_caper/CN_010"
+        },
+        {
+            "id": "char_4100_caper_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Caper, or whatever you wanna call me. Just standing here already proves I'm tough enough, right? You're my boss now, so make sure I don't get bored. And be ready for my surprises.",
+                "jp": "アタシはケイパー。他の呼び方でもいいけど、好きに呼んで。実力証明なんて、今ここに立ってるっていう事実だけで十分でしょ？これからはアンタのカバン持ちをするんだから、期待しといて。ただし、くれぐれも飽きさせないようにね。",
+                "kr": "케이퍼라고 해. 아니면 다른 호칭으로 불러도 상관없어. 내가 지금 네 앞에 서 있다는 것만으로도 실력 증명은 이미 끝난 거잖아? 앞으론 널 위해서 일할 테니까 기대해 줘. 대신, 날 지루하게 만들지 마.",
+                "cn": "跃跃，或者随你怎么叫都行，能站在你面前还不够证明我的本事吗？今后我就替你做事啦，好好期待吧，你可别让我腻了哦。"
+            },
+            "asset": "char_4100_caper/CN_011"
+        },
+        {
+            "id": "char_4100_caper_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "You saw that move of mine? Hahaha! Their reaction was so funny.",
+                "jp": "今の動き見てくれた？キャハ、あいつらの反応マジで笑えるんだけど。",
+                "kr": "방금 내 움직임 봤어? 하하하, 쟤들 반응 완전 웃겨.",
+                "cn": "看到我这一招了吗？哈哈哈，那些家伙的反应实在是太搞笑了。"
+            },
+            "asset": "char_4100_caper/CN_012"
+        },
+        {
+            "id": "char_4100_caper_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "All the officers I know are so desperate for promotion, they do all kinds of dirty infighting. So I assumed getting promoted had to be super fun. Hmph, turns out it's no big deal.",
+                "jp": "アタシが知ってるお偉いさんたちは、昇進のためなら身内にすら汚い手を使うんだから、どんだけ楽しいことだろうと思ったら、大したことないのね。",
+                "kr": "내가 아는 높으신 분들은 승진을 위해서라면 자기 사람들도 팔던데, 그래서 난 승진이 그렇게 재밌는 건 줄 알았지. 근데 별거 없네.",
+                "cn": "我认识的那些长官为了晋升会给自己人下绊子，我还以为晋升会是件很有趣的事，结果也没什么大不了的嘛。"
+            },
+            "asset": "char_4100_caper/CN_013"
+        },
+        {
+            "id": "char_4100_caper_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "I guess only my mama would be happy to hear I got promoted... It's all the same to me. But If I get promoted high enough to order <i>you</i> around… Heehee, then my head is full of ideas.",
+                "jp": "昇進なんて、喜んでくれるのはママくらいだよ。アタシにとっちゃどうでもいいことさ。ま、アンタに指図できる立場にまで昇進できるっていうなら、やりたいことは色々出てくるけどね。",
+                "kr": "승진이라, 난 아무래도 상관없는데, 엄마가 들으면 엄청 기뻐하시겠네. 뭐 그래도 너한테 명령을 내릴 수 있는 위치까지 승진한다면 또 얘기가 달라지겠지만.",
+                "cn": "升职这种事情，只有妈妈听到会开心吧？对我来说都一样。不过要是能晋升到给你下命令的位置，那我可就有不少点子了。"
+            },
+            "asset": "char_4100_caper/CN_014"
+        },
+        {
+            "id": "char_4100_caper_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Finally giving me a real fun job?",
+                "jp": "やっとやり応えのある仕事を持ってきてくれたのね？",
+                "kr": "드디어 나한테도 재미있는 일을 주는 거야?",
+                "cn": "要给我派点带劲的活了？"
+            },
+            "asset": "char_4100_caper/CN_017"
+        },
+        {
+            "id": "char_4100_caper_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Alright, everyone, don't overdo it! Of course, that doesn't apply to me!",
+                "jp": "みんなー、やり過ぎないようにね！まっ、アタシは別だけど！",
+                "kr": "다들 적당히 해! 나는 안 그럴 거지만!",
+                "cn": "各位，别太过火啦！当然，我除外！"
+            },
+            "asset": "char_4100_caper/CN_018"
+        },
+        {
+            "id": "char_4100_caper_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Come on, come on! Let's go!",
+                "jp": "さーて、いっくよー！",
+                "kr": "가자가자!",
+                "cn": "走咯走咯！"
+            },
+            "asset": "char_4100_caper/CN_019"
+        },
+        {
+            "id": "char_4100_caper_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Twirly-twirl, it's time to play!",
+                "jp": "思いっきり楽しめそうだね、グルグルちゃん！",
+                "kr": "빙글아, 한바탕 재밌게 놀아 볼까?",
+                "cn": "转转，我们有得玩了！"
+            },
+            "asset": "char_4100_caper/CN_020"
+        },
+        {
+            "id": "char_4100_caper_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "My turn now?",
+                "jp": "アタシの出番ね？",
+                "kr": "드디어 내 차례인가?",
+                "cn": "轮到我了吧？"
+            },
+            "asset": "char_4100_caper/CN_021"
+        },
+        {
+            "id": "char_4100_caper_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "What you waiting for? It's gotta be me!",
+                "jp": "なに悩んでんの？ハイ！アタシで決まり！",
+                "kr": "뭘 고민하고 있어? 당연히 내가 나서야지!",
+                "cn": "还想什么？就是我了！"
+            },
+            "asset": "char_4100_caper/CN_022"
+        },
+        {
+            "id": "char_4100_caper_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Think you can catch me? That's hilarious!",
+                "jp": "アタシを捕まえる？寝言は寝てから言ってよね！",
+                "kr": "날 잡겠다고? 네가? 웃기시네!",
+                "cn": "抓得住我？你在开玩笑吧！"
+            },
+            "asset": "char_4100_caper/CN_023"
+        },
+        {
+            "id": "char_4100_caper_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "What should I play with you guys?",
+                "jp": "どう遊んでやろうかなー？",
+                "kr": "우리 뭐하고 놀까?",
+                "cn": "和你们玩些什么好呢？"
+            },
+            "asset": "char_4100_caper/CN_024"
+        },
+        {
+            "id": "char_4100_caper_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Go home to your mama!",
+                "jp": "おうちに帰ってママに慰めてもらいな！",
+                "kr": "너희들, 집에 가서 엄마랑 놀아!",
+                "cn": "回家找妈妈去吧！"
+            },
+            "asset": "char_4100_caper/CN_025"
+        },
+        {
+            "id": "char_4100_caper_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Watch out—Here comes Twirly-twirl!",
+                "jp": "みんな注目――グルグルちゃんのお出ましよ！",
+                "kr": "모두 주목! 빙글이 나가신다!",
+                "cn": "注意——转转来咯！"
+            },
+            "asset": "char_4100_caper/CN_026"
+        },
+        {
+            "id": "char_4100_caper_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Watch me cut your pants to scraps!",
+                "jp": "その綺麗なおべべ、ボロ布にしてやんよ。",
+                "kr": "그 예쁜 바지를 너덜너덜하게 만들어 주겠어.",
+                "cn": "瞧我把你们的裤子都划烂！"
+            },
+            "asset": "char_4100_caper/CN_027"
+        },
+        {
+            "id": "char_4100_caper_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Watch me cut all that hair on your head!",
+                "jp": "全員丸坊主にしてあげる！",
+                "kr": "전부 대머리로 만들어 주지!",
+                "cn": "看我把你们的头发都削掉！"
+            },
+            "asset": "char_4100_caper/CN_028"
+        },
+        {
+            "id": "char_4100_caper_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "That was such a thrill! Can we do it again?",
+                "jp": "ヤッバ、これ楽しすぎる！ねぇ、もっかいやろ？",
+                "kr": "하하, 진짜 재밌었어! 한 번 더 하면 안 돼?",
+                "cn": "太刺激了！我们再玩一次好不好？"
+            },
+            "asset": "char_4100_caper/CN_029"
+        },
+        {
+            "id": "char_4100_caper_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "The No.1 rule of playing a master prank—is to be a prank master first, haha!",
+                "jp": "イタズラを成功に導く秘訣っていうのはねぇ――はい、イタズラ大成功！",
+                "kr": "장난을 성공시키는 비결은 바로…… 장난을 성공시키는 거야!",
+                "cn": "成功捣乱的秘诀是——捣乱成功！"
+            },
+            "asset": "char_4100_caper/CN_030"
+        },
+        {
+            "id": "char_4100_caper_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "That's it? I haven't had enough fun.",
+                "jp": "えー、もう終わり？まだ遊び足りないんだけど！",
+                "kr": "뭐야, 벌써 끝난 거야? 아직 더 놀고 싶은데.",
+                "cn": "这就结束了？我还没玩够呢。"
+            },
+            "asset": "char_4100_caper/CN_031"
+        },
+        {
+            "id": "char_4100_caper_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Doctor, you go on ahead! I'm gonna play with them some more!",
+                "jp": "ドクター、先にずらかってて！アタシはもうちょいこいつらと遊んでから帰るよ！",
+                "kr": "박사, 먼저 도망쳐! 난 이 녀석들이랑 좀 더 놀다 갈게!",
+                "cn": "博士，你先溜！我陪他们再玩一会儿！"
+            },
+            "asset": "char_4100_caper/CN_032"
+        },
+        {
+            "id": "char_4100_caper_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Doctor? Where did my luggage go? You didn't hide it, did you? Pff... Hahaha, just messing with you. I ain't got no luggage.",
+                "jp": "ドクター、アタシの荷物見なかった？まさか、こっそり隠したりしてないよね？……ぷっ、ギャハハハ、冗談だよ！荷物なんか持ってないもん。",
+                "kr": "박사, 내 짐 못 봤어? 박사가 몰래 어디 숨긴 거 아니야? 풉…… 하하하, 농담이야. 난 짐 같은 거 없어.",
+                "cn": "博士，我的行李哪去了？该不会被你偷偷藏起来了吧？噗......哈哈哈，逗你的，我才没有行李呢。"
+            },
+            "asset": "char_4100_caper/CN_033"
+        },
+        {
+            "id": "char_4100_caper_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Whoa~ Need me to keep what you just did a secret?",
+                "jp": "おやおやぁ～。今の、ナイショにしてあげた方がいいかな～？",
+                "kr": "어머어머, 방금 네 행동 못 본 척 해줘야 되는 건가?",
+                "cn": "哇哦，你刚刚的行为，要我为你保密吗？"
+            },
+            "asset": "char_4100_caper/CN_034"
+        },
+        {
+            "id": "char_4100_caper_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Try touching my ear. I promise, no surprises... Sike!",
+                "jp": "アタシの耳、触ってみる？悪だくみなんか……してないわけないでしょ！",
+                "kr": "내 귀 한 번 만져 볼래? 이상한 장난 같은 게…… 아닐 리가 없지!",
+                "cn": "摸摸我的耳朵吧，不会有诈的......才怪！"
+            },
+            "asset": "char_4100_caper/CN_036"
+        },
+        {
+            "id": "char_4100_caper_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4100_caper/CN_037"
+        },
+        {
+            "id": "char_4100_caper_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Doctor, enough work. Let's play!",
+                "jp": "まだ仕事してんの？そんなのほっといてさ、アタシの相手してよ。",
+                "kr": "아직도 일해? 그만하고 나랑 놀아 줘.",
+                "cn": "博士，别工作啦，快来陪我玩。"
+            },
+            "asset": "char_4100_caper/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Vanessa Marroquin",
+            "global": "Vanessa Marroquin"
+        },
+        "cn": {
+            "native": "葛子瑞",
+            "global": "Zirui Ge"
+        },
+        "jp": {
+            "native": "花井美春",
+            "global": "Miharu Hanai"
+        },
+        "kr": {
+            "native": "이보용",
+            "global": "Lee Bo-yong"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

@@ -1,0 +1,596 @@
+{
+    "charid": "char_499_kaitou",
+    "nameid": "kaitou",
+    "names": {
+        "en": "Diamante",
+        "jp": "ディアマンテ",
+        "kr": "디아만테",
+        "cn": "折光"
+    },
+    "voices": [
+        {
+            "id": "char_499_kaitou_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "I won't refuse if you insist, but my poor vision makes it difficult for me to handle clerical work.",
+                "jp": "……どうしてもと仰るなら無論お断りなどしませんが、このかすみ目に書類仕事は向かないかと。",
+                "kr": "……꼭 해야만 한다면 거절은 하지 않겠습니다만, 제 낮은 시력은 문서 작업에 적합하지 않을 것 같네요.",
+                "cn": "......您坚持的话我当然不敢推辞，只是碍于视力，我恐怕不太适合文书工作。"
+            },
+            "asset": "char_499_kaitou/CN_001"
+        },
+        {
+            "id": "char_499_kaitou_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "The Engineering Department is very interested in my weapon. I wish I could explain how it works, but all I know is that it requires high-purity gem crystals to run. I have ways to acquire gem scraps, but cutting a precious stone of great value into pieces works the same.",
+                "jp": "エンジニア部の方がこの杖に目の色を変えておられたので、できることなら動作原理を説明して差し上げたかったのですが、僕自身、これが高純度の宝石の破片でのみ動くことしか分からないのですよ。くず石を使おうと思えばいつでも仕入れられますが、高価な宝石を砕いたものでも効果は変わりません。",
+                "kr": "엔지니어링부에서 제 무기에 관심이 많은 것 같더군요. 저도 이 지팡이의 작동 원리에 대해 설명해 드리고 싶지만, 아쉽게도 제가 아는 건 이 지팡이를 작동하기 위해선 고순도의 보석 파편이 필요하다는 것뿐입니다. 보석 파편이라면 얼마든지 구할 방법이 있습니다만, 값비싼 보석을 부숴서 사용한다고 해도, 효과는 비슷하답니다.",
+                "cn": "工程部对我的武器很感兴趣，我也衷心希望自己能讲解它的运作原理，可惜我只知道，它必须以高纯度的宝石碎晶维持运转。宝石边角料，我确实有渠道，但切碎一颗价值连城的珍宝，效果也差不多。"
+            },
+            "asset": "char_499_kaitou/CN_002"
+        },
+        {
+            "id": "char_499_kaitou_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "My gosh, briefing documents again? You're not lacking in manpower or technology. My advice would be to avoid spending time and effort on roundabout things... Oh, you didn't bring documents. Then I must express my gratitude. I don't want to be gazing at graphs or designs anymore. It hurts my eyes.",
+                "jp": "まさかあなたまで作戦の地形図を見せるおつもりですか？専門家としてアドバイスを差し上げるなら、人手と技術力には事欠かないあなたたちなのですから、回りくどいやり方にリソースを費やさずとも――おや、作戦資料を持って来たのではないのですね、それは何よりです。図面と睨み合って目を痛めるのはもう二度と御免なのでね。",
+                "kr": "설마 당신께서도 제게 작전 지형도를 보여줄 생각인 건 아니시겠죠? 제가 드릴 수 있는 조언은, 여러분에겐 기술과 인력이 부족하지 않으니 굳이 이런 우회적인 방법을 쓸 필요는…… 아, 작전 자료를 가져오신 게 아니셨군요, 그것 참 다행입니다. 하루종일 도면을 노려보는 건 사양하고 싶거든요. 눈 아픕니다.",
+                "cn": "难道您也要给我看作战地形资料？我能给出最专业的建议是，你们不缺人手也不缺技术，请不要将精力用于迂回的方式——啊，您没有带文件来，多谢。我不想再成天盯着图纸思考了，眼睛会痛的。"
+            },
+            "asset": "char_499_kaitou/CN_003"
+        },
+        {
+            "id": "char_499_kaitou_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Whistle? Oh, it was me whistling a Leithanian tune. My sincerest apologies, this place just makes me feel relaxed, and it wasn't my... You seem to be fine with it? Strange... to my knowledge, every spire-dweller feels insulted when they hear the sound, and even the mildest scholar would lose his temper when a child whistles at them on the streets.",
+                "jp": "口笛が聞こえた？おっと、僕です。思わずリターニアの民謡を吹いてしまいました。申し訳ありません、気を緩めすぎたようです……怒っておられないのですか？驚きました。リターニアの高塔では最も温厚な学者ですら、街中で子供に口笛を吹かれるとそれは侮辱だと怒りを露わにするものですから。",
+                "kr": "휘파람 소리요? 아, 죄송합니다. 저도 모르게 라이타니엔의 민요를 부르고 있었네요. 이곳이 편안하긴 한가 봅니다…… 화나지 않으신 겁니까? 이상하네요. 라이타니엔에선, 고탑의 가장 온화한 학자라도 거리에서 아이들이 휘파람을 불면 모욕을 당했다며 화를 내곤 했었는데 말이죠.",
+                "cn": "口哨声？啊，是我，我在吹一首莱塔尼亚小调。抱歉，我在这里太放松了......您似乎不生气？真奇怪，高塔里的人，即使是脾气最好的学者，听到街头的孩子对他们吹口哨也会觉得被羞辱。"
+            },
+            "asset": "char_499_kaitou/CN_004"
+        },
+        {
+            "id": "char_499_kaitou_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "I've lived with the Infected since I was little, so it was only natural that I would get Oripathy myself... Well, Rhodes Island doesn't seem to accept that explanation. Then how do you like the story of a single explosion at the quarry that also collapsed many futures? A story too fanciful to believe, don't you think?",
+                "jp": "僕は幼年の頃から感染者と生活を共にしてきたので、鉱石病を患ったのも自然の成り行きでしょう……はぁ、ロドスの方々はこのような説明では納得していただけないようですね。では、採掘場に響いた爆発音が如何にして人々の未来を崩壊させたのかお話しいたしましょう。この数奇な物語を、信じるか信じないかはあなた次第です。",
+                "kr": "어렸을 때부터 전 감염자와 함께 지냈습니다. 그래서 아주 자연스럽게 저 역시 감염자가 되었죠…… 하, 로도스 아일랜드 분들에게 먹히지 않는 설명인가 보네요. 그렇다면 채굴장에 울려 퍼진 굉음이 어떻게 수많은 이들의 미래를 붕괴시켰는지 말씀드리겠습니다. 이 기구한 이야기를 믿고 안 믿고는 당신에게 달렸습니다.",
+                "cn": "我从小与感染者共同生活，所以自然而然地得上了矿石病......唉，罗德岛似乎不接受这种解释。那么，开采场炸药的一声巨响如何让许多人的未来坍塌，您觉得会是一个光怪陆离的故事吗？"
+            },
+            "asset": "char_499_kaitou/CN_005"
+        },
+        {
+            "id": "char_499_kaitou_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "I may have underestimated you, Doctor. Tell me, would you like to bet on me? Betting on whether I'm worth trusting, betting on what tricks I have up my sleeves, betting on if I'm more than an infected. Of course, should you have a change of mind, I'll get back and continue to work on my worthless stone.",
+                "jp": "ドクター、僕はあなたのことを過小評価していたのかもしれませんね。ひとつ、僕に関する賭けをしてみませんか。例えば、僕が本当に信頼に足る人物なのか否か、あるいは、どれほどの策を用意しているか、それから――もちろん、僕を一人の感染者として扱うおつもりしかないのなら、価値のない石の研磨作業を続けますがね。",
+                "kr": "어쩌면 전 당신을 과소평가하고 있었을지도 모르겠네요, 박사님. 저에 관한 내기 하나 어떠십니까? 제가 믿을 만한 사람인지, 아니면 제게 얼마나 많은 능력과 수단이 있는지, 또…… 물론, 박사님께서 절 그냥 감염자로 취급할 생각이시라면, 전 다시 그 가치 없는 돌멩이들이나 연마하러 가 보겠습니다.",
+                "cn": "我或许低估您了，博士。您想在我身上下赌注吗？比如赌我究竟值不值得信赖，赌我有多少手段，还有——当然，您只想将我当作感染者来对待的话，我就继续去打磨那颗不值钱的石头了。"
+            },
+            "asset": "char_499_kaitou/CN_006"
+        },
+        {
+            "id": "char_499_kaitou_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "I'm not interested in talking about the past. As you can see, my lab was destroyed, and all traces cut off. I no longer have to put a price on gems with blood on them... all of which have put my mind at ease, in fact. I no longer have to imagine the gems being cut into pieces, after all.",
+                "jp": "過ぎたことを蒸し返すつもりはありません。ご覧になった通り、我が宝石鑑定所は瓦礫の山となり、僕の足跡もそこで途絶えました。血まみれの宝石にバカげた査定額を付けずともよい生活は……随分気が楽なのでね。もう宝石が粉々になっていく様を想像して悶々とする必要はないのですから。",
+                "kr": "지나간 일을 다시 돌이켜 볼 생각은 없습니다. 박사님도 아시다시피 제 보석 감정소는 이미 폐허가 되었고, 정보도 끊겼죠. 피 묻은 보석에 터무니없는 감정가를 붙이지 않아도 되는 지금이 전…… 훨씬 행복합니다. 이제 그 보석들이 산산조각나는 모습을 상상할 필요도 없겠죠.",
+                "cn": "过去的事，我没有意愿讨论。如您所见，我的鉴定所已经被毁，情报也断了，我不用再为带血的宝石报出天价数字，这样的现状让我......很轻松。毕竟我也不用幻想它们被切碎的样子了。"
+            },
+            "asset": "char_499_kaitou/CN_007"
+        },
+        {
+            "id": "char_499_kaitou_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "I don't know when I'll return to Leithanien, but I would like to invite you for my next operation. There won't be any cooperation, nor do I intend to share my plans... but I'll ask you to keep your eyes on me, to witness all that I do. You're the only one who can see through me, aren't you? Come then.",
+                "jp": "いつになるかはわかりませんが、次に僕がリターニアで動く際には、あなたをご招待してもよろしいでしょうか。助力は不要ですし、僕の計画をお伝えするつもりもありませんが……僕から目を逸らさず、その一挙手一投足を見届けていただきたいのです。あなたならば、僕のトリックを看破できるはずでしょう？よい返事を期待していますよ。",
+                "kr": "제가 언제 라이타니엔으로 돌아가게 될지는 모르겠지만, 그때 당신을 초대해도 될까요? 도움이 필요한 건 아닙니다. 제 계획을 알려 드릴 생각도 없고요…… 그저, 제가 무엇을 하는지 계속 지켜봐 주셨으면 합니다. 당신이라면 제 모든 걸 꿰뚫어 보실 수 있을 테죠? 긍정적인 답변 기대하고 있겠습니다.",
+                "cn": "即使我还不知道自己何时能回到莱塔尼亚，下一次行动，我想邀请你。不必合作，我也不打算告诉你我的计划......只要你盯着我，看完我做的一切，是你的话，能拆穿我的，对吧？来看我吧。"
+            },
+            "asset": "char_499_kaitou/CN_008"
+        },
+        {
+            "id": "char_499_kaitou_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "I can take you to the top of any spire in Leithanien. How does that sound? You'd understand me there. The scent of the wind is clean at the top... and that's all. That's all that young boy in the gem mine longed for.",
+                "jp": "リターニアの高塔ならばどちらの頂にもあなたをお連れできますが、ご興味はありませんか？あの場所に立てば、きっと僕のことを理解していただけるはずです。高みにそよぐ澄んだ風……ただそれだけですが、宝石採掘場にいたあの少年も、ただそれだけのものを求めていたのです。",
+                "kr": "라이타니엔 고탑 그 어느 꼭대기라도 당신께서 원하신다면 데려다 드릴 수 있습니다. 그쪽으론 관심 없으신가요? 그곳에 서면 박사님도 분명 절 이해하실 수 있으실 겁니다. 높은 곳에서 느끼는 맑은 바람…… 그저 그게 전부입니다만, 보석 채굴장에 있던 어린 소년이 바라던 것도, 딱 그 정도였습니다.",
+                "cn": "莱塔尼亚任何一座高塔的塔顶，我都可以带你登上，你不想去吗？到了那里，你就会理解我的。在高处，风的味道很干净......仅此而已。最初宝石开采场里的那个男孩，向往的只是这些而已。"
+            },
+            "asset": "char_499_kaitou/CN_009"
+        },
+        {
+            "id": "char_499_kaitou_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "If you fall asleep, then nothing here can pique my interest.",
+                "jp": "残念です。あなたが眠ってしまわれたなら、この部屋にはもう惹かれるものなどありません。",
+                "kr": "잠드신 건가요. 그러면 이 방에는 더 이상 제 흥미를 끌 만한 것이 없겠군요.",
+                "cn": "唉，您如果睡着了，这间屋子里就真的没有能让我感兴趣的东西了。"
+            },
+            "asset": "char_499_kaitou/CN_010"
+        },
+        {
+            "id": "char_499_kaitou_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Which name card would you like: the one in my left hand, or the one in my right...? Diamante, gemologist. Pleased to make your acquaintance. Don't worry, there's no target here worth my attention, even if you picked the other card.",
+                "jp": "右手と左手、どちらの名刺をご所望で？……なるほど。宝石鑑定士、ディアマンテと申します。お目にかかれて光栄です。ご心配なく、もう片方を選んでいたとしても、ここには僕がいただくほどの価値があるものなどありませんから。",
+                "kr": "제 왼손과 오른손 중, 어느 쪽의 명함을 원하십니까? ……그러시군요. 보석 감정사 디아만테라고 합니다. 만나 뵙게 되어 영광입니다. 걱정하지 않으셔도 됩니다. 다른 쪽을 선택하셨더라도, 이곳엔 제가 가져갈 만한 물건이 없는 것 같으니까요.",
+                "cn": "左手或右手的名片，请问您要哪一张？......宝石鉴定师，折光，很高兴认识您。别担心，选到另一张的话，您这里也没有值得我下手的对象。"
+            },
+            "asset": "char_499_kaitou/CN_011"
+        },
+        {
+            "id": "char_499_kaitou_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "A practical video, free from excessive narration and trite background music.",
+                "jp": "冗長なナレーションや気取ったBGMは付いていませんし、実用的な映像記録ですね。",
+                "kr": "불필요한 내레이션이나 거추장스러운 배경음악이 없는 게, 상당히 실용적인 영상이군요.",
+                "cn": "没有冗长的旁白和附庸风雅的配乐，一份很实用的录像。"
+            },
+            "asset": "char_499_kaitou/CN_012"
+        },
+        {
+            "id": "char_499_kaitou_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Thanks. I don't normally collect medals for the purpose of displaying status, but if you insist, I will place it at the top of my collection to demonstrate my respect for you.",
+                "jp": "ありがとうございます。地位を誇示するための勲章など普段は収集していないのですが、どうしても贈りたいと仰るなら、あなたへの敬意を込めて我がコレクションの最上部に飾りましょう。",
+                "kr": "감사합니다. 지위를 과시하기 위한 메달은 수집하지 않는 편이지만, 꼭 주셔야겠다면 당신에 대한 존경의 의미를 담아 이 메달을 제 컬렉션의 가장 상단에 장식해 두도록 하겠습니다.",
+                "cn": "谢谢，我一般不收集用来彰显地位的勋章，但您执意要送的话，我会把它摆在藏品的最顶端，以示对您的尊重。"
+            },
+            "asset": "char_499_kaitou/CN_013"
+        },
+        {
+            "id": "char_499_kaitou_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Steal a piece of bread, go to jail. Offend a noble, get beaten. Steal a priceless treasure, and you get to stand at the top of the tallest spire. Be my guest, Doctor, and come watch my show, watch the audience cheer. Will it bring you joy, or sorrow?",
+                "jp": "パンを盗めば牢獄送りですし、貴族に刃向かえばリンチは免れませんが、無上の宝物の略奪者は塔の頂点に立つのです。どうか僕の晴れ舞台を、そして歓声を上げる観客をとくとご覧くださいませ。喜悦か悲哀か……あなたはどちらに傾くのでしょうね。",
+                "kr": "빵을 훔치면 감옥에 가고, 귀족에게 대들면 얻어맞지만, 값을 매길 수 없는 보물을 훔치는 자는 고탑의 꼭대기에 서게 됩니다. 부디 제 공연을 보러와 주십시오. 그리고 그 공연을 지켜보는 수많은 관중들의 환호도 함께 들어 주세요. 그걸 본 당신이 기뻐하실지, 슬퍼하실지 궁금하군요.",
+                "cn": "偷面包的人会坐牢，顶撞贵族的人会挨打，但窃取无价珍宝的人，就会站在最高的塔顶。请来看我表演吧，来看旁观者欢呼吧。您会被取悦，还是会难过呢？"
+            },
+            "asset": "char_499_kaitou/CN_014"
+        },
+        {
+            "id": "char_499_kaitou_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Colluding with me is not something to be done lightly.",
+                "jp": "私と組む以上、諸君も立派な共犯者だ。",
+                "kr": "나의 동료가 된 이상, 공범으로 몰리지 않게 조심하도록.",
+                "cn": "做我的同伙，小心被我牵连。"
+            },
+            "asset": "char_499_kaitou/CN_017"
+        },
+        {
+            "id": "char_499_kaitou_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "One wrong step, and we'll pay a heavy price. I expect perfect teamwork from you.",
+                "jp": "一歩間違えば大きな代償を支払うことになる。諸君の完璧な連携に期待しよう。",
+                "kr": "한 번의 실수로 큰 대가를 치르게 될 수도 있다. 그대들의 빈틈없는 협력을 기대해 보지.",
+                "cn": "只要有一步差错，我们就会付出惨重代价。但愿各位能天衣无缝地彼此配合。"
+            },
+            "asset": "char_499_kaitou/CN_018"
+        },
+        {
+            "id": "char_499_kaitou_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "As promised.",
+                "jp": "予告の時間だ。",
+                "kr": "예고한 시간이다.",
+                "cn": "约定时间到了。"
+            },
+            "asset": "char_499_kaitou/CN_019"
+        },
+        {
+            "id": "char_499_kaitou_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "What do you possess that's mine to take?",
+                "jp": "さて、お前たちからは何を奪えるかな。",
+                "kr": "훗, 너희에게서 어떤 걸 빼앗게 되려나?",
+                "cn": "我能从你们手里夺来什么呢？"
+            },
+            "asset": "char_499_kaitou/CN_020"
+        },
+        {
+            "id": "char_499_kaitou_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "As you wish.",
+                "jp": "ご指示を。",
+                "kr": "지시를.",
+                "cn": "请您安排。"
+            },
+            "asset": "char_499_kaitou/CN_021"
+        },
+        {
+            "id": "char_499_kaitou_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "This is the only value of gemstones.",
+                "jp": "これが宝石の持つ唯一の価値だ。",
+                "kr": "이것이 보석의 유일한 가치입니다.",
+                "cn": "这是宝石唯一的价值。"
+            },
+            "asset": "char_499_kaitou/CN_022"
+        },
+        {
+            "id": "char_499_kaitou_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "To all my enemies: I will Crack. You. Down.",
+                "jp": "ここに予告しよう。次の標的はお前だ。",
+                "kr": "예고 드리죠, 다음 목표는 바로 당신입니다.",
+                "cn": "谨此敬告，我会对您出手。"
+            },
+            "asset": "char_499_kaitou/CN_023"
+        },
+        {
+            "id": "char_499_kaitou_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "I shall have the honor to pulverize what you treasure.",
+                "jp": "諸君が愛して止まない宝物を粉々に砕く――それこそが我が望みだ。",
+                "kr": "그대들이 소중히 여기는 보물을 산산조각내는 것, 그것이 바로 내가 원하는 것입니다.",
+                "cn": "能将各位视若珍宝的东西砸得粉碎，我求之不得。"
+            },
+            "asset": "char_499_kaitou/CN_024"
+        },
+        {
+            "id": "char_499_kaitou_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Will you cheer for me? I can't help but wonder!",
+                "jp": "おや、声援が聞こえないようだが？",
+                "kr": "이런, 환호가 들리지 않는 것 같은데?",
+                "cn": "你们会为我欢呼吗？"
+            },
+            "asset": "char_499_kaitou/CN_025"
+        },
+        {
+            "id": "char_499_kaitou_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "How will you struggle? How will you hold on to what you have?",
+                "jp": "掌中の珠を握りしめながら、どう抵抗するのかな？",
+                "kr": "손안에 있는 걸 지키기 위해 넌 어디까지 할 수 있을까?",
+                "cn": "你会如何挣扎，攥紧你手中的一切？"
+            },
+            "asset": "char_499_kaitou/CN_026"
+        },
+        {
+            "id": "char_499_kaitou_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "When will I strike, and take what you cherish the most?",
+                "jp": "私はいつ、お前の大切な宝物を奪うのだろうね？",
+                "kr": "난 언제, 너의 소중한 것을 빼앗게 될까?",
+                "cn": "我会何时出手，取走你珍视的东西？"
+            },
+            "asset": "char_499_kaitou/CN_027"
+        },
+        {
+            "id": "char_499_kaitou_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Who has not earned their end?",
+                "jp": "皆が皆自業自得だろう？",
+                "kr": "전부 자업자득이지?",
+                "cn": "谁不是自食恶果呢？"
+            },
+            "asset": "char_499_kaitou/CN_028"
+        },
+        {
+            "id": "char_499_kaitou_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "I shared my life with you. Repay that debt, and tell me what fruit our efforts have born. Tell me what's the rewards of valor.",
+                "jp": "この命を託した見返りとして、人々が命懸けで得た成果を語っていただこうか。私たちがいったい何を勝ち取ったのか、知りたいんだ。",
+                "kr": "내 목숨을 건 대가로, 그대는 무엇을 줄 거지? 모두가 목숨을 걸고 얻은 대가에 대해 들려주지 그래? 난 우리가 무엇을 쟁취했는지 알고 싶은데.",
+                "cn": "我向你分享了我的性命，回报我吧，告诉我众人搏命的成果。我想知道我们争得了什么。"
+            },
+            "asset": "char_499_kaitou/CN_029"
+        },
+        {
+            "id": "char_499_kaitou_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "We can leave now. I'm sure no witnesses escaped.",
+                "jp": "行きましょう。逃げ延びた目撃者はいないと確信しています。",
+                "kr": "가시죠, 도망친 목격자는 없습니다. 제가 장담합니다.",
+                "cn": "走吧，我确信没有目击者逃离现场。"
+            },
+            "asset": "char_499_kaitou/CN_030"
+        },
+        {
+            "id": "char_499_kaitou_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "A gem loses its value when flawed with impurities and cracks. You might as well dispose of it.",
+                "jp": "一般的に、不純物や亀裂の見つかった宝石は価値を失いますので、砕いてしまいましょう。",
+                "kr": "불순물이나 균열이 있는 보석은 가치를 잃게 되니, 차라리 부숴 버리는 편이 낫습니다.",
+                "cn": "一般来说，有了杂质与裂纹，宝石就不值钱了，不如砸了吧。"
+            },
+            "asset": "char_499_kaitou/CN_031"
+        },
+        {
+            "id": "char_499_kaitou_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Are you still alive? Good. We all have our share of misfortune, but now you've had your stakes back, which you can risk on the line in the next game. Allow me to congratulate you on that.",
+                "jp": "ご無事で？よかった、何よりです。運悪く失敗してしまうこともままありますが、命さえあればまた次に挑めます。おめでとうございます、と言っておきましょう。",
+                "kr": "무사하신가요? 다행이네요. 운이 나쁘면 실패할 수도 있죠. 하지만 살아 있는 한, 도전할 기회는 얼마든지 있는 법 아니겠습니까. 일단은 축하드립니다.",
+                "cn": "您还活着吗？嗯，那就没事。总有些运气不好失手的时候，但您还有命去赌下一轮，恭喜。"
+            },
+            "asset": "char_499_kaitou/CN_032"
+        },
+        {
+            "id": "char_499_kaitou_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "What assessment would you like from me? It's the only place I can call home for now. I don't dare to be critical.",
+                "jp": "どのような査定結果をお望みで？ここは今の僕にとって唯一の居場所ですから、選り好みなどしませんよ。",
+                "kr": "제 평가를 기대하시는 건 아니시겠죠? 이곳은 지금의 제가 편하게 머물 수 있는 유일한 장소이니만큼, 저도 까다롭게 굴 생각은 없습니다.",
+                "cn": "您希望我做出什么评价呢？这里是我眼下唯一能安身的地方，我不敢挑剔。"
+            },
+            "asset": "char_499_kaitou/CN_033"
+        },
+        {
+            "id": "char_499_kaitou_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Of course, it's your prerogative.",
+                "jp": "当然ながら、僕をぞんざいに扱うこともあなたに与えられた権利です。",
+                "kr": "절 이렇게 대하시는 것 역시 당신의 권리라고 볼 수 있겠군요.",
+                "cn": "当然，您有权如此对待我。"
+            },
+            "asset": "char_499_kaitou/CN_034"
+        },
+        {
+            "id": "char_499_kaitou_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "If I may interest you with a grind such as gem polishing, then please, take the seat to my opposite.",
+                "jp": "宝石の研磨中ですが、こうも退屈な仕事にもご興味があるのならば、どうぞ真正面にお座りください。",
+                "kr": "보석을 다듬고 있었습니다만, 이런 지루한 작업이라도 구경하고 싶으신 거라면 제 맞은편에 앉으시죠.",
+                "cn": "我在打磨宝石，这么枯燥的工作您也想看的话，就坐在我对面吧。"
+            },
+            "asset": "char_499_kaitou/CN_036"
+        },
+        {
+            "id": "char_499_kaitou_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_499_kaitou/CN_037"
+        },
+        {
+            "id": "char_499_kaitou_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Greetings, Doctor. Do you need something appraised?",
+                "jp": "ごきげんようドクター。鑑定してほしいジュエリーはありますか？",
+                "kr": "안녕하세요, 박사님. 감정이 필요한 물건이라도 있으신가요?",
+                "cn": "您好，博士。需要我为您鉴定什么贵重物品吗？"
+            },
+            "asset": "char_499_kaitou/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Flemming Stein",
+            "global": "Flemming Stein"
+        },
+        "cn": {
+            "native": "桑毓泽",
+            "global": "Yuze Sang"
+        },
+        "jp": {
+            "native": "神原大地",
+            "global": "Daichi Kanbara"
+        },
+        "kr": {
+            "native": "박요한",
+            "global": "Park Yo-han"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

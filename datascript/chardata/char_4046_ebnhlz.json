@@ -585,12 +585,17 @@
         "kr": {
             "native": "엄상현",
             "global": "Um Sang-hyun"
+        },
+        "ger": {
+            "native": "Malte Meibauer",
+            "global": "Malte Meibauer"
         }
     },
     "availability": [
         "en",
         "cn",
         "jp",
-        "kr"
+        "kr",
+        "ger"
     ]
 }

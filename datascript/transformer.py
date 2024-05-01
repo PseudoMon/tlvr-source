@@ -152,7 +152,9 @@ def get_actors_from_voicedict(voicedict):
 		"kr": "KR",
 		"linkage": "LINKAGE",
 		"ita": "ITA",
-		"cn_topolect": "CN_TOPOLECT"
+		"cn_topolect": "CN_TOPOLECT",
+		"ger": "GER",
+		"rus": "RUS",
 	}
 
 	actors = {}

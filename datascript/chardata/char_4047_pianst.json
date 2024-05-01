@@ -585,12 +585,17 @@
         "kr": {
             "native": "이현",
             "global": "Lee Hyun"
+        },
+        "ger": {
+            "native": "Lukas Wurm",
+            "global": "Lukas Wurm"
         }
     },
     "availability": [
         "en",
         "cn",
         "jp",
-        "kr"
+        "kr",
+        "ger"
     ]
 }

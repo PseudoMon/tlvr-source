@@ -585,12 +585,17 @@
         "kr": {
             "native": "최하리",
             "global": "Choi Ha-ri"
+        },
+        "rus": {
+            "native": "Alyona Andronova",
+            "global": "Alyona Andronova"
         }
     },
     "availability": [
         "en",
         "cn",
         "jp",
-        "kr"
+        "kr",
+        "rus"
     ]
 }
