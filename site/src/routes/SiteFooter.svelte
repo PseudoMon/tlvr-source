@@ -4,8 +4,8 @@
 
 <footer>
   <a href="https://github.com/PseudoMon/tlvr-source" target="_blank"><GithubIcon /></a>
-  <span>Site version 1.2</span>
-  <span>Data last updated: 2024-04-20 (Main Story Episode 13 on Global)</span>
+  <span>Site version 1.2.1</span>
+  <span>Data last updated: 2024-05-01 (Zwillingstürme im Herbst on Global)</span>
 </footer>
 
 <style>
