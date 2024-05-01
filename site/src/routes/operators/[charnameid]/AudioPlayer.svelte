@@ -14,14 +14,20 @@
   }
 
   const regionalLangs = ["ita", "cn_topolect"]
+  const regionalLang_sans_suffix = ["ger", "rus"]
   const teamrainbow = ["tachak", "blitz", "ash", "rfrost"]
+
+  const nameMapping = {
+    "cn_topolect": "CN REG",
+    "linkage": "OG"
+  }
 
   function getAudioFileUrl(lang) {
     if (lang === null) {
       return null;
     }
     
-    // One of the standart voice languages
+    // One of the standard voice languages
     if (Object.keys(voiceMap).includes(lang)) {
       return `${sourceurl}/${voiceMap[selectedLang]}/${assetloc}.mp3`;
     }
@@ -30,6 +36,10 @@
     else if (regionalLangs.includes(lang)) {
       const regionalAssetloc = assetloc.replace("/", `_${lang}/`);
       return `${sourceurl}/voice_custom/${regionalAssetloc}.mp3`;
+    }
+
+    else if (regionalLang_sans_suffix.includes(lang)) {
+      return `${sourceurl}/voice_custom/${assetloc}.mp3`;
     }
 
     // Specific file location for crossover characters
@@ -47,7 +57,6 @@
       }
     }
     
-
     return null;
   }
 
@@ -71,54 +80,25 @@
 <div class="audio-container">
   <div class="audio-selector">
     <AudioIcon />
-    {#if availability.includes("en")}
-    <button 
-      on:click={() => clickLang("en")} 
-      class:selected={selectedLang === "en"}
-    >EN</button>
-    {/if}
-    {#if availability.includes("cn")}
-    <button 
-      on:click={() => clickLang("cn")}
-      class:selected={selectedLang === "cn"}
-    >CN</button>
-    {/if}
-    {#if availability.includes("jp")}
-    <button 
-      on:click={() => clickLang("jp")}
-      class:selected={selectedLang === "jp"}
-    >JP</button>
-    {/if}
-    {#if availability.includes("kr")}
-    <button
-      on:click={() => clickLang("kr")}
-      class:selected={selectedLang === "kr"} 
-    >KR</button>
-    {/if}
-    {#if availability.includes("cn_topolect")}
-    <button
-      on:click={() => clickLang("cn_topolect")}
-      class:selected={selectedLang === "cn_topolect"} 
-    >CN REG</button>
-    {/if}
-    {#if availability.includes("ita")}
-    <button
-      on:click={() => clickLang("ita")}
-      class:selected={selectedLang === "ita"} 
-    >ITA</button>
-    {/if}
-    {#if availability.includes("linkage")}
-     <button
-      on:click={() => clickLang("linkage")}
-      class:selected={selectedLang === "linkage"} 
-    >OG</button>
-    {/if}
+    
+    {#each availability as lang}
+      <button
+        on:click={() => clickLang(lang)}
+        class:selected={selectedLang === lang}
+      >{
+        Object.keys(nameMapping).includes(lang) ? 
+        nameMapping[lang] :
+        lang.toUpperCase()
+      }</button>
+    {/each}
   </div>
+
   {#if showAudio}
   <audio controls src={audiofile} preload="auto">
     <a href={audiofile}> Download audio </a>
   </audio>
   {/if}
+
 </div>
 
 <style>
