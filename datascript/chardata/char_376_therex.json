@@ -19,7 +19,7 @@
             "text": {
                 "en": "Thermal-EX, ready to commence thermal shock! What, it's not yet the designated combat time? Then, I shall postpone it. Commencing thermal shock after ten second delay!",
                 "jp": "THRM-EX（サーマル-EX）、ただいまよりエネルギーショックスタンバイフェイズに移行します！なにっ、まだ作戦の予定時刻を迎えていないだと？ではショック発動までの時間を10秒に延長します！",
-                "kr": "Thermal-EX, 지금 막 에너지 쇼크 스탠바이 페이즈로 이행하겠습니다! 뭣이? 아직도 작전 예정 시각이 오지 않았다고요? 그럼 쇼크 발동까지의 시간을 10초로 연장하겠습니다!",
+                "kr": "Thermal-EX, 에너지 쇼크 기동을 이행하겠습니다! 뭣이? 아직 작전 예정 시각이 오지 않았다고요? 그럼 쇼크 기동까지의 시간을 10초로 연장하겠습니다!",
                 "cn": "Thermal-EX，热量冲击准备启动！什么，尚未到达指定作战时间吗？那就延后一下。10秒后再启动冲击！"
             },
             "asset": "char_376_therex/CN_001"
@@ -35,7 +35,7 @@
             "text": {
                 "en": "I have heard an expression from the East: 'No martial art is infallible, except for heat.'",
                 "jp": "東の国にこんな言葉があると聞いています。「天下の武術、熱エネルギーだけは打ち破れぬ」だそうです。",
-                "kr": "동쪽 나라에 이런 말이 있다고 들었습니다. \"천하의 무술, 열에너지만은 격파하지 못한다\"라고 합니다.",
+                "kr": "동쪽 나라에 이런 말이 있다고 들었습니다. “천하의 무공 중 파해되지 않는 견고함이란 없으나, 열에너지만은 파해되지 않는다”라고 말입니다.",
                 "cn": "听说东方有句古话：天下武功，唯热不破。"
             },
             "asset": "char_376_therex/CN_002"
@@ -67,7 +67,7 @@
             "text": {
                 "en": "In the beginning, God said, 'Let there be light,' and there was light. God said, 'Let there be power,' and there was the high-performance variant of Raythean's Challenger Hellcat.",
                 "jp": "その昔、神は「光あれ。」と仰いました。すると光が生まれました。さらに神は「パワーあれ。」と仰いました。するとこの、レイジアンプロバカートルラヴァキャットデビルパフォーマンスモデルが生まれました。",
-                "kr": "그 옛날, 신은 \"빛이 있으라!\"라고 말씀하셨습니다. 그러자 빛이 생겨났습니다. 그리고 신은 \"파워가 있으라!\"라고 말씀하셨습니다. 그러자 이 '레이시언 프로보카퇴르 라바캣 데빌' 퍼포먼스 모델이 생겨났습니다.",
+                "kr": "그 옛날, 신은 “빛이 있으라!”라고 말씀하셨습니다. 그러자 빛이 생겨났습니다. 그리고 신은 “열에너지가 있으라!”라고 말씀하셨습니다. 그러자 이 '레이시언 프로보카퇴르 라바캣 데빌' 퍼포먼스 모델이 생겨났습니다.",
                 "cn": "很久以前，神灵说：“要有光”于是就有了光，神灵又说：“要有力量。”于是就有了雷神挑衅者熔岩猫魔鬼高性能版。"
             },
             "asset": "char_376_therex/CN_004"
@@ -83,7 +83,7 @@
             "text": {
                 "en": "As a perfect industrial-grade mass-produced combat platform, I am very happy now! Not only do I get regular performance optimizations from Mayer, but I even get to work with passionate partners like Blaze! Life is so good!",
                 "jp": "完璧な工業級量産型作戦プラットフォームとして、自らを誇りに思っております！今となってはメイヤー様に絶えず性能改善を行っていただけるだけではなく、ブレイズ様のようにアツい方もパートナーになってくださいました！実に素晴らしい！",
-                "kr": "완벽한 공업급 양산형 작전 플랫폼으로서, 저 자신을 명예롭게 생각하고 있습니다! 이제는 메이어 님께 끊임없이 성능 개선을 받을 수 있는 것만이 아니라, 블레이즈 님과 같이 뜨거운 분도 파트너가 되어 주셨습니다! 실로 훌륭합니다!",
+                "kr": "완벽한 공업용 등급 양산형 작전 플랫폼으로서, 저 자신을 명예롭게 생각하고 있습니다! 이제는 메이어 님께 끊임없이 성능 개선을 받을 수 있는 것만이 아니라, 블레이즈 님과 같이 뜨거운 분도 파트너가 되어 주셨습니다! 실로 훌륭합니다!",
                 "cn": "作为一台完美的工业级量产型作战平台，我感到非常高兴！如今不但有梅尔小姐在不断优化我的性能，还有煌小姐这样灼热的伙伴能成为我的好搭档！太棒了！"
             },
             "asset": "char_376_therex/CN_007"
@@ -99,7 +99,7 @@
             "text": {
                 "en": "Dazzling though I am, you, the peerless Doctor, are the only one I could call my brightest sun!",
                 "jp": "こんな輝かしい私ではありますが、私にとっては、誰も敵わないドクター様こそ、世界で一番ブリリアントな存在なのです！",
-                "kr": "이렇게 빛이 나는 저이기는 하지만, 저에게는 누구도 당해낼 수 없는 박사님이야말로 세계에서 가장 빛나는 존재이십니다!",
+                "kr": "저는 어느 모로 보나 빛나는 존재입니다! 그러나 제게 있어 가장 눈부신 존재는 그 누구도 당해낼 수 없는 박사님이십니다!",
                 "cn": "虽然我已经如此耀眼，但是对我来说，只有无人能敌的博士您才是最闪耀的！"
             },
             "asset": "char_376_therex/CN_008"
@@ -115,7 +115,7 @@
             "text": {
                 "en": "I know that the heat and light I emit is so very short-lived... But all that matters is that I can illuminate the path before you, Doctor!",
                 "jp": "私が出せる光とエネルギーは一瞬の煌めきですが……ドクター様の進む道を照らすことができれば本望です！",
-                "kr": "제가 방출할 수 있는 빛과 에너지는 순간의 반짝임이지만…… 박사님이 나아가는 길을 비출 수 있다면 만족합니다!",
+                "kr": "제가 방출할 수 있는 빛과 에너지는 그저 찰나의 순간에 불과하지만…… 박사님이 나아가시는 길을 잠시나마 비출 수 있다면 저는 만족합니다!",
                 "cn": "我知道我能发出的光与热是如此短暂......但是，只要能照亮{@nickname}博士您前进的道路就好！"
             },
             "asset": "char_376_therex/CN_009"
@@ -131,7 +131,7 @@
             "text": {
                 "en": "Even when you're asleep, I can continue to work as your heater! I'm incredible!",
                 "jp": "ドクター様がお休みになられても、私は暖炉として寄り添って差し上げられます！さすが私ですね！",
-                "kr": "박사님께서 휴식을 취하셔도, 저는 난로 역할로써 옆에 붙어 있어 드릴 수 있습니다! 역시 저로군요!",
+                "kr": "박사님께서 휴식을 취하실 때도, 저는 난로 역할로써 옆에 붙어 있어 드릴 수 있습니다! 역시 저로군요!",
                 "cn": "即使在你休眠的时候，我也可以作为你的暖炉工作！真不愧是我！"
             },
             "asset": "char_376_therex/CN_010"
@@ -147,7 +147,7 @@
             "text": {
                 "en": "Born from Raythean Industries, improved by the hands of the great Mayer. I, Thermal-EX, the throbbing heart of hotness, am here to help!",
                 "jp": "レイジアン工業にて生まれ、偉大なるメイヤー様の手により進化を遂げました、膨張する熱い心――THRM-EX（サーマル-EX）、助太刀致します！",
-                "kr": "레이시언 공업에서 태어나, 위대한 메이어 님의 손에 의해 진화를 이룩했습니다! 팽창하는 뜨거운 마음……Thermal-EX, 힘이 되어 드리겠습니다!",
+                "kr": "레이시언 공업에서 태어나, 위대한 메이어 님의 손에 의해 진화를 이룩했습니다! 팽창하는 뜨거운 마음…… Thermal-EX, 힘이 되어 드리겠습니다!",
                 "cn": "诞生于雷神工业，改进于伟大的梅尔之手，膨胀的炙热之心——Thermal-EX ，前来助阵！"
             },
             "asset": "char_376_therex/CN_011"
@@ -163,7 +163,7 @@
             "text": {
                 "en": "Ohhhhh! This power blazing within me... It's… It's… It's a hotfix!",
                 "jp": "あぁ！この熱いパワーはまさに……まさに……そう、ホットフィックスだ！",
-                "kr": "아아! 이 뜨거운 파워는 그야말로…… 그야말로…… 그래, 핫픽스다!",
+                "kr": "아아! 이 뜨거운 파워는 그래…… 그렇지…… 바로 핫픽스다!",
                 "cn": "嗷嗷！这股炽热的力量是......是......是热更新！"
             },
             "asset": "char_376_therex/CN_012"
@@ -179,7 +179,7 @@
             "text": {
                 "en": "Now, it's my turn to show off!",
                 "jp": "ついにこの私の腕前を披露する時だ！",
-                "kr": "드디어 이 나의 실력을 보여줄 때다!",
+                "kr": "드디어 이 나의 실력을 보여줄 때가 온 건가!",
                 "cn": "轮到我大显身手了！"
             },
             "asset": "char_376_therex/CN_017"
@@ -195,7 +195,7 @@
             "text": {
                 "en": "What's the situation?",
                 "jp": "それで、状況はどうだ？",
-                "kr": "그래서, 상황은 어떤가?",
+                "kr": "지금 상황은 어떻지?",
                 "cn": "现在情况如何？"
             },
             "asset": "char_376_therex/CN_018"
@@ -275,7 +275,7 @@
             "text": {
                 "en": "I'm here to help!",
                 "jp": "助太刀いたします！",
-                "kr": "돕겠습니다!",
+                "kr": "제가 돕겠습니다!",
                 "cn": "我来帮你！"
             },
             "asset": "char_376_therex/CN_023"
@@ -355,7 +355,7 @@
             "text": {
                 "en": "Praise the heat!",
                 "jp": "熱エネルギーを讃えよ！",
-                "kr": "열에너지를 찬양하라!",
+                "kr": "에너지를 찬양하라!",
                 "cn": "赞美热量！"
             },
             "asset": "char_376_therex/CN_028"
@@ -371,7 +371,7 @@
             "text": {
                 "en": "Aren't I awesome? I knew your command would be a perfect match for me, Doctor!",
                 "jp": "さっすが私です！やはりドクター様の指揮と私の組み合わせ、完璧としか言えませんね！",
-                "kr": "역시 저입니다! 역시 박사님의 지휘와 저의 조합은 완벽하다고밖에 할 수 없겠군요!",
+                "kr": "역시 접니다! {@nickname} 박사님의 지휘와 저의 조합은 완벽하다고밖에 할 수 없겠군요!",
                 "cn": "不愧是我！果然{@nickname}博士的指挥和我才是绝配啊！"
             },
             "asset": "char_376_therex/CN_029"
@@ -387,7 +387,7 @@
             "text": {
                 "en": "BRAVO~ BRAVO~!!!! Doctor!!!",
                 "jp": "すーばーらーしーいー！！ドクター様！！",
-                "kr": "훌~륭~합~니~다!! 박사님!!",
+                "kr": "훌~륭~합~니~다!! {@nickname} 박사님!!",
                 "cn": "非~常~完~美！！！！{@nickname}博士！！！"
             },
             "asset": "char_376_therex/CN_030"
@@ -403,7 +403,7 @@
             "text": {
                 "en": "My retreat was just a fluke. Nothing can be allowed through our battlefield net.",
                 "jp": "此度の撤退は不測の事態でした、本来ならば敵を逃すことはなかったはずです！",
-                "kr": "이번의 후퇴는 예상치 못한 상황이었습니다. 원래대로라면 적을 놓치는 일은 없었을 것입니다!",
+                "kr": "저의 철수는 예상치 못한 상황이었습니다. 원래대로라면 적을 놓치는 일은 없었을 것입니다!",
                 "cn": "我的撤退纯属意外，原本一定不会有漏网之鱼的！"
             },
             "asset": "char_376_therex/CN_031"
@@ -419,7 +419,7 @@
             "text": {
                 "en": "Contact! Contact! Enemy ambush! Dropping smoke! Doctor, I'll cover your retreat!",
                 "jp": "危険です！敵の罠にハマりました。発煙弾、発射しました！ドクター様、私が援護致しますので、速やかに撤退しましょう！",
-                "kr": "위험합니다! 적의 함정에 빠졌습니다. 연막탄, 발사했습니다! 박사님, 제가 엄호하겠으니 서둘러 퇴각하시죠!",
+                "kr": "위험합니다! 적의 함정에 빠졌습니다. 연막탄, 발사했습니다! 박사님, 제가 엄호할 테니 서둘러 퇴각하시죠!",
                 "cn": "危险，被暗算了！烟雾弹已投放！博士，我来掩护你撤退！"
             },
             "asset": "char_376_therex/CN_032"
@@ -435,7 +435,7 @@
             "text": {
                 "en": "Rest? Haha, it's too early for me! I just swapped to the newest energy storage device, so we have fifty more hours until the end of the workday!",
                 "jp": "休憩ですか？はっは、私にはまだ早いですよ！先程新しいエネルギー貯蔵装置に交換したばかりです、本日の仕事終了まであと50時間もありますよ！",
-                "kr": "휴식 말입니까? 하하, 저에게는 아직 이릅니다! 조금 전 새 에너지 저장 장치로 교환한 참입니다. 오늘의 업무 종료까지 앞으로 50시간이나 있답니다!",
+                "kr": "휴식 말입니까? 하하하, 저에게는 아직 이른 시간인 것 같군요! 조금 전 새 에너지 저장 장치로 교환한 참입니다. 오늘의 업무 종료까지 50시간, 앞으로 50시간 남았습니다!",
                 "cn": "休息吗？哈哈对我来说还早着呢！我刚更换新的储能装置，离今天的工作结束还有50小时呢！"
             },
             "asset": "char_376_therex/CN_033"
@@ -451,7 +451,7 @@
             "text": {
                 "en": "A-ha! My thermal sensor feels your burning heart!",
                 "jp": "わっは！この温度センサーであなたのその熱意に満ちた心を感じました！",
-                "kr": "와하핫! 이 온도 센서로 당신의 그 열의에 찬 마음을 느꼈습니다!",
+                "kr": "와하핫! 이 온도 센서가 당신의 그 열의에 찬 마음을 감지했습니다!",
                 "cn": "唔呵！我的热传感器感受到您炽热的内心了！"
             },
             "asset": "char_376_therex/CN_034"
@@ -467,7 +467,7 @@
             "text": {
                 "en": "Your burning enthusiasm has melted my processor!",
                 "jp": "私のCPUもあなたの情熱で溶けそうになりました！",
-                "kr": "저의 CPU도 당신의 정열에 녹아버릴 것만 같군요!",
+                "kr": "저의 CPU도 당신의 열정에 녹아버릴 것만 같군요!",
                 "cn": "我的处理器已经被您的热情融化了！"
             },
             "asset": "char_376_therex/CN_036"
@@ -517,11 +517,16 @@
         "jp": {
             "native": "緑川光",
             "global": "Hikaru Midorikawa"
+        },
+        "kr": {
+            "native": "김윤기",
+            "global": "Kim Yoon-gi"
         }
     },
     "availability": [
         "en",
         "cn",
-        "jp"
+        "jp",
+        "kr"
     ]
 }

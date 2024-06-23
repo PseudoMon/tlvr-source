@@ -17,7 +17,7 @@
                 "cn": "任命助理"
             },
             "text": {
-                "en": "Hm? Doctor, did you want to have a chat with me to stave off the boredom? Or, did you have something interesting you must tell me?",
+                "en": "Hey Doctor, what can I help you with today? Have a chat to stave off the boredom? Or, did you have something interesting to tell me?",
                 "jp": "へぇ？ドクター、今日も俺とダベって気晴らししたいのかな？それともどーーしても俺に話したい面白いことでもあるの？",
                 "kr": "흐음? 박사, 오늘도 나랑 수다 떨면서 기분 전환하고 싶은 거야? 그게 아니면 꼬~옥 나한테 이야기하고 싶은 재밌는 일이라도 있어?",
                 "cn": "嗯？博士今天也想找我来给你陪聊解闷吗？还是说博士有什么有意思的事情一定得跟我说说？"
@@ -33,7 +33,7 @@
                 "cn": "交谈1"
             },
             "text": {
-                "en": "Was that Savage who just passed by in the hallway? Back when the autonomous county was established, and later when it reached a cooperation agreement with Rim Billiton, her exploits were no less impressive than mine, you know?",
+                "en": "Was that Savage who just passed by in the corridor? She's really something, you know. Back when the Autonomous Prefecture was established, and later when it reached a cooperation agreement with Rim Billiton, her exploits were no less impressive than mine.",
                 "jp": "さっき廊下を通ったのはサベージさんかな？自治州が成立した頃、それと自治州とレム・ビリトン鉱業が契約を結んだ頃のあの人の活躍っぷりは、わりと俺といい勝負だったよ。",
                 "kr": "아까 복도를 지나간 건 새비지 씨인가? 자치주가 세워졌을 때, 그리고 자치주와 림 빌리턴 광업이 계약을 맺었을 때 저 사람이 보여줬던 활약은 나름 나랑 견주어 볼 만했지.",
                 "cn": "刚才路过走道的那位是暴行大姐？当初在自治州成立时，还有后来自治州跟雷姆必拓矿业公司达成合作契约时，她的活跃程度可都不比我差哦？"
@@ -49,7 +49,7 @@
                 "cn": "交谈2"
             },
             "text": {
-                "en": "You know, some places have really problematic stereotypes about us Cautus. Why do they call me timid when I'm just good at avoiding danger? As a matter of fact, isn't it more accurate to say that only those who've delved deep into danger can become masters of avoiding it?",
+                "en": "You know, some places have really problematic stereotypes about us Cautuses. Why do they call me timid when I'm just good at avoiding danger? As a matter of fact, only he who's delved deep into danger can be a master of avoiding it. Don't you agree?",
                 "jp": "一部地域の人間のコータス人への決めつけは絶対おかしいよ。危険を回避するのが得意だからって、なんで臆病者って言われなきゃいけないの！むしろ危険から身を躱す技術は、危険に身を置く勇気がある人にしか手に入らない技術でしょ。そう思わない？",
                 "kr": "어떤 지역 사람들은 카우투스한테 진짜 이상한 편견을 갖고 있다니까. 위험 회피를 잘한다고 왜 겁쟁이 소리를 들어야 하는데! 오히려 그 반대 아니야? 위험으로부터 몸을 피하는 기술은 위험에 몸을 맡길 용기가 있는 사람만이 손에 넣을 수 있는 기술이니까. 안 그래?",
                 "cn": "有些地方对卡特斯人的刻板印象绝对有问题欸，擅长回避危险为什么要被说成是胆小嘛！倒不如说回避危险的技巧只有敢于深赴险境的人才能够掌握，你说对不对？"
@@ -65,7 +65,7 @@
                 "cn": "交谈3"
             },
             "text": {
-                "en": "C'mon, I've been taking my medications like I'm supposed to, but the little lass from the Medical Department who's taking care of me is a bit too uptight, I just can't help but to play pranks on her. You should help her loosen up a bit. Oh, but don't tell that to the other medics.",
+                "en": "C'mon, I've been a good boy. I'm getting all my regular checkups, taking my medicine, doing everything I'm supposed to. It's just the Medical lass is so uptight when she's recording my details. I can't help but play a prank or two, just so she'll loosen up a bit. Hehe. Oh, but don't tell that to the other medics.",
                 "jp": "大丈夫だって、ちゃんと検査に協力してるし薬も飲んでるよ。ただ医療部のあの記録担当のお姉さんがあまりにも慎重でガチガチだったからさ、ちょこっといたずらしてリラックスさせたくなったんだ。あ、この話を医療部の奴にチクるのはなしね。",
                 "kr": "괜찮다니까. 제대로 검사도 받고 있고, 약도 잘 먹고 있어. 별건 아니고, 의료부에 있는 그 기록 담당 누나가 너무 신중하고 딱딱하길래 긴장 좀 풀어주려고 살짝 장난 한 번 쳐본 거라고. 아, 이 이야기는 의료부 애들한테 찌르기 없기다?",
                 "cn": "好啦，我有乖乖在配合检查和吃药啦，只是医疗部那位负责帮我做记录的小姐姐实在太拘谨太小心翼翼了，有点忍不住捉弄她一下，帮她放松下神经。啊，不准把我刚才说的告诉医疗部的家伙。"
@@ -81,7 +81,7 @@
                 "cn": "晋升后交谈1"
             },
             "text": {
-                "en": "Doctor, my buddy, Rhodes Island doesn't have a mandatory dress code, so there's no need for you to wear the same old rags all the time. Look at what I'm wearing - this store's got some pretty tasteful stuff, so how about I help you pick out a new look?",
+                "en": "Doctor, mate, Rhodes Island doesn't have a dress code, so there's no need for you to wear the same old rags all the time... Take a look over here. See what I'm wearing? I know a store's with some pretty tasteful stuff, so how about I help you pick out a new look?",
                 "jp": "あのさぁドクター、ロドスに制服着用のルールなんてないでしょ。いっつも同じコーデはやめなよ。ほら俺の服を見て、このブランド、いいセンスしてるでしょ。何着か選んであげようか？",
                 "kr": "그건 그렇고, 박사. 로도스 아일랜드엔 딱히 유니폼 관련 규정은 없잖아. 왜 맨날 같은 옷만 입는 거야? 자, 내 옷 좀 봐봐. 어때 이 브랜드, 꽤 센스 있지? 박사 것도 몇 벌 골라줄까?",
                 "cn": "我说，博士啊，罗德岛不是不强制要求穿统一制服嘛，所以你也别老是穿那同一套搭配啊。你看我这身怎么样，这家的设计品味很不错哦，帮你也挑几件吧？"
@@ -97,7 +97,7 @@
                 "cn": "晋升后交谈2"
             },
             "text": {
-                "en": "I'm actually pretty fond of Rhodes Island. Unlike those bigwigs who can't stop preaching and proselytizing their greatness, everyone here's just trying to achieve their goals and work together to keep this ship sailing. Just like the folks at Rim Billiton.",
+                "en": "I'm actually pretty fond of Rhodes Island. Unlike those bigwigs who can't stop preaching about their greatness, everyone here's just trying to achieve their goals and working together to keep this ship sailing. Just like the folks in Rim Billiton.",
                 "jp": "俺はこのロドスって場所が結構好きだよ。あのそこら中で講釈を垂れるか大言壮語してるお偉いさんたちと違って、みんな純粋にここでそれぞれの目標を見つけて、心を一つに合わせてロドスってフネを動かしてる。レム・ビリトンのみんなと同じだね。",
                 "kr": "난 이 로도스 아일랜드라는 곳이 꽤 좋아. 입만 살아서 여기저기서 훈화 말씀 같은 것 한답시고 횡설수설하는 높으신 분들이랑은 다르게, 여기선 다들 순수하게 각자 자신만의 목표를 찾고 마음을 하나로 모아 로도스 아일랜드라는 배를 움직이고 있어. 림 빌리턴 사람들처럼 말이야.",
                 "cn": "我还挺喜欢罗德岛这地方的。和那些到处宣讲或者许诺的大人物不同，每个人都只是单纯地在这里找到了各自的目标，然后齐心协力地把舰船开动了起来。就像雷姆必拓的大伙们一样。"
@@ -113,7 +113,7 @@
                 "cn": "信赖提升后交谈1"
             },
             "text": {
-                "en": "The one in my hand? It's a standard-issue Rim Billiton blaster that I modified. Before it was modified, it also used to be an Originium-powered focus for Casters. Hmm... Doctor, you're not thinking that using brute force alone to smash open a rock is the most efficient method, are you?",
+                "en": "The one in my hand? It's a standard-issue Billy blaster that I modified. Before I got my hands on it, it also used to be an Originium-powered focus for Casters. Hmm... Doctor, you're not thinking that smashing rocks with brute force would be efficient, are you?",
                 "jp": "俺の持ってるこれ？レム・ビリトンの標準型爆破槍を俺が改造したものだよ。もちろん改造する前からアーツ駆動式のアーツユニットだけど。……あのさ、ドクターまさか、武器で岩石を叩き壊すような力任せなやり方が効率的だなんて思ってないよね？",
                 "kr": "내가 들고 있는 이거? 림 빌리턴의 표준형 폭파 창을 내가 개조한 거야. 물론 개조하기 전부터 아츠 구동식 아츠 유닛이었지만…… 박사…… 설마 무기로 암석을 때려 부수는 파워 중심의 방식이 효율적이라고 생각하는 건 아니겠지?",
                 "cn": "手上这把？是我改造过的雷姆必拓的制式爆破枪。当然，改造之前也是用源石技艺驱动的施术单元。嗯.....博士你应该不会认为，单凭力气去用武器敲碎岩石是种有效率的普适工作方式吧？"
@@ -129,7 +129,7 @@
                 "cn": "信赖提升后交谈2"
             },
             "text": {
-                "en": "Doctor, are you also interested in hearing about the Eureka Incident? I'm not sure there are any secrets left, since there are maybe a dozen pretty good books and documentaries out there. But maybe it'd be better if I could write something more detailed about how I rescued those hostages. Yeah, I dismantled a lot of those cages after all.",
+                "en": "Ah, so you're also interested in the Eureka Incident, Doctor? It's not like there's any secrets left untold, since any of the books or documentaries worth their salt tell pretty much the whole story. But... I wish they had some more details on how I rescued those hostages. Nah yeah, I dismantled a lot of those cages after all.",
                 "jp": "「エウレカ号」の話、ドクターも興味が湧いてきた？別に話すほどの秘密なんてないと思うよ、ある程度まともな本に書いてあることと大体一緒。まぁでも、人質救出のくだりはもっと細かく書いてほしかったかな。結構な数の牢を壊したんだよね、俺。",
                 "kr": " '유레카호' 이야기, 박사도 궁금해? 따로 이야기할 만한 그런 비밀 같은 건 없을 거야. 제대로 정리된 책에 나와 있는 내용이랑 거의 비슷하거든. 뭐…… 그래도, 인질 구출하는 부분은 더 자세히 써줬으면 좋았을 텐데. 감옥을 꽤 많이 부쉈거든, 나.",
                 "cn": "“尤立卡号”的故事，博士也有兴趣了？我是觉得没什么可讲的小秘密啦，稍微正经点的纪实书上写的都八九不离十。不过要是能把救出人质的过程写详细些就更好了，嗯，不少囚牢都是我拆的。"
@@ -145,7 +145,7 @@
                 "cn": "信赖提升后交谈3"
             },
             "text": {
-                "en": "It's not uncommon for mining teams to hire Catastrophe Messengers to accompany them. For example, I was born on a mining ship and was always interested in technical books, so I was basically just applying what I already knew. But Doctor, where'd you get your knowledge from? I don't think I've seen any relevant literature here.",
+                "en": "It's common for mining teams to hire Catastrophe Messengers. Since I was born on a mining ship and was always interested in technical books, being a Catastrophe Messenger means basically applying what I already knew. But Doctor, where'd you get your knowledge from? I don't see any relevant literature here...",
                 "jp": "採掘隊が天災トランスポーターを同行させるのって、今では別に特別なことじゃないでしょ。俺みたいに採掘船で生まれて、技術系の本にちょこっと興味を持った奴が、得た知識を活用するのだって普通だし。でもドクターはどこで勉強したの？ここじゃそんな文献は見たことないよね。",
                 "kr": "채굴대가 재앙정보전달자를 동행시키는 건 지금은 별로 특별한 일도 아니잖아? 나처럼 채굴선에서 태어나서 기술 관련 책에 살짝 흥미를 느낀 녀석이 그렇게 공부해서 배운 지식을 써먹는 것도 이상한 일은 아니고 말이야. 근데 박사는 어디서 공부한 거야? 여기서 그런 문헌은 본 적이 없는데.",
                 "cn": "矿队雇佣天灾信使随行现今也不是什么稀奇事了。像我这样出生在矿船上，又正好对技术类的书籍有点兴趣，就顺便学以致用的也不奇怪。但博士的知识是从哪学来的呢？这里似乎没有相关的文献啊。"
@@ -177,7 +177,7 @@
                 "cn": "干员报到"
             },
             "text": {
-                "en": "Leonhardt, Catastrophe Messenger. Doctor, I don't know if you might've heard of me before... No? Ah, it's better that way. Seems like I won't have to tell the entire story again like I had to when that lady from the HR Department cornered me.",
+                "en": "Leonhardt, Catastrophe Messenger. Doctor, you may have heard of me... No? Ah well~ it's better that way. Seems I won't have to tell the whole story again, like I did when that HR lady cornered me.",
                 "jp": "天災トランスポーターのレオンハルト、ドクターはどこかでこの名前を聞いたことある？ない？ならよかった。人事のお姉さんの時みたいにあれこれ聞かれなくて済みそうだからね。",
                 "kr": "재앙정보전달자 레온하르트라고 해. 박사는 어디서 내 이름 들어본 적 있어? 없다고? 다행이다. 인사부에 있던 그 누나처럼 이것저것 물어보고 그러진 않겠네.",
                 "cn": "天灾信使莱恩哈特，不知道博士你之前有没有在哪听说过？没有？啊，那就好办了，看来我不用像之前被人事姐姐缠住时一样再讲一遍故事了。"
@@ -209,7 +209,7 @@
                 "cn": "精英化晋升1"
             },
             "text": {
-                "en": "Promotion? Sure, sure... Huh? It doesn't even come with some sort of exclusive, blinged-out elite uniform? C'mon, even a small piece of jewelry would be fine. No? Aww...",
+                "en": "Promotion? Haha, great! Wait a second. It doesn't come with some sort of exclusive, blinged-out elite uniform? C'mon, even a small ornament would be nice. No? Aww…",
                 "jp": "昇進？いいねいいね……ん？昇進したオペレーター専用のカッコいい制服とかないの？アクセサリーでもいいからさ。それもない？えーっ……。",
                 "kr": "승진? 잘 됐네~! 승진하면 뭐 나오는 거 없어? 근사한 유니폼이라던가…… 어? 없다고? 액세서리 같은 거라도 좋으니까…… 그것도 없다고? 에이……",
                 "cn": "晋升？好啊好啊......嗯？没有什么帅气的晋升干员专用新制服吗？小饰品也可以的嘛，也没有？欸......"
@@ -225,7 +225,7 @@
                 "cn": "精英化晋升2"
             },
             "text": {
-                "en": "The road that Rhodes Island has chosen to take is much bumpier than that of us Catastrophe Messengers, but you don't seem to have any intent on stopping. I suppose I'll have to sacrifice some of my entertainment time to help you clear the road then?",
+                "en": "The road that Rhodes Island's chosen is much bumpier than that of us Catastrophe Messengers, but you don't seem to have any intent on stopping. Well, I suppose I'll have to sacrifice some of my leisure time to help you clear the road then?",
                 "jp": "ロドスが選んだこの道は、俺たち天災トランスポーターのそれよりずっと険しいのに、ドクターはまだ立ち止まるつもりはないみたいだね。じゃあ俺も遊びの時間をちょっと減らして、ドクターと一緒に障碍に立ち向かうしかないでしょ？",
                 "kr": "로도스 아일랜드가 선택한 이 길은 우리 재앙정보전달자의 선택보다 훨씬 험난한데, 박사는 아직 멈춰 설 생각이 없는 거 같네. 박사랑 같이 우리 앞길을 가로막는 것들을 싹 다 치워버리려면 앞으론 나도 노는 시간을 좀 줄여야겠는데?",
                 "cn": "罗德岛选择要走的这条道路比天灾信使们要崎岖得多，但博士好像还没有要止步的意思。那我也只好牺牲些娱乐时间再多陪博士扫清一些障碍了吧？"
@@ -241,7 +241,7 @@
                 "cn": "编入队伍"
             },
             "text": {
-                "en": "It's my turn! Huh? The mission this time is to go fight someone?",
+                "en": "Mission time~! Let's see… Oh, it's a fight today!",
                 "jp": "そろそろ出勤だね！おっ？今回の任務は喧嘩なのか。",
                 "kr": "슬슬 출근할 시간이네! 오? 오늘의 임무는 쌈박질하는 건가.",
                 "cn": "该出勤啦！哦？这次的任务内容是找人打架吗。"
@@ -257,7 +257,7 @@
                 "cn": "任命队长"
             },
             "text": {
-                "en": "You want me to lead the team? Mm, sure. That can be done, piece of cake.",
+                "en": "You want me to lead the team? Mmmm… Alright. Leave it to me.",
                 "jp": "俺が作戦チームをまとめるの？うーん、まぁ別にいいけど。そんなの朝飯前だからさ。",
                 "kr": "내가 작전 팀을 이끄는 거야? 으음…… 뭐, 딱히 상관은 없지. 이런 건 식은 죽 먹기니까.",
                 "cn": "我来带领作战小队？嗯，也不是不行，小事一桩。"
@@ -273,7 +273,7 @@
                 "cn": "行动出发"
             },
             "text": {
-                "en": "So this is the route to the objective goal... Can I take a shortcut?",
+                "en": "So this is the route to the objective... Can I take a shortcut?",
                 "jp": "これが目的ポイントへのルートか……ねぇ、近道してもいい？",
                 "kr": "이게 목적 포인트로 가는 루트인가…… 있잖아, 지름길로 가도 돼?",
                 "cn": "这就是任务目标点的路线啊......我可以抄近道吗？"
@@ -289,7 +289,7 @@
                 "cn": "行动开始"
             },
             "text": {
-                "en": "Let's see if our enemies have anything going for them besides their numbers.",
+                "en": "Let's see if our enemies have anything to offer besides numbers.",
                 "jp": "さーて、敵がただの寄せ集めかどうか確かめるとしようか。",
                 "kr": "자 그럼, 적들이 그저 그런 오합지졸인지 어떤지 한 번 확인해 볼까.",
                 "cn": "那就来看看我们的敌人是不是空有数量的乌合之众吧。"
@@ -305,7 +305,7 @@
                 "cn": "选中干员1"
             },
             "text": {
-                "en": "Huh? Where, where? Ehh?",
+                "en": "Hm? Which direction? Where?",
                 "jp": "ん？どこどこ？んん？",
                 "kr": "응? 어디, 어디? 응?",
                 "cn": "嗯？哪里哪里？嗯？"
@@ -337,7 +337,7 @@
                 "cn": "部署1"
             },
             "text": {
-                "en": "Woo! It's finally my turn!",
+                "en": "Woo~ It's finally my turn!",
                 "jp": "おっ！やっと俺の番だね！",
                 "kr": "오! 드디어 내 차례구나!",
                 "cn": "哦！总算轮到我啦！"
@@ -353,7 +353,7 @@
                 "cn": "部署2"
             },
             "text": {
-                "en": "Lure more enemies into this ring, then leave the rest to me!",
+                "en": "Lure some more enemies into the ring, then leave the rest to me!",
                 "jp": "敵をできるだけ包囲網に誘い込んで。あとは俺に任せて！",
                 "kr": "적을 가능한 한 포위망으로 유인해 줘. 나머지는 나한테 맡겨달라고!",
                 "cn": "多吸引些敌人进包围圈，之后就包在我身上啦！"
@@ -369,7 +369,7 @@
                 "cn": "作战中1"
             },
             "text": {
-                "en": "Who said the tip of a spear is only good for stabbing people?",
+                "en": "Who says a spear is only good for stabbing people?",
                 "jp": "槍は相手を突くだけのものとでも思ってるの？",
                 "kr": "창이 상대를 찌르기만 하는 줄 알아?",
                 "cn": "谁说枪头就只能用来捅人？"
@@ -385,7 +385,7 @@
                 "cn": "作战中2"
             },
             "text": {
-                "en": "Relying on your armor will only make you vulnerable.",
+                "en": "Relying on your armor will only leave you vulnerable.",
                 "jp": "装甲に頼ってばっかじゃ弱くなるだけだからさ。",
                 "kr": "장갑에만 의지하면 약해질 뿐이라고.",
                 "cn": "依赖装甲只会让你变得脆弱。"
@@ -401,7 +401,7 @@
                 "cn": "作战中3"
             },
             "text": {
-                "en": "Oh~ Strength in numbers, huh... Is that what you were banking on?",
+                "en": "Strength in numbers, huh? Is that what you were banking on?",
                 "jp": "へぇ～、袋叩き……それが君たちの狙いかな？",
                 "kr": "흐음~ 뭇매질이라…… 그게 너희가 노리는 거야?",
                 "cn": "哦~以众欺寡......你们是这么打算的吗？"
@@ -433,7 +433,7 @@
                 "cn": "完成高难行动"
             },
             "text": {
-                "en": "Bam! All right, another mighty enemy laid low. Now, let's do what we agreed on and have you treat yourself, Doctor. Wanna go visit a local market with me on our next stop?",
+                "en": "Bam! Another mighty enemy laid low. Alright, Doctor, let's have you treat yourself like we agreed before. You and me, we're gonna visit a market at our next stop.",
                 "jp": "バーン！よし、今回の強敵も無事に片付いたね。じゃあ約束通り、ドクターへの労いとして、次の停留ポイントで俺の商店街巡りに付き合ってもらうよ？",
                 "kr": "펑~! 좋아, 이번 강적도 무사히 해치웠네. 그럼~ 약속대로, 박사한테 상도 줄 겸, 다음 정류 포인트에서 내가 상점가 쇼핑 나갈 때 같이 가주기다?",
                 "cn": "砰！好，这次的强敌也都已经圆满解决了。那么按照之前说好的，博士得犒劳一下自己，在下个停靠点陪我去逛一趟当地的商业街哦？"
@@ -465,7 +465,7 @@
                 "cn": "非3星结束行动"
             },
             "text": {
-                "en": "Cleaning up stragglers isn't really my strong suit, so if you don't find someone to send after them, you're going to lose points off your combat evaluation~",
+                "en": "Cleaning up stragglers isn't really my strong suit. You oughta find someone to send after them right away, before you lose points off your combat evaluation.",
                 "jp": "逃げた敵を片付けるのは俺の得意分野じゃないよ。今すぐ誰かに追ってもらわないと、今回の作戦評価が下がっちゃうよ？",
                 "kr": "도망친 적을 처리하는 건 내 전문 분야가 아니야. 지금 당장 누가 안 쫓아가면 이번 작전 평가가 낮아질걸?",
                 "cn": "收拾残兵败将实在不是我的强项，所以博士再不赶紧派人去追的话，你这次的作战评价可要降低咯？"
@@ -497,7 +497,7 @@
                 "cn": "进驻设施"
             },
             "text": {
-                "en": "Wanna head down to the Procurement Department to take a look at the new outfits? How about it?",
+                "en": "Maybe I should go to Procurement to check out the new outfits? Or maybe not?",
                 "jp": "後で購買部に新しい服見に行こうかな。どうしよっかなぁ。",
                 "kr": "어떻게 할까~? 나중에 새 옷 좀 보러 구매센터나 한번 가볼까~?",
                 "cn": "过会要不要去采购部看看新衣服呢，要不要呢。"
@@ -513,7 +513,7 @@
                 "cn": "戳一下"
             },
             "text": {
-                "en": "Hm? Need me?",
+                "en": "Hm? Need me for something?",
                 "jp": "ん？俺に何か用？",
                 "kr": "응? 나한테 뭐 볼일 있어?",
                 "cn": "嗯？找我？"
@@ -529,7 +529,7 @@
                 "cn": "信赖触摸"
             },
             "text": {
-                "en": "What's the matter, did you want to take me out for a walk?",
+                "en": "What's the matter, you wanna take me out for a walk?",
                 "jp": "どうしたの、俺とどっかに行きたいのかな？",
                 "kr": "왜? 나랑 어디 가고 싶은 데라도 있어?",
                 "cn": "怎么啦，是想带我外出逛逛吗？"
@@ -570,6 +570,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Kyle McCarley",
+            "global": "Kyle McCarley"
+        },
         "cn": {
             "native": "大白",
             "global": "Wei Chen"
@@ -584,6 +588,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

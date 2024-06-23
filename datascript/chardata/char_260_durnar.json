@@ -19,7 +19,7 @@
             "text": {
                 "en": "Aw, c'mon, get someone more literate for this job. I'm a soldier, all I know is following orders. Paperwork's beyond me.",
                 "jp": "書類仕事なんてもっとできる人にやってもらってよ。私みたいな実戦経験ばっかりの軍隊上がりには本当にお手上げなんだって！",
-                "kr": "서류 업무 같은 건 더 잘하는 사람한테 해달라고 해. 나 같이 실전 경험밖에 없는 퇴역 군인한텐 진짜 막막하다니까!",
+                "kr": "서류 작업 같은 건 이쪽으로 더 잘하는 사람한테나 해달라고 해. 나같이 명령에 따르는 것만 아는 군인한텐 진짜 막막한 일이니까!",
                 "cn": "就不能找个专业的人来做这些活嘛，文职工作什么的，我这种只懂服从命令的士兵搞不明白的呀！"
             },
             "asset": "char_260_durnar/CN_001"
@@ -51,7 +51,7 @@
             "text": {
                 "en": "If Frostleaf wasn't still lugging that big axe around, there's no way I would've recognized her. We fought together before, probably as enemies. Anyway, I'm relieved to see her living the good life at Rhodes Island.",
                 "jp": "あれだけ目を引く斧を抱えてなければ、あの子がフロストリーフだなんて絶対わからなかったわ。そうね……かつて戦場では敵同士だったあの子だけど、ロドスでの生活を謳歌してるみたいだし、なんだか安心したわ。",
-                "kr": "저렇게 눈에 띄는 도끼를 들고 있지 않으면 저 아이가 프로스트리프라는 건 분명 몰랐을 거야. 그래…… 한때 전장에서 적으로 만났던 아이지만, 로도스 아일랜드의 생활을 좋아하는 모양이라 왠지 안심했어.",
+                "kr": "저렇게 눈에 띄는 도끼를 들고 있지 않았다면 저 아이가 프로스트리프라는 건 분명 알아채지 못했을 거야. 그래…… 한때 전장에서 적으로 만났던 아이였어. 그래도, 지금은 로도스 아일랜드의 생활을 좋아하는 모양이네. 왠지 안심이 돼.",
                 "cn": "要不是霜叶小姐还抱着她那把显眼的斧子，我绝对认不出现在的她。嗯......那是在战场上，而且我们可能算是敌人呢。不过，看到她在罗德岛生活得不错，我就放心了。"
             },
             "asset": "char_260_durnar/CN_003"
@@ -67,7 +67,7 @@
             "text": {
                 "en": "Watch it, Doctor, you can't go touching my weapon. I just replaced the Originium on that thing. It's dangerous when you hold it wrong... Look out! I, I'll take you to Medical...",
                 "jp": "ドクター、私の武器にうかつに触れないで。源石を交換したばっかりで危ないから、変に持ったら……危ないっ！い、医務室に行きましょう……",
-                "kr": "박사, 내 무기를 함부로 만지지 마. 오리지늄을 교환한 지 얼마 안 돼서 위험하니까, 이상하게 잡으면…… 위험해! 의, 의무실로 가자……",
+                "kr": "박사, 내 무기 함부로 만지지 마. 오리지늄을 교환한 지 얼마 안 돼서 위험하다고, 이상하게 잡으면…… 위험해! 의, 의무실로 가자……",
                 "cn": "博士，别随便拿我的武器呀，这东西刚刚更换了源石，十分危险，握法不对的话......哎小心！我，我送你去医务室吧......"
             },
             "asset": "char_260_durnar/CN_004"
@@ -99,7 +99,7 @@
             "text": {
                 "en": "Stories from my past? Umm… Don't have much to say. I mean, what kind of story could a bad tempered soldier have? All those merits and medals... Hmph, they're nothing in the face of the lives lost.",
                 "jp": "昔のこと？うーん……特に話せるようなことはないわ。気の短い一介の兵士にろくな過去なんてあるわけないでしょ？功績や勲章なんて…ふっ、死んでいった人たちの命と比べたら何の価値もないわよ……。",
-                "kr": "옛날 일? 으음…… 딱히 이야기할만한 건 없는데. 성격 급한 일개 병사한테 변변한 과거 같은 게 있을 리 없잖아? 공적이나 훈장 같은 건…… 훗, 죽어간 사람들의 목숨에 비하면 아무런 가치도 없어……",
+                "kr": "과거에 있었던 일? 으음…… 딱히 이야기할만한 건 없는데. 성격 급한 일개 병사한테 변변한 과거 같은 게 있을 리 없잖아? 공적이나 훈장 같은 건…… 훗, 죽어간 사람들의 목숨에 비하면 아무런 가치도 없어……",
                 "cn": "以前的事情吗？以前......没什么好说的吧，一个脾气很差的士兵能有什么故事，对吧。功勋和徽章，呵，和死去的人的生命相比，这些算得了什么......"
             },
             "asset": "char_260_durnar/CN_006"
@@ -115,7 +115,7 @@
             "text": {
                 "en": "The greenies we got in the reserves are pretty good. But they suck at securing amenities. Back in my day, the rookies were way smarter about hiding cookies.",
                 "jp": "近頃の予備隊の新人たちは確かにみんな良い子で優秀だけど、生活を良くする知恵がぜんっぜん働かないのよね。私が新人の頃は、みんな備蓄の乾パンをパクることに関しては達人級の腕前だったんだから。",
-                "kr": "요즘 예비팀 신입들은 확실히 다들 착하고 우수하지만, 더 편히 사는 잔머리를 전혀 못 굴리더라고. 내가 신입이었을 땐 다들 비축 건빵을 꿍쳐놓는 데는 도가 텄었거든.",
+                "kr": "요즘 예비팀 신입들은 확실히 다들 착하고 우수하지만, 잔머리는 통 못 굴리더라고. 내가 신입이었을 땐 다들 비축 건빵을 꿍쳐놓는 데는 도가 텄었거든.",
                 "cn": "最近预备队新人们的素质可真不错，就是自行改善生活的本事实在是差了点，当年新兵偷藏压缩饼干的把戏可高明多了。"
             },
             "asset": "char_260_durnar/CN_007"
@@ -131,7 +131,7 @@
             "text": {
                 "en": "I talked to Logistics. From now on, they're putting 'Industrial Material' on all our snack packaging. Then, all we need is you to sign off on them for us, Doctor.",
                 "jp": "お菓子のパッケージには「工業原料」と記載するようにと、支援部の人に伝えておいたわ。ドクターはサインして物資を通してくれればいいだけだから、お願いね。",
-                "kr": "과자 포장에 '공업원료'라고 기재하라고 후방 지원부 사람한테 말해 뒀어. 박사는 사인해서 물자를 통과시켜 주기만 하면 되니까, 부탁 좀 할게.",
+                "kr": "이제부턴 과자 포장에 '공업원료'라고 기재해 달라고 후방 지원부 오퍼레이터에게 잘 말해 뒀으니까, 박사는 사인하고, 물자를 통과시켜 주기만 하면 돼. 부탁 좀 할게.",
                 "cn": "我和后勤部的干员打过招呼了，以后，他们会在所有零食包装上写好“工业原料”，到时候，签字通过就靠你啦，博士。"
             },
             "asset": "char_260_durnar/CN_008"
@@ -147,7 +147,7 @@
             "text": {
                 "en": "Doctor? Oh, sorry. I was all caught up in reminiscing. I still can't get past certain things. If my old commander was anything like you, maybe... We wouldn't have had to go through that.",
                 "jp": "ドクター？ええ、あの……ごめんなさい。やっぱりどうしても忘れられないことってあるの。あの時、もし私の上官がドクターみたいな人だったら、あんな事は起きなかったかもしれない。……つい、そんなことを考えてしまって。",
-                "kr": "박사? 어어, 저기…… 미안해. 역시 아무리 해도 잊을 수 없는 게 있더라고. 그때, 만약 내 상관이 박사 같은 사람이었다면 그런 일은 발생하지 않았을지도 몰라. ……그냥 그런 생각이 들어서.",
+                "kr": "박사? 어어…… 아, 미안. 생각을 좀 하고 있었어. 아무래도 잊을 수 없는 일이란 게 있나 봐. 그때, 만약 내 상관이 박사 같은 사람이었다면, 어쩌면 그런 일은 발생하지 않았을지도 몰라.",
                 "cn": "博士？嗯，啊啊，抱歉。有些事情，还是忘不掉啊。如果以前我的指挥官像博士你一样的话，哎......也许，过去就不会发生那种事了。"
             },
             "asset": "char_260_durnar/CN_009"
@@ -163,7 +163,7 @@
             "text": {
                 "en": "Psst, Psst! Want some pop rocks? I got all kinds. I know I got one you'll love.",
                 "jp": "はじけるキャンディでもどう？いろんなフレーバーがあるから、きっとドクターも満足できるはずよ。",
-                "kr": "퍼핑캔디라도 어때? 여러 맛이 있으니까 분명 박사도 만족할 거야.",
+                "kr": "팝핑 캔디 어때? 맛별로 다 있으니까 분명 박사 취향도 있을 거야.",
                 "cn": "想不想来点跳跳糖？我这什么口味都有，你肯定会满意的。"
             },
             "asset": "char_260_durnar/CN_010"
@@ -179,7 +179,7 @@
             "text": {
                 "en": "Hard as rock and lethal as lightning! That's me, Dur-nar. Nice to meet you, Doctor.",
                 "jp": "岩のように硬く、雷のように鋭い。それが私、ジュナーよ。よろしくね、ドクター。",
-                "kr": "바위처럼 단단하고 번개처럼 날카롭다. 그게 나, 듀나야. 잘 부탁해, 박사.",
+                "kr": "바위처럼 단단하고 번개처럼 날카롭다. 그게 바로 나야, 듀나. 잘 부탁해, 박사.",
                 "cn": "磐石般坚硬，雷霆般致命，那就是我，坚雷。请多指教哦，博士。"
             },
             "asset": "char_260_durnar/CN_011"
@@ -211,7 +211,7 @@
             "text": {
                 "en": "A promotion? Good, good, do I get paid more too? Awesome!",
                 "jp": "昇進？ってことは給料も上がるわよね？やった！",
-                "kr": "승진? 그럼 급료도 오르는 거지? 앗싸!",
+                "kr": "승진? 고마워! 그럼 급여도 오르는 거지? 앗싸!",
                 "cn": "晋升了？好呀好呀，薪水也涨了吗？太好了！"
             },
             "asset": "char_260_durnar/CN_013"
@@ -227,7 +227,7 @@
             "text": {
                 "en": "The old me only knew how to charge on ahead and fight without stopping. Now, I fight for everybody. Just give your orders, Doctor.",
                 "jp": "昔は敵に突っ込んで戦うことしか頭になかったけど、今はみんなのために戦うことを覚えたわ。さあ、命令をちょうだい、ドクター。",
-                "kr": "옛날엔 적에게 파고들어 싸우는 법밖에 머리에 없었는데, 지금은 모두를 위해 싸우는 법을 배웠어. 자, 명령을 내려줘 박사.",
+                "kr": "옛날엔 적에게 파고들어 싸우는 법 밖에 머리에 없었는데, 지금은 모두를 위해 싸우는 법을 배웠어. 자, 명령을 내려줘 박사.",
                 "cn": "以前的我只知道向前冲、不断地战斗，现在不一样了，我为大家而战，下令吧，博士。"
             },
             "asset": "char_260_durnar/CN_014"
@@ -259,7 +259,7 @@
             "text": {
                 "en": "I only have one request: Safety first and don't ever forget it.",
                 "jp": "一つだけお願い。安全第一に行動することだけは忘れないで。",
-                "kr": "하나만 부탁할게. 안전을 최우선으로 행동하는 것만은 잊지 마.",
+                "kr": "내 요구는 단 하나야. 안전을 최우선으로 행동할 것. 절대 잊지 마.",
                 "cn": "我只有一个要求：安全第一，千万别忘了。"
             },
             "asset": "char_260_durnar/CN_018"
@@ -371,7 +371,7 @@
             "text": {
                 "en": "Hold the line!",
                 "jp": "戦線を維持！",
-                "kr": "전선을 유지!",
+                "kr": "전선 유지!",
                 "cn": "守住战线！"
             },
             "asset": "char_260_durnar/CN_025"
@@ -403,7 +403,7 @@
             "text": {
                 "en": "Ya ain't gettin' through me!",
                 "jp": "ここは通さない！",
-                "kr": "여기는 못 지나간다!",
+                "kr": "여기는 못 지나가!",
                 "cn": "此路不通！"
             },
             "asset": "char_260_durnar/CN_027"
@@ -451,7 +451,7 @@
             "text": {
                 "en": "No need to clean up the battlefield? Okay, then we're done here.",
                 "jp": "戦場の後片付けはしなくていいの？わかった、じゃあ撤収しましょう！",
-                "kr": "전장의 뒤처리는 안 해도 돼? 알았어, 그럼 철수하자!",
+                "kr": "전장 뒤처리는 안 해도 돼? 알았어, 그럼 철수하자!",
                 "cn": "不用清理战场吗？好吧，那就收工走人咯！"
             },
             "asset": "char_260_durnar/CN_030"
@@ -467,7 +467,7 @@
             "text": {
                 "en": "The enemy still hasn't gone far. Should we chase them down?",
                 "jp": "敵はまだ遠くまで行ってないはず。追ったほうがいい？",
-                "kr": "적은 아직 멀리까지 가지 않았을 거야. 쫓아가는 편이 나을까?",
+                "kr": "적은 아직 멀리 도망치지 못했을 거야. 쫓아갈까?",
                 "cn": "敌人还没走远，需要追击吗？"
             },
             "asset": "char_260_durnar/CN_031"
@@ -483,7 +483,7 @@
             "text": {
                 "en": "Take it easy, Doctor. It's not your fault...",
                 "jp": "ドクター、あまり自分を責めないで……この結果はあなたのせいじゃないわ……",
-                "kr": "박사, 너무 자책하지 마…… 이 결과는 당신 탓이 아니야……",
+                "kr": "박사, 너무 자책하지 마…… 이 결과는 네 탓이 아니야……",
                 "cn": "放轻松，博士......这个结果，不是你的错......"
             },
             "asset": "char_260_durnar/CN_032"
@@ -581,11 +581,16 @@
         "jp": {
             "native": "森なな子",
             "global": "Mori Nanako"
+        },
+        "kr": {
+            "native": "윤아영",
+            "global": "Yun A-yeong"
         }
     },
     "availability": [
         "en",
         "cn",
-        "jp"
+        "jp",
+        "kr"
     ]
 }

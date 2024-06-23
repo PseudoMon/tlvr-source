@@ -1,0 +1,596 @@
+{
+    "charid": "char_4116_blkkgt",
+    "nameid": "blkkgt",
+    "names": {
+        "en": "Degenbrecher",
+        "jp": "デーゲンブレヒャー",
+        "kr": "데겐블레허",
+        "cn": "锏"
+    },
+    "voices": [
+        {
+            "id": "char_4116_blkkgt_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "There are some matters I could help you with. But make no mistake, I am not a go-between for you and Enciodes.",
+                "jp": "多少仕事を手伝うのは構わないけど、エンシオディスとの連絡窓口はご勘弁願いたいわ。",
+                "kr": "널 도와 일을 하는 건 상관없지만, 엔시오데스와의 연락책 역할 같은 건 기대하지 말도록.",
+                "cn": "我可以帮你做些事情，不过，别指望我来做你和恩希欧迪斯的传话筒。"
+            },
+            "asset": "char_4116_blkkgt/CN_001"
+        },
+        {
+            "id": "char_4116_blkkgt_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "I once ran into the Saintess at the foot of the mountain, where she stuffed a book into my hands. She told me that, if I'm bored, I might as well try copying some scripture. I heeded her suggestion and copied a passage every day. At first, I did it just to pass the time, but then I realized it helps me to relax a little too. I find it intriguing.",
+                "jp": "昔カランドの麓で巫女様とたまたま会った時に、経典を押しつけられてね。「お暇な時の手慰みに、写経でもいかがですか」なんて言われたから、毎日一節ずつ書き写すようにしたの。最初は暇つぶしでしかなかったけど、今では空っぽになれるし悪くないと思ってるわ。",
+                "kr": "전에 산기슭에서 우연히 성녀님과 만났을 때 경전을 한 권 받았었어. 심심하면 경전을 한번 필사해 보라고 하시더군. 성녀님의 제안대로 매일 조금씩 베껴 적어봤지. 처음엔 그저 시간 때우기였을 뿐이지만, 나중에는 머리를 텅 비울 수 있어서 꽤 나쁘지 않더군.",
+                "cn": "我曾在山下偶遇圣女，被她塞了一本经书。她说，若是无聊，不妨试试抄写经书。我听了她的建议，每天都会抄写一段。开始只是打发时间，后来，倒能放空一些，挺有意思。"
+            },
+            "asset": "char_4116_blkkgt/CN_002"
+        },
+        {
+            "id": "char_4116_blkkgt_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Leithanien, Kazimierz, Kjerag. Three decades, more or less. The days I spent in Kjerag were the most dull. No opponents, no challenges, no excitement... But before I knew it, I had become accustomed to the bleats of burdenbeasts, the sensation of shoes sinking into the snow, and the weight of a little sobering medicine on me.",
+                "jp": "リターニア、カジミエーシュ、イェラグ――十年くらいを三巡。その中でも、イェラグでの日々が特に退屈だったわ。ライバルもいなければ、新しい挑戦も、刺激もなかったから。だけど思い返してみれば、いつの間にか駄獣のいななきにも、靴が雪に沈む感覚にもすっかり慣れて、酔い覚ましの薬も常に持ち歩くようになってたわね。",
+                "kr": "라이타니엔, 카시미어, 쉐라그에서 십 년 정도의 세월을 세 번 보냈어. 그 중 쉐라그에서 지내던 나날이 가장 무료했지. 적수도, 도전도, 자극도 없었으니까. 하지만 새삼 돌이켜 보니, 난 이미 버든비스트의 울음소리와 눈밭에 파묻히는 신발의 느낌에 어느새 익숙해져 있던 모양이야. 항상 가지고 다니는 숙취해소제도 마찬가지고.",
+                "cn": "莱塔尼亚、卡西米尔、谢拉格，差不多三个十年。在谢拉格的日子最无趣。没有对手，没有挑战，没有刺激。但回过神来，我已经习惯了驮兽的叫声、鞋子陷进雪里的触感，还有随身带点醒酒药。"
+            },
+            "asset": "char_4116_blkkgt/CN_003"
+        },
+        {
+            "id": "char_4116_blkkgt_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "The first time I became champion was to prove myself. The second time was to hone myself. And the third was a wake up call I made to those who thought they could control me. The price I paid for it? Just a few Darksteel arrows. Hmph, a pity I didn't get an actual match.",
+                "jp": "最初の優勝は自身を証明するため。二度目の優勝は自分磨きの一環として。三度目の優勝は私を顎で使えると思ってた連中の鼻を明かすためだったわ。代償？クロガネの矢が数本飛んできたくらいだけど、一戦交えられなかったのは心残りね。",
+                "kr": "첫 우승은 스스로를 증명하기 위해. 두 번째 우승은 스스로를 갈고닦기 위해. 세 번째 우승은 날 조종할 수 있을 거라고 믿는 녀석들을 정신 차리게 만들기 위해서였어. 대가? 다크아이언의 화살 몇 발 정도지. 한 판 붙어보지 못한 게 아쉬울 뿐이군.",
+                "cn": "拿第一个冠军，是为了证明自己。拿第二个冠军，是为了磨炼自己。拿第三个冠军，是为了让那些以为能操控我的人清醒一下。代价？几根玄铁的箭而已，只可惜没能和他打一场。"
+            },
+            "asset": "char_4116_blkkgt/CN_004"
+        },
+        {
+            "id": "char_4116_blkkgt_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "I saw the Radiant Knight. No, there's no point in fighting here, so you need not arrange one for me. A proper fight needs her at her peak, at the right time, in the right place, and situation. Victory then will be a matter of life and death. Though, how or when that moment will come won't be up to me at all.",
+                "jp": "耀騎士とはもう会ったわ。いいえ、手合わせのお膳立ては結構よ。ここでやっても意味ないから。全盛期の耀騎士を相手にするなら、時と場所、それから流れすべてが適切じゃないと。その時には、私たちの勝敗はそのまま生死に直結するものになるわ。まあ、一生そんな時は来ないけどね。",
+                "kr": "빛의 기사와는 이미 만나봤다. 아니, 대련을 주선해 줄 필요는 없어. 여기서는 아무 의미가 없으니까. 전성기의 빛의 기사와 싸우기 위해선, 시간과 장소, 흐름까지 전부 정확해야만 해. 그 순간 펼쳐질 승부는 생사를 가르게 될 테니까. 물론, 그 순간이 올 일은 없겠지만.",
+                "cn": "我见过耀骑士了。不，不用帮我安排和她的比试，在这里，没有意义。要和全盛的她战斗，时间、地点、大势都必须正确。在那时，我们之间的胜负就意味着生死。不过，那一刻并不属于我。"
+            },
+            "asset": "char_4116_blkkgt/CN_005"
+        },
+        {
+            "id": "char_4116_blkkgt_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Enciodes treats me like a sword—a sword intended to reflect more than kill, a blade serving as a mirror with which to scrutinize himself. The stronger I get, the more he exercises restraint. Such a relationship will continue until the day... he no longer needs a sword.",
+                "jp": "エンシオディスにとって、私は剣のようなものよ。敵を切り伏せるのが一番の目的じゃなくて、剣身に映る自分と向き合うためのね。私が鋭さを増すほどに、彼は自らの刃を懐深くに納めていく……いつか彼が剣を必要としなくなるまで、この関係は続いていくわ。",
+                "kr": "엔시오데스는 날 검으로 삼았어. 적을 베기 위해서가 아니라, 검신에 비친 자신의 모습과 마주하기 위해서 말이야. 내가 강해질수록 그는 자신을 더욱 억제했지. 언젠가 그에게 검이 필요하지 않게 될 그날까지, 이 관계는 계속될 거야.",
+                "cn": "恩希欧迪斯把我当成一柄剑，这柄剑最大的作用不是杀敌，而是透过剑身的反射，看清自己的面貌。我越是强大，他越是克制。这种关系会一直持续下去，直到有一天，他不再需要一柄剑。"
+            },
+            "asset": "char_4116_blkkgt/CN_006"
+        },
+        {
+            "id": "char_4116_blkkgt_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "I went back to Leithanien once, after becoming champion. From 'a defective Leithanian unable to use Arts', to 'a natural-born warrior', only to still find myself unwelcome. The locals looked at me the same as they did decades earlier. Coming to terms with that, I found my hatred for the land had cooled some.",
+                "jp": "チャンピオンになった後、一度リターニアに戻ったことがあるの。「リターニアの不良品」が「天性の武者」になったところでやっぱり歓迎はされなかったけど。でも、私に向けられる目が昔と何も変わってないと気付いたら、昔ほどこの国を嫌いだと思わなくなったわ。",
+                "kr": "챔피언이 된 후에 라이타니엔에 돌아가 본 적이 있어. '라이타니엔의 불량품'이 '타고난 전사'가 되어서 나타났지만, 환영받지 못하는 건 여전했지. 사람들이 날 바라보는 눈빛이 과거와 달라지지 않았다는 걸 깨달았을 때, 난 이 나라가 전처럼 싫게만 느껴지지는 않게 됐어.",
+                "cn": "成为冠军后，我回过一次莱塔尼亚。即使“莱塔尼亚残次品”变成了“天生的武者”，也依然不受欢迎。当我意识到那些人看我的眼神和过去没有区别时，我发现自己没那么讨厌这个国家了。"
+            },
+            "asset": "char_4116_blkkgt/CN_007"
+        },
+        {
+            "id": "char_4116_blkkgt_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "A few years ago in Kjerag, I was dining at a local restaurant I frequented where some foreign tourists tried to pick a fight with me. Before I could get a word in, the shop owner grabbed me by the arm and shouted to them, 'What are you punks doing?! Get away from our Kjerag lady!' I'll never forget that.",
+                "jp": "数年前、よく通っていた小料理屋で、命知らずの外国人観光客に因縁をつけられたことがあったんだけど、私が口を開く前に、店主が私を引き寄せて「俺たちイェラグのお嬢ちゃんに何してくれてんだ！」なんて怒鳴ってくれてね。今でもあの言葉が耳に残ってるわ。",
+                "kr": "몇 년 전에 자주 가던 식당에서 주제 파악 못 하는 외국인 여행객들이랑 싸움이 날 뻔했었어. 그런데 내가 입을 열기도 전에 가게 주인이 나를 감싸고선, “우리 쉐라그의 딸에게 무슨 짓이냐!”라고 호통을 쳤지. 난 그 말이 아직도 귓가에 맴돌아.",
+                "cn": "几年前，我在经常光顾的饭馆里遇到几个不长眼的外国游客找碴，结果我还没有说话，老板就一把把我拉住，冲他们吼：“你们要对我们谢拉格老妹做什么！”我一直记得这句话。"
+            },
+            "asset": "char_4116_blkkgt/CN_008"
+        },
+        {
+            "id": "char_4116_blkkgt_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "There are many who rely on you and Enciodes to provide them a meaningful way of life, and you relish it just as he does. But for me, I've just met another patron who engages in self-neglect. Right then, the meeting's about to begin. Drink this glass of water to refresh yourself. And hold still, your collar's wrinkled.",
+                "jp": "あなたとエンシオディスに与えられた意味にすがって生きてる人も多いけど、あなたも彼と同じようにそれを楽しんでさえいる。でも私からすれば、自分の事にはてんで無関心な知り合いが一人増えただけなの。さて、そろそろ会議の時間だから、水でも飲んでシャキッとして。それから……動かないで、襟が曲がってる。",
+                "kr": "많은 사람들이 당신과 엔시오데스가 건네준 의미에 기대어 살아가곤 해. 당신도 그와 마찬가지로 그걸 기쁘게 여기고 있는 것 같군. 하지만 내겐 그저, 스스로를 돌보지 않는 사람이 또 하나 늘어났을 뿐이야. 자, 곧 회의가 시작되니 물 한 잔 마시고 정신 차리도록 해. 그리고 잠깐, 가만히 있어 봐. 옷깃에 주름이 졌으니까.",
+                "cn": "许多人仰赖你和恩希欧迪斯提供的意义生存，而你和他一样，乐此不疲。但对我来说，我只是又认识了一个不关心自己的人。好了，该开会了，喝了这杯水清醒一下。还有，别动，你的衣领皱了。"
+            },
+            "asset": "char_4116_blkkgt/CN_009"
+        },
+        {
+            "id": "char_4116_blkkgt_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Sleep. No one will bother you.",
+                "jp": "おやすみなさい。誰にも邪魔はさせないわ。",
+                "kr": "잘자, 아무도 널 방해하지 못할 테니.",
+                "cn": "睡吧，没有人能打扰你。"
+            },
+            "asset": "char_4116_blkkgt/CN_010"
+        },
+        {
+            "id": "char_4116_blkkgt_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Degenbrecher. A codename? You can just use that. I looked through the contract, and the scope of my work seems unchanged. I am still a bodyguard, just the employer is different.",
+                "jp": "デーゲンブレヒャーよ。これはコードネームかって？本名だと思ってくれて構わないわ。契約書は見せてもらったけど、私の仕事は護衛対象が変わった以外、何も変わらないみたいね。",
+                "kr": "데겐블레허다. 코드네임이냐고? 그냥 이름이라고 생각해도 돼. 계약서는 이미 봤다. 보호 대상만 바뀌었을 뿐, 업무 내용엔 별 차이가 없는 것 같더군.",
+                "cn": "锏。代号？你可以当作这就是我的名字。我看过合同了，我的工作内容看起来并没有什么区别，只是换了一个保护对象而已。"
+            },
+            "asset": "char_4116_blkkgt/CN_011"
+        },
+        {
+            "id": "char_4116_blkkgt_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Not bad.",
+                "jp": "悪くないわ。",
+                "kr": "나쁘지 않군.",
+                "cn": "不差。"
+            },
+            "asset": "char_4116_blkkgt/CN_012"
+        },
+        {
+            "id": "char_4116_blkkgt_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Formalities like these remind me of the time when Karlan Trade was first established. Gnosis was so full of himself as he declared my position to the others. It was then that I decided to wait for a chance... to smash that cocky face of his to the ground.",
+                "jp": "こういう形式張った行事をやってると、カランド貿易設立当初、ノーシスが社員一同の前で意気揚々と私の役職を発表した時のことを思い出すわ。あの時からあいつの顔を地面に擦りつけてやりたいと思ってたのよ。",
+                "kr": "이런 형식적인 행사를 하고 있으면 카란 무역회사가 세워졌을 때가 떠올라. 노시스가 사람들 앞에서 의기양양한 얼굴로 내 직위를 공표했었지. 그때 정말이지, 언젠가 놈의 머리를 땅바닥에 처박아줘야겠다고 생각했어.",
+                "cn": "这种走形式让我想起了喀兰贸易建立的时候，诺希斯一脸神气地当着其他人的面宣布我的职位。那时我就想要找个机会把他的头按在地上。"
+            },
+            "asset": "char_4116_blkkgt/CN_013"
+        },
+        {
+            "id": "char_4116_blkkgt_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "When I pinned the medals on my soldiers, the first cohort of Tschäggättä to complete my training, I saw some pretty fine expressions on them. I can see this ship has many with similar faces.",
+                "jp": "最初に学び終えた山雪鬼には、私がこの手で認定証を贈ったのよ。あの時、みんないい顔をしてたわ……まさにこの船にいる人たちみたいにね。",
+                "kr": "내게서 처음으로 졸업한 설산귀들한테는 내가 직접 휘장을 달아 줬었지. 그때 녀석들은 참 좋은 표정을 하고 있었어…… 마치 이 함선에 탄 사람들처럼 말이야.",
+                "cn": "第一批在我手下毕业的山雪鬼，是我亲手给他们颁发的奖章。那时，他们脸上的表情很不错，就像这座舰船上的许多人一样。"
+            },
+            "asset": "char_4116_blkkgt/CN_014"
+        },
+        {
+            "id": "char_4116_blkkgt_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Is this a mission, or a training session?",
+                "jp": "任務？それとも訓練？",
+                "kr": "임무인가, 아니면 훈련?",
+                "cn": "任务，还是训练？"
+            },
+            "asset": "char_4116_blkkgt/CN_017"
+        },
+        {
+            "id": "char_4116_blkkgt_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Follow me close, no dinner for those who fall behind.",
+                "jp": "私についてきなさい。遅れたら夕食抜きよ。",
+                "kr": "내 뒤를 바짝 따라오도록, 뒤처지는 자들에게 저녁은 없다.",
+                "cn": "跟上我的脚步，失败的人今天没有晚饭。"
+            },
+            "asset": "char_4116_blkkgt/CN_018"
+        },
+        {
+            "id": "char_4116_blkkgt_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Good, I suppose you've already got a plan.",
+                "jp": "その様子、もう大まかな計画はあるみたいね。",
+                "kr": "보아하니, 계획이 어느 정도 잡혔나 보군.",
+                "cn": "看来，你已经有了大致的计划。"
+            },
+            "asset": "char_4116_blkkgt/CN_019"
+        },
+        {
+            "id": "char_4116_blkkgt_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Keep your distance, or you risk getting caught up in the fighting.",
+                "jp": "巻き込まれたくなければ離れていなさい。",
+                "kr": "말려들고 싶지 않다면 떨어져 있는 게 좋을 거다.",
+                "cn": "不想被波及的话，可以离我远一点。"
+            },
+            "asset": "char_4116_blkkgt/CN_020"
+        },
+        {
+            "id": "char_4116_blkkgt_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Still mulling things over, Dr. Perfectionist?",
+                "jp": "まだ考えてるの、完璧主義者さん？",
+                "kr": "아직도 생각 중인가, 완벽주의자 씨?",
+                "cn": "还在思考吗，完美主义者？"
+            },
+            "asset": "char_4116_blkkgt/CN_021"
+        },
+        {
+            "id": "char_4116_blkkgt_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "You want my opinion?",
+                "jp": "私の意見が欲しいの？",
+                "kr": "내 의견이 궁금한 건가?",
+                "cn": "你在征求我的意见吗？"
+            },
+            "asset": "char_4116_blkkgt/CN_022"
+        },
+        {
+            "id": "char_4116_blkkgt_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "How soon do you want them gone?",
+                "jp": "どれくらいの時間で片付ければいい？",
+                "kr": "언제까지 처리하면 될까?",
+                "cn": "你希望我用多少时间解决他们？"
+            },
+            "asset": "char_4116_blkkgt/CN_023"
+        },
+        {
+            "id": "char_4116_blkkgt_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "You can go do something else.",
+                "jp": "もうここは目を離してもいいわ。",
+                "kr": "이제 여기는 신경 쓰지 않아도 돼.",
+                "cn": "你可以去处理别的事了。"
+            },
+            "asset": "char_4116_blkkgt/CN_024"
+        },
+        {
+            "id": "char_4116_blkkgt_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Emotion is meaningless here.",
+                "jp": "ここでは、感情に意味なんてない。",
+                "kr": "이곳에서 감정은 아무 의미도 없어.",
+                "cn": "情绪在这里没有意义。"
+            },
+            "asset": "char_4116_blkkgt/CN_025"
+        },
+        {
+            "id": "char_4116_blkkgt_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Conviction will throw you off pace.",
+                "jp": "信念がその歩調をかき乱す。",
+                "kr": "신념이 네 발걸음을 흐트러뜨릴 거다.",
+                "cn": "信念会打乱你的步调。"
+            },
+            "asset": "char_4116_blkkgt/CN_026"
+        },
+        {
+            "id": "char_4116_blkkgt_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Still soaking yourself in the past?",
+                "jp": "いつまで過去に浸ってるの？",
+                "kr": "아직도 과거에 사로잡혀 있는 건가?",
+                "cn": "还沉浸在过往之中吗？"
+            },
+            "asset": "char_4116_blkkgt/CN_027"
+        },
+        {
+            "id": "char_4116_blkkgt_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Use your weapon to tell me who you are.",
+                "jp": "その武器で名乗りを上げなさい。",
+                "kr": "네가 누군지는, 네 무기로 알려 주도록.",
+                "cn": "用你的武器告诉我，你是谁。"
+            },
+            "asset": "char_4116_blkkgt/CN_028"
+        },
+        {
+            "id": "char_4116_blkkgt_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Whenever there's an avalanche in Kjerag, I always free my schedule to test my skills there. It's a rare form of recreation for me. Apparently, Rhodes Island won't be dull in that respect, at the very least.",
+                "jp": "イェラグが雪崩に見舞われる度に腕試しに出かけたものだけど、あれは数少ない気晴らしの一つになってたわ。そういう話で言うと、ロドスにいれば退屈しなそうね。",
+                "kr": "쉐라그에서는 눈사태가 일어날 때마다 시간을 내서 내 실력을 시험해 보곤 했지, 그건 내 몇 안 되는 소일거리 중 하나였어. 보아하니, 적어도 로도스 아일랜드에선 이런 쪽으로 지루하지는 않을 것 같네.",
+                "cn": "谢拉格每逢雪崩，我都会抽空去试试身手，那是我为数不多的消遣。看来，至少在这方面罗德岛不会无聊。"
+            },
+            "asset": "char_4116_blkkgt/CN_029"
+        },
+        {
+            "id": "char_4116_blkkgt_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Your face just now... it seems the expression 'fowls of a feather flock together' is indeed true.",
+                "jp": "さっきのあなたの顔……「類は友を呼ぶ」って言葉は正しかったのね。",
+                "kr": "당신의 방금 그 표정을 보니…… '유유상종'이란 말이 틀리진 않은 것 같네.",
+                "cn": "你刚才的表情......“物以类聚”的说法看来是正确的。"
+            },
+            "asset": "char_4116_blkkgt/CN_030"
+        },
+        {
+            "id": "char_4116_blkkgt_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "I let a few get away, as you bid me. What next?",
+                "jp": "お望み通り何人か逃がしたけど、次は何をすればいい？",
+                "kr": "네가 요구한 대로 몇 놈 놓아 줬어. 다음은 뭘 하면 되지?",
+                "cn": "按照你的要求放过了几个，下一步呢？"
+            },
+            "asset": "char_4116_blkkgt/CN_031"
+        },
+        {
+            "id": "char_4116_blkkgt_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Hold my hand tight, and your breath with it. What comes next might be a little disorienting, but press on.",
+                "jp": "私の手をしっかり握って、息を止めて。少し浮遊感があるかもしれないけど、しばらく我慢してちょうだい。",
+                "kr": "내 손을 잡고 숨을 참아. 붕 뜨는 느낌이 좀 들 텐데, 잠깐만 견뎌봐.",
+                "cn": "抓紧我的手，屏住呼吸。接下来会有点失重感，忍一忍。"
+            },
+            "asset": "char_4116_blkkgt/CN_032"
+        },
+        {
+            "id": "char_4116_blkkgt_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "We have to use codenames here? That's obnoxious.",
+                "jp": "ここではコードネームで呼び合うの？面倒ね。",
+                "kr": "여기선 서로 코드네임으로 불러야 한다고? 귀찮군.",
+                "cn": "在这里要叫别人代号？麻烦。"
+            },
+            "asset": "char_4116_blkkgt/CN_033"
+        },
+        {
+            "id": "char_4116_blkkgt_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "You'll need to try a little harder if you want to pick up my degenbrecher.",
+                "jp": "私の得物を持ち上げるには少し力がいるわ。",
+                "kr": "내 무기를 들기 위해선, 조금 더 힘이 있어야 할 텐데.",
+                "cn": "想拿起我的锏需要一点力气。"
+            },
+            "asset": "char_4116_blkkgt/CN_034"
+        },
+        {
+            "id": "char_4116_blkkgt_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Here. You left this file in the meeting room. It's fine, I'm used to doing this.",
+                "jp": "これ、前回の会議の資料だけど、会議室に置きっぱなしだったわ。別に。慣れてるから。",
+                "kr": "자 여기, 저번 회의 자료다. 회의실에 놓고 갔더군. 괜찮아, 익숙하거든.",
+                "cn": "给你，上个会议的文件，你落在会议室了。没事，我习惯了。"
+            },
+            "asset": "char_4116_blkkgt/CN_036"
+        },
+        {
+            "id": "char_4116_blkkgt_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4116_blkkgt/CN_037"
+        },
+        {
+            "id": "char_4116_blkkgt_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Doctor, you know how busy your schedule is today, yes?",
+                "jp": "ドクター、今日どれくらい予定が詰まってるかは把握してるわね？",
+                "kr": "박사, 오늘 스케줄이 얼마나 꽉 차있는지는 잘 알고 있겠지?",
+                "cn": "博士，你应该记得自己今天有多少行程安排吧？"
+            },
+            "asset": "char_4116_blkkgt/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Nina-Mercedes Rühl",
+            "global": "Nina-Mercedes Rühl"
+        },
+        "cn": {
+            "native": "吴迪",
+            "global": "Di Wu"
+        },
+        "jp": {
+            "native": "高山みなみ",
+            "global": "Minami Takayama"
+        },
+        "kr": {
+            "native": "임윤선",
+            "global": "Lim Yoon-seon"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

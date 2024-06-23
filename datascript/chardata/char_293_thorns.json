@@ -35,7 +35,7 @@
             "text": {
                 "en": "Separation and analysis of the extract are almost complete, next step is purification. Actual effect needs further testing... Huh? Why are you staring at my hair, Doctor? My hair... is a total mess? Don't worry about it. Wouldn't be the first time my experiment has failed, or the second.",
                 "jp": "抽出液の分離と解析はほとんど済んだ。次は純化作業だが、実際の効果についてはまだ実験が必要だ……なんだ？ドクター、俺の髪がどうかしたか？髪が……爆発しているだと？気にするな、実験の失敗は一度や二度のことじゃない。",
-                "kr": "추출액의 분리와 해석은 거의 끝났다. 다음은 순화 작업인데, 실제 효과에 대해서는 아직 실험이 필요하다…… 뭐지? 박사, 내 머리카락이 어떻게 됐다고? 머리카락이…… 폭발하고 있다고? 신경 쓰지 마라, 실험 실패는 한두 번 있는 일이 아니니.",
+                "kr": "추출액의 분리와 분석은 거의 끝났다. 다음은 정제 작업인데, 실제 효과에 대해서는 아직 실험이 필요하다…… 음? 왜 내 머리카락을 보고 있는 거지, 박사? 머리가…… 폭탄 맞은 것 같다고? 신경 쓰지 마라, 실험 실패는 한두 번 있는 일이 아니니.",
                 "cn": "提取液的分离和解析已经差不多了，下一步就是提纯，实际效果还有必要再实验一下......嗯？为什么盯着我的头发看，博士。头发......爆炸了？不要在意，实验失败已经不是一次两次了。"
             },
             "asset": "char_293_thorns/CN_002"
@@ -67,7 +67,7 @@
             "text": {
                 "en": "Always keep your mind running. Giving up on thought is tantamount on handing your keys to your enemies. I've been taught this many times, and always think back to it.",
                 "jp": "常に頭は動かし続けろ。思考を放棄してしまえば、自身の急所を相手に委ねるようなものだ。俺はかつてそのように教わった。たまたま今も記憶に残っているだけだけどな。",
-                "kr": "언제나 머리를 계속 굴려라. 생각하길 포기하는 건 자신의 급소를 상대방에게 맡기는 거나 다름없다. 나는 전에 그렇게 배웠다. 어쩌다 보니 지금도 기억에 남아있을 뿐이지만 말이야.",
+                "kr": "언제나 머리를 계속 굴려라. 생각하길 포기하는 건 약점을 적에게 맡기는 거나 다름없다. 나는 전에 그렇게 배웠다. 어쩌다 보니 지금도 기억에 남아있을 뿐이지만 말이야.",
                 "cn": "时刻保持头脑运转，放弃思考就等于把要害递到对方手上，我曾经被人这么教导过，也恰好一直记着。"
             },
             "asset": "char_293_thorns/CN_004"
@@ -99,7 +99,7 @@
             "text": {
                 "en": "If you are not a follower of the Laterano religion, it is best not to go to Iberia. Their so-called 'purest faith' is rooted in that land, and the people there are so pious that even the Laterano people are ashamed of it. As for me? None of that concerns me in the slightest.",
                 "jp": "ラテラーノ宗教の信徒でないなら、イベリアへは行かないほうがいい。彼らの言う「最も純粋な信仰」はあの土地に根付くものだ。現地の人々の敬虔さには、もしかしたらラテラーノ人ですら引け目を感じるほどだ。俺？俺はこの話とは関係ないさ。",
-                "kr": "라테라노 종교의 신도가 아니라면 이베리아에는 가지 않는 게 좋아. 그들이 말하는 '가장 순수한 신앙'은 그 땅에 깊게 뿌리 내렸으니. 현지 사람들의 경건함은 아마 라테라노 사람들조차 열등감을 느낄 정도다. 나? 나는 이 이야기와 관계없다.",
+                "kr": "라테라노 종교의 신도가 아니라면 이베리아에는 가지 않는 게 좋아. 그들이 말하는 '가장 순수한 신앙'은 그 땅에 깊게 뿌리를 내렸다. 현지 사람들의 경건함은 어쩌면 라테라노 사람들조차 부끄러움을 느끼게 할 정도지. 나? 나는 이 이야기와 상관없다.",
                 "cn": "如果你不是拉特兰宗教的信徒，就最好别去伊比利亚。他们所谓的“最纯正的信仰”就根植在那片土地上，那里的人虔诚得恐怕就连拉特兰人也得自愧弗如。我？这些都同我没有什么关系。"
             },
             "asset": "char_293_thorns/CN_006"
@@ -115,7 +115,7 @@
             "text": {
                 "en": "Doctor, have you heard anything about the past history of the Iberian Correctional Army? If you've heard even anything remotely relevant, you should know that the inhabitants of that chunk of land are far crazier than their cold, plain gray buildings suggest.",
                 "jp": "ドクター、イベリア懲罰軍の歴史を知っているか？少しでも噂を耳にしたことがあるなら知っているだろう。あの土地に住む者たちには、その冷たく厳かな灰白の建造物からは想像もできないほどの狂気を孕んでいることを。",
-                "kr": "박사, 이베리아 징벌군의 역사에 대해 알고 있나? 조금이라도 소문을 들어본 적이 있다면 알겠지. 그 땅에 사는 자들은 그 차갑고 엄숙한 회백색 건축물보다 상상도 할 수 없을 만큼 광기를 품고 있다는 것을.",
+                "kr": "박사, 이베리아 징벌군의 역사에 대해 알고 있나? 조금이라도 소문을 들어본 적이 있다면 알겠지. 그 땅에 사는 자들은 그들의 차갑고 엄숙한 회백색 건축물보다 상상도 할 수 없을 만큼의 광기를 품고 있다는 것을.",
                 "cn": "博士，你知晓伊比利亚惩戒军过去的历史吗？只要你曾听过任何一点相关的只言片语，就应该会知道，那片土地上的居住者，远比他们冷厉素朴的灰白建筑要疯狂得多。"
             },
             "asset": "char_293_thorns/CN_007"
@@ -195,7 +195,7 @@
             "text": {
                 "en": "Hmm... This information does have some merit.",
                 "jp": "ああ……この資料、確かに役に立つところもある。",
-                "kr": "그렇군…… 이 자료, 확실히 도움이 되는 점도 있군.",
+                "kr": "흠…… 이 자료, 확실히 도움이 되는 점도 있군.",
                 "cn": "嗯......这些资料确实有可取之处。"
             },
             "asset": "char_293_thorns/CN_012"
@@ -275,7 +275,7 @@
             "text": {
                 "en": "Let's make this quick. My time is valuable.",
                 "jp": "速戦即決しよう。俺の貴重な時間を無駄にしないためにもな。",
-                "kr": "속전속결로 끝내자. 내 귀중한 시간을 허비하지 않기 위해서라도 말이야.",
+                "kr": "속전속결로 끝내지. 내 시간은 귀중하니까.",
                 "cn": "速战速决，我的时间很宝贵。"
             },
             "asset": "char_293_thorns/CN_019"
@@ -339,7 +339,7 @@
             "text": {
                 "en": "This won't take long.",
                 "jp": "時間をかけるつもりはない。",
-                "kr": "시간을 들일 생각은 없어.",
+                "kr": "오래 걸리진 않을 거다.",
                 "cn": "不会花费太长时间的。"
             },
             "asset": "char_293_thorns/CN_023"
@@ -355,7 +355,7 @@
             "text": {
                 "en": "Let's just incapacitate them and move on.",
                 "jp": "全員の行動力を奪う、それでいいだろう。",
-                "kr": "모두의 행동력을 빼앗는다, 그거면 되겠지.",
+                "kr": "모두의 행동을 제압한다, 그거면 되겠지.",
                 "cn": "让他们都失去行动力，就可以了吧。"
             },
             "asset": "char_293_thorns/CN_024"
@@ -371,7 +371,7 @@
             "text": {
                 "en": "Stop moving around. It'll spare all of us the effort.",
                 "jp": "動き回るな、そうすればお互い手間が省けるだろ。",
-                "kr": "돌아다니지 마라. 그러면 서로 수고를 덜 하게 될 테니.",
+                "kr": "움직이지 마라. 그러면 서로 수고를 덜 하게 될 테니.",
                 "cn": "别乱动，让我们都省些功夫。"
             },
             "asset": "char_293_thorns/CN_025"
@@ -467,7 +467,7 @@
             "text": {
                 "en": "There was an omission in your command, and my improper execution amplified this omission. We should both reflect upon this after we return.",
                 "jp": "お前の指揮ミスを、俺の不手際でさらに大きくしてしまったようだ。戻ってから共に反省会だな。",
-                "kr": "너의 지휘 실수를 내 서투름으로 더 크게 만든 것 같군. 돌아가면 함께 반성하는 시간을 가져야겠어.",
+                "kr": "내 서투름으로 네 지휘 실수가 더 두드러진 것 같군. 돌아가면 함께 반성하는 시간을 가져야겠어.",
                 "cn": "你的指挥有疏漏，而我的执行不当放大了这个疏漏。回去之后我们可以一起反省。"
             },
             "asset": "char_293_thorns/CN_031"
@@ -515,7 +515,7 @@
             "text": {
                 "en": "Shoot, the potion's going to spill.",
                 "jp": "まずい、薬剤が漏れてきた。",
-                "kr": "이런, 약제가 새어 나왔어.",
+                "kr": "이런, 약제가 새어 나왔잖아.",
                 "cn": "不好，药剂洒出来了。"
             },
             "asset": "char_293_thorns/CN_034"
@@ -563,7 +563,7 @@
             "text": {
                 "en": "You seem tired. Should I help wake you up, Doctor?",
                 "jp": "疲れが溜まっているようだな。俺が目を覚ましてやろうか、ドクター。",
-                "kr": "피로가 쌓인 모양이군. 내가 눈을 뜨게 해줄까, 박사.",
+                "kr": "피로가 많이 쌓인 모양이군. 잠 깰 수 있게 좀 도와줄까, 박사.",
                 "cn": "你看起来似乎很疲倦，要不要我来帮你清醒一下，博士。"
             },
             "asset": "char_293_thorns/CN_042"
@@ -577,10 +577,15 @@
         "jp": {
             "native": "石川界人",
             "global": "Kaito Ishikawa"
+        },
+        "kr": {
+            "native": "홍범기",
+            "global": "Hong Bum-ki"
         }
     },
     "availability": [
         "cn",
-        "jp"
+        "jp",
+        "kr"
     ]
 }

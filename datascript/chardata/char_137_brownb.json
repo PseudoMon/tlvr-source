@@ -49,7 +49,7 @@
                 "cn": "交谈2"
             },
             "text": {
-                "en": "Honey's sweet, but getting it hurts. I went for some the other day and the bees served me up some beating.",
+                "en": "Honey's sweet, but getting it hurts. I went for some the other day… They really give me a hard lesson.",
                 "jp": "ハチミツはうまいけどさ、集めるのは大変なんだ。この前採りに行った時は……まぁボロボロにされたぜ。",
                 "kr": "벌꿀은 맛있지만 모으기가 영 쉽지 않단 말이지. 저번에 따러 갔을 때도…… 아주 엉망진창이 됐었다니까.",
                 "cn": "蜂蜜真好喝，但收集起来真是麻烦。前几天去采蜜的时候啊......我被蛰得不轻啊。"
@@ -65,7 +65,7 @@
                 "cn": "交谈3"
             },
             "text": {
-                "en": "My knucklers? They're my precious babies. Wouldn't have racked up all those wins without 'em!",
+                "en": "My knuckles? Haha~ They're my precious babies. Wouldn't have racked up all those wins without 'em!",
                 "jp": "このナックル？これはアタイの宝だぜ。全勝の成績を残せてるのはコイツのおかげさ。",
                 "kr": "이 너클? 내 보물이야. 전승의 성적을 거둔 것도 이 녀석 덕분이지.",
                 "cn": "这对指虎？这可是我的宝贝。我的全胜战绩，可全是靠它打出来的！"
@@ -129,7 +129,7 @@
                 "cn": "信赖提升后交谈2"
             },
             "text": {
-                "en": "My book of names here? Hah, looks like that big brain of yours doesn't know everything. Gotta meet people to fight people, right? I don't want to run out of enemies.",
+                "en": "My book of names here? Ah, looks like that big brain of yours doesn't know everything. Gotta meet people to fight people, right? I don't want to run out of enemies.",
                 "jp": "ん？なんで名簿ばかり読んでるかって？フフン。わかんねぇかボス。知り合いを増やさねぇと、一緒に喧嘩できるヤツも増えねぇだろ？",
                 "kr": "응? 왜 명단만 보고 있냐고? 후후. 뭘 모르네, 보스. 아는 사람을 늘려놔야 나중에 같이 싸울 수 있는 녀석들도 늘어날 거 아니야.",
                 "cn": "欸？为什么要翻这份名册？哼哼，老板这就不懂了吧，不给自己增加点熟人，回头不就没有打架的对手了吗？"
@@ -161,7 +161,7 @@
                 "cn": "闲置"
             },
             "text": {
-                "en": "*Sniff sniff* Smells like grilled fish!",
+                "en": "Smells like grilled fish!",
                 "jp": "焼き魚の匂いがするぜ！",
                 "kr": "생선구이 냄새가 나는데!",
                 "cn": "有烤鱼的味道！"
@@ -257,7 +257,7 @@
                 "cn": "任命队长"
             },
             "text": {
-                "en": "Oooh yeah! Chow's on me after we win this one!",
+                "en": "Chow's on me after we win this one!",
                 "jp": "よーし！勝ったら全員にメシ奢るぜ！",
                 "kr": "좋아~! 이기면 모두한테 밥 쏜다!",
                 "cn": "好！打赢之后我请各位吃饭！"
@@ -353,7 +353,7 @@
                 "cn": "部署2"
             },
             "text": {
-                "en": "All right, let's do this.",
+                "en": "Let's do this.",
                 "jp": "よし、わかったぜ。",
                 "kr": "그래, 알았어.",
                 "cn": "好，就这么办。"
@@ -401,7 +401,7 @@
                 "cn": "作战中3"
             },
             "text": {
-                "en": "One-two One-two One-two!",
+                "en": "One-two, one-two, one-two!",
                 "jp": "オラオラオラオラ！",
                 "kr": "으다다다다닷!",
                 "cn": "打打打打打！"
@@ -481,7 +481,7 @@
                 "cn": "行动失败"
             },
             "text": {
-                "en": "Ouch… *Gasp* Where's the Boss? Is the Boss okay?!",
+                "en": "Ouch… Where's the Boss? Is the Boss okay?!",
                 "jp": "いってぇな……ボスは？ボスは無事か？",
                 "kr": "아파라…… 보스는? 보스는 무사해?",
                 "cn": "真疼......老板呢？没事吧？"
@@ -529,7 +529,7 @@
                 "cn": "信赖触摸"
             },
             "text": {
-                "en": "You brought food? Yeah! You're the best, Boss!",
+                "en": "You brought food? You're the best, Boss!",
                 "jp": "うまいもん？最高だぜ、ボス！",
                 "kr": "맛있는 거잖아? 최고야, 보스!",
                 "cn": "有好吃的给我吗？太棒了，老板！"
@@ -561,7 +561,7 @@
                 "cn": "问候"
             },
             "text": {
-                "en": "Sup, Boss.",
+                "en": "What's up, Boss.",
                 "jp": "おーっす、ボス。",
                 "kr": "여어, 보스~",
                 "cn": "早啊老板。"
@@ -570,6 +570,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Emma Breezy",
+            "global": "Emma Breezy"
+        },
         "cn": {
             "native": "忙音",
             "global": "Duduru"
@@ -584,6 +588,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

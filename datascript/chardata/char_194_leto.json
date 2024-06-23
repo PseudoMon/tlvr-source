@@ -1,0 +1,601 @@
+{
+    "charid": "char_194_leto",
+    "nameid": "leto",
+    "names": {
+        "en": "Leto",
+        "jp": "リェータ",
+        "kr": "레토",
+        "cn": "烈夏"
+    },
+    "voices": [
+        {
+            "id": "char_194_leto_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Make you a deal, Doctor. I'll help you with work, and you teach me whatever it is you're good at. What do you think? Shake on it?",
+                "jp": "ドクター、物は相談なんだけどさ、仕事を手伝ってやっからお前のテクを伝授してくれねぇか。どうだ？取引成立か？",
+                "kr": "잠깐 상담할 일이 있는데, 박사. 내가 일을 도와줄 테니까, 넌 나한테 기술을 가르쳐 줘. 어때? 거래 콜?",
+                "cn": "商量一下，博士，我帮你干活，你教我你会的本事，怎么样？成交？"
+            },
+            "asset": "char_194_leto/CN_001"
+        },
+        {
+            "id": "char_194_leto_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Doctor, you know this language, don't you? How do you pronounce this word…? Ooh, that's right! I remember now. I knew I could count on you, Doctor. Just wait till I get back from my trip, I'll have a souvenir for you!",
+                "jp": "ドクター、ここの言葉は知ってっか？この単語はなんて読むんだ？……おぅ、そうだそうだ、思い出した。そんな発音だったな！やっぱドクターはすげぇな、お前に聞きゃ一発だと思ってたよ。旅行から戻ったら土産やっから、首長くして待ってろよ！",
+                "kr": "박사, 여기 말 할 줄 알아? 이 단어는 어떻게 읽더라? ……아 맞네 맞네, 생각났어. 그래, 이 발음이었어! 대단한데, 박사. 역시 박사한테 물어보면 해결될 줄 알았다니까. 나중에 여기 여행 갔다가 돌아올 때, 그쪽 특산품을 선물로 사다 줄 테니까 기대해!",
+                "cn": "博士，你学过这儿的语言不，这个单词要怎么念？......哦对对，我想起来了，就是这个发音！厉害啊博士，我就知道问你一定能行。等着，回头我从那旅游回来了，给你带特产！"
+            },
+            "asset": "char_194_leto/CN_002"
+        },
+        {
+            "id": "char_194_leto_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Heh! Hah—! Get up, all of you! Weren't you going to fight the USSG? Now look at you all, lying on the ground already! Bunch of babies. You don't see my girls much on the landship these days, but there was a time when we followed the Doctor around, conquering the world... Yow! Anna...? Why'd you hit me?",
+                "jp": "おらっ！はぁーっ！寝てねぇで起きやがれ！うちの自治団を超えるんじゃなかったのかよ。このくらいでへばっちまうのか？チビどもよーく聞け、今となっちゃ本艦にいねぇことも多いけど、姉ちゃんたちがドクターと一緒にそこら中ぶっ潰して回ってた頃はな……痛っ、アンナ、急に頭叩くこたぁねぇだろ！",
+                "kr": "핫! 이얍! 자자, 모두 일어나! 우리 학생 자치단에 도전하겠다는 녀석들이 이렇게 쉽게 쓰러질 건 아니겠지? 내 말 잘 들어, 꼬맹이들아. 이 언니들이 지금은 자주 함선을 비우지만, 왕년에 박사를 따라서 전장을 누비고 다녔을 적에는 말이야…… 아얏, 안나, 머리는 갑자기 왜 때리는 건데!",
+                "cn": "喝！哈——！起来，都起来！不是要挑战我们学生自治团吗，怎么这就趴下了？一群毛孩子，姐姐们现在虽然不常在舰上，但当年跟着博士大杀四方的时候......哎呦，安娜，你干嘛敲我头啊！"
+            },
+            "asset": "char_194_leto/CN_003"
+        },
+        {
+            "id": "char_194_leto_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Honey drunk? Who's honey drunk? Beehunter? I told her to slow down already, but she won't listen. And now she'sh all drunk and shays I'm the one getting... Wait... Doctor... Shtand shtill, shtop... shaking... yer making me dizzshy...",
+                "jp": "ハチミツ酔い？誰のこと言ってんだよ、ビーハンターか？飲みすぎんなって言ったんだけどさ、あいつときたら聞く耳もたねぇし、自分が酔っ払ってるくせに私の方が酔ってるとか……あ、ちょっと待て、動くなドクター、ふらふらしねぇで真っ直ぐ立っててくれよ。頭がくらくらすっから……",
+                "kr": "꿀에 취했냐고? 누가 꿀에 취했다는 거야, 비헌터? 적당히 좀 마시라고 그렇게 말했는데, 쟨 듣지도 않아. 취한 건 지면서 꼭 나보고 취했다고…… 잠깐 박사, 가만히 좀 있어 봐. 흔들거리지 말고 똑바로 좀 서 있어. 어지럽다고……",
+                "cn": "醉蜜？谁醉蜜了，猎蜂吗？都说别喝那么多了，她偏不听，明明就是自己醉了，还非说我......等会，博士，你站着、站着别动，别晃了，我头晕......"
+            },
+            "asset": "char_194_leto/CN_004"
+        },
+        {
+            "id": "char_194_leto_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "What are Sonya and the girls going to do? You're asking the wrong one, Doctor. We're friends, yeah. But aside from Lada, the rest of them don't really talk to me about that kinda stuff. Especially Sonya—she'll go to Anna when she needs something, maybe Natalya, but she'd never come to me.",
+                "jp": "ソニアたちの将来設計？聞く相手間違えてんだろドクター。そりゃ私たちは友達だけど、ラーダ以外の奴はほとんど私にそういう話をしてこねぇからな……特にソニアの奴は、なんかあったらだいたいアンナかナターリアに相談してるみてぇだし、とにかく私には言ってこねぇんだよ。",
+                "kr": "소냐랑 애들의 향후 계획? 질문할 사람을 잘못 고른 거 같은데, 박사. 우리가 친구긴 하지만, 라다 말고 다른 녀석들은 도통 나한테 그런 얘기를 잘 하지 않는다고…… 특히 소냐 걔는, 무슨 일이 있으면 안나나 나탈리아를 찾지, 날 찾진 않거든.",
+                "cn": "索尼娅她们将来的打算？这你就问错人了博士，我们确实是朋友，但除了拉达，其他人不怎么找我聊这些......特别是索尼娅，她有啥事不是找安娜就是找娜塔莉娅，反正不会找我。"
+            },
+            "asset": "char_194_leto/CN_005"
+        },
+        {
+            "id": "char_194_leto_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Lada had a secret talk with me recently. Said she wants to open a little shop in Ursus, and we could all chip in and get our share. As for the shop, it'll be our headquarter. All the girls can have regular meetups there. And I can go over to hang out whenever I miss her, too. It's gonna be great!",
+                "jp": "こないだラーダがこっそり相談しに来てな。ウルサスに戻って店をやりてぇから、みんなで金を出し合って一緒に出資者になろうとか言うんだ。そんで店を自治団のアジト代わりにして、定期的に集まるんだって。あいつに会いたくなったら、いつでも店に遊びに行けるし、サイコーだろ！",
+                "kr": "얼마 전에 라다가 몰래 찾아와서는, 우르수스로 돌아가서 가게를 열고 싶다고 그러더라. 그래서 우리끼리 자본금을 모아서 대주주가 되고, 그 가게를 자치단의 아지트로 삼아서 정기적으로 모이자고 했어. 그러면 나도 그 녀석 얼굴이 보고 싶을 때 언제든 그 가게에 놀러 갈 수도 있고, 최고잖아!",
+                "cn": "拉达前段时间偷偷找我商量，说想回乌萨斯开家小店，我们一人出一份本金，一起当大股东。那家店就是我们自治团的根据地，到时候我们就定期在她店里聚会。要是想她，我还能随时过去玩，多好！"
+            },
+            "asset": "char_194_leto/CN_006"
+        },
+        {
+            "id": "char_194_leto_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Has you-know-who been to Rhodes Island? Oh, so he spent a whole day sitting in the reception before you shooed him out...? Thanks for that. It's fine, I've got nothing to say to him anyway. Hmph, he wasn't there when I needed him, and now he feels bad enough to try to make up for it? Keep Dreaming!",
+                "jp": "もしかしてあの野郎がロドスに来てたのか？はぁ？応接室に丸一日居座った挙句、お前に追い出された？……あんがとな、それでいいぜ。今はアイツと話すことなんてなんもねぇからな。ふんっ、必要とされてた時にはツラすら見せなかったくせに、今さら後悔して罪滅ぼしなんてそんなうめぇ話があってたまっかよ！",
+                "kr": "그 망할 자식, 로도스 아일랜드에 왔었지? 응? 하루 종일 응접실에 앉아 있다 결국 너한테 쫓겨났다고? ……그럼 됐어, 고마워. 지금 난 그 사람이랑 하고 싶은 얘기가 없거든. 흥, 필요로 할 땐 코빼기도 안 비추다가 이제 와서 사과? 뻔뻔한 것도 정도가 있어야지!",
+                "cn": "那个人是不是来过罗德岛？欸，他在招待室坐了一整天，最后被你请走了？......谢了，这样就行，我现在和他没话说。哼，当初我需要的时候不出现，现在后悔想弥补，哪有那么容易！"
+            },
+            "asset": "char_194_leto/CN_007"
+        },
+        {
+            "id": "char_194_leto_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "What do I think? Ummm... first of all, you should stop treating us like kids. Come on, Doctor, you don't need to worry about us so much. If you have time, why don't you teach me a few more formulas for Anna's Math lessons? We've counted you as a friend all this time, so if there's really something bugging us, you'll definitely know.",
+                "jp": "みんなのトラウマについてどう思ってるかって？あのな、まずうちらを子供扱いすんのはもう止めろ。心配もいらねぇから、そんな暇があったらアンナを困らせてやれそうな数式をもっと教えてくれよ。うちらはもうお前をダチって認めてんだから、本気で悩みがあったら、お前に隠したりしねぇよ。",
+                "kr": "트라우마? 음, 난 말이지, 일단 네가 우릴 어린애 취급하는 걸 그만했으면 좋겠어. 걱정하지 마, 박사. 그럴 시간에 차라리 안나를 골탕먹일 방법이나 몇 가지 더 가르쳐 달라고. 우린 진작에 널 친구라고 생각하고 있으니까, 정말 고민이 있다면, 너한테 숨기지 않을 거야.",
+                "cn": "你问我怎么想？呃，我觉得，首先，你不该再这么把我们当孩子看待。别操心了，博士，有这个时间，不如多教我几条公式应付安娜。我们几个早就拿你当朋友看了，真要有心事，你会知道的。"
+            },
+            "asset": "char_194_leto/CN_008"
+        },
+        {
+            "id": "char_194_leto_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "I know we'll have to go our separate ways someday. But so what? We trust each other with our lives. The USSG won't fall apart, and we'll never forget the days we spent together. The same goes for you, Doctor. Call me anytime you need my help, and I'll be there, no matter what.",
+                "jp": "いつかみんな離れ離れになっちまうことくらい分かってるよ。それがなんだよ？うちらは命を預け合った仲だぜ。自治団は解散しねぇし、あの頃の日々を誰一人として忘れることはねぇ。お前もだ、ドクター。助けが必要な時はいつでも呼べよ。どこにいたってぜってぇ駆けつけてやる。",
+                "kr": "나도 알아, 언젠간 우리도 뿔뿔이 흩어질 날이 오겠지. 하지만 그게 뭐? 우린 같이 생사의 고비를 넘었고, 학생 자치단은 절대로 해산하지 않아. 우린 함께했던 나날을 영원히 잊지 않을 거야. 그리고 그건 너도 마찬가지야, 박사. 도움이 필요하다면 언제든 불러 줘. 네가 얼마나 멀리 있든, 반드시 달려가서 도와줄게.",
+                "cn": "我知道，我们几个总有要分开的一天。但那又怎么样？我们是过命的交情，学生自治团不会散，谁都不会忘记那段日子。还有你也一样，博士，需要的时候随时叫我，哪怕天涯海角，我一定赶到。"
+            },
+            "asset": "char_194_leto/CN_009"
+        },
+        {
+            "id": "char_194_leto_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Doctor, let me play you a refreshing tune on my guitar!",
+                "jp": "ドクター、眠気覚ましにギター聴かせてやるよ！",
+                "kr": "박사, 기타 쳐 줄 테니까 정신 차리는 거다!",
+                "cn": "博士，我来弹吉他给你提神吧！"
+            },
+            "asset": "char_194_leto/CN_010"
+        },
+        {
+            "id": "char_194_leto_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Hey, Doctor. You already know me, do we really still have to do this? Formalities matter, huh? Fine. Leto of the Ursus Student Self-government Group. Reporting in!",
+                "jp": "なあドクター、うちらの仲でわざわざこんなことやる必要あんのか？一応形だけでも？わかったよ。ウルサス学生自治団リェータ、ここに着任だ！",
+                "kr": "박사, 우리 사이에 굳이 이런 것까지 해야 해? 그래도 절차는 밟아야 한다고? 그래 알았어. 우르수스 학생 자치단, 레토. 지금 신고하겠다!",
+                "cn": "欸，博士，我们都这么熟了，我真的有必要做这种事吗？走一下形式？好吧。乌萨斯学生自治团，烈夏，报到！"
+            },
+            "asset": "char_194_leto/CN_011"
+        },
+        {
+            "id": "char_194_leto_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Meh, I've seen this one.",
+                "jp": "見たことあんぜこれ。",
+                "kr": "나 이거 본 적 있어.",
+                "cn": "这个我看过了。"
+            },
+            "asset": "char_194_leto/CN_012"
+        },
+        {
+            "id": "char_194_leto_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Sooooo…. How long did it take for Sonya to get promoted?",
+                "jp": "ソニアは昇進までどんだけかかったんだ？",
+                "kr": "소냐는 승진하는 데 얼마나 걸렸어?",
+                "cn": "索尼娅获得晋升花了多久？"
+            },
+            "asset": "char_194_leto/CN_013"
+        },
+        {
+            "id": "char_194_leto_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "What's this? Promotion gift for 'General Leto'? Ah... That's a name I've not heard in a long time. Time really flies, it's like years have gone by and I've done nothing.",
+                "jp": "なんだこりゃ？「夏将軍の昇進祝い」？ああ……なんか久々にそうやって呼ばれた気がするぜ。時間が経つのは早ぇなぁ、なーんもやってねぇのに何年も経っちまった。",
+                "kr": "이게 뭐야? '하장군한테 주는 승진 선물'? 아…… 그러고 보니 그 별명으로 안 불린 지도 꽤 됐네. 시간 참 빨라, 뭐 한 것도 없는 거 같은데 벌써 순식간에 몇 년이 지나가 버렸어.",
+                "cn": "这是什么？“给夏将军的晋升礼物”？啊......这么说来，已经很久没被人叫过这个外号了，时间过得真快，我好像都还没做什么，就过去好几年了。"
+            },
+            "asset": "char_194_leto/CN_014"
+        },
+        {
+            "id": "char_194_leto_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Field mission? Count me in!",
+                "jp": "外勤任務か？私も混ぜろ！",
+                "kr": "외근 임무야? 나도 껴줘!",
+                "cn": "要出外勤吗？算我一个！"
+            },
+            "asset": "char_194_leto/CN_017"
+        },
+        {
+            "id": "char_194_leto_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "For real? Are you trying to improve my teamwork again?",
+                "jp": "おい冗談だろ、またチームワークの練習かよ？",
+                "kr": "설마 농담이지? 또 그놈의 팀워크 훈련이야?",
+                "cn": "不是吧，又要锻炼我的团队作战能力？"
+            },
+            "asset": "char_194_leto/CN_018"
+        },
+        {
+            "id": "char_194_leto_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "I'll lead the way!",
+                "jp": "私が先陣を切る！",
+                "kr": "내가 앞에 설게!",
+                "cn": "我来带路！"
+            },
+            "asset": "char_194_leto/CN_019"
+        },
+        {
+            "id": "char_194_leto_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Requesting a solo op!",
+                "jp": "自由行動させてくれよ！",
+                "kr": "자유롭게 행동할 수 있게 해 줘!",
+                "cn": "我申请自由行动！"
+            },
+            "asset": "char_194_leto/CN_020"
+        },
+        {
+            "id": "char_194_leto_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "All warmed up!",
+                "jp": "ウォーミングアップ完了だ！",
+                "kr": "워밍업 완료!",
+                "cn": "热身完毕！"
+            },
+            "asset": "char_194_leto/CN_021"
+        },
+        {
+            "id": "char_194_leto_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "I can go anytime.",
+                "jp": "いつでもいけるぜ。",
+                "kr": "언제든 출격할 수 있어.",
+                "cn": "我随时都可以上场。"
+            },
+            "asset": "char_194_leto/CN_022"
+        },
+        {
+            "id": "char_194_leto_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "I'm in tip-top shape today.",
+                "jp": "サイコーのコンディションだ！",
+                "kr": "지금 컨디션 완전 좋아!",
+                "cn": "我现在的状态很好。"
+            },
+            "asset": "char_194_leto/CN_023"
+        },
+        {
+            "id": "char_194_leto_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "You're all dead! ",
+                "jp": "お前ら運がねぇな！",
+                "kr": "너희 운이 안 좋네!",
+                "cn": "你们倒霉了！"
+            },
+            "asset": "char_194_leto/CN_024"
+        },
+        {
+            "id": "char_194_leto_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "You thought that would knock me out?",
+                "jp": "そんなんで私を倒すつもりか？",
+                "kr": "고작 이 정도로 날 쓰러뜨리겠다고?",
+                "cn": "这就想打倒我？"
+            },
+            "asset": "char_194_leto/CN_025"
+        },
+        {
+            "id": "char_194_leto_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "You can't hide from me!",
+                "jp": "バレてねぇとでも思ってんのか！",
+                "kr": "거기 있는 건 진작에 알고 있었다고!",
+                "cn": "别以为我没发现你！"
+            },
+            "asset": "char_194_leto/CN_026"
+        },
+        {
+            "id": "char_194_leto_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Here's a few bolts to eat!",
+                "jp": "何発かお見舞いしてやるよ！",
+                "kr": "상으로 화살 몇 발 먹여주마!",
+                "cn": "赏你们几发弩箭！"
+            },
+            "asset": "char_194_leto/CN_027"
+        },
+        {
+            "id": "char_194_leto_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "I'll take on all of you!",
+                "jp": "全員で来やがれ！",
+                "kr": "전부 한꺼번에 덤벼!",
+                "cn": "你们一起上吧！"
+            },
+            "asset": "char_194_leto/CN_028"
+        },
+        {
+            "id": "char_194_leto_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Phew—I always thought I was pretty adventurous myself, but now? I think you really enjoy living life on the edge, Doctor.",
+                "jp": "ふぅ……昔の私もかなり危なっかしい奴だったけど、危ねぇ橋を渡りたがることにかけちゃお前が一番みてぇだな。",
+                "kr": "후우…… 난 내가 꽤 스릴을 즐긴다고 생각했었는데, 이제 보니 박사야말로 진정한 모험가였네.",
+                "cn": "呼——我一直以为以前的自己已经足够喜欢冒险了，但现在，我觉得博士才是最喜欢冒险的人。"
+            },
+            "asset": "char_194_leto/CN_029"
+        },
+        {
+            "id": "char_194_leto_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "We have to toast to occasions like these. Who wants in?",
+                "jp": "こういう時は一杯やってお祝いだろ。誰か一緒に飲もうぜ！",
+                "kr": "이럴 땐 축하주 한잔해야지. 같이 마실 사람?",
+                "cn": "这种时候，就该喝一杯庆祝一下。有人要一起喝吗？"
+            },
+            "asset": "char_194_leto/CN_030"
+        },
+        {
+            "id": "char_194_leto_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "This isn't over! I can still fight!",
+                "jp": "まだ終わってねぇ。私はまだ戦える！",
+                "kr": "아직 안 끝났어, 더 싸울 수 있다고!",
+                "cn": "还没完呢，我还可以继续战斗！"
+            },
+            "asset": "char_194_leto/CN_031"
+        },
+        {
+            "id": "char_194_leto_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "No way I'm gonna swallow this... Can we go one more round?",
+                "jp": "納得いかねぇ。もう一回戦らしてもらえねぇか？",
+                "kr": "이 결과, 납득 못하겠어. 한 판 더 붙어보면 안 돼?",
+                "cn": "我不甘心，我们能再来一次吗？"
+            },
+            "asset": "char_194_leto/CN_032"
+        },
+        {
+            "id": "char_194_leto_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "I've been here a while, but I still gotta say... Rhodes Island is crazy big.",
+                "jp": "ここに来てもう長ぇけど、やっぱりロドスって広ぇな。",
+                "kr": "여기서 지낸 지도 꽤 됐지만, 역시 로도스 아일랜드는 엄청 넓다니까.",
+                "cn": "虽然已经待了很久，但我还是想说，罗德岛好大啊。"
+            },
+            "asset": "char_194_leto/CN_033"
+        },
+        {
+            "id": "char_194_leto_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "What? An ambush?",
+                "jp": "奇襲か！？",
+                "kr": "기습인가!?",
+                "cn": "居然是偷袭？！"
+            },
+            "asset": "char_194_leto/CN_034"
+        },
+        {
+            "id": "char_194_leto_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Doctor, are you heading to Medical too? Let's go together!",
+                "jp": "ドクター、医療部に行くのか？ちょうどよかった、私も一緒に行くぜ！",
+                "kr": "박사, 의료부에 가는 거야? 마침 나도 가는 길이었는데!",
+                "cn": "博士，你要去医疗部吗？我正好和你一起去！"
+            },
+            "asset": "char_194_leto/CN_036"
+        },
+        {
+            "id": "char_194_leto_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_194_leto/CN_037"
+        },
+        {
+            "id": "char_194_leto_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Doctor, want a drink?",
+                "jp": "ドクター、一杯どうだ？",
+                "kr": "박사, 한잔할래?",
+                "cn": "博士，来一杯吗？"
+            },
+            "asset": "char_194_leto/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Christina Sherman",
+            "global": "Christina Sherman"
+        },
+        "cn": {
+            "native": "陈雨",
+            "global": "Yu Chen"
+        },
+        "jp": {
+            "native": "朝井彩加",
+            "global": "Ayaka Asai"
+        },
+        "kr": {
+            "native": "이달래",
+            "global": "Lee Dal-lae"
+        },
+        "rus": {
+            "native": "Ivanova Lina",
+            "global": "Ivanova Lina"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr",
+        "rus"
+    ]
+}
