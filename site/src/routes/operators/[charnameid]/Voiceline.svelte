@@ -25,7 +25,7 @@
 {#if voicedata}
 <div class="voiceline" class:en={$currentLang === "en"}>
   <h2>{voicedata.title[$currentLang]}</h2>
-  <div>{voicedata.text[$currentLang]}</div>
+  <div>{@html voicedata.text[$currentLang]}</div>
 </div>
 
 <AudioPlayer 
