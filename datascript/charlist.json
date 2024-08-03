@@ -1272,6 +1272,18 @@
         "rating": 5
     },
     {
+        "nameid": "leto",
+        "numberid": "194",
+        "name": {
+            "en": "Leto",
+            "jp": "リェータ",
+            "kr": "레토",
+            "cn": "烈夏"
+        },
+        "nation": "ursus",
+        "rating": 5
+    },
+    {
         "nameid": "chimes",
         "numberid": "4083",
         "name": {
@@ -1941,6 +1953,18 @@
             "cn": "蜜莓"
         },
         "nation": "rim",
+        "rating": 5
+    },
+    {
+        "nameid": "harold",
+        "numberid": "4114",
+        "name": {
+            "en": "Harold",
+            "jp": "ハロルド",
+            "kr": "해럴드",
+            "cn": "哈洛德"
+        },
+        "nation": "victoria",
         "rating": 5
     },
     {
@@ -3501,6 +3525,18 @@
             "cn": "艾丽妮"
         },
         "nation": "iberia",
+        "rating": 6
+    },
+    {
+        "nameid": "blkkgt",
+        "numberid": "4116",
+        "name": {
+            "en": "Degenbrecher",
+            "jp": "デーゲンブレヒャー",
+            "kr": "데겐블레허",
+            "cn": "锏"
+        },
+        "nation": "kjerag",
         "rating": 6
     },
     {

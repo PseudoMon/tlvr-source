@@ -15,6 +15,7 @@ base_chardicturl = "https://raw.githubusercontent.com/050644zf/ArknightsStoryJso
 chardictsurls = getregurls(base_chardicturl)
 
 base_avatar = "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_{}.png"
+base_avatar2 = "https://raw.githubusercontent.com/aelurum/MayerBotPics/master/avatars/char_{}.webp"
 
 base_charwordurl = "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData_YoStar/master/{}/gamedata/excel/charword_table.json"
 charwordsurls = getregurls(base_charwordurl)
@@ -79,8 +80,9 @@ def grab_all_chartable():
 
 def grab_avatar(char):
     fullid = f"{char['numberid']}_{char['nameid']}"
-    url = base_avatar.format(fullid)
-    target = path.join("images", "avatars", f"{fullid}.png") 
+    #url = base_avatar.format(fullid)
+    url = base_avatar2.format(fullid)
+    target = path.join("images", "avatars2", f"{fullid}.webp") 
 
     if path.isfile(target):
         print("Image already exists. Skipping...")
@@ -112,9 +114,9 @@ def grab_factions():
         download_image(url, f"images/factions/{faction}.png")
 
 if __name__ == "__main__":
-    grab_all_charword_tables()
-    grab_all_chartable()
+    #grab_all_charword_tables()
+    #grab_all_chartable()
 
     # Run these after we got a charlist!
     # grab_factions()
-    # grab_avatars()
+    grab_avatars()
