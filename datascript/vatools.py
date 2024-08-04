@@ -28,6 +28,22 @@ def get_all_vadata():
 
 	return vadata
 
+def get_all_vadata_perchar():
+	all_datafiles = glob.glob("chardata/*.json")
+	allchars = []
+
+	for charafile in all_datafiles:
+		charadata = load_json(charafile)
+		combo = {
+			"nameid": charadata["nameid"], 
+			"names": charadata["names"],
+			"actors": charadata["actors"],
+		}
+		print(combo)
+		allchars.append(combo)
+
+	return allchars
+
 def weed_out_nonmulti(vadata):
 	# Take out everyone who's only voiced one character
 	final_vadata = {}
@@ -44,8 +60,11 @@ def weed_out_nonmulti(vadata):
 
 	return final_vadata
 
-def get_and_save_vadata():
-	vadata = weed_out_nonmulti(get_all_vadata())
+def get_and_save_vadata(nomulti = False):
+	if nomulti:
+		vadata = weed_out_nonmulti(get_all_vadata())
+	else:
+		vadata = get_all_vadata()
 	save_json(vadata, "vadata.json")
 	print("Saved data to vadata.json")
 
@@ -62,4 +81,5 @@ def get_shared_va(vadata, nameid):
 	return shared_va
 
 if __name__ == "__main__":  
-	get_and_save_vadata()
+	#get_and_save_vadata()
+	save_json(get_all_vadata_perchar(), "vadata-alt.json")

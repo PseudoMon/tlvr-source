@@ -834,6 +834,11 @@ svelte-preprocess@^5.0.4:
     sorcery "^0.11.0"
     strip-indent "^3.0.0"
 
+svelte-table@^0.6.3:
+  version "0.6.3"
+  resolved "https://registry.yarnpkg.com/svelte-table/-/svelte-table-0.6.3.tgz#ee9096c4516ce25be1bce881e12a3aeefe777c3d"
+  integrity sha512-hRupgSslAiN4c+6xF2/amA5jlcrHG6qsmFNy0o9AEqSlaQTidEyKynQIJKnVVpyCxJESz4NTJ4/fxdHvQdIOtg==
+
 svelte@^4.0.5:
   version "4.2.0"
   resolved "https://registry.yarnpkg.com/svelte/-/svelte-4.2.0.tgz#0e4304c15524450b22fba02516eb72efbd8847b6"
