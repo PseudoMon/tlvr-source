@@ -17,9 +17,9 @@
                 "cn": "任命助理"
             },
             "text": {
-                "en": "Become an assistant? If the job is similar to that of a priestess of the Hall of the Twelve Heroes, I shall be fine.",
+                "en": "You would have me as your assistant? Well, if the said duty is akin to my last, where I served within the Hall of the Twelve Heroes as its priest, I shall be fine, I assume.",
                 "jp": "助手ですか？十二英雄殿の祭司と同じようなお仕事なら、恐らくお役に立てるかと。",
-                "kr": "조수 말입니까? 12영웅의 전당의 제사장과 비슷한 일이라면 아마 도움을 드릴 수 있을 것 같군요.",
+                "kr": "조수 말입니까? 12영웅의 전당의 제사장과 비슷한 업무라면 아마 도움을 드릴 수 있을 것 같군요.",
                 "cn": "担任助理？和十二英雄殿里的祭司职责相似的话，我应该能做好吧。"
             },
             "asset": "char_485_pallas/CN_001"
@@ -33,9 +33,9 @@
                 "cn": "交谈1"
             },
             "text": {
-                "en": "Ugh... Ehem, I must not drink, drink so much next time... Ah, Dr. {@nickname}. Why do you sway, so much in your movement today?",
+                "en": "Ugh... Uh… Ehem… I must not drink so much... next time… Ah, Dr.{@nickname}. Why do you stagger and sway, so much in your movement today?",
                 "jp": "うう……オエッ、つ、次は飲みすぎないようにしないと……あれ、ドクター。どうしてそんなフラフラと歩いておられるのですか？",
-                "kr": "으…… 우웁…… 다, 다음엔 적당히 마셔야지…… 어라, {@nickname} 박사님. 왜 그렇게 비틀비틀 걷고 계시나요?",
+                "kr": "으…… 우웁…… 다, 다음엔 적당히 마셔야지…… 어머, {@nickname} 박사님. 왜 그렇게 비틀비틀 걷고 계시나요?",
                 "cn": "呃......咳嗯，下次不能喝、喝这么多了......呀，Dr.{@nickname}。你今天走起路来，怎么看着摇摇晃晃的？"
             },
             "asset": "char_485_pallas/CN_002"
@@ -49,9 +49,9 @@
                 "cn": "交谈2"
             },
             "text": {
-                "en": "The city is a grand sight during the festivals. Theatrical performances, sparkling wine, sports competitions... To be frank, I have even once participated in amateur Formula Chariot racing. That chariot was not cheap. I wonder if its fate was being inherited, or if it was simply abandoned after I left.",
+                "en": "The city is a grand sight during the festivals. Theatrical performances, sparkling wine, sports competitions... Truth be told, I once joined Formula Chariot racing, competing with my equally unskilled fellows. That chariot was not cheap. I wonder if its fate was inheritance, or if it was simply abandoned after I left?  ",
                 "jp": "祭典の時期は、演劇にお酒、スポーツ大会と、街がとても賑やかになります……実は私も、アマチュアのフォーミュラ戦車レースに参加したことがあるんです。かなり値の張る戦車で奮発したのですが、私が去ってからどなたかに引き取られたのか、それとも打ち棄てられてしまったのか、その後の運命は知る由もありません。",
-                "kr": "제전이 열리는 시기가 되면 연극에 술, 스포츠 대회로 온 거리가 떠들썩해집니다…… 사실 저도 아마추어 포뮬러 전차 레이스에 참가한 적이 있죠. 제법 값비싼 전차로 꽤 분발했습니다만, 제가 떠난 뒤로 다른 분께 거둬졌는지 버려졌을지, 그 뒤의 운명은 알 방도가 없군요.",
+                "kr": "제전이 열리는 시기가 되면 연극에 술, 스포츠 대회로 온 거리가 떠들썩해집니다…… 사실 저도 아마추어 포뮬러 전차 레이스에 참가했던 적이 있죠. 제법 값비싼 전차로 꽤 분발했습니다만, 제가 떠난 뒤로 다른 분께 거둬졌는지 버려졌을지, 그 뒤의 운명은 알 방도가 없더군요.",
                 "cn": "祭典的时候，城邦里可热闹了。有戏剧，美酒，运动竞赛......实不相瞒，我还参加过业余方程式战车竞技，那辆战车价格可不便宜。不知道我离开后，它的命运是被传承，还是就此遗弃呢。"
             },
             "asset": "char_485_pallas/CN_003"
@@ -65,7 +65,7 @@
                 "cn": "交谈3"
             },
             "text": {
-                "en": "To think that there were so many like-minded comrades in Rhodes Island. Yes, poetry! War! Freedom! To gather the people's strength from within the torrent of history, and fight to change this world. How exhilarating! These tragic yet extraordinary stories should be immortalized and passed down forevermore.",
+                "en": "To think there were so many like-minded souls at Rhodes Island. Ah, poetry, war, freedom! From within the torrent of history, you summon the strength of many to rebel against fate, and undo its blight upon the lands. How exhilarating! These tragic yet extraordinary stories… They should be immortalized, and passed down forevermore.",
                 "jp": "志を同じくする義士の方が、ロドスにこれほどいらっしゃるとは思いませんでした。ええ、詩、戦、自由！歴史の奔流の中で人々の力を集結させ、この大地を変えるために奮闘できるとは……なんと燃えることか！このような悲壮で非凡な物語は、語り継がれてゆくべきものなのです。",
                 "kr": "같은 뜻을 가진 의로운 분들이 로도스 아일랜드에 이렇게나 많이 계실 줄은 몰랐습니다. 네, 노래, 전투, 자유! 역사의 격류 속에서 사람들의 힘을 집결시켜 이 대지를 바꾸기 위해 분투할 수 있다니…… 이 얼마나 가슴 뜨거운 일인가요! 이런 비장하고도 비범한 이야기는 계속 전승되어야만 합니다.",
                 "cn": "在罗德岛竟然有这么多志同道合的志士。是的，诗歌！战争！自由！能在历史的洪流中汇集众人的力量，为这片大地的改变而奋斗。真是令人振奋！这些悲壮又非凡的故事，是应当被传颂下去的。"
@@ -81,9 +81,9 @@
                 "cn": "晋升后交谈1"
             },
             "text": {
-                "en": "After contracting Oripathy, I moved to a small village at the border of Minos. There was a small ongoing war against the Sargon incursions... In the end, the Minoans were victorious. However, rather than the so-called reality, I would rather wish that it spreads slowly as a story.",
+                "en": "After contracting Oripathy, I moved to a small village in the Minoan borderlands. There was a small ongoing war against the Sargon incursions... which ended with the victory of the Minoans. However, I would prefer this story to gradually spread as a tale, rather than live in its so-called reality.",
                 "jp": "鉱石病を患ってから、私はミノス辺境の村に隠居しました。しかし彼の地では、ちょうどサルゴンの侵略によって小規模な自衛戦争が起きていたのです……そして最後には、ミノス人が勝利しました。ですが、このようにただ事実が伝わるよりも、それが物語となって語り継がれてゆくことを願っています。",
-                "kr": "광석병을 앓게 된 후 저는 미노스 변경의 마을에서 은둔 생활을 했습니다. 하지만 그곳에서는 때마침 사르곤의 침략으로 인해 소규모 방어전이 한창이었죠…… 결국은 미노스인의 승리로 끝났습니다. 하지만 이처럼 단순히 사실이 전해지는 것보단, 그것이 이야기로써 전해지길 바라고 있습니다.",
+                "kr": "광석병을 앓게 된 후 저는 미노스 변경의 마을에서 은둔 생활을 했습니다. 하지만 그곳에서는 때마침 사르곤의 침략으로 인해 소규모 방어전이 한창이었죠…… 그리고 결국엔 미노스인의 승리로 끝이 났죠. 하지만 이처럼 단순히 사실만 전해지기보단, 그것이 이야기로써 전해지길 바라고 있습니다.",
                 "cn": "感染矿石病以后，我去了米诺斯边境的小村庄隐居。那里正在发生一场对抗萨尔贡侵扰的小规模战争......最终，米诺斯人胜利了。不过，比起所谓的真实，我更希望它是作为故事慢慢流传。"
             },
             "asset": "char_485_pallas/CN_005"
@@ -97,7 +97,7 @@
                 "cn": "晋升后交谈2"
             },
             "text": {
-                "en": "Simply light the flames of resistance, and it shall burn hot and fierce. Just pass on the story of the 'Goddess of War' to those that dearly wish for liberation! All that I have, is but this infected body of mine, and this unchanging faith.",
+                "en": "Simply light the flames of resistance, and they shall burn hot and fierce. For those whose wishes for liberation are so dear, the story of the 'Goddess of War' shall be their flag, a banner under which they will unite in the forthcoming battles. For me, I have naught but this infected body of mine, and this unchanging faith.",
                 "jp": "灯された反逆の炎は、すぐにでも燃え広がることでしょう。「戦争の女神」の物語は、我先にと解放を待ち望んでいる方々の手で、思うがままに広めていただきましょう。私には、この病に冒された身体と、変わらない信仰があるだけですから。",
                 "kr": "불붙은 반역의 불꽃은 순식간에 타올라 퍼져 나가겠죠. '전쟁의 여신' 이야기는 앞다투어 해방을 바라고 있는 분들의 손으로, 마음껏 퍼뜨리도록 하죠! 저에게는 이 병에 침식된 몸과 변치 않는 신앙심밖에 없으니.",
                 "cn": "成功点燃了一处反抗的火焰，很快便能燃烧下去。“战争女神”的故事经历，就交给前赴后继渴望解放的人们好好使用吧！我所拥有的，不过是这染病的身体，和不会改变的信仰。"
@@ -113,9 +113,9 @@
                 "cn": "信赖提升后交谈1"
             },
             "text": {
-                "en": "Is that so. Vulcan, once the champion of weapon forging, is here? This is great news indeed! This weapon in my hand has confounded many a smith, and I have had great difficulty in getting it repaired. Look upon this signature, which belongs to her... Oh? I shouldn't mention it?",
+                "en": "I see... Vulcan, once the champion of weapon forging, is here at Rhodes Island. That is great news indeed! This weapon in my hand has confounded many a smith. But none could restore it to its rightful condition. Here, look upon this signature, that of the very same Vulcan... Hm? I ought to keep it a secret?",
                 "jp": "なるほど、あのかつての武器鋳造チャンピオンのヴァルカンさんがこちらにいらっしゃるんですね。願ったり叶ったりです！私のこの武器は、どれほどの職人を訪ねても新品同様に修繕できませんでした。ですがこちらのサインをご覧ください、これは彼女の……え？他言無用ですと？",
-                "kr": "그렇군요, 과거 무기 주조 챔피온이었던 벌컨 씨가 여기 계시는군요. 듣던 중 반가운 소식입니다! 제 무기는 그 어떤 장인을 찾아가도 새것처럼 수리할 수 없었죠. 하지만 여기 사인을 봐주세요. 이건 그녀의…… 네? 남들이 들으면 안 된다고요?",
+                "kr": "그렇군요, 과거 무기 주조 챔피언이었던 벌컨 씨가 여기 계시는군요. 듣던 중 반가운 소식입니다! 제 무기는 그 어떤 장인을 찾아가도 새것처럼 수리할 수 없었죠. 하지만 여기 사인을 봐주세요. 이건 그분의…… 네? 남들이 들으면 안 된다고요?",
                 "cn": "原来如此，曾经武器锻造的冠军火神是到这儿来了。太好了！我的手中的这把武器，找了无数工匠都难以修缮如新，您看这个签名，就是她的......嗯？最好不要声张？"
             },
             "asset": "char_485_pallas/CN_007"
@@ -129,7 +129,7 @@
                 "cn": "信赖提升后交谈2"
             },
             "text": {
-                "en": "The stories of Minoan heroes... There exist both comedies and tragedies alike. However, the noblest part of the Twelve Heroes is that——Without exception, each and every one of them returned to a simple, ordinary life.",
+                "en": "The stories of Minoan heroes… They include both comedy and tragedy alike. However, the noblest aspect of the Twelve Heroes is that——Without exception, each and every one of them returned to a simple, ordinary life. ",
                 "jp": "ミノスの英雄たちの物語には……喜劇も、悲劇もあります。ですが、十二英雄が最も偉大と言われる点は――英雄となった後、皆が皆例外なく、普通の一般人として質素に暮らしていたところなんですよ。",
                 "kr": "미노스 영웅들의 이야기에는…… 희극도 있고 비극도 있습니다. 하지만 12영웅이 가장 위대하다고 칭송받는 점은…… 영웅이 된 후, 모두가 예외 없이 평범한 일반인으로 소박하게 살아갔다는 점이랍니다.",
                 "cn": "米诺斯英雄们的故事......有喜剧，便也会有悲剧。不过，米诺斯的十二英雄最伟大的一点是——他们无一例外，成为英雄以后，又再次变回了质朴的，最普通的人。"
@@ -145,9 +145,9 @@
                 "cn": "信赖提升后交谈3"
             },
             "text": {
-                "en": "To be oppressed for so long that one becomes numb to it is a most pitiable thing. A heart without hope will not burn with the fires of rage. I would never wish for anyone to face cruelty, but those who aspire to become a warrior must possess a bit of hope, a little spark and a timely opportunity.",
+                "en": "To suffer oppression for such a length of time, that their souls have grown numb to it… My heart goes out to those poor souls. Still, a heart without hope cannot burn with the fires of rage. I would never wish for anyone to face cruelty, but if a man is to be a warrior, then he needs a bit of faith, a little spark, and most importantly— a 'start.'",
                 "jp": "長きにわたる悲しみに心を麻痺させ、哀れに迫害され続ける者たちよ、心に希望がなければ、怒りの炎を灯せないのです。残酷さと向き合えと強要はしません。ですが勇者になりたいのならば、一つの信仰、一片の火花、そして一本の導火線が不可欠なのです。",
-                "kr": "기나긴 슬픔에 마음이 마비되고 가엾게도 박해받아온 이들이여, 마음에 희망이 없으면 분노의 불꽃을 피울 수 없습니다. 잔혹한 현실을 직시하라고 강요하지는 않겠습니다. 하지만 용사가 되기 위해서는 하나의 신앙심, 한 조각의 불씨, 그리고 한 줄기의 도화선이 필요할 겁니다.",
+                "kr": "기나긴 슬픔에 마음이 마비되고 가엾게도 박해받아온 이들이여, 마음에 희망이 없으면 분노의 불꽃을 피울 수 없습니다. 잔혹한 현실을 직시하라고 강요하지는 않겠습니다. 하지만 용사가 되기 위해서는 하나의 신앙심, 한 조각의 불씨, 그리고 한 줄기의 도화선이 필요하죠.",
                 "cn": "承受长期的悲痛以至于麻木，可怜的被压迫的人们，如果心中没有希望，是无法燃烧起怒火的。我不想强迫谁面对残酷，但人们若向往成为勇士，需要一份信仰，一点星火，一处滥觞。"
             },
             "asset": "char_485_pallas/CN_009"
@@ -163,7 +163,7 @@
             "text": {
                 "en": "I am used to thinking while standing upright. From time to time, I am suddenly poked, simply to check if I have fallen asleep on my feet.",
                 "jp": "立ち尽くして物思いに耽る癖のせいで、時々皆さんにも寝てるのかと突っつかれてしまうんです。",
-                "kr": "선 채로 생각에 잠기는 버릇 때문에, 가끔 다른 분들도 제가 자는 줄 알고 찔러 보시곤 해요.",
+                "kr": "선 채로 생각에 잠기는 버릇 때문에, 가끔 다른 분들도 제가 자는 줄 알고 찔러 보시곤 한답니다.",
                 "cn": "我习惯了站着不动思考。有时候啊，也会被大家突然戳一戳，看看睡着了没有。"
             },
             "asset": "char_485_pallas/CN_010"
@@ -177,9 +177,9 @@
                 "cn": "干员报到"
             },
             "text": {
-                "en": "I am the Minoan priestess, Pallas. I shall be convalescing at Rhodes Island for a time... Be that as it may, I hope to enjoy my share of alcohol and theatre, and I yearn even more for battle.",
+                "en": "I am Pallas,  priestess of Minos. I shall be convalescing at Rhodes Island for a time… Nevertheless, I hope to enjoy my share of wine and theatre, and I yearn even more for battle.",
                 "jp": "ミノスから参りました、祭司のパラスです。この度ロドスで一息つかせていただきます……とは言ったものの、美酒と演劇によるもてなしを切に願います。そしてそれ以上に、戦場を渇望しています。",
-                "kr": "미노스에서 온 사제, 팔라스입니다. 앞으로 로도스 아일랜드에서 잠깐 쉬어가도록 하겠습니다…… 라고 말은 했지만, 좋은 술과 연극으로 대접받기를 간절히 바라고 있습니다. 그리고 그 이상으로, 전장을 갈망하고 있죠.",
+                "kr": "미노스에서 온 사제, 팔라스라고 합니다. 앞으로 로도스 아일랜드에서 잠깐 쉬어가도록 하겠습니다…… 라고 말은 했지만, 좋은 술과 연극으로 대접받기를 간절히 바라고 있습니다. 그리고 그 이상으로, 전장을 갈망하고 있죠.",
                 "cn": "我是来自米诺斯的祭司帕拉斯，会在罗德岛休息一段时间......虽然这么说，我渴望受到美酒和戏剧招待，更渴望走向战场。"
             },
             "asset": "char_485_pallas/CN_011"
@@ -193,7 +193,7 @@
                 "cn": "观看作战记录"
             },
             "text": {
-                "en": "To be able to record the acts of the warriors in battle with such realism, what a great convenience it is.",
+                "en": "Recording the valiant warriors in battle, and with such realism. What a great convenience it is.",
                 "jp": "勇者たちが奮戦する様をありのままに記録できるとは、なんとも便利なものですね。",
                 "kr": "용사들이 분전하는 모습을 그대로 기록할 수 있다니, 정말 편리하군요.",
                 "cn": "能这样真实地记录勇士们战斗的身姿，真是方便啊。"
@@ -209,7 +209,7 @@
                 "cn": "精英化晋升1"
             },
             "text": {
-                "en": "Abandoning glory, the hero decided to return to normal life, but could not, due to Oripathy infection? No... It should not be so...",
+                "en": "Abandoning glory, the hero decided to return to normal life, but could not, due to Oripathy infection? No… It should not be so.",
                 "jp": "栄光を手放し、英雄たちは平凡な生活に戻ることを選んだというのに、鉱石病を患ったことで、普通の生活を送ることすら許されないというのですか？それは……間違っています……",
                 "kr": "영광을 내려놓고, 영웅들은 평범한 생활로 돌아가길 택했건만, 광석병을 앓았다고 해서 평범한 삶을 보내는 것조차 허락되지 않는 건가요? 그건…… 잘못됐습니다……",
                 "cn": "舍弃了荣耀，英雄选择回归平凡，却因为患了矿石病而不被允许享受普通的生活？不......不该如此......"
@@ -225,9 +225,9 @@
                 "cn": "精英化晋升2"
             },
             "text": {
-                "en": "I am... a believer chasing after the will of the heroes. My weapon shall remain ever sharp and free of rust, to be employed against the forces of injustice and cruelty. My humility shall not be forgotten, and it will remind me of my mission to save others.",
+                "en": "I, Pallas of Minos, am a woman of faith, a follower of the will of the heroes. My weapon shall remain ever sharp and free of rust, such that it may strike at the forces of injustice and cruelty. My humility shall not be forgotten, an eternal expression of my duty to salvation and redemption.",
                 "jp": "私は……英雄たちの意志に付き従う信者です。この不平と暴虐に抗う武器を、鈍らせることは許されません。そして救済の使命を忘れないために、常に謙虚であれと自分に言い聞かせ続けているのです。",
-                "kr": "저는…… 영웅들의 의지를 따르는 신자입니다. 이 불평등과 폭거에 저항하는 이 무기를 무뎌지게 할 수는 없어요. 그리고 구제의 사명을 잊지 않기 위해, 항상 겸허하라고 자신에게 되뇌고 있답니다.",
+                "kr": "저는…… 영웅들의 의지를 따르는 신자입니다. 불평등과 폭거에 저항하는 이 무기를 무뎌지게 할 수는 없어요. 그리고 구제의 사명을 잊지 않기 위해, 항상 겸허하라고 자신에게 되뇌고 있답니다.",
                 "cn": "我是......追随英雄们意志的信仰者。我的武器不得钝锈，它将被用来对抗不公和残暴。我的谦卑不得遗忘，它将使我不忘救济的使命。"
             },
             "asset": "char_485_pallas/CN_014"
@@ -241,7 +241,7 @@
                 "cn": "编入队伍"
             },
             "text": {
-                "en": "Heroes who promise victory, I shall receive your blessings.",
+                "en": "O heroic heralds of victory, I welcome your blessings.",
                 "jp": "勝利を護りし英雄たちよ、その祝福を賜らんことを。",
                 "kr": "승리를 수호하는 영웅들이여, 축복을 내리소서.",
                 "cn": "保佑胜利的英雄，我将领受你们的祝福。"
@@ -257,7 +257,7 @@
                 "cn": "任命队长"
             },
             "text": {
-                "en": "I am with you, o great warriors, to fight by your side.",
+                "en": "O great warriors, I fight by your side, shoulder to shoulder.",
                 "jp": "偉大なる戦士たちよ、私が共に立ち、あなたたちと戦い抜きます。",
                 "kr": "위대한 전사들이여, 제가 함께 서서, 당신들과 끝까지 싸우겠습니다.",
                 "cn": "伟大的战士们啊，我会在你们身边，与你们一同奋勇搏杀。"
@@ -273,7 +273,7 @@
                 "cn": "行动出发"
             },
             "text": {
-                "en": "The next time you turn your head, it shall be us returning with victory in hand.",
+                "en": "The next time you turn your head, you will find us returning, with victory in hand. ",
                 "jp": "次に振り返るのは、勝利を携えて帰還する時です。",
                 "kr": "다음에 뒤를 돌아보는 건, 승리를 거머쥐고 귀환할 때입니다.",
                 "cn": "再转身回头的时候，我们将带着胜利归来。"
@@ -289,7 +289,7 @@
                 "cn": "行动开始"
             },
             "text": {
-                "en": "Fear not, for we shall claim victory over these reckless fellows!",
+                "en": "Fear not, for we shall claim victory over these reckless foes.",
                 "jp": "畏れることはありません。蛮勇の徒など敵ではありません！",
                 "kr": "두려워할 것 없습니다. 야만적인 무리들 따위는 적수가 아닙니다!",
                 "cn": "不需畏惧，我们会战胜那些鲁莽的家伙！"
@@ -321,7 +321,7 @@
                 "cn": "选中干员2"
             },
             "text": {
-                "en": "Come——",
+                "en": "Come—",
                 "jp": "来い――",
                 "kr": "와라……",
                 "cn": "来吧——"
@@ -353,7 +353,7 @@
                 "cn": "部署2"
             },
             "text": {
-                "en": "We need not retreat.",
+                "en": "There is no need to retreat.",
                 "jp": "逃げ道など必要ありません。",
                 "kr": "도망칠 길 따윈 필요 없습니다.",
                 "cn": "无需退路。"
@@ -369,7 +369,7 @@
                 "cn": "作战中1"
             },
             "text": {
-                "en": "O' heroes, for this greatest faith of ours, please stand on our side.",
+                "en": "O heroes, stand together with us, for the paramount power of faith!",
                 "jp": "英雄たちよ、この揺るぎなき信念を称え、我らに与せよ。",
                 "kr": "영웅들이여, 이 흔들리지 않는 신념을 기리어, 우리와 함께하라.",
                 "cn": "英雄们啊，为这最强大的信念，请站在我们这边。"
@@ -385,7 +385,7 @@
                 "cn": "作战中2"
             },
             "text": {
-                "en": "Tremble, in the face of true bravery.",
+                "en": "Tremble, in the face of ture bravey.",
                 "jp": "震え上がれ、真の勇敢さを前に。",
                 "kr": "벌벌 떨어라. 진정한 용맹함 앞에서.",
                 "cn": "颤抖吧，在真正的勇敢面前。"
@@ -401,7 +401,7 @@
                 "cn": "作战中3"
             },
             "text": {
-                "en": "Weep, for that worthless faith of yours.",
+                "en": "Weep, for that wavering faith of yours. ",
                 "jp": "泣き叫べ、その脆い信念の下で。",
                 "kr": "울부짖어라. 그 여린 신념 아래서.",
                 "cn": "哭嚎吧，为你们不堪一击的信念。"
@@ -433,9 +433,9 @@
                 "cn": "完成高难行动"
             },
             "text": {
-                "en": "Have we done it...? I feel only the greatest honor and joy.",
+                "en": "Have we done it...? I feel only the greatest honor and joy. ",
                 "jp": "ええ、ついに成し遂げたのですね……私は今、至高の栄誉と幸福に包まれています。",
-                "kr": "네, 드디어 이뤄냈군요…… 저는 지금, 지고의 영예와 행복에 휩싸였습니다.",
+                "kr": "네, 드디어 이뤄냈군요…… 저는 지금, 더할 나위 없는 영예와 행복에 휩싸였습니다.",
                 "cn": "是吗，我们做到了吗......我现在，正体会至高的荣誉和幸福。"
             },
             "asset": "char_485_pallas/CN_029"
@@ -449,7 +449,7 @@
                 "cn": "3星结束行动"
             },
             "text": {
-                "en": "Turn about, o heroes. We have achieved a perfect victory, and it is now time to return and enjoy the fruits of our labors.",
+                "en": "Turn about, brave champions. We have achieved a perfect victory, and it is now time to return and enjoy the fruits of our labors. ",
                 "jp": "振り返りなさい、勇者たち。我らは非の打ち所のない勝利を収めました。さあ、戻って歓喜の宴をあげましょう。",
                 "kr": "뒤를 돌아보십시오, 용사들이여. 우리는 완벽한 승리를 거머쥐었습니다. 자, 돌아가서 환희의 연회를 벌이도록 하죠.",
                 "cn": "转身吧，勇士们。我们已经获得了完美的胜利，现在是该回去享受庆祝的盛典了。"
@@ -465,7 +465,7 @@
                 "cn": "非3星结束行动"
             },
             "text": {
-                "en": "Listen well, the laments have ceased. This calm heralds the arrival of peace and joy.",
+                "en": "Listen well, the lamentations have ceased. This calm heralds the arrival of peace and joy. ",
                 "jp": "耳を澄ませてください、もう悲鳴は聴こえません。これが幸福と平和が訪れる前の静けさというものでしょう。",
                 "kr": "귀를 기울여 주십시오. 이제 비명은 들리지 않습니다. 이게 행복과 평화가 찾아오기 전의 고요함이란 거겠죠.",
                 "cn": "听啊，悲鸣停止了。这是幸福的和平到来前的宁静。"
@@ -481,7 +481,7 @@
                 "cn": "行动失败"
             },
             "text": {
-                "en": "Even though the wars of humanity have no end in sight... At this moment, we have protected our dignity. Leave. Keep your heads held high.",
+                "en": "Even though the wars of humanity have no end in sight, we have protected our dignity, for the moment. Leave. Keep your heads held high.",
                 "jp": "人類の戦争に終わりがなくとも……今回ばかりは、命の尊厳を守り通すことができました。撤退しましょう、胸を張って堂々と。",
                 "kr": "인류의 전쟁에 끝은 없을지언정…… 이번만큼은 생명의 존엄을 끝까지 지킬 수 있었습니다. 후퇴하죠, 가슴을 펴고 당당하게.",
                 "cn": "纵使人类的战争没尽头......在这一刻，我们守护住了自己生的尊严。离开吧。但要昂首挺胸。"
@@ -497,9 +497,9 @@
                 "cn": "进驻设施"
             },
             "text": {
-                "en": "My horns are a danger to furniture. I shall be vigilant.",
+                "en": "My horns might pose a threat to furniture. I shall be vigilant.",
                 "jp": "この角で家具を倒してしまわないよう、気をつけますね。",
-                "kr": "이 뿔로 가구를 넘어뜨리지 않도록 조심하겠습니다.",
+                "kr": "이 뿔에 가구가 넘어지지 않도록 조심하겠습니다.",
                 "cn": "这对角可能会不小心撞倒些家具，我会尽量小心。"
             },
             "asset": "char_485_pallas/CN_033"
@@ -513,7 +513,7 @@
                 "cn": "戳一下"
             },
             "text": {
-                "en": "What would you do, should you possess wisdom and strength?",
+                "en": "What would you do, should you possess wisdom and strength? ",
                 "jp": "知恵と力が手に入ったら、あなたは何をしますか？",
                 "kr": "지혜와 힘을 손에 넣는다면, 당신은 무얼 하시겠습니까?",
                 "cn": "拥有了智慧和力量后，你会做些什么？"
@@ -529,7 +529,7 @@
                 "cn": "信赖触摸"
             },
             "text": {
-                "en": "Shall we go and enjoy ourselves at the Minoan-themed multimedia room event?",
+                "en": "There is a Minoan-themed multimedia room event. Shall we go and see what thrills await?",
                 "jp": "ミノスモチーフのマルチメディアスタジオ、一緒に行ってみませんか？",
                 "kr": "미노스를 모티브로 한 멀티미디어 스튜디오에 함께 가 보시지 않겠습니까?",
                 "cn": "米诺斯主题的多媒体密室项目，一起去玩玩看吧？"
@@ -563,13 +563,17 @@
             "text": {
                 "en": "Are you rested, Doctor?",
                 "jp": "よく休めましたか、ドクター。",
-                "kr": "푹 쉬셨습니까, 박사님.",
+                "kr": "푹 쉬셨나요, 박사님.",
                 "cn": "休息好了吗，博士？"
             },
             "asset": "char_485_pallas/CN_042"
         }
     ],
     "actors": {
+        "en": {
+            "native": "Kaiti Ntroudi",
+            "global": "Kaiti Ntroudi"
+        },
         "cn": {
             "native": "周一菡",
             "global": "Yihan Zhou"
@@ -577,10 +581,16 @@
         "jp": {
             "native": "井上麻里奈",
             "global": "Marina Inoue"
+        },
+        "kr": {
+            "native": "김현심",
+            "global": "Kim Hyeon-sim"
         }
     },
     "availability": [
+        "en",
         "cn",
-        "jp"
+        "jp",
+        "kr"
     ]
 }

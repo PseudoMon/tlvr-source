@@ -19,7 +19,7 @@
             "text": {
                 "en": "I'll gladly offer my help if you need it. Just remember to return the favor someday.",
                 "jp": "わたくしに手伝ってほしい？構わないけど、後でしっかり見返りをいただくわよ。",
-                "kr": "내가 도와줬으면 좋겠어? 상관은 없지만, 나중에 제대로 받아낼 거야.",
+                "kr": "내가 도와줬으면 좋겠어? 상관은 없지만, 이건 나중에 제대로 받아낼 거야.",
                 "cn": "要我帮忙是没问题啦，之后可得好好回报我哦。"
             },
             "asset": "char_275_breeze/CN_001"
@@ -35,7 +35,7 @@
             "text": {
                 "en": "Vina... Err, I mean, Miss Siege—always gives me this feeling I can't describe. I wonder why...?",
                 "jp": "ヴィーナ……いえ、シージさんからはいつも言葉にできない不思議な印象を受けるわ。なぜかしら……。",
-                "kr": "비나…… 아니, 시즈 씨한테는 늘 말로 할 수 없는 신기한 인상을 받아. 왜일까……",
+                "kr": "비나…… 아니, 시즈 씨한테는 늘 말로 형용하기 어려운 느낌을 받아. 도대체 왜일까……",
                 "cn": "维娜......不，推进之王小姐她总给我一种说不出的感觉，是为什么呢......？"
             },
             "asset": "char_275_breeze/CN_002"
@@ -51,7 +51,7 @@
             "text": {
                 "en": "My dad? Oh my, you know I ran away from home and you're still going to ask me that? Doctor, are you perhaps not the best at conversation?",
                 "jp": "お父様は元気かですって？ちょっと、普通家出中の人にわざわざそんなこと聞くかしら？もしかしてドクターさんって会話が苦手なの？",
-                "kr": "아버님은 잘 계시느냐고? 잠깐, 보통 가출 중인 사람한테 일부러 그런 걸 물어보나? 혹시 박사는 대화하는 게 서투른 거야?",
+                "kr": "아버님은 잘 계시느냐고? 잠깐, 내가 가출한 거 뻔히 알면서 이런 걸 물어본다고? 혹시 박사는 대화하는 게 서투른 건가?",
                 "cn": "我的老爹？哎呀，明知道我是离家出走来到这里的，却还要这么问吗？莫非博士你其实很不擅长聊天？"
             },
             "asset": "char_275_breeze/CN_003"
@@ -67,7 +67,7 @@
             "text": {
                 "en": "Dr. {@nickname}! Do have a try of my cooking... You taste medicine? Oh, gosh... Well, I do have some knowledge in herbs, but you know I wouldn't be experimenting on you, would I? Eheheh...",
                 "jp": "ドクターさん、わたくしの手料理をどうぞ召し上がれ……薬草の味がする、ですって？い、いやね、ドクターさんを実験台になんかするわけないでしょう、おほほ……。",
-                "kr": "박사, 내가 직접 만든 요리인데 먹어 봐…… 약초 맛이 난다고? 어, 어머~ 내가 박사를 실험 대상으로 삼을 리 없잖아, 오호호……",
+                "kr": "{@nickname} 박사, 내가 직접 만든 요리인데 먹어 봐…… 약초 맛이 난다고? 어, 어머~ 내가 박사를 실험 대상으로 삼을 리 없잖아, 하하……",
                 "cn": "{@nickname}，请务必品尝一下我的料理......有草药的味道？哎、哎呀，我怎么会用博士您做实验呢？哈哈......"
             },
             "asset": "char_275_breeze/CN_004"
@@ -83,7 +83,7 @@
             "text": {
                 "en": "I used to think my parents were so stuffy and numb to it all, so I ran away from home to find a new life. But after having traveled so far and been through so much, I've come to realize why my parents felt how they did now. Ahahah, c'est la vie, as the saying goes.",
                 "jp": "昔、お父様たちの考えは古臭くて役立たずだと思ったから家を出ることにしたの。故郷を離れて、新しい生活を求めて、たくさん歩いて、たくさん経験して、ふと気づくと、お父様たちの考えもわかるようになっていた。ふふ、おかしな話でしょう。",
-                "kr": "예전에, 어른들의 사고방식은 고리타분하고 도움이 안 된다고 생각해서 집을 나왔어. 고향을 떠나 새로운 생활을 찾아 많이 걷고, 많이 경험하다 보니 문득 어른들의 사고방식도 이해가 되더라. 후후, 이상한 이야기지.",
+                "kr": "예전에, 부모님의 사고방식은 고리타분하고 내 인생엔 하나도 도움이 안 된다고 생각해서 집을 나왔어. 고향을 떠나 새로운 생활도 찾고, 많이 걸으며 많이 경험하다 보니, 점점 어른들의 사고방식도 이해가 되더라. 후후, 이상한 이야기지.",
                 "cn": "我曾觉得老爹他们麻木、迂腐，所以独自离开那里，寻找新的生活，走了很远，经历了很多，却反而理解了老爹他们。欸哈哈，搞什么嘛。"
             },
             "asset": "char_275_breeze/CN_005"
@@ -99,7 +99,7 @@
             "text": {
                 "en": "Dr. {@nickname}, see that lone cloud over there, off from the rest? That's the way my hometown lies.",
                 "jp": "あの離れていく雲が見えるかしら？あの方向のずっと先に、わたくしの故郷があるのよ。",
-                "kr": "저기 멀어져 가는 구름이 보여? 저 방향 훨씬 너머에, 내 고향이 있어.",
+                "kr": "박사, 저기 멀어져 가는 구름이 보여? 저 방향 훨씬 너머에, 내 고향이 있어.",
                 "cn": "{@nickname}，你看见那朵离散的云了吗？那是我家乡的方向。"
             },
             "asset": "char_275_breeze/CN_006"
@@ -115,7 +115,7 @@
             "text": {
                 "en": "Faith' is an interesting topic. I never had the chance to go to Laterano, but how funny I should hear all about its feats on Rhodes Island? Although I've mostly heard about, er... one very overly active girl. Has Laterano always been such a lively place?",
                 "jp": "「信仰」についての話題には興味が尽きないわね。ラテラーノに行く機会はないけど、まさかロドスでラテラーノについてこんなにたくさん知れるなんて。それにしても、話をしてくれるあの女性……本当に元気な方ね。ラテラーノってああいう人たちが集まってる場所なのかしら？",
-                "kr": " '신앙'에 대한 화제에는 흥미가 끊이질 않아. 라테라노에 갈 기회는 없지만, 설마 로도스 아일랜드에서 라테라노에 대해 이렇게 많이 알게 될 줄이야. 그건 그렇고, 이야기를 해 주는 저 사람…… 정말 활기찬 분이네. 라테라노는 저런 사람들이 모여있는 곳일까?",
+                "kr": "'신앙'은 정말 흥미로운 주제야. 라테라노에 가볼 기회는 없었지만, 로도스 아일랜드의 오퍼레이터 분을 통해서 라테라노에 대해 이렇게 많이 알게 될 줄이야. 그건 그렇고, 이야기를 해 준 그 사람 정말 활기찬 분이었는데…… 라테라노는 저런 사람들이 모여있는 곳일까?",
                 "cn": "“信仰”是一个有趣的话题，我没有机会前往拉特兰，却没想到能从罗德岛干员口中听到拉特兰的种种事迹，不过是位过于......呃、活泼的姐姐呢，拉特兰原来是这样的地方吗？"
             },
             "asset": "char_275_breeze/CN_007"
@@ -131,7 +131,7 @@
             "text": {
                 "en": "The boats of Toron need a lighthouse to make their way back to port, and Rhodes Island has served as the safe haven at the end of my trip. Dr. {@nickname}, your light might not illuminate the whole harbor, but go on... Do what I couldn't. It's my honest request.",
                 "jp": "ドルンの船は灯台の光がなければ帰港できないように、わたくしは最後の避難港にこのロドスを選んだというだけよ。つまりあなたは、おまけみたいなものね……ふふっ。まあせいぜい、わたくしにできないことを、しっかりやってちょうだい。",
-                "kr": "토룬의 배는 등대의 빛이 없으면 귀항할 수 없는 것처럼, 나는 최후의 피난항으로 이 로도스 아일랜드를 선택한 것뿐이야. 다시 말해 당신은 덤 같은 거지… 후후. 그러니까… 최대한 내가 할 수 없는 일을 제대로 해줘.",
+                "kr": "토룬의 배는 등대의 빛이 있어야 귀항할 수 있어. 그리고 로도스 아일랜드는 내 마지막 여행의 피난항이지. {@nickname} 박사는, 후후, 그런대로 잘하고 있으니까…… 꼭 내가 못해낸 일들을 제대로 해줘야 된다?",
                 "cn": "多伦郡的航船需要灯塔才能回到港湾，罗德岛将是我最后旅程的避风港。至于{@nickname}你嘛，勉强凑合着吧......所以请一定要做到，我没有做到的事。"
             },
             "asset": "char_275_breeze/CN_008"
@@ -147,7 +147,7 @@
             "text": {
                 "en": "Right here, right now, is where I, Grace Arizona, place my faith. Dr. {@nickname}, you hold my hopes in your hands, forever more.",
                 "jp": "グレース・アリゾナの信仰が、今ここに。ドクター様、あなたへの希望と信心は、永遠に潰えることはありません。",
-                "kr": "그레이스 애리조나의 신앙이 지금 여기에. 박사님, 당신을 향한 희망과 믿음은 영원히 사그러들지 않을 것입니다.",
+                "kr": "그레이스 애리조나의 신앙이 지금 여기에. {@nickname} 박사님, 당신을 향한 희망과 믿음은 영원히 사그라들지 않을 것입니다.",
                 "cn": "此时此地，便是格蕾丝·亚利桑那的信仰所在，{@nickname}博士，我将对您的希望虔诚，生死不渝。"
             },
             "asset": "char_275_breeze/CN_009"
@@ -163,7 +163,7 @@
             "text": {
                 "en": "...That's the face of someone lost in their dreams. I wonder if you're feeling uneasy, Doctor?",
                 "jp": "……夢の中でさまよっているような寝顔ね。ドクターさん、不安を感じているのかしら？",
-                "kr": "……꿈속에서 헤매고 있는 것 같은 얼굴로 자네. 박사, 불안을 느끼고 있는 걸까?",
+                "kr": "……꿈속에서 헤매고 있는 것 같은 얼굴로 자네. 불안한 거야, 박사?",
                 "cn": "......是在梦中彷徨的表情呢。感到不安吗，博士。"
             },
             "asset": "char_275_breeze/CN_010"
@@ -179,7 +179,7 @@
             "text": {
                 "en": "Breeze, a traveling scholar from Toron County. It is a pleasure to meet you, Doctor. Phew, I've had enough of formal etiquette, so this will be the last of it.",
                 "jp": "ブリーズと申します。ドルンから遊学にやってきました。お会いできて光栄です、ドクター様。はぁ……堅苦しい礼儀作法なんて肩がこるし、もういいかしら？",
-                "kr": "브리즈라고 합니다. 토룬에서 유학 왔습니다. 만나 뵙게 되어 영광입니다, 박사님. 하아…… 이렇게 딱딱하게 예의 차리는 건 정말 피곤해, 이제 됐지?",
+                "kr": "브리즈라고 합니다. 토룬에서 유학 왔습니다. 만나 뵙게 되어 영광입니다, 박사님. 하아…… 이렇게 딱딱하게 예의 차리는 건 정말 피곤하다니까. 자, 이제 됐지?",
                 "cn": "微风，来自多伦郡的游学者，很荣幸见到您，博士。正式的礼仪太麻烦了，所以就免了吧。"
             },
             "asset": "char_275_breeze/CN_011"
@@ -211,7 +211,7 @@
             "text": {
                 "en": "I bestow my heartfelt blessings on you for your gift, Doctor. Hmm? What a shoddy reaction—this is a hand-kiss, you know, we're being serious here. Hurry up, come on!",
                 "jp": "ドクター様、あなたの施しに心よりの祝福を。……あら？失礼な反応ね。手の甲への口づけは正式な儀式の一つじゃない、早くしなさい！",
-                "kr": "박사님, 당신의 은혜에 진심으로 축복을. ……어머? 무례한 반응이네. 손등 키스는 정식적인 의식 중 하나잖아, 어서 하라고!",
+                "kr": "박사님, 당신의 은혜에 진심으로 축복을. ……어머? 박사 너무 무례한 거 아니야! 손등 키스는 아주 보편적인 의식 중 하나라고, 빨리!",
                 "cn": "为您的恩赐献上由衷的祝福，博士。唔？真是失礼的反应，这可是正经的吻手礼，动作快点啦！"
             },
             "asset": "char_275_breeze/CN_013"
@@ -227,7 +227,7 @@
             "text": {
                 "en": "Well, this time won't be as mannerful as the last, not that I'd think you were hoping for that? So here goes. I will dedicate everything to Rhodes Island, a pledge that transcends my consciousness.",
                 "jp": "何よその顔、今回は別に儀式的なことはいいでしょう？それとも、もしかして期待してたのかしら？とにかく、わたくしの全てをロドスに捧げる覚悟よ。この覚悟は儀式なんかで表せるものじゃないんだから。",
-                "kr": "뭐야, 그 얼굴은. 이번엔 딱히 의식적인 건 됐잖아? 아니면 혹시 기대한 거야? 어쨌든, 내 모든 것을 로도스 아일랜드에 바치기로 각오했어. 이 각오는 의식 같은 걸로 나타낼 수 있는 게 아니니까.",
+                "kr": "뭐야, 그 얼굴은. 이번엔 그렇게까지 형식적일 필요 없잖아? 혹시 기대라도 한 거야? 난, 내 모든 것을 로도스 아일랜드에 바치기로 각오했어. 이 각오는 의식으로 나타낼 수 있는 게 아니라고.",
                 "cn": "哎呀，这次可不会像上次那么正式咯，难道你在期待着吗？我会将我的一切奉献给罗德岛，这是超过形式的觉悟哦。"
             },
             "asset": "char_275_breeze/CN_014"
@@ -259,7 +259,7 @@
             "text": {
                 "en": "Thank you for your trust. I will make sure to prioritize the safety of the Operators.",
                 "jp": "ドクターさんの信頼に応えられるように、皆さんの安全確保を最優先に行動するわ。",
-                "kr": "박사의 신뢰에 보답할 수 있도록, 모두의 안전 확보를 최우선으로 행동할게.",
+                "kr": "고마워. 박사의 신뢰에 보답할 수 있도록, 모두의 안전을 최우선으로 행동할게.",
                 "cn": "感谢您的信任，我会以干员们的安全为第一优先考虑。"
             },
             "asset": "char_275_breeze/CN_018"
@@ -291,7 +291,7 @@
             "text": {
                 "en": "Those who seek to inflict harm on others have no right to ask for forgiveness.",
                 "jp": "他人を傷つける悪党に、許しを乞う権利なんてないわ。",
-                "kr": "타인에게 상처를 주는 악당에게 용서를 구걸할 권리 따윈 없어.",
+                "kr": "타인에게 상처를 주는 악당에겐 용서를 구걸할 권리 따윈 없어.",
                 "cn": "伤害别人的恶党，没有祈求饶恕的权利。"
             },
             "asset": "char_275_breeze/CN_020"
@@ -435,7 +435,7 @@
             "text": {
                 "en": "Every victory creates a kindling that will flourish into an everlasting fire.",
                 "jp": "勝利もいずれは新しい火種となる、生々流転の理ね。",
-                "kr": "승리도 언젠간 새로운 불씨가 될 거야. 모든 것은 끊임없이 흘러가고 변하기 마련이니까.",
+                "kr": "우리의 승리는 새로운 불씨가 되어 끊임없이 타오르고 영원히 꺼지지 않을 거야.",
                 "cn": "每一次胜利都将成为火种，生生不息。"
             },
             "asset": "char_275_breeze/CN_030"
@@ -451,7 +451,7 @@
             "text": {
                 "en": "Keep your senses alert. The wind is still restless.",
                 "jp": "油断したらダメ。不穏な風向きよ。",
-                "kr": "방심하면 안 돼. 심상치 않은 풍향이야.",
+                "kr": "방심하면 안 돼. 풍향이 심상치 않아.",
                 "cn": "请不要麻痹大意，风向显露着不安。"
             },
             "asset": "char_275_breeze/CN_031"
@@ -515,7 +515,7 @@
             "text": {
                 "en": "Doctor, would you like to hear the story of my hometown?",
                 "jp": "ごきげんよう、ドクターさん。わたくしの故郷のお話、聞きたいかしら？",
-                "kr": "안녕, 박사. 내 고향 이야기, 듣고 싶어?",
+                "kr": "박사. 내 고향 이야기, 듣고 싶어?",
                 "cn": "博士，想听听我家乡的故事吗？"
             },
             "asset": "char_275_breeze/CN_036"
@@ -565,11 +565,16 @@
         "jp": {
             "native": "池澤春菜",
             "global": "Haruna Ikezawa"
+        },
+        "kr": {
+            "native": "유혜지",
+            "global": "Yu Hye-ji"
         }
     },
     "availability": [
         "en",
         "cn",
-        "jp"
+        "jp",
+        "kr"
     ]
 }

@@ -19,7 +19,7 @@
             "text": {
                 "en": "Though I wouldn't dare boast of my prowess with a sword or Originium Arts... If you ever have any problems with equipment maintenance, you can come talk to me!",
                 "jp": "剣術とアーツにはイマイチ自信ないけど……でも機械の修理なら私に任せてちょーだい！",
-                "kr": "검술과 아츠에는 딱히 자신이 없지만…… 그래도 기계 수리라면 나한테 맡겨줘~!",
+                "kr": "검술과 아츠에는 딱히 자신이 없지만…… 기계 수리라면 나한테 맡겨줘~!",
                 "cn": "虽然我对自己的剑术和源石技艺都不敢太抱自信......不过如果有什么器械维修方面的问题也可以拜托我哦！"
             },
             "asset": "char_423_blemsh/CN_001"
@@ -35,7 +35,7 @@
             "text": {
                 "en": "Zofia is my distant aunt, as well as my swordsmanship instructor. It's thanks to her that I can survive in the knight sports scene, but my aunt sometimes— Gaah! I mean, my sister! Um, Doctor! Please don't tell her I let that slip, she's actually super sensitive about it!",
                 "jp": "ゾフィアは私の遠縁のおばで、剣術の先生でもあるの。私が騎士競技で生き残ってこれたのはあの人のおかげなんだ。でもおばさんはたまに――あっ、違う、お姉さんだ！えっと、ドクター、私がよく口を滑らすなんて絶対言わないでね。あの人、ホントはすっごく気にしてるんだから！",
-                "kr": "조피아는 나의 먼 친척인 고모이자, 검술 선생님이기도 해. 내가 기사 스포츠에서 살아남을 수 있었던 건 그 사람 덕분이야. 근데 고모는 가끔…… 앗, 아니다! 언니였지! 저기, 박사, 내가 자주 말실수 자주 한다고 말하면 절대 안 된다? 그 사람, 사실 엄~청 신경 쓰고 있거든!",
+                "kr": "조피아는 내 먼 친척 고모이자, 검술 선생님이야. 내가 기사 스포츠에서 살아남을 수 있었던 건 고모 덕분이지. 근데 고모는 가끔…… 앗, 아니아니! 언니였지! 저기, 박사, 내가 말실수 자주 한다고 말하면 절대 안 돼, 알았지? 언니는 호칭에 사실 엄~청 예민하거든!",
                 "cn": "佐菲娅是我的远房姑母，也是我的剑术教练，多亏了她我才能在骑士竞赛中生存下来，不过姑母她偶尔——啊不，是姐姐，欸，博士！千万不要让她知道我经常说漏嘴的事情喔，她其实还挺在意的！"
             },
             "asset": "char_423_blemsh/CN_002"
@@ -51,7 +51,7 @@
             "text": {
                 "en": "Doctor, to be honest, I'm a much better craftsman than I am a knight! Whether it's repairing an alarm clock or forging armor, I can help! That's why, Doctor! Can you please take me to see Vulcan's and Closure's workshops? Pretty pleeease!",
                 "jp": "ドクター、私は騎士よりも職人みたいな仕事が得意なの！時計を直すのも、防具を造るのだって手伝えるよ！だからドクター、ヴァルカンさんとクロージャさんの工房に連れてってくれる？お願い！",
-                "kr": "박사, 나는 기사보다 장인 같은 일을 잘해! 시계를 고치는 것도 방어구를 만드는 것도 도울 수 있어! 그러니까 박사, 벌컨 씨랑 클로저 씨의 공방에 데려가 줄래? 부탁이야!",
+                "kr": "박사, 나는 기사보다 장인 같은 일을 더 잘해! 시계를 고치는 것도 방어구를 만드는 것도 모두 도울 수 있어! 그러니까 박사, 벌컨 씨랑 클로저 씨의 공방에 데려가 줄래? 부탁이야!",
                 "cn": "博士，其实我比起骑士，更擅长工匠方面的工作喔！不管是修理闹钟还是锻造护甲，我都可以帮得上忙的！所以博士！能带我去看看火神小姐和可露希尔小姐的工坊吗？拜托！"
             },
             "asset": "char_423_blemsh/CN_003"
@@ -67,7 +67,7 @@
             "text": {
                 "en": "Those two Sarkaz ladies seem hard to talk to, but if my sister trusts them so much, they must be pretty awesome. The Radiant Knight fighting alongside the Sarkaz for the sake of the Infected... Woahh, doesn't that sound like a breaking news headline?",
                 "jp": "あのサルカズのお姉さん二人はなーんか近寄りがたいけど、お姉ちゃんがあれだけ信頼してるんだから、きっとすごい人たちなんだろうね。耀騎士とサルカズが感染者のために肩を並べて戦うなんて……うわーっ、もうブレイキングニュースどころじゃないよ！",
-                "kr": "저 살카즈 언니 둘은 뭐랄까 다가가기 어렵긴 한데, 언니가 그렇게나 신뢰하고 있으니까, 분명 대단한 사람들이겠지? 빛의 기사와 살카즈가 감염자를 위해 어깨를 나란히 하고 싸우다니…… 으아~ 이건 속보로 그칠 소식이 아닌데!",
+                "kr": "저 살카즈 언니 둘은 뭐랄까, 솔직히 말하면 다가가기 조금 어렵달까. 하지만 언니가 이렇게 신뢰하는 걸로 봐선, 분명 대단한 사람들이겠지? 빛의 기사와 살카즈가 감염자를 위해 함께 싸우는 모습이라니…… 으아~ 이건 속보로 그칠 소식이 아닌데!",
                 "cn": "虽然那两位萨卡兹小姐有点难以靠近，不过既然姐姐都那么信任他们，一定都是很厉害的人吧。耀骑士与萨卡兹为了感染者并肩作战......唔啊，感觉不止是新闻头条的范畴了。"
             },
             "asset": "char_423_blemsh/CN_004"
@@ -83,7 +83,7 @@
             "text": {
                 "en": "I actually never got an official title like my sister's 'Radiant Knight.' 'Blemishine' is the codename I chose for myself... But if I was to continue down the path of knighthood, maybe Blemishine wouldn't be a bad name.",
                 "jp": "私はお姉ちゃんと違って「耀騎士」のような称号は貰わなかったの。「ブレミシャイン」ってコードネームも自分で付けたし……でも、もし本当にあのまま騎士の道を歩んでたら、「瑕光騎士」なんて呼ばれるのも悪くなかったかもね。",
-                "kr": "나는 언니랑 달리 '빛의 기사' 같은 칭호는 못 받았어. '블레미샤인'이라는 코드네임도 내가 지은 거고…… 그래도 혹시 진짜로 계속 기사의 길을 걸었다면, '갈라진 빛의 기사'로 불리는 것도 나쁘지 않았을 거야.",
+                "kr": "나는 언니랑은 달리 '빛의 기사' 같은 칭호는 받지 못했어. '블레미샤인'이라는 코드네임도 내가 지은 거고…… 그래도 혹시, 만약 계속 기사의 길을 걸었다면, '흠빛의 기사'로 불리는 것도 나쁘지 않았을 것 같네.",
                 "cn": "其实我并没有取得像姐姐那样“耀骑士”的封号啦。“瑕光”只是我给自己取的干员代号......不过，如果我真的在骑士的道路上继续前行，也许“瑕光骑士”这个名字也不赖呢。"
             },
             "asset": "char_423_blemsh/CN_005"
@@ -99,7 +99,7 @@
             "text": {
                 "en": "Kazimierz's knight sports are nothing more than a huge commercial game, and we all eat out of its palm... I didn't realize it until after I came to Rhodes Island, but Kazimierz's sickness might run deeper than the fact that we've strayed from our knightly traditions... much, much deeper.",
                 "jp": "カジミエーシュの騎士競技って、ただの莫大なマネーゲームで、それにみんな飼いならされてたんだ……ロドスに来て初めて気づいたの、カジミエーシュに広がる病巣は、騎士の伝統に背くだけに留まらないのかもって……きっと。",
-                "kr": "카시미어의 기사 스포츠는 그저 막대한 머니 게임일 뿐이고, 모두가 그것에 길들여졌었어…… 로도스 아일랜드에 와서 처음으로 느꼈지. 카시미어에 퍼진 병소는, 기사의 전통을 어기는 데서 그치지 않을지도 모른다고…… 분명히.",
+                "kr": "카시미어의 기사 스포츠는 그저 막대한 머니 게임일 뿐이야. 그리고 모두가 그것에 길들어져 있지…… 로도스 아일랜드에 와서야 처음으로 느꼈어. 카시미어에 퍼진 병소는, 기사의 전통을 어기는 데서 그치지 않을지도 모른다고…… 분명히.",
                 "cn": "卡西米尔的骑士竞技，那只不过是场庞大的商业游戏，它豢养着所有人......来到罗德岛之后我才意识到，卡西米尔的病灶也许不止在背离骑士传统这个方面......远远不止。"
             },
             "asset": "char_423_blemsh/CN_006"
@@ -115,7 +115,7 @@
             "text": {
                 "en": "Rhodes Island's operators are way more like the ancient knights in the novels than the competition knights. In fact, I've been pretty obsessed with these knight novels for a long time. Knights, enemies, adventures, and treasures. But anyone can get that stuff from knight sports, so they're not as big as they used to be.",
                 "jp": "競技騎士と比べたら、ロドスのオペレーターってみんな小説に出てくるような古い騎士って感じだねー。実は昔、私も騎士小説にハマってた時期があったんだけど、騎士、敵、冒険、財宝……そんなものはみんな騎士競技で手に入るから、ブームも廃れちゃったんだ。",
-                "kr": "스포츠 기사랑 비교하면 로도스 아일랜드의 오퍼레이터는 다들 소설에 나올법한 옛날 기사 같은 느낌이야…… 사실은 옛날에 나도 기사 소설에 빠졌던 시기가 있었는데, 기사, 적, 모험, 보물…… 그런 건 모두 기사 스포츠에서 얻을 수 있으니까, 마음이 식어버렸지.",
+                "kr": "스포츠 기사랑 비교하면 로도스 아일랜드의 오퍼레이터는 다들 소설에 나올법한 옛날 기사 같은 느낌이야…… 사실은 나도 옛날에 기사 소설에 빠진 적이 있었거든? 기사, 적, 모험, 보물…… 이제 그런 건 모두 기사 스포츠에서 얻을 수 있으니까, 기사 소설에 대한 열망도 식어버렸지.",
                 "cn": "哎，比起竞赛骑士，罗德岛的干员们倒更像是小说里的古老骑士嘛，其实我以前沉迷过一段时间的骑士小说喔，骑士、敌人、冒险、财富。不过这些本来就能在骑士竞技里得到，所以就没落啦。"
             },
             "asset": "char_423_blemsh/CN_007"
@@ -131,7 +131,7 @@
             "text": {
                 "en": "When I first saw my sister after all this time, it was like she was a totally different person. Instead of that dazzling, blinding light she used to give off, she was more like the gentle sun, warm and stalwart. Did she change for Rhodes Island? Then I want to see for myself what my sister found here!",
                 "jp": "久しぶりにお姉ちゃんに会えたと思ったら、なんか別人みたいになってた！昔は眩しい炎って感じだったけど、今は優しい太陽みたいに、暖かくて、たくましかった。お姉ちゃんをあんな風に変えたのはロドスかな？なら、お姉ちゃんがここで見つけたものを、私も見てみたい！",
-                "kr": "오랜만에 언니와 만났더니, 뭔가 다른 사람 같아졌어! 예전에는 눈부신 불꽃 같은 느낌이었는데, 지금은 상냥한 태양처럼 따뜻하고 듬직해 보였어. 언니를 저렇게 바꾼 건 로도스 아일랜드일까? 그럼, 언니가 여기서 찾은 걸, 나도 보고 싶어!",
+                "kr": "오랜만에 만난 언니는 완전 다른 사람이더라! 예전에는 눈부신 불꽃 같은 느낌이었는데, 지금은 따뜻한 태양 같달까, 따뜻하고 듬직한 거 말이야. 로도스 아일랜드가 언니를 저렇게 변화시킨 걸까? 그렇다면 나도 보고 싶어! 언니가 이곳에서 찾은걸!",
                 "cn": "时隔许久再见到姐姐，她就像变了个人一样，比起过去那耀眼的光芒，更像柔和的太阳，温暖，伟岸。是罗德岛带给了她这种变化吗？那我也想见识一下，姐姐在这里发现的东西！"
             },
             "asset": "char_423_blemsh/CN_008"
@@ -147,7 +147,7 @@
             "text": {
                 "en": "I couldn't become a real knight, but maybe that's why I was able to see the wider world. I might be seeing things a bit more clearly now. 'To be a knight is to be the noble light that illuminates the land.' Doctor, you will bear witness to my resolve.",
                 "jp": "私は本物の騎士にはなれなかったけど、そのおかげでより広い大地を見ることができたの。今になって、少しは理解できたのかもしれないね。「騎士とは、大地全てを照らす崇高なる者である」という言葉を。ドクター、これからも私の覚悟を見届けてね。",
-                "kr": "나는 진짜 기사는 되지 못했지만, 그 덕에 더 넓은 세상을 볼 수 있었어. 이제야 조금 알 것 같아. \"기사란 모든 세상을 비추는 숭고한 자이다\", 라는 말이 무슨 뜻인지 말이야. 박사, 앞으로도 내 각오를 지켜봐 줘.",
+                "kr": "나는 진정한 기사가 되진 못했지만, 그 덕분에 더 넓은 대지를 볼 수 있었어. “기사란 모든 세상을 비추는 숭고한 자이다”라는 말, 이제야 조금 알 것 같아. 박사, 앞으로도 내 각오를 지켜봐 줘.",
                 "cn": "我没能成为真正的骑士，但也因此见识到了更广袤的大地，也许现在，我反而稍微能明白一点了。“所谓骑士，是照亮整片大地的崇高者”，{@nickname}，请继续见证我的觉悟。"
             },
             "asset": "char_423_blemsh/CN_009"
@@ -179,7 +179,7 @@
             "text": {
                 "en": "Kazimierz knight, codename 'Blemishine.' Hehe, I've heard all about you from my sister, Doctor. You can just call me Maria if you want~",
                 "jp": "カジミエーシュの騎士、コードネーム「ブレミシャイン」だよ。ふふ、お姉ちゃんから噂は聞いてるよ、ドクター。私のことは直接「マリア」って呼んでくれてもいいからね。",
-                "kr": "카시미어의 기사, 코드네임 '블레미샤인'이야. 후후, 언니한테 소문은 들었어, 박사. 날 이름으로 '마리아'라 불러도 돼.",
+                "kr": "카시미어의 기사, 코드네임은 '블레미샤인'이야. 후후, 박사에 관한 건 언니한테 많이 들었어. 박사라면, 날 그냥 '마리아'라고 부르는 거 허락해줄게~",
                 "cn": "卡西米尔骑士，代号“瑕光”，嘿——早就听姐姐说过很多你的事情啦，博士，直接喊我玛莉娅也可以哦？"
             },
             "asset": "char_423_blemsh/CN_011"
@@ -195,7 +195,7 @@
             "text": {
                 "en": "Wait, hold on... Ehhh? You can do it like that?",
                 "jp": "ちょっと待って、ええー、こんなやり方もあるの？",
-                "kr": "잠깐만, 우와~ 이런 방법도 있어?",
+                "kr": "잠깐만, 우와~ 이렇게도 되는구나!",
                 "cn": "等等，欸，这样也行的？"
             },
             "asset": "char_423_blemsh/CN_012"
@@ -227,7 +227,7 @@
             "text": {
                 "en": "I just realized this, but it's all older folks around me, and don't really have any friends around to ask... So, Doctor? What do you think about this equipment I made for myself? Pretty cool, yeah? Does it look good on me?",
                 "jp": "ふと気付いたんだけど、私の周りはほとんど年長者ばっかりで、アドバイスをくれる普通の友達がいなかったんだよね……ドクター？この装備は自分で作ったんだ、どう思う？似合うかな？",
-                "kr": "문득 든 생각인데, 내 주변에는 대부분 연장자밖에 없어서, 조언해줄 평범한 친구가 없었더라고…… 박사, 이 장비 내가 직접 만든 건데, 어때? 어울려?",
+                "kr": "갑자기 든 생각인데, 내 주변에는 대부분 연장자뿐이라, 그냥 평범하게 의견을 나눌 친구가 없었더라고…… 박사, 이 장비 내가 직접 만든 건데, 어때? 잘 어울려?",
                 "cn": "突然意识到，好像身边尽是些长辈，从来没有普通的朋友可以给我提提意见呢......博士？这身装备是我自己动手的喔？你觉得怎么样？好看吗？"
             },
             "asset": "char_423_blemsh/CN_014"
@@ -243,7 +243,7 @@
             "text": {
                 "en": "Blemishine will not disappoint!",
                 "jp": "ブレミシャイン、使命に背きはしない！",
-                "kr": "블레미샤인, 사명을 저버리진 않겠어!",
+                "kr": "블레미샤인, 사명을 저버리지 않겠어!",
                 "cn": "瑕光，一定不辱使命！"
             },
             "asset": "char_423_blemsh/CN_017"
@@ -259,7 +259,7 @@
             "text": {
                 "en": "S-squad leader? Me? But I don't have any experience with team battles...",
                 "jp": "た、隊長？私が？団体戦なんてやったことないんだけど……？",
-                "kr": "대, 대장? 내가? 단체전은 해본 적 없는데……?",
+                "kr": "팀, 팀장? 내가? 단체전은 해본 적 없는데……?",
                 "cn": "队、队长？我吗？我可从来没打过团体战哦......？"
             },
             "asset": "char_423_blemsh/CN_018"
@@ -291,7 +291,7 @@
             "text": {
                 "en": "Our family motto is, 'fear neither hardship nor darkness!'",
                 "jp": "家訓：「苦難と闇を畏れるべからず」！",
-                "kr": "가훈, “고난과 어둠을 두려워 말라!”",
+                "kr": "가훈은, “고난과 어둠을 두려워 말라!”",
                 "cn": "家训是，“不畏苦暗”！"
             },
             "asset": "char_423_blemsh/CN_020"
@@ -355,7 +355,7 @@
             "text": {
                 "en": "The light holds resolute here!",
                 "jp": "光がこの地を守り抜く！",
-                "kr": "빛이 이 땅을 지켜낸다!",
+                "kr": "빛이 이 대지를 지켜낸다!",
                 "cn": "光芒将坚守此地！"
             },
             "asset": "char_423_blemsh/CN_024"
@@ -451,7 +451,7 @@
             "text": {
                 "en": "Each victory will become a light that illuminates the path forward. Good job, Doctor.",
                 "jp": "全ての勝利が、私たちの往く道を照らす光になる。ドクター、お疲れ様！",
-                "kr": "모든 승리가 우리 가는 길을 비추는 빛이 된다. 박사, 수고했어!",
+                "kr": "모든 승리가 우리가 나아가는 길을 비추는 빛이 될 거야. 박사, 수고했어!",
                 "cn": "每一场胜利都会成为照亮前路的光，博士，辛苦了。"
             },
             "asset": "char_423_blemsh/CN_030"
@@ -499,7 +499,7 @@
             "text": {
                 "en": "So this is the inside of Rhodes Island... I'd sure love to see the schematics.",
                 "jp": "これがロドスの中かぁ。構造図がどうなってるか見てみたいなぁ。",
-                "kr": "이게 로도스 아일랜드의 내부인가. 구조도가 어떻게 되어 있는지 보고 싶다~",
+                "kr": "여기가 로도스 아일랜드의 내부구나. 구조도가 어떻게 되어 있는지 보고 싶다~",
                 "cn": "这里就是罗德岛的内部啊，真想看看结构图是什么样的。"
             },
             "asset": "char_423_blemsh/CN_033"
@@ -577,10 +577,15 @@
         "jp": {
             "native": "花澤香菜",
             "global": "Kana Hanazawa"
+        },
+        "kr": {
+            "native": "윤아영",
+            "global": "Yun A-yeong"
         }
     },
     "availability": [
         "cn",
-        "jp"
+        "jp",
+        "kr"
     ]
 }

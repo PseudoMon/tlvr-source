@@ -1,0 +1,596 @@
+{
+    "charid": "char_4119_wanqin",
+    "nameid": "wanqin",
+    "names": {
+        "en": "Wanqing",
+        "jp": "ワンチィン",
+        "kr": "완칭",
+        "cn": "万顷"
+    },
+    "voices": [
+        {
+            "id": "char_4119_wanqin_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "I've arranged the incoming documents just the way you like them, and added a few labels for categorization. Feel free to use them to find what you need. If only my master was so organized... Oh, it's nothing, just an idle musing.",
+                "jp": "今日届いた書類はドクターの習慣に倣って整理しておきました。ラベルでカテゴリ分けしてあるので探す時の参考にどうぞ。はぁ、先生もドクターみたいに整理整頓ができたらなぁ……コホン、忘れてください。失言です。",
+                "kr": "오늘 받은 서류는 모두 박사님의 평소 습관대로 정리해 두었습니다. 카테고리별로 라벨링을 해두었으니, 필요한 자료를 찾으실 때 유용하게 사용하실 수 있을 거예요. 하아, 선생님도 박사님처럼 정리를 잘하셨더라면…… 크흠, 아니아니, 이 말은 잊어주세요, 실언이었습니다.",
+                "cn": "今天送来的文件都已经按您之前的习惯整理好了，我贴了分类标签，您可以根据它们查找资料。唉，要是老师也能像您一样好好整理......咳，没什么，我有些失言了。"
+            },
+            "asset": "char_4119_wanqin/CN_001"
+        },
+        {
+            "id": "char_4119_wanqin_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Wait, there's a bug on your collar. Don't worry, it's a green lacewing, a helpful sort. They hunt the pests that eat our crops. Look at the wings on this cute little guy, the color of jade. Really beautiful... My master always jokes that if I didn't become a farmer, I could've been an entomologist.",
+                "jp": "ちょっと失礼しますね……ほら、襟元に虫が付いてましたよ。こいつはクサカゲロウという益虫で、作物を食い荒らす害虫の天敵なんです。綺麗な羽で玉みたいな色のかわいい奴でしょう。はは、僕はこんなだから、いつも先生から農家じゃなけりゃ昆虫の研究家をやってただろうなんてからかわれちゃうんですよね。",
+                "kr": "이런, 잠시 실례하겠습니다. 박사님 옷깃에 벌레가 붙어 있어서요. 풀잠자리군요. 이 아이는 곡식을 갉아 먹는 해충을 잡아먹는 익충이에요. 옥빛으로 빛나는 날개가 너무 아름답죠? 정말 귀여운 녀석이에요. 선생님도 자주 놀리곤 하셨어요, 농부가 되지 않았다면 제가 곤충 연구를 했을 거라고요.",
+                "cn": "小心，您衣领上停着一只虫子。这是草蛉，一种益虫，专门以那些啃庄稼的害虫为食，它的翅膀很漂亮，颜色像玉一样，是很可爱的小家伙。老师常笑我，要是不做职农，可能就会去研究昆虫了。"
+            },
+            "asset": "char_4119_wanqin/CN_002"
+        },
+        {
+            "id": "char_4119_wanqin_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Low clouds bring rain, high clouds bring fair skies.' See that cloud down by the horizon? That's a cumulus... The proverbs may not always be right, but they do have reference value. Using that one, you predict that tomorrow will be clear, but with strong winds and lightning? You might be a Catastrophologist, but just how did you come to that conclusion?",
+                "jp": "「雲低ければ雨近く、雲高ければ晴れに転ず」とは言ったものの、ほらあそこ、綿雲が下から上まで積み上がってますね……ことわざは道理に基づくものではありますが、必ずしも正しいとは限らないんです。え？今のことわざを参考に、明日の天気は雷を伴い突風吹き乱れる快晴だと予想した？ドクターは天災学者ですよね、どうやってそんな結論を導き出したんですか？",
+                "kr": "“낮은 구름은 비를 부르고, 높은 구름은 맑음을 뜻하리.” 보세요, 저쪽 하늘에 뭉게구름이 있어요…… 속담은 참고 가치가 있지만, 늘 맞는 건 아니에요. 방금 속담을 참고해서 예측해 보자면, 내일은 맑지만 강한 바람이 불고 때때로 벼락이 칠 거라고요? 박사님은 재앙 전문가시잖아요, 어떻게 그런 결론을 내린 거죠?",
+                "cn": "“云低要雨，云高转晴”，您看，天边那片是积云......谚语具有一定参考性，但不是绝对准确。您用我刚刚说的那些判断出明天天晴狂风并伴有雷击？您是天灾学家，是怎么得出这一结论的？"
+            },
+            "asset": "char_4119_wanqin/CN_003"
+        },
+        {
+            "id": "char_4119_wanqin_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "I've read that 'Tianshi' means 'to be a role model for the generations to come, and to search for perpetual truth.' I used to think I could never live up to that, but after seeing some of my seniors befuddled from time to time... Maybe I've been overthinking it. There may be a saying more suitable for me: 'Focus on your search, and learn for the sake of the people'. ",
+                "jp": "本によると、「天師」とは「天理を窮究し、万世の師表となるもの」とありました。昔は僕なんかじゃ一生かかってもそんなふうにはなれないと思ってましたが、大先輩方の滅茶苦茶っぷりを見ていたら……あまり深く考えず、「一意専心に学び、世人の為とする」だけで良いのかもしれないと考えるようになったんです。",
+                "kr": "책에서는, '천사'란 '하늘의 뜻을 탐구하며, 세상의 모범이 되는 자'로 설명하고 있어요. 전 제가 평생 가도 그런 사람은 될 수 없으리라고 생각했지만, 대선배님들이 우왕좌왕하는 모습을 목격한 뒤로는…… 예전만큼 그리 심각하게 고민하지 않게 되었어요. 이젠 그저 '연구에 몰두하고, 배운 것으로 사람들을 돕는 이' 정도만 해내도 충분하다고 생각해요.",
+                "cn": "书上说，“天师”的含义，是“穷究天理，为万世师表”。之前觉得自己永远都做不到这样，可是见了那些老前辈颠三倒四的样子......或许不用想太多，做到“专心求索，所学为民”就够了。"
+            },
+            "asset": "char_4119_wanqin/CN_004"
+        },
+        {
+            "id": "char_4119_wanqin_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "I once challenged myself to a fast, but I ended up fainting on the fourth day. Still, my master said this was not true hunger. I didn't know what it was like to go hungry for years on end, so I could not possibly understand. I hope there comes a time when no one has to know that feeling.",
+                "jp": "昔に一度、物は試しと食事を断ってみたことがあるんですが、四日しか持たずに倒れてしまいました。それでも先生は、本物の飢えはそんなものではないと仰ったんです。腹が満たされた感覚を覚えているうちは、到底実感できようもないのだと。いつの日か、誰も飢えることを知らない世になってほしいものです。",
+                "kr": "한 번은 아무것도 먹지 않고 버텨본 적이 있어요. 그러다 나흘째 되던 날 결국 쓰러지게 되었죠. 하지만 선생님은 진정한 굶주림이란 그런 게 아니라고 말씀하셨어요. 저는 오랜 시간 배를 곯으면서 살아 본 적이 없기 때문에 그걸 진정으로 이해할 수 없을 거라고도 하셨죠. 언젠간 그 누구도 이걸 이해하지 못하는 날이 왔으면 해요.",
+                "cn": "我曾经试着坚持不吃东西，结果在第四天的时候昏了过去。但是老师说，真正的饥饿不是这样。我没有常年吃不饱饭的经历，所以不可能体会。希望有一天，没有人知道那是什么感觉。"
+            },
+            "asset": "char_4119_wanqin/CN_005"
+        },
+        {
+            "id": "char_4119_wanqin_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "I've gotten tanned again, you say? No big deal, every farmer worth his salt ends up dark as a chestnut. So long as we accomplish our goal, so long as we see our  crops prosper in the contaminated soil, and the hard work of so many bears fruit, then it's all good. Me? I don't need to be there to see it. If the people keep walking the right path, that's enough for me.",
+                "jp": "僕が、また一段と日焼けした？構いませんよ、農家は栗みたいに焼けるのが普通ですからね。汚染された土壌でも作物が健やかに成長し、人々の汗が実を結ぶのならそれで満足です。僕ですか？別にそれをこの目で確かめられなくても良いと思ってます。僕たちの後に続く人がいるというだけで十分ですから。",
+                "kr": "또 피부가 탄 것 같다고요? 뭐 어때요, 농부 일을 하다 보면 원래 밤톨처럼 까무잡잡해지는 게 정상이잖아요? 오염된 땅에서 건강한 작물이 자라고, 무수한 사람들의 땀방울로 결실을 맺을 수 있다면, 전 그걸로 만족해요. 저요? 그걸 두 눈으로 직접 확인할 수 없다 해도 상관없어요. 그저 우리 뒤를 이어갈 사람들이 있다는 것만으로 충분하니까요.",
+                "cn": "我又晒黑了？这怕什么，职农谁不是晒得像个栗子？只要被污染的土地上长出健康的作物，千万人的汗水浇灌出一个结果就好。我？我不必是那个看到它的人，我知道有人沿着这条路走下去就够了。"
+            },
+            "asset": "char_4119_wanqin/CN_006"
+        },
+        {
+            "id": "char_4119_wanqin_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Oh, did you need me for something? Just a second, I need to braid my hair again. When I was younger, I grew out this 'rice stalk braid' as a prayer for peace. Now I spend a lot of time managing it every day. Back then, Grain Buds always thought I was a girl thanks to this braid...",
+                "jp": "あれ、僕に用事ですか？髪を編み直してるところなのでちょっとだけ待ってくださいね。これ、小さい頃に無事息災を祈って伸ばした「稲穂編み」なんですが、今でもお手入れに毎日そこそこ時間が取られるんですよね。昔はこのおさげのせいで、小満からずっと女の子扱いされちゃって……",
+                "kr": "어라, 무슨 일로 오셨어요? 잠시만요, 머리를 다시 땋는 중이라서요. 어릴 때 평안을 빌며 기르기 시작한 '벼 이삭 머리'인데, 이젠 매일 정리하는데만도 시간이 꽤 드네요. 꼬마일 때는 이 땋은 머리 때문에 소만이 절 계속 여자애로 착각했던 적도 있었는데 말이죠……",
+                "cn": "唔，您有事情找我？请稍等一下，我正在重新编辫子。小时候为了祈求平安留的“稻穗辫”，现在每天要花不少时间来打理。我还记得小时候就因为这条辫子，小满一直把我当成女孩子......"
+            },
+            "asset": "char_4119_wanqin/CN_007"
+        },
+        {
+            "id": "char_4119_wanqin_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "The crops grown in Dahuang have a much better texture and taste than others. If you get a chance, I'd love to show you about the city. You wonder if they could supply Rhodes Island with food? Um, that's a little... I-I'm afraid that you'll need to discuss that with the proper authorities. It's not up to me.",
+                "jp": "大荒城で採れる野菜や穀物は、余所のよりも口当たりが良くてとても美味しいんです。もしドクターの都合が付けば、大荒城でおもてなしさせてください。ロドスに食料を卸せるか？えーっと……それはお役所に相談してみないとなんとも。僕が勝手に決められることじゃありませんから。",
+                "kr": "대황성에서 길러 낸 작물들은 다른 데서 기른 것보다 식감도 좋고 맛도 좋아요. 혹시 나중에 시간 되실 때, 우리 대황성으로 박사님을 초대하고 싶네요. 로도스 아일랜드에 작물 공급이 가능하냐고요? 그건…… 아무래도 관청에 여쭤보셔야 할 것 같아요, 제 권한이 아니라서.",
+                "cn": "大荒城种出的蔬果粮食口感和味道比外面大部分的都要好上很多。您有空的话，我很乐意邀请您来大荒城做客。您问能不能给罗德岛提供食物？这......这要找官府谈，我可做不了这个主。"
+            },
+            "asset": "char_4119_wanqin/CN_008"
+        },
+        {
+            "id": "char_4119_wanqin_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "These seeds occasionally fall onto the ship. Oftentimes I gather them up and wait like this on the solid ground, closing my eyes and feeling which way the wind is blowing. There, once the breeze rises, I let them go, and those seeds find someplace to take root all on their own.",
+                "jp": "この種たちはたまたまロドスに流れ着いたものなんですが、僕はよくこうやって拾い集めて、畑で目を閉じて風の流れを感じてみるんです。風の出発点を見つけて、そこに種を載せてやれば……ほら、種が自分で芽吹ける場所を見つけてくれるんですよ。",
+                "kr": "이건 하늘을 떠돌다 우연히 함선으로 떨어진 씨앗이에요. 저는 그런 씨앗을 모아, 때를 기다리죠. 눈을 감은 채로 불어오는 바람을 느끼고, 바람이 불어가는 방향으로 그들이 날아갈 수 있게…… 그들이 뿌리내릴 곳을 스스로 찾을 수 있게 하는 거예요. 자, 보세요.",
+                "cn": "这些种子是偶然落在舰船上的，我经常会把它们收集起来，然后就像这样待在地里，闭着眼睛感受风如何吹过。您看，找到风起的地方，把它们放进风里，种子会自己找到生根发芽的地方。"
+            },
+            "asset": "char_4119_wanqin/CN_009"
+        },
+        {
+            "id": "char_4119_wanqin_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "The wind rises...",
+                "jp": "風が吹いてきた……",
+                "kr": "바람이 부네……",
+                "cn": "起风了......"
+            },
+            "asset": "char_4119_wanqin/CN_010"
+        },
+        {
+            "id": "char_4119_wanqin_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Why am I called 'Wanqing'? It's one of the breeds of rice that my master cultivated in Dahuang. Others include Fanglao #3, the waterlogging-resilient one, Zaoyou #8, the quick-ripening one, and Kangdong #11, the frost-resistant one... 'Wanqing' means wide, and it sounds the most like a proper name.",
+                "jp": "「ワンチィン」というコードネームの由来ですか？先生が大荒城で作った試作品種の名前から取ったもので、広大な田畑という意味が込められてるんです。他には水害に強いという意味の防澇三号、成長が早い早優八号、防寒種の抗凍十一号なんかがあったんですが……その中では「万頃」が一番マシだったので。",
+                "kr": "왜 '완칭'이냐고요? 이건 선생님이 대황성에서 수확 성공한 실험 품종 중에서 고른 거예요. 다른 건 수해방지 3호, 조기성숙 8호, 냉해방지 11호 같은 거라…… '완칭'이 그나마 괜찮은 이름이었거든요.",
+                "cn": "为什么叫“万顷”？这名字是老师从大荒城成功的实验稻品种里选的，剩下的是防涝三号、早优八号、抗冻十一......“万顷”已经是里面最好听的了。"
+            },
+            "asset": "char_4119_wanqin/CN_011"
+        },
+        {
+            "id": "char_4119_wanqin_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Everyone looks so well-mannered around here, it's hard to imagine that they're so fierce in battle...",
+                "jp": "皆さん上品で落ち着いて見えるのに、いざ殴りかかると容赦ないですね……",
+                "kr": "평소엔 우아하고 예의 바르던 분들이, 싸울 땐 이렇게 화끈하실 줄은……",
+                "cn": "大家平时看起来文质彬彬，想不到揍起人来这么狠......"
+            },
+            "asset": "char_4119_wanqin/CN_012"
+        },
+        {
+            "id": "char_4119_wanqin_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "The rating standards of the Tianshi Bureaus seem to stipulate that you can use evaluations from exchange visits in their assessments... Excuse me Doctor, is Rhodes Island able to provide an officially-stamped study visit certificate?",
+                "jp": "天師府の評価基準では、インターン先の評判も成績の参考にするって決まりだとか……あの、ロドスでは社判を押した証明書を出してもらえるんでしょうか？",
+                "kr": "천사부에서 인턴십 교류 기관의 평가를 성적 평가에 반영한다고 들었는데…… 혹시, 로도스 아일랜드의 서명 날인된 증명서를 한 부 발급받을 수 있을까요?",
+                "cn": "天师府的评级标准似乎规定了可以把交流访问对象的评价纳入成绩参考......请问，罗德岛能提供盖章的访学证明吗？"
+            },
+            "asset": "char_4119_wanqin/CN_013"
+        },
+        {
+            "id": "char_4119_wanqin_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "I've consulted with my master. As long as Rhodes Island agrees to sign a contract of cooperation with the Tianshi Bureaus, I'll get to offer my assistance as an advisor on experimental crop fields. We both do what we can for the sake of the many, and we'd be delighted to support your goals.",
+                "jp": "先生に確認を取ったところ、もしロドスが天師府の提携案に同意してくださるなら、僕は今後皆さんの農業試験場のアドバイザーとして協力させてもらえるとのことでした。多くの人々のために汗を流している皆さんの理想を、僕たちも同志として支えたいんです。",
+                "kr": "선생님께 여쭤 봤는데, 만약 로도스 아일랜드 측에서 천사부에서 제안한 협력 조항에 동의한다면 여러분의 시험 농지 고문으로서 도움을 드릴 수 있을 것 같아요. 저희와 마찬가지로 많은 사람들을 이롭게 하기 위해서 노력하고 계시는 만큼, 저희도 기쁜 마음으로 지지하겠습니다.",
+                "cn": "我咨询了老师，如果罗德岛同意天师府提出的合作条款，我日后可以作为你们的试验田顾问提供帮助。同样是为了更多人，我们很乐意支持这样的理想。"
+            },
+            "asset": "char_4119_wanqin/CN_014"
+        },
+        {
+            "id": "char_4119_wanqin_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Initial environmental survey completed. Nothing abnormal. We're good to go.",
+                "jp": "簡易環境調査完了。特に問題は見つからなかったので、安心して始めてください。",
+                "kr": "기초 환경 조사 완료, 특별한 문제는 없는 것 같으니 안심하고 시작하시죠.",
+                "cn": "初步环境勘测已经完成，没有什么问题，放心开始吧。"
+            },
+            "asset": "char_4119_wanqin/CN_017"
+        },
+        {
+            "id": "char_4119_wanqin_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "I hope everyone takes my commands seriously. Let’s get this done right.",
+                "jp": "皆さん僕の指示をしっかり聞いて、ミスのないようにお願いします。",
+                "kr": "부디 제 지휘를 주의 깊게 들어 주시고, 실수가 없도록 주의해 주세요.",
+                "cn": "希望各位能认真听我的指挥，不要出差错。"
+            },
+            "asset": "char_4119_wanqin/CN_018"
+        },
+        {
+            "id": "char_4119_wanqin_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "If we cross any farmland, watch where you step.",
+                "jp": "農地を通る時は、くれぐれも足元に注意してください。",
+                "kr": "농지를 지나게 되면, 부디 발밑을 조심해 주세요.",
+                "cn": "如果遇到农田，务必注意脚下。"
+            },
+            "asset": "char_4119_wanqin/CN_019"
+        },
+        {
+            "id": "char_4119_wanqin_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "I'm a student of the Tianshi Bureaus. I won't hold you back.",
+                "jp": "天師府の学生として、絶対に皆さんの足は引っ張りません。",
+                "kr": "천사부의 학생으로서, 여러분의 발목을 잡는 일은 절대 없을 겁니다.",
+                "cn": "天师府的学生，当然不会拖你们的后腿。"
+            },
+            "asset": "char_4119_wanqin/CN_020"
+        },
+        {
+            "id": "char_4119_wanqin_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Here! Er, I mean I'm in position.",
+                "jp": "はい先生――いやドクター……指示をどうぞ。",
+                "kr": "네, 선생…… 아니지, 박사님…… 지시에 따르겠습니다.",
+                "cn": "到——不是......我在。"
+            },
+            "asset": "char_4119_wanqin/CN_021"
+        },
+        {
+            "id": "char_4119_wanqin_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Tell me what you require, and I will deliver.",
+                "jp": "ご要望をお聞かせください。対応します。",
+                "kr": "요청사항을 말씀 주시면, 제가 해결하겠습니다.",
+                "cn": "告诉我您的需求，我来处理。"
+            },
+            "asset": "char_4119_wanqin/CN_022"
+        },
+        {
+            "id": "char_4119_wanqin_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "I've finished construction of the refinement system. Deployment point confirmed.",
+                "jp": "高精度システム構築完了、調査ポイントも確認済みです。",
+                "kr": "정밀화 시스템 구축 완료, 위치 확인되었습니다.",
+                "cn": "细致化系统搭建完毕，地点已确认。"
+            },
+            "asset": "char_4119_wanqin/CN_023"
+        },
+        {
+            "id": "char_4119_wanqin_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "We're in a complex environment. Don't go off on your own or you might get disoriented.",
+                "jp": "複雑な環境ですので、はぐれないように自己判断での行動は控えてください。",
+                "kr": "복잡한 환경이니까, 방향을 잃지 않도록 주관적인 판단은 자제해 주세요.",
+                "cn": "环境复杂，不要自作主张，以免迷失方向。"
+            },
+            "asset": "char_4119_wanqin/CN_024"
+        },
+        {
+            "id": "char_4119_wanqin_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "With the aid of the wind, we too can soar through the skies.",
+                "jp": "長風相助け、直ちに雲霄に上る。",
+                "kr": "거센 바람을 타고 구름까지 오르리.",
+                "cn": "长风相助，直上云霄。"
+            },
+            "asset": "char_4119_wanqin/CN_025"
+        },
+        {
+            "id": "char_4119_wanqin_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Watch your step, don't hurt the crops.",
+                "jp": "作物たちを驚かさないように、足音を抑えてください。",
+                "kr": "작물이 놀라지 않게, 발걸음을 가볍게 해주세요.",
+                "cn": "脚步轻些，别惊扰了庄稼。"
+            },
+            "asset": "char_4119_wanqin/CN_026"
+        },
+        {
+            "id": "char_4119_wanqin_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "The landscape here is tricky. Only step where I step.",
+                "jp": "複雑な地形ですので、しっかりと僕の後に続いてください。",
+                "kr": "지형이 복잡하니까 제 발걸음을 따라와 주세요.",
+                "cn": "地形复杂，跟随我的脚步来。"
+            },
+            "asset": "char_4119_wanqin/CN_027"
+        },
+        {
+            "id": "char_4119_wanqin_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Until we can confirm that this area is safe, I will hold this position.",
+                "jp": "一帯の安全が確認されるまで、僕はここで調査を続けます。",
+                "kr": "구역의 안전이 확인되기 전까지, 전 계속 이곳에 있겠습니다.",
+                "cn": "确认区域无危险之前，我会一直在这里。"
+            },
+            "asset": "char_4119_wanqin/CN_028"
+        },
+        {
+            "id": "char_4119_wanqin_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Ensuring the harvest isn't easy. I hope to pass on the torch of our ideals.",
+                "jp": "成果を形として残すのは難しいことですが、薪から薪へと火が燃え移っていくように、僕たちの理想が後世に伝わっていけばと思います。",
+                "kr": "성과를 내는 건 쉬운 일이 아니죠, 하지만 전 장작에서 장작으로 불이 옮겨붙듯 우리의 이상이 후대로 전해지길 바랍니다.",
+                "cn": "保留一点成果并不容易，希望我们的理想能够薪火相传。"
+            },
+            "asset": "char_4119_wanqin/CN_029"
+        },
+        {
+            "id": "char_4119_wanqin_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Just as the farms never rest, there will always be new growth from the ground, and there will always be those who wish to follow in our footsteps.",
+                "jp": "農作がいつまでも続いてゆき、土壌に新たな芽吹きがあるように、僕たちの歩みに続く後継者もきっと現れます。",
+                "kr": "끊임없이 농사를 지으면 땅에선 계속해서 새싹이 돋아날 거고, 후세의 이들은 우리의 발자취를 따라올 거예요.",
+                "cn": "如同耕作永不停歇，土地上总会长出新的秧苗，也总会有后来人跟上我们的脚步。"
+            },
+            "asset": "char_4119_wanqin/CN_030"
+        },
+        {
+            "id": "char_4119_wanqin_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Let's try that one again. The tiniest oversight leads to different experimental outcomes, and you can't let an error cloud your conclusions.",
+                "jp": "やり直しましょう。ほんの些細なミスが実験結果の誤差に繋がりますし、間違った結論付けは絶対に避けないと。",
+                "kr": "다시 해 보죠, 아무리 작은 실수라도 실험 결과에 오차를 발생시킬 수 있으니까요. 어떠한 상황에서도 잘못된 결론을 내리는 것은 피해야 해요.",
+                "cn": "重新来过吧，一丝一毫的疏漏都会导致实验结果的误差，绝对不能有任何错误的结论产生。"
+            },
+            "asset": "char_4119_wanqin/CN_031"
+        },
+        {
+            "id": "char_4119_wanqin_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Success is the fruit of a thousand failures. Experiments under the Tianshi Bureaus are the same. Don't be discouraged, Doctor.",
+                "jp": "成功は数え切れない失敗の積み重ねの上にこそ芽吹くものです。天師府の実験だって失敗ばかりですし、気を落とすことはありませんよ。",
+                "kr": "흔히들 성공은 천 번의 실패 끝에 얻어지는 것이라고 하죠. 천사부에서 진행한 실험들도 그러했는걸요. 그러니까 너무 낙심하지 않으셨으면 좋겠어요, 박사님.",
+                "cn": "成功往往是上千次失败堆出来的结果，天师府的实验也是如此，您不用气馁。"
+            },
+            "asset": "char_4119_wanqin/CN_032"
+        },
+        {
+            "id": "char_4119_wanqin_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Ever since I got here, there haven't been any leftovers? Of course. Waste not, want not.",
+                "jp": "僕が来てから食べ残しが減った？フードロス削減の一助になれたならなによりです。",
+                "kr": "제가 온 뒤로 사람들이 밥을 안 남긴다고요? 식량을 낭비하지 않는 건 좋은 일이죠.",
+                "cn": "您说我来之后大家都不怎么剩饭了？不浪费粮食，当然是好事。"
+            },
+            "asset": "char_4119_wanqin/CN_033"
+        },
+        {
+            "id": "char_4119_wanqin_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Who—Ah, my braid hit you? I am truly sorry...",
+                "jp": "どなた――え、おさげがぶつかった？申し訳ありません……",
+                "kr": "누구…… 앗, 머리카락에 맞으셨어요? 정말 죄송합니다……",
+                "cn": "谁——啊，辫子打到您了？实在是抱歉......"
+            },
+            "asset": "char_4119_wanqin/CN_034"
+        },
+        {
+            "id": "char_4119_wanqin_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "I reassemble my Tianshi apparatus while I wait for my experiments to finish. My record is twelve seconds. Would you like to try?",
+                "jp": "いつも実験結果を待ちながら天師儀を組み直してるんです。バラした状態から完成まで最高記録は十二秒なんですが、ドクターもやってみませんか？",
+                "kr": "전 실험 결과를 기다리면서 천사의를 다시 조립하곤 해요, 최고 기록은 12초랍니다. 박사님도 한번 해 보실래요?",
+                "cn": "我等实验结果时会重组天师仪，最快记录是十二秒，您要不要也来试试？"
+            },
+            "asset": "char_4119_wanqin/CN_036"
+        },
+        {
+            "id": "char_4119_wanqin_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4119_wanqin/CN_037"
+        },
+        {
+            "id": "char_4119_wanqin_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Doctor, I'm pretty sure I heard this cactus say 'I was already watered yesterday—'.",
+                "jp": "ドクター、このサボテンから「昨日お水をもらったばかりでお腹いっぱいだー！」って声が聞こえた気がしますよ。",
+                "kr": "박사님, 이 선인장 “물이라면 어제도 마셨어……”라고 말하는 것 같은데요.",
+                "cn": "博士，我好像听到这株仙人掌在说“昨天我已经被浇过水了——”。"
+            },
+            "asset": "char_4119_wanqin/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Yung-I Chang",
+            "global": "Yung-I Chang"
+        },
+        "cn": {
+            "native": "风袖",
+            "global": "FengXiu"
+        },
+        "jp": {
+            "native": "新田杏樹",
+            "global": "Anju Nitta"
+        },
+        "kr": {
+            "native": "김진홍",
+            "global": "Kim Jin-hong"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

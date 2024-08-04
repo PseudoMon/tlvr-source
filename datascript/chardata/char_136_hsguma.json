@@ -51,7 +51,7 @@
             "text": {
                 "en": "If something happens, don't forget to use the emergency communication channel. Just call me and I'll come running.",
                 "jp": "非常時には、すぐに小官にお知らせください。可及的速やかに参上いたします。",
-                "kr": "비상시엔 바로 소관에게 알려주십시오. 최대한 신속히, 박사님 곁으로 가겠습니다.",
+                "kr": "비상시엔 바로 긴급 통신 채널로 연락 주십시오. 소관이 최대한 신속히, 박사님 곁으로 가겠습니다.",
                 "cn": "无论发生什么情况，请别忘了紧急通讯频段，我会立刻前来处理。"
             },
             "asset": "char_136_hsguma/CN_003"
@@ -131,7 +131,7 @@
             "text": {
                 "en": "Hannya's tasted plenty of Lungmen gangster blood. I never thought it'd win me many friends, but the ones who looked down on me started showing me some respect after all that had happened. Or maybe they're just scared of how big I am? What do you think?",
                 "jp": "この「般若」には、龍門で血祭りに上げた悪党の血が染みついています。彼らから恨みを買うことには慣れましたが、いつの間にか畏敬の眼差しを向けられるようになっていました。体が大きいことも、悪いことばかりではないですね。",
-                "kr": "이 '반야'에는 용문에서 제물로 바친 악당들의 피가 스며들어 있습니다. 악당들의 원한을 사는 일에는 익숙해졌습니다만, 언제부터인가… 절 경외하는 눈으로 보더군요. 몸집이 크다고 꼭 나쁘기만 한 건 아닌 거 같네요.",
+                "kr": "이 '반야'에는 용문의 여러 갱단 악당들의 피가 스며들어 있습니다. 처음엔 당연히 많은 사람들의 원한을 살 거라고 생각했었습니다만…… 언제부터인가, 저를 하찮게 여겼던 사람들도 절 경외하는 눈으로 보더군요. 아마 이건, 제가 몸집이 커서 그런 거겠죠?",
                 "cn": "这面“般若”沾上了龙门各个帮派的血。本以为会有很多人记恨我，不知道怎么回事，原本蔑视我的人都变得对我毕恭毕敬了。可能是个子大的原因，对吧？"
             },
             "asset": "char_136_hsguma/CN_008"
@@ -467,7 +467,7 @@
             "text": {
                 "en": "Are you hurt? I'm sorry. I failed.",
                 "jp": "負傷したのか。すまない、すべては私の責任だ。",
-                "kr": "부상을 입었나? 미안하다, 전부 내 책임이다.",
+                "kr": "다치셨습니까? 죄송합니다. 모두 제 탓입니다.",
                 "cn": "受伤了吗，抱歉，我的失职。"
             },
             "asset": "char_136_hsguma/CN_031"
@@ -531,7 +531,7 @@
             "text": {
                 "en": "Doctor, you should take a load off now that we finally got a break.",
                 "jp": "ドクター、休憩中くらい力を抜いてリラックスしたらどうだ。",
-                "kr": "박사, 쉴 때만큼은 긴장풀고 푹 쉬는 게 어때?",
+                "kr": "박사님, 지금은 휴식시간이니 쉴 때만큼은 긴장 풀고 푹 쉬시는 게 어떠신가요?",
                 "cn": "博士，现在不是工作时间了，休息的时候就该好好放松吧。"
             },
             "asset": "char_136_hsguma/CN_036"

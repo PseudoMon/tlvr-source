@@ -17,7 +17,7 @@
                 "cn": "任命助理"
             },
             "text": {
-                "en": "Heya, Doctor! So, what are you up to? Looks like fun!",
+                "en": "Yahoo, Doctor! Whacha doing? Looks like fun!",
                 "jp": "ヤッホー！ドクター！ねぇねぇ何してるの？なんか面白そう！",
                 "kr": "야호~! 박사! 뭐 하고 있는 거야? 왠지 재밌어 보이는데?",
                 "cn": "嗨~博士！您在做什么呢？好像很有趣的样子！"
@@ -33,9 +33,9 @@
                 "cn": "交谈1"
             },
             "text": {
-                "en": "Are there any karaoke venues at Rhodes Island? It would be great if we had a place to sing the night away when we don't have battles to fight!",
+                "en": "Does Rhodes Island have a karaoke place? It'd be great if we had a place to sing the night away, especially when we don't have battles to fight!",
                 "jp": "ロドスって歌える場所あるのかな？いや～戦いのない日はみんなでパーッとカラオケでもやろうと思って！",
-                "kr": "로도스 아일랜드엔 노래 부를 만한 데 혹시 없어? 아니 별 건 아니고~ 싸울 일 없는 날엔 사람들이랑 같이 노래방 같은데 갈까 해서!",
+                "kr": "로도스 아일랜드엔 노래 부를 만한 데 혹시 없을까? 아니 별건 아니고~ 작전 없는 날엔 사람들이랑 같이 노래 부르면서 쉴 수 있는 곳이 있나 해서!",
                 "cn": "罗德岛有没有适合唱歌的场所呢？我希望没有战斗的时候，大家能有个一起唱卡拉OK放松放松的地方！"
             },
             "asset": "char_101_sora/CN_002"
@@ -49,7 +49,7 @@
                 "cn": "交谈2"
             },
             "text": {
-                "en": "My duty as an idol was to make my fans happy with my songs and performances. But I'm an Operator now... what should my duty be, then?",
+                "en": "My job as an idol is to make the fans happy with my songs and performances. But what should I do as an operator of Rhodes Island... ?",
                 "jp": "アイドルやってるときは、歌声とパフォーマンスでファンの心を掴むのが仕事だけど、オペレーターっていったい何すればいいの……？",
                 "kr": "아이돌 일을 할 땐, 노래랑 퍼포먼스로 팬들 마음을 사로잡는 게 일인데… 오퍼레이터는 대체 뭘해야 돼?",
                 "cn": "做偶像的时候，用歌声和表演来抓住Fans的心是我的工作，可是作为干员，我又该做些什么呢......？"
@@ -65,7 +65,7 @@
                 "cn": "交谈3"
             },
             "text": {
-                "en": "Doctor, anything I can help with? Don't you underestimate me—I'm considered quite physically capable at Penguin Logistics!",
+                "en": "Hi, hi, Doctor! Anything I can help with? Don't judge me by my look— I actually do some heavy lifting at Penguin Logistics.",
                 "jp": "ドクター！ドクター！何か手伝ってあげようか？こう見えてあたし、ペンギン急便では力仕事もやるんだよ。",
                 "kr": "박사! 박사! 뭐 도와줄 거 없어? 이래 봬도 나, 펭귄 로지스틱스에선 힘쓰는 일도 했었다구.",
                 "cn": "博士博士，有什么我能帮忙的吗？别看我这样，在企鹅物流里，我可也是会做些体力活的哦。"
@@ -81,7 +81,7 @@
                 "cn": "晋升后交谈1"
             },
             "text": {
-                "en": "Yup, my special skill is singing! Let's see, I can do a cappella, lead vocals, choir singing, pop music, and I can even rap, yo! Though I guess that's not a very useful skill for an Operator... If only I had a more practical skill...",
+                "en": "Yup, my special skill is singing! I can do a cappella, lead vocals, choir singing, pop music, and I can even rap, yo yo! But, I guess that's not a very useful skill for an Operator. If only I had a more practical skill…",
                 "jp": "あたしの特技はもちろん歌うこと！えっとね、アカペラからリードボーカル、アイドルソングにポップス、ラップまでできるよ～！……ってこれ、オペレーターのお仕事には役立たないか……もっとみんなの役に立てるようになりたいな。",
                 "kr": "내 특기는 당연히 노래지! 어디 보자, 아카펠라부터 시작해서 리드 보컬, 아이돌 노래에 팝송, 랩까지 할 수 있지! ……생각해보니까, 이런 건 오퍼레이터 업무엔 도움이 안 되겠네… 어떻게 해야 사람들에게 더 도움을 줄 수 있을까?",
                 "cn": "果然我的专长就是唱歌！单人清唱也好，合唱领唱也行，流行歌曲偶像歌曲都没问题，甚至RAP都不在话下！不过，好像这些对干员的工作没什么帮助呢......如果能更多地帮到大家就好了。"
@@ -97,9 +97,9 @@
                 "cn": "晋升后交谈2"
             },
             "text": {
-                "en": "Ears...? Uh, I can't tell you... even if you ask Texas, she's not gonna tell you! I'll explain if I get the chance someday...",
+                "en": "M-My ears...? Uh, I can't tell you! A-And even if you ask Texas, she's not going to tell you either! Ehhh—Sorry, I'll explain if I get the chance someday…",
                 "jp": "みっ、耳のこと！？あ、あたしに聞かれても……って、テキサスさんに聞くのはもっとダメ！そのうち教えてあげるから……！",
-                "kr": "귀, 귀가 왜 그러냐고?! 뭐, 뭐라고 대답해야 하나… 아, 텍사스 씨한테는 물어보면 안 돼! 나중에 가르쳐 줄 테니까…!",
+                "kr": "귀, 귀가 왜 그러냐고?! 뭐, 뭐라고 대답해야 하나…… 아앗, 텍사스 씨한테 물어본다고 해도 대답 안 해줄 거야! 나중에 내가 다 설명해 줄게……!",
                 "cn": "耳、耳朵的事？就算您这么问，我也不能......那个，就算问德克萨斯她也是不会说的！以后有机会我会向您解释......！"
             },
             "asset": "char_101_sora/CN_006"
@@ -113,7 +113,7 @@
                 "cn": "信赖提升后交谈1"
             },
             "text": {
-                "en": "You know, Texas actually saved my life and taught me so much I never knew. Which is why... I want to stay by her side whenever I have the chance... I'm uhh, trying to show my gratitude for her, that's all!",
+                "en": "You know, Texas actually saved my life. She also taught me so much I never knew. Which is why I... want to be there with her whenever I can... I, uhh, I'm just trying to show my gratitude for her, that's all!",
                 "jp": "あのね、テキサスさんはあたしの命の恩人なの。それに、あたしが知らないたくさんの事を教えてくれた。だから、時間があるときはいつでもテキサスさんのそばに居たいんだ……ええっと、ただ恩返しがしたいだけだよ！",
                 "kr": "사실, 텍사스 씨는 내 생명의 은인이야. 게다가 내가 모르는 걸 많이 가르쳐줬어. 그래서… 시간이 있을 땐 늘 텍사스 씨 가까이에 있고 싶어… 그, 그냥 은혜를 갚고 싶어서 그런 거야!",
                 "cn": "德克萨斯是我的救命恩人，还教了我很多事情，所以只要有时间我都想待在她身边，帮她做点什么......嗯，只是想报恩而已！"
@@ -129,9 +129,9 @@
                 "cn": "信赖提升后交谈2"
             },
             "text": {
-                "en": "You think I look upset? Um... it's because... Exusiai went on a mission with Texas today, right? If only I were as skilled as Exusiai, I could...",
+                "en": "You think I look upset? Um... it's because... Exusiai went on a mission with Texas again, right? If only I were as good as Exusiai…",
                 "jp": "すねてるように見える？むぅ……だって、今日もテキサスさんと一緒に任務に出るのはエクシアでしょ。はぁ…あたしもエクシアみたいに強くなれれば……。",
-                "kr": "안 좋은 일이라도 있었냐고? 흥… 당연하지. 오늘도 엑시아만 텍사스 씨랑 같이 임무를 맡았잖아. 휴… 나도 엑시아처럼 강해지면 좋을 텐데…",
+                "kr": "기분이 별로 안 좋아 보인다고? 음…… 오늘도 엑시아가 텍사스 씨랑 같이 임무를 맡았잖아. 에휴…… 나도 엑시아처럼 강하면 좋을 텐데……",
                 "cn": "我看上去不太高兴？呣......因为，今天和德克萨斯一起做任务的人还是能天使对吧。哈......如果我也能像能天使那样强的话......"
             },
             "asset": "char_101_sora/CN_008"
@@ -145,7 +145,7 @@
                 "cn": "信赖提升后交谈3"
             },
             "text": {
-                "en": "Doctor! Could you teach me to use weapons? My songs have no practical use except for support and encouragement. If I could fight with weapons... Huh? You're not good at fighting either?!",
+                "en": "Doctor! Could you teach me to use a weapon? My songs have no practical use except for support and encouragement. If I could fight with a weapon... What? You're not good at fighting either?!",
                 "jp": "ねぇ、ドクター！あたしにも武器の使い方を教えて！歌だけじゃ後方支援しかできないから。もし武器も使えるようになれば……って、ええっ？ドクターも戦いは苦手……！？",
                 "kr": "저기, 박사! 나한테도 무기 다루는 법을 가르쳐 줘! 노래만 불러선 후방 지원밖에 못 하잖아. 무기 사용법만 익히면… 뭐어? 박사도 싸우는 건 잘 못한다고…?!",
                 "cn": "博士！能不能教教我怎么使用武器！唱歌什么的，只能在后方支援大家，要是我能用武器战斗的话......欸欸？您也不太擅长战斗？"
@@ -161,7 +161,7 @@
                 "cn": "闲置"
             },
             "text": {
-                "en": "...Texas, are you listening to my songs?",
+                "en": "Texas... are you listening to my song?",
                 "jp": "……テキサスさん、今頃あたしの歌、聴いてくれてるかな？",
                 "kr": "텍사스 씨는…… 지금쯤…… 내 노래를 듣고 있을까?",
                 "cn": "......德克萨斯，你在听我的歌吗？"
@@ -177,7 +177,7 @@
                 "cn": "干员报到"
             },
             "text": {
-                "en": "Hiiii! I'm the loveable idol from Monster Siren Records: Sora! Oops, sorry, introducing myself like this at Rhodes Island must be kinda weird. Hmm...",
+                "en": "(｡･∀･)ﾉﾞHiiii! I'm the loveable idol from Monster Siren Records: Sora! Oops, sorry, introducing myself like this at Rhodes Island must be kinda weird. Aww…",
                 "jp": "ハーイ！MSRから来ました、みんなのアイドル、ソラちゃんで～す！って、ごめんごめん～この自己紹介、ロドスに合わないよね……。うーん……。",
                 "kr": "안녕하세요~! MSR에서 온 여러분의 아이돌, 소라라고 해요~! 앗, 미안 미안~! 이런 자기소개는 로도스 아일랜드에 안 어울리지… 으음… ",
                 "cn": "(｡･∀･)ﾉﾞ嗨！我是来自MSR的，大家的偶像空~！呃，抱歉抱歉~这种风格的自我介绍，好像不太适合罗德岛吧。呜......"
@@ -193,7 +193,7 @@
                 "cn": "观看作战记录"
             },
             "text": {
-                "en": "Levely uppity!",
+                "en": "Leveling—up!",
                 "jp": "レベルア～ップ！！",
                 "kr": "레벨 업~!",
                 "cn": "升级！"
@@ -209,7 +209,7 @@
                 "cn": "精英化晋升1"
             },
             "text": {
-                "en": "A promotion? You mean like debuting as a trainee idol?",
+                "en": "A promotion? Do we also have an idol ranking on Rhodes Island?",
                 "jp": "しょーしん？……アイドルランクみたいなものかな？",
                 "kr": "승진? …아이돌 랭킹같은 거야?",
                 "cn": "晋升？是像偶像等级一样的制度吗？"
@@ -225,7 +225,7 @@
                 "cn": "精英化晋升2"
             },
             "text": {
-                "en": "I feel as excited as I did during my first live performance! I'm just so happy that you trust me this much, Doctor! It's like all my hard work has paid off! ...Huh? My ears? What about them?",
+                "en": "I can feel the surge in my heart. It's like back to my first concert. I'm just delighted that you trust me so much, Doctor! All my hard work has paid off! Hmm? My ears? Wh-What about them?",
                 "jp": "このワクワクした気持ち、まるで初めてライブステージに立った日みたい……。ドクターがあたしを頼ってくれて超嬉しい！これまでの努力も報われるってもんだよ……。うん？あたしの耳？どっ、どうかしたの？",
                 "kr": "이 설레는 마음, 꼭… 처음 라이브 무대에 섰던 날 같아… 박사가 날 의지해 줘서 진짜 기뻐! 지금까지 한 노력을 보상받은 것 같아… 응? 내 귀? 가, 갑자기 귀는 왜?!",
                 "cn": "这样雀跃的心情，简直就像回到了初次站上LIVE舞台的那天......博士能这样信赖我，我真的很开心！至今为止的努力得到回报了......嗯？我的耳朵？怎、怎么了嘛......？"
@@ -241,9 +241,9 @@
                 "cn": "编入队伍"
             },
             "text": {
-                "en": "As a member of the squad, I'll start by learning the very basics.",
+                "en": "As a squad member, I'll try my best to learn from the basics!",
                 "jp": "チームメンバーとして、任務のお勉強も頑張るぞ～。",
-                "kr": "팀의 일원으로서, 임무도 열심히 공부해야지~!",
+                "kr": "팀의 일원인만큼, 기초 지식부터 열심히 다져보는 거야!",
                 "cn": "作为小队的一员，我会从基础知识开始学习的。"
             },
             "asset": "char_101_sora/CN_017"
@@ -257,7 +257,7 @@
                 "cn": "任命队长"
             },
             "text": {
-                "en": "The leader? You mean like being the lead singer?",
+                "en": "I'm the leader? Is that like standing at the center of the idol group?",
                 "jp": "たいちょー？センターみたいなものだよね？",
                 "kr": "팀장? 센터랑 비슷한 거지?",
                 "cn": "队长吗？就像Center位一样吧？"
@@ -273,7 +273,7 @@
                 "cn": "行动出发"
             },
             "text": {
-                "en": "Singing on the battlefield... now that's something new!",
+                "en": "Singing on the battlefield... Now that's a fresh experience!",
                 "jp": "戦場で歌うのって、なんか新鮮～。",
                 "kr": "전장에서 노래를 하다니, 왠지 신선한데~?",
                 "cn": "在战场上唱歌，真是新奇体验呢~"
@@ -289,7 +289,7 @@
                 "cn": "行动开始"
             },
             "text": {
-                "en": "If only my songs could put an end to all this fighting...",
+                "en": "If only my music could put an end to all this fighting...",
                 "jp": "あたしの歌声で戦いを止められたらいいのにな。",
                 "kr": "내 노랫소리로 싸움을 멈출 수 있으면 좋을 텐데.",
                 "cn": "如果我的歌声能阻止这场战争就好了。"
@@ -321,7 +321,7 @@
                 "cn": "选中干员2"
             },
             "text": {
-                "en": "I can handle this!",
+                "en": "Yes, I can handle this!",
                 "jp": "あたしなら大丈夫！",
                 "kr": "난 괜찮아!",
                 "cn": "我的话没问题！"
@@ -337,7 +337,7 @@
                 "cn": "部署1"
             },
             "text": {
-                "en": "The concert's starting!",
+                "en": "It's show time!",
                 "jp": "ライブスタート！",
                 "kr": "라이브 스타트!",
                 "cn": "演唱会要开始喽！"
@@ -353,7 +353,7 @@
                 "cn": "部署2"
             },
             "text": {
-                "en": "All right, let's make some noise!",
+                "en": "Alright, let's make some noise!",
                 "jp": "さぁさぁ、はっじまっるよ～！",
                 "kr": "자자~ 시작할게~!",
                 "cn": "开始了哦~！"
@@ -385,7 +385,7 @@
                 "cn": "作战中2"
             },
             "text": {
-                "en": "I'm cheering for you!",
+                "en": "You have my full support!",
                 "jp": "応援してるよー！",
                 "kr": "응원할게~!",
                 "cn": "我会支持你！"
@@ -401,7 +401,7 @@
                 "cn": "作战中3"
             },
             "text": {
-                "en": "Counterattack!",
+                "en": "Now we change the game!",
                 "jp": "一発逆転！",
                 "kr": "단숨에 역전!",
                 "cn": "让形势逆转吧！"
@@ -417,7 +417,7 @@
                 "cn": "作战中4"
             },
             "text": {
-                "en": "Keep it up!",
+                "en": "Don't lose heart, we can win this one!",
                 "jp": "負けないで！",
                 "kr": "지면 안 돼!",
                 "cn": "别输了！"
@@ -449,7 +449,7 @@
                 "cn": "3星结束行动"
             },
             "text": {
-                "en": "Awesome! A smashing victory! Texas, were you watching me?",
+                "en": "Awesome! A smashing victory! Texas, did you see how I sparkled on the stage?",
                 "jp": "やったー！作戦、大成功！テキサスさん、あたしの活躍、見てくれた～？",
                 "kr": "이겼다~! 작전 대성공! 텍사스 씨, 내가 활약하는 모습, 잘 봤어~?",
                 "cn": "成功了！大获全胜！德克萨斯，看到我活跃的表现了吗？"
@@ -465,7 +465,7 @@
                 "cn": "非3星结束行动"
             },
             "text": {
-                "en": "Good job, everyone!",
+                "en": "We did a good job, team. Thank you for your hard work!",
                 "jp": "みんな～お疲れ様！",
                 "kr": "다들~ 고생했어!",
                 "cn": "大家辛苦了！"
@@ -481,7 +481,7 @@
                 "cn": "行动失败"
             },
             "text": {
-                "en": "I'm sorry... my performance wasn't good enough...",
+                "en": "I'm sorry... I wasn't good enough to be your help...",
                 "jp": "ごめんなさい……みんなの力になれなかった……。",
                 "kr": "미안해… 모두에게 도움이 되지 못했어…",
                 "cn": "对不起......我没能成为大家的力量......"
@@ -570,6 +570,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Maddie Matsumoto",
+            "global": "Maddie Matsumoto"
+        },
         "cn": {
             "native": "侯小菲",
             "global": "Fifi"
@@ -584,6 +588,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

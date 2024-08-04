@@ -1,0 +1,601 @@
+{
+    "charid": "char_4121_zuole",
+    "nameid": "zuole",
+    "names": {
+        "en": "Zuo Le",
+        "jp": "ズオ・ラウ",
+        "kr": "좌락",
+        "cn": "左乐"
+    },
+    "voices": [
+        {
+            "id": "char_4121_zuole_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "When I first became a Candleholder, it took me three whole months to finish reading all the literature in the Sui Regulator's library. The paperwork you have piled up here... is no less impressive in size. I will have time to familiarize myself with my duties, right?",
+                "jp": "私が持燭人の任に着いたばかりの頃、丸三ヶ月をかけてやっと司歳台の全てのファイルに目を通せました。一方でドクターの机に積まれた書類の量も……かなり壮観です。その、ここの仕事に慣れるまでに、十分な時間をいただけるのですよね？",
+                "kr": "제가 금방 지촉인이 되었을 때, 사세대의 모든 서류를 읽는데 세 달이 족히 걸렸습니다. 그런데 박사님 책상 위에 쌓인 서류의 양도…… 상당하군요. 흠, 업무에 적응하게 될 때까지 시간은 충분히 주어지는 거겠죠?",
+                "cn": "我刚当上秉烛人的时候，花了三个月整，才读完司岁台的所有卷宗，而堆积在您这里的文件，数量也......相当可观。我想，我应该有足够的时间来熟悉工作吧？"
+            },
+            "asset": "char_4121_zuole/CN_001"
+        },
+        {
+            "id": "char_4121_zuole_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Doctor? Let me join you for a walk... Oh, it's just Kroos and Mr. Nothing said they would take me around to introduce myself to all the operators on the landship. They've been very warm, much more so than when we first met... Wait, what? You're inspecting the entire ship today?",
+                "jp": "ドクター？私もご一緒させてください……いえ、クルースお姉さんとウユウお兄さんが今日は「物詣で」に行って、ロドスの皆さんに挨拶をしようと話していて。お二人ともすごく熱心なんです。知り合った頃よりよっぽど……待ってください、ドクターは全艦の巡回をするつもりなんですか？",
+                "kr": "박사님? 같이 가시죠…… 그게, 크루스 씨와 우요우 형님이 오늘 저를 데리고 함선의 모든 오퍼레이터분들과 인사를 나누게 해주겠다고 하셔서요. 두 분 모두 너무 열정적이에요, 처음 만났을 때보다도 더요…… 잠시만요, 설마 박사님도 함께 함선을 둘러보실 계획은 아니시겠죠?",
+                "cn": "博士？我跟您一块走......唔，克洛丝姐和乌有哥说今天要带我“拜山门”，和在船上的干员们都打个招呼，他们很热情，比我们相识时更热情......稍等，您是要巡视全舰？"
+            },
+            "asset": "char_4121_zuole/CN_002"
+        },
+        {
+            "id": "char_4121_zuole_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "My father forged these blades for me. 'Drive out the shadows of the Feranmut and all the people's troubles.' A Candleholder's work is not so simple that we can manage it with force alone... Um, of course, I've also been practicing my kung fu every day!",
+                "jp": "こちらの剣の一揃いは、玉門にいる父が私のために手ずから拵えてくれたものです。「巨獣の影を払い、国の災いを察する」――持燭人が為すべき事は武力のみでは遂げられないんですよ……まあ、武術も、もちろん鍛錬を怠っていませんよ。",
+                "kr": "이 검은 아버지가 옥문에서 절 위해 직접 만들어 주신 겁니다. “베헤모스의 그림자를 몰아내고, 사직의 환을 살피어라”. 지촉인이 처리해야 하는 일은 단순히 무력만 가지고 해결할 수 없는 경우도 있다 보니…… 음, 무공도, 당연히 열심히 수련하고 있긴 합니다.",
+                "cn": "这套刀剑，是父亲在玉门亲自为我打的。“驱巨兽之影，察社稷之患”，秉烛人需要处理的事务，可没法单纯仰赖武力......呃，武功，我当然有在勤加练习。"
+            },
+            "asset": "char_4121_zuole/CN_003"
+        },
+        {
+            "id": "char_4121_zuole_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Yes, I do know Lin Qingyan. We held different titles, serving the Sui Regulator and the Central Judicial Office respectively. I've had my doubts about Rhodes Island before I arrived, and my time spent here has only doubled those suspicions. That being said, I shan't pry into the matters that 'Operator Leizi' is investigating.",
+                "jp": "はい、麟青硯さんとは旧知の仲です。私たちはそれぞれ司歳台と大理寺に所属しており、異なる職責を負っています。もちろん、私はこちらに来る前も、今も、ロドスに対して多少の疑問を持っています。ですが「オペレーター・レイズ」が調査している件に関しては、口出しするつもりはありませんよ。",
+                "kr": "네, 린 칭옌 씨와는 서로 아는 사이가 맞습니다. 저희는 각각 사세대와 대리사 소속으로, 직무도 다릅니다. 로도스 아일랜드에 대한 의심이라면, 당연히 있습니다. 오기 전에도, 그리고 이곳에 온 뒤로는 더 커졌죠. 하지만 '오퍼레이터 레이즈'가 조사하고 있는 사안에 대해서는 굳이 묻지 않겠습니다.",
+                "cn": "嗯，我确实和麟青砚认识。我们分属司岁台与大理寺，职能不一样。我对罗德岛当然有一些怀疑，来之前是，来之后更是。不过“干员惊蛰”在追查的事情，我不会过问。"
+            },
+            "asset": "char_4121_zuole/CN_004"
+        },
+        {
+            "id": "char_4121_zuole_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "That Operator just now... was that Lord Wei's niece? No, I don't know her, but when I was little, my father told me to learn from her example. Not long ago, we discovered that Miss Ch'en resigned her position with the Lungmen Guard Department. Father did not say anything to me that day. Thinking back, I indeed find her admirable.",
+                "jp": "先ほどの方はウェイ氏の姪、確かチェンさんでしたか？いいえ、親しくはありませんが、子供の頃、父には彼女を見習えとよく言われていたもので。のちにチェンさんが警司の職を辞したと聞いた日、父は一言も口を利いてくれませんでした。今思えば、やはり彼女は尊敬に値する人物でしたね。",
+                "kr": "방금 저 사람, 웨이 장관의 조카분 맞나요? 아뇨, 아는 사이라고 말할 것까진 아니고, 그저 어릴 적에 아버지께서 자주 본받으라고 하시던 분이라…… 나중에 첸 씨가 총경직에서 사임했다는 소식을 들은 그날, 아버지는 제게 아무 말씀도 하지 않으셨습니다. 지금 돌이켜보니, 저는 첸 씨를 진심으로 존경하고 있었던 모양입니다.",
+                "cn": "刚刚那是，魏公的外甥？不，不算熟悉，只是小时候父亲常常告诉我，要多向人家看齐。后来听说陈小姐辞去了警司职务，那天父亲没跟我说一句话。现在想起来，我的确很钦佩她。"
+            },
+            "asset": "char_4121_zuole/CN_005"
+        },
+        {
+            "id": "char_4121_zuole_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "My father sent me to Dahuang in hopes that I would reflect upon my mistakes and improve as a man. Indeed, one should avoid deviating from the proper path. But perhaps my father's meaning runs deeper... Decades ago, he and the Grandmaster worked all night on a blade at the Sword Forge, making them late for work the following morning. Hmm... It may be that Father hates to see the flame in my heart snuff out.",
+                "jp": "父が大荒城に行かせたのは、私に修行を積ませたいからです。しかし数十年前、その父も宗師と良い剣を作るために鋳剣坊で徹夜したせいで、翌日は仕事に遅刻をしました。間違いは当然いけないことですが、私が当初の心意気を失うのも、父の本意ではないでしょう。",
+                "kr": "아버지가 저를 대황성으로 보낸 건 제 수련을 위해서였습니다. 하지만 수십 년 전, 아버지와 종사님도 좋은 검을 만들기 위해 주검방에서 밤을 새다가 다음 날 근무에 늦으셨다고 하죠. 물론 실수는 바람직하지 않지만, 제가 초심을 잃는 것 역시, 아버지의 본의는 아니실 겁니다.",
+                "cn": "父亲让我去大荒城，是希望我多历练。但几十年前，他和宗师也曾为打一把好刀在铸剑坊熬了通宵，耽误了第二天的执勤。行差踏错当然不应该，可是我想，父亲的本意，也不是让我丢了那点心气。"
+            },
+            "asset": "char_4121_zuole/CN_006"
+        },
+        {
+            "id": "char_4121_zuole_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "I'll keep an eye on the siblings, but I can't simply stand by and watch as Nian plays mahjong. Doctor, you've seen those exaggerated metal casts of hers. She conjures them as effortlessly as she blinks. Don't you think she's... just a little obnoxious? I can tell you're not playing dumb. That's the trickiest part.",
+                "jp": "彼ら兄弟姉妹から目を離すつもりはありませんが、ニェンが麻雀を打っているのをずっと見ているわけにもいきません。あなたも、彼女が気まぐれに大仰な創造物を生み出すのを見たことがあるはずなのに、それでも彼女を……少し鬱陶しいだけだと？あなたはとぼけているわけではないのだから、始末が悪いのですよ。",
+                "kr": "전 그 형제자매를 계속해서 지켜볼 겁니다. 하지만 니엔이 마작을 두는 동안에도 마냥 옆에서 지켜보고 있을 수만은 없는 노릇이죠. 박사님도 니엔이 그 말도 안 되는 것들을 아무렇지도 않게 만들어 내는 모습을 보셨을 텐데, 어째서 여전히 니엔을…… 그저 조금 성가신 사람일 뿐이라고 생각하시는 거죠? 박사님이 시치미를 떼는 게 아니라는 점이 제겐 가장 골치 아픈 부분입니다.",
+                "cn": "我会盯紧他们兄弟姐妹，但年在打麻将，我总不能一直在旁边看着。您见过年随手变出那些夸张的铸物，依然觉得她......只是有点烦人？您没在装糊涂，这才是棘手的地方。"
+            },
+            "asset": "char_4121_zuole/CN_007"
+        },
+        {
+            "id": "char_4121_zuole_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "On-deck capture the flag is no doubt a competition of athletic ability. I was the first to climb onto the bridge, but the Vulpo lady riding her staff breezed past me to snatch the flag. That is blatant cheating, Doctor. How could you accuse me of being too competitive and unsportsmanlike?",
+                "jp": "艦上フラッグ争奪戦で競うのは、当たり前ですが足さばきの技術です。最初にブリッジに登ったのは私だったのに、あのヴァルポのお姉さんが杖に乗って横をすり抜け、旗を奪い去ってしまいました……ドクター、不正行為をしたのは彼女の方なのに、なぜ私が負けず嫌いだと言うんですか？",
+                "kr": "함상 깃발 뺏기 대회라면 당연히 다리 힘을 겨루는 대회여야죠. 제일 먼저 함교에 오른 건 분명 저인데, 그 불포 누나가 스태프를 타고 눈앞에서 제 깃발을 뺏어갔단 말입니다…… 박사님, 반칙을 한 쪽은 상대편인데 왜 저더러 승부욕이 강하다고 하는 거죠?",
+                "cn": "甲板夺旗赛，比的当然是腿上的功夫。明明是我第一个攀上了舰桥，结果那个沃尔珀姐姐骑着法杖从我眼前飞过，把旗子抢走了......博士，分明是她作弊，您怎么反过来说我争强好胜？"
+            },
+            "asset": "char_4121_zuole/CN_008"
+        },
+        {
+            "id": "char_4121_zuole_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "This is a handbook that all Candleholders keep on their person. I did record some observations about you, Doctor. I'm very sorry. But for what it's worth, I am now sure of one thing: You are the guiding post of this ship, and you are indeed ordinary. I will shred those pages, and I will ensure your safety.",
+                "jp": "これは持燭人が携帯する手帳です。こちらにあなたの観察記録を取りました……申し訳ありません。ただ、これによって確認できたこともあります――あなたはこの船の航行灯であると同時に、間違いなく普通の人間です。記録をつけたページは破棄しますし、これからドクターの身の安全も私が守ります。",
+                "kr": "이건 지촉인이 항상 지니고 다니는 책자입니다. 박사님에 대한 관찰 사항도 기록되어 있습니다…… 죄송합니다. 그래도 이것 하나만큼은 확신할 수 있었습니다. 박사님은 이 함선의 항해등이자, 동시에 평범한 한 사람이라는 것을요. 관찰 내용이 기록된 페이지는 찢어 버리겠습니다. 그리고 박사님의 안전은 제가 지키겠습니다.",
+                "cn": "这是秉烛人随身的册子。我确实记录了一些对您的观察......很抱歉，博士，但我起码确认了一件事：您是这艘船的航灯，而您也的确只是个普通人。我会撕掉那几页，也会保护您的安危。"
+            },
+            "asset": "char_4121_zuole/CN_009"
+        },
+        {
+            "id": "char_4121_zuole_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "The Feranmuts breathe with this vast land, and the Candleholder walks into the long night.",
+                "jp": "獣は厚土と行く、燭を持ち長夜に入る……",
+                "kr": "짐승은 지상 만물과 함께하니, 촛불을 들고 긴 밤에 들어가리라……",
+                "cn": "兽与厚土行，秉烛入长夜......"
+            },
+            "asset": "char_4121_zuole/CN_010"
+        },
+        {
+            "id": "char_4121_zuole_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Doctor, I am Zuo Le. The number of proxies aboard Rhodes Island has almost exceeded that of those in Yan. The Sui Regulator should have sent someone here long ago. In fact, it has been some time since we sent you an official notice, but it would seem your company may have forgotten to reply?",
+                "jp": "こんにちは、ドクター。私は左楽（ズオ・ラウ）と申します。ロドスに滞在している代理人の数は、炎国に迫る勢いですから、司歳台が人を遣わすのが遅すぎたくらいですよ。実は以前、我々から書状を送らせていただいたことがあるのですが、貴社はどうやら、返信を失念していたご様子ですね？",
+                "kr": "안녕하십니까, 박사님. 좌락이라고 합니다. 로도스 아일랜드에 머무는 대리인의 수가 곧 염국 본토에 맞먹을 정도이니, 사세대에서 이제야 사람을 파견한 건 다소 늦은 감이 있다고 볼 수 있겠네요. 사실, 이전에 공문 한 통을 보낸 적이 있었는데, 아무래도 귀사에서 답장을 잊은 모양이지만요.",
+                "cn": "博士，我叫左乐。罗德岛上代理人的数量，快赶上炎国本土了，司岁台早就该派人过来一趟。其实我们之前便寄过一封公函。只不过，贵司似乎忘了回复？"
+            },
+            "asset": "char_4121_zuole/CN_011"
+        },
+        {
+            "id": "char_4121_zuole_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "For a pharmaceutical company to have so competently recorded and analyzed battle records… This is nigh unimaginable.",
+                "jp": "一介の製薬会社が、これほど戦場の記録と分析に長けているとは思いませんでした。",
+                "kr": "제약 회사가 전장에 대한 기록과 분석에 이토록 전문적일 줄은 몰랐네요.",
+                "cn": "想不到一家医药公司，对战场的记录与分析也这么专业。"
+            },
+            "asset": "char_4121_zuole/CN_012"
+        },
+        {
+            "id": "char_4121_zuole_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "My sincerest apologies, in my capacity as the mandarin, I'm afraid I cannot accept any form of 'promotion' from Rhodes Island... Ahem, what I mean is... we will forgo the titles, but I can accept the other benefits.",
+                "jp": "誠に申し訳ありません。公職に就く身ですから、どのような形であっても「昇進」をお受けすることはできません……いや、つまりその、役職は辞退しますが、付随する福利厚生についてはその限りではありませんよ。",
+                "kr": "죄송합니다, 저는 공직에 몸을 담은 사람인지라 그 어떠한 형식의 '승진'도 받아들일 수 없습니다…… 그게, 그 제 말은 직함을 사양하겠다는 뜻이었습니다. 다른 혜택을 주시면 감사히 받겠습니다.",
+                "cn": "实在抱歉，左乐官职在身，恐怕无法接受任何形式的“晋升”......呃，我的意思是头衔免了，其他的福利还是可以保留的。"
+            },
+            "asset": "char_4121_zuole/CN_013"
+        },
+        {
+            "id": "char_4121_zuole_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Each megastructure coursing through Catastrophes has a meaning unique to itself. Shangshu transferred its mountains and waterscapes to its nomadic cities, while Yumen fends off sandstorms with its Wind Aegis. And so, what of Rhodes Island? On what convictions do you sail?",
+                "jp": "天災の中を行く巨大な建造物は、それぞれ独自の理念を持っています。尚蜀は山水を移動都市に移し、玉門は風砂を防ぐために屏風衛を使用しました。ではロドスはどうでしょう。あなた方は、どのような信念のもと航行をしているのですか?",
+                "kr": "재앙 속을 항해하는 거대한 구조물들은 모두 서로 다른 의의를 지니고 있습니다. 상촉은 산과 물을 이동도시에 옮겼고, 옥문은 병풍위로 모래바람에 맞섰습니다. 그렇다면 로도스 아일랜드 여러분은, 어떠한 신념을 지니고 항해를 하고 계신 거죠?",
+                "cn": "每一座在天灾中穿行的巨构，都有它独特的意义。尚蜀将山水搬入移动城市，玉门以屏风卫独对风沙，那么罗德岛呢，你们究竟载着怎样的信念在航行？"
+            },
+            "asset": "char_4121_zuole/CN_014"
+        },
+        {
+            "id": "char_4121_zuole_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "I hope my meager assistance will prove fruitful.",
+                "jp": "微力ながら力を尽くしましょう。",
+                "kr": "제 미약한 힘으로나마 최선을 다하겠습니다.",
+                "cn": "愿尽绵薄之力。"
+            },
+            "asset": "char_4121_zuole/CN_017"
+        },
+        {
+            "id": "char_4121_zuole_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "To the right men, give the right jobs, enlist the talent, and forsake the snobs. I, Zuo Le, shall do my very best.",
+                "jp": "良材をよく用いればこそ、能者は適所にある。このズオ・ラウ、持てる限りを尽くしましょう。",
+                "kr": "옛말에 좋은 재목은 올바르게 쓰여야 하며, 능력 있는 자만이 자리를 유지할 수 있다고 하였습니다. 이 좌락, 모든 힘을 다하겠습니다.",
+                "cn": "良才善用，能者居之。左乐当尽全力。"
+            },
+            "asset": "char_4121_zuole/CN_018"
+        },
+        {
+            "id": "char_4121_zuole_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "The arrow has been nocked. Do not hesitate.",
+                "jp": "矢をすでに番えたのであれば、放つことに躊躇する必要はありましょうか？",
+                "kr": "화살을 시위에 건 이상, 더 주저할 필요가 있겠습니까?",
+                "cn": "既然箭在弦上，那又何必踌躇？"
+            },
+            "asset": "char_4121_zuole/CN_019"
+        },
+        {
+            "id": "char_4121_zuole_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "The thrust of a blade takes no shape, take no comfort that it lies sheathed.",
+                "jp": "刃の勢いは目に見えません。鞘の中にあるからと油断すると痛い目に遭いますよ。",
+                "kr": "칼날의 기세는 눈에 보이지 않습니다. 칼집 안에 있다고 얕보지 않는 게 좋을 겁니다.",
+                "cn": "刀势无形，别欺它在匣内。"
+            },
+            "asset": "char_4121_zuole/CN_020"
+        },
+        {
+            "id": "char_4121_zuole_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "From here on, your words are my command.",
+                "jp": "これより、あなたの言葉が軍令となります。",
+                "kr": "이제부터는, 당신의 말이 군령입니다.",
+                "cn": "接下来，您的话将是军令。"
+            },
+            "asset": "char_4121_zuole/CN_021"
+        },
+        {
+            "id": "char_4121_zuole_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "The situation is complicated, I shall improvise and adapt.",
+                "jp": "戦況が複雑なので、こちらで適当に対応します。",
+                "kr": "전황이 복잡하니 제가 적당히 대응하겠습니다.",
+                "cn": "情势复杂，我当便宜行事。"
+            },
+            "asset": "char_4121_zuole/CN_022"
+        },
+        {
+            "id": "char_4121_zuole_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "When chaos abounds, tugging a single thread can pull the entire net.",
+                "jp": "混乱した状況においては、小さな身震いすらも全体に影響を与えます。",
+                "kr": "혼란 속에선, 아무리 사소한 것일지라도 대세에 영향을 줄 수 있는 법입니다.",
+                "cn": "身临乱局，牵一发而动全身。"
+            },
+            "asset": "char_4121_zuole/CN_023"
+        },
+        {
+            "id": "char_4121_zuole_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Not even a stirring of grass will go overlooked.",
+                "jp": "どれほど小さな変化であっても見逃しません。",
+                "kr": "작은 변화 하나까지도 놓치지 않겠습니다.",
+                "cn": "不会遗漏任何风吹草动。"
+            },
+            "asset": "char_4121_zuole/CN_024"
+        },
+        {
+            "id": "char_4121_zuole_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Go no further, this road is closed.",
+                "jp": "止まってください。生憎とこの道は通行止めです。",
+                "kr": "다들 멈추십시오. 이 길은 통행금지입니다.",
+                "cn": "各位留步，此路不通。"
+            },
+            "asset": "char_4121_zuole/CN_025"
+        },
+        {
+            "id": "char_4121_zuole_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Such violence will not be tolerated!",
+                "jp": "不心得者どもめ！",
+                "kr": "네놈들이 감히 어딜!",
+                "cn": "你们胆敢造次！"
+            },
+            "asset": "char_4121_zuole/CN_026"
+        },
+        {
+            "id": "char_4121_zuole_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "All balance held by the orders of Yan. All beasts hunted by the sons of man!",
+                "jp": "秩次の番に炎あり、大征伐にて天下の安寧を保つ。",
+                "kr": "하늘은 염을 보우했고, 대사냥은 중생을 구했노니.",
+                "cn": "佑序有炎，大狩维天。"
+            },
+            "asset": "char_4121_zuole/CN_027"
+        },
+        {
+            "id": "char_4121_zuole_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Tiny may a candle be, it shall drive out the darkest night!",
+                "jp": "寸に足りない燭でも、久年の夜を打ち破ることはできます！",
+                "kr": "한 치도 안 되는 촛불일지라도 만고의 흑야를 몰아낼 수 있으리니!",
+                "cn": "烛不盈寸，也能驱散万古长夜！"
+            },
+            "asset": "char_4121_zuole/CN_028"
+        },
+        {
+            "id": "char_4121_zuole_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Seeking total victory in peril. You are truly of extraordinary talent and courage.",
+                "jp": "危機にあっても完全な勝利を求めるとは、能者は思い切りもいいですね。",
+                "kr": "위기 속에서도 이토록 완벽한 승리를 얻어내시다니, 참으로 훌륭하십니다.",
+                "cn": "险中求全胜，真是艺高人胆大。"
+            },
+            "asset": "char_4121_zuole/CN_029"
+        },
+        {
+            "id": "char_4121_zuole_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "A unit never takes the same formation, as water never takes the same shape. Such extraordinary planning and execution... Doctor, I cannot fathom your past.",
+                "jp": "兵に常勢なく、水に常形なし。常人を遥かに凌ぐ戦術と決断力……ドクター、あなたの過去は想像もつきませんね。",
+                "kr": "물에 고정된 형태가 없듯, 전쟁에도 정해진 형세가 없다고 하였습니다. 이토록 비범한 전술과 결단력이라니…… 박사님이 어떠한 과거를 보내오셨는지 짐작조차 가지 않는군요.",
+                "cn": "兵无常势，水无常形。这样过人的谋划与决断......博士，我无从想象您的过往。"
+            },
+            "asset": "char_4121_zuole/CN_030"
+        },
+        {
+            "id": "char_4121_zuole_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Man strives for perfection, yet flaws remain in every plan. Doctor, the deed is done. Let's not dwell on it further.",
+                "jp": "人は求め得る限り最善で美しい結果のために行動しますが、どれほど緻密な計画でも誤りが生じることは避けられません。ドクター、もう過ぎたことですし、これ以上考えるのは止めましょう。",
+                "kr": "사람들은 항상 완벽함을 추구하지만, 아무리 치밀한 계획이라도 빈틈이 있을 수 있는 법입니다. 박사님, 이미 끝난 일은 너무 깊게 생각하지 마시죠.",
+                "cn": "人总想尽善尽美，却难免百密一疏。博士，事已经成了，就别再多想了。"
+            },
+            "asset": "char_4121_zuole/CN_031"
+        },
+        {
+            "id": "char_4121_zuole_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "The Sui Regulator has contingencies for all possible outcomes. Leave the cleanup to me. Don't worry, my qinggong is good. I'll catch up.",
+                "jp": "司歳台の者として、当然ながら万全を期しています。あとのことは私に任せて、先に撤退してください。大丈夫ですよ、軽功の心得はありますから、すぐに追いつきます。",
+                "kr": "사세대에선 늘 모든 상황에 대비하여 준비를 합니다. 그러니 뒷일은 제게 맡기시고 먼저 가시죠. 걱정 마세요, 경공에 능하니 금방 따라갈 수 있습니다.",
+                "cn": "司岁台做事，自然有万全的准备。善后的事交给我，您先离开吧。放心，我轻功好，追得上您。"
+            },
+            "asset": "char_4121_zuole/CN_032"
+        },
+        {
+            "id": "char_4121_zuole_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "I've lived in tents, and I've slept in fields. I'm not particularly demanding.",
+                "jp": "軍の天幕で泊まったことも、畦道で寝たこともあります。こだわりはありませんよ。",
+                "kr": "군용 천막에서도 지내봤고, 논두렁에서도 잠들어 봤는걸요. 딱히 잠자리를 따지지는 않으니 신경 쓰지 마십시오.",
+                "cn": "我住过军帐，也睡过田埂，没那么多讲究。"
+            },
+            "asset": "char_4121_zuole/CN_033"
+        },
+        {
+            "id": "char_4121_zuole_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "You must have urgent need of assistance?",
+                "jp": "さぞ大事なご用があるのでしょうね？",
+                "kr": "혹시 무슨 급한 일이라도 있으십니까?",
+                "cn": "想必您是有要紧事吧？"
+            },
+            "asset": "char_4121_zuole/CN_034"
+        },
+        {
+            "id": "char_4121_zuole_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Doctor, how about a game of weiqi? Or perhaps a capture-the-flag rematch?",
+                "jp": "ドクター、囲碁でもしますか？それとも、もう一度フラッグ争奪戦でもやりましょうか？",
+                "kr": "박사님, 바둑이라도 한 판 두시겠습니까? 아니면 깃발 쟁탈전이라도 한 번 더 어떠신지요?",
+                "cn": "博士，手谈一局？还是再比赛一次夺旗？"
+            },
+            "asset": "char_4121_zuole/CN_036"
+        },
+        {
+            "id": "char_4121_zuole_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4121_zuole/CN_037"
+        },
+        {
+            "id": "char_4121_zuole_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Good timing. You must have something to discuss with me. Yes and no?",
+                "jp": "奇遇ですね。おや、私に話があるのでは……どうなのですか？",
+                "kr": "이런 우연이. 아, 제게 하실 말씀이라도…… 그렇기도 하고 아니기도 하다고요?",
+                "cn": "好巧。您想必有话对我说......是也不是？"
+            },
+            "asset": "char_4121_zuole/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Vincent Tong",
+            "global": "Vincent Tong"
+        },
+        "cn": {
+            "native": "李嘉祥",
+            "global": "Li Jiaxiang"
+        },
+        "jp": {
+            "native": "豊永利行",
+            "global": "Toshiyuki Toyonaga"
+        },
+        "kr": {
+            "native": "김다올",
+            "global": "Kim Daol"
+        },
+        "cn_topolect": {
+            "native": "李嘉祥",
+            "global": "Li Jiaxiang"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr",
+        "cn_topolect"
+    ]
+}

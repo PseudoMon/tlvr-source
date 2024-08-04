@@ -1,0 +1,596 @@
+{
+    "charid": "char_4023_rfalcn",
+    "nameid": "rfalcn",
+    "names": {
+        "en": "Kestrel",
+        "jp": "ケストレル",
+        "kr": "케스트럴",
+        "cn": "红隼"
+    },
+    "voices": [
+        {
+            "id": "char_4023_rfalcn_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Here are the documents. If that's all, I'll be going... The stain on that sheet? Oh, that's, uh... I guess I did spill something when I was having a couple of drinks last night. Haha... Damn, I put it in the middle of the stack, how'd you catch it...?",
+                "jp": "ファイルは全部ここに置いとくよ。他に用がないなら俺はこれで……あん？ファイルにシミがついてる？あ…その、昨日飲んでる時調子に乗っちゃって、うっかり瓶をひっくり返しちまったんだ。はは…ったく、間に挟んでたってのに、それでも見つけんの？",
+                "kr": "문서는 전부 여기에 넣어 둘게. 다른 볼일 없으면 난 이만…… 응? 서류에 묻은 얼룩? 아, 크흠. 어제 술 마시다 흥이 올라오는 바람에 실수로 병을 엎었거든. 하아, 정말이지. 중간에 끼워 놨는데 대체 어떻게 알아챈 거야?",
+                "cn": "这一摞文件放在这里，没有其他的事情我就先走了......那份文件上的污渍？咳咳，昨天喝得尽兴，不小心把酒瓶子打翻了。唉，真是，怎么夹在中间也能被你发现？"
+            },
+            "asset": "char_4023_rfalcn/CN_001"
+        },
+        {
+            "id": "char_4023_rfalcn_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Do cultured folks like you even drink? Come, come, let's take a swig together, okay? Climb the hills in the dark, cross the desert in a storm. Now we gather in the oasis, drinking all the finest booze… Hehehe, oh, my friend, let's return to our homeland…",
+                "jp": "お前らみたいなとっぽいひょろ助連中って、酒はイケる口なの？来なよ、一緒に飲みに行こうぜ。明けない夜に山を越えるぅ～、大風荒ぶ砂原を行くぅ、オアシスで友と酒を飲むぅ……ひっく。帰ろ、帰ろう故郷に……",
+                "kr": "너희같이 배운 사람들도 술을 잘 마시나? 자, 그럼 같이 한잔하러 가자고. 어두운 밤을 지나 높은 산도 넘고~ 거센 바람이 몰아치는 모래사막을 지나~ 오아시스에서 술을 마시며…… 꺼윽…… 돌아가자, 돌아가자 우리의 고향으로……",
+                "cn": "你们这种文化人能不能喝？走，一起喝一杯，越过黑夜中的高山，独自走过狂风中的黄沙，我与我的朋友正站在绿洲中痛饮美酒......嗝呃——！让我、我们回到家乡......"
+            },
+            "asset": "char_4023_rfalcn/CN_002"
+        },
+        {
+            "id": "char_4023_rfalcn_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Why are you all wrapped up like that on such a warm day? You'll be drenched in sweat. Hey you! Yes, you! Why don't you take off that jacket? A true warrior isn't afraid to show the results of hard training!",
+                "jp": "寒くもないのに、そんなしっかり着込んでどうすんの？このあと戦うことになったら汗だくになるよ。おい、そっちのチビちゃん、恥ずかしがらないで上着を脱ぎな。本物の戦士は、訓練が残した跡をケチケチ隠したりしないもんだ。",
+                "kr": "별로 춥지도 않은데 왜 그렇게 껴입고 있는 거야? 이따가 한바탕 싸우고 나면 땀에 절을걸? 이봐, 거기 꼬맹이. 그렇게 딱딱하게 굴지 말고 겉옷은 벗어버려. 진정한 전사는 몸에 남은 고된 훈련의 흔적을 부끄러워하지 않는 법이야.",
+                "cn": "又不冷，穿得那么严实干什么？一会儿打起来会热得出汗。哎，那边的小朋友，不要拘谨，脱掉你的棉衣，真正的战士不会吝于展示苦训在身体上留下的痕迹。"
+            },
+            "asset": "char_4023_rfalcn/CN_003"
+        },
+        {
+            "id": "char_4023_rfalcn_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Operator'? No, I'm a warrior of Rhodes Island. Don't worry, it's not because I can't let go of the past, but because I want to defend the present. I'll train new warriors for you... same as I was taken in and raised back on the sands.",
+                "jp": "「オペレーター」？いいや。俺はロドスの戦士だ。安心しな、昔のことを引きずってるわけじゃなくて、今あるものを守るって言いたいだけだ。お前らのために、新しい戦士を育ててやるさ……あの頃彼女たちが砂原で流浪する中で、俺を拾って育ててくれたみたいにね。",
+                "kr": "'오퍼레이터'? 아니, 난 로도스 아일랜드의 전사다. 안심해, 난 과거를 내려놓지 못하는 게 아니야. 난 단지 현재 내가 가진 것들을 지키고 싶을 뿐이지. 내가 너희를 위해 새로운 전사들을 키워 내겠어…… 마치 예전에 그들이 모래사막을 헤매며 떠돌아다니던 날 거두어주고 가르쳐 준 것처럼.",
+                "cn": "“干员”？不，我是罗德岛的战士。你放心，我不是放不下过去那一切，我只是想守护现在拥有的。我会为你们培养出新的战士......就像以前她们在黄沙与流浪中收留我、培养我那样。"
+            },
+            "asset": "char_4023_rfalcn/CN_004"
+        },
+        {
+            "id": "char_4023_rfalcn_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "I once took in some war orphans. They begged me to teach them how to use a sword to get revenge. I agreed, and they succeeded, but at the cost of their lives… Many years ago, the chief taught me that the sword is only for protection.",
+                "jp": "昔、戦争で全部失くした子供らを拾ったことがあるんだ。復讐のために刀の振り方を教えてくれって頼まれて、それで教えたら、あいつらは成功した――命と引き換えに。お頭が俺に刀を教えたのは、ただ守るためだったのにね。",
+                "kr": "예전에 전쟁으로 모든 것을 잃은 아이들을 거둔 적이 있어. 그 아이들은 복수를 위해 칼을 휘두르는 법을 가르쳐 달라고 했고, 난 그 부탁대로 가르쳤지. 결국 아이들은 복수에 성공했지만, 복수의 대가는 자신들의 목숨이었어…… 우리 두목이 나한테 칼을 가르친 건, 무언가를 지키기 위해서였는데……",
+                "cn": "我曾收留过一群因战争失去一切的孩子，他们为了复仇，恳求我将刀法传授给他们，我答应了，他们也成功了，不过是以生命为代价......首领当年教我用刀，明明只是为了守护。"
+            },
+            "asset": "char_4023_rfalcn/CN_005"
+        },
+        {
+            "id": "char_4023_rfalcn_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "The war took the lives of everyone in my tribe. My friends blocked blows with their bodies, and the chief's blood dripped onto my head... Me and the other children set out on a path of revenge. I'm the only one left. No one and nothing else. Only me.",
+                "jp": "あの戦いは、部族ほぼ全員の命を持ってっちまった。戦友が背中で攻撃から庇ってくれて、お頭の血が俺のおでこに落ちてきて……その後、みんなと復讐の道を選んだが、結局、生き残ったのは俺だけさ。何もかもそっくり消えちまったよ。俺だけが、残されたんだ。",
+                "kr": "그 전투는 거의 모든 부족민의 목숨을 앗아갔어. 전우와 등을 맞댄 채 공격을 막았고, 두목의 피가 내 이마로 떨어졌었지…… 그 후, 부족의 모두가 복수의 길을 선택했지만, 살아남은 건 오직 나 혼자뿐이었어. 모든 게 사라지고, 나 홀로…… 나만 남겨진 거야.",
+                "cn": "那场战争夺走了几乎所有族人的命，战友用脊背挡住攻击，首领的血滴在我的额头上......之后，我和其他孩子选择踏上复仇之路，最后，只有我活了下来，什么也不剩，只有我。"
+            },
+            "asset": "char_4023_rfalcn/CN_006"
+        },
+        {
+            "id": "char_4023_rfalcn_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "The mark I'm drawing on your forearm? It's a 'bite mark'. Look, I have one too. The chief carved it into my skin herself. She said that those who have undergone the trial of blood and pain become the bravest warriors. The mark brings us strength.",
+                "jp": "お前の腕に描いた紋様？こいつは「歯形」だ。ほら、俺にもあるよ。お頭が直々に彫ってくれたんだ。血と痛みの洗礼を耐えた奴は勇敢な戦士になる、そしてこの紋様は俺らに力をくれるって言ってた。",
+                "kr": "네 팔에 그린 문양? 이건 '이빨 자국'이야. 봐, 나에게도 있어. 이건 두목이 직접 새겨 준 거야. 두목은 피와 고통의 세례를 견뎌 낸 자만이 용감한 전사가 될 수 있으며, 이 문양이 우리에게 힘을 줄 거라고 했어.",
+                "cn": "你问我画在你小臂上的花纹？是“齿痕”。喏，我也有一个，是首领亲手刻在我皮肤上的。她说，经受住血液与疼痛洗礼的人会成长为最勇敢的战士，它会带给我们力量。"
+            },
+            "asset": "char_4023_rfalcn/CN_007"
+        },
+        {
+            "id": "char_4023_rfalcn_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "I've taken plenty of hits both in battle and in the mines, but not many left marks. I used to think I was lucky, but now I wish I wasn't. I want the scars to help me remember certain people and things. Death brings back nothing, you know. I have to stay alive, and carry them myself.",
+                "jp": "俺は戦場でも鉱山でも結構怪我したけど、治るとそんなに跡は残んなかったんだ。小さい頃は運が良いって感じてたけど、今は残念に思うよ。傷跡を残して、人とか思い出の記念にしたいからね。死んだとこで何にもならないから、俺はその思い出を守るために生きてくんだ。",
+                "kr": "전장이나 광산에서 꽤 여러 번 다쳤거든? 근데 다 낫고 나면 흉터가 안 남더라고. 어릴 땐 이게 행운이라고 생각했었는데, 지금 돌이켜보면 약간 아쉽기도 해. 흉터가 남으면 그걸 볼 때마다 함께했던 사람이나 그때 겪었던 일들을 추억할 수 있잖아. 죽으면 다 끝이야, 그래서 난 살아남을 거야, 그 추억들을 지키기 위해서라도.",
+                "cn": "虽然我在战场和矿上都受过很多伤，但愈合后却没留下什么痕迹。小时候觉得是幸运，但现在却觉得遗憾，我想留下些伤疤去纪念一些人和事。送死换不回什么，我要活着，自己守住它们。"
+            },
+            "asset": "char_4023_rfalcn/CN_008"
+        },
+        {
+            "id": "char_4023_rfalcn_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Is it snowing on that peak...? Ohh... Guess what, Doctor? I had a dream last night about sleeping in the chief's arms when I was first taken in. She stroked my forehead gently, and her palm was like the sun-scorched sand, warm and rough. They've never seen the snow. Now I see it for them.",
+                "jp": "あっちの山頂はもしかして雪が降ってんの？……ゆうべ、拾われたばっかりの時の夢を見たんだ。お頭の懐の中で寝ていて、おでこを撫でられたんだけど、手のひらが太陽の下でずっと熱せられた砂みたいに、熱くてざらざらで――お頭たちは雪を見たことないんだ。今日俺があいつらに代わって見たよ。",
+                "kr": "저쪽 산꼭대기, 지금 눈 내리고 있는 거야? ……어제 꿈에서 부족에게 거둬진 그날, 두목의 품에서 곤히 자고 있는 나를 봤어. 두목이 내 이마를 어루만졌는데, 얼마나 뜨겁고 거칠던지, 태양에 달궈진 모래알 같더라. 그들은 눈을 본 적이 없었다고 했었는데, 오늘 내가 대신 봤네.",
+                "cn": "那边山顶是在下雪吗？......我昨晚做了个梦，梦到刚被捡来时我睡在首领的怀里，她抚摸着我的额头，手掌像被阳光暴晒过的沙子，炽热又粗糙——她们从没见过下雪，我今天替她们见到了。"
+            },
+            "asset": "char_4023_rfalcn/CN_009"
+        },
+        {
+            "id": "char_4023_rfalcn_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "It's a beautiful day out there. I had a good nap, and a good dream, for once.",
+                "jp": "いい天気だね。久しぶりにゆっくり寝ていい夢見たぁ。",
+                "kr": "오늘은 날씨가 좋네. 간만에 늦잠도 자고 좋은 꿈도 꿨어.",
+                "cn": "今天阳光很好，难得睡了个懒觉，做了个好梦。"
+            },
+            "asset": "char_4023_rfalcn/CN_010"
+        },
+        {
+            "id": "char_4023_rfalcn_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "I choose to stand here, and so the land beneath my feet is my home.",
+                "jp": "ロドスを選んだからには、今立ってるここが俺の新しい家だよ。",
+                "kr": "내가 로도스 아일랜드를 선택한 이상, 내가 서 있는 이곳이 바로 나의 새로운 집이야.",
+                "cn": "既然我选择站在这里，那脚下这片土地就是我新的家园。"
+            },
+            "asset": "char_4023_rfalcn/CN_011"
+        },
+        {
+            "id": "char_4023_rfalcn_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "No need, I'll grab my weapon and shield and head to the training grounds.",
+                "jp": "そんなもんより、俺は武器を持って訓練場行きたい。",
+                "kr": "됐어, 안 볼래. 난 그런 것보단 훈련장에서 직접 무기랑 방패를 들어보는 게 나아.",
+                "cn": "不用了，我想直接去训练场拿起武器与盾牌。"
+            },
+            "asset": "char_4023_rfalcn/CN_012"
+        },
+        {
+            "id": "char_4023_rfalcn_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "It's a warrior's duty, no need to thank me... Wha? blushing? Of course I'm not blushing. How could can you even tell I'm blushing through my tan?",
+                "jp": "戦士として当たり前のことしただけなのに、水臭いって……へ、顔が赤い？まさか。こんなに肌が焼けてんのに、赤いのが分かるわけないだろ？",
+                "kr": "전사로서 당연한 일을 했을 뿐인데 뭘, 이러니까 내가 다 어색하다…… 얼굴이 빨개졌다고? 그럴 리가, 이렇게 피부가 탔는데, 빨간 게 보일 리가 없잖아!",
+                "cn": "只是战士的职责，你太客气了......哼，脸红？不可能的，我晒得这么黑，你怎么可能看得出来？"
+            },
+            "asset": "char_4023_rfalcn/CN_013"
+        },
+        {
+            "id": "char_4023_rfalcn_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Thanks, Doctor... I'll take this medal back to my homeland. The spring there has dried up, but it will continue to bless me, and they will know that I'm still fighting.",
+                "jp": "ありがとね、ドクター……このメダルは故郷に持って行くよ。あそこの泉は枯れちまったけど、俺のことを祝福してくれるだろう。そこに眠ってるみんなも、俺がまだ戦ってることを知るんだ。",
+                "kr": "고마워, 박사…… 이 훈장은 고향에도 가져갈게. 비록 고향의 샘은 말라 없어졌지만, 분명 날 축복해 줄 거야. 그럼 거기에 잠들어 있는 모두도, 내가 아직 싸우고 있다는 걸 알게 될 테지.",
+                "cn": "谢谢你，博士......我会把这枚勋章带回故乡去。虽然那里的泉水已经干涸了，但它仍会祝福我，她们也会知道我仍然在战斗。"
+            },
+            "asset": "char_4023_rfalcn/CN_014"
+        },
+        {
+            "id": "char_4023_rfalcn_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Love, friends, hearth. That's what a warrior lives for.",
+                "jp": "愛する人、戦友、故郷――戦士はこいつらのために生きてるんだ。",
+                "kr": "사랑하는 이, 전우, 고향. 전사는 한평생 이것들을 위해 살아가는 거야.",
+                "cn": "爱人、战友、家园，战士一生为了这些而活着。"
+            },
+            "asset": "char_4023_rfalcn/CN_017"
+        },
+        {
+            "id": "char_4023_rfalcn_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Warriors! Your courage will bring glory.",
+                "jp": "戦士よ、お前らの勇気は栄光を呼ぶぞ。",
+                "kr": "전사들이여, 너희의 용기에 영광이 보답할 것이다.",
+                "cn": "战士们，你们的勇气将会迎来荣耀。"
+            },
+            "asset": "char_4023_rfalcn/CN_018"
+        },
+        {
+            "id": "char_4023_rfalcn_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Don't eat too much before a battle, unless you want to throw it all up.",
+                "jp": "戦いの前に腹いっぱい食いすぎるなよ。後で吐くからな。",
+                "kr": "전투 전에 너무 배부르게 먹지 마. 자칫하면 토할 수도 있거든.",
+                "cn": "战斗前不要吃太饱，小心一会儿吐出来。"
+            },
+            "asset": "char_4023_rfalcn/CN_019"
+        },
+        {
+            "id": "char_4023_rfalcn_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Now we fight!",
+                "jp": "それじゃ、やるか！",
+                "kr": "어디 그럼 싸워 볼까!",
+                "cn": "那就战斗吧！"
+            },
+            "asset": "char_4023_rfalcn/CN_020"
+        },
+        {
+            "id": "char_4023_rfalcn_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "I'm well prepared!",
+                "jp": "準備はできてるぜ。",
+                "kr": "준비는 끝났어.",
+                "cn": "已做好准备。"
+            },
+            "asset": "char_4023_rfalcn/CN_021"
+        },
+        {
+            "id": "char_4023_rfalcn_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "My sword is honed.",
+                "jp": "刀はぴかぴかに研いであるよ。",
+                "kr": "칼은 이미 갈아 뒀어.",
+                "cn": "我的刀已经磨亮了。"
+            },
+            "asset": "char_4023_rfalcn/CN_022"
+        },
+        {
+            "id": "char_4023_rfalcn_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "You're not getting past me!",
+                "jp": "一歩も退かない。",
+                "kr": "한 발짝도 물러서지 않겠다.",
+                "cn": "一步不退。"
+            },
+            "asset": "char_4023_rfalcn/CN_023"
+        },
+        {
+            "id": "char_4023_rfalcn_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "I see them.",
+                "jp": "敵さんが見えたぜ。",
+                "kr": "적을 발견했다.",
+                "cn": "我看到他们了。"
+            },
+            "asset": "char_4023_rfalcn/CN_024"
+        },
+        {
+            "id": "char_4023_rfalcn_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Victory or death!",
+                "jp": "戦え、さもなくば死ね！",
+                "kr": "싸워라! 싸우지 않겠다면 죽어라!",
+                "cn": "战斗，或是死亡！"
+            },
+            "asset": "char_4023_rfalcn/CN_025"
+        },
+        {
+            "id": "char_4023_rfalcn_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "We will defend our home!",
+                "jp": "俺らの壁は俺らが守る！",
+                "kr": "우리의 벽은 우리가 지킨다!",
+                "cn": "我们的墙，我们来守护！"
+            },
+            "asset": "char_4023_rfalcn/CN_026"
+        },
+        {
+            "id": "char_4023_rfalcn_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "The enemy will never see our backs!",
+                "jp": "敵に背中を見せるんじゃないよ！",
+                "kr": "적에게 등을 보이지 마!",
+                "cn": "绝不能被敌人看到我们的后背！"
+            },
+            "asset": "char_4023_rfalcn/CN_027"
+        },
+        {
+            "id": "char_4023_rfalcn_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Raise your weapons and shields! Not one step back!",
+                "jp": "刀と盾を掲げて、一歩も退くな！",
+                "kr": "칼과 방패를 들고, 한 발짝도 물러서지 마라!",
+                "cn": "举起你的刀和盾，一步不退！"
+            },
+            "asset": "char_4023_rfalcn/CN_028"
+        },
+        {
+            "id": "char_4023_rfalcn_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "This is the home that we defend. This is where they die.",
+                "jp": "ここは俺らが守る家で、敵の死に場でもある。",
+                "kr": "이곳은 우리가 지키는 고향이자, 저들이 죽을 장소다.",
+                "cn": "这是我们镇守的家园，也是他们丧命的地方。"
+            },
+            "asset": "char_4023_rfalcn/CN_029"
+        },
+        {
+            "id": "char_4023_rfalcn_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "The invaders' swords cut their own throats. An end they deserve.",
+                "jp": "奴らが振るう刃は、最後にゃ自分の喉を刺すんだ。それが侵入者の結末だよ。",
+                "kr": "저들이 휘두르는 칼날은 결국 자신의 목을 찌르게 될 거야. 그게 바로 침략자의 최후야.",
+                "cn": "他们挥舞的锋刃最终会刺中自己的喉咙，这就是入侵者的结局。"
+            },
+            "asset": "char_4023_rfalcn/CN_030"
+        },
+        {
+            "id": "char_4023_rfalcn_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Haha, it is an honor to die defending my home.",
+                "jp": "故郷を守る戦場で死ねるなら、本望だ。",
+                "kr": "고향을 지키는 전쟁에서 죽는다는 건 내겐 너무나도 명예로운 일이다.",
+                "cn": "如果能够死在守卫家园的战场上，那是我的荣幸。"
+            },
+            "asset": "char_4023_rfalcn/CN_031"
+        },
+        {
+            "id": "char_4023_rfalcn_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "My homeland, my friends, my love... they're all waiting for me.",
+                "jp": "……俺の故郷、俺の戦友、俺の愛する人……待っててくれ。",
+                "kr": "……나의 고향, 나의 전우, 그리고 내가 사랑하는 이들이여…… 조금만 더 기다려 줘.",
+                "cn": "......我的家园，我的战友，我的挚爱......等着我。"
+            },
+            "asset": "char_4023_rfalcn/CN_032"
+        },
+        {
+            "id": "char_4023_rfalcn_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "The heck? No alcohol here...? Huh? What's that in my mug? It's just some b… umm... bubbly barley juice.",
+                "jp": "なんだ、ここは酒禁止かよ……あ？このコップの中身？大麦の発泡ジュースだよ。",
+                "kr": "뭐야, 여기선 술 금지라고? ……아, 컵에 들어 있는 거? 보리맛 탄산 음료지.",
+                "cn": "这个地方禁止饮酒啊......啊，你问我杯子里装的是什么？是大麦气泡果汁。"
+            },
+            "asset": "char_4023_rfalcn/CN_033"
+        },
+        {
+            "id": "char_4023_rfalcn_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Hey! Hands off.",
+                "jp": "っ！触んな！",
+                "kr": "윽, 만지지 마!",
+                "cn": "别动我！"
+            },
+            "asset": "char_4023_rfalcn/CN_034"
+        },
+        {
+            "id": "char_4023_rfalcn_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Hahaha! Oh, I hate being tickled…",
+                "jp": "ははは。いやぁ、実はくすぐったいのが苦手でね……",
+                "kr": "하하하! 으읏, 사실 내가 간지럼에 약해서……",
+                "cn": "哈哈哈——！呃，其实我很怕痒......"
+            },
+            "asset": "char_4023_rfalcn/CN_036"
+        },
+        {
+            "id": "char_4023_rfalcn_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4023_rfalcn/CN_037"
+        },
+        {
+            "id": "char_4023_rfalcn_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Yo, Doctor, you sure you don't need to sun a bit?",
+                "jp": "マジな話、お前って毎日日にも当たらないで平気なの？",
+                "kr": "진심으로 하는 말인데, 너 진짜 매일 햇빛 안 쬐도 괜찮은 거야?",
+                "cn": "说真的，你每天都不需要晒太阳的吗？"
+            },
+            "asset": "char_4023_rfalcn/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Zehra Fazal",
+            "global": "Zehra Fazal"
+        },
+        "cn": {
+            "native": "唐雅菁",
+            "global": "Yajing Tang"
+        },
+        "jp": {
+            "native": "行成とあ",
+            "global": "Toa Yukinari"
+        },
+        "kr": {
+            "native": "비주언",
+            "global": "Bi Ju-eon"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

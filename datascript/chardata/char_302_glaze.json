@@ -19,7 +19,7 @@
             "text": {
                 "en": "Any work today? If it's nothing urgent, let's put it off till later.",
                 "jp": "今日はなんかやることあんのー？急ぎじゃないなら、また今度にしようよー。",
-                "kr": "오늘은 뭐 할 거 있어? 급한 거 아니면 다음에 하자.",
+                "kr": "오늘 뭐 할 거 있어? 급한 거 아니면 우리 다음에 하자.",
                 "cn": "今天有什么工作？要是不急，那就稍微向后面延一延嘛。"
             },
             "asset": "char_302_glaze/CN_001"
@@ -35,7 +35,7 @@
             "text": {
                 "en": "My Arts detect nearby creatures, and this auxiliary device even amplifies the ability. Sounds great, right? That's why the Garrison Team sent me to patrol the city, in case any students were trying to climb the walls and skip school. I gotta admit, they sure know how to put people to work.",
                 "jp": "あたしはアーツで周りの生物を感知できるんだけど、この機械があれば更にそのチカラをパワーアップできんのね。ヤベーっしょ？まーそれで守衛隊にパトロールなんか任されてたんだけどね。つっても授業をサボってるヤツを補導すんのが仕事。ものは使いようってわけね。",
-                "kr": "난 아츠로 주위 생물을 감지할 수 있는데, 이 기계가 있으면 그 힘을 더 파워업할 수 있어. 장난 아니지? 뭐~ 그래서 호위대에선 순찰 같은 걸 맡게 됐지만… 그래도 수업을 빼먹는 애들을 선도하는 게 일이었으니, 물건은 쓰기 나름이라는 거지.",
+                "kr": "난 아츠로 주위 생물을 감지할 수 있는데, 이 기계가 있으면 그 힘을 더 파워업할 수 있어. 장난 아니지? 뭐~ 그래서 호위대에선 순찰 같은 걸 맡게 됐어. 담장을 뛰어넘고 수업 째는 애들을 잡아다 선도하는 게 일이었지만…… 그래도 인재를 제대로 알아보고 활용은 한 거지.",
                 "cn": "我能凭借源石技艺感知附近生物，这台辅助设备还能增幅效果，听起来很厉害吧？所以，戍卫队就派我去参加守城巡逻，抓些翻墙逃课的学生什么的，可真是知人善用啊。"
             },
             "asset": "char_302_glaze/CN_002"
@@ -67,7 +67,7 @@
             "text": {
                 "en": "Hmm? Isn't that guy over there from the Notarial Hall...? What? He wants to make sure I'm 'fulfilling my obligations?' Dear Lord! I pay my taxes on time every month, okay? Anyway, just give me a whisper if he's looking for me. I need time to run and hide.",
                 "jp": "あれ？あいつもしかして公証人役場の…？あたしの「義務履行」を監視に？マジ勘弁だわ、毎月ちゃんと税金払ってるっしょ。まぁどっちにしろ、次にあいつが来た時は逃げやすいようにこっそり教えてよね。",
-                "kr": "어라? 저 녀석 혹시 공증인 사무소의…? 내 '의무 이행'을 감시하러 온 거야? 미치겠네 진짜. 매달 제대로 세금도 내고 있잖아. 뭐, 어쨌든 다음에 저 녀석이 오면 도망치기 쉽게 몰래 말해줘.",
+                "kr": "어라? 저 녀석 혹시 공증소의……? 설마 내 '의무 이행'을 감시하러 온 건가? 미치겠네 진짜. 매달 꼬박꼬박 세금도 제대로 내고 있다고. 뭐, 어쨌든 다음에 저 녀석이 또 오면 도망치기 쉽게 몰래 말해줘.",
                 "cn": "唔？那个人，难不成是公证所的？他是来监督我“履行义务”的？拜托啊，我可是每月都好好缴纳税款的。反正不管是不是，以后要是他出现，你就悄悄告诉我，好方便我跑路咯。"
             },
             "asset": "char_302_glaze/CN_004"
@@ -99,7 +99,7 @@
             "text": {
                 "en": "My old brass would always drone on about 'defending the glory of Laterano with your life' and blah blah blah. But that kind of stuff is so boring. I hated how dead-end my life was back then. Working with Rhodes Island is way better. You give me something more practical.",
                 "jp": "前の上司は「命をかけてラテラーノの栄光を守れ」なんてしょーもないことをいつも言ってたけどさ、そんなの毛ほどもキョーミなかったし、代わり映えしない生活にもマジで萎えてた。やっぱロドスがサイキョーかなー、ここにいればよっぽど実のあるものを得られるっていうか。",
-                "kr": "예전 상사는 \"목숨을 걸고 라테라노의 영광을 지켜라\" 같은 한심한 소리를 항상 했었는데 말이야. 그런 건 털끝만큼도 흥미 없었고, 변하지 않는 생활도 진짜 질렸었어. 역시 로도스 아일랜드가 최고인 거 같아~ 여기 있으면 꽤 실속 있는 걸 얻을 수 있는 거 같아서.",
+                "kr": "예전 상사는 “목숨을 걸고 라테라노의 영광을 지켜라” 같은 소리를 항상 했었는데, 난 그런 건 털끝만큼도 흥미가 없었어. 변하지 않는 생활도 진짜 질렸고. 역시 로도스 아일랜드가 최고인 거 같아~ 여기에선 꽤 실속 있는 걸 얻을 수 있는 거 같아서 말이지.",
                 "cn": "过去的上司总对我们唠叨“要以生命守护拉特兰的荣耀”，可我对这种口号没有一点兴趣，也讨厌那时一成不变的生活。还是在你这里工作更好，因为我能得到更加实际的东西。"
             },
             "asset": "char_302_glaze/CN_006"
@@ -115,7 +115,7 @@
             "text": {
                 "en": "My hair's a little messy? Meh, I forgot to deal with my bed head. It's not like I have a mission today... Aww, this sucks... Can you tell me if my braid is crooked? It feels kinda weird. You really oughta have a mirror in your office, you know.",
                 "jp": "髪がぐちゃぐちゃ？あー、そういや起きてからちゃんと直してないわ、今日は任務もないしね……あーだる、ちょっと横見てよ、結び目んとこが変な感じするんだよね。てかさー、執務室にも鏡くらい置こうよー。",
-                "kr": "머리가 엉망이라고? 아~ 그러고 보니 일어나서 제대로 빗질 않았네. 오늘은 임무도 없고 말이야…… 아~ 귀찮아. 잠깐 옆쪽 좀 봐줘. 묶은 데가 이상한 거 같아. 그보다 말이야~ 집무실에도 거울 정도는 놓자.",
+                "kr": "머리가 엉망이라고? 아~ 그러고 보니 일어나서 제대로 빗질 않았네. 오늘은 임무도 없고 말이야…… 아~ 귀찮아. 잠깐 여기 좀 봐줘. 삐뚤게 묶이진 않았지? 그보다, 전부터 궁금했었거든~ 집무실에 어떻게 거울 하나 없어. 거울 정도는 놓자, 응?",
                 "cn": "头发有点乱？哦，好像起床之后一直没有打理，毕竟今天没什么任务......真麻烦，帮我看下，辫子有没有扎歪？我总觉得怪怪的。办公室好歹也装个镜子嘛。"
             },
             "asset": "char_302_glaze/CN_007"
@@ -131,7 +131,7 @@
             "text": {
                 "en": "Here, I got you a cake. So, what do you usually do during your breaks? You really should take a lap around the city, get yourself some fresh air, don't you think? If you're worried about your safety, just grab an operator who can go 'pow pow' on any baddies who pop up, and you're set.",
                 "jp": "はい、ケーキ持ってきたよ。てかさ、休みの時はいつもなにしてるわけ？たまには外出て街ブラとかよくない？ボディーガードねぇ……近づいてくる悪いヤツらをいつでも「パパッ」と蜂の巣にできるオペレーターをさ、その辺で適当にひっ捕まえて連れてきゃいーのよ、カンペキっしょ。",
-                "kr": "자, 케이크 갖고 왔어. 아 근데, 쉴 때는 맨날 뭐해? 가끔은 밖에 나가서 돌아다니는 게 좋지 않아? 보디가드 말이지…… 접근해 오는 나쁜 녀석들을 언제든지 '파팍'하고 벌집으로 만들 수 있는 오퍼레이터를 말이야, 근처에서 적당히 붙잡아서 데리고 가면 되잖아. 완벽하지?",
+                "kr": "자, 케이크 갖고 왔어. 아 근데, 쉴 때는 보통 뭐해? 가끔은 밖에 나가서 주변 도시를 돌아다녀 보는 게 좋지 않아? 보디가드라면…… 너한테 접근해 오는 나쁜 녀석들을 언제든지 '파팍'하고 벌집으로 만들 수 있는 오퍼레이터를 데리고 가면 되잖아. 완벽하지?",
                 "cn": "喏，给你蛋糕。我说你啊，休息的时候都做什么？适当出门走走，去附近城市转转，应该也挺不错的？安保嘛，就找一位能随时把接近你的坏人“啪啪”两枪击毙的优秀干员随行，完美。"
             },
             "asset": "char_302_glaze/CN_008"
@@ -147,7 +147,7 @@
             "text": {
                 "en": "Wanna watch a movie? We're almost done with work anyway. How about... this romance about a princess and a wanderer from afar? Wait, I need to hang up my do-not-disturb sign. Wouldn't want someone walking in with a pile of documents.",
                 "jp": "ねーねー、仕事もそろそろ終わるっしょ？映画でも見ちゃわない？お姫様と外国から来た旅人が出会うラブ・ロマンスなんてウリ文句のあれ。あ、ちょい待ち、取り込み中のプレートをドアに掛けとくわ、邪魔されたらたまったもんじゃないかんねー。",
-                "kr": "있잖아, 일도 곧 끝나지? 영화라도 보지 않을래? 공주님과 외국에서 온 여행자가 만나는 러브 로맨스라고 광고하던 그거. 아, 잠깐만. 방해 금지 팻말을 문에 걸어놓을게. 방해받으면 못 참을 거 같으니까~",
+                "kr": "있잖아, 일도 곧 끝나가는데 영화라도 보지 않을래? 공주와 외국에서 온 여행자의 이러쿵저러쿵 로맨스 영화라고 광고하던 그거 말이야. 아, 잠깐만. 문고리에 방해 금지 팻말 걸어두고 올게. 방해받는 거 딱 싫거든~",
                 "cn": "来看会儿电影吗？反正工作差不多都做完了嘛。就看那部讲公主和外国旅人相遇的浪漫电影怎么样？等下，我得先把“请勿打扰”的牌子挂在门口，我可不想被打扰。"
             },
             "asset": "char_302_glaze/CN_009"
@@ -179,7 +179,7 @@
             "text": {
                 "en": "Ambriel, sniper, from Laterano… Alright, that's introductions out of the way before they give me a headache. Here, I just opened this pack of chocolate pretzel sticks. Want one?",
                 "jp": "あたしはアンブリエル、ラテラーノ出身の狙撃手……ってさー、自己紹介なんてめんどいから、もうこんぐらいでいっしょ。はい、さっき開けたばっかのチョコ、まー一本食っときなって。",
-                "kr": "난 엠브리엘이야. 라테라노 출신의 저격수…… 인데 말이야, 자기소개 같은 건 귀찮으니까 이제 이 정도면 충분하지? 자, 방금 뜯은 초콜릿이야. 뭐, 하나 먹어.",
+                "kr": "난 엠브리엘이야. 라테라노 출신의 저격수지…… 자기소개 같은 건 정말 귀찮네, 이 정도면 충분하지? 자, 방금 뜯은 초콜릿이야. 너도 한 개 먹던가.",
                 "cn": "安比尔，狙击手，拉特兰出身......说明身份什么的真麻烦，就这样吧。喏，刚开包的巧克力，你也来一根。"
             },
             "asset": "char_302_glaze/CN_011"
@@ -211,7 +211,7 @@
             "text": {
                 "en": "Much obliged. Oh, speaking of which, do these promotions come with a salary increase? There's something I've been looking at…",
                 "jp": "あざーす。あのさ、昇進ってもしかして給料も上がったりするの？うん、ちょっと買いたいものがあってさ……",
-                "kr": "감사함다~ 있잖아, 승진이라면 혹시 급료도 올라? 응, 좀 사고 싶은 게 있어서……",
+                "kr": "감사함다~ 있잖아, 승진하면 혹시 월급도 올라? 응, 요즘 좀 사고 싶은 게 있어서……",
                 "cn": "谢谢。说来，晋升的同时薪水会不会再提高些？我最近想买点东西......"
             },
             "asset": "char_302_glaze/CN_013"
@@ -227,7 +227,7 @@
             "text": {
                 "en": "Thank you very much. I've been with Rhodes Island for a while now, right? Before I knew it, I'd gotten a whole lot out of this, and made some good memories too.",
                 "jp": "マジで？サンキュー！ロドスに来てもうそんなになるんだねー。ここではたくさんのものを貰ったよ、どれもみーんなステキな思い出なんだよね。",
-                "kr": "진짜? 땡큐~! 로도스 아일랜드에 온 지 벌써 그렇게 됐구나~ 여기서는 많은 걸 받았어. 다 멋진 추억이야.",
+                "kr": "진짜? 땡큐~! 로도스 아일랜드에 온 지도 벌써 그렇게 됐구나~ 난 여기서 정말 많은 걸 얻었어, 그리고 전부 멋진 기억들이야.",
                 "cn": "啊，谢谢你，我已经在罗德岛待这么久了吗？不知不觉间，我已经得到了很多，而且都是些不错的回忆呢。"
             },
             "asset": "char_302_glaze/CN_014"
@@ -259,7 +259,7 @@
             "text": {
                 "en": "Just a heads-up for you, my tactics are a little unorthodox.",
                 "jp": "先に言っとくよ、あたしの好きな戦術はちょっと変わってるかんねー。",
-                "kr": "먼저 말해둘게. 내가 좋아하는 전술은 좀 특이하거든.",
+                "kr": "먼저 말해두는데, 내가 좋아하는 전술은 좀 특이하다?",
                 "cn": "事先说好，我喜欢的战术可都不那么常规。"
             },
             "asset": "char_302_glaze/CN_018"
@@ -323,7 +323,7 @@
             "text": {
                 "en": "Let me finish this choco stick first.",
                 "jp": "この一本が最後だからちょい待ちー。",
-                "kr": "이 한발이 마지막이니까 조금만 기다려.",
+                "kr": "조금만 기다려, 이 마지막 막대기마저 먹고.",
                 "cn": "等我吃完这根。"
             },
             "asset": "char_302_glaze/CN_022"
@@ -387,7 +387,7 @@
             "text": {
                 "en": "Well, well, well, somebody's no good at hiding.",
                 "jp": "あんたそれ、隠れられてないよー。",
-                "kr": "거기 너, 제대로 안 숨어졌는데.",
+                "kr": "거기 너, 좀 더 제대로 숨었어야지.",
                 "cn": "你藏得不够隐蔽。"
             },
             "asset": "char_302_glaze/CN_026"
@@ -403,7 +403,7 @@
             "text": {
                 "en": "Wide-open spaces are dangerous, y'know.",
                 "jp": "外は危ないからねー。",
-                "kr": "밖은 위험하니까.",
+                "kr": "밖은 위험하다고.",
                 "cn": "外面可是很危险的。"
             },
             "asset": "char_302_glaze/CN_027"
@@ -435,7 +435,7 @@
             "text": {
                 "en": "You always win big like this, Doctor. You're really something!",
                 "jp": "毎回こんだけできるって、さすがドクターじゃん。",
-                "kr": "매번 이렇게 할 수 있다니, 역시 박사야.",
+                "kr": "매번 이 정도로 할 수 있다니, 역시 박사야.",
                 "cn": "每一次都能做到这种程度，真不愧是博士你啊。"
             },
             "asset": "char_302_glaze/CN_029"
@@ -467,7 +467,7 @@
             "text": {
                 "en": "Not the prettiest victory, but a win's a win, right?",
                 "jp": "まーちょーっとマズったけど、勝ちは勝ちっしょ？",
-                "kr": "뭐 조~금 실수하긴 했지만, 이긴 건 이긴 거지.",
+                "kr": "뭐 조~금 실수하긴 했지만, 이긴 건 이긴 거지?",
                 "cn": "赢得没那么漂亮，不过毕竟是赢了，对吧？"
             },
             "asset": "char_302_glaze/CN_031"
@@ -483,7 +483,7 @@
             "text": {
                 "en": "The number of targets is still increasing, and they're about to launch an attack. Doctor, let's get out of here...",
                 "jp": "見るからに敵の数が増えてきてる。総攻撃の態勢じゃん。ドクター、早く撤退しよ……",
-                "kr": "언뜻 봐도 적의 수가 늘었어. 총공격 할 태세잖아. 박사, 빨리 철수하자……",
+                "kr": "언뜻 봐도 적의 수가 늘고 있잖아, 다시 공격할 태세야. 박사, 빨리 철수하자……",
                 "cn": "可见目标还在增加，敌人马上就要发动进攻了，博士，快撤退......"
             },
             "asset": "char_302_glaze/CN_032"
@@ -531,7 +531,7 @@
             "text": {
                 "en": "I hear some new clothes came into the store? Doctor, come check 'em out with me!",
                 "jp": "新しい服が入荷したってマジ？ねぇドクター、こりゃ行くしかないっしょ。",
-                "kr": "신상 옷이 들어왔다는 거 진짜야? 저기, 박사. 이건 갈 수밖에 없잖아!",
+                "kr": "신상 옷 들어왔다는 거 진짜야? 저기, 박사. 이건 갈 수밖에 없잖아! 같이 가자!",
                 "cn": "听说销售站新上了一些衣服？唔，博士，你可一定要陪我去看看。"
             },
             "asset": "char_302_glaze/CN_036"
@@ -581,11 +581,16 @@
         "jp": {
             "native": "西田望見",
             "global": "Nishida Nozomi"
+        },
+        "kr": {
+            "native": "손선영",
+            "global": "Son Sun-young"
         }
     },
     "availability": [
         "en",
         "cn",
-        "jp"
+        "jp",
+        "kr"
     ]
 }

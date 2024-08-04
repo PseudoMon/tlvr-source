@@ -1056,6 +1056,18 @@
         "rating": 5
     },
     {
+        "nameid": "rfalcn",
+        "numberid": "4023",
+        "name": {
+            "en": "Kestrel",
+            "jp": "ケストレル",
+            "kr": "케스트럴",
+            "cn": "红隼"
+        },
+        "nation": "sargon",
+        "rating": 5
+    },
+    {
         "nameid": "sddrag",
         "numberid": "261",
         "name": {
@@ -1089,6 +1101,18 @@
             "cn": "极境"
         },
         "nation": "rhodes",
+        "rating": 5
+    },
+    {
+        "nameid": "wanqin",
+        "numberid": "4119",
+        "name": {
+            "en": "Wanqing",
+            "jp": "ワンチィン",
+            "kr": "완칭",
+            "cn": "万顷"
+        },
+        "nation": "yan",
         "rating": 5
     },
     {
@@ -1824,6 +1848,18 @@
         "rating": 5
     },
     {
+        "nameid": "warmy",
+        "numberid": "4081",
+        "name": {
+            "en": "Warmy",
+            "jp": "ウォーミー",
+            "kr": "워미",
+            "cn": "温米"
+        },
+        "nation": "rim",
+        "rating": 5
+    },
+    {
         "nameid": "otter",
         "numberid": "242",
         "name": {
@@ -2460,6 +2496,18 @@
         "rating": 5
     },
     {
+        "nameid": "grabds",
+        "numberid": "4122",
+        "name": {
+            "en": "Grain Buds",
+            "jp": "グレインバッズ",
+            "kr": "그레인버즈",
+            "cn": "小满"
+        },
+        "nation": "yan",
+        "rating": 5
+    },
+    {
         "nameid": "windft",
         "numberid": "433",
         "name": {
@@ -2781,6 +2829,18 @@
             "cn": "假日威龙陈"
         },
         "nation": "rhodes",
+        "rating": 6
+    },
+    {
+        "nameid": "ray",
+        "numberid": "4117",
+        "name": {
+            "en": "Ray",
+            "jp": "レイ",
+            "kr": "레이",
+            "cn": "莱伊"
+        },
+        "nation": "rim",
         "rating": 6
     },
     {
@@ -3360,6 +3420,18 @@
         "rating": 6
     },
     {
+        "nameid": "shu",
+        "numberid": "2025",
+        "name": {
+            "en": "Shu",
+            "jp": "シュウ",
+            "kr": "슈",
+            "cn": "黍"
+        },
+        "nation": "yan",
+        "rating": 6
+    },
+    {
         "nameid": "nian",
         "numberid": "2014",
         "name": {
@@ -3496,7 +3568,7 @@
         "numberid": "4088",
         "name": {
             "en": "Hoederer",
-            "jp": "へドリー",
+            "jp": "ヘドリー",
             "kr": "외드레르",
             "cn": "赫德雷"
         },
@@ -3597,6 +3669,18 @@
             "cn": "赫拉格"
         },
         "nation": "ursus",
+        "rating": 6
+    },
+    {
+        "nameid": "zuole",
+        "numberid": "4121",
+        "name": {
+            "en": "Zuo Le",
+            "jp": "ズオ・ラウ",
+            "kr": "좌락",
+            "cn": "左乐"
+        },
+        "nation": "yan",
         "rating": 6
     },
     {

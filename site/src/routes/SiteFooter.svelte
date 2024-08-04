@@ -5,7 +5,7 @@
 <footer>
   <a href="https://github.com/PseudoMon/tlvr-source" target="_blank"><GithubIcon /></a>
   <span>Site version 1.2.1</span>
-  <span>Data last updated: 2024-06-23 (The Rides to Lake Silberneherze on Global)</span>
+  <span>Data last updated: 2024-08-04 (Here a People Sows on Global)</span>
 </footer>
 
 <style>

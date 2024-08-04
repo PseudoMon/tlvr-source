@@ -1,0 +1,596 @@
+{
+    "charid": "char_4122_grabds",
+    "nameid": "grabds",
+    "names": {
+        "en": "Grain Buds",
+        "jp": "グレインバッズ",
+        "kr": "그레인버즈",
+        "cn": "小满"
+    },
+    "voices": [
+        {
+            "id": "char_4122_grabds_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "I looked after the stockbeasts in Dahuang, so I'm looking after you here, of course. You'll have to listen to me, work hard, and rest on time. Let's see... It's rest time now. Let's head out and have some fun!",
+                "jp": "あたし、大荒城じゃ牧獣たちの管理役だし、ここではあなたを管理するのは当然だよね。ちゃんとあたしの言うことを聞いて、しっかり働いてしっかり休むんだよ。さて、今は……休憩の時間ね！さあさあ遊びに行こ！",
+                "kr": "난 대황성에서 스톡비스트 관리를 맡았었어. 그러니 여기선 당연히 널 관리해야지. 너도 내 말을 잘 듣는 게 좋을 거야. 열심히 일하고, 제때 쉬는 거지. 어디 보자…… 지금이 바로 쉬는 시간이잖아! 자, 같이 놀러 나가자!",
+                "cn": "我在大荒城管理那里的牧兽，在这里当然就是管你啦。你要听我指挥，努力工作，定时休息。让我看看......现在就是休息时间，我们该出去玩了！"
+            },
+            "asset": "char_4122_grabds/CN_001"
+        },
+        {
+            "id": "char_4122_grabds_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Of course I know what the stockbeasts are saying. The beastlings in Dahuang always talk to me about things like what kind of snacks they want or who they like, and I sneak them a little help. This apple? A stockbeast asked for it, obviously. I'm just tasting it for them, making sure it's sweet enough.",
+                "jp": "牧獣の言ってることはもちろん分かるよ。大荒城のおチビたちはみーんなあたしに耳打ちしてくれるんだ。今日はどんなおやつが食べたいとか、好きな子ができたとかね。それを聞いたらこっそり助けてあげてたの。このリンゴ？も、もちろんこれも牧獣が食べたいって……あたしはただ甘いかどうか味見してあげてるだけだから。",
+                "kr": "스톡비스트가 하는 말이라면 당연히 알아듣지. 대황성의 작은 동물들이 나한테 소곤소곤 귓속말을 걸 때가 있거든? 예를 들면 오늘 먹고 싶은 간식이라든가, 누굴 좋아하는지 같은 거 말이야. 그런 얘기를 들을 때마다 몰래몰래 도움을 주곤 했어. 이 사과? 당연히 스톡비스트가 먹고 싶다고 해서…… 그냥 쟤들 대신해서 사과가 단지 안 단지 확인해 보려고 한 거야.",
+                "cn": "我当然能听懂牧兽在说什么，大荒城的小兽都会和我说悄悄话的，比如他们今天想吃什么零食，或者喜欢谁，我会偷偷地帮他们一把。这个苹果？当然也是牧兽想吃，我只是替他们尝一下甜不甜。"
+            },
+            "asset": "char_4122_grabds/CN_002"
+        },
+        {
+            "id": "char_4122_grabds_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Zuo Le is Candlestick, the Record Keeper is Inkbrush, that blinged out guy is Megaphone, and you're Wisehead. I also know a Tall Shades and Smiley Sharpshooter! Oh, and Amiya is the best! We made a promise to come up with a better nickname for you together.",
+                "jp": "ズオ・ラウは燭台くんでしょ、録武官は筆くん、金ぴかのあいつはメガホンで、あなたはキレキレ頭ね！それからのっぽのグラサンとにこにこシューターとも顔見知りなんだよ！でもでも、一番好きなのはやっぱりアーミヤ姉ちゃんだね。ドクターにもっとイイあだ名をつけるから、あとで一緒に考えようって彼女と約束してるんだ。",
+                "kr": "좌락은 촛대, 녹무관은 붓, 금빛으로 반짝이는 저건 메가폰, 그리고 넌 똘똘한 머리야. 나 키 큰 선글라스랑 생글생글 궁수도 알아! 하지만 그중에서 내가 제일 좋아하는 사람은 바로 아미야 언니야. 나중에 아미야 언니랑 같이 박사한테 더 좋은 별명을 지어 주기로 약속도 했다고.",
+                "cn": "左乐是小烛台，录武官是小毛笔，浑身金灿灿的那个是大嗓门，你是聪明脑袋，我还认识高个子墨镜和笑眯眯神箭！我最喜欢阿米娅姐姐，我们约好了，待会儿我要和她再给你起个好听一点的外号。"
+            },
+            "asset": "char_4122_grabds/CN_003"
+        },
+        {
+            "id": "char_4122_grabds_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Shu made me this fowlbeast whistle, and whenever I wanna tell the stockbeasts to go home, I give it a blow. Sometimes, when Dahuang feels empty, I sit down on the street corner to play it. People come and go, and my whistle's my goodbye and hello.",
+                "jp": "この羽獣のオカリナはね、シュウ姉ちゃんが作ってくれたんだよ。ふ～って吹けば、牧獣たちは帰る時間だって分かるから。大荒城の街ががらーんとしてて寂しいなって時も、道端に座ってこれを吹いたりするの。みんなが行ったり来たりするのを、あたしがお見送りをして、またお出迎えをするんだ。",
+                "kr": "이 파울비스트 오카리나는 슈 언니가 만들어줬어. 이걸 후~하고 불어서 스톡비스트들에게 집에 돌아갈 시간이라는 걸 알려주는 거지. 가끔은 대황성이 텅 빈 것 같아서 쓸쓸한 기분이 들 때가 있는데, 그럴 때마다 난 길가에 앉아서 이 오카리나를 불어. 그렇게 떠나는 사람을 배웅하고, 다시 돌아온 사람을 맞이하는 거야.",
+                "cn": "这支羽兽陶笛是黍姐姐做给我的，只要我一吹，牧兽们就知道他们该回家了。我有时觉得大荒城空荡荡的，就坐在路口吹陶笛。那些人来来去去，我送他们离开，也迎接他们回来。"
+            },
+            "asset": "char_4122_grabds/CN_004"
+        },
+        {
+            "id": "char_4122_grabds_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Dahuang's operas are sung in different dialects. That commemorates the farmers who came to our rescue a few centuries ago. They were from all across Yan, farming here for generations. They're why Dahuang fields are so fertile and prosperous now. I'm really proud that I can play the accompaniment on my flute here every year!",
+                "jp": "大荒城の村芝居では色んな方言が使われてるの。それは数百年前に被災地支援のために訪れてくれた農家さんたちの功績を称えてのことだそうよ。この見渡す限りの農地があるのも、その人たちが炎国各地からやってきて、何世代もかけて土づくりをしてくれたおかげなんだって。だから村芝居の伴奏を務められるのはとても誇らしいことでね、笛は毎年あたしが担当してるんだよ！",
+                "kr": "대황성에서 열리는 연극은 다양한 지역의 방언으로 진행돼. 이건 수백 년 전, 이재민들을 돕기 위해 와 줬던 농민들을 기리기 위한 거야. 오늘날 대황성이 이렇게 드넓은 논밭을 가지고 있는 건, 모두 염국 각지에서 온 농민들이 세대를 걸쳐 토지를 경작한 덕분이지. 그러니까 대황성 연극의 반주를 맡는다는 건 아주 영광스러운 일이고. 매년 그 연극에서 피리를 연주하는 사람이 바로 나야!",
+                "cn": "大荒城社戏是用不同方言唱的，这是为了纪念几百年前来这里救灾的职农们。他们来自炎国各地，耕耘了好几代，才有了今天良田万亩的大荒城。能给社戏伴奏是很值得骄傲的，每年都是我吹笛子哦！"
+            },
+            "asset": "char_4122_grabds/CN_005"
+        },
+        {
+            "id": "char_4122_grabds_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "When I first stood on the terraces, I could only see the aqueducts, but after the farmlands were raised, I could see the edge of the city, and now that Shu brought me here, I can see the horizon from the top deck. Megaphone tells me that Baba and Mama will come back someday, but when, exactly?",
+                "jp": "最初の頃は、大荒城の棚田に立っても用水路しか見えなかったけど、畑がせり上がってからは街の外れまで見えるようになった。それからシュウ姉ちゃんについてロドスへやってきて、今度は甲板に上がれば空の向こう側までも見渡せた……お父さんもお母さんもいつかは帰ってきてくれるってメガホンは言うけど、一体いつになるんだろう？",
+                "kr": "원래 대황성의 계단식 논에 서 있으면 수로만 보였는데, 나중엔 논밭이 높아지게 되면서 마을 외곽까지 보이게 됐어. 슈 언니가 데려온 이곳, 로도스 아일랜드 갑판 위에선 이젠 하늘 저 너머까지도 보이네. 메가폰이 엄마랑 아빠도 언젠간 돌아올 거라고 했는데…… 대체 언제 오는 걸까?",
+                "cn": "原先站在大荒城的梯田上能看到水渠，后来田地升起来了，在上面能看到城的边缘；现在黍姐姐带我来这里，在甲板上我能看到天的那一边。大嗓门说总有一天爸爸妈妈会回来的，究竟是什么时候呢？"
+            },
+            "asset": "char_4122_grabds/CN_006"
+        },
+        {
+            "id": "char_4122_grabds_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Could you draw a line over my head...? I'm not standing on my tiptoes! I'm not stretching my neck out, either! Are you done? Let's see. See? I told you I got taller! Maybe I'll be taller than Xiaohe next year! Let's see how tall you are. Minus your hood and shoes, you... come up to my shoulders!",
+                "jp": "ドクタードクター、壁に印をつけてくれない？あたしの頭の上にね……つま先立ちなんかしてないよ、首を伸ばしてもないって！描けた？ほら、やっぱりあたし背が伸びたんだよ！来年になれば小禾を越せるんじゃないかな。あっ、ドクターの身長も測ってあげよっか？そのフードと靴の高さを引けば……そうね、あたしの肩に届くくらいかな！",
+                "kr": "박사 박사, 나 키 재고 싶은데 벽에 표시해 주면 안 돼? ……까치발 안 들었거든! 목도 안 뻗었어! 됐어? 봐, 맞지? 내가 키 큰 것 같다고 했잖아! 내년이면 화화보다 더 커질 수도 있다고! 아, 박사도 키 한번 재 볼래? 모자랑 신발 빼면 박사는…… 내 어깨쯤 닿으려나!",
+                "cn": "你能不能帮我画一下身高？......我没踮脚！也没梗着脖子！画好了？看嘛，我就说我长高了，说不定明年就比小禾高了！我给你也画一下吧？减去你的帽子鞋子，你......到我的肩膀！"
+            },
+            "asset": "char_4122_grabds/CN_007"
+        },
+        {
+            "id": "char_4122_grabds_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "When I'm in a bad mood, I sometimes go to the embankment to play my flute. There's a woodcutter there who yelled at me every time, but he always quieted down as soon as I played this song. He even hummed along. That was the first time I saw him smile! Like I said, I'm really good at the flute.",
+                "jp": "胸がざわざわする時は、土手のところへ行って笛を吹くの。あそこにね、ちょっと頭がアレな木こりのおじちゃんがいて、毎回追っ払いに来るんだよね。でもこの曲を吹けば、おじちゃんも落ち着いてくれて、音に合わせて鼻歌を歌うんだ。あの時だったな、初めておじちゃんが笑うのを見たのは……きっとあたしの笛が上手いからだね！",
+                "kr": "난 우울할 때면 둑방에 가서 피리를 불어. 거기에 약간 이상한 나무꾼 아저씨가 매번 날 쫓아내려고 하는데, 피리로 이 곡을 불면 아저씨도 엄청 얌전해진다? 가끔은 피리 소리에 맞춰서 흥얼거리기까지 하더라고. 그 아저씨가 웃는 건 그때 처음 봤어! 역시 난 피리를 잘 부나 봐.",
+                "cn": "我心情不好的时候会去坝口吹笛子，那儿有个有点疯的樵夫大叔，我每次去他都赶我，但只要我吹这首曲子，他就会很安静，还会跟着调子哼起来。那是我第一次看到他笑呢！我的笛子果然吹得很好。"
+            },
+            "asset": "char_4122_grabds/CN_008"
+        },
+        {
+            "id": "char_4122_grabds_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "The farmers say that the stockbeasts live by following water and grass. Fowlbeasts fly freely in the sky, but they always eventually land in the fields. I know what that means now.  Everyone has a field to call their own. Rhodes Island is your field, and you are the fowlbeast that will come back to land, isn't that right?",
+                "jp": "農家さんたちが言うには、牧獣は水と草を求めて居を移すし、羽獣は空を自由に飛び回るけど、最後はやはり田んぼに帰ってくるんだって。それってつまり、みんなそれぞれに帰るための「田んぼ」があるってことだよね。ロドスもドクターにとっての「田んぼ」で、ドクターも羽獣のように最後にはここに帰ってくる。そうでしょ？",
+                "kr": "농부들이 그랬는데, 스톡비스트는 물과 풀을 찾아 살 곳을 옮기고, 파울비스트는 하늘을 자유롭게 날아다니지만 결국엔 다시 논밭으로 돌아온다고 했어. 나도 이 말이 무슨 뜻인지 알아. 누구에게나 돌아갈 '논밭'이 있다는 거잖아. 박사한테는 로도스 아일랜드가 그 논밭 같은 곳이고. 박사도 어디에 있든 파울비스트처럼 결국 이곳으로 돌아오게 되겠지, 그렇지?",
+                "cn": "职农们说，牧兽追逐水草而居，羽兽能在天空自在地飞，但最终会落回田里。我知道这话是什么意思，每个人都有一片自己的田地，罗德岛就是你的田地，你也是那只会落回地里的羽兽，是不是？"
+            },
+            "asset": "char_4122_grabds/CN_009"
+        },
+        {
+            "id": "char_4122_grabds_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Hm... You fell asleep...? You really fell asleep...? Hehe, have this coat then. Have a good dream. I'm off to have some fun!",
+                "jp": "あれ……ドクター寝ちゃった？……ほんとに寝ちゃってるよね？……へへ、服をそーっと掛けてっと……ゆっくり寝ててね、あたしは遊んでくるから！",
+                "kr": "어라…… 박사 잠든 거야? ……정말 자는 건가? ……헤에, 그럼 옷 덮어 줄 테니까 조금 더 자고 있어. 난 나가서 놀다 올게!",
+                "cn": "唔......睡着了？......真睡着了？......嘻，给你盖上衣服，多睡一会儿，我要出去玩啦！"
+            },
+            "asset": "char_4122_grabds/CN_010"
+        },
+        {
+            "id": "char_4122_grabds_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Shu brought me here to hang! I think I wrote my name on a document she was supposed to sign...? She said it was fine, though. Now that I've signed it, I get to come here to hang out all the time!",
+                "jp": "シュウ姉ちゃんと遊びに来たよ！あたしったらお姉ちゃんがサインするはずのファイルにうっかり自分の名前を書いちゃって……まあ、特に問題ないってシュウ姉ちゃんが言ってたし、これでしょっちゅう遊びに来れるから！",
+                "kr": "안녕~ 슈 언니랑 놀러 왔어! 언니가 사인해야 할 문서에 깜빡하고 내 이름을 적어버린 것 같은데……? 음, 슈 언니가 사인만 하면 나중에도 자주 놀러 올 수 있다고 했으니까, 그래! 문제없을 거야!",
+                "cn": "是黍姐姐带我过来玩的！我好像还在要她签字的文件上写了我的名字......？不过黍姐姐说不要紧，签字之后我就可以经常来这里玩！"
+            },
+            "asset": "char_4122_grabds/CN_011"
+        },
+        {
+            "id": "char_4122_grabds_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "...Wah! I'd never fall asleep in class, Laoshi...! Huh? It's you.",
+                "jp": "ふぁ～あ……ふぇ、い、居眠りなんかしてないよ先生！……ってなんだぁ、ドクターか。",
+                "kr": "……하아암. 앗, 선생님 저 안 졸았어요! ……아, 박사였구나.",
+                "cn": "......啊老师我没有上课打瞌睡！......欸，是你呀。"
+            },
+            "asset": "char_4122_grabds/CN_012"
+        },
+        {
+            "id": "char_4122_grabds_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "I developed a way to train stockbeasts to identify foods based on their smell. The Tianshi Bureaus gave me a medal for it. It doesn't have a serial number, but it says how amazing I am! And now I have this one you gave me. I'm putting them next to each other.",
+                "jp": "あたしね、「牧獣の食料嗅ぎ分け訓練法」っていうのを独自で編み出して、天師府から勲章をもらったんだよ。シリアルナンバーがないやつだったけど、それでも十分すごいことだよね！ドクターからもらったこれも、一緒に並べて飾っておくよ。",
+                "kr": "난 말이야, '스톡비스트의 먹이 냄새 구별 훈련법'이란 걸 개발해서 천사부에서 훈장을 받았었어. 일련번호는 없는 훈장이었지만, 그래도 내 성과를 인정해 준다는 의미잖아! 박사가 준 훈장도 그거랑 같이 나란히 걸어 둘게.",
+                "cn": "我自己研究出了“牧兽嗅觉判断食物训练法”，天师府给我发了一个勋章，虽然没有编号，但也说明我很厉害嘛！还有你给我的这个，我要把它们放在一块。"
+            },
+            "asset": "char_4122_grabds/CN_013"
+        },
+        {
+            "id": "char_4122_grabds_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "I got taller again, right? By the time I'm as tall as you, the people of Dahuang will definitely have cultivated the seeds they want. When that happens, I'll invite you to come sit with us in the fields. The rice flowers are gonna look even better then!",
+                "jp": "あたし、また背が伸びたよね？ドクターと同じくらいでっかくなる頃には、大荒城のみんなもきっと欲しかった種の育成に成功してると思うんだ。その時はドクターを招待するから、二人で田んぼのほとりで稲穂を眺めようね！",
+                "kr": "나 또 키 컸지? 내가 박사만큼 커질 때쯤이면 대황성 사람들도 분명 바라던 씨앗을 키워내는 데 성공했을 거야. 그날이 오면 박사를 대황성으로 초대할게. 우리 둘이 같이 논두렁에서 벼꽃 구경하는 거야!",
+                "cn": "我又长高了点，对不对？等我长到你这么高的时候，大荒城里的人肯定培育出他们想要的种子了，那个时候我邀请你过来玩，我们一起坐在田垄上看稻花！"
+            },
+            "asset": "char_4122_grabds/CN_014"
+        },
+        {
+            "id": "char_4122_grabds_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Is it time to do pest control again? I'm the best at catching these nasty little things!",
+                "jp": "害獣駆除？まっかせて、あいつらを捕まえるのは大の得意だよ！",
+                "kr": "또 농사에 방해가 되는 짐승을 해치울 시기가 온 건가? 그런 녀석들이라면 내가 잘 알지!",
+                "cn": "又到了除害兽的时候了？抓这些小家伙我最拿手了！"
+            },
+            "asset": "char_4122_grabds/CN_017"
+        },
+        {
+            "id": "char_4122_grabds_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Trust me. I know I can do it extra good.",
+                "jp": "信じて、あたしはぜーったい上手くやれるから。",
+                "kr": "믿어 줘, 나 잘할 자신 있어.",
+                "cn": "相信我，我肯定能做得特别好。"
+            },
+            "asset": "char_4122_grabds/CN_018"
+        },
+        {
+            "id": "char_4122_grabds_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Listen up, get your boots on, and tread lightly!",
+                "jp": "いい？靴をしっかり履き込んで、そーっと歩くんだよ。",
+                "kr": "자, 다들 신발 제대로 신었지? 그럼 가벼운 발걸음으로 가는 거야!",
+                "cn": "听我指挥，穿好靴子，脚步放轻！"
+            },
+            "asset": "char_4122_grabds/CN_019"
+        },
+        {
+            "id": "char_4122_grabds_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Everybody ready?",
+                "jp": "用意はいい？",
+                "kr": "준비됐어?",
+                "cn": "都准备好了吗？"
+            },
+            "asset": "char_4122_grabds/CN_020"
+        },
+        {
+            "id": "char_4122_grabds_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Qui-Qui-Quick! The pests are getting away.",
+                "jp": "早く早く！害獣が逃げちゃうよ！",
+                "kr": "빨리빨리! 이러다 해로운 짐승들이 다 도망치겠어!",
+                "cn": "快快快，害兽都要逃走了。"
+            },
+            "asset": "char_4122_grabds/CN_021"
+        },
+        {
+            "id": "char_4122_grabds_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "I saw them hiding in the bushes there!",
+                "jp": "あっちの草むらに隠れてるよ。",
+                "kr": "쟤들 저쪽 풀숲에 숨는 거 다 봤다고!",
+                "cn": "我看到它们在那边的草丛里！"
+            },
+            "asset": "char_4122_grabds/CN_022"
+        },
+        {
+            "id": "char_4122_grabds_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Nice. They didn't see us.",
+                "jp": "よーし、まだ気付かれてないみたい。",
+                "kr": "좋아, 들키지 않았어.",
+                "cn": "很好，没有被它们发现。"
+            },
+            "asset": "char_4122_grabds/CN_023"
+        },
+        {
+            "id": "char_4122_grabds_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "None of you are getting away this time!",
+                "jp": "今度は絶対獲りこぼさない！",
+                "kr": "도망칠 생각 안 하는 게 좋을 거야!",
+                "cn": "这次谁都别想跑！"
+            },
+            "asset": "char_4122_grabds/CN_024"
+        },
+        {
+            "id": "char_4122_grabds_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Hah, I got you!",
+                "jp": "よっと、つかまえたっ！",
+                "kr": "헤헷, 잡았다!",
+                "cn": "嘿，被我抓住咯！"
+            },
+            "asset": "char_4122_grabds/CN_025"
+        },
+        {
+            "id": "char_4122_grabds_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Come any closer, and I'll whap your heads with my flute!",
+                "jp": "これ以上来たら笛で頭をぶっちゃうからね！",
+                "kr": "더 다가오면 피리로 머리를 때려 줄 거야!",
+                "cn": "再过来小心我用笛子敲你们的头！"
+            },
+            "asset": "char_4122_grabds/CN_026"
+        },
+        {
+            "id": "char_4122_grabds_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Not so fast now, huh!",
+                "jp": "もう逃げられないよ！",
+                "kr": "이제 도망 못 치겠지?",
+                "cn": "这下你们跑不快了吧？"
+            },
+            "asset": "char_4122_grabds/CN_027"
+        },
+        {
+            "id": "char_4122_grabds_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "And don't ever come back to our fields!",
+                "jp": "二度と田んぼに入って来ないで！",
+                "kr": "다시는 논밭에 들어올 생각하지 마!",
+                "cn": "下次可不许再跑来田地里了！"
+            },
+            "asset": "char_4122_grabds/CN_028"
+        },
+        {
+            "id": "char_4122_grabds_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Come on, let's go! We need to hurry and tell Shu. She's going to be so happy with me.",
+                "jp": "行こ行こ、早くシュウ姉ちゃんに教えなきゃ、きっとあたしのこと褒めてくれるから。",
+                "kr": "가자가자, 얼른 돌아가서 슈 언니한테 자랑해야지~ 헤헤, 분명 칭찬해 줄 거야.",
+                "cn": "走走走，快点回去告诉黍姐姐，她肯定会夸我的。"
+            },
+            "asset": "char_4122_grabds/CN_029"
+        },
+        {
+            "id": "char_4122_grabds_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Next year, the year after, and the year after that... One day, the whole of Dahuang will live without fear of Catastrophes or pests, and we'll have stack our harvests as high as Heaven for Shennong.",
+                "jp": "来年、再来年、そのさらに先でもいい……いつか大荒城が天災も害獣も恐れることなく、神農祭で供える作物が天に届くくらい高く積み上がってるような……そんな日がきっと来るって、あたし信じてるから。",
+                "kr": "내년, 후년, 아니면 그 이후라도…… 언젠가는 대황성이 재앙과 짐승을 두려워하지 않고, 신농제에 바칠 작물이 하늘에 닿을 정도로 높이 쌓여 있는…… 그런 날이 오리라 믿어!",
+                "cn": "明年，后年，大后年......总有一天，我能看到整个大荒城再也不惧怕天灾，不惧怕害兽，神农祭上的庄稼堆得比天还要高。"
+            },
+            "asset": "char_4122_grabds/CN_030"
+        },
+        {
+            "id": "char_4122_grabds_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "It's okay. We've been through Catastrophes much worse than this. This one's just a little setback. We'll work harder next season!",
+                "jp": "気にしないで、もっと大変な天災だって乗り越えてきたんだから、これくらいの失敗はどーってことないよ。来期また頑張ればいいでしょ！",
+                "kr": "괜찮아. 우린 이것보다도 더 큰 재앙도 이겨냈는걸. 이 정도 실패는 아무것도 아니야. 다음에 더 열심히 하면 돼!",
+                "cn": "没事，比这个还厉害的天灾我们都扛过来了，这一点点挫折不算什么，下一季我们再努力就是了！"
+            },
+            "asset": "char_4122_grabds/CN_031"
+        },
+        {
+            "id": "char_4122_grabds_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "We're in trouble... I'll go get the Tianshi to help us!",
+                "jp": "た、大変……あたし、天師たちを呼んでくる！",
+                "kr": "크, 큰일이야…… 얼른 가서 천사들을 데려올게!",
+                "cn": "出事了......我去找天师们过来帮帮忙！"
+            },
+            "asset": "char_4122_grabds/CN_032"
+        },
+        {
+            "id": "char_4122_grabds_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "I want to sneak out when the landship docks. Can you keep it from Shu?",
+                "jp": "ねぇドクター、船が街の近くに泊まったらこっそり遊びに行きたいんだけど、シュウ姉ちゃんには内緒にしてもらえる？",
+                "kr": "있지 박사, 함선이 정박하면 잠깐 내려가서 놀고 싶은데, 혹시 슈 언니한테는 비밀로 해 줄 수 있어?",
+                "cn": "舰船停靠的时候我想偷偷溜下去玩，你帮我瞒住黍姐姐好不好？"
+            },
+            "asset": "char_4122_grabds/CN_033"
+        },
+        {
+            "id": "char_4122_grabds_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "These buns aren't for you to grab!",
+                "jp": "もぉー、頭のお団子をもみもみしないの！",
+                "kr": "올린 머리 부분 만지지 마!",
+                "cn": "这两个小鬏鬏不是让你捏的！"
+            },
+            "asset": "char_4122_grabds/CN_034"
+        },
+        {
+            "id": "char_4122_grabds_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Have you learned to play the song I taught you?",
+                "jp": "この間教えた曲、もう吹けるようになったぁ？",
+                "kr": "저번에 박사한테 가르쳐 준 그 곡 말이야, 이제 연주할 수 있겠어?",
+                "cn": "上次教你吹的曲子，你学会了没有呀？"
+            },
+            "asset": "char_4122_grabds/CN_036"
+        },
+        {
+            "id": "char_4122_grabds_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4122_grabds/CN_037"
+        },
+        {
+            "id": "char_4122_grabds_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "I have the basket ready. Should we head to the fields to catch mudfins together?",
+                "jp": "カゴはもう用意してるから、一緒に田んぼで泥鱗捕りに行かない？",
+                "kr": "바구니는 내가 챙겼어! 자 그럼 박사, 진흙 린수 잡으러 논밭에 가지 않을래?",
+                "cn": "小笼我都准备好了，要不要一起去田里抓泥鳞？"
+            },
+            "asset": "char_4122_grabds/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Triya Leong",
+            "global": "Triya Leong"
+        },
+        "cn": {
+            "native": "阮从青",
+            "global": "Ruan "
+        },
+        "jp": {
+            "native": "阿部菜摘子",
+            "global": "Natsuko Abe"
+        },
+        "kr": {
+            "native": "이주은",
+            "global": "Lee Ju-eun"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

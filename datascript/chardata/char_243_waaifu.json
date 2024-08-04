@@ -17,7 +17,7 @@
                 "cn": "任命助理"
             },
             "text": {
-                "en": "Doctor, where are you going? Shouldn't you be working? Lunch? Well then, I'm coming along. There's a few things I want to buy, and I can protect you too.",
+                "en": "Doctor, where are you going? Shouldn't you be working? Lunch? Well then, I'm coming along. There's a few things I want to buy, and I can also keep a lookout for you.",
                 "jp": "ドクター、まだ仕事中ですよ。どこに行くんですか？お昼を買いに？では私もお供しましょう。ちょうど買いたいものもありますし、ドクターの護衛もできますから。",
                 "kr": "박사님, 아직 근무 시간이에요. 어디 가시는 거예요? 점심을 사러요? 그럼, 저도 같이 갈게요. 마침 사고 싶은 것도 있고, 박사님도 호위할 수 있으니까요.",
                 "cn": "博士你要去哪，现在不是值班时间吗？要去买午餐？那我陪你去吧，我也有些想买的东西，正好可以充当一下你的护卫。"
@@ -33,7 +33,7 @@
                 "cn": "交谈1"
             },
             "text": {
-                "en": "Sorry, Doctor, Rhodes Island is just a part-time job for me. I have to study hard to make sure I have a nice, normal future ahead of me. I am committed to keeping in touch with everyday society.",
+                "en": "Sorry, Doctor, Rhodes Island is just a part-time job for me. I have to study hard to make sure I have a nice, normal future ahead of me. If you plan to have me aboard and on 24-hour call… Well, I'll have to ask you reconsider that.",
                 "jp": "ごめんなさい、ドクター。私はまだ学生の身、ロドスでの仕事はあくまでアルバイトでしかありません。学業を疎かにする者に真っ当な未来などありませんから。ましてや、社会から逸脱するなど、まさに愚の骨頂です。",
                 "kr": "죄송해요, 박사님. 전 아직 학생의 몸이라, 로도스 아일랜드의 일은 어디까지나 아르바이트에 불과해요. 학업을 등한시하는 자에게 제대로 된 미래 따윈 없을 테니까요. 하물며 사회에서 일탈하는 건, 더없이 어리석은 짓이죠.",
                 "cn": "抱歉博士，罗德岛的工作我只能当作一份兼职，毕竟只有完成学业我才能拥有正常的未来，直接脱离社会之类的，恕我拒绝。"
@@ -65,7 +65,7 @@
                 "cn": "交谈3"
             },
             "text": {
-                "en": "Did I ever tell you about my other job? No? Well, I won't. Don't look at me like that, Doctor. There's just not much to say. If my other office worked a tenth as hard as Rhodes Island does, they'd monopolize Lungmen's entire investigations industry.",
+                "en": "Did I ever tell you about my other job? No? Well, I won't. Don't look at me like that, Doctor. There's just not much to say. If my other office worked a tenth as hard as Rhodes Island does, they'd probably have become the only detective agency in Lungmen.",
                 "jp": "私のもう一つの仕事について、お話したことはありますか？いえ、なければいいんです。特に話せることもありませんから、お気になさらず。……もしあの事務所に少しでもロドスのような勤勉さがあれば、龍門の探偵業界をとっくに席巻していたはずなんですけどね。",
                 "kr": "제 또 다른 직업에 대해 말씀드린 적 있나요? 아니요, 없으시면 됐어요. 딱히 말씀드릴 수 있는 것도 없고, 신경 쓰지 마세요. ……만약 그 사무소에 조금이라도 로도스 아일랜드 같은 근면함이 있었다면, 진작에 용문의 탐정업계를 주름잡았을 텐데 말이죠.",
                 "cn": "我有没有和你说过我的另一份工作？没有？那我就不说了。别多心，博士，是真没什么可说的，如果那家事务所能有罗德岛十分之一勤奋，他们早就垄断龙门的所有侦探生意了。"
@@ -81,7 +81,7 @@
                 "cn": "晋升后交谈1"
             },
             "text": {
-                "en": "You wonder where I learned martial arts? Well, I have my nasty old dad and his weird education to thank for that. Not that I resent kung fu. A hero must uphold justice. Martial arts are a part of me.",
+                "en": "You wonder where I learned martial arts? Well, I have my old codger and his weird education to thank for that. Not that I resent kung fu. Martial arts should always be a part of me if I hope to uphold justice.",
                 "jp": "どのように武術を身に付けたか、ですか？愚父の一風変わった教育方針により、幼い頃から武のいろはを叩き込まれてきました。もちろん、嫌いなわけではありませんよ。弱きを助け、強きを挫く、そのためには武術が必要ですから。",
                 "kr": "어떻게 무술을 익혔느냐…… 고요? 아버지의 남다른 교육 방침 때문에, 어렸을 때부터 주입식 교육으로 무예의 기초를 익히게 됐죠. 물론, 싫진 않아요. 약한 자를 돕고, 강한 자를 꺾는다. 그러기 위해서는 무술이 필요하니까요.",
                 "cn": "好奇我的武艺是怎么来的？这个啊，都是我那臭老爸从小开始的奇怪教育造成的。当然，我并不讨厌这身武艺，行侠仗义，离不开它。"
@@ -97,7 +97,7 @@
                 "cn": "晋升后交谈2"
             },
             "text": {
-                "en": "Just like the human heart, martial arts have yin and yang, right and wrong. To right those wrongs, to defeat evil, to counter bad kung fu, these are all second nature to me. The world is dark, and someone must stand for justice.",
+                "en": "Just like how people value morality, martial arts have yin and yang, right and wrong. To right those wrongs, to defeat evil, to counter bad kung fu, these are all second nature to me. The world is dark, and someone must stand for justice.",
                 "jp": "武に陰陽ありて、人に曲直あり。武術も人の心も同じです。不正を正し、歪んだ武術を打ち伏せ、邪悪な者を成敗する。どれも私にとっては当然のことです。世の悪には、誰かが立ち向かわなければなりませんから。",
                 "kr": "무에는 음양이 있고, 인간에게는 곡직이 있다. 무술도 사람의 마음도 같아요. 잘못된 것을 바로잡고, 비뚤어진 무술을 때려눕히고, 사악한 자에게 벌을 준다. 어느 것도 저에겐 당연한 일이에요. 세상의 악에 누군가는 맞서 싸워야 하니까요.",
                 "cn": "武艺和人心并无区别，武有阴阳，人有曲直。去纠正不对的事情、去战胜用错地方的武艺、以及去制服邪恶的人，对我来说都是再正常不过的事情了。世道险恶，总得有人挺身而出。"
@@ -113,7 +113,7 @@
                 "cn": "信赖提升后交谈1"
             },
             "text": {
-                "en": "You think you just saw me? In downtown Lungmen? That may have been me. I just finished class. Hm? You saw me beat down some thugs who were harassing a passerby? And then slipped away before the police arrived? Must have been someone else. Heh heh. Definitely. That's enough about that.",
+                "en": "You think you just saw me? In downtown Lungmen? That may have been me. I just finished class. Hm? You saw me beat down some thugs who were harassing a passerby? And then slipped away before the police arrived? Must have been someone else. Heh heh. Definitely. You were just seeing things, that's it.",
                 "jp": "さっき私を見かけた？龍門の街で？授業を終えたばかりなので、確かに私かもしれません。え？私が弱い者いじめをするチンピラをボコボコにして、近衛局が駆けつける前に逃げた？えーと、それなら人違いですね。ええ、きっと人違いですよ。さぁ、もうこの話はやめましょう。",
                 "kr": "아까 절 보셨다고요? 용문의 번화가에서요? 수업이 막 끝났을 무렵이니까, 확실히 저였을지도 모르겠네요. 네? 제가 약한 사람을 괴롭히는 불량배를 때려눕히고, 근위국이 달려오기 전에 도망쳤다고요? 아…… 그렇다면 사람을 잘못 보셨나 보네요! 네네네네, 분명 잘못 보신 거예요! 자! 이제 이 이야기는 그만하죠!",
                 "cn": "你说在哪看见了我？龙门城区？可能确实是我，我刚刚下课。你看见我痛打欺负过路人的混混，然后在警员抵达之前溜走了？你认错人了。对，你一定认错人了，别问了。"
@@ -129,7 +129,7 @@
                 "cn": "信赖提升后交谈2"
             },
             "text": {
-                "en": "My rotten dad said he had to go find the true meaning of kung fu. I still don't know where he is. Please! What year does he think it is? Find some common sense and learn some responsibility before you get yourself killed. But at least I haven't forgotten what he taught me: 'Martial arts have martial virtue, humans have human kindness.'",
+                "en": "My rotten dad said he had to go find the true meaning of kung fu before he went off, and I still don't know where he is. Please! What year does he think it is? Find some common sense and learn some responsibility before you get yourself killed. But at least I haven't forgotten what he taught me: 'Martial arts have martial virtue, humans have human kindness.'",
                 "jp": "愚父は、武道の真髄を求めてなどと言いながら、あてもない修行の旅に出てしまいました。現代社会で未だにそんなことを……常識も責任感もない人ですから、もうどこかで野垂れ死んでもおかしくないですよ。でもそんな愚父（ちち）から教わった「武に武徳あり、人に心あり」の訓は、今でもこの身に宿っています。",
                 "kr": "아버지께선 무도의 진수를 찾는다느니 하면서 정처 없는 수행 길에 올라버렸어요. 현대 사회에 아직도 그런 걸…… 상식도 책임감도 없는 사람이니까, 지금쯤 어딘가에서 객사했어도 이상하지 않겠죠. 하지만 그런 아버지께 배운 “무에는 무덕이 있고, 사람에게는 마음이 있다”는 가르침은, 지금도 제 몸에 깃들어 있어요.",
                 "cn": "我那臭老爸，嘴里说着要寻找武学真谛，现在也不知去了哪里。拜托，这可是现代社会！像他这样没常识没责任心的人，在哪里丧命都不奇怪。但他教我的，我也没忘记——“武有武德，人有人心。”"
@@ -145,7 +145,7 @@
                 "cn": "信赖提升后交谈3"
             },
             "text": {
-                "en": "Doctor, did any mail come for me? It did? Great. These are my grades... my very important grades! It's been straight A's for me, so far. If I don't work hard enough, I'll end up regretting all the things I wasn't strong enough to do.",
+                "en": "Doctor, did any mail come for me? It did? Great. They included my grade report inside... I need them for a lot of things. It's been straight A's for me, so far. If I don't work hard enough, I'll end up regretting all the things I wasn't strong enough to do.",
                 "jp": "ドクター、ここに私宛の郵便は届いていませんか？ありました？よかった。中に成績通知書が入ってるはずです……はい、成績は大事です。今のところ、全科目オールAです。少しでも努力を怠れば、力が及ばないばかりに後悔することも増えてしまいますから。",
                 "kr": "박사님, 이쪽으로 제 우편물이 도착하지 않았나요? 있었나요? 다행이다. 안에 성적표가 들어있을 거예요…… 네, 성적이야 당연히 중요하죠. 지금까진 전 과목 올 A예요! 조금이라도 노력을 게을리하면, 나중엔 제 능력이 달려서 후회하는 일도 늘어나 버릴 테니까요!",
                 "cn": "博士，罗德岛有收到寄给我的信件吗？有？太好了。这是我的成绩单......成绩很重要。至今所有科目，我没拿过A以外的成绩；如果我做的不够，许多事情会因为我能力不足而留下遗憾。"
@@ -177,7 +177,7 @@
                 "cn": "干员报到"
             },
             "text": {
-                "en": "Is this Rhodes Island? Nice to meet you. I'm Waai Fu, your new part-timer. Please don't go easy on me. I can handle anything you ask of me.",
+                "en": "Is this Rhodes Island? Nice to meet you. I'm Waai Fu, your new part-timer. Please don't go easy on me. I can handle anything you ask of me. Yes, just give me the word.",
                 "jp": "こちらがロドスですか？はじめまして、今日からこちらでアルバイトをさせていただくワイフーと申します。ビシバシ厳しいご指導をお願いします。必ず皆様に満足していただけるよう、精進してまいります。",
                 "kr": "여기가 로도스 아일랜드인가요? 처음 뵙겠습니다. 오늘부터 이쪽에서 아르바이트를 하게 된 와이후라고 합니다. 가차 없이 엄격하게 지도 부탁드립니다. 반드시 여러분께서 만족하실 수 있도록 정진하겠습니다.",
                 "cn": "请问这里就是罗德岛吗？你好，我是今天起在这里打工的槐琥，请严格要求我，我一定能满足各位的工作需求。嗯，一定。"
@@ -209,7 +209,7 @@
                 "cn": "精英化晋升1"
             },
             "text": {
-                "en": "Thank you very much. I won't let you down, Doctor.",
+                "en": "Thank you very much, Doctor. You placed your trust in me, and I won't let you down.",
                 "jp": "ありがとうございます。ドクターの信頼に背かぬよう、精進します。",
                 "kr": "감사합니다. 박사님의 신뢰를 저버리지 않도록 정진하겠습니다.",
                 "cn": "非常感谢，我不会辜负你对我的这份认可。"
@@ -241,7 +241,7 @@
                 "cn": "编入队伍"
             },
             "text": {
-                "en": "Is there evil to fight?",
+                "en": "More evil to fight against?",
                 "jp": "悪を懲らしめに行くのですね？",
                 "kr": "악을 응징하러 가는 거죠?",
                 "cn": "是要去打击邪恶了吗？"
@@ -257,7 +257,7 @@
                 "cn": "任命队长"
             },
             "text": {
-                "en": "I don't have much experience, but I won't turn down the responsibility.",
+                "en": "I have much to learn, but I won't turn down the responsibility.",
                 "jp": "まだ経験は浅いですが、責任逃れなどはしません。",
                 "kr": "아직 경험은 별로 없지만, 책임 회피 같은 건 하지 않겠습니다!",
                 "cn": "我没有太多经验，但我不会推辞责任。"
@@ -305,7 +305,7 @@
                 "cn": "选中干员1"
             },
             "text": {
-                "en": "Hey.",
+                "en": "Yes!",
                 "jp": "はい。",
                 "kr": "네!",
                 "cn": "在！"
@@ -337,7 +337,7 @@
                 "cn": "部署1"
             },
             "text": {
-                "en": "No other choice.",
+                "en": "A last resort.",
                 "jp": "是非もなし。",
                 "kr": "어쩔 수 없군요.",
                 "cn": "别无他法。"
@@ -369,7 +369,7 @@
                 "cn": "作战中1"
             },
             "text": {
-                "en": "You have turned your backs on society!",
+                "en": "You have crossed the line too far!",
                 "jp": "世の規則に背く悪党め！",
                 "kr": "세상의 규칙을 어기는 악당 녀석!",
                 "cn": "你们背离了社会的准则！"
@@ -401,7 +401,7 @@
                 "cn": "作战中3"
             },
             "text": {
-                "en": "Behold, the power of the Song Do Bart Cham style!",
+                "en": "Don't blink! Song Do Bart Cham style!",
                 "jp": "見せてあげよう、双刀八斬法の真髄を！",
                 "kr": "보여주마, 쌍도팔참법의 진수를!",
                 "cn": "就让你们见识一下，双刀八斩法！"
@@ -513,7 +513,7 @@
                 "cn": "戳一下"
             },
             "text": {
-                "en": "An ambush...?! Doctor, don't sneak up on me like that. You'll end up in Medical.",
+                "en": "An ambush...?! ...Doctor, don't you ever sneak up on me like that again. Now let's get you to Medical first.",
                 "jp": "不意打ち！？……ドクターですか。音もたてずに私に近づかないでください。さぁ、医務室へ行きましょう。",
                 "kr": "기습?!…… 박사님이셨네요. 그렇게 소리 없이 저한테 다가오지 마시라고요. 자, 의무실로 가죠.",
                 "cn": "想偷袭？！......博士，请不要悄悄接近我。来，我送你去医疗部门。"
@@ -529,7 +529,7 @@
                 "cn": "信赖触摸"
             },
             "text": {
-                "en": "You want to go for a walk? I'll go with you. You'll be safe with me.",
+                "en": "You want to go for a walk? Sure, let's get going. It's safer to have me with you.",
                 "jp": "散歩ですか？わかりました、一緒に行きますよ。私がいれば、ドクターは安全ですから。",
                 "kr": "산책인가요? 알겠습니다, 같이 갈게요. 제가 있으면 박사님은 안전하니까요.",
                 "cn": "想去散步？走，我陪你。有我在，你会很安全。"
@@ -570,6 +570,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Molly Zhang",
+            "global": "Molly Zhang"
+        },
         "cn": {
             "native": "kiyo",
             "global": "kiyo"
@@ -588,6 +592,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr",

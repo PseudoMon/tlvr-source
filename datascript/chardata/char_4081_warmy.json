@@ -1,0 +1,596 @@
+{
+    "charid": "char_4081_warmy",
+    "nameid": "warmy",
+    "names": {
+        "en": "Warmy",
+        "jp": "ウォーミー",
+        "kr": "워미",
+        "cn": "温米"
+    },
+    "voices": [
+        {
+            "id": "char_4081_warmy_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Coming, coming! Warmy coming in with warmth! Huh...? Sheesh, Doctor! No calling me a little potlid like Lanns!",
+                "jp": "はいは～い、「ぬくもり」を届けに来ましたよ～。え？もぉ、ドクターさん！ランナお姉ちゃんの真似しちゃダメです！鍋蓋ちゃん禁止！",
+                "kr": "네네~ 워미가 '온기'를 전하러 왔어요. 앗? 박사님! 라나 언니 따라 하시면 안 돼요! 절 냄비 뚜껑이라 부르는 건 금지예요, 금지!",
+                "cn": "来咯来咯，温米带着“温暖”来了哦。欸？博士！不要和兰娜姐学！不许叫我小锅盖！"
+            },
+            "asset": "char_4081_warmy/CN_001"
+        },
+        {
+            "id": "char_4081_warmy_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Doctor, do you smell that? Hehe, it's the smell of my sweet pear and vegetables soup, slow cooked to perfection! I said it before, I'm gonna cook the best meals to cure everyone's Oripathy! Huff, huff—It's not so hot anymore. Give it a try, won'tcha? If you don't, everyone else will eat it right up!",
+                "jp": "どうですかドクターさん、いい匂いがするでしょう？えへへ、梨と季節野菜のスープを作ってるんですよ。弱火でじっくりことことです！前に話したでしょう？いっちばん美味しいご飯を作って、みんなの鉱石病を治すんです！ふー、ふー……これでもう熱くないはずです。さ、飲んでみてください。急がないとみんなに食べ尽くされちゃいますよ！",
+                "kr": "어때요, 박사님? 향긋하죠? 헤헤, 달콤한 배랑 야채를 넣어서 약불에 천천히~ 오래 끓인 수프예요! 제가 말씀드렸잖아요, 세상에서 가장 맛있는 밥을 만들어서 모두의 광석병을 치료할 거라고요! 후우, 후우…… 이제 안 뜨거울 거예요, 자 어서 드셔 보세요. 아니면 다른 분들이 다 먹어버릴지도 몰라요!",
+                "cn": "博士，闻到了吗？嘿嘿，是甜梨蔬菜汤的味道啦，小火慢炖的！之前不是说过嘛，我要做最最好吃的饭，治好大家的矿石病！呼，呼——已经不烫啦，快点尝尝吧。要不然，可是会被其他人喝光的！"
+            },
+            "asset": "char_4081_warmy/CN_002"
+        },
+        {
+            "id": "char_4081_warmy_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Rhodes Island is such a big, biiiig transport, and it has a kinda different furnace than the one at the factory... Oh, I just went to the engine level. The boiler man there thought I was lost and took me back up. I was fine down there, though. I'm used to the heat.",
+                "jp": "ロドスってとーっても大きなトレーラーで、工場とはちょっと違う動力炉が積まれてるんですね……さっき動力エリアに行ったら、ボイラーのおじさんに迷子だと勘違いされて、頑なに送ってくって言われて連れ戻されちゃったんです。全然平気だったのになぁ。わたし、熱い場所には慣れてるんですよ。",
+                "kr": "로도스 아일랜드는 엄~청 큰 수송 차량 같아요. 공장이랑은 다르게 생긴 동력로도 있고요…… 근데 아까 동력층에 갔더니, 거기 계신 아저씨께서 제가 길을 잃은 줄 알고 도로 데려다 주시지 뭐예요. 전 더운 곳에는 익숙한 편이라 아무렇지도 않았는데 말이죠.",
+                "cn": "罗德岛是一辆超——大的运载车，还有和工厂里不太一样的热炉子......我刚刚去了动力层，锅炉工叔叔以为我迷路了，非要送我回来。可是我根本不觉得难受呀，我习惯了热腾腾的地方。"
+            },
+            "asset": "char_4081_warmy/CN_003"
+        },
+        {
+            "id": "char_4081_warmy_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Come, Doctor. Hurry up and eat. No need to worry about me. It cheers me right up to see people enjoying their food. Aw, you still want to share with me? Okay, I'll clean this plate! Om nom nom... Wha? You were just picking out things you don't want to eat? Well alright then.",
+                "jp": "ドクターさん、早く食べちゃってください。わたしに遠慮はいりませんよ。ご飯を美味しそうに食べている人を見ると、わたしも嬉しくなるんです！あれ、どうして別のお皿に？そういうことなら、綺麗に「片付ける」としましょうか！あむ――え？食べないやつを除けただけですか？別に気にしませんよ。",
+                "kr": "어서 드세요, 박사님. 전 신경 쓰지 않으셔도 돼요. 다른 분들이 맛있게 식사하시는 모습만 봐도 저는 기분이 좋아지거든요! 어라, 왜 덜어 주시는 거예요? 좋아요, 그럼 제가 마무리 '청소'할게요! 냐암~ 네? 먹기 싫은 걸 따로 골라낸 거였다고요? 뭐, 그래도 괜찮아요.",
+                "cn": "博士，快吃吧，不用分给我。看见别人吃饭香香的，我的心情也会好好的！唔，您怎么还是拨给我了？那好吧，我来“打扫干净”！啊呜——啊？刚刚那个，是您挑出来不吃的东西？无所谓啦。"
+            },
+            "asset": "char_4081_warmy/CN_004"
+        },
+        {
+            "id": "char_4081_warmy_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "I made this bracelet from bottle tree leaves. I can keep them fresh for a short while. Hehe, didn't think my Arts could be used like this, did you? Oh, Don't worry, it'll only be for a short while. I won't keep it going for too long, or they'll get tired, too. We should let them be. The withering will come slowly.",
+                "jp": "このブレスレットはサカビンノキの葉で編んだんです。しばらくは青い状態を保てるんですよ。えへへ、わたしのアーツをこんなふうに使えるなんて思わなかったでしょう！まあ、保つって言ってもほんのちょっとで、長くはできませんから、大丈夫です。ずっと元気なままだと、疲れちゃいますからね。はい、枯れるまでを少しだけゆっくりにしましょう。",
+                "kr": "이 팔찌는 병나무의 잎을 직접 엮어서 만들었어요. 제 능력을 이용하면 한동안 시들지 않게 보존할 수 있죠. 헤헤, 제 아츠를 이렇게 사용할 수 있을 줄은 생각도 못 하셨죠? 걱정 마세요, 유지 시간이 길지는 않거든요. 계속 싱싱한 상태를 유지하려다 보면 잎들도 지칠 거예요. 네, 잎들이 자연스럽게 시들 수 있도록 저희는 옆에서 지켜보도록 해요.",
+                "cn": "这条手链是用瓶树叶编成的，我能让它暂时保持新鲜哦。嘿嘿，没想到我的源石技艺还能这么用吧！放心啦，就一小会儿，不会保持太久的。一直鲜活着，它也很累呀。嗯，就让它慢慢干枯吧。"
+            },
+            "asset": "char_4081_warmy/CN_005"
+        },
+        {
+            "id": "char_4081_warmy_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Dad liked to collect the carrots we had left to carve into small animals. Doctor, do you think Ray will like this carrot sandbeast? Ah! I think I carved a little too deep. I'm still not very good at this, not like Dad. If only he'd taught me a bit longer...",
+                "jp": "パパが余ったにんじんを集めて、それを小動物の形に彫ってくれていたんです。ドクターさん、このにんじんのサンドビースト、レイお姉ちゃんは気に入ってくれると思いますか？あ……深く彫り過ぎちゃったかも。パパの腕に比べるとまだまだですね。もっとパパに教われたらよかったのに。",
+                "kr": "예전에 아빠는 당근 자투리를 모아, 그것을 깎아선 작은 동물 모양으로 만들어 주곤 하셨어요. 박사님, 레이 언니가 이 당근 샌드비스트를 좋아할까요? 으음…… 아무래도 이쪽을 너무 깊게 판 것 같아요. 아빠가 만든 거에 비하면 전 아직 한참 멀었네요. 아빠한테 조금 더 배울 수 있다면 좋을 텐데……",
+                "cn": "爸爸会把剩下的萝卜头收集起来，把它们刻成小动物。博士，您觉得莱伊姐会喜欢这只萝卜沙地兽吗？啊......好像刻太深了。和爸爸比起来，我还不太熟练。要是他能再教教我就好了。"
+            },
+            "asset": "char_4081_warmy/CN_006"
+        },
+        {
+            "id": "char_4081_warmy_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Doctor, look! The lady at Medical gave me a plaster with pears on it! Rhodes Island has so many Infected. It's the same back home, but we didn't live so well. And I had nowhere to go... Doctor, Is it a bad thing to be an Infected?",
+                "jp": "ドクターさん、見てください！医療部のお姉さんが貼ってくれた絆創膏、白梨の模様なんです！ロドスには感染者がたくさんいますねぇ、わたしの故郷もそうでした。でも、ここと違ってあんまり暮らしは良くなくて、わたしも昔は行く当てがなくって……感染者って、いちゃいけないんでしょうか？",
+                "kr": "이거 보세요, 박사님! 의료부 언니가 주신 제 반창고에 배 그림이 그려져 있어요! 로도스 아일랜드엔 감염자 분들이 참 많은 것 같네요. 제 고향도 그랬어요. 하지만 고향에서의 생활은 로도스 아일랜드에서의 생활보다 훨씬 힘들었어요, 저도 갈 곳이 없었고요…… 박사님, 감염자가 된 게 정말 잘못한 걸까요?",
+                "cn": "博士你看！医疗部的姐姐给我的创可贴是白梨图案的！罗德岛上的感染者好多呀，我家乡也是这样，可大家过得就不太好了，之前我也无处可去......身为感染者，难道是一件错事吗？"
+            },
+            "asset": "char_4081_warmy/CN_007"
+        },
+        {
+            "id": "char_4081_warmy_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Deep in the pitch darkness, those warm breaths slowly got colder...' That's how Ray told her sandbeast stories. I've heard the workers saying stuff like that ever since the accident. They were kind of hard to understand at first, but I know what they mean now.",
+                "jp": "「光のない暗闇の中で、温かかった呼吸が徐々に熱を失っていく……」、自分とサンドビーストのお話で、レイお姉ちゃんはこう言っていました。あの事故の後、作業員のおじさんたちも似たような話をしているのを聞いて、その時はよく分からなかったんです。でも、今はもう理解できるようになりました。",
+                "kr": "“빛 하나 없는 어둠 속에서, 따뜻했던 숨결은 점차 온기를 잃어갔다……” 레이 언니는 이렇게 자신과 샌드비스트의 이야기를 말해주셨어요. 그 사고 이후, 작업자 아저씨들도 저한테 비슷한 이야기를 들려주셨는데…… 그때는 이해하기 어려웠는데, 지금은 알 것 같아요.",
+                "cn": "“在不见微光的黑暗里，原本温热却慢慢冷去的呼吸......”莱伊姐是这么讲她和沙地兽的故事的。那场事故之后，工友叔叔们也在我旁边说过类似的话，有点难懂，但现在我已经能明白了。"
+            },
+            "asset": "char_4081_warmy/CN_008"
+        },
+        {
+            "id": "char_4081_warmy_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Yeah, it hurts a lot when my Oripathy flares up. And I'm worried I could go out of control, too. Huff... Hufffff... Doctor, want to try a bite of stewed pear? It doesn't cure Oripathy, but it's sweet. When life's all hard and bitter, we need something sweet! Hehe, does it taste good? Alright, I'll take this to Lanns now.",
+                "jp": "そうですよ、鉱石病の発作ってすごくつらいし、自分がどうにかなっちゃいそうで怖いんです。ふー、ふー、ドクターさん、梨の煮込みを一口いかがですか？とっても甘いですよ。鉱石病は治せませんが、生きてると苦い思いもするので、甘い物で中和しないと。それじゃ、わたしはランナお姉ちゃんにこれ持って行きますね。",
+                "kr": "맞아요. 광석병이 발작하면 너무 아파서, 제가 금방이라도 어떻게 되어버릴 것만 같아 무서워져요. 후우, 후우, 박사님, 배 조림 한 입 드셔 보시겠어요? 이걸로 광석병을 치료할 순 없지만, 엄청 달콤할 거예요. 쓰디쓴 인생일수록, 달콤함이 필요한 법이잖아요? 그럼 저 라나 언니한테 이거 가져다주고 올게요.",
+                "cn": "是呀，矿石病发作的时候真的会很难受，也会害怕自己失控。呼，呼，博士，要不要尝一口炖梨子？虽然治不好矿石病，但很甜哦，生活苦苦的，才更要来点甜头呀！好了，我去端给兰娜姐啦。"
+            },
+            "asset": "char_4081_warmy/CN_009"
+        },
+        {
+            "id": "char_4081_warmy_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Doctor? Are you feeling warmer? Have a good sleep now. I'm right here.",
+                "jp": "ドクターさん、さっきよりあったかくなりました？ふふ、おやすみなさい。わたしがそばにいますよ。",
+                "kr": "이제 좀 따뜻해지셨나요, 박사님? 후후, 주무세요. 제가 곁에 있어 드릴게요.",
+                "cn": "博士，有没有暖和一点？睡吧，睡吧，我会陪着你。"
+            },
+            "asset": "char_4081_warmy/CN_010"
+        },
+        {
+            "id": "char_4081_warmy_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Nice to see you again, Doctor. Do you miss Billy stew? I was just heading to the aft kitchen with Lanns— Hey! I'm not a little potlid. Don't call me Potlid!",
+                "jp": "ドクターさん、また会えましたね。きっとレム・ビリトンのご飯が恋しいんじゃないですか？ちょうどこれからランナお姉ちゃんと厨房に行くので……待った。わたしは鍋蓋ちゃんじゃないです。そう呼ばないでください――",
+                "kr": "박사님~ 또 뵙네요. 림 빌리턴 요리가 그리우셨나요? 마침 라나 언니랑 주방에 가던 중이었는데…… 전 냄비 뚜껑이 아니에요. 냄비 뚜껑이라고 부르지 마세요!",
+                "cn": "博士，又见面啦，想念雷姆必拓风味的炖菜吗？我正要和兰娜姐去后厨看......我不是小锅盖，请不要再叫我小锅盖啦——"
+            },
+            "asset": "char_4081_warmy/CN_011"
+        },
+        {
+            "id": "char_4081_warmy_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Whoa... Did you command all these battles, Doctor? You're amazing…",
+                "jp": "ええ？これぜーんぶ、ドクターさんが指揮したんですか？すごいなぁ……",
+                "kr": "네? 이걸 전부, 박사님께서 지휘하신 건가요? 대단하다……",
+                "cn": "欸？这些作战都是博士指挥的吗？好厉害......"
+            },
+            "asset": "char_4081_warmy/CN_012"
+        },
+        {
+            "id": "char_4081_warmy_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "I-I got promoted? Does that mean I can ask Closure to buy some more authentic ingredients?",
+                "jp": "しょ、昇進？ということは、クロージャお姉ちゃんにこだわりのご当地食材をもっと仕入れてもらえるんですか？",
+                "kr": "스, 승진이요? 그럼 이제 클로저 언니한테 더 많은 현지 식재료를 구입해 달라고 부탁해도 되는 건가요?",
+                "cn": "升、升职啦？那是不是说明，我可以向可露希尔姐姐申请采购更多更地道的食材啦？"
+            },
+            "asset": "char_4081_warmy/CN_013"
+        },
+        {
+            "id": "char_4081_warmy_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Thanks for your recognition, Doctor! I'll do what I can to bring even more warmth to the people! Um... Actually, what I mean is... I'm glad I can help out!",
+                "jp": "認めてくれてありがとうございます、ドクターさん！わたし、もっと頑張ってみんなにぬくもりを届けますね！えっと……その、つまり、みんなの役に立てたらなって。",
+                "kr": "인정해 주셔서 감사합니다, 박사님! 모두가 더 따뜻해질 수 있도록 더 노력할게요! 앗…… 그, 그러니까 제 말은, 다른 분들께 더 많은 도움이 될 수 있다면 좋겠어요.",
+                "cn": "谢谢博士的认可！我会努力带给大家更多温暖的！欸......其实，我的意思是，只要能帮到大家就好啦。"
+            },
+            "asset": "char_4081_warmy/CN_014"
+        },
+        {
+            "id": "char_4081_warmy_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "I'm all set.",
+                "jp": "準備はできていますよ。",
+                "kr": "전 준비 됐어요.",
+                "cn": "我已经准备好了哦。"
+            },
+            "asset": "char_4081_warmy/CN_017"
+        },
+        {
+            "id": "char_4081_warmy_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Huh? I'm the head chef today?",
+                "jp": "え？今日はわたしがシェフなんですか？",
+                "kr": "네? 오늘은 제가 메인 셰프라고요?",
+                "cn": "欸？今天我来做主厨？"
+            },
+            "asset": "char_4081_warmy/CN_018"
+        },
+        {
+            "id": "char_4081_warmy_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "S-Slow down... Wait for me!",
+                "jp": "も、もっとゆっくり……置いてかないでくださいよぉ！",
+                "kr": "자, 잠시만요…… 절 기다려 주세요!",
+                "cn": "慢、慢点......等等我！"
+            },
+            "asset": "char_4081_warmy/CN_019"
+        },
+        {
+            "id": "char_4081_warmy_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "They're not part of a good breakfast!",
+                "jp": "あいつらに良い思いはさせませんよ！",
+                "kr": "저 사람들한테 줄 과일은 없어요!",
+                "cn": "不给他们好果子吃！"
+            },
+            "asset": "char_4081_warmy/CN_020"
+        },
+        {
+            "id": "char_4081_warmy_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "I'm here to help.",
+                "jp": "お手伝いしますね！",
+                "kr": "제가 도와드릴게요!",
+                "cn": "我来帮忙。"
+            },
+            "asset": "char_4081_warmy/CN_021"
+        },
+        {
+            "id": "char_4081_warmy_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Fire up the barbie.",
+                "jp": "クッキングスタート！",
+                "kr": "요리 시작합니다!",
+                "cn": "开火咯。"
+            },
+            "asset": "char_4081_warmy/CN_022"
+        },
+        {
+            "id": "char_4081_warmy_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Light and gentle…",
+                "jp": "そーっと……",
+                "kr": "약불로……",
+                "cn": "轻一点。"
+            },
+            "asset": "char_4081_warmy/CN_023"
+        },
+        {
+            "id": "char_4081_warmy_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "This place feels a little too cool…",
+                "jp": "ここは涼しすぎるかも。",
+                "kr": "여긴 너무 시원한 것 같은데요.",
+                "cn": "这里好像太凉快了。"
+            },
+            "asset": "char_4081_warmy/CN_024"
+        },
+        {
+            "id": "char_4081_warmy_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Sparky spark, hop n' jump!",
+                "jp": "火花ちゃん、ぴょんぴょんして。",
+                "kr": "불꽃아, 폴짝폴짝 뛰어봐.",
+                "cn": "小火花，跳一跳。"
+            },
+            "asset": "char_4081_warmy/CN_025"
+        },
+        {
+            "id": "char_4081_warmy_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Little flames, shake n' dance!",
+                "jp": "焔ちゃん、ゆらゆらして。",
+                "kr": "불꽃아, 살랑살랑 흔들어 봐.",
+                "cn": "小火苗，摇呀摇。"
+            },
+            "asset": "char_4081_warmy/CN_026"
+        },
+        {
+            "id": "char_4081_warmy_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Roast their tummies!",
+                "jp": "あいつらのお腹をこんがり焼いちゃって！",
+                "kr": "녀석들의 배를 바싹 구워버리는 거야!",
+                "cn": "烤他们的肚皮！"
+            },
+            "asset": "char_4081_warmy/CN_027"
+        },
+        {
+            "id": "char_4081_warmy_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Shh, it's burning quietly.",
+                "jp": "しーっ、焔ちゃんが静かに燃えてるんですよ。",
+                "kr": "쉬잇, 불꽃이 조용히 타오르고 있어요.",
+                "cn": "嘘，它在静静燃烧呢。"
+            },
+            "asset": "char_4081_warmy/CN_028"
+        },
+        {
+            "id": "char_4081_warmy_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Everyone did such a great job... I'll make a big stew to reward them!",
+                "jp": "みんなすごかったですね……あとで鍋いっぱいの料理を作って、お疲れ様会をしないと！",
+                "kr": "다들 정말 대단하네요…… 이따가 냄비 가득 요리를 해서, 뒤풀이를 해야겠어요!",
+                "cn": "大家都好棒呀......一会儿要炖一大锅菜，犒劳犒劳大家！"
+            },
+            "asset": "char_4081_warmy/CN_029"
+        },
+        {
+            "id": "char_4081_warmy_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Hm—Smells so good. Today was another huge success!",
+                "jp": "ん～、いい匂い。今日も大成功ですね！",
+                "kr": "음~ 좋은 냄새가 나네요. 오늘도 대성공이에요!",
+                "cn": "嗯——好香，今天也大功告成了呢！"
+            },
+            "asset": "char_4081_warmy/CN_030"
+        },
+        {
+            "id": "char_4081_warmy_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "We spilled a lot out of the pot. What a shame...",
+                "jp": "あう……鍋からいっぱい溢れちゃいました。もったいない……",
+                "kr": "윽…… 냄비에서 넘쳐버렸네요. 아까워라……",
+                "cn": "唔......锅里溢出来好多，好可惜......"
+            },
+            "asset": "char_4081_warmy/CN_031"
+        },
+        {
+            "id": "char_4081_warmy_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "I wasn't paying attention, it's all burnt...",
+                "jp": "うぅぅ、ちょっと目を離したら全部焦げちゃいました……",
+                "kr": "흑흑, 한눈판 사이에 전부 타버렸어요……",
+                "cn": "呜呜呜，一不留神，全烧煳啦......"
+            },
+            "asset": "char_4081_warmy/CN_032"
+        },
+        {
+            "id": "char_4081_warmy_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "This room's so warm… Hm? You can adjust the temperature with this panel?",
+                "jp": "とてもあったかい部屋ですね。えっと？温度調整にはコントロールパネルを使わなくちゃいけないんですか？",
+                "kr": "정말 따뜻한 방이네요. 어라? 온도 조절은 제어판을 사용해야 하는 거라고요?",
+                "cn": "好温暖的房间呀。嗯？需要用温控面板来调节吗？"
+            },
+            "asset": "char_4081_warmy/CN_033"
+        },
+        {
+            "id": "char_4081_warmy_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Huff—huff—Didn't burn you, did I?",
+                "jp": "ふー、ふーっ、火傷はしてないですよね？",
+                "kr": "후우, 후우, 데이진 않으셨죠?",
+                "cn": "呼——没烫到您吧？"
+            },
+            "asset": "char_4081_warmy/CN_034"
+        },
+        {
+            "id": "char_4081_warmy_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "I'm not— Okay, if it's what you want to call me, Doctor, then no worries. I <i>am</i> a little potlid.",
+                "jp": "わたしは――あぁ、もういいです。ドクターさんがそう呼びたいなら鍋蓋ちゃんでいいですよ。",
+                "kr": "저는…… 됐어요. 박사님이 원하시는 대로 부르세요. 네네, 저는 냄비 뚜껑이랍니다.",
+                "cn": "我不是——好吧，博士愿意叫就叫吧，我就是小锅盖。"
+            },
+            "asset": "char_4081_warmy/CN_036"
+        },
+        {
+            "id": "char_4081_warmy_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4081_warmy/CN_037"
+        },
+        {
+            "id": "char_4081_warmy_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Doctor, are you eating good today?",
+                "jp": "ドクターさん、今日はちゃんとご飯食べましたか？",
+                "kr": "박사님, 오늘 식사는 잘 챙겨 드셨나요?",
+                "cn": "博士，今天您好好吃饭了吗？"
+            },
+            "asset": "char_4081_warmy/CN_042"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Aimee Smith",
+            "global": "Aimee Smith"
+        },
+        "cn": {
+            "native": "汪悦",
+            "global": "Yue Wang"
+        },
+        "jp": {
+            "native": "大野柚布子",
+            "global": "Yuko Ono"
+        },
+        "kr": {
+            "native": "한우정",
+            "global": "Han Woo-jeong"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

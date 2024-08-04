@@ -19,7 +19,7 @@
             "text": {
                 "en": "{@nickname}, compared to the old ones, today's battle are too relaxed and juvenile . They are weak. Weak enough to make weapons rust. And once a warrior's weapons rust, death soon follows.",
                 "jp": "今時の戦場は昔よりずっと未熟で脆弱なものだ。このままでは武器も錆びつき、戦士にとっての死が近づくばかりだ。",
-                "kr": "{@nickname}, 요즘의 전장은 예전보다 훨씬 미숙하고 연약하다. 이대로라면 무기도 녹슬고, 전사로서의 죽음이 다가올 뿐이다.",
+                "kr": "{@nickname}, 요즘 전장은 전보다 훨씬 미숙하고 연약해서 무기가 녹슬 정도다. 무기가 녹슬기 시작하면, 전사도 죽음이 멀지 않았다는 뜻이지.",
                 "cn": "{@nickname}，今日的战场与往日相比太脆弱、太稚嫩了，这会让武器生锈。一旦武器生锈，战士离死亡也就不远了。"
             },
             "asset": "char_131_flameb/CN_001"
@@ -35,7 +35,7 @@
             "text": {
                 "en": "Life is but a brief flicker before the vast maw of annihilation. Cherish that view of the sunset while you still can, {@nickname}.",
                 "jp": "人生ってのは滅びるまでの一時に過ぎない。夕日を拝める今この瞬間をせいぜい大事にすることだ。",
-                "kr": "인생은 죽기 전의 한때에 지나지 않아. 석양을 바라보는 지금 이 순간을 되도록 소중히 여겨라. {@nickname}.",
+                "kr": "인생은 파멸하기 전, 찰나의 순간에 지나지 않아. 석양을 바라볼 수 있는 지금 이 순간을 되도록 소중히 여겨라. {@nickname}.",
                 "cn": "生命只是湮灭之前的一小段历程，趁你还能看见舷外的夕阳，好好珍惜吧，{@nickname}。"
             },
             "asset": "char_131_flameb/CN_002"
@@ -67,7 +67,7 @@
             "text": {
                 "en": "I'm not concerned with the plight of the Infected? Hmph, don't misunderstand me - fighting in vain is what I hate. No enemy worth spilling my blood has come forward, and that's all there is to it.",
                 "jp": "感染者の境遇に興味がないように見えるだと？誤解するな、徒労に終わる戦いが嫌いなんだ。今はまだ俺が血を流すに値する敵が現れていない、ただそれだけだ。",
-                "kr": "감염자의 처우에 흥미가 없어 보인다고? 오해하지 마라. 헛수고로 끝나는 싸움이 싫은 거다. 지금은 아직 내가 피를 흘릴만한 적이 나타나지 않았다, 단지 그것뿐이야.",
+                "kr": "감염자의 처우에 흥미가 없어 보인다고? 오해하지 마라. 난 헛수고로 끝나는 싸움이 싫은 거다. 지금은 아직 내가 피를 흘릴만한 적이 나타나지 않았다, 단지 그것뿐이야.",
                 "cn": "不关心感染者的境遇？不要误会，我不过是讨厌徒劳的战斗。真正值得我流血的敌人还没出现，仅此而已。"
             },
             "asset": "char_131_flameb/CN_004"
@@ -83,7 +83,7 @@
             "text": {
                 "en": "Rampant slaughter liberates your inner instinct, 'teamwork' only robs you of it. What 'trust' and 'strategizing' buy you are nothing but illusions of security. And these illusions, {@nickname}, will one day cost you your life.",
                 "jp": "仲間意識なんてものは、死合いで解き放たれた本能を抑えつけるだけだ。信頼と謀略で手に入れた平穏な幻覚は、いつかお前の命を奪うんだ。",
-                "kr": "동료 의식 같은 건 사투에서 풀려난 본능을 억누를 뿐이야. 신뢰와 모략으로 손에 넣은 평온한 환각은 언젠가 너의 목숨을 빼앗을 거다. {@nickname}.",
+                "kr": "팀워크 같은 건 사투에서 풀려난 본능을 억누를 뿐이야. 신뢰와 모략으로 손에 넣은 평온이라는 환각은 언젠가 너의 목숨을 빼앗을 거다. {@nickname}.",
                 "cn": "团队合作会夺去全力厮杀所解放出的本能，用信任与谋略换来一些平稳的幻觉。而幻觉会取走你的性命，{@nickname}。"
             },
             "asset": "char_131_flameb/CN_005"
@@ -99,7 +99,7 @@
             "text": {
                 "en": "This blade ran through two crown princes, and this other one slew three generals. In our chaotic world, anything can happen. I don't know who will claim my life, but on that day, I sure hope it'll be more exciting than when I took these lives.",
                 "jp": "この刀で親王二人の首を落とし、こっちは三人の将軍を貫いた。この混沌とした大地では、いつ何時何が起こるかわからん。俺の命は誰の手によって落ちるかは知らんが、俺が殺めた者たちよりも素晴らしい死に様を迎えられればそれでいい。",
-                "kr": "이 검으로 친왕 둘의 목을 베었고, 이쪽은 장군 셋을 꿰뚫었다. 이 혼돈에 빠진 땅에서는 언제 무슨 일이 일어날지 알 수 없어. 내 목숨이 누구의 손에 떨어질지는 알 수 없지만, 내가 죽인 자들보다 훌륭한 죽음을 맞이할 수 있다면 그걸로 충분해.",
+                "kr": "이 칼로 친왕 둘의 목을 베었고, 이쪽으론 장군 셋을 꿰뚫었다. 이 혼란스러운 대지에서는 언제 무슨 일이 일어날지 알 수 없어. 내 목숨이 누구의 손에 거두어질지는 알 수 없지만, 부디 내가 죽인 자들보다 더 훌륭한 죽음을 맞이할 수 있다면 좋겠군.",
                 "cn": "这把刀，枭首了两位亲王，而另一把刺死了三个将军。混乱的大地上，什么事情都有可能发生。我不知道我的命会被谁拿去，只希望过程会比我刺杀那些人时更精彩。"
             },
             "asset": "char_131_flameb/CN_006"
@@ -115,7 +115,7 @@
             "text": {
                 "en": "Shining, huh? A pity, she could have been a worthy adversary. But after she got pulled into that mess with the 'Confessarii,' I bet she felt her blade had been besmirched. Hmph, Swordsmen without faith in their swords are beneath mention.",
                 "jp": "シャイニングか、残念な奴だ。十分な実力を持った好敵手のはずだったが、「聴罪師」たちが例の事件に巻き込まれてから、己の剣が穢れてしまったと考えているんだろう。自分の得物を信じられない剣士にはもう何の価値もない。",
-                "kr": "샤이닝이라, 아까운 녀석이군. 충분한 실력을 갖춘 호적수였을 텐데 '고해신부'들이 그 사건에 휘말린 후로 자신의 검이 더럽혀졌다고 생각하는 거겠지. 자신의 무기를 믿지 못하는 검사에겐 더 이상 아무런 가치도 없다.",
+                "kr": "샤이닝이라, 아까운 녀석이다. 분명 충분한 실력을 갖춘 호적수였을 텐데. '고해신부'들이 그 사건에 연루된 후로 자신의 검도 더럽혀졌다고 생각하는 거겠지. 자신의 무기를 믿지 못하는 검사에 대해선 더 얘기할 가치가 없다.",
                 "cn": "闪灵吗，可惜，她原本可以是个很强的敌手，只是在“赦罪师”们卷入那种事情以后，就连她也觉得自己的剑刃沾满了污秽吧。不信任自己武器的剑士不值一提。"
             },
             "asset": "char_131_flameb/CN_007"
@@ -131,7 +131,7 @@
             "text": {
                 "en": "{@nickname}, you remember that battle, right? After killing all the ambushers, I led the survivors and charged straight into the traitor's fortress. I was the only one who made it out alive. How did it all start? Oh, you know the answer to that. I've seen you before, and my memory is very good.",
                 "jp": "あの戦争のことは知っているな？俺は伏兵全員切り伏せて、残った部下を連れて裏切り者の城に突撃したが、最後に生き残ったのは俺一人だけだったというわけだ。戦争の原因？とぼけるなよ、俺はあの戦場でお前を見た。俺の記憶は間違えるはずがない。",
-                "kr": "그 전쟁에 대해선 알고 있겠지. {@nickname}. 난 복병을 모두 베어버리고, 남은 부하를 데리고 배신자의 성으로 돌격했지만 마지막에 살아남은 건 나 하나뿐이었다. 전쟁의 원인? 시치미떼지 마라. 나는 그 전장에서 너를 봤다. 내 기억이 잘못됐을 리 없어.",
+                "kr": "그 전쟁에 대해선 알고 있겠지. {@nickname}. 난 복병을 모두 베어버리고, 남은 부하를 데리고 배신자의 성으로 돌격했지만 마지막에 살아남은 건 나 하나뿐이었다. 전쟁의 원인? 시치미떼지 마라. 나는 그 전장에서 너를 봤다. 그리고 난 기억력이 좋은 편이지.",
                 "cn": "你知道那场战争吧，{@nickname}。杀死所有伏击者后，我和残存的部下冲进了背叛者的堡垒，最后活下来的只有我一个人。这场战斗究竟因何而起？你很清楚，我见过你，而且我记性很好。"
             },
             "asset": "char_131_flameb/CN_008"
@@ -147,7 +147,7 @@
             "text": {
                 "en": "{@nickname}, help me fetch those seeds in the cupboard, won't you? Thank you. Yes, I'm actually quite fond of flowers. No matter how brilliantly they blossom, their petals must wither and fall into the wind. When will the petals wither next, Doctor?",
                 "jp": "悪いが棚の上にある種をとってくれるか。ああ、花は好きだ。どんなに綺麗に咲いても、最後には風の中で萎れて散る姿がな。それよりも、次の花期はいつになるかわかるか？",
-                "kr": "미안하지만 선반 위에 있는 씨앗을 갖다 주겠나? 그래, 꽃은 좋아한다. 아무리 아름답게 피어도 마지막엔 바람 속에서 시들어 떨어지는 모습이 말이야. 그보다 다음 꽃이 피는 시기가 언제인지 아나?",
+                "kr": "미안하지만 선반 위에 있는 씨앗을 가져다주겠나? 고맙다. 그래, 나는 꽃을 좋아한다. 꽃은 아무리 아름답게 피어도 마지막엔 바람 속에서 시들어 떨어지곤 하지. 그나저나 다음 꽃이 피는 시기가 언제인지 아나?",
                 "cn": "{@nickname}，帮我拿一下柜子上的种子，谢谢。是，其实我喜欢花。无论它们的绽放有多么灿烂，最后花瓣也都会在风中凋零枯萎。下一次花期是什么时候呢，{@nickname}？"
             },
             "asset": "char_131_flameb/CN_009"
@@ -179,7 +179,7 @@
             "text": {
                 "en": "We meet again, {@nickname}. Don't worry, I understand the situation you're in now, and pose no threat to you. I shall be your blade, so use me as you see fit, Doctor.",
                 "jp": "また会うことになるとはな。お前の事情ならもう聞いてる。襲ったりはしないから安心しろ。俺のことは武器として遠慮なく使うといいさ。なあ、「ドクター」？",
-                "kr": "{@nickname}, 또 만나게 될 줄이야. 네 사정이라면 이미 들었다. 공격하거나 하진 않을 테니 안심해. 나를 사정 없이 무기로 쓰면 된다. 알겠나? '박사'.",
+                "kr": "{@nickname}, 또 만나게 될 줄이야. 네 상황은 이미 들었다. 공격하거나 하진 않을 테니 안심하도록. 나를 그저 너의 무기로 쓰면 된다. 알겠나? '박사'.",
                 "cn": "又见面了，{@nickname}。不要紧，我知道你现在的情况，也对你没有威胁。请把我当做武器来运用，博士。"
             },
             "asset": "char_131_flameb/CN_011"
@@ -195,7 +195,7 @@
             "text": {
                 "en": "The skills a great warrior needs are those which defy recording.",
                 "jp": "優秀な戦士が求める技は、映像で記録できるものでもないだろうに……まあいい。",
-                "kr": "우수한 전사가 원하는 기술은 영상으로 기록할 수 있는 것이 아닐 텐데…… 뭐, 됐다.",
+                "kr": "우수한 전사가 갈망하는 기술은 영상으로 기록할 수 있는 것이 아닐 텐데…… 뭐, 됐다.",
                 "cn": "一个优秀战士渴求的技艺是没法被记录下来的。"
             },
             "asset": "char_131_flameb/CN_012"
@@ -227,7 +227,7 @@
             "text": {
                 "en": "I have no concept of what it's like to be Infected. Perhaps Rhodes Island can help me understand. I don't care, but if you have your own considerations. Fine, I'll hear them out.",
                 "jp": "感染者としての自覚など俺にはない。ロドスにいれば何かヒントが手に入るかもしれないが、それすら別にどうでもいい。しかしお前たちにも考えがあるのは分かっている。ひとまずはそれに従ってやろう。",
-                "kr": "감염자로서의 자각 따윈 나에게 없다. 로도스 아일랜드에 있으면 뭔가 힌트를 얻을 수 있을지도 모르지만, 그것도 별로 어찌 되든 상관없어. 하지만 너희에게도 생각이 있다는 건 알고 있다. 일단은 거기에 따라주도록 하지.",
+                "kr": "감염자로서의 자각 따윈 내게 없다. 어쩌면 로도스 아일랜드가 내게 힌트를 줄 수 있을지도 모르지만, 그것도 별로 어찌 되든 상관없어. 하지만 너희에게도 생각이 있다는 건 알고 있다. 일단은 거기에 따라주도록 하지.",
                 "cn": "我没有作为感染者的自觉。也许罗德岛能给我一点提示，我不在乎，但你们有自己的考量。我接受。"
             },
             "asset": "char_131_flameb/CN_014"
@@ -243,7 +243,7 @@
             "text": {
                 "en": "Ahh, I've longed for a hurricane of blood.",
                 "jp": "久しぶりに血生臭い戦いになりそうだな。",
-                "kr": "오랜만에 피비린내 나는 싸움이 될 것 같군.",
+                "kr": "아, 오랜만에 피비린내 나는 싸움이 될 것 같군.",
                 "cn": "啊，久违的腥风血雨。"
             },
             "asset": "char_131_flameb/CN_017"
@@ -259,7 +259,7 @@
             "text": {
                 "en": "I've been a captain before, and it didn't end well.",
                 "jp": "隊長を任されたこともあるが、散々なものだったな。",
-                "kr": "대장을 맡았던 적도 있지만, 처참했지.",
+                "kr": "팀장을 맡았던 적도 있지만, 결과는 처참했지.",
                 "cn": "我做过队长，下场不怎么好。"
             },
             "asset": "char_131_flameb/CN_018"
@@ -307,7 +307,7 @@
             "text": {
                 "en": "Do not interfere.",
                 "jp": "俺の邪魔はするなよ。",
-                "kr": "내 방해는 하지 마라.",
+                "kr": "방해하지 마라.",
                 "cn": "不要插手。"
             },
             "asset": "char_131_flameb/CN_021"
@@ -323,7 +323,7 @@
             "text": {
                 "en": "Mind your own business.",
                 "jp": "お前はお前の仕事に集中しろ。",
-                "kr": "넌 네 할 일에 집중해.",
+                "kr": "넌 네 할 일에나 집중해.",
                 "cn": "做你该做的事。"
             },
             "asset": "char_131_flameb/CN_022"
@@ -371,7 +371,7 @@
             "text": {
                 "en": "The blade brings the flame.",
                 "jp": "刀と炎、切り裂く。",
-                "kr": "검과 불꽃, 베어주마!",
+                "kr": "칼과 불꽃이, 지나가니.",
                 "cn": "刀与火，先行。"
             },
             "asset": "char_131_flameb/CN_025"
@@ -387,7 +387,7 @@
             "text": {
                 "en": "The bone falls with blood.",
                 "jp": "血と骨、塵となれ。",
-                "kr": "피와 뼈, 먼지가 되어라.",
+                "kr": "피와 뼈는, 먼지가 되리라.",
                 "cn": "血与骨，后至。"
             },
             "asset": "char_131_flameb/CN_026"
@@ -419,7 +419,7 @@
             "text": {
                 "en": "I don't give a damn.",
                 "jp": "俺には関係ないな。",
-                "kr": "나와는 상관없군.",
+                "kr": "훗, 나와는 상관없다.",
                 "cn": "与我无关。"
             },
             "asset": "char_131_flameb/CN_028"
@@ -435,7 +435,7 @@
             "text": {
                 "en": "Did this battle satisfy you?",
                 "jp": "この戦いで満足できたか？",
-                "kr": "이 전투로 만족했나? {@nickname}?",
+                "kr": "이 전투는 만족했나? {@nickname}?",
                 "cn": "这场战斗满足你了吗，{@nickname}？"
             },
             "asset": "char_131_flameb/CN_029"
@@ -451,7 +451,7 @@
             "text": {
                 "en": "A weak enemy proves nothing. Search for a worthier battlefield.",
                 "jp": "羸弱な相手を片付けても何の証明にもならない。さらに過酷な戦場に連れて行ってくれ。",
-                "kr": "나약한 상대를 해치워 봤자 아무 증명도 되지 않아. 더 가혹한 전장으로 데려가라.",
+                "kr": "나약한 상대를 해치워 봤자 아무것도 증명할 수 없다. 더 가혹한 전장으로 데려가라.",
                 "cn": "羸弱的敌人证明不了什么，去寻找更严苛的战场吧。"
             },
             "asset": "char_131_flameb/CN_030"
@@ -515,7 +515,7 @@
             "text": {
                 "en": "Yeah?",
                 "jp": "ほぉ…？",
-                "kr": "호오…?",
+                "kr": "호오……?",
                 "cn": "哦？"
             },
             "asset": "char_131_flameb/CN_034"
@@ -581,11 +581,16 @@
         "jp": {
             "native": "中村悠一",
             "global": "Yuichi Nakamura"
+        },
+        "kr": {
+            "native": "원종준",
+            "global": "Won Jong-jun"
         }
     },
     "availability": [
         "en",
         "cn",
-        "jp"
+        "jp",
+        "kr"
     ]
 }
