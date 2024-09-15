@@ -1,0 +1,581 @@
+{
+    "charid": "char_4126_fuze",
+    "nameid": "fuze",
+    "names": {
+        "en": "Fuze",
+        "jp": "Fuze",
+        "kr": "Fuze",
+        "cn": "导火索"
+    },
+    "voices": [
+        {
+            "id": "char_4126_fuze_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Right... Let me know if you need anything.",
+                "jp": "わかった……用件があれば言ってくれ。",
+                "kr": "그래…… 뭔가 필요하면 말하도록.",
+                "cn": "嗯......有事你说。"
+            },
+            "asset": "char_4126_fuze/CN_001"
+        },
+        {
+            "id": "char_4126_fuze_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Watch out. There are a lot of dangerous materials in the workroom.",
+                "jp": "気を付けろ。作業場には、危険な物が山ほどあるからな。",
+                "kr": "조심해, 작업실엔 위험한 물건이 많으니까.",
+                "cn": "工作间里危险物品很多，留神。"
+            },
+            "asset": "char_4126_fuze/CN_002"
+        },
+        {
+            "id": "char_4126_fuze_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Engineering Department... Not bad. The head of the department, though... A bit too talkative.",
+                "jp": "エンジニア部は……悪くない場所だ。しかし、あそこのトップはというと……少々饒舌すぎる。",
+                "kr": "엔지니어링부는…… 나쁘지 않았어. 그저 담당자가 조금…… 말이 많더군.",
+                "cn": "工程部......还不错，就是那里的头儿......有点太能说了。"
+            },
+            "asset": "char_4126_fuze/CN_003"
+        },
+        {
+            "id": "char_4126_fuze_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "I like machines. They don't talk, but they're always honest with their readings.",
+                "jp": "俺は機械が好きだ。こいつらは言葉を話さないが、プログラムには忠実だからな。",
+                "kr": "난 기계가 좋아. 말은 하지 않지만, 수치는 항상 정직하거든.",
+                "cn": "我喜欢机器，它们不说话，但上面的读数总是很坦诚。"
+            },
+            "asset": "char_4126_fuze/CN_004"
+        },
+        {
+            "id": "char_4126_fuze_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Chaos is only an enemy if you're unable to adapt.",
+                "jp": "混沌が敵に回るのは、それに適応できていない時だけだ。",
+                "kr": "혼돈이란 네가 적응할 수 없는 적에 불과하다.",
+                "cn": "只有在你无法适应的时候，混乱才会成为敌人。"
+            },
+            "asset": "char_4126_fuze/CN_005"
+        },
+        {
+            "id": "char_4126_fuze_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "When the approaching chaos endangers your loved ones, the thing to do isn't to protect them. It's... to keep them as far away from you as possible.",
+                "jp": "迫り来る混沌が愛する者を危険にさらしている時、なすべきことは彼らを守ることじゃなく……できるだけ自分から遠ざけることだ。",
+                "kr": "다가오는 혼돈이 네가 사랑하는 이들을 위협한다면, 네가 해야 할 일은 그들을 지키는 게 아니라…… 가능한 한 네게서 멀리 떨어뜨려 놓는 거다.",
+                "cn": "当你面临的混乱危及你所爱的人，你该做的不是保护他们，而是......让他们远离你。"
+            },
+            "asset": "char_4126_fuze/CN_006"
+        },
+        {
+            "id": "char_4126_fuze_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "No, my comms equipment's fine. Nothing to worry.",
+                "jp": "いいや、俺の通信機に問題はない。心配することはないさ。",
+                "kr": "아니, 내 통신 장비는 멀쩡해, 걱정할 거 없어.",
+                "cn": "不，我的通讯设备没有损坏，你多虑了。"
+            },
+            "asset": "char_4126_fuze/CN_007"
+        },
+        {
+            "id": "char_4126_fuze_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "You want me to say something? Uh, that's the hardest part.",
+                "jp": "何か話せと？やれやれ、そういうのが一番苦手なんだ。",
+                "kr": "뭐라고 말 좀 해 보라고? 으음, 그게 가장 어려운 주문이다만.",
+                "cn": "让我随便说点什么？呃，这才是最困难的事。"
+            },
+            "asset": "char_4126_fuze/CN_008"
+        },
+        {
+            "id": "char_4126_fuze_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "My hometown? There... the sky is blue, and all the buildings under it are blue, too.",
+                "jp": "俺の故郷？あそこは……広がる空も、その下の建物も、すべてが青いんだ。",
+                "kr": "내 고향? 거긴…… 하늘이 파랬지, 하늘 아래의 건물들도 파랬고.",
+                "cn": "你问我的家乡？那里......天空是蓝色的，天空下的建筑也是蓝色的。"
+            },
+            "asset": "char_4126_fuze/CN_009"
+        },
+        {
+            "id": "char_4126_fuze_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Good... I'll find something to do.",
+                "jp": "さて……何かやることでも見つけるか。",
+                "kr": "좋아…… 뭐든 할 일을 찾아보지.",
+                "cn": "好......我会自己找事做的。"
+            },
+            "asset": "char_4126_fuze/CN_010"
+        },
+        {
+            "id": "char_4126_fuze_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Rainbow Operator, codename Fuze. I've said everything I need to. Let's get to it.",
+                "jp": "レインボー小隊メンバー、コードネームはFuzeだ。言うことは言った、行くぞ。",
+                "kr": "레인보우 팀 오퍼레이터, 코드네임 Fuze. 할 말은 다 했으니 이제 시작해볼까.",
+                "cn": "彩虹小队成员，代号导火索。该说的已经说了，行动吧。"
+            },
+            "asset": "char_4126_fuze/CN_011"
+        },
+        {
+            "id": "char_4126_fuze_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "No problem. I'll find some time to watch them.",
+                "jp": "了解。時間を見つけて、観てみるよ。",
+                "kr": "문제없다, 나중에 시간을 내서 보도록 하지.",
+                "cn": "没问题，我会抽时间看的。"
+            },
+            "asset": "char_4126_fuze/CN_012"
+        },
+        {
+            "id": "char_4126_fuze_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Good. Thank you.",
+                "jp": "良いな。ありがとう。",
+                "kr": "좋군…… 고맙다.",
+                "cn": "好事......谢谢。"
+            },
+            "asset": "char_4126_fuze/CN_013"
+        },
+        {
+            "id": "char_4126_fuze_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Do I need to give some crowd a speech? No? Good.",
+                "jp": "大勢の前でスピーチでもしないとならないか？いらない？それは良かった。",
+                "kr": "사람들 앞에서 뭔가 말을 해야 하는 건가? 아니라고? 다행이군.",
+                "cn": "我需要在很多人面前说些什么吗？不用......太好了。"
+            },
+            "asset": "char_4126_fuze/CN_014"
+        },
+        {
+            "id": "char_4126_fuze_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "At your command.",
+                "jp": "指示をくれ。",
+                "kr": "명령을.",
+                "cn": "随时待命。"
+            },
+            "asset": "char_4126_fuze/CN_017"
+        },
+        {
+            "id": "char_4126_fuze_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Do exactly as I say.",
+                "jp": "俺の指示通り動くように。",
+                "kr": "내가 말하는 대로만 해라.",
+                "cn": "按我说的去做。"
+            },
+            "asset": "char_4126_fuze/CN_018"
+        },
+        {
+            "id": "char_4126_fuze_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Enough talk. Now we act.",
+                "jp": "お喋りは終わりだ。行動開始。",
+                "kr": "잡담은 그만, 움직일 때다.",
+                "cn": "闲聊到此为止，现在开始行动。"
+            },
+            "asset": "char_4126_fuze/CN_019"
+        },
+        {
+            "id": "char_4126_fuze_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Матрёшка готов поручить.",
+                "jp": "「マトリョーシカ」、いつでも行けるぞ。",
+                "kr": "'마트료시카' 준비 완료.",
+                "cn": "“套娃”准备好了。"
+            },
+            "asset": "char_4126_fuze/CN_020"
+        },
+        {
+            "id": "char_4126_fuze_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Focus on the task at hand.",
+                "jp": "目の前のタスクに集中しろ。",
+                "kr": "작전에 집중해라.",
+                "cn": "专心做手头的任务。"
+            },
+            "asset": "char_4126_fuze/CN_021"
+        },
+        {
+            "id": "char_4126_fuze_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Remember our objectives.",
+                "jp": "目的を忘れるなよ。",
+                "kr": "우리의 목표를 기억해라.",
+                "cn": "记住我们的目标。"
+            },
+            "asset": "char_4126_fuze/CN_022"
+        },
+        {
+            "id": "char_4126_fuze_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Lower your voice.",
+                "jp": "声を落とせ。",
+                "kr": "목소리를 낮춰.",
+                "cn": "小点声。"
+            },
+            "asset": "char_4126_fuze/CN_023"
+        },
+        {
+            "id": "char_4126_fuze_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Remain silent.",
+                "jp": "静かにしてろ。",
+                "kr": "침묵을 유지하도록.",
+                "cn": "保持静默。"
+            },
+            "asset": "char_4126_fuze/CN_024"
+        },
+        {
+            "id": "char_4126_fuze_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "With me!",
+                "jp": "ついてこい！",
+                "kr": "따라와!",
+                "cn": "跟我来！"
+            },
+            "asset": "char_4126_fuze/CN_025"
+        },
+        {
+            "id": "char_4126_fuze_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Remain alert.",
+                "jp": "警戒を怠るな。",
+                "kr": "경계해!",
+                "cn": "保持警觉。"
+            },
+            "asset": "char_4126_fuze/CN_026"
+        },
+        {
+            "id": "char_4126_fuze_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Stay focused.",
+                "jp": "集中しろ。",
+                "kr": "집중해!",
+                "cn": "集中注意力。"
+            },
+            "asset": "char_4126_fuze/CN_027"
+        },
+        {
+            "id": "char_4126_fuze_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Hold position.",
+                "jp": "ここは守り抜く。",
+                "kr": "현 위치를 지켜.",
+                "cn": "坚守阵地。"
+            },
+            "asset": "char_4126_fuze/CN_028"
+        },
+        {
+            "id": "char_4126_fuze_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Every action builds our chances to win.",
+                "jp": "すべての行動が、勝利を掴むチャンスに繋がるんだ。",
+                "kr": "모든 행동들이 우리에게 승리의 기회를 안겨 주었군.",
+                "cn": "每一次行动都为我们创造了获胜的机会。"
+            },
+            "asset": "char_4126_fuze/CN_029"
+        },
+        {
+            "id": "char_4126_fuze_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Asset secured.",
+                "jp": "人質は無事だ。",
+                "kr": "자산을 확보했다.",
+                "cn": "人质安全了。"
+            },
+            "asset": "char_4126_fuze/CN_030"
+        },
+        {
+            "id": "char_4126_fuze_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "On your feet, your wounds are not fatal.",
+                "jp": "立て。その傷は致命的なものじゃない。",
+                "kr": "얼른 일어나, 치명적인 상처는 아니니.",
+                "cn": "站起来，你的伤并不致命。"
+            },
+            "asset": "char_4126_fuze/CN_031"
+        },
+        {
+            "id": "char_4126_fuze_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Move, right now!",
+                "jp": "逃げろ、今すぐに！",
+                "kr": "움직여! 당장!",
+                "cn": "快跑，就现在！"
+            },
+            "asset": "char_4126_fuze/CN_032"
+        },
+        {
+            "id": "char_4126_fuze_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "This place isn't bad.",
+                "jp": "悪くない場所だ。",
+                "kr": "나쁘지 않은 곳이군.",
+                "cn": "这地方不赖。"
+            },
+            "asset": "char_4126_fuze/CN_033"
+        },
+        {
+            "id": "char_4126_fuze_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Don't do that...",
+                "jp": "勘弁してくれ……",
+                "kr": "그만……",
+                "cn": "别这样......"
+            },
+            "asset": "char_4126_fuze/CN_034"
+        },
+        {
+            "id": "char_4126_fuze_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "I made some pilaf. Want some?",
+                "jp": "プロフを作ったんだが、お前も食べないか？",
+                "kr": "필라프를 만들었는데, 먹어 보겠나?",
+                "cn": "我做了抓饭，你要来点吗？"
+            },
+            "asset": "char_4126_fuze/CN_036"
+        },
+        {
+            "id": "char_4126_fuze_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4126_fuze/CN_037"
+        },
+        {
+            "id": "char_4126_fuze_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Hey...",
+                "jp": "よう……",
+                "kr": "이봐……",
+                "cn": "嗨......"
+            },
+            "asset": "char_4126_fuze/CN_042"
+        }
+    ],
+    "actors": {
+        "linkage": {
+            "native": "Gabriel Furman",
+            "global": "Gabriel Furman"
+        }
+    },
+    "availability": [
+        "linkage"
+    ]
+}

@@ -15,7 +15,8 @@
 
   const regionalLangs = ["ita", "cn_topolect"]
   const regionalLang_sans_suffix = ["ger", "rus"]
-  const teamrainbow = ["tachak", "blitz", "ash", "rfrost"]
+  const teamrainbow = ["tachak", "blitz", "ash", "rfrost", 
+    "ela", "iana", "rdoc", "fuze"]
 
   const nameMapping = {
     "cn_topolect": "CN REG",

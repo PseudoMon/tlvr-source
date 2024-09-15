@@ -1,0 +1,581 @@
+{
+    "charid": "char_4124_iana",
+    "nameid": "iana",
+    "names": {
+        "en": "Iana",
+        "jp": "Iana",
+        "kr": "Iana",
+        "cn": "双月"
+    },
+    "voices": [
+        {
+            "id": "char_4124_iana_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Not sure if it's really me standing before you? Here's a hint: the Gemini doesn't talk.",
+                "jp": "目の前にいるのが、本物の私かどうか判断がつかない？なら、ヒントをあげるわ。ジェミニ・レプリケーターは言葉を話せないの。",
+                "kr": "네 앞에 서 있는 게 정말 나인지 확신을 못하겠다고? 힌트를 줄게, 제미니는 말을 하지 않아",
+                "cn": "怀疑我不在你面前？拜托，双子分身可不会说话。"
+            },
+            "asset": "char_4124_iana/CN_001"
+        },
+        {
+            "id": "char_4124_iana_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Multitasking has never been a problem for me.",
+                "jp": "昔から、マルチタスクは得意なの。",
+                "kr": "멀티태스킹은 내게 단 한 번도 문제가 된 적이 없어.",
+                "cn": "对我来说，一心多用从来都不是难事。"
+            },
+            "asset": "char_4124_iana/CN_002"
+        },
+        {
+            "id": "char_4124_iana_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Intel is half the battle.",
+                "jp": "情報収集は戦いの半分を占めるものよ。",
+                "kr": "정보에 신경을 기울이면, 전투가 더 수월해지지.",
+                "cn": "多花些心思在情报上，有的仗可以打得更轻松。"
+            },
+            "asset": "char_4124_iana/CN_003"
+        },
+        {
+            "id": "char_4124_iana_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "You need to clean your pot regularly, if you want decent coffee.",
+                "jp": "美味しいコーヒーを飲みたいなら、こまめにポットを掃除したほうがいいわ。",
+                "kr": "괜찮은 커피를 마시고 싶다면, 커피포트를 자주 세척하는 게 좋을 거야.",
+                "cn": "最好处理一下你热水壶底的水垢，不然咖啡的味道好不了。"
+            },
+            "asset": "char_4124_iana/CN_004"
+        },
+        {
+            "id": "char_4124_iana_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Seeing is not always believing. Technology reveals the hidden truth.",
+                "jp": "目に映るものが必ずしも真実だとは限らない。テクノロジーは隠された真実を明らかにしてくれるの。",
+                "kr": "눈으로 보이는 게 항상 믿을만한 건 아니지, 기술을 사용해야 숨겨진 진실을 알 수 있어.",
+                "cn": "亲眼所见并不一定可靠，借助设备才能发现隐藏的真相。"
+            },
+            "asset": "char_4124_iana/CN_005"
+        },
+        {
+            "id": "char_4124_iana_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "I've encountered a few difficulties because of my appearance. No more than that, though.",
+                "jp": "今まで、この見た目のせいでちょっと厄介な目には遭ってきたけど、あくまで「ちょっと」のことだったわ。",
+                "kr": "내 외모 때문에 곤란했던 적이야 가끔 있었지. 하지만 그게 다야.",
+                "cn": "异于常人的外表的确给我制造了一些困难，但也仅仅是“一些困难”而已。"
+            },
+            "asset": "char_4124_iana/CN_006"
+        },
+        {
+            "id": "char_4124_iana_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "I'll follow your lead.",
+                "jp": "あなたの指示に従うわ。",
+                "kr": "네 지시를 따르지.",
+                "cn": "我听从你的指挥。"
+            },
+            "asset": "char_4124_iana/CN_007"
+        },
+        {
+            "id": "char_4124_iana_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "I trust your judgment.",
+                "jp": "あなたの判断を信じてる。",
+                "kr": "네 판단을 믿어.",
+                "cn": "我信任你的判断。"
+            },
+            "asset": "char_4124_iana/CN_008"
+        },
+        {
+            "id": "char_4124_iana_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "I wonder what souvenirs I'll take home from this unforgettable journey.",
+                "jp": "この忘れがたい旅から、私はどんなお土産を持ち帰ることになるのかしら。",
+                "kr": "이 잊지 못할 여정 끝에 어떤 걸 기념품으로 챙겨서 돌아가야 할지 고민되는걸.",
+                "cn": "我想我正在一场难忘的旅途之中，不知道最终会带什么样的纪念品回家。"
+            },
+            "asset": "char_4124_iana/CN_009"
+        },
+        {
+            "id": "char_4124_iana_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Hold on, I'll be right back.",
+                "jp": "ちょっと待ってて。すぐに戻るわ。",
+                "kr": "잠깐만, 금방 올게.",
+                "cn": "稍等，我马上回来。"
+            },
+            "asset": "char_4124_iana/CN_010"
+        },
+        {
+            "id": "char_4124_iana_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Code name Iana, Team Rainbow. There's a lot of intel we can share with each other.",
+                "jp": "レインボー小隊メンバー、コードネームはIana。お互い、色々と共有し合える情報がありそうね。",
+                "kr": "레인보우 팀 소속, 코드네임 Iana. 서로 나눌 만한 정보가 많겠어.",
+                "cn": "彩虹小队成员，代号双月。我想我们有很多信息可以相互分享。"
+            },
+            "asset": "char_4124_iana/CN_011"
+        },
+        {
+            "id": "char_4124_iana_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Have you considered holographic recordings?",
+                "jp": "ホログラムでの記録を考えたことはある？",
+                "kr": "홀로그램 녹화는 생각해 봤어?",
+                "cn": "考虑过把录像做成三维的吗？"
+            },
+            "asset": "char_4124_iana/CN_012"
+        },
+        {
+            "id": "char_4124_iana_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "A promotion? Do I get more access permissions?",
+                "jp": "昇進？もっと閲覧権限の高いデータにもアクセスできるってこと？",
+                "kr": "진급? 이걸로 더 높은 정보 액세스 권한을 받을 수 있나?",
+                "cn": "晋升？我可以访问更高权限的资料库了吗？"
+            },
+            "asset": "char_4124_iana/CN_013"
+        },
+        {
+            "id": "char_4124_iana_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Here's hoping this helps me reach more unexplored corners.",
+                "jp": "これで足を踏み入れたことのない場所にも行けるようになるといいんだけど。",
+                "kr": "이게 내가 미지의 땅에 도달하는 데 도움이 되었으면 좋겠는걸.",
+                "cn": "借此机会，我希望能踏足更多尚未探索过的角落。"
+            },
+            "asset": "char_4124_iana/CN_014"
+        },
+        {
+            "id": "char_4124_iana_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Friendly reminder, my hologram doesn't stop bullets.",
+                "jp": "一つだけ注意。ホログラムは銃弾を弾かないわよ。",
+                "kr": "혹시나 해서 알려주는데, 내 홀로그램은 총알을 막지 못해.",
+                "cn": "友情提示，我的全息投影可挡不住子弹。"
+            },
+            "asset": "char_4124_iana/CN_017"
+        },
+        {
+            "id": "char_4124_iana_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Gemini will show the way.",
+                "jp": "ホログラムが案内してくれるわ。",
+                "kr": "제미니가 길을 알려 줄 거야.",
+                "cn": "双子分身会指引方向。"
+            },
+            "asset": "char_4124_iana/CN_018"
+        },
+        {
+            "id": "char_4124_iana_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Rage against the dying of the light.",
+                "jp": "光が絶えゆくことに怒りを抱きなさい。",
+                "kr": "저물어가는 빛에 분노하라.",
+                "cn": "怒斥光明的消逝。"
+            },
+            "asset": "char_4124_iana/CN_019"
+        },
+        {
+            "id": "char_4124_iana_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Target detected.",
+                "jp": "ターゲット確認。",
+                "kr": "목표 발견.",
+                "cn": "发现目标。"
+            },
+            "asset": "char_4124_iana/CN_020"
+        },
+        {
+            "id": "char_4124_iana_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Ready when you are.",
+                "jp": "準備よし。",
+                "kr": "준비는 되어 있어.",
+                "cn": "我准备好了，你呢？"
+            },
+            "asset": "char_4124_iana/CN_021"
+        },
+        {
+            "id": "char_4124_iana_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Gathering intel.",
+                "jp": "情報収集中。",
+                "kr": "정보 수집 중.",
+                "cn": "正在收集情报。"
+            },
+            "asset": "char_4124_iana/CN_022"
+        },
+        {
+            "id": "char_4124_iana_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Cover me.",
+                "jp": "援護お願い。",
+                "kr": "엄호해 줘.",
+                "cn": "掩护我。"
+            },
+            "asset": "char_4124_iana/CN_023"
+        },
+        {
+            "id": "char_4124_iana_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Mic-check successful.",
+                "jp": "マイクチェック完了。",
+                "kr": "마이크 체크 정상.",
+                "cn": "麦克风测试正常。"
+            },
+            "asset": "char_4124_iana/CN_024"
+        },
+        {
+            "id": "char_4124_iana_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Stay out of sight!",
+                "jp": "隠れて！",
+                "kr": "엄폐해!",
+                "cn": "注意隐蔽！"
+            },
+            "asset": "char_4124_iana/CN_025"
+        },
+        {
+            "id": "char_4124_iana_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Stay close!",
+                "jp": "そばを離れないで！",
+                "kr": "따라와!",
+                "cn": "跟紧我！"
+            },
+            "asset": "char_4124_iana/CN_026"
+        },
+        {
+            "id": "char_4124_iana_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Resetting.",
+                "jp": "再配置を。",
+                "kr": "리셋 중.",
+                "cn": "重新部署。"
+            },
+            "asset": "char_4124_iana/CN_027"
+        },
+        {
+            "id": "char_4124_iana_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Hostile in my sights!",
+                "jp": "敵を捕捉した！",
+                "kr": "시야 내에 적 발견!",
+                "cn": "敌人进入视野！"
+            },
+            "asset": "char_4124_iana/CN_028"
+        },
+        {
+            "id": "char_4124_iana_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "All systems are complementary, if you know how to connect them.",
+                "jp": "繋ぎ方さえ分かっていれば、全てのシステムは相補的なものよ。",
+                "kr": "연결 방법을 알고 있다면, 모든 시스템은 상호 보완적이지.",
+                "cn": "如果知晓如何连接，所有系统都能互相补足。"
+            },
+            "asset": "char_4124_iana/CN_029"
+        },
+        {
+            "id": "char_4124_iana_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Exactly how it should be.",
+                "jp": "理想的な結果ね。",
+                "kr": "예상대로 끝났군.",
+                "cn": "就该是这样。"
+            },
+            "asset": "char_4124_iana/CN_030"
+        },
+        {
+            "id": "char_4124_iana_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "You've still got fight in you, show them what you're made of.",
+                "jp": "闘志は残っているようね。奴らにあなたの底力を見せてやりなさい。",
+                "kr": "아직 싸울 수 있잖아, 놈들에게 본때를 보여 주라고.",
+                "cn": "你的斗志仍然旺盛，给他们看看你真正的能耐。"
+            },
+            "asset": "char_4124_iana/CN_031"
+        },
+        {
+            "id": "char_4124_iana_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Your story doesn't end here.",
+                "jp": "あなたの物語は、こんなところでは終わらないわ。",
+                "kr": "네 이야기는 여기서 끝나지 않아.",
+                "cn": "你的故事不会在这里结束。"
+            },
+            "asset": "char_4124_iana/CN_032"
+        },
+        {
+            "id": "char_4124_iana_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "If that's how you want it.",
+                "jp": "あなたが望むなら。",
+                "kr": "네가 그렇게까지 이걸 원한다면야.",
+                "cn": "如果你非要这样的话。"
+            },
+            "asset": "char_4124_iana/CN_033"
+        },
+        {
+            "id": "char_4124_iana_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Come on.",
+                "jp": "ほら、もうやめて。",
+                "kr": "제발 좀.",
+                "cn": "拜托。"
+            },
+            "asset": "char_4124_iana/CN_034"
+        },
+        {
+            "id": "char_4124_iana_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Come on, I'll help.",
+                "jp": "ほら、私も手伝うから。",
+                "kr": "자, 내가 도와줄게.",
+                "cn": "撑住，我来帮忙了。"
+            },
+            "asset": "char_4124_iana/CN_036"
+        },
+        {
+            "id": "char_4124_iana_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4124_iana/CN_037"
+        },
+        {
+            "id": "char_4124_iana_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Ready for more action?",
+                "jp": "準備はできてる？",
+                "kr": "준비됐어? 이제 움직여볼까?",
+                "cn": "准备好行动了吗？"
+            },
+            "asset": "char_4124_iana/CN_042"
+        }
+    ],
+    "actors": {
+        "linkage": {
+            "native": "Clare McConnell",
+            "global": "Clare McConnell"
+        }
+    },
+    "availability": [
+        "linkage"
+    ]
+}

@@ -1,0 +1,581 @@
+{
+    "charid": "char_4123_ela",
+    "nameid": "ela",
+    "names": {
+        "en": "Ela",
+        "jp": "Ela",
+        "kr": "Ela",
+        "cn": "艾拉"
+    },
+    "voices": [
+        {
+            "id": "char_4123_ela_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Since you're stuck here sifting through documents, I might as well help you solve a few problems around the office.",
+                "jp": "あなたが書類精査に手間取ってる間に、オフィス周りの問題を解決してあげるのもいいかもね。",
+                "kr": "네가 여기 박혀서 문서나 뒤적거리고 있어야 하는 신세라면, 사무실 주변의 문제들 몇 가지 정도는 내가 도와주도록 하지.",
+                "cn": "既然你必须坐在这儿处理文件，我可以去帮你应付一些需要当场解决的问题。"
+            },
+            "asset": "char_4123_ela/CN_001"
+        },
+        {
+            "id": "char_4123_ela_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Hitting supply lines does a whole lot more damage than taking out people.",
+                "jp": "単に人間を制圧するより、補給路を攻撃したほうがよほど打撃を与えられるものよ。",
+                "kr": "보급선을 타격하는 게 병력을 처치하는 것보다 더욱 효과적이지.",
+                "cn": "打击补给线比压制人员造成的伤害更大。"
+            },
+            "asset": "char_4123_ela/CN_002"
+        },
+        {
+            "id": "char_4123_ela_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "If you ask me, your office is on the bland side. Just hit me up if you ever want to mix things up a little.",
+                "jp": "私に言わせれば、あなたのオフィスはちょっと地味ね。もう少しアクセントを加えたくなったら、いつでも声をかけてちょうだい。",
+                "kr": "굳이 말하자면 네 사무실은 밋밋하단 말이지. 스타일을 바꾸고 싶다면 언제든 내게 말하라고.",
+                "cn": "我觉得你的办公室内饰有些乏味了。要是想换个风格，可以随时来找我。"
+            },
+            "asset": "char_4123_ela/CN_003"
+        },
+        {
+            "id": "char_4123_ela_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "The whole 'cozy family relationship' thing isn't for me.",
+                "jp": "「親密な家族関係」みたいなものは、性に合わないの。",
+                "kr": "포근한 가족관계 같은 건 나랑 안 맞아.",
+                "cn": "温情脉脉的家庭关系不适合我。"
+            },
+            "asset": "char_4123_ela/CN_004"
+        },
+        {
+            "id": "char_4123_ela_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "I get a lot more out of talking to strangers than I do from that 'self-help' shtick.",
+                "jp": "いわゆる「自己啓発」なんかより、見知らぬ人とのお喋りのほうがずっと得るものが多いのよね。",
+                "kr": "난 소위 '자기계발' 같은 것보단 낯선 사람이랑 얘기하는 편이 더 생산적이더라.",
+                "cn": "相比所谓的“自我提升”，和陌生人聊聊能让我受益更多。"
+            },
+            "asset": "char_4123_ela/CN_005"
+        },
+        {
+            "id": "char_4123_ela_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "We define ourselves by symbols, but those symbols can be perverted. Reused. Reworked, reframed, remade. In a word, stolen. Who are you then?",
+                "jp": "私たちは自らをシンボルによって定義するけれど、そのシンボルは歪められることもある。再利用され、再加工され、再解釈され、再構築されて――いわば盗まれてしまったとして、その時、あなたは何者になるのかしら？",
+                "kr": "우리는 기호로 자신을 정의하지. 하지만 이러한 기호는 왜곡될 수 있어. 가공되고, 재사용되며, 재구성될 수 있지…… 그러니까, 한 마디로 훔쳐질 수도 있다는 거야. 그렇다면 넌 누구지?",
+                "cn": "我们用符号定义自己，但这些符号会被扭曲，被加工，被重述——一句话，会失去原有的意义。而在符号失去意义之后，你自己又是谁？"
+            },
+            "asset": "char_4123_ela/CN_006"
+        },
+        {
+            "id": "char_4123_ela_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "I don't mind helping you run errands out of combat, but on the battlefield, I need ample room to call the shots.",
+                "jp": "戦闘以外の雑事を手伝うのは構わないけれど、戦場では判断を下すに足る余裕を保たせてもらいたいものね。",
+                "kr": "전투 중이 아닐 땐 네 심부름 정도야 문제없지. 하지만 전장에선, 내게 충분한 결정권을 줬으면 하는군.",
+                "cn": "我不介意在战斗之外帮你做些琐事，但在战场上，我需要足够的决策权。"
+            },
+            "asset": "char_4123_ela/CN_007"
+        },
+        {
+            "id": "char_4123_ela_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "When someone can't find fault with your results and has to resort to nitpicking your attitude, that tells you everything you need to know about them.",
+                "jp": "あなたの出した結果に何の落ち度もなかったとして、代わりに態度のあら探しをしてくるような人がいたら、それだけでそいつの器は知れたものよ。",
+                "kr": "누군가가 네 성과에 대해 지적할 거리가 없는 나머지 대신 태도나 지적하기 시작했다면, 그자의 밑천은 다 까발려진 셈이지.",
+                "cn": "当一个人没法对你的成果挑刺，转而开始批评你的态度，你就知道他究竟有几斤几两了。"
+            },
+            "asset": "char_4123_ela/CN_008"
+        },
+        {
+            "id": "char_4123_ela_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "To call the shots, you need to prove that you've got what it takes – and you've certainly done that. So, where are you sending me next?",
+                "jp": "指揮を執るには、それに足る資質を証明する必要があるけれど、あなたはそれを十分示してくれた――それで、次はどこへ向かってほしいの？",
+                "kr": "명령을 내리려면 먼저 본인의 역량을 증명해야만 하지, 그리고 넌 그걸 해냈어. 자, 다음엔 날 어디로 보낼 셈이지?",
+                "cn": "发号施令的前提是你得证明自己足够出色，而你显然够格。好了，接下来要派我去哪？"
+            },
+            "asset": "char_4123_ela/CN_009"
+        },
+        {
+            "id": "char_4123_ela_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Your workload is clearly excessive, even by the highest standards. Take a rest.",
+                "jp": "どんなに甘く見積もっても、あなたはやっぱり働きすぎよ。休んでちょうだい。",
+                "kr": "아무리 높게 기준을 잡더라도 네 업무량은 과도해. 좀 쉬라고.",
+                "cn": "即使按照最高标准，你的工作也过量了。好好睡吧。"
+            },
+            "asset": "char_4123_ela/CN_010"
+        },
+        {
+            "id": "char_4123_ela_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Codename Ela, member of Team Rainbow. Just give me my objective, then sit back and wait for the good news.",
+                "jp": "レインボー小隊メンバー、コードネームはElaよ。任務目標さえ教えてくれたら、あとは座ってゆっくり良い報告を待っててくれて構わないわ。",
+                "kr": "레인보우 팀 멤버, 코드네임 Ela다. 목표만 알려 줘. 그리고는 편히 앉아서 좋은 소식이나 기다리라고.",
+                "cn": "彩虹小队成员，代号艾拉。把目标告诉我，然后静等任务完成就好。"
+            },
+            "asset": "char_4123_ela/CN_011"
+        },
+        {
+            "id": "char_4123_ela_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Picked up a few new tricks.",
+                "jp": "いくらかコツを掴んだわ。",
+                "kr": "새로운 트릭을 몇 가지 배웠군.",
+                "cn": "学到了一些新东西。"
+            },
+            "asset": "char_4123_ela/CN_012"
+        },
+        {
+            "id": "char_4123_ela_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "A medal? Thanks. Workmanship's not bad at all, as far as decorations go.",
+                "jp": "メダルをくれるの？ありがとう。装飾に限って言うなら、悪くない出来ね。",
+                "kr": "메달이라고? 고마워, 장식품으로선 괜찮은 솜씨군.",
+                "cn": "勋章？谢了，作为装饰品，工艺还挺不错。"
+            },
+            "asset": "char_4123_ela/CN_013"
+        },
+        {
+            "id": "char_4123_ela_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Together, we can shake the very stars from the sky.",
+                "jp": "共に力を合わせれば、空の星々だって揺り動かせそうね。",
+                "kr": "함께라면, 우리는 저 하늘 위 별들도 흔들 수 있어.",
+                "cn": "只要齐心合力，我们就能撼动天际繁星。"
+            },
+            "asset": "char_4123_ela/CN_014"
+        },
+        {
+            "id": "char_4123_ela_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "At least make it challenging.",
+                "jp": "少しは歯ごたえのある任務だといいけど。",
+                "kr": "적어도 좀 도전적이었으면 좋겠는데 말이지.",
+                "cn": "至少让任务有点挑战性。"
+            },
+            "asset": "char_4123_ela/CN_017"
+        },
+        {
+            "id": "char_4123_ela_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Time to show you what I can do.",
+                "jp": "私の力を見せる時ね。",
+                "kr": "내가 뭘 할 수 있는지 보여 줄 때가 왔군.",
+                "cn": "是时候让你见识一下我的实力了。"
+            },
+            "asset": "char_4123_ela/CN_018"
+        },
+        {
+            "id": "char_4123_ela_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "No time to waste.",
+                "jp": "時間は無駄にはできないわ。",
+                "kr": "낭비할 시간은 없다!",
+                "cn": "没有时间可以浪费了。"
+            },
+            "asset": "char_4123_ela/CN_019"
+        },
+        {
+            "id": "char_4123_ela_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "I'll make you regret this.",
+                "jp": "後悔させてあげる。",
+                "kr": "후회하게 만들어 주지.",
+                "cn": "我会让你们后悔的。"
+            },
+            "asset": "char_4123_ela/CN_020"
+        },
+        {
+            "id": "char_4123_ela_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "A tooth for a tooth.",
+                "jp": "歯には歯を。",
+                "kr": "이에는 이.",
+                "cn": "以牙还牙。"
+            },
+            "asset": "char_4123_ela/CN_021"
+        },
+        {
+            "id": "char_4123_ela_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "An eye for an eye.",
+                "jp": "目には目を。",
+                "kr": "눈에는 눈.",
+                "cn": "以眼还眼。"
+            },
+            "asset": "char_4123_ela/CN_022"
+        },
+        {
+            "id": "char_4123_ela_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "I got this.",
+                "jp": "任せて。",
+                "kr": "이건 내가 맡지.",
+                "cn": "我来搞定。"
+            },
+            "asset": "char_4123_ela/CN_023"
+        },
+        {
+            "id": "char_4123_ela_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Idziemy.",
+                "jp": "行くわよ。",
+                "kr": "가자.",
+                "cn": "我们走。"
+            },
+            "asset": "char_4123_ela/CN_024"
+        },
+        {
+            "id": "char_4123_ela_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Here's a memento.",
+                "jp": "お土産をあげる。",
+                "kr": "기념품 하나 주지.",
+                "cn": "给你个纪念品。"
+            },
+            "asset": "char_4123_ela/CN_025"
+        },
+        {
+            "id": "char_4123_ela_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "That will slow them down.",
+                "jp": "奴らを足止めするわ。",
+                "kr": "이게 놈들을 늦춰 줄 거다.",
+                "cn": "那会让他们慢下来的。"
+            },
+            "asset": "char_4123_ela/CN_026"
+        },
+        {
+            "id": "char_4123_ela_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Eat this!",
+                "jp": "これでも食らいなさい！",
+                "kr": "이거나 먹어라!",
+                "cn": "尝尝这个！"
+            },
+            "asset": "char_4123_ela/CN_027"
+        },
+        {
+            "id": "char_4123_ela_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Don't move!",
+                "jp": "動くな！",
+                "kr": "움직이지 마!",
+                "cn": "别动！"
+            },
+            "asset": "char_4123_ela/CN_028"
+        },
+        {
+            "id": "char_4123_ela_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "The end justifies the means.",
+                "jp": "結果を出せば、その手段は正当化されるものよ。",
+                "kr": "결과가 수단을 정당화하는 법.",
+                "cn": "无论手段如何，结果才是一切。"
+            },
+            "asset": "char_4123_ela/CN_029"
+        },
+        {
+            "id": "char_4123_ela_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "I'm sorry, was I too fast for you?",
+                "jp": "ごめんなさい、あなたには速すぎたかしら？",
+                "kr": "미안하군, 내가 너무 빨랐나?",
+                "cn": "抱歉，我对你们来说太快了吗？"
+            },
+            "asset": "char_4123_ela/CN_030"
+        },
+        {
+            "id": "char_4123_ela_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "That's it?",
+                "jp": "それで終わり？",
+                "kr": "이게 끝인가?",
+                "cn": "这就结束了？"
+            },
+            "asset": "char_4123_ela/CN_031"
+        },
+        {
+            "id": "char_4123_ela_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Try to keep up!",
+                "jp": "なんとか持ちこたえて！",
+                "kr": "계속 버텨 줘!",
+                "cn": "努力坚持下去！"
+            },
+            "asset": "char_4123_ela/CN_032"
+        },
+        {
+            "id": "char_4123_ela_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "This place isn't half bad.",
+                "jp": "悪くない場所ね。",
+                "kr": "나쁘지 않은 곳이군.",
+                "cn": "这地方还不坏。"
+            },
+            "asset": "char_4123_ela/CN_033"
+        },
+        {
+            "id": "char_4123_ela_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Do me a favor, don't talk to me.",
+                "jp": "お願いだから話しかけないで。",
+                "kr": "부탁 하나 하지, 말 걸지 마.",
+                "cn": "拜托，我现在不想说话。"
+            },
+            "asset": "char_4123_ela/CN_034"
+        },
+        {
+            "id": "char_4123_ela_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Tell me YOUR story.",
+                "jp": "あなた自身の話をして。",
+                "kr": "네 이야기를 들려줄 수 있나?",
+                "cn": "和我聊聊你自己的故事吧。"
+            },
+            "asset": "char_4123_ela/CN_036"
+        },
+        {
+            "id": "char_4123_ela_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4123_ela/CN_037"
+        },
+        {
+            "id": "char_4123_ela_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "I'm here.",
+                "jp": "待ってたわ。",
+                "kr": "여기 있다.",
+                "cn": "我在这里。"
+            },
+            "asset": "char_4123_ela/CN_042"
+        }
+    ],
+    "actors": {
+        "linkage": {
+            "native": "Monica Nowak",
+            "global": "Monica Nowak"
+        }
+    },
+    "availability": [
+        "linkage"
+    ]
+}

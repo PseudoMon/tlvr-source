@@ -1188,6 +1188,18 @@
         "rating": 5
     },
     {
+        "nameid": "rdoc",
+        "numberid": "4125",
+        "name": {
+            "en": "Doc",
+            "jp": "Doc",
+            "kr": "Doc",
+            "cn": "医生"
+        },
+        "nation": null,
+        "rating": 5
+    },
+    {
         "nameid": "franka",
         "numberid": "106",
         "name": {
@@ -1365,6 +1377,18 @@
             "cn": "布洛卡"
         },
         "nation": "siracusa",
+        "rating": 5
+    },
+    {
+        "nameid": "fuze",
+        "numberid": "4126",
+        "name": {
+            "en": "Fuze",
+            "jp": "Fuze",
+            "kr": "Fuze",
+            "cn": "导火索"
+        },
+        "nation": null,
         "rating": 5
     },
     {
@@ -2688,6 +2712,18 @@
         "rating": 5
     },
     {
+        "nameid": "iana",
+        "numberid": "4124",
+        "name": {
+            "en": "Iana",
+            "jp": "Iana",
+            "kr": "Iana",
+            "cn": "双月"
+        },
+        "nation": null,
+        "rating": 5
+    },
+    {
         "nameid": "angel",
         "numberid": "103",
         "name": {
@@ -3309,6 +3345,18 @@
             "cn": "多萝西"
         },
         "nation": "columbia",
+        "rating": 6
+    },
+    {
+        "nameid": "ela",
+        "numberid": "4123",
+        "name": {
+            "en": "Ela",
+            "jp": "Ela",
+            "kr": "Ela",
+            "cn": "艾拉"
+        },
+        "nation": null,
         "rating": 6
     },
     {

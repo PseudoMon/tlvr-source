@@ -1,0 +1,581 @@
+{
+    "charid": "char_4125_rdoc",
+    "nameid": "rdoc",
+    "names": {
+        "en": "Doc",
+        "jp": "Doc",
+        "kr": "Doc",
+        "cn": "医生"
+    },
+    "voices": [
+        {
+            "id": "char_4125_rdoc_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Here are the files, and this is your coffee. No need to thank me.",
+                "jp": "書類をどうぞ。君の分のコーヒーも。ああ、お礼は結構だ。",
+                "kr": "이건 서류, 그리고 이건 커피. 감사는 됐어.",
+                "cn": "这是你需要的文件，这是给你带的咖啡，不用谢。"
+            },
+            "asset": "char_4125_rdoc/CN_001"
+        },
+        {
+            "id": "char_4125_rdoc_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Yes…? Oh! Sorry Doctor, I thought an operator was calling out to me.",
+                "jp": "何か……？おっと、すまないドクター。てっきり、君ではなく私が呼ばれたのだと思ってしまった。",
+                "kr": "무슨 일이지? ……앗! 미안하군 박사, 다른 오퍼레이터가 날 부르는 줄 알았지 뭔가.",
+                "cn": "有什么事情吗......哦！抱歉，博士，我还以为刚刚那位干员是喊我来着。"
+            },
+            "asset": "char_4125_rdoc/CN_002"
+        },
+        {
+            "id": "char_4125_rdoc_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "If you can hold a scalpel, you can hold a gun. Never doubt the steadiness of a surgeon's hand.",
+                "jp": "メスを持てるなら、銃だって持てる。外科医の手の安定感を疑ってもらっては困るな。",
+                "kr": "메스를 쥘 수 있다면 총도 쥘 수 있는 법. 의사의 손이 얼마나 안정적일지에 대해서는 의심치 말도록.",
+                "cn": "能拿得起柳叶刀就能端得起枪，永远别怀疑一个医生的手有多稳。"
+            },
+            "asset": "char_4125_rdoc/CN_003"
+        },
+        {
+            "id": "char_4125_rdoc_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Neither sickness nor the enemy can take from me what I want to protect.",
+                "jp": "相手が病気だろうと敵だろうと、私が守りたいと願うものを奪わせはしない。",
+                "kr": "병마도 적도, 그 무엇도 내가 지키려는 것을 앗아갈 수는 없을 것이다.",
+                "cn": "我会竭尽全力拯救目标，不论是伤病还是敌人，都不能将他们从我手中夺走。"
+            },
+            "asset": "char_4125_rdoc/CN_004"
+        },
+        {
+            "id": "char_4125_rdoc_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "When you have walked with death, you learn to appreciate life.",
+                "jp": "死と共に歩んだ経験を持つ者は、生を尊ぶようになる。",
+                "kr": "죽음과 함께하면, 삶에 감사하는 법을 배우게 되는 법이지.",
+                "cn": "人步入战场，与死亡同行，便会明白生命的宝贵。"
+            },
+            "asset": "char_4125_rdoc/CN_005"
+        },
+        {
+            "id": "char_4125_rdoc_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "I've learned from experience that the place to save lives is in the field, not an office. And sometimes, the only way to save a life is to take one.",
+                "jp": "経験から学んだのは、命を救うためにはオフィスではなく、現場に立たなければならないということ。そして時には、命を救うため、命を奪うことだ。",
+                "kr": "내가 경험을 통해 배운 것은, 생명을 살리는 일은 수술실 안이 아닌, 전장에서 이루어진다는 것이다. 그리고 때로는, 하나의 생명을 살리는 유일한 방법은 다른 하나의 생명을 앗아가야만 한다는 사실도.",
+                "cn": "过去的经验告诉我，想要救死扶伤就该亲临现场，而不是坐在办公室里。而有时候，拯救生命的唯一手段，是夺走另外一个生命。"
+            },
+            "asset": "char_4125_rdoc/CN_006"
+        },
+        {
+            "id": "char_4125_rdoc_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "My job is to keep you alive. Make it as hard as you like.",
+                "jp": "私の仕事は、君を生かし続けることだ。無論、それを好きなだけ難しくしてもらっても構わない。",
+                "kr": "내 임무는 널 살리는 것이지, 얼마든지 시험해 보라고.",
+                "cn": "我的工作是保护你的人身安全，我不介意你给我来点挑战。"
+            },
+            "asset": "char_4125_rdoc/CN_007"
+        },
+        {
+            "id": "char_4125_rdoc_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Not a fan of your worried face. What's the matter?",
+                "jp": "君の浮かない顔を見るのは好きじゃない。何かあったのか？",
+                "kr": "찡그린 표정이 마음에 들지 않는군, 무슨 일이지?",
+                "cn": "发生什么了？我可不喜欢看人们愁眉不展的样子。"
+            },
+            "asset": "char_4125_rdoc/CN_008"
+        },
+        {
+            "id": "char_4125_rdoc_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Doctor. I'm so glad we found you.",
+                "jp": "ドクター。君に出会えて本当に良かったよ。",
+                "kr": "박사, 너와 만나서 참으로 다행이야.",
+                "cn": "博士，我很庆幸我们找到了你。"
+            },
+            "asset": "char_4125_rdoc/CN_009"
+        },
+        {
+            "id": "char_4125_rdoc_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "When was the last time you took a break? You need to stop working.",
+                "jp": "最後に休憩を取ったのはいつだ？すぐに仕事を止めなさい。",
+                "kr": "마지막으로 휴식을 취한 게 언제지? 지금 당장 일을 멈추도록.",
+                "cn": "快停下手头的工作吧，你上次休息是什么时候？"
+            },
+            "asset": "char_4125_rdoc/CN_010"
+        },
+        {
+            "id": "char_4125_rdoc_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Code name Doc, Team Rainbow. I'll protect you.",
+                "jp": "レインボー小隊メンバー、コードネームはDocだ。君のことを守ってみせよう。",
+                "kr": "레인보우 팀 소속, 코드네임 Doc. 널 보호해 주지.",
+                "cn": "彩虹小队成员，代号医生。放心，我会保护你的安全。"
+            },
+            "asset": "char_4125_rdoc/CN_011"
+        },
+        {
+            "id": "char_4125_rdoc_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "This will make things easier.",
+                "jp": "これで何かと楽に片づけられそうだな。",
+                "kr": "이러면 일이 쉬워지겠는걸?",
+                "cn": "这样一来，事情就轻松多了。"
+            },
+            "asset": "char_4125_rdoc/CN_012"
+        },
+        {
+            "id": "char_4125_rdoc_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "If we must, we must.",
+                "jp": "必要なことならば、そのように。",
+                "kr": "그래야 하는 거라면, 그렇게 하지.",
+                "cn": "如果我们必须这样做，那就这样做。"
+            },
+            "asset": "char_4125_rdoc/CN_013"
+        },
+        {
+            "id": "char_4125_rdoc_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Thank you, I'd been hoping to get authorization to access confidential files on Oripathy.",
+                "jp": "感謝するよ。ちょうど鉱石病関係の機密ファイルの閲覧権限が欲しかったところでね。",
+                "kr": "고맙군, 마침 광석병 관련 기밀 파일에 액세스할 수 있는 권한이 필요하던 참이었어.",
+                "cn": "谢谢你，我正好需要更高的权限来阅读关于矿石病的机密文献。"
+            },
+            "asset": "char_4125_rdoc/CN_014"
+        },
+        {
+            "id": "char_4125_rdoc_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Call if you need a hand.",
+                "jp": "手助けが必要な時は、いつでも呼んでくれ。",
+                "kr": "도움이 필요하면 말해.",
+                "cn": "需要帮忙就叫我。"
+            },
+            "asset": "char_4125_rdoc/CN_017"
+        },
+        {
+            "id": "char_4125_rdoc_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Let's be safe out there.",
+                "jp": "安全には気を付けていこう。",
+                "kr": "밖에선 몸 조심하라고.",
+                "cn": "任务中注意安全。"
+            },
+            "asset": "char_4125_rdoc/CN_018"
+        },
+        {
+            "id": "char_4125_rdoc_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "At least we are well prepared.",
+                "jp": "ひとまず、準備は万端だな。",
+                "kr": "적어도 우린 충분히 준비되어있어.",
+                "cn": "至少我们准备充分。"
+            },
+            "asset": "char_4125_rdoc/CN_019"
+        },
+        {
+            "id": "char_4125_rdoc_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "There are still active targets in the area.",
+                "jp": "このエリアには、まだ活動中のターゲットがいるようだな。",
+                "kr": "작전 구역 내에 아직 활동 중인 적이 있다.",
+                "cn": "本区域内尚有活动的敌人。"
+            },
+            "asset": "char_4125_rdoc/CN_020"
+        },
+        {
+            "id": "char_4125_rdoc_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Ready to go.",
+                "jp": "準備完了。",
+                "kr": "준비 완료.",
+                "cn": "准备就绪。"
+            },
+            "asset": "char_4125_rdoc/CN_021"
+        },
+        {
+            "id": "char_4125_rdoc_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "I've got your backs.",
+                "jp": "背中は預けてもらおう。",
+                "kr": "내가 지켜 주겠다.",
+                "cn": "我会保护你们。"
+            },
+            "asset": "char_4125_rdoc/CN_022"
+        },
+        {
+            "id": "char_4125_rdoc_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Get going quickly.",
+                "jp": "迅速に行動しよう。",
+                "kr": "움직여! 어서!",
+                "cn": "赶紧动起来。"
+            },
+            "asset": "char_4125_rdoc/CN_023"
+        },
+        {
+            "id": "char_4125_rdoc_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Try not to get yourselves hurt.",
+                "jp": "極力、怪我はしないでくれ。",
+                "kr": "웬만하면 다치지 말라고.",
+                "cn": "尽量别让自己受伤。"
+            },
+            "asset": "char_4125_rdoc/CN_024"
+        },
+        {
+            "id": "char_4125_rdoc_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Located target.",
+                "jp": "ターゲットの位置を確認。",
+                "kr": "목표 포착.",
+                "cn": "目标已定位。"
+            },
+            "asset": "char_4125_rdoc/CN_025"
+        },
+        {
+            "id": "char_4125_rdoc_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Target acquired.",
+                "jp": "ターゲットを発見した。",
+                "kr": "목표 발견.",
+                "cn": "发现目标。"
+            },
+            "asset": "char_4125_rdoc/CN_026"
+        },
+        {
+            "id": "char_4125_rdoc_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Stick close to me.",
+                "jp": "そばにいてくれ。",
+                "kr": "나를 잘 따라와라.",
+                "cn": "跟紧我。"
+            },
+            "asset": "char_4125_rdoc/CN_027"
+        },
+        {
+            "id": "char_4125_rdoc_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Reloading!",
+                "jp": "リロード中だ！",
+                "kr": "재장전!",
+                "cn": "正在换弹！"
+            },
+            "asset": "char_4125_rdoc/CN_028"
+        },
+        {
+            "id": "char_4125_rdoc_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Are you alright? Any difficulty breathing?",
+                "jp": "大丈夫か？呼吸に問題はないか？",
+                "kr": "괜찮나? 호흡에 문제는 없고?",
+                "cn": "你还好吗？有没有觉得呼吸困难？"
+            },
+            "asset": "char_4125_rdoc/CN_029"
+        },
+        {
+            "id": "char_4125_rdoc_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "We're almost at the extraction point. Then, we can rest.",
+                "jp": "もうじき撤退地点だ。そこまで行けば、休めるからな。",
+                "kr": "곧 철수 지점이다, 금방 쉴 수 있어.",
+                "cn": "即将抵达撤离点，我们马上就可以休息了。"
+            },
+            "asset": "char_4125_rdoc/CN_030"
+        },
+        {
+            "id": "char_4125_rdoc_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Let's get you back on your feet, shall we?",
+                "jp": "君の治療は任せてくれ。いいな？",
+                "kr": "다시 일어서 보자고, 괜찮겠나?",
+                "cn": "我们会让你好起来的，好吗？"
+            },
+            "asset": "char_4125_rdoc/CN_031"
+        },
+        {
+            "id": "char_4125_rdoc_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "We're wasting time.",
+                "jp": "時間を無駄にしてしまったな。",
+                "kr": "시간 낭비나 다름없군.",
+                "cn": "我们在浪费时间。"
+            },
+            "asset": "char_4125_rdoc/CN_032"
+        },
+        {
+            "id": "char_4125_rdoc_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Always a pleasure.",
+                "jp": "喜んで。",
+                "kr": "고맙다.",
+                "cn": "乐意之至。"
+            },
+            "asset": "char_4125_rdoc/CN_033"
+        },
+        {
+            "id": "char_4125_rdoc_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Careful, I'm carrying a bunch of bric-a-bracs.",
+                "jp": "おっと、気を付けてくれ。がらくたをあれこれ運んでいるところでね。",
+                "kr": "조심해, 물건을 들고 있다고.",
+                "cn": "小心，我刚拿了一堆瓶瓶罐罐。"
+            },
+            "asset": "char_4125_rdoc/CN_034"
+        },
+        {
+            "id": "char_4125_rdoc_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Nothing abnormal. If we get a situation, I'll let you know. ",
+                "jp": "異常なしだ。何かあったら、すぐに知らせよう。",
+                "kr": "아무 이상 없다. 상황이 발생하면 네게 알려주지.",
+                "cn": "没什么，有情况我会及时告知你。"
+            },
+            "asset": "char_4125_rdoc/CN_036"
+        },
+        {
+            "id": "char_4125_rdoc_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4125_rdoc/CN_037"
+        },
+        {
+            "id": "char_4125_rdoc_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Bonjour",
+                "jp": "ごきげんよう。",
+                "kr": "봉주르.",
+                "cn": "你好。"
+            },
+            "asset": "char_4125_rdoc/CN_042"
+        }
+    ],
+    "actors": {
+        "linkage": {
+            "native": "Alex Ivanovici",
+            "global": "Alex Ivanovici"
+        }
+    },
+    "availability": [
+        "linkage"
+    ]
+}

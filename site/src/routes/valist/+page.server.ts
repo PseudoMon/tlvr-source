@@ -25,8 +25,6 @@ export async function load({ url }: LoadArgs) {
   const dataurl = `${url.origin}/data/vadata-alt.json`;
   const charlist = await loadJson<CharVA[]>(dataurl);
 
-  console.log(charlist)
-
   return {
     charlist
   }
