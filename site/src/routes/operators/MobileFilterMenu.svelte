@@ -23,6 +23,12 @@
       <CloseFilterIcon />
     </button>
 
+    <div class="mobile-search">
+    <input type="text" placeholder="Search" 
+      on:input
+    />
+    </div>
+
     <RatingFilter on:onRatingsChange />
 
     <FactionFilter 
@@ -71,5 +77,20 @@
     .search-button {
       display: none;
     }
+  }
+
+  .mobile-search {
+    margin-top: 24px;
+  }
+
+  .mobile-search input {
+    background-color: #E5E5E5;
+    border-radius: 8px;
+    padding: 4px 12px;
+    border: none;
+  }
+
+  .mobile-search input:focus, input:focus-visible {
+    outline: solid 2px #CC495D;
   }
 </style>

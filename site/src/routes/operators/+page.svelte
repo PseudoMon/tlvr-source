@@ -110,6 +110,7 @@
 </main>
 
 <MobileFilterMenu 
+  on:input={handleSearchName}
   on:onRatingsChange={handleFilterRatings}
   on:nationsChange={handleFilterNations} 
   nations={nations}
