@@ -67,7 +67,7 @@
             "text": {
                 "en": "Operator'? No, I'm a warrior of Rhodes Island. Don't worry, it's not because I can't let go of the past, but because I want to defend the present. I'll train new warriors for you... same as I was taken in and raised back on the sands.",
                 "jp": "「オペレーター」？いいや。俺はロドスの戦士だ。安心しな、昔のことを引きずってるわけじゃなくて、今あるものを守るって言いたいだけだ。お前らのために、新しい戦士を育ててやるさ……あの頃彼女たちが砂原で流浪する中で、俺を拾って育ててくれたみたいにね。",
-                "kr": "'오퍼레이터'? 아니, 난 로도스 아일랜드의 전사다. 안심해, 난 과거를 내려놓지 못하는 게 아니야. 난 단지 현재 내가 가진 것들을 지키고 싶을 뿐이지. 내가 너희를 위해 새로운 전사들을 키워 내겠어…… 마치 예전에 그들이 모래사막을 헤매며 떠돌아다니던 날 거두어주고 가르쳐 준 것처럼.",
+                "kr": "오퍼레이터'? 아니, 난 로도스 아일랜드의 전사다. 안심해, 난 과거를 내려놓지 못하는 게 아니야. 난 단지 현재 내가 가진 것들을 지키고 싶을 뿐이지. 내가 너희를 위해 새로운 전사들을 키워 내겠어…… 마치 예전에 그들이 모래사막을 헤매며 떠돌아다니던 날 거두어주고 가르쳐 준 것처럼.",
                 "cn": "“干员”？不，我是罗德岛的战士。你放心，我不是放不下过去那一切，我只是想守护现在拥有的。我会为你们培养出新的战士......就像以前她们在黄沙与流浪中收留我、培养我那样。"
             },
             "asset": "char_4023_rfalcn/CN_004"
@@ -209,7 +209,7 @@
                 "cn": "精英化晋升1"
             },
             "text": {
-                "en": "It's a warrior's duty, no need to thank me... Wha? blushing? Of course I'm not blushing. How could can you even tell I'm blushing through my tan?",
+                "en": "It's a warrior's duty, no need to thank me... Wha? Blushing? Of course I'm not blushing. How could you even tell I'm blushing through my tan?",
                 "jp": "戦士として当たり前のことしただけなのに、水臭いって……へ、顔が赤い？まさか。こんなに肌が焼けてんのに、赤いのが分かるわけないだろ？",
                 "kr": "전사로서 당연한 일을 했을 뿐인데 뭘, 이러니까 내가 다 어색하다…… 얼굴이 빨개졌다고? 그럴 리가, 이렇게 피부가 탔는데, 빨간 게 보일 리가 없잖아!",
                 "cn": "只是战士的职责，你太客气了......哼，脸红？不可能的，我晒得这么黑，你怎么可能看得出来？"
@@ -553,6 +553,22 @@
             "asset": "char_4023_rfalcn/CN_037"
         },
         {
+            "id": "char_4023_rfalcn_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "The strongest liquor for the bravest warrior. This one is mine, Doctor. If you really want it... devour this whole roasted game, and you'll be our hero for the day!",
+                "jp": "一番強い酒は、部族の一番勇敢な戦士が受け取るもの。だからドクター、この酒は俺のものだ。お前がどうしてもこの酒が欲しいって言うなら、方法はなくもないぞ――黄金色に焼いた獲物を丸一匹腹に収めたら、お前が今日の英雄だ！",
+                "kr": "가장 용감한 전사가 가장 독한 술을 받을 수 있는 법이지. 그러니까 박사, 이 술은 내 거야. 음? 박사가 이 술을 그렇게까지 원한다면야, 방법이 하나 있긴 하지. 여기 황금빛으로 노릇노릇하게 구운 사냥감을 전부 다 먹어치우면 박사를 오늘의 영웅으로 인정해주지!",
+                "cn": "最烈的酒献给最勇猛的战士，所以博士——这杯酒是我的了。或者还有一种方式，也可以让我把酒让给你——吃下这一整头烤得金黄的猎物，你就是今天的部族英雄！"
+            },
+            "asset": "char_4023_rfalcn/CN_038"
+        },
+        {
             "id": "char_4023_rfalcn_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "说真的，你每天都不需要晒太阳的吗？"
             },
             "asset": "char_4023_rfalcn/CN_042"
+        },
+        {
+            "id": "char_4023_rfalcn_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "It's hard to describe what I felt when I first saw Rhodes Island sail by in the distance, the rumbling of the ship and the tremor of the sands... it's like my chief was whispering in my ear: You've found another place worth fighting for.",
+                "jp": "事務所からロドスが遠くの方を走り過ぎる姿を何度か見たことあるよ。船が轟音を響かせ、足元の砂が震えてた。あの時の俺の気持ちは、上手く言葉にできないんだ……まるで突然、目の前の景色を通してお頭が語りかけてきたみたいだった――お前は、もう一度命を懸けて守るべき場所を見つけたんだって。",
+                "kr": "사무소에서 로도스 아일랜드가 멀찌감치 항해하는 모습을 몇 번 본 적 있어. 함선은 굉음을 내고 있었고, 발밑의 모래는 떨리고 있었지. 그때의 그 형언할 수 없는 기분이란…… 마치, 두목이 말을 건네는 것만 같았어. 내가 다시 목숨을 걸고 지켜야 할 가치가 있는 집을 찾았다고 말이야.",
+                "cn": "我有几次在办事处看到罗德岛远远地驶过，舰船轰鸣，黄沙颤动。很难形容那一刻我心里的感觉......就像是首领突然通过这一切告诉我：你已经找到了值得你再次为之战斗的地方。"
+            },
+            "asset": "char_4023_rfalcn/CN_044"
         }
     ],
     "actors": {

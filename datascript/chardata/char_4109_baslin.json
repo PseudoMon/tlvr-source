@@ -553,6 +553,22 @@
             "asset": "char_4109_baslin/CN_037"
         },
         {
+            "id": "char_4109_baslin_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "The new year was just a month away when I left Wulfsburg. They said we had to hurry to meet Their Majesties so we could make it to the annual celebration in Zwillingstürme. I was practicing the whole way, but... I really liked that piece though.",
+                "jp": "ループカーンを発った時、新年まではあと一ヶ月を切っていました。ツヴィリングトゥルムの祭典に間に合わせるには、最速で女帝陛下の元へ向かうしかなかったのです。道中でもずっと練習をしていて……すごく気に入ってる曲なんですよね。",
+                "kr": "루푸카른을 떠날 땐 새해가 한 달도 채 남지 않았을 시점이었어요. 그들은 최대한 빨리 출발해야만 여황 폐하를 알현할 수 있을 뿐만 아니라 츠빌링슈튀르메 축제에 맞출 수 있다고 했었죠. 가는 동안에도 계속 연습을 했었는데…… 있죠, 사실 전 그 곡을 정말 좋아했어요.",
+                "cn": "当时离开鲁珀坎的时候，离新年只有一个月了。他们说要尽快启程觐见女皇陛下，这样还能赶得上崔林特尔梅的庆典。一路上我都在练习......其实我很喜欢那首曲子。"
+            },
+            "asset": "char_4109_baslin/CN_038"
+        },
+        {
             "id": "char_4109_baslin_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "博士，休息得还好吗？"
             },
             "asset": "char_4109_baslin/CN_042"
+        },
+        {
+            "id": "char_4109_baslin_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "The annual Kaiserinnensfest is always a stunning event. The Royal Orchestra performs to the people, and it closes with a grand ensemble on the covered bridge for Their Majesties. The main reason we hold it every year is to make everyone believe in the path under their feet. Rhodes Island doesn't have celebrations as grand as that, but your footsteps are still full of conviction.",
+                "jp": "女帝の祭典の規模は毎年ながら圧巻です。民衆に向けたロイヤル楽団の演奏から始まり、ブリッジ上での双子の女帝による華々しいセッションで幕を下ろします。祭典の本質は、すべての人にその足元から延びる道を信じさせるためにあります。ロドスにはそのような盛大な催しはないですが、皆さんは同じく確固たる足取りで歩まれますね。",
+                "kr": "여황 축제는 매년 어마어마한 규모를 자랑해요. 황실 악단의 연주를 시작으로, 쌍둥이 여황제의 브리지 위에서 펼치는 화려한 합주로 막을 내리죠. 축전의 본질은 모든 사람들이 자신의 발밑에 펼쳐진 앞길을 믿게 하는 데 있어요. 로도스 아일랜드엔 그런 성대한 축제는 없지만, 그래도 여러분들은 확고한 믿음을 가지고 앞으로 나아가시는 것 같네요.",
+                "cn": "每年的女皇庆典阵仗都很惊人，皇家乐团向万民演出，以双子女皇在廊桥上的盛大合奏谢幕。庆典的本质，是让所有人相信脚下的道路。罗德岛没有这样隆重的庆典，但你们依然走得很坚定。"
+            },
+            "asset": "char_4109_baslin/CN_044"
         }
     ],
     "actors": {

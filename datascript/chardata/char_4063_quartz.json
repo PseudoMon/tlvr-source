@@ -553,6 +553,22 @@
             "asset": "char_4063_quartz/CN_037"
         },
         {
+            "id": "char_4063_quartz_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Doctor, Happy New Year. Hey, do me a favor and watch the length of your New Year's speech. Everyone is waiting to cut the cake.",
+                "jp": "ドクター、明けましておめでとう。そうだ、この後、新年の挨拶をする時は長くなり過ぎないようにな。ケーキの分配を待ちきれない者が多いんだ。",
+                "kr": "새해 복 많이 받아, 박사. 맞다, 이따가 새해 인사할 때, 너무 길게 하진 말아줘. 다들 케이크 커팅을 기다리고 있거든.",
+                "cn": "博士，新年好。对了，待会儿发表祝福感言的时候记得控制下时长，大家都在等着切蛋糕。"
+            },
+            "asset": "char_4063_quartz/CN_038"
+        },
+        {
             "id": "char_4063_quartz_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "博士您好。小心，您差点撞在我的剑上了。"
             },
             "asset": "char_4063_quartz/CN_042"
+        },
+        {
+            "id": "char_4063_quartz_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "If I hadn't come across Rhodes Island, would I still be wandering the wilderness by myself, or would I have returned to the city to face the music...? I don't know, but I don't need the answer, either. I stand with you and Rhodes Island now.",
+                "jp": "ロドスと出会わなければ、私はあのままずっと一人で荒野を彷徨っていたのか、それとも街へ戻り罰を受け入れたのか……わからない、だがもう考える必要もないだろう。なぜなら私は今、ロドスと共に、あなたと共にいるのだからね。",
+                "kr": "로도스 아일랜드를 만나지 못했다면, 난 여전히 황야에서 혼자 헤매고 있었을까, 아니면 도시로 돌아가 벌을 받았을까…… 잘 모르겠어. 하지만 이젠 그 답을 생각할 필요도 없겠지. 난 지금 로도스 아일랜드에서 당신과 함께하고 있으니까.",
+                "cn": "如果没有遇见罗德岛，我是会一个人继续在荒野上游荡，还是最终回到城市接受惩罚......我不知道，也不需要那个答案了，我现在正在罗德岛，和您站在一起。"
+            },
+            "asset": "char_4063_quartz/CN_044"
         }
     ],
     "actors": {

@@ -83,7 +83,7 @@
             "text": {
                 "en": "New Siesta has some unfinished city plates where you can see the volcano. Old workers like to gather there and chat about what the old Siesta looked like. I've heard most of their stories, but I still stay and listen, the same way I listened to Grandpa's stories... I still wonder what it was really like...",
                 "jp": "よくベテランの建築職人がね、火山が見える未完成エリアで、昔のシエスタのことを語ってくれるんだ。似たような話はたくさん聞いてるんだけど、何回聞いても飽きないんだよね。おじいのお話を聞いてた時みたいにさ……シエスタって一体どんなところだったんだろうね？",
-                "kr": "화산이 보이는 미완성 섹터에 있던 베테랑 건축 장인들이 과거 시에스타 이야기를 해주곤 했어. 물론 많이 들었던 이야기들이야. 그래도 할아버지의 이야기처럼 몇 번을 들어도 계속 듣고 싶더라고...... 시에스타는 과연 어떤 곳이었을까?",
+                "kr": "화산이 보이는 미완성 섹터에 있던 베테랑 건축 장인들이 과거 시에스타 이야기를 해주곤 했어. 물론 많이 들었던 이야기들이야. 그래도 할아버지의 이야기처럼 몇 번을 들어도 계속 듣고 싶더라고…… 시에스타는 과연 어떤 곳이었을까?",
                 "cn": "经常会有老工人站在那些能看到火山的未建成地块上，讲起老汐斯塔的样貌。这样的故事我听过很多，但总是愿意一遍一遍地听他们讲，就像听爷爷讲一样......那究竟是一个什么样的地方呢？"
             },
             "asset": "char_488_buildr/CN_005"
@@ -553,6 +553,22 @@
             "asset": "char_488_buildr/CN_037"
         },
         {
+            "id": "char_488_buildr_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Happy New Year, Doctor. You'll be there at the ceremony tonight, right? I gave the operators in charge of the hall's design a few suggestions and divided it into a few zones based on the operators' homeland... Right, on a special day like this, a sense of belonging is important.",
+                "jp": "ドクター、ハッピーニューイヤー！夜のパーティーは君も参加するよね？実は会場を設置する人に、オペレーターの出身地でエリア分けしてみたらどうかって提案したんだよね……でしょ？こういう特別な日って、アットホームな感じが大事だもの。",
+                "kr": "해피 뉴 이어, 박사. 오늘 디너파티에 너도 참석하는 거지? 이번에 파티장을 설계하는 오퍼레이터한테, 오퍼레이터들의 고향에 따라 구역을 나누는 건 어떻겠냐고 제안을 한번 해 봤어…… 응, 이런 특별한 날에는 소속감을 느끼게 하는 것도 중요하잖아.",
+                "cn": "新年好，博士，晚上的庆典您应该会来吧？我给设计礼堂的干员提了一点建议，依照干员们的家乡做了分区......是啊，这样特殊的日子，归属感很重要。"
+            },
+            "asset": "char_488_buildr/CN_038"
+        },
+        {
             "id": "char_488_buildr_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "我陪您出去透透气吧，博士，总是待在一个地方思路也会受限的。"
             },
             "asset": "char_488_buildr/CN_042"
+        },
+        {
+            "id": "char_488_buildr_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "I just tidied up our design documents from the past year. I didn't expect there to be so many, and it really gives me a rare sense of fulfillment. Although there isn't much I myself can do for Siesta, I know that each and every stroke I draw represents the journey I've traveled.",
+                "jp": "去年引いた図面を整理してたんだけど、思ったより多くてね。なんだかすごく充実感があったんだよ。一人の力でシエスタのためにできることって限られてるけど、引いた線の一本一本が、あたしの歩んできた道であるのは間違いないんだ。",
+                "kr": "작년에 그린 도면을 정리하고 있었어, 생각보다 많더라. 왠지 뿌듯한 느낌이 드는 거 있지? 비록 시에스타를 위해 나 혼자 할 수 있는 일은 그리 많지 않지만, 그려온 선 하나하나가 내가 걸어온 길임에는 틀림없어.",
+                "cn": "我刚刚整理了过去一年的建筑稿，没想到竟然有这么多，有种难得的充实感。虽然我一个人能为汐斯塔做的并不多，但我知道，画下去的每一笔都能代表我踏实走过的路。"
+            },
+            "asset": "char_488_buildr/CN_044"
         }
     ],
     "actors": {

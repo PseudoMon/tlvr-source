@@ -131,7 +131,7 @@
             "text": {
                 "en": "'Who am I'... For this question, you need only gaze upon the water. Be it human, beast, mountains, foggy woods, or the reflection of the twin moons on the night sky, whatever it is you see, that is your answer. As for the distant, radically different future, whether we siblings will return to chaos and seek new answers, is an entirely different question.",
                 "jp": "「我とは誰か」……湖面に映された己を見てみろ。人といい、獣といい、連綿たる山脈や林にたなびく煙、あるいは空に浮かぶ双月の姿といい、そこにあるもの全てが答えだ。人の世の千年万年後、我ら兄弟姉妹が混沌へと還り、再び答え探しの旅に就くことになるかどうか、それはまた別の問題さ。",
-                "kr": "'나는 누구인가'…… 수면에 비친 자신의 모습을 보게나. 사람인가, 짐승인가, 연이어진 산과 나부끼는 연기가 가득한 숲, 그리고 하늘에 떠 있는 쌍월의 모습까지. 시야에 들어온 모든 것들이 다 정답이라 할 수 있지. 그러나 세월이 흐르고 또 흘러 우리 형제자매가 다시 혼돈으로 돌아가 새로운 답을 찾을 수 있을지는 또 별개의 문제인 것 같군.",
+                "kr": "나는 누구인가'…… 수면에 비친 자신의 모습을 보게나. 사람인가, 짐승인가, 연이어진 산과 나부끼는 연기가 가득한 숲, 그리고 하늘에 떠 있는 쌍월의 모습까지. 시야에 들어온 모든 것들이 다 정답이라 할 수 있지. 그러나 세월이 흐르고 또 흘러 우리 형제자매가 다시 혼돈으로 돌아가 새로운 답을 찾을 수 있을지는 또 별개의 문제인 것 같군.",
                 "cn": "“我是谁”......临水自照，人也好，兽也罢，山峦林烟，天边双月的倒影，看见了什么，答案便是什么。至于人间换尽，我们兄弟姐妹会不会重归混沌，寻找新的答案，那又是另一个问题了。"
             },
             "asset": "char_2024_chyue/CN_008"
@@ -553,6 +553,22 @@
             "asset": "char_2024_chyue/CN_037"
         },
         {
+            "id": "char_2024_chyue_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Nian, Dusk, and Ling are already drunk? It's not often Rhodes Island gets this lively...Let them be. Relax, I will keep an eye on them. Our sibling 'reunion' may be an extraordinary event to most, but this too is human nature. Who are we to reject participation in these traditions?",
+                "jp": "妹たちはもう酔ったのか？珍しくロドスが賑やかなことだし、好きにさせればいい……安心しろ、私の方で気に留めておく。我ら兄弟姉妹の「団欒」は一部の者にとっては大ごとだろうけどな、「人情」ってやつを捨てきれんのもまた当然だろう？",
+                "kr": "여동생들은 이미 취한 건가? 하하, 로도스 아일랜드도 모처럼 이리 떠들썩하니, 오늘은 마음 가는 대로 하게 하는 편이 좋겠군…… 안심하게나, 내가 잘 지켜보고 있을 테니. 우리 형제자매들의 '모임'이 누군가에게는 꽤나 큰일이겠지만 '인지상정'이라는 말도 있으니 모이지 않을 수 없지 않겠나?",
+                "cn": "年夕令她们已经喝醉了吗？哎，难得今天罗德岛这么热闹，随她们去吧......放心，我会看着的。我们兄弟姐妹的“团聚”，对不少人来说，是件天大的事，但“人之常情”，要怎么免俗呢？"
+            },
+            "asset": "char_2024_chyue/CN_038"
+        },
+        {
             "id": "char_2024_chyue_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "博士，今天的晨功又没看到你。"
             },
             "asset": "char_2024_chyue/CN_042"
+        },
+        {
+            "id": "char_2024_chyue_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Yumen throws a banquet rather like this every year, to reward its warriors for their work the year prior. The men would clatter their weapons and sing along with the beat. But the next morning, they would still be up for duty, no matter how inebriated. Just like that, Yumen has traversed the lands and defended Great Yan's peace for a hundred years. Doctor, what is it that you defend?",
+                "jp": "玉門でも毎年このような宴席を設けて、将兵たちを労うんだ。どれほど飲めや歌えやの大騒ぎでも、明くる日にはまた朝早くから勤務に就くのだ。玉門はこうして荒野を何百年にもわたって駆け回り、炎国の安寧を守っていた。さてドクター、貴公らが今守っているのは何物だろうか？",
+                "kr": "옥문에서도 매년 이런 연회를 마련하여 장병들을 위로하곤 했었지. 모두가 술에 취해 노래를 부르며 소란을 피웠어도, 이튿날이면 아침 일찍 일어나 근무를 시작했네. 옥문은 이렇게 수백 년간 황야를 누비며, 염국의 평화를 지켜 왔지. 그럼 박사, 지금 귀공이 지키고 있는 것은 무엇인가?",
+                "cn": "玉门城每年也会摆下这样的筵席，犒劳将士们一年辛苦。大家在席间弹剑高歌，喝醉的人第二天依然早起执勤。玉门就这样在塞上奔行百年，守护大炎安宁。博士，你们正在守护的又是何物？"
+            },
+            "asset": "char_2024_chyue/CN_044"
         }
     ],
     "actors": {

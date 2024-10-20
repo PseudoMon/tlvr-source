@@ -131,7 +131,7 @@
             "text": {
                 "en": "Many prophecies say similar things—'it is the Draco's nature to fight.' I won't stand for that. But—if my sister stays blind to what will become of the land, once blanketed by the fires of death... then I will stop her. I know what kind of Leader the people put their hopes in—and that's not what she is.",
                 "jp": "「ドラコは争いに身を投じる定めである」なんて予言、私は認めない。だけど姉さんはきっと、死の炎で焼かれた大地の結末を見届けるまで……いや、私が止めてみせる。あんな「リーダー」なんて、誰も望まないって知っているから。",
-                "kr": "'드라코는 싸움 속에서 살아갈 운명이다'라는 예언, 난 인정하지 않아. 하지만 만약, 언니가 죽음의 불꽃으로 타 버린 대지의 끝을 보지 못한다면…… 아니, 내가 언니를 막을 거야. 사람들이 바라는 리더의 모습은 그게 아닐 테니까.",
+                "kr": "드라코는 싸움 속에서 살아갈 운명이다'라는 예언, 난 인정하지 않아. 하지만 만약, 언니가 죽음의 불꽃으로 타 버린 대지의 끝을 보지 못한다면…… 아니, 내가 언니를 막을 거야. 사람들이 바라는 리더의 모습은 그게 아닐 테니까.",
                 "cn": "“德拉克的天性是争斗”，这样的预言，我不会接受。但是，如果姐姐看不到死亡的火焰烧过之后，大地会变成什么样子......我会阻止她。我知道，人们期望的领袖不是那样的。"
             },
             "asset": "char_1020_reed2/CN_008"
@@ -553,6 +553,22 @@
             "asset": "char_1020_reed2/CN_037"
         },
         {
+            "id": "char_1020_reed2_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Can I sit here, and watch the flames? Mm, I'm not here to celebrate this day, not at all... but—hearing the bells echo through the wilds, it makes me glad for the firelight, on this night.",
+                "jp": "ここで花火を見てもいい？ありがとう。こういう日を祝いたいとは思わないけれど……荒野にこだまする鐘の音を聞いていると、火の灯るこの夜をとてもありがたく感じるよ。",
+                "kr": "여기에 앉아 불꽃놀이를 구경해도 될까? 응, 이런 날을 축하하고 싶지는 않지만…… 황야에서 메아리치는 종소리를 들을 때면, 이 밤에 불꽃이 있어 줘서 정말 고맙다는 생각이 들어.",
+                "cn": "我可以坐在这里看焰火吗？嗯，这个节日，我并不想庆祝......但是，听到钟声在荒地上回荡的时候，我为这个夜晚有火光而庆幸。"
+            },
+            "asset": "char_1020_reed2/CN_038"
+        },
+        {
             "id": "char_1020_reed2_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "嗯，博士。就和过去一样。"
             },
             "asset": "char_1020_reed2/CN_042"
+        },
+        {
+            "id": "char_1020_reed2_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "You and I are different. Dublinn is a dream that took shape long ago, long before it found itself in me. But Rhodes Island—you take something so hard to envision, and convince people to believe in it. You are what saved me, and I will always remember that.",
+                "jp": "キミたちは私とは違う。私は、ダブリンという人々の夢に見つけてもらっただけ。でも、ロドスはまだ想像すらできない夢を、人々に見せてあげようとしている。ロドスに救われたこと、私は忘れないよ。",
+                "kr": "너희들은 나와 달라. 난 더블린이라는 사람들의 꿈이 찾아낸 것뿐이지만, 로도스 아일랜드는 감히 상상조차 할 수 없는 꿈을 사람들에게 보여주려고 하고 있잖아. 날 구해 준 게 로도스 아일랜드라는걸, 절대 잊지 않을 거야.",
+                "cn": "你们和我不同。深池是一个已有的梦想，那个梦想找到了我，但罗德岛却敢说服人们，去相信难以想象的事情。是罗德岛救了我，我会一直记得。"
+            },
+            "asset": "char_1020_reed2/CN_044"
         }
     ],
     "actors": {

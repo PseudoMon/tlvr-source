@@ -115,7 +115,7 @@
             "text": {
                 "en": "My name comes from the first Yanese poem my Shifu taught me. It tells of a cloud, 'Yun' in Yanese, that has been drifting for a thousand li, raining across the land, until it finally finds a mountain to rest upon. 'Jie' is the end of that long journey. After all, 'everyone should have a place to call home.'",
                 "jp": "「雲動けば千里雨降るも、截てば此の山にて晴るるに在り。」――これは師匠が初めて教えてくれた詩で、私の名前「截雲」もここからきてるんだ。長く旅した雲も、最後には留まる山を見つけて、二度と行く当てもなく彷徨うことはなくなった、という意味で……「人は誰しも家と呼べる場所が必要だ」と、師匠が言ってたんだ。",
-                "kr": "'천 리에 비를 뿌리던 구름도, 이 산에 막혀 날이 갰구나.' 이건 사부님께서 처음 가르쳐 준 염국의 시야. 내 이름의 유래이기도 하지. 오랜 시간 떠다녔던 구름이 마침내 산에 가로막혀서, 더 이상 갈 곳 없이 떠돌지 않게 됐다는 의미야…… '사람은 누구나 집이라고 부를만한 곳이 필요하다'라고 사부님이 말씀하셨어.",
+                "kr": "천 리에 비를 뿌리던 구름도, 이 산에 막혀 날이 갰구나.' 이건 사부님께서 처음 가르쳐 준 염국의 시야. 내 이름의 유래이기도 하지. 오랜 시간 떠다녔던 구름이 마침내 산에 가로막혀서, 더 이상 갈 곳 없이 떠돌지 않게 됐다는 의미야…… '사람은 누구나 집이라고 부를만한 곳이 필요하다'라고 사부님이 말씀하셨어.",
                 "cn": "“云动千里雨，截在此山晴。”这是师父教我的第一句炎国诗，也是我名字的来源。意思是飘了很久的云彩，终于被一座山拦住，不用再漂泊无依......“人应该有一个可以称为家的地方。”"
             },
             "asset": "char_4078_bdhkgt/CN_007"
@@ -553,6 +553,22 @@
             "asset": "char_4078_bdhkgt/CN_037"
         },
         {
+            "id": "char_4078_bdhkgt_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "For us, the new year isn't a fixed date. It starts when we see the first sprout of spring. Then we drink, sing and celebrate.",
+                "jp": "私の故郷の新年は、日付で決まってるわけじゃないんだ。そろそろ春かなという時期に、荒野で初めて芽吹いたものを見つけたら、その日を新しい一年の始まりにする。それから、みんなで飲んで歌って祝うんだ。",
+                "kr": "내 고향은 정해진 날에 새해를 기념하진 않아. 봄이 다가오는 시기에 황야에서 처음 싹이 튼 식물을 발견하면, 그날을 새로운 한 해의 시작이라고 여겨. 그러고는 다 같이 술을 마시고, 노래를 부르면서 새해를 축하하는 거지……",
+                "cn": "我们那里的新年，不是一个固定的节日。当春天快要来临时，我们在荒野上发现第一株发芽的植物，就把那一天当作新年的开始。然后我们饮酒，唱歌，庆祝......"
+            },
+            "asset": "char_4078_bdhkgt/CN_038"
+        },
+        {
             "id": "char_4078_bdhkgt_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "博士，要去外面吹吹风吗？"
             },
             "asset": "char_4078_bdhkgt/CN_042"
+        },
+        {
+            "id": "char_4078_bdhkgt_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "The Anasa are used to the cycle of life and death, but here at Rhodes Island, I see many struggle to say farewell to those they love. Home is where you find someone or something you can't let go of... I think I'm beginning to understand...",
+                "jp": "アナサはみんな生老病死には慣れてるけど、ロドスでは別れを受け入れられない人が多いみたい。何か諦めきれないものができてこそ、「家」を見つけられるのかもしれない。私も少し、わかってきたような気がする……",
+                "kr": "아나사 사람들은 생로병사에 익숙하지만, 로도스 아일랜드에 오니 여긴 이별을 쉽게 받아들이지 못하는 사람들이 많은 것 같더라고. 어쩌면 사람은, 내려놓기 힘든 무언가가 있을 때 비로소 '집'이라는 걸 찾을 수 있는 걸지도 모르겠어. 나도 이젠 조금은 알 것 같아……",
+                "cn": "阿纳萨看惯了生老病死，但在罗德岛，我见到的是许多人难以接受的生离死别。或许只有找到那一样放不下的事物，才能找到“家”吧。我好像，有点明白了......"
+            },
+            "asset": "char_4078_bdhkgt/CN_044"
         }
     ],
     "actors": {
@@ -580,7 +612,7 @@
         },
         "jp": {
             "native": "藤原夏海",
-            "global": "NATSUMI FUJIWARA"
+            "global": "Natsumi Fujiwara"
         },
         "kr": {
             "native": "허예은",

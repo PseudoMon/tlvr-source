@@ -553,6 +553,22 @@
             "asset": "char_4019_ncdeer/CN_037"
         },
         {
+            "id": "char_4019_ncdeer_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "I hear this is a day of reunions. May you and all at Rhodes Island be in good health.",
+                "jp": "今日は団らんの日だと聞きました。ドクターとロドスの皆さんが健康でいられますように。",
+                "kr": "다들 함께 모여서 세는 명절이라 들었는데, 로도스 아일랜드 여러분도 모두 건강하길 바랄게요.",
+                "cn": "听说这是一个团圆的节日呢，祝愿您和罗德岛的大家都能身体安康。"
+            },
+            "asset": "char_4019_ncdeer/CN_038"
+        },
+        {
             "id": "char_4019_ncdeer_CN_042",
             "title": {
                 "en": "Greeting",

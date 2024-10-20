@@ -19,7 +19,7 @@
             "text": {
                 "en": "Fine. At least I can get a break from the dusty air outside, if I stay here with you.",
                 "jp": "まぁいい。あんたと一緒にいれば、少なくともホコリまみれの空気の中で一息つけるから。",
-                "kr": "뭐, 좋아.  적어도 당신과 함께 있으면 먼지투성이의 공기 속에서 한숨 돌릴 수 있으니까.",
+                "kr": "뭐, 좋아. 적어도 당신과 함께 있으면, 먼지투성이의 공기 속에서도 한숨은 돌릴 수 있겠지.",
                 "cn": "也好，和你待在一起的话，至少能在满是粉尘的空气中稍微喘口气。"
             },
             "asset": "char_367_swllow/CN_001"
@@ -35,7 +35,7 @@
             "text": {
                 "en": "I don't shy away from sensitive discussions about the Infected? That's true. They're obviously different from us. But they also have the right to seize hope, just like us. So they don't need me to do anything special for them. That's equality, isn't it?",
                 "jp": "私が感染者の話題を避けたりしないって？ええ、彼らが私やあんたと違うってのは見れば分かるけど、彼らにだって希望を勝ち取る権利はある。その点では私たちと同じだからね。だから過剰に気を使う必要はないと思う。それこそが平等ってものでしょ、違う？",
-                "kr": "내가 감염자에 대한 화제를 피하지 않는다고? 맞아, 그들이 나나 당신과 다르다는 건 보면 알지만, 그들에게도 희망을 쟁취할 권리는 있어. 그 점에서는 우리와 같으니까. 그러니까 지나치게 신경을 쓸 필요는 없어. 그게 바로 평등하다는 거잖아, 아니야?",
+                "kr": "내가 감염자에 대한 화제를 피하지 않는다고? 맞아, 그들은 나나 당신과 분명 다르지만, 그들에게도 희망을 쟁취할 권리는 있어. 그 점에서는 우리와 똑같아. 그러니까 지나치게 신경을 쓸 필요는 없어. 그게 바로 평등하다는 거잖아, 아니야?",
                 "cn": "我不避讳关于感染者的话题？没错，他们和你我不同，这显而易见，但他们也有赢得希望的权利，这点上我们又是一样的。所以我没必要太过照顾他们，这才是一视同仁，不是吗？"
             },
             "asset": "char_367_swllow/CN_002"
@@ -51,7 +51,7 @@
             "text": {
                 "en": "Blaze is too reckless sometimes. I know she's strong, but… What? You know how to handle her?  Forget it, I'll ask Amiya what I should do to get along with her after we get back.",
                 "jp": "ブレイズは無鉄砲過ぎるところがある。もちろん彼女が強いのは知ってるけど、でも……え？あんたは平気？ハァ……もういい、あの人の手懐け方、後でアーミヤにちょっと聞いてみる。",
-                "kr": "블레이즈는 너무 무모한 면이 있어. 물론 그녀가 강하다는 건 알지만, 그래도…… 뭐? 당신은 괜찮다고? 하아…… 그만하자. 그 사람을 상대하는 법, 나중에 아미야한테 잠깐 물어볼게.",
+                "kr": "블레이즈는 가끔 너무 무모해. 물론 강하다는 건 알지만, 그래도…… 뭐? 적응하면 그래도 상대하기 편하다고? 하아…… 됐다. 그 녀석 상대하는 법은 나중에 아미야한테 물어봐야겠네.",
                 "cn": "煌有时候太莽撞了，我知道她很强，但是......什么？你能应付得来？啧，算了，回头向阿米娅好好请教一下，到底怎么对付那个家伙。"
             },
             "asset": "char_367_swllow/CN_003"
@@ -67,7 +67,7 @@
             "text": {
                 "en": "I was just speaking objectively. If you don't want to be discriminated against, then you shouldn't expect special treatment... What, she went back to her room crying? Look, I feel a little bad about it, but is someone that fragile really operator material?",
                 "jp": "客観的な意見を述べただけ。差別されたくないなら、逆に気を使ってもらいたいなんて考えは捨てて。……えっ、部屋に戻って大泣きしてた？ちょっとは悪いと思うけど、ああいう人にオペレーターなんて本当に務まるの？",
-                "kr": "객관적인 의견을 말한 것뿐이야. 차별받고 싶지 않으면서 반대로 신경 써 주길 바라는 생각은 버려…… 뭐? 방으로 돌아가서 엄청나게 울었다고? 조금은 미안하게 생각하지만, 그런 사람이 정말로 오퍼레이터 일을 잘 해낼 수 있겠어?",
+                "kr": "난 그저 객관적인 의견을 말한 것뿐이야. 차별받고 싶지 않다면, 다른 사람이 자신을 신경 써 주길 바라는 생각 또한 버리는 게 좋을 거야…… 뭐? 방에 돌아가서 엄청 울고 있다고? 조금은 미안하게 생각하지만, 그런 사람이 정말로 오퍼레이터 일을 잘해낼 수 있겠어?",
                 "cn": "我只是客观地表达意见而已，既然不愿意被他人歧视，那就不要指望他人会顾虑自己......什么，回到宿舍大哭？虽然有点过意不去，但这样的人真的适合成为干员吗？"
             },
             "asset": "char_367_swllow/CN_004"
@@ -83,7 +83,7 @@
             "text": {
                 "en": "Rhodes Island is changing, Doctor. Maybe you don't feel it, since you're the reason it's changing, and not everyone is so annoyingly outspoken as I am. Anyway, I do appreciate the direction Rhodes Island is moving.",
                 "jp": "ロドスは変わりつつある、あんたは気づいてないかもしれないけどね。変化のきっかけはあんたにあるし、周りの人も私みたいに嫌な奴ばかりじゃないから。まぁ、今のロドスの方向性、私は結構好きよ。",
-                "kr": "당신은 눈치채지 못했을지도 모르지만, 로도스 아일랜드는 변하고 있어. 변화의 계기는 당신한테 있어, 주변에 나처럼 짜증 나는 녀석만 있는 건 아니니까. 뭐, 지금 로도스 아일랜드의 방향성, 난 꽤 좋다고 봐.",
+                "kr": "로도스 아일랜드는 변하고 있어. 이 모든 변화는 당신이 일으키고 있으니, 어쩌면 박사는 눈치채지 못했을 수도 있지만. 뭐, 주변에 전부 나처럼 짜증 나는 녀석만 있는 건 또 아니니까. 흠, 지금 로도스 아일랜드의 방향성, 난 좋다고 봐.",
                 "cn": "罗德岛在变化，也许{@nickname}没什么感觉，毕竟这些变化本就是因你而起，况且也不是所有人都像我一样招人讨厌。不过，我倒是挺喜欢罗德岛现在的方向。"
             },
             "asset": "char_367_swllow/CN_005"
@@ -99,7 +99,7 @@
             "text": {
                 "en": "I used to prefer long-distance missions, like I was running away from Rhodes Island. I'll admit that was a little ungrateful, considering Rhodes Island adopted me. But now? Hehe, if you still have operators who like splattering blood all over the place, maybe I'll apply to serve in some faraway place again.",
                 "jp": "前までは、ここから遠く離れるような任務を受けていた。そう、まるでロドスから逃げるみたいにね。拾ってもらったのに、まさに恩知らずってことよ。最近は違う？フフ、そこら中に血を撒き散らすやつが参加してる任務なら、やっぱり他のエリアに行かせてもらうかもね。",
-                "kr": "예전에는 여기서 멀리 떨어지는 임무를 받았어. 맞아, 마치 로도스 아일랜드에서 도망치듯 말이야. 날 주워줬는데 정말로 은혜도 몰랐지. 최근엔 다르다고? 후후, 여기저기 피를 흩뿌리는 녀석이 참가하는 임무라면 역시 다른 지역으로 보내달라고 할지도 몰라.",
+                "kr": "예전에는 여기서 멀리 떨어진 곳의 외근 임무를 자주 맡았어. 맞아, 마치 로도스 아일랜드에서 도망치려는 것처럼 말이야. 날 데려다 키워줬는데 정말로 은혜도 몰랐지. 요즘엔 달라 보인다고? 후후, 여기저기 피를 흩뿌리는 녀석이 참가하는 임무라면, 그래도 다른 지역으로 보내달라고 할지도 몰라.",
                 "cn": "以前我喜欢选择一些路途遥远的任务，就像是要逃离罗德岛一样。明明罗德岛收养了我，这么做可真是忘恩负义。现在？呵呵，如果还有干员喜欢把血撒得到处都是，那我应该还是会申请去其他地区吧。"
             },
             "asset": "char_367_swllow/CN_006"
@@ -115,7 +115,7 @@
             "text": {
                 "en": "Doctor, would you sometimes feel afraid? Catastrophes, Originium, Oripathy, and the Infected? Hm, I'm still plagued by nightmares even now. But these days, I have Amiya, and idiots like that Blaze. I guess I'm not as afraid as I used to be.",
                 "jp": "天災、源石、鉱石病、そして感染者、ドクターは怖くない？ええ、私は相変わらず、悪夢にうなされる日々よ。でも今はアーミヤ、あと……あのバカ……ブレイズもいるし、最初の頃よりかは、怖くなくなったのかもね。",
-                "kr": "재앙, 오리지늄, 광석병, 그리고 감염자. 박사는 무섭지 않아? 맞아, 난 여전히 매일 악몽에 시달리는 날들을 보내고 있어. 하지만 지금은 아미야, 그리고 그 바보…… 블레이즈도 있고. 처음보다는 덜 무서워졌는지도 모르겠네.",
+                "kr": "재앙, 오리지늄, 광석병, 그리고 감염자. 박사는 무섭지 않아? 맞아, 난 여전히 매일 악몽에 시달리고 있어. 하지만 지금은 아미야, 그리고 그 바보…… 블레이즈도 있고. 처음보다는 덜 무서워졌는지도 모르겠네.",
                 "cn": "博士，你会害怕吗？天灾，源石，矿石病，还有感染者。嗯，我现在都在被噩梦侵扰。不过现在有阿米娅，还有煌那样的笨蛋，好像也没有一开始那么恐怖了。"
             },
             "asset": "char_367_swllow/CN_007"
@@ -131,7 +131,7 @@
             "text": {
                 "en": "Why are you called 'Doctor?' No, I'm not trying to get you to remember anything, it's just that title makes me very... wistful. Looking at all the Infected around you... Brings to mind a little bit of the past.",
                 "jp": "あんたってどうしてドクターと呼ばれてるの？いや、何か思い出せって言ってるわけじゃない、ただ、その呼び方はとても……懐かしくて。あの感染者たちがあんたを囲んでるのを見て、少しだけ、昔の思い出が浮かんできちゃって。",
-                "kr": "당신은 왜 박사라고 불리는 거야? 아니, 뭔가를 생각해 내라는 게 아니라, 그냥 그 호칭이 무척…… 그리워서. 저 감염자들이 당신을 둘러싸고 있는 걸 보고 조금이지만 옛날 추억이 떠올랐거든.",
+                "kr": "당신은 왜 박사라고 불리는 거야? 아니, 뭔가를 생각해 내라는 게 아니라, 그냥 그 호칭이 무척…… 그리워서. 감염자들이 당신을 둘러싸고 있는 걸 보니, 조금이지만 옛날 추억이 떠올랐거든.",
                 "cn": "你为什么被称为博士？不，我不是要你回忆什么，只是这个称呼......让我很怀念。看着那些感染者们围绕在你身边，稍微，让我会想起过去的事情。"
             },
             "asset": "char_367_swllow/CN_008"
@@ -147,7 +147,7 @@
             "text": {
                 "en": "I've known the whole time. When my mother brought me to Rhodes Island, she'd already lost her mind. I didn't feel the pain her inner conflicts caused her, but I can relate to it, because I relied on that obsession to get me to where I am today. Only now, I've found a new direction... I want to find her, and I want to save her.",
                 "jp": "本当は知ってた。母さんが私を連れてきたときには、あの人はもう狂ってしまっていた。あの狂気を孕んだ苦しみは私には知りえないけど、理解はできるよ。私もそんな執念に駆られて今日まで生きてきたから。でも、私は新しい生き方を見つけた……あの人を見つけて、助けてあげたいんだ。",
-                "kr": "사실은 알고 있었어. 엄마가 날 데리고 왔을 때, 그 사람은 이미 미쳐있었어. 그 광기를 품은 고통을 내가 알 길은 없지만, 이해는 할 수 있어. 나도 그런 집념에 사로잡혀 오늘까지 살아왔으니까. 하지만 난 새로운 삶의 방식을 찾았어…… 그 사람을 찾아서, 도와주고 싶어.",
+                "kr": "사실은 알고 있었어. 엄마가 날 여기로 데리고 왔을 때, 엄마는 이미 미쳐있었다는걸. 그 혼돈의 고통을 내가 같이 느껴볼 순 없지만, 이해는 할 수 있어. 나도 그런 집념이 있었기에 오늘까지 걸어올 수 있었으니까. 다만, 지금의 난 새로운 삶의 방향을 찾았어…… 난 엄마를 찾아서, 도와주고 싶어.",
                 "cn": "其实我知道，母亲把我送来的时候就已经疯了。我无法对她混沌的痛苦感同身受，但我能理解，因为我也靠着那股执念走到了今天。只是，我找到了新的方向......我想找到她，我想拯救她。"
             },
             "asset": "char_367_swllow/CN_009"
@@ -195,7 +195,7 @@
             "text": {
                 "en": "For efficiency's sake, speed up the playback. I'll still be able to see it all clearly.",
                 "jp": "効率悪いから、適当に倍速再生をして。私は問題ないから。",
-                "kr": "비효율적이니까 대충 2배속으로 재생해. 난 문제 없으니까.",
+                "kr": "비효율적이니까 재생 속도 좀 높이자. 난 문제 없으니까.",
                 "cn": "为了效率，适当地加速播放吧，我看得清。"
             },
             "asset": "char_367_swllow/CN_012"
@@ -211,7 +211,7 @@
             "text": {
                 "en": "Even now, I'm still on bad terms with a handful of operators. My promotion might spark controversy, just a reminder.",
                 "jp": "今でも私と仲の悪いオペレーターは結構いるよ。私を昇進させたら非難されるかもしれないけどいいの？",
-                "kr": "지금도 나와 사이가 나쁜 오퍼레이터는 꽤 있어. 날 승진시키면 비난받을지도 모르는데, 괜찮겠어?",
+                "kr": "지금도 나와 사이가 나쁜 오퍼레이터는 꽤 있어. 날 승진시키면 다들 뭐라 할지도 모르는데, 괜찮겠어?",
                 "cn": "即使是现在，和我关系不好的干员依旧不在少数，让我获得晋升恐怕会引起非议哦？"
             },
             "asset": "char_367_swllow/CN_013"
@@ -243,7 +243,7 @@
             "text": {
                 "en": "I prefer working alone.",
                 "jp": "単独行動のほうが好きなんだけど。",
-                "kr": "단독행동 하는 쪽이 좋은데.",
+                "kr": "단독행동하는 쪽이 좋은데.",
                 "cn": "我更喜欢独自行动。"
             },
             "asset": "char_367_swllow/CN_017"
@@ -259,7 +259,7 @@
             "text": {
                 "en": "Whether or not they'll listen to my orders is another matter.",
                 "jp": "彼らが私の命令に従うかは、また別の話ね。",
-                "kr": "그들이 내 명령에 따를지는 또 다른 이야기지.",
+                "kr": "흠, 저들이 내 명령에 따를지 아닐지는, 또 다른 이야기지만.",
                 "cn": "虽然他们会不会听我的命令，就是另一回事了。"
             },
             "asset": "char_367_swllow/CN_018"
@@ -275,7 +275,7 @@
             "text": {
                 "en": "A panoramic view of the battlefield.",
                 "jp": "戦場を一望できるね。",
-                "kr": "전장을 한눈에 볼 수 있어.",
+                "kr": "전장의 모습, 난 한눈에 볼 수 있어.",
                 "cn": "战场的全貌，尽收眼底。"
             },
             "asset": "char_367_swllow/CN_019"
@@ -291,7 +291,7 @@
             "text": {
                 "en": "I just have to rout them, right?",
                 "jp": "壊滅させればいいんでしょ？",
-                "kr": "궤멸시키면 되는 거지?",
+                "kr": "전부 쓸어버리면 되는 거지?",
                 "cn": "击溃他们就行了吧？"
             },
             "asset": "char_367_swllow/CN_020"
@@ -355,7 +355,7 @@
             "text": {
                 "en": "Can the others keep up?",
                 "jp": "他の人はついてこれる？",
-                "kr": "다른 사람은 따라올 수 있는 거야?",
+                "kr": "다른 사람들은 날 따라올 수 있는 거야?",
                 "cn": "其他人跟得上吗？"
             },
             "asset": "char_367_swllow/CN_024"
@@ -387,7 +387,7 @@
             "text": {
                 "en": "I see them. Too bad they don't see me.",
                 "jp": "私からは敵が見えるけど、向こうからは……残念だったね。",
-                "kr": "내 쪽에서는 적이 보이지만, 저쪽에서는…… 아쉽게 됐네.",
+                "kr": "난 적이 보이지만, 저들은…… 아쉽게 됐네.",
                 "cn": "我看得清他们，他们看不清我，可惜。"
             },
             "asset": "char_367_swllow/CN_026"
@@ -403,7 +403,7 @@
             "text": {
                 "en": "I'm skilled enough to resolve this.",
                 "jp": "テクニックを使えば、これくらい楽勝でしょ。",
-                "kr": "테크닉을 쓰면 이 정도는 식은 죽 먹기야.",
+                "kr": "기술을 쓰면 이 정도는 식은 죽 먹기야.",
                 "cn": "靠技巧足以解决这些问题。"
             },
             "asset": "char_367_swllow/CN_027"
@@ -419,7 +419,7 @@
             "text": {
                 "en": "Don't worry, their sights are totally empty.",
                 "jp": "敵の視界には何も映らない、心配無用よ。",
-                "kr": "적의 시야에는 아무것도 비치지 않으니까 걱정할 필요 없어.",
+                "kr": "적의 시야에는 아무것도 없을 거야, 걱정하지 마.",
                 "cn": "他们的视野里空无一物，无需担心。"
             },
             "asset": "char_367_swllow/CN_028"
@@ -451,7 +451,7 @@
             "text": {
                 "en": "I have no talent to speak of. So as a crossbowman, I can't let an enemy within three meters. Not even a corpse.",
                 "jp": "私には誇れる才能なんて何もない。だから狙撃手として、敵は必ず半径三メートル圏外で仕留めるように気をつけてる。",
-                "kr": "나에겐 자랑할만한 재능은 아무것도 없어. 그러니까 저격수로서 적은 반드시 반경 3미터 범위 밖에서 처리하도록 주의하고 있어.",
+                "kr": "나에겐 자랑할 만한 재능 같은 건 없어. 그러니 저격수로서 적은 반드시 반경 3미터 범위 밖에서 처리하도록 주의하고 있어.",
                 "cn": "我没有任何天赋可言，所以我作为弩手，绝不能允许敌人的尸首出现在三米之内。"
             },
             "asset": "char_367_swllow/CN_030"
@@ -467,7 +467,7 @@
             "text": {
                 "en": "The medics should stay behind to tend the wounded. I will chase after them, considering I'm used to working alone anyway.",
                 "jp": "怪我人と医療班は残って、私が追ってくる。どのみち単独行動には慣れてるから。",
-                "kr": "부상자와 의료부는 남아. 내가 쫓고 올게. 어쨌든 단독행동에는 익숙하니까.",
+                "kr": "부상자와 의료 오퍼레이터는 여기 남아. 쫓는 건 내가 할게. 어차피 단독 행동은 익숙하니까.",
                 "cn": "伤员和医疗干员留下，我去追就好，反正以前我也经常独自行动。"
             },
             "asset": "char_367_swllow/CN_031"
@@ -531,7 +531,7 @@
             "text": {
                 "en": "Aren't you afraid of upsetting the Infected operators if they see you with me all the time?",
                 "jp": "あんた、いつも私と一緒にいて、感染者の人たちに文句言われない？",
-                "kr": "당신, 항상 나와 함께 있는데 감염자들이 불평하지 않아?",
+                "kr": "나와 계속 같이 있으면 감염자들이 불평하진 않아?",
                 "cn": "你总是和我待在一起，不会让那些感染者干员们不满吗？"
             },
             "asset": "char_367_swllow/CN_036"
@@ -553,6 +553,22 @@
             "asset": "char_367_swllow/CN_037"
         },
         {
+            "id": "char_367_swllow_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "新年快乐，Dr.{@nickname}。阿米娅在哪里？和大家一起准备晚会？那我在这里等就好。煌在找我？难道她已经看到我放她桌子上的礼物了？我、我怕她又说什么肉麻话，我先走了。",
+                "jp": "新年快乐，Dr.{@nickname}。阿米娅在哪里？和大家一起准备晚会？那我在这里等就好。煌在找我？难道她已经看到我放她桌子上的礼物了？我、我怕她又说什么肉麻话，我先走了。",
+                "kr": "새해 복 많이 받아, {@nickname} 박사. 아미야 못 봤어? 다 같이 신년회를 준비하고 있다고? 알겠어, 그럼 여기서 기다리면 되겠다. 뭐? 블레이즈가 날 찾고 있다고? 설마 책상에 올려둔 선물을 벌써 본 건 아니겠지? 호들갑 떨게 분명한데…… 안 되겠다, 먼저 가볼게.",
+                "cn": "新年快乐，Dr.{@nickname}。阿米娅在哪里？和大家一起准备晚会？那我在这里等就好。煌在找我？难道她已经看到我放她桌子上的礼物了？我、我怕她又说什么肉麻话，我先走了。"
+            },
+            "asset": "char_367_swllow/CN_038"
+        },
+        {
             "id": "char_367_swllow_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "你好。"
             },
             "asset": "char_367_swllow/CN_042"
+        },
+        {
+            "id": "char_367_swllow_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "要做的事还有很多，对吧？煌能理解我是因为我们一同作战过，但不是任何有分歧的两个人、两个团体都能有这样的机会。我很幸运......所以我也要承担更多，直到，我们都能安眠的那一天。",
+                "jp": "要做的事还有很多，对吧？煌能理解我是因为我们一同作战过，但不是任何有分歧的两个人、两个团体都能有这样的机会。我很幸运......所以我也要承担更多，直到，我们都能安眠的那一天。",
+                "kr": "해야 할 일이 아직 많이 남아 있지? 블레이즈가 날 이해하는 건 우리가 함께 등을 맞대고 싸운 적이 있기 때문이야. 하지만 가치관이 다른 두 단체, 두 사람이 이런 기회를 가지는 건 매우 드문 일이지. 난 운이 좋았어…… 그러니까 난 로도스 아일랜드의 모두가 안심하고 잘 수 있는 날이 올 때까지 더 많은 것을 짊어질 거야.",
+                "cn": "要做的事还有很多，对吧？煌能理解我是因为我们一同作战过，但不是任何有分歧的两个人、两个团体都能有这样的机会。我很幸运......所以我也要承担更多，直到，我们都能安眠的那一天。"
+            },
+            "asset": "char_367_swllow/CN_044"
         }
     ],
     "actors": {

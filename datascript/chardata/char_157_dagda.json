@@ -553,6 +553,22 @@
             "asset": "char_157_dagda/CN_037"
         },
         {
+            "id": "char_157_dagda_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Whenever they rang the last bell of the year, we Knights of the Tower used to stand still at the tower's top, watching the lights across Londinium dim one after the other... I'm the only one left, but I still want to hold a torch in my hands even now, to protect Victoria's light in its darkest hour.",
+                "jp": "かつては、一年の最後の鐘が鳴る時、塔楼騎士は高塔の上に立ち、徐々に灯りが消えていくロンディニウムの街並みを眺めるものだった……今やもう私しか残っていないが、この瞬間においても、手燭を携えて、漆黒に呑まれていくヴィクトリアで輝き続ける光を守りたいと思う。",
+                "kr": "한 해의 마지막 종이 울릴 때, 탑의 기사는 탑 위에 서서 런디니움의 불빛들이 하나둘씩 꺼져가는 모습을 지켜보곤 했어…… 이젠 나밖에 남지 않았다 해도, 이전처럼 촛대를 들고 어둠에 삼켜져 가는 빅토리아의 불빛을 지키고 싶어.",
+                "cn": "曾经，每年的最后一次暮钟敲响之时，塔楼骑士会伫立在塔楼之上，看着伦蒂尼姆的万家灯火逐渐熄灭......如今只剩我一人，我仍想在此时手托火光，守护维多利亚至暗时刻中的光明。"
+            },
+            "asset": "char_157_dagda/CN_038"
+        },
+        {
             "id": "char_157_dagda_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "博士，你好。"
             },
             "asset": "char_157_dagda/CN_042"
+        },
+        {
+            "id": "char_157_dagda_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Another year's come and gone. We've been through plenty of hard times together, and the path forward remains thistly. Even then, we shouldn't give in. In the end, I believe we'll triumph over everything, Doctor, and greet the day and watch the dark clouds scatter.",
+                "jp": "また一年が過ぎた。我々は何度も苦しい時を共に過ごし、この先もまだ荊の道が続いている。だがドクター、どうか諦めないでほしい。いつの日にかすべての困難に打ち勝ち、曇りない明日を迎える時が来ると、私は信じている。",
+                "kr": "또 이렇게 한 해가 갔네. 그동안 우린 힘든 시간들을 수없이 겪었고, 앞으로도 가시밭길을 걷게 되겠지만, 박사 포기하진 마. 난 우리가 모든 어려움을 이겨내고, 먹구름이 걷히는 그날을 맞이하게 될 거라고 믿어.",
+                "cn": "又一年过去了。我们一同经历了许多艰苦的时光，前路也依旧布满荆棘。即便如此，也请不要气馁。博士，我相信，我们终究会克服一切困难，迎来阴云散尽的那一天。"
+            },
+            "asset": "char_157_dagda/CN_044"
         }
     ],
     "actors": {

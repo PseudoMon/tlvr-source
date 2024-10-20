@@ -355,7 +355,7 @@
             "text": {
                 "en": "I'm in a... gorgeous mood right now!",
                 "jp": "今すっごく……気分がいいの！",
-                "kr": "지금 정말로...... 기분이 좋네요!",
+                "kr": "지금 정말로…… 기분이 좋네요!",
                 "cn": "我现在的心情......非常好！"
             },
             "asset": "char_1023_ghost2/CN_024"
@@ -553,6 +553,22 @@
             "asset": "char_1023_ghost2/CN_037"
         },
         {
+            "id": "char_1023_ghost2_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "A New Year's feast? Your desire for seeking joy in suffering is truly admirable... Of course I'll join. When on land, do as the landwalkers do, no? I'll see you then, Doctor. Happy New Year, and here's to death come closer to us still.",
+                "jp": "新年のパーティー？苦しい中でも楽しもうとする姿勢は確かに尊敬できるわ……もちろん私も参加するわ。郷に入っては郷に従え、そうでしょ？じゃあまたあとでね、ドクター。ハッピーニューイヤー、めでたくまた死に一歩近づいたわね。",
+                "kr": "신년 파티요? 힘든 와중에도 즐거움을 찾으려는 자세는 존경할만하네요…… 물론 저도 참석할 거예요. 로도스 아일랜드에 온 이상, 로도스 아일랜드의 법을 따라야죠, 안 그래요? 그럼 나중에 봐요, 박사님, 새해 복 많이 받으세요. 경사스럽게도 우리 모두 죽음에 한 걸음 더 가까워졌네요.",
+                "cn": "新年宴会？你们苦中作乐的精神确实令人敬佩......当然，我会参加的，入乡随俗，不是吗？到时候再见吧，博士，新年快乐，祝我们离死亡又近了一些。"
+            },
+            "asset": "char_1023_ghost2/CN_038"
+        },
+        {
             "id": "char_1023_ghost2_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "但愿你能度过有意义的一天，博士。"
             },
             "asset": "char_1023_ghost2/CN_042"
+        },
+        {
+            "id": "char_1023_ghost2_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "I can sense that the madness which used to bind me is slightly different to the Oripathy you're attempting to overcome... and what's interesting is, even having the knowledge I do, I can't give a clear solution. On that exploratory note, at least, I'm prepared to work with you all.",
+                "jp": "无",
+                "kr": "전 느낄 수 있어요. 한때 저를 감쌌던 광기와 당신들이 극복하려는 광석병에는 미묘한 차이가 있다는 걸 말이에요…… 더욱 흥미로운 건, 제가 가진 지식으로도 명확한 답을 낼 수 없다는 거예요. 적어도 이 부분을 해명하는 데에는, 협력을 아끼지 않을게요.",
+                "cn": "我能感觉到，过去将我包裹住的疯狂，与你们试图攻克的矿石病有微妙的差别......而有趣的是，即使连我拥有的知识也无法给出一个明确的答案。至少在探明这一点上，我会不吝与你们合作。"
+            },
+            "asset": "char_1023_ghost2/CN_044"
         }
     ],
     "actors": {

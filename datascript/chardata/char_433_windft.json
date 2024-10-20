@@ -553,6 +553,22 @@
             "asset": "char_433_windft/CN_037"
         },
         {
+            "id": "char_433_windft_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Never got to really celebrate when I was a kid. Have the right conditions now, but it's not with my family. Just need to make a bit more cash, and then I can ask for a couple days off and go see 'em again without worrying about my salary. That's my New Year's resolution.",
+                "jp": "子供の頃は一度もちゃんと新年のお祝いなんてしてませんし、大人になって祝える余裕ができてからも、家族と一緒に過ごせたことはありません。もっとたくさん稼げるようになれば、数日くらいなら給料を気にせずお休みをもらって会いに行けますよね。これが僕の新年の目標です。",
+                "kr": "어릴 적에는 한 번도 제대로 기념해 볼 기회가 없었죠. 하지만 성장하고 기념할 만한 여유가 생기니, 이제는 가족이 곁에 없네요. 더 많은 돈을 벌 수 있게 되면 좋겠어요. 그럼 평소에도 비용에 대한 걱정 없이 며칠 휴가를 내서 가족들을 보러 갈 수 있겠죠. 이건 제 새해 목표이기도 하답니다.",
+                "cn": "小时候没能好好地庆祝过一次，长大后有条件庆祝了，却没能和家人一起。我要是能赚到更多的钱就好了，这样平时就可以请几天假回去看看他们，也不会心疼工资。这就是我的新年目标。"
+            },
+            "asset": "char_433_windft/CN_038"
+        },
+        {
             "id": "char_433_windft_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "博士，等下去玩极限飞盘吗？"
             },
             "asset": "char_433_windft/CN_042"
+        },
+        {
+            "id": "char_433_windft_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "This really sells Rhodes Island as a loaded place. Is everyone gonna be able to finish all this food off? Not gonna be nice to waste it. Ooh—is that Kay over there? Not—Not gonna hold her back?",
+                "jp": "ロドスは相当な資金力がありそうですが、こんなにたくさんみんな食べきれるんですか？物を無駄にするのは良くないことですよ。うわっ……あれ、ケーちゃんですよね。と、止めなくていいんですか？",
+                "kr": "로도스 아일랜드는 정말 자본력이 충분한 모양이네요. 이 많은 걸 정말 다 먹을 수 있나요? 낭비는 좋지 않답니다. 엇…… 저기 있는건 케오 인가요? 말리지 않아도 괜찮나요?",
+                "cn": "罗德岛看起来好有钱啊，这些东西大家都能吃完吗？浪费可不太好。喔——那边那个是小刻吗，不、不拦着吗？"
+            },
+            "asset": "char_433_windft/CN_044"
         }
     ],
     "actors": {

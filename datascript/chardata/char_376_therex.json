@@ -17,7 +17,7 @@
                 "cn": "任命助理"
             },
             "text": {
-                "en": "Thermal-EX, ready to commence thermal shock! What, it's not yet the designated combat time? Then, I shall postpone it. Commencing thermal shock after ten second delay!",
+                "en": "Thermal-EX, ready to commence thermal shock! What, the designated combat time has not been reached yet? Then, I shall postpone it. Commencing thermal shock after a delay of 10 seconds!",
                 "jp": "THRM-EX（サーマル-EX）、ただいまよりエネルギーショックスタンバイフェイズに移行します！なにっ、まだ作戦の予定時刻を迎えていないだと？ではショック発動までの時間を10秒に延長します！",
                 "kr": "Thermal-EX, 에너지 쇼크 기동을 이행하겠습니다! 뭣이? 아직 작전 예정 시각이 오지 않았다고요? 그럼 쇼크 기동까지의 시간을 10초로 연장하겠습니다!",
                 "cn": "Thermal-EX，热量冲击准备启动！什么，尚未到达指定作战时间吗？那就延后一下。10秒后再启动冲击！"
@@ -49,7 +49,7 @@
                 "cn": "交谈2"
             },
             "text": {
-                "en": "Doctor, it's a great honor to be with you! My burning heart just can't calm down! And by that, I mean the Raythean Industries custom-made full-thermal Arts impact generator I have installed!",
+                "en": "Doctor, it's great to be with you! My burning heart won't calm down! —I'm talking about the Raythean Industries custom-made full-thermal Arts impact generator on my body!",
                 "jp": "ドクター様！あなたと一緒にいられて本当に最高です！この胸の熱さ、ドキドキワクワクが止まりません！――というのは、この機体に搭載されたレイジアン工業特注生産の全量エネルギーアーツショック発生器によるものです！",
                 "kr": "박사님! 당신과 함께 있을 수 있어 정말 최고입니다! 이 가슴의 열기, 두근두근 콩닥콩닥이 멈추지 않습니다! ……이건 바로, 이 기체에 탑재된 레이시언 공업이 특별 제작 생산한 전량 에너지 아츠 쇼크 발생기에 의한 것입니다!",
                 "cn": "博士！能和你在一起真是太棒了！我炽热的内心久久无法平静！——我是说我身上所搭载的雷神工业定制款全量热力法术冲击发生器！"
@@ -97,7 +97,7 @@
                 "cn": "信赖提升后交谈2"
             },
             "text": {
-                "en": "Dazzling though I am, you, the peerless Doctor, are the only one I could call my brightest sun!",
+                "en": "Even though I'm already this dazzling, only you, the peerless Doctor, are worthy of becoming the brightest sun!",
                 "jp": "こんな輝かしい私ではありますが、私にとっては、誰も敵わないドクター様こそ、世界で一番ブリリアントな存在なのです！",
                 "kr": "저는 어느 모로 보나 빛나는 존재입니다! 그러나 제게 있어 가장 눈부신 존재는 그 누구도 당해낼 수 없는 박사님이십니다!",
                 "cn": "虽然我已经如此耀眼，但是对我来说，只有无人能敌的博士您才是最闪耀的！"
@@ -401,7 +401,7 @@
                 "cn": "非3星结束行动"
             },
             "text": {
-                "en": "My retreat was just a fluke. Nothing can be allowed through our battlefield net.",
+                "en": "My retreat was just a fluke. Nothing must be allowed through our net on the battlefield.",
                 "jp": "此度の撤退は不測の事態でした、本来ならば敵を逃すことはなかったはずです！",
                 "kr": "저의 철수는 예상치 못한 상황이었습니다. 원래대로라면 적을 놓치는 일은 없었을 것입니다!",
                 "cn": "我的撤退纯属意外，原本一定不会有漏网之鱼的！"
@@ -489,6 +489,22 @@
             "asset": "char_376_therex/CN_037"
         },
         {
+            "id": "char_376_therex_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "博士新年快乐！用塞壬音响之类放歌太过于没有气势了，就让我用更加热烈且直接的方式为这次的烟花大会助威吧！嘭！！咻~~~~嘭！！！",
+                "jp": "博士新年快乐！用塞壬音响之类放歌太过于没有气势了，就让我用更加热烈且直接的方式为这次的烟花大会助威吧！嘭！！咻~~~~嘭！！！",
+                "kr": "博士新年快乐！用塞壬音响之类放歌太过于没有气势了，就让我用更加热烈且直接的方式为这次的烟花大会助威吧！嘭！！咻~~~~嘭！！！",
+                "cn": "博士新年快乐！用塞壬音响之类放歌太过于没有气势了，就让我用更加热烈且直接的方式为这次的烟花大会助威吧！嘭！！咻~~~~嘭！！！"
+            },
+            "asset": "char_376_therex/CN_038"
+        },
+        {
             "id": "char_376_therex_CN_042",
             "title": {
                 "en": "Greeting",
@@ -503,6 +519,22 @@
                 "cn": "欢迎回来，博士！今天您也是如此充满着光与热啊！"
             },
             "asset": "char_376_therex/CN_042"
+        },
+        {
+            "id": "char_376_therex_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "博士！！如此热闹的场面，连我都觉得耀眼！不要再犹豫了，快跟着我，和大家一起庆祝吧！",
+                "jp": "博士！！如此热闹的场面，连我都觉得耀眼！不要再犹豫了，快跟着我，和大家一起庆祝吧！",
+                "kr": "博士！！如此热闹的场面，连我都觉得耀眼！不要再犹豫了，快跟着我，和大家一起庆祝吧！",
+                "cn": "博士！！如此热闹的场面，连我都觉得耀眼！不要再犹豫了，快跟着我，和大家一起庆祝吧！"
+            },
+            "asset": "char_376_therex/CN_044"
         }
     ],
     "actors": {

@@ -553,6 +553,22 @@
             "asset": "char_154_morgan/CN_037"
         },
         {
+            "id": "char_154_morgan_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "It's a New Year, and I want to see Vina happy, Hannah mucking things up less, and I'd like Dagda to loosen up some. Right, and for you, Doctor... mmm, a bit less work, a bit more time to yourself. That way, I could take you around Londinium for a proper stroll.",
+                "jp": "新しい一年は、ヴィーナがニコニコ笑って、ハンナちゃんはもう少しおとなしくなって、ダグザちゃんがもっと自由に過ごせる年になりますように……っと、ドクターには……そうだね、仕事を減らして、自分の時間を増やしてほしいな。そうすれば、ドクターをロンディニウムに連れてって、のんびり見て回れるからね。",
+                "kr": "새해엔 비나가 활짝 웃고, 한나는 좀 얌전해지고, 다그다는 좀 더 자유롭게 지냈으면 좋겠어. 아 참, 박사는…… 일 좀 줄이고, 자신만의 시간을 더 늘렸으면 좋겠네. 그럼 나도 박사를 데리고 런니디움을 느긋하게 돌아다녀 볼 수 있잖아.",
+                "cn": "新的一年，希望维娜开开心心，汉娜少惹麻烦，达格达更加自在。对了，博士，我也希望你......嗯，少点工作，多一些自己的时间。这样的话，我就能带你在伦蒂尼姆好好逛逛啦。"
+            },
+            "asset": "char_154_morgan/CN_038"
+        },
+        {
             "id": "char_154_morgan_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "真巧啊，博士，又碰面了呢。"
             },
             "asset": "char_154_morgan/CN_042"
+        },
+        {
+            "id": "char_154_morgan_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Norport's a borough full of Infected. Them, and the mariners out of a job and the old workers and the thugs like us, we're all people Londinium doesn't want. And then here... everyone gets equal work opportunities. *sigh* Why can't it just be like Rhodes Island out there?",
+                "jp": "ノーポート区にはたくさんの感染者がいて、失業した船乗りとか、年取った労働者とか、あと吾輩たちみたいなギャングとかと同じで、全部ロンディニウムに要らないものなんだ。でもここだと……全員が平等に仕事の機会を与えられているよね～。はぁ、なんで他所はロドスと同じにできないんだろ？",
+                "kr": "노포트 구에는 많은 감염자들이 있어. 거기 있는 실직한 선원들, 나이 든 노동자, 그리고 우리 같은 패거리들은 전부 런디니움이 원하지 않는 사람들이야. 하지만 로도스 아일랜드에선…… 모두가 평등하게 일할 권리를 가지고 있지. 하아, 왜 다른 데는 로도스 아일랜드처럼 할 수 없는 걸까?",
+                "cn": "诺伯特区有很多感染者，他们和失业的水手、老工人，还有我们这种小混混一样，都是伦蒂尼姆不想要的人。而在这里......大家都有平等的工作机会。唉，为什么外面不能和罗德岛一样呢？"
+            },
+            "asset": "char_154_morgan/CN_044"
         }
     ],
     "actors": {

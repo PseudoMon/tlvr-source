@@ -553,6 +553,22 @@
             "asset": "char_194_leto/CN_037"
         },
         {
+            "id": "char_194_leto_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Doctor, the USSG's having a feast tonight too, so of course you're coming? Oh, also. Mama's gotten much better lately, so she's been thinking of hosting one of our own in a couple of days. But it'll be too quiet with just the two of us, so she asked me if you might be interested?",
+                "jp": "ドクター、今夜は自治団もパーティをやるぜ。聞くまでもなくお前も来るよな？あーそうだ、母ちゃんも最近随分体調が良くなったから、近いうちに快気祝いをやろうと思ってんだ。でも二人だけじゃ寂しいから、お前も誘ってみてくれってさ。どうだ？",
+                "kr": "박사, 오늘 저녁에 자치단에서도 파티를 열 건데, 박사도 참가하는 거지? 아 참, 엄마도 요즘 건강이 많이 좋아져서 며칠 뒤에 쾌유 축하 파티를 열려고 하는데, 우리 둘만 있으면 썰렁할 것 같아서 박사도 부를까 생각 중이야. 어때, 시간 괜찮아?",
+                "cn": "博士，今晚自治团也会举办宴会，不用说，你肯定会来吧？哦对了，妈妈最近身体好了不少，打算过两天自己也张罗一桌，但是两个人太冷清了，所以让我问问你要不要来？"
+            },
+            "asset": "char_194_leto/CN_038"
+        },
+        {
             "id": "char_194_leto_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "博士，来一杯吗？"
             },
             "asset": "char_194_leto/CN_042"
+        },
+        {
+            "id": "char_194_leto_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Here, a souvenir from my last trip. It's pretty good, so you gotta try some. Is it me, or did Rhodes get a lot more crowded since I was away? I don't care if you keep onboarding more people, but you'd better make sure the USSG's clubhouse stays as-is, got it?",
+                "jp": "ほら、今回の旅行の土産だ。まあまあイケるから食ってみな。私がいねぇうちに、ロドスもまた人が増えたんじゃねぇか？いいか、人がどんだけ増えたって、自治団本部にしてる部屋は絶対確保しといてくれよ。絶対だぞ！",
+                "kr": "자, 이번에 여행 갔다가 사 온 특산품이야. 꽤 맛있더라고, 한번 먹어 봐. 그나저나, 내가 없는 동안 로도스 아일랜드에 사람이 더 많아진 것 같다? 나야 뭐 상관없지만, 사람이 많아져도 학생 자치단이 쓸 활동실은 꼭 남겨 줘야 해! 꼭이야!",
+                "cn": "喏，这趟旅行的特产，味道还不错，你尝尝。我不在的这段时间里，罗德岛上人是不是又变多了？我不管，就算人再多，学生自治团的活动室博士你也一定要替我们留着，一定啊！"
+            },
+            "asset": "char_194_leto/CN_044"
         }
     ],
     "actors": {

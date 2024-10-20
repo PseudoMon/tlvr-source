@@ -553,6 +553,22 @@
             "asset": "char_4015_spuria/CN_037"
         },
         {
+            "id": "char_4015_spuria_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "If this was Laterano, I would probably be helping maintain order right about now. The communications center gets affected by explosions pretty easily, and they need my tech repair to mend things... Was it tough? Come on, when everyone else's partying hard, would you really be such a killjoy?",
+                "jp": "ラテラーノだったら、今頃私は秩序維持の協力をしているね。通信基地局は爆発の影響を受けやすいし、私の技術的な支援が必要よ……大変？いやいや、みんなが浮かれて騒いでるのに、自分だけ違う気分なんてありえないよ？",
+                "kr": "라테라노에 있었다면, 지금쯤 난 질서 유지에 협조하고 있었을 거야. 통신 기지는 폭발의 영향을 받기 쉬워서, 내 기술 지원이 필요하거든…… 힘들지 않냐고? 아니, 다들 즐기고 있는데, 나만 다르게 느낄 리 없잖아?",
+                "cn": "要是在拉特兰的话，这个时间我应该在协助维持秩序吧。通讯基站还挺容易被爆炸影响的，需要我的技术救急......辛苦？不会吧，所有人都在狂欢的时候，你难道还会有别的情绪？"
+            },
+            "asset": "char_4015_spuria/CN_038"
+        },
+        {
             "id": "char_4015_spuria_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "哟，博士，你终于来了。你不在的时候，这里什么事都没发生哦。"
             },
             "asset": "char_4015_spuria/CN_042"
+        },
+        {
+            "id": "char_4015_spuria_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "At first, I came to Rhodes Island just to check the place out and learn some new skills. I never expected to stay here and run so many field operations for you. You really know how to order people around, Doctor. That said, I've seen lots of sights I would never have seen in Laterano, so I guess it was all worth it.",
+                "jp": "初めはちょっとした技術見学のつもりでロドスに来てみたんだけど、ここに残って、外勤任務までこーんなに行くなんて思ってもみなかったよ。ドクターって本当に人たらしだよねぇ。まぁでも、この船に来てからラテラーノにない景色もたくさん見れたし、悪くない経験だったかな。",
+                "kr": "처음엔 그냥 기술도 배울 겸 참관도 할 겸 로도스 아일랜드에 온 건데, 이렇게 남아서 외근 업무까지 돕게 될 줄은 몰랐어. 박사는 정말 사람을 잘 다룬다니까. 그래도, 이 함선을 따라다니면서 라테라노에선 볼 수 없는 풍경도 많이 구경했으니까, 그럴만한 가치가 있었다고 봐.",
+                "cn": "原本我只是想来罗德岛参观一下，学一学技术，没想到竟然留了下来，还帮你们跑了这么多外勤任务，博士，你可真是会指挥人啊。不过，跟着这艘船看了不少拉特兰没有的风景，也还算挺值得的吧。"
+            },
+            "asset": "char_4015_spuria/CN_044"
         }
     ],
     "actors": {

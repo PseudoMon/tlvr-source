@@ -553,6 +553,22 @@
             "asset": "char_4122_grabds/CN_037"
         },
         {
+            "id": "char_4122_grabds_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Here. A multigrain fragrance sachet! It's made by blending some grains and medicinal herbs. Keep it on you, and you're guaranteed peace and good health for the rest of the year. And you should definitely have a bowl of multigrain rice with multigrain beer. The farmers always tell me how good the multigrain beer tastes, but when I took a sip—It was so spicy and bitter!",
+                "jp": "この匂い袋、あげる！雑穀と薬草で出来てるんだけど、身に着ければ厄除けになるし、一年の健康を守ってくれるよ。それで雑穀で作ったご飯とお酒を食べて飲めば完璧だね。でもさ、農家さんたちがあのお酒うまいっていつも言ってるけど、一回こっそり飲んでみたら、苦いし、辛いだけだったよ！",
+                "kr": "자, 여기 향주머니를 선물로 줄게! 잡곡이랑 약초를 넣어 만들었어. 이걸 지니고 있으면 올 한 해 평안하고 건강하게 보낼 수 있을 거야. 참, 잡곡밥이랑 잡곡주도 한 잔 마신다면 더할 나위 없을 텐데. 그나저나 농부들이 잡곡주 맛있다고 매일같이 노래를 불러서 나도 몰래 한 번 마셔봤는데…… 쓰고 맵기만 하더라!",
+                "cn": "给，送你一个杂粮香包！是杂粮和药草放在一起做成的，把它戴在身上今年就能平安健康。最好再去吃上一碗杂粮饭，喝一杯杂粮酒。职农们总说杂粮酒好喝，可我偷偷尝过一次——明明又辣又苦！"
+            },
+            "asset": "char_4122_grabds/CN_038"
+        },
+        {
             "id": "char_4122_grabds_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "小笼我都准备好了，要不要一起去田里抓泥鳞？"
             },
             "asset": "char_4122_grabds/CN_042"
+        },
+        {
+            "id": "char_4122_grabds_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "I saw Rhodes Island splitting the sandstorm and sailing here. It felt just like the first time I saw Dahuang protecting the fields and overcoming the Catastrophe with its newly-built buildings. As long as everyone works together, no matter if it's a Catastrophe or anything else, there's always a way, right?",
+                "jp": "巻き上がる風砂の中をロドスが進むのを見てると、大荒城があの新しく出来た防壁で初めて畑を守り、天災を凌いだ時のことを思い出すよ。みんなで一緒に頑張れば、天災だってなんだって、きっと乗り越えられるに違いない。そうだよね？",
+                "kr": "로도스 아일랜드가 모래바람을 뚫고 움직이는 모습을 보고 있으면, 대황성에서 새로 지은 건축물로 처음 논밭을 지키고 재앙을 막아내던 모습이 생각나. 사람들이 모두 함께 노력한다면 재앙이나 또 다른 시련이 찾아와도 분명 극복할 방법을 찾을 수 있을 거야, 그렇지?",
+                "cn": "我看到罗德岛破开风沙行驶过来，那感觉就像看到大荒城第一次靠那些新建的建筑护住农田，扛过天灾一样。只要人们一起努力，不管是天灾还是什么，我们总会有办法的，对吧？"
+            },
+            "asset": "char_4122_grabds/CN_044"
         }
     ],
     "actors": {

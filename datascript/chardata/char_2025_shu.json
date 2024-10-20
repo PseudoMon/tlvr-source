@@ -553,6 +553,22 @@
             "asset": "char_2025_shu/CN_037"
         },
         {
+            "id": "char_2025_shu_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "The third nine days after Winter Slostice, all lakes and rivers frozen to ice. The fourth nine days, we can still walk on them.' Soon those ice surfaces will be thick enough to carry us, and the coldest time of year will arrive. Did Nian's hotpot warm you up? If not, you could ask Ling for some of her drink. Come on, let's go out and see if it's snowing. An auspicious snowfall tells of a bountiful year, and perhaps the new year will bring us a good harvest.",
+                "jp": "「三九、四九は氷上を歩く」という言葉の通り、そろそろ一番寒い時期がやってくるわよ。さっき食べたニェンの火鍋で少しは温まったかしら？あれでダメなら、リィン姉さんにお酒を貰いに行けばいいわ。さあ、外で雪が降っていないか見に行きましょう。瑞雪は豊年の予兆よ。雪が降っていれば、今年は豊作になるかもしれないわ。",
+                "kr": "“삼구 사구 추위는 얼음 위를 걷는듯하다”라는 말처럼, 일 년 중 가장 추운 시기가 다가오고 있어. 아까 니엔의 훠궈로 조금 따뜻해졌나 모르겠네. 그걸로도 추위가 가시지 않았다면 링 언니한테 가서 술 한잔 마시는 건 어때? 자, 우선 밖에 눈이 내리는지 보러 가자. 눈은 풍년의 징조거든. 눈이 많이 내린다면, 내년은 풍년일지도 몰라.",
+                "cn": "三九四九冰上走，一年最冷的时候就快到了，年刚才那一顿火锅有没有让你暖和起来？再不行的话，去向令姐讨杯酒来喝。走吧，我们去外面看看有没有下雪？瑞雪兆丰年，明年或许会有好收成呢。"
+            },
+            "asset": "char_2025_shu/CN_038"
+        },
+        {
             "id": "char_2025_shu_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "博士，走过来些，让我看看......唔，姜齐城今年种出的作物，果然比人还要高呢。"
             },
             "asset": "char_2025_shu/CN_042"
+        },
+        {
+            "id": "char_2025_shu_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "What a crowd! I'll take you to Dahuang for their famous opera, if we get the chance. In the old days, its people numbered no more than a hundred, but today it truly is a city. I see you've gained a good number of new faces too. For tens, hundreds, and thousands of years, those before us and those yet to come will spend their days just as we do now—with company.",
+                "jp": "すっごく賑やかねぇ！そうだ、機会があったら大荒城の村芝居に連れて行ってあげるわ。昔は百人余りくらいしかいなかったのに、今となっては都会って名乗れるほどなのよ。ロドスにも新しい顔がたくさん増えたみたいだし、連綿と続く時の中で、一日また一日、前には先達がいて、後ろには新芽が続くのよ。私たちはね、決して一人ぼっちになったりはしないの。",
+                "kr": "정말 활기차네! 맞다, 기회가 되면 우리 같이 대황성의 연극 보러 가지 않을래? 예전에는 마을 사람이어야 백 명 남짓했었는데, 지금은 도시라고 불러도 될 정도로 사람이 늘었어. 로도스 아일랜드에도 새로운 얼굴이 많이 늘어난 것처럼 말이야. 하루 또 하루, 한 해 또 한 해, 흐르는 시간 속에서, 앞에선 선인들이 당기고, 뒤에선 뒤따라온 이들이 밀어주니, 우린 어디서든 혼자가 아닐 거야.",
+                "cn": "真热闹！有机会我带你去看大荒城的社戏，早些年那里不过百多人，如今都足以称得上是一座城了。看你们这里也多了不少新面孔，千百十年，日复一日，前有古人，后有来者，我们哪，不会孤单的。"
+            },
+            "asset": "char_2025_shu/CN_044"
         }
     ],
     "actors": {

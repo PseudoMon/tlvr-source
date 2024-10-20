@@ -553,6 +553,22 @@
             "asset": "char_4032_provs/CN_037"
         },
         {
+            "id": "char_4032_provs_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "I wanted to treat myself to a gift at the end of the year, only to find myself completely broke. This would've been unthinkable at my old job... Oh, whatever. It's a new year. Better not dwell on the past. Happy New Year, Doctor!",
+                "jp": "年末には自分へのご褒美に何か買おうと思っていたのに、ちっともお金が貯まってないことに気づきました。昔だったらあり得なかったことです……まあ、もう新年ですし、過去のことばっかり気にしてもしょうがないですよね。ドクター、良い一年にしましょう！",
+                "kr": "원래 연말엔 열심히 일해 온 저를 위해 선물을 좀 사려고 했었는데, 돈이 한 푼도 남지 않았다는 사실을 깨달아 버렸어요. 예전엔 상상도 할 수 없는 일이었는데…… 뭐. 새해기도 하고, 과거에 계속 연연하는 것도 좋지 않겠죠. 박사님, 그럼 새해 복 많이 받으세요!",
+                "cn": "本想在年终的时候买点礼物犒劳一下自己，结果发现自己居然没有存下一分钱。在过去，这可真是无法想象的事......算啦，到了新的一年，也不该总惦记着以前的事了。博士，新年快乐！"
+            },
+            "asset": "char_4032_provs/CN_038"
+        },
+        {
             "id": "char_4032_provs_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "早上好博士，很高兴通知您，今天罗德岛也没有陷入法律纠纷呢。"
             },
             "asset": "char_4032_provs/CN_042"
+        },
+        {
+            "id": "char_4032_provs_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Taking in patients with a incurable disease feels just like taking on an unwinnable case... That said, I also believe that the value of doing something isn't determined entirely by the results. Keep it up, Doctor, and let me deal with all those pesky corporate rivals.",
+                "jp": "治療不可能な患者を受け入れるのは、勝てないと分かっている訴訟を引き受けるのと似た感じですよね……でも、結果だけで物事の価値は決まらないと信じています。ドクター、どうか信じる道を突き進んでください。邪魔する相手は私がなんとかします。",
+                "kr": "치료할 수 없는 환자를 받아들이는 건, 이길 수 없는 소송을 맡는 것과 비슷한 느낌이네요…… 하지만 저는 믿고 있어요, 결과론만으론 가치를 정확히 판단할 수 없다는 걸요. 박사님, 부디 계속 노력해 주세요. 성가신 다른 경쟁자들은 제가 처리해 드릴게요.",
+                "cn": "收治无法被治愈的病人，感觉就像接手明知不可能打赢的官司呢......不过我也相信，唯结果论是不能正确衡量事物的价值的。博士，请继续努力吧。其他讨厌的竞争对手，就交给我来解决。"
+            },
+            "asset": "char_4032_provs/CN_044"
         }
     ],
     "actors": {

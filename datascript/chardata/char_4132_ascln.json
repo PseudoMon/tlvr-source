@@ -1,0 +1,628 @@
+{
+    "charid": "char_4132_ascln",
+    "nameid": "ascln",
+    "names": {
+        "en": "Ascalon",
+        "jp": "アスカロン",
+        "kr": "아스카론",
+        "cn": "阿斯卡纶"
+    },
+    "voices": [
+        {
+            "id": "char_4132_ascln_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Don't bother checking, it's me. We've got a situation, so I swapped schedules with your other assistant. Don't worry, you'll get used to this.",
+                "jp": "ジロジロ見るな、私だ。異例の事態を鑑みて、助手のシフトを入れ替えさせてもらった。そう硬くなるな、すぐに慣れる。",
+                "kr": "그렇게 볼 필요 없어, 나다. 계획이 바뀌어 내가 너의 어시스턴트 순서를 교체했어. 곧 익숙해질 테니 그렇게 긴장하지 말도록.",
+                "cn": "不用看了，是我。情况有变，我替换了你之前的助理排班表。别紧张，你会习惯的。"
+            },
+            "asset": "char_4132_ascln/CN_001"
+        },
+        {
+            "id": "char_4132_ascln_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "That HR op wants me to take a break? Hmph, I know she means well, but I won't rest until she's willing to take a break herself. One of S.W.E.E.P.'s functions is to take care of her work while she's out. We might as well keep things as they are. What's S.W.E.E.P. established for? You don't need to know.",
+                "jp": "人事部の某責任者が私に休暇を取れと？親切心のつもりだろうが、彼女に休む気がないのならこちらにも休暇は不要だ。彼女の仕事の後始末もS.W.E.E.P.の存在意義の一つである以上、今のままで構わない。S.W.E.E.P.の設立趣旨が知りたいだと？お前に教える義理はない。",
+                "kr": "인사부의 그 담당자가 나보고 휴가를 가라고 했다면서? 좋은 의도야 알겠지만, 본인 먼저 휴가를 갈 생각이 없다면 나도 쉬지 않을 거라고 전해 줘. 그녀의 업무 뒤처리도 S.W.E.E.P.의 존재 의미 중 하나거든. 난 이대로도 상관없어. S.W.E.E.P.의 설립 취지를 알고 싶다고? 그건 네가 알 필요 없다.",
+                "cn": "人事部那位想让我休假？我知道她的好意，但在她愿意给自己放假前，我不会休息。S.W.E.E.P.存在的意义之一，就是替她的工作善后。维持现状就行。成立初衷？我不必告诉你。"
+            },
+            "asset": "char_4132_ascln/CN_002"
+        },
+        {
+            "id": "char_4132_ascln_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Don't trouble yourself trying to figure me out. Even the old you couldn't manage it. Remember, it's my own choice to vanish from your sight. With my duty fulfilled, I won't be interfering with Rhodes Island's future plan. But when you need me, I'll be there.",
+                "jp": "私を理解しようなど、過去のお前ですら成せなかったことに労力を費やすな。お前たちの視界から姿を消すのは私自身の意志だ。この身に課せられた使命は果たされ、ロドスの未来はもはや私の贅言を要しないのだからな。だが、お前たちが私を必要とすれば、再会の時は自ずと訪れる。",
+                "kr": "나를 이해하려고 노력할 필요 없어. 그건 과거의 너도 못 해낸 일이니까. 너희의 시야에서 사라지는 건 나의 의지였어. 내게 부여된 사명을 완수했으니 로도스 아일랜드의 미래에 대해선 내가 굳이 의견을 보탤 필요는 없지. 하지만 너희가 나를 필요로 할 땐 반드시 너희 앞에 나타날 거다.",
+                "cn": "不必费心了解我，毕竟过去的你都做不到。从你们的视野中消失，是我自己的选择。使命既已完成，罗德岛的未来我不必再置喙。但需要我时，你们一定会见到我。"
+            },
+            "asset": "char_4132_ascln/CN_003"
+        },
+        {
+            "id": "char_4132_ascln_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Amnesia is a convenient excuse. You're the only one who knows if you are faking it or not. But since you've taken Rhodes Island this far, true or not, I won't question you. I'm watching you, Doctor, same as ever.",
+                "jp": "「記憶喪失」というのはつくづく体のいい口実だな。その真偽はお前の中にしかないのだから。しかし、お前がロドスをここまで導いたという事実がある以上、いずれにせよお前を勘繰りはしない。では、お前の行く末を見守るとしよう、ドクター。かつてのようにな。",
+                "kr": "기억 상실이란 정말 좋은 핑계지. 본인 말고는 그것의 진위를 알 수 없으니 말이야. 하지만 네가 로도스 아일랜드를 여기까지 이끌어 온 것도 사실이니, 난 너를 의심하지 않을 거야. 너의 앞날을 지켜볼게, 박사. 예전처럼 언제나 그랬듯이.",
+                "cn": "遗忘是有效的借口。除了你自己之外，没人知道真伪。既然你已带领罗德岛走到现在，无论是真是假，我都不会质疑你。我会看着你，博士，一如过去。"
+            },
+            "asset": "char_4132_ascln/CN_004"
+        },
+        {
+            "id": "char_4132_ascln_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "When we face Theresis, that will be our final curtain call. What about the future? No point in playing with hypotheticals. W, Hoederer, Closure... Those who witnessed Babel's struggle still stand united with Rhodes Island. They are the future.",
+                "jp": "我々とテレシスが相まみえることこそが、私にとっての幕引きそのものだ。ロドスの未来？仮定の話に意味はない。W、ヘドリー、クロージャ……バベルの執念を目にした者たちが、今再びロドスの下に集った――ドクター、彼らが未来そのものだ。",
+                "kr": "우리가 테레시스와 마주하게 되는 그날, 비로소 제대로 마무리지을 수 있을 테지. 로도스 아일랜드의 미래? 가설은 아무 의미 없다. W, 외드레르, 클로저…… 바벨의 몸부림을 지켜본 사람들이 여전히 로도스 아일랜드에 있는 이상…… 그들이 바로 미래가 되어줄 거야, 박사.",
+                "cn": "我们和特雷西斯见面才是最后的落幕。未来？假设毫无意义。W，赫德雷，可露希尔......见证过巴别塔挣扎的人，如今仍然团结在罗德岛身边。博士，他们就是未来。"
+            },
+            "asset": "char_4132_ascln/CN_005"
+        },
+        {
+            "id": "char_4132_ascln_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "When people talk about Her Highness, they treat her like the unattainable future of the Sarkaz. But to me, she is who she is. She trips over her dress, she intentionally 'forgets' certain meetings, she gives me hugs. Pass over <i>that</i> 'Theresa'? I wouldn't hesitate to do so.",
+                "jp": "殿下の話になると、誰もが「彼女はサルカズには決して手の届かない未来だ」と口を揃える。しかし私からすれば、彼女はスカートの裾を踏んで転ぶこともあるし、会議をわざとすっぽかすこともあれば、抱擁を求めてくることだってある、ただの殿下に過ぎない。あの「テレジア」を踏み越えることができるかだと？私は躊躇しない、とだけ言っておこう。",
+                "kr": "사람들이 전하에 대해 이야기할 때마다, 모두들 “그녀는 살카즈가 닿을 수 없는 미래”라고 입을 모으곤 했다. 하지만 내게 전하는 그저 전하일 뿐이었다. 그녀는 치맛자락을 밟고 넘어지기도, 일부러 회의에 가지 않기도 했고, 날 안아주기도 하셨어. 그 '테레시아'를 뛰어 넘는다라? 나는 망설이지 않을 거다.",
+                "cn": "大家谈起殿下，总认为她是萨卡兹无法企及的未来。但于我，殿下只是殿下。她会踩到裙子摔倒，会故意忘记开会，会给我一个拥抱。越过那个“特蕾西娅”？我不会犹豫。"
+            },
+            "asset": "char_4132_ascln/CN_006"
+        },
+        {
+            "id": "char_4132_ascln_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Back when I was wandering the wastes, I didn't fear the dark of night. It scared me less than the sandbeasts biting my toes. Even now, seeing them still makes me feel kinda nervous. It's fine, no harm in letting you know.",
+                "jp": "荒野を彷徨っていた頃は、闇夜を恐れたことなどなかった。むしろ、つま先に噛みついてくるサンドビーストの方が恐ろしかったくらいだ――今でも奴らに出会うと、身体がこわばる程度にはな。良いも悪いもない、お前に知られたところでどうということはない。",
+                "kr": "황야를 헤매던 시절, 어두운 밤은 두렵지 않았어. 오히려 내 발을 물던 샌드비스트가 더 무서웠지…… 지금도 그 녀석들을 마주치면 저절로 몸이 긴장하고는 해. 이런 걸 알려줘도 괜찮냐고? 별거 아니니까, 네가 알아도 상관없어.",
+                "cn": "过去在荒野流浪时，夜晚的黑暗并不可怕，甚至比不上咬伤我脚趾的沙地兽——现在偶尔碰上它们，还是难免紧张。没什么好不好，你知道也无妨。"
+            },
+            "asset": "char_4132_ascln/CN_007"
+        },
+        {
+            "id": "char_4132_ascln_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Mercenaries, spies, nobles, convicts... Rhodes Island these days is far more complex than back in the Babel times, and the threats are greater too. It's natural for you to worry. How would the old you have handled it? Doesn't matter. This you knows what to do.",
+                "jp": "傭兵、スパイ、貴族、囚人……ロドスを取り巻く環境は、バベル時代とは比べものにならないほどに複雑化している。当然、それに伴ってより多くの脅威に晒される以上、お前の憂慮はもっともだ。過去のお前ならどうしていたかだと？関係ない。今のお前は、自分のやるべきことをはっきりと理解しているのだからな。",
+                "kr": "용병, 스파이, 귀족, 죄수…… 지금의 로도스 아일랜드가 마주한 환경은 바벨 때와는 비교도 할 수 없을 정도로 복잡하다. 더 큰 위협에 노출되어 있으니, 네가 우려하는 것도 당연하지. 과거의 너라면 어떻게 처리했을 거냐고? 그건 중요하지 않아. 지금의 너도 네가 뭘 해야 하는지를 잘 알고 있으니까.",
+                "cn": "佣兵，间谍，权贵，囚犯......罗德岛当前的环境远比巴别塔时期复杂，所受的威胁也更大，你的忧虑很正常。过去的你会如何处理？不重要。现在的你其实清楚该做什么。"
+            },
+            "asset": "char_4132_ascln/CN_008"
+        },
+        {
+            "id": "char_4132_ascln_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "S.W.E.E.P. never expressed any opinion on the Chernobog operation. Saving you was a unanimous decision by Dr. Kal'tsit and the elite operators. I didn't kill you back then, because I needed time to observe you. In view of the present, my judgment seems correct. Doctor, don't disappoint me.",
+                "jp": "S.W.E.E.P.はチェルノボーグでの救出作戦には一切意見していない。お前の救出を決定したのは、ケルシーとエリートオペレーターたちの総意だ。あの場で即刻お前を粛正しなかったのは、観察のための猶予期間を与えたまでのこと。今にして思えば、あの判断は間違っていなかったと言えるだろう。これからも失望させてくれるなよ。",
+                "kr": "S.W.E.E.P.는 체르노보그 구출 작전에서 아무런 의견을 내지 않았어. 너를 구출하기로 한 건 오로지 닥터 켈시와 정예 오퍼레이터들의 결정이었다. 널 그 자리에서 즉시 처리해버리지 않은 건 아직 더 지켜볼 필요가 있기 때문이었어. 지금 보니 내 판단은 틀리지 않았던 것 같군. 앞으로도 날 실망시키지 말라고.",
+                "cn": "S.W.E.E.P.从未对切尔诺伯格的事发表任何意见，救你是凯尔希医生和精英干员们的一致决定。但没有当场处理掉你，是因为我需要更多的观察。现在看，我的判断没错，别让我失望。"
+            },
+            "asset": "char_4132_ascln/CN_009"
+        },
+        {
+            "id": "char_4132_ascln_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Fate. I've pursued it, confronted it, and finally strangled it to death. You've done the same.",
+                "jp": "運命、か。私はそれを追い立て、向き合い、最後にはくびり殺した。お前もそうだろう。",
+                "kr": "운명이라. 쫓아도 봤고 직접 마주하기도 했다. 마지막에는 밟아버렸지만. 너도 마찬가지야.",
+                "cn": "命运，我追逐过它，直面过它，最后扼杀了它。你也一样。"
+            },
+            "asset": "char_4132_ascln/CN_010"
+        },
+        {
+            "id": "char_4132_ascln_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Ascalon, it's my only name. Call it a code name if you like. But if you want to update my file, you'll have to speak to Dr. Kal'tsit first.",
+                "jp": "アスカロン、この名一つだ。本名としてでも、コードネームとしてでも、好きに書いておけばいい。だが私のプロファイルを書き足すつもりなら、ケルシーに一声掛けてからにしろ。",
+                "kr": "아스카론, 나에겐 오직 이 호칭뿐이다. 이름이든, 코드 네임이든, 네 마음대로 쓰면 돼. 하지만 내 파일을 업데이트하고 싶은 거라면 먼저 닥터 켈시에게 연락하도록.",
+                "cn": "阿斯卡纶，有且只有这个称呼。名字也好，代号也罢，你随意填写就行。但想更新我的档案，请先联系凯尔希医生。"
+            },
+            "asset": "char_4132_ascln/CN_011"
+        },
+        {
+            "id": "char_4132_ascln_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "The training paid off. Not bad.",
+                "jp": "効果的な訓練だ、悪くない。",
+                "kr": "효과적인 훈련이군. 나쁘지 않아.",
+                "cn": "训练有效，不错。"
+            },
+            "asset": "char_4132_ascln/CN_012"
+        },
+        {
+            "id": "char_4132_ascln_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "S.W.E.E.P. was established as an independent unit. It's out of Rhodes Island's structures from the very beginning, so this framework doesn't apply to me. You have a new approach? I appreciate the recognition, but those of us in the shadows don't care for glory.",
+                "jp": "S.W.E.E.P.は初めからロドスの枠組みの外にある。つまりこの昇進制度も私には適応外ということだ。違う表彰の口実を考えてある？お前からの評価は理解したが、影に生きる者は栄誉になど靡かない。",
+                "kr": "S.W.E.E.P.는 설립 초기부터 로도스 아일랜드의 시스템 외에서 독립적으로 운영되고 있다. 이 승진제도는 내게는 적용되지 않는다는 말이다. 이 표창에 다른 구실이라도 생각해 뒀다는 건가? 너의 인정은 고맙지만 그림자 속에서 사는 자에게 이러한 명예는 중요하지 않아.",
+                "cn": "S.W.E.E.P.在建立之初就独立于罗德岛的系统之外，这套体系于我并不适用。你准备了新的说法？我理解你的认可，但阴影里的人不在乎荣誉。"
+            },
+            "asset": "char_4132_ascln/CN_013"
+        },
+        {
+            "id": "char_4132_ascln_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "It's not time yet. Only the darkness can shroud all the filth. Doctor, when the day comes that Rhodes Island no longer needs S.W.E.E.P., I'll come to you, and take it.",
+                "jp": "まだ機は熟していない。あらゆる不浄を受け入れられるのは暗闇だけだからな。ドクター、いずれS.W.E.E.P.がロドスにとって用済みになったら、再びお前の視界に姿を現わし、その昇進祝いとやらを頂くとしよう。",
+                "kr": "아직 때가 아니다. 모든 더러움을 가릴 수 있는 건 오직 어둠뿐. 박사, 언젠가, 로도스 아일랜드에 더이상 S.W.E.E.P.가 필요하지 않게 되는 그 날, 다시 너의 시야에 나타나 이걸 가져가지.",
+                "cn": "还不到时候。只有黑暗才能容纳一切污垢。博士，等到罗德岛不再需要S.W.E.E.P.的那天，我会来见你，把它取走。"
+            },
+            "asset": "char_4132_ascln/CN_014"
+        },
+        {
+            "id": "char_4132_ascln_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Go right ahead at any moment. I'll be there.",
+                "jp": "常に前だけ向いていろ。私がいる。",
+                "kr": "계속 앞만 보고 움직여. 내가 있으니.",
+                "cn": "任何时刻，放手去做，我会在。"
+            },
+            "asset": "char_4132_ascln/CN_017"
+        },
+        {
+            "id": "char_4132_ascln_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "I've assessed the risks. I'll lead the team on this operation.",
+                "jp": "リスクの評価は済んでいる。今回は私にチームを預けてもらうぞ。",
+                "kr": "리스크는 평가해 뒀어. 이번 임무는 내가 인솔하지.",
+                "cn": "我评估了风险，这次任务由我带队。"
+            },
+            "asset": "char_4132_ascln/CN_018"
+        },
+        {
+            "id": "char_4132_ascln_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Keep track of my position. I'm ready to strike.",
+                "jp": "私の位置には留意しておけ。いつでも出られる。",
+                "kr": "내 위치를 잘 봐둬. 언제든 출격할 수 있어.",
+                "cn": "注意我的位置。随时可以出击。"
+            },
+            "asset": "char_4132_ascln/CN_019"
+        },
+        {
+            "id": "char_4132_ascln_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Engaging. Go!",
+                "jp": "接敵した。行け！",
+                "kr": "적이 온다. 움직여!",
+                "cn": "接敌。动手！"
+            },
+            "asset": "char_4132_ascln/CN_020"
+        },
+        {
+            "id": "char_4132_ascln_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "No one knows my name.",
+                "jp": "私の名は闇の奥底だ。",
+                "kr": "아무도 내 이름을 알 수 없을 거야.",
+                "cn": "无人能知晓我的名字。"
+            },
+            "asset": "char_4132_ascln/CN_021"
+        },
+        {
+            "id": "char_4132_ascln_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "They only remember my blade.",
+                "jp": "記憶に残るのはこの刃の切れ味だけだ。",
+                "kr": "그들이 기억할 수 있는 건 비수의 날카로움뿐이다.",
+                "cn": "他们只能记住我的袖刃。"
+            },
+            "asset": "char_4132_ascln/CN_022"
+        },
+        {
+            "id": "char_4132_ascln_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "No one can see me.",
+                "jp": "影すら捉えさせない。",
+                "kr": "아무도 나를 알아챌 수 없다.",
+                "cn": "无人能察觉我。"
+            },
+            "asset": "char_4132_ascln/CN_023"
+        },
+        {
+            "id": "char_4132_ascln_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "I got this. Focus elsewhere.",
+                "jp": "ここは私が見る。他所に目を光らせろ。",
+                "kr": "여긴 내가 있을 테니, 넌 다른 곳을 신경 써.",
+                "cn": "这里有我，注意别处。"
+            },
+            "asset": "char_4132_ascln/CN_024"
+        },
+        {
+            "id": "char_4132_ascln_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Follow me into the shadows.",
+                "jp": "私を追って影に踏み込んでこい。",
+                "kr": "나를 따라 그림자 속으로.",
+                "cn": "随我步入阴影。"
+            },
+            "asset": "char_4132_ascln/CN_025"
+        },
+        {
+            "id": "char_4132_ascln_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Right behind you.",
+                "jp": "後ろだ。",
+                "kr": "난 여기다.",
+                "cn": "我在你背后。"
+            },
+            "asset": "char_4132_ascln/CN_026"
+        },
+        {
+            "id": "char_4132_ascln_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "You've stepped into my domain.",
+                "jp": "私の領域を侵したな。",
+                "kr": "내 영역에 숨어들어왔군.",
+                "cn": "你躲进了我的领域。"
+            },
+            "asset": "char_4132_ascln/CN_027"
+        },
+        {
+            "id": "char_4132_ascln_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Meet me, meet your death.",
+                "jp": "死目には姿を映してやろう。",
+                "kr": "죽기 전이라면 나를 볼 수 있을 거다.",
+                "cn": "你们在死亡前才会看到我。"
+            },
+            "asset": "char_4132_ascln/CN_028"
+        },
+        {
+            "id": "char_4132_ascln_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Confidence of our companions is earned. The road ahead is perilous, these victories are precious.",
+                "jp": "仲間たちの自信は我々が勝ち取ったものだ。先に続くいばらの道を征くための貴重な勝利となるだろう。",
+                "kr": "동료들의 자신감은 우리가 싸워서 쟁취하는 것이다. 앞으로 갈 길이 멀고 험할 테니 이런 승리는 매우 귀중하지.",
+                "cn": "同僚的信心是我们争取来的。前路步步险境，这些胜利弥足珍贵。"
+            },
+            "asset": "char_4132_ascln/CN_029"
+        },
+        {
+            "id": "char_4132_ascln_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Limit the enemy's choices, forcing them into unwitting traps. A familiar style... Hmm... you really don't remember anything? Sooner or later, you'll have to face yourself, so think carefully. Bear in mind, this time, I'm ready to correct your mistakes.",
+                "jp": "敵の選択肢を削ぎ取り、無自覚のうちに袋小路に向かわせる。あまりにも見知ったやり方だ……本当に何もかも忘れたのか？遅かれ早かれ、お前も本来の自分と向き合うことになるだろう。せいぜい身の振り方を考えておけ。言っておくが、次は粛正の猶予期間を与えるつもりはない。",
+                "kr": "적을 압박해 선택의 여지를 줄이고, 그들이 무의식중에 스스로 막다른 골목으로 들어가게 한다라, 익숙한 스타일이군…… 너, 아무것도 기억 못 하는 게 확실해? 조만간 너도 본래의 자신과 마주하게 될 테지. 제대로 생각하는 게 좋을 거야. 그리고 잘 기억해둬, 이번엔 내가 언제든지 네 잘못을 바로잡을 준비를 하고 있을 거다.",
+                "cn": "挤压敌人抉择的余地，逼迫他们无意识走进死局。很熟悉的风格......你，确定什么都不记得？你迟早要面对自己，务必想清楚。记住，这一次，我随时准备着替你纠正错误。"
+            },
+            "asset": "char_4132_ascln/CN_030"
+        },
+        {
+            "id": "char_4132_ascln_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "The ones who got away will be useful, when the time is right. Don't chase them too hard, Doctor.",
+                "jp": "逃げ延びた敵は時が来れば役に立つ。無闇に追うな、ドクター。",
+                "kr": "도망친 자들은 때가 되면 오히려 유용하게 쓰일 수도 있다. 무작정 쫓아갈 필요 없어, 박사.",
+                "cn": "漏网之人，他们会在合适的时候派上用场。不必穷追，博士。"
+            },
+            "asset": "char_4132_ascln/CN_031"
+        },
+        {
+            "id": "char_4132_ascln_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Keep moving ahead with confidence, and don't look back. Seeing me again means you're safe.",
+                "jp": "構わず進め。振り返るな。次に会えた時には、もうすべて片付いている。",
+                "kr": "걱정 말고 앞으로 나아가라. 뒤돌아볼 필요 없어. 나를 다시 만난다면, 그땐 이미 안전하다는 뜻이다.",
+                "cn": "放心往前走，不用回头。再见到我，说明已经安全了。"
+            },
+            "asset": "char_4132_ascln/CN_032"
+        },
+        {
+            "id": "char_4132_ascln_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "I know where to go. I can handle myself.",
+                "jp": "身を置くべき場所は分かっている。指示は不要だ。",
+                "kr": "어디로 가야 하는지 알고 있어. 내가 알아서 하지.",
+                "cn": "我知道该去哪，我会自行处理。"
+            },
+            "asset": "char_4132_ascln/CN_033"
+        },
+        {
+            "id": "char_4132_ascln_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Try again if you dare.",
+                "jp": "もう一度やってみろ。",
+                "kr": "어디 다시 해보던가.",
+                "cn": "你再试试看。"
+            },
+            "asset": "char_4132_ascln/CN_034"
+        },
+        {
+            "id": "char_4132_ascln_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Tired? No, it's peaceful here.",
+                "jp": "疲れているのか、だと？いいや、ここは穏やかで気も紛れる。",
+                "kr": "피곤하진 않냐고? 아니, 이곳은 내게 아주 편안해.",
+                "cn": "疲惫？不，这里很安逸。"
+            },
+            "asset": "char_4132_ascln/CN_036"
+        },
+        {
+            "id": "char_4132_ascln_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4132_ascln/CN_037"
+        },
+        {
+            "id": "char_4132_ascln_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "It's not easy to celebrate New Year's in Kazdel, where you always face unpredictable threats. That's why I cherish the changes we've seen at Rhodes Island over the years. Thank you, Doctor.",
+                "jp": "カズデルでは新年を祝うことなどほとんどできない。予測不能な脅威に備えて、誰もが常に身構えているからな。だからこそ、長い時の中でロドスに訪れた一つひとつの変化を大切にしようと思う。ありがとう、ドクター。",
+                "kr": "카즈델에서는 신년을 축하하기 쉽지 않다. 모두 언제든 예상치 못한 위협에 대비해야 하기 때문이지. 그래서 난 지난 몇 년 동안 로도스 아일랜드에 일어난 변화를 소중하게 생각하고 있다. 고맙다, 박사.",
+                "cn": "卡兹戴尔很难庆祝新年，无论哪天人们都在应对难以预知的威胁。正因如此，我珍惜罗德岛上多年来发生的改变。谢谢你，博士。"
+            },
+            "asset": "char_4132_ascln/CN_038"
+        },
+        {
+            "id": "char_4132_ascln_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "With a foot in the darkness, the light becomes clearer. You want to see? No, you don't belong there.",
+                "jp": "闇に身を置いてこそ、光はより鮮明に見える。見てみたいだと？いいや、お前はこちら側の人間ではないだろう。",
+                "kr": "어둠 속에 발을 딛고 있어야 빛이 더 선명하게 보이는 법이야. 너도 보고 싶다고? 아니, 넌 어둠 속에 속하지 않아.",
+                "cn": "立足黑暗，光明才更清晰。让你看看？不，你不属于那里。"
+            },
+            "asset": "char_4132_ascln/CN_042"
+        },
+        {
+            "id": "char_4132_ascln_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Babel is history. Her Highness has shown that that path has no future. And while Rhodes Island's future is even more challenging now, you have ever more companions. I have no doubt that Rhodes Island is on the right path.",
+                "jp": "バベルはもう過去のものだ。あの道の先に未来などないことを、既に殿下が証明したからな。ロドスの未来は当時よりも険しい道に見えこそすれ、共に歩む者は増え続けている。ロドスが正しい道を歩んでいるか否かに関しては、もはや疑う余地もない、ということだ。",
+                "kr": "바벨은 이미 과거가 됐다. 그 길 위에 미래가 없다는 걸 전하께서 증명하셨지. 반면 로도스 아일랜드의 미래는 그때보다도 더 험난해 보이지만, 함께 나아가는 이들은 계속해서 늘어나고 있어. 그건 즉, 로도스 아일랜드가 올바른 길을 가고 있는지에 대해선 더이상 의심할 필요조차 없다는 거야.",
+                "cn": "巴别塔已成过往，殿下已经证明那条道路没有未来。而罗德岛的未来，比之当初更为艰难，但同行之人却越来越多。罗德岛是否走在正确的路上已无需怀疑。"
+            },
+            "asset": "char_4132_ascln/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Ali Hillis",
+            "global": "Ali Hillis"
+        },
+        "cn": {
+            "native": "徐慧",
+            "global": "Chris Xu"
+        },
+        "jp": {
+            "native": "長沢美樹",
+            "global": "Miki Nagasawa"
+        },
+        "kr": {
+            "native": "이세레나",
+            "global": "Lee Serena"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

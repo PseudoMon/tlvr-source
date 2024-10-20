@@ -553,6 +553,22 @@
             "asset": "char_1028_texas2/CN_037"
         },
         {
+            "id": "char_1028_texas2_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "It's a brand new year, so Happy New Year. Sora gave me a CD to listen to, and it's a totally different style. Very relaxing. Looks like her time in Siracusa expanded her horizons too. Want to give it a listen?",
+                "jp": "また新たな年を迎えられるとは、めでたいことだ。ソラが新曲のCDを送ってくれたが、これまでのスタイルとは打って変わって、落ち着く曲に仕上がっていたよ。シラクーザでの経験からインスピレーションを得たのかもしれないな。ドクターも一曲どうだ？",
+                "kr": "또 새로운 한 해네, 새해 복 많이 받아. 소라가 신곡 CD를 보내 줬는데, 지금까지와는 다르게 차분한 스타일의 곡이더군. 시라쿠사의 경험이 소라에게 새로운 영감을 준 것 같은데, 박사도 한번 들어 보겠나?",
+                "cn": "又是新的一年，新年快乐。我收到了空新寄来的CD，是和以前不同的风格，很能让人放松。看来叙拉古的经历给了她新的灵感，你也想听听吗？"
+            },
+            "asset": "char_1028_texas2/CN_038"
+        },
+        {
             "id": "char_1028_texas2_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "嗯，和以前一样，这再好不过。早，有什么新计划吗？"
             },
             "asset": "char_1028_texas2/CN_042"
+        },
+        {
+            "id": "char_1028_texas2_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Sometimes I think to myself, what Rhodes Island is trying to do is really hard, but you're actually doing it. Me? I don't think about anything so complicated, but I'm more than glad to help out. All we're looking for is peace.",
+                "jp": "たまに考えさせられるよ。ロドスが取り組む事業は前途多難だが、それを実現しようとしているのは確かだと。私？あまり難しく考えてはいないが、喜んで手を貸すつもりだ。平穏な生活を求めているのは、お互い様だからな。",
+                "kr": "가끔 로도스 아일랜드가 하려는 사업이 너무 어려운 일이라는 생각이 들 때도 있어, 하지만 너흰 진짜로 그걸 실현시키고 있지. 나? 난 그런 복잡한 생각은 안 해, 하지만 필요하다면 최선을 다해 도울게. 평화로운 생활을 바라는 건 서로 마찬가지니까.",
+                "cn": "我偶尔会想，罗德岛在做的事业很困难，但你们真的在付诸行动。我？我没那么复杂的想法，但很乐意尽力帮忙。我们所寻找的，都是那份平静的生活。"
+            },
+            "asset": "char_1028_texas2/CN_044"
         }
     ],
     "actors": {

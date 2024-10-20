@@ -553,6 +553,22 @@
             "asset": "char_131_flameb/CN_037"
         },
         {
+            "id": "char_131_flameb_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Time never ceases to pass. If you make no progress at this stage in your journey, then as a wizened tree does, your hours will rot away, and lose any ability to meet the coming spring. Happy New Year, {@nickname}, and don't forget your own goals.",
+                "jp": "時は絶え間なく進み続けるものだ。もしその中で成長を遂げなければ、生きた歳月は枯れ木のように朽ち果て、新しい春を迎えることもできなくなる。こんな挨拶は柄ではないが……新年おめでとう。今年も己の目標を忘れないようにな。",
+                "kr": "시간은 끊임없이 나아가는 법이다. 만약 그 속에서 성장을 이루지 못한다면, 네가 살아온 세월은 말라버린 나무처럼 완전히 썩어버려 새로운 봄을 맞이할 수도 없게 되지. 이런 인사는 나와 어울리지 않지만…… 새해 복 많이 받아라, {@nickname}. 올해도 자신의 목표를 잊지 말도록.",
+                "cn": "时间不断推移，如果你在这段旅程中没有进步，你的岁月就会像枯老的树木那样腐朽，失去重新迎接春天的能力。新年快乐，{@nickname}，不要忘记自己的目标。"
+            },
+            "asset": "char_131_flameb/CN_038"
+        },
+        {
             "id": "char_131_flameb_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "不错，你还活着。"
             },
             "asset": "char_131_flameb/CN_042"
+        },
+        {
+            "id": "char_131_flameb_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "我来到罗德岛的理由，只有你，博士。我允许你将我当作一柄刀来使用，但相应地，你要给我有趣的猎物，耐用的砥石。不要让我失望。否则，我可不能保证这柄刀下次会指向谁。",
+                "jp": "我来到罗德岛的理由，只有你，博士。我允许你将我当作一柄刀来使用，但相应地，你要给我有趣的猎物，耐用的砥石。不要让我失望。否则，我可不能保证这柄刀下次会指向谁。",
+                "kr": "我来到罗德岛的理由，只有你，博士。我允许你将我当作一柄刀来使用，但相应地，你要给我有趣的猎物，耐用的砥石。不要让我失望。否则，我可不能保证这柄刀下次会指向谁。",
+                "cn": "我来到罗德岛的理由，只有你，博士。我允许你将我当作一柄刀来使用，但相应地，你要给我有趣的猎物，耐用的砥石。不要让我失望。否则，我可不能保证这柄刀下次会指向谁。"
+            },
+            "asset": "char_131_flameb/CN_044"
         }
     ],
     "actors": {

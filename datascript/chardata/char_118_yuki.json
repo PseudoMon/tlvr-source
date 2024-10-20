@@ -163,7 +163,7 @@
             "text": {
                 "en": "How tranquil...",
                 "jp": "……静かだ。",
-                "kr": "…조용하군.",
+                "kr": "……조용하군.",
                 "cn": "......寂静。"
             },
             "asset": "char_118_yuki/CN_010"
@@ -531,7 +531,7 @@
             "text": {
                 "en": "Your consideration, I, Shirayuki, will engrave upon my heart.",
                 "jp": "御身の気遣い、このシラユキ、肝に銘ずる。",
-                "kr": "당신의 그 배려… 나, 시라유키의 마음속 깊이 새겨두겠네.",
+                "kr": "당신의 그 배려…… 나, 시라유키의 마음속 깊이 새겨두겠네.",
                 "cn": "你的关照，白雪定会铭记于心。"
             },
             "asset": "char_118_yuki/CN_036"
@@ -553,6 +553,22 @@
             "asset": "char_118_yuki/CN_037"
         },
         {
+            "id": "char_118_yuki_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "新年快乐，诸事如意。",
+                "jp": "新年快乐，诸事如意。",
+                "kr": "新年快乐，诸事如意。",
+                "cn": "新年快乐，诸事如意。"
+            },
+            "asset": "char_118_yuki/CN_038"
+        },
+        {
             "id": "char_118_yuki_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "雇主，你好。"
             },
             "asset": "char_118_yuki/CN_042"
+        },
+        {
+            "id": "char_118_yuki_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "白雪，永远在此守候。职责所在，情义所在。",
+                "jp": "白雪，永远在此守候。职责所在，情义所在。",
+                "kr": "白雪，永远在此守候。职责所在，情义所在。",
+                "cn": "白雪，永远在此守候。职责所在，情义所在。"
+            },
+            "asset": "char_118_yuki/CN_044"
         }
     ],
     "actors": {

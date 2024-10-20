@@ -97,7 +97,7 @@
                 "cn": "晋升后交谈2"
             },
             "text": {
-                "en": "There'll always be a cohort eager to associate me with the previous Graf Urtica. I can't blame them though, I simply wish to live as a regular Infected. Abhorring inequality ... You say I'm faking to be common? Whatever you say. Even I am faking, I prefer to keep it that way till the very end.",
+                "en": "There'll always be a cohort eager to associate me with the previous Graf Urtica. I can't blame them though, I simply wish to live as a regular Infected. Abhorring inequality ... You say I'm faking to be common? Whatever you say. Even if I am faking, I prefer to keep it that way till the very end.",
                 "jp": "どうも私とウルティカの先代当主を同一視したい者が一定数いるようだが、仕方のないことだ。だが、私はただ不公平を骨の髄から憎む、ありふれた感染者でありたいだけなのだ……芝居？そうかもしれないな。しかし、たとえ芝居であっても、そんな私という役を演じ切るつもりだ、終演を迎えるまでな。",
                 "kr": "내게서 우르티카의 선대 주인을 비춰보고자 하는 사람들도 있는 것 같다만, 그걸 탓할 수는 없겠지. 하지만, 나는 그저 차별을 증오하는 평범한 감염자로서 있고 싶을 뿐이야…… 연기 같다고? 그럴 수도 있겠지. 하지만, 비록 연기일지라도 나는 이런 나 자신을 끝까지 연기해 내고 싶어. 마지막 순간까지 말이야.",
                 "cn": "总有人喜欢把我和乌提卡的上一位主人绑定在一起，这不怪他们，可我只想做一个痛恨不平等的普通感染者......表演？也许吧。但是，就算是演，我也要把这样的自己演下去，演到最后一刻。"
@@ -553,6 +553,22 @@
             "asset": "char_4046_ebnhlz/CN_037"
         },
         {
+            "id": "char_4046_ebnhlz_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "I'm not omitting myself from the New Year celebrations for any special reason. I'm just not accustomed to that sort of harmonious atmosphere... You'd like to invite me to perform a song? Forget it, my music would be a horrible match for this mood.",
+                "jp": "皆と共に新年を祝わないことに特別な理由などない。ただ、ああいう楽しげで和気藹々とした雰囲気に馴染めないだけだ……私が演奏を？いや、よしておこう。私の音楽はこういった場に相応しくない。",
+                "kr": "모두와 함께 새해를 축하하지 않는 건, 다른 특별한 이유가 있어서가 아니야. 그저, 그런 따스한 분위기에 익숙하지 않았을 뿐…… 내게 연주를 부탁하고 싶다고? 글쎄, 내 음악은 그런 분위기와는 어울리지 않아.",
+                "cn": "之所以不去和大家一起庆祝新年，并不是因为什么特别的原因。我只是不适应那种其乐融融的气氛罢了......想请我演奏一曲？还是算了吧，我的音乐与这样的氛围并不相称。"
+            },
+            "asset": "char_4046_ebnhlz/CN_038"
+        },
+        {
             "id": "char_4046_ebnhlz_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "休息得如何，博士？曾经我也喜欢熬夜，直到有一次，我一整夜没有合眼，然后剧烈的头痛持续了一个星期......那真是恐怖的经历。"
             },
             "asset": "char_4046_ebnhlz/CN_042"
+        },
+        {
+            "id": "char_4046_ebnhlz_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Every day passed at a crawl in Urtica, but now a year's silently flown by since coming to Rhodes Island... It feels like time's sped up. I imagine that's just proof life is more blessed now.",
+                "jp": "ウルティカにいた頃は毎日が緩慢に過ぎていた。しかしロドスに来てからは、一年という時があっという間に……今は時間が飛ぶように早く感じるよ。これも以前より生活が満たされたという証だろうな。",
+                "kr": "우르티카에 있을 땐 하루하루가 일 년 같았지. 로도스 아일랜드에선, 일 년이 이렇게나 소리 없이 지나가 버리는군…… 시간의 흐름이 빠르다고 느껴진다는 건 즉, 이전보다 행복한 삶을 살고 있다는 뜻이겠지.",
+                "cn": "在乌提卡的时候，每一天都过得很慢，到了罗德岛以后，一年却就这样无声无息地过去了......觉得时间变快了，这大概就是生活比以前幸福的证明吧。"
+            },
+            "asset": "char_4046_ebnhlz/CN_044"
         }
     ],
     "actors": {

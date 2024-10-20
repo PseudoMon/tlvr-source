@@ -864,6 +864,18 @@
         "rating": 4
     },
     {
+        "nameid": "luton",
+        "numberid": "4130",
+        "name": {
+            "en": "Lutonada",
+            "jp": "ルトナダ",
+            "kr": "루토나다",
+            "cn": "露托"
+        },
+        "nation": "bolivar",
+        "rating": 4
+    },
+    {
         "nameid": "sunbr",
         "numberid": "196",
         "name": {
@@ -1476,6 +1488,18 @@
         "rating": 5
     },
     {
+        "nameid": "odda",
+        "numberid": "4131",
+        "name": {
+            "en": "Odda",
+            "jp": "オッダ",
+            "kr": "오다",
+            "cn": "奥达"
+        },
+        "nation": "rhodes",
+        "rating": 5
+    },
+    {
         "nameid": "bluep",
         "numberid": "129",
         "name": {
@@ -1821,6 +1845,18 @@
             "cn": "蚀清"
         },
         "nation": "columbia",
+        "rating": 5
+    },
+    {
+        "nameid": "aroma",
+        "numberid": "446",
+        "name": {
+            "en": "Aroma",
+            "jp": "アロマ",
+            "kr": "아로마",
+            "cn": "阿罗玛"
+        },
+        "nation": "siracusa",
         "rating": 5
     },
     {
@@ -2972,7 +3008,7 @@
             "kr": "이네스",
             "cn": "伊内丝"
         },
-        "nation": "rhodes",
+        "nation": null,
         "rating": 6
     },
     {
@@ -3324,6 +3360,18 @@
         "rating": 6
     },
     {
+        "nameid": "ascln",
+        "numberid": "4132",
+        "name": {
+            "en": "Ascalon",
+            "jp": "アスカロン",
+            "kr": "아스카론",
+            "cn": "阿斯卡纶"
+        },
+        "nation": "rhodes",
+        "rating": 6
+    },
+    {
         "nameid": "ghost2",
         "numberid": "1023",
         "name": {
@@ -3620,7 +3668,7 @@
             "kr": "외드레르",
             "cn": "赫德雷"
         },
-        "nation": "rhodes",
+        "nation": null,
         "rating": 6
     },
     {

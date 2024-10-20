@@ -51,7 +51,7 @@
             "text": {
                 "en": "If Rhodes Island's looking for business partners, you can definitely trust these companies. Hey! Why are you looking at me like that? I'm just genuinely listing off my recommendations. You're making it look like I'm plotting a hostile takeover of Rhodes Island. If I'm actually planning an M&A... I just need to talk you round, right?",
                 "jp": "ロドスがビジネスパートナーを探してるなら、ここらへんの会社は信用できるわよ――何よその目？真面目におススメしてあげてるのに、まるでアタシがロドスの吸収合併を企んでるみたいじゃない。というか、もし本当にそれを狙ってたら――アンタを説得すればいいの？",
-                "kr": "로도스 아일랜드가 비즈니스 파트너를 찾고 있는 거라면, 내가 추천해 줄 회사가 몇 군데 있어…… 뭐야 그 눈은? 나름 진지하게 추천해 주려던 건데, 설마 내가 로도스 아일랜드를 합병하기라도 할까 봐? 훗, 내가 정말 그럴 생각이었다면, 진작에 그 회사에 연락해서... 아! 그땐 너만 설득하면 되는 건가?",
+                "kr": "로도스 아일랜드가 비즈니스 파트너를 찾고 있는 거라면, 내가 추천해 줄 회사가 몇 군데 있어…… 뭐야 그 눈은? 나름 진지하게 추천해 주려던 건데, 설마 내가 로도스 아일랜드를 합병하기라도 할까 봐? 훗, 내가 정말 그럴 생각이었다면, 진작에 그 회사에 연락해서…… 아! 그땐 너만 설득하면 되는 건가?",
                 "cn": "罗德岛要谈商业合作的话，可以信任这几家公司——干嘛这么看着我？我是在很真诚地推荐合作伙伴，为什么搞得好像我准备兼并罗德岛一样？如果我真的有这个打算——是不是只要说服你就好？"
             },
             "asset": "char_1033_swire2/CN_003"
@@ -553,6 +553,22 @@
             "asset": "char_1033_swire2/CN_037"
         },
         {
+            "id": "char_1033_swire2_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Happy New Year! Perfect timing. Come carry these things for me. I've got gifts for all my friends here in Rhodes Island—Oh! Be careful with that! Pure gold's very heavy!",
+                "jp": "明けましておめでとう！ちょうどいいところに来たわね、これを運ぶの手伝って。ロドスのみんなにちょっとしたプレゼントを用意したのよ。全員分あるからね――ちょっと、気をつけなさいよ、金は重いんだから！",
+                "kr": "새해 복 많이 받아! 마침 잘 왔어, 이거 옮기는 것 좀 도와줘. 로도스 아일랜드 친구들을 위해 작은 선물을 준비했어, 한 명도 빠짐없이 다 준비했으니까…… 앗! 조심해, 금은 엄청 무겁다고.",
+                "cn": "新年好！来得正好，帮我搬一下这些东西。给罗德岛的朋友们准备了一点小礼物，人人都有——哎！当心点，黄金很沉的！"
+            },
+            "asset": "char_1033_swire2/CN_038"
+        },
+        {
             "id": "char_1033_swire2_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "早上好啊......嗯？就是普通的问候，你在期待什么？嗷呜？"
             },
             "asset": "char_1033_swire2/CN_042"
+        },
+        {
+            "id": "char_1033_swire2_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "The relationships you build on the battlefield are not something you can fake. Hoshiguma is pretty worried about that stuff, though, always beating around the bush. Next time, I'll drag her to Rhodes Island to join the parties. Avoiding suspicion? I'm the chief of the L.G.D. Who am I supposed to avoid looking suspicious to?",
+                "jp": "共に戦場で肩を並べた絆っていうのは、本物なの。なのにホシグマったら、どう見たって参加したがってるのに、無駄にカッコつけちゃって。次は絶対アイツを引っ張ってきてロドスでパーティーするわよ……不用意な行動は避けた方がいい？アタシが局長なんだけど。局長のアタシが誰に遠慮するのよ？",
+                "kr": "전장에서 함께 쌓아 올린 유대감은 거짓이 아니야. 근데 호시구마 그 녀석은 누가 봐도 끼고 싶어 하는 눈치인데도 엄청 사양한다니까. 다음엔 꼭 그 녀석을 끌고 와서라도 로도스 아일랜드에서 파티할 거야…… 괜한 행동은 하지 말라고? 내가 국장인데, 국장인 내가 남의 눈치를 봐야 하냐고!",
+                "cn": "一起上过战场的交情做不了假，反倒是星熊那家伙，明明在意得很，就是要遮遮掩掩的，下次一定拉着她来罗德岛开派对......避嫌？我都已经是局长了，我向谁避嫌？"
+            },
+            "asset": "char_1033_swire2/CN_044"
         }
     ],
     "actors": {

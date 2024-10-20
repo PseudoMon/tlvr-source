@@ -553,6 +553,22 @@
             "asset": "char_245_cello/CN_037"
         },
         {
+            "id": "char_245_cello_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "The New Year's concert is about to begin. No, I'm not a part of the performance, this is a gift the children have prepared for you. I'd much rather be on the sidelines, recording the joy blooming across your face and the children's when the music begins.",
+                "jp": "ニューイヤーコンサートも間もなく開演ね。いいえ、私は出演しないわ。これは子供たちからあなたへのプレゼントだから。私はここで、最初の音と一緒に弾けるあなたと彼らの喜びの表情を記録しておきたいの。",
+                "kr": "신년 음악회가 곧 시작될 거야. 아니, 난 연주에 참여하지 않기로 했어. 이건 아이들이 당신을 위해 준비한 선물이잖아. 난 음악이 울려 퍼지는 그 순간의, 당신과 아이들 얼굴에 피어오르는 기쁨을 기록해 두고 싶어.",
+                "cn": "新年音乐会快开始了。不，我不会参与演出，这是孩子们为您准备的礼物。在乐声响起的那一刻，我更想在一旁记录您与他们脸上绽放的喜悦。"
+            },
+            "asset": "char_245_cello/CN_038"
+        },
+        {
             "id": "char_245_cello_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "偶尔我也想远离人群，远离所有的声音，只感受我自己......还有您。"
             },
             "asset": "char_245_cello/CN_042"
+        },
+        {
+            "id": "char_245_cello_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "The end is approaching us. If you too believe that the emotional bonds between people help resist despair... the symphony I scored with Rhodes Island will certainly play.",
+                "jp": "終わりが私たちに迫っているわ。人と人との感情の繋がりが、絶望に抗う力になるとあなたも信じているのなら……私とロドスが共に綴る楽章が、いつか必ず鳴り響くわ。",
+                "kr": "끝이 다가오고 있어. 사람과 사람 사이의 연결된 감정이 절망에 맞서는 힘이 될 수 있다고 당신도 믿는다면…… 나와 로도스 아일랜드가 함께 써내려간 이 악장도, 언젠간 반드시 울려 퍼질 거야.",
+                "cn": "终点正在驶向我们。如果您也相信，人与人之间的情感连结，能帮我们抵御绝望......那我与罗德岛共谱的乐章，一定能在某个时刻奏响。"
+            },
+            "asset": "char_245_cello/CN_044"
         }
     ],
     "actors": {

@@ -1,0 +1,628 @@
+{
+    "charid": "char_4131_odda",
+    "nameid": "odda",
+    "names": {
+        "en": "Odda",
+        "jp": "オッダ",
+        "kr": "오다",
+        "cn": "奥达"
+    },
+    "voices": [
+        {
+            "id": "char_4131_odda_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Doctor, I'm leaving the landship tomorrow, so I tidied up your office. I put your daily necessities on your desk, and sorted everything else into the cabinets. You can refer to the notes I made whenever you take or return something, so you'll remember where they are.",
+                "jp": "ドクター、俺明日にはロドスを離れるから、今のうちにってことで執務室を片付けておいたぞー。日用品はデスクの上、それ以外は種類ごとにラックに入れてある。使い終わったらラベルを目印に元のとこに戻すようにすればごっちゃにならないからな。",
+                "kr": "박사, 나 내일 로도스 아일랜드를 떠나거든, 그래서 박사 사무실을 좀 정리해 봤어. 박사가 자주 쓰는 물건은 모두 책상 위에, 자주 안 쓰는 건 분류해서 캐비닛 안에 넣어뒀어. 앞으로 라벨대로 물건을 제자리에만 잘 두면 뒤죽박죽 엉망이 되진 않을 거야.",
+                "cn": "博士，明天我就要离舰了，临走前为您整理了办公室，您常用的东西都在桌子上，不常用的我也都分门别类放进了柜子。您用的时候按记号随取随放，就不会弄混了。"
+            },
+            "asset": "char_4131_odda/CN_001"
+        },
+        {
+            "id": "char_4131_odda_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Hm? You're talking to me? No, it's just, I only saw you a few times from a distance during our Babel days, and we never had a conversation. I saw you on the deck once. A gust of wind almost blew your coat away , so I wanted to remind you to wear more layers, but in the end... I didn't have the guts to  approach you.",
+                "jp": "ん、俺に挨拶してくれたのか？いやー、なんてことないんだけど、ドクターのことはバベルでちょろっと遠目に見かけたくらいで、喋ったことなかったからさ。甲板で風にコートを煽られてるのを見かけた時は、もう少し着込んだらどうだって声を掛けたかったんだけど、結局あと一歩が踏み出せなかったんだよな。",
+                "kr": "방금 나한테 인사한 거야? 아니, 아무것도 아니야. 전에 바벨에 있을 땐, 박사를 그저 멀찌감치에서 몇 번 본적만 있지 이렇게 함께 대화를 나눠 본 적은 없거든. 하루는 박사가 갑판 위에 서 있는데, 갑자기 불어온 바람에 박사의 외투가 뒤집힌 적이 있어. 그때 옷을 좀 더 껴입는 게 어떻겠냐고 얘기해 주고 싶었는데, 결국 다가가지 못했던 생각이 나네.",
+                "cn": "您在和我打招呼吗？没什么，以前在巴别塔我只是远远看过您几眼，从未和您讲过话。有次您站在甲板上，一阵风把您的外套带了起来，我想提醒您多加件衣服，但最后，我还是没敢走上前去。"
+            },
+            "asset": "char_4131_odda/CN_002"
+        },
+        {
+            "id": "char_4131_odda_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Doctor! Sorry, I should have mentioned not to touch my weapon. I'll apply some ointment for you, and you can keep the rest too. It was made for situations like this anyway, and it's pretty good for burns. What about me? It's fine... I've been used to its heat since long ago.",
+                "jp": "ドクター！……あちゃー、ほんと申し訳ない。迂闊に武器に触るなって言ってなかった俺の落ち度だ。いま薬を塗るからな……よし、余った分も持っていってくれ。元から仲間用のだからいいって。火傷には効果テキメンだぞ。え、自分では使わないのかって？俺は大丈夫だ……熱いのにはもうとっくに慣れてるからさ。",
+                "kr": "박사! 앗…… 미안해. 내 무기는 함부로 만지면 안 된다고 미리 말했어야 했는데, 내 잘못이야. 잠깐만, 약 발라 줄게…… 됐다, 남은 연고는 가져가. 원래도 다른 사람을 위해 준비해둔 거라서. 화상 치료엔 이것만 한 게 없거든. 나는 필요 없냐고? 괜찮아…… 익숙해져서 더는 뜨겁지 않거든.",
+                "cn": "博士！抱歉，怪我没有及时提醒您不要随意触碰我的武器。让我为您上些药吧，剩下的药膏您也可以拿走，本就是为别人准备的，治疗烫伤很有效果。我自己？没事......早就不觉得烫了。"
+            },
+            "asset": "char_4131_odda/CN_003"
+        },
+        {
+            "id": "char_4131_odda_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Doctor, why are you always giving me these toys? What? Because I have a baby face? Hahaha, I'm much older than you think. But you do remind me of the first toy I got as a boy, it was my mom's sword. When she gave it to me, she also said it was time I learned to be a man.",
+                "jp": "ドクター、なんでいつも子供のおもちゃを持ってくるんだ？え、俺が童顔だから？ハハ、これでも俺、ドクターの想像よりも歳いってると思うよ。おもちゃと言えば、小さい頃に初めてもらったおもちゃは母さんの剣だったなぁ。しかもそれを渡しといて、「これからは大人のようにしっかりしろ」なんて言うんだぜ。",
+                "kr": "박사, 왜 자꾸 이런 어린애들 장난감을 나한테 주는 거야? 내가 어려 보여서? 하하, 박사, 나는 박사가 생각하는 것보다 나이가 많다고. 그러고 보니 어렸을 때가 생각나네. 내가 처음 받은 장난감은 엄마의 검이었어. 근데 엄마는 그걸 주시면서 “이제부터 어른이 되는 법을 배워야 한다”라고 말씀하셨지.",
+                "cn": "博士，您怎么总给我分享这些孩子的玩具？因为我是娃娃脸？哈，我的年纪可比您以为的要大些。想起我小时候，收到的第一件玩具是妈妈的剑，可她交给我后却说，之后我就得学着做个大人了。"
+            },
+            "asset": "char_4131_odda/CN_004"
+        },
+        {
+            "id": "char_4131_odda_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "I grew up in Kazdel. It sounds like I had it easy, but I'm sure you know it's hard for a couple to raise a child there. They probably burned all the luck they had to let their boy grow up safe and sound.",
+                "jp": "俺はカズデルで育った――なんて言うのは簡単だけど、夫婦二人がカズデルで子供を育てることの大変さはドクターにもわかるだろ。大人まで無事に育て上げようってなったら、一生分の運を使い果たさないと無理かもってレベルだ。",
+                "kr": "나는 카즈델에서 자랐어. 별거 아닌 말처럼 들리겠지만, 너도 알다시피 카즈델에서 부부가 아이를 키우는 건 쉬운 일이 아니야. 아이를 무사히 어른으로 키운다는 건 어쩌면 그들 평생의 운을 다 써야 하는 일이지.",
+                "cn": "我是在卡兹戴尔长大的，这话说起来轻松，但您也知道，在那里一对夫妻抚养一个孩子很不容易，要让自己的孩子平安长大，搞不好，得耗尽他们一生的好运气。"
+            },
+            "asset": "char_4131_odda/CN_005"
+        },
+        {
+            "id": "char_4131_odda_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Too many things happened in Babel, so it's best you don't pry. Nah, I'm not running from the past. I simply think people naturally forget the past if they choose to keep moving forward. To hate, forgive, or to do neither, none of it matters.",
+                "jp": "バベルじゃ色んなことがありすぎた、聞くのもほどほどにな。いや、別に過去から逃げてるわけじゃなくて……なんて言うか、人は前に進むって決めたら、過去なんか自然に忘れていくものだろ。だから怨み辛みとか、許すとか許さないとか、そんなことはもういいんだ。",
+                "kr": "바벨에서는 너무 많은 일이 있었어. 그러니 박사도 너무 묻지는 말아줘. 뭐 딱히 과거에서 도망치겠다는 건 아니고…… 그냥 사람들이 계속 앞으로 나아가길 선택하면, 과거 같은 건 자연스럽게 잊히는 거라고 생각하거든. 원망을 하든 안 하든, 용서를 하든 안 하든, 그런 건 다 중요하지 않아.",
+                "cn": "在巴别塔发生的事情太多，您还是不要过问了。也不是我在逃避过去......我想，要是人们选择继续向前走，过往自然会被忘掉，恨不恨，原谅不原谅，都不重要。"
+            },
+            "asset": "char_4131_odda/CN_006"
+        },
+        {
+            "id": "char_4131_odda_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Doctor, someone asked me to give you this letter. She used to be in Babel's assault squad, but now she's back in Kazdel working as a smith. You can't make sense of it? Let me see... Man, there's so many spelling mistakes... Alright, so she's asking... how you are... Saying you should eat more... And wishing... you're still with all your limbs?",
+                "jp": "ドクター、とある人から手紙を預かってるぞ。昔はバベルの切り込み隊長だった奴だけど、今じゃカズデルで鍛冶師をやってるとか。え、読めない？ちょっと見せて。どれどれ――うわっ、スペルミスだらけだな。えーっと、お身体はいかがですか、食事をしっかり取って、どうか……五体満足でいてください？なんだこりゃ。",
+                "kr": "박사, 누가 네게 편지를 전해 달라고 부탁해서 가져왔어. 전에 바벨에 있을 땐 돌격병을 했었는데, 지금은 카즈델에서 대장장이를 하고 있는 사람이야. 뭐라고 썼는지 못 알아보겠다고? 내가 한번 볼게…… 아, 오타가 좀 많네. “몸은 어떠신가요, 식사 잘하세요…… 사지가 온전하길 바랄게요”라는데?",
+                "cn": "博士，有人托我给您带封信，她以前是巴别塔的冲锋兵，现在回卡兹戴尔做了铁匠。您没看懂？让我看下——唉，错字太多了，她这是在问您身体如何，劝您多吃饭，祝福您......四肢健全？"
+            },
+            "asset": "char_4131_odda/CN_007"
+        },
+        {
+            "id": "char_4131_odda_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "One year, everyone was celebrating a victory here in the canteen. We were both there, but with a group of people between us. People leave, scatter, and now only we two are left at this table. Oh, don't be upset, Doctor. Please, don't be upset. It's alright if you don't remember, at least I still do.",
+                "jp": "何年も前にみんなで食堂に集まって勝利を祝ったことがあったんだけど、その場にはドクターも、俺もいたんだよ。ドクターは遠くに座ってて、俺との間には何十人もいたっけな。もうみんなバラバラになっちまって、今じゃあこのテーブルを囲むのは俺たち二人だけだ……ああごめん、悲しませたいわけじゃないんだ。覚えてなくたって構わない、俺が全部覚えてるからさ。",
+                "kr": "몇 년 전이지, 언젠가 다 같이 식당에 모여서 승리를 자축한 적이 있었어. 그 자리에는 박사도, 나도 있었지. 그때 우리 둘 사이엔 수십 명이 앉아 있었지만, 하하. 이제 모두 뿔뿔이 흩어져, 이 테이블에는 우리 둘만 남았네…… 아, 박사, 너무 슬퍼하지는 마. 기억하지 못해도 상관없어. 내가 기억하고 있으니까.",
+                "cn": "有一年大家在食堂庆祝胜利，您在，我也在，不过离得很远，中间隔了好几十人。如今走的走，散的散，只剩这张桌子上的您和我了......哎，博士您别难过，不记得也没关系，还有我记着。"
+            },
+            "asset": "char_4131_odda/CN_008"
+        },
+        {
+            "id": "char_4131_odda_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "You're... oh, it's you, Doctor. I've had a bit too much to drink... Y-You're awful clever, could you tell me something? Why do I have to see so much turmoil... and change? Shouldn't our eyes... be filled with nothing... but our loved ones?",
+                "jp": "え、誰だぁ……あー、ドクターか。俺ちょっと飲みすぎたかも。ドク、ドクターは賢いから教えてほしいんだ。なんで俺の視界にはいつも、いつも混乱とか、変わってくものばっかり映るんだろうな？人生で目に映していいのは、愛する人の姿だけじゃないのかよ？",
+                "kr": "누구…… 아, 박사였구나. 내가 좀 많이 마셨나 보네. 박사는 똑똑하니까 이것 좀 알려 줄래? 왜 내 눈에는 늘, 이렇게 혼란스럽고 변해가는 것들만 담길까? 인생을 살아가며 눈에 담아야 하는 건 본인이 사랑하는 사람이어야 하잖아.",
+                "cn": "你是......哦，博士，是您啊。我喝得有点多了。您、您是那么聪明的人，能不能告诉我？为什么我的眼睛要看到这么多的动荡与变迁？人这一生该放在眼里的，难道不是只有自己爱的人吗？"
+            },
+            "asset": "char_4131_odda/CN_009"
+        },
+        {
+            "id": "char_4131_odda_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Sorry to wake you, Doctor. I shouldn't have barged in like that. The weather's been getting colder, so I... just wanted to make sure you stay warm.",
+                "jp": "あ、起こしてごめん、ドクター。ドアの音がちょっとうるさかったかな。最近寒くなってきたから……服を掛けてあげたくてさ。",
+                "kr": "깨워서 미안, 박사. 문소리가 시끄러웠나 보네. 요즘 날씨가 추워져서…… 옷을 좀 덮어주려고.",
+                "cn": "不好意思，博士，是我开门的声音太大，吵醒您了。最近天气凉，我......只是想进来为您披件衣服。"
+            },
+            "asset": "char_4131_odda/CN_010"
+        },
+        {
+            "id": "char_4131_odda_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Maybe you don't remember me, Doctor? I used to work for you a long time ago. Odda. That's my name.",
+                "jp": "ドクター、俺のことはもう覚えてないかな？ずっと昔に、ドクターの下で働いてたんだよ。オッダ、俺の名はオッダだ。",
+                "kr": "박사, 아마 날 기억하지 못하겠지만, 난 아주 오래전에 박사 밑에서 일했었어. 오다, 내 이름은 오다야.",
+                "cn": "博士，您可能不记得我？很多年前我曾在您手下做事，奥达，我的名字是奥达。"
+            },
+            "asset": "char_4131_odda/CN_011"
+        },
+        {
+            "id": "char_4131_odda_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "This training method is pretty good. I remember how recruits used to be sent straight to the battlefield, they would've more or less learned how to fight, if they managed to survive.",
+                "jp": "いいやり方だな。昔は新人をいきなり戦場に放り込んで、生き残れたら多少は経験を積めるって方針だったもんな。",
+                "kr": "이 방법 괜찮네. 그러고 보면 예전에는 신입은 들어오자마자 바로 전장에 내보냈었는데. 살아남는다는 건 뭐든 배웠다는 의미니까.",
+                "cn": "现在这方法不错，想想以前，新来的家伙刚到就会被送去战场，能活下来的话，肯定多多少少会学到些什么。"
+            },
+            "asset": "char_4131_odda/CN_012"
+        },
+        {
+            "id": "char_4131_odda_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Thanks, Doctor. I'm always anticipating your approval.",
+                "jp": "ありがとう、ドクター。こうやって認められる日をずっと心待ちにしてたんだ。",
+                "kr": "고마워, 박사. 이렇게 인정받을 날을 계속 기다리고 있었어.",
+                "cn": "谢谢，博士，我一直期待获得您的认可。"
+            },
+            "asset": "char_4131_odda/CN_013"
+        },
+        {
+            "id": "char_4131_odda_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "That's great... you don't exchange heads for rewards here.",
+                "jp": "いいよな……ここじゃあ首と報酬を引き換えなくてもいいんだもんな。",
+                "kr": "다행이야…… 여기선 머릿수로 포상하지 않는구나.",
+                "cn": "挺好......这里不是用人头来换奖赏。"
+            },
+            "asset": "char_4131_odda/CN_014"
+        },
+        {
+            "id": "char_4131_odda_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Live on, so we can see each other again.",
+                "jp": "生き残ろう。生き残って、また会うんだ。",
+                "kr": "살아남자. 살아남아서 다시 만나는 거야.",
+                "cn": "活下来，我们还要再见。"
+            },
+            "asset": "char_4131_odda/CN_017"
+        },
+        {
+            "id": "char_4131_odda_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Don't come too close to me, the flames might sputter.",
+                "jp": "あんまり近づくなよー。おっ始まったらこいつが火を噴くからな。",
+                "kr": "너무 가까이 오지마. 얘가 곧 불을 뿜을 거거든.",
+                "cn": "别离得太近，等下火焰会溅射出来。"
+            },
+            "asset": "char_4131_odda/CN_018"
+        },
+        {
+            "id": "char_4131_odda_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "The steam has dissipated.",
+                "jp": "蒸気も散ったな。",
+                "kr": "증기가 사라졌네.",
+                "cn": "蒸汽散去了。"
+            },
+            "asset": "char_4131_odda/CN_019"
+        },
+        {
+            "id": "char_4131_odda_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "I'm sorry we had to meet here.",
+                "jp": "こんなところでお前たちに会うなんて、本当に残念だよ。",
+                "kr": "이런 곳에서 너희를 만나다니, 유감이야.",
+                "cn": "很遗憾，在这里见到你们。"
+            },
+            "asset": "char_4131_odda/CN_020"
+        },
+        {
+            "id": "char_4131_odda_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "This blade has gone through countless whetstones.",
+                "jp": "無数の戦場で磨かれた剣の切れ味を見せてやる。",
+                "kr": "무수한 전장에서 연마한 검의 예리함을 보여주지.",
+                "cn": "这把刀，已经经历了无数次的磨砺。"
+            },
+            "asset": "char_4131_odda/CN_021"
+        },
+        {
+            "id": "char_4131_odda_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "This hammer has gone through many years of tempering.",
+                "jp": "何年も鍛練を積んできた鉄槌のお披露目といこう。",
+                "kr": "이 망치는 아주 오랜 시간 단련됐다고.",
+                "cn": "这柄重锤，已经经受了许多年的锻炼。"
+            },
+            "asset": "char_4131_odda/CN_022"
+        },
+        {
+            "id": "char_4131_odda_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "I'm here.",
+                "jp": "着いたぞ。",
+                "kr": "도착했어.",
+                "cn": "我来到了。"
+            },
+            "asset": "char_4131_odda/CN_023"
+        },
+        {
+            "id": "char_4131_odda_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "I see them.",
+                "jp": "見えた。",
+                "kr": "보여.",
+                "cn": "我看见了。"
+            },
+            "asset": "char_4131_odda/CN_024"
+        },
+        {
+            "id": "char_4131_odda_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "The dead, I will remember.",
+                "jp": "散っていった連中は、俺が覚えておく。",
+                "kr": "먼저 떠나간 사람들은, 내가 기억할 거야.",
+                "cn": "那些已死去的人，我会记住。"
+            },
+            "asset": "char_4131_odda/CN_025"
+        },
+        {
+            "id": "char_4131_odda_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "The living, I will protect.",
+                "jp": "生きてる仲間たちは、俺が守る。",
+                "kr": "아직 살아남은 사람들은, 내가 지키겠어.",
+                "cn": "那些还活着的人，我会守护。"
+            },
+            "asset": "char_4131_odda/CN_026"
+        },
+        {
+            "id": "char_4131_odda_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "You won't take what I've got now!",
+                "jp": "俺の大切なものは、一つだって奪わせない。",
+                "kr": "내게 소중한 건, 절대 빼앗기지 않겠어.",
+                "cn": "如今我拥有的，你们无法夺走。"
+            },
+            "asset": "char_4131_odda/CN_027"
+        },
+        {
+            "id": "char_4131_odda_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "My childhood is LONG GONE!",
+                "jp": "俺はもうとっくに大人だ。",
+                "kr": "난 진작에 어른이었다고.",
+                "cn": "我早就不是孩子了。"
+            },
+            "asset": "char_4131_odda/CN_028"
+        },
+        {
+            "id": "char_4131_odda_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Thank you for lending me your luck, Pops...",
+                "jp": "運気を分けてくれてありがとう、親父……",
+                "kr": "나한테 운을 빌려줘서 고마워, 아빠……",
+                "cn": "谢谢你借给我的运气，爸爸......"
+            },
+            "asset": "char_4131_odda/CN_029"
+        },
+        {
+            "id": "char_4131_odda_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Let's go back, Doctor. I'm craving a <i>huge</i> cup of ice water right about now.",
+                "jp": "一緒に帰ろう、ドクター。ジョッキいっぱいの氷水が恋しくてたまらないな。",
+                "kr": "돌아가자, 박사. 지금 난 얼음 한가득 채운 시원한 물이 정말 생각나.",
+                "cn": "一起回去吧，博士，我现在很想来一大杯加满冰的水。"
+            },
+            "asset": "char_4131_odda/CN_030"
+        },
+        {
+            "id": "char_4131_odda_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Anyway, we won.",
+                "jp": "何はともあれ、俺たちは勝ったんだ。",
+                "kr": "어쨌든 우리가 이겼네.",
+                "cn": "无论如何，我们都胜利了。"
+            },
+            "asset": "char_4131_odda/CN_031"
+        },
+        {
+            "id": "char_4131_odda_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Doctor, no matter how things turned out, it's over... let's go back.",
+                "jp": "ドクター、結果はどうあれ、もう終わったことだ……あまり気に病まずに、もう帰ろう。",
+                "kr": "박사, 결과가 어떻든 이미 지나간 일이야…… 마음 쓰지 말고, 이제 돌아가자.",
+                "cn": "博士，不论结果如何，事情都过去了......别挂在心上，我们回去吧。"
+            },
+            "asset": "char_4131_odda/CN_032"
+        },
+        {
+            "id": "char_4131_odda_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Doctor, should I turn up the air conditioner? Sorry, my body gets so hot, it's even heating up our surroundings.",
+                "jp": "ドクター、クーラーを下げてこようか？あ、申し訳ない、俺は体温が高いから周りまで暑くなるんだよな。",
+                "kr": "박사, 에어컨 온도 좀 더 낮출까? 미안, 내가 체온이 높은 편이라 주변도 같이 뜨거워졌네.",
+                "cn": "博士，我去把空调温度调低些吧？不好意思，我体温比较高，连带着周围也变热了。"
+            },
+            "asset": "char_4131_odda/CN_033"
+        },
+        {
+            "id": "char_4131_odda_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Whoa! Your fingers are so cold!",
+                "jp": "うわっ、なんて冷たい手だ！",
+                "kr": "윽, 손가락이 너무 차가운데!",
+                "cn": "嘶，您的手指真的很凉！"
+            },
+            "asset": "char_4131_odda/CN_034"
+        },
+        {
+            "id": "char_4131_odda_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Ah! Please don't touch my tail. It broke off once, and it doesn't feel good if people touch it.",
+                "jp": "わ、悪いけど尻尾は勘弁してくれ。昔折れちまって、触られるとぞわぞわするんだ。",
+                "kr": "아 그 내, 내 꼬리는 만지지 말아 줘. 옛날에 부러진 적이 있어서 좀 불편하거든.",
+                "cn": "请、请不要动我的尾巴，它曾经折断过，会不舒服。"
+            },
+            "asset": "char_4131_odda/CN_036"
+        },
+        {
+            "id": "char_4131_odda_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4131_odda/CN_037"
+        },
+        {
+            "id": "char_4131_odda_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Doctor, I know a new year means new expectations. But... I've long since stopped wanting anything more than not losing what I've got now. That's my biggest hope.",
+                "jp": "分かってるよ、ドクター。そりゃあ新たな一年には新たな願望が付き物だけど……俺はもうずっと昔に、そういう願掛けはやめたんだ。俺にとって一番の願いは、今手にしているものを失わないことだからな。",
+                "kr": "나도 알아, 박사. 새해에는 새로운 소원이 따라야 한다는 걸. 하지만…… 난 이미 오래전에 새로운 소원을 비는 걸 그만뒀어. 내게 있어 가장 큰 소원은, 지금 갖고 있는 소중한 것들을 잃지 않는 거니까.",
+                "cn": "我知道，博士，新的一年总该有些新的期许。只不过......很早以前，我就不再许愿要得到什么了，能不失去现在拥有的，就是我最大的愿望了。"
+            },
+            "asset": "char_4131_odda/CN_038"
+        },
+        {
+            "id": "char_4131_odda_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Don't forget to eat and drink water regularly, Doctor.",
+                "jp": "規則正しい食事と水分補給を怠らないようにな。",
+                "kr": "규칙적인 식사와 충분한 수분 보충 잊지 마.",
+                "cn": "您要记得按时吃饭，按时喝水。"
+            },
+            "asset": "char_4131_odda/CN_042"
+        },
+        {
+            "id": "char_4131_odda_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "There was a time when I got myself somewhere high up all alone, thinking I'd see a different view above Kazdel that wasn't just the usual smoke and fire. But even when my eyes were hurting from the smoke, I still couldn't see anything. Unlike the past, today I can see a different sight with you on the landship— a sky so pretty and blue.",
+                "jp": "昔、高所からなら煙幕と戦火以外の風景が見えるんじゃないかと思って、一人でカズデルの高いところまで登ってみたことがあるんだ。だけど、煙が目に染みるばっかりでなんにも見えなかったよ。今こうやって甲板でドクターと見上げる空は全然違うなぁ。真っ青でさ、なんて綺麗なんだろう。",
+                "kr": "옛날에, 카즈델의 아주 높은 곳까지 올라가 본 적이 있어. 그렇게 높은 곳이라면 혹시 짙은 연기와 불꽃 외에 다른 풍경을 볼 수 있지 않을까라는 생각이 들었거든. 근데 연기 때문에 눈이 얼마나 따갑던지, 아무것도 안 보이더라. 지금 이렇게 갑판에서 박사와 나란히 올려다보는 하늘은 정말 다르네. 이토록 푸르고, 예쁜 광경이라니.",
+                "cn": "以前，我一个人爬到很高的地方，以为在卡兹戴尔的上方除了浓烟和火焰外，还会有另外的风景，可眼睛熏疼了，也什么都没看到。不像今天和您在舰船上，能看见天空，蓝蓝的，挺漂亮。"
+            },
+            "asset": "char_4131_odda/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Ry McKeand",
+            "global": "Ry McKeand"
+        },
+        "cn": {
+            "native": "于松涛",
+            "global": "Songtao Yu"
+        },
+        "jp": {
+            "native": "浅利遼太",
+            "global": "Ryota Asari"
+        },
+        "kr": {
+            "native": "한만중",
+            "global": "Han Man-joong"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

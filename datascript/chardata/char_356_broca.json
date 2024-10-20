@@ -17,7 +17,7 @@
                 "cn": "任命助理"
             },
             "text": {
-                "en": "Stand guard? ...Tch, fine.",
+                "en": "Stand guard? How annoying... Fine.",
                 "jp": "護衛？……チッ、わかったよ。",
                 "kr": "호위? ……쳇, 알았어.",
                 "cn": "护卫？......啧，我知道了。"
@@ -33,7 +33,7 @@
                 "cn": "交谈1"
             },
             "text": {
-                "en": "That Amiya girl is one of this place's leaders? What a black-hearted organization Rhodes Island is.",
+                "en": "That Amiya girl is one of this place's leaders? What a black-hearted company Rhodes Island is.",
                 "jp": "あのアーミヤって小娘がここのリーダーの一人だと？とんだブラック企業なんだな、ロドスって。",
                 "kr": "저 아미야라는 꼬맹이가 여기 리더 중 하나라고? 말도 안 되는 악덕 기업이군, 로도스 아일랜드는.",
                 "cn": "那个叫阿米娅的小女孩也是这里的领导者？罗德岛到底是什么黑心公司。"
@@ -49,7 +49,7 @@
                 "cn": "交谈2"
             },
             "text": {
-                "en": "I have no intent on being a freeloader. If you need any manual labor done, just let me know.",
+                "en": "I'm not about to freeload here. Just let me know if you need some elbow grease.",
                 "jp": "タダ飯は性に合わない。力仕事があればいつでも声をかけてくれ。",
                 "kr": "공짜 밥은 성미에 안 맞아. 힘쓰는 일이 있으면 언제든 말해줘.",
                 "cn": "我不喜欢吃白食，有什么体力活需要我，可以找我。"
@@ -81,7 +81,7 @@
                 "cn": "晋升后交谈1"
             },
             "text": {
-                "en": "My hobbies? I have no reason to tell you, do I? ...Good grief, stop making that face. You'll leave me alone if I tell you, right... I like modifying various things.",
+                "en": "My hobbies? Why should I tell you? Ugh... Alright, alright, I'll tell you. Just stop making that face... I like tinkering.",
                 "jp": "俺の趣味？教える義理はないな。……ったく、その目やめろ、言えばいいんだろ言えば。……色んなもんを改造するのが好きなんだ。",
                 "kr": "내 취미? 가르쳐 줄 의무는 없는데. 나 참…… 그렇게 보지 마. 말하면 되잖아, 말하면…… 난 이것저것 개조하는 걸 좋아한다.",
                 "cn": "兴趣？为什么我要告诉你？......啧，别用那种眼神看我，告诉你行了吧，我喜欢自己做各种改造。"
@@ -97,7 +97,7 @@
                 "cn": "晋升后交谈2"
             },
             "text": {
-                "en": "Back then, had it not been for Chiave and Aosta, I would've been dead in that alley. So, my life belongs to them. No matter what they want me to do, I will do it without hesitation.",
+                "en": "Without Chiave and Aosta, I'd be a corpse in an alley. I owe them my life. So no matter what they want, I'll help them without a second thought.",
                 "jp": "あの日、もしキアーベとアオスタがいなかったら、俺は間違いなくあの路地裏で野垂れ死んでた。だからこの命はもうあの二人のものなんだ。あいつらが何をする時も、俺は力を貸すだけだ。",
                 "kr": "그날, 키아베와 아오스타가 없었으면 난 틀림없이 그 뒷골목에서 객사했을 거야. 그러니까 이 목숨은 이미 그 두 사람 것이지. 그 녀석들이 뭘 하려 하든, 난 그 녀석들을 도울 거다.",
                 "cn": "如果没有贾维和奥斯塔，我已经死在那天那条小巷子里了。所以，我这条命是他们的，无论他们想做什么，我都会帮他们。"
@@ -129,7 +129,7 @@
                 "cn": "信赖提升后交谈2"
             },
             "text": {
-                "en": "Work hard, make money, and continue surviving. I used to think that was all there was to life. However, Aosta was right. In a country like Siracusa, something like that is nothing more than a pipe dream.",
+                "en": "Do what you're told, keep the wolf from the door, live life. They all seemed like simple ideas once to me... But Aosta was right. In a country like Siracusa, things like those aren't ideas, they're dreams.",
                 "jp": "ちゃんと働いて、ちゃんと稼いで、ちゃんと生きていく。昔はそれだけでいいって思ってた……でも、そうだな、アオスタの言葉を借りると、シラクーザって国じゃ、そんな願いですら、「夢」になっちまうんだ。",
                 "kr": "제대로 일하고, 제대로 벌어서, 제대로 살아간다. 옛날엔 그것만으로도 충분하다고 생각했다…… 하지만…… 그래, 아오스타의 말을 빌리자면 '시라쿠사'라는 나라에서는, 그런 바람조차 '꿈'이 되어 버리지.",
                 "cn": "好好做事，好好赚钱，好好生活，曾经，我的想法就这么简单......不过，奥斯塔说得对，在叙拉古这个地方，这样的想法，应该叫梦想。"
@@ -145,7 +145,7 @@
                 "cn": "信赖提升后交谈3"
             },
             "text": {
-                "en": "I acknowledge your right to lead.... However, Aosta once said that corruption begins to seep into an organization the moment you let your guard down. To prevent that from happening, I'll be keeping a close eye on you.",
+                "en": "I gotta say, your leadership skills are decent... But Aosta once said that an organization turns rotten when people let their guard down. So, I'll be keeping a close eye on you.",
                 "jp": "お前のリーダーとしての資質は認めよう。だが……「組織の腐敗はほんの些細な怠慢から始まる」ってアオスタが言ってた。そうならないように俺が見張ってやることにしよう。",
                 "kr": "너의 리더로서의 자질은 인정하지. 하지만…… “조직의 부패는 아주 사소한 태만에서 시작된다”고…… 아오스타가 그랬다. 그렇게 되지 않도록, 내가 감시해 주도록 하지.",
                 "cn": "我承认，你这家伙作为领导者来说还可以......但是，奥斯塔说过，一个组织的腐化，有时候就是从掉以轻心的时候开始的，我会盯紧你。"
@@ -161,7 +161,7 @@
                 "cn": "闲置"
             },
             "text": {
-                "en": "Asleep? Good grief, what a carefree fellow... Tch, where'd the blanket go...",
+                "en": "Asleep? What a carefree Doctor... Gah, where'd the blanket go…?",
                 "jp": "寝てる？ったく、呑気な奴。チッ、毛布はどこにやったっけ……。",
                 "kr": "자나? 정말이지 느긋한 녀석이군…… 쳇, 담요를 어디다 뒀더라……",
                 "cn": "睡着了吗，真是悠哉的家伙。啧，毯子放哪儿去了......"
@@ -177,7 +177,7 @@
                 "cn": "干员报到"
             },
             "text": {
-                "en": "Since Chiave decided for me to join you, I don't have much else to say. You can call me Broca. I will listen to your orders, but don't count on me to do anything extra. I have no love for large organizations like yours.",
+                "en": "Since Chiave decided I'm joining you, I don't have much else to say. You can call me Broca. I'll follow your orders, but don't count on me doing anything extra. I have no love for big organizations like yours.",
                 "jp": "キアーベがここに入るって決めたからには、俺に文句なんてないさ。俺のことはブローカと呼べばいい。お前の指示には従うが、それ以上のことは期待しないでくれ。お前たちのような大きい組織にはいい印象なんてひとつもないからな。",
                 "kr": "키아베가 여기에 들어가겠다고 결정한 이상, 나한테 불만 같은 건 없어. 나는 브로카라고 부르면 된다. 네 지시에는 따르겠지만, 그 이상은 기대하지 마라. 너희들 같은 커다란 조직은 좋게 생각 안 하니까.",
                 "cn": "既然贾维决定加入你们，我也没什么好说的。你可以叫我布洛卡，我会听你的命令，但别指望我做多余的事，我对你们这样的大组织可没有好感。"
@@ -193,7 +193,7 @@
                 "cn": "观看作战记录"
             },
             "text": {
-                "en": "...Thanks.",
+                "en": "Thanks.",
                 "jp": "……どうも。",
                 "kr": "……고맙다.",
                 "cn": "......谢谢。"
@@ -209,7 +209,7 @@
                 "cn": "精英化晋升1"
             },
             "text": {
-                "en": "A raise? ...Don't particularly need it.",
+                "en": "A raise...? Don't particularly need one.",
                 "jp": "昇給？……別に必要ない。",
                 "kr": "승진? ……딱히 필요 없어.",
                 "cn": "加薪？......我不是很需要。"
@@ -225,7 +225,7 @@
                 "cn": "精英化晋升2"
             },
             "text": {
-                "en": "Maybe Aosta was right, maybe Rhodes Island is trustworthy. If that's the case, I...",
+                "en": "Maybe Aosta was right, maybe Rhodes Island <i>is</i> actually trustworthy. And if so…",
                 "jp": "アオスタが言ってた通り、ロドスは信用できるかもしれない。だとすれば、俺は……。",
                 "kr": "아오스타가 말한 대로, 로도스 아일랜드는 믿을 수 있을지도 몰라. 그렇다면 난……",
                 "cn": "或许奥斯塔是对的，罗德岛可以信任。这样的话，那我......"
@@ -241,7 +241,7 @@
                 "cn": "编入队伍"
             },
             "text": {
-                "en": "Very well.",
+                "en": "Alright.",
                 "jp": "ああ。",
                 "kr": "그래.",
                 "cn": "好。"
@@ -289,7 +289,7 @@
                 "cn": "行动开始"
             },
             "text": {
-                "en": "Well then, time to fight.",
+                "en": "Time to fight.",
                 "jp": "さて、ケンカの時間だ。",
                 "kr": "자, 싸울 시간이다.",
                 "cn": "该打架了。"
@@ -353,7 +353,7 @@
                 "cn": "部署2"
             },
             "text": {
-                "en": "I'll figure something out.",
+                "en": "I can handle it.",
                 "jp": "俺が何とかする。",
                 "kr": "내가 어떻게든 하지.",
                 "cn": "我能应付。"
@@ -401,7 +401,7 @@
                 "cn": "作战中3"
             },
             "text": {
-                "en": "Drop dead.",
+                "en": "Die, you moron!",
                 "jp": "くたばれ。",
                 "kr": "죽어라.",
                 "cn": "去死。"
@@ -417,7 +417,7 @@
                 "cn": "作战中4"
             },
             "text": {
-                "en": "Shut up.",
+                "en": "Shaddap you face.",
                 "jp": "黙れ。",
                 "kr": "닥쳐.",
                 "cn": "闭嘴。"
@@ -433,7 +433,7 @@
                 "cn": "完成高难行动"
             },
             "text": {
-                "en": "You... aren't half bad.",
+                "en": "Alright… You've got a few tricks.",
                 "jp": "……お前、意外とすごいんだな。",
                 "kr": "……너, 의외로 굉장하구나.",
                 "cn": "......你这家伙，还挺厉害。"
@@ -481,7 +481,7 @@
                 "cn": "行动失败"
             },
             "text": {
-                "en": "No need to panic. You did what you could. Even Aosta makes mistakes.",
+                "en": "Relax. You did what you could. Even Aosta makes mistakes.",
                 "jp": "努力したんならいまさら慌ててもしょうがない。アオスタだってミスをすることもある。",
                 "kr": "충분히 노력했으니 당황할 필요 없어. 아오스타도 실수할 때가 있으니.",
                 "cn": "别慌，你努力了，奥斯塔也会有失手的时候。"
@@ -513,7 +513,7 @@
                 "cn": "戳一下"
             },
             "text": {
-                "en": "Oy...!",
+                "en": "Hey…!",
                 "jp": "おいっ……！",
                 "kr": "이봐……?!",
                 "cn": "你......！"
@@ -529,7 +529,7 @@
                 "cn": "信赖触摸"
             },
             "text": {
-                "en": "You're rather rude.",
+                "en": "You're pretty annoying, Doctor.",
                 "jp": "お前、しつこいぞ。",
                 "kr": "하지 말라 했을 텐데.",
                 "cn": "博士，你很烦。"
@@ -553,6 +553,22 @@
             "asset": "char_356_broca/CN_037"
         },
         {
+            "id": "char_356_broca_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Happy New Year, Doctor... What? I have to pay for my freeloading. Besides, occasions like these are incredible to me. Comparing to my time in Siracusa, Rhodes Island is decent.",
+                "jp": "新年快乐，博士......干什么，寄人篱下，这点礼数我还是懂的。而且，和之前在叙拉古相比，这种场面，我想都不敢想，罗德岛挺好的。",
+                "kr": "新年快乐，博士......干什么，寄人篱下，这点礼数我还是懂的。而且，和之前在叙拉古相比，这种场面，我想都不敢想，罗德岛挺好的。",
+                "cn": "新年快乐，博士......干什么，寄人篱下，这点礼数我还是懂的。而且，和之前在叙拉古相比，这种场面，我想都不敢想，罗德岛挺好的。"
+            },
+            "asset": "char_356_broca/CN_038"
+        },
+        {
             "id": "char_356_broca_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "早。"
             },
             "asset": "char_356_broca/CN_042"
+        },
+        {
+            "id": "char_356_broca_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "I didn't think I'd run into you here. I just finished cleaning up my workbench— there's been a lot of orders in for weapons lately. Why haven't I been supervising you lately? Because you don't seem like you're about to turn rotten these days. And I approve of your goals. Let's work hard together, Doctor.",
+                "jp": "没想到在这里遇到了，我刚清理完自己的工具台，最近武器制作的单子还挺多的。我怎么不监督你了？因为目前来看，你似乎没有什么堕落的倾向，更何况我已经认同了你的目标，一起努力吧，博士。",
+                "kr": "没想到在这里遇到了，我刚清理完自己的工具台，最近武器制作的单子还挺多的。我怎么不监督你了？因为目前来看，你似乎没有什么堕落的倾向，更何况我已经认同了你的目标，一起努力吧，博士。",
+                "cn": "没想到在这里遇到了，我刚清理完自己的工具台，最近武器制作的单子还挺多的。我怎么不监督你了？因为目前来看，你似乎没有什么堕落的倾向，更何况我已经认同了你的目标，一起努力吧，博士。"
+            },
+            "asset": "char_356_broca/CN_044"
         }
     ],
     "actors": {

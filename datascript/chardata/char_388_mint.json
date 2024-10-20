@@ -81,7 +81,7 @@
                 "cn": "晋升后交谈1"
             },
             "text": {
-                "en": "I like reading, but I love hanging out with everyone too! It makes me so happy when I can be with the people I like. Also, don't let my looks fool you. I'm really good at sporty stuff! Especially climbing trees. I can climb super high!",
+                "en": "I like reading, but I like hanging out with everyone too! It makes me so happy when I can be with the people I like. Also, don't be fooled. I'm really good at sporty stuff! Especially climbing trees. I can climb super high!",
                 "jp": "本を読むのも好きですが、皆さんと一緒に遊ぶのも好きです。好きな人と一緒にいるだけで、すごく楽しいんです。あと、こう見えても私、運動だって得意なんですよ。特に木登りなんか、すごーく高くまで登っちゃいますからね！",
                 "kr": "책을 읽는 것도 좋아하지만, 여러분과 함께 노는 것도 좋아해요. 좋아하는 사람과 함께 있는 것만으로도 굉장히 즐거운걸요. 그리고 이렇게 보여도 저요, 운동도 잘하거든요. 특히 나무타기 같은 건 엄~청 높은 데까지 올라갈 수 있다구요!",
                 "cn": "虽然喜欢看书，但我也喜欢和大家在一起玩，和喜欢的人待在一起，就会很开心。别看我这样，运动方面我还是很擅长的哦，特别是爬树，我能爬很高呢！"
@@ -97,7 +97,7 @@
                 "cn": "晋升后交谈2"
             },
             "text": {
-                "en": "Thank goodness my group's research wasn't halted after my accident, because I talked to Miss Eyjafjalla today, and she's given me a lot of new inspiration! She's very well-researched on environmental geology, heehee. If I can just get results this time, that'll let me reapply to the Institution to resume my studies.",
+                "en": "I got some new inspiration after talking to Miss Eyjafjalla today! She's very well-researched on environmental geology. Thank goodness my group's research wasn't stopped because of my accident. Heheh! If I get results this time, I can reapply to the Institution to resume my studies.",
                 "jp": "今日はエイヤフィヤトラさんとお喋りして、また新しいアイデアを閃いたんです。彼女は地質環境には本当に詳しいんですよ！うちのチームの課題が、私の起こした事故で休止にならなくて本当に良かったです。えへへ、もし今回良い結果が出れば、進学を申請して勉強を続けられたらと思います！",
                 "kr": "오늘 에이야퍄들라 씨랑 수다를 떨다가 또 새로운 아이디어가 떠올랐어요. 그분은 지질 환경에 대해 진짜 잘 아세요! 우리 팀 과제가 제가 사고 친 것 때문에 중지되지 않아서 진짜 다행이에요, 에헤헤. 혹시 이번에 좋은 결과가 나오면 진학 신청을 해서 공부를 계속하고 싶어요!",
                 "cn": "今天和艾雅法拉小姐聊天又获得了新的灵感，她对于地质环境真的很有研究！幸好我们小组的课题没有因为我出的意外被叫停，嘿嘿，如果这次能出结果，我就可以申请留校继续读书啦。"
@@ -553,6 +553,22 @@
             "asset": "char_388_mint/CN_037"
         },
         {
+            "id": "char_388_mint_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "嗯......有一点想爸爸妈妈了。天火学姐这么多年也一直都在外面，我要不要去问问她是怎么排解情绪的呢......啊，博士，今天会有信使来罗德岛吗？我可能要寄一封信出去呢。",
+                "jp": "嗯......有一点想爸爸妈妈了。天火学姐这么多年也一直都在外面，我要不要去问问她是怎么排解情绪的呢......啊，博士，今天会有信使来罗德岛吗？我可能要寄一封信出去呢。",
+                "kr": "嗯......有一点想爸爸妈妈了。天火学姐这么多年也一直都在外面，我要不要去问问她是怎么排解情绪的呢......啊，博士，今天会有信使来罗德岛吗？我可能要寄一封信出去呢。",
+                "cn": "嗯......有一点想爸爸妈妈了。天火学姐这么多年也一直都在外面，我要不要去问问她是怎么排解情绪的呢......啊，博士，今天会有信使来罗德岛吗？我可能要寄一封信出去呢。"
+            },
+            "asset": "char_388_mint/CN_038"
+        },
+        {
             "id": "char_388_mint_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "你在这里啊博士，找到你了。"
             },
             "asset": "char_388_mint/CN_042"
+        },
+        {
+            "id": "char_388_mint_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "要是可以参与更多的研究项目就好啦，导师还有团队成员总是太照顾我，担心过度劳累对病情不好，都不太让我参与一线的勘测了。我一定要在罗德岛好好治病，这样才能尽快回去投身于研究呀。",
+                "jp": "要是可以参与更多的研究项目就好啦，导师还有团队成员总是太照顾我，担心过度劳累对病情不好，都不太让我参与一线的勘测了。我一定要在罗德岛好好治病，这样才能尽快回去投身于研究呀。",
+                "kr": "要是可以参与更多的研究项目就好啦，导师还有团队成员总是太照顾我，担心过度劳累对病情不好，都不太让我参与一线的勘测了。我一定要在罗德岛好好治病，这样才能尽快回去投身于研究呀。",
+                "cn": "要是可以参与更多的研究项目就好啦，导师还有团队成员总是太照顾我，担心过度劳累对病情不好，都不太让我参与一线的勘测了。我一定要在罗德岛好好治病，这样才能尽快回去投身于研究呀。"
+            },
+            "asset": "char_388_mint/CN_044"
         }
     ],
     "actors": {

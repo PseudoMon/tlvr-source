@@ -83,7 +83,7 @@
             "text": {
                 "en": "The Infected are only comparatively freer in Leithanien, and not that free. Outside of the Afterglow, there was hardly anywhere I could live, or eat... there was almost nowhere to turn.",
                 "jp": "リターニアでは感染者は比較的自由が許されていますが、やはり制限された自由です。アフターグロー区から離れると、居住できる場所も、食事をできる場所も、歩ける道すら……少なくなっていきます。存在はしますが、非常に珍しいです。",
-                "kr": "라이타니엔의 감염자들은 비교적 자유로워 보일 뿐, 실은 그렇게까지 자유롭다고 할 수는 없습니다. 애프터글로를 벗어나면 사는 것은 물론, 식사를 할 수 있는 곳도, 심지어는 지나다니는 길마저...... 찾기 힘들어집니다. 있기야 하겠지만, 극소수 일겁니다.",
+                "kr": "라이타니엔의 감염자들은 비교적 자유로워 보일 뿐, 실은 그렇게까지 자유롭다고 할 수는 없습니다. 애프터글로를 벗어나면 사는 것은 물론, 식사를 할 수 있는 곳도, 심지어는 지나다니는 길마저…… 찾기 힘들어집니다. 있기야 하겠지만, 극소수 일겁니다.",
                 "cn": "在莱塔尼亚，感染者只是相对自由些，但也不是那么自由，离开了夕照区，我能住的地方很少，能吃饭的地方也很少，甚至能踏上的路......也很少，有，但是很少。"
             },
             "asset": "char_4047_pianst/CN_005"
@@ -115,7 +115,7 @@
             "text": {
                 "en": "Thank you for your concern. I'm not feeling ill—my writing is merely bottlenecked, and I haven't slept in several days. My hair, well... I often unconsciously grab at it while composing, if that explains its current unruliness.",
                 "jp": "ご心配はありがたいですが、私は病気で具合が悪いわけではありません。創作でスランプに陥っていて、数日寝ていないだけです。髪は……作曲中は無意識に頭を掻きむしってしまうので、多少乱れて見えるのはそのせいでしょう。",
-                "kr": "걱정은 감사합니다만, 제 상태가 좋지 못한 건 병에 걸렸기 때문이 아닙니다.. 슬럼프 때문에 며칠간 잠을 제대로 청하지 못 했기 때문이지요. 머리는…… 작곡을 할 때면 저도 모르게 머리를 쥐어 뜯어서, 엉망으로 보이는 것이겠지요.",
+                "kr": "걱정은 감사합니다만, 제 상태가 좋지 못한 건 병에 걸렸기 때문이 아닙니다…… 슬럼프 때문에 며칠간 잠을 제대로 청하지 못 했기 때문이지요. 머리는…… 작곡을 할 때면 저도 모르게 머리를 쥐어 뜯어서, 엉망으로 보이는 것이겠지요.",
                 "cn": "谢谢您的关心，我并没有生病，只是创作上碰到了瓶颈期，好些天没有睡觉。至于头发......创作的时候我会不自觉地抓头发，所以现在看起来有些凌乱毛糙。"
             },
             "asset": "char_4047_pianst/CN_007"
@@ -553,6 +553,22 @@
             "asset": "char_4047_pianst/CN_037"
         },
         {
+            "id": "char_4047_pianst_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Forgive me for turning down your invitation to perform. Even the most assiduous musician wouldn't want to work on this day, and besides, the fineness of it needs no musical dressing. The laughs of passersby and the clinking of table glasses have answered well enough, no?",
+                "jp": "本日の演奏についてはご容赦ください。どれほど勤勉な音楽家であろうとも、この日に仕事をしたいとは思わないでしょうし、そもそも今日という日の素晴らしさは音楽で飾り立てるまでもありません。道行く人々の笑い声と食卓に響く乾杯の音色、これだけでも十分ではないでしょうか？",
+                "kr": "연주해 달라는 요청을 거절하게 되어 죄송할 따름입니다. 하지만 아무리 부지런한 연주가라 할지라도, 오늘 같은 날에는 일하기가 꺼려지는 법이지요. 더군다나 오늘과 같이 아름다운 날에, 음악이라는 장식은 따로 필요하지 않을 것 같습니다. 행인들의 웃음소리와 식탁 위에서 잔들이 부딪치는 소리면, 충분하지 않을까요?",
+                "cn": "请容我拒绝您的演出邀请，再兢兢业业的音乐家，也不愿在这一天工作，何况，这一天的美好已经无需音乐的装点，有行路人的笑声与桌上的碰杯声已经足够了，您觉得呢？"
+            },
+            "asset": "char_4047_pianst/CN_038"
+        },
+        {
             "id": "char_4047_pianst_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "我新作了一首曲子，您想听听吗？"
             },
             "asset": "char_4047_pianst/CN_042"
+        },
+        {
+            "id": "char_4047_pianst_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "To dance to music is a rare moment of liberty for the Infected. Doctor, would there be more dancing, more free souls, if I were to write more myself?",
+                "jp": "音楽の中で踊ることができるのは、感染者にとっては滅多にない自由なひと時です。ドクター、もし私がより多くの曲を生み出せたなら、旋律に身を任せる人々も増し、自由な魂も増えるのでしょうか？",
+                "kr": "음악에 맞춰 춤을 추는 것은, 감염자들에게 있어 모처럼의 자유를 만끽할 수 있는 시간이지요. 박사님, 제가 만일 더욱 많은 곡을 쓴다면, 저기서 춤을 추는 사람들이 더 늘고, 자유로운 영혼들도 더 많아질 수 있을까요?",
+                "cn": "能够在音乐中起舞，是感染者难得的自由时刻。博士，我若是多创作一些，那些起舞的人是否能多一些，而那些自由的灵魂是否也能多一些？"
+            },
+            "asset": "char_4047_pianst/CN_044"
         }
     ],
     "actors": {

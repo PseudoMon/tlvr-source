@@ -67,7 +67,7 @@
             "text": {
                 "en": "The title 'Saint' can neither enhance my abilities nor reveal any precise mission to me. Though it has added difficulties to my work, I cannot fathom why I was chosen. Its objective and demands are something I must seek myself.",
                 "jp": "「聖徒」という肩書きは、私の実力を向上させることもできなければ、明確に使命を与えるものでもありません。なぜ自分が選ばれたのかを理解していませんし、この称号によって仕事の難易度が上がりました。私は何をすべきか？この称号に求められるものとは何なのか？答えを全て、自分で見つけ出さないといけません。",
-                "kr": " '성도'라는 칭호는 제 실력을 향상시키지도, 제게 명확한 사명을 부여하지도 않았습니다. 제가 왜 선택되었는지 이해하지 못했음에도, 이 칭호로 인해 제 업무의 난이도가 높아졌습니다. 도대체 제가 무엇을 해야 하는지, 이 칭호가 제게 무엇을 요구하는지, 그 답은 반드시 스스로 찾아내고 말 것입니다.",
+                "kr": "'성도'라는 칭호는 제 실력을 향상시키지도, 제게 명확한 사명을 부여하지도 않았습니다. 제가 왜 선택되었는지 이해하지 못했음에도, 이 칭호로 인해 제 업무의 난이도가 높아졌습니다. 도대체 제가 무엇을 해야 하는지, 이 칭호가 제게 무엇을 요구하는지, 그 답은 반드시 스스로 찾아내고 말 것입니다.",
                 "cn": "“圣徒”这个称号既不能使人提升实力，也没有向我揭示任何明确的使命。我不明白自己为什么被选择，这个称号增加了我的工作难度。我需要做什么？它对我有什么要求？我必须自己寻找答案。"
             },
             "asset": "char_1032_excu2/CN_004"
@@ -553,6 +553,22 @@
             "asset": "char_1032_excu2/CN_037"
         },
         {
+            "id": "char_1032_excu2_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Changes in numbers and symbolistic objects are how man reminds himself of the flow of time. Yes, I said I can understand, in spite of the fact that I need no such reminders. However, if this day brings you joy, then it is indeed very meaningful. Happy New Year, Doctor.",
+                "jp": "数字の変化、象徴たる物の変化、人々はこうしたものを、時間の流れを自覚するための契機とします。ええ、私も理解はできます。私にはこのような切っ掛けは不要ですが、この日があなたに喜びを与えるものなら、確かに意味のある一日と言えるでしょう。良い一年を、ドクター。",
+                "kr": "숫자의 변화, 상징물의 변화, 사람들은 이러한 방식으로 시간의 흐름을 자각하고는 합니다. 네, 저도 이해는 됩니다만, 제게는 이런 자각이 필요하지 않습니다. 그러나, 이날이 당신에게 기쁨을 줄 수 있다면, 분명 의미 있는 날이겠지요. 박사님, 새해 복 많이 받으세요.",
+                "cn": "数字的变化，象征物的变化，人们用这种方式来提醒自己时间流逝。是的，我说过我可以理解，尽管我并不需要这种提醒，但如果这个日子能让你感到喜悦，那么它确实很有意义。新年快乐，博士。"
+            },
+            "asset": "char_1032_excu2/CN_038"
+        },
+        {
             "id": "char_1032_excu2_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "你的变化很大，博士。"
             },
             "asset": "char_1032_excu2/CN_042"
+        },
+        {
+            "id": "char_1032_excu2_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "I have been looking for you, Doctor. The cleaning agreement that I have entered into with your company is nearing its end. If you desire a new agreement, you may refer to these items I brought with me for reference. The Notarial Hall has never entered into a long term agreement with a foreign corporation. Our partnership with Rhodes Island will be a new challenge.",
+                "jp": "探しましたよ、ドクター。私と御社で締結した協定の契約期間がまもなく満了します。新しい協定への更新が必要でしたら、私が持参した条項の見本が参考になります。中庭公証人役場は、これまで外部企業と長期的な相互協力関係を築いたことがないので、ロドスとの連携は新たな挑戦になるでしょう。",
+                "kr": "찾고 있었습니다, 박사님. 저와 귀사가 체결한 계약이 곧 만료됩니다. 새로운 협의 갱신이 필요하시다면 제가 가져온 조항을 참고하시기 바랍니다. 중정 공증소는 그동안 외부 업체와 장기간 협력한 선례가 없기에 로도스 아일랜드와의 협력은 새로운 도전이 될 겁니다.",
+                "cn": "我在找你，博士。我与贵司签署的清理协议即将到期，如果需要更换一份新的协议，我带来的条目可供参考。中庭公证所此前没有与外部企业长期合作的先例，与罗德岛的合作将会是一次新的尝试。"
+            },
+            "asset": "char_1032_excu2/CN_044"
         }
     ],
     "actors": {

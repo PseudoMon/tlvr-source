@@ -553,6 +553,22 @@
             "asset": "char_4055_bgsnow/CN_037"
         },
         {
+            "id": "char_4055_bgsnow_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Happy New Year, Doctor. Please, enjoy this little play written by me and jointly presented by the Durin operators of Rhodes Island—er, where's Durin? She's asleep? Oh... well, don't wake her up. I'll take up her role.",
+                "jp": "新しい年の訪れを祝いましょう、ドクター。わらわが脚本を担当し、ロドスのドゥリン族オペレーターが演じるこの寸劇をご覧になってくださいまし――あら、ドゥリンさんは？おねむ？……仕方ありませんわね、起こすのも忍びないですし、わらわが代役に立ちましょう。",
+                "kr": "새해 복 많이 받으세요, 박사님. 제가 각본을 맡고, 로도스의 두린족 오퍼레이터들이 주연을 맡은 이 단막극을 감상해 보시죠. 어라, 두린 씨는 어디로 가셨죠? 잠들었다고요? ……어쩔 수 없네요. 깨우지 마세요, 제가 대역을 맡도록 하겠습니다.",
+                "cn": "新年快乐，博士。请欣赏这部由我创作、由罗德岛杜林族干员联袂呈现的短剧——欸，杜林呢？睡着了？......算了，别打扰她，我来演她的角色吧。"
+            },
+            "asset": "char_4055_bgsnow/CN_038"
+        },
+        {
             "id": "char_4055_bgsnow_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "呼啊......早安，博士，您推荐的书很有趣，我熬夜把它看完了。"
             },
             "asset": "char_4055_bgsnow/CN_042"
+        },
+        {
+            "id": "char_4055_bgsnow_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Recently, I've begun to feel that if you had me recommend a lodgings for any surfacing Durin, I would suggest Rhodes Island without a doubt. It may not compare to the underground cities, but at least it's a place one can live with peace of mind.",
+                "jp": "この頃少し思うようになったのですが、ドゥリン族の方に地上での拠点を勧めるのであればロドス以外に考えられませんわ。地下都市とは比べられませんけれど、少なくともここは安心して暮らせる場所ですもの。",
+                "kr": "최근 들어 드는 생각입니다만, 만일 제가 지상의 두린족 분들에게 거점을 추천할 일이 있다면, 저는 분명 로도스 아일랜드를 추천하게 될 것 같습니다. 지하 도시에 비할 수는 없겠지만, 적어도 로도스 아일랜드는 안심하고 지낼 수 있는 장소이니까요.",
+                "cn": "我最近渐渐觉得，如果让我给来到地上的杜林人推荐一个落脚处，我一定会推荐罗德岛。这里虽然比不上那些地下城市，但至少是一个可以让人安心生活的地方。"
+            },
+            "asset": "char_4055_bgsnow/CN_044"
         }
     ],
     "actors": {

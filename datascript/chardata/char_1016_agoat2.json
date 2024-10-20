@@ -553,6 +553,22 @@
             "asset": "char_1016_agoat2/CN_037"
         },
         {
+            "id": "char_1016_agoat2_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "A pebble encounters countless other pebbles during its life. They will collide with each other, become magma, erupt when they reach critical temperature, and then finally turn into the ash that nourishes new life. We're just like these little pebbles, Professor– Huh? Why didn't you tell me the fireworks already started?!",
+                "jp": "石はその生涯の中で、無数の石たちに出会います。石同士でぶつかり合って、溶岩になって、一番熱く高ぶった瞬間に噴火して……それから灰になって命を育むんです。先輩、私たちはそういう石みたいだと――うわっ、花火が始まっちゃってる！なんで言ってくれないんですか！",
+                "kr": "작은 돌은 시간이 지나면서 무수히 많은 돌들과 만나게 될 거예요. 돌끼리 서로 부딪치며 용암이 되고, 가장 뜨겁게 치솟는 순간 분화를 하죠. 그다음엔 재가 되어 다른 생명을 키워내는 거예요. 선배, 우리도 이 작은 돌 같지…… 앗! 불꽃놀이가 시작됐잖아요, 왜 말을 안 해주신 거예요!",
+                "cn": "一颗小石头会在它的一生中遇到无数小石头，它们互相碰撞，成为岩浆，在最热烈时喷发，然后变成灰，滋养生灵。前辈，我们就像这样的小石——唔，您怎么都不告诉我，原来已经开始放烟花了呀！"
+            },
+            "asset": "char_1016_agoat2/CN_038"
+        },
+        {
             "id": "char_1016_agoat2_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "前辈，山脉和裂谷的断层线今天也在我们脚下缓慢地移动，我们离每一座想去的火山都悄悄地更近了一点。"
             },
             "asset": "char_1016_agoat2/CN_042"
+        },
+        {
+            "id": "char_1016_agoat2_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Professor, I read in a book that after thousands of years, we will all re-enter this land's cycle. Maybe I'll become a little plume of magma, reshaping the land along its rock formations. When that time comes, I'll be able to forever look out across the land, with those I nourished nestled up against me.",
+                "jp": "先輩、本によると、数千年後には私たちも大地のサイクルに還るとありました。私もいつかは灼熱の溶岩になって、地層に沿って大地を作り替えるのかもしれません。その時には、私はいつまでも大地を眺めながら、自分を育んでくれたものたちに囲まれて幸せに過ごせますよね。",
+                "kr": "선배, 책에서 보니까 수천 년 후에는 우리도 대지의 순환의 일부가 된다고 해요. 어쩌면 저도 언젠간 뜨거운 용암이 되어 지층을 따라 대지를 다시 구성하게 될지도 모르겠네요. 그때가 되면 저도 늘 이 대지를 지켜보며, 절 키워준 것들에 둘러싸여 행복하게 지낼 수 있겠죠.",
+                "cn": "前辈，书上说过千百年之后，我们都会重回大地的循环，或许我以后就可以变成一小朵炙热的岩浆，顺着岩层重塑大地。那个时候我就可以一直看着这片土地，生养我的都偎在我的身旁。"
+            },
+            "asset": "char_1016_agoat2/CN_044"
         }
     ],
     "actors": {

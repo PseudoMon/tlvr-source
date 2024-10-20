@@ -553,6 +553,22 @@
             "asset": "char_4014_lunacu/CN_037"
         },
         {
+            "id": "char_4014_lunacu_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Hmm? Is today special? A new year? Don't get it. I think every day is brand new. Any day's worth celebrating as long as you get to fill your stomach. Anyway... Do you want to try the meat I roasted? It's very yummy.",
+                "jp": "ん？今日は特別な日なのか？新年？知らん。ルナカブは毎日が新鮮だし、お腹いっぱいな日はめでたい日だ。とはいえ……ドクター、ルナカブが焼いたお肉食べるか？うまいぞ。",
+                "kr": "응? 오늘은 특별한 날이라고? 새해? 잘 모르겠는데. 나한텐 매일매일이 새롭고, 배부르게 먹을 수 있는 날이 축제였거든. 그건 그렇고…… 내가 구운 고기 먹어볼래? 엄청 맛있어.",
+                "cn": "嗯？今天很特殊吗？新的一年？不懂。在我看来，每天都很新，每个吃饱的日子都值得庆祝。不过......你想尝尝我烤的肉吗？很好吃的。"
+            },
+            "asset": "char_4014_lunacu/CN_038"
+        },
+        {
             "id": "char_4014_lunacu_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "终于来了？下次再敢让我在这个闷死人的小房间里等你，别怪我不客气。"
             },
             "asset": "char_4014_lunacu/CN_042"
+        },
+        {
+            "id": "char_4014_lunacu_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "To be honest, I still don't get what you people are trying to do. But I can see you're working to keep that rock-disease away from everyone, so that they can eat and drink all they want. I suppose it's probably a good thing. Another good thing, is I don't having to sleep with one eye open like I do outside. Here, I can sleep soundly.",
+                "jp": "正直、お前たちのしたいことは今でも分からん。でも、みんなが石ころの病気にかからないように、安心していっぱい食べられるようにするのは、悪くないと思う。眠る時に周りを警戒し続けるのは、とても疲れるのだ。ルナカブはロドスだと……安心して眠れるぞ。",
+                "kr": "솔직히 난 아직도 너희들이 뭘 하려는 건지 잘 모르겠어. 그렇지만 사람들이 돌 때문에 아프지 않게 하고, 모두가 안심하고 먹고 마실 수 있게 하는 건 좋은 일인 것 같아. 사실 잘 때도 주위를 경계하는 건 엄청 피곤한 일이거든, 근데 여기선 나도…… 안심하고 잠을 잘 수 있어서 좋아.",
+                "cn": "说实话，我还是搞不懂你们要干什么。不过，争取让所有人都能不会因为石头而生病，都能放心地大吃大喝，可能也不错。在睡觉时要警惕四周的一切还是很累的，我在这里......能睡得很安稳。"
+            },
+            "asset": "char_4014_lunacu/CN_044"
         }
     ],
     "actors": {

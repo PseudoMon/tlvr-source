@@ -553,6 +553,22 @@
             "asset": "char_459_tachak/CN_037"
         },
         {
+            "id": "char_459_tachak_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Excuse me?",
+                "jp": "明日の太陽を目にできるなんてうれしく思う、同志よ。",
+                "kr": "내일 뜨는 해를 함께 맞이할 수 있어서 기쁘군, 동지.",
+                "cn": "很高兴我们能见到明天的太阳，同志。"
+            },
+            "asset": "char_459_tachak/CN_038"
+        },
+        {
             "id": "char_459_tachak_CN_042",
             "title": {
                 "en": "Greeting",

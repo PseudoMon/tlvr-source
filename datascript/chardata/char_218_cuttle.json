@@ -49,7 +49,7 @@
                 "cn": "交谈2"
             },
             "text": {
-                "en": "That Skadi and Spectre, those friends from the same race, when I see those two, it's almost as if... I don't know exactly how to describe it, but it's kind of like that love at first sight from those fairy tales? No way, huh. If that was the case, maybe I should get dressed up...",
+                "en": "That Skadi and Specter, those friends from the same race, when I see those two, it's almost as if... I don't know exactly how to describe it, but it's kind of like that love at first sight from those fairy tales? No way, huh. If that was the case, maybe I should get dressed up...",
                 "jp": "あのスカジとスペクターっていう同族の仲間、彼女たちを見た時にまるで……なんて説明したらいいか、小説でよく言う「一目惚れ」って感じ？いや、まさかね。だとしたらもうちょっとしっかりおめかししたほうがいいかな……",
                 "kr": "그 스카디랑 스펙터라는 동족의 동료, 그 여자들을 봤을 땐 마치…… 뭐라고 설명해야 하지? 소설에 자주 나오는 뭐 그런 '첫눈에 반한다'는 느낌? 아니, 설마 그럴 리가…… 그럼 좀 더 제대로 꾸며두는 게 좋으려나……",
                 "cn": "那两个叫斯卡蒂和幽灵鲨的同族，我看到她们就好像......我不知道该怎么形容，就好像小说里常说的一见钟情的感觉？不会吧，这样我是不是应该好好打扮一下......"
@@ -553,6 +553,22 @@
             "asset": "char_218_cuttle/CN_037"
         },
         {
+            "id": "char_218_cuttle_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "新年好，博士。和这么多人一起过新年对我来说是第一次，感觉倒是不坏。啊，说起来，出发前说好要给老妈写信的，完全忘了，赶紧写一封好了。",
+                "jp": "新年好，博士。和这么多人一起过新年对我来说是第一次，感觉倒是不坏。啊，说起来，出发前说好要给老妈写信的，完全忘了，赶紧写一封好了。",
+                "kr": "新年好，博士。和这么多人一起过新年对我来说是第一次，感觉倒是不坏。啊，说起来，出发前说好要给老妈写信的，完全忘了，赶紧写一封好了。",
+                "cn": "新年好，博士。和这么多人一起过新年对我来说是第一次，感觉倒是不坏。啊，说起来，出发前说好要给老妈写信的，完全忘了，赶紧写一封好了。"
+            },
+            "asset": "char_218_cuttle/CN_038"
+        },
+        {
             "id": "char_218_cuttle_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "博士，吃糖吗？"
             },
             "asset": "char_218_cuttle/CN_042"
+        },
+        {
+            "id": "char_218_cuttle_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "我原本没有对未来计划那么多，没想到自己也渐渐地走到了这一步，这样一看，当初跟着莫妮卡一起来是件好事呢......现在对未来的看法？嗯......好麻烦，还是没有。",
+                "jp": "我原本没有对未来计划那么多，没想到自己也渐渐地走到了这一步，这样一看，当初跟着莫妮卡一起来是件好事呢......现在对未来的看法？嗯......好麻烦，还是没有。",
+                "kr": "我原本没有对未来计划那么多，没想到自己也渐渐地走到了这一步，这样一看，当初跟着莫妮卡一起来是件好事呢......现在对未来的看法？嗯......好麻烦，还是没有。",
+                "cn": "我原本没有对未来计划那么多，没想到自己也渐渐地走到了这一步，这样一看，当初跟着莫妮卡一起来是件好事呢......现在对未来的看法？嗯......好麻烦，还是没有。"
+            },
+            "asset": "char_218_cuttle/CN_044"
         }
     ],
     "actors": {

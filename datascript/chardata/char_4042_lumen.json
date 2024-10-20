@@ -553,6 +553,22 @@
             "asset": "char_4042_lumen/CN_037"
         },
         {
+            "id": "char_4042_lumen_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Back when I was a caregiver, at the turn of every year, everyone would exchange presents and offer New Year's blessings. Even though I'm working in a different environment now, I hope to keep this little custom alive. Doctor, I wish you... a peaceful and prosperous new year.",
+                "jp": "僕がまだ介護士をしていた頃、年越しの時はいつもみんながプレゼントを交換して、祝福の言葉を贈り合っていました。今は仕事場が変わっていますが、このささやかな習慣はやはり続けていきたいと思います。ドクター、あなたにとって安らかで幸せな一年になりますように。",
+                "kr": "간병인으로 일하고 있었을 때에는, 새해가 되면 다들 새로운 한 해를 축복하는 의미로 서로 선물을 교환했었답니다. 지금은 업무 환경이 바뀌긴 했지만, 그래도 이런 소소한 전통 정도는 남겨두고 싶네요. 박사님, 올해도 꼭…… 행복한 한 해가 되시기를 바랍니다.",
+                "cn": "以前我还在当护工的时候，每当跨年，大家就会互相交换礼物，送上新年的祝福。如今虽然换了个工作环境，但我还是希望能够保留这个小小的传统。博士，来年您也一定会......平安幸福。"
+            },
+            "asset": "char_4042_lumen/CN_038"
+        },
+        {
             "id": "char_4042_lumen_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "博士，需要我给您按按肩吗？我的理疗技术可是广受好评哦。"
             },
             "asset": "char_4042_lumen/CN_042"
+        },
+        {
+            "id": "char_4042_lumen_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Now that I'm saying it out loud, it's a bit embarrassing... Doctor, if I could become like you one day... Err, never mind. Just being allowed to join Rhodes Island, and stand by your side, is already like a dream come true.",
+                "jp": "こういうことを言うのは恥ずかしいですが、ドクター、もしいつか僕があなたのような人になれたら……いや、やめておきましょう。ロドスの一員になれて、あなたのそばにいられて、僕の夢はもう叶っていますから。",
+                "kr": "조금 부끄러운 얘기지만…… 박사님, 제가 언젠가 박사님과 같은 사람이 된다면…… 아니에요, 이 얘기는 그만하도록 하겠습니다. 로도스 아일랜드의 일원이 되어 당신과 함께할 수 있는 것만으로도, 제 이상은 이미 실현된 거니까요.",
+                "cn": "说出来挺不好意思的，博士，若是有一天，我能成为像您这样的人......不，还是算了吧，能成为罗德岛的一员，能陪在您的身边，我的理想就已经实现了。"
+            },
+            "asset": "char_4042_lumen/CN_044"
         }
     ],
     "actors": {

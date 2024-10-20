@@ -553,6 +553,22 @@
             "asset": "char_427_vigil/CN_037"
         },
         {
+            "id": "char_427_vigil_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "It's a brand new year. A toast to our goals, alla nostra salute. Oh, don't worry, this is just apple juice. I can't handle wine that's too strong. Why are you laughing? Whoever said that mafiosi have to drink?",
+                "jp": "新たな一年、互いにブレない目標を持ち続けられることを祈る。乾杯。……ああ、リンゴジュースだから構わない。強すぎる酒は苦手でな。可笑しいか？ファミリーの構成員だからって酒飲みじゃないといけない決まりでもあるのか？",
+                "kr": "새해에도 서로의 목표에 흔들림이 없길 바라며, 건배. 아, 이건 사과주스니까 괜찮아. 너무 독한 술은 잘 마시지 못 하거든. 왜 웃는 거지? 패밀리 구성원이라면 꼭 술을 잘 마셔야 한다는 법이라도 있어?",
+                "cn": "新的一年，愿我们都对自己的目标坚定不移，干杯。啊，没事的，这是苹果汁，太烈的酒我喝不来。你笑什么？家族成员就一定要会喝酒？"
+            },
+            "asset": "char_427_vigil/CN_038"
+        },
+        {
             "id": "char_427_vigil_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "这些文件一点都不重要，博士。重要的是实际怎么行动。"
             },
             "asset": "char_427_vigil/CN_042"
+        },
+        {
+            "id": "char_427_vigil_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Doctor, the two of us are actually pretty similar. I believe that even a swamp like Siracusa can change. And your ambitions, hah, they are even bigger than mine. We both have what it takes to make this happen. I'll keep working on myself. I hope you'll do the same.",
+                "jp": "ドクター、俺たちは似たもの同士だな。泥沼状態のシラクーザであっても変えようがあるはずだと俺は信じている。そしてお前の野心は……フンッ、俺以上かもしれないな。互いにこの野心に釣り合うだけの実力が求められるぞ。俺は自分磨きを怠るつもりはないが、お前もそうあってほしいものだ。",
+                "kr": "우린 꽤 닮은 것 같네, 박사. 난 시라쿠사가 아무리 진흙탕 같은 곳이라고 해도, 결국은 바뀔 수 있으리라 믿어. 그리고 네 야망은…… 하아, 내 야망보다 더 클지도 모르겠군. 어쨌든 우린, 우리가 가진 야망에 걸맞은 실력을 갖춰야만 해. 난 앞으로도 계속해서 스스로를 단련시킬 생각인데, 부디 너도 그랬으면 좋겠군.",
+                "cn": "博士，我们还挺像的。我认为就算是一摊泥泞的叙拉古，也并非无法改变。而你的野心，哈，甚至比我的还要大。我们都必须拥有配得上这份野心的实力，我会继续磨炼自己，希望你也一样。"
+            },
+            "asset": "char_427_vigil/CN_044"
         }
     ],
     "actors": {

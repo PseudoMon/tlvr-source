@@ -99,7 +99,7 @@
             "text": {
                 "en": "Do you not revere in awe my aestheticly perfect image and overwhelming pressure? Then you're unworthy of your place on the same team as your savior! Ughhh! Con! Viction!",
                 "jp": "私から溢れ出る名画のようにデモニッシュなオーラを感じないのか！貴様、そんなことでは我が救済者の集いに顔を出す資格も無いのである！むうううう、断！罪！",
-                "kr": "나한테서 흘러넘치는 명화처럼 초자연적인 오오라가 안 느껴진단 말이냐?! 네 이놈, 그 정도론 우리 구제자의 모임에 얼굴을 내밀 자격도 없느니라! 으으으으으… 단! 죄!",
+                "kr": "나한테서 흘러넘치는 명화처럼 초자연적인 오오라가 안 느껴진단 말이냐?! 네 이놈, 그 정도론 우리 구제자의 모임에 얼굴을 내밀 자격도 없느니라! 으으으으으…… 단! 죄!",
                 "cn": "连我身上这如同名画的压迫感都察觉不到，你是没有资格留在这个拯救者的队伍里的！唔唔唔唔，断！罪！"
             },
             "asset": "char_159_peacok/CN_006"
@@ -113,7 +113,7 @@
                 "cn": "信赖提升后交谈1"
             },
             "text": {
-                "en": "I'm actually someone infected with Oripathy, an incurable disease?! Curses... is this my destiny? Is this the fate of all who wield the Conviction Punch? Hey, why are you looking away?! I'm clearly telling you a sad story!",
+                "en": "I'm actually someone infected with Oripathy, an incurable disease?! Curses... is this my destiny? Is this the fate of all who wield the Conviction Punch? Hey, why are you all looking away! I'm clearly telling you a sad story!",
                 "jp": "このコンビクション様が鉱石病の感染者だと！？しかも不治の病だと？おのれ……やはりこれも宿命なのか！断罪の拳を振るう者の宿命なのか！…って、貴様！目を逸らすでない！私はいま悲しい話をしているのだぞ！",
                 "kr": "이 컨빅션 님께서 광석병의 감염자라고?! 심지어 불치병이라고? 빌어먹을…… 역시 이것도 숙명인가! 단죄의 주먹을 휘두르는 자의 숙명인 건가! ……네 이놈! 딴 데 보지 마라! 난 지금 슬픈 이야기를 하고 있다고!",
                 "cn": "我居然是矿石病的感染者，这病没办法治愈吗？！可恶......这就是我的宿命吗？是挥动断罪之拳的人的宿命吗！喂，你这家伙，不许移开目光！我明明在讲一个很悲伤的故事！"
@@ -209,7 +209,7 @@
                 "cn": "精英化晋升1"
             },
             "text": {
-                "en": "Ahaha, a promotion! I can see the day when Conviction's hidden powers roar across the lands!",
+                "en": "Ahaha, a promotion! The day when Conviction's hidden powers are released is not far away!",
                 "jp": "フッフッフ、昇進か！コンビクション様の秘めたる力が解き放たれる日も近いのである！",
                 "kr": "후후훗, 승진인가! 이 컨빅션 님께서 갖고 있는 힘이 해방될 날이 머지않았구나!",
                 "cn": "呵呵呵，晋升！距离断罪隐藏的力量被释放的那一天已经不远了！"
@@ -553,6 +553,22 @@
             "asset": "char_159_peacok/CN_037"
         },
         {
+            "id": "char_159_peacok_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "新！年！快！乐！我将为罗德岛带来最富有艺术气息的舞蹈，屏气凝神地欣赏吧！各位都将接受来自我华丽拳法的洗礼，并且获得新生！",
+                "jp": "新！年！快！乐！我将为罗德岛带来最富有艺术气息的舞蹈，屏气凝神地欣赏吧！各位都将接受来自我华丽拳法的洗礼，并且获得新生！",
+                "kr": "新！年！快！乐！我将为罗德岛带来最富有艺术气息的舞蹈，屏气凝神地欣赏吧！各位都将接受来自我华丽拳法的洗礼，并且获得新生！",
+                "cn": "新！年！快！乐！我将为罗德岛带来最富有艺术气息的舞蹈，屏气凝神地欣赏吧！各位都将接受来自我华丽拳法的洗礼，并且获得新生！"
+            },
+            "asset": "char_159_peacok/CN_038"
+        },
+        {
             "id": "char_159_peacok_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "哦！这不是博士吗！"
             },
             "asset": "char_159_peacok/CN_042"
+        },
+        {
+            "id": "char_159_peacok_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "与不理解艺术的人相比，曲解艺术的人更让人觉得可恶！失望，太失望了！那只企鹅的音乐居然能获得如此多的崇拜者，居然还能获得第一！那场比赛的承办者是谁？断！罪！",
+                "jp": "与不理解艺术的人相比，曲解艺术的人更让人觉得可恶！失望，太失望了！那只企鹅的音乐居然能获得如此多的崇拜者，居然还能获得第一！那场比赛的承办者是谁？断！罪！",
+                "kr": "与不理解艺术的人相比，曲解艺术的人更让人觉得可恶！失望，太失望了！那只企鹅的音乐居然能获得如此多的崇拜者，居然还能获得第一！那场比赛的承办者是谁？断！罪！",
+                "cn": "与不理解艺术的人相比，曲解艺术的人更让人觉得可恶！失望，太失望了！那只企鹅的音乐居然能获得如此多的崇拜者，居然还能获得第一！那场比赛的承办者是谁？断！罪！"
+            },
+            "asset": "char_159_peacok/CN_044"
         }
     ],
     "actors": {

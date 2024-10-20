@@ -553,6 +553,22 @@
             "asset": "char_4123_ela/CN_037"
         },
         {
+            "id": "char_4123_ela_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Happy New Year. I'm ready to face even more challenges.",
+                "jp": "あけましておめでとう。更なる困難に立ち向かう準備は、もうできてるわ。",
+                "kr": "새해 복 많이 받아. 난 더 많은 도전을 받아들일 준비가 되어 있어.",
+                "cn": "新年快乐。我已经准备好迎接更多挑战了。"
+            },
+            "asset": "char_4123_ela/CN_038"
+        },
+        {
             "id": "char_4123_ela_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "我在这里。"
             },
             "asset": "char_4123_ela/CN_042"
+        },
+        {
+            "id": "char_4123_ela_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Rhodes Island is an incredibly inclusive place – and that's a big deal.",
+                "jp": "ロドスは包容力に溢れた場所ね。それはとても大事なことよ。",
+                "kr": "로도스 아일랜드는 포용력이 좋은 곳이더군, 아주 중요한 부분이야.",
+                "cn": "罗德岛是个包容性很强的地方，这一点很重要。"
+            },
+            "asset": "char_4123_ela/CN_044"
         }
     ],
     "actors": {

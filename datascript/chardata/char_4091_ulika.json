@@ -489,6 +489,22 @@
             "asset": "char_4091_ulika/CN_037"
         },
         {
+            "id": "char_4091_ulika_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "New Year's Special: Exploring flavor across the lands! Instant noodles inspired by the delicacies of each country! First up is this pack of Kjerag red-braised–– Hey, why's my viewer count dropping?! Don't leave, guys! I was just kidding!",
+                "jp": "新春特別配信！舌で巡る大地、各国の美味しいグルメ――味のインスタントラーメン食レポ会だよ！一番バッターは～、このイェラグのラグー味――ど、同接数下がっちゃった！？冗談だよみんな、いなくならないでー！",
+                "kr": "새해 특집 방송으로 돌아왔어. 오늘의 주제는 두구 두구 두구, 혀끝으로 만나는 대지! 새해인 만큼 대지 곳곳의 대표 음식…… 맛의 라면 먹방을 해볼 거야! 가장 먼저 소개할 라면은 이 쉐라그식 라구 소스…… 잠깐, 시청자 수가 떨어지고 있잖아!? 농담이야 농담! 나가지 말아 줘!",
+                "cn": "新年特别直播，用味觉巡游这片大地，各国美味佳肴——口味的泡面，大盘点！首先是这包谢拉格红烩味的——在、在线人数下降了？！大家别走啊，我开玩笑的！"
+            },
+            "asset": "char_4091_ulika/CN_038"
+        },
+        {
             "id": "char_4091_ulika_CN_042",
             "title": {
                 "en": "Greeting",
@@ -503,6 +519,22 @@
                 "cn": "博士，经常在你的办公室里直播，给你添麻烦啦。"
             },
             "asset": "char_4091_ulika/CN_042"
+        },
+        {
+            "id": "char_4091_ulika_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Back in Dossoles, the TV station would throw a year end party, but I never knew these could be so chill until I came to Rhodes Island... Huh? Are you talking to me? You want me to sing? Sure, but let me get this out of the way first– my musical tastes are pretty old-fashioned.",
+                "jp": "ドッソレスにいたころ、テレビ局も年会をやってたけど、こんなに気軽なものもあるなんて、ロドスに来てから初めて知ったんですよ……ん？私に話してます？歌を歌ってほしんですか？いいですよ～、実はですね、私の音楽の趣味って結構懐メロ寄りなんです。",
+                "kr": "도솔레스에 있을 때, 방송국에서도 이렇게 파티를 열었었어요. 하지만 로도스 아일랜드처럼 여유로운 분위기는 아니었죠…… 네? 저한테 말씀하시는 건가요? 노래를 불러 달라고요? 좋아요~ 근데, 제 음악 취향이 좀 올드해서, 음 괜찮으시죠?",
+                "cn": "在多索雷斯的时候，电视台也开年会，可我还是来了罗德岛才知道，原来年会也可以这么放松......嗯？是在对我说话？要我去唱首歌？好呀，不瞒你们说，我的音乐品味其实蛮怀旧的哦。"
+            },
+            "asset": "char_4091_ulika/CN_044"
         }
     ],
     "actors": {

@@ -553,6 +553,22 @@
             "asset": "char_4105_almond/CN_037"
         },
         {
+            "id": "char_4105_almond_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Doctor, why you suddenly have three heads...? Now I gotta make four more sets of... uh... ear plugs, for the player that's gonna be your birthday gift...Wha? I had too much to drink? Don't be silly! Franka tried to get me to drink a whole big-ass mug, but I only had a-a teeny tiny little bit!",
+                "jp": "ひっく、ドクター、なんで頭が三つになっちゃったの……誕プレで用意した音楽プレイヤーのい、イヤホンを四つ足さないといけないじゃん――えぇ、飲みすぎ？飲んでないもん！フランカちゃんには大ジョッキ煽られたけど、ほんのちょこっーとしか飲んでないよ！",
+                "kr": "어어, 박사? 머리가 왜 세 개가 된 거야…… 이럼 박사한테 생일 선물로 주려고 했던 플레이어에, 이, 이어폰을 네 개는 더 만들어야 하잖아…… 뭐, 취했다고? 안 취했거든! 프란카가 나한테 이따만큼 큰 컵을 주긴 했지만, 난 겨우 요……만큼 마셨다고!",
+                "cn": "欸，博士，你怎么突然长了三个脑袋......这下给你生日准备的播放器，还、还得多做四个耳塞——什么，喝多了？我才没喝多！芙兰卡想逗我喝一大杯，但我只喝了这——么一点点！"
+            },
+            "asset": "char_4105_almond/CN_038"
+        },
+        {
             "id": "char_4105_almond_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "博士，我已经准备好了，随时可以开工！"
             },
             "asset": "char_4105_almond/CN_042"
+        },
+        {
+            "id": "char_4105_almond_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Every day I've spent on Rhodes Island has been very fun, but since I started having fun, it's been hard to get absobed in my work like I did at Blacksteel. Er, how should I put it? Blacksteel feels more like a place for work, while Rhodes Island is more like... hehe, you know, home.",
+                "jp": "ロドスでは、毎日とっても楽しいんだ。でも楽しくなっちゃうとさぁ、BSWにいた時みたいに一心不乱にプロジェクトに取り組むことができなくなっちゃうんだよね。うーん、なんていうか、BSWはいかにも職場って感じだけど、ロドスはもっとこう……家、みたいなんだよ。",
+                "kr": "로도스 아일랜드에선 매일이 즐거워. 근데 즐겁다 보니까 프로젝트 진전은 블랙스틸에 있던 때보다 못한 것 같아. 음, 뭐랄까, 블랙스틸은 좀 더 직장 같은 느낌이고, 로도스 아일랜드는 마치…… 집 같은 느낌이 든다고 해야 하나……",
+                "cn": "在罗德岛上，我每天都过得很快乐，可是人一快乐起来，项目反而没法像在黑钢时那样心无旁骛地推进了。嗯，该怎么说呢，黑钢更像个工作的地方，而罗德岛更像一个......家。"
+            },
+            "asset": "char_4105_almond/CN_044"
         }
     ],
     "actors": {

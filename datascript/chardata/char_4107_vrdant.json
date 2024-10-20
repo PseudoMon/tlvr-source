@@ -115,7 +115,7 @@
             "text": {
                 "en": "To make a 'scarecrow,' you need a whole lot more than just straw. You also need a variety of tough, poisonous, and insect-eating plants, Originium Arts, as well as my dad's techniques to sew everything together... Tch, leaked my trade secrets again. Doctor, remember not to tell anyone.",
                 "jp": "麦わら以外にも、ボクの「かかし」作りには様々な植物が欠かせないんだ。しなやかだったり、毒を持ったり、虫を食べるものなんかも。それからアーツと、父ちゃん譲りのかかし作りの腕も……っと、いけない、しゃべり過ぎちゃった。ドクター、今の話は内緒にしてくれる？",
-                "kr": " '허수아비'를 만들기 위해선 짚 말고도 다른 여러 재료가 필요해. 두껍고 질긴 식물, 독이 있는 식물 그리고 식충 식물까지. 거기에 아버지한테 물려받은 허수아비 만드는 기술이랑 오리지늄 아츠도 필요하지…… 앗, 너무 많이 말해 버렸나? 박사, 방금 한 얘기는 우리 둘만의 비밀로 하는 거다?",
+                "kr": "'허수아비'를 만들기 위해선 짚 말고도 다른 여러 재료가 필요해. 두껍고 질긴 식물, 독이 있는 식물 그리고 식충 식물까지. 거기에 아버지한테 물려받은 허수아비 만드는 기술이랑 오리지늄 아츠도 필요하지…… 앗, 너무 많이 말해 버렸나? 박사, 방금 한 얘기는 우리 둘만의 비밀로 하는 거다?",
                 "cn": "要做“稻草人”，需要的可不止秸秆，还需要各种坚韧的、有毒的、食虫的植物，还需要源石技艺，还需要我父亲捆稻草人的手艺......啧，透露得有点多了，博士，记得替我保密啊。"
             },
             "asset": "char_4107_vrdant/CN_007"
@@ -553,6 +553,22 @@
             "asset": "char_4107_vrdant/CN_037"
         },
         {
+            "id": "char_4107_vrdant_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "As you can see, I'm giving a Scarecrow a new change of clothes. Back in my quiet little hometown, families would all give their scarecrows a fresh bit of kit at the start of each year... Not sure what the cultural significance of that was, but the most important thing is, don't let the fowlbeasts get too used to seeing the same getup. Fowls, they're smart little buggers.",
+                "jp": "見ての通り、かかしの着せ替えをしてるところだよ。ボクの地元じゃ、新年になるとみんなそれぞれの家にあるかかしに新しい服を着せるんだ……えっと、意味や由来とかはよく知らないけど、一番の目的はたぶん、羽獣たちに同じ服ばかり見せないためだと思うよ。あいつら賢いからね。",
+                "kr": "응, 허수아비의 옷을 갈아입히고 있었어. 내 고향 마을에선 새해가 되면 집집마다 허수아비한테 새 옷을 입혀 주거든. 음…… 나도 여기에 무슨 의미나 유래가 담겨 있는지는 잘 모르지만, 주된 목적은 아마 파울비스트들에게 익숙함을 주지 않기 위해서일 거야. 파울비스트들은 굉장히 영리하거든.",
+                "cn": "如你所见，我正在给稻草人换新衣服。在我家乡的小镇，每到新年，家家都会给稻草人换一身新装......呃，文化含义我倒不清楚，最重要的还是不要让羽兽总看同一件衣服，羽兽很聪明的。"
+            },
+            "asset": "char_4107_vrdant/CN_038"
+        },
+        {
             "id": "char_4107_vrdant_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "早啊，博士，我帮你给办公室里的花浇过水了。"
             },
             "asset": "char_4107_vrdant/CN_042"
+        },
+        {
+            "id": "char_4107_vrdant_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "When I observe plants in the wild, sometimes I'll think, what if the ones that live for hundreds or thousands of years sense the passage of time too? How long would their experience of one year be...? Whatever it is, I'm sure it's not like mine. It always feels like each year passes by in a flash.",
+                "jp": "野外で植物観察なんかをしてると、時々考えるんだ。もし、百年も千年も生きられるような植物たちにも時間の感覚があるのなら、人間たちの一年間をどれほどの長さに感じるんだろうって……まあ、きっとボクの感覚とは違うだろうね。ボクにとって、一年なんてあっという間だもん。",
+                "kr": "야외에서 식물 관찰을 하다보면 가끔 이런 생각이 들어. 만약 수백 수천 년을 사는 식물들도 시간의 흐름을 느낄 수 있다면, 1년이라는 시간을 그들은 어떻게 느낄까 하고 말이야…… 분명 내가 느끼는 것과는 다를 테지. 난 1년이 정말 순식간에 지나가는 것 같거든.",
+                "cn": "在野外观察植物的时候，我偶尔会想，假如那些能活成百上千年的植物也能感知到时间的流逝，它们会觉得一年时间有多长？......不过反正和我不一样吧，我觉得一年过得好快啊。"
+            },
+            "asset": "char_4107_vrdant/CN_044"
         }
     ],
     "actors": {

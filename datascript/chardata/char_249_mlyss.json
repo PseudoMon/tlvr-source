@@ -99,7 +99,7 @@
             "text": {
                 "en": "Here I am, dewdrop landed on a leaf, but we'll be baked away in the sun soon enough. Oh, don't let it end here. We could melt together, dew filling leaf's veins, and make our grand return to the land... um, that's about dew, okay? Like, it's just dew that wants to—um... Mmm...",
                 "jp": "葉の上に降りてしまった露は、陽の光で蒸発するに任せる他、ないかもしれないわ。どれだけ葉脈の中を泳いで、大地に還りたいか……あ、えっと、露の話よ、ええ、露がそう願って——あぁ、うん……はぁ……",
-                "kr": "잎사귀 위에 떨어진 이슬은, 햇빛에 증발되기만을 기다릴 수밖에 없을지도 몰라. 분명 잎맥에 스며들어 대지로 돌아가고 싶겠지… 어? 아, 내 말은 그러니까…… 이슬 말하는 거야, 이슬! 그래, 이슬이 아마 그러고 싶을…… 아, 음…… 하아……",
+                "kr": "잎사귀 위에 떨어진 이슬은, 햇빛에 증발되기만을 기다릴 수밖에 없을지도 몰라. 분명 잎맥에 스며들어 대지로 돌아가고 싶겠지…… 어? 아, 내 말은 그러니까…… 이슬 말하는 거야, 이슬! 그래, 이슬이 아마 그러고 싶을…… 아, 음…… 하아……",
                 "cn": "露水滴在叶片上，可就只能被太阳烤干了。我们是多么想融进叶脉，回归大地啊......唔，我是说露水，是露水想要——啊，嗯......唉......"
             },
             "asset": "char_249_mlyss/CN_006"
@@ -553,6 +553,22 @@
             "asset": "char_249_mlyss/CN_037"
         },
         {
+            "id": "char_249_mlyss_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Office hours on a holiday, really? Even the most hardcore researchers at Rhine wouldn't be in the lab today. If you're so sure about going through that door, then I'm gonna... *sigh* I'll go get you some coffee...",
+                "jp": "年越しだっていうのに執務室に籠る気なの？ライン生命で一番真面目な研究員だって、この日はラボに入らないわよ。もしどうしてもあの門をくぐるっていうのなら、あたし……はぁ、コーヒーを淹れてきてあげるわ……",
+                "kr": "한 해의 마지막 날인데도 사무실 가서 일할 생각이야? 라인 랩에서 가장 성실한 연구원조차도 오늘 같은 날엔 실험실에 가지 않는다고. 누가 뭐래도 사무실 안으로 들어가야겠다면, 내가…… 하아, 아니다, 커피라도 타 줄게……",
+                "cn": "你难道过节还想要进办公室吗？在莱茵可是连最刻苦的研究员也不会在今天去实验室的。如果你一定要走进那扇门的话，我就......唉，我去帮你倒杯咖啡......"
+            },
+            "asset": "char_249_mlyss/CN_038"
+        },
+        {
             "id": "char_249_mlyss_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "在你开始工作前，我们聊会天吧。"
             },
             "asset": "char_249_mlyss/CN_042"
+        },
+        {
+            "id": "char_249_mlyss_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "If Kristen was here, she'd be far away from the crowd, out on that balcony staring up at the starry sky... Nobody understood her, just like nobody fully understands my own sorrows. You, Doctor? What kind of person are you, and what unspeakable aches live in your heart?",
+                "jp": "もしクリステンがここにいたら、きっとみんなから離れて、テラスで一人星空でも眺めるんでしょうね……彼女のことを理解できる人は誰もいないわ。あたしの苦しみを完全に理解できる人が誰もいないようにね。ドクター、あなたは？あなたはどんな人で、胸の奥にはどういう言葉にできない苦しみを抱えているの？",
+                "kr": "크리스틴이 이곳에 있었다면, 아마 모두와 멀리 떨어진 어느 테라스에서 홀로 밤하늘을 보고 있었을 거야…… 크리스틴을 이해할 수 있는 사람은 아무도 없어. 아무도 내 괴로움을 완전히 이해할 수 없는 것처럼 말이야. 박사, 당신은 어떤 사람이야? 당신 가슴속에는 어떤 고통을 품고 있어?",
+                "cn": "如果克丽斯腾在这里，她一定会远离人群，在那阳台上仰望星空吧......没有人理解她，就像没人能完全理解我的苦衷一样。你呢，博士，你又是怎样的人，你的心中又有怎样无法言说的痛楚？"
+            },
+            "asset": "char_249_mlyss/CN_044"
         }
     ],
     "actors": {

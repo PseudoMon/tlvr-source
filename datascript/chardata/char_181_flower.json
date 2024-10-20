@@ -131,7 +131,7 @@
             "text": {
                 "en": "You seem to visit the greenhouse a lot these days. Oh, there's some pollen on your sleeve. Let me wipe it for you… Alright, you're good.",
                 "jp": "最近よく温室に来てくれるわね……あら、袖に花粉がついてるわよ？はい、取れた。",
-                "kr": "요즘 온실에 자주 오네… 어머, 소매에 꽃가루 묻었다. 자, 털어줬어.",
+                "kr": "요즘 온실에 자주 오네…… 어머, 소매에 꽃가루 묻었다. 자, 털어줬어.",
                 "cn": "最近您经常来温室做客呢......哎呀，您的袖口，沾着些花粉哟？好，已经帮您擦掉了~"
             },
             "asset": "char_181_flower/CN_008"
@@ -163,7 +163,7 @@
             "text": {
                 "en": "Doctor? Doctor...? Wow, the lavender was much more effective than I expected…",
                 "jp": "あれ……ドクターくん？ラベンダーの香りが効きすぎたのかな……。",
-                "kr": "어라…… 박사? 라벤더 향이 너무 잘 들었나…",
+                "kr": "어라…… 박사? 라벤더 향이 너무 잘 들었나……",
                 "cn": "嗯，博士？哎，薰衣草的效果，超乎我的意料呢......"
             },
             "asset": "char_181_flower/CN_010"
@@ -179,7 +179,7 @@
             "text": {
                 "en": "Nice to meet you, Doctor. I'm Lena, the perfumer. Interesting job, right? Have you heard the word before?",
                 "jp": "はじめまして、ドクターくん。私はパフューマーのラナ。あら、パフューマーって聞いたことない？",
-                "kr": "만나서 반가워, 박사. 난 퍼퓨머 '레나'라고 해. 어머, 퍼퓨머란 직업… 들어본 적 없어?",
+                "kr": "만나서 반가워, 박사. 난 퍼퓨머 '레나'라고 해. 어머, 퍼퓨머란 직업…… 들어본 적 없어?",
                 "cn": "初次见面，博士。我是调香师莱娜。您听说过调香师这种职业吗？"
             },
             "asset": "char_181_flower/CN_011"
@@ -211,7 +211,7 @@
             "text": {
                 "en": "A promotion...? You came to tell me in person? I'm flattered. Oh, just a moment, Doctor… There we go, your collar was wrinkled, so I smoothed it out for you.",
                 "jp": "昇進のこと、わざわざ伝えに来てくれたの？悪いわね、ドクターくん。それはそうと――エリが曲がってるわよ、ちょっと失礼。",
-                "kr": "승진했다고 일부러 알려주러 온 거야? 미안해 박사. 그건 그렇고… 옷깃 비뚤어졌다, 잠깐 실례~",
+                "kr": "승진했다고 일부러 알려주러 온 거야? 미안해 박사. 그건 그렇고…… 옷깃 비뚤어졌다, 잠깐 실례~",
                 "cn": "有关晋升的消息......您是特意来向我传达这个的吗？真是不好意思，博士......啊，抱歉，请稍等。没事，只是您的领角皱了，我稍微整理了一下~"
             },
             "asset": "char_181_flower/CN_013"
@@ -227,7 +227,7 @@
             "text": {
                 "en": "I don't appreciate violence as a tactic... But I'll do my best to get used to it for Rhodes Island, Doctor.",
                 "jp": "本当はああいう野蛮な戦い方は苦手なんだけどね。でもまあ、ドクターくんのために頑張るわ。",
-                "kr": "사실… 그렇게 야만스러운 방식으로 싸우는 건 잘 못 하는데… 그래도 뭐, 박사를 위해 열심히 할게.",
+                "kr": "사실…… 그렇게 야만스러운 방식으로 싸우는 건 잘 못 하는데…… 그래도 뭐, 박사를 위해 열심히 할게.",
                 "cn": "其实我不太适合那些蛮不讲理的战斗方式。不过，如果是为了博士，我也是会去努力适应的。"
             },
             "asset": "char_181_flower/CN_014"
@@ -291,7 +291,7 @@
             "text": {
                 "en": "What kind of battle will it end up being, I wonder…?",
                 "jp": "どんな戦いになるかしらね……。",
-                "kr": "어떤 싸움이 될까나…",
+                "kr": "어떤 싸움이 될까나……",
                 "cn": "这会是一场怎样的战斗呢。"
             },
             "asset": "char_181_flower/CN_020"
@@ -483,7 +483,7 @@
             "text": {
                 "en": "It's too bad we didn't win, but I won't let it discourage me.",
                 "jp": "今回は残念だったけど……これくらいでは諦めないわ。",
-                "kr": "이번엔 아쉽게 됐지만… 이 정도로 포기하진 않을 거야.",
+                "kr": "이번엔 아쉽게 됐지만…… 이 정도로 포기하진 않을 거야.",
                 "cn": "虽然没能赢下战斗确实有些遗憾，但我是不会气馁的。"
             },
             "asset": "char_181_flower/CN_032"
@@ -553,6 +553,22 @@
             "asset": "char_181_flower/CN_037"
         },
         {
+            "id": "char_181_flower_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Happy New Year, Doctor. I'll just put all the New Year's plants right here, if you're fine with that? They might only bloom for four days, but so long as I'm around, your office will be filled with color and fragrance no matter the season.",
+                "jp": "あけましておめでとう、ドクターくん。新年の花たちはここにセットする感じでいいかな？この花は四日ほどでしおれちゃうと思うけど、私がいれば四季折々の花たちの香りと彩りで、ドクターくんの部屋を一年中コーディネートしてあげられるわ。",
+                "kr": "새해 복 많이 받아 박사. 새해맞이 꽃들은 이쯤에 놔두면 될까? 이 꽃은 나흘 정도면 지겠지만, 내가 있으면 계절마다 꽃향기랑 색깔로 박사 방을 일 년 내내 꾸며줄 수 있을 거야.",
+                "cn": "新年快乐，博士。新年用的花卉就放在这里，可以吗？这些花的花期虽然只有四天，但只要有我在，博士的房间里，一年四季都会充满花香与色彩的。"
+            },
+            "asset": "char_181_flower/CN_038"
+        },
+        {
             "id": "char_181_flower_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "博士，您好。"
             },
             "asset": "char_181_flower/CN_042"
+        },
+        {
+            "id": "char_181_flower_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "离开家乡固然有许多遗憾，但是如今在罗德岛经营这一小片花园，为大家带来更多美妙的香气，也是可以收获幸福的工作。米诺斯有一句谚语：“当一朵花离开了枝头，它便是在拥抱整片大地。”",
+                "jp": "离开家乡固然有许多遗憾，但是如今在罗德岛经营这一小片花园，为大家带来更多美妙的香气，也是可以收获幸福的工作。米诺斯有一句谚语：“当一朵花离开了枝头，它便是在拥抱整片大地。”",
+                "kr": "离开家乡固然有许多遗憾，但是如今在罗德岛经营这一小片花园，为大家带来更多美妙的香气，也是可以收获幸福的工作。米诺斯有一句谚语：“当一朵花离开了枝头，它便是在拥抱整片大地。”",
+                "cn": "离开家乡固然有许多遗憾，但是如今在罗德岛经营这一小片花园，为大家带来更多美妙的香气，也是可以收获幸福的工作。米诺斯有一句谚语：“当一朵花离开了枝头，它便是在拥抱整片大地。”"
+            },
+            "asset": "char_181_flower/CN_044"
         }
     ],
     "actors": {

@@ -83,7 +83,7 @@
             "text": {
                 "en": "I'm the one who got infected, but then even Astesia... *sigh*... You probably can't tell, but she's actually pretty depressed. Enough is enough, I gotta do something to help her.",
                 "jp": "私が病気になったせいで、姉さんも、はぁ……他の人はわからないだろうけど、本当はすごく落ち込んでるんだよ、姉さん。このままじゃいけないよね、なんとかしなきゃ。",
-                "kr": "내가 병에 걸렸기 때문에 언니도, 하아...... 남들은 눈치채지 못한 것 같지만, 사실 언니도 엄청 침울해하고 있어. 그렇다고 계속 이대로 있을 순 없지, 언니를 도와줘야겠어.",
+                "kr": "내가 병에 걸렸기 때문에 언니도, 하아…… 남들은 눈치채지 못한 것 같지만, 사실 언니도 엄청 침울해하고 있어. 그렇다고 계속 이대로 있을 순 없지, 언니를 도와줘야겠어.",
                 "cn": "明明是我得病，结果害得姐姐也，唉......别人看不出来，但她现在其实挺消沉的，一直这样下去也不是个办法，我得帮她一把。"
             },
             "asset": "char_135_halo/CN_005"
@@ -553,6 +553,22 @@
             "asset": "char_135_halo/CN_037"
         },
         {
+            "id": "char_135_halo_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Hm, that's another year, come and gone. It's time to come up with new plans. No, it's not really that much work. All you have to do is make a wish and keep it in mind. Your first wish of the year is always the easiest to fulfill. Give it a try.",
+                "jp": "うーん、また一年が過ぎたなぁ、新しい計画を立てなきゃ。……まぁ、そんな手間でもないけどね。願い事を決めて、心の中で大事に抱えてればいいんだから。新年の日の願い事が一番叶いやすいはずだよ。ドクターも試してみて？",
+                "kr": "으음, 또 한 해가 지나갔으니까 다시 새로운 계획을 세워야겠네. 사실 그렇게 번거로운 일은 아냐, 그냥 소망 하나를 마음속에 간직해 두면 돼. 새해의 첫 소망은 항상 쉽게 이루어지곤 하니까, 박사도 한번 시도해 봐.",
+                "cn": "唔，又过了一年啊，得做个新的规划了。其实也不麻烦，只要许个愿望放在心底里就好啦，新年的第一个愿望，总是最容易实现的。试试看吧。"
+            },
+            "asset": "char_135_halo/CN_038"
+        },
+        {
             "id": "char_135_halo_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "你好博士，需要帮忙吗？"
             },
             "asset": "char_135_halo/CN_042"
+        },
+        {
+            "id": "char_135_halo_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Time to get up and stretch a little, Doctor. All that trouble won't go away just because you spend a couple more minutes grinding away. Come on, share a dance with me and move your body. Don't worry, it's not hard. Just take my hand, step forward. Right... Right, like that. Does it feel like your body just lightened up some?",
+                "jp": "ドクター、ちょっとは体を動かさないとね。面倒事はそんな一分二分争ったところで解決しないんだから。私と一曲踊ろう？いい運動になるよ。大丈夫、難しくないから。ただ手をとって、ステップをこう踏んで、そう……そう、そんな感じ。どう、体が軽くなった？",
+                "kr": "박사, 일어나서 몸이라도 좀 움직여, 성가신 일들은 몇 분 더 투자하는 정도론 해결되지 않는다고. 나랑 춤이라도 좀 추면서 움직여 보는 건 어때? 괜찮아, 어렵지 않으니까. 손을 잡고, 스텝을 밟으면서, 그래…… 그래, 바로 그거야. 어때, 몸이 좀 가벼워진 것 같지 않아?",
+                "cn": "该起来活动一下了，博士。麻烦事可不会因为多花一两分钟就能解决。起来陪我跳支舞吧，动动身体。没事，这不难的，只要牵住手，迈开步子，对......对，就这样。有没有觉得身体轻快些了？"
+            },
+            "asset": "char_135_halo/CN_044"
         }
     ],
     "actors": {

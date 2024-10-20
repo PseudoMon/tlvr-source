@@ -67,7 +67,7 @@
             "text": {
                 "en": " 'Droste' is my mother's maiden name. It is a common name with no place in the spires. How long would you stay in an alley full of marigolds, Doktor? Very few would grace their proses and stanzas with these forbidden blossoms, but they're really beautiful... To be honest, I'm surprised you actually remembered my full name, Doktor.",
                 "jp": "「ドロステ」は母方の姓なのです。ごく平凡なもので、高塔とは無関係です。カレンデュラが咲き誇る小路で、あなたはどれだけ足を止めるでしょうか？季節外れの花について書き表す人は少ないですが、本当に美しいのですよ……まあ、私のフルネームを覚えてらしたのですね、ドクター。",
-                "kr": " '드로스테'는 제 어머니의 성이에요. 정말 평범하고, 고탑과는 아무런 관계가 없죠. 박사님이시라면 금잔화로 가득한 골목에서 얼마나 오랫동안 머무르실까요? 피지 말아야 했던 꽃에 대해 글을 쓸 사람은 거의 없겠지만, 그럼에도 그 꽃들은 정말로 아름다웠답니다…… 아, 제 본명을 기억해 주고 계셨군요, 박사님.",
+                "kr": "'드로스테'는 제 어머니의 성이에요. 정말 평범하고, 고탑과는 아무런 관계가 없죠. 박사님이시라면 금잔화로 가득한 골목에서 얼마나 오랫동안 머무르실까요? 피지 말아야 했던 꽃에 대해 글을 쓸 사람은 거의 없겠지만, 그럼에도 그 꽃들은 정말로 아름다웠답니다…… 아, 제 본명을 기억해 주고 계셨군요, 박사님.",
                 "cn": "“德罗斯特”是我母亲的姓氏，它很普通，它不属于高塔。您会在一条金盏花盛开的小巷驻足多久？少有人书写那些错开的花，但它们真的很美......唔，博士，您竟然记得我的全名。"
             },
             "asset": "char_4098_vvana/CN_004"
@@ -209,7 +209,7 @@
                 "cn": "精英化晋升1"
             },
             "text": {
-                "en": "Are you going to grant me a title as well?  There's no need for that, but it probably won't matter anyway. This place is no arena.",
+                "en": "Are you going to grant me a title as well? There's no need for that, but it probably won't matter anyway. This place is no arena.",
                 "jp": "ドクターも私に称号を授けるつもりなのですか？いえ、そうであっても差し支えはありませんね。ここは競技場ではないと私も理解していますから。",
                 "kr": "박사님도 저한테 칭호를 주시려고요? 아뇨, 그렇다고 해도 상관없습니다. 저도 여기가 경기장이 아니라는 건 잘 알고 있으니까요.",
                 "cn": "您也要授予我一个什么称号吗？不，即便如此也没有什么，这里不是竞技场，我知道。"
@@ -387,7 +387,7 @@
             "text": {
                 "en": " 'Pale roses,' pale minds.",
                 "jp": "「蒼白なバラ」、蒼白な想像。",
-                "kr": " '창백한 장미', 창백한 상상.",
+                "kr": "'창백한 장미', 창백한 상상.",
                 "cn": "“苍白的玫瑰”，苍白的想象。"
             },
             "asset": "char_4098_vvana/CN_026"
@@ -553,6 +553,22 @@
             "asset": "char_4098_vvana/CN_037"
         },
         {
+            "id": "char_4098_vvana_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Every year, my father spent the New Year with the nobles of the territory, and everyone who lived nearby were given their rewards. That was when I could finally speak loudly in my room. No one was ever there to notice me, and I paid no mind to the boisterousness outside, either... I was still young, but I still remember.",
+                "jp": "毎年この日になると、父は領内の貴族と共に新年を祝い、付近の住民も祝儀を受け取ることができるのです。その時間だけは部屋で声を張れるようになります。誰も私に注意を払うことはなく、私も外の賑わいには加わりません……まだ年端もいかない幼子でしたが、すべて覚えています。",
+                "kr": "매년 이맘때가 되면 아버지께선 영지 내의 다른 귀족들과 함께 새해를 축하하셨습니다. 인근에 살고 있는 사람들도 하사품을 받을 수 있었죠. 그리고 그 시간만큼은 저도 방 안에서 큰 소리로 말할 수 있었습니다. 그 누구도 제게 신경을 쓰지 않았고, 저 역시 바깥의 소란스러움에 눈을 돌리지 않았어요…… 그땐 아직 어린 나이였지만, 지금도 똑똑히 기억이 나네요.",
+                "cn": "每到这天，父亲会与领地里的贵族共度新年，住在附近的人们都能得到赏赐。我终于可以在房间里大声说话，没人会注意到我，我也不去注意外面的热闹......那时候我还小，但我都记得。"
+            },
+            "asset": "char_4098_vvana/CN_038"
+        },
+        {
             "id": "char_4098_vvana_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "欸，博士，你在念念有词些什么？我又不会抽背那些诗。你看了吗？你看了吧？"
             },
             "asset": "char_4098_vvana/CN_042"
+        },
+        {
+            "id": "char_4098_vvana_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "People often say that the era we live in has no need for poetry. They claim it cannot provide leisure, and it is loathed for certain men's pretentious elegance. But there is someone who once proved to me the value of 'reminders.' In that case, I wish to walk with you to remind this era, with a candle, and a poem.",
+                "jp": "詩歌は今の時代には必要ない、気晴らしにはならないと言う向きは強いですし、風流を形だけなぞる人々のせいで余計に疎まれることもあります。ですが、「思い出させる」ということの価値を私に示した人がいます。私もあなたと共に、一本の蝋燭と一編の詩でもって、この時代に知らしめたいのです。",
+                "kr": "사람들은 지금 같은 시대에 시는 필요하지 않다고 말합니다. 오락거리도 될 수 없고, 겉치레로만 이용하는 사람들 때문에 더욱 무시당하고 있죠. 하지만, 제게 '일깨움'의 가치를 보여준 사람이 있습니다. 그러니 저도 촛불 하나, 시 한 편으로 당신과 함께 이 시대를 일깨우고 싶습니다.",
+                "cn": "人们总说这个时代不需要诗歌，它不能提供消遣，又因一些人的附庸风雅更遭鄙弃。但有人向我证明过“提醒”的价值，那么，我愿和你一起去提醒这个时代，以一支蜡烛、一首诗去提醒它。"
+            },
+            "asset": "char_4098_vvana/CN_044"
         }
     ],
     "actors": {

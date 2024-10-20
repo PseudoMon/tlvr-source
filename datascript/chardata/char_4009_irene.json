@@ -553,6 +553,22 @@
             "asset": "char_4009_irene/CN_037"
         },
         {
+            "id": "char_4009_irene_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "New Year's already? The tides draw even closer to us now. Sorry, it's hard not to think about that. On the flipside, we can count ourselves lucky for being able to walk the lands this upcoming year, can't we?",
+                "jp": "こんなにも早く……新たな一年を迎えるんですね。海の荒波がまた少し迫ってきたのではないでしょうか？申し訳ありません、考えないようにしても考えてしまうんです。ですが見方を変えれば、来年もこの大地を奔走できる私たちは、まだ幸運な方とも言えますよね？",
+                "kr": "새해라니…… 벌써 그렇게 됐나요? 바다의 파도가 다시 한번 가까워진 건 아닐까요? 죄송해요, 이런 생각들을 도무지 떨쳐 낼 수가 없네요. 하지만 어떻게 보면 내년에도 여전히 대지에서 활동할 수 있으니, 그래도 다행이라 할 수 있겠죠?",
+                "cn": "新的一年......这么快就到了吗？大海的波涛是不是又离我们更近了一些？对不起，我很难不去想这些事。但换个角度说，我们明年依然能奔波在大地上，也算是挺幸运的了吧？"
+            },
+            "asset": "char_4009_irene/CN_038"
+        },
+        {
             "id": "char_4009_irene_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "博士，海岸线上又有新动静了，我得跟你聊聊。"
             },
             "asset": "char_4009_irene/CN_042"
+        },
+        {
+            "id": "char_4009_irene_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "You want to cure Oripathy? After I saw for myself what Iberia... No, after I realized the threat the sea poses to us all, I started to think... it may not be all that unrealistic.",
+                "jp": "无",
+                "kr": "……광석병을 치료하고 싶다고요? 이베리아의 모습을 똑똑히 보고 나서는…… 아니, 저희 모두가 마주하고 있는 바다의 위협이 어떤 것인지 알게 된 후에는, 당신들의 이상도 그리 허무맹랑한 얘기가 아니라는 생각이 드네요.",
+                "cn": "......想治愈矿石病？在看清伊比利亚......不，在得知我们所有人面对的海洋的威胁到底是什么之后，我觉得，你们的理想也没那么不切实际了。"
+            },
+            "asset": "char_4009_irene/CN_044"
         }
     ],
     "actors": {

@@ -553,6 +553,22 @@
             "asset": "char_466_qanik/CN_037"
         },
         {
+            "id": "char_466_qanik_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Ieddne tsoavtsoj (Mother divined) Rhodes Island's future, to thank you. She'll tell you the results herself. She also asked me to give you this, a feather that's only given to the strongest doarroålmåj (warrior) or wisest noajdde (sage) among our people.",
+                "jp": "ドクター、うちの母さんがお礼にって、ロドスの未来を占ったんだ。あとで結果を直接教えるって。それと、これを必ず渡すように言われたんだ――この羽飾りは、うちの部族では一番逞しい勇者か、もっとも知恵のある賢者に授けるものなんだけど、あなたにはその資格が充分にあるって言ってたよ。",
+                "kr": "박사, 어머니께서 감사의 의미로 로도스 아일랜드의 미래에 대해 점을 쳐 줬어. 결과는 나중에 어머니가 직접 박사에게 알려 줄 거야. 그리고 이걸 꼭 전해 달라고 했어. 이 깃털은 우리 부족에서 가장 용맹한 전사나 가장 지혜로운 현자한테 주는 건데, 박사는 이걸 받을 자격이 있다고 했어.",
+                "cn": "博士，母亲为了表达感谢，为罗德岛的未来做了一次占卜，她会亲自告诉您得到的结果。她还嘱咐我一定要把这个给您：这种羽毛在我们部落只会送给最彪悍的猛士或者最聪慧的智者，您有这个资格。"
+            },
+            "asset": "char_466_qanik/CN_038"
+        },
+        {
             "id": "char_466_qanik_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "呼啊！有没有被吓到？什么，完全没有！原先在雪地里，我能吓到不少人呢。"
             },
             "asset": "char_466_qanik/CN_042"
+        },
+        {
+            "id": "char_466_qanik_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "I used to be scared of contracts and paperwork, but I can handle those now. My tribe has started calling me the 'oavdos unna rájadusásj' ('Wonderful Little Messenger'). I heard Magallan set a new record. People with dreams just don't stop.",
+                "jp": "始めは契約書とか、シート記入とかをあんなに苦手に思ってたぼくでも、今じゃ無難にこなせるようになったよ。里帰りするたびに、みんなからは「立派な小さき使者」って呼ばれるんだ。それにマゼランのお姉さんも自分の限界を超えたって聞くし……やっぱり、人は夢を持てば、どんどん突き進んでいけるものなんだね。",
+                "kr": "나도 처음엔 계약서라던가 서류 작성 같은 걸 무서워했는데 지금은 여유롭게 그 일들을 할 수 있게 됐어. 이젠 마을에 돌아갈 때마다 부족 사람들이 날 '훌륭한 사자'라고 불러 준다니까. 마젤란 누나도 자신의 한계를 돌파했다 그러던데, 역시 사람은 꿈을 가져야 멈추지 않고 나아갈 수 있는 건가 봐.",
+                "cn": "我当初那么害怕合同和填表，现在也能顺利地完成这些工作了，每次回去，部落里也叫我“了不起的小使者”。我听说麦哲伦姐姐已经突破了一次极限，果然，人一旦有了梦想，就不会再停下脚步。"
+            },
+            "asset": "char_466_qanik/CN_044"
         }
     ],
     "actors": {

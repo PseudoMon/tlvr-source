@@ -553,6 +553,22 @@
             "asset": "char_4081_warmy/CN_037"
         },
         {
+            "id": "char_4081_warmy_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Happy New Year, Doctor! Do you want to go up to the deck to watch the fireworks together? Uh... It's not Arts. It's real fireworks. Everybody at Rhodes Island pitched in to make it happen! Shh—Do you hear that?",
+                "jp": "もう新年ですよ、ドクターさん、ドクターさん！一緒にデッキで花火を見ませんか？えっと……アーツじゃなくて、本物の花火ですよ。ロドスのみんなで用意したんです！しーっ、ほら。音、聞こえました？",
+                "kr": "새해예요 박사님! 같이 갑판에서 불꽃놀이 구경하는 거 어떠세요? 어…… 오리지늄 아츠가 아니라 진짜 폭죽이에요! 로도스 아일랜드 사람들이 다같이 준비한 거라고요! 쉿…… 소리 들으셨죠?",
+                "cn": "新年啦，博士、博士！要不要一起去甲板上看烟花？呃......不是源石技艺啦，是真的烟花，是罗德岛的大家一起准备的！嘘——您听到了吗？"
+            },
+            "asset": "char_4081_warmy/CN_038"
+        },
+        {
             "id": "char_4081_warmy_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "博士，今天您好好吃饭了吗？"
             },
             "asset": "char_4081_warmy/CN_042"
+        },
+        {
+            "id": "char_4081_warmy_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "When I was still small, I had so, so many wishes, but Dad only ever wished for me to grow up happily... Now I understand. I need to be happy first, then I'll wait for my other wishes to slowly come true. Doctor, you need to make sure you'll be happy during this new year onboard Rhodes Island, too.",
+                "jp": "小さい頃、わたしにはたくさんの夢がありました。でも、パパはわたしが元気で幸せに育ってくれれば良いって言うだけで……今やっとその意味を理解したんです。まずは元気で幸せな暮らしをして、それから残りの夢が叶うのをのんびり待てばいいって。これからロドスが迎える新しい一年、ドクターさんも幸せになれますように。",
+                "kr": "어릴 때 전 꿈이 많았어요. 하지만 아빠는 늘 제가 건강하고 행복하기만을 바라셨죠…… 저도 이제 알아요. 가장 중요한 건 행복하게 사는 거고, 그걸 먼저 이룬 다음, 다른 소원들은 마치 약불에 조리하듯 느긋하게 이뤄지길 기다리며 살아가면 된다는 걸요. 박사님, 로도스 아일랜드에서 맞이할 새로운 한 해도 행복하시길 바랄게요.",
+                "cn": "小时候我有好多好多愿望，爸爸却只是祝福我幸福快乐地成长......现在我明白了，要先做到幸福快乐，剩下的愿望就等待它们慢慢实现吧。博士，在罗德岛的新的一年，您也要幸福快乐哦。"
+            },
+            "asset": "char_4081_warmy/CN_044"
         }
     ],
     "actors": {

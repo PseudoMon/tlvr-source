@@ -131,7 +131,7 @@
             "text": {
                 "en": "Doctor, could you lend me your comms device for a moment? I usually turn my comms off after work, and don't get any messages. ...There we go, I've granted you emergency contact privileges. You can get in touch with me whenever for whatever, this way.",
                 "jp": "ドクター、通信端末をちょっと貸してもらえますか？退勤後は端末を切って、メッセージを一切受け取らないようにしているので……よし、緊急連絡権限を付与しておいたので、これでいつでも遠慮なく連絡してください。",
-                "kr": "박사님, 통신 단말기를 좀 빌려주시겠어요? 전 퇴근 후에는 단말기를 끄고, 메시지를 일절 받지 않고 있으니까요... ... 됐다, 긴급 연락 권한을 부여해 두었으니, 이제 언제든지 사양 말고 연락 주세요.",
+                "kr": "박사님, 통신 단말기를 좀 빌려주시겠어요? 전 퇴근 후에는 단말기를 끄고, 메시지를 일절 받지 않고 있으니까요…… …… 됐다, 긴급 연락 권한을 부여해 두었으니, 이제 언제든지 사양 말고 연락 주세요.",
                 "cn": "博士，可以把您的通讯装置借我一下吗？工作结束之后，一般我会关闭通讯仪器，不接收任何消息。......好了，我给您开通了紧急联络权限，这样一来，有任何事您都可以随时联系我。"
             },
             "asset": "char_4036_forcer/CN_008"
@@ -553,6 +553,22 @@
             "asset": "char_4036_forcer/CN_037"
         },
         {
+            "id": "char_4036_forcer_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "This is my first time welcoming in the New Year somewhere beyond Laterano. There's still plenty of places I'm not used to, but I've tried so many things I never tried before, and that... feels pretty good. Happy New Year, Doctor.",
+                "jp": "ラテラーノの外で年越しをするのは初めてです。色々とまだ慣れませんが、これまでにない経験もたくさんできましたし、なんというか……とても良い気分です。ハッピーニューイヤー、ドクター。",
+                "kr": "라테라노 밖에서 새해를 맞이하는 건 처음이에요. 여러모로 아직 익숙하지는 않지만 지금까지 겪지 못했던 경험도 많이 했고, 뭐랄까…… 정말 좋은 기분입니다. 새해 복 많이 받으세요, 박사님.",
+                "cn": "这还是我第一次在拉特兰之外的地方迎接新年，虽然还有不少不习惯的地方，但也尝试了很多之前没有试过的东西，这种感觉......很不错。新年快乐，博士。"
+            },
+            "asset": "char_4036_forcer/CN_038"
+        },
+        {
             "id": "char_4036_forcer_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "要喝咖啡吗，博士？"
             },
             "asset": "char_4036_forcer/CN_042"
+        },
+        {
+            "id": "char_4036_forcer_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "罗德岛上也有许多萨科塔同胞。虽然不能感应到，但在他们脸上，快乐和幸福的表情是清晰可见的。这是不是因为，他们都在这里找到了值得自己献身的目标呢？博士，在这一方面，我还需要您的引导。",
+                "jp": "罗德岛上也有许多萨科塔同胞。虽然不能感应到，但在他们脸上，快乐和幸福的表情是清晰可见的。这是不是因为，他们都在这里找到了值得自己献身的目标呢？博士，在这一方面，我还需要您的引导。",
+                "kr": "罗德岛上也有许多萨科塔同胞。虽然不能感应到，但在他们脸上，快乐和幸福的表情是清晰可见的。这是不是因为，他们都在这里找到了值得自己献身的目标呢？博士，在这一方面，我还需要您的引导。",
+                "cn": "罗德岛上也有许多萨科塔同胞。虽然不能感应到，但在他们脸上，快乐和幸福的表情是清晰可见的。这是不是因为，他们都在这里找到了值得自己献身的目标呢？博士，在这一方面，我还需要您的引导。"
+            },
+            "asset": "char_4036_forcer/CN_044"
         }
     ],
     "actors": {

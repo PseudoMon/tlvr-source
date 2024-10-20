@@ -67,7 +67,7 @@
             "text": {
                 "en": "You seem somewhat mindful of my manner of speech. Hmm, if possible, I'd like if you could bear with it. My last project team, whether superiors or juniors, all took up overly polite address that only sent communication efficiency to rock bottom. It posed a headache to me too.",
                 "jp": "私の口調が気になりやがるようですね。えーっと、できりゃーそこんとこは大目に見てくれやがると幸いなんですが。前のプロジェクトチームの奴らとは、上司だろうが部下だろうが、バカ丁寧な接し方をしてたら効率が下がる一方だったんでね。私も苦労してるんですよ。",
-                "kr": "제 말투가 거슬리시는 모양인데… 음, 이 부분은 웬만하면 대충 넘어가 주시죠. 저번 프로젝트 팀 녀석들한텐, 상사든 부하든 다 정중하게 쳐 대해줬더니 효율이 장난 아니게 떨어졌거든요. 저도 나름 고생이 많다고요.",
+                "kr": "제 말투가 거슬리시는 모양인데…… 음, 이 부분은 웬만하면 대충 넘어가 주시죠. 저번 프로젝트 팀 녀석들한텐, 상사든 부하든 다 정중하게 쳐 대해줬더니 효율이 장난 아니게 떨어졌거든요. 저도 나름 고생이 많다고요.",
                 "cn": "您似乎对我的语气有些在意。啊，如果可能的话还请您多包涵。我在前项目组里面对的家伙，无论上司还是下属，用一本正经的方式和他们沟通都只会极大地降低沟通效率，我也很伤脑筋。"
             },
             "asset": "char_489_serum/CN_004"
@@ -115,7 +115,7 @@
             "text": {
                 "en": "A pileup of overdue reports and files just won't do. The paper shredder? No, Doctor, don't tell me you wouldn't want to try this environmentally-friendly corrosive, able to turn a ream of paper to pulp with a dropper's worth. There's no use? That's true. How about I launch a project to develop a papermaking machine utilizing this pulp?",
                 "jp": "古いレポートやら書類やらを山積みにしとくのは良くねーですよ。シュレッダー？いやいや、ドクター、この安心安全で環境配慮もバッチシの腐蝕剤を試してみたくねーですか？ちーと垂らすだけで、大量の紙をドロドロに溶かしてパルプにできんですよ。使い道がねー？まーそりゃそうだ、じゃあパルプから紙を作るマシーンの開発プロジェクトでも、一緒に立ち上げやがりませんか？",
-                "kr": "오래 된 보고서네 서류네 이딴 걸 산더미처럼 쌓아 두면 안 좋아요~ 문서 절단기? 박사님도 참~ 이 안심되고, 안전하고, 환경도 제대로 고려한 부식제를 시험해 보고 싶지 않으신가요? 약~간만 떨어뜨려도 대량의 종이를 흐물흐물하게 녹여서 펄프로 만들 수 있습니다만… 쓸 곳이 없다고요? 하긴 또 그렇긴 한데… 그럼, 펄프에서 종이를 만드는 머신 개발 프로젝트라도 함께 추진해보는 건 어떠실까요?",
+                "kr": "오래 된 보고서네 서류네 이딴 걸 산더미처럼 쌓아 두면 안 좋아요~ 문서 절단기? 박사님도 참~ 이 안심되고, 안전하고, 환경도 제대로 고려한 부식제를 시험해 보고 싶지 않으신가요? 약~간만 떨어뜨려도 대량의 종이를 흐물흐물하게 녹여서 펄프로 만들 수 있습니다만…… 쓸 곳이 없다고요? 하긴 또 그렇긴 한데…… 그럼, 펄프에서 종이를 만드는 머신 개발 프로젝트라도 함께 추진해보는 건 어떠실까요?",
                 "cn": "过期的报表和文件堆着可不好。碎纸机？不，博士，您难道不想试试这款安全无污染的腐蚀剂，只需一点点就能把大量纸张溶成纸浆。没什么用？确实，那我们立项研发一台能用这种纸浆造纸的机器？"
             },
             "asset": "char_489_serum/CN_007"
@@ -131,7 +131,7 @@
             "text": {
                 "en": "The impression you give may not seem quite like my project manager at Raythean, but there's some similarities. However, saying this with a wide open heart, you as a superior outstrip that unpredictable, outlandish black box of a crackpot project-intending plan-addled trickster genius by miles.",
                 "jp": "あなたはレイジアンにいるうちのプロマネとは少し違った雰囲気をしてやがりますが、ビミョーに似てる部分もあります。だけど、包み隠さずあれこれ話してくれやがるところで言えば、上司にするにはあの意味不明な企画案ばっか考えてるイタズラモンスターよりずっといいんですよ。",
-                "kr": "당신은 레이시언에 있던 제 프로젝트 매니저와는 조금 다른 분위기이긴 한데… 또 묘하게 닮은 구석도 있단 말이죠. 그래도, 숨기는 거 없이 이것저것 말해주고 그러는 걸 또 보면, 상사로 삼기에는 왜 쳐하는지도 모를 기획안만 주구장창 생각하는 그 장난꾸러기 괴물보단 훨씬 낫네요.",
+                "kr": "당신은 레이시언에 있던 제 프로젝트 매니저와는 조금 다른 분위기이긴 한데…… 또 묘하게 닮은 구석도 있단 말이죠. 그래도, 숨기는 거 없이 이것저것 말해주고 그러는 걸 또 보면, 상사로 삼기에는 왜 쳐하는지도 모를 기획안만 주구장창 생각하는 그 장난꾸러기 괴물보단 훨씬 낫네요.",
                 "cn": "您给人的感觉虽与我那雷神工业的项目经理似乎有所不同，但也有几分相似。不过，就知无不言这一点来说，您作为我的上司确要比那位满脑子不知道在盘算什么奇葩项目方案的整蛊天才强太多了。"
             },
             "asset": "char_489_serum/CN_008"
@@ -227,7 +227,7 @@
             "text": {
                 "en": "True, it's worth taking joy in a project's smooth progress, but the evaluation you've given me, in my opinion, seems to have already outclassed my resume. That is to say, do you have further expectations of me, even greater than this?",
                 "jp": "プロジェクトがスムーズに進んでいるのは安心しますが、どうやらあなたがつけてくださりやがった評価は、現段階の私の業務成果を上回るものみてーですよ。つまり、私にこれ以上の働きっぷりを期待してやがるってことでしょうか？",
-                "kr": "프로젝트가 별 탈 없이 진행되고 있는 것은 일단 다행입니다만, 아무래도 당신이 내린 평가는… 현 단계의 제 업무 성과를 상회하는 것 같단 말이죠. 그래~서 다시 말하자면, 제게 이 이상의 업무 성과를 기대하는 거라 봐도 좋겠죠?",
+                "kr": "프로젝트가 별 탈 없이 진행되고 있는 것은 일단 다행입니다만, 아무래도 당신이 내린 평가는…… 현 단계의 제 업무 성과를 상회하는 것 같단 말이죠. 그래~서 다시 말하자면, 제게 이 이상의 업무 성과를 기대하는 거라 봐도 좋겠죠?",
                 "cn": "项目进行得顺利固然值得欣慰，但您给予的评价在我看来似乎已经超过了对我现阶段工作的总结。也就是说，您对我还有在此之上的期许？"
             },
             "asset": "char_489_serum/CN_014"
@@ -435,7 +435,7 @@
             "text": {
                 "en": "Doctor, this has thrown a slight wrench in things. After all, you've obtained combat results beyond expectations, and made it marginally more difficult for my assessment of weapon performance limits to be universal and objective. I'll have to increase the quantity of test samples to ensure accuracy... was that in your plans too?",
                 "jp": "ドクター、このままではちーと面倒なことになります。あなたが想定外の成果を得やがったので、武器の性能上限に対する私の評価の普遍性と客観性が失われてしまいかねません。正確性を保つにはサンプルを増やすしか……これもあなたの計画通りなんでしょうか？",
-                "kr": "박사님, 이대로라면 약~간 귀찮아질 것 같습니다만, 당신이 예상 밖의 성과를 거두셔서 말이죠… 무기의 최대 성능에 대한 제 평가에 보편성과 객관성이 없어질지도 모르겠군요. 정확성을 확보하려면 샘플을 늘리는 수밖에…… 이것도 설마 당신의 계획대로인 건가요?",
+                "kr": "박사님, 이대로라면 약~간 귀찮아질 것 같습니다만, 당신이 예상 밖의 성과를 거두셔서 말이죠…… 무기의 최대 성능에 대한 제 평가에 보편성과 객관성이 없어질지도 모르겠군요. 정확성을 확보하려면 샘플을 늘리는 수밖에…… 이것도 설마 당신의 계획대로인 건가요?",
                 "cn": "博士，这下似乎有些不好办了。毕竟，您取得了预想之外的战果，使我对武器性能上限的评估变得有些难以普适和客观。只好增加测试样本数量来保证准确性......这也在您的计划之中吗？"
             },
             "asset": "char_489_serum/CN_029"
@@ -553,6 +553,22 @@
             "asset": "char_489_serum/CN_037"
         },
         {
+            "id": "char_489_serum_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Happy New Year, Doctor. I'm very glad I don't have to confront those nightmare piles of annual reports here at Rhodes Island. It seems quite a few Operators have requested advance leave to visit family at home? Well, then, do you have any upcoming plans for this provisionally idle time?",
+                "jp": "あけましておめでとうございます、ドクター。ロドスでは煩わしい年間報告書と睨めっこしねーで済むということで、喜ばしい限りです。早めに休暇を取って帰郷しやがった奴も多いようですね？では、このそこそこ暇な期間中、あなたは何か予定を入れてやがりますか？",
+                "kr": "새해 복 많이 받으세요, 박사님. 로도스 아일랜드에서는 성가신 연간 보고서와 눈씨름을 하지 않아도 되서 정말 기쁠 따름이란 말이죠. 그나저나 일찍 휴가를 내고 고향으로 튀어간 녀석들도 많은 모양이군요? 그래~서, 이 적당히 한가한 기간 동안, 따로 스케쥴 잡으신 건 있으신지요?",
+                "cn": "新年快乐，博士，很高兴我在罗德岛不用面对那些堆成一大叠的令人头疼的年度报表。似乎有不少干员也提前请假回家探亲了？那么，在这段姑且还算清闲的时间里，您有什么安排吗？"
+            },
+            "asset": "char_489_serum/CN_038"
+        },
+        {
             "id": "char_489_serum_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "您辛苦了，博士。"
             },
             "asset": "char_489_serum/CN_042"
+        },
+        {
+            "id": "char_489_serum_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "原本是为了测试武器才来到罗德岛，但您的指挥总是在证明人的重要性。我的确学到了很多......那么，正式加入罗德岛或许也不错呢。博士，可以来坦白地聊聊跳槽待遇吗？",
+                "jp": "原本是为了测试武器才来到罗德岛，但您的指挥总是在证明人的重要性。我的确学到了很多......那么，正式加入罗德岛或许也不错呢。博士，可以来坦白地聊聊跳槽待遇吗？",
+                "kr": "原本是为了测试武器才来到罗德岛，但您的指挥总是在证明人的重要性。我的确学到了很多......那么，正式加入罗德岛或许也不错呢。博士，可以来坦白地聊聊跳槽待遇吗？",
+                "cn": "原本是为了测试武器才来到罗德岛，但您的指挥总是在证明人的重要性。我的确学到了很多......那么，正式加入罗德岛或许也不错呢。博士，可以来坦白地聊聊跳槽待遇吗？"
+            },
+            "asset": "char_489_serum/CN_044"
         }
     ],
     "actors": {

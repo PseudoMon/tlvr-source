@@ -51,7 +51,7 @@
             "text": {
                 "en": "The name 'White Wolf' goes as far back in history as the Aslan monarchy. Why are you interested, though? ...Ah. You saw... my fangs? I'm sorry, I lost control of myself then. I won't let it happen again.",
                 "jp": "「白狼」という呼び名には、アスランが王座についた歴史と同じように長い物語があります。ですが、どうしてこんなことに興味を？……えっ、先日の戦いで、私の……牙が見えた？大変失礼いたしました、私の失態です。同じ過ちを繰り返さぬよう、気をつけます。",
-                "kr": "'화이트 울프'라는 호칭은 아슬란이 왕좌에 오르는 데까지의 역사만큼 유구합니다. 그런데 무엇 때문에 갑자기 이런 일에 흥미가 생기셨나요? ……아, 전에…… 제 송곳니가 보였다고요? 죄송합니다, 제 실수였습니다. 같은 실수를 반복하지 않도록 주의하겠습니다.",
+                "kr": "화이트 울프'라는 호칭은 아슬란이 왕좌에 오르는 데까지의 역사만큼 유구합니다. 그런데 무엇 때문에 갑자기 이런 일에 흥미가 생기셨나요? ……아, 전에…… 제 송곳니가 보였다고요? 죄송합니다, 제 실수였습니다. 같은 실수를 반복하지 않도록 주의하겠습니다.",
                 "cn": "“白狼”这个称呼，和阿斯兰称王的历史一样悠久，不过，您为什么对这件事感兴趣？......啊，您之前看见......我的獠牙了？抱歉，那是我失态了，我会在今后避免犯相同的错误。"
             },
             "asset": "char_4039_horn/CN_003"
@@ -147,7 +147,7 @@
             "text": {
                 "en": "Doctor, does a commander as outstanding as you ever feel sorrow? Or anger? Or... hate? I try as hard as I can not to let personal emotions sway me, but I can't forget. I promised them I would never forget.",
                 "jp": "ドクター、あなたのように優秀な指揮官でも、悲しんだり、憤ったり……恨んだりすることはありますか？私も私情に流されないよう気をつけてはいますが、それでも当時のことを忘れられないんです。絶対に忘れないと、彼らに誓いましたから。",
-                "kr": "박사님, 당신처럼 훌륭한 지휘관도 슬프거나, 분노하거나… 원망할 때가 있나요? 최대한 사사로운 감정에 휩쓸리지 않도록 노력하고는 있지만, 역시 잊지는 못할 겁니다. 절대로 잊지 않을 거라고 그들 앞에 맹세했으니까요.",
+                "kr": "박사님, 당신처럼 훌륭한 지휘관도 슬프거나, 분노하거나…… 원망할 때가 있나요? 최대한 사사로운 감정에 휩쓸리지 않도록 노력하고는 있지만, 역시 잊지는 못할 겁니다. 절대로 잊지 않을 거라고 그들 앞에 맹세했으니까요.",
                 "cn": "博士，您这样优秀的指挥官，会悲伤吗？会愤怒吗？会......仇恨吗？我尽力不被个人情绪左右，但是我没办法忘记。我答应过他们我不会忘记。"
             },
             "asset": "char_4039_horn/CN_009"
@@ -499,7 +499,7 @@
             "text": {
                 "en": "It doesn't resemble Victoria here, but... it reminds me of when I studied at the Royal Guard Academy.",
                 "jp": "ここはヴィクトリアとはまるで違いますが……どこか王立前衛学校での学生時代を思い出させてくれます。",
-                "kr": "이곳은 빅토리아와는 전혀 다르긴 하지만… 제가 로열 가드 스쿨에서 공부하던 시절을 떠올리게 하네요.",
+                "kr": "이곳은 빅토리아와는 전혀 다르긴 하지만…… 제가 로열 가드 스쿨에서 공부하던 시절을 떠올리게 하네요.",
                 "cn": "这里不像维多利亚，但......让我想起在皇家近卫学校念书的时候。"
             },
             "asset": "char_4039_horn/CN_033"
@@ -553,6 +553,22 @@
             "asset": "char_4039_horn/CN_037"
         },
         {
+            "id": "char_4039_horn_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "When Misery rescued me, he told me the New Year had already come and gone. That was the first one I ever missed. Ever since, I've begun to pay less attention to these holidays at all.",
+                "jp": "Miseryさんに救出された時、もう年越しの時期は過ぎたと教えていただきました。新年を祝い損ねたのはあれが初めてでした。あの日から、私にとってこういう祝日は意味をなさなくなったんです。",
+                "kr": "제가 미저리 씨에게 구해졌을 당시, 그분께선 새해가 이미 지났다고 알려주셨습니다. 새해를 기념하지 못했던 것은 그때가 처음이었어요. 그날 이후로, 제게 이런 명절은 의미가 없게 됐습니다.",
+                "cn": "我被Misery救出来的时候，他告诉我新年已经过去了。那是我错过的第一个新年。那天起，我开始觉得这些节日都无所谓了。"
+            },
+            "asset": "char_4039_horn/CN_038"
+        },
+        {
             "id": "char_4039_horn_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "您好，博士。休息得还好吗？"
             },
             "asset": "char_4039_horn/CN_042"
+        },
+        {
+            "id": "char_4039_horn_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Periodic summations and celebrations both can't be dispensed with. When Amiya's speech wound up, the instant the people around me started laughing and bellowing, I relaxed. That surprised me. I see what's past is past now.",
+                "jp": "无",
+                "kr": "단계적인 결산과 경축은 모두 꼭 필요한 것들입니다. 아미야가 얘기를 끝내고, 옆에 있던 사람들이 갑자기 웃고 떠들기 시작하자, 전 왠지 모르게 안심이 되었습니다. 역시 과거의 일은, 그저 지나간 일에 불과한 것이겠지요.",
+                "cn": "阶段性的总结和庆祝都是很有必要的。在阿米娅结束讲话，身边的人突然开始大笑和尖叫的那一瞬间，我不知为何松了口气。过去的事情已经过去了。"
+            },
+            "asset": "char_4039_horn/CN_044"
         }
     ],
     "actors": {

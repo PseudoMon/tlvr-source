@@ -99,7 +99,7 @@
             "text": {
                 "en": "Seems Margaret kept the title she earned from that charade. Hmph, so she still sees her actions as a victory, after squandering the Nearls' glory in those cheap commercial performances... My Originium Arts? Alas, I can nary illuminate a thing.",
                 "jp": "マーガレットは、未だにあの茶番で得た称号を用いているようだな。ふっ、今でも自らの行いを勝利と見なしているのだろう。ニアール家の栄光は、あいつの手によってくだらん見世物の一部にされてしまったというのに……私のアーツ？残念だが、私に何かを照らすことなどできはしない。",
-                "kr": "보아하니, 마가렛은 아직도 그 촌극에서 얻은 칭호를 간직하고 있는 것 같군요. 후, 아직도 자신의 행동을 승리라고 여기는 건가...... 니어 가문이 쌓아 온 영광이, 마가렛에 의해 싸구려 쇼의 일부가 되어 버렸군요…… 제 아츠 말입니까? 유감이지만, 전 아무것도 비출 수 없습니다.",
+                "kr": "보아하니, 마가렛은 아직도 그 촌극에서 얻은 칭호를 간직하고 있는 것 같군요. 후, 아직도 자신의 행동을 승리라고 여기는 건가…… 니어 가문이 쌓아 온 영광이, 마가렛에 의해 싸구려 쇼의 일부가 되어 버렸군요…… 제 아츠 말입니까? 유감이지만, 전 아무것도 비출 수 없습니다.",
                 "cn": "看来玛嘉烈还保留着那个闹剧里的绰号。呵，她仍把自己的行为视作胜利。临光家族的荣光，被她移花接木到了那种廉价的商业表演中......我的源石技艺？很遗憾，我并不能照亮什么。"
             },
             "asset": "char_4064_mlynar/CN_006"
@@ -131,7 +131,7 @@
             "text": {
                 "en": "You, too, encourage the others to throw themselves at a cause that will yield no results. Those who attempt to walk through fire in the dark night will only find themselves immolated. That said, you don't need my advice, given the path you so obstinately walk alone.",
                 "jp": "あなたは、人々をそそのかし、結果など得られようもない事業へと身を投じさせている。暗闇に火明かりをもたらそうとする者は、往々にしてその火に焼かれてしまうというのに……だが、私の忠告など、届くはずもなかろう。あなたは、己の信じるままに進み続ける人なのだから。",
-                "kr": "당신 또한 사람들로 하여금 결과가 없는 사업에 몸을 던지도록 부추기고 있군요. 어둠 속에서 불을 건네려는 이들은, 때때로 그 불에 타 버리고는 합니다…… 하지만, 당신에게 제 충고가 닿진 않겠죠. 당신은 그저, 자기 신념대로 나아갈 뿐일테니..",
+                "kr": "당신 또한 사람들로 하여금 결과가 없는 사업에 몸을 던지도록 부추기고 있군요. 어둠 속에서 불을 건네려는 이들은, 때때로 그 불에 타 버리고는 합니다…… 하지만, 당신에게 제 충고가 닿진 않겠죠. 당신은 그저, 자기 신념대로 나아갈 뿐일테니……",
                 "cn": "你也在鼓动人们投身于一场没有结果的事业。试图于黑夜中渡火者，往往只能引火烧身......你不应该是需要我忠告的人。你只是，一意孤行。"
             },
             "asset": "char_4064_mlynar/CN_008"
@@ -553,6 +553,22 @@
             "asset": "char_4064_mlynar/CN_037"
         },
         {
+            "id": "char_4064_mlynar_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Margaret and Maria should be on board... No, no need to tell them. I find the commotions that come with the New Year unbearable. I'm just going to read the paper here.",
+                "jp": "マーガレットとマリアも、ロドスで過ごしているのだろうが……いや、声を掛ける必要はない。私がここにいるのは、静かな環境で新聞を読むためだ。新年を迎えるこの日、カジミエーシュは耐えがたいほどの喧噪に包まれるからな。",
+                "kr": "마가렛과 마리아도 아마 로도스 아일랜드에 있겠군요…… 아니, 따로 알릴 필요는 없습니다. 새해의 카시미어는 괴로울 정도로 떠들썩했었으니, 그저 여기 앉아서 조용히 신문을 읽고 싶군요.",
+                "cn": "玛嘉烈和玛莉娅应该也正在罗德岛......不，不用告诉她们。新年这一天，卡西米尔的喧嚣往往令人难以忍受。我只是坐在这里看一会儿报纸而已。"
+            },
+            "asset": "char_4064_mlynar/CN_038"
+        },
+        {
             "id": "char_4064_mlynar_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "您好......“博士”。"
             },
             "asset": "char_4064_mlynar/CN_042"
+        },
+        {
+            "id": "char_4064_mlynar_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "The future that Rhodes Island paints is impossible, but still, you attract supporters to chase it with no regard for their own safety. Your tottering ideals would never have come this far without the support of your followers. So spare me the civilities. I'm only walking this path alongside you for the time being.",
+                "jp": "ロドスが約束した未来は実現不可能なものだというのに、次から次へと人々が集まってくる。彼らの支えがあってこそ、あなた方の脆く儚い理想は今日まで歩んで来られたのだろう。……御託は不要だ。私は、一時的にロドスと道を同じくしているだけなのだから。",
+                "kr": "로도스 아일랜드가 약속한 미래는, 실현될 가능성이 없음에도 불구하고 사람들이 끊임없이 모여드는군요. 그들의 지지가 있었기에 당신들의 위태로운 이상도 지금까지 이어져 올 수 있었던 거겠죠…… 아니, 제게 감사할 필요는 없습니다. 전 그저 로도스 아일랜드와 잠시 동행할 뿐이니.",
+                "cn": "罗德岛许诺的图景绝无实现的可能，反而引来众人前仆后继。靠着那许多人的支持，你们摇摇欲坠的理想才走到今天......不用客套，我只是一时与罗德岛同行。"
+            },
+            "asset": "char_4064_mlynar/CN_044"
         }
     ],
     "actors": {

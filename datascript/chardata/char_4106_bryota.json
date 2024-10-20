@@ -553,6 +553,22 @@
             "asset": "char_4106_bryota/CN_037"
         },
         {
+            "id": "char_4106_bryota_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Doctor, Happy New Year. I'm here to change the water cooler's jug. Why am I still working today? This job's special, you see. I get to run into a lot of people on the first day of the year, and I can wish each of them a happy new year. It's meaningful work, don't you think?",
+                "jp": "ハッピーニューイヤー！ドクター、ウォーターサーバーのボトル交換に上がりましたー。こんな日に精が出るなって？いやだって、年明け一番にいろんな人に会えて、みんなと新年の挨拶も交わせるんでしょ。特別感があってよくないですか？",
+                "kr": "해피 뉴 이어! 정수기 물통 교체하러 왔어요, 박사님! 왜 오늘도 이렇게 열심이냐고요? 하하, 이건 평범한 일이 아니에요. 새해 첫날에 이렇게 가장 먼저 많은 사람들과 만날 수 있고, 또 만나는 사람마다 새해 인사를 할 수 있는 일이니까요. 정말 의미 있지 않나요?",
+                "cn": "博士，新年快乐，我来给饮水机换水了。我为什么今天还在忙？这项工作很特别，能在新年的第一天碰见很多人。和遇见的每个人都说一声新年快乐，是不是很有意义？"
+            },
+            "asset": "char_4106_bryota/CN_038"
+        },
+        {
             "id": "char_4106_bryota_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "博士，要不要尝尝汐斯塔的咖啡？可以加气泡水哦。"
             },
             "asset": "char_4106_bryota/CN_042"
+        },
+        {
+            "id": "char_4106_bryota_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Just like Siesta, I said goodbye to that beach, and just like Rhodes Island, I am searching out sights I had never seen before. Doctor, the destination of my journey may be a bit far away for me still, but the journey itself has already become a stack of postcards thick enough for me to look back on and treasure forever.",
+                "jp": "シエスタがそうであったように、俺はあのビーチに別れを告げた。そしてロドスがそうであるように、俺は見たことのない景色を求めて進み続けてる……ドクター、旅の終わりは遠いもののように感じるけど、その途中の思い出一つ一つがハガキの束みたいに積み重なって、もう十分大事な宝物になってるんだ。",
+                "kr": "시에스타가 그랬던 것처럼, 전 그 해변에 작별을 고했어요. 또 로도스 아일랜드가 그랬던 것처럼, 저는 한 번도 본 적 없는 풍경을 향해 나아가고 있죠. 박사님, 이 여정의 끝은 아직 멀겠지만, 이 여정 자체가 제겐 마치 잔뜩 쌓인 엽서 더미처럼 소중하게 느껴져요.",
+                "cn": "我像汐斯塔一样，告别了那片沙滩，又像罗德岛一样，踏寻着从未见过的风景。博士，旅程的终点对我来说有点遥远，但是旅程本身已经成为一叠厚厚的明信片，足够我好好珍藏了。"
+            },
+            "asset": "char_4106_bryota/CN_044"
         }
     ],
     "actors": {

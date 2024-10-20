@@ -553,6 +553,22 @@
             "asset": "char_1031_slent2/CN_037"
         },
         {
+            "id": "char_1031_slent2_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Doctor, I imagine Ifrit sent you, didn't she? She tries everything she can to get me to put down my work—she's always making trouble for me—she even threatened to burn my lab reports. You're the third one she's sent... Alright, we'll break here for today. Let's go.",
+                "jp": "イフリータがあなたを寄越したんでしょう、ドクター。あの子、私に仕事を忘れさせようとしてあれこれ考えてるみたいなんだ。仕事の邪魔をしてきたかと思えば、実験レポートを燃やすぞなんて脅してくるし、こうして誰かを送ってくるのもあなたで三人目……仕方ない、今日の仕事はここまでにするよ。行こう。",
+                "kr": "이프리트가 박사를 보낸 거지? 그 아이는 어떻게든 날 쉬게 만들려고 열심이라니까. 늘 일을 방해하고, 심지어는 내 실험 보고서를 불태우겠다고 협박까지 했었어, 이렇게 사람을 보내는 것도 당신이 세 번째야…… 어쩔 수 없네, 오늘 일은 여기까지 해야겠어. 가자.",
+                "cn": "博士，我猜是伊芙利特派你来的，是吗？她为了让我放下工作可真是煞费苦心，净给我捣乱，还威胁要烧掉我的实验报告，你已经是她的第三个使者了......好吧，今天的工作就到此为止，走吧。"
+            },
+            "asset": "char_1031_slent2/CN_038"
+        },
+        {
             "id": "char_1031_slent2_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "喝咖啡吗，博士？"
             },
             "asset": "char_1031_slent2/CN_042"
+        },
+        {
+            "id": "char_1031_slent2_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "When I first joined Rhine, research was my everything. Following the Diαbolic Crisis, Ifrit and her Oripathy were my everything. But now, as I come to know more and more, the things I want to do grow in volume too. Still, Doctor, we'll reunite at the same destination, when all's said and done.",
+                "jp": "ライン生命に入ったばかりの頃は、研究が私のすべてだった。「炎魔事件」を経てからは、イフリータとあの子の病気が私のすべてになった。そして今は、たくさんの物事を知って、やりたいこともますます増えてきてる。でもね、ドクター。私たちは絶対、同じ終着点でまた会えるから。",
+                "kr": "라인 랩에 처음 입사했을 땐 연구가 내 전부였어. '다이아볼릭 사태' 이후로는 이프리트와 그 아이의 광석병이 내 전부가 되었고. 지금은, 많은 걸 알게 되면서 하고 싶은 일들도 많아졌어. 하지만 박사, 우린 결국 같은 종점에서 다시 만나게 될 거야.",
+                "cn": "当我刚进入莱茵时，科研是我的一切。“炎魔事件”后，伊芙利特和她的矿石病是我的一切。而现在，我知道了越来越多的东西，我想做的事也越来越多。但是，博士，我们最终会在同一个终点重逢的。"
+            },
+            "asset": "char_1031_slent2/CN_044"
         }
     ],
     "actors": {

@@ -81,7 +81,7 @@
                 "cn": "晋升后交谈1"
             },
             "text": {
-                "en": "Amiya is one of the most talented fighters I've ever met. She keeps a clear head in any situation, and her Arts are enough to scare even me.  You know, Doctor, I can't help but wonder, how did she get so good at fighting, as young as she is? Honestly, I wish she was picking up joyful, happy experiences, not the combat kind.",
+                "en": "Amiya is one of the most talented fighters I've ever met. She keeps a clear head in any situation, and her Arts are enough to scare even me. You know, Doctor, I can't help but wonder, how did she get so good at fighting, as young as she is? Honestly, I wish she was picking up joyful, happy experiences, not the combat kind.",
                 "jp": "アーミヤちゃんは私が知る中では、一番戦士の才覚に恵まれてる子よ。戦況の判断ははっきりしてるし、あのアーツは見るだけでも震えが来る。でもよくよく考えてみれば、あの歳でどうやってこれだけの力を身に着けたのかな？正直、こんな力は持たないほうが幸せでしょうに。",
                 "kr": "아미야는 내가 아는 사람 중에선 전사로서의 자질이 가장 뛰어난 아이야. 전황 판단도 명확하고, 그 아츠는…… 보기만 해도 몸이 떨리는걸. 근데 곰곰이 생각해 보면, 대체 어쩌다 그 나이에 그만한 힘을 갖게 된 걸까? 솔직히, 그런 힘은 없는 게 더 행복할 텐데.",
                 "cn": "阿米娅是我见过最有天分的战士之一。她对局势的判断特别清晰，她的法术我光是看着都感到害怕。只不过仔细想想，她是怎么在这个年龄获得这种实力的？说真的，我宁可她没有这样的实力。"
@@ -553,6 +553,22 @@
             "asset": "char_017_huang/CN_037"
         },
         {
+            "id": "char_017_huang_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "借过！——是你啊博士，新年快乐，等我先把这三箱饮料送去餐厅，然后帮他们搬个电影放映机，啊，还有几个办公室要装饰......然后我再来找你！欸，阿米娅过去了，还得把她抓去量身高！",
+                "jp": "借过！——是你啊博士，新年快乐，等我先把这三箱饮料送去餐厅，然后帮他们搬个电影放映机，啊，还有几个办公室要装饰......然后我再来找你！欸，阿米娅过去了，还得把她抓去量身高！",
+                "kr": "借过！——是你啊博士，新年快乐，等我先把这三箱饮料送去餐厅，然后帮他们搬个电影放映机，啊，还有几个办公室要装饰......然后我再来找你！欸，阿米娅过去了，还得把她抓去量身高！",
+                "cn": "借过！——是你啊博士，新年快乐，等我先把这三箱饮料送去餐厅，然后帮他们搬个电影放映机，啊，还有几个办公室要装饰......然后我再来找你！欸，阿米娅过去了，还得把她抓去量身高！"
+            },
+            "asset": "char_017_huang/CN_038"
+        },
+        {
             "id": "char_017_huang_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "博士，我们什么时候出任务呢？"
             },
             "asset": "char_017_huang/CN_042"
+        },
+        {
+            "id": "char_017_huang_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "虽然我没有那种夸张的源石技艺，但看这一年的任务总结，我还是参与了不少硬仗的嘛，也确实救到了很多感染者......担心自己的身体？担心什么，我的体能训练数据一直在上升欸。",
+                "jp": "虽然我没有那种夸张的源石技艺，但看这一年的任务总结，我还是参与了不少硬仗的嘛，也确实救到了很多感染者......担心自己的身体？担心什么，我的体能训练数据一直在上升欸。",
+                "kr": "虽然我没有那种夸张的源石技艺，但看这一年的任务总结，我还是参与了不少硬仗的嘛，也确实救到了很多感染者......担心自己的身体？担心什么，我的体能训练数据一直在上升欸。",
+                "cn": "虽然我没有那种夸张的源石技艺，但看这一年的任务总结，我还是参与了不少硬仗的嘛，也确实救到了很多感染者......担心自己的身体？担心什么，我的体能训练数据一直在上升欸。"
+            },
+            "asset": "char_017_huang/CN_044"
         }
     ],
     "actors": {

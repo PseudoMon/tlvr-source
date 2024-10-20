@@ -553,6 +553,22 @@
             "asset": "char_4062_totter/CN_037"
         },
         {
+            "id": "char_4062_totter_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "I saw all the snow outside when I came today. One vast blanket over the deck, it's beautiful. You should go take a look. Oh, right, Happy New Year.",
+                "jp": "雪が結構降っていたので、ここへ来る途中デッキが真っ白になっていてすごくキレイだった。よかったら行ってみるといい。そうだ、あけましておめでとう、ドクター。",
+                "kr": "갑판이 온통 새하얗게 덮일 정도로 눈이 잔뜩 내렸더군. 좋은 경치니까 박사도 한 번 가서 보는 건 어떻겠나. 아, 그렇지. 새해 복 많이 받도록.",
+                "cn": "今天来时发现外面下了很大的雪，甲板上白茫茫一片，很漂亮，你也可以去看看。哦，对了，新年快乐。"
+            },
+            "asset": "char_4062_totter/CN_038"
+        },
+        {
             "id": "char_4062_totter_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "你好。"
             },
             "asset": "char_4062_totter/CN_042"
+        },
+        {
+            "id": "char_4062_totter_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Nothing complicated went into me leaving home. I just wanted to live somewhere it snows in winter. How about you, Doctor? Have you gotten what you want, on the move all these years?",
+                "jp": "俺が故郷を離れたのは七面倒な理由があったからじゃない。ただ、冬に雪が降るような場所に住みたいと思っただけなんだ。そちらはどうなんだ、ドクター？何年もあちこち駆け回ってきて、欲しいものは手に入れたか？",
+                "kr": "딱히 이유가 있어서 고향을 떠난 건 아니야. 그냥 겨울에 눈이 내리는 곳에서 살고 싶었을 뿐이지. 박사는 어떤가? 분주했던 몇 년간, 원했던 것은 얻었나?",
+                "cn": "我离开家乡的原因没有那么复杂，当年只是想找一个冬天下雪的地方住下来而已。你呢，博士？奔波这些年，想要的得到了吗？"
+            },
+            "asset": "char_4062_totter/CN_044"
         }
     ],
     "actors": {

@@ -553,6 +553,22 @@
             "asset": "char_456_ash/CN_037"
         },
         {
+            "id": "char_456_ash_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Happy New Year. Got any plans?",
+                "jp": "新年ね、何か計画はあるの？",
+                "kr": "새해가 다가오는군. 특별한 계획이라도 있나?",
+                "cn": "新年快到了，有什么计划吗？"
+            },
+            "asset": "char_456_ash/CN_038"
+        },
+        {
             "id": "char_456_ash_CN_042",
             "title": {
                 "en": "Greeting",

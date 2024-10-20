@@ -553,6 +553,22 @@
             "asset": "char_4110_delphn/CN_037"
         },
         {
+            "id": "char_4110_delphn_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Happy New Year, Doctor... Um, everyone's asking me to attend the party? I used to spend the day with just Mum, so I don't know... Never mind, I have nothing else to do today anyway, so let's go, Doctor.",
+                "jp": "明けましておめでとうございます、ドクター……え、みんながパーティーに呼んでいるんですか？どうしよう……今まではずっと母と二人で過ごしていたんですよ。まあいいでしょう、どうせ他にすることもないし、行きましょう。",
+                "kr": "새해 복 많이 받으세요, 박사님…… 아, 다들 저를 파티에 초대했다고요? 음…… 예전엔 새해를 늘 어머니랑 둘이서 보냈거든요. 뭐, 어차피 오늘은 다른 할 일도 없으니…… 좋습니다, 가시죠, 박사님.",
+                "cn": "新年快乐，博士......欸，大家邀请我去聚会？我不知道......以往都是单独和妈妈一起过的。不管了，反正也没其他事情好做了，走吧，博士。"
+            },
+            "asset": "char_4110_delphn/CN_038"
+        },
+        {
             "id": "char_4110_delphn_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "好久不见，博士，准备好行动了吗？"
             },
             "asset": "char_4110_delphn/CN_042"
+        },
+        {
+            "id": "char_4110_delphn_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "We were all there when that happened out of the blue... Even now I still can't forget just how powerless I felt then. Such occasions will only happen even more often, as you get more and more factions watching you. Can you still persevere on, even when facing an unstoppable disaster?",
+                "jp": "あの事件が起きた時、私たちはみんなその場にいました……今でもあの時の無力感は忘れられません。ロドスが注目されるようになればなるほど、同じようなことが何度もあなたたちの身に降りかかると思います。抗いようのない災いに直面した時、あなたたちは諦めずに進み続けられますか？",
+                "kr": "그 사건이 일어났을 때, 우린 모두 현장에 있었죠…… 전, 아직도 그때의 무력감을 잊을 수 없습니다. 앞으로 로도스 아일랜드가 주목을 받으면 받을수록, 그때와 비슷한 일들이 계속해서 여러분을 찾아올 거예요. 저항할 수 없는 재난과 마주했을 때, 여러분은 포기하지 않고 계속 나아갈 수 있을까요?",
+                "cn": "那次意外发生时我们都在场......我至今忘不掉那时的无力感。随着你们被越来越多的势力关注到，同样的事情只会更加频繁地发生在你们身上。面对无法抵抗的灾祸时，你们还能坚持下去吗？"
+            },
+            "asset": "char_4110_delphn/CN_044"
         }
     ],
     "actors": {

@@ -553,6 +553,22 @@
             "asset": "char_4041_chnut/CN_037"
         },
         {
+            "id": "char_4041_chnut_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Whoa, it's nice to see everyone coming together to celebrate—But, I'm suddenly realizing, it's a darned shame this occasion only comes once a year!",
+                "jp": "わあ、みんな集まってる。一緒にお祝いできるなんて最高だよ――あ、でも、一年に一回しかこういう機会がないのは、残念だね。",
+                "kr": "우와, 다 함께 모여서 기념하니까 정말 좋네…… 그런데 이런 날이 일 년에 한 번밖에 없다고 생각하니, 갑자기 너무 아쉬워!",
+                "cn": "哇，大家都聚在一起庆祝，真好——只是，我突然觉得这样的节日一年只有一次，好可惜啊！"
+            },
+            "asset": "char_4041_chnut/CN_038"
+        },
+        {
             "id": "char_4041_chnut_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "去甲板上吹吹风吗？"
             },
             "asset": "char_4041_chnut/CN_042"
+        },
+        {
+            "id": "char_4041_chnut_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "I've been here at Rhodes Island a while now, done a lotta work with you and the folks in Medical, helped a bunch of people. Sitting here mulling it over now, I've gained a ton of precious experience I never picked up on before. I'll remember this, keep it all with me, right in here.",
+                "jp": "无",
+                "kr": "내가 로도스 아일랜드에 온 지도 벌써 오래되었네. 박사, 그리고 의료부 사람들과 함께 일하며 많은 이들을 도왔었지. 이제 와서 생각해 보면, 그동안은 깨닫지 못했지만 소중한 일들을 많이 경험한 것 같아. 모두 가슴속에 소중한 추억으로 간직해 둘게.",
+                "cn": "我在罗德岛也有了一段时间了，和博士还有医疗部的大家一起工作，帮助了很多人，现在坐下来想一想，我收获了许多之前没有察觉过的宝贵经历。这些我都会好好记在心里的。"
+            },
+            "asset": "char_4041_chnut/CN_044"
         }
     ],
     "actors": {

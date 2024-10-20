@@ -553,6 +553,22 @@
             "asset": "char_4072_ironmn/CN_037"
         },
         {
+            "id": "char_4072_ironmn_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Want a drink, Doctor? How about some ginger ale... what, a dance? Haha, my hands might be skilled at work, but my legs are naff dancers—it all cancels out. Still, if you're okay with me, I can try. Happy New Year, Doctor.",
+                "jp": "ハッピーニューイヤー、ドクター！何飲む？ジンジャービールとかどう……ダンス？はは、俺の手先の器用さとステップの上手さは反比例なんだよ。まっ、あんたが付き合ってくれるってなら踊ってみてもいいけど。",
+                "kr": "새해 복 많이 받아, 박사. 뭐 좀 마실래? 진저비어라던가…… 춤? 하하. 난 손재주는 자신 있는데, 발재간은 영 아니라서. 물론 박사가 나랑 함께하고 싶다면 시도는 해 볼 수 있겠지만 말이지.",
+                "cn": "博士，想喝点什么？姜汁啤酒怎么样......跳舞？哈哈，我的双手在工作的时候有多灵巧，我的双腿在舞会上就有多笨拙。当然，你愿意陪我的话，我可以试试。博士，新年快乐。"
+            },
+            "asset": "char_4072_ironmn/CN_038"
+        },
+        {
             "id": "char_4072_ironmn_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "博士，我刚巡逻回来，附近很安全，你可以多休息一会。局势越是紧张，适度的放松就越有必要。"
             },
             "asset": "char_4072_ironmn/CN_042"
+        },
+        {
+            "id": "char_4072_ironmn_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Dr. {@nickname}, thank you. Being with my Rhodes Island companions makes me see more clearly what it is I'm resisting. Everyone should have the freedom to run about their own city, and we fight for that right. That's a future that belongs to us all, including the Infected.",
+                "jp": "Dr.{@nickname}、ありがとな。ロドスとの絆が、自分は何に抗ってるのかをはっきりさせてくれたよ。俺たちの戦いは、一人一人が自分の街で自由に行動できる権利を勝ち取るためのものだ。こういう未来は、感染者が進む先にもあるべきだと思うよ。",
+                "kr": "고마워, 박사. 로도스 아일랜드와의 유대 덕분에, 난 내가 무엇을 위해 싸우고 있는지 확실히 알게 되었어. 우린 모든 사람들이 각자의 도시에서 자유롭게 뛰어다닐 권리를 쟁취하기 위해 싸울 거야. 이런 미래는, 감염자들도 누려야 한다고 생각해.",
+                "cn": "Dr.{@nickname}，谢谢你。和罗德岛的友谊让我进一步认清了自己在反抗什么。我们战斗，是为了争取每一个人在自己的城市里自由奔跑的权利。那样的未来同样属于感染者。"
+            },
+            "asset": "char_4072_ironmn/CN_044"
         }
     ],
     "actors": {

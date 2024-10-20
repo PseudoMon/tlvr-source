@@ -17,7 +17,7 @@
                 "cn": "任命助理"
             },
             "text": {
-                "en": "Why not sneak a little break? Breaks are good for your health. Of course that's true, aren't you glad?",
+                "en": "You should take a little break. It's good for you. Of course that is true, aren't you glad to hear that?",
                 "jp": "適度にサボりましょう、身体にも良いですよ。もちろん本当ですとも、今サボっていて、あなたも心地良さを感じているでしょう？",
                 "kr": "적당히 쉬엄쉬엄하죠. 그편이 몸에도 좋답니다. 물론 정말이죠. 지금 당신도 쉬시면서 마음이 편해지고 있잖아요?",
                 "cn": "适当地开个小差吧，那样对身体好。这可是实话，难道您现在不觉得愉快吗？"
@@ -35,7 +35,7 @@
             "text": {
                 "en": "Those who chase Catastrophes are called 'Yakumeguri', or as they say here, 'Catastrophe Messengers.' The job is bitter and tiring, and we are often ridiculed by ordinary civilians and bureaucrats alike. Will my lot improve as an operator? No? Hehe, such is life.",
                 "jp": "「災害を探す人」、つまりは「厄巡り」、こちらの言い方に合わせれば「天災トランスポーター」でしょうか。苦しく厳しい、民や官僚たちに揶揄されることも多い職業です。オペレーターになれば、少しは好転するでしょうか。しませんか？フフ、それもそうですね。",
-                "kr": " '재해를 찾는 사람', 즉 '야쿠메구리'. 이쪽 말로는 '재앙정보전달자'라고 하던가요? 괴롭고 힘든, 그리고 백성이나 관료들에게 야유받는 일도 많은 직업이랍니다. 오퍼레이터가 되면 조금은 나아지려나요. 그렇지만도 않다고요? 후후, 그도 그렇겠네요.",
+                "kr": "'재해를 찾는 사람', 즉 '야쿠메구리'. 이쪽 말로는 '재앙정보전달자'라고 하던가요? 괴롭고 힘든, 그리고 백성이나 관료들에게 야유받는 일도 많은 직업이랍니다. 오퍼레이터가 되면 조금은 나아지려나요. 그렇지만도 않다고요? 후후, 그도 그렇겠네요.",
                 "cn": "“寻找灾害的人”，也就是“灾巡”，按这里的说法应该是叫“天灾信使”吧。又苦、又累、还要被平民和官僚们揶揄，当干员情况会不会好些呢，不会？呵呵，也是。"
             },
             "asset": "char_343_tknogi/CN_002"
@@ -51,7 +51,7 @@
             "text": {
                 "en": "Tomorrow's weather... hmm, I see... My dear boss, remember to bring an umbrella with you when you leave tomorrow.",
                 "jp": "明日は……あら、なるほど。親愛なる上司様、明日お出かけの際には傘をお忘れなきよう。",
-                "kr": "내일은… 어머, 그렇군요. 친애하는 상사님, 내일 외출하실 땐 우산을 꼭 챙기시길.",
+                "kr": "내일은…… 어머, 그렇군요. 친애하는 상사님, 내일 외출하실 땐 우산을 꼭 챙기시길.",
                 "cn": "明日......嗯，原来如此。我亲爱的上司，明天出门的时候记得带伞哦。"
             },
             "asset": "char_343_tknogi/CN_003"
@@ -67,7 +67,7 @@
             "text": {
                 "en": "If I could have stayed in Higashi, I would not have come all the way here. But with these stones on my flesh… there's simply nowhere to call home.",
                 "jp": "まだ極東にいることが許されていれば、これほど遠くまで来ることはなかったでしょう。ですが……これを身体に植え付けられて、それでもまだ「家」と呼べる場所などあるのでしょうかね。",
-                "kr": "아직 극동에 있는 게 허락되었다면 이렇게 멀리까지 올 일은 없었겠죠. 하지만… 이것이 몸에 심어졌는데, 그럼에도 아직 '집'이라고 부를 수 있는 장소가 있을지요?",
+                "kr": "아직 극동에 있는 게 허락되었다면 이렇게 멀리까지 올 일은 없었겠죠. 하지만…… 이것이 몸에 심어졌는데, 그럼에도 아직 '집'이라고 부를 수 있는 장소가 있을지요?",
                 "cn": "要是还能留在东国，我也不想走那么远。但是......被这东西植在肉上，哪儿还能被称作“家”呢。"
             },
             "asset": "char_343_tknogi/CN_004"
@@ -83,7 +83,7 @@
             "text": {
                 "en": "I would rather offer my salary to those in need than stash it away in my lodgings. Considering how little there is, it serves a better purpose in the hands of the needy. Besides, their smiles and words of thanks really warm my heart.",
                 "jp": "報酬はそれを必要としている人に譲ればよいのです。部屋に置いておくだけよりはずっとよいでしょうから。大きい金額ではないですが、それを誰かの手に渡して、彼らの笑顔を見て、感謝の言葉をそのまま聞く。どれほど嬉しいことでしょう。",
-                "kr": "보수는 그걸 필요로 하는 사람에게 주면 돼요. 방에 두기만 하는 것보다는 훨씬 나을 테니까요. 큰 금액은 아니지만 그걸 누군가에게 건네고, 그들의 웃는 얼굴을 보고, 감사의 말을 그대로 듣는다… 이 얼마나 기쁜 일인가요?",
+                "kr": "보수는 그걸 필요로 하는 사람에게 주면 돼요. 방에 두기만 하는 것보다는 훨씬 나을 테니까요. 큰 금액은 아니지만 그걸 누군가에게 건네고, 그들의 웃는 얼굴을 보고, 감사의 말을 그대로 듣는다…… 이 얼마나 기쁜 일인가요?",
                 "cn": "把薪资让渡给有需要的人，总好过放在屋子里。反正也就那一点，拿出来，放在别人手里，看着他们微笑，亲口说出感谢的话语，多令人欢喜啊。"
             },
             "asset": "char_343_tknogi/CN_005"
@@ -553,6 +553,22 @@
             "asset": "char_343_tknogi/CN_037"
         },
         {
+            "id": "char_343_tknogi_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "What was the first word you said this year? Hmm... I do believe that is a fortuitous omen. Rhodes Island will be blessed by good fortune this year. Congratulations.",
+                "jp": "今年最初に発する言葉は何だったでしょう？へぇ……良い兆候のようね。今年のロドスは何もかもうまくいくでしょう、おめでとう。",
+                "kr": "올해에 처음으로 한 말은 뭐였나요? 흐음…… 좋은 징후인 것 같네요. 올해의 로도스 아일랜드는 뭐든지 잘될 겁니다, 축하드려요.",
+                "cn": "您今年说的第一个字是什么？唔......看来是个好兆头，罗德岛这一年里都会相当顺利呢，恭喜恭喜。"
+            },
+            "asset": "char_343_tknogi/CN_038"
+        },
+        {
             "id": "char_343_tknogi_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "别来无恙。"
             },
             "asset": "char_343_tknogi/CN_042"
+        },
+        {
+            "id": "char_343_tknogi_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "啊......好久没能这么尽兴了，果然抛开仪礼很多事都能有趣起来啊。{@nickname}，坐下。在这一桶珍酿见底前，你哪儿也不许去。",
+                "jp": "啊......好久没能这么尽兴了，果然抛开仪礼很多事都能有趣起来啊。{@nickname}，坐下。在这一桶珍酿见底前，你哪儿也不许去。",
+                "kr": "啊......好久没能这么尽兴了，果然抛开仪礼很多事都能有趣起来啊。{@nickname}，坐下。在这一桶珍酿见底前，你哪儿也不许去。",
+                "cn": "啊......好久没能这么尽兴了，果然抛开仪礼很多事都能有趣起来啊。{@nickname}，坐下。在这一桶珍酿见底前，你哪儿也不许去。"
+            },
+            "asset": "char_343_tknogi/CN_044"
         }
     ],
     "actors": {

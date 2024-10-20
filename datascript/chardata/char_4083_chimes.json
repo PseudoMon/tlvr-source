@@ -553,6 +553,22 @@
             "asset": "char_4083_chimes/CN_037"
         },
         {
+            "id": "char_4083_chimes_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Happy holidays, Doctor. I would love to invite you to villages of my homeland, if there's a chance... We open up the granaries at the end of the year, and celebrate it with spirits that we brewed in the autumn... Scenes like that are rare these days.",
+                "jp": "明けましておめでとうございます、ドクター。いつか故郷の村にご招待できる日が来ることを願ってやみません。一年の締めくくりに、皆で余った食料と秋の収穫期に作ったお酒を持ち寄って、無事に一年を過ごせたことをお祝いするんです……あんな風景、今ではもうなかなか目にすることはできませんね。",
+                "kr": "새해 복 많이 받으세요, 박사님. 기회가 된다면 나중에 박사님을 제 고향 마을에 초대하고 싶네요. 한 해가 끝나면 사람들은 남은 식량과 가을 추수 때 빚었던 술을 가지고, 무사히 한 해를 보낸 것을 축하하죠…… 요즘은 그런 풍경을 보기 힘들겠지만요.",
+                "cn": "节日快乐博士。如果还有机会的话，我想请您去故乡的村庄坐坐。一年终了，大家搬出丰余的粮食，还有秋收时酿下的粮食酒，一起庆祝平安过去的一年......那样的场面，现在很难见到了吧。"
+            },
+            "asset": "char_4083_chimes/CN_038"
+        },
+        {
             "id": "char_4083_chimes_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "博士，有您的信。"
             },
             "asset": "char_4083_chimes/CN_042"
+        },
+        {
+            "id": "char_4083_chimes_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "People who live in the distant corners of the land are often forgotten, but what Rhodes Island is doing has helped many of them. I want to thank you for that, Dr. {@nickname}.",
+                "jp": "人目につかない大地の片隅には、誰にも知られず、蔑ろにされ続けてきた人たちが常にいるものです。ロドスの行いは、そんな人たちの力になっていると思います。ありがとうございます、Dr.{@nickname}。",
+                "kr": "이 대지의 외딴곳에는, 아무도 알지 못하고 소외된 사람들이 존재하기 마련입니다. 지금 로도스 아일랜드가 하고 있는 일들은 이러한 사람들에게 힘이 되어 주고 있습니다. 감사합니다, Dr.{@nickname} 님.",
+                "cn": "在大地上那些偏远的角落，总会有默默无闻，容易被忽视的人们。罗德岛在做的事，帮到了许多这样的人。谢谢您，Dr.{@nickname}。"
+            },
+            "asset": "char_4083_chimes/CN_044"
         }
     ],
     "actors": {

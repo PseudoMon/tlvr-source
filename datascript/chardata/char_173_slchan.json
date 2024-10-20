@@ -19,7 +19,7 @@
             "text": {
                 "en": "Uh... Doctor, you really need to work out more, you know.",
                 "jp": "うーん、ドクター、ちょーっと運動不足だと思うよ。",
-                "kr": "으음… 박사, 쪼~끔 운동부족인 거 같다, 그치?",
+                "kr": "으음…… 박사, 쪼~끔 운동부족인 거 같다, 그치?",
                 "cn": "唔......博士，你是不是有点缺乏运动啊。"
             },
             "asset": "char_173_slchan/CN_001"
@@ -35,7 +35,7 @@
             "text": {
                 "en": "Everyone's really nice here at Rhodes Island. Too nice to prank. Oh, is it time for lunch? I'll help!",
                 "jp": "ロドスのみんな、とーっても優しいから、いたずらしたくてもなんだか悪くってできない……あ、ご飯の時間だ！手伝ってくるね！",
-                "kr": "로도스 아일랜드 사람들은 다들 착해서 그런지, 장난 좀 치려고 해도 미안해서 못 하겠다니깐… 아, 밥시간이다! 도와주고 올게!",
+                "kr": "로도스 아일랜드 사람들은 다들 착해서 그런지, 장난 좀 치려고 해도 미안해서 못 하겠다니깐…… 아, 밥시간이다! 도와주고 올게!",
                 "cn": "罗德岛的大家都非常和善，即使我想做恶作剧都有点不忍心下手呢......啊，吃饭的时间到了，我去帮忙！"
             },
             "asset": "char_173_slchan/CN_002"
@@ -83,7 +83,7 @@
             "text": {
                 "en": "My brother sent Matterhorn to look after me, didn't he…? Ugh, why can't he just come out and tell me what he's thinking? It drives me mad.",
                 "jp": "ヤーカおじさんって、本当はお兄ちゃんがあたしを守るために遣わせたんだよね……お兄ちゃんってばほんっと素直じゃないんだから！も～！ムカつく！",
-                "kr": "야카 아저씨는 사실 오빠가 날 지켜주겠답시고 나 있는 데로 보내준 거야… 오빠도 참, 어쩜 사람이 그렇게 솔직하지 못하지?! 아으 진짜~! 짜증 나!",
+                "kr": "야카 아저씨는 사실 오빠가 날 지켜주겠답시고 나 있는 데로 보내준 거야…… 오빠도 참, 어쩜 사람이 그렇게 솔직하지 못하지?! 아으 진짜~! 짜증 나!",
                 "cn": "角峰叔其实是老哥派来保护我的吧......这个老哥真是不坦率，啊啊，想想就来气！"
             },
             "asset": "char_173_slchan/CN_005"
@@ -99,7 +99,7 @@
             "text": {
                 "en": "I've always wanted to climb the holy Mt. Karlan, and I've only wanted it even more since my sister left us and became the Saintess. So Doctor, train me more, yeah? So one day I can reach the peak of Mt. Karlan and bring my sister home.",
                 "jp": "ちっちゃい時からずっとカランドに登ってみたかったんだ。お姉ちゃんが巫女になって出て行ってから、その気持ちはどんどん強くなって……。だからドクター、あたしをいーーーーっぱい鍛えて！いつか絶対山頂まで登って、お姉ちゃんを迎えに行くんだから！",
-                "kr": "꼬맹이 때부터 계속 카란에 올라가 보고 싶었어. 언니가 성녀가 돼서 떠나간 다음부턴, 그 생각이 점점 강해져서… 그러니까 박사, 날 잔뜩 단련시켜줘! 언젠가 반드시 산 정상에 올라가서, 언니를 마중 나갈 테니까!",
+                "kr": "꼬맹이 때부터 계속 카란에 올라가 보고 싶었어. 언니가 성녀가 돼서 떠나간 다음부턴, 그 생각이 점점 강해져서…… 그러니까 박사, 날 잔뜩 단련시켜줘! 언젠가 반드시 산 정상에 올라가서, 언니를 마중 나갈 테니까!",
                 "cn": "我从小就想爬上喀兰圣山看看——自从姐姐成为圣女离我们而去之后，这想法就越来越强烈......博士，多多的锻炼我吧，总有一天我要爬上它的顶峰，把姐姐接回家。"
             },
             "asset": "char_173_slchan/CN_006"
@@ -147,7 +147,7 @@
             "text": {
                 "en": "Ah, it's snowing... We Silverashes can't go back to the way we were... I get that. Everything's changed. Only the snow is the same—the same snowflakes that I watched falling back home.",
                 "jp": "雪だね……わかってる、お兄ちゃんもお姉ちゃんもあたしも、もう昔のようには戻れないんだって。何もかも……変わっちゃった。でも雪だけは……昔故郷で見たのと変わらないね。",
-                "kr": "눈이 오네… 알고 있어, 오빠도 언니도 나도, 이제 예전으로 돌아갈 순 없다는 걸. 모든 게… 다 변해버렸어. 그래도 이 눈만은… 예전에 고향에서 본 거랑 똑같네.",
+                "kr": "눈이 오네…… 알고 있어, 오빠도 언니도 나도, 이제 예전으로 돌아갈 순 없다는 걸. 모든 게…… 다 변해버렸어. 그래도 이 눈만은…… 예전에 고향에서 본 거랑 똑같네.",
                 "cn": "下雪了呢。......希瓦艾什一家永远回不到过去，我明白的。一切都和过去不一样了。除了雪......和故乡一样的，一片片的雪。"
             },
             "asset": "char_173_slchan/CN_009"
@@ -553,6 +553,22 @@
             "asset": "char_173_slchan/CN_037"
         },
         {
+            "id": "char_173_slchan_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Happy New Year! Look, Doctor, I've prepared all this Mountaineering gear for you. Let's go! Huh? It's still midnight, you say? It's fine! We need to set off earlier so that we can catch the sunrise at the peak.",
+                "jp": "あけおめ！ほら、ドクターの分の登山用具も用意してあげたから、早く行こ！ん？まだ外は暗いって？当たり前じゃん！山頂で初日の出を見るためなんだから！",
+                "kr": "새복만~! 새해 복 많이 받으라는 뜻~ 자, 등산 도구는 박사 것도 준비해뒀으니까, 지금 바로 나가자! 응? 아직 바깥은 어둡다고? 당연하지! 산 정상에서 새해 첫날 해돋이를 보러 가는 거니까!",
+                "cn": "新年快乐！看，给博士用的登山器材我都准备好了，快走吧！嗯？外面还是半夜？当然啦，我们要早点爬上山顶去迎接新年的日出啊。"
+            },
+            "asset": "char_173_slchan/CN_038"
+        },
+        {
             "id": "char_173_slchan_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "早安哦，博士~"
             },
             "asset": "char_173_slchan/CN_042"
+        },
+        {
+            "id": "char_173_slchan_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "老哥和老姐还在闹别扭，但我能感觉到，其实他们的关系缓和了不少。欸，总之要多谢你啦。啊，真希望待在家里的感觉，能和待在罗德岛一样轻松啊......",
+                "jp": "老哥和老姐还在闹别扭，但我能感觉到，其实他们的关系缓和了不少。欸，总之要多谢你啦。啊，真希望待在家里的感觉，能和待在罗德岛一样轻松啊......",
+                "kr": "老哥和老姐还在闹别扭，但我能感觉到，其实他们的关系缓和了不少。欸，总之要多谢你啦。啊，真希望待在家里的感觉，能和待在罗德岛一样轻松啊......",
+                "cn": "老哥和老姐还在闹别扭，但我能感觉到，其实他们的关系缓和了不少。欸，总之要多谢你啦。啊，真希望待在家里的感觉，能和待在罗德岛一样轻松啊......"
+            },
+            "asset": "char_173_slchan/CN_044"
         }
     ],
     "actors": {

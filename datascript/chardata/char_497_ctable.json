@@ -553,6 +553,22 @@
             "asset": "char_497_ctable/CN_037"
         },
         {
+            "id": "char_497_ctable_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Such pretty fireworks... I used to think they were too far away, but here I am today, watching them lit below me. A single firework's just a tiny little thing, but there it goes, flying into the sky, blossoming into flowers so bright. Doctor, is that something I can aspire to?",
+                "jp": "綺麗な花火ね……昔は自分には無縁なもののように感じていたわ。でも今、こうして足元で火をつけ、打ち上げられるのを見ていると……こんなに小さな玉でも、空高くまで飛んでいって、あんなに明るく大輪の花を咲かせられるのね。ドクター、私も、あんな風になれるかしら？",
+                "kr": "예쁜 불꽃이네…… 옛날에는 나와 멀게만 느껴졌었어. 하지만 지금은 내 발아래서 불이 붙고, 그 조그맣던 게 쏘아 올려져서 이토록 밝은 꽃을 피워내고 있어. 박사, 나도 저렇게 될 수 있을까?",
+                "cn": "好漂亮的烟花......以前总觉得它离我太远，但今天我看着它就在我的脚下点燃，只是那样小小的一卷，也能冲向天空，绽放出如此明亮的花朵。博士，我是不是也可以和它一样？"
+            },
+            "asset": "char_497_ctable/CN_038"
+        },
+        {
             "id": "char_497_ctable_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "听到你的脚步声了呢，博士。"
             },
             "asset": "char_497_ctable/CN_042"
+        },
+        {
+            "id": "char_497_ctable_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "They told me I was meant to be an assassin, twisted my life onto a path it never should've taken. But they never even gave me a reason, and I did far too much I never should have done. You've given me a new lease on life, and I'll be sure to use it well.",
+                "jp": "「暗殺に向いてそう」その一言で、私の人生は本来歩むべきではない道へと歪められたの。何一つ理由を教えられることのない状況で、あまりに多くの間違いに手を染めた……あなたたちが延ばしてくれたこの命、数年しかないとしても、ちゃんとした使い方をしていきたいと思うわ。",
+                "kr": "암살에 적합하다는 그 한마디에, 내 인생은 그 이유도 모른 채 가서는 안 되는 길로 틀어지고 말았어. 그리고 나는 그런 상황 속에서 해서는 안 될 일을 수없이 저질렀지. 하지만 너희가 이어준 이 목숨만큼은 얼마 남지 않았다고 해도 제대로 된 방식으로 써나가고 싶어.",
+                "cn": "他们之前说我适合暗杀，将我的人生扭向了一条本不该去的道路，却从来不告诉我原因，而我又在那种环境下做了太多不应该做的事。你们帮我延续的这几年生命，我会好好地使用的。"
+            },
+            "asset": "char_497_ctable/CN_044"
         }
     ],
     "actors": {

@@ -553,6 +553,22 @@
             "asset": "char_297_hamoni/CN_037"
         },
         {
+            "id": "char_297_hamoni_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "It's a day worthy of celebration, and I'm here on a certain noble's behalf to gift you this. I will say, though, I've been watching this entire scene unfold, and it makes me think back to my student days, dancing with my classmates at whatever functions the school put on. Those were indeed times...",
+                "jp": "めでたい日ね。ある貴族に代わってこの贈り物を届けに来たけれど、この光景を見てると、昔学校主催のセレモニーで、学友たちとダンスをしたことを思い出しちゃったわ。あの頃は……",
+                "kr": "경사스러운 날이네. 난 어느 귀족을 대신해서 선물을 전달하기 위해 왔어. 그런데 이 광경을 보니, 학교에 다니던 때가 생각나네. 학교에서 주최한 축제에서 친구들과 같이 춤을 추곤 했었지. 그 시절엔 말이야……",
+                "cn": "值得庆祝的日子，我来这里是代表某位贵族送出这份礼物。不过看到这幅景象，我倒是想起我还在上学的时候，学校举办庆典，同学们一起跳舞。那个时候......"
+            },
+            "asset": "char_297_hamoni/CN_038"
+        },
+        {
             "id": "char_297_hamoni_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "你好，Dr.{@nickname}。要来一杯茶吗？"
             },
             "asset": "char_297_hamoni/CN_042"
+        },
+        {
+            "id": "char_297_hamoni_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "You really do seem to have the utmost confidence in the future you're cooking up. A paradise, is it? You starry-eyed people and I may only be together so long, but make no mistake, the way your endgame will pan out makes me very curious.",
+                "jp": "自分の描いた未来に随分と自信を持っているようね。楽園、ねえ？一時の付き合いとはいえ、そんな考えを持つ人がどんな終点にたどり着くのか、すごく興味があるわ。",
+                "kr": "보아하니 자신이 설계한 미래에 상당히 자신이 있는 모양이네. 낙원…… 맞지? 짧은 동행이지만, 그런 생각을 지닌 사람들이 어떤 결말을 맞이하게 될지 굉장히 기대되네.",
+                "cn": "看来你对你所谋划的未来十分自信。一个乐园，是吗？怀抱这种想法的人，即使是短暂同行，我也仍旧十分好奇你们的终局。"
+            },
+            "asset": "char_297_hamoni/CN_044"
         }
     ],
     "actors": {

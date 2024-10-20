@@ -553,6 +553,22 @@
             "asset": "char_4080_lin/CN_037"
         },
         {
+            "id": "char_4080_lin_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Happy New Year, Doctor. My dad sends out greeting cards to his foreigner friends this time of year. I'm usually the one who writes them. Here, this is for you. You've been pretty busy this year. Good work.",
+                "jp": "あけましておめでとう。振り返ってみると、お父さんには外国の友人もそれなりにいたから、新年の礼儀作法くらいは弁えていたけれど、年賀状はいつも私が代筆していたのよね。はい、これはあなた宛てよ。一年間、色々と大変だったでしょう。お疲れ様。",
+                "kr": "새해 복 많이 받아. 우리 아버지도 외국에 친구가 꽤 있는 편이라, 오늘 같은 날엔 나름대로 예의를 차리기 위해 많이 노력하시곤 했어. 친구분들한테 보내는 연하장은 보통 내가 대필했었지만 말이야. 자, 이건 박사 거야. 한 해 동안 여러모로 힘들었을 텐데, 수고했어.",
+                "cn": "新年快乐。爸有一些外国朋友，在这个日子他也会尽一些礼节，而寄去的贺信通常都由我代笔。喏，这封是给你的。这一年来你也操劳了不少事，辛苦了。"
+            },
+            "asset": "char_4080_lin/CN_038"
+        },
+        {
             "id": "char_4080_lin_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "希望你没有遇到什么麻烦。"
             },
             "asset": "char_4080_lin/CN_042"
+        },
+        {
+            "id": "char_4080_lin_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "It's been some time since Rhodes Island and Lungmen first made contact. It took a lot of effort for us to assuage the suspicion we had and build the trust we now share. Fortunately, time has proven that the effort was worth it. Right, I don't like talking about 'trust' per se, but Rhodes Island is an exception.",
+                "jp": "ロドスと龍門の関わりも長くなったわね。初めに抱いていた疑念から、後の信頼関係へ至るまで、お互い随分苦労したけれど、努力するだけの価値はあったと時間が証明してくれたわ。そうね、私は「信頼」を語るのは好きじゃないの。でも、ロドスに関しては例外になるかもね。",
+                "kr": "로도스 아일랜드가 용문과 교류한 지도 벌써 이렇게 오래됐다니. 의심하는 관계에서 서로 신뢰하는 관계가 되기까지, 많은 우여곡절이 있었지만, 그래도 노력할 만한 가치가 있었다는 걸 시간이 증명해 준 것 같아. 맞아, 난 '신뢰'에 대해서 말하는 걸 좋아하진 않아, 하지만 로도스 아일랜드는 예외로 둘게.",
+                "cn": "罗德岛与龙门的接触已经有段时间了，从最开始的猜忌到后来的信任，耗去了我们不少功夫。好在时间证明了这样的努力是值得的。是，我不喜欢谈“信任”，但罗德岛可以是个例外。"
+            },
+            "asset": "char_4080_lin/CN_044"
         }
     ],
     "actors": {

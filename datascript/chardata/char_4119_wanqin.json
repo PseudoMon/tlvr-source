@@ -553,6 +553,22 @@
             "asset": "char_4119_wanqin/CN_037"
         },
         {
+            "id": "char_4119_wanqin_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "The poems I read when I was little always compared winter snow to a thick blanket. The seedlings sleep beneath the snows, ready to welcome the spring days with new life. Dahuang is always busy this time of year. People my age go to the frozen rivers and throw firecrackers at the frost while covering their ears. Grain Buds always shouts the loudest. Would you like to give it a try?",
+                "jp": "小さい頃に読んだ詩で、冬の雪を布団に喩えて、種たちは春の芽吹きを待ちながら、布団の中で眠っているんだってやつがありました。年末年始は大荒城では珍しい閑散期なので、僕たち子供は耳を塞ぎながら凍った川に爆竹を投げて、氷の花を咲かせて遊んでましたね。いつもシャオマンが一番大きな声ではしゃいでましたよ。ドクターもやってみますか？",
+                "kr": "어릴 때 읽었던 시가 기억나요. 시에서는 겨울에 내린 눈을 이불에 비유했고, 씨앗들은 눈 이불을 덮은 채 겨울잠을 자며 싹을 틔울 봄날을 기다린다……라고 표현했죠. 지금은 대황성에 드물 게 찾아온 휴식기에요. 제 또래들은 얼어붙은 강가로 가서 귀를 막고 폭죽을 던져 얼음꽃을 만들면서 놀곤 한답니다. 그중 가장 큰 소리를 내면서 노는 건 당연히 소만이고요, 하하. 박사님도 한번 해 보실래요?",
+                "cn": "小时候读诗，诗里把冬雪比作棉被，种子们在冬雪下沉睡，迎来春日新生。这个时候也是大荒城少有的闲时，同龄人都喜欢捂着耳朵往结冰的河里丢炮仗炸冰花，叫得最大声的总是小满。您要试试吗？"
+            },
+            "asset": "char_4119_wanqin/CN_038"
+        },
+        {
             "id": "char_4119_wanqin_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "博士，我好像听到这株仙人掌在说“昨天我已经被浇过水了——”。"
             },
             "asset": "char_4119_wanqin/CN_042"
+        },
+        {
+            "id": "char_4119_wanqin_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "At first I didn't really understand why my master wanted me to go on a study visit to a pharmaceutical company. But after spending all this time here, I've come to realize that you're all just like the people of Dahuang. They are fighting to provide for the countless people of this land who cannot provide for themselves. We walk the same path.",
+                "jp": "どうして先生が製薬会社を僕のインターン先に選んだのか、最初はよく理解できませんでした。でも皆さんと月日を共にするうちに、ここにいる一人ひとりが大荒城の人々と同じように、大地で困窮する無数の人を救おうとしているんだってことが身に染みてわかったんです。僕たちは道を同じくする同志というわけですね。",
+                "kr": "처음엔 이해하지 못했어요. 왜 선생님이 저한테 제약회사에서 인턴십을 해 보라고 하셨는지. 하지만 시간이 지나고 보니, 이곳의 모든 사람들은 마치 대황성의 사람들처럼, 이 대지에서 죽어가는 수없이 많은 이들을 위해서 노력하고 있었던 거예요. 저희는 같은 길을 걷고 있던 거죠.",
+                "cn": "起初我不是很明白，老师为什么要我来一家医药公司交流访学。但这些日子相处下来，我觉得这里的每个人，就如同大荒城的一样，都是为了让大地上无数活不下去的人活下去。我们走的是同一条路。"
+            },
+            "asset": "char_4119_wanqin/CN_044"
         }
     ],
     "actors": {

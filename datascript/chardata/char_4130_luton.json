@@ -1,0 +1,628 @@
+{
+    "charid": "char_4130_luton",
+    "nameid": "luton",
+    "names": {
+        "en": "Lutonada",
+        "jp": "ルトナダ",
+        "kr": "루토나다",
+        "cn": "露托"
+    },
+    "voices": [
+        {
+            "id": "char_4130_luton_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "I'd appreciate it if you let me keep a bit of distance... There's a smell on me I can't get off, no matter how hard I try.",
+                "jp": "貴方と距離を取ることをどうかご容赦ください……いくら洗い清めても、この身体に染み付いたにおいが取れないのです。",
+                "kr": "당신과 거리를 두는 걸 부디 용서해 주세요…… 아무리 씻어도 몸에 밴 냄새가 사라지지 않네요.",
+                "cn": "请允许我与您保持一定的距离......不论清洗多少遍，我都无法消去身上那股味道。"
+            },
+            "asset": "char_4130_luton/CN_001"
+        },
+        {
+            "id": "char_4130_luton_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "I got this coat from a certain sergeant. Death had already come for her at the time. Her expression was softening, her breathing getting shallower and shallower. I held her hand, and waited... Waited until her head nodded a bit. I helped her close her eyes, and then completed our trade.",
+                "jp": "このコートはとある士官との取引によって得たものです。当時、死はもう彼女の間近に迫っていました。表情が次第に弛み、息遣いも弱まっていく中、私は彼女の震える手を握りながら、ただその時を待ちました……彼女がこくりと頷くと、私は彼女のまぶたを下ろし、その取引を終えたのです。",
+                "kr": "이 외투는 한 장교와의 거래로 얻은 거예요. 그때 그녀는 죽음에 거의 다다른 상태였어요. 편안해지는 표정, 약해지는 호흡 속, 저는 그녀의 떨리는 손을 꼭 잡고 기다렸어요…… 그녀는 가볍게 고개를 끄덕였고, 저는 눈을 감겨줌으로써 그렇게 우리의 거래는 마무리되었어요.",
+                "cn": "这件外套是我从一名士官那里换来的。那时死亡已经光顾，她的表情渐渐放松，喘息越来越弱。我握住了她颤抖的手，等候着......等到她轻轻点头，我帮她合上了眼睛，完成了这笔交易。"
+            },
+            "asset": "char_4130_luton/CN_002"
+        },
+        {
+            "id": "char_4130_luton_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Excuse me, Doctor, could you check if this is the right way to record birth and death dates? Oh, don't worry, nobody died. This is for me, in case something happens to me one day. If someone manages to find this, then I'll at least have a decent tombstone or marker... A lot better than an unmarked brick at least.",
+                "jp": "「生没年月日」の書き方はこれで正しいか見ていただけますか？いえ、ご心配なさらず。亡くなった方はいません。私が自分自身のために用意しているものですよ。いずれ私が命を落とした時、どなたかがこれを見つけてくだされば、私もきちんとした墓標の下で眠ることができます……名も書かれていないレンガの下よりは幾分かマシですから。",
+                "kr": "'생·몰 연월일', 이렇게 쓰는 게 맞는지 좀 봐주시겠어요? 걱정 마세요. 누가 돌아가신 게 아니라 저를 위해서 써두는 거거든요. 언젠가 제가 죽더라도 누군가 이걸 발견한다면, 저도 제대로 된 묘비 아래서 잠들 수 있을 거예요…… 이름 하나 없는 벽돌 아래보다는 낫겠죠.",
+                "cn": "您能帮我看看“生卒年月”是这样写的吗？别担心，没有谁过世，这是为我自己做的。要是哪天我丧生了，有人能发现它，我就有一块像样的墓碑了......总好过一块无名的墙砖。"
+            },
+            "asset": "char_4130_luton/CN_003"
+        },
+        {
+            "id": "char_4130_luton_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "There was another girl with me getting treatment in Medical. She had a familiar scent on her. Her flame of life burned even dimmer than mine... But she didn't seem to mind at all, just humming happily to herself. What gave her the strength? I envy her.",
+                "jp": "医療部で私と一緒に治療を受けている女の子がとても印象的でした。彼女からは馴染み深いにおいがして、命の灯火は私よりも暗澹としていましたが……それを意に介さない様子で、楽しそうに歌を口ずさんでいたのです。いったい何が彼女をあそこまで逞しくしたのでしょうか？彼女が……とても羨ましく思います。",
+                "kr": "의료부에서 저와 같이 치료를 받는 여자아이가 있어요. 그 아이한테선 익숙한 냄새가 났고, 생명의 불빛은 저보다 더 어두웠죠…… 하지만 그 아이는 그런 것 따위 전혀 신경 쓰지 않는 사람처럼 즐겁게 콧노래를 흥얼거렸어요. 도대체 무엇이 그 아이를 그토록 강하게 만들어 줬을까요? 저는…… 정말 부러워요.",
+                "cn": "有一名女孩在医疗部和我一起接受治疗，她身上有熟悉的味道，生命的火光比我的更黯淡......可她好像并不在乎，自己开心地哼着歌。是什么力量令她如此坚强？我......很羡慕她。"
+            },
+            "asset": "char_4130_luton/CN_004"
+        },
+        {
+            "id": "char_4130_luton_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Rhodes Island is always rushing from one conflict to another. I used to be like that too. The difference is, you do it to save people... I was doing it just to save myself.",
+                "jp": "争いの地から、また次の争いの地へ――ロドスがそうであるように、かつての私もそのようにして過ごしていました。両者の違いと言えば、自分が生きるためでしかなかった私に対して、貴方たちは……多くの人を生かすためにそうしている、というところです。",
+                "kr": "한 분쟁 지역에서 또 다른 분쟁 지역으로 이동하는 것…… 로도스 아일랜드도, 과거의 저도 모두 그렇게 지내왔어요. 다른 점이 있다면, 저는 저 혼자 살기 위해서였지만, 당신들은…… 더 많은 사람의 목숨을 살리기 위해서라는 거죠.",
+                "cn": "从一处纷争之地赶往另一处纷争之地，罗德岛是这样，曾经的我也是这样。不一样的是，我是为了让自己活下去，而你们......是为了让更多的人活下去。"
+            },
+            "asset": "char_4130_luton/CN_005"
+        },
+        {
+            "id": "char_4130_luton_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Doctor, the operators who made the ultimate sacrifice... their dorms are just as they left them, as if their owners had just stepped out for a minute. This huge ship carries so much that has already passed on... How are you able to hold such a clear course...? As if none of you doubt anything?",
+                "jp": "犠牲となったオペレーターたちの……かつての姿のまま残されている部屋を目の当たりにしました。机には無造作に物が置かれたままで、まるでほんの少し席を外しただけの主を待っているかのようでした。この大船はこうも多くの死を抱えているのに、どうして……どうして貴方たちの航路はまだこんなにも明確なのでしょうか？",
+                "kr": "박사님, 저 봤어요. 희생된 오퍼레이터분들…… 그분들의 숙소는 예전 모습 그대로였어요. 책상 위의 아무렇게나 놓인 물건은 마치 잠깐 자리를 비운 주인을 기다리고 있는 것만 같았죠. 이 거대한 함선은 이렇게나 많은 죽음을 담고 있는데, 어째서…… 어째서 당신들의 항로는 여전히 이렇게 명확한 건가요?",
+                "cn": "博士，我见到了。一些牺牲的干员......他们的宿舍还是曾经的模样，物品摆放在桌上，仿佛主人只是短暂外出。这艘大船承载了那么多逝去，为什么......你们的航向依然如此明确？"
+            },
+            "asset": "char_4130_luton/CN_006"
+        },
+        {
+            "id": "char_4130_luton_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Cantabile taught me to read some of the words in the book today. 'The warm soil uplifts the mist, the branches trace light's brows, and fowlbeasts sing in the dawnlight.' I wanted to know where I could find a place like this, so I asked her... But she went quiet on me. Maybe... it's just someone's imagination.",
+                "jp": "今日はカンタービレさんに、本の文字を教えていただきました。「暖かな土が狭霧を擡げ、木の枝が光の輪郭を描けば、羽獣が早暁に囀り歌う。」――どこに行けばそんな風景に出会えるのかと訊ねてみたのですが、カンタービレさんは黙り込んでしまって……もしかしたら、あれは想像の中にしかない光景なのかもしれませんね。",
+                "kr": "오늘은 칸타빌레 씨가 책에 있는 글자 읽는 법을 가르쳐 주셨어요. “따뜻한 흙이 안개를 일으키고, 나뭇가지가 빛의 윤곽을 그리며, 파울비스트가 새벽에 지저귀며 노래한다.” 어디를 가면 이런 풍경을 볼 수 있는지 궁금해져서 칸타빌레 씨에게 물어봤는데, 침묵에 빠져버리셔서…… 어쩌면 그건 그저 상상 속에서밖에 볼 수 없는 광경일지도 모르겠네요.",
+                "cn": "晓歌小姐今天教我认了书上的字。“温暖的泥土托起雾气，枝桠描摹光的眉目，羽兽在清晨歌唱。”我想知道哪里会有这种风景，就问了晓歌小姐，她却陷入了沉默......也许这只是想象吧。"
+            },
+            "asset": "char_4130_luton/CN_007"
+        },
+        {
+            "id": "char_4130_luton_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "There's this one particularly ugly type of fowlbeast, big as a human child, with a scary cry. Flocks of them storm onto battlefields, looking for food. When I was a kid, I'd get into fights with them and end up with bruises all over. But, once I grew up, I lost the guts to face them, let alone look them in the eye.",
+                "jp": "戦場を狩り場にする、とても醜い羽獣がいます。体は子供ほどの大きさで、耳をつんざく恐ろしい鳴き声を上げながら、群れを成してエサを探しにやって来るのです。幼い頃はいつも勇気を振り絞ってあのくちばしと奪い合い、全身傷だらけになったものですが……大人となった今、もはや対峙する気概はどこにもありません。特にあの目が恐ろしくて、直視することもできないのです。",
+                "kr": "전장을 사냥터로 삼는 아주 못생긴 파울비스트가 있어요. 그것들은 어린아이 정도의 크기에 귀청을 찢는듯한 무서운 울음소리를 내며, 자주 무리를 지어 먹이를 찾아다니곤 했어요. 어렸을 때는 종종 그것들과 물건을 두고 뺏고 뺏기느라 온몸이 상처투성이가 되고는 했는데…… 어른이 된 지금은, 오히려 그것들과 맞서기 두렵네요. 특히 이젠 그 눈을 똑바로 마주하기가 두려워요.",
+                "cn": "有一种极丑陋的羽兽，体型和小孩一般大，叫声很吓人，经常成群来战场寻找食物。小时候我总和它们抢东西，弄得遍体鳞伤。后来我长大了，却不敢再面对它们，尤其怕直视它们的眼睛。"
+            },
+            "asset": "char_4130_luton/CN_008"
+        },
+        {
+            "id": "char_4130_luton_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "The longer you live in a war, the more you end up forgetting. I can't remember the faces of a lot of those who've died, but new faces appear in front of me every day... If the war ever ends, then I'll finally be able to remember them all. That's why I'm prepared to follow you and your ideals.",
+                "jp": "戦場での暮らしが長くなると、古い記憶はおぼろげになっていくものです。死者の顔は一人、また一人と霞んでいきますが、それでも毎日新たな顔と出会うのです……もし戦争が止められたなら、私は全員の顔を覚えていられるでしょう。だからこそ私は貴方たちの理想とともに歩むのです。",
+                "kr": "전장에서의 생활이 길어지면, 오래된 기억은 흐릿해 지곤 해요. 세상을 떠난 이들의 얼굴이 하나, 또 하나 희미해져 가는데, 매일 또 새로운 얼굴과 만나게 되죠…… 만약 전쟁을 멈출 수 있다면, 저는 모든 이들을 기억할 수 있을 거예요. 그래서 저는 당신들의 이상을 위해 힘을 보태고 싶어요.",
+                "cn": "在战场上生活得越久，遗忘的就越多。我已经记不清许多逝者的面容，可每天又会有新的面孔出现在眼前......要是战争能被阻止，我就能记住他们所有人。所以，我愿意为你们的理想奔走。"
+            },
+            "asset": "char_4130_luton/CN_009"
+        },
+        {
+            "id": "char_4130_luton_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "I don't like watching people sleep, but... your heartbeat is steady, and that puts me at ease...Rest, Doctor.",
+                "jp": "人の寝顔は極力目に入れたくありませんが……貴方の落ち着いた鼓動を感じると、心が安らぎます。",
+                "kr": "누군가의 자는 얼굴을 보는 건 좋아하진 않지만…… 당신의 안정적인 심장 소리를 듣고 있으니, 저도 마음이 편안해지네요.",
+                "cn": "我不喜欢见到人们的睡颜，但......您的心跳很安稳，让我安心。"
+            },
+            "asset": "char_4130_luton/CN_010"
+        },
+        {
+            "id": "char_4130_luton_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "I'm just a girl who cleans up war zones. If you need me for anything, please call me by the name… Lutonada.",
+                "jp": "……私はただの戦場清掃員に過ぎません。ルトナダ――ご用があれば、この名でお呼び立てください。",
+                "kr": "……전 그저 전장의 청소부랍니다. 루토나다…… 필요하시다면 이 이름으로 불러 주세요.",
+                "cn": "......不过是一个打扫战场的人。露托......有需要的话，请用这个名字呼唤我吧。"
+            },
+            "asset": "char_4130_luton/CN_011"
+        },
+        {
+            "id": "char_4130_luton_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "So, this is one way to prevent people from dying...",
+                "jp": "こういったやり方を用いれば、死傷者を減らせるのですね……",
+                "kr": "이런 방법으로도 인명피해를 줄일 수 있군요……",
+                "cn": "原来用这种方法，就能阻止伤亡......"
+            },
+            "asset": "char_4130_luton/CN_012"
+        },
+        {
+            "id": "char_4130_luton_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "I've got a vague idea of what a 'promotion' is. A sergeant wears sturdier clothes than a footman, and carries more valuables... I appreciate it a lot, Doctor…",
+                "jp": "「昇進」の意味するところは概ね理解しています――士官は兵士よりも丈夫なコートを身にまとい、より多くの高価なものを携えていますから……ドクター、感謝いたします。",
+                "kr": "'승진'이 의미하는 바는 이해하고 있어요. 장교는 병사보다 더 두껍고 단단한 외투를 입고, 고가의 물건을 더 많이 가지고 있죠…… 박사님, 정말 고맙습니다.",
+                "cn": "我大概明白“晋升”的意思——士官的大衣会比士兵的更结实，身上值钱的东西也会更多......很感谢您。"
+            },
+            "asset": "char_4130_luton/CN_013"
+        },
+        {
+            "id": "char_4130_luton_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Tell me, does this mean I get to keep on walking this path with you?",
+                "jp": "どうかご教示ください。此度の昇進は、私がこちらに居着くことを許され、貴方たちと歩み続けられるという意味なのでしょうか……",
+                "kr": "알려주세요. 이게 제가 이곳에 더 머물러도 된다는 의미…… 제가 이곳에서 당신들과 계속 나아가도 된다는 의미인가요……",
+                "cn": "请您告诉我，这是不是意味着我能留下来，继续与你们同行......"
+            },
+            "asset": "char_4130_luton/CN_014"
+        },
+        {
+            "id": "char_4130_luton_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Your faith in me... I'll etch it into my heart...",
+                "jp": "貴方の言いつけを、しかと心に留めておきます……",
+                "kr": "당신의 당부는 꼭 마음에 새겨둘게요……",
+                "cn": "您的嘱托，我牢记于心......"
+            },
+            "asset": "char_4130_luton/CN_017"
+        },
+        {
+            "id": "char_4130_luton_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "No more lives will be lost in vain…",
+                "jp": "無意味な犠牲はこれ以上増えません……",
+                "kr": "더이상 무의미한 희생은 없을 거예요……",
+                "cn": "不会再出现无谓的牺牲了......"
+            },
+            "asset": "char_4130_luton/CN_018"
+        },
+        {
+            "id": "char_4130_luton_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Before the flames of war can spread…",
+                "jp": "戦火が燃え広がる前に……",
+                "kr": "전쟁의 불길이 더 번지기 전에……",
+                "cn": "赶在战火延烧之前......"
+            },
+            "asset": "char_4130_luton/CN_019"
+        },
+        {
+            "id": "char_4130_luton_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "No more tears...",
+                "jp": "涙をこぼしてしまわないように……",
+                "kr": "눈물을 흘리지 마세요……",
+                "cn": "别让眼泪落下......"
+            },
+            "asset": "char_4130_luton/CN_020"
+        },
+        {
+            "id": "char_4130_luton_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "I'll go.",
+                "jp": "私に行かせてください。",
+                "kr": "저를 보내주세요.",
+                "cn": "让我去吧。"
+            },
+            "asset": "char_4130_luton/CN_021"
+        },
+        {
+            "id": "char_4130_luton_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "I can do this.",
+                "jp": "私ならできます。",
+                "kr": "저 할 수 있어요.",
+                "cn": "我能做到的。"
+            },
+            "asset": "char_4130_luton/CN_022"
+        },
+        {
+            "id": "char_4130_luton_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "I'm here.",
+                "jp": "着きました。",
+                "kr": "도착했어요.",
+                "cn": "我到了。"
+            },
+            "asset": "char_4130_luton/CN_023"
+        },
+        {
+            "id": "char_4130_luton_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "As you say.",
+                "jp": "お望み通りに。",
+                "kr": "당신이 바라는 대로.",
+                "cn": "如您所愿。"
+            },
+            "asset": "char_4130_luton/CN_024"
+        },
+        {
+            "id": "char_4130_luton_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Your lives are safe in my hands.",
+                "jp": "皆の命は私が守ります。",
+                "kr": "모두의 목숨은 제가 지킬 거예요.",
+                "cn": "我会守护你们的生命。"
+            },
+            "asset": "char_4130_luton/CN_025"
+        },
+        {
+            "id": "char_4130_luton_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "I'll be your fortress.",
+                "jp": "貴方たちを守る砦となりましょう。",
+                "kr": "당신들을 지키는 보루가 될게요.",
+                "cn": "我愿成为你们的壁垒。"
+            },
+            "asset": "char_4130_luton/CN_026"
+        },
+        {
+            "id": "char_4130_luton_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "I'll handle this on my own.",
+                "jp": "私一人で受け止められますから。",
+                "kr": "저 혼자 감당할 수 있어요.",
+                "cn": "我能独自承受。"
+            },
+            "asset": "char_4130_luton/CN_027"
+        },
+        {
+            "id": "char_4130_luton_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Until my last breath…",
+                "jp": "最期の瞬間まで……",
+                "kr": "최후의 순간까지……",
+                "cn": "直至最后一刻......"
+            },
+            "asset": "char_4130_luton/CN_028"
+        },
+        {
+            "id": "char_4130_luton_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "This place is not for any of you to clean up. Go home, and enjoy a good night's sleep.",
+                "jp": "このエリアの清掃は不要です。帰りましょう。今夜はきっといい夢が見られますよ。",
+                "kr": "이 구역은 청소할 필요가 없네요. 돌아가죠. 오늘 밤은 분명 좋은 꿈을 꿀 수 있을 거예요.",
+                "cn": "这片区域不需要人打扫。回家吧，今夜会做个好梦。"
+            },
+            "asset": "char_4130_luton/CN_029"
+        },
+        {
+            "id": "char_4130_luton_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Preventing conflict provides more solace than mourning.' ...These words only made sense after living through them firsthand.",
+                "jp": "「争いを止めることは、追悼以上の弔いになる」……経験して初めて、この言葉の意味を理解できた気がします。",
+                "kr": "“분쟁을 멈추는 것이, 추모보다 더 좋은 위로다.” ……직접 겪고 나니 이 말의 진정한 의미를 이해할 수 있을 것 같아요.",
+                "cn": "“制止纷争是比哀悼更好的告慰。”......亲身验证后，才能明白这句话的意义。"
+            },
+            "asset": "char_4130_luton/CN_030"
+        },
+        {
+            "id": "char_4130_luton_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "They might've gotten away, but they won't want to bleed again. Not a bad end to things.",
+                "jp": "逃げおおせた方たちは、今後流れる血を見れば震え上がるのでしょう。ですので、これは案外悪い結果ではないのかもしれません。",
+                "kr": "도망친 사람들은 이제부터 피를 흘리는 걸 두려워할 거예요. 그렇다면 이건 나쁘지 않은 결과일 수도 있겠네요.",
+                "cn": "逃跑的人自此会害怕流血，这未尝不是好的结局。"
+            },
+            "asset": "char_4130_luton/CN_031"
+        },
+        {
+            "id": "char_4130_luton_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "I vow to lead everyone off the battlefield.",
+                "jp": "必ず皆を戦場から連れ帰ると約束いたします。",
+                "kr": "제가 반드시 모두를 전장에서 벗어날 수 있게 해 드리겠다고 약속할게요.",
+                "cn": "我发誓会带大家离开战场。"
+            },
+            "asset": "char_4130_luton/CN_032"
+        },
+        {
+            "id": "char_4130_luton_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "It's nice, clean, and quiet here... just like the inside of a coffin.",
+                "jp": "いいところですね。清潔で、静かで、まるで棺の中のようで……",
+                "kr": "여긴 참 좋은 곳이네요. 깨끗하고, 조용해요. 마치 관속처럼……",
+                "cn": "这里很好，干净，安静，就像棺椁里一样......"
+            },
+            "asset": "char_4130_luton/CN_033"
+        },
+        {
+            "id": "char_4130_luton_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Did you need me? I'm here, as always.",
+                "jp": "……私を呼んだのは貴方ですか？ここにいましたよ、先ほどからずっと。",
+                "kr": "저를 부르시는 건가요? 저는 여기 있었어요, 아까부터 계속요.",
+                "cn": "是您在喊我吗？我在，一直都在。"
+            },
+            "asset": "char_4130_luton/CN_034"
+        },
+        {
+            "id": "char_4130_luton_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Ah, I'm sorry... I won't sleep under the bed again.",
+                "jp": "ええ、申し訳ありません……もう二度とベッドの下で寝たりはしません。",
+                "kr": "아, 죄송합니다…… 이제 다시는 침대 밑에서 자거나 하지 않을게요.",
+                "cn": "啊，对不起......我不会再睡在床底下了。"
+            },
+            "asset": "char_4130_luton/CN_036"
+        },
+        {
+            "id": "char_4130_luton_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4130_luton/CN_037"
+        },
+        {
+            "id": "char_4130_luton_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Did something happen today? Everyone looks so happy… New Year's? A once-a-year occasion? Alright. I used to have to live every day as if it was my last. Never could've imagined that I'd be celebrating a special one.",
+                "jp": "今日は何かあったのですか？皆さん嬉しそうにされていますが……年越し？年に一度？そうなのですね。私はこれまで、毎日を最後の一日として過ごすような環境にありましたので、特別な一日をこうして祝うことができるなんて思いもしませんでした……",
+                "kr": "오늘 무슨 일 있나요? 모두 들떠 보이는데…… 새해요? 1년에 한 번? 그렇군요. 저는 지금까지 늘, 매일매일을 제 인생의 마지막 날이라고 생각하고 살아야 했어서…… 이렇게 특별한 하루를 기념하고 축하하게 될 줄은 생각도 못 했네요.",
+                "cn": "今天发生了什么事吗？大家看起来都很开心......新年？一年一度？原来如此。曾经我不得不把每一天都当作最后一天度过，真没想到，有一天也能庆祝特别的日子......"
+            },
+            "asset": "char_4130_luton/CN_038"
+        },
+        {
+            "id": "char_4130_luton_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Stay healthy, Doctor. Live a life.",
+                "jp": "どうかご自愛ください。",
+                "kr": "부디 몸조심하세요.",
+                "cn": "愿您珍重。"
+            },
+            "asset": "char_4130_luton/CN_042"
+        },
+        {
+            "id": "char_4130_luton_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "The medic says my condition has stabilized, and that I've been approved to travel outside. Doctor, do you think... I should try looking for other kinds of work? Not for the dead, but for the living.",
+                "jp": "お医者様によると、私の病状は安定しているとのことで、外出許可をいただくことができました。ドクター、私はもっと幅広い仕事に携わってみるべきでしょうか……死者のためでなく、生者のために。",
+                "kr": "의사 선생님이 이제 병세가 안정돼서 외출해도 된다고 하셨어요. 박사님, 저 혹시 더 다양한 일을 해봐도 될까요…… 떠난 사람이 아니라 이 대지를 살아가고 있는 사람을 위한 일이요.",
+                "cn": "医生说，我的病情有所稳定，外出行动的许可已经批下来了。您说，我是不是该尝试更多类型的工作......不为逝者，但为生者。"
+            },
+            "asset": "char_4130_luton/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Angela Rosado",
+            "global": "Angela Rosado"
+        },
+        "cn": {
+            "native": "宋媛媛",
+            "global": "Esther"
+        },
+        "jp": {
+            "native": "宝木久美",
+            "global": "Kumi Takaragi"
+        },
+        "kr": {
+            "native": "이재현",
+            "global": "Lee Jae-hyun"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

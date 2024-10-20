@@ -553,6 +553,22 @@
             "asset": "char_498_inside/CN_037"
         },
         {
+            "id": "char_498_inside_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Happy New Year, Doctor! A new year usually comes with a multitude of troublesome incidents, and I don't know how Rhodes Island deals with... Why aren't I back in Laterano to work right now? Ahaha, foreign missions are also very important, you know.",
+                "jp": "ドクター、ハッピーニューイヤー！年明けにはトラブルが倍増するもんだけど、ロドスの方はどうかな……なんでラテラーノに戻って仕事しないかって？あはは、派遣任務も疎かにはできないだろ。",
+                "kr": "박사, 해피 뉴 이어. 새해에는 까다로운 사건들이 배로 늘어난다고 하잖아, 로도스 아일랜드에선 어떨지 모르겠네…… 왜 라테라노로 돌아가서 일하지 않냐고? 하하, 파견 임무를 소홀히 할 수는 없지.",
+                "cn": "新年快乐，博士！新年往往意味着成倍的棘手事件，不知道罗德岛这边怎么样......我这会儿怎么不在拉特兰处理事务？啊哈哈，外派任务也是很重要的嘛。"
+            },
+            "asset": "char_498_inside/CN_038"
+        },
+        {
             "id": "char_498_inside_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "你也可以选择先休息一下，博士。"
             },
             "asset": "char_498_inside/CN_042"
+        },
+        {
+            "id": "char_498_inside_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Hmm, the atmosphere calls for a serious talk, does it? Alright, I'll be serious, Doctor, I wasn't actually that curious about Rhodes Island compared to the other executors, but now, I really admire your capabilities. Moving towards conflict instead of avoiding it is definitely not easy.",
+                "jp": "うわっ、なんか大真面目なことしか言えない空気だな。まあいいや、マジな話、俺は別に他の執行者ほどロドスに興味があったわけじゃないんだけど、今はあんたらの実力に感服してるぜ。衝突を避けずに向かってくなんて、なかなかできることじゃないからな。",
+                "kr": "음, 이런 분위기엔 진지한 말이 어울릴 것 같네. 그래, 박사. 솔직히 난 다른 집행자들에 비해선 로도스 아일랜드에 그렇게까지 관심이 가진 않았어. 하지만 지금은 너희의 실력에 감탄하고 있어. 충돌을 피하는 게 아니라, 그것에 맞서 나아간다는 건 절대 쉬운 일이 아니잖아.",
+                "cn": "哎，现在的气氛好像只适合说严肃的话？好吧，说真的，博士，本来我对罗德岛的好奇心没有其他执行者那么强，但现在我很佩服你们的本领。总是朝着冲突前进，而不是避开它，这可不容易。"
+            },
+            "asset": "char_498_inside/CN_044"
         }
     ],
     "actors": {

@@ -553,6 +553,22 @@
             "asset": "char_4066_highmo/CN_037"
         },
         {
+            "id": "char_4066_highmo_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "I don't expect much for the new year, nor do I want to. I just want to take a walk around and see whether anything's changed, compared to my memories of the last year. If it won't bore you, I don't mind you accompanying me.",
+                "jp": "新年に期待するものは何もないですし、期待したいとも思いません。やりたいことと言えば、あちこち見て回って、去年の記憶と照らし合わせてみるくらいのものです。退屈だと思わないなら、付いてきてもいいですよ。",
+                "kr": "새해에 기대하는 건 특별히 없어요, 무언가를 기대하고 싶지도 않고요. 그저 이곳저곳을 돌아다니면서 작년의 기억과 비교해 달라진 점이 있는지 알아보는 것 정도랄까요. 만약 당신만 괜찮다면 따라와도 상관없어요.",
+                "cn": "我对新年并没有什么期许，也不想做出一份期许。我只是想四处走走，和回忆中的去年对照，看看是否有了什么变化。如果你不觉得无聊，我不介意你的陪同。"
+            },
+            "asset": "char_4066_highmo/CN_038"
+        },
+        {
             "id": "char_4066_highmo_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "我们还有一些时间，在潮水淹没脚下的土地之前。"
             },
             "asset": "char_4066_highmo/CN_042"
+        },
+        {
+            "id": "char_4066_highmo_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Does Rhodes Island's intent to cure Oripathy stem from its mission as a healer, or its core members' self-interest as Infected? Now, under this starry sky, another threat has appeared to endanger us all. What will Rhodes Island do? You already have an answer, don't you, Doctor?",
+                "jp": "ロドスが鉱石病（オリパシー）問題の解決に取り組むのは、医者としての責任感からでしょうか、それとも感染者である自らを救うためでしょうか？いずれにせよ、全ての人を脅かす新たな病がこの星空の下に現れた今、ロドスの次の一手が気がかりです。もう答えは出ていますよね、ドクター。",
+                "kr": "로도스 아일랜드가 광석병 문제를 해결하려는 건, 의료인으로서의 사명 때문인가요, 아니면 주축을 이루는 구성원들이 감염자이기에 펼치는 자구책인가요? 모든 이들을 위협하는 또 다른 악재가 이 하늘 아래에 모습을 드러낸 지금, 로도스 아일랜드는 또 어떤 행동을 취하게 될까요. 당신은 이미 답을 내렸겠죠, 박사?",
+                "cn": "罗德岛意图解决矿石病问题，是出于作为医者的天职，还是核心成员作为感染者的自救？如今星空之下另有威胁所有人的顽疾，罗德岛又会怎么做呢。你已经有答案了吧，博士？"
+            },
+            "asset": "char_4066_highmo/CN_044"
         }
     ],
     "actors": {

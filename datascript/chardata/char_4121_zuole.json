@@ -553,6 +553,22 @@
             "asset": "char_4121_zuole/CN_037"
         },
         {
+            "id": "char_4121_zuole_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "The northern mandarins are busy, just as farmers have little time for leisure... My duties have me traveling all across Yan. The Yanese are always busy, but this time of year, they come together to eat, to beat the drums, and to enjoy their reunions... The shadows have yet to fade, but likewise, the fireworks will never cease.",
+                "jp": "北地は軍事で忙しく、田家に閑かなる月少なく……公務のため、私は年中炎国の各地を奔走しています。炎国の人々はいつも忙しくしていますが、この時期になるといつもごちそうの並んだ食卓があり、高らかに響く鼓があり、団らんを祝う言葉があります……落ちる影はまだ消えていませんが、人の営みが絶えることもありません。",
+                "kr": "북부는 군사 일로 바쁘고, 시골은 쉬는 달이 적죠…… 저는 공무로 항상 염국 각지를 돌아다닙니다. 염국 사람들은 늘 바쁘게 지내지만, 매년 이맘때면 언제나 따뜻한 식사와 북소리, 화목한 말이 오가곤 합니다…… 드리운 그림자는 아직 흩어지지 않았으나, 사람들의 불꽃 역시 끊이지 않을 겁니다.",
+                "cn": "北地征事忙，田家少闲月......因为公务，我常年奔走于炎国各地。炎国人总是忙碌，但每年的这个时候，总有一顿饭、一声鼓、一句团圆......阴影未散，而烟火也不会断绝。"
+            },
+            "asset": "char_4121_zuole/CN_038"
+        },
+        {
             "id": "char_4121_zuole_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "好巧。您想必有话对我说......是也不是？"
             },
             "asset": "char_4121_zuole/CN_042"
+        },
+        {
+            "id": "char_4121_zuole_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Londinium, Gran Faro, Trimounts... Rhodes Island has played a role in many crises. The Sui Regulator knows that you are not a simple pharmaceutical company, of course, but you have been doing everything in your power to prevent invisible disasters. And so you may stand shoulder-to-shoulder with us.",
+                "jp": "ロンディニウム、グランファーロ、トリマウンツ……ロドスは各地に姿を見せています。もちろん、ロドスが単なる製薬会社ではないことを司歳台は承知していましたが、あなた方は予知できない災害を防ぐために力を尽くしているのも事実です。その事実は、我々が肩を並べるに足るものです。",
+                "kr": "런디니움, 그란파로, 트리마운츠…… 로도스 아일랜드의 흔적은 다양한 곳에서 발견할 수 있습니다. 물론 사세대도 로도스 아일랜드가 단순한 제약 회사가 아니라는 건 알고 있죠. 여러분이 보이지 않는 재이에 맞서 싸우고 계시는 것만으로도, 우리가 함께하기에 충분한 이유입니다.",
+                "cn": "伦蒂尼姆、格兰法洛、特里蒙......罗德岛的身影出现得很频繁。司岁台当然知道罗德岛并非一家简单的医药公司，但你们确实在尽力阻止不可见的灾异，这足以让我们并肩而立。"
+            },
+            "asset": "char_4121_zuole/CN_044"
         }
     ],
     "actors": {

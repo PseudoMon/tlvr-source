@@ -82,7 +82,7 @@
             },
             "text": {
                 "en": "Doctor, don't look at me the same way you do Castle-3 and the others. They are very... cute. But my robot body is just like your hood, merely a sort of costume... a style. I know who I am, and thus you and I are more alike.",
-                "jp": "ドクター、どうか僕をキャッスル-3たちと同列に扱わないでくれよ。彼らはとても……可愛らしいけれど、僕のこのロボットの身体は君のフードと同じで、ただの様式であって、ある種の……スタイルだ。僕は自分が誰であるかは理解しているし、僕たちこそが同じなんだ。",
+                "jp": "ドクター、どうか僕をCastle-3たちと同列に扱わないでくれよ。彼らはとても……可愛らしいけれど、僕のこのロボットの身体は君のフードと同じで、ただの様式であって、ある種の……スタイルだ。僕は自分が誰であるかは理解しているし、僕たちこそが同じなんだ。",
                 "kr": "박사, 부디 Castle-3 같은 아이들과 나를 똑같이 취급하진 말아 주게. 그 아이들은 꽤나…… 사랑스럽지만, 내 기계 몸은 자네의 후드처럼 일종의 양식이자, 일종의…… 스타일에 불과하다네. 나도 내가 누군지는 잘 알고 있네, 그리고 우리야말로 똑같다 할 수 있지.",
                 "cn": "博士，不要用看待Castle-3他们的眼光看待我。他们很......可爱，但我这副机械之躯，就像你的兜帽，只是一种仪式，一种......风格。我知道自己是谁，我们才是一样的。"
             },
@@ -146,7 +146,7 @@
             },
             "text": {
                 "en": "Hello there, I am Friston. That's right, just 'Friston,' not 'Friston-3' or whatever. I am not a replica, and very much less a reproduction of a replica. I hope you understand.",
-                "jp": "初めまして、僕はフリストンだ。そう、「フリストン」であって、「フリストン-3」などという名ではない。僕は誰かのコピーではないし、コピーのコピーでもない。理解してくれると助かる。",
+                "jp": "初めまして、僕はフリストンだ。そう、「フリストン」であって、「Friston-3」などという名ではない。僕は誰かのコピーではないし、コピーのコピーでもない。理解してくれると助かる。",
                 "kr": "반갑네, 나는 Friston일세. 그래, 'Friston'이지, 'Friston-3' 같은 게 아니네. 난 복제품이 아닐뿐더러, 복제품의 복제품도 아니지. 부디 이해해 줬으면 좋겠군.",
                 "cn": "你好，我是Friston。没错，就是“Friston”，不是什么“Friston-3”，我不是复制品，更不是复制品的复制品，希望你能理解。"
             },
@@ -242,7 +242,7 @@
             },
             "text": {
                 "en": "I will relay our combat strategies to THRM-EX and Lancet-2.",
-                "jp": "サーマル-EXとランセット-2に作戦を共有しておくよ。",
+                "jp": "サーマル-EXとLancet-2に作戦を共有しておくよ。",
                 "kr": "작전 계획은 THRM-EX와 Lancet-2에게도 공유해 두겠네.",
                 "cn": "我会将作战计划布置给THRM-EX和Lancet-2。"
             },
@@ -489,6 +489,22 @@
             "asset": "char_4093_frston/CN_037"
         },
         {
+            "id": "char_4093_frston_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "The point of festivals is to wallow in nostalgia and longing. I wish you happiness, Doctor. It's a pity that I no longer have a past to miss, and no future worth anticipating... Oh? 'Justice Knight,' THRM-EX, what you doing? Doctor, did you call them over?",
+                "jp": "祝祭日の意義は追懐と憧憬にある。良い一日を、ドクター。残念ながら、僕にはもう懐かしむべき過去も、焦がれるべき未来もないのだ……っと、「ジャスティスナイト」に、サーマル-EX、どうしたんだ？ドクター、君が彼らを呼んだのかな？",
+                "kr": "새해 복 많이 받게나, 박사. 기념일은 그리움과 동경에 의미를 두고 있지만, 아쉽게도 내겐 이제 그리워할 만한 과거도, 동경할 만한 미래도 없다네…… 아니, '저스티스 나이트', THRM-EX, 뭐 하는 건가? 박사, 자네가 이 아이들을 부른 건가?",
+                "cn": "节日的意义在于怀念与憧憬，祝你快乐，博士。可惜我已经没有能够怀念的过去，也没有值得憧憬的未来了......欸，“正义骑士号”，THRM-EX，你们干嘛？博士，是你叫他们来的吗？"
+            },
+            "asset": "char_4093_frston/CN_038"
+        },
+        {
             "id": "char_4093_frston_CN_042",
             "title": {
                 "en": "Greeting",
@@ -503,6 +519,22 @@
                 "cn": "你好，博士。"
             },
             "asset": "char_4093_frston/CN_042"
+        },
+        {
+            "id": "char_4093_frston_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "I know that Kal'tsit keeps bringing up these 'incidents' I have no recollection of, hoping that I will gradually come to accept them. I understand my current situation, and I will stay with Rhodes Island. But for the future, I hope that I can find the answer myself... and not just through a 'calculation.'",
+                "jp": "ケルシーが繰り返し僕の記憶にない「事故」を述べるのは、僕に現実を受け入れてほしいからであると了解している。僕は今の自分の状況を理解しているし、ロドスには留まるつもりだ。しかしこの先どうすべきであるかの答えは、自分で見つけたい……「演算」によってではなくね。",
+                "kr": "켈시가 계속해서 내가 기억하지 못하는 '사고'를 언급하는 건, 내가 이 상황을 받아들이길 원하기 때문이겠지. 그건 나도 이해하네. 나도 내 상황을 이해하고 있고, 로도스 아일랜드에 머무를 생각이네. 하지만 앞으로 어떻게 할 것인지에 대해선, 스스로 답을 찾고 싶군…… '연산'을 통하지 않고 말일세.",
+                "cn": "凯尔希一遍遍提起那些我不记得的“变故”，是希望我能够接受，我知道。我了解自己现在的情况，我会留在罗德岛，但未来该怎么样，我希望自己找到答案......不是通过“运算”。"
+            },
+            "asset": "char_4093_frston/CN_044"
         }
     ],
     "actors": {

@@ -147,7 +147,7 @@
             "text": {
                 "en": "You know what 'can soccer' is? It's my favorite game! Just take a can out of the ditch or whatever scrap heap, then play ball. Oye wey! What's that look on your face? We may have been poor, but there was plenty of fun to be had. Don't believe me? Come try for yourself!",
                 "jp": "「缶蹴りサッカー」って知らない？アタシの一番好きな遊びなんだけどさ、排水溝から適当に缶とか金属のガラクタを拾えばできる……って、何その顔。暮らし向きが悪いからって、楽しみを見つけることに関しちゃ負ける気しないよ。なんなら勝負してみる？",
-                "kr": " '깡통 차기'라고 들어봤어? 내가 제일 좋아하는 놀이인데, 배수구에서 아무 깡통이나 잡동사니를 주워오면 할 수 있어…… 표정이 왜 그래? 우린 사는 건 힘들었지만, 즐거움을 찾는 것만큼은 다른 사람들한테 안 졌거든. 어때, 나랑 한 번 붙어볼래?",
+                "kr": "'깡통 차기'라고 들어봤어? 내가 제일 좋아하는 놀이인데, 배수구에서 아무 깡통이나 잡동사니를 주워오면 할 수 있어…… 표정이 왜 그래? 우린 사는 건 힘들었지만, 즐거움을 찾는 것만큼은 다른 사람들한테 안 졌거든. 어때, 나랑 한 번 붙어볼래?",
                 "cn": "你知道“罐子足球”吗？那是我最喜欢的游戏，从水沟里捞个罐子或是随便什么金属垃圾就能玩啦......你那副表情是什么意思？就算生活环境不济，我们找的乐子可不差。不信，你和我试试？"
             },
             "asset": "char_4100_caper/CN_009"
@@ -553,6 +553,22 @@
             "asset": "char_4100_caper/CN_037"
         },
         {
+            "id": "char_4100_caper_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Before, I always had dinner with my mamá on this day. She always got off work earlier than usual to make me these big fat tacos filled with meat. It's only on this day of the year that I get to eat so much meat... Hey, don't just listen. Eat up.",
+                "jp": "昔はね、この日は決まってママと一緒に晩ご飯を食べるんだった。ママはいつもより早く退勤して、お肉をぎゅうぎゅうに詰めたおっきなブリトーを作ってくれるの。あんなにたくさんの肉を食べられるのは、年に一度だけなんだ……って、聞き入ってないでアンタも食べなよ。",
+                "kr": "옛날엔 이날만 되면 꼭 엄마랑 같이 저녁을 먹었었어. 엄마도 평소보다 일찍 퇴근해서 고기를 잔~뜩 넣은 커다란 부리토를 만들어 줬었지. 그렇게 많은 고기를 먹을 수 있었던 건 일 년에 단 한 번뿐이었어…… 박사도 내 얘기만 듣지 말고 빨리 먹어.",
+                "cn": "以前这个日子我都是和妈妈一起吃饭的。晚上她会提前下班，给我做超大份的玉米卷饼，肉塞得满满当当的，每年只有今天才能吃到这么多肉哦......喂，别愣着听我讲，你也吃呀。"
+            },
+            "asset": "char_4100_caper/CN_038"
+        },
+        {
             "id": "char_4100_caper_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "博士，别工作啦，快来陪我玩。"
             },
             "asset": "char_4100_caper/CN_042"
+        },
+        {
+            "id": "char_4100_caper_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Doctor, I'm outta here tomorrow. I really didn't expect to be here for so long, and that I wouldn't ever get tired hanging around you. Rhodes Island's such a fun place. Don't you ever let it get boring. Where am I going next? Haha... A field mission! See ya!",
+                "jp": "ドクター、アタシ明日にはもう発つよ。こんなに長く留まるとは思わなかったし、アンタの顔もさんざん見てきたのに飽きなかったとはね。ロドスはこーんなに楽しいところなんだから、つまんなくしたら許さないよ。これからどこへ行くって？……アッハハ、外勤任務に決まってんじゃん！そんじゃ行ってくるね！",
+                "kr": "박사, 나 내일이면 떠나. 나도 이렇게 오랫동안 여기 머물게 될 줄은 몰랐어. 박사 얼굴은 매일 봐도 질리지 않았고. 하지만 나 없다고 로도스 아일랜드를 지루하게 만들면 용서하지 않을 거야. 어디로 가냐고? ……하핫, 당연히 외근 임무지! 금방 다녀올게!",
+                "cn": "博士，我明天就要走啦。真没想到会在你这儿待这么久，见你好多次也没嫌烦。罗德岛这么好玩，你可不许把它变无聊哦。我接下来要去哪？......哈哈哈，当然是出外勤任务了！回见！"
+            },
+            "asset": "char_4100_caper/CN_044"
         }
     ],
     "actors": {

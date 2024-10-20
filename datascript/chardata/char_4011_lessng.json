@@ -553,6 +553,22 @@
             "asset": "char_4011_lessng/CN_037"
         },
         {
+            "id": "char_4011_lessng_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "The days go by fast. You should come back with me to Leithanien if you get the chance. We'll go to the countryside, where patches of wild spruce trees grow straight and tall... When I was young, I thought they could grow even taller than the spires.",
+                "jp": "時が経つのは早いな。いつか機会があれば、リターニアへの里帰りについてこないか。郊外に行けば、野生のスプルースが真っ直ぐ天高くまで伸びてる様子が見える……小さい頃は、あの木たちは塔の上まで伸びてるって思ってた。",
+                "kr": "시간이 참 빠르네. 나중에 기회가 되면 박사도 나와 함께 라이타니엔에 가보지 않을래? 교외에 가면 하늘 높이 곧게 뻗어 있는 피세아 나무도 볼 수 있는데…… 어릴 때 난, 그 나무들이 고탑보다 더 높게 자랄 줄 알았어.",
+                "cn": "日子过得真快。有机会的话，您可以跟我回莱塔尼亚看看。我们去郊外，一片片野生的云杉树长得又直又高......我小时候觉得它们能高过高塔。"
+            },
+            "asset": "char_4011_lessng/CN_038"
+        },
+        {
             "id": "char_4011_lessng_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "您好。我不是紧张，我一直这样，打招呼还能有什么花样。您好......呀？"
             },
             "asset": "char_4011_lessng/CN_042"
+        },
+        {
+            "id": "char_4011_lessng_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Dr. {@nickname}, there is no one who can guarantee they're always headed in the right direction. You need only make a choice, and I'll follow you to verify. I'll correct your path if its askew, and we'll simply continue further on if it holds true .",
+                "jp": "ドクター、自分の向いてる方向がいつまでも正しいことを保証できる奴はいないが、あなたが道を選んだなら、俺も共に歩んでそれを確かめる。道を逸れたら正せばいいし、正しい道ならもっと先を目指すだけだ。",
+                "kr": "지금 이 순간, 자신이 나아가고 있는 방향이 옳은 건지 장담할 수 있는 사람은 없겠지만, 박사가 가는 길이라면 난 끝까지 따라가서 확인해 보고 싶어. 길을 벗어났을 땐 다시 바로잡으면 되고, 옳은 길이라면 그대로 계속 나아가면 되는 거잖아.",
+                "cn": "Dr.{@nickname}，没人能担保自己的方向永远是对的，您只要做出选择，我将跟随您去验证它。歪了就走正，对了那就走得更远。"
+            },
+            "asset": "char_4011_lessng/CN_044"
         }
     ],
     "actors": {

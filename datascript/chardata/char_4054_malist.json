@@ -553,6 +553,22 @@
             "asset": "char_4054_malist/CN_037"
         },
         {
+            "id": "char_4054_malist_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Ah, this is the calendar you keep on the surface. I've heard of it. The significance in a holiday like this to commemorate a year's end—it's such an improvement over those days of pure idle indulgence... So another year's already passed. Be sure to cherish your time well, Doctor.",
+                "jp": "ああ、今日は地上の暦で言う新年でしょ、聞いたことあるよ。過ぎた一年を送り出す、こんな意味のある日は、ただ何の目的もなく欲に流された時を過ごすのに比べればずっといい……にしてもまた一年が経ったのか、時間を大事にしなよ、ドクター。",
+                "kr": "아, 이게 지상에서 사용 중인 역법이구나. 들어 본 적 있어. 한 해의 마지막을 기념하는 날이라고 말이지. 아무런 의미도 없이 향락에 빠져 사는 나날보다는, 이렇게 의미 있게 하루를 보내는 편이 훨씬 좋겠지…… 또 이렇게 한 해가 가는구나. 시간을 소중히 여기자, 박사.",
+                "cn": "啊，这是你们地上的历法吧，我听说过，纪念过去一年的结束，这样有意义的节日，不知比那些纯粹享乐虚度的日子要好上多少......原来已经又过了一年了，好好珍惜时光吧，博士。"
+            },
+            "asset": "char_4054_malist/CN_038"
+        },
+        {
             "id": "char_4054_malist_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "博士，久坐容易得颈椎病，建议你也注意一下。"
             },
             "asset": "char_4054_malist/CN_042"
+        },
+        {
+            "id": "char_4054_malist_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "My life is doomed to be as short as it is. How could I ever reconcile with that? I find it genuinely difficult to keep calm... not that you—need to console me. If I was truly that weak, then I wouldn't be standing here right now.",
+                "jp": "生い先短い人生を押し付けてきた運命を、素直に受け入れられるわけないでしょ。でも別に、慰めもいらないよ。そこまで弱かったら、オレはそもそもここにいないよ。",
+                "kr": "내가 단명할 운명이라는 걸 어떻게 순순히 받아들일 수 있겠어? 태연하게 받아들이기엔 힘든 사실이긴 하지만…… 그렇다고 날 위로할 필요는 없어. 내가 정말 그렇게 나약했더라면, 애초에 이곳에 서 있지도 않았겠지.",
+                "cn": "我的生命已经注定如此短暂，我又怎么可能真的能与它和解？我真的很难做到坦然......但，你也不必安慰我，如果真的这么脆弱，我现在根本就不会站在这里。"
+            },
+            "asset": "char_4054_malist/CN_044"
         }
     ],
     "actors": {

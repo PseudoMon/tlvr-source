@@ -553,6 +553,22 @@
             "asset": "char_4006_melnte/CN_037"
         },
         {
+            "id": "char_4006_melnte_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Happy New Year, Doctor. Would you like me to shoot up some fireworks with this launcher? That's not a metaphor. It really has a fireworks mode. It's had one ever since I first got it.",
+                "jp": "ハッピーニューイヤー、ドクター。レールガンで花火でも上げましょうか？……比喩表現ではなく、文字通りの意味です。これには本当に花火モードが実装されているんです。受け取った時からずっとある機能なんですよ。",
+                "kr": "새해 복 많이 받으세요, 박사님. 이 레일건으로 폭죽이라도 터뜨려 볼까요? ……비유가 아니라, 진짜 폭죽을 말하는 거예요. 이 레일건은 처음 받았을 때부터 폭죽 모드가 탑재되어 있었거든요.",
+                "cn": "新年快乐，博士。需要我用这门炮放个烟花吗？......不是比喻，是真的。它真的有一个烟花模式，第一次交到我手里的时候就有了。"
+            },
+            "asset": "char_4006_melnte/CN_038"
+        },
+        {
             "id": "char_4006_melnte_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "早上好。一夜无梦的睡眠最能缓解疲劳，您觉得呢？"
             },
             "asset": "char_4006_melnte/CN_042"
+        },
+        {
+            "id": "char_4006_melnte_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Rhodes Island is a place you can talk about your dreams without feeling embarrassed, and I like that. If I could start over, I would've come straight here without spending that time as a weapons tester... Maybe that way, I would already have taken a step toward my dreams.",
+                "jp": "ロドスは胸を張って自らの理想を語れる場所ですから、気に入っています。すべてやり直せるなら、きっと武器テスターなんかにならず、真っ先にロドスに来ていたでしょう……もしそうしていたら、今頃私はもう自分の理想に向けて一歩目を踏み出していたかもしれません。",
+                "kr": "로도스 아일랜드는 자신의 꿈을 당당하게 말할 수 있는 곳이라서 마음에 들어요. 만약 옛날로 돌아간다면, 전 무기 테스터 같은 일을 하지 않고 바로 로도스 아일랜드에 찾아왔을 거예요…… 그랬다면 지금쯤, 전 벌써 제 이상을 향해 한 걸음 더 내디뎠을지도 모르겠네요.",
+                "cn": "罗德岛是个可以让人毫不害羞地述说自己理想的地方，我喜欢这一点。如果能重来的话，我一定不去做什么武器测试员，而是直接来罗德岛......那样，也许我现在已经为自己的理想迈出一步了吧。"
+            },
+            "asset": "char_4006_melnte/CN_044"
         }
     ],
     "actors": {

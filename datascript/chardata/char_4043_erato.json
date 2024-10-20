@@ -163,7 +163,7 @@
             "text": {
                 "en": "Doctor, Doctor? Oh, you're asleep, huh? I was thinking about playing a little song for you, oh well...",
                 "jp": "ドクター、ドクター？眠ってしまいましたのね……一曲弾いてあげようと思って用意していましたのに……",
-                "kr": "박사님, 박사님? 잠들어 버리셨네요… 한 곡 연주해 드릴 생각이었는데……",
+                "kr": "박사님, 박사님? 잠들어 버리셨네요…… 한 곡 연주해 드릴 생각이었는데……",
                 "cn": "博士，博士？睡着了啊......本来还准备了一首曲子想弹给你听呢......"
             },
             "asset": "char_4043_erato/CN_010"
@@ -553,6 +553,22 @@
             "asset": "char_4043_erato/CN_037"
         },
         {
+            "id": "char_4043_erato_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Another year, huh...? Though I am still unfamiliar with Rhodes Island's customs, the importance of ceremony cannot be understated. If there is no ceremoniousness to counterbalance the atmosphere of levity, the occasion is forgotten easily. Happy New Year, Doctor. As a present, I'll play a song for you. What would you like to hear?",
+                "jp": "年が明けましたわね……ロドスの伝統は存じませんが、なんにせよきちんと気持ちに形をつけることは重要ですもの。喜ばしい気持ちも、儀式によって印象強く残さなければ、すぐに忘却してしまうもの。明けましておめでとうございますドクター。プレゼントとして、あなたのために一曲弾きますわ。リクエストがあればどうぞ？",
+                "kr": "새해가 다가왔군요…… 로도스 아일랜드의 전통에 대해서는 아직 잘 모르지만, 어찌 됐든 이렇게 기분을 내는 것도 중요하다고 생각해요. 즐거운 마음도 의식을 통해 인상 깊게 남기지 못하게 되면 쉽게 잊히기 마련이죠. 새해 복 많이 받으세요, 박사님. 선물로 한 곡 연주해 드릴게요. 원하시는 곡이 있으신가요?",
+                "cn": "是新年啊......虽然还不知道罗德岛的传统，但无论如何，仪式感是很重要的。喜悦的心情如果没有仪式来强化，是很容易淡忘的。新年快乐博士，礼物的话，就为你弹一首曲子吧。有什么想听的吗？"
+            },
+            "asset": "char_4043_erato/CN_038"
+        },
+        {
             "id": "char_4043_erato_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "博士，想听我唱首歌吗？"
             },
             "asset": "char_4043_erato/CN_042"
+        },
+        {
+            "id": "char_4043_erato_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Rhodes Island is a unique place, where people from all over the world come together to fight for a common cause - it's practically something you can only find in mythology. I wish to continue to witness the story of Rhodes Island as it unfolds. Surely, we shall compose the most grand of epics together.",
+                "jp": "ロドスは唯一無二の場所ですわ。出自の違う人々が同じ信念を貫くために肩を並べ、戦いに身を投じるなど、まるで神話を抜き出したかのような光景ですもの。私は引き続きロドスの物語をこの目で見届けるつもりです。我々はきっと、壮大な叙事詩を書き上げることができるのですから。",
+                "kr": "로도스 아일랜드는 유일무이한 곳이에요. 세계 각국의 사람들이 모여 하나의 신념을 위해 싸우고 있지요. 마치 신화 속에서나 나올 법한 광경처럼 말이에요. 전 계속해서 로도스 아일랜드의 이야기를 지켜보고 싶어요. 저희라면 분명, 가장 위대한 전설을 써 내려갈 수 있을 거예요.",
+                "cn": "罗德岛是个独一无二的地方，来自各国各地的人，可以为了一个共同的信念并肩战斗，这简直就像神话里才会出现的情景。我想要继续见证罗德岛的故事，我们一定可以谱写最宏伟的传说。"
+            },
+            "asset": "char_4043_erato/CN_044"
         }
     ],
     "actors": {

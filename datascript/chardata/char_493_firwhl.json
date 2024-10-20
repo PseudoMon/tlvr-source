@@ -67,7 +67,7 @@
             "text": {
                 "en": "The right type of ammo can turn the tide of a battle', it's a line every artilleryman knows. So their bags are filled with grapeshot, flashbangs and tracers. 'Course, they always have trouble deciding which to use when the time comes. As for me, I just bring incendiaries. Use 'em right, and they replace any type of ammo you could need.",
                 "jp": "「弾薬選びが戦況を左右する」っていう、砲撃手にはお馴染みの言葉があってさ、それを信じてみんな榴散弾に音響弾、曳光弾なんかをバッグに詰め込んでるんだけど、結局肝心な時にどれを使えばいいかわからなくなるんだよねー。でもあたしは焼夷弾だけで十分。上手に使えば、どんな弾薬代わりにだってなるからねー。",
-                "kr": "'탄약 선택이 전세를 좌우한다' 포격사수라면 이 말을 한 번쯤 들어봤을 거야. 그래서 다들 가방에 유산탄, 섬광탄, 예광탄 등을 넣어 두곤 하는데, 정작 상황이 닥치면 어떤 걸 쓰면 좋을지 잘 모르는 경우가 많단 말이지. 하지만 난 소이탄 하나면 충분해. 이건 잘만 쓰면 어떤 종류의 탄약이든 다 대체가 가능하거든.",
+                "kr": "“탄약 선택이 전세를 좌우한다.” 포격사수라면 이 말을 한 번쯤 들어봤을 거야. 그래서 다들 가방에 유산탄, 섬광탄, 예광탄 등을 넣어 두곤 하는데, 정작 상황이 닥치면 어떤 걸 쓰면 좋을지 잘 모르는 경우가 많단 말이지. 하지만 난 소이탄 하나면 충분해. 이건 잘만 쓰면 어떤 종류의 탄약이든 다 대체가 가능하거든.",
                 "cn": "“用合适的弹药改变战局”，炮手都知道这句话，于是他们往包里塞了榴霰弹、震撼弹、曳光弹，事到临头却不知道该用什么。而我只带燃烧弹就够了。只要用得好，它可以顶替任何一种弹药。"
             },
             "asset": "char_493_firwhl/CN_004"
@@ -553,6 +553,22 @@
             "asset": "char_493_firwhl/CN_037"
         },
         {
+            "id": "char_493_firwhl_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Just a sec, I need to file my annual financials... alright! I hear you've got a lot of good Billy cooks at Rhodes Island. Why don't we go for a little tasting together?",
+                "jp": "ドクターちょい待ち、今今年度の決算書を作ってるとこだから……よーし完成！ねぇ、ロドスには料理上手なレム・ビリトン人がそこそこいるって聞いたんだけど、食べに行ってみない？",
+                "kr": "잠깐만 박사, 연간 재무제표를 만들고 있는 중이라…… 됐다! 있지, 로도스 아일랜드엔 요리 솜씨가 훌륭한 림 빌리턴 오퍼레이터들이 많다던데, 같이 먹으러 가지 않을래?",
+                "cn": "稍等，博士，我在整理年度财务报表......好了！听说罗德岛上不少雷姆必拓干员的手艺都不错，一起去尝尝吗？"
+            },
+            "asset": "char_493_firwhl/CN_038"
+        },
+        {
             "id": "char_493_firwhl_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "你好啊，博士，想不想生把火暖和一下？"
             },
             "asset": "char_493_firwhl/CN_042"
+        },
+        {
+            "id": "char_493_firwhl_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "I thought about asking my family for help when my company was in debt. I even went home once, but when they asked how I was doing and whether I needed money, I just said everything was fine. I don't regret it one bit, but everytime I think of the concern in their eyes, I still feel sorry.",
+                "jp": "会社が負債まみれだった頃、本気で実家に援助を仰ぐことも考えて、一回帰ってみたことがあるんだ。でもいざ家族に、暮しはどうだーとか、お金に困ってないかーとか聞かれた時には、大丈夫って言い張っちゃったんだよねー。別に後悔はしてないけど、あの心配そうな目を思い出すと、ちょっと胸が苦しくなるよ。",
+                "kr": "회사가 빚더미에 앉았을 때, 집에 손을 벌릴까 진지하게 고민했었어. 근데 막상 집에 가서 가족들이 요즘 지내는 건 어떠냐, 뭐 부족한 건 없냐 묻는 걸 들으니까, 억지로 괜찮다고 대답하게 되더라고. 물론 그렇게 말한 걸 후회하진 않지만, 가족들이 날 걱정하던 눈빛을 생각하면, 마음이 그렇게 편하진 않네.",
+                "cn": "公司债台高筑的时候，我认真考虑过要不要向家里求助，甚至回了趟家，可当他们问我过得如何、缺不缺钱时，我一口咬定自己挺好的。我不后悔这么说，但一想起他们关切的眼神，心里还是不好受。"
+            },
+            "asset": "char_493_firwhl/CN_044"
         }
     ],
     "actors": {

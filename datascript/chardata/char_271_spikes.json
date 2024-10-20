@@ -17,7 +17,7 @@
                 "cn": "任命助理"
             },
             "text": {
-                "en": "The files are in order. Is that all we have to do today? Why don't we talk about the operation the other day, Professor?",
+                "en": "The files are in order. Is that all we have to do today? Good, then why don't we talk about the operation the other day, Professor?",
                 "jp": "ファイルの整理は終わったよ。今日はもう他にやることないよね？じゃあこの間の作戦について話そうよ、センセー。",
                 "kr": "파일 정리는 끝났어. 오늘은 이제 다른 할 일 없지? 그럼 얼마 전 작전 이야기 좀 하자, 선생님~",
                 "cn": "文件都整理好了，今天已经没别的事情了吧？不如来聊聊上次的作战吧，老师。"
@@ -33,7 +33,7 @@
                 "cn": "交谈1"
             },
             "text": {
-                "en": "Try not to come too close when I use Arts, okay? Not moving out of the way? Okay, if you insist.",
+                "en": "Try not to come too close when I use Arts, okay? ... You won't? Whatever suits you then.",
                 "jp": "僕がアーツを放つ時は、あまり近寄らないで。……離れないの？じゃあ好きにすれば。",
                 "kr": "내가 아츠를 방출할 땐 너무 가까이 오지 마…… 안 떨어질 거야? 그럼 마음대로 하던가.",
                 "cn": "在我施放法术时，最好不要靠得太近......不走开吗？那就请随意。"
@@ -49,7 +49,7 @@
                 "cn": "交谈2"
             },
             "text": {
-                "en": "Why do I call you 'Professor', you ask? Because I'm actually learning quite a lot from you. The placement of personnel on the battlefield, how to command, among other things... What more reason do we need?",
+                "en": "Why am I calling you 'Professor'? Because I'm actually learning quite a lot from you: where to assign personnel on the battlefield, how to command, among many other things… What more reason do we need?",
                 "jp": "なんでセンセーって呼ぶかって？それはあんたについてけば色んなことが学べるからさ。戦闘の配置とか指揮とか、他にも色々……それ以外に、何か理由はいるの？",
                 "kr": "왜 선생님이라고 부르냐고? 널 따라다니면 여러 가지를 배울 수 있거든. 전투 배치나 지휘도 그렇고 배울 수 있는 건 많이 있지…… 그거 말고 이유가 더 필요한가?",
                 "cn": "为什么喊你老师？因为在你身边能学到东西，比如战斗的布局和指挥，还有很多别的......除此之外，还需要什么其他理由吗。"
@@ -65,7 +65,7 @@
                 "cn": "交谈3"
             },
             "text": {
-                "en": "Here, you can have this. I think it's some sort of candy? No need to thank me. I got it from someone else anyway, and I don't really like these things very much.",
+                "en": "Here, you can have this. Some sort of candy, I think. No need to thank me. I got it from someone else anyway. Couldn't care less.",
                 "jp": "はい、これあげる。多分お菓子か何かかな。礼はいいよ、貰い物だし、僕は興味ないから。",
                 "kr": "자, 이거 줄게. 과자 같은 건가 봐. 고맙긴 무슨. 어차피 받은 건데 뭐, 난 관심 없거든, 이런 거.",
                 "cn": "喏，这个给你，大概是什么点心吧。不用谢，反正是别人送的东西，我没什么兴趣。"
@@ -81,7 +81,7 @@
                 "cn": "晋升后交谈1"
             },
             "text": {
-                "en": "You don't see Sankta using staves much? The guys who shoot up everything day and night and solve all their problems with violence must have given you a bad impression. Not all Sankta use guns as their weapons. At the very least, I don't like them.",
+                "en": "Sankta using staves is a rare sight to see, you say? Those fanatics on a non-stop shooting spree must have left you with a bad impression with their \"pews\" and \"bangs.\" Not all Sankta use guns as their weapons. At the very least, I don't like them.",
                 "jp": "杖を使うサンクタ人が珍しい？一日中バンバンやって何でも暴力で解決するような奴らに影響されるなよ。サンクタ人だって、みんながみんな銃を武器にするわけじゃないんだ。少なくとも僕は好きになれないね。",
                 "kr": "지팡이를 쓰는 산크타는 드물지 않냐고? 온종일 탕탕대면서 뭐든 폭력으로 해결하려는 녀석들한테 영향받지 말라고. 산크타라고 해서 전부 총을 무기로 삼는 건 아니야. 적어도 난 그런 게 마음에 안 들어서 말이야.",
                 "cn": "用杖的萨科塔人很稀奇？别被某些整天只知道砰砰砰，什么事情都依赖暴力解决的家伙影响了，萨科塔人也不是人人都会选择铳枪作为武器的，至少我就不喜欢。"
@@ -115,7 +115,7 @@
             "text": {
                 "en": "There are no Infected in Laterano. Once a Sankta contracts Oripathy, he is immediately exiled. But even if you become Infected, no matter where you are, you still enjoy all kinds of privilege as a Laterano... You just don't get to set foot in your homeland again, that's all.",
                 "jp": "ラテラーノの地に感染者は存在しない。サンクタ人は感染すると、すぐに追放されちゃうからね。でも感染者になっても、ラテラーノに属することには変わらないんだ。どこに行こうと、ラテラーノの色んな保障は受け続けられる……ただ二度と故郷に足を踏み入れることはできないってだけさ。",
-                "kr": "라테라노의 땅에 감염자는 존재하지 않아. 산크타는 감염되면 바로 추방되어 버리거든. 하지만 감염자가 되어도 라테라노에 속한다는 것엔 변함이 없어서, 어디를 가든 라테라노의 다양한 권리는 계속 누릴 수 있지… 그저, 두 번 다신 고향에 발을 들일 수 없을 뿐.",
+                "kr": "라테라노의 땅에 감염자는 존재하지 않아. 산크타는 감염되면 바로 추방되어 버리거든. 하지만 감염자가 되어도 라테라노에 속한다는 것엔 변함이 없어서, 어디를 가든 라테라노의 다양한 권리는 계속 누릴 수 있지…… 그저, 두 번 다신 고향에 발을 들일 수 없을 뿐.",
                 "cn": "拉特兰的土地上没有感染者，萨科塔人一旦感染，就会遭到流放。但感染者仍然还属于拉特兰，不论他们身处何方，都仍享有拉特兰的种种保障......只是无法再一次踏上故土，仅此而已。"
             },
             "asset": "char_271_spikes/CN_007"
@@ -129,7 +129,7 @@
                 "cn": "信赖提升后交谈2"
             },
             "text": {
-                "en": "My parents' will left me with quite a bit of trouble, and it was really a hassle to get it taken care of. If it wasn't for that uptight executor making things difficult for me, it all could've been much easier... Oh, whatever, it still went according to plan.",
+                "en": "My parents' will left me with quite a bit of trouble, and it was really a hassle to get it taken care of. If it wasn't for that uptight executor making things difficult for me, it all could've been much easier... Oh, whatever, it still went according to my plan.",
                 "jp": "両親の遺言にちょっと厄介な内容があって、解決には骨が折れたよ。あの融通のきかない執行人がややこしくしてなければ、もっと順調に進んだんだけど……フンッ、まぁいいや。そうは言ってもまだ計画通りだから。",
                 "kr": "부모님 유언에 좀 성가신 내용이 있어서 그거 해결하느라 고생 좀 했지. 그 융통성 없는 집행인이 까다롭게 굴지만 않았으면 더 순조롭게 진행됐을 텐데…… 흥! 뭐, 됐어. 말은 이렇게 했지만 아직은 계획대로 되고 있으니까.",
                 "cn": "父母的遗嘱里给我留了点小麻烦，费了我不少功夫去解决。如果不是那个死脑筋的公证所执行人添乱的话，事情还会更顺利点......哼，算了，不管怎么说，都还在我的计划之中。"
@@ -145,7 +145,7 @@
                 "cn": "信赖提升后交谈3"
             },
             "text": {
-                "en": "I want to capture a few people to try out some new Arts in our next operation. I can't...? Alright, fine. It's a shame, but if that's what you say, Professor, maybe some other time, then.  Eh? Not this time, and not ever? Geez, don't be so uptight.",
+                "en": "I want to capture a few people to try out some new Arts in our next operation. I can't...? Alright, fine. It's a shame, but if that's what you say, Professor, maybe some other time, then. Eh? Not this time, and not ever? Geez, don't be so uptight.",
                 "jp": "今回の作戦で、何人か捕まえて僕の新アーツを試してみたいんだけど。ダメ？……あっそう、わかったよ。残念だけど、センセーがダメって言うなら今回は止めとく。えっ？今回だけじゃなくて今後もダメ？厳しいなぁ、センセー。",
                 "kr": "이번 작전 때 몇 명 포획해서 내 새 아츠를 시험해 보고 싶은데, 안 돼? ……아, 그래. 알았어. 선생님이 안 된다고 그러면 아쉽지만 이번엔 넘어갈게. 뭐? 이번만이 아니라 앞으로도 안 된다고? 선생님도 참 엄격하네.",
                 "cn": "这次的作战，我想抓几个人来试试我的新法术。不行？......好吧，好吧，虽然很遗憾，但如果是老师阻止的话，这次就算了。嗯？不仅是这次，今后也不允许？真严格啊，老师。"
@@ -209,7 +209,7 @@
                 "cn": "精英化晋升1"
             },
             "text": {
-                "en": "This doesn't seem all that different than before. Or are you going to teach me some secret strategies you have, Professor?",
+                "en": "This doesn't seem all that different than before. Or are you going to teach me some tricks of the trade, Professor?",
                 "jp": "これまでと何にも変わらないんじゃないの？それとも、何か秘密の戦術でも手ほどきしてくれるの？センセー。",
                 "kr": "지금까지랑 아무것도 바뀌는 게 없잖아. 아니면 뭔가 비밀 전술이라도 가르쳐 주게? 선생님.",
                 "cn": "好像和之前也没什么区别嘛。还是说，老师要教我什么密藏战术了？"
@@ -225,7 +225,7 @@
                 "cn": "精英化晋升2"
             },
             "text": {
-                "en": "Doctor, you aren't testing me, are you? Alright then, I'm just getting in the mood. Okay, starting right now, whatever that happens is going to be our own little secret.",
+                "en": "Doctor, you aren't testing me, are you? Alright then, I'm just getting in the mood. Okay, starting right now, whatever happens is going to be our own little secret.",
                 "jp": "ドクター、わざと僕を試してるの？いいよ、ちょうど僕も気分がノってきたところさ。じゃあ今から何が起きても、二人だけの秘密、ね。",
                 "kr": "박사, 일부러 날 시험하는 거야? 좋아, 나도 마침 흥이 나던 참이었는데. 그럼 지금부턴 무슨 일이 생겨도 둘만의 비밀이다, 알았지?",
                 "cn": "博士，你是故意在试探我吗？好啊，正巧我也有点兴奋起来了。那么，接下来不论发生什么，都是我们之间的秘密哦。"
@@ -257,7 +257,7 @@
                 "cn": "任命队长"
             },
             "text": {
-                "en": "So actual combat for my next assignment? Okay, let me think about the placement...",
+                "en": "So actual combat for my next assignment? Okay, let me think about the deployment...",
                 "jp": "今回は実戦課題？ん……いいけど、ちょっと配置の仕方を考えさせて……",
                 "kr": "이번엔 실전 과제인가? 상관은 없는데, 잠깐 배치 방식 좀 생각해볼게……",
                 "cn": "这次是实战课题？好啊，让我想想该怎么布置......"
@@ -273,7 +273,7 @@
                 "cn": "行动出发"
             },
             "text": {
-                "en": "As long as we achieve our goals, it doesn't matter if the process of getting there is a little rough, huh?",
+                "en": "As long as we achieve our goals, it doesn't matter if the process is a little rough, huh?",
                 "jp": "目標さえ達成できれば、過程は多少めちゃくちゃでも大丈夫だよね？",
                 "kr": "목표만 달성할 수 있으면 과정은 어느 정도 엉망이어도 괜찮지?",
                 "cn": "只要能达成目标，过程乱来点也不要紧吧？"
@@ -289,7 +289,7 @@
                 "cn": "行动开始"
             },
             "text": {
-                "en": "Welcome. I'll be waiting.",
+                "en": "Welcome. I've been waiting.",
                 "jp": "いらっしゃい、待ってるからね。",
                 "kr": "어서 와~ 기다리고 있었으니까.",
                 "cn": "欢迎，我在等各位。"
@@ -433,7 +433,7 @@
                 "cn": "完成高难行动"
             },
             "text": {
-                "en": "That went far better than I expected. I shouldn't have thought so little of you.",
+                "en": "That went far better than I expected. I shouldn't have thought so little of you, Professor.",
                 "jp": "思ってたよりずっと順調だったね。センセーを甘く見てたよ。",
                 "kr": "생각했던 것보다 훨씬 순조로웠네. 선생님을 너무 얕잡아 봤었어.",
                 "cn": "比我预估的情况还要更顺利，还是小看了老师呀。"
@@ -465,7 +465,7 @@
                 "cn": "非3星结束行动"
             },
             "text": {
-                "en": "A few of them slipped past. Should I go after them? Strategically speaking, I don't recommend it.",
+                "en": "A few slipped past. Should I go after them? Strategically speaking, I don't recommend it.",
                 "jp": "何人か逃したけど、追う？戦術としてはおすすめできないけど。",
                 "kr": "몇 명 놓쳤는데, 쫓을까? 전술적으로는 추천할 수 없지만.",
                 "cn": "溜了几个，要追击吗？从战术上来说，我不推荐。"
@@ -481,7 +481,7 @@
                 "cn": "行动失败"
             },
             "text": {
-                "en": "This is quite the bad situation... I shouldn't have to tell you what the appropriate course of action is now, right?",
+                "en": "This is quite the bad situation... You know what the appropriate course of action is now, right?",
                 "jp": "ちょっとまずい状況だね……こんな時にどう動くべきか、僕が言うまでもないよね？",
                 "kr": "좀 곤란한 상황이네…… 이럴 때 어떻게 움직여야 할지는, 내가 말할 것까지도 없겠지?",
                 "cn": "局面不太妙啊......这时候该怎么部署，不用我说吧？"
@@ -553,6 +553,22 @@
             "asset": "char_271_spikes/CN_037"
         },
         {
+            "id": "char_271_spikes_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Professor, I've learned a new trick. You can come closer this time. It's not dangerous. Put this piece of metal on your hand, then just very lightly... Look, it turned into a small firework. How about that? It's just as good as the noisy ones outside, right?",
+                "jp": "老师，我新学会了一个小戏法哦。这次可以离得近一点，没有危险。将一块金属放在手中，然后轻轻地......看，就变成小小的烟花。怎么样，不比外面吵吵闹闹的烟花逊色吧？",
+                "kr": "老师，我新学会了一个小戏法哦。这次可以离得近一点，没有危险。将一块金属放在手中，然后轻轻地......看，就变成小小的烟花。怎么样，不比外面吵吵闹闹的烟花逊色吧？",
+                "cn": "老师，我新学会了一个小戏法哦。这次可以离得近一点，没有危险。将一块金属放在手中，然后轻轻地......看，就变成小小的烟花。怎么样，不比外面吵吵闹闹的烟花逊色吧？"
+            },
+            "asset": "char_271_spikes/CN_038"
+        },
+        {
             "id": "char_271_spikes_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "你看起来好像很困，再睡一会吧，老师。"
             },
             "asset": "char_271_spikes/CN_042"
+        },
+        {
+            "id": "char_271_spikes_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Professor, when you steer Rhodes Island, what do you weigh and consider? Enemies, friends, what we need to do, what we mustn't do... There has to be a line that we cannot cross so that we don't lose ourselves. Am I right? I see...",
+                "jp": "老师，当您在指挥罗德岛前行时，都会有哪些考量呢？敌人，朋友，需要做的，不能做的事......一定要有不能逾越的底线，才能不迷失自己，是这样吗？是这样啊......",
+                "kr": "老师，当您在指挥罗德岛前行时，都会有哪些考量呢？敌人，朋友，需要做的，不能做的事......一定要有不能逾越的底线，才能不迷失自己，是这样吗？是这样啊......",
+                "cn": "老师，当您在指挥罗德岛前行时，都会有哪些考量呢？敌人，朋友，需要做的，不能做的事......一定要有不能逾越的底线，才能不迷失自己，是这样吗？是这样啊......"
+            },
+            "asset": "char_271_spikes/CN_044"
         }
     ],
     "actors": {

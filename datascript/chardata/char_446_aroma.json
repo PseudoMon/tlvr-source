@@ -1,0 +1,628 @@
+{
+    "charid": "char_446_aroma",
+    "nameid": "aroma",
+    "names": {
+        "en": "Aroma",
+        "jp": "アロマ",
+        "kr": "아로마",
+        "cn": "阿罗玛"
+    },
+    "voices": [
+        {
+            "id": "char_446_aroma_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "The neat little circles on that page? I didn't draw them. I wouldn't doodle on your documents.",
+                "jp": "紙に目立つ丸い跡があるの？私じゃないよ。ドクターの書類に落書きするわけないでしょ？",
+                "kr": "종이에 특이한 동그라미가 있다고? 내가 그린 거 아니야. 박사의 서류에 내가 낙서할 리가 없잖아?",
+                "cn": "纸页上别致的小圆圈？不是我画的，我怎么会在你的文件上乱涂乱画呢？"
+            },
+            "asset": "char_446_aroma/CN_001"
+        },
+        {
+            "id": "char_446_aroma_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "W-Wait, Doctor! Don't open that lid! That's a device I use to make bubbles... Sorry, I'm not laughing at you for getting all bubbled up. I-I just like seeing a bunch of bubbles together! Really! I'm not lying!",
+                "jp": "ドクター、ちょ、待ってその蓋開けちゃだめ！それ泡を作るのに使うやつで……ぷっ、ち、違うよ！ドクターが全身泡だらけなのを笑ったわけじゃなくて、ただ細かい泡が集まってもこもこしてるのが好きなだけなの！本当だよ、嘘ついたりしないもん！",
+                "kr": "박사, 잠, 잠깐! 그 뚜껑 열면 안 돼! 그건 거품 만들 때 쓰는 거…… 풉, 아, 아니, 박사가 거품 뒤집어써서 웃은 게 아니야. 그냥 난 폭신한 거품이 한데 뭉쳐 있는 걸 좋아하는 것뿐이라고! 진짜야, 거짓말 아니라니까!",
+                "cn": "博士，稍、稍等，不要打开那个盖子！那、那是我用来起泡的装置......噗，没、没有！我不是笑你被泡沫裹得满身都是，我、我就是喜欢看绵密的泡泡堆在一起！真的，不骗你！"
+            },
+            "asset": "char_446_aroma/CN_002"
+        },
+        {
+            "id": "char_446_aroma_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Sorry, Doctor. I didn't have the detergent-to-aroma formula under control. Um… I made some changes to it, and the aroma might linger in your nose for a very, very long time. You might smell it every now and then for the next two weeks...",
+                "jp": "ごめんね、ドクター。私が洗剤に入れる芳香剤の割合を上手く調整できなかったのがいけないんだ。実はその、この前レシピをリメイクしたんだけど、香りがずっとずっと鼻の奥に残っちゃう感じになっててね、もしかしたらここから半月くらいは、時々匂いを感じるかも……",
+                "kr": "미안, 박사. 내가 세제에 넣는 방향제 비율을 잘못 맞췄어…… 그, 사실은 저번에 세제 제조법을 바꿨는데, 향기가 상당히 오래 남는달까. 아마 보름 정도는 시도 때도 없이 이 향기를 맡게 될 수도 있어……",
+                "cn": "不好意思，博士，是我没有控制好清洗剂的香氛配比。那个，之前我重制了配方，香味会在鼻子里残留很久很久，有可能接下来半个月，你都时不时会闻到它......"
+            },
+            "asset": "char_446_aroma/CN_003"
+        },
+        {
+            "id": "char_446_aroma_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "I put on a bubble show for the young patients at Medical today. What kind of show? It's like this... There’s a big, big, big bubble with a big, big bubble inside. And then the big, big bubble’s got a big bubble. And Bubble’s inside the big bubble. Oh, that last one is my partner, Bubble, not a normal bubble.",
+                "jp": "今日ね、医療部の小さい患者さんたちにシャボン玉ショーを見せたんだ。どんなショーか気になるの？えっとね……大大大バブルの中に、大大バブル、そのまた中に大バブルっていう層になってて、一番真ん中に普通のバブルが入ってるの。あっ、最後のはシャボン玉じゃないからね。私の相棒のバブルちゃんだよ。",
+                "kr": "오늘 의료부의 어린 환자들에게 버블 쇼를 보여줬어. 무슨 쇼였는지 궁금하다고? 어떤 거냐면…… 엄청엄청엄청 큰 버블 안에 엄청엄청 큰 버블을 넣고, 그 엄청엄청 큰 버블 안에 또 엄청 큰 버블을 넣은 다음, 마지막엔 그 엄청 큰 버블 속에 버블을 넣는 거야. 아, 마지막 그 버블은 평범한 비눗방울이 아니라 내 단짝 '버블'이야.",
+                "cn": "我今天去给医疗部的小病患表演泡泡秀了。你问我是什么样的表演？是这样......大大大泡泡套大大泡泡，大大泡泡套大泡泡，大泡泡套泡泡。哦，最后那个不是普通泡泡，是我的搭档泡泡。"
+            },
+            "asset": "char_446_aroma/CN_004"
+        },
+        {
+            "id": "char_446_aroma_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Doctor, my family's formulators aren't quite like the others in our industry. Our peers try to create aromas that remind users of a certain beautiful moment in their memories. But my family, we work to suppress the worst, most terrible smells in their memories.",
+                "jp": "ドクター、うちの調合師は他の同業とは違っててね。よそは香りで人の記憶の中で一番いい瞬間を思い出させるのが目的なんだけど、うちは……うちは、一番ひどくて、忘れられない記憶を覆い隠すために調合してるの。",
+                "kr": "박사, 우리 집안의 조향사는 다른 조향사와는 조금 달라. 다른 조향사들은 누군가의 기억 속에 존재하는 가장 아름다운 순간을 떠올리게 하는 게 목적이지만, 우리는…… 누군가의 기억 속에 존재하는 가장 끔찍하고 잊고 싶은 기억을 덮기 위해서 향을 만들고 있어.",
+                "cn": "博士，我们家族里的配方师和其他同行不太一样，同行调配香味往往是为了复刻出人们记忆中的某个美好瞬间，但我们......我们是为了掩盖人们脑海中最糟糕的、最想忘却的味道。"
+            },
+            "asset": "char_446_aroma/CN_005"
+        },
+        {
+            "id": "char_446_aroma_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "All this time, I've thought that aromas by themselves couldn’t eradicate stenches. The most important thing is to open the windows and let the foul air out. Otherwise, the aroma and stench blend together, and that would just be a different, disgusting smell.",
+                "jp": "ちょっとやそっとのいい香りだけじゃ嫌な臭いを全部消すのは無理だってずっと思ってるんだ。一番大事なのは窓を開けて、臭い自体を遠くにやっちゃうことだよ。じゃないと、いい香りと嫌な臭いが混じって、もっと気持ち悪い臭いになるだけだもん。",
+                "kr": "전부터 쭉 생각해왔던 건데, 좋은 향기만으로는 모든 악취를 없앨 수 없어. 제일 중요한 건 창문을 열고 악취 자체를 멀리 날려 보내야 해. 안 그러면 좋은 향과 악취가 한데 뒤섞여서 더 끔찍한 냄새가 날 뿐이거든.",
+                "cn": "一直以来，我都认为，一味用香气掩盖是不足以消除异味的，最重要的还是得打开窗子，让气味飘远，不然香味与臭味混杂在一起，只会是另外一种令人恶心的味道。"
+            },
+            "asset": "char_446_aroma/CN_006"
+        },
+        {
+            "id": "char_446_aroma_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "I'm cleaning the room right now, and you came at just the right time, Doctor. Would you help me wipe the light tubes up top? They're a bit too high, and I can't reach them, even on a ladder. Yeah, there's a small black spot just a little to the left... Ah! W-Why is that black spot flying?!",
+                "jp": "部屋の掃除をしてるとこなんだけど、ドクターちょうどよかった。一番上のライトを拭くの手伝ってくれる？ちょっと高すぎて、私だと台を使っても届かないんだよ。そうそう、そこからちょっと左の方、黒い汚れがあって……わっ！よ、汚れが、飛んだ！？",
+                "kr": "마침 잘 왔어, 박사. 방 청소 중이었거든. 저~기 맨 위에 조명 말이야, 닦는 거 좀 도와줄래? 얼마나 높은지 사다리 위에 올라갔는데도 손이 안 닿더라고. 맞아 맞아, 거기서 조금 더 왼쪽, 거기 보면 검은 얼룩이 있는데…… 앗! 어, 얼룩이 날아가 버렸잖아!",
+                "cn": "我正在打扫房间，博士你来得正好，可以帮我擦一下最顶上的灯管吗？有点高了，我就算踩着梯子也够不到。对，往左边一点点，有块小小的黑斑......啊！那块黑斑它、它怎么突然飞起来了！"
+            },
+            "asset": "char_446_aroma/CN_007"
+        },
+        {
+            "id": "char_446_aroma_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Doctor, I brought some shampoo my family made onto the landship. It's from a small workshop, but we source all the essential oils we use from plants in nature. Like this lemon-scented one. We used lemons taken from my family's backyard, where my grandmother planted a lemon tree the year I was born.",
+                "jp": "ドクター、うちで作ったシャンプーをロドスに持ってきたよ。小さな工房の商品だけど、中に入ってる精油は全部天然の植物由来なんだよ。例えばこのレモンフレーバーのやつ、材料で使ったレモンは、私が生まれた年におばあちゃんが家の裏庭に植えた樹から採ってるんだ。",
+                "kr": "박사, 우리 집에서 만든 샴푸를 좀 가져왔어. 작은 공방에서 만든 샴푸지만, 여기에 들어간 재료는 모두 천연 식물에서 추출한 오일이야. 여기 이 레몬 향은, 내가 태어난 해에 할머니가 집 뒷마당에 심은 레몬 나무에서 따온 레몬을 사용해 만든 거야.",
+                "cn": "博士，我带了一些家里制作的香波来舰上，虽然是小作坊生产的，但里面添加的精油都萃取自天然的植物，就像这款柠檬味的，它的原料就产自我家后院，一棵我出生那年祖母亲手栽下的柠檬树。"
+            },
+            "asset": "char_446_aroma/CN_008"
+        },
+        {
+            "id": "char_446_aroma_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "There was a chaotic time where murders were a daily occurrence in Siracusa, and my family served as 'cleaners' charged with clearing out the aftermath. We left that line of work a long time ago, but every now and then, we still remember the thick stench of blood that seemed to overpower everything else.",
+                "jp": "昔、シラクーザでほぼ毎日凶悪事件が起きてたやばい時期があって、うちは現場の掃除を専門にする「始末屋」だったんだよね。その稼業をやめてからずいぶん経つけど、今でもあのすっごく濃くて、何もかも塗りつぶすみたいな血の臭いをたまに思い出しちゃうんだ。",
+                "kr": "예전에 시라쿠사에 매일같이 강력 범죄가 일어나던 시기가 있었거든? 그때 우리 가족은 전문적으로 그런 현장 뒤처리를 하는 '청소부'였어. 그 일을 그만둔 지는 꽤 오래됐는데. 이상하지, 아직도 가끔 그때의 역한 피비린내가 떠오르곤 해.",
+                "cn": "有段混乱的时日，叙拉古几乎每天都有凶案发生，而我的家族便是专门负责清扫现场的“收尾人”。现在我们已经离开那个行当很久了，但偶尔还是会回忆起那股浓郁的，几乎掩盖一切的血腥味。"
+            },
+            "asset": "char_446_aroma/CN_009"
+        },
+        {
+            "id": "char_446_aroma_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Oh no. A bubble floated into the room and landed on the Doctor's nose... If somebody goes in there and thinks the Doctor's got a snot bubble, that wouldn't be good…",
+                "jp": "どうしよ、泡が部屋に飛んでいって、ドクターの鼻にくっついちゃった……もし誰かが部屋に入って、ドクターが昼寝で洟提灯を膨らませてるとか思ったら、まずいよね……？",
+                "kr": "어떡하지, 버블이 방으로 날아 들어가 박사 코끝에 붙어버렸어…… 만약 누가 그걸 보고 낮잠 자는 박사의 콧물 방울이라고 생각한다면…… 큰일인데……",
+                "cn": "糟了，泡泡飘进屋子，落在了博士的鼻尖上......万一有人进去，误以为博士睡出了鼻涕泡，是不是不太好啊......？"
+            },
+            "asset": "char_446_aroma/CN_010"
+        },
+        {
+            "id": "char_446_aroma_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Hello, Doctor. I'm Logistics Operator Aroma. Would you open your hands like this? Don’t worry... I just thought that with how nice and bright the sun is today, it would be perfect to put a bubble reflecting a rainbow onto your palm.",
+                "jp": "ドクター、こんにちは。後方支援オペレーターのアロマだよ。あのね、手をこんな風に広げてみて？いや……すごく良い天気だから、ドクターの手のひらに虹が映るシャボン玉を乗せたら綺麗だろうなって思って。",
+                "kr": "박사, 안녕. 후방지원 오퍼레이터 아로마라고 해. 저기, 혹시 이렇게 손바닥 한번 펼쳐 줄 수 있어? 별건 아니고…… 오늘 날이 너무 좋기도 하고, 박사의 손에 무지개 빛깔 버블을 올리면 예쁘겠다는 생각이 들어서.",
+                "cn": "博士，你好，我是后勤干员阿罗玛，那个，请像这样把手摊开好吗？没什么......只是觉得今天阳光很好，很适合在你手心放一个能映出彩虹的泡泡。"
+            },
+            "asset": "char_446_aroma/CN_011"
+        },
+        {
+            "id": "char_446_aroma_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "This will make a very useful reference. I never knew detergent could be used like that.",
+                "jp": "すごく参考になるなぁ。洗浄液がこんなところでも使い道があるなんて。",
+                "kr": "참고 많이 됐어. 세정액이 이런 곳에서도 쓰일 수 있다니.",
+                "cn": "很有参考意义，想不到清洁液在这个领域也能有妙用。"
+            },
+            "asset": "char_446_aroma/CN_012"
+        },
+        {
+            "id": "char_446_aroma_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Doctor, I will pass on your encouragement and feedback to my family. I'm pleased that you like our products so much.",
+                "jp": "ドクターの使用した感想と応援の声は全部持ち帰って家族に伝えるよ。うちの商品を気に入ってくれてありがと。",
+                "kr": "박사의 사용 후기와 응원은 내가 가족에게 전달할게. 우리 제품을 좋아해 줘서 고마워.",
+                "cn": "博士的鼓励与反馈我都会带给家里人，很开心你能欣赏我们的产品。"
+            },
+            "asset": "char_446_aroma/CN_013"
+        },
+        {
+            "id": "char_446_aroma_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Doctor, I'm humbled that my family's products are so well-liked by the operators here... Huh...? A manufacturing cooperation with Rhodes Island? Can we really?",
+                "jp": "ドクター、うちの商品がみんなに好評ですごく嬉しいよ……え……ロドスと共同生産？ほ、ほんとうにいいの？",
+                "kr": "박사, 우리 제품이 이렇게 많은 오퍼레이터들에게 호평을 받을 줄이야, 너무 기뻐…… 응? 로도스 아일랜드랑 공동 생산? 저, 정말 괜찮겠어?",
+                "cn": "博士，很荣幸我们家的产品能被各位干员喜欢......什么......与罗德岛合作生产？真、真的吗？"
+            },
+            "asset": "char_446_aroma/CN_014"
+        },
+        {
+            "id": "char_446_aroma_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "How convenient. I want to test out my new bubbling formula.",
+                "jp": "ちょうどよかった、新しい泡用薬液のレシピを試したかったの。",
+                "kr": "마침 잘 됐다. 새로운 거품용액 레시피를 테스트해 보고 싶었거든.",
+                "cn": "正好，我也想测试一下新的起泡配方。"
+            },
+            "asset": "char_446_aroma/CN_017"
+        },
+        {
+            "id": "char_446_aroma_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Remember to cover your noses. The aroma this time might be a little intense. Don't let the smell get you sneezing.",
+                "jp": "ちゃんと鼻を塞いでおいてね。今回の匂いは刺激があるかもしれないから、むせたらくしゃみが止まらなくなるよ。",
+                "kr": "이 향은 조금 자극적일 수도 있으니까, 코 잘 막고 있어. 잘못 맡으면 계속 재채기 날 거야.",
+                "cn": "记得捂好鼻子，这次的香味可能有些刺激性，可不要被呛个喷嚏连连。"
+            },
+            "asset": "char_446_aroma/CN_018"
+        },
+        {
+            "id": "char_446_aroma_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "I put a sign here— Wet floor. Be extra careful.",
+                "jp": "ここに立て看板を置いとくね――足元注意。滑りやすくなってます。",
+                "kr": "여기에 표지판 하나 세워 둘게. 바닥이 미끄러우니 조심하세요.",
+                "cn": "我在这里安设了标牌——小心地滑，千万要注意。"
+            },
+            "asset": "char_446_aroma/CN_019"
+        },
+        {
+            "id": "char_446_aroma_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "The smell here reminds me of something really scary.",
+                "jp": "ここの匂い、すごく怖いことを思い出しちゃうな。",
+                "kr": "여기 냄새를 맡으니까, 그때 무서웠던 기억이 다시 떠오르네.",
+                "cn": "这里的气味让我回忆起了一些很可怕的事情。"
+            },
+            "asset": "char_446_aroma/CN_020"
+        },
+        {
+            "id": "char_446_aroma_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Detergent formula tuning complete!",
+                "jp": "洗浄剤レシピの調整オッケー！",
+                "kr": "세정제 레시피 조정 완료!",
+                "cn": "洗剂配方调整完毕！"
+            },
+            "asset": "char_446_aroma/CN_021"
+        },
+        {
+            "id": "char_446_aroma_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Bubbling equipment ready to go!",
+                "jp": "泡発生器の配置完了！",
+                "kr": "거품 발생기 배치 완료!",
+                "cn": "起泡工具配备完成！"
+            },
+            "asset": "char_446_aroma/CN_022"
+        },
+        {
+            "id": "char_446_aroma_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "These bubbles won't burst so easily.",
+                "jp": "ちょっとやそっと突いたくらいじゃこの泡は消えないよ。",
+                "kr": "그렇게 살짝살짝 찌르는 정도로는 이 버블을 사라지게 할 수 없을걸.",
+                "cn": "这些泡泡可不是那么轻易就能戳破的。"
+            },
+            "asset": "char_446_aroma/CN_023"
+        },
+        {
+            "id": "char_446_aroma_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Remember to give your honest feedback on our products.",
+                "jp": "使ってみた感想を後で教えてね。",
+                "kr": "나중에 사용 후기 들려줘.",
+                "cn": "记得给我反馈使用感受哦。"
+            },
+            "asset": "char_446_aroma/CN_024"
+        },
+        {
+            "id": "char_446_aroma_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Bubble richness, up to standard!",
+                "jp": "泡の発生量、合格！",
+                "kr": "거품 발생량, 합격!",
+                "cn": "泡沫丰富程度，达标！"
+            },
+            "asset": "char_446_aroma/CN_025"
+        },
+        {
+            "id": "char_446_aroma_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Bubble dissipation speed, perfect!",
+                "jp": "泡の消える速度、良好！",
+                "kr": "거품 소멸 속도, 양호!",
+                "cn": "泡沫消失速度，良好！"
+            },
+            "asset": "char_446_aroma/CN_026"
+        },
+        {
+            "id": "char_446_aroma_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Bubble expanding power, excellent!",
+                "jp": "泡の展延性、優秀！",
+                "kr": "거품 신축성, 우수!",
+                "cn": "泡泡延展能力，优秀！"
+            },
+            "asset": "char_446_aroma/CN_027"
+        },
+        {
+            "id": "char_446_aroma_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Stain removal efficiency, impeccable!",
+                "jp": "汚れ除去の効率、完璧！",
+                "kr": "오염 제거 효율, 완벽!",
+                "cn": "污渍去除效率，完美！"
+            },
+            "asset": "char_446_aroma/CN_028"
+        },
+        {
+            "id": "char_446_aroma_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Hm... smells a lot more refreshing now.",
+                "jp": "うん……匂い的に空気が、かなり綺麗になったね。",
+                "kr": "으음…… 냄새를 맡아 보니까, 공기가 꽤 맑아진 것 같아.",
+                "cn": "嗯......闻起来这里的味道清新了不少。"
+            },
+            "asset": "char_446_aroma/CN_029"
+        },
+        {
+            "id": "char_446_aroma_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "I like this new ingredient. It's effective, and it doesn't harm your skin.",
+                "jp": "この新しい成分はいい感じだね。効果もあるし、肌にも優しいし。",
+                "kr": "이 새로운 성분 좋은데? 효과도 좋고 피부도 안 상해!",
+                "cn": "我喜欢这个新成分，有效还不会伤皮肤。"
+            },
+            "asset": "char_446_aroma/CN_030"
+        },
+        {
+            "id": "char_446_aroma_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Looks like we'll need a stronger stain removing formula next time.",
+                "jp": "次はもっと強力な汚れ落としのレシピが必要だね。",
+                "kr": "다음에는 좀 더 강력한 얼룩 제거 레시피가 필요하겠어.",
+                "cn": "看来下次需要更强劲的净污配方。"
+            },
+            "asset": "char_446_aroma/CN_031"
+        },
+        {
+            "id": "char_446_aroma_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "What a stubborn stain...",
+                "jp": "本当に頑固な汚れだね……",
+                "kr": "정말 지우기 까다로운 얼룩이잖아……",
+                "cn": "真是顽渍一块......"
+            },
+            "asset": "char_446_aroma/CN_032"
+        },
+        {
+            "id": "char_446_aroma_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Doctor, n-no, I know it's polite to look at the person you're talking to... I-I'm not looking out the window. It's just... the water stains on the glass are making me really uncomfortable. I really want to wipe it.",
+                "jp": "ドクター、ち、違うよ。話す時は相手の方を見るのがマナーなのは分かってるし……窓の外の景色を見てたわけでもないんだ。ただ、ガラスの上に水垢があるのに気がついて……見てるだけじゃ気持ち悪くて、綺麗にしたかったの。",
+                "kr": "박사, 그, 그게 아니라. 나도 대화할 땐 상대방을 보는 게 예의라는 건 알고 있지만…… 그, 창밖의 경치를 보고 있던 것도 아니야. 그냥 창문 유리 위에 물때가 있는 걸 보니까…… 계속 신경 쓰여서. 이걸 빨리 닦아버리고 싶었을 뿐이야.",
+                "cn": "博士，不、不是，我知道讲话时看着对方比较有礼貌......我、我也不是在看窗外的风景，只是玻璃上有块水渍，看得我心里很难受，很想去把它擦干净。"
+            },
+            "asset": "char_446_aroma/CN_033"
+        },
+        {
+            "id": "char_446_aroma_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Ah! Please don't do that. I almost splashed some of the soap I'm holding on you. ",
+                "jp": "わっ、やめて。持ってる洗浄液をドクターにかけちゃうとこだったよ。",
+                "kr": "앗, 하지 마. 세정액을 박사한테 쏟아 버릴 뻔했잖아.",
+                "cn": "唔，请不要这样，差点就要把手里的洗液洒在你身上了。"
+            },
+            "asset": "char_446_aroma/CN_034"
+        },
+        {
+            "id": "char_446_aroma_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Watch out, Doctor! There's soapy water all over the floor. You could slip if you aren't careful.",
+                "jp": "気を付けてね、ドクター！床が洗剤だらけだから、滑って転んじゃうかも。",
+                "kr": "조심해, 박사! 바닥이 세제투성이라서 미끄러질 수도 있어.",
+                "cn": "小心，博士！地上都是肥皂水，你可能会滑倒。"
+            },
+            "asset": "char_446_aroma/CN_036"
+        },
+        {
+            "id": "char_446_aroma_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_446_aroma/CN_037"
+        },
+        {
+            "id": "char_446_aroma_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "The New Year calls for new vibes, Doctor, so I put a small plant on your windowsill. I collected a bunch of lemon seeds from my family's kitchen and planted them. This is the one that grew the best.",
+                "jp": "新しい年には、変化がないとね。ドクターの部屋の窓辺に小さい鉢植えを置いておいたよ。家の台所でたくさんレモンの種を集めて、苗になるまで育てた中で、一番元気な一株なんだ。",
+                "kr": "새로운 한 해에는 새로운 변화가 있어야지. 내가 박사 방 창가에 작은 화분을 놔뒀는데 이따가 가서 봐봐. 우리 집 부엌에 있는 레몬 씨앗들을 잔뜩 가져와서 모종이 될 때까지 키웠는데, 박사한테 준 건 그중에서도 가장 잘 자란 녀석이야.",
+                "cn": "新年要有新气象，我在博士窗台上放了一株小盆栽。我从家里的厨房收集了很多柠檬籽，都拿来培育成苗了，这是里面长势最好的一株。"
+            },
+            "asset": "char_446_aroma/CN_038"
+        },
+        {
+            "id": "char_446_aroma_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "You should go take a walk, Doctor. It's not good to stay in your office all day.",
+                "jp": "ドクター、ちょっと外に行って散歩でもしようよ。ずっと執務室に閉じこもってないでさ。",
+                "kr": "박사, 우리 잠깐 나가서 산책하고 오자, 계속 그렇게 사무실에 틀어박혀 있으면 안 좋아.",
+                "cn": "快出去走一走，别一直待在办公室里。"
+            },
+            "asset": "char_446_aroma/CN_042"
+        },
+        {
+            "id": "char_446_aroma_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Every time a patient at Medical passes away, the clothing they wore gets sent to me to be washed and stored until their family comes to retrieve it one day. Some are picked up soon after, but others... still haven't been picked up even after a long, long time.",
+                "jp": "医療部で患者さんが亡くなると、着てた服は全部私のところに送られてきて、洗った後に遺族の人に渡すまで保管するの。すぐに引き取られる服もあるけど……ずっと誰も取りに来ないものもあるんだ。",
+                "kr": "환자가 사망하면, 의료부에선 환자가 생전에 입었던 옷들을 전부 나한테 보내와. 그럼 난 그걸 깨끗하게 세탁해서 보관해두지. 유족들이 금방 가져가는 경우도 있지만, 일부는…… 아무리 오래 기다려도 끝끝내 아무도 찾으러 오지 않곤 해.",
+                "cn": "每当医疗部有病患离世，他们生前穿过的衣物都会送到我这里洗净存放，等待某天亲属前来认领，有些衣服很快就被领走了，但有些......等了很久都没人来领。"
+            },
+            "asset": "char_446_aroma/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Laura Cherubelli",
+            "global": "Laura Cherubelli"
+        },
+        "cn": {
+            "native": "橙璃",
+            "global": "Li Cheng"
+        },
+        "jp": {
+            "native": "深町季生",
+            "global": "Kio Fukamachi"
+        },
+        "kr": {
+            "native": "양유진",
+            "global": "Yang Eu-gene"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

@@ -553,6 +553,22 @@
             "asset": "char_1026_gvial2/CN_037"
         },
         {
+            "id": "char_1026_gvial2_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Happy New Year to you, Doctor. Oh yeah, you heard, right? Me and Zumama are gonna prep an Acahualla-style New Year's feast. We've done it your way, I think it's about time you saw how we Tiacauh do a festival. You're gonna come, right?",
+                "jp": "ドクター、あけましておめでとう。そうだ、ズゥママたちとアカフラ式の年越しパーティーをやるつもりなんだけど、お前も聞いてるよな？いつもお前らが主催してばっかだから、そろそろティアカウのお祭りも見せてやらねぇとな。もちろん来てくれるよな、ドクター？",
+                "kr": "새해 복 많이 받아, 박사. 아, 너도 들었지? 나랑 주마마네 녀석들이랑 아카후알라식 송년 파티를 열기로 했어. 너희의 송년 파티를 보여 줬으니, 우리도 티아카우에서는 어떻게 축제를 여는지 보여 줘야겠지. 너도 올 거지?",
+                "cn": "新年快乐啊，博士。对了，你听说了吧？我和祖玛玛她们打算筹办一场阿卡胡拉式的跨年宴会，总是看你们办宴会，也该让你们看看我们提亚卡乌是怎么举办祭典的。你会来的，对吧？"
+            },
+            "asset": "char_1026_gvial2/CN_038"
+        },
+        {
             "id": "char_1026_gvial2_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "博士！......哦，不好意思，没把你撞疼吧？"
             },
             "asset": "char_1026_gvial2/CN_042"
+        },
+        {
+            "id": "char_1026_gvial2_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "We don't need to exchange any sappy words here, do we, Doctor? I'm Gavial, the medic-slash-warrior of Rhodes Island. Where there's people with Oripathy, I'm there. It's that simple, isn't it?",
+                "jp": "ドクター、アタシたちの仲だし、臭いセリフなんていらないよな？アタシはロドスの医者で戦士のガヴィル。鉱石病患者がいるところにアタシあり。な、簡単な話だろ？",
+                "kr": "박사, 우리 사이에 오글거리는 말을 할 필요는 없겠지? 난 로도스 아일랜드의 의사 겸 전사인 가비알. 광석병 환자가 있는 곳엔 내가 있다. 뭐, 간단하지?",
+                "cn": "博士，我们之间就不用说什么肉麻的话了吧？我是罗德岛的医生兼战士，嘉维尔。哪里有矿石病人，哪里就有我。就这么简单，不是吗？"
+            },
+            "asset": "char_1026_gvial2/CN_044"
         }
     ],
     "actors": {

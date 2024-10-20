@@ -553,6 +553,22 @@
             "asset": "char_4114_harold/CN_037"
         },
         {
+            "id": "char_4114_harold_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Goodness, how saintly is our Doctor that you would worry I be devoid of companionship, let alone ask after me? Hah-hah-hah, but a Happy New Year. Yes, lest I forget, my family chances to trip to Rhodes Island in a couple of days, and I'd be remiss to not personally invite you to our household dinner.",
+                "jp": "やや、我らがドクターはお人がいい。老人が独りで寂しい思いをしていないか心配して、わざわざ顔を見に来てくださったのですね。ハハハ、無事に新年を迎えられて嬉しいですな。そうだ、あと何日もすれば家族がロドスを訪ねますが、その際には我が家の晩餐会にもぜひ顔を出してくださいませ。",
+                "kr": "이런, 박사님은 참으로 따뜻한 분이시군요. 제가 행여나 홀로 쓸쓸해할까 이렇게 굳이 찾아와서 안부를 물으시고. 하하하, 새해 복 많이 받으십시오. 그렇지, 며칠 뒤에 제 가족들이 로도스 아일랜드에 방문할 예정인데, 그때 가족 식사에 한번 초대드리지요. 박사님께서 참석해 주신다면 더할 나위 없는 영광일 겁니다.",
+                "cn": "哎呀，我们的博士还是心善，担心我一个人孤苦无依，特意来问候我一下。哈哈哈，新年快乐。对了，过几天，我的家人会来一趟罗德岛，到时可要请您赏脸参加我的家庭晚宴。"
+            },
+            "asset": "char_4114_harold/CN_038"
+        },
+        {
             "id": "char_4114_harold_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "博士，能见到您，看来今天一定是晴天。"
             },
             "asset": "char_4114_harold/CN_042"
+        },
+        {
+            "id": "char_4114_harold_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Being of two different stations, some things I can't tell you, nor could you I. But there is one point we needn't doubt—we both are fed up with war. I imagine that's more than enough reason we might sit down together, open and honest, and share a drink.",
+                "jp": "立場というものがありますから、口に出せないことは互いにありましょう。ただ、一つ確かなこととして、我々には戦争を忌み嫌っているという共通点があります。この事実だけでも、席を共にし、腹を割って杯を酌み交わすには十分でしょう。",
+                "kr": "저희는 입장이 다르기에, 서로 꺼낼 수 없는 이야기가 있지요. 하지만 이것 하나는 확실합니다…… 저희 모두 전쟁을 싫어한다는 것. 그것만으로도 함께 속을 터놓고 한잔하기엔 충분할 것 같군요.",
+                "cn": "我们的立场不同，有些话，我不能说，您也不能说。但有一点毋庸置疑——我们都讨厌战争。我想，这样就足够让我们坐在一起，毫无芥蒂地喝上一杯了。"
+            },
+            "asset": "char_4114_harold/CN_044"
         }
     ],
     "actors": {

@@ -35,7 +35,7 @@
             "text": {
                 "en": "Being a Messenger isn't easy. Both the sender and the receiver might have some big ideas, and who knows if some shady secrets get inside your bag. If you're too absorbed in getting yourself moving, you could still end up in a pit for what you get yourself into.",
                 "jp": "トランスポーターの仕事、そんなにお気楽ってわけじゃないんだ。荷物を送る側にも受け取る側にもそれぞれの算段があるし、その中にはとんでもない秘密が隠されてるかもしれない……。目の前の道にこだわりすぎると、目的地を見失ってしまうこともあるんだ。",
-                "kr": "전달자 업무는 그렇게 쉬운 일이 아니야. 물건을 보내는 쪽도 받는 쪽도 각자 다른 속셈을 갖고 있어. 그 안에는 어쩌면 무서운 비밀이 숨어있을지도 모르고… 눈앞에 있는 길에만 신경 쓰면 목적지를 놓치게 되는 경우도 있지.",
+                "kr": "전달자 업무는 그렇게 쉬운 일이 아니야. 물건을 보내는 쪽도 받는 쪽도 각자 다른 속셈을 갖고 있어. 그 안에는 어쩌면 무서운 비밀이 숨어있을지도 모르고…… 눈앞에 있는 길에만 신경 쓰면 목적지를 놓치게 되는 경우도 있지.",
                 "cn": "信使的工作并不轻松。送件人和收件人可能都有着自己的野心，包裹里也许埋藏着惊人的秘密......如果信使光盯着脚下的路，是会因为看不见落脚点而坠落的。"
             },
             "asset": "char_291_aglina/CN_002"
@@ -83,7 +83,7 @@
             "text": {
                 "en": "I actually don't know if I'm a good fit for Rhodes Island... I mean, a lot of really heavy stuff happens here, I'm not sure I can handle it. Croissant's always comforting me, but I am still not sure about myself. Do I really have what it takes?",
                 "jp": "本当は自分みたいなのがロドスにいていいのかわからない……あたしにはやっぱりいろいろ荷が重すぎるっていうか。クロワッサンはいつも励ましてくれるけど、あたしなんかが責任を背負えるか不安だよ……。",
-                "kr": "사실 나 같은 게 로도스 아일랜드에 있어도 되는 건지 모르겠어… 나한텐 역시, 여러모로 짐이 무겁다고나 할까… 크루아상은 늘 날 격려해주고 있지만, 나 같은 게 책임을 감당할 수 있을지… 불안해.",
+                "kr": "사실 나 같은 게 로도스 아일랜드에 있어도 되는 건지 모르겠어…… 나한텐 역시, 여러모로 짐이 무겁다고나 할까…… 크루아상은 늘 날 격려해주고 있지만, 나 같은 게 책임을 감당할 수 있을지…… 불안해.",
                 "cn": "其实我不知道自己是否适合罗德岛......毕竟对我来说，很多事还是太沉重了。可颂安慰过我之后，我也依然在怀疑，我真的能承担这样的责任吗？"
             },
             "asset": "char_291_aglina/CN_005"
@@ -99,7 +99,7 @@
             "text": {
                 "en": "I don't feel lost anymore. At the end of the day, it's more than a simple identification with you or Rhodes Island. If I can leap across the gaps between skyscrapers as a Messenger, then I know I could  bridge the gap between the Infected and Uninfected as an Operator!",
                 "jp": "もう迷ったりはしない。そう、ロドスとドクターを認めたというより、気持ちの問題だね。トランスポーターとしてビルのすきまを飛び越えて荷物を運ぶように、ロドスのオペレーターとして、感染者と普通の人との溝も越えなきゃいけないと思ったんだ。",
-                "kr": "더는 망설이지 않겠어. 그래, 로도스 아일랜드와 너를 인정했다기보단, 이건 기분의 문제라고 봐. 전달자 일을 할 때 빌딩 사이를 뛰어넘으면서 물건을 옮기는 것처럼, 로도스 아일랜드의 오퍼레이터로서… 감염자와 보통 사람 사이의 골짜기도 뛰어넘어야겠단 생각이 들었거든.",
+                "kr": "더는 망설이지 않겠어. 그래, 로도스 아일랜드와 너를 인정했다기보단, 이건 기분의 문제라고 봐. 전달자 일을 할 때 빌딩 사이를 뛰어넘으면서 물건을 옮기는 것처럼, 로도스 아일랜드의 오퍼레이터로서…… 감염자와 보통 사람 사이의 골짜기도 뛰어넘어야겠단 생각이 들었거든.",
                 "cn": "我不会再迷惘了。嗯，与其说我认同了罗德岛和{@nickname}你，不如说——作为信使，我已经能飞越大楼的间隙，而作为罗德岛干员的我，也要能跨过感染者和普通人之间的沟壑才行！"
             },
             "asset": "char_291_aglina/CN_006"
@@ -131,7 +131,7 @@
             "text": {
                 "en": "Dr. {@nickname}, don't be shy, come closer! That's right! Three, two, one, sorridi! See? It's a photo sticker of you and me. The perfect souvenir, right? I guess it's also a token of… some of my feelings, haha.",
                 "jp": "ドクター、恥ずかしがらずにもっと近づいて！せーの、はい、Sorridi～！よし、ドクターとのツーショット！ふふ、これは記念だよ。まぁ、ちょっとした願いも……込めてるからね。",
-                "kr": "{@nickname}, 부끄러워하지 말고 더 가까이 와! 하나 둘, 자, 소리디~! 좋아, 나랑 {@nickname}의 투샷 사진! 후후, 이건 기념으로 갖고 있어. 뭐… 내 바람도 약간… 담겨있으니까.",
+                "kr": "{@nickname}, 부끄러워하지 말고 더 가까이 와! 하나 둘, 자, 소리디~! 좋아, 나랑 {@nickname}의 투샷 사진! 후후, 이건 기념으로 갖고 있어. 뭐…… 내 바람도 약간…… 담겨있으니까.",
                 "cn": "{@nickname}，别害羞，再靠近点！对对，sorridi~！看，是我和{@nickname}的大头贴哦~哼哼，就当做是纪念品吧。当然，这上面确实也有我的......一点点寄托呢。"
             },
             "asset": "char_291_aglina/CN_008"
@@ -147,7 +147,7 @@
             "text": {
                 "en": "The view from the deck is great. Especially for stargazing! See that lone star over there? People say that one day, its companion star will appear, and then they'll embrace and dance together. Still... how long does it have to wait for the other one to show up? And how long do I have to wait... for the star to wink back at me?",
                 "jp": "見晴らしのいいデッキだと星空がよく見えるね。あのポツンと光ってる星、見える？言い伝えだと、あの星はいつかパートナーになる星を見つけて、抱き合ったり、ダンスしたりするんだって。……でも、いつまで待てばいいのかな？あたしも…いつまで待てば、星が……あたしの気持ちに気づいてくれるのかな？",
-                "kr": "전망이 좋은 갑판 위는 하늘의 별이 잘 보여. 저 반짝하고 빛나는 별, 보여? 전설에 따르면, 저 별은 언젠가 파트너가 되는 별을 찾아서, 그 별과 끌어안고 춤을 추고 그런대… 그래도, 언제까지 기다리면 되는 걸까? 나도… 언제까지 기다리면, 별이… 내 마음을 알아차려 줄까?",
+                "kr": "전망이 좋은 갑판 위는 하늘의 별이 잘 보여. 저 반짝하고 빛나는 별, 보여? 전설에 따르면, 저 별은 언젠가 파트너가 되는 별을 찾아서, 그 별과 끌어안고 춤을 추고 그런대…… 그래도, 언제까지 기다리면 되는 걸까? 나도…… 언제까지 기다리면, 별이…… 내 마음을 알아차려 줄까?",
                 "cn": "甲板上的视野很好，很适合观赏星空呢。看到那颗孤零零的星星了吗？据说总有一天，它会等来自己的伴星，拥抱，起舞......但，那要等上多久？我又要等上多久，星星......才会明白呢？"
             },
             "asset": "char_291_aglina/CN_009"
@@ -195,7 +195,7 @@
             "text": {
                 "en": "The battlefield is a cruel place... but I'll try not to let you down.",
                 "jp": "戦場は残酷だけど……ドクターをがっかりさせないように頑張るね。",
-                "kr": "전장은 잔혹하지만… 실망시키지 않도록 노력할게, {@nickname}.",
+                "kr": "전장은 잔혹하지만…… 실망시키지 않도록 노력할게, {@nickname}.",
                 "cn": "战场很残酷......但我不想让{@nickname}失望。"
             },
             "asset": "char_291_aglina/CN_012"
@@ -291,7 +291,7 @@
             "text": {
                 "en": "When will all these conflicts ever come to an end…",
                 "jp": "争いは、いつになったら終わるんだろう……。",
-                "kr": "싸움은, 언제쯤 끝이 날까…",
+                "kr": "싸움은, 언제쯤 끝이 날까……",
                 "cn": "争斗要到什么时候才会停止呢......"
             },
             "asset": "char_291_aglina/CN_020"
@@ -435,7 +435,7 @@
             "text": {
                 "en": "We only grow stronger after getting into a wolf's mouth, right?",
                 "jp": "苦境の中でこそ人は成長する。そうでしょ？",
-                "kr": "곤경에 처했을 때 사람은 성장한다… 그렇지?",
+                "kr": "곤경에 처했을 때 사람은 성장한다…… 그렇지?",
                 "cn": "只有在困境中，人才会成长，对吧？"
             },
             "asset": "char_291_aglina/CN_029"
@@ -467,7 +467,7 @@
             "text": {
                 "en": "Well, even I lose a letter sometimes...",
                 "jp": "まああたしもついうっかり手紙をなくしちゃう時はあるし……。",
-                "kr": "뭐 나도 가끔 깜빡하고 편지를 잃어버리는 경우가 있으니까…",
+                "kr": "뭐 나도 가끔 깜빡하고 편지를 잃어버리는 경우가 있으니까……",
                 "cn": "我也有因为疏忽而丢失信件的时候......"
             },
             "asset": "char_291_aglina/CN_031"
@@ -553,6 +553,22 @@
             "asset": "char_291_aglina/CN_037"
         },
         {
+            "id": "char_291_aglina_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "{@nickname}，新年好！今年要送的第一封信件，是给{@nickname}的新年贺卡哦。希望我喜悦的心情，可以好好传达给{@nickname}。",
+                "jp": "{@nickname}，新年好！今年要送的第一封信件，是给{@nickname}的新年贺卡哦。希望我喜悦的心情，可以好好传达给{@nickname}。",
+                "kr": "{@nickname}，新年好！今年要送的第一封信件，是给{@nickname}的新年贺卡哦。希望我喜悦的心情，可以好好传达给{@nickname}。",
+                "cn": "{@nickname}，新年好！今年要送的第一封信件，是给{@nickname}的新年贺卡哦。希望我喜悦的心情，可以好好传达给{@nickname}。"
+            },
+            "asset": "char_291_aglina/CN_038"
+        },
+        {
             "id": "char_291_aglina_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "早安，{@nickname}！"
             },
             "asset": "char_291_aglina/CN_042"
+        },
+        {
+            "id": "char_291_aglina_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "从家乡来到了罗德岛，离开了曾经的朋友、熟悉的生活。虽然也成长了许多，但又怎么能骗自己说一点也不难过呢？不过，我相信这一切总是值得的。因为在这里，我找到了属于自己的那颗星星。",
+                "jp": "从家乡来到了罗德岛，离开了曾经的朋友、熟悉的生活。虽然也成长了许多，但又怎么能骗自己说一点也不难过呢？不过，我相信这一切总是值得的。因为在这里，我找到了属于自己的那颗星星。",
+                "kr": "从家乡来到了罗德岛，离开了曾经的朋友、熟悉的生活。虽然也成长了许多，但又怎么能骗自己说一点也不难过呢？不过，我相信这一切总是值得的。因为在这里，我找到了属于自己的那颗星星。",
+                "cn": "从家乡来到了罗德岛，离开了曾经的朋友、熟悉的生活。虽然也成长了许多，但又怎么能骗自己说一点也不难过呢？不过，我相信这一切总是值得的。因为在这里，我找到了属于自己的那颗星星。"
+            },
+            "asset": "char_291_aglina/CN_044"
         }
     ],
     "actors": {

@@ -129,7 +129,7 @@
                 "cn": "信赖提升后交谈2"
             },
             "text": {
-                "en": "Y'know the secrets everyone tries their best to hide? They're like monsters, hidden in the dead shadows, waitin' for their chance. Beautiful... and dangerous. That's exactly why I do my darndest to collect them! Doctor, don't you got anything for my hoard?",
+                "en": "...Y'know the secrets everyone tries their best to hide? They're like monsters, hidden in the dead shadows, waitin' for their chance. Beautiful... and dangerous. That's exactly why I do my darndest to collect them! Doctor, don't you got anything for my hoard?",
                 "jp": "……みんな必死に隠してる秘密は、物陰に潜んで機を伺う怪物のように危険で美しい。だからカフカは、こうやって頑張ってコレクションにしてるの。ドクターにも何かカフカのコレクションに入るようなものはない？",
                 "kr": "……다들 필사적으로 숨기는 비밀은 그늘에 숨어서 기회를 엿보는 괴물처럼 위험하고 아름다워. 그래서 카프카는, 이렇게 열심히 컬렉션으로 만들고 있어. 박사는 뭐, 카프카의 컬렉션에 넣을 만한 거 없어?",
                 "cn": "......大家竭力隐藏的秘密，就像静静潜伏在阴影里，伺机而动的怪物一样美丽而危险。所以我才要努力把它们变成我的收藏品啊。博士，你有什么能够让我收藏的东西吗？"
@@ -553,6 +553,22 @@
             "asset": "char_214_kafka/CN_037"
         },
         {
+            "id": "char_214_kafka_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "博士，我们来一起堆雪人吧！首先搓两个大雪球。帽子要稍微圆一点，然后要修出很长的衣摆......看，一个“博士”就做好啦！啊，不过“博士”一个人被放在甲板上，看上去有点可怜呢！",
+                "jp": "博士，我们来一起堆雪人吧！首先搓两个大雪球。帽子要稍微圆一点，然后要修出很长的衣摆......看，一个“博士”就做好啦！啊，不过“博士”一个人被放在甲板上，看上去有点可怜呢！",
+                "kr": "博士，我们来一起堆雪人吧！首先搓两个大雪球。帽子要稍微圆一点，然后要修出很长的衣摆......看，一个“博士”就做好啦！啊，不过“博士”一个人被放在甲板上，看上去有点可怜呢！",
+                "cn": "博士，我们来一起堆雪人吧！首先搓两个大雪球。帽子要稍微圆一点，然后要修出很长的衣摆......看，一个“博士”就做好啦！啊，不过“博士”一个人被放在甲板上，看上去有点可怜呢！"
+            },
+            "asset": "char_214_kafka/CN_038"
+        },
+        {
             "id": "char_214_kafka_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "今天安排了什么工作给我吗，博士？"
             },
             "asset": "char_214_kafka/CN_042"
+        },
+        {
+            "id": "char_214_kafka_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "来到这里有一段时间了，发现罗德岛各位都是很好的人呢。好人受到欺负，是我最不能容忍的事。博士，如果有什么无法解决的坏人，就来找我吧。我有一些特殊的手段——不用这样？好吧，听你的。",
+                "jp": "来到这里有一段时间了，发现罗德岛各位都是很好的人呢。好人受到欺负，是我最不能容忍的事。博士，如果有什么无法解决的坏人，就来找我吧。我有一些特殊的手段——不用这样？好吧，听你的。",
+                "kr": "来到这里有一段时间了，发现罗德岛各位都是很好的人呢。好人受到欺负，是我最不能容忍的事。博士，如果有什么无法解决的坏人，就来找我吧。我有一些特殊的手段——不用这样？好吧，听你的。",
+                "cn": "来到这里有一段时间了，发现罗德岛各位都是很好的人呢。好人受到欺负，是我最不能容忍的事。博士，如果有什么无法解决的坏人，就来找我吧。我有一些特殊的手段——不用这样？好吧，听你的。"
+            },
+            "asset": "char_214_kafka/CN_044"
         }
     ],
     "actors": {

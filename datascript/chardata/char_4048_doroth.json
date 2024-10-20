@@ -553,6 +553,22 @@
             "asset": "char_4048_doroth/CN_037"
         },
         {
+            "id": "char_4048_doroth_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Happy New Year, Doctor. I just sent some gifts to my Pioneer friends. I wonder when they'll get them... Thinking of their hardships makes me worry and glad at the same time. Oh, I have a gift for you too. You're always moving forward, just like them.",
+                "jp": "あけましておめでとう、ドクター。実はついさっき、開拓者の友達にプレゼントを送ったんだけど、あれっていつ頃届くのかしら……あの人たちが今も前へ進み続けていると思うと、心配な反面嬉しくもあるのよね。ああ、ほら、あなたへのプレゼントもあるわよ。だってあなたも、ひたむきに歩み続ける人だもの。ね？",
+                "kr": "새해 복 많이 받아, 박사. 방금 개척지에 있는 친구들한테 선물을 보냈는데, 언제쯤 도착할지 모르겠네…… 친구들이 지금도 계속 앞으로 나아가고 있다는 걸 생각하면, 걱정되면서도 기쁘기도 해. 맞다, 이건 박사한테 주는 선물이야. 박사도 계속해서 나아가는 중이잖아, 안 그래?",
+                "cn": "新年快乐，博士。我刚给拓荒者朋友们寄了一批礼物，不知道他们什么时候才能收到......一想到他们还在往前走，我就既担心又庆幸。对了，这份礼物是给你的。你也一直在往前走，不是吗？"
+            },
+            "asset": "char_4048_doroth/CN_038"
+        },
+        {
             "id": "char_4048_doroth_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "博士，我正想在附近散散步，要一起吗？"
             },
             "asset": "char_4048_doroth/CN_042"
+        },
+        {
+            "id": "char_4048_doroth_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "I hope everyone will have the chance to find themselves, regardless of whether they're Infected or not, regardless of their talent for Arts. Many think this is just a pipe dream, but Doctor, I know... you and Rhodes Island will understand.",
+                "jp": "感染者も非感染者も、アーツの才があろうとなかろうと、いつの日か、誰もがなりたい自分になれるといいなって思ってるの。多くの人は、それを夢物語だって笑うけど……ドクター、あなたやロドスのみんなは、きっと理解してくれるわよね。",
+                "kr": "감염자도 비감염자도, 언젠간 아츠의 재능과는 상관없이 모두 스스로가 바라는 모습이 될 수 있었으면 좋겠어. 대부분의 사람들은 헛된 꿈이라고 말하지만…… 박사, 당신과 로도스 아일랜드는 날 이해해 줄 거라고 믿고 있어.",
+                "cn": "无论是感染者还是非感染者，无论源石技艺天赋如何，我希望未来有一天，每个人都能成为自己想成为的那个人。很多人觉得这是痴人说梦，但是......博士，我知道，你和罗德岛会理解。"
+            },
+            "asset": "char_4048_doroth/CN_044"
         }
     ],
     "actors": {

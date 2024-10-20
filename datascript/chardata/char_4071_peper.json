@@ -553,6 +553,22 @@
             "asset": "char_4071_peper/CN_037"
         },
         {
+            "id": "char_4071_peper_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Happy New Year! I didn't expect such a crowd celebrating the new year together. It's so much fun hearing all the New Year's wishes! Doc, what's your wish this year? Me, I'm wishing for Nana to stay safe... Oh no, if I tell someone, the wish won't come true, right? Forget what I just said, instantly!",
+                "jp": "あけおめ！こんな大勢の人と一緒に新年を迎えるなんて思いもしなかったっす！みんなでワイワイ願い事をしてるのめっちゃ賑やか！ドクターは今年なんてお願いするんすか？うちはもう、ばあちゃんの無事を……あっ、お願いってしゃべったら叶わないやつっすよね？ほらほらドクター早く忘れて！",
+                "kr": "새해 복 많이 받으세요! 이렇게 많은 사람들과 함께 새해를 맞이하게 될 줄은 몰랐어요! 다 함께 모여서 소원을 비니까 엄청 시끌벅적하네요! 박사의 올해 소원은 뭔가요? 전 그냥 할머니가 건강하셨으면 하고…… 앗, 소원은 남한테 말하면 안 된댔는데! 빨리 잊어버리세요, 박사!",
+                "cn": "新年快乐！没想到会和这么多人一起迎接新年，大家聚在一块许愿好热闹啊！博士今年有什么愿望吗？我的话，就是希望姥姥平安......啊，愿望是不是说出来就不灵了？博士你快忘掉！"
+            },
+            "asset": "char_4071_peper/CN_038"
+        },
+        {
             "id": "char_4071_peper_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "嗨，博士，今天有哪些任务？啊对了，先说好，太离谱的活我可不接！"
             },
             "asset": "char_4071_peper/CN_042"
+        },
+        {
+            "id": "char_4071_peper_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "A great employer like Rhodes Island is hard to find. Our partnership has been wonderful! I never thought I'd see a day like this when you guys first beat us back in Londinium... We're gonna keep this up for a very, very long time. Right, Doc?",
+                "jp": "ロドスみたいないい雇い主はなかなかいないっすから、ホントに楽しく仕事ができたんだ！ロンディニウムであんたたちにやられた時は、こんな日が来るなんて思いもしなかったな……これからもさ、協力関係を続けような。ずっと、ずーとな。いいよな、ドクター？",
+                "kr": "로도스 아일랜드처럼 좋은 고용주는 좀처럼 찾기 힘든데, 덕분에 즐겁게 일했어요! 런디니움에서 박사한테 당했을 때만 해도 이런 날이 올 거라곤 상상도 못 했는데…… 앞으로도 쭉~ 같이 일하는 거예요. 알겠죠, 박사?",
+                "cn": "像罗德岛这样的好雇主不好找，我们之间的合作真的很愉快！当初在伦蒂尼姆被博士你打败的时候，我完全没想过会有这么一天......我们今后还可以继续合作，合作很久很久，对吧，博士？"
+            },
+            "asset": "char_4071_peper/CN_044"
         }
     ],
     "actors": {

@@ -553,6 +553,22 @@
             "asset": "char_4040_rockr/CN_037"
         },
         {
+            "id": "char_4040_rockr_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Happy New Year, Dr. {@nickname}. Do you have any wishes? Mine? Umm... I wish that we'll be able to spend every New Year in peace, up until the day we die.",
+                "jp": "あけましておめでとう、Dr.{@nickname}。願掛けはした？あたし？うーん……みんながおばあちゃんやおじいちゃんになるまで、毎年こうやって穏やかに過ごすことかな。",
+                "kr": "새해 복 많이 받아, 박사. 혹시 소원 있어? 내 소원? 음…… 우리가 늙어갈 때까지, 매년 이렇게 평화로운 새해를 맞이할 수 있었으면 좋겠어.",
+                "cn": "新年快乐，Dr.{@nickname}，有什么愿望吗？我的愿望？嗯......我希望，直到我们老去的那一天，每一年的新年都能这样平静地度过。"
+            },
+            "asset": "char_4040_rockr/CN_038"
+        },
+        {
             "id": "char_4040_rockr_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "早上好，Dr.{@nickname}，新的一天也要努力工作。"
             },
             "asset": "char_4040_rockr/CN_042"
+        },
+        {
+            "id": "char_4040_rockr_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Dr. {@nickname}, enjoying yourself? Me? Mm-hm, of course I'm happy. Everyone's having a proper lively get-together, there's nothing better than that. Oh, that reminds me, I just drew this prize and I'm not really in need of it. You want it?",
+                "jp": "无",
+                "kr": "박사, 재밌게 놀았어? 나? 응, 나야 당연히 즐거웠지. 다들 같이 모여 웃고 떠드는 것보다 즐거운 일이 어디 있겠어? 참, 방금 상품에 당첨됐는데, 난 필요 없어서 말이야. 박사가 가질래?",
+                "cn": "Dr.{@nickname}，玩得开心吗？我？嗯，我当然开心，大家都热热闹闹地在一起，没有比这更好的事了。对了，我刚才抽到了奖品，我不需要，你要吗？"
+            },
+            "asset": "char_4040_rockr/CN_044"
         }
     ],
     "actors": {

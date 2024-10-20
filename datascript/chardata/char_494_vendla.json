@@ -553,6 +553,22 @@
             "asset": "char_494_vendla/CN_037"
         },
         {
+            "id": "char_494_vendla_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Happy New Year, Doctor! Oh, the gift in front of everyone's room? That's poinsettia. In the past, I'd leave a bouquet at each and every doorstep to celebrate New Year's Eve... I didn't want this beautiful custom to disappear because of that incident.",
+                "jp": "ドクター様、明けましておめでとうございます！みんなの部屋の前に置いたプレゼントですか？あれはポインセチアです。前は年越しの夜になると、町のお家一軒一軒の玄関先に一束置いて、新しい年を祝っていたんですよ……事件のせいで楽しい習慣がなくなってしまうのは嫌ですから。",
+                "kr": "새해 복 많이 받으세요, 박사님! 모두의 방 앞에 놓여 있는 선물이요? 그건 포인세티아라는 꽃이에요. 예전엔 연말 저녁이면 집집마다 문 앞에 꽃을 한 다발 놓아두고 새해를 축하하곤 했었는데…… 저는 한 차례의 비극 때문에 이런 아름다운 습관이 사라지는 건 싫어요.",
+                "cn": "博士，新年快乐！您说大家房间门口的礼物？那是一品红，过往新年夜我都会在小镇每一户的门口放上一束庆祝新年......我不希望这个美好的仪式因为那场变故而消失。"
+            },
+            "asset": "char_494_vendla/CN_038"
+        },
+        {
             "id": "char_494_vendla_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "博士，被您发现了。这是我刚培育的新品种，喜欢吗？"
             },
             "asset": "char_494_vendla/CN_042"
+        },
+        {
+            "id": "char_494_vendla_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "I was going around the greenhouse collecting all the fresh buds, when it suddenly struck me how long it's been since that tragedy. Do you think I'll be able to rebuild my greenhouse back home? I know you might not have all the answers, but somehow, seeing everyone brimming with confidence... just puts my heart at ease too.",
+                "jp": "先ほど温室で新しくできた種を集めていた時に、あの悲劇からもう随分経っていることにふと気付きました。ドクター様、私はこの先故郷の町に戻って、自分の温室を建て直すことができると思いますか？もしかしたら、あなたにも答えは分からないかもしれません。でも、みんなが未来を信じて揺るがない様子を見ていると、不思議と自分の不安も消えてしまいますね。",
+                "kr": "방금 온실에서 새로 싹튼 씨앗들을 모으다, 문득 그 비극이 벌어진 지도 제법 오래되었다는 걸 깨달았어요. 박사님, 제가 고향으로 돌아가서 다시 온실을 지을 수 있는 날이 올까요? 아마 박사님도 답은 모르시겠죠. 하지만 모두가 믿음을 가지고 앞으로 나아가는 모습을 보고 있으면, 왠지 모르게 마음이 편안해지는 것 같아요.",
+                "cn": "我刚刚在小温室里收集新结出的种子时，突然意识到那场悲剧已经过去了许久。您觉得我还能在家乡重建我的温室吗？也许您也没有答案，但是看着大家依然满怀信心，我莫名地觉得心安呢。"
+            },
+            "asset": "char_494_vendla/CN_044"
         }
     ],
     "actors": {

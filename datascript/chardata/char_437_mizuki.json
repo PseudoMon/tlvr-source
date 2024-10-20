@@ -19,7 +19,7 @@
             "text": {
                 "en": "Dr. Kal'tsit told me if you ever chose to place me at your side, it means you've decided to protect me. From the looks of things though, Doctor, I don't think you understand what that means? But I know she must've said it for a reason.",
                 "jp": "ケルシー先生が言ってたよ。ドクターが僕を側に置くようになったら、それは僕を守ることを決めたんだって。でもドクター自身は、それが何を意味するか理解してないみたいだね。だけど僕にはわかるんだ、ケルシー先生は適当を言ってるわけじゃないってね。",
-                "kr": "켈시 선생님이 그랬어. 박사가 나를 옆에 두게 되면, 그건 나를 지키기로 한 거라고. 하지만 박사 스스로는 그게 무엇을 의미하는지 이해하지 못한 모양이구나. 하지만 나는 알 수 있어. 켈시 선생님이 적당히 한 소리가 아니라는 걸.",
+                "kr": "켈시 선생님이 그랬어. 박사가 나를 옆에 두기로 결정했다면, 그건 박사가 나를 지키기로 마음먹은 거라고. 하지만 보아하니 박사 스스로도 그게 무엇을 의미하는지 이해하지 못한 모양이네. 하지만 나는 알 수 있어. 켈시 선생님이 그냥 해본 말은 아니라는 걸.",
                 "cn": "凯尔希医生跟我说过，如果博士选择把我安置在身边，那么就意味着博士决定要保护我。但看样子，博士也还不太明白是什么意思？不过我感觉得出来，她有她这么说的把握。"
             },
             "asset": "char_437_mizuki/CN_001"
@@ -51,7 +51,7 @@
             "text": {
                 "en": "Ah, Doctor, you came at just the right time. Quick, come have a taste, I prepared this special sashimi dish using a special technique that best preserves the nutrients and vitality of the ingredients!",
                 "jp": "あ、ドクター、ちょうどいいところに来た。これ食べてみて、食材の栄養と生命力を最大限キープできる極秘の調理法で作った刺し身料理だよ！",
-                "kr": "아, 박사, 마침 잘 왔어. 이거 먹어 봐. 재료의 영양과 생명력을 최대한 유지할 수 있는 극비 조리법으로 만든 회 요리야!",
+                "kr": "아, 박사, 마침 잘 왔어. 이거 먹어 봐. 재료의 영양과 생명력을 최대한 유지할 수 있게 나만의 조리법으로 만든 '특제 회' 요리야!",
                 "cn": "啊，博士，你来得正好，快尝尝看，我这采用了最能保留食材营养和生命力的独家秘诀做出来的特色刺身料理！"
             },
             "asset": "char_437_mizuki/CN_003"
@@ -67,7 +67,7 @@
             "text": {
                 "en": "This one, huh? It's a classic arcade game from Higashi, though it's kind of niche now. Want to give it a try, Doctor? Here, you move that yellow mouth around and try to eat as much stuff as you can. But until you've absorbed enough nutrients to become strong, you'll only be prey to others.",
                 "jp": "これ？極東で流行ってたレトロゲームだよ、今はもうあんまり人気ないけどね。ドクターもやってみる？あの黄色い顔を、周りのものを食べるように操作するんだ。でもたくさん栄養を摂ってパワーアップするまでは、他の敵から獲物として狙われちゃうんだ。",
-                "kr": "이거? 극동에서 유행했던 고전 게임이야. 지금은 그다지 인기 없지만 말이지. 박사도 해 볼래? 이 노란 얼굴을, 주위에 있는 것들을 먹도록 조작하는 거야. 하지만 잔뜩 영양을 섭취해서 파워업할 때까지는 다른 적들이 사냥감으로 노리지.",
+                "kr": "이거? 극동에서 유행했던 고전 게임이야. 지금은 별로 인기가 없지만. 박사도 한번 해 볼래? 이 노란 얼굴을 컨트롤해서 주위에 있는 것들을 먹으면 돼. 간단하지? 근데 영양분을 잔뜩 섭취해서 파워업하기 전까진 넌 다른 적들이 노리는 사냥감이야.",
                 "cn": "这个吗？是东国早些年的经典游戏哦，虽说现在已经不太流行了。博士要试试看吗？来，操纵那个黄色的嘴去吃东西就行。不过在吸收到足够的营养、获得足够的力量之前，都只会被别人当作猎物呢。"
             },
             "asset": "char_437_mizuki/CN_004"
@@ -83,7 +83,7 @@
             "text": {
                 "en": "A strong sense of justice? You have the wrong idea, Doctor. I'm personally not that concerned about bad guys, but for various reasons, the people here usually can't do much to them, right? In times like that, if there was some way to make those bad guys disappear... Nobody would lose sleep over that, right? It'd be a breath of fresh air, right?",
                 "jp": "正義感？いや、ドクターは誤解してるよ。僕は別に悪人をなんとも思ってないよ。でもみんなは、色々事情があって悪人に手を焼かされてるんでしょ？そんな時に悪人を消してあげれば……誰も困らないし、みんなホッとするでしょ？",
-                "kr": "정의감? 아니, 박사는 오해하고 있어. 나는 딱히 악인에 대해 아무 생각도 없어. 하지만 다들 여러 사정이 있어서 악인 때문에 애먹고 있잖아? 그럴 때에 악인을 없애 주면…… 아무도 난처할 것 없고, 다들 한시름 덜 거 아냐?",
+                "kr": "정의감? 아니, 박사는 오해하고 있어. 나는 악인에 대해 딱히 특별한 감정이 있는 게 아니야. 하지만 다들 여러 사정 때문에 그들을 어쩌지 못하고 애만 먹고 있잖아? 그럴 때에 만약 악인을 사라지게 만들 수 있다면…… 아무도 곤란해지지 않고, 다들 한시름 덜겠지?",
                 "cn": "正义感？博士误会啦。我自己对坏人其实是无所谓的，但出于种种理由大家往往不能把坏人怎么样吧？这种时候如果能让坏人消失......也不会有人感到困扰，只会觉得松了口气吧？"
             },
             "asset": "char_437_mizuki/CN_005"
@@ -99,7 +99,7 @@
             "text": {
                 "en": "Though I don't really understand your rationale, Doctor, what you're basically saying is, only eliminate the people who you've designated as bad guys, right? Because you're a good person, Doctor. What if you were actually a bad guy? Don't say that, that'd be quite troublesome. There's no way I could...",
                 "jp": "ドクターの理屈はよくわからないけど、とにかくドクターが悪人って判定した奴だけ片付ければいいんでしょ？だってドクターは良い人だから。もしドクターが実は悪人だったらどうするか？やめてよ、そんなの困るんだ。だってそしたら、僕はドクターを……",
-                "kr": "박사의 이치는 잘 모르겠지만, 아무튼 박사가 악인이라 판정한 녀석만 처리하면 되는 거잖아? 왜냐면 박사는 착한 사람이니까. 만일 박사가 사실은 악인이면 어쩔 거냐고? 그만해, 그런 건 곤란해. 왜냐면 만약 그러면, 나는 박사를……",
+                "kr": "박사가 알려준 이치 같은 건 아직 잘 이해하지 못했지만, 아무튼 박사가 악인이라 판단한 녀석만 처리하면 되는 거잖아? 왜냐면 박사는 착한 사람이니까. 박사도 사실은 악인이라면 어쩔 거냐고? 그만해, 그럼 곤란하단 말이야. 정말 그렇다고 해도, 나는 박사를……",
                 "cn": "虽然还是不太明白博士讲的道理，但是总之，只处理掉博士认证过是坏人的家伙就没问题了吧？因为博士是好人呀。如果博士其实是坏人的话？不要吧，那我会很困扰啊。我，总不能......"
             },
             "asset": "char_437_mizuki/CN_006"
@@ -115,7 +115,7 @@
             "text": {
                 "en": "Sometimes, it feels like there's something on this ship... Familiar, yet also foreign. Gentle, yet also seemingly full of hostility. Doctor, it makes me rather uneasy...",
                 "jp": "時々感じるんだ。この艦内には……懐かしくて、でもどこか馴染みのない……優しくて、でも敵意に満ちた何かがあるって。ドクター、僕、ちょっと不安だよ……",
-                "kr": "가끔씩 느껴. 이 함내에는…… 그립고, 하지만 왠지 낯선…… 상냥하고, 하지만 적의로 가득 찬 무언가가 있다는 걸. 박사, 나, 좀 불안해……",
+                "kr": "가끔씩 난, 이 함내에는…… 익숙하지만 왠지 낯선…… 상냥하지만 또 적의로 가득 찬 무언가가 있다는 걸 느껴. 박사, 나, 좀 불안해……",
                 "cn": "有时会感到舰船内好像有什么......熟悉的，又有些陌生......亲切，又好像充满敌意的气息。博士，我有些不安......"
             },
             "asset": "char_437_mizuki/CN_007"
@@ -131,7 +131,7 @@
             "text": {
                 "en": "Doctor, what does it feel like to take charge of the lives of so many others with your own hands? If I was in your position, I'd feel very warm, maybe wouldn't even be able to resist trembling... Huh? I was talking about you as a commander, holding on to everyone's lifeline.",
                 "jp": "ドクター、人の命を握ってる時ってどんな気分？もし僕なら、すごくあったかく感じて、それで身体が震えちゃうと思う……えっ？いやいや、ドクターが指揮官としてみんなの命を預かってる時の感想を聞いてるだけだよ。",
-                "kr": "박사, 사람의 목숨을 쥐고 있을 때란 어떤 기분이야? 만약 나라면, 굉장히 따뜻하게 느껴져서 몸이 떨릴 것 같아…… 응? 아니, 박사가 지휘관으로서 모두의 목숨을 책임질 때의 감상을 묻는 것뿐이야.",
+                "kr": "박사, 다른 사람의 생명을 손에 쥐고 있으면 어떤 기분일까? 만약 나라면, 굉장히 따뜻하게 느껴져서 몸이 떨릴 것 같아…… 응? 아니, 박사가 지휘관으로서 모두의 목숨을 책임질 때의 기분을 묻는 것뿐이야.",
                 "cn": "博士觉得，把别人的生命掌握在自己手中时是什么样的感觉呢？如果换作我的话会感到很温暖，甚至忍不住为此有些颤抖......嗯？我是指博士在作为指挥官，握持着大家生命线时的感想。"
             },
             "asset": "char_437_mizuki/CN_008"
@@ -147,7 +147,7 @@
             "text": {
                 "en": "I sometimes think, since the food we eat and the nutrients we absorb become a part of us, if we were to eat the same things and do the same things, would we gradually become the same? Doctor... can we?",
                 "jp": "たまに思うけど、呑み込んだ食べ物と吸収した栄養が僕たちを造り上げたんなら、もし同じものを食べて、同じことをしてたら、どんどん同じになっていくのかなって。ドクター、僕たちに……できるかな？",
-                "kr": "가끔 드는 생각인데, 삼킨 음식과 흡수한 영양분이 우리를 만들어낸 거라면, 만약 같은 걸 먹고 같은 일을 하면, 점점 비슷해지는 건가 싶어. 박사, 우리도…… 가능할까?",
+                "kr": "난 가끔 이런 생각이 들어. 우리가 삼킨 음식물, 흡수한 영양분이 우리를 구성하고 있는 거잖아. 그럼 만약 같은 걸 먹고 같은 일을 하면, 우리는 점점 비슷해지지 않을까? 박사, 우리도…… 가능할까?",
                 "cn": "我有时候会想，既然是我们吃下去的食物和汲取的营养造就了我们，那么如果我们吃下了同样的东西，做着同样的事情，我们就会渐渐变得一样吗？博士，我们......能吗？"
             },
             "asset": "char_437_mizuki/CN_009"
@@ -179,7 +179,7 @@
             "text": {
                 "en": "Ah, hello there, Doctor. Dr. Kal'tsit tells me you're my commander from today on! It's too bad I don't count as an official operator, but as long as you need my help, I'll do whatever I can.",
                 "jp": "あ、ドクターこんにちは。ケルシー先生が、今日から僕はドクターの配下になるって言ってたよ！相変わらず正式なオペレーターとしては認められないみたいだけど、ドクターが手伝ってほしいことがあれば、何でも力になるからね。",
-                "kr": "아, 박사, 안녕. 켈시 선생님이 오늘부터 나는 박사의 부하라고 했어! 여전히 정식 오퍼레이터로는 인정받지 못하는 모양이지만, 박사가 도움이 필요한 일이 있다면 내가 뭐든 힘이 되어 줄게.",
+                "kr": "아, 박사, 안녕. 켈시 선생님이 오늘부터 나는 박사의 부하라고 했어! 아쉽게도 여전히 정식 오퍼레이터로는 인정받지 못하는 모양이지만, 박사가 도움이 필요한 일이 있다면 내가 뭐든 힘이 되어 줄게.",
                 "cn": "啊，博士你好，凯尔希医生说从今天开始我就正式纳入博士的指挥啦！虽然可惜依旧不能算正式干员的样子，不过只要是博士找我帮忙，我一定会尽力的。"
             },
             "asset": "char_437_mizuki/CN_011"
@@ -195,7 +195,7 @@
             "text": {
                 "en": "I need to absorb and digest all this, right? I'll do my best.",
                 "jp": "これを吸い込んで消化すればいいんでしょ。頑張るよ。",
-                "kr": "이걸 빨아들여서 소화하면 되는 거지? 열심히 할게.",
+                "kr": "이걸 흡수해서 잘 소화하면 되는 거지? 열심히 할게.",
                 "cn": "要吸收和消化掉这些对吧，我会努力的。"
             },
             "asset": "char_437_mizuki/CN_012"
@@ -211,7 +211,7 @@
             "text": {
                 "en": "I got the nod? Does that mean I can go with you to more places and take care of more bad guys?",
                 "jp": "僕が認められたの？これからはドクターともっと色んな場所に行って、悪人を片付けていいってこと？",
-                "kr": "내가 인정받은 거야? 이제부터는 박사랑 더 다양한 장소에 가서, 악인을 처리해도 된다는 거지?",
+                "kr": "나 인정받은 거야? 그럼 이제 박사랑 더 다양한 곳에 가서 악인을 처리할 수 있는 거지?",
                 "cn": "我被认可了？之后是不是就可以跟博士去更多不同的地方解决坏人？"
             },
             "asset": "char_437_mizuki/CN_013"
@@ -227,7 +227,7 @@
             "text": {
                 "en": "On one rainy day, I received an unexpected gift that changed me, but I was not taught how to face the future. Doctor, if it were you, would you have shown me the path yourself?",
                 "jp": "あの時もこんな雨の日だったなぁ。予想外の贈り物を受け取って、僕は変わったんだ。でもあの人はこれからの将来とどうやって向き合えばいいか教えてくれなかった。ドクター、君なら手を取って僕に教えてくれる？",
-                "kr": "그때도 이렇게 비가 내리는 날이었는데. 예상 밖의 선물을 받고, 나는 변했어. 하지만 그 사람은 앞으로의 장래를 어떻게 마주해야 할지 알려주지 않았었지. 박사, 너라면 손을 잡고 내게 알려 줄 수 있어?",
+                "kr": "그때도 이렇게 비가 내리는 날이었어. 그날 예상 밖의 선물을 받고, 나는 변했지. 하지만 그 사람은 앞으로의 미래를 어떻게 마주해야 하는지는 알려주지 않았어. 박사, 박사라면 알고 있을 것 같은데, 내게 가르쳐줄래?",
                 "cn": "曾经也是一个下着雨的日子，我得到了一些预想之外的、改变了我的馈赠，但那个人并没有教我该怎么面对将来的事。博士，如果是你的话会亲自指导我吗？"
             },
             "asset": "char_437_mizuki/CN_014"
@@ -243,7 +243,7 @@
             "text": {
                 "en": "It'd be best to not expose myself to others, even my teammates? Mm, I'll do as you say, Doctor.",
                 "jp": "チームメイト同士でも、みんなの前に出ない方がいい？わかった、ドクターの言う通りにするよ。",
-                "kr": "팀메이트끼리라도, 모두의 앞으로 안 나가는 게 좋다고? 알았어, 박사 말대로 할게.",
+                "kr": "다른 사람들 눈엔 띄지 않는 게 좋다고? 팀원들이라 해도? 알았어, 박사 말대로 할게.",
                 "cn": "不要暴露在大家面前比较好，哪怕是队友？嗯，我听博士的。"
             },
             "asset": "char_437_mizuki/CN_017"
@@ -259,7 +259,7 @@
             "text": {
                 "en": "I will protect you from the shadows, Doctor, as well as everyone else participating in the operation.",
                 "jp": "ドクターのことも、作戦に参加するみんなのことも、陰から守るよ。",
-                "kr": "박사도, 작전에 참가하는 모두도, 그늘 속에서 지켜 줄게.",
+                "kr": "박사도, 작전에 참가하는 모두도, 내가 그늘 속에서 지켜 줄게.",
                 "cn": "我会暗中保护好博士的，还有参与作战的大家。"
             },
             "asset": "char_437_mizuki/CN_018"
@@ -307,7 +307,7 @@
             "text": {
                 "en": "Your orders are my beacon.",
                 "jp": "ドクターの指示が僕の道標だよ。",
-                "kr": "박사의 지시가 내 이정표야.",
+                "kr": "박사의 지시가 내가 가야 할 길이야.",
                 "cn": "博士的指示就是我的道标。"
             },
             "asset": "char_437_mizuki/CN_021"
@@ -355,7 +355,7 @@
             "text": {
                 "en": "Weave the tapestry of your tactics boldly and without worry.",
                 "jp": "思うがままの戦術でいいよ。",
-                "kr": "생각한 그대로의 전술이면 돼.",
+                "kr": "걱정 말고 마음껏 전술을 펼쳐봐.",
                 "cn": "放心大胆地布置战术吧。"
             },
             "asset": "char_437_mizuki/CN_024"
@@ -371,7 +371,7 @@
             "text": {
                 "en": "A piece of cake.",
                 "jp": "前菜代わりにもならないね。",
-                "kr": "애피타이저 대신으로도 안 되겠네.",
+                "kr": "애피타이저 정도도 안 되겠네.",
                 "cn": "小菜一碟。"
             },
             "asset": "char_437_mizuki/CN_025"
@@ -403,7 +403,7 @@
             "text": {
                 "en": "When did you delude yourself into thinking that these tentacles are mere illusions?",
                 "jp": "一体いつから、この触手はまやかしに過ぎないって錯覚してたの？",
-                "kr": "대체 언제부터, 이 촉수는 속임수에 지나지 않는다고 착각한 거야?",
+                "kr": "대체 언제부터, 이 촉수들은 그저 속임수일 거라고 생각한 거야?",
                 "cn": "你什么时候产生了这些附肢只是幻象的错觉？"
             },
             "asset": "char_437_mizuki/CN_027"
@@ -419,7 +419,7 @@
             "text": {
                 "en": "Where there are people, there must be someone to cull the evildoers among them.",
                 "jp": "悪徒は討たれるべきだし、その執行人は必ず現れる。",
-                "kr": "악당은 토벌당해야 마땅하고, 그 집행인은 반드시 나타나지.",
+                "kr": "누군가는 악인을 처리해야 하는 법이지.",
                 "cn": "总得有人，也总会有人来处理掉恶徒呢。"
             },
             "asset": "char_437_mizuki/CN_028"
@@ -435,7 +435,7 @@
             "text": {
                 "en": "What a tough nut to crack. It'll take some time to digest this battle.",
                 "jp": "なんて手強い連中なんだろう。今回の作戦を消化するのには時間がかかりそう。",
-                "kr": "어쩜 이렇게 벅찬 녀석들인지. 이번 작전을 소화하기엔 시간이 걸릴 것 같아.",
+                "kr": "정말 어려운 상대였어. 이번 작전을 소화하려면 시간이 좀 걸릴 것 같아.",
                 "cn": "真是难啃的骨头，我需要花点时间消化这次的作战呢。"
             },
             "asset": "char_437_mizuki/CN_029"
@@ -483,7 +483,7 @@
             "text": {
                 "en": "If you want to cover everyone as they evacuate, I still have an idea... No, just saving everyone isn't good enough. Only by eliminating all the bad guys here...",
                 "jp": "みんなの撤退を援護するなら手はあるよ……いや、援護するだけじゃダメだ、ここで悪人を全員始末しないと……",
-                "kr": "모두의 퇴각을 엄호하는 거라면 방법은 있어…… 아니, 엄호하는 것만으로는 안 돼, 여기서 악인을 모두 처리해야 해……",
+                "kr": "모두의 퇴각을 엄호하는 거라면 방법은 있어…… 아니, 엄호하는 것만으로는 부족해, 여기서 악인을 모두 처리해야……",
                 "cn": "如果是要掩护大家撤离的话我还有办法......不，光是救人的话是不够的，只有在这里把坏人全都......"
             },
             "asset": "char_437_mizuki/CN_032"
@@ -499,7 +499,7 @@
             "text": {
                 "en": "Shall I whip up something tasty to help everyone unwind?",
                 "jp": "何か美味しいものでも作って、みんなにリラックスしてもらうってのはどう？",
-                "kr": "뭔가 맛있는 거라도 만들어서 모두가 릴랙스할 수 있게 하는 건 어때?",
+                "kr": "뭔가 맛있는 걸 만들어서 모두가 릴랙스할 수 있게 해볼까?",
                 "cn": "我来给大家做点好吃的放松下吧？"
             },
             "asset": "char_437_mizuki/CN_033"
@@ -553,6 +553,22 @@
             "asset": "char_437_mizuki/CN_037"
         },
         {
+            "id": "char_437_mizuki_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "新年快乐，博士！又成长了一年，我汲取了不少营养呢，真希望大家都能进化得越来越好呀。",
+                "jp": "新年快乐，博士！又成长了一年，我汲取了不少营养呢，真希望大家都能进化得越来越好呀。",
+                "kr": "박사, 새해 복 많이 받아! 또 1년 성장했네, 나도 많은 영양분을 섭취했어! 다들 점점 더 좋은 쪽으로 진화할 수 있으면 좋겠다.",
+                "cn": "新年快乐，博士！又成长了一年，我汲取了不少营养呢，真希望大家都能进化得越来越好呀。"
+            },
+            "asset": "char_437_mizuki/CN_038"
+        },
+        {
             "id": "char_437_mizuki_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "想我了没有，博士？"
             },
             "asset": "char_437_mizuki/CN_042"
+        },
+        {
+            "id": "char_437_mizuki_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "博士，你看我现在的样子怎么样？看起来是不是已经获得了足够多的力量，甚至比博士都还要厉害？如果我比博士厉害的话，该被保护的......是不是就是博士了？",
+                "jp": "博士，你看我现在的样子怎么样？看起来是不是已经获得了足够多的力量，甚至比博士都还要厉害？如果我比博士厉害的话，该被保护的......是不是就是博士了？",
+                "kr": "博士，你看我现在的样子怎么样？看起来是不是已经获得了足够多的力量，甚至比博士都还要厉害？如果我比博士厉害的话，该被保护的......是不是就是博士了？",
+                "cn": "博士，你看我现在的样子怎么样？看起来是不是已经获得了足够多的力量，甚至比博士都还要厉害？如果我比博士厉害的话，该被保护的......是不是就是博士了？"
+            },
+            "asset": "char_437_mizuki/CN_044"
         }
     ],
     "actors": {
@@ -577,10 +609,15 @@
         "jp": {
             "native": "村瀬歩",
             "global": "Ayumu Murase"
+        },
+        "kr": {
+            "native": "김율",
+            "global": "Kim Yul"
         }
     },
     "availability": [
         "cn",
-        "jp"
+        "jp",
+        "kr"
     ]
 }

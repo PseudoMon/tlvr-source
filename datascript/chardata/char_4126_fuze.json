@@ -553,6 +553,22 @@
             "asset": "char_4126_fuze/CN_037"
         },
         {
+            "id": "char_4126_fuze_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Tachanka and I are hitting the bar tonight. Coming?",
+                "jp": "今晩Tachankaと一杯やるんだが、あんたもどうだ？",
+                "kr": "Tachanka랑 오늘 밤에 몇 잔 하기로 했는데, 함께하겠나?",
+                "cn": "我和战车打算今晚一起喝几杯，你来吗？"
+            },
+            "asset": "char_4126_fuze/CN_038"
+        },
+        {
             "id": "char_4126_fuze_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "嗨......"
             },
             "asset": "char_4126_fuze/CN_042"
+        },
+        {
+            "id": "char_4126_fuze_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "I can find a sense of belonging here. It's wonderful.",
+                "jp": "俺はここに居場所を見つけることができた。素晴らしいことだ。",
+                "kr": "여기선 소속감을 조금 찾을 수 있었다, 아주 좋군.",
+                "cn": "我能在这里找到一些归属感，这很好。"
+            },
+            "asset": "char_4126_fuze/CN_044"
         }
     ],
     "actors": {

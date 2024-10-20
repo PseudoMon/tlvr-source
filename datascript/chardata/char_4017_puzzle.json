@@ -553,6 +553,22 @@
             "asset": "char_4017_puzzle/CN_037"
         },
         {
+            "id": "char_4017_puzzle_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Happy New Year, Doctor. I've never joined in with noisy parties like this before. Everyone's completely open about prying into each other's freshly sworn resolutions, writing what info they're sending to their recipients on postcards. To a degree, it's stupid... Are these every year? These kinds of parties, I mean.",
+                "jp": "新年明けましておめでとうございます、ドクター。ここまで賑やかなパーティーは人生初めてですよ……皆さん堂々とお互いの願い事を訊き出そうとしたり、情報をそのままグリーティングカードに書き込んだり、なんたる不用心さ……毎年恒例なんでしょうか？このような宴会騒ぎは。",
+                "kr": "새해 복 많이 받으세요, 박사님. 전 이렇게 시끌벅적한 파티는 처음입니다. 모두 당당하게 서로가 적어 내린 소원들을 물어보고, 정보를 연하장에 적어 교환까지 하다니, 너무 조심성 없는 행동이 아닌지…… 이런 파티를 매년 하는 겁니까?",
+                "cn": "新年快乐，博士。我从来没有参加过这样吵吵闹闹的舞会，大家毫不掩饰地相互刺探刚刚许下的愿望，将情报写在送给对方的明信片里，有些蠢......每年都会有吗？这样的舞会。"
+            },
+            "asset": "char_4017_puzzle/CN_038"
+        },
+        {
             "id": "char_4017_puzzle_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,22 @@
                 "cn": "呃，又遇见您了，博士。"
             },
             "asset": "char_4017_puzzle/CN_042"
+        },
+        {
+            "id": "char_4017_puzzle_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Puzzle.' It's the identity I've both kept the longest, and had the least motive to work under. Rhodes Island really is a strange place. What is it that makes you all gather here...? Doctor, I've already handed in my on-board continuance application to our superiors.",
+                "jp": "「パズル」、コードネームとしては今までで一番長く使うモノになりました。そして、一番偽装に注力しなかった身分でもあります。ロドスは本当に変わった場所ですね。貴方がたは一体何のためにここに集っているのか……ドクター、既に上司に申請を出していますが、私はもうしばらくこの艦に留まりたいと考えています。",
+                "kr": "'퍼즐', 지금까지 가장 오래 사용한 신분인 동시에, 가장 위장에 신경 쓰지 않은 신분이기도 합니다. 로도스 아일랜드는 정말 신기한 곳입니다. 당신들이 무엇을 위해 이곳에 모여 있는 건지는 알 수 없지만…… 박사님, 이 함에는 조금 더 머물고 싶습니다. 이미 상사에게도 신청해 두었습니다.",
+                "cn": "“谜图”，这是我保留最久，也是最没有用心经营的身份。罗德岛真是一个奇怪的地方，你们到底因为什么而凝聚于此......博士，我已经向上级提交了继续留舰的申请。"
+            },
+            "asset": "char_4017_puzzle/CN_044"
         }
     ],
     "actors": {
