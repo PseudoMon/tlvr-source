@@ -1,0 +1,628 @@
+{
+    "charid": "char_4064_mlynar_epoque#28",
+    "nameid": "mlynar-epoque",
+    "names": {
+        "en": "Młynar EPOQUE",
+        "jp": "ムリナール EPOQUE",
+        "kr": "무에나 EPOQUE",
+        "cn": "玛恩纳 EPOQUE"
+    },
+    "voices": [
+        {
+            "id": "char_4064_mlynar_epoque#28_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Just another rainfall.",
+                "jp": "……雨が降っただけだ。",
+                "kr": "……비가 내렸을 뿐이다.",
+                "cn": "......只是下了场雨而已。"
+            },
+            "asset": "char_4064_mlynar_epoque#28/CN_001"
+        },
+        {
+            "id": "char_4064_mlynar_epoque#28_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "I've never guaranteed your survival for following me, Toland. If it was their lives that your hunters valued, they shouldn't have stepped onto the battlefield or had their recklessness take over them in the first place... Their deaths are not what you need to downplay for your mockery. You will always remember. As will I.",
+                "jp": "私についてくれば活路が開けるなどと保証をした覚えはないぞ、トーランド。お前のハンターたちが生き延びたいだけなら戦場についてくるな、好き勝手な動きもするな……それと私を揶揄するために、あえて彼らの死を貶さなくていい。お前は彼らを忘れることはないだろう。私もそれは変わらない。",
+                "kr": "날 따라오면 살길이 생길 거라고 장담한 적은 없는 것 같은데, 톨런드. 네 헌터들이 정말로 살아남길 바란다면 전장에 따라오지도, 제멋대로 움직이지도 말라고 전해…… 그리고 날 조롱하기 위해서 굳이 그들의 죽음을 일부러 욕보일 필요는 없다. 네가 그들을 잊을 리 없듯, 나도 그러하니까.",
+                "cn": "我从未保证跟着我就有活路，托兰。如果你的猎人们真的只想活命，就别跟到战场上，也别那么疯......你也不必为了挖苦我，故意轻描淡写他们的死。你会一直记得。我也是。"
+            },
+            "asset": "char_4064_mlynar_epoque#28/CN_002"
+        },
+        {
+            "id": "char_4064_mlynar_epoque#28_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "The rivalries in the halls of power never ceased, they've merely become a part of the opportunistic pursuit of profit. The only constant is the innocent being dragged into the cesspool. As vassals of a treasonous knight, your parents were forced to take you into their involuntary flight ere the fabricated incrimination could arrive... Czcibor, why? Why didn't you... flee even further?",
+                "jp": "権力者たちの闘争は止んではいない。投機と金儲けの一部となっただけだ。お前の両親が謀反した騎士の家臣だったというだけで家ごと追われたように、今でも罪なき者が巻き添えになる状況は変わっていない……シチボル、なぜお前は……もっと遠くへ逃げなかったんだ？",
+                "kr": "권력자들의 투쟁은 아직 끝나지 않았다. 그저 투기와 돈벌이의 일부가 되었을 뿐이지. 네 부모가 반역한 기사의 가신이었다는 이유만으로 온 집안이 쫓겨났던 것처럼, 지금도 여전히 무고한 사람들이 고통받고 있어…… 츠시보르, 넌 어째서…… 더 멀리 도망치지 않은 거지?",
+                "cn": "权贵间的倾轧并未衰朽，只是变为了投机牟利的一环。无辜者仍然被株连，就如你的父母只因叛国骑士的家臣这一身份，就被迫举家出逃......切斯柏，你为什么......不逃得更远一些？"
+            },
+            "asset": "char_4064_mlynar_epoque#28/CN_003"
+        },
+        {
+            "id": "char_4064_mlynar_epoque#28_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Why are you still here? Our ideals have come to an end, and I witnessed their final moments... No, never mind. You wish to spar? Then pick up your spear. Entrust your future not to a failure, but to sacrifice, and the pain in your flesh. Come.",
+                "jp": "お前たち、なぜまだここにいるんだ？理想は潰え、その最後の時も私はこの目で見た……いや、何でもない。騎士の戦いの稽古をしたいのだな？では槍を持て。お前たちの未来を落伍者に託すな。犠牲と薄っぺらい痛みを信じるのだ。来い。",
+                "kr": "너희가 왜 여기에 있는 거지? 이상은 무너졌고, 그 마지막 순간 역시 내 두 눈으로 똑똑히 보았는데…… 아니, 아무것도 아니다. 기사 전투 연습을 하고 싶다고? 그럼 창을 들어라. 너희의 미래를 실패자에게 맡기지 말도록, 너희가 믿어야 할 것은 오직 희생과 피부로 느껴지는 고통뿐이다. 와라.",
+                "cn": "你们怎么还在这里？理想已经终结，而我看到了它的最后一刻......不，没什么。你想练习骑士格斗？那就拿起枪。别把你们的未来托付给一个失败者，相信牺牲和皮肤的刺痛。来吧。"
+            },
+            "asset": "char_4064_mlynar_epoque#28/CN_004"
+        },
+        {
+            "id": "char_4064_mlynar_epoque#28_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Father, you once told me that longswords are suitable only for valorous young knights. But the National Council's miscarriage of justice, the General Chamber of Commerce's rise to prominence—everything I've wanted to stop, my blade was useless to prevent. I couldn't remove your lesions, and with it by my side I watched as Schnitz left... I merely became accustomed to its prescence.",
+                "jp": "父上、あなたはかつて、血気盛んな若年の騎士にこそ長剣は似合うとおっしゃいました。しかし、国民議会の冤罪事件に商業連合会の台頭……私が防ぎたかったものにはいずれも、刃が届きません。あなたの病巣を取り除くことは叶わず、スニッツが去っていくのも見ているしかなかった。ですが私は……ただこの剣に慣れてしまっただけなのです。",
+                "kr": "아버지. 아버지께서 말씀하셨죠. 장검은 혈기 왕성한 젊은 기사에게나 어울리는 무기라고 말입니다. 하지만 국민원의 억울한 사건들, 그리고 상업연합회의 급부상까지…… 제가 막고 싶었던 것들은 전부 베어낼 수 없었습니다. 아버지의 병터도 베어내지 못했고, 스니츠가 떠나가는 것도 그저 지켜보기만 했습니다. 하지만 전…… 이미 이 검에 익숙해져 버렸습니다.",
+                "cn": "父亲，您曾说，好斗的年轻骑士才适合长剑。但国民院的冤案，商业联合会的崛起——一切我想阻拦的，都无法被杀死。我斩不去您的病灶，我看着斯尼茨离去，可我只是......习惯了这把剑。"
+            },
+            "asset": "char_4064_mlynar_epoque#28/CN_005"
+        },
+        {
+            "id": "char_4064_mlynar_epoque#28_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Golden plains, a field of wheat, the path of a nomadic city, and the wake of a Catastrophe. The manor's garden, the arena, and those who hand over their last coin along with their last harvest... Father, I've always tried to walk a righteous path.",
+                "jp": "金色の野原、麦の穂波、移動都市の航路、天災の痕跡。領主の荘園、騎士競技場、最後の一枚のコインと最後の一握りの収穫を差し出す人々……父上、私はずっと同じ道を歩いています。",
+                "kr": "황금빛 들판, 보리밭, 이동 도시의 항로, 재앙의 흔적. 영주의 토지, 기사 경기장. 마지막 남은 동전 한 닢과 한 줌의 수확까지 모두 내놓은 사람들…… 아버지, 전 계속 같은 길 위를 걷고 있습니다.",
+                "cn": "金色的平原，麦田，移动城市的航道，天灾的痕迹。领主庄园，骑士竞技场，交出最后一枚硬币和最后一把收成的人们......父亲，我一直走在同一条路上。"
+            },
+            "asset": "char_4064_mlynar_epoque#28/CN_006"
+        },
+        {
+            "id": "char_4064_mlynar_epoque#28_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Forget it, Schnitz. How am I to tutor Maria in your stead? I am no knight, and certainly no father. No one would call me 'gentle.' Besides... I never once imagined I would actually return to this place... Why, Schnitz? Why am I the one to remain?",
+                "jp": "よく言うな、スニッツ。お前たちの代わりにマリアを導けるわけないだろう？私は騎士ではない。父親でもない。特に優しいわけでもない。それに……自分が本当にあそこへ戻るとも思っていなかった……一度もな。何故だ、スニッツ？どうして残ったのは私だったんだ？",
+                "kr": "그만, 스니츠. 내가 어떻게 너희를 대신해서 마리아를 가르칠 수 있다는 거지? 난 기사도, 아버지도 아니야. 너처럼 상냥한 것도 아니라고. 게다가…… 난 내가 그곳으로 돌아가리라 생각해 본 적도 없어…… 단 한 번도 없었다고. 어째서지 스니츠? 왜 내가 남게 된 거지?",
+                "cn": "得了，斯尼茨，我哪里能替你们教导玛莉娅？我不是骑士，也不是一个父亲。我并不温柔。而且......我没想过自己真的会回到那里......从没想过。为什么，斯尼茨？为什么是我留下？"
+            },
+            "asset": "char_4064_mlynar_epoque#28/CN_007"
+        },
+        {
+            "id": "char_4064_mlynar_epoque#28_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Margaret doesn't speak to me, but considering how she was back then... we had no need to. She is just like you were at that age, Yolanta, too much so. She will experience the same things you did, and she will never regret them. That I should tarry at her side more? Hmph, there's no point.",
+                "jp": "マーガレットが私と会話をしなかったのは、当時の本人の性格が原因だ……特にコミュニケーションをとる必要もなかったしな。彼女は若い頃のあなたにそっくりだよ、ヨランタ。同じようなことを身をもって体験し、そして同じように決して後悔はしないだろう。もっと家に帰って見てやれ？はっ、無意味だよ。",
+                "kr": "마가렛이 나와 대화를 하지 않은 건, 그 당시 마가렛의 성격 때문이다…… 물론 둘 다 소통의 필요성을 느끼지 못하기도 했고. 마가렛은 젊은 시절의 너와 닮았다, 욜란타. 비슷한 일을 몸소 경험하더라도,  마치 네가 그랬던 것처럼 후회하지는 않겠지. 자주 집에 돌아와서 얼굴 좀 비치라고? 하, 쓸데없는.",
+                "cn": "玛嘉烈不跟我搭话，只是她那时的性格使然......我们也没有沟通的必要。她和你年轻时太像了，约兰塔。她会亲自经历那些事，也一样从不后悔。多回家看看？呵，没用的。"
+            },
+            "asset": "char_4064_mlynar_epoque#28/CN_008"
+        },
+        {
+            "id": "char_4064_mlynar_epoque#28_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "The Grand Knight Territory's appearance is ever-fluid. Today, the city exhibits no trace of what it was twenty years ago, its sunset-lit silhouette sunken and gone... Yet its nightscapes still spring up to my mind at times wanted and at times not. Often, I find myself thinking that I should at least... try to seek out and reclaim that past.",
+                "jp": "大騎士領の風景は日ごとに変化しており、二十年前の夕暮れに街が落とした影は、今の道路に何の痕跡も残していない……それでも、あの夜景は私にとっては馴染み深いものだ。ただ、時折考えるんだ……少なくとも、過去を取り戻すべきだと。",
+                "kr": "그랜드 나이트 영지의 풍경은 하루가 다르게 변하고 있다. 20년 전 석양에 드리우던 도시의 그림자는, 지금의 거리에선 흔적조차 찾아볼 수 없지…… 하지만 난 여전히 그때의 야경이 생생하게 떠오르곤 한다. 그리고 가끔은…… 적어도 그 과거를 되찾아와야 한다는 생각을 하곤 해.",
+                "cn": "大骑士领的景观日新月异，二十年前城市日落的剪影，在如今的街道上没有留下任何痕迹......但我仍然如此熟悉那里的夜景。我只是时常在想，我至少该......把过去找回来。"
+            },
+            "asset": "char_4064_mlynar_epoque#28/CN_009"
+        },
+        {
+            "id": "char_4064_mlynar_epoque#28_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "The sound of a rainstorm in the wilderness...",
+                "jp": "荒野に響く風雨の音……",
+                "kr": "황야를 울리는 비바람 소리……",
+                "cn": "旷野上的风雨声......"
+            },
+            "asset": "char_4064_mlynar_epoque#28/CN_010"
+        },
+        {
+            "id": "char_4064_mlynar_epoque#28_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": " 'Fear neither hardship nor darkness...' Hmph. A bygone time unworthy of remembering. A dream, far too lucid.",
+                "jp": "「苦難と闇を畏れるべからず」……ふっ。思い出すにも値しない時代だ。夢でもな。",
+                "kr": "“고난과 어둠을 두려워 말라.” ……훗. 그리워할 가치도 없는 시대다. 이런 꿈을 꾸다니.",
+                "cn": "“不畏苦暗”......呵。一个并不值得怀念的时代。太过清醒的梦。"
+            },
+            "asset": "char_4064_mlynar_epoque#28/CN_011"
+        },
+        {
+            "id": "char_4064_mlynar_epoque#28_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Nearly the same struggles and sacrifices...",
+                "jp": "変わらない闘争と犠牲……",
+                "kr": "투쟁과 희생은 여전하군……",
+                "cn": "相似的斗争与牺牲......"
+            },
+            "asset": "char_4064_mlynar_epoque#28/CN_012"
+        },
+        {
+            "id": "char_4064_mlynar_epoque#28_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Blank paperwork for promotion within the order, excerpts from the recon knights' reports on our movements... Schnitz often sent these things, as his way of saying hello.",
+                "jp": "騎士団からの叙任通知、偵察騎士からの報告で我々の動きに関する部分……スニッツはいつもこれを挨拶代わりに送ってくる。",
+                "kr": "기사단 서임 통지서, 우리의 움직임에 관한 내용이 포함된 정찰 기사의 보고서…… 스니츠는 늘 이런 문서를 인사말 대신 보냈었지.",
+                "cn": "骑士团的空白擢升文书，侦察骑士的报告中有关我们动向的部分......斯尼茨总是寄这些东西来打招呼。"
+            },
+            "asset": "char_4064_mlynar_epoque#28/CN_013"
+        },
+        {
+            "id": "char_4064_mlynar_epoque#28_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "How should I present myself...? As the one slandered by the papers and the groundless gossip in town? Or as the wanderer who once treated that vilification as a badge of honor?",
+                "jp": "私はどうあるべきなんだ？……マスコミが書き立てているように下劣で、巷で噂されるような姿でいるべきか？それとも、かつてそうした視線を勲章としていた遊侠のようにあるべきか？",
+                "kr": "난 어떤 모습으로 보여지고 있지? ……언론에서 떠들어대는 것 같은, 항간에 떠도는 소문 같은 모습인가? 아니면, 한때 그런 시선을 훈장처럼 여겼던 협객처럼 보여지고 있나?",
+                "cn": "我看起来该是什么样子？......像报纸上的污蔑毁谤、街头风传的流言蜚语一样？还是像那个曾把这些敌视当作自己头衔的游侠一样？"
+            },
+            "asset": "char_4064_mlynar_epoque#28/CN_014"
+        },
+        {
+            "id": "char_4064_mlynar_epoque#28_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "To think they all still believe that blood is not spilled in vain…",
+                "jp": "皆はまだ無為に血が流れることはないと信じている……",
+                "kr": "아직도 헛되게 흘릴 피는 없다고 믿는 모양이군……",
+                "cn": "所有人还在相信血不会白白流淌......"
+            },
+            "asset": "char_4064_mlynar_epoque#28/CN_017"
+        },
+        {
+            "id": "char_4064_mlynar_epoque#28_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Follow me.",
+                "jp": "ついてこい。",
+                "kr": "날 따라와라.",
+                "cn": "跟我走吧。"
+            },
+            "asset": "char_4064_mlynar_epoque#28/CN_018"
+        },
+        {
+            "id": "char_4064_mlynar_epoque#28_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "The sound of the wind in the barrens... Far too familiar.",
+                "jp": "あまりにも馴染みが深すぎる荒野の風の音だ。",
+                "kr": "너무나도 익숙한 황야의 바람 소리군.",
+                "cn": "太过熟悉的荒野风声。"
+            },
+            "asset": "char_4064_mlynar_epoque#28/CN_019"
+        },
+        {
+            "id": "char_4064_mlynar_epoque#28_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "It would seem they have yet to remember what to fear.",
+                "jp": "どうやら相手はまだ何を恐れるべきか覚えていないようだ。",
+                "kr": "저들은 아직 무엇을 두려워해야 하는지 기억하지 못하는 모양이군.",
+                "cn": "看来他们还没有记住该畏惧什么。"
+            },
+            "asset": "char_4064_mlynar_epoque#28/CN_020"
+        },
+        {
+            "id": "char_4064_mlynar_epoque#28_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Yes?",
+                "jp": "何か？",
+                "kr": "무슨 일이지?",
+                "cn": "怎么？"
+            },
+            "asset": "char_4064_mlynar_epoque#28/CN_021"
+        },
+        {
+            "id": "char_4064_mlynar_epoque#28_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Blade whetted again… for but another battle…",
+                "jp": "一度また一度と、切っ先を鋭くするだけ……",
+                "kr": "한 번, 또 한 번, 칼끝을 더욱 날카롭게 할 뿐이다……",
+                "cn": "只是一次又一次磨砺剑锋......"
+            },
+            "asset": "char_4064_mlynar_epoque#28/CN_022"
+        },
+        {
+            "id": "char_4064_mlynar_epoque#28_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Do I need to repeat myself on the battle plan?",
+                "jp": "作戦の内容を繰り返した方がいいか？",
+                "kr": "작전 내용을 다시 설명해야 하나?",
+                "cn": "我还需要再重复一次作战安排吗？"
+            },
+            "asset": "char_4064_mlynar_epoque#28/CN_023"
+        },
+        {
+            "id": "char_4064_mlynar_epoque#28_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "All those... I have yet to abandon.",
+                "jp": "私が……いまだ手放していないものたち。",
+                "kr": "내가…… 아직도 놓지 못한 것들.",
+                "cn": "那些......我还未放弃的东西。"
+            },
+            "asset": "char_4064_mlynar_epoque#28/CN_024"
+        },
+        {
+            "id": "char_4064_mlynar_epoque#28_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "It will be over before you feel the pain.",
+                "jp": "痛みを覚える前に終わる。",
+                "kr": "눈이 부시기도 전에 끝날 거다.",
+                "cn": "感到刺痛之前就会结束。"
+            },
+            "asset": "char_4064_mlynar_epoque#28/CN_025"
+        },
+        {
+            "id": "char_4064_mlynar_epoque#28_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Face the tide? Hmph.",
+                "jp": "波を迎え撃つと？フッ。",
+                "kr": "파도를 맞이하라고? 하.",
+                "cn": "迎向浪潮？呵。"
+            },
+            "asset": "char_4064_mlynar_epoque#28/CN_026"
+        },
+        {
+            "id": "char_4064_mlynar_epoque#28_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "The sunlight will have to wait.",
+                "jp": "……日の出を待とう。",
+                "kr": "……해가 뜰 때까지 기다리지.",
+                "cn": "......等待日出吧。"
+            },
+            "asset": "char_4064_mlynar_epoque#28/CN_027"
+        },
+        {
+            "id": "char_4064_mlynar_epoque#28_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Even if there is but a sigh at the very end.",
+                "jp": "たとえ、終わりに溜息しか残らずとも。",
+                "kr": "이 길 끝에 남는 것이 한숨뿐이더라도.",
+                "cn": "即使尽头只是一声叹息。"
+            },
+            "asset": "char_4064_mlynar_epoque#28/CN_028"
+        },
+        {
+            "id": "char_4064_mlynar_epoque#28_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "There is no one man who loftily sneers at the pointlessness of it all... Time speeds past us equally.",
+                "jp": "お高くとまり、すべてが徒労だと嗤うのは、誰でもない……時代は今まさに駆け抜けていくのだ。",
+                "kr": "높은 곳에 머물며 이 모든 노력을 헛수고라고 비웃는 자는, 다른 누구도 아니다…… 시대는 지금도 빠르게 흘러가고 있다.",
+                "cn": "高高在上、嗤笑这一切徒劳无功的，并不是任何人......时代正疾驰而过。"
+            },
+            "asset": "char_4064_mlynar_epoque#28/CN_029"
+        },
+        {
+            "id": "char_4064_mlynar_epoque#28_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "...Wake me up.",
+                "jp": "……起こしてくれ。",
+                "kr": "……깨워줬음 하는군.",
+                "cn": "......叫醒我吧。"
+            },
+            "asset": "char_4064_mlynar_epoque#28/CN_030"
+        },
+        {
+            "id": "char_4064_mlynar_epoque#28_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "From the windows of Kawalerielki's towers, my eyes have grown tired of those men and their unpunished misdeeds.",
+                "jp": "得るべき報いが与えられなかった者たち……大騎士領の高層ビルの窓から、飽きるほど見てきた。",
+                "kr": "받아야 할 교훈을 받지 않은 자들은…… 그랜드 나이트 영지 고층 빌딩의 창밖으로 이미 수없이 봐 왔다.",
+                "cn": "得不到应有教训的人......在大骑士领高楼的窗前，我已经看得够多了。"
+            },
+            "asset": "char_4064_mlynar_epoque#28/CN_031"
+        },
+        {
+            "id": "char_4064_mlynar_epoque#28_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": " 'Failure can be endured.' ... But the price is always dear.",
+                "jp": "「失敗は受け止められるものだ。」……だが、多くの場合、その代償は重いものだ。",
+                "kr": "“실패는 받아들일 수 있다” ……단지 그 대가가 클 뿐이지.",
+                "cn": "“失败是可以忍受的。”......只是代价往往惨重。"
+            },
+            "asset": "char_4064_mlynar_epoque#28/CN_032"
+        },
+        {
+            "id": "char_4064_mlynar_epoque#28_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "I have no promises to make.",
+                "jp": "約束できることなどない。",
+                "kr": "내가 약속할 수 있는 건 없다.",
+                "cn": "我没有什么可承诺的。"
+            },
+            "asset": "char_4064_mlynar_epoque#28/CN_033"
+        },
+        {
+            "id": "char_4064_mlynar_epoque#28_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "I can tell who you are. Speak freely.",
+                "jp": "いるのは分かっている。用件を言え。",
+                "kr": "누군지 알 것 같군, 용건을 말해라.",
+                "cn": "我感觉得到是谁。说吧。"
+            },
+            "asset": "char_4064_mlynar_epoque#28/CN_034"
+        },
+        {
+            "id": "char_4064_mlynar_epoque#28_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Do not add any frivolous decorations to my sword, Toland... In the Grand Knight Territory, there are merchants eying the Nearl name. They will do as you do, and ridicule me in your place.",
+                "jp": "私の剣に無用な装飾を加えるな、トーランド……大騎士領で「ニアール」の名を使いたい商人たちこそが、お前に代わってそうした方法で私を愚弄するのだ。",
+                "kr": "내 검에 쓸데없는 장식을 붙이지 마라. 톨런드…… 그랜드 나이트 영지에서 '니어'의 이름을 빌리려 드는 상인들이 널 대신해 그런 식으로 날 조롱할 테니.",
+                "cn": "别往我的剑上加无用的装饰，托兰......大骑士领那些想借用“临光”之名的商人，会替你用这种手段嘲弄我的。"
+            },
+            "asset": "char_4064_mlynar_epoque#28/CN_036"
+        },
+        {
+            "id": "char_4064_mlynar_epoque#28_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4064_mlynar_epoque#28/CN_037"
+        },
+        {
+            "id": "char_4064_mlynar_epoque#28_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Let us pretend that today was the New Year. Who could remember dates, after having trudged the wilderness for so long? ...But I am not wrong about the dates, I know. Everything that happens in Kawalerielki is measured by how many days it remains in the paper, no more and no less. No matter the story.",
+                "jp": "今日を新年だと思って過ごすことにしよう。長く荒野をさまよっているのに、日付を覚えてなどいるか……だが、今日で間違いないんだ、それは知っている。大騎士領で起きることはすべて新聞上では日付でカウントされていく――多くても少なくても、何事であってもだ。",
+                "kr": "오늘을 새해라 생각하고 보내도록 하지. 긴 시간 황야를 떠돌았으니, 날짜 같은 걸 기억하고 있을 리가 없지…… 하지만 오늘이 틀림없겠지. 알고 있다. 그랜드 나이트 영지에서 일어나는 모든 일은 신문에서 날짜로 계산되는 법이니까. 얼마나 많은 일들이 일어났고, 또 무슨 일이 일어날 지에는 상관없이.",
+                "cn": "就把今天当作新年来过吧。长时间荒地跋涉，谁还能记得日期？......但日期没有错，我知道。大骑士领的一切在报纸上以日计算，不多不少，不论何事。"
+            },
+            "asset": "char_4064_mlynar_epoque#28/CN_038"
+        },
+        {
+            "id": "char_4064_mlynar_epoque#28_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Do I long for the old days? No. I simply cannot forget. That which I saw in the places untouched by light... and could do nothing about.",
+                "jp": "懐かしい？いや。ただ忘れられないだけだ。光が届かない場所で起きたあれらの……この目で見ておきながら、どうにもできなかった物事は全てそうだ。",
+                "kr": "그립냐고? 아니. 그저 잊을 수 없을 뿐이다. 빛이 닿지 않는 곳에서 일어났던…… 두 눈으로 똑똑히 봐왔음에도 어찌할 수 없었던 그 모든 일들을 말이다.",
+                "cn": "怀念？不。我只是不能忘记这一切。在灯光照不到的地方，那些我所见的......我无能为力的事情。"
+            },
+            "asset": "char_4064_mlynar_epoque#28/CN_042"
+        },
+        {
+            "id": "char_4064_mlynar_epoque#28_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "No matter when or where, there are always those shouting out their naive ideals. However, the idealists are not the only ones who can move forward.",
+                "jp": "どこにいようと、どの時代であろうと、甘い理想を声高に叫ぶ者はいる……だが、前に進めるのは理想主義者だけではない。",
+                "kr": "어느 장소, 어느 시대든 달콤한 이상을 소리 높여 외치고 다니는 사람은 있기 마련이지…… 하지만, 이상주의자만이 앞으로 나아가는 건 아니다.",
+                "cn": "无论在哪里，无论哪个时代，总有人高呼自己天真的理想......但是，也并非只有理想主义者才会前行。"
+            },
+            "asset": "char_4064_mlynar_epoque#28/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Anthony Howell",
+            "global": "Anthony Howell"
+        },
+        "cn": {
+            "native": "王宇航",
+            "global": "Yuhang Wang"
+        },
+        "jp": {
+            "native": "小山力也",
+            "global": "Rikiya Koyama"
+        },
+        "kr": {
+            "native": "최현수",
+            "global": "Choi Hyun-su"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

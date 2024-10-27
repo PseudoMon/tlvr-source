@@ -65,6 +65,7 @@ def make_charlist():
 			continue
 
 		newchar = {
+			"fullid": charid,
 			"nameid": charname,
 			"numberid": splitid[1],
 			"name": { }
@@ -210,7 +211,7 @@ def get_voice_availability(charid, wordtables):
 	print("Availability found with langs:", availability)
 	return availability
 
-def get_and_write_chardata(charid, wordtables, names={}):
+def get_chardata(charid, wordtables, names={}):
 	voices = get_voices(charid, wordtables)
 	actors = get_actors(charid, wordtables)
 	availability = get_voice_availability(charid, wordtables)
@@ -224,15 +225,20 @@ def get_and_write_chardata(charid, wordtables, names={}):
 		"availability": availability,
 	}
 
+	return chardata
+
+def get_and_write_chardata(charid, wordtables, names={}):
+	chardata = get_chardata(charid, wordtables, names)
+
 	save_json(chardata, f"chardata/{charid}.json")
 	print(f"Written chardata for {charid}")
 
-def process_all_characters():
-	charlist = load_json("charlist.json")
-	wordtables = load_wordtables()
+def process_all_characters(charlist, wordtables):
 	for char in charlist:
 		charid = f"char_{char['numberid']}_{char['nameid']}"
 		get_and_write_chardata(charid, wordtables, char["name"])
+
+	return wordtables
 
 def get_and_save_misc_data(charlist):
 	nations = []
@@ -245,31 +251,16 @@ def get_and_save_misc_data(charlist):
 	save_json(miscdata, "miscdata.json")
 	print("Created misc data file")
 
-if __name__ == "__main__":  
-	# charlist = load_json("charlist.json")
-	# test_chars = ["indigo", "texas", "lmlee", "jnight", 
-	# 	"lolxh", "ncdeer", "aprot2"]
-	# chars = [char for char in charlist if char["nameid"] in test_chars]
+def shit():
+	print("Hello")
 
-	# chartable = load_chartable("en")
-	# factions = []
-	# for charid in chartable:
-	# 	chardata = chartable[charid]
-	# 	faction = chardata["nationId"]
-	# 	if faction not in factions:
-	# 		factions.append(faction)
-
-	# nonationfactions = ["rainbow", "babel", "followers"]
-	# nations = ['rhodes', 'kazimierz', 'columbia', None, 
-	# 	'laterano', 'victoria', 'sami', 'bolivar', 'iberia', 
-	# 	'siracusa', 'higashi', 'sargon', 'kjerag', 'minos', 'yan', 
-	# 	'lungmen', 'ursus', 'egir', 'leithanien', 'rim']
-
-	# print(factions)
-
+def run_transformer():
 	make_and_save_charlist()
 
 	charlist = load_json("charlist.json")
-	get_and_save_misc_data(charlist)
+	wordtables = load_wordtables()
 
-	process_all_characters()
+	get_and_save_misc_data(charlist)
+	process_all_characters(charlist, wordtables)
+
+	return charlist, wordtables

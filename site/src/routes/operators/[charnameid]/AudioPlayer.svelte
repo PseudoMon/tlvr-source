@@ -4,6 +4,9 @@
   export let assetloc: string;
   export let availability: string[] = [];
 
+  // Some skins have # in the name, which has to be translated in URL
+  $: assetlocClean = assetloc.replace("#", "%23")
+
   const sourceurl = "https://raw.githubusercontent.com/PseudoMon/arknights-audio/global-server-voices"
 
   const voiceMap = {
@@ -30,31 +33,31 @@
     
     // One of the standard voice languages
     if (Object.keys(voiceMap).includes(lang)) {
-      return `${sourceurl}/${voiceMap[selectedLang]}/${assetloc}.mp3`;
+      return `${sourceurl}/${voiceMap[selectedLang]}/${assetlocClean}.mp3`;
     }
 
     // Regional voice
     else if (regionalLangs.includes(lang)) {
-      const regionalAssetloc = assetloc.replace("/", `_${lang}/`);
+      const regionalAssetloc = assetlocClean.replace("/", `_${lang}/`);
       return `${sourceurl}/voice_custom/${regionalAssetloc}.mp3`;
     }
 
     else if (regionalLang_sans_suffix.includes(lang)) {
-      return `${sourceurl}/voice_custom/${assetloc}.mp3`;
+      return `${sourceurl}/voice_custom/${assetlocClean}.mp3`;
     }
 
     // Specific file location for crossover characters
     else if (lang === "linkage") {
-      if (teamrainbow.some(name => assetloc.includes(name))) {
-        return `${sourceurl}/${voiceMap["jp"]}/${assetloc}.mp3`
+      if (teamrainbow.some(name => assetlocClean.includes(name))) {
+        return `${sourceurl}/${voiceMap["jp"]}/${assetlocClean}.mp3`
       } 
 
-      if (assetloc.includes("ncdeer")) {
-        return `${sourceurl}/${voiceMap["cn"]}/${assetloc}.mp3`
+      if (assetlocClean.includes("ncdeer")) {
+        return `${sourceurl}/${voiceMap["cn"]}/${assetlocClean}.mp3`
       }
 
-      if (assetloc.includes("palico")) {
-        return `${sourceurl}/${voiceMap["jp"]}/${assetloc}.mp3`
+      if (assetlocClean.includes("palico")) {
+        return `${sourceurl}/${voiceMap["jp"]}/${assetlocClean}.mp3`
       }
     }
     

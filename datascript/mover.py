@@ -3,10 +3,26 @@ from os import path
 import subprocess
 from utils import load_json, save_json
 
+def get_extravoice_path(basename):
+    splitname = basename.split("_")
+    base = splitname[-2]
+    brand = splitname[-1].split("#")[0]
+    targetname = base + "-" + brand
+
+    return targetname
+
 def move_chardata():
     charpaths = glob.glob("chardata/*.json")
     for charpath in charpaths:
         targetname = path.basename(charpath).split("_")[-1]
+
+        if "#" in targetname:
+            if targetname.split("#")[-1] == "1.json":
+                targetname = targetname.split("#")[0] + "-e2.json"
+            else:
+                targetname = get_extravoice_path(path.basename(charpath)) \
+                    + ".json"
+
         targetpath = path.join("..", "site", "static", 
             "data", "chardata", targetname)
         data = load_json(charpath)
@@ -18,10 +34,6 @@ def move_chardata():
 
 def move_charlist():
     charlist = load_json("charlist.json")
-    # Some selections for testing
-    # chosens = ["indigo", "texas", "lmlee", "jnight", 
-    # "lolxh", "ncdeer", "aprot2"]
-    #charlist = [char for char in charlist if char["nameid"] in chosens]
 
     save_json(charlist, path.join("..", "site", "static", 
             "data", "charlist.json"), False)
@@ -37,6 +49,10 @@ def move_avatars():
     avapaths = glob.glob("images/avatars2/*.webp")
     for avapath in avapaths:
         targetname = path.basename(avapath).split("_")[-1]
+
+        if "#" in targetname:
+            targetname = get_extravoice_path(path.basename(avapath))
+
         targetname = path.splitext(targetname)[0] + ".webp"
         targetpath = path.join("..", "site", "static", 
             "images", "avatars", targetname)
