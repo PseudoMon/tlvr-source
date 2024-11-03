@@ -5,7 +5,7 @@
 <footer>
   <a href="https://github.com/PseudoMon/tlvr-source" target="_blank"><GithubIcon /></a>
   <span>Site version 1.3</span>
-  <span>Data last updated: 2024-10-20 (Babel on Global)</span>
+  <span>Data last updated: 2024-11-03 (Episode 14 on Global)</span>
 </footer>
 
 <style>

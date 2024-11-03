@@ -91,6 +91,19 @@
         "rating": 1
     },
     {
+        "fullid": "char_4136_phonor",
+        "nameid": "phonor",
+        "numberid": "4136",
+        "name": {
+            "en": "PhonoR-0",
+            "jp": "PhonoR-0",
+            "kr": "PhonoR-0",
+            "cn": "PhonoR-0"
+        },
+        "nation": "rhodes",
+        "rating": 1
+    },
+    {
         "fullid": "char_502_nblade",
         "nameid": "nblade",
         "numberid": "502",
@@ -1206,6 +1219,19 @@
             "cn": "野鬃"
         },
         "nation": "kazimierz",
+        "rating": 5
+    },
+    {
+        "fullid": "char_1036_fang2",
+        "nameid": "fang2",
+        "numberid": "1036",
+        "name": {
+            "en": "Fang the Fire-Sharpened",
+            "jp": "歴陣鋭槍フェン",
+            "kr": "팽 더 파이어 샤픈드",
+            "cn": "历阵锐枪芬"
+        },
+        "nation": "rhodes",
         "rating": 5
     },
     {
@@ -3159,6 +3185,19 @@
         "rating": 6
     },
     {
+        "fullid": "char_1035_wisdel",
+        "nameid": "wisdel",
+        "numberid": "1035",
+        "name": {
+            "en": "Wiš'adel",
+            "jp": "ウィシャデル",
+            "kr": "위셔델",
+            "cn": "维什戴尔"
+        },
+        "nation": null,
+        "rating": 6
+    },
+    {
         "fullid": "char_1013_chen2",
         "nameid": "chen2",
         "numberid": "1013",
@@ -3276,6 +3315,19 @@
         "rating": 6
     },
     {
+        "fullid": "char_249_mlyss_boc#8",
+        "nameid": "mlyss-boc",
+        "numberid": "249",
+        "name": {
+            "en": "Muelsyse BOC",
+            "jp": "ミュルジス BOC",
+            "kr": "뮤엘시스 BOC",
+            "cn": "缪尔赛思 BOC"
+        },
+        "nation": "columbia",
+        "rating": 6
+    },
+    {
         "fullid": "char_4087_ines",
         "nameid": "ines",
         "numberid": "4087",
@@ -3351,6 +3403,19 @@
             "cn": "霍尔海雅"
         },
         "nation": "columbia",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4133_logos",
+        "nameid": "logos",
+        "numberid": "4133",
+        "name": {
+            "en": "Logos",
+            "jp": "ロゴス",
+            "kr": "로고스",
+            "cn": "逻各斯"
+        },
+        "nation": "rhodes",
         "rating": 6
     },
     {
@@ -3507,6 +3572,32 @@
             "cn": "浊心斯卡蒂"
         },
         "nation": "egir",
+        "rating": 6
+    },
+    {
+        "fullid": "char_1012_skadi2_iteration#2",
+        "nameid": "skadi2-iteration",
+        "numberid": "1012",
+        "name": {
+            "en": "Skadi the Corrupting Heart ITERATION",
+            "jp": "濁心スカジ ITERATION",
+            "kr": "스카디 더 커럽팅 하트 ITERATION",
+            "cn": "浊心斯卡蒂 ITERATION"
+        },
+        "nation": "egir",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4134_cetsyr",
+        "nameid": "cetsyr",
+        "numberid": "4134",
+        "name": {
+            "en": "Civilight Eterna",
+            "jp": "シヴィライト・エテルナ",
+            "kr": "시빌라이트 에테르나",
+            "cn": "魔王"
+        },
+        "nation": "rhodes",
         "rating": 6
     },
     {

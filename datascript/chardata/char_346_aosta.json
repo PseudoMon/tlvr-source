@@ -602,6 +602,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Gianandrea Muià",
+            "global": "Gianandrea Muià"
+        },
         "cn": {
             "native": "王宁",
             "global": "Kimi"
@@ -616,6 +620,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

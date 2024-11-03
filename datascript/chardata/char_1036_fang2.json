@@ -1,0 +1,628 @@
+{
+    "charid": "char_1036_fang2",
+    "nameid": "fang2",
+    "names": {
+        "en": "Fang the Fire-Sharpened",
+        "jp": "歴陣鋭槍フェン",
+        "kr": "팽 더 파이어 샤픈드",
+        "cn": "历阵锐枪芬"
+    },
+    "voices": [
+        {
+            "id": "char_1036_fang2_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "I've arranged today's paperwork by category, Doctor. Allow me to assist you with it.",
+                "jp": "ドクター、本日中に対応が必要な書類を種別に整理しておきました。続けて作業もお手伝いしますので、一緒に片付けましょう。",
+                "kr": "박사님, 오늘 처리해야 할 문서들을 종류별로 정리해 뒀습니다. 이제부턴 제가 박사님의 업무를 도와드리겠습니다.",
+                "cn": "博士，我已经把今天要处理的文件按照类别整理好了，接下来我会协助您一起完成工作。"
+            },
+            "asset": "char_1036_fang2/CN_001"
+        },
+        {
+            "id": "char_1036_fang2_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "I ran into Hibiscus and Lava the last time I came aboard. They were bickering about something or other, as per usual. The two sisters might've grown a lot, but they still love their daily squabbles. Doctor, do you think everybody has one thing about them... that they can never change?",
+                "jp": "前回帰艦した際にハイビスとラヴァを見かけたんですが、相変わらず口げんかをしていました。二人ともだいぶ成長したはずなのに、やっぱり気が合わないようです。ドクター、誰にでもずっと変わらない一面があるものなのでしょうか？",
+                "kr": "지난번에 함선으로 돌아왔을 때, 히비스커스랑 라바를 만났어요. 분명 많이 성장한 모습이었는데 여전히 투닥거리더라고요. 박사님, 사람이라면 누구나 변하지 않는 구석이 있는 걸까요?",
+                "cn": "上次返回本舰，我又见到了芙蓉和炎熔，她们还是在拌嘴，明明都成长了不少，却还是那么爱闹别扭。博士，是不是每个人都有不会改变的一面？"
+            },
+            "asset": "char_1036_fang2/CN_002"
+        },
+        {
+            "id": "char_1036_fang2_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "What do I do with my time off? Hmm... Well, last time, I went to see the Red Hand Gang and the survivors of that incident. Their perseverance helped me understand, on a deeper level, why Rhodes Island helps people.",
+                "jp": "休暇中は何をするか、ですか？ええと……このあいだのお休みには、あの事件の生存者と「レッドハンド」の皆さんのところに伺ってきました。彼らが一生懸命に暮らしている様子を目の当たりにして、ロドスの「弱きを助く」理念への理解がより深まったように思います。",
+                "kr": "휴가 땐 뭘 하냐고요? 으음…… 지난 휴가 땐, 그 사건의 생존자들과 '레드핸드' 사람들을 만나고 왔어요. 그들이 열심히 살아가는 모습을 보고 있자니, 로도스 아일랜드의 타인을 돕는다라는 이념에 대해서 더 깊이 이해할 수 있었죠.",
+                "cn": "放假的时候会做些什么？嗯......之前的假期，我拜访了那次事件的幸存者和“红手帮”。看见他们努力生活的样子，我更深刻地理解了罗德岛帮助他人的理念。"
+            },
+            "asset": "char_1036_fang2/CN_003"
+        },
+        {
+            "id": "char_1036_fang2_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Please don't avoid necessary training, Doctor. You see, I never missed a single training session. I wouldn't say it makes you totally untouchable in battle, but it can keep you alive. My two scars are proof of that.",
+                "jp": "ドクター、必要最低限のトレーニングはしっかり行った方がいいですよ。一度も訓練を欠席したことのない私ですら、戦場で怪我をする時はあるんです。この二本の傷跡が何よりの証拠です。",
+                "kr": "박사님, 생존에 필요한 최소한의 훈련은 빼먹지 말아 주세요. 단 한 번도 훈련에 빠진 적이 없는 저조차도 전장에서 부상을 입을 때가 있습니다. 여기 이 두 개의 흉터가 바로 그 증거예요.",
+                "cn": "博士，请不要逃避必要的锻炼。哪怕从不缺席训练，我也免不了在战场上受伤，这两道伤疤就是最好的证明。"
+            },
+            "asset": "char_1036_fang2/CN_004"
+        },
+        {
+            "id": "char_1036_fang2_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "I often think back to when Ace encouraged me to join Rhodes Island. He said I'd become a great operator. That's been my motivation to keep me going through my training. But... it was only when I officially became an operator, that I understood the weight of his expectations.",
+                "jp": "Aceさんがロドス加入を勧めてくれた時のことをよく思い出します。きっと素晴らしいオペレーターになれると励ましてくださったんです。私はそれを目標に訓練に励んできましたが、正式なオペレーターになって初めて、その期待の重さを実感しました。",
+                "kr": "Ace 씨가 로도스 아일랜드 합류를 권유해 주셨을 때가 떠오르곤 합니다. 분명 제가 훌륭한 오퍼레이터가 될 수 있을 거라고 격려해주셨었는데…… 전 그 목표를 이루기 위해 지금까지 훈련에 매진해왔지만, 정식 오퍼레이터가 되고 나서야 비로소 그 기대의 무게를 실감할 수 있었습니다.",
+                "cn": "我时常想起Ace先生鼓励我加入罗德岛的时刻，他说我会成为一名了不起的罗德岛干员。我一直以此为目标努力训练，但直到成为正式干员，我才明白这份期许的分量。"
+            },
+            "asset": "char_1036_fang2/CN_005"
+        },
+        {
+            "id": "char_1036_fang2_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "What has war revealed to you, Doctor? When I finally stood on the battlefield myself, I came to understand that many commanders see their troops as sacrificial pawns for victory. Ever since, I've always been reviewing and reassessing how I lead my squad. I'm not going to let myself become that kind of commander.",
+                "jp": "ドクターは戦争からどのような教訓を得ましたか？私は戦場に身を置いて初めて、上官の目に映る兵士というものは、勝利のための消耗品でしかないことに気付かされました。それ以来、どうやってチームを率いるべきかをよく考えるようになったんです。私はああいう冷酷な指揮官になりたくありませんから。",
+                "kr": "박사님, 박사님은 전쟁에서 어떤 교훈을 얻으셨나요? 전장에 발을 들이고 나서야, 전 상관의 눈에 비치는 병사들은 그저, 승리를 위한 소모품에 불과하다는 것을 깨달았습니다. 그 이후로 팀을 어떻게 이끌어야 할지에 대해서 자주 고민하게 되더군요. 전 그런 냉혹한 지휘관이 되고 싶지 않아요.",
+                "cn": "博士，战争带给您的启示是什么呢？置身战场后，我才明白，长官眼中的士兵都是为了胜利而存在的牺牲品。从那以后，我时常反思该如何领导小队，我可不想变成那种无情的指挥者。"
+            },
+            "asset": "char_1036_fang2/CN_006"
+        },
+        {
+            "id": "char_1036_fang2_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Once back in Londinium, some soldiers from the coalition of dukes laughed at us, calling us fools. But if Rhodes Island's operations really are foolish, then I doubt any action on this land could be called wise.",
+                "jp": "ロンディニウム滞在中、公爵連合軍の兵士に私たちの行いは愚かだとあざ笑われたことがありました。ですが、もしロドスのやっていることが「愚か」なのであれば、もうこの大地に「賢い」と言える行いはどこにもないと思います。",
+                "kr": "런디니움에 체류하던 당시, 공작 연합군의 병사들에게 저희의 행동은 어리석은 짓이라고 놀림받았던 적이 있습니다. 하지만 만약 로도스 아일랜드의 이런 행동이 '어리석다'라고 표현되는 거라면, 이 대지에는 더 이상 '현명하다'라고 할 수 있는 행동도 없겠죠.",
+                "cn": "在伦蒂尼姆期间，曾有一次，公爵联军的士兵嘲笑我们愚蠢。但我想，如果罗德岛的行为是“愚蠢”的话，那这片大地上应该没有能被称为“明智”的举动。"
+            },
+            "asset": "char_1036_fang2/CN_007"
+        },
+        {
+            "id": "char_1036_fang2_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "I sometimes go to the training grounds to guide the recruits. Most times, I'm more worried than they are about any mistakes. I always feel like I should be doing something to help push them along faster. But as Instructor Dobermann always says, I need to relax and give them more time. It looks like I still have a lot to learn.",
+                "jp": "時々、訓練場に行って新人の訓練を手伝っています。新人たちが早く訓練に慣れるための力添えができればと常々願っているので、彼らがミスすると当人以上に焦ってしまうんですよね。ですがドーベルマン教官からは、いつも「焦らずゆっくりでいい」となだめられてしまって。はぁ、私もまだまだ未熟ですね。",
+                "kr": "가끔 훈련장에 가서 신입들의 훈련을 돕고 있습니다. 신입들이 조금이라도 더 빨리 훈련에 적응했으면 하는 바람 때문일까요, 그들이 실수할 때면 실수한 당사자보다 제가 더 초조해 지곤 합니다. 하지만 그럴 때마다 도베르만 선생님께선 늘 마음을 내려놓고 천천히 해도 된다며 저를 달래주셨어요. 하아, 저도 아직 배워야 할 게 많이 남은 모양이에요.",
+                "cn": "有时候，我会去训练场帮忙锻炼新人。看见新手们犯错，我真是比他们还着急，总希望帮助他们更快地适应训练。但杜宾老师常劝导我，放宽心慢慢来。唉，看来我要学习的还有很多。"
+            },
+            "asset": "char_1036_fang2/CN_008"
+        },
+        {
+            "id": "char_1036_fang2_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Oripathy and the Infected are two very big and complex topics. The only thing I can worried about is protecting the people in front of me. But I'd like to believe that, someday, we'll find a solution to those problems. I'll be supporting you the whole way, Doctor.",
+                "jp": "鉱石病や感染者の問題は、私にとってはあまりにも複雑で到底抱えきれないものなので、普段は思い悩まず目の前の人たちを守ることに専念しています。ですがきっといつの日か、そういった問題を根こそぎ解決できると信じています。これからもずっと力になります、ドクター。",
+                "kr": "광석병과 감염자 문제는 제게 있어 너무나도 복잡하고 방대한 것이어서, 평소엔 그저 제 눈앞에 있는 사람들을 지키는 데 전념하고 있습니다. 하지만 언젠가는 이런 문제들을 근본적으로 해결할 수 있을 거라고 믿고 있습니다. 앞으로도 계속 곁에서 힘이 되어 드릴게요, 박사님.",
+                "cn": "矿石病，还有感染者，这些话题对我来说太过复杂和庞大，我只关注于保护眼前的人。但我相信，未来的某天，我们终究能解决这些问题。我会一直支持您的，博士。"
+            },
+            "asset": "char_1036_fang2/CN_009"
+        },
+        {
+            "id": "char_1036_fang2_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Doctor...? Oh, you are asleep. I'll handle the rest of your work, then.",
+                "jp": "ドクター？寝ちゃったのかな……じゃあ残りの仕事は私が片付けておこう。",
+                "kr": "박사님? 주무시는 건가…… 그럼 남은 업무는 내가 처리해두자.",
+                "cn": "博士？睡着了吗......那这些剩下的事务，我来处理就好。"
+            },
+            "asset": "char_1036_fang2/CN_010"
+        },
+        {
+            "id": "char_1036_fang2_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Rhodes Island Operator Fang, reporting in. I look different from before? Yeah, that's right.",
+                "jp": "オペレーター・フェン、ご報告に上がりました。私が随分変わったように見える？はい、もう昔の私じゃありません。",
+                "kr": "로도스 아일랜드 오퍼레이터 팽, 보고드립니다. 많이 달라진 것 같다고요? 네, 저도 많이 변했답니다.",
+                "cn": "罗德岛干员芬，前来报到。您说我看起来和以前不一样了？嗯，确实如此。"
+            },
+            "asset": "char_1036_fang2/CN_011"
+        },
+        {
+            "id": "char_1036_fang2_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Now I better understand what I've learned.",
+                "jp": "今なら以前学んだ内容をより多面的に理解できるはずです。",
+                "kr": "전에 배운 내용을 더 완벽하게 이해할 수 있게 되었습니다.",
+                "cn": "现在我能更全面地理解以前学过的内容了。"
+            },
+            "asset": "char_1036_fang2/CN_012"
+        },
+        {
+            "id": "char_1036_fang2_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Thank you for the promotion. I'll work even harder to improve myself.",
+                "jp": "抜擢いただきありがとうございます。これからもより精進して自分を磨いて参ります。",
+                "kr": "발탁해 주셔서 감사합니다. 앞으로도 더 노력하고 정진하겠습니다.",
+                "cn": "感谢您的提拔，我会更努力地提升自己。"
+            },
+            "asset": "char_1036_fang2/CN_013"
+        },
+        {
+            "id": "char_1036_fang2_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "To support the weak and protect my friends. That is my creed. The firm hand guiding me forward.",
+                "jp": "弱きを助け、仲間を守り抜く。この信念を貫いて、一歩一歩前に進んで参ります。",
+                "kr": "약자를 돕고 동료를 지킨다. 이 신념을 관철하며 한 걸음 한 걸음 굳건하게 나아가겠습니다.",
+                "cn": "帮扶弱者，保护伙伴。我会贯彻这条信念，坚定地前行。"
+            },
+            "asset": "char_1036_fang2/CN_014"
+        },
+        {
+            "id": "char_1036_fang2_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "I've read the intelligence report for this operation. Awaiting orders.",
+                "jp": "今回の作戦資料はすべて読み込んであります。いつでも行けます。",
+                "kr": "이번 작전 정보는 모두 숙지하고 있습니다. 언제든 명령을 내려 주세요.",
+                "cn": "本次作战相关的情报我已阅读完毕，随时待命。"
+            },
+            "asset": "char_1036_fang2/CN_017"
+        },
+        {
+            "id": "char_1036_fang2_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "I'm leading the squad? No problem. I've got plenty of experience.",
+                "jp": "小隊の指揮を任せる？ご安心ください、手慣れたものです。",
+                "kr": "지휘를 맡기신다고요? 걱정 마십시오, 팀을 이끄는 건 익숙하니까요.",
+                "cn": "指挥小队？放心，我已经很熟悉了。"
+            },
+            "asset": "char_1036_fang2/CN_018"
+        },
+        {
+            "id": "char_1036_fang2_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Don't be nervous. Trust your training.",
+                "jp": "みんなリラックスして、訓練と同じようにやれば問題ないから。",
+                "kr": "모두 긴장하지 말고, 훈련 때처럼 하면 문제없을 거야.",
+                "cn": "不必紧张，像训练的时候那样做就好。"
+            },
+            "asset": "char_1036_fang2/CN_019"
+        },
+        {
+            "id": "char_1036_fang2_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "All units, prepare for contact.",
+                "jp": "総員、接敵準備。",
+                "kr": "전원, 접적 준비.",
+                "cn": "全体人员，准备接敌。"
+            },
+            "asset": "char_1036_fang2/CN_020"
+        },
+        {
+            "id": "char_1036_fang2_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Ready whenever.",
+                "jp": "いつでも出られます。",
+                "kr": "언제든 출발 가능합니다.",
+                "cn": "随时可以出发。"
+            },
+            "asset": "char_1036_fang2/CN_021"
+        },
+        {
+            "id": "char_1036_fang2_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "I'm here.",
+                "jp": "はい。",
+                "kr": "네.",
+                "cn": "我在。"
+            },
+            "asset": "char_1036_fang2/CN_022"
+        },
+        {
+            "id": "char_1036_fang2_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Arrived at the objective.",
+                "jp": "目標地点に到着。",
+                "kr": "목표 지점에 도착했습니다.",
+                "cn": "抵达目标地点。"
+            },
+            "asset": "char_1036_fang2/CN_023"
+        },
+        {
+            "id": "char_1036_fang2_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Squad, form up!",
+                "jp": "隊列整え！戦線を押し広げろ！",
+                "kr": "대열을 갖추고 전선을 펼쳐라!",
+                "cn": "列队，展开阵线！"
+            },
+            "asset": "char_1036_fang2/CN_024"
+        },
+        {
+            "id": "char_1036_fang2_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Halt! Freeze there!",
+                "jp": "止まれ！一歩も前に出るな！",
+                "kr": "멈춰! 한 발짝도 움직이지 마!",
+                "cn": "停下！不许再向前一步！"
+            },
+            "asset": "char_1036_fang2/CN_025"
+        },
+        {
+            "id": "char_1036_fang2_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Charge!",
+                "jp": "突撃！",
+                "kr": "돌격!",
+                "cn": "冲锋！"
+            },
+            "asset": "char_1036_fang2/CN_026"
+        },
+        {
+            "id": "char_1036_fang2_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Ready to advance.",
+                "jp": "前進準備。",
+                "kr": "전진 준비.",
+                "cn": "准备前进。"
+            },
+            "asset": "char_1036_fang2/CN_027"
+        },
+        {
+            "id": "char_1036_fang2_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "I'll run you through!",
+                "jp": "貫け！",
+                "kr": "꿰뚫어라!",
+                "cn": "贯穿吧！"
+            },
+            "asset": "char_1036_fang2/CN_028"
+        },
+        {
+            "id": "char_1036_fang2_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "As long as we stay united and keep pushing forward, we have nothing to fear, even from the strongest enemy!",
+                "jp": "一致団結して堅実に進めば、どれほどの強敵でも恐れるに足りません！",
+                "kr": "우리가 하나가 되어 착실히 나아간다면, 아무리 강한 적이라도 두렵지 않을 겁니다!",
+                "cn": "只要我们团结一心，稳步前行，再强大的敌人也不足为惧！"
+            },
+            "asset": "char_1036_fang2/CN_029"
+        },
+        {
+            "id": "char_1036_fang2_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Excellent command as always, Doctor. The team is pretty excited. Why not let them congratulate you?",
+                "jp": "相変わらずの素晴らしい指揮でした、ドクター。隊員たちも興奮している様子ですし、皆からの賞賛をどうか受け取ってやってください。",
+                "kr": "늘 그랬듯 훌륭한 지휘였습니다, 박사님. 팀원들도 이 결과에 매우 고무되어 있으니, 오늘만큼은 모두의 찬사를 받아주시기 바랍니다.",
+                "cn": "一如既往的出色指挥，博士。队员们都很兴奋，去接受他们的赞美吧。"
+            },
+            "asset": "char_1036_fang2/CN_030"
+        },
+        {
+            "id": "char_1036_fang2_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "We barely managed to accomplish our objective. I'll get the team together for a postmortem debriefing. We'll do better next time.",
+                "jp": "なんとか作戦目標を達しましたね。反省会では、隊員たちと作戦の振り返りをして、次はもっと上手くやれるよう努めます。",
+                "kr": "간신히 작전 목표를 달성했군요. 작전 복기 때 팀원들과 함께 모든 작전 과정을 되돌아보며, 다음에는 더 나은 결과를 얻을 수 있도록 노력하겠습니다.",
+                "cn": "勉强完成战略目标。复盘时，我会带队重新推演一遍行动过程，争取下次做得更好。"
+            },
+            "asset": "char_1036_fang2/CN_031"
+        },
+        {
+            "id": "char_1036_fang2_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "We've been blindsided! All units, ensure your safety, retreat now!",
+                "jp": "非常事態発生。各員安全確保をしつつ、直ちに撤退せよ！",
+                "kr": "비상 사태 발생. 각자의 안전을 확보하면서 즉시 후퇴한다!",
+                "cn": "出现意外情况，各队员确保自身安全，立即撤退！"
+            },
+            "asset": "char_1036_fang2/CN_032"
+        },
+        {
+            "id": "char_1036_fang2_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "I'm back. Oh? Everyone's here.",
+                "jp": "ただいま戻りました。あれ？みんないたんだね。",
+                "kr": "다녀왔습니다. 응? 모두 여기 있었구나.",
+                "cn": "我回来了。哦？大家都在这儿呢。"
+            },
+            "asset": "char_1036_fang2/CN_033"
+        },
+        {
+            "id": "char_1036_fang2_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Hmm?",
+                "jp": "ん？",
+                "kr": "음?",
+                "cn": "嗯？"
+            },
+            "asset": "char_1036_fang2/CN_034"
+        },
+        {
+            "id": "char_1036_fang2_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Ah! It's you, Doctor. I thought Kroos was pulling another one of her pranks.",
+                "jp": "うわっ！はぁ、ドクターでしたか。またクルースがイタズラを仕掛けてきたのかと。",
+                "kr": "앗! 박사님이셨군요, 전 또 크루스가 장난을 치는 줄 알았어요.",
+                "cn": "啊！原来是博士，我还以为是克洛丝又在恶作剧了。"
+            },
+            "asset": "char_1036_fang2/CN_036"
+        },
+        {
+            "id": "char_1036_fang2_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_1036_fang2/CN_037"
+        },
+        {
+            "id": "char_1036_fang2_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Happy New Year, Doctor. This past year's been really busy, but I got to see many places and experience a lot with Rhodes Island. Alright. Let's push ourselves just as hard next year too!",
+                "jp": "あけましておめでとうございます、ドクター。本当に慌ただしい一年でしたね。ロドスと共に色んな場所を渡り歩き、多くのことを経験しました。新しい一年も、一緒に頑張りましょう！",
+                "kr": "새해 복 많이 받으세요, 박사님. 지난 한 해는 정말 바쁘게 보냈네요. 로도스 아일랜드를 따라 여러 곳을 다니며 많은 것을 경험했습니다. 새로운 한 해도 같이 화이팅입니다!",
+                "cn": "新年好呀，博士。过去一年真忙啊，跟着罗德岛去了不少地方，也经历了不少事。新的一年，一起加油吧！"
+            },
+            "asset": "char_1036_fang2/CN_038"
+        },
+        {
+            "id": "char_1036_fang2_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "I'm always here for you, Doctor.",
+                "jp": "いつでも側にいますよ、ドクター。",
+                "kr": "늘 곁에 있겠습니다, 박사님.",
+                "cn": "我一直在您身边，博士。"
+            },
+            "asset": "char_1036_fang2/CN_042"
+        },
+        {
+            "id": "char_1036_fang2_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Rhodes Island's another year older... Time sure flies, and all the former members of Reserve Op Team A1 have joined different departments... Ah, look at me. This is no time to get nostalgic. There's still plenty of new problems for us to tackle.",
+                "jp": "ロドスがまた一つ歳をとりました……時間が経つのは本当に早いものですね。行動予備隊A1も、みんなそれぞれ違う部署に配属されましたし。おっと、今はしんみりしている場合じゃないですね。解決していない問題がまだまだ山積みですから。",
+                "kr": "로도스 아일랜드도 한 살 더 먹었네요…… 시간이 정말 빠르게 흐르는 것 같아요. 예비작전팀 A1의 모두도 이젠 각자 다른 부서에 배치되어 일하고 있습니다. 아, 지금은 추억에 잠길 때가 아니겠죠. 아직 저희에겐 해결해야 할 문제가 잔뜩 있으니까요.",
+                "cn": "罗德岛又长了一岁......时间过得可真快，行动预备组A1的各位，也都进入了不同的部门。啊，现在可不是怀旧的时候，还有许多新的问题等着我们去解决呢。"
+            },
+            "asset": "char_1036_fang2/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Norma Butikofer",
+            "global": "Norma Butikofer"
+        },
+        "cn": {
+            "native": "陈彦亦",
+            "global": "Yee Chen"
+        },
+        "jp": {
+            "native": "白石涼子",
+            "global": "Ryoko Shiraishi"
+        },
+        "kr": {
+            "native": "김하루",
+            "global": "Kim Ha-ru"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

@@ -602,6 +602,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Jacopo Calatroni",
+            "global": "Jacopo Calatroni"
+        },
         "cn": {
             "native": "张桐铭",
             "global": "Tongming Zhang"
@@ -616,6 +620,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

@@ -602,6 +602,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Jonathan Bullock",
+            "global": "Jonathan Bullock"
+        },
         "cn": {
             "native": "刘照坤",
             "global": "Zhaokun Liu"
@@ -616,6 +620,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

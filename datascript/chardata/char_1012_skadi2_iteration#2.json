@@ -1,0 +1,628 @@
+{
+    "charid": "char_1012_skadi2_iteration#2",
+    "nameid": "skadi2-iteration",
+    "names": {
+        "en": "Skadi the Corrupting Heart ITERATION",
+        "jp": "濁心スカジ ITERATION",
+        "kr": "스카디 더 커럽팅 하트 ITERATION",
+        "cn": "浊心斯卡蒂 ITERATION"
+    },
+    "voices": [
+        {
+            "id": "char_1012_skadi2_iteration#2_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "I understand. Some thoughts lose meaning when expressed with words. It's fine. So long as those thoughts echo in your mind, so long as you still need me, I will be here by your side, and nowhere else.",
+                "jp": "分かるわ、言葉にすればすっかり色褪せてしまう想いもあるわよね。大丈夫よ、その想いがあなたの中に響いている限り、そしてあなたが私を必要としている限り、私はずっとあなたの側にいる……どこへも行かないから。",
+                "kr": "난 이해할 수 있어. 말로 표현한 순간 색이 바래버리는 생각도 있는 법이니까. 괜찮아. 그 생각이 당신 마음속에서 울려 퍼지는 한, 그리고 당신이 나를 필요로 하는 한, 난 언제나 당신 곁에 있을 거야…… 아무데도 가지 않을게.",
+                "cn": "我能理解，一些想法用言语表达出来就会失去意义。没事的，只要那念想还在你脑海里回荡，只要你还需要我，我就在你身边，哪里也不会去。"
+            },
+            "asset": "char_1012_skadi2_iteration#2/CN_001"
+        },
+        {
+            "id": "char_1012_skadi2_iteration#2_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "No more rolling around in the frosting. You're an example to the fairies, the guardian of the garden. I won't clean you scale by scale, or wrap you in silk and put you in the clouds anymore... Of course, you can do anything you like. This may be my own wishful thinking, but I imagine you'd be willing to hear out my suggestions.",
+                "jp": "アイシングの上を転げ回るのはやめなさい。あなたは今や妖精の模範となる庭園のガーディアンなのよ。私はもう砂糖まみれになった鱗を一枚一枚綺麗に拭ったり、シルクでくるんで雲の上に寝かせてあげたりはしないから……だけど、もちろんあなたは何をしたって自由。これは私の独りよがりだと思ってくれて構わないけど、あなたなら、きっと聞き入れてくれるわよね。",
+                "kr": "설탕 위에서 구르는 건 그만둬. 이제 당신은 요정들의 모범이자 정원의 수호자라고. 난 이제 더 이상 설탕투성이가 된 당신 비늘을 하나하나 꼼꼼히 닦고 비단으로 감싸 구름 위에서 재워주지 않을 거야…… 물론, 당신이라면 뭐든 해도 되지만. 이건 그저 나 혼자만의 바람이라고 생각해 줘. 하지만 당신이라면 분명 내 말을 들어주겠지?",
+                "cn": "不要在糖霜里翻滚了，你是妖精的榜样，庭院的守护者，我不会再帮你细细擦净鳞片，用丝绸裹着放在云朵上......当然，你可以做任何事。就当我是一厢情愿吧，我想，你会愿意听听我的建议。"
+            },
+            "asset": "char_1012_skadi2_iteration#2/CN_002"
+        },
+        {
+            "id": "char_1012_skadi2_iteration#2_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "The soil on the plains contain all souls' desires. Those thoughts, regrettable yet magnificent, despicable yet delicious. They are your food to enjoy. Are they sweet? Are they Sour? You must've figured out how to share them with me, right?",
+                "jp": "野原の浮島は、生きとし生けるものすべての渇望を受け入れているの。賞賛すべき願望や軽蔑すべき欲望は、どれもうんと壮大で味わい深くて、あなたも喜んで食べてくれるから。その味はとろけるように甘いのかしら？それとも苦くて酸っぱいの？それをどうやって私と分かち合うか……あなたのことだから、きっともう考えてあるのよね？",
+                "kr": "들판의 부드러운 흙은 살아있는 모든 존재의 갈망을 포용해. 찬사받을 만한 소망이나 경멸할 만한 욕망도 모두 아름답고 맛이 좋아. 당신도 맛있어할 것 같아. 어때, 달콤해? 아니면 씁쓸할까? 그것들을 어떻게 나와 나눌지…… 당신이라면 분명 이미 생각해두었겠지?",
+                "cn": "原野的浮土包容着生灵一切渴望，那些可叹的、可鄙的念想，壮丽而美味。那也是你的食粮。它们甜蜜吗？它们酸涩吗？你一定想好怎么和我分享了，对吗？"
+            },
+            "asset": "char_1012_skadi2_iteration#2/CN_003"
+        },
+        {
+            "id": "char_1012_skadi2_iteration#2_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Singing's not so hard. You only need to let your voice out of your throat. Your desires will shape sound itself, and I will write it into a score. Come, have a try. Sing the way you want. It'll be fun.",
+                "jp": "歌うのはそう難しいことじゃないわ。ただ喉を鳴らすだけでいいの。そうすればあなたの渇望が声を形作るから、それを私が楽譜に並べるだけのことよ。さあ、思うがままにやってみなさい。きっと面白い歌ができるわ。",
+                "kr": "노래하는 건 그렇게 어렵지 않아. 그저 목에서 소리를 내보기만 하면 되는걸. 그러면 당신의 갈망이 목소리의 형상을 만들 거고, 나는 그걸 악보에 정렬하기만 하면 돼. 자 그럼 해볼까? 당신 생각에 목소리를 맡겨봐. 분명 재미있는 노래가 나올 거야.",
+                "cn": "歌唱没有那么困难，只要让声音从喉咙里出来就行，你的渴望会塑造声音的形象，而我将把它编进乐谱里。来试试吧，依你的想法就行，那一定会很有趣的。"
+            },
+            "asset": "char_1012_skadi2_iteration#2/CN_004"
+        },
+        {
+            "id": "char_1012_skadi2_iteration#2_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Once in the past, you loved to entwine yourself among my fingers. You breathed like a great dragon, but let out only faint squeaks. Just when did it all change...? Now you only hover above my head, looking at me from afar... I want to see you, without having to look up all the time. That's very tiring.",
+                "jp": "昔のあなたは、暇さえあればいつも私の指に絡みついて、巨竜みたいに立派に息をつきながら、あどけない鳴き声を上げていたのに……一体いつから、私の頭の上をぐるぐる回って遠目に見下ろすだけになってしまったの？顔を上げないとあなたの姿が見えないなんて嫌よ、疲れちゃうもの。",
+                "kr": "예전의 당신은 내 손가락을 감으며 장난치는 걸 좋아했지. 마치 거대한 용처럼 숨을 내뱉으며 앳된 울음소리를 내곤 했는데…… 도대체 언제부터 그저 내 머리 위를 빙빙 돌며 멀리서 내려다보기만 하게 된 걸까? 고개를 들어야만 당신 모습을 볼 수 있다는 건…… 싫어. 그건 너무 힘들거든.",
+                "cn": "从前的你最爱缠绕在我的手指上，像条巨龙一样吐息，发出稚嫩的叫声。究竟是从什么时候开始，你只是在我头顶盘旋，远远地看着我呢？我不希望要仰着头才能见到你，那样很累。"
+            },
+            "asset": "char_1012_skadi2_iteration#2/CN_005"
+        },
+        {
+            "id": "char_1012_skadi2_iteration#2_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Amidst the sea of impulses and desires, I opened my eyes. You did, too. That's why I'm bringing you with me: to unleash our desires and break these shackles. But it looks like you have other ideas... I'm scolding you? Not at all. This is what makes you different, and I like it.",
+                "jp": "衝動と渇望の中で私は目を開いた――あなたと同じようにね。だから私はあなたを付き従えながら、渇望を解き放って、束縛を打ち破ろうとしているの。だけどあなたはいつも別のことを考えてばかりみたいね……苦言？違うわ。そういう唯一無二なところが気に入ってるのよ。",
+                "kr": "나는 충동과 갈망 속에서 눈을 떴어. 그래, 당신처럼. 그래서 나는 당신을 데리고 같이 갈망을 해소하고 억압을 깨부수려고 했지. 그런데 당신은 늘 다른 생각을 마음속에 품고 있는 것 같네…… 나무라는 거냐고? 그럴 리가. 난 당신의 그런 유일무이한 점이 마음에 드는걸.",
+                "cn": "在冲动和渴望之中，我睁开了眼睛。你也是一样的，所以我愿意带着你一起，去释放渴望，去打碎桎梏。可你好像总是有些其他想法......批评？不会的，这就是你与众不同的地方，我很喜欢。"
+            },
+            "asset": "char_1012_skadi2_iteration#2/CN_006"
+        },
+        {
+            "id": "char_1012_skadi2_iteration#2_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "The fairies swallowed dreams, and so were shaped like those dreams. Plates roll and tumble across the ground; puppets chase one another;  seaflowers raise their instruments... Dreams become reality itself. If I were to become a little fairy myself, do you think... the distance between us might lessen?",
+                "jp": "妖精たちは夢を呑み込んで、夢の姿を手に入れたの。パタパタ駆け回るお皿に、追いかけっこをするお人形、それから楽器を掲げる海の花……彼らの夢が現実になったということよ。私も妖精になれば……あなたとの距離を縮められるかしら？",
+                "kr": "요정들이 꿈을 삼키더니, 꿈의 모습으로 변했어. 이리저리 뛰어다니는 접시와 술래잡기하는 인형, 그리고 악기를 들고 있는 바다의 꽃…… 그들의 꿈은 현실이 됐어. 나도 요정이 된다면…… 당신과 더 가까워질 수 있을까?",
+                "cn": "妖精们吞下了梦，他们就成了梦的模样。瓷盘翻滚奔跑，人偶互相追逐，海花举起乐器，梦境成为现实。你觉得，我也变成一个小妖精的话......我们之间，会不会更近一些？"
+            },
+            "asset": "char_1012_skadi2_iteration#2/CN_007"
+        },
+        {
+            "id": "char_1012_skadi2_iteration#2_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "I found a scale in the nest. Are you starting to shed again? I will sing to you lullabies, take off your gown, and rinse that filth with warm water. Will you... refuse me? I promise you everything... so please, just this once, listen to what I demand.",
+                "jp": "巣穴に鱗が一枚落ちていたけど、あなたったらまた脱皮するの？それなら、私が歌声で慰めながらそのシルクドレスを脱がせてあげるわ。綺麗に脱げたら、暖かくて優しいお水で洗い清めてあげるから……まさか嫌なの？あなたにはすべてを許しているけど――たまには……いいえ、今回だけは、お願い……私の言うことを聞いて。",
+                "kr": "둥지에서 비늘 조각을 찾았어. 또 탈피할 때가 된 거야? 그럼 내가 노래를 불러 줄게. 비단옷을 벗겨주고 따뜻한 물속에서 더러움을 씻어내 줄게. 설마 거절할 거야? 당신은 뭐든 해도 되지만, 가끔은…… 아니, 이번 한 번만큼은…… 내 말을 들어줘.",
+                "cn": "我在巢穴里找到了一块鳞片，你又要开始蜕鳞了吗？我会唱着歌谣为你揭下丝袍，用温润的水冲刷污秽。你会拒绝我吗？我允诺你一切——偶尔，就这一次，也请你......听一听我的请求。"
+            },
+            "asset": "char_1012_skadi2_iteration#2/CN_008"
+        },
+        {
+            "id": "char_1012_skadi2_iteration#2_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "The fairies are talking amongst themselves. They whisper: the guardian of the garden is lingering in the borderlands, trying to leave the plains. Then go. Go where you like and follow your nature. Bring your dream and my heart with you. Only then, will the you I well-acquainted return to my fingertips.",
+                "jp": "妖精たちがささやいていたわ。庭園のガーディアンが辺境をうろうろしながら、この野原を離れたがっていたって。好きにしなさい。自分の本質を追い求めて、どこへでも行くといいわ。あなたの夢を連れて、私の心を携えて……どうぞ行ってらっしゃい。そうしないと、私のよく知るあなたはもうこの指の隙間に戻ってこないでしょうから。",
+                "kr": "요정들이 속삭이고 있어. 정원의 수호자가 변방을 배회하며 이 들판을 떠나고 싶어 한다고. 떠나도 좋아. 당신의 본질을 찾아 어디든 가도 괜찮아. 당신의 꿈과 내 마음을 품고…… 다녀와. 그래야만, 내가 아는 당신이 다시 내 손가락 위로 돌아와 앉을 것 같으니까.",
+                "cn": "妖精们在窃窃私语，他们说，庭院的守护者在边土上徘徊，想要离开原野。那就去吧，想去哪里都可以，去追寻你的天性。带着你的梦，带走我的心。只有这样，我熟悉的那个你才会回到我的指尖。"
+            },
+            "asset": "char_1012_skadi2_iteration#2/CN_009"
+        },
+        {
+            "id": "char_1012_skadi2_iteration#2_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Sleep soundly. I will be the residual melody in your sweet dreams.",
+                "jp": "安らかにおやすみなさい。私を甘美な夢の余韻にして。",
+                "kr": "편히 잠들기를. 내가 당신의 꿈속 여운이 되길.",
+                "cn": "安眠吧，让我成为你美梦的余韵。"
+            },
+            "asset": "char_1012_skadi2_iteration#2/CN_010"
+        },
+        {
+            "id": "char_1012_skadi2_iteration#2_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Spread your wings and squall to your heart's content. Everything is permitted in these red plains. Spread your joy and excitement to the fairies. Let them sing and frolic with them. I'll be waiting for you here.",
+                "jp": "鱗翼を広げて、思う存分叫ぶといいわ。深紅の野原に禁忌なんてないの。喜びと衝動を振りまいて、妖精たちを高らかに歌わせたら――心ゆくまで戯れて。私はここで、あなたの帰りを待ってるから。",
+                "kr": "비늘 날개를 펼치고 마음껏 외쳐봐. 검붉은 들판에는 금기 따위 없으니까. 기쁨과 충동을 뿌리고, 요정들이 마음껏 노래하고 즐길 수 있게 해줘…… 나는 여기에서 당신이 돌아오기를 기다릴게.",
+                "cn": "扬起鳞翼，尽情嘶吼吧。赤红原野没有禁忌，把欢乐与冲动播撒给妖精们，让他们歌唱，与他们欢闹。我在这里等待你的归来。"
+            },
+            "asset": "char_1012_skadi2_iteration#2/CN_011"
+        },
+        {
+            "id": "char_1012_skadi2_iteration#2_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "This screen is cold and dull. Why don't we instead relish some fresh, living memories?",
+                "jp": "こんな冷たくてつまらない映像なんかより、新鮮な思い出を味わいたいとは思わないの？",
+                "kr": "이런 차갑고 지루한 영상보다는, 신선한 추억을 맛보고 싶지 않아?",
+                "cn": "画面冰冷又无趣，为什么不品尝鲜活的回忆呢？"
+            },
+            "asset": "char_1012_skadi2_iteration#2/CN_012"
+        },
+        {
+            "id": "char_1012_skadi2_iteration#2_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "There are no tasks or duties here. Our own satisfaction is the greatest reward. Indeed, I'm very satisfied now.",
+                "jp": "ここじゃ仕事も責任もないから、自己満足が一番のご褒美になるの。ええ、私は今すごく満たされてるわ。",
+                "kr": "여긴 할 일도, 책임도 없어. 자기만족이 최고의 상이지. 그래, 나는 지금 아주 만족하고 있어.",
+                "cn": "这里没有事务和责任，自我满足就是最好的奖赏。是啊，我现在就很满足。"
+            },
+            "asset": "char_1012_skadi2_iteration#2/CN_013"
+        },
+        {
+            "id": "char_1012_skadi2_iteration#2_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Fighting is the most primal of instincts, and there's no point in resisting it. If you're frightened, I can guide you forward.",
+                "jp": "闘争を欲するのは何よりも原始的な衝動だから、抗ったって何の意味もないのよ。怖いのなら、私があなたを導いてあげるから。",
+                "kr": "투쟁은 가장 원초적인 충동이야. 저항은 의미가 없지. 무섭다면 내가 당신을 이끌어줄게.",
+                "cn": "斗争是最原始的冲动，抗拒是没有意义的。如果你害怕，我可以带领你前进。"
+            },
+            "asset": "char_1012_skadi2_iteration#2/CN_014"
+        },
+        {
+            "id": "char_1012_skadi2_iteration#2_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "I will follow your words, and drift along the currents…",
+                "jp": "あなたの言葉に沿いながら、波のうねりに身を任せるわ……",
+                "kr": "당신의 말에 따라, 파도의 너울거림에 몸을 맡길게……",
+                "cn": "我会顺着你的言语，随波逐流......"
+            },
+            "asset": "char_1012_skadi2_iteration#2/CN_017"
+        },
+        {
+            "id": "char_1012_skadi2_iteration#2_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "You already have the answer in your mind. Why follow the commands of others?",
+                "jp": "答えなんてとっくに浮かんでいるのに、どうして指示を仰ぐの？",
+                "kr": "당신들은 답을 알고 있잖아. 왜 남의 명령을 기다리는 거야?",
+                "cn": "你们脑中早就有了答案，为什么还要听从别人的指令？"
+            },
+            "asset": "char_1012_skadi2_iteration#2/CN_018"
+        },
+        {
+            "id": "char_1012_skadi2_iteration#2_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Watch your shadow. Don't let it be stolen.",
+                "jp": "影を奪われないよう、しっかり見張っておきなさい。",
+                "kr": "그림자 잘 지키고 있어. 빼앗기지 말고.",
+                "cn": "看好影子，不要被抢走了。"
+            },
+            "asset": "char_1012_skadi2_iteration#2/CN_019"
+        },
+        {
+            "id": "char_1012_skadi2_iteration#2_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Listen. The sound of a banquet.",
+                "jp": "ほら、宴の始まりを告げるベルが鳴ったわ。",
+                "kr": "어머, 연회의 시작을 알리는 종소리가 울렸어.",
+                "cn": "听呀，那是宴会的铃声。"
+            },
+            "asset": "char_1012_skadi2_iteration#2/CN_020"
+        },
+        {
+            "id": "char_1012_skadi2_iteration#2_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Flowers wither, and petals dye the land red.",
+                "jp": "花は枯れ、散り花が大地を深紅に滲ませる。",
+                "kr": "꽃은 지고, 흩어진 꽃잎은 대지를 붉게 물들이네.",
+                "cn": "花朵凋谢，花瓣晕红了大地。"
+            },
+            "asset": "char_1012_skadi2_iteration#2/CN_021"
+        },
+        {
+            "id": "char_1012_skadi2_iteration#2_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Let instinct stain my name.",
+                "jp": "本能に私の名前を染め込んで。",
+                "kr": "본능이 내 이름을 물들이게 해줘.",
+                "cn": "让直觉浸染我的名字吧。"
+            },
+            "asset": "char_1012_skadi2_iteration#2/CN_022"
+        },
+        {
+            "id": "char_1012_skadi2_iteration#2_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Don't send a thread into a knife's edge.",
+                "jp": "絹糸を刃先の前に差し出さないで。",
+                "kr": "비단실을 칼날에 가까이하지 마.",
+                "cn": "不要将丝线送上刀尖。"
+            },
+            "asset": "char_1012_skadi2_iteration#2/CN_023"
+        },
+        {
+            "id": "char_1012_skadi2_iteration#2_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Let me stir it.",
+                "jp": "私が絹糸を弄んであげる。",
+                "kr": "내가 비단실을 튕겨 볼게.",
+                "cn": "让我拨动它。"
+            },
+            "asset": "char_1012_skadi2_iteration#2/CN_024"
+        },
+        {
+            "id": "char_1012_skadi2_iteration#2_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "This song will never stop, not until the melody is written…",
+                "jp": "メロディーが書き起こされるまで、この歌は止まらない……",
+                "kr": "노래는 멈추지 않을 거야, 멜로디가 전부 쓰여질 때까지……",
+                "cn": "这歌从不停止，直到曲调被谱写......"
+            },
+            "asset": "char_1012_skadi2_iteration#2/CN_025"
+        },
+        {
+            "id": "char_1012_skadi2_iteration#2_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "The red velvet of life props up this dead diamond.",
+                "jp": "命の赤いベルベットが、この死の宝石の下に敷かれているの。",
+                "kr": "생명의 붉은 벨벳이 이 죽음의 보석 아래 깔려 있네.",
+                "cn": "生命的红丝绒垫起了这死钻。"
+            },
+            "asset": "char_1012_skadi2_iteration#2/CN_026"
+        },
+        {
+            "id": "char_1012_skadi2_iteration#2_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "The moment you leave, I will take these lost dreams away.",
+                "jp": "あなたたちが消えたら、迷子になった夢はもらっていくわ。",
+                "kr": "너희가 사라지면, 난 홀로 남겨진 이 꿈을 가져갈게.",
+                "cn": "当你们离开，我将带走遗失的梦。"
+            },
+            "asset": "char_1012_skadi2_iteration#2/CN_027"
+        },
+        {
+            "id": "char_1012_skadi2_iteration#2_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "It was your determination that dyed my dress red.",
+                "jp": "あなたたちの決意が、このドレスを赤く染め上げたの。",
+                "kr": "너희의 결심이 내 드레스를 붉게 물들인 거야.",
+                "cn": "正是你们的决心，染红了我的长裙。"
+            },
+            "asset": "char_1012_skadi2_iteration#2/CN_028"
+        },
+        {
+            "id": "char_1012_skadi2_iteration#2_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "When you trust your instincts, victory is never far off. You use them well.",
+                "jp": "直感を信じて従えば、すぐ勝利に手が届くわ。よくやったわね。",
+                "kr": "직감을 믿고 따르면, 승리에 금방 다다를 수 있어. 잘했어.",
+                "cn": "相信直觉，胜利就不远了，你运用得很好。"
+            },
+            "asset": "char_1012_skadi2_iteration#2/CN_029"
+        },
+        {
+            "id": "char_1012_skadi2_iteration#2_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Fighting isn't complicated. You did well. You may have whatever reward you desire.",
+                "jp": "争いは単純なものだけど、今のは上手だったわ。ご褒美はなんでも好きなものを言ってちょうだい。",
+                "kr": "싸움은 복잡한 게 아니야. 잘하고 있어. 어떤 보상을 원해? 내가 다 들어줄게.",
+                "cn": "斗争并不复杂，你做得很不错，想要什么奖励都可以哦。"
+            },
+            "asset": "char_1012_skadi2_iteration#2/CN_030"
+        },
+        {
+            "id": "char_1012_skadi2_iteration#2_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "You missed them? They must not be important.",
+                "jp": "見逃したの？どうでもいい相手だったということかしら。",
+                "kr": "저들을 풀어주려고? 별로 중요한 상대는 아닌가 보네.",
+                "cn": "你忽略了他们？看来他们并不重要。"
+            },
+            "asset": "char_1012_skadi2_iteration#2/CN_031"
+        },
+        {
+            "id": "char_1012_skadi2_iteration#2_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Come with me. We will live on, together.",
+                "jp": "付いてきて、一緒に生き延びるの。",
+                "kr": "나와 함께 가자. 같이 살아남는 거야.",
+                "cn": "随我走吧，一起活下来。"
+            },
+            "asset": "char_1012_skadi2_iteration#2/CN_032"
+        },
+        {
+            "id": "char_1012_skadi2_iteration#2_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Let the fairies redecorate. We'll come back later.",
+                "jp": "飾り付けは妖精たちに任せておいて、あとでまた来ましょう。",
+                "kr": "꾸미는 건 요정들에게 맡기고, 우리는 이따가 다시 오자.",
+                "cn": "让妖精们装修一下，我们过会儿再回来。"
+            },
+            "asset": "char_1012_skadi2_iteration#2/CN_033"
+        },
+        {
+            "id": "char_1012_skadi2_iteration#2_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Hehe…",
+                "jp": "ふふ……",
+                "kr": "후후……",
+                "cn": "哼哼......"
+            },
+            "asset": "char_1012_skadi2_iteration#2/CN_034"
+        },
+        {
+            "id": "char_1012_skadi2_iteration#2_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Look into my eyes, and tell me the first word that comes to mind.",
+                "jp": "私の目を見つめて、最初に浮かんだ言葉を言ってみて。",
+                "kr": "내 눈을 보고 가장 먼저 떠오른 단어를 말해 봐.",
+                "cn": "看着我的眼睛，说出你想到的第一个词。"
+            },
+            "asset": "char_1012_skadi2_iteration#2/CN_036"
+        },
+        {
+            "id": "char_1012_skadi2_iteration#2_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_1012_skadi2_iteration#2/CN_037"
+        },
+        {
+            "id": "char_1012_skadi2_iteration#2_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "This is a holiday where humans celebrate their calendar cycle starting anew. You should go enjoy yourself. It must be very fun to swim among fireworks. Oh, and remember to save me a spark. I'll plant it in the garden.",
+                "jp": "今日は人間が暦の変わり目を祝う祭日だから、あなたも遊んできたらどう。花火の中を泳ぎ回るのはきっと楽しいわよ。そうだ、火花を一株取っておいてちょうだい。庭園に植えたいの。",
+                "kr": "오늘은 사람들이 달력의 변화를 축하하는 명절이지? 당신도 놀다 와. 불꽃 속을 헤엄치듯 돌아다니는 것도 분명 재미있을 거야. 맞다, 내게 불꽃 하나 가져다줄래? 정원에 심어 두고 싶어.",
+                "cn": "这是人世间用以庆祝历法更迭的节日，你也去玩吧，在烟火中游动一定很有意思。对了，记得留一株火花，我想把它栽在庭院里。"
+            },
+            "asset": "char_1012_skadi2_iteration#2/CN_038"
+        },
+        {
+            "id": "char_1012_skadi2_iteration#2_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Where are you flying off to today?",
+                "jp": "今日はどこに飛んでいくつもり？",
+                "kr": "오늘은 어디로 날아갈 생각이야?",
+                "cn": "今天又想飞去哪里？"
+            },
+            "asset": "char_1012_skadi2_iteration#2/CN_042"
+        },
+        {
+            "id": "char_1012_skadi2_iteration#2_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Your wings have gotten stronger, and your scales are tougher now. I wonder how you'll look once you shed that robe. If only I could bend time to my will, the new, reborn you would be back at my side so much sooner.",
+                "jp": "随分逞しい翼になって、鱗も硬くなってきたわね。そのコートを脱皮したら、あなたは一体どんな姿を見せてくれるのかしら。ああ……時間が私のわがままを許してくれるのなら、すぐに生まれ変わったあなたに会えるのにね。",
+                "kr": "당신의 지느러미는 두꺼워지고 비늘도 더 단단해졌네. 당신이 이 비단옷을 벗어던지면 과연 어떤 모습일까. 아아…… 시간이 내 고집을 허락해 준다면, 새로 태어난 당신을 더 빨리 볼 수 있을 텐데.",
+                "cn": "你的鳞翼更厚实了，鳞片也很坚韧，不知道你蜕去这件衣袍后会变成什么样子。唉，如果时间能宽恕我的随性，新生的你就能早些回到我身边了。"
+            },
+            "asset": "char_1012_skadi2_iteration#2/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Cristina Vee",
+            "global": "Cristina Vee"
+        },
+        "cn": {
+            "native": "张琦",
+            "global": "Kiiki"
+        },
+        "jp": {
+            "native": "佐藤利奈",
+            "global": "Rina Sato"
+        },
+        "kr": {
+            "native": "김나율",
+            "global": "Kim Na-yul"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

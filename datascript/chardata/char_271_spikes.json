@@ -602,6 +602,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Kieran Regan",
+            "global": "Kieran Regan"
+        },
         "cn": {
             "native": "风袖",
             "global": "FengXiu"
@@ -616,6 +620,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

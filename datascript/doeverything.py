@@ -5,12 +5,12 @@ import mover
 from utils import load_json
 
 if __name__ == "__main__":
-    #grabfiles.grab_all_charword_tables()
-    #grabfiles.grab_all_chartable()
+    grabfiles.grab_all_charword_tables()
+    grabfiles.grab_all_chartable()
 
     charlist, wordtables = transformer.run_transformer()
-    #charlist = load_json("charlist.json")
-    #wordtables = transformer.load_wordtables()
+    charlist = load_json("charlist.json")
+    wordtables = transformer.load_wordtables()
     create_and_fill_in_extra_voices(charlist, wordtables)
 
     # grabfiles.grab_factions()

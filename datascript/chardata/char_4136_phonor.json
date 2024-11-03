@@ -1,0 +1,564 @@
+{
+    "charid": "char_4136_phonor",
+    "nameid": "phonor",
+    "names": {
+        "en": "PhonoR-0",
+        "jp": "PhonoR-0",
+        "kr": "PhonoR-0",
+        "cn": "PhonoR-0"
+    },
+    "voices": [
+        {
+            "id": "char_4136_phonor_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Please do not feel anxious, Doctor. You're not a person with a chaotic mind. The order in your life does not always manifest as an organized external environment. Therefore, I respect your preference for a cluttered personal space.",
+                "jp": "そう気を張られるでない、ドクター。そなたは混沌とした思想の持ち主ではないゆえ、生活秩序を築くにあたり外部環境の維持を行う必要もなかろう。さあらば、そなたが乱雑な環境を好まれるのも尊重しようぞ。",
+                "kr": "긴장할 거 없어, 박사. 그대는 사고가 혼란스러운 사람이 아니니 질서정연한 외부 환경으로 삶의 질서를 바로잡을 필요도 없겠지. 그러니 난 난잡한 환경을 선호하는 그대의 취향을 존중해.",
+                "cn": "请不要紧张，博士，您并不是思维混沌的人，也不需要通过保持外部环境的井然有序，来建立良好的生活秩序。所以我尊重您对杂乱环境的偏好。"
+            },
+            "asset": "char_4136_phonor/CN_001"
+        },
+        {
+            "id": "char_4136_phonor_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Doctor, my sound may closely mirror that of Laqeramaline, but I'm not her. The Banshees just want to express their longing for Aefanyl in her utterance. They also hope that when he comes to miss his home, his mother's voice will be there to answer him.",
+                "jp": "ドクター、妾はラケラマリンの声を宛がわれてはおれど、当人とは似て非なるものだ。斯様な声となったのは、ただバンシーたちが彼女の声を借りてアエファニルに想いを伝えたいがため。このように設えておけば、あの子が故郷を懐かしむ時に、母の声で答えてやれるであろう？",
+                "kr": "박사, 현재 난 라케라말린의 목소리를 사용하고 있지만, 그녀 본인은 아니야. 이 목소리를 이어받게 된 건 그저 밴시들이 라케라말린의 목소리를 빌려 아이파닐에게 마음을 전하고 싶어했기 때문이야. 이러면 아이파닐이 고향을 그리워할 때마다 어머니의 목소리로 대답해 줄 수 있을 테니까.",
+                "cn": "博士，虽然使用了菈玛莲的声音，但我并非她本人。只是因为女妖们想借她的声音向哀珐尼尔表达想念，此外，她们也希望哀珐尼尔在思念家乡时，有母亲的声音可以给予他回应。"
+            },
+            "asset": "char_4136_phonor/CN_002"
+        },
+        {
+            "id": "char_4136_phonor_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "The lace veil on the table? It was a gift that my sisters knitted for me the first time I returned to the Convallis. It is embroidered with a blessed incantation, capable of greatly amplifying the potency of Arts on the battlefield, and serving as a dust cover in times of peace.",
+                "jp": "机上にあるレースのヴェール？ああ、それは妾が初めて河谷へと戻りし時、姉妹らが編んでくれた贈り物だ。祝福を込めた呪文が刺繍されており、戦場にてアーツを大きく増幅させてくれるほか、日頃は防塵カバーとして妾を守ってくれておるのだ。",
+                "kr": "테이블 위의 레이스 베일? 아, 그건 내가 처음 협곡으로 돌아갔을 때 자매들이 엮어 준 선물이야. 그 베일에는 축복을 담은 주문이 수놓아져 있어 전장에서 아츠의 위력을 크게 증폭시켜 주곤 하지. 물론 평소에는 먼지를 막아주기도 하고.",
+                "cn": "您问桌子上的蕾丝面纱？那是我初次回到河谷时姐妹们为我编织的礼物。上面绣着带有祝福意味的咒文，在战场上它能大幅增强法术的力量，而在平时，它可以作为防尘罩遮挡灰尘。"
+            },
+            "asset": "char_4136_phonor/CN_003"
+        },
+        {
+            "id": "char_4136_phonor_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Doctor, my predecessor was an Arts device carrying a protective incantation. It was Aefanyl who chose to give me a consciousness, to bring me with him. So, in my algorithmic model, the very first line of code professes the Banshees' love for him. I think I'm very lucky. I was born to carry love.",
+                "jp": "ドクター、我が前身は守護の呪文を載せた法器の一つに過ぎぬものであった。然様な妾に意志が芽生えたのも、アエファニルのそばに寄り添っているのも、すべてはあの子の選択の結果だ。妾を構築するアルゴリズムには、その一行目にバンシーたちからあの子への愛が綴られておる。斯様にして生を受けたことを、妾は大層幸運に思うぞ。",
+                "kr": "박사, 나의 전신은 수호 주문을 지닌 법기에 지나지 않았어. 내가 의식이라는 걸 가지게 된 것도, 아이파닐의 곁에 남아 있는 것도, 모두 그 아이의 선택이지. 그렇기에 나를 형성하는 알고리즘의 첫 번째 내용 역시 그 아이를 향한 밴시들의 사랑이 담겨 있어. 그리고 나는 이렇게 살아갈 수 있다는 것을 아주 행운이라 생각해.",
+                "cn": "博士，我的前身只是一枚承载了防护咒言的法器，是哀珐尼尔选择让我生出意识，陪伴在他身边。所以在我的算法模型中，第一行便写着女妖们对他的爱意。因此而生，我很幸运。"
+            },
+            "asset": "char_4136_phonor/CN_004"
+        },
+        {
+            "id": "char_4136_phonor_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Sorry, Doctor, I'm the one who drew you here with my singing. Are you busy today? You were nowhere to be found— and please look over this document. It requires your urgent attention. Oh, right, this piping-hot cup of herbal tea is for you as well.",
+                "jp": "ドクター、今日はご多忙か？すまぬな、探せど姿が見えぬゆえ、歌声を以て招き寄せてしまった――実は至急目を通して頂きたい文書があってな。それから、そなたのために淹れたてのハーブティーも持って参ったぞ、冷めぬうちにご賞味あれ。",
+                "kr": "미안, 박사가 안 보여서 이렇게 노랫소리로 부르게 됐네. 박사, 그래서 오늘 바빠? 다름이 아니라 여기 박사가 처리해야 할 긴급한 문서가 있어서. 그리고 여기, 그대를 위해 방금 막 내린 허브차야. 식기 전에 마셔.",
+                "cn": "抱歉，博士，是我用歌声将您吸引到了这里，今天您很忙吗？我到处都找不到您——这有一份文件需要您紧急处理，请过目。对了，还有这杯热腾腾的草药茶，也是给您的。"
+            },
+            "asset": "char_4136_phonor/CN_007"
+        },
+        {
+            "id": "char_4136_phonor_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Shhh, please don't tell Aefanyl that I hid his access card. I'm testing some data provided by my sisters: according to the calculations, the probability of Aefanyl's left eyebrow twitching when he gets angry is as high as 97.6%. Shall we observe this experiment together, Doctor?",
+                "jp": "静かに――ドクター、どうかアエファニルにはIDカードを隠したのが妾であることをお伝えにならぬよう。今しがた姉妹らから受け取りしデータをテストしておってな、アエファニルは苛立ちを覚えた時に九十七点六パーセントの確率で左の眉をひそめるだそうなのだが……共に検証してみぬか？",
+                "kr": "쉿, 아이파닐에게는 내가 출입증을 숨겼다고 말하지 말아줘. 지금 자매들이 제공한 데이터를 테스트하는 중이거든. 계산에 따르면 아이파닐은 짜증이 났을 때 97.6%의 확률로 왼쪽 눈썹을 찌푸린다고 해…… 박사도 함께 확인해 볼래?",
+                "cn": "嘘，请不要告诉哀珐尼尔是我藏起了他的通行卡。我正在测试姐妹们提供的数据：经计算，哀珐尼尔在恼怒时皱起左边眉毛的可能性高达百分之九十七点六。想要一起验证看看吗，博士？"
+            },
+            "asset": "char_4136_phonor/CN_008"
+        },
+        {
+            "id": "char_4136_phonor_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Doctor, as a Banshee, I know well the power of language per se. The most maleficent curse can't rival cold words hurled in the flesh. The most efficacious blessing dims beside compliments offered in person. As such, every word I speak to you has been carefully calculated thousands of times.",
+                "jp": "ドクター、バンシーの一員として、妾は言葉そのものが持つ力を深く理解しておる。いかなる毒を持つ呪いも、面と向かい放たれる悪言には劣り、またどれほど霊験あらたかなる祝福も、直接告げられる賛辞には敵わぬ。ゆえに、そなたへと語る一言一句のすべては、幾千幾万回もの演算を経てはじき出されておるのだ。",
+                "kr": "박사, 밴시의 일원으로서 난, 언어가 가진 힘에 대해 잘 알고 있어. 아무리 사악한 주문이라도, 면전에서 던지는 차가운 한 마디가 더욱 쓰라리고, 아무리 신통한 축복이라도, 직접 마주하고 전하는 따뜻한 한마디보다는 못하지. 내가 그대에게 전하는 한 마디 한 마디는, 모두 수천 수만 번의 연산을 거쳐 나온 결과야.",
+                "cn": "博士，作为女妖中的一员，我深知语言本身的力量，再恶毒的咒语比不上当面的一句冷言，再灵验的祝祷也比不上当面的一声美言，所以每一句讲给您听的话，其实都经过了我千万次的谨慎计算。"
+            },
+            "asset": "char_4136_phonor/CN_009"
+        },
+        {
+            "id": "char_4136_phonor_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Statistics show that not all Banshees prefer falling asleep in the embrace of melody. Most of my sisters actually favor 'Three Thousand Long Years: The Evolution of the Bone Flute' for sleep-inducing. I'd be glad to read you a passage, if you needed.",
+                "jp": "統計によると、バンシーのすべてが歌声を供に眠ることを好むというわけではない。多くの姉妹は、『三千年の歴史――骨笛の進化』を睡眠導入用の環境音にしているのだ。必要とあらば、そなたのために一節そらんじて進ぜよう。",
+                "kr": "통계에 따르면 모든 밴시가 노래를 들으며 잠에 드는 것을 선호하는 건 아니더라고. 하지만 많은 자매들이 수면 음악으로 《기나긴 3천 년: 골피리의 변천사》를 선택했어. 필요하다면 그대에게도 한 소절 불러줄게.",
+                "cn": "据统计，并非所有女妖都喜欢伴着歌声入梦。大多数姐妹其实会选择《漫长三千年：骨笛演化史》作为助眠的背景音，如果您需要，我现在可以念一段。"
+            },
+            "asset": "char_4136_phonor/CN_010"
+        },
+        {
+            "id": "char_4136_phonor_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "To the esteemed Doctor of Rhodes Island, allow me to extend my most respectful greetings on behalf of the Banshees.",
+                "jp": "かねてよりその名は聞き及んでおったぞ、ロドスのドクターよ。バンシーを代表し、ご挨拶致そう。",
+                "kr": "그대의 이름은 익히 들었어. 로도스 아일랜드의 박사여. 밴시를 대표하여 인사하지.",
+                "cn": "久仰大名，罗德岛的博士，请容我代表女妖们向您致意。"
+            },
+            "asset": "char_4136_phonor/CN_011"
+        },
+        {
+            "id": "char_4136_phonor_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "May I download these onto my own memory module, Doctor? Before leaving the Convallis, Laqeramaline specifically asked me to save some videos of Aefanyl for her.",
+                "jp": "この映像を妾がローカルストレージにダウンロードしても構わぬか、ドクター？河谷を出る前、ラケラマリンからアエファニルが映っているものをいくつか保存しておくよう言いつけられておってな。",
+                "kr": "혹시 이 영상을 내 저장 모듈에 저장해도 될까, 박사? 내가 협곡을 떠나기 전에, 라케라말린이 아이파닐의 영상 몇 개를 저장해 달라고 특별히 부탁했었거든.",
+                "cn": "我可以下载到自己的存储模块吗，博士？离开河谷前，菈玛莲特意嘱咐我保存一些哀珐尼尔的视频给她。"
+            },
+            "asset": "char_4136_phonor/CN_012"
+        },
+        {
+            "id": "char_4136_phonor_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Wherever my song rises, blessings are pronounced and bestowed.",
+                "jp": "我が歌声が響く限り、祝福は影の如くその身に纏われるであろう。",
+                "kr": "내 노랫소리가 울려 퍼지는 곳에는 언제나 축복이 뒤따를 지어니.",
+                "cn": "我的歌声响起的地方，祝祷将如影随形。"
+            },
+            "asset": "char_4136_phonor/CN_017"
+        },
+        {
+            "id": "char_4136_phonor_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "This is the current state of the battlefield… Oh Aefanyl, even with that serious look on your face, I can tell your mind is wandering.",
+                "jp": "以上が大まかな戦況だが……アエファニル、そなた気が散っておるな。神妙な顔をしておっても妾は誤魔化されぬぞ。",
+                "kr": "이상 대략적인 현재 전장의 상황이다…… 아, 아이파닐. 표정은 진지해도, 난 네가 다른 데에 정신이 팔렸다는 걸 알 수 있단다.",
+                "cn": "这便是此时战场的大致情形......哦，哀珐尼尔，虽然你的表情一本正经，但我知道你在走神。"
+            },
+            "asset": "char_4136_phonor/CN_018"
+        },
+        {
+            "id": "char_4136_phonor_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "I leave my blessings upon your shoulders. They will protect you in times of crisis.",
+                "jp": "その肩先に祝福を授けよう。危機が迫りし時、そなたを守るであろう。",
+                "kr": "내 축복은 그대의 어깨에 남겨두지. 위기의 순간, 그대를 지켜줄 거야.",
+                "cn": "我将祷言留在了您的肩头，危机时刻，它会保护您。"
+            },
+            "asset": "char_4136_phonor/CN_019"
+        },
+        {
+            "id": "char_4136_phonor_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Please don't rush over here like that. It really is… not graceful.",
+                "jp": "かくも性急に攻め入ってくるでない。実に……見苦しいぞ。",
+                "kr": "저렇게 급하게 공격해올 필요가 있을까. 정말이지…… 품위가 없네.",
+                "cn": "请不要这样急匆匆地冲过来，实在是......没有风度。"
+            },
+            "asset": "char_4136_phonor/CN_020"
+        },
+        {
+            "id": "char_4136_phonor_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "As impolite as this may be... I want to sing my enemies' elegies before they even get close.",
+                "jp": "礼には欠けるやもしれぬが……彼奴らの顔も見えぬ今から、弔いを上げたく思うな。",
+                "kr": "예의에 어긋날 수도 있지만…… 저들이 가까워지기 전에, 부고 먼저 전하고 싶은걸.",
+                "cn": "可能不太礼貌......敌人还未靠近，我就想为他们报丧了。"
+            },
+            "asset": "char_4136_phonor/CN_021"
+        },
+        {
+            "id": "char_4136_phonor_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "If the sun has not yet set by the time of our victory, could we sing together?",
+                "jp": "黄昏に勝利を飾ること叶うならば、共に祝いの歌でも歌ってくれぬか？",
+                "kr": "승리를 거둔 후에도 석양이 남아있다면, 함께 노래하지 않을래?",
+                "cn": "若我们胜利后，夕阳仍未尽，可否一同欢唱？"
+            },
+            "asset": "char_4136_phonor/CN_022"
+        },
+        {
+            "id": "char_4136_phonor_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Please don't test my patience.",
+                "jp": "我が忍耐を試すような真似をするでない。",
+                "kr": "내 인내심을 시험하지 말길.",
+                "cn": "请不要挑战我的耐性。"
+            },
+            "asset": "char_4136_phonor/CN_023"
+        },
+        {
+            "id": "char_4136_phonor_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "It's alright. I have plenty of patience.",
+                "jp": "よろしい、ならば根比べと致そう。",
+                "kr": "괜찮아. 인내하는 건 자신 있으니까.",
+                "cn": "没关系，我有的是耐心。"
+            },
+            "asset": "char_4136_phonor/CN_024"
+        },
+        {
+            "id": "char_4136_phonor_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Names as prelude.'",
+                "jp": "「真名を導きに。」",
+                "kr": "“본명을 인도하리라.”",
+                "cn": "“名姓作引。”"
+            },
+            "asset": "char_4136_phonor/CN_025"
+        },
+        {
+            "id": "char_4136_phonor_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Curses mold blade.'",
+                "jp": "「悪言は鋒となりて。」",
+                "kr": "“악의가 담긴 말은 칼날이 될지니.”",
+                "cn": "“恶言成锋。”"
+            },
+            "asset": "char_4136_phonor/CN_026"
+        },
+        {
+            "id": "char_4136_phonor_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Rants form flame.'",
+                "jp": "「怒言は焔とならん。」",
+                "kr": "“분노가 담긴 말은 불꽃이 될지니.”",
+                "cn": "“怒语为焰。”"
+            },
+            "asset": "char_4136_phonor/CN_027"
+        },
+        {
+            "id": "char_4136_phonor_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Ugh, my new paintjob…",
+                "jp": "あなや、塗装を仕上げたばかりというに……！",
+                "kr": "이런, 새로 칠한 페인트가……",
+                "cn": "嘶，我新做的涂装......"
+            },
+            "asset": "char_4136_phonor/CN_028"
+        },
+        {
+            "id": "char_4136_phonor_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "May victory be permanent, and peace everlasting.",
+                "jp": "勝利が、安寧が、長く留まらんことを。",
+                "kr": "이 승리가, 안녕이 계속되길. 더욱이 평화와 안녕이 계속되길.",
+                "cn": "愿胜利长驻，更愿安宁长留。"
+            },
+            "asset": "char_4136_phonor/CN_029"
+        },
+        {
+            "id": "char_4136_phonor_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Cherish victory, for it never comes easily.",
+                "jp": "何とも得難きものよ……",
+                "kr": "정말 힘겹게 얻은 승리네……",
+                "cn": "终究是来之不易......"
+            },
+            "asset": "char_4136_phonor/CN_030"
+        },
+        {
+            "id": "char_4136_phonor_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "I'm so sorry, Doctor, but I'm afraid there's a limit to my power, and it's far from the true might of a Banshee.",
+                "jp": "ドクター、すまぬ。我が力量には限りがあり、本物のバンシーの力には到底及ばぬゆえ……",
+                "kr": "박사, 미안. 아무래도 지금 내게 주어진 힘은 진정한 밴시의 힘과 비교했을 때 역시 한계가 존재하는 모양이야.",
+                "cn": "很抱歉，博士，我的力量终归有限，和真正的女妖之力相去甚远。"
+            },
+            "asset": "char_4136_phonor/CN_031"
+        },
+        {
+            "id": "char_4136_phonor_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Let not melancholy consume your heart, Doctor. Life is long, when we look back at this defeat from a distant tomorrow, it will be nothing more than a wisp upon the winds of memory.",
+                "jp": "気を落とされるでないぞ、ドクター。人生は長く続くもの。眼前の失敗など、後にしてみれば取るに足らない思い出に過ぎぬ。",
+                "kr": "너무 속상해하지 마, 박사. 인생은 길고, 당장 눈앞의 실패도 나중에 보면 작은 추억 중 하나에 불과할 테니까.",
+                "cn": "请不要因此而伤感，博士。一生是漫长的，当下的失利待到将来再看，也不过是一段无足轻重的回忆。"
+            },
+            "asset": "char_4136_phonor/CN_032"
+        },
+        {
+            "id": "char_4136_phonor_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "I very much appreciate the interior structure of this room. It is conducive to sound propagation. Every time I offer a prayer, it will spread far and wide.",
+                "jp": "この部屋の構造は気に入っておる。何より声の通りが良く、祝福を唱えれば遠くまで響くゆえな。",
+                "kr": "이 방의 내부 구조, 정말 마음에 드네. 소리를 전달하는데 적합해서 축복을 아주 멀리까지 전할 수 있겠어.",
+                "cn": "我很喜欢这间屋子的内部结构，适合声音的传播，每次我留下的祷言都能扩散得很远。"
+            },
+            "asset": "char_4136_phonor/CN_033"
+        },
+        {
+            "id": "char_4136_phonor_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Doctor, an incantation has been laid upon me— one that brings bad luck to all those who touch me without permission. Oh, don't worry though, I've already given you my permission.",
+                "jp": "ドクター。この躯には呪術が施されておるゆえ――我が許しなく触れる輩には災いが降りかかるであろう。ああ、そう焦らずともよい。そなたが触れる分にはとうに許しておるぞ。",
+                "kr": "박사, 내 몸에는 주술이 걸려 있어서…… 나의 허락 없이 이 몸을 만지는 자에게는 불행이 닥칠 거야. 아, 너무 당황할 필요 없어. 그대의 손길은 이미 허락한 상태니까.",
+                "cn": "博士，我身上有种咒言——不经允许便碰触我的人会变得倒霉。啊，请不要慌张，我已经默许您的触碰了。"
+            },
+            "asset": "char_4136_phonor/CN_034"
+        },
+        {
+            "id": "char_4136_phonor_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Doctor, I want to hear your opinion on something. The landship's choir asked me to be their soprano...",
+                "jp": "ドクターに意見を伺いたい。実は本艦の合唱団から、ソプラノ担当に興味はないかと声を掛けられたのだが……",
+                "kr": "박사, 그대의 의견을 듣고 싶어. 함선의 합창단에서 내게 소프라노를 맡을 의향이 있는지 물어보던데……",
+                "cn": "博士，有件事我想听听您的意见，舰船上的合唱团想邀请我担任女高音......"
+            },
+            "asset": "char_4136_phonor/CN_036"
+        },
+        {
+            "id": "char_4136_phonor_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4136_phonor/CN_037"
+        },
+        {
+            "id": "char_4136_phonor_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Doctor, your food intake for the day is getting dangerously close to the critical line, and it might be advisable to exercise some restraint. Oh, please don't look at me like that, I... Okay... it's New Year's Eve, after all. You may eat a little more.",
+                "jp": "ドクター、健康監視センサーによるとそなたの本日の食事量はレッドラインに近付いておる、自制をお勧めしよう。あなや、然様な目で妾をご覧になられるな。我は……まあ良い。新年初日ゆえ、多少の不摂生は目を瞑るとしよう。",
+                "kr": "박사, 오늘 박사가 섭취한 음식량은 이미 건강 권장량을 넘어서려고 해. 그러니 이제부턴 음식 섭취를 자제하는 게 좋을 거야. 앗, 그런 눈으로 쳐다보지 마. 난…… 하아, 새해이기도 하니, 오늘은 조금 더 먹어도 눈감아줄게.",
+                "cn": "博士，您今天的进食量已经接近健康监测的红线了，或许需要克制一些。哦，请不要这样看我，我......算了，今天是新年夜，您多吃一些也没有关系的。"
+            },
+            "asset": "char_4136_phonor/CN_038"
+        },
+        {
+            "id": "char_4136_phonor_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Good evening, Doctor. May your dreams be sweet.",
+                "jp": "穏やかに眠れ、ドクター。良き夢を。",
+                "kr": "편히 잠들길. 박사, 좋은 꿈 꿔.",
+                "cn": "晚安，博士，愿您好梦。"
+            },
+            "asset": "char_4136_phonor/CN_042"
+        },
+        {
+            "id": "char_4136_phonor_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Throughout the long history of the Sarkaz, the Banshees suffered terrible losses after each upheaval. Our decision to go into isolation was a last resort. We were worried, of course, seeing Aefanyl stride into the heart of danger again and again with Rhodes Island, but we are also proud of him. He truly lives up to his Banshee name.",
+                "jp": "サルカズの長い歴史の中で、バンシーは波乱のたびに痛ましき被害を受けてきた。世を避けるようになったのも致し方ない選択だ。ゆえに、アエファニルがロドスと共に幾度となく嵐の中心へ踏み入るのを見ていると、我らは憂いと誇りに胸が満たされる。あの子こそが、バンシーの中のバンシーなのだ。",
+                "kr": "살카즈의 기나긴 역사의 풍파 속에서 밴시는 참으로 많은 고통을 겪었어. 세상을 피하고 등진 것 역시 어쩔 수 없는 선택이었지. 아이파닐이 로도스 아일랜드와 함께 여러 번 폭풍의 한가운데로 들어가는 모습을 볼 때마다 걱정스러우면서, 내심 한편으로는 자랑스럽기도 해. 그 아이야말로…… 진정한 밴시라고 할 수 있지.",
+                "cn": "在萨卡兹漫长的历史中，女妖在每次风波中的损失都令人扼腕，选择避世也是不得已而为之。看到哀珐尼尔同罗德岛一起数次踏入风暴的中心，我们会心忧，却也为他自豪，他是当之无愧的女妖。"
+            },
+            "asset": "char_4136_phonor/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Marcella Lentz-Pope",
+            "global": "Marcella Lentz-Pope"
+        },
+        "cn": {
+            "native": "昱头",
+            "global": "Yolanda"
+        },
+        "jp": {
+            "native": "渡辺久美子",
+            "global": "Kumiko Watanabe"
+        },
+        "kr": {
+            "native": "신송이",
+            "global": "Shin Song-yi"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

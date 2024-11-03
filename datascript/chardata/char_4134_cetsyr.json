@@ -1,0 +1,628 @@
+{
+    "charid": "char_4134_cetsyr",
+    "nameid": "cetsyr",
+    "names": {
+        "en": "Civilight Eterna",
+        "jp": "シヴィライト・エテルナ",
+        "kr": "시빌라이트 에테르나",
+        "cn": "魔王"
+    },
+    "voices": [
+        {
+            "id": "char_4134_cetsyr_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "I still remember this conference room. This seat… was it reserved for Theresa? No... I have no need for it.",
+                "jp": "この会議室のことは覚えているわ。この席は、テレジアのために空けられているのかしら？いいえ……私は要らないわ。",
+                "kr": "이 회의실, 아직 기억나. 이건 테레시아를 위해 남겨둔 자리야? 아니…… 그런 거라면 내겐 필요 없어.",
+                "cn": "我还记得这间会议室。这是专门为特蕾西娅空着的位置吗？不......我并不需要。"
+            },
+            "asset": "char_4134_cetsyr/CN_001"
+        },
+        {
+            "id": "char_4134_cetsyr_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Theresa is no more. This body, this vestige before you, is but a program that exists within the 'King of Sarkaz.' My form and my presence are the result of Amiya's emotions. As much as I may remember everything from the past, please do not mistake me for Theresa herself.",
+                "jp": "テレジアはもう戻らぬ旅路に就いたわ。残された私は、「文明の存続」の中に存在するプログラムでしかない。アーミヤの思いがあったからこそ、私はこの姿で現れたの。テレジアとは別人よ。たとえ私にかつての記憶が全てあったとしてもよ。",
+                "kr": "테레시아는 영원히 떠났어. 지금 이곳에 있는 나는 그저 '마왕' 속에 있는 프로그램일 뿐이지. 아미야의 감정 때문에 이런 모습으로 나타나게 된 거야. 날 테레시아라고 생각하지 말아줘, 비록 이런 내가 과거의 모든 것을 기억하고 있다 할지라도……",
+                "cn": "特蕾西娅已经永远离开了，现在留在这里的我，只是一个存在于“魔王”之中的程序。因为阿米娅的情感，我才会以这副模样显现。不要将我当作特蕾西娅，尽管我记得过去的一切。"
+            },
+            "asset": "char_4134_cetsyr/CN_002"
+        },
+        {
+            "id": "char_4134_cetsyr_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "I will stay by Amiya's aside, accompanying everyone here at Rhodes Island. Though, this hardly makes up for all the lost time... Doctor, I'm not a program in the same sense as PRTS. See? You might not be able to feel my body temperature, but I can at least smile.",
+                "jp": "これからはアーミヤの傍にいるし、ロドスの皆とも共に過ごすつもりよ。こんなことではとても過去の埋め合わせにはならないけれどね……ドクター、私はPRTSのようなプログラムではないの。ほら、この身体に体温はないけれど、笑ったりはするわ。",
+                "kr": "난 언제나 아미야의 곁에, 로도스 아일랜드 사람들의 곁에 남아 있을 거야. 비록 이게 흘러가 버린 시간에 대한 보상이 될 수는 없겠지만…… 박사, 난 PRTS 같은 프로그램이 아니야. 봐 봐. 비록 몸에 온기는 없지만, 이렇게 웃을 수 있잖아.",
+                "cn": "我会陪在阿米娅身边，也会陪着罗德岛的大家，虽然这也算不上对过去时光的补偿......博士，我不是PRTS那样的程序哦，你看，虽然这个身体没有温度，可我也是会笑的。"
+            },
+            "asset": "char_4134_cetsyr/CN_003"
+        },
+        {
+            "id": "char_4134_cetsyr_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Rhodes Island has strode beyond war, and should now re-embark on her intended route. For starters, how about optimizing our logistics? There are several conference rooms that can be freed up and converted into sickbays... You'd like my personal opinion? Doctor, allow me to remind you again, I am not Theresa.",
+                "jp": "ロドスは戦争を乗り越えたのだから、そろそろ元の航路に戻るべきね。インフラの改善から始めたらどうかしら？会議室をいくつか空けて、病室に改築するとか……私の意見がほしいの？ドクター、言ったでしょう。私はテレジアではないわ。",
+                "kr": "로도스 아일랜드는 전쟁을 견뎌냈어. 그러니 이젠 원래의 항로로 복귀해 다시 나아가야 해. 음, 후방 물자 보급부터 개선하는 건 어때? 병실로 사용할 수 있는 회의실은 얼마나 있지? ……내 의견이 더 듣고 싶다고? 말했잖아, 박사. 난 테레시아가 아니야.",
+                "cn": "罗德岛跨过了战争，该沿着她原本的航线出发了。就从改善后勤保障做起如何？有几间会议室是不是可以腾出来改成病房呢......征求我的意见？博士，我说过的，不要将我当作特蕾西娅。"
+            },
+            "asset": "char_4134_cetsyr/CN_004"
+        },
+        {
+            "id": "char_4134_cetsyr_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "'Rhodes Island Pharmaceuticals Inc.'... registered to Amiya's hometown... And these medicines... They were all developed by Kal'tsit... No, I have no regrets. Babel has fulfilled its duty. Rhodes Island will continue to sail, and continue to alleviate sickness and pain. If Theresa was here, I'm sure she would have been pleased.",
+                "jp": "「ロドス・アイランド製薬会社」、登記はアーミヤの故郷なのね。この薬は全てケルシーが開発したものなのかしら……どうして私が残念に思うの？バベルの使命はもう終わって、ロドスは引き続き病気と痛みを癒す旅を続けるのよ。テレジアだってきっとうれしく思うわ。",
+                "kr": "'로도스 아일랜드 제약회사', 등록지는 아미야의 고향이구나. 이 약들은 전부 켈시가 개발한 건가…… 아쉽지 않냐고? 그럴 리가 없잖아. 바벨은 사명을 다했고, 로도스 아일랜드는 계속해서 항해하며, 이 대지의 질병과 고통을 치유해 나갈 거야. 그럼 분명 테레시아도 기뻐할 테지.",
+                "cn": "“罗德岛制药公司”，注册地是阿米娅的故乡呢。这些药物都是凯尔希研制的吗......怎么会遗憾？巴别塔的使命已经完成了，罗德岛会继续航行，治愈病痛。特蕾西娅也一定会很欣慰吧。"
+            },
+            "asset": "char_4134_cetsyr/CN_005"
+        },
+        {
+            "id": "char_4134_cetsyr_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Never have I regretted any of my decisions. We did everything we could have done, and bequeathed hope unto the future. Time will close wounds, love will mend scars. When the long night ends, Rhodes Island will usher in the light of dawn. Though many have left us along the way, I will remain here and bear witness to the ending.",
+                "jp": "私は自分の選択を後悔したことはないの。持てる力の限りを尽くして、希望を未来に残したのよ。いずれ時が傷を癒して、愛がその跡を薄くするでしょう。長い夜のあとに、ロドスは朝日を迎えることになるのよ。たくさんの人が道半ばでいなくなったけれど、私はここに残って、結末を見届けるつもりよ。",
+                "kr": "내가 한 선택을 후회한 적은 없어. 우린 할 수 있는 모든 것을 했고, 미래에 희망의 씨앗을 남겼지. 시간은 상처를 치유하고, 사랑은 상흔을 치료해 주리라 믿으며 말이야. 길고 긴 밤이 지나면, 로도스 아일랜드엔 분명, 여명이 찾아올 거야. 수많은 이들이 도중에 떠나겠지만, 난 이곳에 남아 이 이야기의 끝을 지켜볼게.",
+                "cn": "我从不后悔曾经的选择。我们做了可以做的一切，然后将希望留给未来。时间会弥合伤口，爱意会抚平疤痕。漫漫长夜后，罗德岛会迎来黎明。许多人在途中离去了，我会留在这里，见证那个结局。"
+            },
+            "asset": "char_4134_cetsyr/CN_006"
+        },
+        {
+            "id": "char_4134_cetsyr_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Amiya still looks so thin and frail. For a girl at this age, maybe she should be a bit taller? All these days, has she been eating well…? How she so wished to see Amiya as she is now, to watch her grow for just a bit longer. Her wish should have been granted...",
+                "jp": "アーミヤはやっぱり、華奢すぎるように見えるわ。この年頃の子なら、もっと背が高いものじゃないかしら？本当にちゃんとご飯を食べているの……彼女がどれだけこの子の今の姿を自分の目で確かめたかったか。少しでも長く成長を見守っていたかったか。本当ならそれは叶うべきことだったのに……",
+                "kr": "아미야는 아직도 말라 보이네. 이 나이대의 아이라면 키가 조금 더 커야 하지 않나? 밥은 잘 먹고 다니는 건지…… 아미야의 지금 모습도, 아미야가 자라나는 모습도 곁에서 보고 싶었겠지. 원래라면 테레시아도 볼 수 있었을 텐데……",
+                "cn": "阿米娅看上去还是这么瘦弱，这个年纪的孩子，个子是不是应该更高一点才对？她到底有没有好好吃饭呢......她多想看到阿米娅现在的样子，多想陪她再长大一点。她本该看到的......"
+            },
+            "asset": "char_4134_cetsyr/CN_007"
+        },
+        {
+            "id": "char_4134_cetsyr_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Kal'tsit still refuses to speak to me. When she poses questions to this crown, she avoids looking me in the eye. 'The King of Sarkaz' remembers her past. While I can sympathize with her loneliness, I cannot free her from her shackles. Perhaps one day, Doctor, you can help her find meaning in her existence, as her companion.",
+                "jp": "ケルシーはやはり私と話をしたくないようね。この王冠に向かって質問をする時ですら、私の目を避けるの。「文明の存続」は彼女の過去を知っているから、彼女が抱える孤独を理解できるのに、枷を解いてあげることはできないの。ドクター、もしかしたら、あなたならいつの日か、彼女と一緒に生きる意味を見つけられるかもしれないわね。",
+                "kr": "켈시는 여전히 나와 이야기하길 꺼려 하는 것 같아. 이 왕관에 대해 물어봤을 때도, 켈시는 내 눈을 피했었거든…… '마왕'은 그녀의 과거를 기억하고 있어. 그녀의 외로움을 나는 이해하지만, 그녀를 위해서 그 족쇄를 풀어줄 순 없어. 박사, 어쩌면 언젠가, 네가 함께 그녀의 존재의 의미를 찾아줄 수 있을 거야.",
+                "cn": "凯尔希还是不愿与我讲话，向这顶王冠询问的时候，她都在回避我的眼睛。“魔王”记得她的过去，我可以体谅她的孤独，却不能为她解开枷锁。博士，或许有一天，你可以陪她找到存在的意义。"
+            },
+            "asset": "char_4134_cetsyr/CN_008"
+        },
+        {
+            "id": "char_4134_cetsyr_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Doctor, you carry such guilt within your eyes. But you ask, is one's memory sufficient to define who they are? You have lost your memories. I merely inherited all of hers. How are we to settle what happened so long ago? Doctor, go and spend some more time with Amiya and Kal'tsit. None shall linger in the past, except her.",
+                "jp": "ドクター、あなたの目にはいつも後ろめたさが見えるわ。だけど考えてみてちょうだい。その者が誰であるかを決めるのは記憶なのかしら？記憶を失ったあなたと、彼女の記憶をただ持っているだけの私の二人で、どうやってあのわだかまりを解くというの？時間があるなら、アーミヤとケルシーの傍にいてあげて。過去に留まったままなのは彼女だけで十分よ。",
+                "kr": "박사, 네 눈엔 늘 미안함이 깃들어 있네. 하지만, 과연 한 사람이 누구인지를 기억만으로 정할 수 있는 걸까? 기억을 잃어버린 너와, 그녀의 기억만을 가진 내가 과연 어떻게 그 매듭을 풀어낼 수 있을까? 가서 아미야와 켈시랑 함께 있어줘. 과거에 머물러 있는 사람은 그녀 하나면 충분하니까.",
+                "cn": "博士，你的眼里常怀愧疚。可你说，记忆能够决定一个人是谁吗？失去了记忆的你，和只是拥有她记忆的我，又如何解开那个结呢？多去陪陪阿米娅和凯尔希吧，停留在过去的有她就够了。"
+            },
+            "asset": "char_4134_cetsyr/CN_009"
+        },
+        {
+            "id": "char_4134_cetsyr_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Are you weary, Doctor? Then, go ahead and rest. Everyone has the right to fall into peaceful slumber, and you are no exception.",
+                "jp": "ドクター、疲れたの？それなら、少し休んだらいいわ。誰だって穏やかに眠りにつく権利を持っているの、あなただってね。",
+                "kr": "박사, 피곤한 모양이네? 그럼 좀 쉬어, 누구에게나 평온한 꿈을 꿀 권리는 있잖아. 너도 마찬가지야.",
+                "cn": "博士，累了吗？那就休息吧。每个人都有平静入梦的权利，你也一样。"
+            },
+            "asset": "char_4134_cetsyr/CN_010"
+        },
+        {
+            "id": "char_4134_cetsyr_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "...I'm here.",
+                "jp": "……ここにいるわ。",
+                "kr": "……여기 있어.",
+                "cn": "......我在。"
+            },
+            "asset": "char_4134_cetsyr/CN_011"
+        },
+        {
+            "id": "char_4134_cetsyr_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "…Did I just see Amiya fighting?",
+                "jp": "……今映っていたのはアーミヤじゃないかしら？",
+                "kr": "……지금 작전 화면에 아미야가 나온 거야?",
+                "cn": "......我是不是在作战画面里看到了阿米娅？"
+            },
+            "asset": "char_4134_cetsyr/CN_012"
+        },
+        {
+            "id": "char_4134_cetsyr_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "I still remember every medal I distributed with these very hands. These ceremonies are also commitments. Rhodes Island will never give up on her ideals, let sacrifices be in vain, or forget about those who've traveled with her. Even now, we remain on the same course we originally charted.",
+                "jp": "この手で渡したメダルは全て覚えているわ。こうした儀式はある種の約束でもあるの。ロドスは決して理想を諦めず、払われた犠牲を無駄にはせず、共に歩んだ人々を忘れることはない。私たちは今も一番初めに思い描いていた道を進んでいるわ。",
+                "kr": "직접 수여했던 훈장들, 나도 아직 기억하고 있어. 이런 의식은 하나의 약속이니까. 로도스 아일랜드는 절대 이상을 포기하지 않아. 희생을 저버리지도, 함께 했던 이들도 잊지 않을 거야. 우리는 처음 가고자 한 그 길을 계속해서 나아갈 거야.",
+                "cn": "我还记得亲手交出去的每一块勋章，这样的仪式也是一种承诺。罗德岛不会放弃理想，不会辜负牺牲，不会遗忘同行的人。我们依然行走在最初所希望的路上。"
+            },
+            "asset": "char_4134_cetsyr/CN_013"
+        },
+        {
+            "id": "char_4134_cetsyr_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "I know, there are still many people who need me. Don't worry. This time, I'm not going anywhere.",
+                "jp": "ええ、まだたくさんの人たちが私を必要としているのね。心配しなくて大丈夫よ、今度はもういなくなったりしないから。",
+                "kr": "아직 많은 이들이 날 필요로 하고 있다는 걸 알고 있어. 걱정하지 마, 이번엔 떠나지 않을 거야.",
+                "cn": "我知道，还有许多人需要我。不用着急，这一次我不会离开了。"
+            },
+            "asset": "char_4134_cetsyr/CN_014"
+        },
+        {
+            "id": "char_4134_cetsyr_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Will you lead us to victory once more, Doctor?",
+                "jp": "あなたは私たちをもう一度勝利へと導くのかしら、ドクター？",
+                "kr": "우리를 다시 승리로 이끌어 줄래, 박사?",
+                "cn": "你会再次带领我们走向胜利吗，博士？"
+            },
+            "asset": "char_4134_cetsyr/CN_017"
+        },
+        {
+            "id": "char_4134_cetsyr_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "I will stand alongside the warriors of Rhodes Island.",
+                "jp": "私はロドスの戦士たちと共にあるわ。",
+                "kr": "난 로도스 아일랜드의 전사들과 함께하겠어.",
+                "cn": "我会与罗德岛的战士们站在一起。"
+            },
+            "asset": "char_4134_cetsyr/CN_018"
+        },
+        {
+            "id": "char_4134_cetsyr_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Warriors of Rhodes Island, may you all return victorious.",
+                "jp": "ロドスの戦士たち、凱旋を願うわ。",
+                "kr": "로도스 아일랜드의 전사들이여, 승리를 거두고 돌아오기를.",
+                "cn": "罗德岛的战士们，愿你们凯旋。"
+            },
+            "asset": "char_4134_cetsyr/CN_019"
+        },
+        {
+            "id": "char_4134_cetsyr_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "I can hear the sorrow within you all.",
+                "jp": "あなたたち全員の悲しみが聞こえるわ。",
+                "kr": "난 너희의 슬픔이 들려.",
+                "cn": "我能听到你们所有人的悲伤。"
+            },
+            "asset": "char_4134_cetsyr/CN_020"
+        },
+        {
+            "id": "char_4134_cetsyr_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Doctor, I have faith in your command.",
+                "jp": "ドクター、あなたの指揮を信じているわ。",
+                "kr": "박사, 네 지휘를 믿어.",
+                "cn": "博士，我相信你的指挥。"
+            },
+            "asset": "char_4134_cetsyr/CN_021"
+        },
+        {
+            "id": "char_4134_cetsyr_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "It's okay. I am with you.",
+                "jp": "安心して、私がいるわ。",
+                "kr": "무서워하지 마, 내가 있잖아.",
+                "cn": "别怕，我在。"
+            },
+            "asset": "char_4134_cetsyr/CN_022"
+        },
+        {
+            "id": "char_4134_cetsyr_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Amiya, get behind me.",
+                "jp": "アーミヤ、私の後ろに隠れていてね。",
+                "kr": "아미야, 내 뒤로 물러서.",
+                "cn": "阿米娅，站到我身后来。"
+            },
+            "asset": "char_4134_cetsyr/CN_023"
+        },
+        {
+            "id": "char_4134_cetsyr_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "I am right here. I will always remain with you.",
+                "jp": "私はここにいるわ。ずっと傍にいるからね。",
+                "kr": "여기 있어. 난 언제나 너와 함께할 거야.",
+                "cn": "我在这儿呢，我会一直陪着你。"
+            },
+            "asset": "char_4134_cetsyr/CN_024"
+        },
+        {
+            "id": "char_4134_cetsyr_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "I will remember each and every one of you.",
+                "jp": "あなたたちのことは誰一人忘れないわ。",
+                "kr": "너희 모두는 내가 기억할게.",
+                "cn": "我会记住你们每一个人。"
+            },
+            "asset": "char_4134_cetsyr/CN_025"
+        },
+        {
+            "id": "char_4134_cetsyr_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Your ideals... are equally worthy of respect.",
+                "jp": "あなたたちの信念も尊ぶべきものよ。",
+                "kr": "너희의 신념도, 마찬가지로 존경할 만해.",
+                "cn": "你们的信念，同样可敬。"
+            },
+            "asset": "char_4134_cetsyr/CN_026"
+        },
+        {
+            "id": "char_4134_cetsyr_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Keep striding forward. I shall be at your side.",
+                "jp": "そのまま前に進んで。私も一緒に行くわ。",
+                "kr": "계속 나아가자, 내가 너의 곁에 있을게.",
+                "cn": "继续向前走吧，我会陪在你身边。"
+            },
+            "asset": "char_4134_cetsyr/CN_027"
+        },
+        {
+            "id": "char_4134_cetsyr_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Don't cry. It will all be over soon.",
+                "jp": "泣かないで、すぐに終わるからね。",
+                "kr": "울지마, 곧 끝날 거야.",
+                "cn": "别哭，很快就结束了。"
+            },
+            "asset": "char_4134_cetsyr/CN_028"
+        },
+        {
+            "id": "char_4134_cetsyr_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "There shall come a day... when we can strike alight the flames that burn away all decay.",
+                "jp": "いつかきっと、私たちが炎を点し、朽ち果てる全てを燃やし尽くせる日はやってくるわ。",
+                "kr": "언젠가 우린, 환한 불꽃을 피워 이 모든 부패를 태워버릴 수 있을 거야.",
+                "cn": "终有一天，我们可以点起火焰，燃尽一切腐朽。"
+            },
+            "asset": "char_4134_cetsyr/CN_029"
+        },
+        {
+            "id": "char_4134_cetsyr_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "You always make the perfect calculations so that everything falls into place just as you planned, don't you?",
+                "jp": "あなたはいつだって全部計算済みで、自分の計画通りに全てを動かすことができるのよね。違う？",
+                "kr": "넌 언제나 치밀한 계산으로 모든 일을 네 계획대로 이끌어가는 것 같아, 그렇지?",
+                "cn": "你总是可以计算得很清楚，让一切都依照你的计划进行，对吗？"
+            },
+            "asset": "char_4134_cetsyr/CN_030"
+        },
+        {
+            "id": "char_4134_cetsyr_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Without you, our casualties would have been far worse... Thank you, Doctor.",
+                "jp": "あなたがいなかったら、みんなの被害はもっと重かったかもしれないわ……ありがとう、ドクター。",
+                "kr": "만약 네가 없었다면 우리의 피해는 이보다 더 심각했을 거야…… 고마워, 박사.",
+                "cn": "如果没有你，我们的伤亡可能会更加严重......谢谢你，博士。"
+            },
+            "asset": "char_4134_cetsyr/CN_031"
+        },
+        {
+            "id": "char_4134_cetsyr_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "We will be able to move beyond this pain and suffering. Rhodes Island will not stop here.",
+                "jp": "私たちはきっとこの痛みを乗り越えることができるわ。ロドスはここで終わらない。",
+                "kr": "우린 분명 이 상처를 딛고 다시 일어설 수 있을 거야. 로도스 아일랜드 역시 여기서 멈추지 않을 거고.",
+                "cn": "我们一定可以跨过这些伤痛，罗德岛不会在此停下。"
+            },
+            "asset": "char_4134_cetsyr/CN_032"
+        },
+        {
+            "id": "char_4134_cetsyr_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "A new security system? Will it still recognize me?",
+                "jp": "新しいセキュリティシステムは、私のことが分かるかしら？",
+                "kr": "새로운 보안 시스템이 날 알아보려나?",
+                "cn": "新的安保系统，还认识我吗？"
+            },
+            "asset": "char_4134_cetsyr/CN_033"
+        },
+        {
+            "id": "char_4134_cetsyr_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Boo! Did I scare you?",
+                "jp": "わっ！驚いた？",
+                "kr": "얍! 놀랐어?",
+                "cn": "哈！被吓到了吗？"
+            },
+            "asset": "char_4134_cetsyr/CN_034"
+        },
+        {
+            "id": "char_4134_cetsyr_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "I'm watching you, Doctor.",
+                "jp": "あなたのことを見ているわ、ドクター。",
+                "kr": "지켜보고 있을게, 박사.",
+                "cn": "我在注视着你，博士。"
+            },
+            "asset": "char_4134_cetsyr/CN_036"
+        },
+        {
+            "id": "char_4134_cetsyr_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4134_cetsyr/CN_037"
+        },
+        {
+            "id": "char_4134_cetsyr_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Happy New Year, Doctor. Rhodes Island is a lot livelier than it used to be. Though there's still so much unfinished business, this moment of peace is precious nevertheless. Doctor, can you give these storybooks and toys to the children for me? It's something Theresa always used to do.",
+                "jp": "明けましておめでとう、ドクター。昔に比べて随分と賑やかになったわね。まだまだやるべきことはたくさんあるけど、今この時の平穏もとても貴重よ。ドクター、私の代わりにこのお話の本と人形を子供たちに渡してあげてくれるかしら？テレジアはいつもそうしていたの。",
+                "kr": "새해 복 많이 받아, 박사. 로도스 아일랜드는 전보다 많이 시끌벅적해졌네. 아직 이루지 못한 일들이 많지만, 이 잠깐의 평화도 소중한 거니까…… 박사, 날 대신해서 이 동화책과 장난감을 아이들에게 선물해 줄 수 있을까? 테레시아는 늘 그렇게 해왔거든.",
+                "cn": "新年快乐，博士。罗德岛比过去要热闹很多呢。虽然还有那么多未完成的事情，但是这一时半刻的安宁也弥足珍贵。博士，可以替我把这些故事书和玩偶送给孩子们吗？特蕾西娅总是会这么做。"
+            },
+            "asset": "char_4134_cetsyr/CN_038"
+        },
+        {
+            "id": "char_4134_cetsyr_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Program initializing. Accessor: Dr.{@nickname}.",
+                "jp": "プログラム起動、訪問者確認。ドクター――おはよう。",
+                "kr": "프로그램 기동, 방문자. {@nickname} 박사…… 안녕, 박사.",
+                "cn": "程序启动，访问人，Dr.{@nickname}——博士，早上好。"
+            },
+            "asset": "char_4134_cetsyr/CN_042"
+        },
+        {
+            "id": "char_4134_cetsyr_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": " 'Rhodes Island.' This very name fills one with warmth and comfort. Surely, tender memories will rush forth as soon as you speak these words. I hope that Rhodes Island can continue to carry forth the hopes and expectations of countless people, and in the future, become home for many, many more.",
+                "jp": "「ロドス・アイランド」、この名前にはとても優しい印象を受けるわね。声に出して読み上げた時に思い浮かぶのは、きっとすごく温かな記憶だわ。ロドスには、これからも変わらず、たくさんの人の希望を載せて進んで行ってほしいわ。この先、彼女はもっと多くの人々の家になるのよ。",
+                "kr": "로도스 아일랜드', 이 이름은 뭔가 포근한 느낌이 들어. 이 이름을 되뇌일 때마다, 사람들은 늘 따뜻한 기억만을 떠올릴 거야. 앞으로도 로도스 아일랜드가 계속 많은 사람들의 기대를 품고 나아갈 수 있었으면 좋겠어. 이 함선은 분명, 더 많은 이들의 따뜻한 집이 되어 줄 거야.",
+                "cn": "“罗德岛”，这个名字给人一种很柔软的感觉。念出这个名字的时候，想到的一定是很温柔的回忆。我希望罗德岛可以一直一直，带着许多人的期望行驶下去。在将来，她也会成为更多人的家吧。"
+            },
+            "asset": "char_4134_cetsyr/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Kari Wahlgren",
+            "global": "Kari Wahlgren"
+        },
+        "cn": {
+            "native": "季冠霖",
+            "global": "Guanlin Ji"
+        },
+        "jp": {
+            "native": "南里侑香",
+            "global": "Yuuka Nanri"
+        },
+        "kr": {
+            "native": "김윤채",
+            "global": "Kim Yun-chae"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

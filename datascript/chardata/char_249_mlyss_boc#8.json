@@ -1,0 +1,628 @@
+{
+    "charid": "char_249_mlyss_boc#8",
+    "nameid": "mlyss-boc",
+    "names": {
+        "en": "Muelsyse BOC",
+        "jp": "ミュルジス BOC",
+        "kr": "뮤엘시스 BOC",
+        "cn": "缪尔赛思 BOC"
+    },
+    "voices": [
+        {
+            "id": "char_249_mlyss_boc#8_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "In a landward raindrop, in a humidifier's mist, whenever you need me, I'll hear your call.",
+                "jp": "大地に滴る雨にも、加湿器の霧にも。あなたがあたしを求める声は、いつもちゃんと聞こえるわ。",
+                "kr": "대지로 떨어지는 빗방울, 가습기에서 나오는 안개. 날 필요로 하는 당신의 목소리는 언제든 듣고 있어.",
+                "cn": "落向大地的雨，加湿器的雾，你需要我的时候，我总是听得到的。"
+            },
+            "asset": "char_249_mlyss_boc#8/CN_001"
+        },
+        {
+            "id": "char_249_mlyss_boc#8_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "All trace of Her walking our land, all the names She was praised by… Everything is gone, evaporated like morning dew... Across our clan's recollections of Her, 'Muel' is the only thing that remains. A syllable now carried on in my name.",
+                "jp": "大地を歩いた足跡も、人々に称えられた名前も、最後にはちっとも残らなかったわ……「ミュル」――あたしの一族に残っている巨獣の記憶は、名前の中にあったこの短い響きだけ。",
+                "kr": "대지를 거닐었던 흔적, 사람들에게 칭송받았던 이름도, 결국에는 하나도 남지 않았어…… '뮬', 우리 일족에게 남아 있는 그분에 대한 기억은, 이름 속 이 짧은 음절 하나뿐이야.",
+                "cn": "走过大地的痕迹，被人称颂的名字，到最后，一点也没有留下呢......“缪尔”，我们亲族对祂的全部回忆，就只剩下这一个音节，留在了名字里。"
+            },
+            "asset": "char_249_mlyss_boc#8/CN_002"
+        },
+        {
+            "id": "char_249_mlyss_boc#8_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "She's gone. She dispersed all Her Elves... then time carried Her far away, to a place farther still. But you know, just a hunch, I think She simply got sick of being a Feranmut. And just like some <i>special</i> Rhodesies we've got, now She's probably living up the human life, maybe? You think that sounds right, Doctor?",
+                "jp": "あの方は旅立ったわ。お供のエルフを全部どこかにやって、時の流れに連れられて遠いところに行ってしまったの。でもね、もしかしたらあの方はただ巨獣をやるのが嫌になっちゃって、ロドスにいるあの人たちみたいに、人間として生活をし始めたんじゃないかなって思うのよ。あなたはどう思う、ドクター？",
+                "kr": "그분은 떠났어. 모든 엘프들은 전부 어디론가 보내고, 자신은 시간의 흐름에 이끌려 먼 곳으로 떠나버렸다고 해. 어쩌면 그분도 베헤모스라는 역할에 지쳐서, 로도스 아일랜드에 있는 그 사람들처럼 인간의 삶을 선택한 게 아닐까…… 싶어. 박사는 어떻게 생각해?",
+                "cn": "祂离开了，遣走自己所有的精灵，被时间带着，去了很远的地方。我觉得，说不定呢，祂只是厌烦了当巨兽，和罗德岛上那些家伙一样，过起了人类生活。你怎么看，博士？"
+            },
+            "asset": "char_249_mlyss_boc#8/CN_003"
+        },
+        {
+            "id": "char_249_mlyss_boc#8_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "To get the information in this crystal, you have to 'communicate' with it. Yep, that's right, just like the kind we make when I hold your hand. Oh, actually, lemme borrow your hand a sec! How's that, can you sense Her feelings? No? Not one teeny tiny bit? Oh... Okay...",
+                "jp": "水晶の中の情報は『交感』に頼ることでしか得られないわ。そうそう、あなたの想像している通り、あたしと手を握っている時みたいな感じよ。そうだ、手を貸して！どう、あの方の気持ちが伝わったかしら？全然？本当にちっとも感じないの？あら、そうなのね……",
+                "kr": "수정에 담긴 정보는 '교감'을 통해서만 얻을 수 있어. 그래그래, 지금 당신이 생각하는 그거, 나와 손을 맞잡았을 때 느껴지는 그런 거 말이야. 자, 그럼 손 한번 내밀어 볼래? 어때, 그분의 감정이 느껴져?! 안 느껴진다고? 전혀? 아, 그렇구나, 알겠어……",
+                "cn": "水晶里的信息只能用“沟通”来获取呢。嗯，就是你想的，握着你手时的那种。对了，借你的手用一下！怎么样，感觉到祂的思绪了吗？！没有吗，一点都没有？这样啊，好吧......"
+            },
+            "asset": "char_249_mlyss_boc#8/CN_004"
+        },
+        {
+            "id": "char_249_mlyss_boc#8_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Pfahhh! Water doesn't get cleaner than this! You can take a sip too, if you're thirsty. I know, you're probably scared it's Her blood or Her tears or whatever, but don't overthink it. If you drink from this spring, it'd make Her the happiest person of us all... well, not person, Feranmut.",
+                "jp": "ふぅ～、これ以上に綺麗な水はないわね。あなたも喉が渇いているなら、飲んでみるといいわ。あの方の涙とか血だまりの類じゃないかって思ってるかもしれないけど、深く考えなくていいから。あなたがここの泉を飲んでくれたら、一番喜ぶ人はあの方なのよ……いえ、一番喜ぶ巨獣と言うべきかしら。",
+                "kr": "휴우~ 이보다 더 깨끗한 물은 없겠지. 박사도 목마르면 한번 마셔봐. 음, 어쩌면 당신은 이걸 그분의 눈물이나 피 웅덩이로 생각할 수도 있겠지만, 그렇게 깊게 생각하지 않아도 돼. 당신이 이 샘물을 마신다면 그분은 가장 기뻐할 사람…… 아니, 베헤모스야.",
+                "cn": "呼啊，没有比这更洁净的水了~你要是渴了，也可以喝一点。我知道，你可能会觉得这是祂的血泊或是泪水之类的，别想那么多，你喝下这里的甘泉，祂可是最高兴的那个人......嗯，巨兽。"
+            },
+            "asset": "char_249_mlyss_boc#8/CN_005"
+        },
+        {
+            "id": "char_249_mlyss_boc#8_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "The ever-wakeful spring wells from Her back, that its currents caress Her like silk cloth. And in sweet rains it waters the parched land, that it nourishes all life as it grows...' Your kin left that passage to Her in your recollections. It makes me think, I should draw Her. That way, others'll be able to see Her.",
+                "jp": "「背にある泉は昼夜を問わず湧き出し、流れる水は絹のように体を包み込む。慈雨が大地を潤し、万物に生長をもたらす恵みとなる……」あなたの同族が記憶の中であの方について残した一文よ。あたし、あの方の姿を絵にすべきだと思うの。そうすれば、みんながその姿を見ることができるでしょう。",
+                "kr": "“등의 샘물은 밤낮없이 솟아나고, 흐르는 물은 비단처럼 몸을 감쌌으며, 단비는 온 대지를 적시고, 만물을 위한 자양분이 되리라……” 이건 당신의 동족이 기억 속에서 그분을 위해 남긴 문장이야. 난 그분의 모습을 그림으로 남겨야 한다고 생각해. 그래야 모두가 그분의 모습을 볼 수 있을 테니까.",
+                "cn": "“背脊上涌泉昼夜不停，流水像丝巾般包裹身体，甘霖浇灌大地，滋养万物生长......”你的同族在回忆里为祂留下了这段文字。我想，我应该把祂画下来，这样，别人就能看见祂了。"
+            },
+            "asset": "char_249_mlyss_boc#8/CN_006"
+        },
+        {
+            "id": "char_249_mlyss_boc#8_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "You're right, no place suits me better than this. Problem is, I've been spoiled by modern life. If I seriously live here all on my own, the boredom is gonna shrivel me right up. Maybe the other Elves could deal, but... I can't... At the end of it all, I'm just a plain and ordinary girl.",
+                "jp": "あなたの言う通り、ここがあたしに一番ふさわしい場所よ。だけどあたしってば、いけないことを覚えちゃったから、本当にひとりぼっちでここに住むことになったら、きっと息が詰まって枯れちゃうわ。エルフたちは大丈夫かもしれないけど、でも……あたしには無理。つまるところ、あたしもただの普通の女の子だったってことよ。",
+                "kr": "당신 말이 맞아, 어쩌면 이곳이야말로 내게 가장 어울리는 곳이지. 하지만 안타깝게도 난 이미 많은 걸 알아버려서, 여기서 홀로 지내야 한다면, 분명 답답하고 외로운 나머지, 시들어버리고 말 거야. 다른 엘프들은 괜찮을지도 모르지만, 난…… 힘들 것 같아. 결국엔 나도 그냥 평범한 여자아이일 뿐인걸.",
+                "cn": "你说得没错，这里是最适合我的地方。可惜我已经学坏了，真要孤孤单单住在这里，一定会闷成枯芽的。精灵们或许可以吧，但我......做不到。到头来，我也只是个普普通通的女孩子罢了。"
+            },
+            "asset": "char_249_mlyss_boc#8/CN_007"
+        },
+        {
+            "id": "char_249_mlyss_boc#8_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "The environment's changed so quickly here without Her, and it's not in my power to do what She did. It's like a lifelong dream suddenly landed in my lap, but the caveat was it could disappear at any time. So life will always be on edge, haunted by suspense and fear. I don't wanna live such a painful life, Doctor. I'd rather take the risk.",
+                "jp": "あの方がいなかったら、ここの環境は急激に変化するわ。で、あたしにはそれを元に戻す力もない。欲しくてたまらないものがある日突然手に入ったけれど、それがいつ消えるかもしれないと知って、ずーっとびくびくし続けないといけない感じよ。そんなつらい日々を送るくらいなら、危険に身をさらすほうがまだマシだわ。",
+                "kr": "그분이 없다면 이곳의 환경은 분명 급격하게 변해 버릴 거야. 그리고 내게는 그것을 원래대로 복원할 능력이 없어. 마치 갖고 싶은 물건이 손에 들어왔는데, 그게 또 갑자기 사라질 수도 있다는 걸 알아서 매 순간 마음을 졸이는 것만 같네. 그런 힘들 날들을 보내느니 차라리 위험을 감수하면서 사는 게 더 나을 거 같아.",
+                "cn": "没有祂在，这里的环境就会急剧变化，而我没有能力复现。就像是求而不得的东西某一天落在手心里，却又得知它随时会消失，每一刻都在提心吊胆。我宁愿接受风险，也不想那样痛苦地活着。"
+            },
+            "asset": "char_249_mlyss_boc#8/CN_008"
+        },
+        {
+            "id": "char_249_mlyss_boc#8_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Everything of Her, everything I could ever find, I've got it all by my side. Thank you, Doctor, for accompanying me so long. Whatever comes next, we can save thinking about it until we get back. Oh... it's raining. Maybe it's time for us to leave too.",
+                "jp": "あの方について、知り得るものは全部集まったわ。ありがとう、ドクター。わざわざ時間を割いてずっと付き合ってくれて。これからのことは、戻ってから考えるわ。あ……雨ね。そろそろ、出発するべきかしら……",
+                "kr": "그분에 대해 찾을 수 있는 건 전부 수집했어. 고마워, 박사. 특별히 시간을 내서 나와 함께해 줘서. 앞으로의 일은 돌아가서 다시 생각해 볼게. 아…… 비가 오네. 우리도 슬슬 출발할까……",
+                "cn": "关于祂的一切，能找到的，都已经在身边了。谢谢你，博士，特意花时间陪我那么久。今后的事情，等回去以后再想吧。啊......下雨了。我们是不是，也该离开了......"
+            },
+            "asset": "char_249_mlyss_boc#8/CN_009"
+        },
+        {
+            "id": "char_249_mlyss_boc#8_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Time is still mourning Her, so it won't slip away that fast. If your legs need a break, we can sit and catch a breather.",
+                "jp": "時はまだあの方を悼んでいるし、足もそれほど早くはない。歩き疲れたのなら、腰を下ろしてお休みなさいな。",
+                "kr": "시간은 여전히 그분을 애도하고 있고, 흘러가는 속도도 그리 빠르지 않아. 걷다가 지쳤다면, 잠시 앉아서 쉬어가도 돼.",
+                "cn": "时间还在为祂哀悼，溜走的速度也没那么快，如果走累了，就坐下来休息吧。"
+            },
+            "asset": "char_249_mlyss_boc#8/CN_010"
+        },
+        {
+            "id": "char_249_mlyss_boc#8_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "The birth, the existence, the dying, the everything of my blood's origin… They are all here, nothing left but pieces now... If you're interested, I'll tell you every story of them.",
+                "jp": "誕生、存在、消滅。あたしたち一族の血脈に関わるものは、今となってはもう欠片しか残っていないわ……興味があるなら、ここのお話を少しずつしてあげる。",
+                "kr": "탄생, 존재, 소멸. 내 일족의 혈맥과 관련된 것은 이제 이 조각으로밖에 남지 않았어…… 혹시 관심 있다면, 내가 천천히 이야기를 들려줄게.",
+                "cn": "诞生、存在、消亡，关于我那亲源血脉的一切，如今只剩下碎片留在这了......如果你感兴趣的话，这里的故事，我会慢慢说给你听。"
+            },
+            "asset": "char_249_mlyss_boc#8/CN_011"
+        },
+        {
+            "id": "char_249_mlyss_boc#8_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "This cramped cage we jail each other in.",
+                "jp": "ほんと、狭苦しい檻ね。",
+                "kr": "정말이지, 좁은 감옥이네.",
+                "cn": "这狭小的囚笼啊。"
+            },
+            "asset": "char_249_mlyss_boc#8/CN_012"
+        },
+        {
+            "id": "char_249_mlyss_boc#8_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "We've known each other for so long, but you just keep giving the same gifts... Of course I love it, c'mon.",
+                "jp": "知り合ってこんなに経つのに、いっつも同じプレゼントね……もちろん、気に入っているわよ。",
+                "kr": "우리가 알고 지낸 지도 이렇게 오래됐는데, 늘 같은 선물이네…… 물론, 마음에 들어.",
+                "cn": "我们都认识多久了，总是送一样的礼物......我当然是很喜欢的。"
+            },
+            "asset": "char_249_mlyss_boc#8/CN_013"
+        },
+        {
+            "id": "char_249_mlyss_boc#8_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Look, the sun's coming up. How warm it is... Cozying up like this, hiding away from all that the years do to catch us... May be a good life too.",
+                "jp": "見て、太陽が出たよ。あったかいわね。こうしてずっとこもって、歳月のしつこい追撃から逃れるのも、悪くないように思うわ。",
+                "kr": "봐, 해가 떴어. 따뜻하다. 그냥 이렇게, 세월의 뒤쫓음을 벗어나서 사는 것도 나쁘지 않을 것 같아.",
+                "cn": "看哪，出太阳了，暖洋洋的。就这样窝着，躲过岁月年华的围追堵截，好像也不错。"
+            },
+            "asset": "char_249_mlyss_boc#8/CN_014"
+        },
+        {
+            "id": "char_249_mlyss_boc#8_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "All the pains caused by 'right and wrong'… How I wish the water could wash them away.",
+                "jp": "水の流れが、煩わしい争いを覆い隠してくれたらいいのにね。",
+                "kr": "물줄기가 이 성가신 분쟁을 전부 흘려보낼 수 있다면 얼마나 좋을까.",
+                "cn": "我多么希望，水流能漫过这些麻烦的是非对错呀。"
+            },
+            "asset": "char_249_mlyss_boc#8/CN_017"
+        },
+        {
+            "id": "char_249_mlyss_boc#8_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "How do you understand them? And how do you make them... understand you?",
+                "jp": "あなたは、彼らをどう理解しているの？どうやって……理解してもらってるの？",
+                "kr": "당신은 어떻게 그들을 이해하고…… 또 어떻게 그들에게 이해받는 거야?",
+                "cn": "你是如何理解他们的？又是如何......让他们理解你的？"
+            },
+            "asset": "char_249_mlyss_boc#8/CN_018"
+        },
+        {
+            "id": "char_249_mlyss_boc#8_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Just look away one sec, okay? I want to let the waterflow relax for a bit... the way my people did so long ago.",
+                "jp": "しばらくこっちを見ないでくれる？少し……水の流れを緩やかにしたいの。ずっと昔、一族の人たちがしていたように。",
+                "kr": "잠깐 다른 곳을 보고 있어 줘. 난…… 아주 오래전, 우리 일족이 그랬던 것처럼 물줄기를 쉬게 해 주고 싶어.",
+                "cn": "先别看我好吗？我想......让水流放松片刻，就像很久以前，族人们曾做的那样。"
+            },
+            "asset": "char_249_mlyss_boc#8/CN_019"
+        },
+        {
+            "id": "char_249_mlyss_boc#8_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Lives head toward their demise. What can I do… before the end…",
+                "jp": "命が滅びに向かう時、あたしには何ができるかしら？",
+                "kr": "생명이 끝을 향해 나아갈 때, 나는 무엇을 할 수 있을까?",
+                "cn": "生命在走向衰亡。我究竟能做些什么呢？"
+            },
+            "asset": "char_249_mlyss_boc#8/CN_020"
+        },
+        {
+            "id": "char_249_mlyss_boc#8_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "I'm listening.",
+                "jp": "なぁに？",
+                "kr": "듣고 있어.",
+                "cn": "我在听哦。"
+            },
+            "asset": "char_249_mlyss_boc#8/CN_021"
+        },
+        {
+            "id": "char_249_mlyss_boc#8_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Want me to help brainstorm?",
+                "jp": "あたしの助けが必要かしら？",
+                "kr": "내 도움이 필요한 거야?",
+                "cn": "要我帮你想想办法吗？"
+            },
+            "asset": "char_249_mlyss_boc#8/CN_022"
+        },
+        {
+            "id": "char_249_mlyss_boc#8_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "This... is how my ancestors welcomed the rainclouds.",
+                "jp": "これは……先祖たちが雨雲を迎える時の動きよ。",
+                "kr": "이건…… 선조들이 비구름을 맞이할 때의 동작이야.",
+                "cn": "这是......先祖们迎接雨云的动作。"
+            },
+            "asset": "char_249_mlyss_boc#8/CN_023"
+        },
+        {
+            "id": "char_249_mlyss_boc#8_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Miss Waterdrop… where will you land?",
+                "jp": "この水滴はどこに落ちるのかしら。",
+                "kr": "이 물방울은 과연 어디로 떨어지게 될까?",
+                "cn": "这滴水珠会落在哪里呢？"
+            },
+            "asset": "char_249_mlyss_boc#8/CN_024"
+        },
+        {
+            "id": "char_249_mlyss_boc#8_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "In dreams resurrect.",
+                "jp": "夢の中で目覚める。",
+                "kr": "꿈속에서 눈을 뜨고.",
+                "cn": "在梦想中苏生。"
+            },
+            "asset": "char_249_mlyss_boc#8/CN_025"
+        },
+        {
+            "id": "char_249_mlyss_boc#8_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "In yearnings flow.",
+                "jp": "宿願の中に流れる。",
+                "kr": "염원 속에서 흘러가며.",
+                "cn": "在夙愿中流淌。"
+            },
+            "asset": "char_249_mlyss_boc#8/CN_026"
+        },
+        {
+            "id": "char_249_mlyss_boc#8_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "In promises coalesce.",
+                "jp": "約束の中に凝る。",
+                "kr": "약속 안에서 굳어지리.",
+                "cn": "在承诺中凝结。"
+            },
+            "asset": "char_249_mlyss_boc#8/CN_027"
+        },
+        {
+            "id": "char_249_mlyss_boc#8_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "But I can't go back. Back isn't the answer.",
+                "jp": "過去には戻れない。そこに答えはない。",
+                "kr": "하지만 난 과거로 돌아갈 수 없어. 거기엔 답이 없으니까.",
+                "cn": "但我回不到过去，过去不是答案。"
+            },
+            "asset": "char_249_mlyss_boc#8/CN_028"
+        },
+        {
+            "id": "char_249_mlyss_boc#8_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Gimme your hand, Doctor! Uh, um... I just wanted to share my feelings with you. Don't worry, I'm not gonna get you wet.",
+                "jp": "手を貸して、ドクター――あ、えっと……単にあたしの感じていることを共有したかったの。安心して、水に濡れたりはしないから。",
+                "kr": "손 내밀어 봐, 박사. 아, 그게…… 난 그냥 내가 느낀 걸 당신과 공유하고 싶었을 뿐이야. 걱정하지 마, 물에 젖지는 않을 테니까.",
+                "cn": "伸出手，博士——啊，嗯......我只是想跟你分享我的思绪，别担心，不会让你淋湿的。"
+            },
+            "asset": "char_249_mlyss_boc#8/CN_029"
+        },
+        {
+            "id": "char_249_mlyss_boc#8_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "The leaf trembles. The stream murmurs. I understand how they feel now much better than I used to… Oh, no, they're happy. Simply all delighted, trust me.",
+                "jp": "木の葉が揺れて、水の流れが囁いている。今のあたしは昔より、もっと彼女たちの気持ちが分かるわ……ああ、嬉しいのよ。彼女たちはただとても嬉しいの、本当よ。",
+                "kr": "나뭇잎이 흔들리고, 물줄기가 속삭이고 있네. 지금의 난 예전보다 그들의 감정을 더 잘 이해할 수 있어…… 아, 기쁨이야. 그들은 순수하게 기뻐하고 있어, 진심으로.",
+                "cn": "叶片在振动，水流在低鸣。现在的我，比过去更加理解她们的情绪......唔，是开心啦，她们只是很开心，真的。"
+            },
+            "asset": "char_249_mlyss_boc#8/CN_030"
+        },
+        {
+            "id": "char_249_mlyss_boc#8_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "They're gone. Bet they know the way back home, right?",
+                "jp": "行っちゃったわね。きっと自分の戻れる場所を知っているんでしょうね？",
+                "kr": "가 버렸네. 저들은 분명 자기들이 돌아갈 곳을 알고 있는 거겠지?",
+                "cn": "他们走了。他们一定知道自己可以回到哪里吧？"
+            },
+            "asset": "char_249_mlyss_boc#8/CN_031"
+        },
+        {
+            "id": "char_249_mlyss_boc#8_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Water will take us to safety. Hold my hand tight, and keep your eyes shut.",
+                "jp": "水はあたしたちを安全な場所に連れて行ってくれるわ。しっかり掴まって、目を瞑っていてね。",
+                "kr": "물이 우리를 안전한 곳으로 데려다 줄 거야. 내 손 놓지 말고, 눈 감고 있어봐.",
+                "cn": "水可以把我们带去安全的地方。别松手哦，也别睁眼。"
+            },
+            "asset": "char_249_mlyss_boc#8/CN_032"
+        },
+        {
+            "id": "char_249_mlyss_boc#8_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Same as it ever was, and honestly that's not bad.",
+                "jp": "何もかも昔のままってのも悪いことじゃないわ。",
+                "kr": "모든 것이 예전 그대로인 게 꼭 나쁜 것만은 아니네.",
+                "cn": "一切照旧，也不算是件坏事。"
+            },
+            "asset": "char_249_mlyss_boc#8/CN_033"
+        },
+        {
+            "id": "char_249_mlyss_boc#8_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "At least I can still feel your touch.",
+                "jp": "ふぅ、少なくとも、あたしに触れられる人として、まだあなたがいるわね。",
+                "kr": "휴우, 적어도 당신은 아직 나와 닿을 수 있네.",
+                "cn": "呼，至少还有你能触碰到我。"
+            },
+            "asset": "char_249_mlyss_boc#8/CN_034"
+        },
+        {
+            "id": "char_249_mlyss_boc#8_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "An exploration journey this endless isn't easy for me, no sirree. Did you really get used to it long ago? Don't work yourself too hard. C'mon, let's you and me take a little walk.",
+                "jp": "こんな風に長くて終わりの見えない探索の旅は、あたしにとって簡単じゃないわ。でもあなたはもう慣れちゃったんじゃないかしら？はぁ、あんまり頑張りすぎないでね。一緒に散歩でも行きましょう。",
+                "kr": "이렇게 길고도 끝이 보이지 않는 탐구의 여정은, 내겐 절대 쉬운 일이 아니야. 그런데 당신은 이런 일에 이미 익숙해진 모양이네? 하아, 너무 무리하지는 마, 박사. 지금은 나랑 산책하러 가자.",
+                "cn": "这样漫长的探寻之旅，对我来说可不容易，但你是不是已经很习惯了？唉，可别太辛苦了，陪我去散散步吧。"
+            },
+            "asset": "char_249_mlyss_boc#8/CN_036"
+        },
+        {
+            "id": "char_249_mlyss_boc#8_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_249_mlyss_boc#8/CN_037"
+        },
+        {
+            "id": "char_249_mlyss_boc#8_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "There's no trace of time in our strata of crystals, just as our people in Sami don't leave calendars in their amber. That's that— we're a race who can't see what's ahead, embracing lives so long that we can't feel epochs flowing by. Give your terminal a break for now, Doc. Don't you want today to be a one-of-a-kind day?",
+                "jp": "層に積み重なった結晶に時の痕跡はないわ。サーミの同胞たちも、琥珀の中に暦を刻んだりはしない。そうよ、あたしたちは未来を望めない種族で、長すぎて静止しているのに近い命を抱いているの。端末を置いて、ドクター。今日が普段とは違う日になってほしくないのかしら？",
+                "kr": "그 겹겹이 쌓인 결정 속에는 시간의 흔적이 존재하지 않아. 사미의 동포들도 호박 속에 날짜를 새겨놓진 않지. 그래, 우리는 미래를 바랄 수 없는 종족이고, 길다 못해 거의 정체된 것이나 다름없는 생명을 지니고 있어. 그렇지만 박사, 우리 오늘만큼은 단말기 내려두고, 평소와 다른 날을 보내는 게 어때?",
+                "cn": "那层层堆积的结晶中没有时间的痕迹，萨米的同胞也不会在琥珀里刻下日历。是啊，我们是无法看向未来的种族，怀抱着漫长到几乎静止的生命。放下终端吧，博士，你不希望今天和平时不同吗？"
+            },
+            "asset": "char_249_mlyss_boc#8/CN_038"
+        },
+        {
+            "id": "char_249_mlyss_boc#8_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Oh, you all rested up...? Look after yourself, okay? No vanishing into bubbles on me.",
+                "jp": "ね、しっかり休んでいる？……はぁ、ちゃんと自分を労わって。お願いだから、ね？あなたまでいつの間にか泡になっちゃったりしたら嫌よ。",
+                "kr": "잘 쉬었어? ……하아, 부탁이니까 제발 건강 좀 잘 챙겨. 당신마저 거품처럼 사라져 버리는 건…… 정말 싫으니까.",
+                "cn": "唔，你休息够了吗？......唉，照顾好自己，好吗？你可不能悄悄地变成泡沫啊。"
+            },
+            "asset": "char_249_mlyss_boc#8/CN_042"
+        },
+        {
+            "id": "char_249_mlyss_boc#8_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Beneath time's ashes, there lies the Elves' lost knowledge and forgotten tales... but even I can't really comprehend them. Digging through the past— it weighs down on you a lot more than healing a wound, or blessing a new life. Doctor, how do you manage to confront it all?",
+                "jp": "時の燃え殻の下には、エルフたちの忘れられた物語や知識があるわ。けど、あたしですらそれを読み解くことはできないの。過去を掘り返すことは、傷を癒したり、誕生を祝うのよりもずっと重いわ。ドクターは、どうやってこういうことに向き合っているの？",
+                "kr": "시간의 잿더미 아래엔 엘프들의 잊혀진 이야기와 지식이 잠들어 있어. 하지만 나조차도 그것들을 해석할 수 없어. 과거를 파헤친다는 건, 상처를 치유하거나 새로운 탄생을 축복하는 것보다 훨씬 더 무거운 일이야. 박사, 박사는 이런 일을 어떻게 마주하고 있어?",
+                "cn": "时间的灰烬下面，埋着精灵们被遗忘的故事和知识，但就连我自己也无法读懂它们。翻动过去，可比疗愈创口、祝福新生要沉重多了。博士，你是如何面对这一切的呢？"
+            },
+            "asset": "char_249_mlyss_boc#8/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Kayli Mills",
+            "global": "Kayli Mills"
+        },
+        "cn": {
+            "native": "王雅欣",
+            "global": "Wang Yaxin"
+        },
+        "jp": {
+            "native": "田村ゆかり",
+            "global": "Yukari Tamura"
+        },
+        "kr": {
+            "native": "박시윤",
+            "global": "Park Shi-yoon"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}
