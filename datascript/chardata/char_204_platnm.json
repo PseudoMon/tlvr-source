@@ -561,9 +561,9 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "哦？没想到在这里碰到你了。我在这里干什么？吹吹风啊，下面太吵了，人又多，我想一个人待着。嗯？问完问题还不走，是想和我再多待一会儿吗？好无聊，不如我们偷偷跑掉吧？",
-                "jp": "哦？没想到在这里碰到你了。我在这里干什么？吹吹风啊，下面太吵了，人又多，我想一个人待着。嗯？问完问题还不走，是想和我再多待一会儿吗？好无聊，不如我们偷偷跑掉吧？",
-                "kr": "哦？没想到在这里碰到你了。我在这里干什么？吹吹风啊，下面太吵了，人又多，我想一个人待着。嗯？问完问题还不走，是想和我再多待一会儿吗？好无聊，不如我们偷偷跑掉吧？",
+                "en": "Huh? Wasn't expecting to run into you here. Me? I'm just feeling the breeze. It's too noisy down there, and too many people. I want to be alone. Hm. Still sticking yourself here like a little dope after you've learned my answer? Could it be... You want to stay with me a bit longer? Ugh—whatever, this place is boring. How about we just ditch in secret?",
+                "jp": "あれ？まさかここでアンタに会うとはね。何をしてたって？風を浴びてたんだよ、下は騒がしすぎ。人も多いし、一人になりたかったの。ん？質問が終わったならもう行きなよ、まだ私と一緒に居たいっていうの？はぁ～、ここじゃつまんないし、いっそ二人で抜け出しちゃう？",
+                "kr": "어? 박사를 여기서 만날 줄이야. 여기서 뭐 하고 있었냐고? 바람 쐬고 있었지. 밑에는 너무 시끄럽고 사람도 많아서, 혼자 있고 싶었거든. 음? 질문에 답도 해줬는데 안 가는 건 나랑 더 있고 싶은 건가? 하아~참, 지루한데 우리 몰래 도망갈까?",
                 "cn": "哦？没想到在这里碰到你了。我在这里干什么？吹吹风啊，下面太吵了，人又多，我想一个人待着。嗯？问完问题还不走，是想和我再多待一会儿吗？好无聊，不如我们偷偷跑掉吧？"
             },
             "asset": "char_204_platnm/CN_038"
@@ -593,9 +593,9 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "无聊的任务，无聊的敌人，但就算再无聊也比卡西米尔好很多。越走越远的感觉真好啊，从卡西米尔吹来的风再也无法吹歪我的箭，我也再也不想呼吸那里的空气。",
-                "jp": "无聊的任务，无聊的敌人，但就算再无聊也比卡西米尔好很多。越走越远的感觉真好啊，从卡西米尔吹来的风再也无法吹歪我的箭，我也再也不想呼吸那里的空气。",
-                "kr": "无聊的任务，无聊的敌人，但就算再无聊也比卡西米尔好很多。越走越远的感觉真好啊，从卡西米尔吹来的风再也无法吹歪我的箭，我也再也不想呼吸那里的空气。",
+                "en": "Missions: boring, enemies: boring, but it's still way better than Kazimierz no matter how you slice it. Just getting further and further away from there feels great. The wind from Kazimierz will never again blow my arrows off its mark, and I never want to breathe its air ever again.",
+                "jp": "つまらない任務、つまらない敵。まっ、それでもカジミエーシュよりはマシだけど。自由になってく感覚って最高だよね。カジミエーシュの風はもう私の矢の行き先を変えられないし、私もあそこの空気を二度と吸いたくないから。",
+                "kr": "따분한 임무, 재미없는 적. 하지만 아무리 지루해도 카시미어보다는 훨씬 나아. 점점 멀어지는 것 같은 이 느낌이 정말 좋네. 카시미어에서 불어온 바람이 나의 화살을 빗나가게 하지도 않고, 나도 더 이상 그 공기를 마시지 않아도 되니까.",
                 "cn": "无聊的任务，无聊的敌人，但就算再无聊也比卡西米尔好很多。越走越远的感觉真好啊，从卡西米尔吹来的风再也无法吹歪我的箭，我也再也不想呼吸那里的空气。"
             },
             "asset": "char_204_platnm/CN_044"

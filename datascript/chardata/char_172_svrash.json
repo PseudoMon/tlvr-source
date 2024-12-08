@@ -561,9 +561,9 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "雪下大了......远方谢拉格的风雪年年依旧，而政治棋局上的变动却不曾停息片刻。所有无法追赶上变化的，都会被这陈年风雪所掩埋。",
-                "jp": "雪下大了......远方谢拉格的风雪年年依旧，而政治棋局上的变动却不曾停息片刻。所有无法追赶上变化的，都会被这陈年风雪所掩埋。",
-                "kr": "雪下大了......远方谢拉格的风雪年年依旧，而政治棋局上的变动却不曾停息片刻。所有无法追赶上变化的，都会被这陈年风雪所掩埋。",
+                "en": "The snow falls heavy... The blizzards of far-off Kjerag continue year after year, but the political landscape never stands still from one moment to the next. For those who fail to catch up with the changes, this age-old snowstorm will come to bury them beneath.",
+                "jp": "吹雪いてきたな……遙かイェラグの風雪は代わり映えしなくとも、政治の局面は刻一刻と変化し続けている。変化に取り残された者たちは皆、あの万年雪に埋もれていくのだろうな。",
+                "kr": "눈이 많이 내리는군…… 쉐라그의 눈보라는 늘 그대로였지만 정치판의 국면은 잠시도 멈추지 않았다. 변화를 따라잡지 못하는 것들은 모두, 그 해 묵은 눈보라에 파묻히고 말겠지.",
                 "cn": "雪下大了......远方谢拉格的风雪年年依旧，而政治棋局上的变动却不曾停息片刻。所有无法追赶上变化的，都会被这陈年风雪所掩埋。"
             },
             "asset": "char_172_svrash/CN_038"
@@ -593,9 +593,9 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "罗德岛已经不止一次向我展示了，它作为一家医疗公司的能力与责任。但是我很好奇，你的目光，会仅仅停留在矿石病上吗？未来，你会带给这片大地什么新的波澜？我很期待。",
-                "jp": "罗德岛已经不止一次向我展示了，它作为一家医疗公司的能力与责任。但是我很好奇，你的目光，会仅仅停留在矿石病上吗？未来，你会带给这片大地什么新的波澜？我很期待。",
-                "kr": "罗德岛已经不止一次向我展示了，它作为一家医疗公司的能力与责任。但是我很好奇，你的目光，会仅仅停留在矿石病上吗？未来，你会带给这片大地什么新的波澜？我很期待。",
+                "en": "Multiple times now, Rhodes Island has shown its ability and its responsibility as a medical firm. But I'm very curious. In your eyes, will this merely stop at Oripathy? What new ripples will you send across the lands in future? I have great expectations.",
+                "jp": "ロドスにはもう幾度となく医療機関たる資質と責任感を見せつけられた。しかし、お前の眼差しは果たして鉱石病だけに向けられているのか否か、興味深いところだ。これから先の未来、お前がこの大地にどんな波紋を呼ぶのか、楽しみにしているぞ。",
+                "kr": "로도스 아일랜드가 의료회사로서의 능력과 책임을 내게 보여준 건 한두 번이 아니다. 하지만 궁금하군, 과연 너의 시선이 광석병에만 그칠지. 네가 앞으로 이 세상에 어떤 바람을 불러올지 기대하고 있겠다.",
                 "cn": "罗德岛已经不止一次向我展示了，它作为一家医疗公司的能力与责任。但是我很好奇，你的目光，会仅仅停留在矿石病上吗？未来，你会带给这片大地什么新的波澜？我很期待。"
             },
             "asset": "char_172_svrash/CN_044"

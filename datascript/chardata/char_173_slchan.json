@@ -561,9 +561,9 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "Happy New Year! Look, Doctor, I've prepared all this Mountaineering gear for you. Let's go! Huh? It's still midnight, you say? It's fine! We need to set off earlier so that we can catch the sunrise at the peak.",
+                "en": "Happy New Year, Doctor! Look, I got your climbing gear ready, so let's go! Huh? Still night outside? Well, duh! We're climbing the mountain early so we can catch the New Year sunrise.",
                 "jp": "あけおめ！ほら、ドクターの分の登山用具も用意してあげたから、早く行こ！ん？まだ外は暗いって？当たり前じゃん！山頂で初日の出を見るためなんだから！",
-                "kr": "새복만~! 새해 복 많이 받으라는 뜻~ 자, 등산 도구는 박사 것도 준비해뒀으니까, 지금 바로 나가자! 응? 아직 바깥은 어둡다고? 당연하지! 산 정상에서 새해 첫날 해돋이를 보러 가는 거니까!",
+                "kr": "새해 복 많이 받아! 여기, 박사가 쓸 등산용품은 내가 다 가져왔어, 어서 준비하고 나가자! 응? 아직 밖이 어둡다고? 그야 당연하지, 우린 산 정상에서 새해 해돋이를 보려고 가는 거니까.",
                 "cn": "新年快乐！看，给博士用的登山器材我都准备好了，快走吧！嗯？外面还是半夜？当然啦，我们要早点爬上山顶去迎接新年的日出啊。"
             },
             "asset": "char_173_slchan/CN_038"
@@ -593,9 +593,9 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "老哥和老姐还在闹别扭，但我能感觉到，其实他们的关系缓和了不少。欸，总之要多谢你啦。啊，真希望待在家里的感觉，能和待在罗德岛一样轻松啊......",
-                "jp": "老哥和老姐还在闹别扭，但我能感觉到，其实他们的关系缓和了不少。欸，总之要多谢你啦。啊，真希望待在家里的感觉，能和待在罗德岛一样轻松啊......",
-                "kr": "老哥和老姐还在闹别扭，但我能感觉到，其实他们的关系缓和了不少。欸，总之要多谢你啦。啊，真希望待在家里的感觉，能和待在罗德岛一样轻松啊......",
+                "en": "My brother and sister are still butting heads, but their relationship's smoothed out a bunch, I can feel it. Gotta thank you for melting the ice between them, Doctor. But still, I really wish hanging around home was as chill as being at Rhodes Island…",
+                "jp": "お兄ちゃんとお姉ちゃんはまだ冷戦中だけど、でも前よりはギスギスがマシになったのが分かるんだ。まぁ、なんにせよドクターのおかげだから、感謝しないとね。あ～あ、家にいる時も、ロドスにいるみたいに肩の力を抜けたらいいのになぁ……",
+                "kr": "오빠랑 언니는 아직도 투닥거리지만, 그래도 둘 사이가 많이 좋아졌다는 게 느껴져. 박사 덕분이야, 정말 고마워. 하아, 집에서도 로도스 아일랜드에 있는 것처럼 이렇게 편안했으면 더는 바랄 게 없을 것 같은데……",
                 "cn": "老哥和老姐还在闹别扭，但我能感觉到，其实他们的关系缓和了不少。欸，总之要多谢你啦。啊，真希望待在家里的感觉，能和待在罗德岛一样轻松啊......"
             },
             "asset": "char_173_slchan/CN_044"

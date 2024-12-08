@@ -33,7 +33,7 @@
                 "cn": "交谈1"
             },
             "text": {
-                "en": "Have you experienced any bodily discomfort recently? Umm, dry skin, err, um, stiff shoulders, dry eyeballs, hair loss, fatigue? ...Very good, just an old problem then, nothing serious. As long as you start exercising, these problems should go away in no time.",
+                "en": "Have you experienced any bodily discomfort recently? Umm, dry skin, stiff shoulders... dry eyeballs, hair loss, fatigue? ...Very good, just old problems then, nothing serious. As long as you start exercising, these problems should go away in no time.",
                 "jp": "最近体調の優れないところはありますか。はい、肌の乾燥、ええ、肩のこり、目の乾燥、抜け毛、脱力感……なるほど。いつもの症状ですから特に問題はありません。あなたが運動をするようになれば、すぐにでも改善しますよ。",
                 "kr": "최근 불편한 곳이 있으신가요? 네, 피부가 건조하고. 네네, 어깨가 뭉치고, 눈도 건조하고, 머리카락도 빠지고, 무기력하다고요…… 그렇군요. 평소와 같네요, 딱히 문제 될 건 없는 것 같습니다. 이런 건 당신이 운동만 시작해도 금세 좋아질 거예요.",
                 "cn": "最近身体有什么感觉不适的地方吗。嗯，皮肤干燥，嗯嗯，肩膀僵硬，眼球干涩，掉头发，乏力......很好，老问题而已，没什么大碍。只要您开始运动，这些很快就能解决。"
@@ -49,7 +49,7 @@
                 "cn": "交谈2"
             },
             "text": {
-                "en": "Life in the Medical Department is just daily meetings, visits around the Island, learning the operators' physical conditions, and developing new drugs. Never anything fresh and exciting.",
+                "en": "Life in the Medical Department is just daily meetings, visits around the Island, learning the operators' physical conditions, and developing new drugs. Nothing really fresh or exciting.",
                 "jp": "医療部の生活は、定例会議、艦内往診、オペレーターのヘルスデータの把握、新薬の研究開発といったことの繰り返しです。何も目新しいことはありませんよ。",
                 "kr": "의료부의 일상은 정기 회의, 함선 내 왕진, 오퍼레이터들의 건강 상태 모니터링, 신약 연구 개발 같은 일의 반복입니다. 아무것도 새로울 게 없죠.",
                 "cn": "医疗部的生活就是日常会议、岛内出诊、掌握干员身体情况、新药研究与开发，没什么新鲜事。"
@@ -81,7 +81,7 @@
                 "cn": "晋升后交谈1"
             },
             "text": {
-                "en": "Thanks for always taking care of us medics. I feel so much less anxiety while working, and am very happy. Of course, there are troublesome things to deal with as well, for example, when Blaze comes back, her body is always covered in blood. Does she know how hard it is to clean up those bodily fluids?",
+                "en": "Thanks for always taking care of us medics. I feel so much less anxiety while working, and I'm very happy. Of course, there are troublesome things to deal with as well, for example, when Blaze comes back, her body is always covered in blood, each and every time! Does she know how hard it is to clean up those bodily fluids?",
                 "jp": "私たち医療スタッフが皆さんにご協力いただいているおかげで、仕事中の不安も減り、楽しく働けています。とは言え、もちろんまだまだ頭を抱える問題も残っています。例えばブレイズ氏がいつも血まみれで帰ってくることとか、ええ、毎回ですよ。体液の清掃がどれだけ面倒なのか、あの人は知らないんでしょうか？",
                 "kr": "여러분의 협력 덕분에 저희 의료부 오퍼레이터들의 업무 중 불안이 많이 줄었습니다. 아주 즐겁게 일하고 있고요. 다만 아직 해결되지 않은 골치 아픈 문제가 남아 있는데…… 예를 들면 블레이즈 씨가 매번 피투성이로 돌아오는 거라든가! 네, 매번! 체액 청소가 얼마나 성가신지 그 사람은 모르나 보죠?",
                 "cn": "多亏大家照顾我们这些负责医疗的人，工作起来焦虑感少了很多，很快乐。当然，也有很多头疼的事情，比如煌干员回来时总搞得浑身是血，每次都是，她不知道清理那些体液有多麻烦吗？"
@@ -97,7 +97,7 @@
                 "cn": "晋升后交谈2"
             },
             "text": {
-                "en": "How many times have I told you, don't stay up late, and don't overeat! You just won't listen, right? How are you going to take care of other peoples' health then? You might as well spend the rest of your life in that chair then!! ......I'm sorry, I need to go calm down first.",
+                "en": "How many times have I told you, don't stay up late, and don't overeat! You just won't listen, right? How are you going to take care of your health then? You might as well spend the rest of your life in that chair!! ...... I'm sorry, I need to go calm down first.",
                 "jp": "夜更しも暴飲暴食もダメだと何度も言ったでしょう、聞く耳を持たないということですか？じゃ何のための健康管理なのよ、一生椅子に寝てればいいじゃない！！……すみません、ちょっと頭を冷やしてきます。",
                 "kr": "밤을 새우는 것도, 과음 폭식도 안 된다고 몇 번이나 말씀드렸던 것 같은데, 아주 귓등으로도 안 듣겠다는 건가요? 그럼 뭘 위해 건강을 관리하는 거야, 평생 의자에서 잠이나 잘 것이지!! ……죄송합니다. 잠시 머리를 식히고 오겠습니다.",
                 "cn": "我说过多少次了不要熬夜不要暴饮暴食，您就是听不进去，对不对？那你还管理什么健康，一辈子都躺在椅子上算了！！......不好意思，我去冷静一下。"
@@ -145,7 +145,7 @@
                 "cn": "信赖提升后交谈3"
             },
             "text": {
-                "en": "The word 'Ursus' only gives me pain. I don't want to hear it, not again for the rest of my life. But it is a giant, and its voice is deafening. And I'm the only it's going to drive mad.",
+                "en": "The word 'Ursus' only gives me pain. I don't want to hear it, not again for the rest of my life. But it's giant, its voice deafening, and I'm the only one it's going to drive mad.",
                 "jp": "「ウルサス」という言葉は、苦しみをもたらすだけですから聴きたくありません。ええ、一生涯聴きたくない言葉です。ですが、あれは巨人です、耳をふさいでいてもこの鼓膜を震わせるんです。狂わされるのは、私だけです。",
                 "kr": "'우르수스' 라는 단어는 제게 고통만을 안겨줘요. 정말 평생 다신 듣고 싶지 않은 단어죠. 하지만 그건 거인과도 같아서, 포효하는 울음소리가 틀어막은 제 귀를 뚫고 들어오곤 해요. 미쳐가는 건…… 저뿐이에요.",
                 "cn": "乌萨斯这个单词只会给我痛苦，我不想听，我一辈子都不想再听到。但它，是个巨人，发声振聋发聩。会被逼疯的，只有我。"
@@ -161,7 +161,7 @@
                 "cn": "闲置"
             },
             "text": {
-                "en": "You also know that your previous environmental cleanliness evaluation scores weren't very high, right? If you don't turn things around, Doctor, you'll be on the business end of the Rhodes Island sanitation crane. Phew, I'll help you take care of these for now, so make sure you clean up the rest in your free time.",
+                "en": "You also know that your previous environmental cleanliness evaluation scores weren't very high, right? If you don't turn things around, Doctor, you'll be on the business end of the Rhodes Island sanitation crane. ... I'll help you take care of these for now, so make sure you clean up the rest in your free time.",
                 "jp": "環境衛生評価の点数が良くなかったことはご自身でも分かっていますよね。このままだとドクターがロドスで最下位になってしまいますよ。ふぅ、ひとまずこの辺のものは片付けておきました。残りはお手すきの際にきれいにしてくださいね。",
                 "kr": "환경위생평가 점수가 좋지 않다는 건 본인도 알고 계시겠죠? 이대로라면 박사님이 로도스 아일랜드의 위생 꼴찌 자리를 차지하게 될 거예요. 후우, 이쪽은 일단 제가 정리해 뒀으니까, 남은 건 시간 날 때 틈틈이 청소해 주세요.",
                 "cn": "你也知道自己之前环境清洁评测的分不高吧，再这样下去，博士可就是罗德岛的卫生吊车尾了。呼，这些我暂时帮你收拾了，剩下的记得空闲时清扫一下。"
@@ -241,7 +241,7 @@
                 "cn": "编入队伍"
             },
             "text": {
-                "en": "I will do my best to protect everyone's life.",
+                "en": "Medical support ready. I'll protect everyone's life.",
                 "jp": "職責を全うし、皆さんの命を守ります。",
                 "kr": "맡은 바 임무를 다해, 여러분의 생명을 지키겠습니다.",
                 "cn": "我会尽到职责，保护各位的生命。"
@@ -257,7 +257,7 @@
                 "cn": "任命队长"
             },
             "text": {
-                "en": "The whole squad has been covered by medical support. The rest is up to you, Doctor.",
+                "en": "Medical support has covered the whole squad. The rest is up to you, Doctor.",
                 "jp": "医療支援は全隊員に行き渡りました。あとはドクター次第です。",
                 "kr": "전원 의료 지원 완료. 나머지는 박사님께 달렸습니다.",
                 "cn": "医疗支援已覆盖全队，接下来就看博士你的了。"
@@ -289,7 +289,7 @@
                 "cn": "行动开始"
             },
             "text": {
-                "en": "Enemy engaged. Preparing for counterattack and treatment.",
+                "en": "Enemy engaged. Prepare for counterattack and treatment.",
                 "jp": "敵に接触、反撃と治療の準備を。",
                 "kr": "적 확인, 반격과 치료 준비를 하겠습니다.",
                 "cn": "已接敌，准备反击与治疗。"
@@ -369,7 +369,7 @@
                 "cn": "作战中1"
             },
             "text": {
-                "en": "Begin administering medication.",
+                "en": "Start medication.",
                 "jp": "投薬開始。",
                 "kr": "투약 시작.",
                 "cn": "开始投药。"
@@ -561,9 +561,9 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "博士，新年快乐。趁此机会，让我对您去年的健康状态做一个回顾评分吧。让我看看......算了。我必须得承认，在您的健康管理上，我的工作有所疏漏。今年，我一定会加倍努力的。",
-                "jp": "博士，新年快乐。趁此机会，让我对您去年的健康状态做一个回顾评分吧。让我看看......算了。我必须得承认，在您的健康管理上，我的工作有所疏漏。今年，我一定会加倍努力的。",
-                "kr": "博士，新年快乐。趁此机会，让我对您去年的健康状态做一个回顾评分吧。让我看看......算了。我必须得承认，在您的健康管理上，我的工作有所疏漏。今年，我一定会加倍努力的。",
+                "en": "Happy New Year, Doctor. Why don't we take this chance to look back on your health over the last year? Let's see... Forget it. I have to admit my management of your health still has room for improvement. I will work extra hard on that this year.",
+                "jp": "ドクター、あけましておめでとうございます。この機会に、あなたの去年の健康状態の振り返りと評価をさせてください。では早速……いえ、やめておきましょう。あなたの健康管理については、私にも至らない点があったと言わざるを得ません。新たな一年は、これまでの倍努力するつもりです。",
+                "kr": "박사님, 새해 복 많이 받으세요. 이참에 작년 건강 상태에 대한 전반적인 리뷰를 해드리겠습니다. 어디 보자…… 에휴 됐다. 당신의 건강 관리에 있어서, 제가 소홀했다는 걸 인정해야겠군요. 올해는 두 배로 열심히 관리해 드리겠습니다.",
                 "cn": "博士，新年快乐。趁此机会，让我对您去年的健康状态做一个回顾评分吧。让我看看......算了。我必须得承认，在您的健康管理上，我的工作有所疏漏。今年，我一定会加倍努力的。"
             },
             "asset": "char_345_folnic/CN_038"
@@ -593,9 +593,9 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "在母亲的消息断绝之后，于我而言，这片大地上就不存在“家”了。而罗德岛是最像家的地方了。这里寄寓了凯尔希老师的理想，也有我的理想。博士，请见证我的决心。",
-                "jp": "在母亲的消息断绝之后，于我而言，这片大地上就不存在“家”了。而罗德岛是最像家的地方了。这里寄寓了凯尔希老师的理想，也有我的理想。博士，请见证我的决心。",
-                "kr": "在母亲的消息断绝之后，于我而言，这片大地上就不存在“家”了。而罗德岛是最像家的地方了。这里寄寓了凯尔希老师的理想，也有我的理想。博士，请见证我的决心。",
+                "en": "Ever since my mother went missing, I haven't had a place to call home. Rhodes Island is the closest I have. Dr. Kal'tsit invested her ideals in this company, and so have I. Doctor, bear witness to my determination.",
+                "jp": "母が消息を絶ったことで、私にとっての「家」はこの大地から失われてしまいました。今ではロドスが一番「家」に近い存在だと思います。ここにはケルシー先生の理想や、私の理想が居着いていますから。ドクター、どうか私の決意を見届けてください。",
+                "kr": "엄마와의 연락이 끊긴 이후, 이 대지엔 더이상 '집'이라 부를 곳이 없게 되었습니다. 그러던 제게 로도스 아일랜드가 집 같은 존재가 되었죠. 여기에는 켈시 선생님의 이상과 저의 이상이 깃들어 있습니다. 박사님, 제 결심이 옳았음을 확인시켜 주세요.",
                 "cn": "在母亲的消息断绝之后，于我而言，这片大地上就不存在“家”了。而罗德岛是最像家的地方了。这里寄寓了凯尔希老师的理想，也有我的理想。博士，请见证我的决心。"
             },
             "asset": "char_345_folnic/CN_044"

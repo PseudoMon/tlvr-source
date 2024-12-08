@@ -33,7 +33,7 @@
                 "cn": "交谈1"
             },
             "text": {
-                "en": "Only weapons that are never in use will remain undamaged. Therefore, leaving a weapon spotless is actually the worst sacrilege for it.",
+                "en": "Only weapons that don't see use go undamaged. Therefore, a spotless weapon is actually a terrible sacrilege.",
                 "jp": "傷一つないというのは使われていない証拠。つまり、武器にとっては無傷であることこそが一番の恥になる。",
                 "kr": "흠집 하나 없다는 건, 쓰인 적이 없단 거잖아…… 무기로썬 흠집이 없다는 거야말로 제일 수치스러운 일이지.",
                 "cn": "只有不被使用的武器才不会受损。因此，没有划痕反而是对武器最大的亵渎。"
@@ -49,7 +49,7 @@
                 "cn": "交谈2"
             },
             "text": {
-                "en": "The modernized weaponry and equipment manufacturing processes have left many traditional craftsmen jobless. But those who can't keep up with the times will of course be left behind... that's only natural.",
+                "en": "Nowadays, weapon and equipment manufacturing is all modernized. Traditional craftsmen lose their livelihoods because of it. Times change. Those who can't keep up get left behind... that's only natural.",
                 "jp": "武器の製造技術が発展するのに伴い、多くの伝統職人が職を失った。しかし、時代遅れの者は淘汰される。これが世の理というものなんだ。",
                 "kr": "무기의 제조 기술이 발전하면서, 많은 전통 장인들이 직업을 잃게 되었지. 하지만, 시대에 늦어지면 도태되는 법이잖아. 이게 세상의 섭리 아니겠어?",
                 "cn": "现代化的武器装备生产方式让许多传统工匠都失业了，不过跟不上时代的人理应被淘汰，这是规律。"
@@ -65,7 +65,7 @@
                 "cn": "交谈3"
             },
             "text": {
-                "en": "Firearms... these weapons will truly change the world completely.",
+                "en": "Firearms… these weapons will change the world completely.",
                 "jp": "銃器、か……この世界に革命的な変化をもたらす予感がする。",
                 "kr": "총기라…… 이 세상에 혁명적인 변화를 가져다줄 것 같은 예감이 들어.",
                 "cn": "铳械......这种武器会给这个世界带来翻天覆地的变化。"
@@ -81,7 +81,7 @@
                 "cn": "晋升后交谈1"
             },
             "text": {
-                "en": "My right leg? Oh, it's fine. You know, all craftsmen make mistakes.",
+                "en": "My right leg? Oh, It's no big deal. You know, all craftsmen make mistakes.",
                 "jp": "私の右足が気になる？いや、大したことはない。知っての通り、職人というものは、多少の失敗を経験するものなんだ。",
                 "kr": "내 오른 다리? 뭐 별건 아니야. 뭐 원래, 장인들은 다 크고 작은 실패를 겪는 법이니까.",
                 "cn": "我的右腿？没什么大不了的，你知道，每个工匠多少都失误过。"
@@ -113,7 +113,7 @@
                 "cn": "信赖提升后交谈1"
             },
             "text": {
-                "en": "You saw my name engraved on some equipment? No... that's not me.",
+                "en": "You saw my name engraved on some equipment? Well, no need to mind that. Probably has nothing to do with me.",
                 "jp": "私の名が入った装備を見たことがある？いや……私とは特に関係ないものだと思うけど。",
                 "kr": "내 이름이 들어간 장비를 본 적 있다고? 아니…… 그거, 나랑은 상관없는 장비일 거 같은데.",
                 "cn": "一些装备上能看到与我一样的名字？不......跟我可没什么关系。"
@@ -129,7 +129,7 @@
                 "cn": "信赖提升后交谈2"
             },
             "text": {
-                "en": "With steel and copper as the core...",
+                "en": "Steel and bronze form the bone, and then…",
                 "jp": "鋼と真鍮で骨組みをつくって、それから……。",
                 "kr": "강철과 놋쇠로 골조를 만들고, 그다음엔……",
                 "cn": "以钢铁与黄铜为骨......"
@@ -145,7 +145,7 @@
                 "cn": "信赖提升后交谈3"
             },
             "text": {
-                "en": "My greatest wish is for the hammer I forged to come in useful to you.",
+                "en": "If me and my hammer can still be of use to you, I'm honored.",
                 "jp": "このハンマーで、少しでもドクターの役に立つことができるのなら、これ以上は何も望まないよ。",
                 "kr": "이 망치로 조금이라도 박사에게 도움이 될 수 있다면, 난 더 이상 바랄 게 없어.",
                 "cn": "如果这锻锤还能为您尽上几分绵薄之力，我就已经心满意足了。"
@@ -161,7 +161,7 @@
                 "cn": "闲置"
             },
             "text": {
-                "en": "They're promoting new drinks at the bar. What should I have today?",
+                "en": "They're promoting new drinks at the bar... What should I have today?",
                 "jp": "バーにまた新作ドリンクが増えたのか。今日は何を飲もうか悩んでしまうな。",
                 "kr": "바에 또 신메뉴가 늘어난 건가. 오늘은 뭘 마실까 고민되네.",
                 "cn": "吧台又开始推新饮品了，今天喝哪款好呢。"
@@ -177,7 +177,7 @@
                 "cn": "干员报到"
             },
             "text": {
-                "en": "They call me Vulcan. I can do maintenance for your damaged weapons if you want. Oh, by the way, the forging equipment I need is all listed here in this blueprint.",
+                "en": "Vulcan, that's what everyone call me. I can do maintenance on your weapons, if it comes up. The equipment I need for the forge is listed here, in this blueprint.",
                 "jp": "皆からはヴァルカンと呼ばれている。もし必要があれば、破損した武器の整備を担当させてもらおう。それから……私が鍛冶をするのに用意してほしいものを書いておいた、用意してもらえると助かる。",
                 "kr": "남들은 날 벌컨이라 부르고 있어. 혹시 필요하다면 파손된 무기의 정비를 맡아주도록 하지. 그리고…… 내가 단조를 할 때 필요한 걸 적어놨는데, 준비해주면 고맙겠어.",
                 "cn": "他们都叫我火神。如果需要的话，我可以给你们损毁的武器做维护，另外......我需要的锻冶设备就在这张图纸里。"
@@ -193,9 +193,9 @@
                 "cn": "观看作战记录"
             },
             "text": {
-                "en": "Ah, I'm feeling inspired. Get the blower machine ready, it's time to get down to business.",
+                "en": "Hmm… I'm feeling inspired. Gotta start the blowers. It's time to work.",
                 "jp": "ふむ、何か閃いた気がする。仕事の時間だ、まずは送風機を準備して……と。",
-                "kr": "흠, 뭔가 영감이 반짝 떠올랐는데…… 지금은 업무시간이지, 일단은 송풍기 준비부터 끝내놓자……",
+                "kr": "흠, 새로운 영감이 떠올랐어. 슬슬 송풍기를 준비하고 일을 시작해야겠는걸……",
                 "cn": "唔，有新的灵感。准备好鼓风机，该干活了。"
             },
             "asset": "char_163_hpsts/CN_012"
@@ -209,9 +209,9 @@
                 "cn": "精英化晋升1"
             },
             "text": {
-                "en": "I see that you, too, understand the importance of an excellent craftsperson to a military organization.",
+                "en": "A skilled craftsman is crucial to a military organization. I see you understand that well.",
                 "jp": "優秀な職人を軍事組織においておく重要性、ようやく気づいたみたいだな。",
-                "kr": "왜 군사 조직에 우수한 장인을 놔둬야 하는지, 드디어 깨달은 것 같네.",
+                "kr": "군사 조직 내 우수한 장인의 중요성을, 박사도 잘 아는 것 같네.",
                 "cn": "看来你也能明白，一名优秀工匠对于军事组织的重要性。"
             },
             "asset": "char_163_hpsts/CN_013"
@@ -225,7 +225,7 @@
                 "cn": "精英化晋升2"
             },
             "text": {
-                "en": "Keeping your weapons in good condition is the best way to keep yourself safe. Ah, you agree with me? I see that I've finally found my soulmate.",
+                "en": "Keeping your weapons in good condition is the best way to keep your people safe. You agree with me? Seems I made the right choice joining you.",
                 "jp": "武器を整備することは、命を守ることに繋がるんだ。ドクターも同感？よかった。私にもようやく、帰る場所ができたようだ。",
                 "kr": "무기를 정비하는 건, 목숨과도 직결되지. 이 부분은 박사도 동감하지? 다행이네, 나한테도 드디어 돌아갈 장소가 생긴 것 같아.",
                 "cn": "维护武器，就是保护生命。你也认同这个观念？看来，我终于找到归宿了。"
@@ -241,7 +241,7 @@
                 "cn": "编入队伍"
             },
             "text": {
-                "en": "I just want to... focus on my work.",
+                "en": "I just want to focus on my work.",
                 "jp": "仕事に……専念させてほしいな。",
                 "kr": "업무에…… 전념하게 해줬으면 좋겠는데.",
                 "cn": "我希望能......专心工作。"
@@ -257,7 +257,7 @@
                 "cn": "任命队长"
             },
             "text": {
-                "en": "Leader? Well, if I have to... Still, compared to giving orders, I'm much better at designing and manufacturing weapons.",
+                "en": "You're making me the leader…? If you insist… Still, I'm much better at designing and producing weapons than giving orders.",
                 "jp": "隊長か……どうしてもというのなら……。本当は指揮を執るよりも、武器の設計や製作の方が得意なんだけどな。",
                 "kr": "팀장이라…… 꼭 해야 한다면 별수 없지만…… 사실은 지휘 맡는 것보단 무기 설계나 제작 쪽이 더 익숙해서 말이지.",
                 "cn": "队长吗......如果需要的话......不过比起指挥人，我还是更擅长设计和制造武器。"
@@ -273,7 +273,7 @@
                 "cn": "行动出发"
             },
             "text": {
-                "en": "Can't I just stay behind and work?",
+                "en": "Can I stay behind and work? No?",
                 "jp": "ここに残って仕事をしていてはだめなのか？",
                 "kr": "여기 남아서 일하고 있으면 안 되나?",
                 "cn": "就不能让我留下好好工作吗？"
@@ -305,7 +305,7 @@
                 "cn": "选中干员1"
             },
             "text": {
-                "en": "Ah.",
+                "en": "Yes?",
                 "jp": "はい。",
                 "kr": "여기야.",
                 "cn": "哦。"
@@ -337,7 +337,7 @@
                 "cn": "部署1"
             },
             "text": {
-                "en": "Okay...",
+                "en": "I'm on it.",
                 "jp": "わかった……。",
                 "kr": "알았어……",
                 "cn": "好的......"
@@ -353,7 +353,7 @@
                 "cn": "部署2"
             },
             "text": {
-                "en": "Everything's normal.",
+                "en": "Ready and waiting.",
                 "jp": "異常なし。",
                 "kr": "이상 없음.",
                 "cn": "一切正常。"
@@ -369,7 +369,7 @@
                 "cn": "作战中1"
             },
             "text": {
-                "en": "Suit up.",
+                "en": "Armed up!",
                 "jp": "武器を取れ！",
                 "kr": "무기를 들어라!",
                 "cn": "武装起来。"
@@ -385,7 +385,7 @@
                 "cn": "作战中2"
             },
             "text": {
-                "en": "Raging flames!",
+                "en": "Let the fires rage!",
                 "jp": "怒りの炎よ。",
                 "kr": "분노의 불꽃이여.",
                 "cn": "暴怒的烈焰啊！"
@@ -417,7 +417,7 @@
                 "cn": "作战中4"
             },
             "text": {
-                "en": "I'll destroy your weapon with my next blow!",
+                "en": "Your weapon will shatter under my next blow!",
                 "jp": "この一撃で、その武器を壊してやる！",
                 "kr": "이 일격으로, 그 장난감 같은 걸 부숴버려 주마!",
                 "cn": "下一击，就破坏掉你的武器！"
@@ -433,7 +433,7 @@
                 "cn": "完成高难行动"
             },
             "text": {
-                "en": "If you pick up some enemy equipment, show it to me. Could be useful for future development.",
+                "en": "Please bring me any enemy equipment you find. I want to know what they're making now.",
                 "jp": "敵の装備を入手したら、私にも見せてほしい。どんなものを作ってるのか、興味があるんだ。",
                 "kr": "적의 장비를 입수하게 되면, 내게도 보여줬으면 좋겠어. 어떤 것들을 만들고 있는지, 흥미가 좀 있어서 말이야.",
                 "cn": "捡到敌人的装备就让我看看，我想知道现在他们都在做些什么。"
@@ -449,7 +449,7 @@
                 "cn": "3星结束行动"
             },
             "text": {
-                "en": "A victory, just as expected! That's why we need high-quality weapons.",
+                "en": "A victory, just as planned! This is why we need high-quality equipment for our fighters.",
                 "jp": "予想通りの戦果だ！いい装備の重要性がよく分かる戦いだったな。",
                 "kr": "예상대로의 결과야! 좋은 장비의 중요성을 잘 알 수 있는 전투였네.",
                 "cn": "意料之中的胜利！这就是为什么人需要依靠好的装备。"
@@ -465,7 +465,7 @@
                 "cn": "非3星结束行动"
             },
             "text": {
-                "en": "Please submit a damage report for each of your weapons. I will work on repairs when we get back.",
+                "en": "Please submit damage reports for all of your equipment. I'll work on repairs when we get back.",
                 "jp": "各自、装備の破損状況を報告してくれ。基地に戻り次第まとめて修理に取りかかる。",
                 "kr": "각자 장비의 파손 상황을 보고해줘. 기지로 돌아가는 대로 한꺼번에 수리할 테니.",
                 "cn": "把各自装备的破损情况提交给我，回去之后我会统一检修。"
@@ -481,7 +481,7 @@
                 "cn": "行动失败"
             },
             "text": {
-                "en": "My crafting skills are still lacking...",
+                "en": "My skills are still lacking…",
                 "jp": "私の腕もまだまだのようだ……。",
                 "kr": "내 실력도 아직 멀었나 보네……",
                 "cn": "是我技艺不精......"
@@ -497,7 +497,7 @@
                 "cn": "进驻设施"
             },
             "text": {
-                "en": "Got a melting pot here?",
+                "en": "Do you have a furnace here?",
                 "jp": "この部屋にフォージは置いてないのか？",
                 "kr": "이 방에 용광로는 따로 안 놔뒀나?",
                 "cn": "这里有熔炉吗？"
@@ -561,9 +561,9 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "新年快乐，博士。稍等一下，我正在处理锻炉，干我们这行的有个习惯，新年燃起的炉火一定要旺盛，只有这样，打造出的装备才会好用。",
-                "jp": "新年快乐，博士。稍等一下，我正在处理锻炉，干我们这行的有个习惯，新年燃起的炉火一定要旺盛，只有这样，打造出的装备才会好用。",
-                "kr": "新年快乐，博士。稍等一下，我正在处理锻炉，干我们这行的有个习惯，新年燃起的炉火一定要旺盛，只有这样，打造出的装备才会好用。",
+                "en": "Happy New Year, Doctor. A moment please, I'm working the forge. In our trade, we believe that the flames must burn bright over the new year, so that we'll be able to craft strong equipment.",
+                "jp": "あけましておめでとう、ドクター。炉（フォージ）の調整をするから少し待っててほしい。私たち鍛冶師の習わしで、年始めに起こした火が強く燃えれば燃えるほど、いい装備が作れるようになるというものがあるんだ。",
+                "kr": "새해 복 많이 받아, 박사. 용광로를 조정하는 중이니까 조금만 기다려줘. 우리 대장장이들 관습 중에, “새해에 붙인 불이 세게 타야, 그 한 해 좋은 장비를 만들 수 있다”라는 말이 있거든.",
                 "cn": "新年快乐，博士。稍等一下，我正在处理锻炉，干我们这行的有个习惯，新年燃起的炉火一定要旺盛，只有这样，打造出的装备才会好用。"
             },
             "asset": "char_163_hpsts/CN_038"
@@ -593,9 +593,9 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "罗德岛里喜爱武器的人越来越多了，我之前已经习惯了一个人，现在他们几个经常跑到我这里来......也挺有趣的，我不讨厌这种热闹，有时候还会觉得，也许再多几个也不是坏事。",
-                "jp": "罗德岛里喜爱武器的人越来越多了，我之前已经习惯了一个人，现在他们几个经常跑到我这里来......也挺有趣的，我不讨厌这种热闹，有时候还会觉得，也许再多几个也不是坏事。",
-                "kr": "罗德岛里喜爱武器的人越来越多了，我之前已经习惯了一个人，现在他们几个经常跑到我这里来......也挺有趣的，我不讨厌这种热闹，有时候还会觉得，也许再多几个也不是坏事。",
+                "en": "People at Rhodes Island are beginning to understand the wonders of weapons. I was used to being alone, but now I get a few regular visitors... not that I mind. It's kind of fun, actually. Sometimes I even feel like a few more would be nice.",
+                "jp": "ロドスの武器愛好家も増えてきたな。昔は一人でいるのに慣れていたが、今はあいつらがしょっちゅう工房に来るから……まあ愉快だ。ああいう活気は嫌いじゃない、時々もう何人か増えてもいいと思うくらいだ。",
+                "kr": "로도스 아일랜드에 무기를 좋아하는 사람들이 갈수록 많아지고 있어. 예전엔 혼자가 익숙했는데, 지금은 워낙 자주 찾아오니까…… 그래도 꽤 즐거워. 이런 시끌벅적한 분위기도 싫지 않고. 가끔은 몇 명 더 늘어도 나쁘지 않겠다는 생각도 든다니까.",
                 "cn": "罗德岛里喜爱武器的人越来越多了，我之前已经习惯了一个人，现在他们几个经常跑到我这里来......也挺有趣的，我不讨厌这种热闹，有时候还会觉得，也许再多几个也不是坏事。"
             },
             "asset": "char_163_hpsts/CN_044"

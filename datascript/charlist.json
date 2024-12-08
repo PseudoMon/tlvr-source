@@ -2418,6 +2418,19 @@
         "rating": 5
     },
     {
+        "fullid": "char_4137_udflow",
+        "nameid": "udflow",
+        "numberid": "4137",
+        "name": {
+            "en": "Underflow",
+            "jp": "アンダーフロー",
+            "kr": "언더플로우",
+            "cn": "深巡"
+        },
+        "nation": "egir",
+        "rating": 5
+    },
+    {
         "fullid": "char_201_moeshd",
         "nameid": "moeshd",
         "numberid": "201",
@@ -2766,6 +2779,19 @@
             "cn": "巫恋"
         },
         "nation": "siracusa",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4079_haini",
+        "nameid": "haini",
+        "numberid": "4079",
+        "name": {
+            "en": "Lucilla",
+            "jp": "ルシーラ",
+            "kr": "루실라",
+            "cn": "海霓"
+        },
+        "nation": "egir",
         "rating": 5
     },
     {
@@ -4131,6 +4157,19 @@
             "cn": "赫德雷"
         },
         "nation": null,
+        "rating": 6
+    },
+    {
+        "fullid": "char_4145_ulpia",
+        "nameid": "ulpia",
+        "numberid": "4145",
+        "name": {
+            "en": "Ulpianus",
+            "jp": "ウルピアヌス",
+            "kr": "울피아누스",
+            "cn": "乌尔比安"
+        },
+        "nation": "egir",
         "rating": 6
     },
     {

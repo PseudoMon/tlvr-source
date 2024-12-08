@@ -563,7 +563,7 @@
             "text": {
                 "en": "Happy New Year, Doctor. I'm very glad I don't have to confront those nightmare piles of annual reports here at Rhodes Island. It seems quite a few Operators have requested advance leave to visit family at home? Well, then, do you have any upcoming plans for this provisionally idle time?",
                 "jp": "あけましておめでとうございます、ドクター。ロドスでは煩わしい年間報告書と睨めっこしねーで済むということで、喜ばしい限りです。早めに休暇を取って帰郷しやがった奴も多いようですね？では、このそこそこ暇な期間中、あなたは何か予定を入れてやがりますか？",
-                "kr": "새해 복 많이 받으세요, 박사님. 로도스 아일랜드에서는 성가신 연간 보고서와 눈씨름을 하지 않아도 되서 정말 기쁠 따름이란 말이죠. 그나저나 일찍 휴가를 내고 고향으로 튀어간 녀석들도 많은 모양이군요? 그래~서, 이 적당히 한가한 기간 동안, 따로 스케쥴 잡으신 건 있으신지요?",
+                "kr": "새해 복 많이 받으세요, 박사님. 로도스 아일랜드에서 그 지긋지긋한 연간 보고서를 보지 않아도 돼서 정말 기쁘게 생각하고 있습니다. 그나저나 많은 오퍼레이터 분들께서 이미 가족을 만나기 위해 휴가를 낸 모양이군요? 그래서 말입니다만, 이 적당히 한가한 기간 동안, 혹시 따로 계획이 있으신가요, 박사님?",
                 "cn": "新年快乐，博士，很高兴我在罗德岛不用面对那些堆成一大叠的令人头疼的年度报表。似乎有不少干员也提前请假回家探亲了？那么，在这段姑且还算清闲的时间里，您有什么安排吗？"
             },
             "asset": "char_489_serum/CN_038"
@@ -593,9 +593,9 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "原本是为了测试武器才来到罗德岛，但您的指挥总是在证明人的重要性。我的确学到了很多......那么，正式加入罗德岛或许也不错呢。博士，可以来坦白地聊聊跳槽待遇吗？",
-                "jp": "原本是为了测试武器才来到罗德岛，但您的指挥总是在证明人的重要性。我的确学到了很多......那么，正式加入罗德岛或许也不错呢。博士，可以来坦白地聊聊跳槽待遇吗？",
-                "kr": "原本是为了测试武器才来到罗德岛，但您的指挥总是在证明人的重要性。我的确学到了很多......那么，正式加入罗德岛或许也不错呢。博士，可以来坦白地聊聊跳槽待遇吗？",
+                "en": "I originally came to Rhodes Island to test weaponry and nothing more, but your command never ceases to demonstrate the importance and value of people. I've certainly learned very much from it... So, the idea of formally joining Rhodes Island may be a decent one. Doctor, can we have an honest chat about your terms of employment for any job-hoppers?",
+                "jp": "ロドスには武器テストのために来たんですけど、ドクターの指揮を見てるといつも人の重要性に気付かされるんです。ここではたくさん学ばせてもらいました……もしかしたら、正式にロドスに加入するのも悪くねーかもですね。ドクター、転職した場合の待遇について腹を割って話し合いませんか？",
+                "kr": "로도스 아일랜드에는 무기 테스트를 위해서 왔지만, 박사님의 지휘를 보며 사람의 중요성도 깨닫게 되었죠. 이곳에서 저도 많이 배웠습니다…… 어쩌면 정식으로 로도스 아일랜드에 합류하는 것도 나쁘지 않겠네요. 박사님, 혹시 이직과 대우에 대해서 이야기 나눌 수 있을까요?",
                 "cn": "原本是为了测试武器才来到罗德岛，但您的指挥总是在证明人的重要性。我的确学到了很多......那么，正式加入罗德岛或许也不错呢。博士，可以来坦白地聊聊跳槽待遇吗？"
             },
             "asset": "char_489_serum/CN_044"

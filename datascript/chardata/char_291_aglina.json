@@ -561,9 +561,9 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "{@nickname}，新年好！今年要送的第一封信件，是给{@nickname}的新年贺卡哦。希望我喜悦的心情，可以好好传达给{@nickname}。",
-                "jp": "{@nickname}，新年好！今年要送的第一封信件，是给{@nickname}的新年贺卡哦。希望我喜悦的心情，可以好好传达给{@nickname}。",
-                "kr": "{@nickname}，新年好！今年要送的第一封信件，是给{@nickname}的新年贺卡哦。希望我喜悦的心情，可以好好传达给{@nickname}。",
+                "en": "{@nickname}, Happy New Year! The first letter I'm delivering this year is a New Year's card for {@nickname}. I hope my feelings of joy make their way to {@nickname}, heheh.",
+                "jp": "{@nickname}、あけましておめでとう！今年初めて届ける手紙は、ドクターへの年賀状だよ。このわくわくした気持ちが、ちゃんと伝わるといいな。",
+                "kr": "새해 복 많이 받아, {@nickname}! 올해 첫 번째로 보낼 편지는 바로 {@nickname}에게 주는 연하장이야. 내 기쁜 마음이 {@nickname}에게 잘 전달되었으면 좋겠네.",
                 "cn": "{@nickname}，新年好！今年要送的第一封信件，是给{@nickname}的新年贺卡哦。希望我喜悦的心情，可以好好传达给{@nickname}。"
             },
             "asset": "char_291_aglina/CN_038"
@@ -593,9 +593,9 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "从家乡来到了罗德岛，离开了曾经的朋友、熟悉的生活。虽然也成长了许多，但又怎么能骗自己说一点也不难过呢？不过，我相信这一切总是值得的。因为在这里，我找到了属于自己的那颗星星。",
-                "jp": "从家乡来到了罗德岛，离开了曾经的朋友、熟悉的生活。虽然也成长了许多，但又怎么能骗自己说一点也不难过呢？不过，我相信这一切总是值得的。因为在这里，我找到了属于自己的那颗星星。",
-                "kr": "从家乡来到了罗德岛，离开了曾经的朋友、熟悉的生活。虽然也成长了许多，但又怎么能骗自己说一点也不难过呢？不过，我相信这一切总是值得的。因为在这里，我找到了属于自己的那颗星星。",
+                "en": "When I left home and came to Rhodes Island, I left behind my old friends and the life I knew too. I've grown up a little now, but... I'd be fooling myself if I said it wasn't hard. Doctor, I still believe it's all worth it. Because right here, I've found a star to call my own.",
+                "jp": "故郷（ふるさと）からロドスまで来て、昔の友達や、慣れ親しんだ生活環境から離れた。成長はたくさんしたけど、少しも辛くないって言ったら嘘になるよね。でもね、この経験は全部意味があるって信じてるんだ。だって、あたしはここで、自分だけの星を見つけたから。",
+                "kr": "고향을 떠나 로도스 아일랜드에 오면서, 난 옛 친구들, 그리고 익숙한 생활과 작별했어. 물론 여기서 많이 성장했지만, 속상한 적이 한 번도 없었다는 거짓말은 못하겠어. 하지만 난 이 모든 게 값진 경험이라고 생각해. 난 로도스 아일랜드에서 나만의 별을 찾았으니까.",
                 "cn": "从家乡来到了罗德岛，离开了曾经的朋友、熟悉的生活。虽然也成长了许多，但又怎么能骗自己说一点也不难过呢？不过，我相信这一切总是值得的。因为在这里，我找到了属于自己的那颗星星。"
             },
             "asset": "char_291_aglina/CN_044"

@@ -1,0 +1,628 @@
+{
+    "charid": "char_4137_udflow",
+    "nameid": "udflow",
+    "names": {
+        "en": "Underflow",
+        "jp": "アンダーフロー",
+        "kr": "언더플로우",
+        "cn": "深巡"
+    },
+    "voices": [
+        {
+            "id": "char_4137_udflow_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "I'm sorry, but the pen scratching you hear is just me engaging in <i>shorthanding...</i> to put it another way, I'm helping myself to think. I'm busy with Joint Marine Corps affairs, so I'm afraid I can't help you tackle your paperwork.",
+                "jp": "ペンの走る音が聞こえているでしょうが、「速記」をしているだけです……つまり、小官自身の思考をまとめています。陸海の共同戦線について成すべきことが多いため、貴殿の書類仕事を分担する時間はとれそうにありません。ご了承ください。",
+                "kr": "펜촉이 움직이는 소리를 들으셨겠지만, 전 그저 '속기'를 하고 있었을 뿐입니다…… 그러니까, 제 생각을 정리하고 있었습니다. 해륙 연합 방어선에 관한 업무가 많은 탓에, 안타깝게도 귀하의 서류 업무를 도와드리지는 못할 것 같습니다. 양해 부탁드립니다.",
+                "cn": "很遗憾，虽然您听见了笔尖的沙沙声，但我只是在“速写”......换句话说，在帮助我自己思考。海陆联合防线的事务繁多，我无暇帮您分担批阅文件的任务。抱歉。"
+            },
+            "asset": "char_4137_udflow/CN_001"
+        },
+        {
+            "id": "char_4137_udflow_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "It's been difficult explaining how my launcher works to the Sankta operators, and when I asked them about their guns, their eccentric answers only confused me more. Hm? I shouldn't lose heart? You're overthinking it, how could I be discouraged from just that? The reason I'm here is precisely for the sea and land to understand each other.",
+                "jp": "この発射装置ですが、サンクタのオペレーターへ原理を解説する際に上手く伝わりませんでした。またあちらから「銃とは何か」の講釈を受けた時に飛躍した内容を告げられたことで、小官も戸惑っています。落ち込むなと？要らぬ心配をかけましたね。これしきのことで諦めるわけがないでしょう？小官はもとから海と陸の相互理解を深めるために来たんです。",
+                "kr": "산크타 오퍼레이터에게 이 발사 장치의 원리에 대해 설명하는 데 어려움이 있었습니다. 반대로 그들에게서 총에 대한 설명을 들었을 때도, 다소 비약적인 내용에 혼란스러웠죠. 낙담할 필요 없다고요? 걱정하지 않으셔도 됩니다. 이런 일로 제가 포기할 리 없지 않습니까? 제가 이곳에 온 건, 처음부터 바다와 육지의 상호 간의 이해를 높이기 위해서인걸요.",
+                "cn": "我向萨科塔干员解释手里这台发射器的原理时遇到了困难，而在请教何为铳时，他们跳脱的表达也让我疑惑。别灰心？您多虑了，我怎么会因此灰心呢？让海洋与陆地相互理解，我本就是为此而来的。"
+            },
+            "asset": "char_4137_udflow/CN_002"
+        },
+        {
+            "id": "char_4137_udflow_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Coffee, tea, cocoa... These land stimulants have a novel taste to them. They're not very effective, but it's fine. This way I get to try many types of them. How many cups have I had today? This is number eight. The Seaborn swarm is still on the move, and HQ may reach out at any time, so I have to stay alert.",
+                "jp": "コーヒー、茶、ココア――陸の眠気覚ましは興味深い味覚体験を伴うものの、効きはイマイチですね。まあでも、これもこれで悪くはない。短時間で多くの味を楽しむことができます――今日？これが八杯目です。大群はいまだ移動を続けていて、本つ域からの連絡がいつくるかも分かりません。小官は迅速な判断を下せる状態を保つ必要があります。",
+                "kr": "커피, 차, 코코아…… 육지에서 졸음을 쫓기 위해 섭취하는 것들은 그 맛과 체험 모두 흥미로웠지만, 효과는 그리 뛰어나지 않더군요. 그래도 나쁘진 않습니다. 덕분에 짧은 시간 내에 다양한 맛을 즐길 수 있으니까요. 오늘은 몇 잔 마셨나고요? 이게 8잔 째입니다. 위매니는 여전히 이동 중이고, 본국에서도 언제 연락이 올지 모르니, 전 항상 신속한 판단을 내릴 수 있도록 맑은 정신을 유지해야만 합니다.",
+                "cn": "咖啡、茶、可可，陆上提神剂的味觉体验很新奇，效力却不大。不过这样也好，可以在短时间内多品鉴几种——今天喝了多少？这是第八杯。大群仍在迁徙，本境随时可能联络，我必须保持清醒。"
+            },
+            "asset": "char_4137_udflow/CN_003"
+        },
+        {
+            "id": "char_4137_udflow_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Doctor, there's no fresh information from Ægir on this sketch board. These wavy lines and small squares are just my thought process. As for what they mean exactly, it's very hard to explain. Hm? If this part means 'signal strength'? You... can read it?",
+                "jp": "このメモは、先ほどエーギルから来た通信の内容を記録したものじゃありません。波線も正方形も小官の思考の過程に過ぎない。これが具体的に何を表しているか、小官自身も上手く説明が――ここは、信号の強さを表しているのではないかと？貴殿は……読めるのですか？",
+                "kr": "이 메모에 적은 건 방금 에기르에서 온 통신 내용이 아닙니다. 물결선과 사각형 모양 역시 그저 제 생각의 과정을 적어내린 것에 불과합니다. 이것들이 구체적으로 무엇을 의미하는지는 저 스스로도 설명하기 어렵습니다…… 이 부분은 신호의 강도를 표현한 게 아니냐고요? 박사님은…… 알아보신 겁니까?",
+                "cn": "博士，速写板上没有刚刚阿戈尔通讯内容的记录，这些波浪线和小方块仅仅是我思维的过程。至于它们具体代表什么，我自己也说不清——您问这一部分是不是代表信号强度？您......读懂了？"
+            },
+            "asset": "char_4137_udflow/CN_004"
+        },
+        {
+            "id": "char_4137_udflow_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Unfortunately, I didn't manage to become an Abyssal Hunter, but that's not the only way Ægir fights the Seaborn. We have the Hunters, the Waterway—and many more in the future. My current position dictates I no longer be affiliated with any projects, but that does not imply my duties are lighter, even in the slightest.",
+                "jp": "アビサルハンターになれなかったのは残念です。でもエーギルがシーボーンに対抗する手段は決して一つではありません。アビサルハンターの誕生に、切り拓かれた航路――これからはもっと増えるでしょう。今の立場についたからには、今後どの計画にも参加はできませんが、それで小官の責任が減ることはありません。",
+                "kr": "유감이지만, 전 어비설 헌터스가 되지 못했습니다. 하지만 에기르가 시본에 맞서는 수단은 결코 하나만 있는 것은 아닙니다. 어비설 헌터스, 항로…… 그리고 앞으로는 더 많아질 테죠. 현재 주어진 직무로 다른 계획에는 더 참여하지 못하겠지만, 그렇다고 해서 저의 책임이 줄어드는 것은 아닙니다.",
+                "cn": "很遗憾，我没能成为深海猎人，但阿戈尔对抗海嗣的方式远不止一种，深海猎人、航道——未来还会有更多。我现在的职务决定了我不会再从属于任何计划，但这并不意味着我的责任有丝毫减轻。"
+            },
+            "asset": "char_4137_udflow/CN_005"
+        },
+        {
+            "id": "char_4137_udflow_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Our nation is not a machine, but an organic system. The gears do not spin on their own, yet every single cell, even if it loses the system's protection, will fight to the end for the organism's survival... This is what I defend and firmly believe in, nothing more.",
+                "jp": "国は機械ではない。生き物です。歯車はひとりでに回りはしませんが、細胞はどれも等しく、本体の保護を失なってなお、本体の存続に最後まで力を尽くします……小官が守っていること、固く信じていることは、これに尽きます。",
+                "kr": "국가는 기계가 아닙니다. 살아있는 생명체죠. 톱니바퀴는 저절로 돌아가지 않지만, 모든 세포는 본체의 보호를 잃어도 끝까지 본체의 존속을 위해 온 힘을 다합니다…… 이것이 제가 지키고 있는 것, 굳게 믿고 있는 것입니다.",
+                "cn": "国家不是机器，而是机体。齿轮不会自己转动，而无论哪一种细胞，就算失去了机体的庇护，也会为了机体的存续做最后一搏......我所保卫的，我所坚信的，仅此而已。"
+            },
+            "asset": "char_4137_udflow/CN_006"
+        },
+        {
+            "id": "char_4137_udflow_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Irene invited me to a ball last time, but I'm unfamiliar with the way land dwellers dance. I thought a direct refusal would be rude, so I didn't answer at all. Yet, it seemed to make her even more disappointed... Um? I can dance however I want? Then I'll join them next time. I may shoulder heavy responsibilities, but there's no harm in engaging in appropriate and beneficial recreation.",
+                "jp": "この間、アイリーニからダンスパーティーの誘いを受けました。小官は陸のダンスに疎い身です。かといってすぐに断っては失礼ですので、黙ったままでいたら、かえって落ち込ませたようで――ステップは気にしなくていいと？では、次回は参加します。責任ある立場であっても、適度な息抜きはメリットしかありません。",
+                "kr": "얼마 전 아이린에게서 무도회 초대를 받았습니다. 저는 육지의 춤은 익숙하지 않은 편이라 머뭇거렸고, 그렇다고 직접적으로 거절하는 것도 예의가 아니라고 생각해서 그저 침묵을 유지하고 있었습니다. 근데 그것 때문에 그녀가 더욱 실망한 모양이더군요…… 스텝은 신경 쓰지 않아도 된다고요? 그렇다면 다음에는 꼭 참가하겠습니다. 책임이 막중하더라도, 적절한 휴식은 필요한 법이니까요.",
+                "cn": "上次艾丽妮邀请我去舞会，我不熟悉陆地上的舞步，直接拒绝又不礼貌，就一直没说话，结果她看起来更失落了——不必担心舞步？那么，下次我会参加的。就算身负重任，适当的放松仍有益无害。"
+            },
+            "asset": "char_4137_udflow/CN_007"
+        },
+        {
+            "id": "char_4137_udflow_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Drop the act, I know who was just in here. As long as you're not the one he's contacting—no, even if it <i>is</i> you— Tch, forget it, I've already neglected my duties by not reporting him immediately, not to mention our current situation. Anyway, I'd like you to tell him this for me—he may be a genius, but he is a terrible mess as a teacher.",
+                "jp": "水を飲むふりは結構です。さっきまで誰がいたのかは知っていますから。彼と接触したのが貴殿でなければ――いや、貴殿であっても――まあ、いいか。即時に報告をしなかった時点で職務怠慢のそしりは免れません。今更の話です。では、お手数をかけて恐縮ですが彼に伝言をお願いします。彼は天才ですが、指導役としては落第ですと。",
+                "kr": "물 마시는 척은 이제 그만하셔도 됩니다. 방금 이곳에 누가 있었는지는 저도 알고 있으니까요. 그와 접촉한 사람이 귀하가 아니었다면…… 아니, 그게 귀하라고 할지라도…… 그, 방금 말은 잊어 주십시오. 그를 보고도 즉시 보고하지 않았다는 것 자체가 직무 태만이나 마찬가지이니, 지금 무언가를 하지 않는다고 달라지는 건 없습니다. 이렇게 된 이상, 번거로우시겠지만 그에게 이 말 한마디만 전해 주시면 감사하겠습니다. 그는 천재지만, 지도자로선 불합격이라고요.",
+                "cn": "别假装喝水了，我知道刚刚谁在这里。但凡他接触的不是您——不，就算是您——算了，不立刻上报已经是失职，何况是现在。既然这样，麻烦您替我转告他，他是个天才，但他的老师当得一塌糊涂。"
+            },
+            "asset": "char_4137_udflow/CN_008"
+        },
+        {
+            "id": "char_4137_udflow_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "The Abyssal Hunters have returned, surprisingly, and the Waterway has been opened somehow. Those are certainly not what I expected as watchman, but they are gratifying enough. Doctor, I stand here now watching over you as well, and look forward to seeing how you'll transform this war.",
+                "jp": "アビサルハンターは想像を超える形で帰還し、航路も思いがけない方法で拓かれました。どちらも小官という見守り人の予測とは大分遠いものの、胸に迫るほど喜ばしいことです。ドクター、小官は今同じように貴殿を見守っています。この戦争にどのような変化を起こしてくれるのか、すごく楽しみです。",
+                "kr": "어비설 헌터스는 상상을 뛰어넘는 방식으로 돌아왔고, 항로도 예상치 못한 방식으로 열리게 되었습니다. 그 두 가지 모두 저라는 파수꾼의 예상과는 많이 달랐지만, 가슴 벅찰 정도로 기쁜 일인 건 틀림없습니다. 박사님, 마찬가지로 저는 지금 박사님을 지켜보고 있습니다. 귀하께서 이 전쟁에 어떠한 변화를 가져오실지 정말 기대가 되는군요.",
+                "cn": "深海猎人以意想不到的方式归来，航道以意想不到的方式打开，它们都与我这个守望者的预期相去甚远，却也都足够令人欣慰。博士，现在我同样守望着您，我很期待您能为这场战争带来何种改变。"
+            },
+            "asset": "char_4137_udflow/CN_009"
+        },
+        {
+            "id": "char_4137_udflow_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Doctor, contacts from Ægir will be here anytime. If you're not awake by then, I will inject you with a nerve activiting solution. Oh, I will try to wake you up first.",
+                "jp": "ドクター、エーギルからの連絡はいつ何時訪れるか分かりません。もしその時に貴殿が寝ていたら、小官が神経活性薬の注射を――っと、そうですね、叩き起こします。",
+                "kr": "박사님, 에기르의 연락은 언제 올지 모릅니다. 만약 그때도 귀하께서 주무시고 계신다면 제가 신경 활성제를 주입…… 아, 아니, 흔들어서 깨워 드리겠습니다.",
+                "cn": "博士，阿戈尔的联络随时可能抵达。如果那时您还没醒，我会为您注射神经活性药剂——呃，我会叫醒您的。"
+            },
+            "asset": "char_4137_udflow/CN_010"
+        },
+        {
+            "id": "char_4137_udflow_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Dr. {@nickname}, I'm glad to meet you on land. We're fighting the same war, and that is why I stand before you now.",
+                "jp": "ドクター、陸で貴殿に会えて光栄です。我々は現在、同じ戦いに身を置いています。それが、小官が今ここに立っている理由です。",
+                "kr": "{@nickname} 박사님, 육지에서 만나 뵙게 되어 영광입니다. 저희는 지금 같은 전투에 몸을 담고 있습니다. 그리고 그것이 제가 이곳에 서 있는 이유입니다.",
+                "cn": "Dr.{@nickname}，很高兴在陆地上见到您。我们正在面对同一场战争，这就是我此刻站在这里的原因。"
+            },
+            "asset": "char_4137_udflow/CN_011"
+        },
+        {
+            "id": "char_4137_udflow_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "I'm adapting myself to land-based warfare and combat styles.",
+                "jp": "陸の戦争の形と、作戦の方式を学習しています。",
+                "kr": "육지의 전쟁과 작전 방식에 대해선 계속 배우고 있는 중입니다.",
+                "cn": "陆地的战争形态与作战方式，我正在适应。"
+            },
+            "asset": "char_4137_udflow/CN_012"
+        },
+        {
+            "id": "char_4137_udflow_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "I'm grateful for your recognition. The promotion ceremony has ended, right? Perfect, I have some new Joint Marine documents to look through together.",
+                "jp": "評価していただき感謝いたします。昇進セレモニーはこれで終わりですね？ちょうどいい、共同防衛戦線に関する新しい書類がありますので、ぜひご一緒に。",
+                "kr": "긍정적으로 평가해 주셔서 감사드립니다. 승진식은 이걸로 끝인 겁니까? 마침 연합 방어선에 대한 새로운 문서가 왔으니 함께 검토해보러 가시죠, 박사님.",
+                "cn": "感谢您的肯定，晋升仪式已经结束了吧？正好，这几份联合防线的新文件，我们一起看一下。"
+            },
+            "asset": "char_4137_udflow/CN_013"
+        },
+        {
+            "id": "char_4137_udflow_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Praise in a perilous time often means even heavier responsibilities. I'm prepared, Doctor.",
+                "jp": "危機的な状況での昇進は、大抵がもっと大きな責任を意味します。ドクター、小官は覚悟できています。",
+                "kr": "위기 상황에서의 승진은 더 큰 책임을 의미하는 경우가 많죠. 박사님, 저는 각오가 되어 있습니다.",
+                "cn": "危局中的褒奖往往意味着更重大的责任。博士，我准备好了。"
+            },
+            "asset": "char_4137_udflow/CN_014"
+        },
+        {
+            "id": "char_4137_udflow_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "I'll intercept the tides. It is Ægir's duty to keep them off the land.",
+                "jp": "小官が波を止めます。エーギルには海との戦いで前に出る義務があります。",
+                "kr": "제가 파도를 막겠습니다. 바다와의 전투에서 에기르는 육지 앞에 나설 의무가 있습니다.",
+                "cn": "我会拦截海潮，阿戈尔有义务挡在陆地之前。"
+            },
+            "asset": "char_4137_udflow/CN_017"
+        },
+        {
+            "id": "char_4137_udflow_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "I'll synchronize everyone with our battle plans promptly. If there's anything you find hard to understand, don't worry. Ægir guarantees your lives are the paramount priority.",
+                "jp": "隊員のみんなには、適時戦術を共有する。もし理解しがたいところがあっても不安に思わなくていい。みんなの命を守ることがエーギルにとっての優先事項だから。",
+                "kr": "대원들에게는 적시에 전술을 공유하겠다. 만약 이해하기 어려운 부분이 있더라도 걱정하지 말도록. 모두의 생명과 안전을 확보하는 것이 에기르의 최우선 과제이니.",
+                "cn": "我会向各位及时同步战术安排。如果其中存在难以理解的部分，也请不必担心。确保各位的生命安全是阿戈尔的优先事项。"
+            },
+            "asset": "char_4137_udflow/CN_018"
+        },
+        {
+            "id": "char_4137_udflow_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Our fleet is in position. I'll guide us to our designated spot.",
+                "jp": "我々の艦隊は位置についている。みんなを指定の座標まで連れて行く。",
+                "kr": "함대는 이미 도착했습니다. 제가 지정된 위치로 모두를 데려가겠습니다.",
+                "cn": "我们的舰队已经就位，我会负责引导各位到达指定位置。"
+            },
+            "asset": "char_4137_udflow/CN_019"
+        },
+        {
+            "id": "char_4137_udflow_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Hmph. Detritus.",
+                "jp": "フンッ、滓め。",
+                "kr": "쳇, 쓰레기가.",
+                "cn": "啧，渣滓。"
+            },
+            "asset": "char_4137_udflow/CN_020"
+        },
+        {
+            "id": "char_4137_udflow_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Toxic finspine launcher, ready to fire.",
+                "jp": "毒棘発射装置のセーフティは解除した。",
+                "kr": "독침 발사기의 안전 장치를 해제했습니다.",
+                "cn": "毒性鳍刺发射器，已解除保险。"
+            },
+            "asset": "char_4137_udflow/CN_021"
+        },
+        {
+            "id": "char_4137_udflow_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "I'm in position.",
+                "jp": "位置についています。",
+                "kr": "위치에 도착했습니다.",
+                "cn": "我已就位。"
+            },
+            "asset": "char_4137_udflow/CN_022"
+        },
+        {
+            "id": "char_4137_udflow_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Please gather behind my shield.",
+                "jp": "盾の後ろに集まれ。",
+                "kr": "방패 뒤로 집결한다.",
+                "cn": "请在我盾后集结。"
+            },
+            "asset": "char_4137_udflow/CN_023"
+        },
+        {
+            "id": "char_4137_udflow_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "The air is so dry... no, it's nothing.",
+                "jp": "空気が乾燥してるな……いや、なんでもありません。",
+                "kr": "공기가 건조하군…… 아뇨, 아무것도 아닙니다.",
+                "cn": "空气很干燥......不，没什么。"
+            },
+            "asset": "char_4137_udflow/CN_024"
+        },
+        {
+            "id": "char_4137_udflow_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Don't misunderstand, you're not even threats to me.",
+                "jp": "思い上がるな、お前たちは潜在的脅威ですらない。",
+                "kr": "착각하지 마라, 너희는 잠재적 위협조차 되지 못하니.",
+                "cn": "别误会，你们连隐患都算不上。"
+            },
+            "asset": "char_4137_udflow/CN_025"
+        },
+        {
+            "id": "char_4137_udflow_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Be glad you're only facing the Sea Patrol, not our regular army.",
+                "jp": "相手が正規軍ではなく海巡隊で良かったな。",
+                "kr": "너희의 상대가 정규군이 아닌 해양 순찰대임을 다행으로 알아라.",
+                "cn": "你们该庆幸面对的只是海巡队而非正规军团。"
+            },
+            "asset": "char_4137_udflow/CN_026"
+        },
+        {
+            "id": "char_4137_udflow_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Did you just beg for mercy? Couldn't hear you over all that shelling.",
+                "jp": "お前たち、今命乞いをしたか？艦砲がうるさくてな。",
+                "kr": "너희, 방금 목숨을 구걸했나? 포격 소리가 시끄러워서 잘 못 들었다.",
+                "cn": "舰炮声太吵了，你们刚刚求饶了吗？"
+            },
+            "asset": "char_4137_udflow/CN_027"
+        },
+        {
+            "id": "char_4137_udflow_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Requesting more firepower—Gah, I'll do it myself.",
+                "jp": "火力投射を要請――ふん、自分でやるしかないか。",
+                "kr": "화력 지원 요청! ……음, 내가 직접 하는 수밖에.",
+                "cn": "呼叫火力投射——啧，我自己来吧。"
+            },
+            "asset": "char_4137_udflow/CN_028"
+        },
+        {
+            "id": "char_4137_udflow_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Your results surpassed my expectations, even in such difficult circumstances. Do you have time to tell me what was on your mind? There are some parts of your plan I still don't understand...",
+                "jp": "あれほど厳しい状況だったにもかかわらず、想像を超えた戦果です。お時間がある時に、どういった思考で行動したか教えていただけますか？まだ理解できていないところがあるので……",
+                "kr": "이토록 어려운 상황에서도 예상을 뛰어넘는 훌륭한 성과라니, 혹시 시간 되실 때, 어떤 생각으로 이 전투를 진행하셨는지 말씀해 주실 수 있겠습니까? 아직 이해하지 못한 부분이 있습니다……",
+                "cn": "条件如此艰苦，战果却是超出预期的。有空的话能讲讲思路吗？我还有一些没能理解的地方......"
+            },
+            "asset": "char_4137_udflow/CN_029"
+        },
+        {
+            "id": "char_4137_udflow_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "An exemplary show of command.",
+                "jp": "教科書に載りそうな指揮でしたね。",
+                "kr": "교과서에 나올법한 지휘였습니다.",
+                "cn": "一次教科书式的指挥。"
+            },
+            "asset": "char_4137_udflow/CN_030"
+        },
+        {
+            "id": "char_4137_udflow_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "This result... isn't entirely unacceptable. Only, the enemies we let go, may not necessarily let us go in turn.",
+                "jp": "このような結果も……受け入れられなくはありません。ただ、見逃した敵が、同じく我々を見逃してくれるとは限りません。",
+                "kr": "이런 결과를…… 받아들일 수 없는 건 아닙니다. 다만 우리가 놓친 적들이 다음에 우릴 놓아준다는 보장은 없습니다.",
+                "cn": "这样的结果......也并非不能接受。只是，被我们放过的敌人未必会放过我们。"
+            },
+            "asset": "char_4137_udflow/CN_031"
+        },
+        {
+            "id": "char_4137_udflow_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "I take it you're just having a bad day, but our enemies hope you stay like that for good. You need to pull yourself together.",
+                "jp": "……調子が悪かっただけだろうと信じてもいいですが、敵は貴殿がずっとその調子であることを望んでいます。改善を願います。",
+                "kr": "……오늘은 컨디션이 나쁘셨던 거라고 생각합니다만, 적들은 귀하께서 계속 이런 상태이길 바랄 겁니다. 다음에는 이런 일이 없길 바랍니다.",
+                "cn": "......我愿意相信您只是状态不佳，而我们的敌人希望您日日如此。别这样。"
+            },
+            "asset": "char_4137_udflow/CN_032"
+        },
+        {
+            "id": "char_4137_udflow_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "I still have Sea Patrol work to deal with, so I can't always be at Rhodes Island. If you need anything from me, raise a request and I'll get to it promptly.",
+                "jp": "海巡隊の仕事を片付けないといけないから、ロドスに常駐はできません。ご要望があるなら、ここで話してください。すぐにかかります。",
+                "kr": "해양 순찰대의 업무도 처리해야 하기에 계속 로도스 아일랜드에 머물 수는 없습니다. 요청사항이 있으신 거면 지금 말씀해 주시죠, 바로 처리하겠습니다.",
+                "cn": "我还要处理海巡队的事务，无法一直在罗德岛逗留。如果您对我有什么要求，请在此提出，我马上去做。"
+            },
+            "asset": "char_4137_udflow/CN_033"
+        },
+        {
+            "id": "char_4137_udflow_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Casual chats aren't my strong suit. Find someone else to talk to.",
+                "jp": "雑談は苦手です。他の方を探してください。",
+                "kr": "잡담을 나누는 건 잘 못합니다. 다른 분을 찾아가 보시죠.",
+                "cn": "我不擅长闲聊。去找别人吧。"
+            },
+            "asset": "char_4137_udflow/CN_034"
+        },
+        {
+            "id": "char_4137_udflow_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "If you really want to know how I think while writing <i>shorthand,</i> I can explain it to you.",
+                "jp": "もし本当に「速記」している時の考えが知りたいなら、語って差し上げましょう。",
+                "kr": "제가 '속기'를 할 때 어떤 생각을 하는지 정말 궁금하신 거라면, 알려 드릴 수 있습니다.",
+                "cn": "如果真的很想知道我“速写”时在想什么，我可以讲给您听。"
+            },
+            "asset": "char_4137_udflow/CN_036"
+        },
+        {
+            "id": "char_4137_udflow_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4137_udflow/CN_037"
+        },
+        {
+            "id": "char_4137_udflow_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "You people flip through this printed product every day or month, treat it with great importance, and even celebrate when you switch it out for another... Can I have a look? Oh... it's called 'paper calendar'? Hmm... so land dwellers celebrate the first day of every year. I will record this in my cultural exchange notes.",
+                "jp": "陸の者たちは、毎日あるいは毎月一枚めくるペラ紙を重要視して、紙束を交換する日を祝うようです。少し詳しく見てもいいでしょうか――紙のカレンダー、ですと？ふむ、陸の者は毎年一番初めの日を祝う、と。このことも交流記録に残しておかないと……",
+                "kr": "육지 사람들은 매일 혹은 매달 한 장씩 넘기는 이 얇은 종이를 정말 중요시하며, 이 종이 뭉치를 바꾸는 날이 오면 그날을 기념하기까지 한다고 하죠? 조금 더 자세히 봐도 괜찮을까요…… 종이로 된 달력이라고요? 흠, 육지 사람들은 매해 첫 번째 날을 기념한다라, 이에 관한 내용도 교류 기록에 남겨 둬야겠습니다……",
+                "cn": "你们似乎把这种每天或每个月翻过一页的印刷品看得很重要，还会庆祝替换它的日子。我能仔细看看它吗——纸质日历？呃，陆上的人会庆祝每年的第一天，这一条也要写在交流总结里......"
+            },
+            "asset": "char_4137_udflow/CN_038"
+        },
+        {
+            "id": "char_4137_udflow_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Reporting in, Doctor.",
+                "jp": "ドクター、帰投しました。",
+                "kr": "보고드립니다, 박사님.",
+                "cn": "向您报到，博士。"
+            },
+            "asset": "char_4137_udflow/CN_042"
+        },
+        {
+            "id": "char_4137_udflow_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "I had lots of worries before I came ashore. My concerns have been validated, yet I feel even more confident. Why? Because I see a universal tenacity shared by land and sea. You face Catastrophes as Ægir fights the Seaborn—we will never surrender.",
+                "jp": "陸に上がる前は不安に駆られていました。今、そうした不安はほとんどが現実と化したのですが、かえって確信を持てるようになったんです。理由？海と陸の別がなく、みんなが同じように持っている強さを見たからです。陸の者が天災に向き合う時も、エーギルがシーボーンに向き合うのと同じで、絶対に折れはしません。",
+                "kr": "육지에 오르기 전까지만 해도 불안함을 떨쳐낼 수 없었습니다. 지금 그 불안 대부분이 현실이 되었지만, 오히려 확신을 가지게 되었습니다. 이유 말입니까? 바다 사람이든 육지 사람이든 관계없이, 모두에게서 강인한 모습을 직접 봤기 때문입니다. 육지 사람들이 재앙에 맞서는 모습은, 에기르가 시본에 맞설 때와 마찬가지로 절대 물러서지 않더군요.",
+                "cn": "上陆之前我曾忧心忡忡，现在那些担忧几乎都被证实了，我却有了更多信心。原因？我看到了不分海洋与陆地，所有人共同分享的坚韧。你们面对天灾时和阿戈尔面对海嗣时一样，从未崩毁。"
+            },
+            "asset": "char_4137_udflow/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Kelsey Jaffer",
+            "global": "Kelsey Jaffer"
+        },
+        "cn": {
+            "native": "井琉",
+            "global": "Jing Liu"
+        },
+        "jp": {
+            "native": "石田嘉代",
+            "global": "Kayo Ishida"
+        },
+        "kr": {
+            "native": "이미나",
+            "global": "Lee Mi-na"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

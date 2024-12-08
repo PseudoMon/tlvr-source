@@ -177,7 +177,7 @@
                 "cn": "干员报到"
             },
             "text": {
-                "en": "Hello, I'm Haze. I like relaxing work environments,  and an employer who knows better than to bother me with too many questions.",
+                "en": "Hello, I'm Haze. I like relaxing work environments, and an employer who knows better than to bother me with too many questions.",
                 "jp": "どうもー。ヘイズだよ。好きなものは、気楽な職場と、口うるさくないご主人かなぁ。",
                 "kr": "안녕~ 헤이즈라고 해. 좋아하는 건 편한 직장이랑, 잔소리 안 하는 주인 정도?",
                 "cn": "你好~叫我夜烟~我喜欢轻轻松松的工作环境，和一个不会向我问这问那的雇主~"
@@ -561,9 +561,9 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "新年？对猫猫来说，“年”这个时间未免也太漫长了。心里装着一天之外的事怎么能开心呢？不过今天的确是个适合打盹的日子。博士，不如一起懒洋洋地度过这一天吧。",
-                "jp": "新年？对猫猫来说，“年”这个时间未免也太漫长了。心里装着一天之外的事怎么能开心呢？不过今天的确是个适合打盹的日子。博士，不如一起懒洋洋地度过这一天吧。",
-                "kr": "新年？对猫猫来说，“年”这个时间未免也太漫长了。心里装着一天之外的事怎么能开心呢？不过今天的确是个适合打盹的日子。博士，不如一起懒洋洋地度过这一天吧。",
+                "en": "New year? A year is such a long time for a kitty. And happiness won't come knocking if one worries about more than just today. Speaking of which, today is really nice for napping. Doctor, how about we just spend this day with some lazy, cozy naps.",
+                "jp": "新年？ネコには「年」なんて単位は長すぎるかなぁ。だって、その日以外のことを考えてたら楽しくないでしょ？でも今日は確かにお昼寝にぴったりの日だねぇ。ドクター、一緒にのんびり過ごそうよぉ～。",
+                "kr": "새해? 고양이에게 '한 해'라는 시간은 너무 길어. 오늘 벌어질 일을 생각하기도 바쁜데, 앞으로 일어날 일까지 마음에 담아두고 어떻게 즐겁게 지낼 수 있겠어? 그나저나 나른한 게 낮잠 자기 좋은 날인 것 같네. 박사, 오늘은 나랑 같이 느긋하게 보내는 게 어때?",
                 "cn": "新年？对猫猫来说，“年”这个时间未免也太漫长了。心里装着一天之外的事怎么能开心呢？不过今天的确是个适合打盹的日子。博士，不如一起懒洋洋地度过这一天吧。"
             },
             "asset": "char_141_nights/CN_038"
@@ -593,9 +593,9 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "猫猫会光顾有食物的花园，但如果想要用绳索留下猫猫，它就一定会逃走。当然，猫猫心情好的时候，也是会带回一些东西来报答的。明白了吗？博士，一定要让罗德岛成为大家都喜欢的花园哦。",
-                "jp": "猫猫会光顾有食物的花园，但如果想要用绳索留下猫猫，它就一定会逃走。当然，猫猫心情好的时候，也是会带回一些东西来报答的。明白了吗？博士，一定要让罗德岛成为大家都喜欢的花园哦。",
-                "kr": "猫猫会光顾有食物的花园，但如果想要用绳索留下猫猫，它就一定会逃走。当然，猫猫心情好的时候，也是会带回一些东西来报答的。明白了吗？博士，一定要让罗德岛成为大家都喜欢的花园哦。",
+                "en": "A kitty visits gardens that provide food. But if someone tries to lock the kitty up, it will surely run away. When the kitty's in a good mood, however, it can bring back some tasty stuff as thanks. Know what I mean, Doctor? Be sure to make Rhodes Island a garden that everyone likes.",
+                "jp": "ネコってご馳走のあるお庭があれば遊びに行くけど、ロープで引き止めようとすると逃げ出しちゃうんだ。もちろん、機嫌が良い時は感謝の印にお土産も持ってきてくれるよ。これで分かったかなぁ？ドクター、ロドスをみんなから愛されるお庭にしなきゃってことだよぉ。",
+                "kr": "고양이는 먹이가 있는 정원이라면 자유롭게 드나들지만, 만약 목줄을 채워 묶어두려고 한다면 달아나고 말 거야. 물론 고양이도 기분이 좋으면 선물을 가져올지도 모르지만~ 이해했어, 박사? 로도스 아일랜드를 꼭 모두가 좋아할 만한 아름다운 정원으로 만들어줘.",
                 "cn": "猫猫会光顾有食物的花园，但如果想要用绳索留下猫猫，它就一定会逃走。当然，猫猫心情好的时候，也是会带回一些东西来报答的。明白了吗？博士，一定要让罗德岛成为大家都喜欢的花园哦。"
             },
             "asset": "char_141_nights/CN_044"

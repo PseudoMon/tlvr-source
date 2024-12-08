@@ -115,7 +115,7 @@
             "text": {
                 "en": "Wha?! It's pouring outside? I-I don't... believe it has anything to do with my outdoor concert! Now get aside if you hear me 'cause I'm setting off right NOW! I won't let this sprinkle dampen my passion by one bit!",
                 "jp": "えっ！？土砂降りってホント？今日の野外ライブはどうしてもやりたいのに……いや、止めないで！このくらいの雨で、あたしのギターにかける情熱は消えないわ！",
-                "kr": "에?! 폭우가 온다고? 진짜?! 오늘 야외 라이브는 어떻게든 가고 싶었는데…… 아냐, 날 막지 마! 이 정도 비로, 기타에 대한 내 열정은 사라지지 않는다고!",
+                "kr": "뭐?! 폭우가 온다고? 진짜?! 오늘 야외 콘서트는 절대 취소되면 안 된다고…… 아니야, 날 막지 마! 이 정도 비로, 기타에 대한 내 열정은 사라지지 않는다고!",
                 "cn": "欸？你说外面在下暴雨？不行，今天的露天音乐会绝不能取消......别拦着我，让我出门啦！区区一场暴风雨，怎么可能熄灭我对吉他的热情！"
             },
             "asset": "char_290_vigna/CN_007"
@@ -131,7 +131,7 @@
             "text": {
                 "en": "You got an important mission you want me to handle? Hehee, you can count on me! Let's see here... 'You are to acquire the following products for Rhodes Island during a time-limited mega-sale...?' Th-that's impossible!",
                 "jp": "あたしが頼りになると踏んで重要な役目を任せたい？へへーん、何でも任せて！えーっと……ロドスで行われるタイムセールで以下の商品を購入せよ……？む、無理よこんなの！",
-                "kr": "내가 믿음직스럽다고 생각해서 중요한 역할을 맡기겠다? 헤헤…… 뭐든지 맡겨달라구! 그럼…… 로도스 아일랜드에서 실시하는 타임 세일에서, 아래의 상품을 구입하여 주세요……? 저, 절대 못 해 이런 건!",
+                "kr": "내가 믿음직스럽다고 생각해서 중요한 임무를 맡기겠다고? 헤헤, 그럼 어디 한 번 볼까! ……로도스 아일랜드에서 실시하는 타임 세일에서, 아래의 인기 상품을 구입하여 주세요……? 뭐, 뭐야, 엄청 어렵잖아!",
                 "cn": "鉴于我足够可靠，所以有重要的任务托付给我？嗯哼哼，就让我来看看！嗯......在罗德岛限时大促销里，抢购以下热门商品......呃，超、超难的？！"
             },
             "asset": "char_290_vigna/CN_008"
@@ -561,9 +561,9 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "博士！新年快乐！怎么样，你也很期待今年的新年演唱会对不对？偷偷告诉你，结尾可是有我的吉他独奏哦！罗德岛上会乐器的干员越来越多了，以后这里的音乐会也可以像汐斯塔音乐节那样热闹吧！",
-                "jp": "博士！新年快乐！怎么样，你也很期待今年的新年演唱会对不对？偷偷告诉你，结尾可是有我的吉他独奏哦！罗德岛上会乐器的干员越来越多了，以后这里的音乐会也可以像汐斯塔音乐节那样热闹吧！",
-                "kr": "博士！新年快乐！怎么样，你也很期待今年的新年演唱会对不对？偷偷告诉你，结尾可是有我的吉他独奏哦！罗德岛上会乐器的干员越来越多了，以后这里的音乐会也可以像汐斯塔音乐节那样热闹吧！",
+                "en": "Happy new year, Doctor! I can see you're hyped for the new year concert tonight just like me! Here's an inside scoop for you: my guitar solo will close the concert at its climax! Hehe! Now that we have more and more operators with talents for music on Rhodes Island, who can say our futrure concert won't be a hit like that Obsidian Festival in Siesta!",
+                "jp": "ドクター！ハッピーニューイヤー！どうよ、ドクターもニューイヤーコンサートが楽しみなんじゃないの？ここだけの話、最後にあたしのギターソロがあるんだよ！ロドスにも楽器ができる人がどんどん増えてきたし、これからのコンサートはきっとシエスタのフェスみたいにぶち上がるよね！",
+                "kr": "박사! 새해 복 많이 받아! 박사도 올해의 새해맞이 공연 엄청 기대되지? 이건 박사한테만 몰래 알려 주는 건데, 공연 마지막에 내 기타 독주도 있을 예정이야! 로도스 아일랜드에 악기를 다룰 줄 아는 오퍼레이터들이 점점 많아지고 있어서 좋다. 나중엔 로도스 아일랜드의 콘서트도 시에스타 뮤직 페스티벌만큼 시끌벅적해질 거야!",
                 "cn": "博士！新年快乐！怎么样，你也很期待今年的新年演唱会对不对？偷偷告诉你，结尾可是有我的吉他独奏哦！罗德岛上会乐器的干员越来越多了，以后这里的音乐会也可以像汐斯塔音乐节那样热闹吧！"
             },
             "asset": "char_290_vigna/CN_038"
@@ -593,9 +593,9 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "在罗德岛的生活就像摇滚乐一样。偶尔有低沉的鼓点，但旋律永远是令人心潮澎湃的！就让我用这把吉他把糟糕的事情扫荡一空吧！啊，我是说用音乐啦，不是直接用吉他砸......",
-                "jp": "在罗德岛的生活就像摇滚乐一样。偶尔有低沉的鼓点，但旋律永远是令人心潮澎湃的！就让我用这把吉他把糟糕的事情扫荡一空吧！啊，我是说用音乐啦，不是直接用吉他砸......",
-                "kr": "在罗德岛的生活就像摇滚乐一样。偶尔有低沉的鼓点，但旋律永远是令人心潮澎湃的！就让我用这把吉他把糟糕的事情扫荡一空吧！啊，我是说用音乐啦，不是直接用吉他砸......",
+                "en": "Life at Rhodes Island is like a piece of rock music. Surely there're low drum beats that keep us in suspense here and there, but the theme always catches us with our blood seething and souls resonating. Which kinda reminds me, that it's high time for me to wipe all the craps out with this guitar!... Er, I mean a more creative, musical way, not really wiping the board with it...",
+                "jp": "ロドスでの生活はロックと同じ。渋いバスドラが続いたりもするけど、メロディはいつも心を熱くしてくれるんだ！あたしのギターで、嫌なことぜーんぶ消してあげるから任せてよね！あ、演奏でってことだよ。直接ぶん殴るわけじゃないから……",
+                "kr": "로도스 아일랜드에서의 생활은 마치 록 음악 같달까? 가끔은 무겁고 낮은 드럼 소리를 내기도 하지만, 멜로디는 언제나 듣는 사람의 마음을 끓어오르게 만들어! 앞으로 성가신 일들은 내가 이 기타로 전부 쓸어버릴게! 아, 내 말은 음악으로 말이야…… 기타로 다 때려 부수겠다는 의미가 아니라……",
                 "cn": "在罗德岛的生活就像摇滚乐一样。偶尔有低沉的鼓点，但旋律永远是令人心潮澎湃的！就让我用这把吉他把糟糕的事情扫荡一空吧！啊，我是说用音乐啦，不是直接用吉他砸......"
             },
             "asset": "char_290_vigna/CN_044"

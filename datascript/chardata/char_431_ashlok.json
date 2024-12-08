@@ -561,9 +561,9 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "索娜应该还在睡觉，艾沃娜在训练场，查丝汀娜在塔楼望风，至于我......我还没想好。博士，如果是普通的罗德岛干员，在这一天会做些什么呢？",
-                "jp": "索娜应该还在睡觉，艾沃娜在训练场，查丝汀娜在塔楼望风，至于我......我还没想好。博士，如果是普通的罗德岛干员，在这一天会做些什么呢？",
-                "kr": "索娜应该还在睡觉，艾沃娜在训练场，查丝汀娜在塔楼望风，至于我......我还没想好。博士，如果是普通的罗德岛干员，在这一天会做些什么呢？",
+                "en": "Sona should still be asleep, Iwona's at the training grounds, and Justyna's standing guard up on the watchtower. As for me... I haven't figured it out yet. Doctor, what would a normal Rhodes Island operator do on this day?",
+                "jp": "ソーナはたぶんまだ寝ているでしょうし、イヴォナは訓練場、ユスティナは甲板の高いところで見張りをしていると思いますが、私は……まだ何をするか決めていません。ドクター、ロドスの普通のオペレーターなら、この日に何をするものなんでしょうか？",
+                "kr": "소나는 아마 아직 자고 있을 거고, 이보나는 훈련장에, 저스티나는 탑에서 망을 보고 있어요. 저는…… 아직 뭘 해야 할지 모르겠네요. 박사님, 로도스 아일랜드의 다른 오퍼레이터들은, 오늘 같은 날에 어떤 일을 할까요?",
                 "cn": "索娜应该还在睡觉，艾沃娜在训练场，查丝汀娜在塔楼望风，至于我......我还没想好。博士，如果是普通的罗德岛干员，在这一天会做些什么呢？"
             },
             "asset": "char_431_ashlok/CN_038"
@@ -593,9 +593,9 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "我原本以为在卡西米尔之外就能找到拯救感染者的方法，但其他国家......或许存在着更加复杂的问题，这些情况不离开卡西米尔还真是无法了解。我准备好面对他们了，安排任务吧，博士。",
-                "jp": "我原本以为在卡西米尔之外就能找到拯救感染者的方法，但其他国家......或许存在着更加复杂的问题，这些情况不离开卡西米尔还真是无法了解。我准备好面对他们了，安排任务吧，博士。",
-                "kr": "我原本以为在卡西米尔之外就能找到拯救感染者的方法，但其他国家......或许存在着更加复杂的问题，这些情况不离开卡西米尔还真是无法了解。我准备好面对他们了，安排任务吧，博士。",
+                "en": "I used to believe that, in looking for a better way to help the infected, we need to cast our sights beyond the border of Kazimierz, but the situation there turns out to be... even more complicated. And we won't get to the bottom of it unless we learn firsthand ourselves. Still, I'm ready to face all of it. Send me out on missions, Doctor.",
+                "jp": "カジミエーシュを出れば、感染者を救う方法が見つかると思っていましたが、実際のところ……ほかの国にはもっと深刻な問題があるのかもしれません。こうした状況は、国を離れなければ絶対に知り得なかった現実です。私はもう、彼らと向き合う準備ができました。ドクター、どうぞ任務につけてください。",
+                "kr": "카시미어가 아닌 다른 곳이라면 감염자를 구할 방법을 찾을 수 있을 거라고 생각했습니다만, 다른 나라에는…… 더 복잡한 문제가 존재하는 것 같았어요. 이런 상황은 카시미어를 떠나기 전에는 알 수 없던 것들이었죠. 이제 저는 이런 문제에 맞설 준비가 되었어요. 박사님, 임무를 내려 주세요.",
                 "cn": "我原本以为在卡西米尔之外就能找到拯救感染者的方法，但其他国家......或许存在着更加复杂的问题，这些情况不离开卡西米尔还真是无法了解。我准备好面对他们了，安排任务吧，博士。"
             },
             "asset": "char_431_ashlok/CN_044"
@@ -603,8 +603,8 @@
     ],
     "actors": {
         "en": {
-            "native": "Diana Bermudez",
-            "global": "Diana Bermudez"
+            "native": "Díana Bermudez",
+            "global": "Díana Bermudez"
         },
         "cn": {
             "native": "龟娘",

@@ -497,9 +497,9 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "新年的时候，医疗部反而更加忙碌呢。有人放烟花时受了伤，有人是吃坏了肚子......想要享受节日的心情可以理解，但也一定要注意安全啊。博士，新年快乐。祝您今年不用到医疗部看病哦。",
-                "jp": "新年的时候，医疗部反而更加忙碌呢。有人放烟花时受了伤，有人是吃坏了肚子......想要享受节日的心情可以理解，但也一定要注意安全啊。博士，新年快乐。祝您今年不用到医疗部看病哦。",
-                "kr": "新年的时候，医疗部反而更加忙碌呢。有人放烟花时受了伤，有人是吃坏了肚子......想要享受节日的心情可以理解，但也一定要注意安全啊。博士，新年快乐。祝您今年不用到医疗部看病哦。",
+                "en": "The Medical Department actually gets <i>busier</i> around New Year's. People hurt themselves setting off fireworks or gorging on food... I get wanting to indulge in the holiday spirit, but you need to keep yourselves safe too. You know how to take care of yourself, Doctor, don't you? Very well. With that, I wish you happy new year. May you spend the year without that kind of visit to Medical.",
+                "jp": "年明けは、医療部にとっては特別忙しい時期なんです。花火で怪我する人がいたり、お腹を壊す人がいたり……新年のお祝いを楽しむ気持ちは理解できますけど、安全には注意しないといけませんよね。ドクター、明けましておめでとうございます。今年はあなたが、医療部に通わずに済みますように。",
+                "kr": "새해가 되면 의료부는 오히려 바빠져요. 폭죽 때문에 다치는 분도 계시고, 음식 때문에 배탈이 나는 분도 계시고…… 축제를 즐기고 싶은 마음도 이해하지만, 모두가 안전을 제일로 여겨주셨으면 좋겠어요. 새해 복 많이 받으세요, 박사님. 올해 의료부에서 박사님을 치료해 드릴 일이 없기를 바랄게요.",
                 "cn": "新年的时候，医疗部反而更加忙碌呢。有人放烟花时受了伤，有人是吃坏了肚子......想要享受节日的心情可以理解，但也一定要注意安全啊。博士，新年快乐。祝您今年不用到医疗部看病哦。"
             },
             "asset": "char_212_ansel/CN_038"
@@ -529,9 +529,9 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "虽然最初来到罗德岛，是因为只有这里通过了我的简历，现在看来更像是一种缘分呢。A4小队的大家都在成长，我也不能落下。博士，体检报告显示，过去一年里，我的身体健康了很多哦。",
-                "jp": "虽然最初来到罗德岛，是因为只有这里通过了我的简历，现在看来更像是一种缘分呢。A4小队的大家都在成长，我也不能落下。博士，体检报告显示，过去一年里，我的身体健康了很多哦。",
-                "kr": "虽然最初来到罗德岛，是因为只有这里通过了我的简历，现在看来更像是一种缘分呢。A4小队的大家都在成长，我也不能落下。博士，体检报告显示，过去一年里，我的身体健康了很多哦。",
+                "en": "I only came to Rhodes Island at first because no other place would accept my resume. It seems more like a kind of destiny now. All of A4 are maturing, and I can't fall behind, Doctor. The good news is, test results show my health condition has gotten a lot better over the last year.",
+                "jp": "私がロドスに来たのは、ここしか採用してくれなかったからですが、今になってみると、これも一種の縁ですよね。A4はみんな成長しているので、私も負けてはいられません。ドクター、健診の結果によると、この一年で私もずいぶんと健康になりましたよ。",
+                "kr": "로도스 아일랜드에 오게 된 건 사실 제 이력서를 받아 준 곳이 이곳뿐이었기 때문이에요. 근데 지금 와서 생각해보면 이것도 인연이었네요. 예비 작전팀 A4의 모두는 지금도 꾸준히 성장하고 있고, 저도 뒤처질 수는 없죠. 박사님, 저 건강 검진 결과를 확인해봤는데요, 지난 일 년 동안 많이 건강해졌더라고요!",
                 "cn": "虽然最初来到罗德岛，是因为只有这里通过了我的简历，现在看来更像是一种缘分呢。A4小队的大家都在成长，我也不能落下。博士，体检报告显示，过去一年里，我的身体健康了很多哦。"
             },
             "asset": "char_212_ansel/CN_044"

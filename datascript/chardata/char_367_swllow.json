@@ -561,8 +561,8 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "新年快乐，Dr.{@nickname}。阿米娅在哪里？和大家一起准备晚会？那我在这里等就好。煌在找我？难道她已经看到我放她桌子上的礼物了？我、我怕她又说什么肉麻话，我先走了。",
-                "jp": "新年快乐，Dr.{@nickname}。阿米娅在哪里？和大家一起准备晚会？那我在这里等就好。煌在找我？难道她已经看到我放她桌子上的礼物了？我、我怕她又说什么肉麻话，我先走了。",
+                "en": "Happy New Year, Dr.{@nickname}. Where's Amiya? She's setting up the party tonight with the others? Then I'll just wait here. Blaze is looking for me? Did she already see the gift I left on her desk? I—I'm worried she's going to say something cheesy again. I'm leaving.",
+                "jp": "あけましておめでとう。アーミヤを見てない？みんなと新年会の準備してるの？ならここで待ってる。えっ、ブレイズが私を探してた？まさか、もう机に置いたプレゼントを見つけたの？ど、どうせまた大げさなことを言われるし、先に帰るね。",
                 "kr": "새해 복 많이 받아, {@nickname} 박사. 아미야 못 봤어? 다 같이 신년회를 준비하고 있다고? 알겠어, 그럼 여기서 기다리면 되겠다. 뭐? 블레이즈가 날 찾고 있다고? 설마 책상에 올려둔 선물을 벌써 본 건 아니겠지? 호들갑 떨게 분명한데…… 안 되겠다, 먼저 가볼게.",
                 "cn": "新年快乐，Dr.{@nickname}。阿米娅在哪里？和大家一起准备晚会？那我在这里等就好。煌在找我？难道她已经看到我放她桌子上的礼物了？我、我怕她又说什么肉麻话，我先走了。"
             },
@@ -593,8 +593,8 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "要做的事还有很多，对吧？煌能理解我是因为我们一同作战过，但不是任何有分歧的两个人、两个团体都能有这样的机会。我很幸运......所以我也要承担更多，直到，我们都能安眠的那一天。",
-                "jp": "要做的事还有很多，对吧？煌能理解我是因为我们一同作战过，但不是任何有分歧的两个人、两个团体都能有这样的机会。我很幸运......所以我也要承担更多，直到，我们都能安眠的那一天。",
+                "en": "You still have a lot to do, don't you? Blaze understands me because we fight together, but it's not as if any two people, or groups, who disagree will have a similar chance. I'm very lucky... which is why I need to be more responsible—until the day when we can all sleep soundly.",
+                "jp": "やるべきことは、まだたくさんあるんでしょ？ブレイズが私を理解できるのは、一緒に戦ったことがあるから。でも意見の合わない二人、二つの団体が、みんなそういうふうに恵まれているとは限らない。私は幸運だったと思う……だからロドスのみんなが安心して眠れる日が来るまで、私ももっと多くを背負わないと。",
                 "kr": "해야 할 일이 아직 많이 남아 있지? 블레이즈가 날 이해하는 건 우리가 함께 등을 맞대고 싸운 적이 있기 때문이야. 하지만 가치관이 다른 두 단체, 두 사람이 이런 기회를 가지는 건 매우 드문 일이지. 난 운이 좋았어…… 그러니까 난 로도스 아일랜드의 모두가 안심하고 잘 수 있는 날이 올 때까지 더 많은 것을 짊어질 거야.",
                 "cn": "要做的事还有很多，对吧？煌能理解我是因为我们一同作战过，但不是任何有分歧的两个人、两个团体都能有这样的机会。我很幸运......所以我也要承担更多，直到，我们都能安眠的那一天。"
             },
@@ -613,11 +613,16 @@
         "jp": {
             "native": "福圓美里",
             "global": "Misato Fukuen"
+        },
+        "kr": {
+            "native": "민아",
+            "global": "Min Ah"
         }
     },
     "availability": [
         "en",
         "cn",
-        "jp"
+        "jp",
+        "kr"
     ]
 }

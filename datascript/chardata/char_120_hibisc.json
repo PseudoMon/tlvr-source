@@ -497,9 +497,9 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "博士，新的健康日程表！放心啦放心啦，今天面对这样一桌美味的大餐，我特别准许博士可以吃——一口油炸食物！最多啦！",
-                "jp": "博士，新的健康日程表！放心啦放心啦，今天面对这样一桌美味的大餐，我特别准许博士可以吃——一口油炸食物！最多啦！",
-                "kr": "博士，新的健康日程表！放心啦放心啦，今天面对这样一桌美味的大餐，我特别准许博士可以吃——一口油炸食物！最多啦！",
+                "en": "Here, Doctor, your new customized healthy daily schedule! Relax, given this full table of gourmet food we have here, I will make an exception today. I will allow you — one bite of fries! That'll be my most generous offer!",
+                "jp": "ドクター、新しい健康管理表ですよ！大丈夫です、安心してください。今日はこんなにごちそうが並んでいるんですし、特別に許可しますよ――揚げ物を一口！一口だけですからね！",
+                "kr": "박사님, 새로운 건강 스케줄입니다! 걱정하실 필요 없어요. 오늘은 이렇게 맛있는 요리로 한 상 가득 차렸으니, 제가 특별히…… 튀김 한 입 정도는 허락할게요! 더 이상은 안 돼요!",
                 "cn": "博士，新的健康日程表！放心啦放心啦，今天面对这样一桌美味的大餐，我特别准许博士可以吃——一口油炸食物！最多啦！"
             },
             "asset": "char_120_hibisc/CN_038"
@@ -529,9 +529,9 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "原来今天有庆典啊，我忙得都忘了......不过，只要还有一个伤员，医生就不会休息。何况我还要成为更厉害的医师，我继续去忙了！",
-                "jp": "原来今天有庆典啊，我忙得都忘了......不过，只要还有一个伤员，医生就不会休息。何况我还要成为更厉害的医师，我继续去忙了！",
-                "kr": "原来今天有庆典啊，我忙得都忘了......不过，只要还有一个伤员，医生就不会休息。何况我还要成为更厉害的医师，我继续去忙了！",
+                "en": "They had a celebration today? I was so occupied that I hardly noticed… Doesn't matter, as long as there are wounded looking for treatment, my job's not finished. Not to mention the goal I set for myself to become a better medic. See you then, Doctor, for I still got works to tend to!",
+                "jp": "今日は記念日だったんですね。私ったら忙しくってすっかり忘れてしまいました……でも、患者が一人でもいる限り、医師に休みはありません。それに私は、今よりもっとすごいお医者さんにならなきゃいけませんから。では仕事に戻りますね！",
+                "kr": "오늘 축제가 있었군요. 바빠서 깜빡했네요…… 하지만 단 한 명의 환자라도 있다면, 의사에게 휴식은 없답니다. 게다가 저는 더욱 뛰어난 의사가 되고 싶은걸요. 그러니 저는 계속 일하러 가볼게요!",
                 "cn": "原来今天有庆典啊，我忙得都忘了......不过，只要还有一个伤员，医生就不会休息。何况我还要成为更厉害的医师，我继续去忙了！"
             },
             "asset": "char_120_hibisc/CN_044"

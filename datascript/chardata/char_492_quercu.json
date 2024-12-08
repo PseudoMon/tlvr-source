@@ -561,9 +561,9 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "新年快乐博士！浆果果脯、风味沙虫罐头，还有玫瑰馅的鲜花饼，都是我从维多利亚带来的特产，Dr.{@nickname}挑一挑自己喜欢的？我自酿的水果酒也发酵好了，想尝可要早点来，不然很快就会被分光的！",
-                "jp": "新年快乐博士！浆果果脯、风味沙虫罐头，还有玫瑰馅的鲜花饼，都是我从维多利亚带来的特产，Dr.{@nickname}挑一挑自己喜欢的？我自酿的水果酒也发酵好了，想尝可要早点来，不然很快就会被分光的！",
-                "kr": "新年快乐博士！浆果果脯、风味沙虫罐头，还有玫瑰馅的鲜花饼，都是我从维多利亚带来的特产，Dr.{@nickname}挑一挑自己喜欢的？我自酿的水果酒也发酵好了，想尝可要早点来，不然很快就会被分光的！",
+                "en": "Happy New Year, Doctor! I've brought candied berries, canned home-style sandworms, and some rose-filled flower biscuits, all specialties from Victoria. Pick out what takes your fancy, Dr.{@nickname}? My homebrewed fruit wine's done fermenting too, so you'll want to taste as soon as you can, or else your share will be gone before you know it!",
+                "jp": "ハッピーニューイヤー、ドクター！ドライベリーに砂虫の缶詰、それからバラのフラワーパイ――全部私がヴィクトリアから持って来たご当地土産だから、Dr.{@nickname}も好きなの選んでよ。自家製のフルーツ酒もバッチリ醸（かも）せたから、飲みたいなら早くしないとなくなっちゃうよ！",
+                "kr": "새해 복 많이 받아, 박사! 과일 설탕 절임이랑 갯지렁이 통조림, 그리고 장미꽃을 넣은 파이까지 전부 빅토리아에서 가져온 특산품인데, {@nickname} 박사도 좋아하는 거 있나 한번 봐봐! 내가 직접 담근 과일주도 마침 발효됐으니까 마시고 싶으면 얼른 오고. 늦으면 금방 동날걸!",
                 "cn": "新年快乐博士！浆果果脯、风味沙虫罐头，还有玫瑰馅的鲜花饼，都是我从维多利亚带来的特产，Dr.{@nickname}挑一挑自己喜欢的？我自酿的水果酒也发酵好了，想尝可要早点来，不然很快就会被分光的！"
             },
             "asset": "char_492_quercu/CN_038"
@@ -593,9 +593,9 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "新芽从土里冒出，藤蔓也会开出稚嫩的小花，已经长成的枝桠则会庇护在它们周围，遮挡住风雨。不论是在罗德岛，还是在我的老家，我都希望能成为这样的人——和枝桠一样，庇护年轻的孩子们。",
-                "jp": "新芽从土里冒出，藤蔓也会开出稚嫩的小花，已经长成的枝桠则会庇护在它们周围，遮挡住风雨。不论是在罗德岛，还是在我的老家，我都希望能成为这样的人——和枝桠一样，庇护年轻的孩子们。",
-                "kr": "新芽从土里冒出，藤蔓也会开出稚嫩的小花，已经长成的枝桠则会庇护在它们周围，遮挡住风雨。不论是在罗德岛，还是在我的老家，我都希望能成为这样的人——和枝桠一样，庇护年轻的孩子们。",
+                "en": "New buds break through the soil, and tender flowers blossom from vines, while those branches that have grown shelter and surround them, protecting them from the elements. Whether Rhodes Island, or back home, that is always what I hope to be—like the branches, a shelter for the young children.",
+                "jp": "新しい芽が土から頭を出し、ツルには初々しい小さな花がほころぶ。成長した枝はそれらを囲い込んで、雨風から守っていく。ロドスでも、故郷でも、私はそんな人になりたいんだ――枝みたいに、若い芽や花たちを守っていける存在に。",
+                "kr": "새싹은 흙 속에서 고개를 내밀고, 덩굴 또한 여린 꽃을 피워내지. 다 자란 가지는 어린 꽃과 새싹의 곁을 지키며 비바람을 막아 주는 거야. 로도스 아일랜드에서든 내 고향에서든, 나는 그런 사람이 되고 싶어…… 가지처럼, 어린아이들을 지켜 낼 수 있는 그런 사람.",
                 "cn": "新芽从土里冒出，藤蔓也会开出稚嫩的小花，已经长成的枝桠则会庇护在它们周围，遮挡住风雨。不论是在罗德岛，还是在我的老家，我都希望能成为这样的人——和枝桠一样，庇护年轻的孩子们。"
             },
             "asset": "char_492_quercu/CN_044"

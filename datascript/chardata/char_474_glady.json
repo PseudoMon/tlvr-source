@@ -17,7 +17,7 @@
                 "cn": "任命助理"
             },
             "text": {
-                "en": "Please leave for the moment. I will not permit any disturbance as I work. I appreciate your understanding.",
+                "en": "Please leave for now. Any disruption during my work hours is not permitted. Should there be any offense, I appreciate your understanding.",
                 "jp": "しばらくここを離れてくださいませ。私の勤務を妨げる行為は、どのようなものであれ許されませんわ。悪しからずご承知おきを。",
                 "kr": "당분간 여기를 떠나 계십시오. 제 근무를 방해하는 행위는 어떠한 것이라도 용납할 수 없습니다. 나쁘게 생각하지 마시고 이해해 주시길.",
                 "cn": "请暂且离开这里。任何打扰我现下工作的行为都是不被许可的，如有冒犯，还请您谅解。"
@@ -33,7 +33,7 @@
                 "cn": "交谈1"
             },
             "text": {
-                "en": "I wish to avoid unnecessary headaches. On that point, we stand together. Given your rich experience, I am certain you are already well aware, but even when it is not their intention to do so, humans tend to lead themselves to their destruction. That said, until the time the others are fully prepared, it doesn't matter how much you rack your brains about the sea. It's all but futile.",
+                "en": "To stop people from conducting foolish and meaningless deeds... At least you and I have that goal in common. Given your rich experience, I am certain you are well aware of how fervently most humans court their own destruction. That said, until the time the others are fully prepared, it would be all futile, no matter how much you rack your brains about the sea.",
                 "jp": "愚かで無意味な問題の発生は防ぎたい――少なくともこの一点においては私たち意見を同じくしていますわよね。ドクターのように経験豊富な方ならお分かりでしょうが、多くの人間はそのつもりがなくとも破滅的な行動を取りがちですの。とはいえ海のことに関しては、他の者たちが準備を整えるまで、ドクターがどれほど思案したところで、無意味ですけれど。",
                 "kr": "어리석고 무의미한 문제의 발생은 막고 싶다…… 적어도 이 점에 대해서는 우리의 의견이 같군요. 박사님처럼 경험이 풍부한 분이라면 아시겠지만, 대부분의 인간은 그럴 생각이 없더라도 파멸적인 행동을 취하기 십상입니다. 하지만 바다에 관해서는 다른 자들이 준비를 끝내기 전까지, 박사님이 아무리 고심하셔도 무의미하지만요.",
                 "cn": "我们至少有一个目的是相同的：阻止此处一些无谓蠢事的发生。经验丰富如您一定清楚，大多数人总是热衷于自取灭亡。至于海里的事情，在其他人做好准备之前，您怎么殚精竭虑也只是白费力气。"
@@ -49,7 +49,7 @@
                 "cn": "交谈2"
             },
             "text": {
-                "en": "Could you let your operators know to never touch my body or my weapons after combat? It would make me feel bad if anyone complained about any burns.",
+                "en": "Please inform your operators to avoid any physical contact with me or my weapon after a battle. Intense excrise raises my surface temperature. If someone were to complain about being scalded, I would hate to feel guilty.",
                 "jp": "オペレーターの方々に、戦闘終了後の私の体や武器に触れないよう伝えてくださる？私が火傷させたとでも訴えられたらたまりませんもの。",
                 "kr": "오퍼레이터분들에게 전투가 끝난 후 제 몸과 무기를 만지지 말라고 전해 주시겠어요? 저한테 데었다고 하소연하는 건 듣기 싫어서 말이죠.",
                 "cn": "请叮嘱您的干员，战斗结束后不要与我和我的武器有肢体上的接触。如果有人投诉称被运动过后的我烫伤了，我会感到些许的过意不去。"
@@ -65,7 +65,7 @@
                 "cn": "交谈3"
             },
             "text": {
-                "en": "I sound a little too polite...? I'm not yet familiar with the language used on the land. Besides... and this is my only my own opinion, you wouldn't want to see me impolite, would you?",
+                "en": "The language I use is overly polite...? Hm, I'm still getting acquainted with the language used on the land. But, besides, in my humble opinion, it would not be in your best interest to see me being impolite.",
                 "jp": "私の話し方が他人行儀すぎると？陸地の言語にはまだ不慣れですのよ。それに、個人的な見解ですけれど、ドクターは無礼な私など見たくないでしょう？",
                 "kr": "제 말투가 지나치게 쌀쌀맞다고요? 육지의 언어에는 아직 익숙하지 않아서 말이죠. 게다가 개인적인 견해지만, 박사님도 제가 무례하게 구는 꼴을 보고 싶어 하진 않으실 거 아니에요.",
                 "cn": "我说话太礼貌了？我对陆地上的语言还不太熟悉。并且，我个人的拙见是，您是不会希望见到我不太礼貌的样子的。"
@@ -81,7 +81,7 @@
                 "cn": "晋升后交谈1"
             },
             "text": {
-                "en": "As Abyssal Hunters, we must fulfill our responsibilities. To abandon the sacrifices of the past would be an unforgivable act of betrayal. That being said, how many Hunters can I still save other than Specter and Skadi? Even if I save another Hunter who survived, the fear may have crushed them whole long ago. It would only be dragging out their agony.",
+                "en": "As Abyssal Hunters, we must fulfill our responsibilities. To abandon the sacrifices of the past would be an unforgivable act of betrayal.  That being said, how many Hunters can I still save other than Specter and Skadi? Even if I were to rescue another Hunter who survived by sheer luck, the fear may have crushed them whole long ago. Their future will be fraught with nothing but agony.",
                 "jp": "アビサルは己の職責を全うしなければなりませんわ。過去の犠牲を蔑ろにするような振る舞いは、明確な裏切りにあたります。とはいえ、スペクターにスカジに、私はあと何人救い出せるでしょうね。たとえ生き残りを救い出せたとしても、とうに恐怖に押しつぶされていて、苦悶の時を引き延ばすだけかもしれません。",
                 "kr": "어비설 헌터스는 자신의 직책을 다해야만 합니다. 과거의 희생을 무시하는 태도는 명백한 배신에 해당되죠. 그렇지만 스펙터에 스카디까지, 저는 앞으로 몇 명을 더 구할 수 있을까요? 설령 생존자를 구했다고 하더라도 이미 공포에 잠식당해, 괴로운 시간을 늘리는 것뿐일지도 모르죠.",
                 "cn": "猎人必须履行职责，背弃曾经的牺牲是无可赦免的叛逃行为。只是，幽灵鲨，斯卡蒂，我还能救回几个猎人？哪怕我还能救下一个侥幸存活的深海猎人，他也可能早已被恐惧击溃，未来只会愈发煎熬。"
@@ -97,7 +97,7 @@
                 "cn": "晋升后交谈2"
             },
             "text": {
-                "en": "Do you like to sing? What about dancing? How about a dance with me, then? It doesn't matter if you don't know the steps. I will teach you. Songs, art, music... You must never forget these things. These expressions are proof that all those who stand beneath that sky full of stars once lived. That's how they take form and live on. Come, let's dance.",
+                "en": "Do you like to sing? What about dancing? Would you like to dance with me? It doesn't matter if you don't know the steps. I will teach you. Poetry, art, music... You must never forget these things. They are proof that all humans once lived beneath the starry night sky. Through these arts, and upheld by us, humans become eternal. Come, let's dance.",
                 "jp": "あなた、歌は好き？踊りは？私と一曲どうかしら。ステップが分からなくても問題ないわ、私が教えてあげる。詩に、絵に、音楽……そういったものを忘れてしまってはだめよ。表現は全ての人がこの星空の下で生きた証なのだから。人々の意思はそうして形を変えて生き続けるの。さあ、踊りましょう。",
                 "kr": "당신, 노래는 좋아해? 춤은? 나와 한 곡 어때? 스텝을 몰라도 문제없어, 내가 가르쳐 줄게. 시, 그림, 음악…… 그런 걸 잊어서는 안 돼. 표현은 모든 사람이 이 별하늘 아래에서 살아온 증거니까. 사람들의 의지는 그렇게 형태를 바꿔서 살아가는 거야. 자, 춤추자.",
                 "cn": "你喜欢唱歌吗？跳舞呢？想和我跳支舞吗？不会也没关系，我能教你。诗歌，绘画，音乐......别抛弃它们。这是所有人在星空下活过的证明，他们由此在我们身上永生。来吧，我们跳支舞吧。"
@@ -113,7 +113,7 @@
                 "cn": "信赖提升后交谈1"
             },
             "text": {
-                "en": "Kal'tsit implored me to seek your help, but I don't completely trust you yet. Your technology is primitive compared to Ægir, and your mental state is even more problematic... Many of you are fearful and cowardly. I cannot begin to imagine you people taking on 'that.'",
+                "en": "Kal'tsit encouraged me to seek your help, though I still remain skeptical of its utility. The technology of land dwellers is primitive compared to that of Ægir, yet the average mental state is even more problematic. Fear and cowardice seem to pervade most of you. Honestly, I cannot imagine how you people would face 'that.'",
                 "jp": "ケルシーはドクターへ救いを求めなさいと言うけれど、私、まだ信じきれませんのよ。エーギルに比べれば、あなた方の科学技術は原始的ですし、精神的にも大いに問題が――怯懦な方が多すぎます。私にはあなた方が「アレ」と対峙する画が全く見えませんの。",
                 "kr": "켈시는 박사님께 도움을 요청하라고 하지만 저는 아직 완전히 믿을 수 없어서 말이죠. 에기르에 비하면 당신들의 과학 기술은 원시적인 데다, 정신적으로도 큰 문제가…… 나약한 분들이 너무 많죠. 제게는 당신들이 '그것'과 대치하는 모습이 전혀 그려지지 않네요.",
                 "cn": "凯尔希鼓励我向你们求援，对此我仍然心存怀疑。与阿戈尔人相比，你们的科技水平可以说是原始，你们的心智则有着更大的问题，易惧和懦弱是许多人的通病。我没法想象你们面对“它”的景象。"
@@ -129,7 +129,7 @@
                 "cn": "信赖提升后交谈2"
             },
             "text": {
-                "en": "The air here is dry. Fighting on land sometimes leaves me feeling dry. This is better than being surrounded by the dead bodies of my comrades, however... when the sea was filled to the brim with shreds of their bodies. Their deaths get etched onto your brain, and the stench of their rotting bodies will fill your mouth each and every time you open it. Even so, we must never hang our heads.",
+                "en": "The air here is dry. Fighting on land sometimes feels sweltering. Uncomfortable as it is, this is still better than being surrounded by the dead bodies of my comrades... I remember how the sea was littered with shreds of corpses. Their deaths etched onto your brain, and the stench lingers on your tongue whenever you open your mouth. Yet you cannot hang your head.",
                 "jp": "空気が乾いていますこと。陸地での戦闘は熱が上がりやすいですわ。まあ、僚友たちの遺体に囲まれるよりはましですけれど……海ではそこかしこにありましたから。彼らの死に様は脳裏に刻まれ、口を開けばその生臭さすらも味わえるのですわ。それでも私たちはこうべを垂れてはならなかったのです。",
                 "kr": "공기가 건조하군요. 육지에서의 전투는 열이 오르기 쉽죠. 뭐, 동료들의 시신에 둘러싸이는 것보다는 낫지만…… 바다에서는 여기저기에 있었으니까요. 그들의 죽음은 뇌리에 박혀 입을 열면 피비린내마저 느껴질 정도랍니다. 그래도 우리는 고개를 숙일 수 없었죠.",
                 "cn": "空气很干燥。在陆地上战斗有时会让我感到燥热。就算这样，也好过被同僚的尸体包围......海洋被尸体的碎片填满。他们的死状盘踞在你的脑海，你张嘴就会尝到他们的腥味。但你不能低头。"
@@ -145,7 +145,7 @@
                 "cn": "信赖提升后交谈3"
             },
             "text": {
-                "en": "We are not of the same race. Do you think we can form an alliance in spite of that? Kal'tsit is far older than me, and I cannot begin to imagine the burden she carries, but they are all things that you must face one day... You need to get stronger. You need to not fear loss. I will watch you by your side.",
+                "en": "Do you think we can form an alliance? We may not even be counted as the same species. Kal'tsit is far older than me. The burden she carries is beyond anyone's imagination, but it is also a burden you must face one day... You must get stronger, strong enough to fear no loss. I will watch you by your side.",
                 "jp": "私たちは同類ではないかもしれない。それでもあなたは私と同盟を結べると思うの？ケルシーは私よりずっと年上で、彼女の負担はおよそ想像の及ぶところじゃない。でもそれら全ては、いずれあなたが向き合わなきゃいけないものだから……強くなるのよ。失うことを恐れないほど、強くなりなさい。私はずっと側で見ているから。",
                 "kr": "우리는 동류가 아닐지도 몰라. 그래도 당신은 나와 동맹을 맺고 싶어? 켈시는 나보다 훨씬 나이가 많고, 그 여자의 부담은 상상도 못 할 정도지. 그래도 그 모든 것은 언젠가 당신이 마주해야 하는 것이니…… 강해지도록 해. 잃는 것을 두려워하지 않을 정도로 강해져. 내가 계속 곁에서 보고 있을 테니까.",
                 "cn": "你可能成为我的同盟吗？我们可能都不是同一种东西。凯尔希比我年长太多，她的负担也超乎任何人的想象，但这些以后你都得面对......你必须变强。你必须强大到不惧失去。我会看着你。"
@@ -209,7 +209,7 @@
                 "cn": "精英化晋升1"
             },
             "text": {
-                "en": "A new contract? I appreciate your recognition, but I already have many important missions assigned to me. It will be a while until I get to these new missions from you. I apologize for the inconvenience.",
+                "en": "A new contract? While I appreciate your recognition, I already have many important missions demanding my attention. The matters you assigned will have to wait. I apologize, for the inconvenience..",
                 "jp": "新しい契約ですの？認めていただけるのはありがたいのですけれど、私はすでに多くの重要任務にアサインされていますので、ドクターからの任務に就くのはだいぶ先になりますわ。ご不便をかけますわね。ごめんあそばせ。",
                 "kr": "새로운 계약인가요? 인정받는 것은 감사한 일이지만, 저는 이미 많은 중요 임무에 참여할 예정이기 때문에, 박사님의 임무에 착수하는 건 먼 미래가 될 거예요. 불편을 끼치게 되겠군요. 죄송합니다.",
                 "cn": "新的合同？十分感谢您的肯定，不过我已经有许多重要任务在身，您派发的任务我应该会依次向后顺延一些日子，如果这给您带来了不便，还请见谅。"
@@ -225,7 +225,7 @@
                 "cn": "精英化晋升2"
             },
             "text": {
-                "en": "War. The concept of victory doesn't exist in a war that revolves around the continuance of a race. The only conclusion it can lead to is the destruction of all other races under the night sky. We Abyssal Hunters put our lives on the line to fend off and delay this fate. Always, unrelenting, and without any regrets.",
+                "en": "War. The concept of victory doesn't exist in a war that revolves around the continuance of a species. The only conclusion it can lead to is the destruction of the opposing side under the night sky. We Abyssal Hunters put our lives on the line to fend off and delay this fate. Unwavering, unrelenting, and without any regrets.",
                 "jp": "戦争。種の生存に関わる争いは、勝利という概念など存在しない死闘ですわ。あるのは、この星空の下で他の種が全て滅亡するという結果だけ。アビサルはその日が来ることをできる限り遅らせるために命をかけて抗っているのですわ。常に、冷厳と、悔いもなく。",
                 "kr": "전쟁. 종의 생존과 얽힌 싸움은 승리라는 개념 따위가 존재하지 않는 사투죠. 존재하는 것은 이 별하늘 아래 다른 종이 모두 멸종한다는 결과뿐. 어비설 헌터스는 그날이 오는 걸 최대한 늦추기 위해 목숨을 걸고 저항하고 있답니다. 항상, 냉엄하게, 후회 없도록.",
                 "cn": "战争。事关生命延续的战争是场没有胜利的死战，战争唯一的结果是星空下其它种群的彻底消亡。猎人为推迟那末日的到来而殊死战斗，不悯，不休，不悔。"
@@ -241,7 +241,7 @@
                 "cn": "编入队伍"
             },
             "text": {
-                "en": "As your squadron's aide, I will participate in your trainings.",
+                "en": "I'll join this training as your squadron's aide.",
                 "jp": "ドクターの部隊補佐として訓練に参加しますわ。",
                 "kr": "박사님의 부대 보좌로서 훈련에 참가하도록 하죠.",
                 "cn": "我会作为您的小队辅佐者参与练习。"
@@ -257,7 +257,7 @@
                 "cn": "任命队长"
             },
             "text": {
-                "en": "It seems this won't be a difficult battle. Allow me to use this as an opportunity to train your operators' hunting abilities.",
+                "en": "This seems to be a low-intensity battle. Allow me to use it as hunting practice for your operators.",
                 "jp": "ハードな戦場ではなさそうですわね。これをオペレーターの狩猟訓練として行ってもよろしいかしら？",
                 "kr": "힘겨운 전장은 아닌 듯하군요. 이걸 오퍼레이터의 사냥 훈련으로 보고 임해도 될까요?",
                 "cn": "这些战斗的强度很低，请准许我将这当作是对干员的狩猎训练来处理。"
@@ -273,7 +273,7 @@
                 "cn": "行动出发"
             },
             "text": {
-                "en": "You are as slow as though you are bogged down in mud, but don't let it get to you. I will slow down and wait.",
+                "en": "You are slow like you're caught in an undertow. I will slow down and wait, try to catch up.",
                 "jp": "泥沼に引きずられるような進軍速度ですけれど、気になさらないで結構よ。私は待っててあげられますから。",
                 "kr": "수렁으로 끌려들어 가는 듯한 진군 속도지만 신경 쓰지 않아도 되겠습니다. 저는 기다릴 수 있으니까요.",
                 "cn": "不用太在意自己深陷泥泞般的速度，我可以放慢脚步等你们。"
@@ -305,7 +305,7 @@
                 "cn": "选中干员1"
             },
             "text": {
-                "en": "Please, go ahead.",
+                "en": "Speak your mind.",
                 "jp": "どうぞ続けて。",
                 "kr": "하던 말씀마저 하시죠.",
                 "cn": "请说。"
@@ -353,7 +353,7 @@
                 "cn": "部署2"
             },
             "text": {
-                "en": "I'll take care of it right away.",
+                "en": "I'll manage them right away.",
                 "jp": "すぐに解決致しますわ。",
                 "kr": "바로 해결해 드리죠.",
                 "cn": "立刻解决。"
@@ -369,7 +369,7 @@
                 "cn": "作战中1"
             },
             "text": {
-                "en": "Be careful. The currents here will swallow the weak whole.",
+                "en": "Watch out. The currents will pull the weak into the abyss.",
                 "jp": "気をつけなさい。この海流は脆弱な命を飲み込みますわ。",
                 "kr": "조심하세요. 이 해류는 약한 생명을 집어삼키니까요.",
                 "cn": "小心了，海流会追索脆弱的生命。"
@@ -385,7 +385,7 @@
                 "cn": "作战中2"
             },
             "text": {
-                "en": "Have you asked for my permission before you tried to run away from me, my dear prey?",
+                "en": "Have I granted you the permission to run away, my prey?",
                 "jp": "逃げる前に私の許可は取ったのかしら。ねえ、獲物さん？",
                 "kr": "도망치기 전에 내 허가는 받았나요? 사냥감 씨?",
                 "cn": "想从我掌间逃开前征求过我的同意了吗，我的猎物？"
@@ -401,7 +401,7 @@
                 "cn": "作战中3"
             },
             "text": {
-                "en": "It won't take even half a second. This lance will pierce your heart.",
+                "en": "Just a second, then this lance will pierce your heart.",
                 "jp": "この切っ先があなたの心臓に滑り込むまで一秒もかかりませんわ。",
                 "kr": "이 날 끝이 당신의 심장에 박히기까지는 1초도 안 걸린답니다.",
                 "cn": "只需等上小半秒，这把槊就能滑入你心间。"
@@ -417,7 +417,7 @@
                 "cn": "作战中4"
             },
             "text": {
-                "en": "That's enough playtime with toys.",
+                "en": "Playtime is over.",
                 "jp": "玩具で遊ぶのもここまで。",
                 "kr": "장난감 가지고 노는 것도 여기까지입니다.",
                 "cn": "戏弄玩具的时间到此结束。"
@@ -433,7 +433,7 @@
                 "cn": "完成高难行动"
             },
             "text": {
-                "en": "Live. That's the only rule you must follow.",
+                "en": "Survive. That's the only rule you must follow.",
                 "jp": "生き残ること。それがあなたが守るべき唯一のルールですわ。",
                 "kr": "살아남는 것. 그게 당신이 지켜야 할 유일한 룰입니다.",
                 "cn": "生存。您唯一需要遵守的准则。"
@@ -465,9 +465,9 @@
                 "cn": "非3星结束行动"
             },
             "text": {
-                "en": "If the preys that got away have no means to share information, then you still have a chance to live.",
+                "en": "Better hope that the fleeing prey won't share information, so you still have a chance to savor the rest of your life at ease.",
                 "jp": "逃げた獲物に情報を伝達する能力がないなら、あなたの首はまだ皮一枚で繋がっていますわね。",
-                "kr": "도망친 사냥감에게 정보를 전달하는 능력이 없다면, 당신의 목은 아직 간당간당하게 붙어 있었겠죠.",
+                "kr": "도망친 사냥감에게 정보를 전달하는 능력이 없다면, 당신의 목은 일단 안전할 테니, 한숨 정도는 돌려도 괜찮겠죠.",
                 "cn": "如果逃走的猎物没有能力传递信息，您就还有欢度余生的机会。"
             },
             "asset": "char_474_glady/CN_031"
@@ -513,7 +513,7 @@
                 "cn": "戳一下"
             },
             "text": {
-                "en": "Please, respect the land's etiquette, Doctor, or perhaps discourtesy is more your thing?",
+                "en": "Please respect the land's etiquette, Doctor, or perhaps discourtesy is more your thing?",
                 "jp": "ドクター、陸地の礼儀を守ってくださいませ。それとも無礼なのが主義かしら？",
                 "kr": "박사님, 육지의 예의를 지켜 주시죠. 아니면 원래 이렇게 무례한가요?",
                 "cn": "请您遵守陆地上的礼仪，又或者说，您也许比较喜欢那些无礼行径？"
@@ -529,7 +529,7 @@
                 "cn": "信赖触摸"
             },
             "text": {
-                "en": "Best be careful. My kind are all monsters in nature.",
+                "en": "Best be careful. By nature, my kind are all monsters.",
                 "jp": "お気をつけになった方がよろしくてよ。私たちのような者は所詮みな怪物ですもの。",
                 "kr": "조심하시는 게 좋을 거예요. 우리 같은 자들은 어차피 다들 괴물이니까요.",
                 "cn": "小心为上。我们这种人本质都是怪物。"
@@ -561,9 +561,9 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "新的一年开始了。我们的计划进行到哪一步了？海洋又在哪条我们不知道的海岸线吞噬了更多泥土？罗德岛这些干员们，他们庆祝是他们的事；而我们，知道得越多，就越应该看清自己的所作所为。",
-                "jp": "新的一年开始了。我们的计划进行到哪一步了？海洋又在哪条我们不知道的海岸线吞噬了更多泥土？罗德岛这些干员们，他们庆祝是他们的事；而我们，知道得越多，就越应该看清自己的所作所为。",
-                "kr": "新的一年开始了。我们的计划进行到哪一步了？海洋又在哪条我们不知道的海岸线吞噬了更多泥土？罗德岛这些干员们，他们庆祝是他们的事；而我们，知道得越多，就越应该看清自己的所作所为。",
+                "en": "And so another year has come and passed. How far has our plan come? Has the sea engulfed more land from the coastlines without us even realizing? Rhodes Island's operators celebrate the New Year. Let them. As for us, the more we know, the more we must judge our own actions.",
+                "jp": "新年ですわね。私たちの計画の進捗はどうなのかしら？海は今度どこの土を飲み込んで、海岸線を書き換えたかしら？ロドスのオペレーターたちが時の経過を祝うのは勝手ですけれど、私たちは、時間をかけて知れば知るほど、自らの所業をよく理解しなければなりませんわよ。",
+                "kr": "새로운 한 해가 시작됐군요. 우리의 계획은 어느 단계까지 진행됐죠? 바다는 또 얼마만큼의 흙을 집어삼키고 해안선을 바꿨을까요? 다른 오퍼레이터들이 새해를 축하하는 건 그들의 자유지만, 더 많은 걸 알고 있는 우리는 더욱더 스스로의 행동에 조심할 필요가 있습니다.",
                 "cn": "新的一年开始了。我们的计划进行到哪一步了？海洋又在哪条我们不知道的海岸线吞噬了更多泥土？罗德岛这些干员们，他们庆祝是他们的事；而我们，知道得越多，就越应该看清自己的所作所为。"
             },
             "asset": "char_474_glady/CN_038"
@@ -577,7 +577,7 @@
                 "cn": "问候"
             },
             "text": {
-                "en": "Hello, Dr. {@nickname}.",
+                "en": "Greetings, Dr. {@nickname}.",
                 "jp": "ごきげんよう、ドクター。",
                 "kr": "안녕하세요, {@nickname} 박사님.",
                 "cn": "您好，Dr.{@nickname}。"
@@ -593,15 +593,19 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "种族的续存总是面临着各种各样的威胁，以我对陆地的了解，或许罗德岛的工作，与猎人们本质上是一样的。Dr.{@nickname}，您应当认清自己做出的选择的分量。",
-                "jp": "种族的续存总是面临着各种各样的威胁，以我对陆地的了解，或许罗德岛的工作，与猎人们本质上是一样的。Dr.{@nickname}，您应当认清自己做出的选择的分量。",
-                "kr": "种族的续存总是面临着各种各样的威胁，以我对陆地的了解，或许罗德岛的工作，与猎人们本质上是一样的。Dr.{@nickname}，您应当认清自己做出的选择的分量。",
+                "en": "A species faces many threats in its survival. Under my assessment of dry land, I might equate Rhodes Island's intrinsic work to that of my Hunters. Dr. {@nickname}. It is yours to gather the weight of your decisions.",
+                "jp": "種の存続は、常に多様な脅威に晒されるものですわ。陸地に対する私の理解から判断しますと、ロドスのお仕事と、ハンターたちとは、本質的には同じものかもしれません。Dr.{@nickname}、あなた自身が下した決断の重みはよくよく認識せねばなりませんわよ。",
+                "kr": "종족의 존속은 언제나 다양한 위협에 직면해 있습니다. 제가 육지에 대해 이해한 바로는, 로도스 아일랜드가 하고 있는 일과 헌터들의 일은 본질적으로 같더군요. {@nickname} 박사님, 당신은 자신이 내리는 선택의 무게를 분명히 인식해야 합니다.",
                 "cn": "种族的续存总是面临着各种各样的威胁，以我对陆地的了解，或许罗德岛的工作，与猎人们本质上是一样的。Dr.{@nickname}，您应当认清自己做出的选择的分量。"
             },
             "asset": "char_474_glady/CN_044"
         }
     ],
     "actors": {
+        "en": {
+            "native": "Ashleigh Haddad",
+            "global": "Ashleigh Haddad"
+        },
         "cn": {
             "native": "黄莺",
             "global": "Fiona"
@@ -616,6 +620,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

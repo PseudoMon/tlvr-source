@@ -594,7 +594,7 @@
             },
             "text": {
                 "en": "Dr. {@nickname}, enjoying yourself? Me? Mm-hm, of course I'm happy. Everyone's having a proper lively get-together, there's nothing better than that. Oh, that reminds me, I just drew this prize and I'm not really in need of it. You want it?",
-                "jp": "无",
+                "jp": "Dr.{@nickname}、楽しんでる？あたし？もちろん楽しんでるよ。みんな一緒にワイワイできるよりも嬉しいことはないし。そうだ、さっき抽選会で景品を当てたんだけど、あたしはいらないんだ。ドクター、いる？",
                 "kr": "박사, 재밌게 놀았어? 나? 응, 나야 당연히 즐거웠지. 다들 같이 모여 웃고 떠드는 것보다 즐거운 일이 어디 있겠어? 참, 방금 상품에 당첨됐는데, 난 필요 없어서 말이야. 박사가 가질래?",
                 "cn": "Dr.{@nickname}，玩得开心吗？我？嗯，我当然开心，大家都热热闹闹地在一起，没有比这更好的事了。对了，我刚才抽到了奖品，我不需要，你要吗？"
             },

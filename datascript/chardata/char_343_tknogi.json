@@ -593,9 +593,9 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "啊......好久没能这么尽兴了，果然抛开仪礼很多事都能有趣起来啊。{@nickname}，坐下。在这一桶珍酿见底前，你哪儿也不许去。",
-                "jp": "啊......好久没能这么尽兴了，果然抛开仪礼很多事都能有趣起来啊。{@nickname}，坐下。在这一桶珍酿见底前，你哪儿也不许去。",
-                "kr": "啊......好久没能这么尽兴了，果然抛开仪礼很多事都能有趣起来啊。{@nickname}，坐下。在这一桶珍酿见底前，你哪儿也不许去。",
+                "en": "Oh my... It has been quite some time since we were able to have fun like this. Sure enough, many things become enjoyable once you discard the formalities. {@nickname}, sit here. You are not allowed to go anywhere until this bottle of wine is empty.",
+                "jp": "ふぅ……こんなに楽しめたのは久しぶりね。やっぱり格式は打ちやってしまった方が、色々と面白くなるわ。{@nickname}、座って。この美酒の樽が空になるまでは、どこにも行かせないわよ。",
+                "kr": "아…… 이렇게 들뜬 것도 오랜만이네요. 역시 의례를 신경 쓰지 않으면 많은 일들이 이렇게 즐겁게 느껴질 수도 있는 거였군요. {@nickname}, 앉아 주세요. 이 진귀하고 맛있는 술이 바닥을 보이기 전까진 아무 데도 보내지 않을 거예요.",
                 "cn": "啊......好久没能这么尽兴了，果然抛开仪礼很多事都能有趣起来啊。{@nickname}，坐下。在这一桶珍酿见底前，你哪儿也不许去。"
             },
             "asset": "char_343_tknogi/CN_044"

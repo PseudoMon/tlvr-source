@@ -1,0 +1,628 @@
+{
+    "charid": "char_4145_ulpia",
+    "nameid": "ulpia",
+    "names": {
+        "en": "Ulpianus",
+        "jp": "ウルピアヌス",
+        "kr": "울피아누스",
+        "cn": "乌尔比安"
+    },
+    "voices": [
+        {
+            "id": "char_4145_ulpia_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "I have no objections. If these long-winded documents turned out to be a waste of our time, you would be the one to suffer the consequences.",
+                "jp": "異論はない。だがこういう形ばかりの陸の慣習で俺たちの時間を浪費すれば、責任を取るのはお前だ。",
+                "kr": "이견은 없다. 하지만 이러한 육지의 허례허식으로 우리의 시간을 낭비한다면, 마지막에 책임은 네가 져야 할 거다.",
+                "cn": "我没意见。如果这些繁文缛节浪费了我们的时间，需要承担后果的人是你。"
+            },
+            "asset": "char_4145_ulpia/CN_001"
+        },
+        {
+            "id": "char_4145_ulpia_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "You should see how Gladiia trains. It could almost be called self-flagellation. I once reminded her that in the depths of the abyss, maintaining your sense of direction is both more difficult and more important than increasing your speed. Yes, of course my navigational skills are better than the other Hunters, ",
+                "jp": "グレイディーアの訓練を見かけたことくらいはあるだろう。あんなものは自虐も同然だ。深海で方向感覚を保つことは游泳速度を磨くよりも難しく、また重要であると忠告したというのに、相も変わらず……確かに、俺にはもとより彼女たち以上の方向感覚が備わっているがな。",
+                "kr": "너도 글래디아가 훈련하는 걸 본 적이 있겠지. 저런 방식은 자학이나 다름없다. 바다 깊은 곳에선 방향 감각을 유지하는 게 속도를 높이는 것보다 더 어렵고 중요하다고 충고했거늘, 변하질 않는군…… 확실히, 내가 그녀들보단 방향 감각이 뛰어나다.",
+                "cn": "你应该看过歌蕾蒂娅训练，那种方式近乎自虐。我提醒过她，在海洋深处，保持方向感比提升速度更难，也更重要......我的方向感确实比她们要好一些。"
+            },
+            "asset": "char_4145_ulpia/CN_002"
+        },
+        {
+            "id": "char_4145_ulpia_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "There's no point in staring at it. Ægir's musical notation would be unfamiliar to you land-dwellers. I make it a habit to compose a song before battle, and I ask my teammates to memorize it. Once the battle is over, they are to sing it with utmost accuracy. The Seaborn have no taste for artistry, so it has proved a useful test.",
+                "jp": "……見るだけ無駄だ、陸の人間にエーギルの楽譜は読めないだろう。戦争に臨む際、即興で一曲起こして隊員たちに覚えさせ、収束後にそれを一音違わず歌わせるのが習慣化していたんだ。芸術を解さないシーボーンを釣るには有効な手なのでな。",
+                "kr": "……봐도 소용없다. 육지 사람은 에기르의 악보를 읽을 수 없을 테니. 난 전투에 임하기 전, 즉흥적으로 곡을 만들어 대원들에게 외우게 하고 있다. 그리고 전투가 끝나면 그 곡을 한 음도 틀리지 않고 다시 부르게 하지. 시본은 예술을 이해하지 못하니, 이건 아주 효과적인 방법이다.",
+                "cn": "......别看了，陆地人不认识阿戈尔的音符。我习惯在战斗前临时作一首曲子，要求我的队员记住它，并在结束时精准无误地唱出来。海嗣不会去欣赏艺术，这很有用。"
+            },
+            "asset": "char_4145_ulpia/CN_003"
+        },
+        {
+            "id": "char_4145_ulpia_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Sargonian, Iberian, Rim Billitonian... During my short time on the land, I have learned several languages. The Seaborn are willing to communicate with other kinds for the sake of their evolution, while humanity uses whatever excuses it can to divide itself. We should be ashamed of ourselves.",
+                "jp": "サルゴン語、イベリア語、レム・ビリトン語……陸で過ごした僅かな時間で、俺はいくつもの言語を身に着けた。シーボーンは進化のために他の「群れ」と積極的にコミュニケーションを取るというのに、我々人間は言い訳を探しては視野を狭めてばかり。恥ずべきことだと思わないか。",
+                "kr": "사르곤어, 이베리아어, 림 빌리턴어…… 육지에서 보낸 그 짧은 시간 동안 나는 꽤 많은 언어를 익힐 수 있었다. 시본은 진화를 위해 타 종족과 교류하는데, 정작 인류는 온갖 핑계를 대며 스스로를 편협하게 만들고 있지. 우리는 응당 부끄러움을 느껴야 한다.",
+                "cn": "萨尔贡语、伊比利亚语、雷姆必拓语......在陆地的那一小段时间，我学习了不少语言。海嗣为了进化会与其他族群交流，人类却出于种种原因自甘狭隘，我们应当为此感到耻辱。"
+            },
+            "asset": "char_4145_ulpia/CN_004"
+        },
+        {
+            "id": "char_4145_ulpia_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "There are many ways to foster unity. Perhaps you could blame your collapse on a common foe, or open up a waterway that changes the tide of war, or maybe send a disgraced, fallen man into exile... Hmm. This really is the only value I can bring to the table.",
+                "jp": "団結力を高める方法はいくらでもある。破滅の責任をすべて同じ敵に押し付けること、戦局を変える航路を切り拓くこと、それから、恥知らずの裏切り者を追放すること……ふん、それも俺がもたらせる価値の一つと言えるだろう。",
+                "kr": "집단의 단결력을 높이는 방법은 다양하다. 파멸의 책임을 공공의 적에게 돌리는 것, 전세를 뒤바꿀 항로를 개척하는 것, 혹은…… 수치스러운 배신자를 추방하는 것…… 흠, 그러고 보면 그것도 내가 가져다줄 수 있는 가치라 할 수 있겠군.",
+                "cn": "创造团结的方式很多，将自身的崩毁归咎给同一个敌人，开辟一条改变战局的航道，或者，放逐一个可耻的堕落者......哼，这确实是我能带来的价值。"
+            },
+            "asset": "char_4145_ulpia/CN_005"
+        },
+        {
+            "id": "char_4145_ulpia_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "The Seaborn issue is already out of our control. If a single waterway or several battles could annihilate them, I would not be here seeking your cooperation. I should be off now. Stay in contact... Become one of them, then uncover their fatal weakness from within... this is the only way.",
+                "jp": "シーボーンの問題はもはや御し難い。一本の航路や数回の戦争で奴らを根絶できるのなら、こんなところまで協力を仰ぎに来るものか。俺はもう行くが、連絡は絶やすなよ……奴らと交わり、真に滅する方法を見つけるのが唯一残された活路だ。",
+                "kr": "시본 문제는 이미 우리가 손을 쓸 수 없는 지경에 이르렀다. 만약 한 번의 항로 개척이나 몇 차례의 전쟁으로 그들을 소멸시킬 수 있었다면, 내가 이곳까지 협력을 요청하러 오지도 않았겠지. 나는 이만 가 보겠다. 연락은 자주 하지…… 이 문제를 해결하기 위해선, 직접 그들이 되는 수밖에. 그것만이 유일한 살길이다.",
+                "cn": "海嗣问题已经失控，如果一条航道、几场战争就能彻底消灭它们，我也不会出现在这里，寻求与你们的合作。保持联络，我该离开了......成为它们，找到真正解决它们的方法，只有这一条路。"
+            },
+            "asset": "char_4145_ulpia/CN_006"
+        },
+        {
+            "id": "char_4145_ulpia_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "No need to arrange a meeting. I have already ascertained the status of the other Hunters. Please continue to monitor their health, and help them keep their heads clear. I will return and check. As Ægir's first Abyssal Hunter, I hope that I will not be its last.",
+                "jp": "ハンターたちの状態はもう把握済みだ。会うまでもなかろう……彼女たちの健康状態に気を配り、正気でいられるよう尽くしてやってくれ。俺もまた来る。最初に生まれたアビサルハンターが、最後の一人になるなど真っ平なのでな。",
+                "kr": "헌터들의 상태는 이미 확인했으니, 굳이 만날 필요는 없다…… 부디 그녀들의 건강 상태에 주의를 기울이고, 제정신을 유지할 수 있도록 도움을 줬으면 한다. 나도 다시 돌아올 거다. 나는 첫 번째 어비설 헌터스다. 내가 마지막이 아니길 바라지.",
+                "cn": "不用安排见面，我已经确认过猎人们的状态......请你关注她们的健康，帮助她们保持清醒，我还会来。我是阿戈尔的第一个深海猎人，希望不是最后一个。"
+            },
+            "asset": "char_4145_ulpia/CN_007"
+        },
+        {
+            "id": "char_4145_ulpia_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "You are very forward-thinking with your vision of the future of gene therapy, but right now, discussing anything other than the Seaborn or the Hunters is a waste of our time. Doctor, they continue their endless march onto dry land, but the answer lies deep in the abyss.",
+                "jp": "随分と遺伝子技術に対する先見性があるようだが、シーボーンとアビサルハンター以外の議題は、現状時間を費やしてまで論ずる価値はない……ドクター、奴らは今この時も陸へと這い寄っているが、答えは未だ深海の奥底に眠っているんだ。",
+                "kr": "유전자 기술에 대해 꽤나 전망적인 사고를 갖고 있는 것 같다만, 지금 우리에게 있어 가장 중요한 건 시본과 어비설 헌터스다. 그 외의 것을 논한다는 건 시간 낭비일 뿐이지…… 박사, 지금 이 순간에도 시본들은 육지를 향한 발걸음을 멈추지 않고 있다. 하지만 그들을 막을 해답은, 여전히 저 바다 깊은 곳에 잠들어 있지.",
+                "cn": "你对基因技术的想象很有前瞻性，只是眼下除了海嗣和猎人，其他任何话题都不值得我们浪费时间......博士，它们向陆地迁徙的脚步没有停下，但答案仍在深海。"
+            },
+            "asset": "char_4145_ulpia/CN_008"
+        },
+        {
+            "id": "char_4145_ulpia_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "The Hunters will lose awareness if deprived of water, but they need only return to the sea to awake their past. How about you? What opportunity would you need? What did you forget, and why did you forget it? You have been to the depths of the abyssal sea, you are connected to all this. I need you to recall, Doctor.",
+                "jp": "ハンターたちは脱水症で気を失うこともあるが、海に戻ってしまえば過去までもが蘇る。お前が記憶を取り戻すにはどんなきっかけが必要なんだ？何故記憶を失い、そして何を忘れた？かつて海の底に訪れたお前は、そこにあるすべてと繋がっているんだ。思い出してもらおうか、ドクター。",
+                "kr": "헌터들은 탈수로 의식을 잃을 수도 있지만, 바다로 돌아가기만 하면 과거의 기억이 되살아나지. 그렇다면 박사, 네 기억을 되찾으려면 어떤 계기가 필요한가? 넌 왜 기억을 잃었고, 또 어떤 기억을 잃은 거지? 넌 심해에 발을 디뎠었다. 그리고 이 모든 것은 너와 관련이 있지. 기억을 떠올려라, 박사.",
+                "cn": "猎人会因为缺水而丧失意识，但只要回到海洋，她们的过往便会复苏。那你呢，你需要怎样的契机？你因何遗忘，又遗忘了什么？你去过深海，你与这一切有关。我需要你想起来，博士。"
+            },
+            "asset": "char_4145_ulpia/CN_009"
+        },
+        {
+            "id": "char_4145_ulpia_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "You are dreaming. Which part of yourself do you speak to?",
+                "jp": "夢を見ているのか。話相手は、いったい「どの」お前なんだ？",
+                "kr": "꿈을 꾸고 있는 건가. 지금 너와 이야기를 나누고 있는 상대는, 어떤 너지?",
+                "cn": "你在做梦，你在和自己的哪部分对话？"
+            },
+            "asset": "char_4145_ulpia/CN_010"
+        },
+        {
+            "id": "char_4145_ulpia_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "We meet again. This method of contact that you are imposing upon me, is it Rhodes Island's standard treatment, or perhaps it is you trying to confirm if my sense of self has already begun to change… Hmph. Ulpianus, Abyssal Hunter.",
+                "jp": "また顔を突き合せることになるとはな。今回の情報交換にこんなやり方を強いたのは、ロドスの規則によるものか、それとも俺の自己認識が変化していないことを確かめるためか？……まあいい。アビサルハンター、ウルピアヌスだ。",
+                "kr": "또 만나는군. 이번 정보 교환에 이러한 방식을 강요한 건 로도스 아일랜드의 규칙 때문인 건가, 아니면 내 자기 인식이 아직 뚜렷한지 확인하기 위해서인가? ……뭐, 상관없다. 어비설 헌터스, 울피아누스다.",
+                "cn": "又见面了。本次联络被强加上这样的形式，是罗德岛的安排，还是你想要确认，我的自我认知是否已经改变......深海猎人，乌尔比安。"
+            },
+            "asset": "char_4145_ulpia/CN_011"
+        },
+        {
+            "id": "char_4145_ulpia_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "You must think carefully on what you base your battle plans upon.",
+                "jp": "何をもとに戦争を組み立てるか、よく考えろ。",
+                "kr": "무엇을 바탕으로 이 전쟁을 설계할지를, 잘 생각해 두는 게 좋을 거다.",
+                "cn": "你们需要好好想想到底该依据什么来规划战争。"
+            },
+            "asset": "char_4145_ulpia/CN_012"
+        },
+        {
+            "id": "char_4145_ulpia_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Only when baptized in death does one exist. This ceremony is not much use for a warrior.",
+                "jp": "どのみち死の洗礼を乗り越えねば先はない。こんな表彰など、戦士にとっては無意味だ。",
+                "kr": "죽음의 세례를 견뎌 낸 자만이 살아남는 법. 이런 형식적인 의식은 전사에게 아무런 의미도 없다.",
+                "cn": "经受死亡的洗礼，才能生存。这种形式对一个战士来说作用不大。"
+            },
+            "asset": "char_4145_ulpia/CN_013"
+        },
+        {
+            "id": "char_4145_ulpia_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "If there truly is a creator of all things, then it should be the one to suffer the plagues that torment us.",
+                "jp": "万物を統べる者が本当にいるのなら、今日に蔓延る災禍の元凶として、首を差し出してもらわねばな。",
+                "kr": "만물을 다스리는 자가 정말 존재한다면, 그자는 오늘날의 재난에 대해 책임을 지고 목을 내놓아야 할 거다.",
+                "cn": "如果确实存在一个万物之主，那它应该为如今的灾难引颈受戮。"
+            },
+            "asset": "char_4145_ulpia/CN_014"
+        },
+        {
+            "id": "char_4145_ulpia_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "You will obtain the result that you seek.",
+                "jp": "……ふ、お前が望む結果を見せてやろう。",
+                "kr": "네가 바라는 결과를 보여주지.",
+                "cn": "你会看到你想要的结果。"
+            },
+            "asset": "char_4145_ulpia/CN_017"
+        },
+        {
+            "id": "char_4145_ulpia_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Skadi and the other Hunters are masters of violence. What about the ones on this team?",
+                "jp": "スカジたちは暴力の専門家も同然だったが、このチームの連中にそれができるのか？",
+                "kr": "스카디를 포함한 그녀들은 모두 폭력의 전문가나 다름없다. 이 팀의 이들도 그게 가능한가?",
+                "cn": "斯卡蒂她们都是行使暴力的专家，那这个队伍里呢？"
+            },
+            "asset": "char_4145_ulpia/CN_018"
+        },
+        {
+            "id": "char_4145_ulpia_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Embark.",
+                "jp": "行くぞ。",
+                "kr": "간다.",
+                "cn": "走。"
+            },
+            "asset": "char_4145_ulpia/CN_019"
+        },
+        {
+            "id": "char_4145_ulpia_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "The scent in the air is changing.",
+                "jp": "漂うにおいが変わりつつある。",
+                "kr": "공기의 냄새가 변하고 있군.",
+                "cn": "空气中的气味在变化。"
+            },
+            "asset": "char_4145_ulpia/CN_020"
+        },
+        {
+            "id": "char_4145_ulpia_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "I hear them.",
+                "jp": "聞こえた。",
+                "kr": "소리가 들렸다.",
+                "cn": "我听到了。"
+            },
+            "asset": "char_4145_ulpia/CN_021"
+        },
+        {
+            "id": "char_4145_ulpia_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "I will handle it.",
+                "jp": "俺がやる。",
+                "kr": "내가 해결하지.",
+                "cn": "我会解决。"
+            },
+            "asset": "char_4145_ulpia/CN_022"
+        },
+        {
+            "id": "char_4145_ulpia_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "They will cough up some useful information.",
+                "jp": "役に立つ情報を奴らに吐かせてやる。",
+                "kr": "쓸모 있는 정보를 뱉어내게 만들어 주지.",
+                "cn": "他们必须吐出些有价值的情报。"
+            },
+            "asset": "char_4145_ulpia/CN_023"
+        },
+        {
+            "id": "char_4145_ulpia_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "This execution is not worth witnessing.",
+                "jp": "取るに足らん処刑だ。立ち会う価値もない。",
+                "kr": "지켜볼 가치도 없는 처형이다.",
+                "cn": "这一场处决，不值得谁来见证。"
+            },
+            "asset": "char_4145_ulpia/CN_024"
+        },
+        {
+            "id": "char_4145_ulpia_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Who takes joy in the fall?",
+                "jp": "堕落に小躍りする愚図はどこだ。",
+                "kr": "타락하여 날뛰던 자는 어디 있나.",
+                "cn": "谁因堕落而雀跃？"
+            },
+            "asset": "char_4145_ulpia/CN_025"
+        },
+        {
+            "id": "char_4145_ulpia_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Your wounds will be rather striking.",
+                "jp": "派手な傷跡を刻みつけてやろう。",
+                "kr": "잊지 못할 상처를 남겨 주지.",
+                "cn": "你们的伤口会很醒目。"
+            },
+            "asset": "char_4145_ulpia/CN_026"
+        },
+        {
+            "id": "char_4145_ulpia_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "The depths will devour your bones.",
+                "jp": "骨は海淵に拾ってもらえ。",
+                "kr": "바다의 심연이 너희의 뼈를 집어삼킬 거다.",
+                "cn": "海渊会消化你们的骨骸。"
+            },
+            "asset": "char_4145_ulpia/CN_027"
+        },
+        {
+            "id": "char_4145_ulpia_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Your useless tricks will only make your death more miserable.",
+                "jp": "小細工を弄してみるといい、無様な死を望むならな。",
+                "kr": "그런 하찮은 잔기술은 너희의 죽음을 더 추하게 만들 뿐이다.",
+                "cn": "耍弄无聊的伎俩，只会让死状更惨。"
+            },
+            "asset": "char_4145_ulpia/CN_028"
+        },
+        {
+            "id": "char_4145_ulpia_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Good. That means we still have time…",
+                "jp": "よし。俺たちにもまだ時間が残されているということだな……",
+                "kr": "좋아. 우리에겐 아직 시간이 남아 있다는 거군……",
+                "cn": "很好。这意味着我们还有时间......"
+            },
+            "asset": "char_4145_ulpia/CN_029"
+        },
+        {
+            "id": "char_4145_ulpia_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "From watching you and Gladiia discuss your battle plans, I see that the two of you share similar lines of thought.",
+                "jp": "どうやらグレイディーアと戦争設計について意見交換をしたことがあるようだな。いくつか相通ずる理念が窺えた。",
+                "kr": "아무래도 글래디아와 전쟁을 어떻게 설계할 것인지에 대해 이야기를 나눈 적이 있는 모양이군. 몇 가지 공통적인 이념을 볼 수 있었다.",
+                "cn": "看来你与歌蕾蒂娅交流过战争设计，你们的思路有些共通之处。"
+            },
+            "asset": "char_4145_ulpia/CN_030"
+        },
+        {
+            "id": "char_4145_ulpia_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Is your objective victory, or is it ultimately survival?",
+                "jp": "たった一度の勝利を拾うことと、最後に存続を勝ち取ること……お前が目指すのはどちらだ？",
+                "kr": "한 순간의 승리와 끝까지 살아남는 것 중…… 네 목표는 어느 쪽이지?",
+                "cn": "目标是一场胜利，还是最终的存续？"
+            },
+            "asset": "char_4145_ulpia/CN_031"
+        },
+        {
+            "id": "char_4145_ulpia_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Not everyone is able to taste victory, but all must bear the burden of defeat.",
+                "jp": "皆で勝利を迎えられる保証はないが、失敗の対価はすべからく全員に降りかかる。",
+                "kr": "모두가 승리를 맞이할 수 있는 건 아니지. 하지만 실패의 대가는 모두가 짊어져야만 한다.",
+                "cn": "不是每一个人都能迎接胜利，但失败的代价需要所有人来背负。"
+            },
+            "asset": "char_4145_ulpia/CN_032"
+        },
+        {
+            "id": "char_4145_ulpia_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "You can contact me from anywhere, but do not let others learn of my whereabouts. You should know that.",
+                "jp": "どこで連絡を取り合っても構わないが、俺のことは誰にも悟らせるな。わかってるだろう。",
+                "kr": "어디서 연락을 주고 받든 상관없지만, 내 행적은 그 누구에게도 밝히지 마라. 왜인지는 너라면 잘 알고 있겠지.",
+                "cn": "联络在哪里进行都可以，别让人注意到我的行踪，你应该有数。"
+            },
+            "asset": "char_4145_ulpia/CN_033"
+        },
+        {
+            "id": "char_4145_ulpia_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "How many hands do you have?",
+                "jp": "お前、腕が何本あると思ってる？",
+                "kr": "넌 팔이 몇 개나 있지?",
+                "cn": "你有几只手？"
+            },
+            "asset": "char_4145_ulpia/CN_034"
+        },
+        {
+            "id": "char_4145_ulpia_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "I am not entirely new to the land. What you just did falls outside your etiquette.",
+                "jp": "陸で過ごした時間はほんの僅かだが、これがお前たちの礼儀作法でないことくらいはわかる。",
+                "kr": "나도 육지에서 시간을 보낸 적이 있다. 이건 너희의 예의에 맞지 않아.",
+                "cn": "我在陆地上待过一小段时间，这并不是你们的礼仪。"
+            },
+            "asset": "char_4145_ulpia/CN_036"
+        },
+        {
+            "id": "char_4145_ulpia_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4145_ulpia/CN_037"
+        },
+        {
+            "id": "char_4145_ulpia_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "The establishment of a new city. The birth of a new artform. The rising of a new line of thought. These are all worth celebrating, as opposed to the mere passage of time. But now, I wish to mark this occasion with you—the tides have not yet broken free of the ocean, and ruination has not yet arrived in full.",
+                "jp": "新たなる都市の建設、新たなる芸術の誕生、そして新たなる思潮の勃興、いずれも祝う価値はあるが、時間の流れそのものに意味はない。だが今ばかりは、お前と共に祝おう――潮は未だ海洋に囚われ、完全なる破滅の訪れまで猶予が与えられていることをな。",
+                "kr": "새로운 도시의 건설, 새로운 예술의 탄생, 그리고 새로운 사상의 출현. 이 모든 것은 축하할 가치가 있지만, 시간의 흐름 자체는 아무런 의미가 없다. 그러나 이 순간만큼은 너와 함께 축하하도록 하지. 파도는 바다에 갇혀있고, 파멸은 아직 완전히 오지 않았으니.",
+                "cn": "一座新城市的建立，一门新艺术的诞生，一种新思潮的兴起都值得庆贺，唯独时间的流逝本身没有意义。但现在，我愿意和你一起庆祝——海潮仍未挣脱海洋，毁灭还没有完全到来。"
+            },
+            "asset": "char_4145_ulpia/CN_038"
+        },
+        {
+            "id": "char_4145_ulpia_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "No need to turn your head. I will keep my report brief.",
+                "jp": "振り返るな、二言三言で済む。",
+                "kr": "뒤돌아볼 필요 없다, 한두 마디면 끝나니까.",
+                "cn": "别回头，几句话而已。"
+            },
+            "asset": "char_4145_ulpia/CN_042"
+        },
+        {
+            "id": "char_4145_ulpia_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "The Abyssal Hunters were created to annihilate the Seaborn. What of Rhodes Island? Relying on this clumsy ship to take you this far, yet you show no will to stop. This speaks to your tenacity that rivals even us Hunters. Why were you established, and what is your endpoint? Answer me, Doctor.",
+                "jp": "「アビサルハンター」はシーボーン根絶のために生まれた。ならば、「ロドス」はどうだ？……お前たちはこの鈍臭い船で、片時も止まらずにここまで歩き続けてきた。ハンターに勝るとも劣らない屈強さでな。果たしてお前たちは何のために生まれて、何処へ向かう？答えてくれ、ドクター。",
+                "kr": "'어비설 헌터스'는 시본을 소멸하기 위해 탄생했다. 그렇다면 '로도스 아일랜드'는 무엇을 위해 존재하지? ……너희는 이 육중한 선박에 몸을 맡긴 채 잠시도 멈추지 않고 여기까지 도달했다. 헌터 못지않은 강인함으로 말이다. 너희는 무엇을 위해 탄생했고, 또 어디로 나아가는 거지? 그 대답을 들려줬으면 한다, 박사.",
+                "cn": "“深海猎人”为消灭海嗣而生，那么，“罗德岛”呢？......你们靠着这艘笨拙的船走到现在，从未停下，你们的坚韧不输猎人。你们因何而成立，终点又在哪里？回答我，博士。"
+            },
+            "asset": "char_4145_ulpia/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Taylor Clarke-Hill",
+            "global": "Taylor Clarke-Hill"
+        },
+        "cn": {
+            "native": "刘以嘉",
+            "global": "Liu Yijia"
+        },
+        "jp": {
+            "native": "小野大輔",
+            "global": "Daisuke Ono"
+        },
+        "kr": {
+            "native": "김영찬",
+            "global": "Kim Young-chan"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

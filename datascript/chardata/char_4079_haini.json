@@ -1,0 +1,628 @@
+{
+    "charid": "char_4079_haini",
+    "nameid": "haini",
+    "names": {
+        "en": "Lucilla",
+        "jp": "ルシーラ",
+        "kr": "루실라",
+        "cn": "海霓"
+    },
+    "voices": [
+        {
+            "id": "char_4079_haini_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Filing documents? I thought that was a job for Little Handy... Well, I can do it myself. I could do a lot worse than chatting with you.",
+                "jp": "資料の整理？そんなの「リトル・ハンディ」に任せればいいんじゃ……わかったわ、わたしがやってもいいわよ。ついでにドクターともお喋りできそうだし、それはそれで楽しいかもね。",
+                "kr": "자료 정리? 그런 건 '조력자'한테 맡기면 되잖아…… 알았어, 내가 하지 뭐. 일하면서 박사랑 얘기도 더 나누고, 나름대로 재밌을 것 같네.",
+                "cn": "整理资料？这种工作不应该交给“小帮手”吗？......好吧，我自己做也行。有机会和博士你闲聊几句，也挺有趣的。"
+            },
+            "asset": "char_4079_haini/CN_001"
+        },
+        {
+            "id": "char_4079_haini_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Ten minutes until ocean current data inflow. I will take four minutes to prepare ink, five minutes to setup the equipment, forty-five seconds to doodle. The last fifteen seconds? Let you remove your hood, of course. Or, what's the difference between a faceless model and a lifeless rock?",
+                "jp": "十分後に大量の海流データがなだれ込む見込みよ。今から四分以内にインクを用意して、五分で機器のセッティングを済ませれば、お絵描きタイムを四十五秒も確保できるわ。残りの十五秒は何、って？それはあなたがフードを脱ぐための時間よ。顔を出さないモデルを描いたところで、岩のスケッチと何も変わらないでしょ？",
+                "kr": "앞으로 10분 뒤면 대량의 해류 데이터가 쏟아져 들어올 거야. 그럼 난 이제 4분 동안 잉크를 준비하고, 5분 동안 장비를 세팅한 뒤, 45초 동안 그림을 그릴 생각이야. 남은 15초는 뭐냐고? 그건 당신이 후드를 벗는 시간이지. 얼굴을 드러내지 않는 모델을 그린다는 건, 바위 스케치랑 다를 게 없잖아.",
+                "cn": "距离大批洋流数据涌入还有十分钟。接下来我会用四分钟准备墨水，五分钟设置设备，四十五秒涂个鸦。还剩十五秒？当然是留给你脱兜帽了。画一个不露脸的模特和画岩石有什么区别？"
+            },
+            "asset": "char_4079_haini/CN_002"
+        },
+        {
+            "id": "char_4079_haini_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "The Ægir sleep cycle is not affected by time of day. When inspiration strikes, an artist usually stays up for 50 plus hours without a wink of sleep. As for me, I'm more like you people, except I go to bed when the sun rises. It's eight o'clock already? I'm getting sleepy... Hm, why are you yawning too?",
+                "jp": "エーギル人の生活には昼も夜もないの。特に芸術畑の人間は、インスピレーションが湧けば五十時間以上寝ないのもざらよ。私はわりとあなたたちに近いほうだけど、寝るのは大抵日が昇る頃ね。ふあ～あ、もう八時か、眠くなってきちゃったわ――あら？なんであなたまであくびしてるの？",
+                "kr": "에기르인에겐 낮밤이 따로 없어. 특히 예술가들은 영감이 떠오르면 50시간 이상 자지 않는 경우도 흔하지. 난 너희와 비슷한 편이긴 하지만, 보통 해가 뜰 무렵에 잠에 들어. 하암~ 벌써 8시네, 슬슬 졸린걸…… 응? 당신은 왜 하품하는 거야?",
+                "cn": "阿戈尔人的作息不受昼夜影响。搞艺术的人来了灵感，常常五十小时才睡一次觉。至于我嘛，我倒是和你们挺像的，只不过是在日出时入睡。呼啊，八点了，我困了——你怎么也打哈欠了？"
+            },
+            "asset": "char_4079_haini/CN_003"
+        },
+        {
+            "id": "char_4079_haini_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Why do I enjoy chatting with the robot operators, when the Ægir frown upon emulating humanity with machinery? Hehe, because it's fascinating. Besides, my chats actually prompted Closure to upgrade their cognitive modules, ensuring they won't overload. I may take credit for any breakthroughs in that area.",
+                "jp": "エーギルは機械に擬似人格を搭載するのを嫌うのに、なぜわたしはいつも熱心にロドスのロボットたちと会話するのかって？そりゃあもちろん楽しいからよ。それにね、あの子たちの認知モジュールがわたしとの会話で知恵熱を出さないように、クロージャさんが必死に頑張ってるの。もしそれで進化を遂げたら、いっぱい喋ってあげたわたしも一役買ったって言えるよね？",
+                "kr": "에기르에선 기계에 가상 인격을 탑재하는 걸 선호하지 않는 것 같은데, 난 왜 로도스 아일랜드의 로봇 오퍼레이터와 이야기하는 걸 좋아하냐고? 그야 재밌잖아. 게다가 그들의 인지 모듈이 나와 대화하는 도중에 과부하에 걸리지 않도록 클로저 씨도 노력 중이고. 만약 이걸로 뭔가 돌파를 이뤄낸다면, 많이 대화를 나눈 나도 한몫한 거 맞지?",
+                "cn": "阿戈尔不愿意在机器上模拟人格，为什么我还喜欢跟机器人干员聊天？因为有趣啊。还有，为了认知模块不被我聊过载，可露希尔已经开始攻坚了。万一真有突破，那我也算做贡献了嘛。"
+            },
+            "asset": "char_4079_haini/CN_004"
+        },
+        {
+            "id": "char_4079_haini_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Ever since the Waterway opened, swarms of unsightly seaborns have appeared outside the dome. Truly annoying, to say the least. In all seriousness, though, it's my job to observe, record, and accumulate the data needed to eliminate seaborns once and for all. The more brazen they are, the closer an eye I must keep on them.",
+                "jp": "航路が拓かれてから、ドームの外に変な形のシーボーンがたくさん増えてきて、ほんとイライラしちゃう。まあ真面目な話、わたしの本職は元々観察と記録で、シーボーンを根絶させるために充分なデータを収集することだから、あいつらが出しゃばるほどに、わたしが目を光らせておかなくちゃね。",
+                "kr": "항로가 개척된 이후로 돔 바깥에 기이한 형태의 시본이 더 늘어나서 정말 성가셔. 사실 내 본업이 관찰과 기록을 통해 시본을 완전히 소멸시키기 위한 데이터를 수집하는 거라, 저 녀석들이 설치면 설칠수록 나는 더 끈질기게 녀석들을 주시해야 하는 셈이거든.",
+                "cn": "航道打开之后，穹顶外多了许多奇形怪状的海嗣，实在是很让人烦躁。不过不开玩笑地说，我的本职就是观察和记录，为彻底消灭海嗣储备足够的数据。那些家伙越是招摇，我就越是得盯紧它们。"
+            },
+            "asset": "char_4079_haini/CN_005"
+        },
+        {
+            "id": "char_4079_haini_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "When the city was evacuated and the darkness crept in, my fear gripped me so tightly that I scribbled something on the dome without even realizing it. Recently, I went back and found that it was a smiling face. It suddenly dawned on me that I should have faced the darkness with a smile way earlier.",
+                "jp": "都市の撤退が始まった時、周りがどんどん闇に飲まれて、わたしすっごく怖くて、無意識のうちにドームの上に何か描いてたの。最近そこへ戻ってようやくわかったのだけれど、なんとニコちゃんマークを描いてたのよね。それで、もっと前から笑顔で闇に立ち向かうべきだったんだって気付いたわ。",
+                "kr": "도시 철수가 시작되고, 주변이 점점 어둠에 삼켜질 때, 너무 무서운 나머지 무의식적으로 돔 위에 무언가를 그렸었어. 최근에 다시 돌아가서야 알게 됐는데, 그때 내가 그린 건 웃는 얼굴이었더라고…… 그제서야 깨달았어. 난 진작부터 웃음으로 어둠을 마주했어야 했다는걸.",
+                "cn": "城市撤离、黑暗迫近的时候，我怕得要命，无意识地在穹顶上涂了两笔。直到最近重回穹顶，我才看到，自己当时画的是张笑脸——我突然明白过来，我其实早就该笑着面对黑暗了。"
+            },
+            "asset": "char_4079_haini/CN_006"
+        },
+        {
+            "id": "char_4079_haini_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "There used to be a bunch of seaweed outside the dome, swaying leisurely to its own pace, no matter how fierce the currents. I've long wanted to grow some myself, stirring the water and watching it linger like nothing happened... kind of like you, Doctor.",
+                "jp": "昔ね、ドームの上にとっても可愛らしい水草が生えてたの。どんなに激しい海流に揉まれたって、ただマイペースにゆっくりと揺らめいていたわ。いつか自分で育ててみたいのよね、水をかき回して意地悪したって全然動じない、そんな様子を観察するの……ドクターって、あの水草とよく似てるよね。",
+                "kr": "옛날에 돔 위에 엄청 귀여운 수초가 자라고 있었다? 아무리 거센 물살이 오더라도 수초는 자신의 페이스에 맞춰 천천히 움직일 뿐이었지. 사실 그 수초를 계속 키워보고 싶었어. 물을 휘저으며 장난쳐도, 물살에 전혀 동요하지 않는 모습을 관찰하고 싶었달까…… 근데 박사, 그러고 보니 당신도 그 수초랑 참 많이 닮은 것 같네.",
+                "cn": "穹顶外曾经有一簇很可爱的水藻，不管洋流有多汹涌，它都只会按照自己的节奏静静摆动。我一直很想养一簇，想用自己的手搅动水流，看它处变不惊的样子......博士，你和它很像呢。"
+            },
+            "asset": "char_4079_haini/CN_007"
+        },
+        {
+            "id": "char_4079_haini_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "I modified this communal umbrella using dome technology. Now it can adjust its shape and opacity, and also detect temperature and humidity. But the Engineering Department didn't feel there was any need for it, and wanted me to change it back, because the tentacle-shaped monitoring unit was too scary... Hmm. Say, do you have an umbrella? Do you want to trade?",
+                "jp": "ドームに使われている技術で共用の傘を改造したんだけど、これで形と透明度の調節ができるし、温度と湿度の測定もできるようになったの。なのにエンジニア部はそこまでやる必要はないって。しかもこの触腕型のセンサーが不気味だから元に戻せって、まったくもう――そうだわ、傘持ってないかしら？これと交換しない？",
+                "kr": "돔에 쓰이는 기술로 이 공용 우산을 개조해봤어. 이제 이걸로 형태와 투명도를 조절할 수 있을 뿐만 아니라, 온도와 습도도 측정할 수도 있을 거야. 그런데 엔지니어링부는 이렇게까지 할 필요는 없다고 하더라. 게다가 우산 위에 달린 촉수형 센서가 너무 무섭게 생겼다고 다시 원래대로 돌려놓으라고 하지 뭐야, 정말이지…… 참, 혹시 우산 있어? 그럼 이거랑 바꾸지 않을래?",
+                "cn": "我用穹顶科技改造了这把公用伞，让它能调节形态和透明度，还能监测温湿度。可工程部觉得大材小用，还说上面须腕状的监测单元很恐怖，让我改回去，真是——对了，你有伞吗？能和我换吗？"
+            },
+            "asset": "char_4079_haini/CN_008"
+        },
+        {
+            "id": "char_4079_haini_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Eventide of the Depths', a volcanic power station that once lit the deep in a red glow... Once the war is over, how about we go see it together? Even if it has been overgrown by Seaborn creep, I'm sure you'd come with me to reawaken it without batting an eyelid, wouldn't you?",
+                "jp": "かつて「海底の夕景」と呼ばれたあの火山エネルギーステーションは、いつも赤々と輝き、あたり一面を照らしあげていたの……戦争が終結したら、わたしと一緒に見に行ってくれる？たとえそれがシーボーンが織りなす菌鞘に埋もれ、深い眠りに陥っていたとしても、ドクターならきっと平然と呼び覚ましてくれる……そうよね？",
+                "kr": "'해저의 석양', 그 화산 에너지 스테이션은 늘 붉게 빛나며 주변을 환하게 비춰주었어…… 전쟁이 끝나면 나랑 같이 보러 가지 않을래? 설령 시본의 명흔 아래, 깊이 잠들어 있다고 해도, 당신이라면 분명 낯빛 하나 변하지 않고 그걸 깨워 줄 수 있을 거야…… 그렇지?",
+                "cn": "“海底的晚照”，一座曾用赤色辉光照亮海底的火山能源站......等战争结束，跟我一起去看看它吧。哪怕它已经在海嗣的菌毯下陷入沉眠，你也一定会面不改色地跟我一起去唤醒它，对吗？"
+            },
+            "asset": "char_4079_haini/CN_009"
+        },
+        {
+            "id": "char_4079_haini_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Friendly reminder! Your face will become my canvas if you doze off at work... Wait, you're really asleep? Turn the temperature up two degrees, Little Handy. It wouldn't be any fun if the Doctor caught a cold.",
+                "jp": "えー、ドクターに申し上げます。勤務時間中の居眠りは、このルシーラに顔をキャンバス代わりにされかねませんので、ご遠慮ください――あら、本当に寝てるみたいね。「リトル・ハンディ」、執務室の温度を二度上げて、ドクターが風邪ひいたらシャレにならないわ。",
+                "kr": "아아, 박사에게 알립니다. 근무 중 낮잠을 잘 시, 이 루실라가 잠든 사람의 얼굴을 캔버스 삼아 그림을 그릴 수 있으니 유의해 주시기 바랍니다…… 어라, 진짜로 잠들었나 보네? '조력자', 집무실의 온도를 2도 올려 줘. 박사 감기 걸리면 안 되니까.",
+                "cn": "温馨提示，工作的时候打瞌睡，脸就会变成我的画板......真的睡着了？“小帮手”，把办公室的温度调高两度，博士要是感冒了，可一点都不有趣。"
+            },
+            "asset": "char_4079_haini/CN_010"
+        },
+        {
+            "id": "char_4079_haini_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Nice to meet you. I'm from Ægir and my name is... Hmm... Why are you staring at the bottle on my belt? Did you want a sip? Certainly, but I take no responsibility for what happens after you drink this ink.",
+                "jp": "ご機嫌よう、わたしはエーギルからやって来た……なぁーに？この腰のボトルをじろじろ見ちゃって。もしかして味が知りたいの？別にいいけど、インクなんか飲んで、あとでどうなってもわたしは知らないからね。",
+                "kr": "안녕, 난 에기르에서 온…… 응? 내 허리춤의 병을 보고 있는 것 같은데, 혹시 마셔보고 싶은 거야? 뭐 못 줄 것도 없지만, 잉크를 마시고 어떻게 되든 난 모르는 일이다?",
+                "cn": "你好，我是来自阿戈尔的......嗯？盯着我腰间的瓶子看，难不成是想喝一口？也不是不可以，不过喝墨水的后果还请自负。"
+            },
+            "asset": "char_4079_haini/CN_011"
+        },
+        {
+            "id": "char_4079_haini_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Pause, please, Doctor. Turn the image so I can see this one's back... What? This 'video' of yours only allows watching from a fixed angle?",
+                "jp": "ドクター、ちょっと映像を止めて。この人の背後を映してほしいの……えっ？あなたたちの「ビデオ」って平面的に記録してるだけなの？",
+                "kr": "박사, 미안한데 잠깐 영상 멈춰 줘. 이 사람의 뒷모습을 좀 보고 싶은데…… 응? 이 '녹화'라는 건 평면적으로만 기록이 가능한 거라고?",
+                "cn": "博士，麻烦暂停一下，把这个人的背面转给我看看......欸？“录像”只能看到一个面吗？"
+            },
+            "asset": "char_4079_haini/CN_012"
+        },
+        {
+            "id": "char_4079_haini_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Promotion? Have I really done so well? Or do you just really enjoy working with me?",
+                "jp": "昇進？わたし、そんなに立派にお務めを果たしたのかしら？それともこれは……わたしと一緒に仕事をするのがあんまりにも楽しかったから？",
+                "kr": "승진? 내 업무 수행 능력이 그렇게 좋았나? 아니면…… 그냥 나랑 일하는 게 즐거운 건가?",
+                "cn": "晋升？我做得真有这么好吗？还是说......你只是喜欢和我一起工作？"
+            },
+            "asset": "char_4079_haini/CN_013"
+        },
+        {
+            "id": "char_4079_haini_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Another promotion? What's the reason this time...? <i>Extremely</i> precise recommendations based on current movement... Uh-huh. What else? Leveraged her skills in maintenance and repair. Yeah yeah, I agree. C'mon, don't stop the praise, I'm all ears.",
+                "jp": "また昇進？今度はどうして？……海流の流れをよく読み取り、「一段と」適切な行動アドバイスをした、と。ふむふむ、それから？設備メンテナンスにおいて長所をよく発揮し――どうしたの？続けていいわよ。ドクターの誉め言葉ならいくらでも聞きたいわ。",
+                "kr": "또 승진? 이번엔 왜? ……해류의 동향을 근거로 '매우' 적절한 행동과 조언을 해주었기 때문이라고? 으음, 또 있어? 장비 유지 보수 부문에서 탁월한 업무 수행 능력을 발휘했다라…… 왜 멈춰? 계속 말해줘, 박사의 칭찬이라면 언제 들어도 좋으니까.",
+                "cn": "再次晋升？理由是什么？......根据洋流的动向给了“特别”准确的行动建议。还有吗？唔，发挥了设备维护的特长。怎么停了？接着夸嘛，我听着呢。"
+            },
+            "asset": "char_4079_haini/CN_014"
+        },
+        {
+            "id": "char_4079_haini_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Need me for data collection, or dome repair? Neither? You're always so full of surprises.",
+                "jp": "データ収集？それともドームのメンテ作業？どっちも違うの？あなたもサプライズを考えるのが上手ね。",
+                "kr": "데이터 수집? 아니면 돔의 유지 보수 작업? 둘 다 아니라고? 당신도 꽤나 서프라이즈를 좋아하는 편이구나.",
+                "cn": "要我采集数据还是维护穹顶？都不是？你也很会制造惊喜嘛。"
+            },
+            "asset": "char_4079_haini/CN_017"
+        },
+        {
+            "id": "char_4079_haini_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "You want me to be the captain? You'd better give me some interesting teammates.",
+                "jp": "わたしに隊長をやってほしいんなら、楽しそうな隊員を選んでちょうだいよね。",
+                "kr": "내가 팀장을 맡아주길 바라는 거라면, 재밌는 녀석들을 내 팀원으로 넣어줘야 할 거야.",
+                "cn": "要我当队长，你可得给我挑一些有趣的队员。"
+            },
+            "asset": "char_4079_haini/CN_018"
+        },
+        {
+            "id": "char_4079_haini_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Come with me, everyone. You'll always know me by the ink bottle I carry.",
+                "jp": "みんな、わたしのあとについてきて。見違う心配があるのなら、このインクボトルの色を目印にしてくれてもいいわよ。",
+                "kr": "모두 날 따라와. 만약 날 못 알아볼까 걱정이라면 이 잉크병의 색깔을 잘 기억해둬.",
+                "cn": "大家跟着我走就好。要是怕认不清人，可以记住我身上墨水瓶的颜色。"
+            },
+            "asset": "char_4079_haini/CN_019"
+        },
+        {
+            "id": "char_4079_haini_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Here comes a wave!",
+                "jp": "波に気を付けて！",
+                "kr": "파도 조심해!",
+                "cn": "是海浪！"
+            },
+            "asset": "char_4079_haini/CN_020"
+        },
+        {
+            "id": "char_4079_haini_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Take it easy. Haste makes waste.",
+                "jp": "ゆっくりでいいわ、焦らないで。慌ててミスなんてしたら本末転倒よ。",
+                "kr": "천천히 하자, 서두르지 말고. 당황해서 실수하면 더 골치 아프니까.",
+                "cn": "慢慢来，别着急，忙中出错就不好了。"
+            },
+            "asset": "char_4079_haini/CN_021"
+        },
+        {
+            "id": "char_4079_haini_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Go on, I'm listening.",
+                "jp": "何でも言ってちょうだい。ちゃんと聞いてるわ。",
+                "kr": "뭐든지 말해, 듣고 있으니까.",
+                "cn": "你尽管说，我听着呢。"
+            },
+            "asset": "char_4079_haini/CN_022"
+        },
+        {
+            "id": "char_4079_haini_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "I'm on the scene. The flow of the currents... Ah… it's a mess.",
+                "jp": "現着したわ、海流の流れは――うはー、滅茶苦茶ね。",
+                "kr": "도착했어, 해류의 흐름은…… 흐음, 엉망진창이네.",
+                "cn": "我已到达现场，洋流的走向——唔，一团糟啊。"
+            },
+            "asset": "char_4079_haini/CN_023"
+        },
+        {
+            "id": "char_4079_haini_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "It's time to teach these rascals a lesson.",
+                "jp": "好き勝手してくれちゃって、いい加減お仕置きが必要みたいね。",
+                "kr": "여기 이 제멋대로 구는 녀석들에겐 확실히 교육이 좀 필요할 것 같네.",
+                "cn": "确实该给这帮无法无天的家伙一点教训了。"
+            },
+            "asset": "char_4079_haini/CN_024"
+        },
+        {
+            "id": "char_4079_haini_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Who's disturbing the currents?",
+                "jp": "海流をかき乱したのはどこのどいつ？",
+                "kr": "해류를 어지럽힌 녀석은 어디에 있지?",
+                "cn": "搅乱洋流的家伙在哪里？"
+            },
+            "asset": "char_4079_haini/CN_025"
+        },
+        {
+            "id": "char_4079_haini_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Close your eyes, feel the undulating waves... Too bad, you've fallen into my trap.",
+                "jp": "目を閉じて、波のリズムを感じて……なーんて、信じたら負けよ。",
+                "kr": "눈을 감고 파도의 리듬을 느껴 봐…… 설마 정말 믿은 건 아니지?",
+                "cn": "闭上眼，感受海浪的律动......那你就上当了。"
+            },
+            "asset": "char_4079_haini/CN_026"
+        },
+        {
+            "id": "char_4079_haini_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Aww, look at you, you've got ink all over you again.",
+                "jp": "あーあ、またインクまみれになっちゃって。",
+                "kr": "하아, 너 또 잉크투성이가 됐네?",
+                "cn": "看看你，又被墨水溅了一身是不是？"
+            },
+            "asset": "char_4079_haini/CN_027"
+        },
+        {
+            "id": "char_4079_haini_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Say something. It would be sad if you sank into the depths without a sound.",
+                "jp": "海底にだんまりと沈み込むのはあまりに不憫ね。言い残すことはない？",
+                "kr": "남길 말은 없어? 말 한마디 못 남기고 바다 밑에 잠기게 되는 건 너무 불쌍하잖아.",
+                "cn": "说点什么吧。一声不吭地沉入海底，那也太可悲了。"
+            },
+            "asset": "char_4079_haini/CN_028"
+        },
+        {
+            "id": "char_4079_haini_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Defeating a strong foe is satisfying, but don't forget to look up once in a while. See, the sights above… aren't they beautiful?",
+                "jp": "目の前の強敵を倒したのはもちろん喜ばしいことだけど、時々上を向くのも忘れずにね。ほら、頭上の景色を見てごらん――とても綺麗でしょ？",
+                "kr": "눈앞의 강적을 쓰러뜨리는 것도 물론 기뻐할 만한 일이지만, 가끔은 고개를 들어 위의 경치를 올려다봐. 엄청 아름답다?",
+                "cn": "击败强敌当然值得高兴，不过也要记得时常抬头，看看头顶的景色——很美哦。"
+            },
+            "asset": "char_4079_haini/CN_029"
+        },
+        {
+            "id": "char_4079_haini_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "You carried out the plan without the slightest fumble. Not bad. The Institute of Facility Management would appreciate people like you.",
+                "jp": "計画を寸分違わずに果たすなんて、やるじゃない。設備管理所はあなたみたいな人材大歓迎よ。",
+                "kr": "한 치의 오차도 없이 계획을 실행해 내다니, 대단한걸. 넌 시설 관리소에서 딱 좋아할 만한 인재야.",
+                "cn": "一丝不苟地完成了计划，很不错嘛。设施管理所就喜欢你这样的人才。"
+            },
+            "asset": "char_4079_haini/CN_030"
+        },
+        {
+            "id": "char_4079_haini_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "A little deviation won't cause any serious issues. I'll stay behind to check for problems.",
+                "jp": "誤差が少しあれど、大した影響はないわ。わたしが残って問題の所在を突き止めておくから。",
+                "kr": "약간의 오차가 있었지만 큰 영향은 없어. 문제점은 내가 남아서 확인할게.",
+                "cn": "有一点小误差，影响不大。我会留下来排查问题。"
+            },
+            "asset": "char_4079_haini/CN_031"
+        },
+        {
+            "id": "char_4079_haini_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "I know trial-and-error is a painful process. But if you keep knocking yourself like this, I may have to deal with the next job alone, imagine how dull it would be.",
+                "jp": "トライ・アンド・エラーの過程が苦しいのはわかるけど、いつまでもそうやってくよくよしてるなら、次の仕事はわたしだけで行っちゃうよ？",
+                "kr": "시행착오의 과정이 고통스러운 건 알지만, 그렇다고 이렇게 계속 침울해져 있을 거면, 다음번부터는 나 혼자 한다?",
+                "cn": "我知道试错的过程很痛苦。但你要是再这么沮丧下去，下一轮工作我就自己去了？"
+            },
+            "asset": "char_4079_haini/CN_032"
+        },
+        {
+            "id": "char_4079_haini_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Turn on the lights, Little Handy. Hey Little Handy? Hello? Alright, where's the switch...?",
+                "jp": "「リトル・ハンディ」、ライトをつけて――もしもーし……いないの？まあいいわ。えっと、スイッチスイッチ……",
+                "kr": "'조력자', 불 좀 켜 줄래…… 응? 없는 건가? 뭐 됐다. 어디 보자, 스위치가 어디 있으려나……",
+                "cn": "“小帮手”，帮我开下灯——不在？好吧，让我找找开关在哪里......"
+            },
+            "asset": "char_4079_haini/CN_033"
+        },
+        {
+            "id": "char_4079_haini_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Well, well, are you asking for a poke in the head?",
+                "jp": "うっ……もう、久々に頭をぐりぐりしてほしいのかしら？",
+                "kr": "읏…… 오랜만에 머리가 근질근질한가 봐?",
+                "cn": "太久没戳你脑袋了？"
+            },
+            "asset": "char_4079_haini/CN_034"
+        },
+        {
+            "id": "char_4079_haini_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "You can use the ink as you wish, but the mapper? Nah-uh.",
+                "jp": "インクは好きに使っていいわ。でも測量機はダーメ。",
+                "kr": "잉크는 마음껏 써도 좋아. 하지만 측정기는…… 안 돼.",
+                "cn": "墨水随便你用。至于测绘仪——不给碰。"
+            },
+            "asset": "char_4079_haini/CN_036"
+        },
+        {
+            "id": "char_4079_haini_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4079_haini/CN_037"
+        },
+        {
+            "id": "char_4079_haini_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "My schedule today? Let me check... Huh? You don't work on the first day of the year? Hm, landlubbers do have some strange customs. Alright, let me plan out the day... first, help the Doctor pick a New Year's present.",
+                "jp": "私の今日の予定？そうね、確認してみるわ――え、新年初日は仕事をしないの？陸の人間にはそんな風習があるのね、変わってるわ。それなら、今日の予定を練り直さないと……まず最初に、ドクターを連れて新年のプレゼント選びね。",
+                "kr": "오늘 내 스케줄? 한번 확인해 볼게…… 응? 새해 첫날에는 일을 하지 않는다고? 육지 사람들에겐 이런 풍습도 있구나. 신기하네. 그렇다면 오늘 일정을 다시 짜 봐야겠네…… 그럼 우선 먼저, 박사랑 같이 새해 선물 고르러 갈래.",
+                "cn": "好奇我今天的安排？让我看看工作日程表——欸？新年第一天不工作，陆上人还有这样的习俗？好古怪。那，容我仔细安排一下今天的日程......第一条，先陪博士挑一份新年礼物。"
+            },
+            "asset": "char_4079_haini/CN_038"
+        },
+        {
+            "id": "char_4079_haini_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "You look cheerful. Up to no good?",
+                "jp": "そんなにウキウキしちゃって、何かイケナイことでもしたのかしら？",
+                "kr": "뭐야, 왜 그렇게 들뜬 거야? 무슨 나쁜 짓이라도 하고 왔나?",
+                "cn": "这么高兴，做什么坏事了？"
+            },
+            "asset": "char_4079_haini/CN_042"
+        },
+        {
+            "id": "char_4079_haini_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Look who I found. While there's a vibrant party going on, we've got a lonely soul here reading... Oh, foreign languge, I can't understand it. Hmm.. how about this, Doctor? You tell me what the book is about. I'll tell you the patterns and meanings I've garnered. They're hidden in these lines and spaces between those words. Interested?",
+                "jp": "みんながわいわいやってるのに、ここでひとり何してるのかーしら――って、外国の文字か、それじゃ読めないわ……ねぇ、ドクターが本の中身を教えてくれたら、わたしもこの文字たちを作る線と空白から読み取れる模様と象徴を解説してあげる、こういうのはどう？",
+                "kr": "다들 떠들썩하니 놀고 있던데, 박사는 여기서 혼자 뭘 읽고 있는 걸까나…… 흠, 외국 문자라 그런가 알아볼 수가 없네…… 그럼 있잖아 박사, 이렇게 하자. 당신이 책 내용을 알려주면, 난 이 문장을 구성하고 있는 선과 여백에서 읽어낼 수 있는 무늬와 메시지를 해석해 줄게, 어때?",
+                "cn": "不去和其他人一起热闹，在这里读什么书呢——呃，是外国字，我看不懂......这样，博士，你给我讲讲书里的内容，我把我从这些构成文字的线和空白看出的图案和寓意讲给你听，怎么样？"
+            },
+            "asset": "char_4079_haini/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Lauryn Allman",
+            "global": "Lauryn Allman"
+        },
+        "cn": {
+            "native": "孙艳琦",
+            "global": "Yanqi Sun"
+        },
+        "jp": {
+            "native": "深田愛衣",
+            "global": "Ai Fukada"
+        },
+        "kr": {
+            "native": "김도희",
+            "global": "Kim Do-hee"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

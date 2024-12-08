@@ -99,7 +99,7 @@
             "text": {
                 "en": "I don't dislike Rhodes Island. Instead, I think you guys are doing your job just fine. People are dyin' in the world right as we speak, and with all those doctors cooping up in labs, waiting for patients to knock on their clinics' doors, diseases ain't rid themselves of these lands. Hardly anyone gets it, but you people seem to have it in mind... Keep up the good stuff, will ya?",
                 "jp": "ロドスは嫌いじゃない、いや、むしろさすがだなって思ってる。世の中じゃこうしてる間にも人は死んでる、どっかで隠れて治療したり薬を作ってるだけじゃ、何の役にも立てずにテラが滅ぶ日を迎えちまう。それに気づく奴はあんまいないけど、あんたらはよくわかってる。うん、いいじゃねぇか！",
-                "kr": "로도스 아일랜드는 싫지 않아. 아니, 오히려 역시 로도스 아일랜드구나…… 싶다니까? 이 세상엔 이러고 있는 동안에도 사람이 죽어 나가고 있어. 어딘가에 숨어서 치료하거나, 약을 만드는 것만으로는 아무 도움도 되지 못하고 테라가 망하는 날을 맞이하게 될 거야. 그걸 알아차린 녀석은 별로 없지만, 당신들은 잘 알고 있어. 응, 좋잖아 이런 거!",
+                "kr": "로도스 아일랜드는 싫지 않아. 아니, 오히려 역시 로도스 아일랜드구나…… 싶다니까? 이 대지엔 이러고 있는 동안에도 사람이 죽어 나가고 있어. 어딘가에 숨어서 치료하거나, 약을 만드는 것만으로는 아무 도움도 되지 못하고 테라가 망하는 날을 맞이하게 될 거야. 그걸 알아차린 녀석은 별로 없지만, 당신들은 잘 알고 있어. 응, 좋잖아 이런 거!",
                 "cn": "我不讨厌罗德岛，相反，我觉得你们很专业。这片大地上每时每刻都有人死去，光是缩起来行医制药，直到泰拉毁灭也不会有什么效果的。没多少人明白这一点，但你们心里很清楚，嗯嗯，真好！"
             },
             "asset": "char_225_haak/CN_006"
@@ -147,7 +147,7 @@
             "text": {
                 "en": "Have Waai Fu and Hung left? Really? Aight, I'm gonna hang out in your office for a while then. Y'know, if anyone can make this land a better place, it's gotta be people like them. You, meanwhile... Well, guess we are simply two peas in a pod, aren't we?",
                 "jp": "ワイフー姉とウンは出てったか？もういない？よし。執務室ちょっと借りるな。本当はさ、世界を良くできるのはああいう奴らなんだろうな。あんたはなぁ、どうかな、どっちかと言えば俺側の人間なんじゃねぇか？",
-                "kr": "와이후 누나랑 훔은 나갔지? 지금 여기 없는 거 맞지? 잘 됐다. 집무실 좀 빌릴게? 사실은 말이야, 세상을 좋게 만드는 건 그런 녀석들일 거야. 그쪽은, 글쎄……? 굳이 어느 쪽이냐 따지자면, 나랑 비슷한 부류 아니야?",
+                "kr": "와이후 누나랑 훔은 나갔지? 지금 여기 없는 거 맞지? 잘 됐다. 집무실 좀 빌릴게? 사실은 말이야, 이 대지를 좋게 만드는 건 그런 녀석들일 거야. 그쪽은, 글쎄……? 굳이 어느 쪽이냐 따지자면, 나랑 비슷한 부류 아니야?",
                 "cn": "槐琥姐和吽出去了吗？出去了？那太好了，就让我在你办公室里浪费下时间吧。其实啊，他们才是能让这片大地变好的人。而老板你，我猜猜，其实我们两个更相近些，是不是？"
             },
             "asset": "char_225_haak/CN_009"
@@ -435,7 +435,7 @@
             "text": {
                 "en": "I doubt I can make the world a better place on my own, but at least I can stop it from gettin' any worse with your help.",
                 "jp": "俺の腕じゃあこの世を良くはできないかもしれねぇ。でもあんたと一緒なら、これ以上悪くならないようにはできる。",
-                "kr": "내 실력으로는 이 세상을 좋게 만들진 못할지도 몰라. 하지만 그쪽이랑 함께라면, 이 이상 나빠지지 않게는 할 수 있어.",
+                "kr": "내 실력으로는 이 대지를 좋게 만들진 못할지도 몰라. 하지만 그쪽이랑 함께라면, 이 이상 나빠지지 않게는 할 수 있어.",
                 "cn": "也许我的技术不能让这片大地变得更好，但你我合起来，能让它变得没那么坏。"
             },
             "asset": "char_225_haak/CN_029"
@@ -561,9 +561,9 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "新年快乐啊，老板。吽刚炒了几个菜，尝了没有？我倒不怎么在意过节，吵吵闹闹，又没什么用，不如在这里坐着吹吹风。不过，要吃糖水吗？我从餐桌上拿的，味道还真不错。",
+                "en": "Happy New Year, my dude. Hung just made a bunch of food, wanna try? I don't really do holidays myself—big rowdy pointless time, when you could be sittin' here takin' the breeze in. But hey, want some tong sui? I got it from the dining table, and man, it's not half bad.",
                 "jp": "明けましておめでとう、旦那。ウンのやつが作った料理はもう食ったか？俺はこういうイベント事はどうでもいい方なんだけどな。騒がしいし、大した意味もねぇし、いっそここで涼んでる方がいいや。あ、糖水（トンスイ）食べる？メシのついでにくすねて来たんだけど、なかなか美味いぜ。",
-                "kr": "新年快乐啊，老板。吽刚炒了几个菜，尝了没有？我倒不怎么在意过节，吵吵闹闹，又没什么用，不如在这里坐着吹吹风。不过，要吃糖水吗？我从餐桌上拿的，味道还真不错。",
+                "kr": "새해 복 많이 받아, 나리. 훔이 만든 요리는 좀 먹어봤어? 난 기념일 같은 건 안 챙기는 스타일이라. 시끄러운데다, 큰 의미도 없잖아. 그걸 보느니 차라리 여기서 바람이나 쐬는 게 낫지. 그나저나 탕수이 먹을래? 내가 식탁에서 슬쩍 가져온 건데, 맛이 꽤 좋아.",
                 "cn": "新年快乐啊，老板。吽刚炒了几个菜，尝了没有？我倒不怎么在意过节，吵吵闹闹，又没什么用，不如在这里坐着吹吹风。不过，要吃糖水吗？我从餐桌上拿的，味道还真不错。"
             },
             "asset": "char_225_haak/CN_038"
@@ -593,9 +593,9 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "很重要吗？我倒不是真的很在意自己到底要成为一个什么样的人，只是槐琥姐和吽他们好像总是在期待着什么，罗德岛又比我想的要好那么一点，我当然愿意跟着你们继续做。",
+                "en": "Does it matter that much? I don't really super-mind the kind of man I turn out to be in the end, but it's like Waai Fu and Hung keep having these hopes of somethin'. And Rhodes Island's a little better than what I was thinkin' here. So no duh, I'm happy to keep goin' with you guys.",
                 "jp": "俺がどんな人間になるかとか、そんなに大事なことかねぇ？正直どうでもいいんだけどよ、ワイフー姉やウンのやつは、いっつも何か期待してるみてぇだし、ロドスは俺の想定よりかはほんのちょっと良いとこだからさ、もちろん旦那たちと仕事を続けるぜ。",
-                "kr": "很重要吗？我倒不是真的很在意自己到底要成为一个什么样的人，只是槐琥姐和吽他们好像总是在期待着什么，罗德岛又比我想的要好那么一点，我当然愿意跟着你们继续做。",
+                "kr": "그게 그렇게 중요해? 난 내가 어떤 사람이 될지 별로 신경 안 써. 그냥 와이후 누나랑 훔은 계속 내게 뭔가 기대하고 있고, 로도스 아일랜드도 내가 생각했던 것보다 조금 더 괜찮은 곳이어서 말이지. 그래서 난 모두와, 그리고 나리와 계속 함께 일할 거야.",
                 "cn": "很重要吗？我倒不是真的很在意自己到底要成为一个什么样的人，只是槐琥姐和吽他们好像总是在期待着什么，罗德岛又比我想的要好那么一点，我当然愿意跟着你们继续做。"
             },
             "asset": "char_225_haak/CN_044"

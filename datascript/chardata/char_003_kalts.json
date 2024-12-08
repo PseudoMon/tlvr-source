@@ -561,9 +561,9 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "新年到了。希望你能以适当的方式合理度过这个短暂的假期。并且祝愿你能健康度过这一年，不要在医务室浪费太多时间。",
-                "jp": "新年到了。希望你能以适当的方式合理度过这个短暂的假期。并且祝愿你能健康度过这一年，不要在医务室浪费太多时间。",
-                "kr": "新年到了。希望你能以适当的方式合理度过这个短暂的假期。并且祝愿你能健康度过这一年，不要在医务室浪费太多时间。",
+                "en": "It is once again the New Year. I only hope that you will find a suitable manner with which you can enjoy this brief holiday logically. Additionally, I wish that you will enjoy this upcoming year in good health, and won't spend too much time in the infirmary.",
+                "jp": "新たな年の到来だな。短い休暇ではあるが、節度を持って合理的に過ごしてほしい。この一年、君が医務室で時間を浪費してしまわぬよう、健康に過ごせることを願うよ。",
+                "kr": "새로운 한 해가 왔네. 합리적인 방식으로 이 짧은 휴가를 보내길 바라지. 물론 올해도 건강하고, 너무 쓸데없이 의료실에서 시간 낭비하지 말도록.",
                 "cn": "新年到了。希望你能以适当的方式合理度过这个短暂的假期。并且祝愿你能健康度过这一年，不要在医务室浪费太多时间。"
             },
             "asset": "char_003_kalts/CN_038"
@@ -593,9 +593,9 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "罗德岛所承载的意义，不该由任何人来告诉你，也不该被无法触及的回忆束缚，而是需要现在的你自己找到答案。终有一天，你会决定罗德岛的航向。相信你做出的选择，会为我们谈论过的理想负责。",
-                "jp": "罗德岛所承载的意义，不该由任何人来告诉你，也不该被无法触及的回忆束缚，而是需要现在的你自己找到答案。终有一天，你会决定罗德岛的航向。相信你做出的选择，会为我们谈论过的理想负责。",
-                "kr": "罗德岛所承载的意义，不该由任何人来告诉你，也不该被无法触及的回忆束缚，而是需要现在的你自己找到答案。终有一天，你会决定罗德岛的航向。相信你做出的选择，会为我们谈论过的理想负责。",
+                "en": "It is not for anyone to tell you what the significance Rhodes Island carries is. Neither should you be bound by your unreachable memories. Instead, the current you must find that answer yourself. There will come a day when you'd decide Rhodes Island's course. I trust that your decision will bear responsibility to the ideals that we discussed.",
+                "jp": "ロドスの存在意義は誰かに教わるものではないし、触れることも叶わない過去に縛られるべきものでもない。重要なのは、今の君がその答えを導き出すことだ。いつの日か、君がロドスの進路を決める時が訪れるだろう。その選択によって、我々が共に議論を重ねた理想が果たされると、私は信じている。",
+                "kr": "로도스 아일랜드가 지닌 의미는 다른 사람의 생각이어서도 안 되며, 또 닿을 수 없는 기억에 얽매여서도 안 돼. 그 답은 지금의 너 스스로 찾아야만 해. 결국 언젠가 네가 로도스 아일랜드의 항로를 결정하는 날이 오겠지. 난 너의 선택이 우리가 나누었던 이상에 대한 책임을 질 거라고 믿고 있어.",
                 "cn": "罗德岛所承载的意义，不该由任何人来告诉你，也不该被无法触及的回忆束缚，而是需要现在的你自己找到答案。终有一天，你会决定罗德岛的航向。相信你做出的选择，会为我们谈论过的理想负责。"
             },
             "asset": "char_003_kalts/CN_044"

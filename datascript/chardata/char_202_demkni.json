@@ -531,7 +531,7 @@
             "text": {
                 "en": "Doctor, you might do a bit of research into the past in your free time. You will find many a thing of great interest.",
                 "jp": "ドクター、時間があればの話だが、過去の知識を学んでみるのも面白いぞ。",
-                "kr": "박사. 나중에 시간이 되면, 과거의 지식을 배워보는 것도 좋을 거다.",
+                "kr": "박사. 나중에 시간이 되면, 과거의 지식을 배워보는 것도 좋을 거다. 그곳에서 많은 흥미로운 것들을 발견할 수 있을 테니.",
                 "cn": "博士，有时间的话去补习一些过往的知识吧，你会在其中，发现许多有趣的事。"
             },
             "asset": "char_202_demkni/CN_036"
@@ -561,9 +561,9 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "人生就是成长的堆砌，新的一年也好好磨练自己，{@nickname}。",
-                "jp": "人生就是成长的堆砌，新的一年也好好磨练自己，{@nickname}。",
-                "kr": "人生就是成长的堆砌，新的一年也好好磨练自己，{@nickname}。",
+                "en": "Life is the accumulation of maturity. Hone yourself well in the coming year, {@nickname}.",
+                "jp": "人生とは成長という砦を築くようなものだ。新たな一年も、自分磨きを怠らないようにな、{@nickname}。",
+                "kr": "인생이란 성장의 벽돌을 쌓아올리는 것과도 같지. 새로운 한 해에도, 스스로를 갈고 닦는 것을 게을리하지 말도록, {@nickname} 박사.",
                 "cn": "人生就是成长的堆砌，新的一年也好好磨练自己，{@nickname}。"
             },
             "asset": "char_202_demkni/CN_038"
@@ -593,9 +593,9 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "规则和传统，它的建立代表着它会被破坏，我要做的并不是审判或是制裁，我要做的只是将乱序的转回有序，将混乱的重归井然。这条路很难走，但我不会被阻挡。",
-                "jp": "规则和传统，它的建立代表着它会被破坏，我要做的并不是审判或是制裁，我要做的只是将乱序的转回有序，将混乱的重归井然。这条路很难走，但我不会被阻挡。",
-                "kr": "规则和传统，它的建立代表着它会被破坏，我要做的并不是审判或是制裁，我要做的只是将乱序的转回有序，将混乱的重归井然。这条路很难走，但我不会被阻挡。",
+                "en": "The founding of regulations and traditions symbolizes that they might be broken, and it is not my job to judge nor to punish, but simply to see disorder rewound to order and chaos returned to organization. The road is a challenging one, but I won't be stopped.",
+                "jp": "規則と伝統。その確立は、いずれ破壊されることを意味する。私が為そうとしているのは裁決でも制裁でもなく、ただ乱れたものを整え直し、秩序によって混乱を収めることだ。困難な道であるが、私が諦めることはない。",
+                "kr": "규칙과 전통, 이 두 가지는 언젠가 파괴될 것을 상정하며 탄생하지. 내가 할 일은 심판이나 제재가 아니다. 난 어지럽혀진 질서를 바로잡고, 혼란을 없애고 싶을 뿐이다. 분명 힘든 여정이겠지, 하지만 난 멈추지 않을 거다.",
                 "cn": "规则和传统，它的建立代表着它会被破坏，我要做的并不是审判或是制裁，我要做的只是将乱序的转回有序，将混乱的重归井然。这条路很难走，但我不会被阻挡。"
             },
             "asset": "char_202_demkni/CN_044"
