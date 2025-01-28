@@ -1,0 +1,628 @@
+{
+    "charid": "char_4058_pepe",
+    "nameid": "pepe",
+    "names": {
+        "en": "Pepe",
+        "jp": "ペペ",
+        "kr": "페페",
+        "cn": "佩佩"
+    },
+    "voices": [
+        {
+            "id": "char_4058_pepe_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Your desk needs tidying up? It doesn't look messy at all. Much better than my study, hehe. Don't worry, no mess is too much for me. Truth is, I can't think straight in a tidy room.",
+                "jp": "君のデスク、片付ける必要などあるのかね？見たところ十分片付いているよ。私の書斎の方がこの一万倍はぐちゃぐちゃさ。なに、どれほど乱雑だろうが、仕事はきちんとこなせるからね。むしろ部屋が整然としてると、逆に思考が乱れるんだ。",
+                "kr": "네 책상, 정리할 필요가 있을까? 내가 보기엔 꽤 깔끔한데, 내 서재가 여기보다 만 배는 더 지저분해. 아무리 어지럽혀져 있어도 일만큼은 제대로 할 수 있으니까 그건 걱정 말고. 난 방이 깔끔하게 정돈되어 있으면 오히려 더 집중을 못 하는 스타일이라.",
+                "cn": "你的桌子还需要收拾？看着不还挺干净的嘛，我的书房可比这乱一万倍。放心，再乱我也能正常工作——一旦房间变得井井有条，混乱的就是我的思路了。"
+            },
+            "asset": "char_4058_pepe/CN_001"
+        },
+        {
+            "id": "char_4058_pepe_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Come on! It's just midnight, too early for bedtime. In Sargon, the days are super hot, so our 'day' only really starts when the sun goes down. Staying up messes with your circadian rhythm? Pfft, big deal. It's worth it when you see the lotuses blooming at sunrise.",
+                "jp": "まったく、いまてっぺんを回ったばかりだろ、寝るにはまだ早い。サルゴンだと昼間は灼熱だからね、日が落ちてからやっと一日が始まるんだ。昼夜逆転？それが何か？いっそ夜が明けるまで粘って、咲き誇ったスイレンを見に行こうよ。",
+                "kr": "에이. 이제 겨우 12시인걸. 아직 자기엔 좀 이르지. 사르곤은 낮이 엄청 뜨거워서, 해가 진 이후에야 제대로 된 하루가 시작되곤 해. 낮과 밤이 바뀐 것 같다고? 그게 뭐 어때서? 아예 꼬박 새고 날 밝으면 수련이나 보러 가자.",
+                "cn": "哎呀，才夜里十二点，还不到休息的时间呢。萨尔贡的白天非常炎热，人们每一天的生活都是等到太阳落山后才正式开始的。昼夜颠倒？那又怎样嘛？直接熬到清晨去看绽放的睡莲好啦。"
+            },
+            "asset": "char_4058_pepe/CN_002"
+        },
+        {
+            "id": "char_4058_pepe_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "My younger brother and I were born into a family of court historians, the Guardian of the King’s Secret. We grew up surrounded by stacks of scrolls handed down from our ancestors. As kids, we didn't get how valuable they were and just fought over the ones with more pictures. Thinking back, the pictures weren't half as fun as our fights.",
+                "jp": "代々史官を務める一族の出身なのでね、幼い頃から私と弟は、ご先祖様が遺した巻物の山々と一緒に育ったんだ。小さい時はそれがいかに貴重なものか分かってなくてさ、挿絵が多い本を巡って喧嘩したものだよ。今思えば、挿絵よりも、じゃれ合っていた時間の方が得難いものだったね。",
+                "kr": "대대로 사관 가문이라, 어릴 때부터 나랑 동생은 선조들이 남긴 두루마리에 파묻혀 지냈어. 어렸을 때는 그 두루마리들이 얼마나 귀한 건지 잘 몰라서, 삽화가 더 많은 걸 고르기 위해서 동생과 다투기도 했지. 지금 생각해 보면, 그 삽화보다 우리가 다투고 장난쳤던 시간이 더 값졌던 것 같아.",
+                "cn": "因为出身史官家族，从小伴着我与弟弟长大的，是祖先留下的一摞摞书卷。年幼时，我俩根本不懂它们的珍贵，常为了一些配图多的书争执。现在想想，上面的配图哪有我们打闹的时光有意思呀。"
+            },
+            "asset": "char_4058_pepe/CN_003"
+        },
+        {
+            "id": "char_4058_pepe_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "That's a figurine of the Shah on my desk. He's basically treated like a god in Sargon. I remember trawling across the entire desert just to dig up the relics he left behind... I came back empty-handed though... But, it's okay. I still felt good about getting to bring his figurine to visit the places he'd been.",
+                "jp": "私のデスクに置いてあるのはシャアの彫像だよ。サルゴンでは神とも同じ御方さ。かつてはシャアの遺跡を発掘するために、だだっ広い砂漠を端から端まで旅したものだ……はぁ、結局収穫はなかったけどね、彫像と共に彼の足跡を辿るだけでも楽しかったよ。",
+                "kr": "내 책상 위에 놓여 있는 건 샤의 조각상이야. 사르곤에서는 신과 같은 존재지. 예전에 샤의 유적을 발굴하기 위해 드넓은 사막을 헤집고 다녔던 게 생각나네…… 하아, 뭐 별다른 수확은 없었지만, 조각상과 함께 그의 발자취를 좇는 것만으로도 정말 즐거웠어.",
+                "cn": "我桌上摆着的是沙阿的雕像，在萨尔贡他可是等同于神祇的。想当年为了发掘他留下的遗迹，我穿越了一整片沙漠......唉，虽然最后一无所获，但带着他的雕像，去了他去过的地方也很开心。"
+            },
+            "asset": "char_4058_pepe/CN_004"
+        },
+        {
+            "id": "char_4058_pepe_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "The pattern on my hood? It's my family's emblem. As the Shahanshah's personally appointed historians, our duty is to see and faithfully record everything that happens. Although... there are times when they prefer us to be silent witnesses.",
+                "jp": "私のフードの模様？ああ、これは我が一族のシンボルさ。諸王の王が直々に任ぜられた史官の系譜として、目の前で起きたこと全てを注視し、事実を認めるのは一族の誰もが持つ使命だよ。とは言え……時に私たちは、静かな視線を注ぐことだけを求められたりもするけどね。",
+                "kr": "내 후드의 무늬? 아, 이건 우리 가문의 상징이야. 왕중왕이 직접 임명한 사관 명문가로서, 눈앞에서 일어나는 모든 일을 주시하고 사실만을 기록하는 것, 그게 우리 가문의 모두에게 주어진 사명이지. 그렇지만 때로는…… 조용히 바라보는 것만 요구될 때도 있어.",
+                "cn": "我帽子上的图案？哦，是我家族的象征。作为万王之王亲封的史官世家，关注眼前发生的一切并如实记述下来是家族中每个人的使命。不过嘛......有时，他们更希望我们就做一双沉默的眼睛。"
+            },
+            "asset": "char_4058_pepe/CN_005"
+        },
+        {
+            "id": "char_4058_pepe_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Doctor, there's a Juncus pen that has been passed down for generations in my family. It has documented many extraordinary lives and left its mark on treasured scrolls and manuscripts. I'm thinking, Doctor, if I were to be handed down that pen... How about I start with the stories of all its previous owners?",
+                "jp": "ドクター、我が家には遥か昔から受け継がれてきたイグサのペンがあって、非凡な者たちの一生を数多く書き記してきたんだ。たくさんの貴重な経典や写本の中にこのペンの跡は残っているんだよ。もし私がそのペンを継いだら……そうだね、まずはそれを使ってきた人たちのことを書いてみようかな。",
+                "kr": "박사, 우리 집에는 아주아주 오래전부터 전해 내려온 골풀 붓펜이 있어. 그걸로 비범한 사람들의 일생을 수없이도 많이 기록해 왔지. 많은 귀중한 경전과 사본에도 이 펜의 흔적이 남아있어. 만약 내가 그 붓펜을 이어받게 된다면…… 그래, 난 그 펜을 사용했던 사람들에 대해 써볼까 해.",
+                "cn": "博士，我家里有支传了很多很多年的灯芯草笔，它记述过很多不凡之人的一生，在许多珍贵的经卷、抄本上都留下了字迹。你说，要是我拿到那支笔......不如就先写写曾经拿过它的人们吧。"
+            },
+            "asset": "char_4058_pepe/CN_006"
+        },
+        {
+            "id": "char_4058_pepe_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Hey, Doctor! I brought back a whole bunch of souvenirs for you. A few amulets, several volumes of supernatural tales, and a golden— Hey, don't swat it! The locals consider this bug a divine emissary that keeps travelers safe on their journeys, so promise you'll take good care of it!",
+                "jp": "今回の旅では、君にたくさん良い物を持って帰ってきたんだよ。護符が何枚かと、奇談怪談本が数冊、それから金色の――おっと、叩かないでくれ！現地の人はこの虫を神の使者と見なしていて、旅人のお守りなんだ。ちゃんと可愛がってあげてほしい。",
+                "kr": "이번 여행에서 박사한테 줄 좋은 물건들을 잔뜩 가져왔어. 여기 호신 부적, 기담 괴담 책, 그리고 황금색…… 앗, 내려치면 안 돼! 현지 사람들은 이 벌레를 신의 사자로 여긴다고! 이 아인 여행자들을 지켜 주는 부적 같은 존재야, 그러니까 소중하게 잘 돌봐 줘.",
+                "cn": "这次远行回来，我给你带了不少好东西，博士。有几枚护身符，几本志怪传说，还有一只金黄色的——哎，你别拍它呀！当地人把这种虫子当作神的使者，它会庇佑旅人平安，你可得好好养起来。"
+            },
+            "asset": "char_4058_pepe/CN_007"
+        },
+        {
+            "id": "char_4058_pepe_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Doctor, excavation work isn't as exciting as everyone thinks it is. It's mostly tedious and repetitive labor. If you really want to build a career on it, the best way is to either have a kindred spirit by your side, or a good rival to push you. That’s how you achieve more, and go further.",
+                "jp": "ドクター、発掘現場の仕事は思うほど面白くはないんだよ。ほとんどは地味な作業の繰り返しで、最後までやり抜こうと思うなら、仲間を持つのが一番だね。それか、ライバルでもいい。お互い競い合ううちに、いつの間にか遠くに進んでいるものだ。",
+                "kr": "박사, 발굴 현장 일은 사실 그렇게 재미있진 않아. 대부분은 단조로운 작업의 반복이거든. 그걸 버티기 위해선 함께해 줄 동료가 있는 게 제일이고, 그게 어렵다면 뭐 경쟁자가 있는 것도 나쁘지 않지. 그렇게 서로 경쟁하다 보면 더 먼 곳까지 나아갈 수 있거든.",
+                "cn": "博士，发掘现场的工作没有大家想象中精彩，大多是些重复乏味的工作，要想坚持下来，最好能有同路人的陪伴。或者，能有个竞争的对手也行，就这么互相较着劲，路也能越走越远。"
+            },
+            "asset": "char_4058_pepe/CN_008"
+        },
+        {
+            "id": "char_4058_pepe_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Hey, Doctor. Wanna look around the bottom of this pit? Give me your hand. Careful! Now, this dirt might seem unimpressive, only going up to your knees, but buried under it are traces of the people who lived here centuries ago. It's difficult to explain, but the land remembers all that humanity does, and all the choices we make.",
+                "jp": "ねえ、ドクター、坑道に降りてみない？気を付けてね、ここの地層は君の膝ほどの高さもないけどさ、中に埋まっているのは、数百年も人々が生活してきた痕跡なんだ。具体的な原理を説明すると複雑なんだけど、人々の行動や、歩いた道、それら全てを大地は覚えているんだよ。",
+                "kr": "박사, 갱도에 들어가 보지 않을래? 조심해, 무릎 높이도 되지 않는 토층이지만, 그 속에 묻혀 있는 건 수백 년 간 사람들이 생활했던 흔적이야. 구체적인 원리를 설명하자면 복잡하지만, 사람들의 행동, 걸어왔던 길을 이 대지는 모두 기억하고 있어.",
+                "cn": "哎，博士，要不要到坑底来看看？小心，别看这些土层堆积起来还不如你的膝盖高，里面掩埋的，可是数百年里人们生活过的痕迹。具体原理很复杂，但人们做的事、走的路，大地都会记得哦。"
+            },
+            "asset": "char_4058_pepe/CN_009"
+        },
+        {
+            "id": "char_4058_pepe_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Too relaxed to say anything? Hehe, of course you are! This is the soothing incense I brought from home. One whiff is enough to… Asleep already? Did I use too much? Oops... I did... now the Doctor's gonna be out for a whole day.",
+                "jp": "気持ちが落ち着くって？それでいいんだよ。これは家から持ってきた心を安らげるお香で、ちょっと嗅ぐだけで……眠っちゃったの？分量を間違えちゃったかな？あ～……確かに入れすぎてるね。丸一日眠れる量だ。",
+                "kr": "마음이 편안해지는 느낌이라고? 그럼 효과가 있는 모양이네. 이건 내가 집에서 가져온 디퓨저인데, 조금만 맡아도…… 어라, 잠든 거야? 너무 많이 넣었나? 아…… 확실히 많이 넣긴 했구나. 이 정도면 박사가 하루종일 자겠는걸.",
+                "cn": "你觉得很平静？那就对了，这是我从家里带来的安神香薰，只要闻到一点点就能......睡着了？我没放对分量？呀......确实放多了，这可够博士睡上一天一夜了。"
+            },
+            "asset": "char_4058_pepe/CN_010"
+        },
+        {
+            "id": "char_4058_pepe_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Greetings, Doctor. On behalf of my exalted Padishah, I am here to negotiate with you on a collaboration project within his dominion. My name is Djerwnapekhaper Saciut Hatshepsut, but... my friends all call me Pepe.",
+                "jp": "ごきげんよう、ドクター。貴きパーディシャーの命を受け、領地における提携プロジェクトについての商談に参上したよ。私の名はシュナペカペ＝サキト＝ハトシェプスト、でも友人たちはみんな、ペペと呼んでくれるんだ。",
+                "kr": "안녕, 박사. 난 존귀한 파디샤를 대표하여 영지 내 협력 프로젝트에 대해 이야기를 하러 왔어. 내 이름은 제르나페카퍼 사시우트 하트셉수트, 근데 내 친구들은…… 날 페페라고 불러.",
+                "cn": "您好，博士，我代表一位尊贵的帕夏来与您商议在他领地上的合作项目，我的名字是珠娜佩卡佩-萨琪特-哈特谢普苏特，但朋友们......都叫我佩佩。"
+            },
+            "asset": "char_4058_pepe/CN_011"
+        },
+        {
+            "id": "char_4058_pepe_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Um, could we just hire the warrior in the recording to teach me in person? I'm not used to learning like this…",
+                "jp": "へぇ？この動画に出てくる戦士に直接教えてもらうことはできないの？こういう勉強の仕方は慣れてなくて……",
+                "kr": "응? 이 영상에 나오는 전사를 불러서 배우면 안 돼? 이런 방식으로 공부하는 건 익숙하지 않은데……",
+                "cn": "哦？能不能直接请视频中的这位力士来面授课程？我不太习惯这样学东西......"
+            },
+            "asset": "char_4058_pepe/CN_012"
+        },
+        {
+            "id": "char_4058_pepe_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Now this is new, I was always the one giving out rewards.",
+                "jp": "なんとも新鮮な体験だね。今まではずっと私が表彰する側だったんだからね。",
+                "kr": "정말 신선한 경험이네. 지금까지는 내가 상을 내리는 쪽이었는데.",
+                "cn": "真是新奇的体验，以前可都是由我来奖赏别人。"
+            },
+            "asset": "char_4058_pepe/CN_013"
+        },
+        {
+            "id": "char_4058_pepe_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "A promotion? Alright, then I'll bestow an honorary title in return. Don't underestimate its power! From now on, no one will be able to hinder you in my father's domain.",
+                "jp": "昇進？ならお返しに、私も君に栄誉称号を与えよう。単なる称号だって甘く見ないでね。これがあれば、君は父様の領地で自由行動できるようになるんだからさ。",
+                "kr": "승진? 좋아, 보답으로 나도 네게 영예 칭호를 줄게. 단순한 칭호라고 무시하면 안 돼. 이것만 있으면, 넌 우리 아버지 영지 내에서 아무런 제약 없이 행동이 가능하다고.",
+                "cn": "晋升？好吧，作为回报，我也为你颁发一项荣誉头衔，别小瞧这个名号，有了它，你在我父亲的领地将通行无阻。"
+            },
+            "asset": "char_4058_pepe/CN_014"
+        },
+        {
+            "id": "char_4058_pepe_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "With lightning and habūb, my hammer will rebuke the intruders and their greed.",
+                "jp": "槌を振り上げ、雷光と砂嵐と共に、貪欲な来訪者どもに罰を与えよう。",
+                "kr": "내가 망치를 휘둘러 번개와 모래폭풍으로 저 탐욕스러운 방문자들에게 천벌을 내려주지.",
+                "cn": "我将举起重锤，偕同闪电与沙暴，惩罚那些贪得无厌的到来者。"
+            },
+            "asset": "char_4058_pepe/CN_017"
+        },
+        {
+            "id": "char_4058_pepe_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Are you ready to join me on this journey to uncover history long-buried?",
+                "jp": "諸君、私と共にこの大地深くに埋まった過去を発掘する準備は整ったかな？",
+                "kr": "모두, 나와 함께 이 땅속 깊숙이 묻힌 과거를 발굴할 준비 됐어?",
+                "cn": "诸位都准备好与我一同发掘这段尘封在地下的往事了吗？"
+            },
+            "asset": "char_4058_pepe/CN_018"
+        },
+        {
+            "id": "char_4058_pepe_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "I have prayed to the gods, and They have revealed to me an auspicious omen! We'll find something good this time.",
+                "jp": "神々に祈りを捧げておいたよ。神は私に吉兆をくださった！今回はきっと、いい発見ができるはずだ。",
+                "kr": "내가 신께 기도를 드렸고, 신은 내게 길조를 주셨어! 이번엔 분명 대단한 발견을 할 수 있을 거야.",
+                "cn": "我已经向神祇祝祷过了，祂为我降下了幸运的征兆！这次一定能有不错的发现。"
+            },
+            "asset": "char_4058_pepe/CN_019"
+        },
+        {
+            "id": "char_4058_pepe_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Whoa, you robbers actually dare show yourselves before me?!",
+                "jp": "薄汚い盗人たちめ、よくも私の前に現れたね！",
+                "kr": "이 괘씸한 도둑놈들, 잘도 내 눈앞에 모습을 드러내는구나!",
+                "cn": "你们这群盗蠹还真敢出现在我面前啊！"
+            },
+            "asset": "char_4058_pepe/CN_020"
+        },
+        {
+            "id": "char_4058_pepe_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Take note: you can never be too gentle when cleaning relics!",
+                "jp": "いいか、発掘物の汚れを落とす時には、どれだけ慎重にやっても足りないくらいだからね！",
+                "kr": "명심해, 유물에 묻은 먼지를 털어 낼 땐 최대한 조심스럽게 해야 해!",
+                "cn": "记住，清理文物的时候，手上的力道再怎么小也不为过！"
+            },
+            "asset": "char_4058_pepe/CN_021"
+        },
+        {
+            "id": "char_4058_pepe_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "If we run into tomb robbers, hehe... Hammer time!",
+                "jp": "もし墓荒らしに会ったら、ふんっ、もちろん全力でぼこぼこにするよ！",
+                "kr": "만약 또 도굴꾼을 만나게 된다면? 훗. 그땐 당연히 두들겨 패야지!",
+                "cn": "要是遇到了盗墓贼，哼哼，当然是使出全身力气揍他了！"
+            },
+            "asset": "char_4058_pepe/CN_022"
+        },
+        {
+            "id": "char_4058_pepe_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Woah, woah! Let me down more slowly. There are fragile artifacts down there!",
+                "jp": "ロープゆっくりだよ、下の器物は気を付けないといけないんだから！",
+                "kr": "밧줄 천천히 내려! 여기 아래의 유물은 조심스럽게 다뤄야 해!",
+                "cn": "绳子慢点放慢点放，这底下的器物可得好好保护！"
+            },
+            "asset": "char_4058_pepe/CN_023"
+        },
+        {
+            "id": "char_4058_pepe_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Don't rush me! Lemme get a nice, big stretch before I squeeze down this hole.",
+                "jp": "まあまあ、急がないの、先に伸びをさせてよ。坑道に降りたらできないんだからさ……",
+                "kr": "에이, 너무 보채지 마. 일단 좀 스트레칭하고. 갱도로 내려가면 허리 펼 틈도 없을 테니까……",
+                "cn": "哎哟，别急，让我伸个懒腰，下到坑洞里可就伸展不开了......"
+            },
+            "asset": "char_4058_pepe/CN_024"
+        },
+        {
+            "id": "char_4058_pepe_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Too late to run now, nasty little thief!",
+                "jp": "盗人め、今さら逃げようったって遅いよ。",
+                "kr": "이 도둑놈들이, 이제 와서 도망치기엔 너무 늦었다고.",
+                "cn": "你这蟊贼，现在想跑可有些太晚啦。"
+            },
+            "asset": "char_4058_pepe/CN_025"
+        },
+        {
+            "id": "char_4058_pepe_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Put that down. Your filthy hands desecrate it.",
+                "jp": "手を放しなよ。君ごときが汚していい品じゃないんだ。",
+                "kr": "그거 내려놔, 그건 너 따위가 더럽혀도 되는 물건이 아니야!",
+                "cn": "放下它，那不是你可以亵渎的器物。"
+            },
+            "asset": "char_4058_pepe/CN_026"
+        },
+        {
+            "id": "char_4058_pepe_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "You've got guts, trying to steal this!",
+                "jp": "怖いもの知らずだね。そんなものまで盗もうなんて！",
+                "kr": "간도 크네, 이것도 훔치려고 하다니!",
+                "cn": "胆子很大嘛，这也敢乱拿！"
+            },
+            "asset": "char_4058_pepe/CN_027"
+        },
+        {
+            "id": "char_4058_pepe_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Rawr! I'm gonna stamp a lotus on your head!",
+                "jp": "シャー、このスイレンの紋章を君の顔に刻んであげるよ！",
+                "kr": "흥, 이 연꽃 문양을 네 얼굴에 새겨 주겠어!",
+                "cn": "哇，我要把这枚莲花纹章盖在你的脸上！"
+            },
+            "asset": "char_4058_pepe/CN_028"
+        },
+        {
+            "id": "char_4058_pepe_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Doctor, once these results are published, your name will sit alongside mine for all eternity.",
+                "jp": "ドクター、これらの成果を発表したら、君の名前は永遠に私と並んで書き残されるだろうね。",
+                "kr": "박사, 우리가 이뤄 낸 성과들이 세상에 알려지면, 박사의 이름은 영원히 나와 함께 기록될 거야.",
+                "cn": "博士，这些成果发表出来，你的名字就要永远和我列在一起了哦。"
+            },
+            "asset": "char_4058_pepe/CN_029"
+        },
+        {
+            "id": "char_4058_pepe_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Now this is a shocking discovery! Any ideas how we might celebrate this, Doctor?",
+                "jp": "心を震わせる発見だよ、どう祝うべきかもう考えたかな、ドクター？",
+                "kr": "정말 대단한 발견이야! 어떻게 축하할지 생각해 뒀어, 박사?",
+                "cn": "这可是震撼人心的发现，想好怎么庆祝了吗，博士？"
+            },
+            "asset": "char_4058_pepe/CN_030"
+        },
+        {
+            "id": "char_4058_pepe_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "It's not much, but at least those thieves won't profane this sacred site so easily again.",
+                "jp": "収穫はあんまりだが、少なくとも盗人たちが気安くこの聖域を穢すことはなくなったね。",
+                "kr": "수확은 별로지만, 적어도 저 도둑들이 이 성역을 다시는 쉽게 넘보지 못하겠지.",
+                "cn": "虽然收获不多，但至少，这些盗贼不会轻易冒犯这处圣所了。"
+            },
+            "asset": "char_4058_pepe/CN_031"
+        },
+        {
+            "id": "char_4058_pepe_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "How should we piece together these fragments…? Ow, my head hurts... ",
+                "jp": "はぁ、頭が痛いや……この一面に散らばった破片を、どうやって回収すればいいんだ？",
+                "kr": "아, 생각만 해도 머리 아프네…… 이 바닥의 파편들은 또 어떻게 회수해야 하려나?",
+                "cn": "唉，头大......这一地的碎片，要怎么提取啊？"
+            },
+            "asset": "char_4058_pepe/CN_032"
+        },
+        {
+            "id": "char_4058_pepe_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "You better not leave me here on my own. I might get curious and go tapping around with my hammer, which could lead to me seeing stuff I shouldn't, you know.",
+                "jp": "私一人をここに置いてかないほうがいいよ。好奇心を抑えきれなくなっちゃって、あちこち叩いたり、見ちゃいけないものを見ちゃうかもしれないからね。",
+                "kr": "날 여기에 혼자 두지 않는 게 좋을걸? 호기심을 참지 못하고 이곳저곳 두드리고 다니다가, 보지 말아야 할 걸 보게 될지도 모르잖아.",
+                "cn": "可不要丢我一个人在这里哦，搞不好我会克制不住自己的好奇心，四处敲敲打打，看到什么不该看到的东西。"
+            },
+            "asset": "char_4058_pepe/CN_033"
+        },
+        {
+            "id": "char_4058_pepe_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Hey! Do NOT undo the bow on my back!",
+                "jp": "私の蝶々結びを解いちゃダメ！",
+                "kr": "내 등에 있는 나비 매듭 절대 풀지 마!",
+                "cn": "不许拆我背后的蝴蝶结！"
+            },
+            "asset": "char_4058_pepe/CN_034"
+        },
+        {
+            "id": "char_4058_pepe_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "I smell nice? But I don't usually wear perfume… Oh, it's probably just this lotus.",
+                "jp": "香り？香水をつける趣味はないけど……ああ、多分このスイレンの香りかな。",
+                "kr": "향기? 난 향수 안 뿌리는데…… 아, 아마 이 연꽃 향기일 거야.",
+                "cn": "香味？我可没有抹香膏的习惯......哦，应该是这朵莲花的味道。"
+            },
+            "asset": "char_4058_pepe/CN_036"
+        },
+        {
+            "id": "char_4058_pepe_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4058_pepe/CN_037"
+        },
+        {
+            "id": "char_4058_pepe_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Ssh, no talking. Let the new year's first ray of sunlight bathe your face and body, feel its cozy warmth and gentle touch… Hmm... Doctor, the previous year is now history, all that suffering and joy—The sun just carried it away.",
+                "jp": "しーっ。喋らないで。新年の一番最初に降り注ぐ日差しを顔で、体で感じよう……ぽかぽかした温度と、優しい感触をね。過去の一年は、もう過ぎ去ったものだから、辛さも、楽しさも、この降り注ぐ光が全部洗い流してくれるよ。",
+                "kr": "쉿, 아무 말도 하지 말고 새해의 첫 햇살을 얼굴과 몸으로 느껴봐…… 햇빛이 주는 따스함과 부드러운 감촉만을 말이야. 박사, 지난 한 해의 고통과 즐거움은 모두 이 내리쬐는 햇볕이 가져가 줄 거야.",
+                "cn": "嘘，不要说话，就让新年的第一缕阳光洒在脸上、身上......感受祂暖洋洋的温度，感受祂轻柔的触碰。博士，过去的一年已经过去，痛苦也好，快乐也罢，这一缕阳光都会将它们带走。"
+            },
+            "asset": "char_4058_pepe/CN_038"
+        },
+        {
+            "id": "char_4058_pepe_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Greetings, Doctor.",
+                "jp": "今日は素晴らしい天気だよ、ドクター。",
+                "kr": "오늘도 날이 좋네, 박사.",
+                "cn": "今天天气很好，博士。"
+            },
+            "asset": "char_4058_pepe/CN_042"
+        },
+        {
+            "id": "char_4058_pepe_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Doctor, if the conditions are right, some traces of us will survive long into the future. When those who come after us find the vestiges we left behind, it'll be like we’re smiling at them across time! So, Doctor, let's put on our best smiles! For now, and for our friends waiting in the eons to come.",
+                "jp": "ドクター、もし条件が整って、時と共に風化せず残るものがあるなら――後世の人が土の中から私たちの残した痕跡を見つけた時、それは遥かなる時間を超えて、隔たれた二つの時代の者たちがお互いに笑い合うのと同じだよ。だからね、ドクター、もっと思い切り笑おう！",
+                "kr": "박사, 만약 조건이 갖춰지면, 시간이 흘러도 풍화되지 않는 것들이 있어…… 후세의 사람들이 우리가 남긴 흔적을 발굴하게 되면, 그건 기나긴 세월을 건너 두 시대의 사람들이 서로 미소 짓는 것이나 다름없다고 생각해. 그러니까 박사, 우리 더 많이 웃자!",
+                "cn": "博士，如果条件合适，并非一切都会消失在时光里——当后来人从泥土中发掘到我们留下的痕迹，就相当于我们与他们隔着漫长的时光，互相展露了一个笑容。所以，博士，让我们笑得更开怀些吧！"
+            },
+            "asset": "char_4058_pepe/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Sophia Eleni",
+            "global": "Sophia Eleni"
+        },
+        "cn": {
+            "native": "陈婷婷",
+            "global": "Chen Tingting"
+        },
+        "jp": {
+            "native": "Machico",
+            "global": "Machico"
+        },
+        "kr": {
+            "native": "서다혜",
+            "global": "Seo Dahye"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

@@ -1833,6 +1833,32 @@
         "rating": 5
     },
     {
+        "fullid": "char_1001_amiya2",
+        "nameid": "amiya2",
+        "numberid": "1001",
+        "name": {
+            "en": "Amiya 2",
+            "jp": "アーミヤ 2",
+            "kr": "아미야 2",
+            "cn": "阿米娅 2"
+        },
+        "nation": "rhodes",
+        "rating": 5
+    },
+    {
+        "fullid": "char_1037_amiya3",
+        "nameid": "amiya3",
+        "numberid": "1037",
+        "name": {
+            "en": "Amiya 3",
+            "jp": "アーミヤ 3",
+            "kr": "아미야 3",
+            "cn": "阿米娅 3"
+        },
+        "nation": "rhodes",
+        "rating": 5
+    },
+    {
         "fullid": "char_405_absin",
         "nameid": "absin",
         "numberid": "405",
@@ -2145,6 +2171,19 @@
         "rating": 5
     },
     {
+        "fullid": "char_4140_lasher",
+        "nameid": "lasher",
+        "numberid": "4140",
+        "name": {
+            "en": "Sand Reckoner",
+            "jp": "サンドレコナー",
+            "kr": "샌드레코너",
+            "cn": "衡沙"
+        },
+        "nation": "sargon",
+        "rating": 5
+    },
+    {
         "fullid": "char_108_silent",
         "nameid": "silent",
         "numberid": "108",
@@ -2311,6 +2350,19 @@
             "cn": "明椒"
         },
         "nation": "rhodes",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4139_papyrs",
+        "nameid": "papyrs",
+        "numberid": "4139",
+        "name": {
+            "en": "Papyrus",
+            "jp": "パピルス",
+            "kr": "파피루스",
+            "cn": "莎草"
+        },
+        "nation": "sargon",
         "rating": 5
     },
     {
@@ -3250,6 +3302,19 @@
         "rating": 6
     },
     {
+        "fullid": "char_4138_narant",
+        "nameid": "narant",
+        "numberid": "4138",
+        "name": {
+            "en": "Narantuya",
+            "jp": "ナラントゥヤ",
+            "kr": "나란투야",
+            "cn": "娜仁图亚"
+        },
+        "nation": "sargon",
+        "rating": 6
+    },
+    {
         "fullid": "char_112_siege",
         "nameid": "siege",
         "numberid": "112",
@@ -3926,6 +3991,19 @@
         "rating": 6
     },
     {
+        "fullid": "char_1016_agoat2_epoque#34",
+        "nameid": "agoat2-epoque",
+        "numberid": "1016",
+        "name": {
+            "en": "Eyjafjalla the Hvít Aska EPOQUE",
+            "jp": "純燼エイヤフィヤトラ EPOQUE",
+            "kr": "에이야퍄들라 더 크비트 아스카 EPOQUE",
+            "cn": "纯烬艾雅法拉 EPOQUE"
+        },
+        "nation": "leithanien",
+        "rating": 6
+    },
+    {
         "fullid": "char_1020_reed2",
         "nameid": "reed2",
         "numberid": "1020",
@@ -4170,6 +4248,19 @@
             "cn": "乌尔比安"
         },
         "nation": "egir",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4058_pepe",
+        "nameid": "pepe",
+        "numberid": "4058",
+        "name": {
+            "en": "Pepe",
+            "jp": "ペペ",
+            "kr": "페페",
+            "cn": "佩佩"
+        },
+        "nation": "sargon",
         "rating": 6
     },
     {

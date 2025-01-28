@@ -1,0 +1,596 @@
+{
+    "charid": "char_1001_amiya2",
+    "nameid": "amiya2",
+    "names": {
+        "en": "Amiya 2",
+        "jp": "アーミヤ 2",
+        "kr": "아미야 2",
+        "cn": "阿米娅 2"
+    },
+    "voices": [
+        {
+            "id": "char_1001_amiya2_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Doctor, what's wrong? Oh, I'm fine, just a little tired. Please check these two files in a moment. A lot of new Operators have joined Rhodes Island, and we can't disappoint them.",
+                "jp": "ドクター、どうしたんですか？あっ、私は大丈夫ですよ、ちょっと疲れただけです。この二つの履歴書、後でチェックをお願いしますね。たくさんの方がロドスに入ってオペレーターになってくれましたから、皆さんを失望させないように頑張らないと。",
+                "kr": "박사님, 왜 그러세요? 앗, 전 괜찮아요. 그냥 좀 피곤해서 그래요. 여기 이력서 두 개, 나중에 확인 부탁드려요. 많은 분들이 로도스 아일랜드에 들어와 오퍼레이터가 되어 주셨으니, 모두를 실망시키지 않도록 열심히 해야죠.",
+                "cn": "博士，怎么了？啊，我没事，只是有点累。这两份档案一会儿麻烦你审核一下了，有许多新干员加入了罗德岛，我们可不能让他们失望。"
+            },
+            "asset": "char_1001_amiya2/CN_001"
+        },
+        {
+            "id": "char_1001_amiya2_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Rhodes Island and this land at large have already lost so much. We will put a stop to it... Rage may destroy us, but when confronting malice, ever more people have no other choice. Until the land finds peace, no one will be able to extinguish this fury.",
+                "jp": "ロドスもこの大地も、たくさんのものを失ってきました。ですがもうそんなことは起きません……怒りに身を滅ぼされるかもしれませんが、悪意を相手にする時、多くの人にとってそれ以外の選択肢はないんです。この大地が平和になるまで、この怒りの炎は誰にも消せないんです。",
+                "kr": "로도스 아일랜드도 이 대지도 많은 것을 잃었어요. 하지만, 이제 그런 일은 일어나지 않을 거예요…… 분노에 몸을 망칠 수도 있겠지만, 악의를 상대할 때, 많은 사람들에겐 그것 말고 다른 선택지가 없죠. 이 대지가 평화로워질 때까지, 이 분노의 불씨는, 그 누구도 끌 수 없어요.",
+                "cn": "罗德岛和这片大地已经失去了很多。这种事不会再发生了......也许愤怒会毁掉我们，但是在面对恶意的时候，更多的人就是别无选择。在这片大地获得平静之前，没人能扑灭这股怒火。"
+            },
+            "asset": "char_1001_amiya2/CN_002"
+        },
+        {
+            "id": "char_1001_amiya2_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "My rings look different? I couldn't hide it from you, Doctor... You're right, one of them broke. But it's okay, Dr. Kal'tsit helped me switch it for a new one. Did... that have something to do with when I blacked out, you ask? Doctor...",
+                "jp": "私の指輪が変わったように見える、ですか？やっぱりドクターには誤魔化せませんね……そうです、一つはこの前壊れてしまいましたから。でも大丈夫ですよ、もうケルシー先生に新しいものに替えてもらいました。えっ、あの時倒れたのと関係してるか、ですか？ドクター、それは……",
+                "kr": "제 반지가 변한 것처럼 보인다…… 고요? 역시 박사님은 못 속이겠네요…… 맞아요. 하나는 전에 망가져 버렸거든요. 그래도 괜찮아요, 이미 켈시 선생님께서 새 걸로 바꿔주셨어요. 네? 그때 쓰러졌던 거랑 상관이…… 있느냐고요? 박사님, 그건……",
+                "cn": "我的戒指看起来不一样了？果然瞒不住博士......的确，有一个戒指在之前碎掉了。但是，不用担心，凯尔希医生已经帮我换了个新的。和我那时晕倒是不是有关系？博士......"
+            },
+            "asset": "char_1001_amiya2/CN_003"
+        },
+        {
+            "id": "char_1001_amiya2_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "In this whole operation, we gained no commercial profit at all, and we gave so much... But there are many things you can't weigh in terms of business value. Rhodes Island was never a company born exclusively for profit, and this land needs more than just physical medications.",
+                "jp": "今回の作戦では、ビジネス的な利益を少しも得られなかったばかりか、かなりの損失がありました……ですが、世の中商業的価値では計れないことだってたくさんあるんです。それに、ロドスは利益のためだけに動く企業ではありませんし、この大地に必要なのは、物質的な薬だけではありませんから。",
+                "kr": "이번 작전에서는 비즈니스적인 이익을 조금도 얻지 못했을 뿐만 아니라, 꽤 큰 손실이 있었습니다…… 하지만, 세상에는 상업적 가치로 따질 수 없는 것도 잔뜩 있어요. 게다가, 로도스 아일랜드는 이익을 위해서만 일하는 기업도 아니고, 이 대지에 필요한 것은 물질적인 약만 있는 게 아니니까요.",
+                "cn": "在这一次行动中，我们没有得到任何商业收益，甚至付出了很多......但许多事情是没法用商业价值衡量的。罗德岛从来不是一个只为盈利而生的企业，这片大地也不只需要物质层面上的药物。"
+            },
+            "asset": "char_1001_amiya2/CN_004"
+        },
+        {
+            "id": "char_1001_amiya2_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Chernobog's Reunion... it's over, and is there any more point to denouncing what they've done? Think of the people who trampled them, abused them, massacred them... hatred breeds hatred. That was something that should've never happened in the first place.",
+                "jp": "チェルノボーグのレユニオン……事件が終わった後に彼らを責め立てても、何になりますか？彼らを踏みにじって、迫害して、虐殺した人たちもいたと考えれば……憎しみは憎しみを生み出します。最初から間違ってるんです、そんなこと。",
+                "kr": "체르노보그의 리유니온…… 사건이 다 끝나고 그들을 몰아세운다 한들, 무슨 소용이 있나요? 그들을 짓밟고, 억압하고, 학살한 사람들도 있다고 생각하면…… 증오는 증오를 낳는 법이죠. 처음부터 잘못되었다고요, 그런 건.",
+                "cn": "切尔诺伯格的整合运动......在事情结束以后再去指责他们做了什么，又有什么用？想想践踏他们的人，虐待他们的人，屠杀他们的人......仇恨滋生仇恨。有些事从一开始就不该发生。"
+            },
+            "asset": "char_1001_amiya2/CN_005"
+        },
+        {
+            "id": "char_1001_amiya2_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Once, there was a Sarkaz betrayed, who walked this land bent on vengeance, only to cast his own life into the cycle of revenge. What I can't understand is, he'd already settled on his own end before he drew his sword. In his rage… he settled on death, with a clear mind.",
+                "jp": "かつて、裏切りにあった一人のサルカズが、復讐のために怒りに任せて大地を渡り、最後にはそんな復讐の循環の中で命を落としました。私に理解できないのは、彼は剣を抜く前から、自らの最期を心に決めていたということです。怒りが彼を……冷静な死に至らしめました。",
+                "kr": "과거에, 배신당한 한 명의 살카즈가, 복수를 위해 분노에 몸을 맡긴 채 대지를 건넜고, 마지막엔…… 그런 복수의 순환 속에서 목숨을 잃었습니다. 제가 이해할 수 없는 건, 그는 검을 뽑기 전부터 자신의 최후를 마음속에 정하고 있었단 거예요. 분노가 그를…… 냉정한 죽음에 이르게 한 거죠.",
+                "cn": "曾经，一个遭人背叛的萨卡兹愤怒地在大地上寻仇，最后却自愿死在了复仇的循环里。让我没法理解的是，他在拔出剑前就已经在心里勾划好了自己的结局。愤怒让他......清醒地陨落。"
+            },
+            "asset": "char_1001_amiya2/CN_006"
+        },
+        {
+            "id": "char_1001_amiya2_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Death should be carved into our memories, never to be forgotten, no matter who brought that death about, nor who was brought to. Our mistakes will never be right... those scars should always remind us, warn us how frail we are.",
+                "jp": "死は私たちの記憶に永遠に刻まれ続けるべきです。それは誰がもたらしたものでも、誰に与えられたものでも。私たちが犯してしまった過ちは、決して正当化されることはありません……その傷跡こそが、いつだって私たちの弱さを思い出させてくれるんです。",
+                "kr": "죽음은 우리 기억 속에 영원히 새겨져야 해요. 그건 누가 가져온 것이라 해도, 누구에게 주어진 거라 해도, 우리가 저질러버린 과오는 결코 정당화될 수 없죠…… 그 흉터야말로, 언제나 우리의 나약함을 떠올리게 해주는 거예요.",
+                "cn": "死亡应该铭刻在我们的记忆里，永不遗忘，无论这死亡是谁带来的，又是被带给了谁。我们的错误永远不会变成正确......那些疤痕应该要一直提醒我们，警告我们有多脆弱。"
+            },
+            "asset": "char_1001_amiya2/CN_007"
+        },
+        {
+            "id": "char_1001_amiya2_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Even now, they still sometimes come to mind. Misha's gaze, FrostNova's roars, Patriot's cries... Ace, Scout, and so many operators sacrificed their lives for a single belief. But the Infected all across Terra—what is it that they've died for?",
+                "jp": "今でも時々ミーシャさんの目や、フロストノヴァさんの怒号、そしてパトリオットさんの叫びを思い出します……Aceさん、Scoutさん、そして多くのオペレーターたちが一つの信念のもと犠牲になりました。でも彼ら以外の多くの感染者は、この大地で何のために死んでいったの？",
+                "kr": "지금도 가끔 미샤 씨의 눈이나, 프로스트노바 씨의 성난 고함 소리나, 그리고…… 패트리어트 씨가 외치던 소리가 떠올라요…… 에이스 씨, 스카우트 씨, 그리고 많은 오퍼레이터가 하나의 신념을 위해 희생되었습니다. 하지만 그 사람들 말고, 나머지 수많은 감염자들은, 이 대지에서 뭘 위해 죽어간 거죠?",
+                "cn": "就算是现在，我也偶尔会想起米莎的眼神，想起霜星的怒吼，想起爱国者的嘶鸣......Ace、Scout以及许多干员为一个信念牺牲了自己。可大地上那么多的感染者，又是为了什么而死？"
+            },
+            "asset": "char_1001_amiya2/CN_008"
+        },
+        {
+            "id": "char_1001_amiya2_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Doctor... recently... have I been a little less like myself? The nameless anger that rises up, time and again... is that mine? If so... no, even if so, I won't give up. I will protect you, Doctor, by this sword.",
+                "jp": "ドクター、最近の私……なんだか自分らしくないって感じがしませんか？時々湧き上がる正体不明の怒りは……私自身のものなんでしょうか？そうだとしたら……いえ、そうだとしても、私は諦めません。ドクター、私があなたを守ります、この剣で。",
+                "kr": "박사님, 요즘 저…… 왠지 저답지 않다는 느낌이 들지 않나요? 가끔 솟구치는 알 수 없는 분노는…… 저 자신의 것일까요? 그렇다면…… 아니, 그렇다고 해도, 저는 포기하지 않을 거예요. 박사님, 제가 박사님을 지킬 거예요, 바로 이 검으로.",
+                "cn": "博士......我最近......是不是变得有点不像自己？那些偶然升起的无名怒火......是我的吗？就算这样，不，就算这样我也不会放弃。我会保护你的，博士，凭这把剑。"
+            },
+            "asset": "char_1001_amiya2/CN_009"
+        },
+        {
+            "id": "char_1001_amiya2_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Doctor, are you okay? Do you need to rest a little? I'll help carry you. Don't worry, I'm doing fine. So long as you're rested.",
+                "jp": "ドクター、大丈夫ですか？少し休憩しませんか？私が支えて連れていきましょう。心配しなくても私は元気ですから、ドクターが休めればそれで。",
+                "kr": "박사님, 괜찮으세요? 조금 쉬지 않으실래요? 제가 부축해서 데려가 드릴게요. 걱정 안 하셔도 돼요, 전 괜찮으니까요. 박사님께서 쉴 수 있다면…… 그걸로 됐어요.",
+                "cn": "博士，你还好吗？要去休息一下吗，我扶你去吧。不用担心，我挺好的，只要你休息好就可以了。"
+            },
+            "asset": "char_1001_amiya2/CN_010"
+        },
+        {
+            "id": "char_1001_amiya2_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Doctor, it's so good to see you. My appearance? Um, please don't be afraid... I can explain this. But don't worry, Doctor. Whatever happens, I won't ever let you come to harm. I swear it.",
+                "jp": "ドクター、会えてよかったです。私の姿、ですか？あの、怖がらないでください……後でちゃんと説明しますから、安心してください。何が起きても、ドクターのことは傷つけさせないと誓いますから。",
+                "kr": "박사님, 다시 만나게 돼서 정말 다행이에요. 제 모습…… 말인가요? 저, 무서워하지 말아 주세요…… 나중에 제대로 설명할 테니까, 안심해주세요. 무슨 일이 있어도, 박사님을 다치게 하지 않겠다고 맹세할 테니까요.",
+                "cn": "博士，见到你真好。我这样子？唔，别害怕......我会解释的。不过，放心吧博士，不管发生什么，我都不会让你受到一点伤害。我发誓。"
+            },
+            "asset": "char_1001_amiya2/CN_011"
+        },
+        {
+            "id": "char_1001_amiya2_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "'If the fight is unavoidable...' This is what the person I most trusted once taught me.",
+                "jp": "「それが必要な戦いならば……」。これはかつて私が一番信頼していた人が教えてくれた言葉です。",
+                "kr": "“그것이 필요한 싸움이라면……” 이건, 한때 제가 가장 신뢰했던 사람이 알려준 말이에요.",
+                "cn": "“如果战斗不可避免......”这是以前我最信任的人教给我的话。"
+            },
+            "asset": "char_1001_amiya2/CN_012"
+        },
+        {
+            "id": "char_1001_amiya2_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Got it.",
+                "jp": "はい、わかりました。",
+                "kr": "네, 알겠습니다.",
+                "cn": "好的，我知道了。"
+            },
+            "asset": "char_1001_amiya2/CN_017"
+        },
+        {
+            "id": "char_1001_amiya2_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "I shoulder the wrath of so many others.",
+                "jp": "私は多くの人々の怒りを背負っています。",
+                "kr": "저는 많은 사람들의 분노를 짊어지고 있습니다.",
+                "cn": "我背负着许多人的愤怒。"
+            },
+            "asset": "char_1001_amiya2/CN_018"
+        },
+        {
+            "id": "char_1001_amiya2_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Operation commencing. Let's go!",
+                "jp": "作戦開始。行きます！",
+                "kr": "작전 개시. 갑니다!",
+                "cn": "行动开始。我们走！"
+            },
+            "asset": "char_1001_amiya2/CN_019"
+        },
+        {
+            "id": "char_1001_amiya2_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Incoming! Ready, all members!",
+                "jp": "敵が来ます！総員、戦闘準備！",
+                "kr": "적이 옵니다! 전원, 전투 준비!",
+                "cn": "来了！全体人员，做好战斗准备！"
+            },
+            "asset": "char_1001_amiya2/CN_020"
+        },
+        {
+            "id": "char_1001_amiya2_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Amiya here.",
+                "jp": "こちらアーミヤ。",
+                "kr": "여기는 아미야.",
+                "cn": "这里是阿米娅。"
+            },
+            "asset": "char_1001_amiya2/CN_021"
+        },
+        {
+            "id": "char_1001_amiya2_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "This sword thirsts for revenge... I won't permit it.",
+                "jp": "この剣が復讐を渇望している……好き勝手にはさせません。",
+                "kr": "이 검이 복수를 갈망하고 있어…… 제멋대로 굴게 놔두진 않겠습니다.",
+                "cn": "这把剑渴望着报复......我不能放纵它。"
+            },
+            "asset": "char_1001_amiya2/CN_022"
+        },
+        {
+            "id": "char_1001_amiya2_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "My sword is cloaked in Chi Xiao's shadow.",
+                "jp": "私の剣が、赤霄（せきしょう）の影を纏う。",
+                "kr": "나의 검에, 적소의 그림자가 맴돈다.",
+                "cn": "赤霄的影子萦绕着我的剑。"
+            },
+            "asset": "char_1001_amiya2/CN_023"
+        },
+        {
+            "id": "char_1001_amiya2_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Madam Ch'en's swordsmanship... flows within this weapon.",
+                "jp": "チェンさんの剣術が……この剣を流れています。",
+                "kr": "첸 씨의 검술이…… 이 검에 흐르고 있어요.",
+                "cn": "陈长官的剑术......在这把武器里流淌。"
+            },
+            "asset": "char_1001_amiya2/CN_024"
+        },
+        {
+            "id": "char_1001_amiya2_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Drop your weapon!",
+                "jp": "武器を下ろせ！",
+                "kr": "무기를 버려라!",
+                "cn": "放下你的武器！"
+            },
+            "asset": "char_1001_amiya2/CN_025"
+        },
+        {
+            "id": "char_1001_amiya2_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Your thought, your Arts, I can cut them.",
+                "jp": "あなたの考えも、アーツも、切り裂けます。",
+                "kr": "당신의 생각도, 아츠도, 베어버리겠습니다.",
+                "cn": "你的想法，你的法术，我都能切开。"
+            },
+            "asset": "char_1001_amiya2/CN_026"
+        },
+        {
+            "id": "char_1001_amiya2_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "'With what do I answer your failure of justice?'",
+                "jp": "「何を以て貴様の不義理に報いようか？」",
+                "kr": "무엇으로 네 녀석의 불의에 답해줄까?",
+                "cn": "“我该用什么回应你的不义？”"
+            },
+            "asset": "char_1001_amiya2/CN_027"
+        },
+        {
+            "id": "char_1001_amiya2_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Do not... make me angry.",
+                "jp": "私を……なめるなよ。",
+                "kr": "나를…… 얕보지 마.",
+                "cn": "不要......不要惹恼我。"
+            },
+            "asset": "char_1001_amiya2/CN_028"
+        },
+        {
+            "id": "char_1001_amiya2_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Doctor, thank you for always supporting me. Our battles will only get harder from here, but we can't give up.",
+                "jp": "ドクター、いつも支えてくれてありがとうございます。私たちの戦いは厳しさを増すばかりですが、諦めるわけにはいきません。",
+                "kr": "박사님, 언제나 지지해주셔서 감사합니다. 우리의 전투는 점점 더 힘들어지고 있지만, 포기할 순 없어요.",
+                "cn": "博士，谢谢你对我的支持。我们的战斗只会越来越艰难，我们不能放弃。"
+            },
+            "asset": "char_1001_amiya2/CN_029"
+        },
+        {
+            "id": "char_1001_amiya2_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "How long do we fight? How long until the flames of anger on this land die down...",
+                "jp": "いつまで戦えば、大地に広がる怒りの炎が鎮まるんでしょうか……",
+                "kr": "언제까지 싸워야, 대지에 퍼진 분노의 불꽃이 사그라질까요……",
+                "cn": "要战斗到哪一天，蔓延在大地上的怒火才会平息呢......"
+            },
+            "asset": "char_1001_amiya2/CN_030"
+        },
+        {
+            "id": "char_1001_amiya2_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Doctor, good job. Let me handle the clean-up.",
+                "jp": "お疲れ様です、ドクター。後始末は私に任せてください。",
+                "kr": "수고하셨어요, 박사님. 뒤처리는 제게 맡겨 주세요.",
+                "cn": "辛苦了，博士。让我去处理善后吧。"
+            },
+            "asset": "char_1001_amiya2/CN_031"
+        },
+        {
+            "id": "char_1001_amiya2_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "...What happened? This shouldn't have...",
+                "jp": "……何があったの？こんなはずじゃ……",
+                "kr": "……무슨 일이 있었던 거지? 이럴 리가……",
+                "cn": "......发生什么了？不应该是这样......"
+            },
+            "asset": "char_1001_amiya2/CN_032"
+        },
+        {
+            "id": "char_1001_amiya2_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Phew... we can take a little breather now, right?",
+                "jp": "ふぅ、これで少しは休めますね。",
+                "kr": "후우, 이제 조금은 쉴 수 있겠네요.",
+                "cn": "咻，应该可以小小休息一下了吧。"
+            },
+            "asset": "char_1001_amiya2/CN_033"
+        },
+        {
+            "id": "char_1001_amiya2_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Whuh, Doctor...!",
+                "jp": "うわっ、ドクター……！",
+                "kr": "으앗, 박사님……!",
+                "cn": "唔啊，博士......！"
+            },
+            "asset": "char_1001_amiya2/CN_034"
+        },
+        {
+            "id": "char_1001_amiya2_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Doctor, could you... hear me out for a bit? Is that okay?",
+                "jp": "ドクター、あの……少しお話を聞いてください、いいですか？",
+                "kr": "박사님, 아 그…… 잠시 들어주셨으면 하는 이야기가 있는데…… 괜찮으실까요?",
+                "cn": "博士，请......稍微听我说几句话，好吗？"
+            },
+            "asset": "char_1001_amiya2/CN_036"
+        },
+        {
+            "id": "char_1001_amiya2_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_1001_amiya2/CN_037"
+        },
+        {
+            "id": "char_1001_amiya2_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "For a brief moment, I could hear a voice growling deep within my heart: The suffering on these lands is eternal, and nothing can be turned around in such a short span of time... No, I refuse to accept that, Doctor. I trust that our journey and our fight are meaningful.",
+                "jp": "ある瞬間、心の奥底で響く怒号が聞こえたんです――薄いカレンダーを一枚二枚めくったところで、この大地に永らく存在する苦難は何も変わりはしない、と……でもドクター、私は諦めません。私たちの歩みは、私たちの戦いには、きっと意味があると信じていますから。",
+                "kr": "가끔씩 제 마음속에서 외치는 소리가 들려요. 이 땅에서 오랫동안 지속돼 온 고난은, 저희가 얇은 달력 한두 장을 더 넘긴다 해서 새로운 전환점을 맞이할 리는 없다고 말이에요…… 하지만 전 그 말을 믿지 않아요, 박사님. 우리가 나아가는 길과 전투에는, 반드시 의미가 있을 거예요.",
+                "cn": "有一瞬间，我听到自己心底有个声音在怒吼：这片大地的苦难恒久，不会因为我们翻过一两页单薄的年历就迎来任何新的转机......但我不信，博士。我们的前行和战斗，一定是有意义的。"
+            },
+            "asset": "char_1001_amiya2/CN_038"
+        },
+        {
+            "id": "char_1001_amiya2_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Welcome home, Doctor!",
+                "jp": "おかえり、ドクター！",
+                "kr": "어서 오세요, 박사님!",
+                "cn": "欢迎回家，博士！"
+            },
+            "asset": "char_1001_amiya2/CN_042"
+        },
+        {
+            "id": "char_1001_amiya2_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "There is no avoiding pain if we are to end the vicious cycle that is hatred. Nevertheless, I believe there will come a day when I can set down this blade. Doctor, until that day comes, I'll protect you at all costs. I only hope that... it won't be you who gets hurt.",
+                "jp": "憎しみの連鎖を断ち切るには、傷や痛みを避けては通れません……でも、いつか私がこの剣を必要としなくなる日が来ると信じています。ドクター、その日まで、私はあなたを守り続けます。叶うなら……傷付くのがドクターでなければいいと願っています。",
+                "kr": "끊임없이 반복되는 원한을 끊어내려면 고통은 피할 수 없어요…… 하지만 저는 언젠가 제가 이 검을 손에서 놓을 수 있을 거라 믿어요. 박사님, 그날이 올 때까지, 제가 꼭 박사님을 지켜 드릴게요. 저는…… 상처받는 사람이 박사님이 아니길 바라요.",
+                "cn": "要切断仇恨的往复循环，就无法避免伤痛......但是，我相信有一天，我可以放下这把剑。博士，到那一天为止，我都一定会保护着你。我希望......受伤的人不是你。"
+            },
+            "asset": "char_1001_amiya2/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Emma Ballantine",
+            "global": "Emma Ballantine"
+        },
+        "cn": {
+            "native": "陶典",
+            "global": "Dian Tao"
+        },
+        "jp": {
+            "native": "黒沢ともよ",
+            "global": "Tomoyo Kurosawa"
+        },
+        "kr": {
+            "native": "이지현",
+            "global": "Lee Ji-hyun"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

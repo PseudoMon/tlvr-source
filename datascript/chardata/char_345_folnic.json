@@ -602,6 +602,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Skyler Davenport",
+            "global": "Skyler Davenport"
+        },
         "cn": {
             "native": "浮梦若薇",
             "global": "Tracy"
@@ -616,6 +620,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

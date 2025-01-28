@@ -602,6 +602,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Chris Naoki Lee",
+            "global": "Chris Naoki Lee"
+        },
         "cn": {
             "native": "安志",
             "global": "ZhiAn"
@@ -616,6 +620,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

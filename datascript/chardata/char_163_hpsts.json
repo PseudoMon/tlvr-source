@@ -602,6 +602,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Katelyn Gault ",
+            "global": "Katelyn Gault "
+        },
         "cn": {
             "native": "小米",
             "global": "Mimia"
@@ -616,6 +620,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

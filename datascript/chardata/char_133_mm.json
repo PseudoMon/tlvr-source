@@ -602,6 +602,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Lizzie Freeman",
+            "global": "Lizzie Freeman"
+        },
         "cn": {
             "native": "刘雯",
             "global": "Wen Liu"
@@ -616,6 +620,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

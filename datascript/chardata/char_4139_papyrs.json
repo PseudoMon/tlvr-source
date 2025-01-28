@@ -1,0 +1,628 @@
+{
+    "charid": "char_4139_papyrs",
+    "nameid": "papyrs",
+    "names": {
+        "en": "Papyrus",
+        "jp": "パピルス",
+        "kr": "파피루스",
+        "cn": "莎草"
+    },
+    "voices": [
+        {
+            "id": "char_4139_papyrs_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Doctor, archiving and categorizing documents is my specialty. Rest assured, I will put the files you need precisely where you want them.",
+                "jp": "ドクター、ご安心ください。ファイリングは一番得意なことですから、必要な資料がいつでもお手元に揃っていると約束しますよ。",
+                "kr": "서류 정리는 제가 가장 잘하는 일이니까 안심하고 맡겨 주세요, 박사님. 박사님께서 필요하신 자료는 제가 꼭 가져다 드릴게요.",
+                "cn": "博士，给文件建档分类正是我的专长，请放心，我会确保您需要的资料就在您的手边。"
+            },
+            "asset": "char_4139_papyrs/CN_001"
+        },
+        {
+            "id": "char_4139_papyrs_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Eek—It's okay, Doctor. I got a papercut, that's all. Please don't worry. It's not bleeding anymore.",
+                "jp": "ッ――あっ、大丈夫です。紙で手を切っただけで、血ももう止まりましたから、心配いりませんよ。気を抜くとすぐ怪我をする奴だって、よくペペに笑われたものです。ただ部屋でじっとしててもひゃっ！――い、いえ、平気です。ちょっとコーヒーが熱すぎて……",
+                "kr": "아야…… 아, 괜찮아요, 박사님. 종이에 손을 베인 것뿐이에요. 이젠 피도 안 나는걸요. 걱정 마세요. 예전에 페페가 절 보고 잠깐 한눈 판 사이에 다치는 칠칠맞은 녀석이라는 얘기를 하곤 했었는데, 그냥 아무것도 안 하고 계속 실내에 있어도…… 앗! 괜, 괜찮아요, 방금은 커피가 너무 뜨거워서……",
+                "cn": "嘶——没事，博士，我只是被纸划到了。您不用担心，已经不流血了。以前佩佩总笑话我容易莫名受伤，就算一直待在室内也——啊！没事，只是被热咖啡烫到了。"
+            },
+            "asset": "char_4139_papyrs/CN_002"
+        },
+        {
+            "id": "char_4139_papyrs_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "This? It's only a notebook for my work at the museum. It's mostly meeting minutes and exhibition schedules, nothing really interesting... But there are some silly mementoes. Like this photo here. It's a little bird that often stops by my window. ",
+                "jp": "これですか？ただのノートですよ。つまらない議事録や、代わり映えしない設営の流れなど、博物館の日々のお仕事を記録してるだけのもので……ごちゃごちゃしたメモもありますけどね。例えばこの羽獣の写真ですが、これはわたしの部屋の窓辺によく停まってた子です。",
+                "kr": "이거요? 그냥 평범한 노트예요. 박물관의 일상 업무를 기록하는 용도로 사용하고 있죠. 노트에 적혀 있는 건 지루한 회의 기록 아니면 단조로운 전시품 배치 계획 정도고요…… 뒤죽박죽 잡다한 메모도 있긴 한데. 음 예를 들면 이 사진 속의 파울비스트는 제 방 창가에 자주 앉아 있다가 가는 아이에요.",
+                "cn": "这个吗？只是一本笔记，用来记录我在博物馆的工作。上面不是乏味的会议记录，就是单调的布展流程......还有些乱七八糟的，比如这只经常落在我窗外的羽兽，我把它的照片夹在里面了。"
+            },
+            "asset": "char_4139_papyrs/CN_003"
+        },
+        {
+            "id": "char_4139_papyrs_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "I still remember how Pepe and Titi would come by and play with me when we were kids. Even when Father had me grounded in the study, they'd stand outside the window and make animals with their hands. They were so animated… We haven't seen each other so much since we grew up. But when I look out my window, I sometimes think of those times.",
+                "jp": "小さい時、ペペとティティが遊びに誘いに来たことがあって……お父様から禁足を命じられていたわたしのために、二人は窓越しに手でいろんな動物の形を作ってくれて、どれもよく似ていて凄かったんです。大人になってからはそう頻繁に会わなくなっちゃいましたが、今でも窓の外を眺めるとその時のことが目に浮かびます。",
+                "kr": "어렸을 때 페페랑 티티가 놀러 온 적이 있어요…… 전 아버지한테 외출 금지를 받아서 못 나가고 있었는데, 그 둘은 창문 너머 손으로 다양한 동물 모양을 만들어 보여주었죠. 얼마나 실감 나던지 신기하게 봤던 기억이 나네요. 어른이 되고 나선 그리 자주 만나진 못했지만, 지금도 창밖을 바라볼 때면 가끔 그때가 생각나곤 해요.",
+                "cn": "记得小时候，佩佩和缇缇来找我玩，我被父亲关禁闭，她们就隔着窗子，用手比画出各种各样的小动物，惟妙惟肖，特别厉害。长大后大家虽不常见面，但偶尔看向窗外，就会回想起当时的情景。"
+            },
+            "asset": "char_4139_papyrs/CN_004"
+        },
+        {
+            "id": "char_4139_papyrs_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Doctor, truth be told, I've spent most of my life following Father's plans, from my education to my career. He did pick a path that's been fairly easy for me. So I have nothing to complain about, and the idea of leaving home never truly crossed my mind. If I had made my own choices, what would life be like?",
+                "jp": "ドクター、実はわたし、今まで進学や就職をずっとお父様に決めてもらっていて、故郷から離れることなんて考えたこともなかったんです。そのことについて不満はありませんし、確かに歩みやすい道を選んでくれたのだと思います。ただ、時々考えちゃうんです。もし自分で選んでいたら、今頃どんな人生を送っているんだろうって。",
+                "kr": "박사님, 사실 전 학교부터 일자리까지 아버지의 말을 따랐기 때문에 고향을 떠나는 일은 평생 생각해 본 적도 없었어요. 그 점에 대해서 불만이 있는 건 아니에요. 아버지 덕분에 제가 편한 길을 걷게 된 건 사실이니까요. 하지만 가끔 그런 생각을 하곤 해요. 만약 제가 스스로의 선택대로 살았더라면, 지금쯤 어떤 인생을 살고 있을까……하고요.",
+                "cn": "博士，不瞒您说，从升学到工作，我一直都顺从着父亲的安排，不曾想过离开家乡。我对此没有怨言，他确实为我选择了一条坦途，但我还是会想，如果由我自己选择，生活又会是什么模样？"
+            },
+            "asset": "char_4139_papyrs/CN_005"
+        },
+        {
+            "id": "char_4139_papyrs_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Doctor, there are two kinds of fowlbeasts. One soars through the skies, roaming freely. The other, with its shorter wings, dwells in the woods, catching only glimpses of the blue sky through the leaves as it enjoys the shade. Which one am I? Hm... In truth, I don't wish to be a fowlbeast at all. I would rather be a tree that doesn't block the sky.",
+                "jp": "ドクター、羽獣って二種類いるんです。羽を広げて大空を飛び回り、あちこちへ大移動を繰り返すものと、小さな翼を持って、森の中で木々の庇護を受けながら、葉っぱの隙間から覗く狭い空を楽しむしかないものがいます。わたし？そうですね……わたしは羽獣じゃなくて、空を遮らないような木になりたいです。",
+                "kr": "박사님, 이 세상에는 두 가지 종류의 파울비스트가 존재해요. 날개를 활짝 펴고 하늘 이곳저곳 날아다니는 파울비스트, 그리고 날개가 상당히 짧아서 숲에서만 생활이 가능한 파울비스트. 후자는 나무의 보호를 받지만 잎사귀 틈으로 보이는 좁은 하늘밖엔 보지 못하죠. 전 어느 쪽이냐고요? 으음, 전 파울비스트보단 하늘을 가리지 않는 한 그루의 나무가 되고 싶어요.",
+                "cn": "博士，世上有两种羽兽，一种展翅遨游天际，四处迁徙；一种翅膀很短，只能生活在林中，享受树的荫庇与因树叶遮蔽而斑驳的蓝天。我是哪种？唔，我不想做羽兽，想做一棵不会遮挡天空的树。"
+            },
+            "asset": "char_4139_papyrs/CN_006"
+        },
+        {
+            "id": "char_4139_papyrs_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Oh, Doctor, you're here today, too? Me? I visit the Medical Department once a week to spend time with the children. I tell them stories, or simply chat with them. They're so young, confined to their sickrooms... I know how they feel... truly.",
+                "jp": "あれ、ドクターもいらっしゃるんですね。わたしですか？わたしは毎週この日、入院してる子供たちのお見舞いをしに来るんです。読み聞かせをしたり、話し相手になってあげたり……まだこんな小さいのに、毎日病室で過ごさなければならないその辛さは、わたしにはよく分かりますから。",
+                "kr": "어라, 박사님도 여기 계셨군요? 저요? 아, 전 매주 이날마다 입원 중인 아이들에게 책을 읽어주거나 이야기를 들어주러 와요. 아직 이렇게나 어린데, 매일 병실에서 지내는 게 얼마나 힘든 일인지, 저도 잘 알거든요.",
+                "cn": "咦，博士，您今天也在？我？哦，每周这天我都会来医疗部看看住院的小朋友，给他们讲讲故事，陪他们聊聊天。这么小的孩子，却不得不一直待在病房里，他们的难受我很能体会。"
+            },
+            "asset": "char_4139_papyrs/CN_007"
+        },
+        {
+            "id": "char_4139_papyrs_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "When I was little, if I misbehaved, Father would confine me to the study for an entire day. In those moments of boredom, I would take all the books off the shelves and reorder them in different ways, again and again. Reflecting on it now, it seems I was perhaps fated to pursue archival science.",
+                "jp": "小さい頃は何か間違いを犯してしまうと、お父様に一日中禁足を命じられたものです。退屈になったら、本棚にある本を全部取り出しては、違う順番に並べ替えて戻し、それを何度も繰り返していました。思えば、その頃からアーカイブズ学と縁があったのかもしれませんね。",
+                "kr": "어렸을 때 뭔가 잘못하면, 아버지께선 절 하루종일 방에 가두셨어요. 방 안에 갇혀 심심할 때쯤이면 책장에 있는 책들을 전부 꺼내서 다른 순서로 책을 정리하고 또 정리하고…… 그걸 계속 반복했었어요. 지금 생각해 보면, 그때부터 기록학과 인연이 있었네요.",
+                "cn": "小时候犯错，父亲会将我关在房间里一整天。待得无聊了，我就会把书架上的书一本本拿出来，再按不同的顺序重新排列，一遍又一遍。现在想想，我与档案学还挺有缘分的。"
+            },
+            "asset": "char_4139_papyrs/CN_008"
+        },
+        {
+            "id": "char_4139_papyrs_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "My favorite exhibit? I couldn't choose. What does my heart say? Hmm... Okay... There is an ancient seed. It was sealed away in darkness for centuries, yet it persevered and quickly blossomed with just a little care. Ahh... Truly an inspiring miracle.",
+                "jp": "わたしの一番好きな展示品ですか？そんなの選べっこないですよ！個人の好みで言うなら？……うん、でしたら、とある古代の植物の種でしょうか。暗闇の中で何百年も封じられてきたのに、生を絶やすことなく、発芽処理を行ったらすぐ花をつけることができたんです。なんだか尊敬しちゃいますね。",
+                "kr": "제가 가장 좋아하는 전시품이요? 그런 걸 어떻게 골라요! 개인적인 취향은 따로 없냐고요…… 그렇다면, 어떤 오래된 식물의 씨앗을 고를게요. 그 씨앗은 수백 년 동안 어둠 속에 있었지만, 버티고 버텨 재배를 통해 결국 꽃까지 피워 냈거든요. 이런 걸 보면 왠지 모를 존경심이 생겨요.",
+                "cn": "您问我最喜欢的展品？这怎么选得出来？私心......好吧，是一颗古老的种子——它在黑暗中被封存了数百年，却依然存活，经过培植后更是很快绽放了花朵，让人不由得心生钦佩。"
+            },
+            "asset": "char_4139_papyrs/CN_009"
+        },
+        {
+            "id": "char_4139_papyrs_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Doctor, it's dry here in the office. Don't forget to hydrate.",
+                "jp": "ドクター、執務室は乾燥しやすいので、こまめに水分補給を行ってくださいね。",
+                "kr": "박사님, 집무실 공기는 쉽게 건조해지니까, 잊지 말고 자주 수분 보충해 주셔야 해요.",
+                "cn": "博士，办公室空气干燥，记得及时补充水分。"
+            },
+            "asset": "char_4139_papyrs/CN_010"
+        },
+        {
+            "id": "char_4139_papyrs_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Hello, Pepe told me that once I'm ready to leave my office and go on a journey, I should come here and ask for a Doctor... She didn't specify a Doctor in which field, just that I'd know as soon as I saw the right one.",
+                "jp": "こんにちは、ペペに言われてきました――オフィスから飛び出して旅に出る決心がついたら、ここに来て「ドクター」という方を訪ねるといいよとのことなので……何のドクターかまでは聞いてなくて、ただ会えばわかるからってあの子が。",
+                "kr": "안녕하세요, 페페가 사무실 밖으로 나와 여행을 떠날 준비가 됐다면 이곳에서 “박사”라는 분을 찾으면 된다고 해서 왔는데…… 어떤 분야의 박사님인지는 말을 안 해 줘서요. 그냥 보면 알 거라고……",
+                "cn": "您好，佩佩和我说，如果准备好走出办公室，开始旅行，就到这里来找一位博士......她没说具体是哪个专业的博士，只说我见了就知道了。"
+            },
+            "asset": "char_4139_papyrs/CN_011"
+        },
+        {
+            "id": "char_4139_papyrs_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "My hypothesis was correct… There is so much I can learn only by stepping out of the office.",
+                "jp": "より多くの知見を得るには、やはり外に出るのが大事ですね……",
+                "kr": "역시 사무실 밖으로 나와야만 더 많은 것들을 볼 수 있군요……",
+                "cn": "果然，只有走出办公室才能见识到更多东西......"
+            },
+            "asset": "char_4139_papyrs/CN_012"
+        },
+        {
+            "id": "char_4139_papyrs_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "I am only doing my job. It's nothing worth mentioning.",
+                "jp": "やるべきことをしたまでですから、お気遣いなく。",
+                "kr": "해야 할 일을 한 것뿐인걸요. 그래도 고맙습니다.",
+                "cn": "都是分内之事，不足挂齿。"
+            },
+            "asset": "char_4139_papyrs/CN_013"
+        },
+        {
+            "id": "char_4139_papyrs_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Thank you very much for your recognition of my work. Father would likely hold these ribbons and medals in high esteem. Me... I don't think they matter as much as your approval.",
+                "jp": "認めてくださってありがとうございます……わたしは別として、この勲章やサッシュを見たら、うちの父はきっと喜ぶでしょう。",
+                "kr": "인정해 주셔서 고맙습니다…… 전 아무래도 좋지만, 아버지께선 이 훈장과 장식을 보시면 분명 기뻐하실 거예요.",
+                "cn": "非常感谢您对我工作的认可......这些绶带与勋章家父应该会喜欢的，我倒是无所谓。"
+            },
+            "asset": "char_4139_papyrs/CN_014"
+        },
+        {
+            "id": "char_4139_papyrs_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "I've made a complete, thorough plan for the mission. I'm ready to sortie at any time.",
+                "jp": "今回の任務のために周到な計画を立ててきました。いつでも行けます。",
+                "kr": "이번 임무에 대한 계획은 제가 철저하게 세워뒀어요. 언제든 출발 가능해요.",
+                "cn": "我已为此次任务做好了全程规划，随时可以出发。"
+            },
+            "asset": "char_4139_papyrs/CN_017"
+        },
+        {
+            "id": "char_4139_papyrs_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Everyone, I'll be leading this one. Please follow the operation manual I distributed, and stay safe.",
+                "jp": "皆さん、今回の任務はわたしが指揮をとらせていただきます。お配りしたマニュアルに従って行動してください。安全注意でお願いしますね。",
+                "kr": "여러분, 이번 임무는 제가 지휘를 맡게 되었습니다. 나눠 드린 매뉴얼대로 행동해 주시고, 항상 안전에 유의해 주세요.",
+                "cn": "各位，这次出行由我负责指挥，请按照分发给大家的任务手册行动，一定要注意安全。"
+            },
+            "asset": "char_4139_papyrs/CN_018"
+        },
+        {
+            "id": "char_4139_papyrs_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Perhaps I should bring an extra notebook. There may be lots of things out there worth documenting.",
+                "jp": "やっぱりノートはもう一冊持っていこう、記録したくなることがいっぱいあるかも。",
+                "kr": "역시 노트를 한 권 더 챙겨야겠어요. 기록하고 싶은 게 많을지도 모르니까요.",
+                "cn": "还是多带一个本子吧，说不定会遇到很多值得记下的事。"
+            },
+            "asset": "char_4139_papyrs/CN_019"
+        },
+        {
+            "id": "char_4139_papyrs_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Don't worry. I have anticipated the enemy's plans and written them down in detail.",
+                "jp": "敵の動きは予測済みなので大丈夫です。パターンも詳しく書き起こしてますから。",
+                "kr": "적의 움직임은 이미 예상하고 있으니까 괜찮을 거예요. 패턴도 자세히 적어뒀는걸요. 모두 걱정하지 마세요.",
+                "cn": "没关系，敌方情况我早有预料，都已经详细地列出来了。"
+            },
+            "asset": "char_4139_papyrs/CN_020"
+        },
+        {
+            "id": "char_4139_papyrs_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Wait, please! I-I still need a bit more time…",
+                "jp": "ま、待ってください。もう少し準備を……",
+                "kr": "자, 잠시만요, 전 아직 준비가 덜 돼서……",
+                "cn": "稍等，我、我还需要再准备下......"
+            },
+            "asset": "char_4139_papyrs/CN_021"
+        },
+        {
+            "id": "char_4139_papyrs_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Phew... I-I'm ready. Please let me give it a try!",
+                "jp": "ふぅ……じゅ、準備できました。何とかやってみます！",
+                "kr": "휴우…… 주, 준비됐어요! 일단 한번 해볼게요!",
+                "cn": "呼......我准、准备好了，请让我试一下！"
+            },
+            "asset": "char_4139_papyrs/CN_022"
+        },
+        {
+            "id": "char_4139_papyrs_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "From here, I should be able to cover everyone, right?",
+                "jp": "ここだったら……誰も見落とすことはないよね？",
+                "kr": "여기라면…… 모두를 도울 수 있겠지?",
+                "cn": "在这里的话......应该可以照看到所有人吧？"
+            },
+            "asset": "char_4139_papyrs/CN_023"
+        },
+        {
+            "id": "char_4139_papyrs_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "I really hope nothing goes wrong.",
+                "jp": "どうかすべて上手くいきますように。",
+                "kr": "제발 무사히 잘 넘어가기를……",
+                "cn": "千万不要出岔子哇。"
+            },
+            "asset": "char_4139_papyrs/CN_024"
+        },
+        {
+            "id": "char_4139_papyrs_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Don't panic. I have everything I need to know in my notebook.",
+                "jp": "落ち着いて、わたし。対応策は全部ノートに用意してるんだから。",
+                "kr": "진정하자 진정하자, 대책은 전부 노트에 적어뒀잖아.",
+                "cn": "不用急，应对方式我的笔记里都有。"
+            },
+            "asset": "char_4139_papyrs/CN_025"
+        },
+        {
+            "id": "char_4139_papyrs_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Um, which page did I put my notes in...?",
+                "jp": "あれ、どのページに書いたんだっけ？",
+                "kr": "어라, 몇 페이지에 적었더라?",
+                "cn": "咦，我到底记在哪一页了？"
+            },
+            "asset": "char_4139_papyrs/CN_026"
+        },
+        {
+            "id": "char_4139_papyrs_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Oh no… I can't find it anywhere…",
+                "jp": "どうしよう……全然見つからないよ……",
+                "kr": "어떡하지…… 전혀 못 찾겠어……",
+                "cn": "完蛋了......完全找不到......"
+            },
+            "asset": "char_4139_papyrs/CN_027"
+        },
+        {
+            "id": "char_4139_papyrs_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Ahhh! I'll just improvise!",
+                "jp": "むぎゃああ！なるようになれ！！",
+                "kr": "아아, 몰라! 어떻게든 돼라!!",
+                "cn": "啊啊啊——！随机应变了！！"
+            },
+            "asset": "char_4139_papyrs/CN_028"
+        },
+        {
+            "id": "char_4139_papyrs_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Thank goodness everyone's alright... Your quick thinking was the key, Doctor!",
+                "jp": "よかった、皆さんご無事で……これもすべてドクターの閃きのおかげですね！",
+                "kr": "다들 무사해서 정말 다행이에요…… 이건 모두 박사님의 빠른 상황 판단 덕분이에요!",
+                "cn": "太好了，大家都平安无事......多亏您的临场反应，博士！"
+            },
+            "asset": "char_4139_papyrs/CN_029"
+        },
+        {
+            "id": "char_4139_papyrs_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "How wonderful. The operation went according to plan.",
+                "jp": "計画通りに上手くいって、本当に良かったです。",
+                "kr": "작전이 계획대로 잘 되어서 정말 다행이에요.",
+                "cn": "真好，此次行动按计划顺利完成了。"
+            },
+            "asset": "char_4139_papyrs/CN_030"
+        },
+        {
+            "id": "char_4139_papyrs_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "If only I had planned for more variables. I'll definitely reflect this in my notes!",
+                "jp": "わたしがもっと先を見越して計画を立てられたら……今回の結果からしっかり学びたいと思います。",
+                "kr": "제가 조금 더 멀리 내다보고 계획을 세웠더라면 더 좋은 결과가 있었을 텐데…… 이번 일을 교훈으로 삼을게요.",
+                "cn": "要是我能做出更有前瞻性的计划就好了......我会吸取这次的教训。"
+            },
+            "asset": "char_4139_papyrs/CN_031"
+        },
+        {
+            "id": "char_4139_papyrs_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Our plan has failed. Please give the order to retreat, Doctor!",
+                "jp": "計画は失敗しました……撤退の命令をお願いします、ドクター！",
+                "kr": "계획 실패네요…… 어서 퇴각 명령을 내려 주세요, 박사님!",
+                "cn": "计划失败了......请下达撤退命令吧，博士！"
+            },
+            "asset": "char_4139_papyrs/CN_032"
+        },
+        {
+            "id": "char_4139_papyrs_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Doctor, please let me explain! I didn't bring all these books here for leisure! I just prefer to rest my head on a stack of books during lunch. Like so. It's surprisingly comfy…",
+                "jp": "ドクター、聞いてください、この本は仕事の合間に読もうってわけじゃないんです！ただお昼寝の時、本の山を枕にするのが癖で。ほらこうやって、頭を乗せると気持ちいいんですよ……",
+                "kr": "일단 제 말을 들어 주세요, 박사님! 제가 딴짓하려고 이렇게 책을 쌓아 두는 건 절~대 아니고요! 전 그냥 낮잠 잘 때 책 몇 권을 베고 자는 걸 좋아해서 그런 것뿐이에요. 이렇게, 머리를 올려 두면 엄청 편안하거든요……",
+                "cn": "博士，听我解释，我带这么多书来不是为了忙里偷闲！我午休的时候喜欢枕着一摞书，就像这样把头放上去，很舒服的......"
+            },
+            "asset": "char_4139_papyrs/CN_033"
+        },
+        {
+            "id": "char_4139_papyrs_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Hnngh! D-Don't tease me like that…",
+                "jp": "ひゃっ！び、びっくりさせないでくださいよぉ……",
+                "kr": "앗! 노, 놀리지 마세요……",
+                "cn": "唔！别、别捉弄我呀......"
+            },
+            "asset": "char_4139_papyrs/CN_034"
+        },
+        {
+            "id": "char_4139_papyrs_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Doctor, could you please pinch my ear? When I get anxious... my friends comfort me like that.",
+                "jp": "ドクター、わ、わたしの耳を軽く揉んでもらってもいいですか？……心が落ち着かない時は、いつも友達にそうしてもらってるんです。",
+                "kr": "박사님, 제 귀를 주물러 주실 수 있나요? 마음이 불안할 때면…… 친구한테 그렇게 해달라고 하거든요.",
+                "cn": "博士，可以拜托您捏一下我的耳朵吗？我焦虑的时候......朋友都会这样安慰我。"
+            },
+            "asset": "char_4139_papyrs/CN_036"
+        },
+        {
+            "id": "char_4139_papyrs_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4139_papyrs/CN_037"
+        },
+        {
+            "id": "char_4139_papyrs_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "When we celebrated the New Year Festival at home, Father would always have the entire day planned. We'd visit family and friends, attend parties and banquets. It was all so overwhelming. This year, I hope to relax a bit more… Maybe... play an extra thirty minutes tonight?",
+                "jp": "以前、新年のやることはすべてお父様が決めていました。親戚を訪ね回ったり、食事会や集まりに参加したり、予定が次から次へと押しかけて休む間もありませんでした。なので、今年は気ままに過ごそうと思います。そうですね……夜の帰りを三十分くらい延ばしましょうか？",
+                "kr": "예전엔 새해 당일 일정을 전부 아버지가 결정하셨어요. 친척을 만난다든가, 모임에 참석한다든가, 여러 일정들이 연달아 있어 쉴 틈조차 없었죠. 그래서 이번엔 조금 제멋대로 보내볼까 해요. 음, 오늘은 밤에 30분 정도 더 놀아도 괜찮겠죠?",
+                "cn": "以前过新年，家父会将一整天的行程都安排妥当，走亲访友，宴饮聚会，事情挨着事情，几乎没有空闲时间。今年我想过得随性一点......要不，晚上多玩个半小时？"
+            },
+            "asset": "char_4139_papyrs/CN_038"
+        },
+        {
+            "id": "char_4139_papyrs_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Doctor, when will your next trip be? Would you mind if I went with you?",
+                "jp": "ドクター、次の外勤予定はいつですか？わたしがついて行ってもいいでしょうか？",
+                "kr": "박사님, 다음 외근 일정은 언제인가요? 혹시 제가 따라가도 될까요?",
+                "cn": "博士，下一次出行是在什么时候呢？我是否可以一同前往？"
+            },
+            "asset": "char_4139_papyrs/CN_042"
+        },
+        {
+            "id": "char_4139_papyrs_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Doctor, after visiting so many places with you, I've come to realize that the true destination of every journey is also its beginning. We may wander far and wide, but we always return to where we started, to reunite with those from whom we parted. And then, we wait... until the next journey.",
+                "jp": "ドクターと様々な場所を巡り、最近ようやくわかってきたことがあります。それは旅立ちの地が往々にして終着点でもあるということです。どんな場所へ行こうと、どんなに遠くまで旅しようと、最後には出発した地へ戻り、別れを告げた人々とも再会して……そしてまた新たな旅を心待ちにするんです。",
+                "kr": "박사님이랑 여러 곳을 돌아다니면서 깨달은 점이 한 가지 있어요. 그건 바로 여행의 출발지가 종종 종착지가 되기도 한다는 점이에요. 어떤 곳을 가든, 또 얼마나 멀리 가든, 결국은 출발했던 장소로 다시 돌아와, 헤어졌던 사람들과 다시 만나고…… 그리고 또 다른 여행의 출발을 기대하게 되죠.",
+                "cn": "与您一起去了那么多地方，才知道一段旅程往往起始就是终点。无论去哪里游历，走得多远，最终都要回到出发的地方，与曾分别的人一一重聚......然后，等待下一次出发。"
+            },
+            "asset": "char_4139_papyrs/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Molly Harris",
+            "global": "Molly Harris"
+        },
+        "cn": {
+            "native": "葛子瑞",
+            "global": "Zirui Ge"
+        },
+        "jp": {
+            "native": "橘杏咲",
+            "global": "Azusa Tachibana"
+        },
+        "kr": {
+            "native": "유혜지",
+            "global": "Yu Hye-ji"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

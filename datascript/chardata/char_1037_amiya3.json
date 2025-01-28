@@ -1,0 +1,596 @@
+{
+    "charid": "char_1037_amiya3",
+    "nameid": "amiya3",
+    "names": {
+        "en": "Amiya 3",
+        "jp": "アーミヤ 3",
+        "kr": "아미야 3",
+        "cn": "阿米娅 3"
+    },
+    "voices": [
+        {
+            "id": "char_1037_amiya3_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Doctor, are you busy? Oh, it's fine if you don't have time to chat. I need to get some work done too, how about we eat together after we're done?",
+                "jp": "ドクター、お忙しいですか？あ、無理にお話してくれなくて大丈夫ですよ。私も今日中に済ませたい仕事があるので、終わってから一緒にお食事に行きましょう。",
+                "kr": "박사님, 바쁘세요? 제 이야기 상대가 되어주지 않으셔도 괜찮아요. 저도 오늘 꼭 처리해야 하는 일이 있거든요, 일이 끝나면 저희 같이 식사하는 건 어떠세요?",
+                "cn": "博士，你在忙吗？不陪我聊天也没关系的。我也有必须今天处理好的工作，做完以后，一起去吃饭吧。"
+            },
+            "asset": "char_1037_amiya3/CN_001"
+        },
+        {
+            "id": "char_1037_amiya3_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Doctor...? All is well. I'm just reading this book. I suddenly realized that Theresa once read it to me, though even now I don't know how it ends. Tears...? Maybe it's because... it's such a heartwarming story.",
+                "jp": "ドクター？……この本を読んでました。テレジアさんに読んでもらっていたのに、最後まで聞けなかったなぁって、ふと……涙？これは……すごく暖かいお話だったから。きっとそうです。",
+                "kr": "박사님……? 아, 전 책을 읽고 있었어요. 별건 아니고요, 그냥, 전에 테레시아 씨가 이 책을 읽어준 적이 있었는데 제가 아직 결말을 모른다는 게 생각나서요. 왜…… 눈물을 흘리고 있냐고요……? 아마…… 너무 따뜻한 내용이어서 그런 걸 거예요.",
+                "cn": "博士......我在看书。没什么，就是突然想起来，特蕾西娅小姐为我读过这本，我还不知道结局呢。为什么......在流泪？可能是因为......这个故事真的很温暖。"
+            },
+            "asset": "char_1037_amiya3/CN_002"
+        },
+        {
+            "id": "char_1037_amiya3_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Yes, another ring of mine broke. Dr. Kal'tsit says no material could stand against such intense emotion. But even though this ring is broken, I still want to keep wearing it. It's both a restraint and a blessing. I'll make good use of it.",
+                "jp": "はい、また指輪が割れてしまいました。ケルシー先生曰く、如何なる強度の装具をもってしても、あれほど強い感情には耐えられない、だそうで。割れた指輪ですが……外したくなくて。この指輪はある種の制約ではありますが、祝福でもありますから。割れてしまっても、うまく使いこなしてみせます。",
+                "kr": "네, 반지가 또 깨져버렸어요. 켈시 선생님께서, 아무리 강력한 기물이라도 그토록 강렬한 감정은 감당할 수 없을 것이다…… 라고 하시긴 했지만…… 저, 이 깨진 반지…… 빼고 싶지 않아요. 이건 구속이지만 축복이기도 하니까요. 깨져버렸지만, 저 잘 사용할 수 있어요.",
+                "cn": "嗯，又有戒指碎掉了。凯尔希医生说，再强大的器具，也承受不了这么强烈的情感。坏掉的戒指......我不想摘掉它。它是约束，也是祝福。我能利用好它的。"
+            },
+            "asset": "char_1037_amiya3/CN_003"
+        },
+        {
+            "id": "char_1037_amiya3_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Doctor, Blaze invited me to an event she's organizing. It's to celebrate our return to the landship, and a lot of elite operators will be there. Will I be joining them for drinks? No, of course I... Doctor, you and Dr. Kal'tsit are always looking after me, so you should know I've grown up a bit, but not that much.",
+                "jp": "ドクター、ブレイズさんが企画したイベントにご招待いただきました。私たちの帰艦を祝うもので、ほかのエリートオペレーターの皆さんも大勢いらっしゃるそうです。お酒の席に巻き込まれないか心配？いえ、もちろん私はお酒なんて……ドクター、私も少しは大きくなりましたが、急に変わったりはしませんよ。ケルシー先生もドクターも、私の成長を見守ってくれているじゃありませんか。",
+                "kr": "박사님, 저 블레이즈 씨가 기획한 행사에 초대받았어요. 본함으로 복귀한 걸 축하하는 자리라, 다른 정예 오퍼레이터분들도 많이 참석할 거라고 들었어요. 저한테 술을 권유할까 봐 걱정이시라고요? 앗, 전 당연히…… 박사님, 켈시 선생님이랑 저의 성장을 지켜보셨잖아요, 제가 조금 자라긴 했지만 크게 달라지진 않았다고요.",
+                "cn": "博士，煌办了个活动，邀请了我。是为了庆祝我们回到本舰，很多精英干员都在。会不会被拉着喝酒？不，我当然......博士，我是长大了一些，可也没变那么多呀。你和凯尔希医生都看着的。"
+            },
+            "asset": "char_1037_amiya3/CN_004"
+        },
+        {
+            "id": "char_1037_amiya3_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "I've come to understand more and more how difficult it was for Theresa. What should I do? I think... I'll go and see Kazdel, as it is today. W will stand with me. And... there'll be more, others, in the future… Yes, I'm feeling more confident now.",
+                "jp": "テレジアさんが当時いかに苦しい立場に置かれていたか、時が経つにつれて理解が深まってきたように思います。どうするべきかの答えはまだ出ませんが……まずは、今のカズデルに向き合ってみたいです。Wさんがいてくれますし、きっとこれからもっとたくさんの方が……はい、自信が湧いてきました。",
+                "kr": "시간이 지날수록 그때의 테레시아 씨가 겪었던 어려움을 더 깊이 이해하게 되는 것 같아요. 전 어떻게 해야 할까요? 사실 아직 그 답을 찾지는 못했지만…… 우선은 지금의 카즈델과 마주하는 것부터 시작할까 해요. W 씨가 저와 함께해 주실 거고, 분명 앞으로 더 많은 분들이 저와…… 네, 저 자신감이 생겼어요.",
+                "cn": "我越来越理解，特蕾西娅小姐当初的处境有多艰难了。我该怎么做呢？我想......看看现在的卡兹戴尔。W小姐会和我站在一起，未来还会有更多人......嗯，我开始有信心了。"
+            },
+            "asset": "char_1037_amiya3/CN_005"
+        },
+        {
+            "id": "char_1037_amiya3_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "I touched and felt Theresa's every emotion. She was full of love and hope... for this great land, the Sarkaz, the people by her side, and herself. But all of it came to a sudden end, along with her life. She was holding onto so much sorrow... and so am I.",
+                "jp": "テレジアさんの感情すべてに触れました。テレジアさんは、この大地に、サルカズに、身近な人々や自分自身にも……燃えるような愛と希望を抱いていたんです。ですがそのすべてが唐突に、自らの命と一緒に断たれてしまった。それがどれだけ悲しかったことか……私も、本当に悲しかった。",
+                "kr": "저는 테레시아 씨의 모든 감정을 느꼈어요. 테레시아 씨는 이 대지에, 살카즈에게, 주변 사람들 그리고 스스로에게…… 마치 타오르는 불같은 사랑과 희망을 품고 있었죠. 하지만 이 모든 것들이 한순간에, 그녀의 생명과 함께 꺼져버린 거예요. 얼마나 슬펐을까요…… 저도 정말 슬펐어요.",
+                "cn": "我触摸到了特蕾西娅小姐全部的情感。她曾怀揣着炽烈的爱和希冀......对这片大地，对萨卡兹，对身边人和自己。可这一切都和她的生命一起戛然而止了。她是那么悲伤......我也是。"
+            },
+            "asset": "char_1037_amiya3/CN_006"
+        },
+        {
+            "id": "char_1037_amiya3_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Dr. Kal'tsit has seen so much death. She was forced to watch many of her loved ones go, one by one. It's just... too painful. I've grown up now, so I can shoulder more responsibility for her. She doesn't have to walk alone anymore. Doctor, I want her to know that we're here for her.",
+                "jp": "ケルシー先生は本当に多くの死を見届けてきたんです。愛する人が一人、また一人と去っていくのに向き合い続けるなんて……あまりにも辛いです。私も少しは成長しましたから、もっと多くのものを肩代わりできるようになったはずです。ケルシー先生はもう一人じゃないんです。ドクター、私たちが傍にいるって、ケルシー先生に教えてあげましょう。",
+                "kr": "켈시 선생님은 정말 많은 죽음을 지켜보셨어요. 사랑하는 사람이 한 명, 또 한 명 떠나가는 것을 계속 마주해야 한다는 건, 정말…… 너무나도 고통스러운 일이겠죠. 저도 이제 성장했으니, 켈시 선생님을 도와 더 많은 짐을 짊어질 수 있어요. 켈시 선생님은 더 이상 혼자 걷지 않으셔도 돼요. 우리가 곁에 있다는 걸, 전 켈시 선생님께 알려 드리고 싶어요.",
+                "cn": "凯尔希医生见证了那么多死亡，不得不看着爱的人一个个离开，这......太痛苦了。我长大了，可以替她多分担一点。她不用和过去一样独自行走了。博士，我想让她知道，我们和她在一起。"
+            },
+            "asset": "char_1037_amiya3/CN_007"
+        },
+        {
+            "id": "char_1037_amiya3_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "I expected as much... Thank you. Oh, Doctor? Do you want to talk with 'Civilight Eterna' too? Alright, come over here, don't be nervous... Just Like this, feel the flowing energy. Feels like she's holding your hands, right? You'll get along well, I'm certain of it, and I always have been.",
+                "jp": "なるほど、やはりそうでしたか……ありがとうございます。あれ、ドクター？ドクターも「魔王」とお話したいんですか？では、こうやって、エネルギーの流れを感じてみてください。緊張しなくていいですよ……なんとなく「握手」しているような感覚になりませんか？きっと二人は仲良くなれます。私はずっとそう信じてきました。",
+                "kr": "역시 그렇군요, 저도 비슷한 생각이에요…… 고맙습니다. 아, 박사님? 박사님도 혹시 '마왕'과 이야기하고 싶으신 건가요? 그럼 긴장을 풀고 이렇게…… 에너지의 흐름을 느껴보세요. '악수'하는 듯한 느낌이 들지 않으세요? 두 분은 분명 친해질 수 있을 거예요, 전 계속 그렇게 믿고 있어요.",
+                "cn": "和我想的差不多......感谢您。唔，博士？你也想找“魔王”聊聊吗？别紧张，来......像这样，感受能量的流动。是不是有种“握手”的感觉？你们会相处得很好，我一直这样相信。"
+            },
+            "asset": "char_1037_amiya3/CN_008"
+        },
+        {
+            "id": "char_1037_amiya3_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Doctor, I can feel your guilt, confusion... and sorrow. But you shouldn't be trapped by your past. This is what Theresa and I both wish for you. We still have lots of work to do. The one who ignited the flame of hope may no longer be with us, but the fire still burns. Babel never truly fell.",
+                "jp": "ドクターの罪悪感や困惑、そして悲しみが伝わってきます……ですが、どうか過去に囚われないで――これが私とテレジアさんの共通の願いです。私たちにはまだまだやるべきことがたくさん残っています。はじめに火を灯した人はもういませんが、灯された炎はここに息づいています。バベルは決して崩れてなどいないんです。",
+                "kr": "박사님이 느끼는 죄책감, 혼란…… 그리고 슬픔이 느껴져요. 하지만 박사님, 부디 과거에 얽매이지 말아 주세요. 이건 저와 테레시아 씨 모두의 바람이에요. 우리에게는 아직 해야 할 일이 많이 남아 있잖아요. 처음 불을 밝힌 사람은 이제 없지만, 밝혀진 불은 이곳에서 여전히 살아 환하게 타오르고 있어요. 바벨은 무너진 적이 없어요.",
+                "cn": "博士，我能感觉到你的愧疚、困惑......还有悲伤。但过去不该困住你，这是我和特蕾西娅小姐共同的心愿。我们还有很多事要做。曾经的点火者远去了，而火还在燃烧。巴别塔从未真正倒下。"
+            },
+            "asset": "char_1037_amiya3/CN_009"
+        },
+        {
+            "id": "char_1037_amiya3_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Doctor, are you well-rested? If you're still feeling tired, you don't have to force yourself to work. I'm here, after all.",
+                "jp": "ドクター、しっかり休めましたか？まだ疲れが残っているようなら、無理はしないでくださいね。私がいますから。",
+                "kr": "박사님, 푹 쉬셨나요? 아직 피곤하신 거면 무리하지 않으셔도 돼요. 제가 있잖아요.",
+                "cn": "博士，休息好了吗？还觉得累的话，不用勉强的。有我在呢。"
+            },
+            "asset": "char_1037_amiya3/CN_010"
+        },
+        {
+            "id": "char_1037_amiya3_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Don't worry, Doctor, this is another one of my powers. I still can't heal every injury I see.... but I'll keep you safe. I'll protect the ones I love.",
+                "jp": "ドクター、心配しなくても大丈夫ですよ。これも私の力ですから。やはりすべての傷を癒やすことは叶いませんが……ドクターのことを、私の愛するすべてを守り抜いてみせます。",
+                "kr": "박사님, 걱정하지 마세요. 이것도 제 힘의 일부인걸요. 모든 상처를 치유할 수는 없겠지만…… 적어도 제가 사랑하는 사람들, 그리고 박사님을 지켜 드릴게요.",
+                "cn": "博士，别担心，这也是我的力量。我依然无法治愈所有创伤......但我会保护你。我会保护我爱的大家。"
+            },
+            "asset": "char_1037_amiya3/CN_011"
+        },
+        {
+            "id": "char_1037_amiya3_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Could I use all my different powers in the same fight? Oh, Doctor. I was just talking to myself.",
+                "jp": "いろんな力を……一度の戦いで使い分けるにはどうしたらいいのかな？あ、ドクター。ちょっと考え事をしていて。",
+                "kr": "여러 가지 힘을…… 한 번의 전투에서 모두 쓸 수 있을까? 아, 박사님, 잠시 생각 중이었어요.",
+                "cn": "能不能......在同一场战斗中运用不同的力量？啊，博士，我在思考。"
+            },
+            "asset": "char_1037_amiya3/CN_012"
+        },
+        {
+            "id": "char_1037_amiya3_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Yes, I understand.",
+                "jp": "はい、わかりました。",
+                "kr": "네, 알겠습니다.",
+                "cn": "好，我知道了。"
+            },
+            "asset": "char_1037_amiya3/CN_017"
+        },
+        {
+            "id": "char_1037_amiya3_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "I can feel so much sorrow… so much sadness…",
+                "jp": "すごく、すごくたくさんの悲しみを感じます……",
+                "kr": "너무나도 많은 슬픔이 느껴져요……",
+                "cn": "我感受到了那么多的悲伤......"
+            },
+            "asset": "char_1037_amiya3/CN_018"
+        },
+        {
+            "id": "char_1037_amiya3_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Let's keep moving forward.",
+                "jp": "進み続けましょう。",
+                "kr": "계속 나아가요.",
+                "cn": "继续往前走吧。"
+            },
+            "asset": "char_1037_amiya3/CN_019"
+        },
+        {
+            "id": "char_1037_amiya3_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Fighting... is the only option here.",
+                "jp": "戦うことが……唯一の選択肢です。",
+                "kr": "맞서 싸우는 것만이…… 유일한 선택이겠죠.",
+                "cn": "战斗......唯一的选择。"
+            },
+            "asset": "char_1037_amiya3/CN_020"
+        },
+        {
+            "id": "char_1037_amiya3_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Amiya here.",
+                "jp": "こちらアーミヤ。",
+                "kr": "여기는 아미야.",
+                "cn": "这里是阿米娅。"
+            },
+            "asset": "char_1037_amiya3/CN_021"
+        },
+        {
+            "id": "char_1037_amiya3_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "I'm here, Doctor.",
+                "jp": "ドクター、私はここに。",
+                "kr": "박사님, 전 여기예요.",
+                "cn": "博士，我在。"
+            },
+            "asset": "char_1037_amiya3/CN_022"
+        },
+        {
+            "id": "char_1037_amiya3_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "This staff is bound to my thoughts.",
+                "jp": "杖が、私の想いに共鳴します。",
+                "kr": "아츠 스태프가 제 마음과 공명하고 있어요.",
+                "cn": "法杖联结着我的思绪。"
+            },
+            "asset": "char_1037_amiya3/CN_023"
+        },
+        {
+            "id": "char_1037_amiya3_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Mine and Theresa's emotions... I'll manifest them here.",
+                "jp": "私とテレジアさんの想いが……ここに具現化します。",
+                "kr": "저와 테레시아 씨의 감정이…… 이곳에서 구현될 거예요.",
+                "cn": "我和特蕾西娅小姐的情感......在此具现。"
+            },
+            "asset": "char_1037_amiya3/CN_024"
+        },
+        {
+            "id": "char_1037_amiya3_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Love will heal our scars.",
+                "jp": "愛が傷を癒やしていく。",
+                "kr": "사랑은 상흔을 치료해 줄 거예요.",
+                "cn": "爱意会抚平疤痕。"
+            },
+            "asset": "char_1037_amiya3/CN_025"
+        },
+        {
+            "id": "char_1037_amiya3_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Tears will bathe new life.",
+                "jp": "涙の後には新たな命が芽吹きます。",
+                "kr": "눈물은 새 생명을 움트게 할 거예요.",
+                "cn": "泪水浇灌出新生。"
+            },
+            "asset": "char_1037_amiya3/CN_026"
+        },
+        {
+            "id": "char_1037_amiya3_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Nostalgia... won't slow my steps.",
+                "jp": "想いは……足かせになんてならない。",
+                "kr": "그리움은…… 제 발목을 잡을 수 없어요.",
+                "cn": "思念......不会让我留在原地。"
+            },
+            "asset": "char_1037_amiya3/CN_027"
+        },
+        {
+            "id": "char_1037_amiya3_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Through the grim perils of the longest night, we shall breach into the promised dawn.'",
+                "jp": "「長い長い夜の後には、私たちにもきっと、夜明けが訪れます。」",
+                "kr": "'길고 긴 밤이 지나면, 우리에게도 분명, 여명이 찾아올 거예요.'",
+                "cn": "“漫漫长夜之后，我们会目睹黎明。”"
+            },
+            "asset": "char_1037_amiya3/CN_028"
+        },
+        {
+            "id": "char_1037_amiya3_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "I don't want to lose anyone else. I'll carry on this fight, for every sacrifice, and all those still alive.",
+                "jp": "これ以上、もう何も失いたくないんです。だから私は戦い続けます。犠牲者一人ひとりのために、そしてすべての命のために。",
+                "kr": "더는 잃고 싶지 않아요. 그래서 전 계속 싸울 거예요. 모든 희생자와 모든 생존자를 위해서.",
+                "cn": "我不想失去更多了。我会继续战斗下去，为了每一位牺牲者，也为了所有活着的人。"
+            },
+            "asset": "char_1037_amiya3/CN_029"
+        },
+        {
+            "id": "char_1037_amiya3_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "The flames of hatred still spread. I'll try to extinguish them, no matter... how many times it takes.",
+                "jp": "燃え広がる憎しみの炎は、私が鎮火してみせます……何度でも。",
+                "kr": "타오르는 분노의 불길은 제가 잠재울게요…… 몇 번이라도요.",
+                "cn": "恨火在蔓延。我会试着浇灭它，不管......要尝试多少次。"
+            },
+            "asset": "char_1037_amiya3/CN_030"
+        },
+        {
+            "id": "char_1037_amiya3_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "I've made a few slips... No, it's not your fault, Doctor. I could have done better here.",
+                "jp": "少しミスがあったようです……いえ、ドクターのせいじゃありません。もっとうまくやれたはずの、私の責任です。",
+                "kr": "조금 실수가 있었네요…… 아니요, 박사님의 잘못이 아니에요. 제가 더 잘해야 했는데, 모두 제 책임이에요.",
+                "cn": "一点点失误......不，不是博士的错。是我本可以做得更好。"
+            },
+            "asset": "char_1037_amiya3/CN_031"
+        },
+        {
+            "id": "char_1037_amiya3_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "I won't let anyone hurt you, Doctor. Hold onto me, and don't let go, okay?",
+                "jp": "ドクター、絶対にあなたを傷付けさせはしません。しっかり私に掴まって離れないでくださいね。",
+                "kr": "절대, 박사님을 다치게 두지 않을 거예요. 저를 꼭 붙잡으세요. 절대 놓으시면 안 돼요.",
+                "cn": "博士，我不会让你受伤。拉住我，别走远，好吗？"
+            },
+            "asset": "char_1037_amiya3/CN_032"
+        },
+        {
+            "id": "char_1037_amiya3_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "I'm so glad to be home.",
+                "jp": "また戻って来られて……本当によかった。",
+                "kr": "다시 집으로 돌아왔네요…… 너무 좋아요.",
+                "cn": "又回家了，真好。"
+            },
+            "asset": "char_1037_amiya3/CN_033"
+        },
+        {
+            "id": "char_1037_amiya3_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Yes, Doctor?",
+                "jp": "はい……ドクター。",
+                "kr": "네…… 박사님.",
+                "cn": "嗯......博士。"
+            },
+            "asset": "char_1037_amiya3/CN_034"
+        },
+        {
+            "id": "char_1037_amiya3_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Doctor, do you have something to say?",
+                "jp": "ドクター、どうかしましたか？",
+                "kr": "박사님, 하실 말씀이라도 있으세요?",
+                "cn": "博士，有什么想说的话吗？"
+            },
+            "asset": "char_1037_amiya3/CN_036"
+        },
+        {
+            "id": "char_1037_amiya3_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_1037_amiya3/CN_037"
+        },
+        {
+            "id": "char_1037_amiya3_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Where's that form...? Hmm... I'm looking for a financial statement from Closure. Where did I put it...? Right here! Oh, it's a summary report from HR... Which reminds me, I haven't checked the new purchase order yet either... Doctor, I won't make it to the party. So I'll wish you a happy new year right here. Ahem-hem: happy new year! Oh? You want to stay with me?",
+                "jp": "決算書……クロージャさんからいただいた年末決算報告書を探していて。うーん、どこに置いたんだろう……あ、あった！いや、これは人事部の年度報告ですね。そういえば新しい調達リストの確認もまだでした……ドクター、パーティーには行けそうにないので、先に新年のお祝いを。コホン、あけましておめでとうございます。えっ、一緒にいてくれるんですか？",
+                "kr": "결산서가…… 아, 클로저 씨에게 받은 연말 결산 보고서를 찾고 있었어요. 어디에 뒀더라…… 찾았다! 아, 이건 인사부의 연간 보고서네요. 그러고 보니 신규 구매 명세서 확인도 아직이고…… 박사님, 오늘 파티에는 못 갈 것 같으니 먼저 인사드릴게요. 새해 복 많이 받으세요. 네? 저와 함께 있어 주시겠다고요?",
+                "cn": "表......我在找可露希尔给我的财务表。放哪儿了呢......在这里！啊，是人事部的总结。新的采购单也还没看......博士，聚会我去不了了，先说声新年快乐。欸，你想陪我吗？"
+            },
+            "asset": "char_1037_amiya3/CN_038"
+        },
+        {
+            "id": "char_1037_amiya3_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Welcome home, Doctor.",
+                "jp": "お帰りなさい、ドクター。",
+                "kr": "어서 오세요, 박사님.",
+                "cn": "欢迎回家，博士。"
+            },
+            "asset": "char_1037_amiya3/CN_042"
+        },
+        {
+            "id": "char_1037_amiya3_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Another year has passed, and Rhodes Island is still sailing onwards. Doctor, tonight was just so wonderful I wish I could hide it away, deep in my mind. Thank you for staying by my side. We'll spend this very same day next year, together.",
+                "jp": "また一年が過ぎていきましたが、今日もロドスは変わりなく航路を轟々と進んでいます。ドクター、本当に素敵な夜ですね。素敵すぎて、心の奥の奥に隠しちゃいたくなるくらい。こうやって素敵なひとときを一緒に過ごしてくれて、本当にありがとうございます。来年の今日も、きっと一緒に過ごせますよね。",
+                "kr": "또 1년이 지났네요. 로도스 아일랜드는 여전히 늠름하게 항로를 따라 나아가고 있어요. 박사님, 저 있죠. 이 밤이 너무 좋은 나머지 마음속 깊은 곳에 숨겨두고 싶을 정도예요. 이렇게 멋진 시간을 저와 함께해 주셔서 정말 감사해요, 박사님. 내년의 오늘도 저희는 분명 함께일 거예요.",
+                "cn": "又一年过去了，罗德岛还在它的航线上呜呜地航行着。博士，我很喜欢这个夜晚，喜欢到想把它放在脑海最深处藏起来。谢谢你，能像这样陪着我。明年的这一天，我们一定还能一起度过。"
+            },
+            "asset": "char_1037_amiya3/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Emma Ballantine",
+            "global": "Emma Ballantine"
+        },
+        "cn": {
+            "native": "陶典",
+            "global": "Dian Tao"
+        },
+        "jp": {
+            "native": "黒沢ともよ",
+            "global": "Tomoyo Kurosawa"
+        },
+        "kr": {
+            "native": "이지현",
+            "global": "Lee Ji-hyun"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

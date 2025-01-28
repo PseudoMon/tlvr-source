@@ -1,0 +1,628 @@
+{
+    "charid": "char_1016_agoat2_epoque#34",
+    "nameid": "agoat2-epoque",
+    "names": {
+        "en": "Eyjafjalla the Hvít Aska EPOQUE",
+        "jp": "純燼エイヤフィヤトラ EPOQUE",
+        "kr": "에이야퍄들라 더 크비트 아스카 EPOQUE",
+        "cn": "纯烬艾雅法拉 EPOQUE"
+    },
+    "voices": [
+        {
+            "id": "char_1016_agoat2_epoque#34_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Mmm~I smell whipped cream. Look, the lambs have started their picnic over there. Care to join them with me, Professor?",
+                "jp": "んん～クリームのあまーい香りでいっぱいですね。先輩、ちびめーちゃんたちがもう向こうでピクニックを始めてるみたいなので、一緒に参加しませんか？",
+                "kr": "음~ 달콤한 크림 향기가 풍겨와요. 선배, 쪼꼬미양들이 벌써 저쪽에서 피크닉을 시작한 것 같은데, 저희도 함께할까요?",
+                "cn": "嗯~空气中都是奶油香甜的味道，前辈，小羊们已经在那边开始野餐了，您要不要和我一起去？"
+            },
+            "asset": "char_1016_agoat2_epoque#34/CN_001"
+        },
+        {
+            "id": "char_1016_agoat2_epoque#34_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Professor, would you like to try this cupcake I made? It's got a small piece of berry, some cream I scooped from a bigger cake, and the plate is a vine leaf… Why is there a lamb hiding in your hood...? This must be one of Dolly's pranks.",
+                "jp": "ベリーを一かけと、おっきなケーキのクリームをすくって葉っぱのお皿に載せて……先輩、出来たてのケーキはどうですか？あれ、ちびめーちゃん、なんで先輩のフードに隠れてるの？……フフッ、なるほど、きっとまたドリーさんのイタズラですね。",
+                "kr": "베리 한 조각과 커다란 케이크 위에 얹어진 크림을 덜어서 잎사귀 접시 위에 올리면…… 선배, 제가 만든 케이크 한번 드셔 보시겠어요? 어라, 쪼꼬미양이 왜 선배의 후드 속에 숨겨져 있는 거죠? ……후후, 돌리 씨의 장난이 분명해요.",
+                "cn": "一小块莓果、从大蛋糕上蹭的奶油，装在藤蔓叶做的盘子里，前辈，尝尝我刚做的蛋糕吧？欸，您的兜帽里怎么藏了一只小羊？......噗，我猜，这一定又是多利的恶作剧啦。"
+            },
+            "asset": "char_1016_agoat2_epoque#34/CN_002"
+        },
+        {
+            "id": "char_1016_agoat2_epoque#34_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "What do you think of my dress, Professor? Is the ribbon tied right? The lambs invited me to a party, but all they gave me to wear was a big ball of wool! Rather naughty of them, don't you think? It's been so long since I danced in a dress. I'm worried I might have some trouble. Would you mind practicing with me?",
+                "jp": "先輩、このドレス、可愛いですか？リボンはちゃんと結べてますか？ちびめーちゃんたちがダンスパーティに誘ってくれたんですが、おっきなもこもこを着せられそうになっちゃって……本当にやんちゃな子たちですよね～。あっ、でもドレスで踊るなんて本当に久し振りです。ヘマしちゃわないように練習したいので、先輩にリードをお願いしてもいいですか？",
+                "kr": "선배, 이 드레스 어때요? 나비 리본은 잘 묶여있나요? 쪼꼬미양들이 절 무도회에 초대해 줬는데, 입고 가라면서 몽글몽글한 양털을 잔뜩 줬지 뭐예요. 정말 장난꾸러기들이라니까요~ 아, 그런데 드레스를 입고 춤을 추는 건 정말 오랜만이에요. 실수하지 않게 미리 연습하고 싶은데, 괜찮다면 선배가 리드해 주실 수 있을까요?",
+                "cn": "前辈，这条裙子好看吗？蝴蝶结有没有扎好？小羊们邀请我去舞会，还给了一大团羊毛想让我穿进去，它们真调皮~我已经很久没有机会穿上舞裙跳舞了，有点担心会出错，您能先带着我跳一次吗？"
+            },
+            "asset": "char_1016_agoat2_epoque#34/CN_003"
+        },
+        {
+            "id": "char_1016_agoat2_epoque#34_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Hm? What was that, Professor? Sorry, I didn't quite catch that, please wait a second... My, how did this wool get in my ear? It must have slipped when I was playing hide-and-seek with the lambs! Go ahead, Professor, I can hear you now.",
+                "jp": "えっと、先輩今なんとおっしゃいましたか？なんだか声が遠くて、ちょっと待っててくださいね……わあっ、もこもこが耳に詰まってたみたいです。さっきちびめーちゃんたちとかくれんぼをした時に入っちゃったんだと思います！もう一度お願いします、今ならはっきり聞こえますよ。",
+                "kr": "네? 선배, 방금 뭐라고 말씀하셨나요? 제대로 안 들려서, 잠시만요…… 앗, 귀에 왜 양털이? 분명 쪼꼬미양들이랑 숨바꼭질을 하다가 들어갔나 봐요! 그럼 다시 한번 말해주세요, 이젠 선배 목소리 잘 들을 수 있어요.",
+                "cn": "唔，前辈您刚刚说什么？我没有听清，请稍等一下......哎呀，我的耳朵里怎么有一团羊毛？一定是刚才和小羊捉迷藏，不小心跑进去的！您现在说吧，我能听见啦。"
+            },
+            "asset": "char_1016_agoat2_epoque#34/CN_004"
+        },
+        {
+            "id": "char_1016_agoat2_epoque#34_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "We've come pretty far, haven't we, Professor? A little fowlbeast brought me a rock from an acid lake. A little musbeast led me across an ocean of pink. And I even went aboard a great ship made of love and warmth. With these treasures, I don't feel at all lonely.",
+                "jp": "先輩、私たちこんなに遠くまで来ちゃいましたね。羽獣さんが硫酸の湖の石ころを届けてくれて、鼷獣さんがピンク色の海を渡らせてくれて、それから愛と温もりでできた大船にも乗って……こんなにたくさんの宝物をもらって、私、もうちっとも寂しくなんかないです。",
+                "kr": "선배, 되돌아 보니 우린 정말 먼 길을 걸어왔네요. 어린 파울비스트는 제게 황산 호수의 돌멩이를 전해줬고, 무스비스트는 제가 분홍빛의 바다를 건널 수 있게 해 줬어요. 게다가 사랑과 온기로 이루어진 커다란 배도 타봤고…… 이렇게 많은 보물들을 받아서, 전 이제 조금도 외롭지 않아요.",
+                "cn": "前辈，我们这一路走了很远呢。小羽兽给我衔来硫酸湖中的石子，小鼷兽带着我飘过粉色的海洋，我还登上了一艘由爱和温暖搭成的大船，收获了这么多的宝物，我一点都不觉得孤单。"
+            },
+            "asset": "char_1016_agoat2_epoque#34/CN_005"
+        },
+        {
+            "id": "char_1016_agoat2_epoque#34_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Do you like this cake, Professor? It's not just a regular cake. The base is made of love and dedication. The cream is distilled from our adventures. Various emotions are sprinkled as a finishing touch. And I've placed it in a box made of memories. It took me a long time to learn to bake a cake like this, Professor. I hope you'll remember the taste forever.",
+                "jp": "先輩、ケーキはお口に合いましたか？愛と情熱をスポンジに。冒険と出会いを凝縮したクリームを塗って……それから色とりどりの想いでデコレーション。最後に思い出の箱でラッピングして完成です。ここまでできるようになるまで、すっごく時間がかかったんです。先輩には、ずっとこの味を覚えていてほしいな。",
+                "kr": "선배, 이 케이크 마음에 드세요? 사랑과 열정으로 케이크 시트를 만들고, 그 위에는 모험과 만남을 응축한 크림을 발랐어요. 마지막으로 여러 감정으로 데코레이션을 한 다음, 추억이라는 상자에 케이크를 포장했죠. 이 케이크를 다 만들기까지 정말 많은 시간이 걸렸어요. 선배, 이 맛을 부디 영원히 기억해 주세요.",
+                "cn": "前辈喜欢这个蛋糕吗？将爱与执着做成蛋糕坯，涂上冒险和奇遇炼成的奶油，最后装点上各种形状的情绪，存放在回忆的盒子里。我花了很久才学会怎么做呢。前辈，希望您永远记得这个味道。"
+            },
+            "asset": "char_1016_agoat2_epoque#34/CN_006"
+        },
+        {
+            "id": "char_1016_agoat2_epoque#34_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "The little lambs can't wait to take us out to play again. What did you think of the chocolate lava in that volcano earlier? I much prefer the crystal candy from the thermal lake myself. ",
+                "jp": "ちびめーちゃんったら、私たちを乗せてまたお出かけするのが待ちきれないって。先輩、さっき火山の中で食べた溶岩チョコレートはどうでしたか？私はどちらかというと温泉湖にあったクリスタルグミが気に入りました。ここでも先輩に会えて、本当に嬉しいです。先輩、手を繋いでもいいですか？……それでは、次の目的地に向かいましょうか。",
+                "kr": "쪼꼬미양이 또 우릴 태우고 나들이 가고 싶은 모양이에요. 선배, 방금 화산에서 먹었던 라바 초콜릿 어떠셨어요? 전 온천 호수에 있던 크리스탈 젤리가 더 맛있었어요. 여기서도 선배와 만나게 되어 너무 좋아요. 선배, 제 손을 잡으세요. ……그럼 다음 목적지로 이동할게요.",
+                "cn": "小羊已经等不及要驮着我们再去玩了。前辈，您觉得刚才火山里的岩浆巧克力怎么样？我更喜欢温泉湖里的晶石软糖呢。来，拉住我的手，能在这里遇见前辈真是太好了，我们去下一个目的地吧？"
+            },
+            "asset": "char_1016_agoat2_epoque#34/CN_007"
+        },
+        {
+            "id": "char_1016_agoat2_epoque#34_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Phew. Looks like the sun's about to set. If only we could catch up with it, then the picnic could go on a little longer. How nice it would be if we could dance in a circle and sing. Pretty sun, warm sun, why you set so soon? Please stay, please wait, for time is such a boon♪",
+                "jp": "ふう、日がもうすぐ沈んじゃいそう。太陽に追いついて、もうちょっとだけピクニックを続けられたらいいな。もう一度みんなで歌を歌って、輪になって踊れたらいいな……たいようさんがしずんじゃう、じかんよじかん、もうすこしだけ♪",
+                "kr": "후우, 이제 해가 지려나 봐요. 태양을 쫓을 수 있다면, 피크닉을 조금 더 오래 즐길 수 있을 텐데. 모두와 다시 함께 노래를 부르고, 둥글게 모여 춤을 출 수 있었으면 좋겠어요…… 햇님이 넘어가네, 시간아 시간아 조금만 더 천천히 가주렴♪",
+                "cn": "呼，太阳看起来要落山了，要是能追上太阳，让野餐的时间再长一点就好了；要是大家还能一起唱歌，再围成一圈跳舞就好了......太阳太阳就要落山啦，时间时间再多一点就好啦♪"
+            },
+            "asset": "char_1016_agoat2_epoque#34/CN_008"
+        },
+        {
+            "id": "char_1016_agoat2_epoque#34_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Cotton drifting on♪",
+                "jp": "もーこもこ、ふーわふわ♪くもになって、たいようめざして♪だいちをはしるマグマ、よどみないくも、とどかないたいよう♪ゆっくり、ゆっくり、おねがいごとがまーだだよ♪きたかぜさんが、やさしくふいて、もくもくくもさん、ふわりとおちる♪こいしよこいし、しゃくねつのおはなをさかせて♪",
+                "kr": "몽글몽글, 폭신폭신♪ 구름이 되어, 태양을 쫓아가네♪ 대지를 흐르는 용암, 멈추지 않는 구름, 쫓지 못할 태양이여, 부디 천천히, 천천히 가 주렴. 아직 이루지 못한 소원이 있으니까♪ 북풍이 살랑이며 불어오면, 뭉게구름은 살포시 떨어지네♪ 돌멩이야, 돌멩이야, 뜨거운 꽃으로 피어나 주렴♪",
+                "cn": "软绵绵，轻飘飘♪我们变成云朵，我们追着太阳♪流过大地的岩浆，留不住的云朵，追不上的太阳，请慢些走，还有人心愿未了♪北风北风轻轻吹，云朵云朵要落下♪小石头啊，开成一朵炙热的花♪"
+            },
+            "asset": "char_1016_agoat2_epoque#34/CN_009"
+        },
+        {
+            "id": "char_1016_agoat2_epoque#34_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Shh... Listen carefully, Professor. That's the sound of flowers blooming... So soft and gentle. I'm glad I can hear it.",
+                "jp": "シーッ……先輩、花が開く音です……すごく軽やかで柔らかい音が、私、はっきり聞こえました。",
+                "kr": "쉿…… 선배, 꽃이 피어나는 소리예요…… 무척이나 가볍고 부드러운 소리네요. 저 분명히 들었어요.",
+                "cn": "嘘......前辈您听，是花朵绽放的声音......这么轻，这么软，我听到了呢。"
+            },
+            "asset": "char_1016_agoat2_epoque#34/CN_010"
+        },
+        {
+            "id": "char_1016_agoat2_epoque#34_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Is this a dream? A cozy, cloud-white dream?",
+                "jp": "これは……夢？雲みたいに真っ白で暖かい夢、かな？",
+                "kr": "이건…… 꿈인가요? 구름처럼 하얗고 따스한 꿈인 걸까요?",
+                "cn": "这是一场梦吗？一场云朵般白乎乎、暖洋洋的梦？"
+            },
+            "asset": "char_1016_agoat2_epoque#34/CN_011"
+        },
+        {
+            "id": "char_1016_agoat2_epoque#34_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "I wonder if anyone recorded the picnics, too?",
+                "jp": "前のピクニックの写真がまだ残ってるかな……",
+                "kr": "전에 피크닉 갔을 때 사진을 찍었던가……",
+                "cn": "以前的聚餐有没有留下照片呢......"
+            },
+            "asset": "char_1016_agoat2_epoque#34/CN_012"
+        },
+        {
+            "id": "char_1016_agoat2_epoque#34_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "The flowers will not wither, and the sunlight will be forever warm. If only we could stay in this moment…",
+                "jp": "ずっと枯れないお花に、いつまでも暖かな太陽……時間が止まってくれたらいいのに。",
+                "kr": "영원히 시들지 않는 꽃과 항상 따스하게 내리쬐는 햇살…… 지금 이 순간, 시간이 멈췄으면 좋겠어요.",
+                "cn": "鲜花不会枯萎，阳光永远和煦，要是能永远停在这一刻就好了......"
+            },
+            "asset": "char_1016_agoat2_epoque#34/CN_013"
+        },
+        {
+            "id": "char_1016_agoat2_epoque#34_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Look, professor! The hills are covered with Volcano Watchers! It's beautiful! Ah, mom and dad are there, too! Hm? You don't see them?",
+                "jp": "先輩先輩、山を見渡す限り火山警告花が満開で、すっごく綺麗です……！あ、お父さんとお母さんもあそこに！……えっ、先輩には見えませんか？",
+                "kr": "보세요, 선배! 온 산에 화산경보꽃이 만개해서 정말 아름다워요! 아, 엄마 아빠도 저기 계세요! ……어, 선배는 안 보이세요?",
+                "cn": "前辈您看，漫山遍野都是火山预警花，这景色多美啊！啊，爸爸妈妈也在那里！......欸，您没看到吗？"
+            },
+            "asset": "char_1016_agoat2_epoque#34/CN_014"
+        },
+        {
+            "id": "char_1016_agoat2_epoque#34_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "The picnic's about to begin.",
+                "jp": "ピクニックが始まりますよ。",
+                "kr": "피크닉이 곧 시작될 거예요.",
+                "cn": "野餐就要开始啦。"
+            },
+            "asset": "char_1016_agoat2_epoque#34/CN_017"
+        },
+        {
+            "id": "char_1016_agoat2_epoque#34_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Yes? You're putting me in charge of the picnic?",
+                "jp": "えーっ、私がピクニックの進行ですか？",
+                "kr": "네? 제가 피크닉을 진행하는 건가요?",
+                "cn": "欸，由我来主持野餐吗？"
+            },
+            "asset": "char_1016_agoat2_epoque#34/CN_018"
+        },
+        {
+            "id": "char_1016_agoat2_epoque#34_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Come quick, Professor! There's still a ripe berry on that vine!",
+                "jp": "先輩、早く早く。あっちのツルにも食べ頃のベリーが実ってます！",
+                "kr": "선배, 얼른요 얼른. 저쪽 덩굴에서 아주 잘 익은 베리를 발견했어요!",
+                "cn": "前辈快过来，我看到那边的藤蔓上还有一颗成熟的莓果！"
+            },
+            "asset": "char_1016_agoat2_epoque#34/CN_019"
+        },
+        {
+            "id": "char_1016_agoat2_epoque#34_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "The little lambs say it's fun to roll around on the clouds. Do you think we can go for a picnic up there?",
+                "jp": "ちびめーちゃんが雲でゴロゴロするのは面白いぞーって言ってたので、私たちもそこでピクニックしてみませんか？",
+                "kr": "쪼꼬미양이 구름 위에서 뒹굴거리는 것도 재밌다고 얘기해 줬어요. 저희도 그 위에서 피크닉을 즐겨 보는 건 어떨까요?",
+                "cn": "小羊说在云上打滚也很有意思，我们能去那上面野餐吗？"
+            },
+            "asset": "char_1016_agoat2_epoque#34/CN_020"
+        },
+        {
+            "id": "char_1016_agoat2_epoque#34_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "I hear fowlbeasts flapping their wings.",
+                "jp": "羽獣の羽ばたきが聞こえます。",
+                "kr": "파울비스트의 날갯짓 소리가 들려요.",
+                "cn": "我听到了羽兽振翅的声音。"
+            },
+            "asset": "char_1016_agoat2_epoque#34/CN_021"
+        },
+        {
+            "id": "char_1016_agoat2_epoque#34_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "The rainbow bridge rises between the clouds.",
+                "jp": "雲の間に虹が架かりましたね。",
+                "kr": "구름 사이로 무지개가 걸렸네요.",
+                "cn": "彩虹桥在云间升起啦。"
+            },
+            "asset": "char_1016_agoat2_epoque#34/CN_022"
+        },
+        {
+            "id": "char_1016_agoat2_epoque#34_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "The lava surges on, never turning back.",
+                "jp": "マグマは振り返ることなく、前へ。",
+                "kr": "용암은 앞을 향해 나아갈 뿐, 뒤를 돌아보지 않아요.",
+                "cn": "岩浆向前奔去，不会回头。"
+            },
+            "asset": "char_1016_agoat2_epoque#34/CN_023"
+        },
+        {
+            "id": "char_1016_agoat2_epoque#34_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "A pebble returns to her hometown.",
+                "jp": "小石がお家に戻ってきたよ。",
+                "kr": "작은 돌멩이 하나가 집으로 돌아갔네요.",
+                "cn": "一块小石头回到了她的家乡。"
+            },
+            "asset": "char_1016_agoat2_epoque#34/CN_024"
+        },
+        {
+            "id": "char_1016_agoat2_epoque#34_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "A cotton candy cloud, drizzled in azure sky syrup.",
+                "jp": "雲のマシュマロに、澄み渡る青空のシロップをとろーりと。",
+                "kr": "구름 마시멜로 위에 푸른 하늘 시럽을 촉촉하게.",
+                "cn": "云朵棉花糖，淋上湛蓝的天空糖浆。"
+            },
+            "asset": "char_1016_agoat2_epoque#34/CN_025"
+        },
+        {
+            "id": "char_1016_agoat2_epoque#34_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "A sweet-and-sour rainbow, dipped in golden sunshine.",
+                "jp": "甘酸っぱい虹には、金色の日差しをたーっぷりまぶして。",
+                "kr": "새콤달콤한 무지개로 황금빛 햇살을 감싸주세요.",
+                "cn": "酸甜的彩虹，裹满浅金色的阳光。"
+            },
+            "asset": "char_1016_agoat2_epoque#34/CN_026"
+        },
+        {
+            "id": "char_1016_agoat2_epoque#34_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "A refreshing breeze, mixed into bubbling soda.",
+                "jp": "爽やかなそよ風を、パチパチ泡立つソーダに注いで。",
+                "kr": "시원한 바람이, 톡톡 튀는 소다에 더해졌어요.",
+                "cn": "清凉的微风，钻进冒着气泡的汽水。"
+            },
+            "asset": "char_1016_agoat2_epoque#34/CN_027"
+        },
+        {
+            "id": "char_1016_agoat2_epoque#34_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Sleep now, and fall into a sweet dream.",
+                "jp": "眠れ、眠れ、甘い夢の国にいらっしゃい。",
+                "kr": "잠들어라, 잠들어라. 달콤한 꿈결에 빠져들어라.",
+                "cn": "睡吧，睡吧，进入甜蜜的梦乡。"
+            },
+            "asset": "char_1016_agoat2_epoque#34/CN_028"
+        },
+        {
+            "id": "char_1016_agoat2_epoque#34_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Hand in hand we stride, singing atop the gentle clouds.",
+                "jp": "てとてつないで、おうたをうたって、いっぽ、にーほ、そよかぜとくもをあるこう。",
+                "kr": "손에 손잡고, 노래를 부르며 한 걸음 두 걸음, 산들바람과 구름 위를 걸어보아요.",
+                "cn": "手拉手，唱着歌，一步，两步，我们踏着轻风和云朵。"
+            },
+            "asset": "char_1016_agoat2_epoque#34/CN_029"
+        },
+        {
+            "id": "char_1016_agoat2_epoque#34_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Ring-a-ding-ding, when the flowers gently fall, the berries you can haul.",
+                "jp": "キンコンカンコン、おはながふわりとおちたら、たべごろベリーがかおをだす。",
+                "kr": "딩, 동, 딩, 동, 꽃잎이 사르르 떨어지고, 잘 익은 베리가 얼굴을 내미네.",
+                "cn": "叮，咚，叮，咚，花儿轻轻落下，莓果成熟了。"
+            },
+            "asset": "char_1016_agoat2_epoque#34/CN_030"
+        },
+        {
+            "id": "char_1016_agoat2_epoque#34_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Oops, be careful now. Sudden shrinking takes some getting used to. Try not to trip and fall, okay?",
+                "jp": "フフッ、気をつけてください。急に小さくなっちゃって、なかなか慣れませんよね？転んじゃダメですよ。",
+                "kr": "후후, 조심하세요. 갑자기 몸이 작아져서 적응하기 힘드시죠? 넘어지시면 안 돼요.",
+                "cn": "噗，小心，突然变小了是不是还不太习惯？可别摔跤啦。"
+            },
+            "asset": "char_1016_agoat2_epoque#34/CN_031"
+        },
+        {
+            "id": "char_1016_agoat2_epoque#34_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Oh my, who knocked over the cake stand? The lambs' faces are covered in cream!",
+                "jp": "もう、ケーキのお皿をひっくり返したのは誰？ちびめーちゃんの顔がクリームだらけになっちゃった！",
+                "kr": "아이 참, 누가 케이크 접시를 엎지른 거죠? 쪼꼬미양 얼굴이 크림투성이가 되었잖아요!",
+                "cn": "哎呀，是谁打翻了蛋糕盘？小羊都成大花脸啦！"
+            },
+            "asset": "char_1016_agoat2_epoque#34/CN_032"
+        },
+        {
+            "id": "char_1016_agoat2_epoque#34_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Can I bring the cake in?",
+                "jp": "ケーキも持ってきていいですか？",
+                "kr": "케이크를 가지고 들어가도 될까요?",
+                "cn": "我可以把蛋糕也拿进来吗？"
+            },
+            "asset": "char_1016_agoat2_epoque#34/CN_033"
+        },
+        {
+            "id": "char_1016_agoat2_epoque#34_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Hey, quit it, little lamb. Oh, it's you, professor.",
+                "jp": "ちびめーちゃん、イタズラしちゃダメだよ。あれ、先輩だったんですね。",
+                "kr": "쪼꼬미양, 장난치면 안 돼요. 어라? 선배였군요.",
+                "cn": "小羊，不要捣乱呀。欸？是您呀。"
+            },
+            "asset": "char_1016_agoat2_epoque#34/CN_034"
+        },
+        {
+            "id": "char_1016_agoat2_epoque#34_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "The lambs and I have matching bow ties. Aren't they pretty?",
+                "jp": "このリボンチョーカー、可愛いですよね？ちびめーちゃんたちとお揃いなんです。",
+                "kr": "이 나비 넥타이, 정말 귀엽죠? 쪼꼬미양 거랑 똑같은 나비 넥타이예요.",
+                "cn": "这个蝴蝶领结是不是很漂亮？小羊脖子上的和我的一样哦。"
+            },
+            "asset": "char_1016_agoat2_epoque#34/CN_036"
+        },
+        {
+            "id": "char_1016_agoat2_epoque#34_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_1016_agoat2_epoque#34/CN_037"
+        },
+        {
+            "id": "char_1016_agoat2_epoque#34_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "I think it's snowing on those hills in the distance… Are you cold, Professor? The fairy tales say you can spin snow into nice, soft robes. Those who wear them will sleep the gentlest of sleeps. I hope you too will have sweet dreams tonight.",
+                "jp": "遠くの山頂で雪が降ってるみたいですが……先輩、寒くないですか？雪で柔らかなローブを織って、それを羽織れば穏やかに眠れるなんて童話もあるんですよ。今日も良い夢が見られますように。",
+                "kr": "저 멀리 산꼭대기에 눈이 내리고 있는 모양이에요…… 선배, 춥진 않으세요? 눈으로 부드러운 로브를 짠 뒤, 그걸 덮고 자면 편안하게 잠들 수 있다는 동화가 있어요. 선배도 오늘 밤 좋은 꿈 꾸시길 바랄게요.",
+                "cn": "我看到远处山顶上似乎在落雪......前辈，您冷不冷？童话中说雪可以做成柔软的长袍，盖着它的人会获得最安详的睡眠，祝愿您今晚也能做一个好梦。"
+            },
+            "asset": "char_1016_agoat2_epoque#34/CN_038"
+        },
+        {
+            "id": "char_1016_agoat2_epoque#34_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Professor, since we've shrunk and the desserts haven't... Maybe we can keep eating as much as we want?",
+                "jp": "先輩、私たちこんなにちっちゃくなったのに、このスイーツたちは元のまま……ってことは、ずっとずーっと食べてられるのかな？",
+                "kr": "선배, 작아진 게 우리의 몸뿐이라면…… 크기가 그대로인 이 디저트들을 오랫동안 먹을 수 있다는 얘기 아닐까요?",
+                "cn": "前辈，您说我们变得这样小，这些甜品却没变，那是不是就能一直一直吃下去了呀？"
+            },
+            "asset": "char_1016_agoat2_epoque#34/CN_042"
+        },
+        {
+            "id": "char_1016_agoat2_epoque#34_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Mhmm... It's so quiet here. The sun is as warm as ever, and the breeze is always gentle. Professor, we may go on separate journeys from here, but don't worry. Even if we part ways for now, there will come a day when we meet again.",
+                "jp": "ん～、すごく静かですね。太陽はいつも温かくて、そよ風はずっと優しくて、私たちはここから何度も自分の旅に出発していくんです。先輩、大丈夫ですよ。ここで一旦お別れになっても、いつか必ず、また会える日が来ますから。",
+                "kr": "음~ 여긴 정말 고요하네요. 햇살은 여전히 따스하고, 바람도 부드러워요. 우리는 여기서 몇 번이고 자신만의 여정을 떠나게 되겠죠. 하지만 걱정하지 마세요, 선배. 여기서 헤어지게 되더라도, 언젠가는 꼭 다시 만나게 될 테니까요.",
+                "cn": "唔，这里真安静呀，阳光依旧和煦，微风永远轻柔，而我们会一次次地步入属于自己的旅程。前辈，不要担心，即使我们将在这里分别，终有一日，我们还会再见面的。"
+            },
+            "asset": "char_1016_agoat2_epoque#34/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Hollie Taylor",
+            "global": "Hollie Taylor"
+        },
+        "cn": {
+            "native": "杜松子",
+            "global": "Juniper Berry"
+        },
+        "jp": {
+            "native": "種田梨沙",
+            "global": "Risa Taneda"
+        },
+        "kr": {
+            "native": "김하루",
+            "global": "Kim Ha-ru"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

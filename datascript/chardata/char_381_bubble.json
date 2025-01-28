@@ -602,6 +602,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Ama Lee",
+            "global": "Ama Lee"
+        },
         "cn": {
             "native": "米糊",
             "global": "Misty"
@@ -616,6 +620,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

@@ -1,0 +1,628 @@
+{
+    "charid": "char_4140_lasher",
+    "nameid": "lasher",
+    "names": {
+        "en": "Sand Reckoner",
+        "jp": "サンドレコナー",
+        "kr": "샌드레코너",
+        "cn": "衡沙"
+    },
+    "voices": [
+        {
+            "id": "char_4140_lasher_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Doctor of Rhodes Island, I hope you fully understand that any extraneous information you provide to me will influence my evaluation of our cooperation... Of course, you can also use this as leverage in your negotiations.",
+                "jp": "ロドスの一責任者である以上、考慮した上での判断であってほしいものだが、私に必要以上の情報を公開すれば、いかなるものであってもロドスとの提携価値の天秤を左右するのだぞ……無論、それは交渉手段にもなりえるが。",
+                "kr": "로도스 아일랜드의 책임자로서, 신중한 판단을 했기를 바라지. 나에게 필요 이상의 정보를 공개하면, 그게 무엇이든 나와 로도스 아일랜드 사이의 협력 가치를 저울질하는 데 영향을 미칠 테니까…… 물론 이게 박사의 협상 수단일 수도 있겠지만.",
+                "cn": "罗德岛的博士，希望你考虑过，对我公开任何额外的信息，都会影响我对合作价值的衡量......当然，这也可以是你的谈判手段。"
+            },
+            "asset": "char_4140_lasher/CN_001"
+        },
+        {
+            "id": "char_4140_lasher_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "I use this set of counting rods for accounting. It's a gemstone trading tradition dating back several centuries. You merely set it down like this, then... Ahem, I could show you how to use it, but I normally set it down just to let visitors know I'm busy. Besides, it's faster to use a calculator.",
+                "jp": "このジェトンは精算の補助に用いるもので、宝石取引所の数百年に渡る伝統でもある。まずはこうして並べて……ハァ、デモンストレーションしても構わんが、普段はそれらしく並べて客人に取り込み中と見せているだけだ。精算なら、言うまでもなく計算機の方が早い。",
+                "kr": "이 셈대는 계산 보조용으로 사용하는 물건이야. 수백 년 동안 보석 거래소에 내려져 온 전통이지. 먼저 이렇게 셈대를 늘어뜨리고…… 아, 시연은 가능하지만, 평소엔 그냥 여기에 둔 채 손님들한테 내가 바쁘다는 걸 보여 주는 용도로 사용해. 계산이라면 당연히 셈대보단 계산기가 더 빠르니까.",
+                "cn": "这套算筹是辅助清账用的，是宝石交易所数百年来的传统。像这样摆放好，然后......我可以演示它的用法，但平时我只是把它摆在这里，让来客知道我在忙碌。清账当然是用计算器比较快。"
+            },
+            "asset": "char_4140_lasher/CN_002"
+        },
+        {
+            "id": "char_4140_lasher_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Your company's Engineering Department is very interested in my clockwork fowlbeast, and so I made a batch without surveillance functions. This one is for you... A hobby of mine? Hardly. It's a traditional craft in my family. There was a time when our work was unrelated to gemstones.",
+                "jp": "貴社のエンジニア部がカラクリ羽獣に興味を示していたものだから、モニタリング機能を持たないものをワンロット作ってみた。この一羽はドクターに……面白い趣味だと？いいや、これは一族の伝統工芸だ。我々の技術は、元々宝石とは縁もゆかりもないものでね。",
+                "kr": "너희 엔지니어링부가 내 태엽 파울비스트에 관심이 많더라고. 그래서 모니터링 기능이 제거된 버전도 몇 개 만들었는데, 이건 박사에게 줄게…… 한가할 때의 취미냐고? 아니, 이건 우리 가문의 공예 기술 같은 거야. 우리 가문의 기술은 사실 원래 보석이랑은 아무 관련이 없는 것이었거든.",
+                "cn": "贵司工程部对我的发条羽兽很感兴趣，所以我做了一批没有监控功能的，这一只是送给你的......闲情逸致？不，这是我家族的工匠技艺。我们的技术，原本和宝石没有任何关系。"
+            },
+            "asset": "char_4140_lasher/CN_003"
+        },
+        {
+            "id": "char_4140_lasher_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "That's true, I took over the gemstone trading post when I was fifteen. For three hundred years since the day the first set of scales went up, the one who stands behind the counter has never been important, much less his age. Visitors need only see order.  Are you perhaps questioning my abilities?",
+                "jp": "ああ、私は十五にして宝石取引所を継いだ。一つ目の天秤が組まれたその日から三百年、カウンターの奥に居座る者が誰かなどさして重要ではなかったし、ましてやその者の年齢では何も変わらない。客人には整然たる秩序だけ見せておけばいいのだからな。それともまさか、私の実力を疑っているのか？",
+                "kr": "맞아, 난 15살에 보석 거래소를 물려받았어. 처음 저울이 조립되었던 그날부터 300년 동안, 카운터 뒤에 앉아 있는 자가 누구인지는 중요하지 않았어. 그 사람의 나이는 더욱더. 손님들에게는 질서만 보여 줘야 하니까. 설마 내 실력을 의심하는 건가?",
+                "cn": "是的，我十五岁时就接管了宝石交易所。从立起第一架天平的那天起，三百年来，柜台后是谁并不重要，年龄更不能影响什么，来客应该看到的只有秩序。你难道对我有所质疑？"
+            },
+            "asset": "char_4140_lasher/CN_004"
+        },
+        {
+            "id": "char_4140_lasher_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Are you... reading my medical report? Pardon me if this is inappropriate. It's true that I often injure myself with no rhyme or reason. Some say it's because of a family curse, and my life will be as short as the previous overseer. Still, I lived to see those gemstones returned, and that is more than long enough.",
+                "jp": "私の医療報告書を見ているのか？恥ずかしながら、確かに私は理由もなく負傷してばかりだ。それを一族に刻まれた呪いであり、私も先代たちのように短命に終わるだろうと言う者もいる。だが宝石をあるべき場所に返すまで生きたのだから、もう十分だろう。",
+                "kr": "내 의료 보고서를 보고 있는 건가? 미안, 조금 부끄럽지만, 난 특별한 이유 없이 자주 다치곤 해. 누군가는 이걸 내 가문의 저주라며, 나도 결국엔 다른 선조들처럼 단명할 거라고 말하는 사람도 있었지. 하지만 보석을 제자리에 돌려놓을 때까지 살았으니, 이미 충분하다고 생각해.",
+                "cn": "你在看我的医疗报告？抱歉，有失身份，我的确经常无缘无故受伤。有些人说，这是因为我的家族受到了诅咒，我最终也会和以前的监管人一样短命。但我活到了归还那些宝石的时刻，已经够久了。"
+            },
+            "asset": "char_4140_lasher/CN_005"
+        },
+        {
+            "id": "char_4140_lasher_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "The caravan that is now disappearing into the golden sands will reach the markets I shall build anew. Once the commerce network is built, the settlement will grow stronger and stronger... Another 'City of Radiance'? No, I would rather it grow naturally. What happens in a hundred years will have nothing to do with me.",
+                "jp": "砂中に霞みゆくあのキャラバンは、やがて私が新たに打ち建てた市場に到着しよう。貿易ネットワークに組み入ったおかげで、集落は拡大の一途を辿るだろうな……もう一つの「輝ける都市」を作る？いや、私は集落がごく自然に成長していくことに期待したい。百年後のことは、もはや私とは無関係なのだから。",
+                "kr": "모래 속에 희미하게 보이는 저 카라반은 내가 새로 지은 시장에 도착하게 될 거야. 무역 네트워크가 이어진 덕분에, 이 도시는 앞으로 점점 더 규모가 확장되겠지…… 또 다른 '찬란한 도시'를 만드는 거냐고? 아니, 난 도시가 자연스럽게 성장했으면 좋겠어. 백 년 후의 일은 이제 나랑은 무관할 테니까.",
+                "cn": "那支正消失在黄沙中的商队，将抵达我新建起的集市。连通贸易网后，聚落便会逐渐壮大......另一座“辉煌之城”？不，我更期望它自然地生长，百年之后的事，不会再与我有关。"
+            },
+            "asset": "char_4140_lasher/CN_006"
+        },
+        {
+            "id": "char_4140_lasher_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Come here, little cutie. Give this can of meat a try. You'll love it, that's right... Uh... No, it's not right! Doctor, since when have you been here? I'm afraid I shouldn't be taking care of your operators' companions. Could you please help get this slumberfoot away from me?",
+                "jp": "よーし、いい子だ。この肉缶を食べてみな……きっと気に入るぞ。どうだ……ハッ、ち、ちがう。ドクター、いつからそこに？私が貴社のオペレーターの所有物をみだりに処理するのは不適切だろうから、このしつこく纏わりつく眠獣を追い払ってはもらえないだろうか？",
+                "kr": "착하지, 이쪽으로 오렴. 여기 고기 통조림 먹어 볼래? ……엄청 맛있는 건데? 그래그래…… 앗, 그, 그게, 박사. 언제부터 거기 있었던 거야? 내가 너희 오퍼레이터의 소유물을 직접 처리하는 건 부적절하기도 해서, 부탁인데 여기 이 나한테 끈질기게 붙어있는 슬럼버풋을 쫓아내 줄 수 있을까?",
+                "cn": "小可爱，快过来，试试这个肉罐头......你会喜欢的，对......呃，不，不对。博士，你什么时候来的？我不方便直接处理贵司干员的从属物，请帮我把这只缠着我的眠兽赶走好吗？"
+            },
+            "asset": "char_4140_lasher/CN_007"
+        },
+        {
+            "id": "char_4140_lasher_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Oh, my apologies. It's been an exhausting journey. I think I fell asleep— Hold on, you needn't have someone take me to the lounge. You were inspecting the cargo manifest. I had nothing to do and so... You want to tell a story to relax? Something about snow? Oooh, very well.",
+                "jp": "……むっ。すまない、長旅の疲労が祟ったのだろうか。まさか居眠りしてしまうとは――いや、休憩室への案内など不要だ。あなたが貨物のリストと睨み合っていたものだから、手持ち無沙汰でつい……休憩ついでに物語を聞かせてくれる？雪にまつわるもの？是非とも頼む。",
+                "kr": "……아, 미안. 긴 여행의 피로가 쌓이긴 했나 봐. 설마 잠이 들 줄이야…… 아니, 휴게실로 안내해 줄 필요는 없어. 아까 보니 네가 화물 목록을 보며 씨름 중이길래, 난 뭐 할 일도 없고 그만 잠에…… 너도 좀 쉬려고? 쉬는 김에 이야기를 들려주겠다고? 눈 이야기? 좋아.",
+                "cn": "......啊。抱歉，旅途劳顿，我竟然睡着了——等等，不用派人带我去休息室，刚才你一直在检查货物清单，我无事可做才......你要讲点故事休息一下？和雪有关的？好啊。"
+            },
+            "asset": "char_4140_lasher/CN_008"
+        },
+        {
+            "id": "char_4140_lasher_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Trading necessitates weighing your bargaining chips as well as the human heart. After a few rounds of back-and-forth, I already have a good picture of the other party's heart. I feel honored to be able to partner with Rhodes Island, but what do you perceive when you see me...? If you believe this heart will one day grow wings, I shall want for nothing more.",
+                "jp": "取引は相手の懐を天秤にかけると同時に、人の心をも推し量るものだ。何度か繰り返せば、互いの心の有様が概ねわかる。私はロドスとの提携を光栄に思っているが、あなたは私をどう見ている？……もし私の心にもいつか翼が生えると信じてくれているのなら、もう他に何も望むまい。",
+                "kr": "거래는 상대가 갖고 있는 걸 저울질하는 동시에, 상대의 마음까지 가늠해야 해. 몇 번 반복하다 보면 서로가 어떤 생각을 가지고 있는지 얼추 윤곽이 잡혀. 난 로도스 아일랜드와 협력하게 된 걸 영광으로 생각하는데, 네가 보는 나는 어떤 모습이지? ……만약 네가, 내 마음에도 언젠가 날개가 돋아날 거라고 믿어준다면, 난 더 이상 바랄 게 없어.",
+                "cn": "交易既衡量筹码，也衡量人心，往复几次，对方的心是什么模样也能大致摸清。我为与罗德岛合作感到荣幸，你又看到了怎样的我？......你如果相信这颗心有朝一日能生出羽毛，我别无所求。"
+            },
+            "asset": "char_4140_lasher/CN_009"
+        },
+        {
+            "id": "char_4140_lasher_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Still asleep? The sands of time are flowing away one grain after another, even if you care not for the gemstone scoured with it.",
+                "jp": "いつまで眠っている？砂中に光る宝石に目を凝らしていようがいまいが、時間の砂粒は流れを止めないというのに。",
+                "kr": "언제까지 잘 생각이지? 시간의 모래는 네가 모래 속의 보석을 찾았든 못 찾았든, 멈추지 않아.",
+                "cn": "还不醒来吗？时间的沙砾正一粒一粒流走，哪怕你并不期望从中淘洗宝石。"
+            },
+            "asset": "char_4140_lasher/CN_010"
+        },
+        {
+            "id": "char_4140_lasher_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "I would like to thank Lady Anat for facilitating this partnership, but contrary to what she said, I am no longer the gemstone trading overseer of the 'City of Radiance'. All I have now is the codename known to the merchants, 'Sand Reckoner'.",
+                "jp": "アナト女史が此度の提携を実現させてくれたことには感謝しているが、私はもう彼女の口から語られる「輝ける都市」の宝石貿易支配人ではない。手放していないのは、商人間で使っていたコードネーム――「サンドレコナー」だけだ。",
+                "kr": "이번 협력이 성사되도록 도움을 준 아나트 씨에게는 감사한 마음이지만, 난 이제 더 이상 그녀가 말하는 '찬란한 도시'의 보석 무역 관리인이 아니야. 내게 남은 건 상인들 사이에서 사용하던 코드네임…… '샌드레코너' 뿐이야.",
+                "cn": "感谢阿娜特女士促成此次合作，但我已经不是她口中“辉煌之城”的宝石贸易监管人。我保留下来的，只有在商人之间的代号，“衡沙”。"
+            },
+            "asset": "char_4140_lasher/CN_011"
+        },
+        {
+            "id": "char_4140_lasher_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "A pharmaceutical company cultivating its own bodyguards? Impressive.",
+                "jp": "製薬会社が自社で護衛を育成してるのか？なかなかの先見性だ。",
+                "kr": "제약회사면서 이런 호위를 양성하고 있다니. 꽤나 흥미롭잖아.",
+                "cn": "一家医药公司自己培养护卫？很有想法。"
+            },
+            "asset": "char_4140_lasher/CN_012"
+        },
+        {
+            "id": "char_4140_lasher_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Thank you. If you choose to award medals to make our agreement more ceremonial, I shall prepare a few traditional Sargonian gifts. Do you prefer gold or silver?",
+                "jp": "感謝する。あなたたちが勲章の贈与で業務契約の特別感を演出しようと言うのなら、私もサルゴン伝統の返礼品をいくつか用意しよう。金と銀はどちらがお好みかな？",
+                "kr": "고마워. 내게 이런 훈장을 수여함으로써 협약 체결의 의미를 더 강조할 생각이라면, 나도 사르곤 전통의 답례품 몇 가지를 준비해야겠지. 금과 은, 어느 쪽을 더 선호하지?",
+                "cn": "多谢，既然你们选择赠送勋章来增加签订协议的仪式感，我会准备几件萨尔贡传统的回礼。你更喜欢金的还是银的？"
+            },
+            "asset": "char_4140_lasher/CN_013"
+        },
+        {
+            "id": "char_4140_lasher_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "I had a dream. I saw my clockwork fowlbeasts taking flight without returning to me. In the end, I stood in front of a long river empty-handed, yet... I couldn't help but feel relieved, knowing they would roam the skies free, knowing where to fly.",
+                "jp": "夢を見た。この手から飛び立ったカラクリ羽獣が、もう二度と戻って来ないという夢を。空になった両手をぶら下げて、流れる大河の前に立った時、私はあの子たちが羽ばたく方向を知っていることを……嬉しく思ったんだ。",
+                "kr": "꿈을 꿨어. 내 손을 벗어난 태엽 파울비스트가 다시는 돌아오지 않는 꿈을…… 텅 빈 두 손을 늘어뜨리고 흐르는 강물 앞에 섰을 때, 난 저 아이들이 어느 곳을 향해 날갯짓을 하고 있는지 알고 있다는 사실에…… 정말 행복했어.",
+                "cn": "我做了一个梦。我梦见发条羽兽一旦放飞，就再也收不回来了。最后我两手空空，站在流淌的长河前，却为它们知道自己要飞去哪里而感到......庆幸。"
+            },
+            "asset": "char_4140_lasher/CN_014"
+        },
+        {
+            "id": "char_4140_lasher_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "I weigh gains against losses, good against evil.",
+                "jp": "損得を天秤に掛け、善悪を見極める。カウンターの奥でも、砂漠の上でも、やることは変わらない。",
+                "kr": "득과 실을 저울질하고, 선과 악을 가늠한다. 카운터 뒤에서든, 사막 한가운데에서든, 내가 하는 일은 변하지 않아.",
+                "cn": "权衡得失，明识善恶，是在柜台后还是在黄沙里，没什么区别。"
+            },
+            "asset": "char_4140_lasher/CN_017"
+        },
+        {
+            "id": "char_4140_lasher_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Judging against the security forces I've met, this team holds its own.",
+                "jp": "私が関わってきた警備隊と比べても、この部隊の実力はまったく遜色ないな。",
+                "kr": "내가 알고 지내던 경비대와 비교해도, 이 팀의 실력은 전혀 뒤떨어지지 않네.",
+                "cn": "与我接触过的安保力量相比，这支队伍的素质不落下风。"
+            },
+            "asset": "char_4140_lasher/CN_018"
+        },
+        {
+            "id": "char_4140_lasher_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "The clockwork fowlbeast has taken flight.",
+                "jp": "カラクリ羽獣はすでに放ってある。",
+                "kr": "태엽 파울비스트라면 이미 날려보냈어.",
+                "cn": "发条羽兽已经飞出去了。"
+            },
+            "asset": "char_4140_lasher/CN_019"
+        },
+        {
+            "id": "char_4140_lasher_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "I shall not make deals with war and disaster.",
+                "jp": "戦争や厄災とは取引しない主義だ。",
+                "kr": "난 전쟁과 재난과는 거래하지 않아.",
+                "cn": "我不与战争和灾难做交易。"
+            },
+            "asset": "char_4140_lasher/CN_020"
+        },
+        {
+            "id": "char_4140_lasher_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "What is it you are weighing?",
+                "jp": "あなたはまた何を天秤にかけようというのだ？",
+                "kr": "너는 또 무얼 저울에 올리려는 거지?",
+                "cn": "你又在衡量什么？"
+            },
+            "asset": "char_4140_lasher/CN_021"
+        },
+        {
+            "id": "char_4140_lasher_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "If there is anything you can't see clearly, you can ask me.",
+                "jp": "見定められないものがあれば、私に聞け。",
+                "kr": "보이지 않는 게 있다면, 나한테 물어봐.",
+                "cn": "有什么看不清的，你可以问我。"
+            },
+            "asset": "char_4140_lasher/CN_022"
+        },
+        {
+            "id": "char_4140_lasher_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Treasures always lead to conflict.",
+                "jp": "至極の逸品はいつも争いを引き寄せる。",
+                "kr": "진귀한 보석은 언제나 분쟁을 불러오지.",
+                "cn": "珍宝总是引来纷争。"
+            },
+            "asset": "char_4140_lasher/CN_023"
+        },
+        {
+            "id": "char_4140_lasher_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Lives are always used as leverage.",
+                "jp": "命は常に格好の取引材料になる。",
+                "kr": "목숨은 늘 훌륭한 거래 재료가 되곤 하지.",
+                "cn": "生命总是成为筹码。"
+            },
+            "asset": "char_4140_lasher/CN_024"
+        },
+        {
+            "id": "char_4140_lasher_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "I'm afraid your value is not as high as you imagined.",
+                "jp": "お前たちは自己認識より幾分か軽いのかもしれんぞ。",
+                "kr": "너희는 어쩌면 그렇게 무거운 추는 아닐지도.",
+                "cn": "你们恐怕没有自己想象中那么有分量。"
+            },
+            "asset": "char_4140_lasher/CN_025"
+        },
+        {
+            "id": "char_4140_lasher_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Can you offer nothing more?",
+                "jp": "そんなものか？",
+                "kr": "이게 다인가?",
+                "cn": "仅此而已吗？"
+            },
+            "asset": "char_4140_lasher/CN_026"
+        },
+        {
+            "id": "char_4140_lasher_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "They who dwell in darkness will be punished.",
+                "jp": "罪を犯した者は、いずれその罪に呑み込まれる。",
+                "kr": "죄를 범한 자는 결국 그 죄에 삼켜지게 될지니.",
+                "cn": "犯下罪行之人，最终会被罪行吞噬。"
+            },
+            "asset": "char_4140_lasher/CN_027"
+        },
+        {
+            "id": "char_4140_lasher_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "What heavy souls…",
+                "jp": "なんと重い魂だ……",
+                "kr": "정말 무거운 영혼이군……",
+                "cn": "多么沉重的灵魂啊......"
+            },
+            "asset": "char_4140_lasher/CN_028"
+        },
+        {
+            "id": "char_4140_lasher_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Sands gather and disperse, life blooms and withers... You always pick the most difficult among the countless cycles. This is a priceless masterpiece, and I am honored to be its witness.",
+                "jp": "砂が集っては散り、生命が枯れては栄える。そんな無数の繰り返しの中で、あなたは常に最も困難な道を選ぶのだな。値の付けられないこの傑作の見届け人になれて光栄だ。",
+                "kr": "모래는 모였다가도 다시 흩어지고, 생명은 시들었다가도 다시 살아나지. 그렇게 무수한 반복 속에서, 넌 늘 가장 힘든 길을 선택하는구나. 이 값을 매길 수 없는 걸작의 증인이 된 걸 정말 영광으로 생각해.",
+                "cn": "黄沙聚散，生命枯荣，在无数循环中，你总是选择最困难的路径。这是一份无价的杰作，我很荣幸成为见证人。"
+            },
+            "asset": "char_4140_lasher/CN_029"
+        },
+        {
+            "id": "char_4140_lasher_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "I do hope they will receive the forgiveness they deserve.",
+                "jp": "彼らも自分たちの赦しを得られることを祈ろう。",
+                "kr": "저들도 자신들의 용서를 얻을 수 있기를 바랄 뿐이다.",
+                "cn": "但愿他们也能获得属于自己的宽恕。"
+            },
+            "asset": "char_4140_lasher/CN_030"
+        },
+        {
+            "id": "char_4140_lasher_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Do you wish to know their whereabouts, or the best terrain for a frontal counterattack? On this battlefield, there is nothing that I cannot see.",
+                "jp": "知りたいのはあの者たちの行き先か、それともこの先の迎撃に適した地形か？この戦場に私が見えぬものはない。",
+                "kr": "네가 알고 싶은 게 그들의 행선지인가, 아니면 적을 요격하기 가장 좋은 지형인가? 이 전장에서 내가 보지 못하는 건 없어.",
+                "cn": "你是想知道他们的去向，还是前方最适合迎击的地形？这片战场上没有我看不到的东西。"
+            },
+            "asset": "char_4140_lasher/CN_031"
+        },
+        {
+            "id": "char_4140_lasher_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "No need to be disappointed. With a few more weights, the scales shall be balanced.",
+                "jp": "気を落とすな。あと重しいくつかで十分に釣り合う相手だ。",
+                "kr": "실망할 필요 없어. 저울추 몇 개만 더 추가하면 충분히 맞설 수 있으니까.",
+                "cn": "不必感到失望，只要再放入几枚砝码，我们就能与对手抗衡。"
+            },
+            "asset": "char_4140_lasher/CN_032"
+        },
+        {
+            "id": "char_4140_lasher_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "I cannot say I agree with post-Crystal Age aesthetic sensibilities.",
+                "jp": "結晶時代以降の審美眼は筆舌に尽くし難いな。",
+                "kr": "결정 시대 이후의 미적 감각은 정말이지…… 눈 뜨고 볼 수 없군.",
+                "cn": "结晶时代后的审美，我不敢苟同。"
+            },
+            "asset": "char_4140_lasher/CN_033"
+        },
+        {
+            "id": "char_4140_lasher_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Do you know how many fingers I've cut for disrupting the scales?",
+                "jp": "私がこれまで、天秤を弄した者を何人指切送りにしたか知っているか？",
+                "kr": "내가 지금까지 저울을 건드렸던 자들의 손가락을 얼마나 많이 잘랐을 것 같아?",
+                "cn": "你知道有多少拨弄天平的人被我送去砍掉手指吗？"
+            },
+            "asset": "char_4140_lasher/CN_034"
+        },
+        {
+            "id": "char_4140_lasher_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Do you have any thoughts on my electric head-bobbling cloudbeast figurine?",
+                "jp": "私の首振り雲獣オブジェに何か物申したいことでも？",
+                "kr": "내 흔들흔들 전동 클라우드비스트에 무슨 불만이라도 있어?",
+                "cn": "你对我的电动摇头云兽雕像有什么意见吗？"
+            },
+            "asset": "char_4140_lasher/CN_036"
+        },
+        {
+            "id": "char_4140_lasher_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4140_lasher/CN_037"
+        },
+        {
+            "id": "char_4140_lasher_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "This is the New Year. The beginning of the changing of seasons, and the day everyone purchases gemstones in hopes of improving their luck. If you need any, I can pick a few for you... You prefer one like mine...? Yes... perhaps starting this year, I should allow myself a little wish.",
+                "jp": "新年といえば、繰り返す四季の始まりに、人々が宝石を買い求め、幸運を願うものだ。あなたも何か願いがあれば、いくつか見繕ってやってもいいが……私と同じものがいい？……そうだな。私も今年からは、何か願掛けをすべきなのかもしれん。",
+                "kr": "새해는 사계절이 반복되는 시작점인 만큼, 사람들은 보석을 구매해 자신에게 행운이 찾아오길 기대하지. 너도 필요하다면 내가 몇 가지 골라 줄 수 있는데…… 나랑 같은 걸로? ……그래, 나도 올해부터는 소원을 빌어야 할지도 모르겠네.",
+                "cn": "这就是新年，四季流转的起始，人们购入宝石，为自己谋求气运的日子。你如果有需求，我也可以为你挑选几颗......和我一样的？......是啊，或许我应该从今年开始给自己一个愿望。"
+            },
+            "asset": "char_4140_lasher/CN_038"
+        },
+        {
+            "id": "char_4140_lasher_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Doctor, remember to wear some more clothing— Um, my apologies. In the desert, the temperature can vary wildly between night and day. This is our customary greeting to visitors.",
+                "jp": "ドクター、もう少し着込むよう――すまない、砂漠の激しい寒暖差に備えて、客人への声掛けが癖になっていてな。",
+                "kr": "박사, 옷 더 챙겨 입는 거 잊지 말고…… 미안, 사막에선 일교차가 심하다 보니, 손님한테 이렇게 말하는 게 습관이 돼서.",
+                "cn": "博士，记得增添衣物——抱歉，沙漠里的昼夜温差很大，这是我们对客人习惯性的问候。"
+            },
+            "asset": "char_4140_lasher/CN_042"
+        },
+        {
+            "id": "char_4140_lasher_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "My family's atonement is a secret, and as such, no one has ever asked me how one is to wash away the whole of Sargon's golden sands. Rhodes Island chose a similarly long-winding road. It is seeing you doubted by others that made me reexamine myself, after which I learned from your experience.",
+                "jp": "我が一族の贖罪は極秘事項でもあったから、一体どうやってサルゴンの砂漠を浚い尽くすつもりだなどと訝しむ者もいなかった。同じく長い道のりを選んだロドスに懐疑的な意見が寄せられているのを見て、私は初めて自らに問いかけ、それからあなたたちの答えに学んだんだ。",
+                "kr": "우리 가문의 속죄는 비밀이라, 대체 어떻게 사르곤 사막을 전부 파헤칠 생각이냐며 의심하는 사람조차 없었어. 마찬가지로 긴 여정을 선택한 로도스 아일랜드와, 그런 너희를 회의적인 눈빛으로 바라보는 사람들을 보며, 난 처음으로 스스로에게 물음을 던졌고, 너희에게서 그 답을 찾을 수 있었어.",
+                "cn": "我家族的赎罪是一个秘密，因此从来没有人问过我，人如何才能淘尽萨尔贡的黄沙。罗德岛同样选择了一条漫长的道路，看到你们被质疑，我才反问自身，而后，我学习你们的回答。"
+            },
+            "asset": "char_4140_lasher/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Ashton Leon Frank",
+            "global": "Ashton Leon Frank"
+        },
+        "cn": {
+            "native": "李轻扬",
+            "global": "Li Qingyang"
+        },
+        "jp": {
+            "native": "戸谷菊之介",
+            "global": "Kikunosuke Toya"
+        },
+        "kr": {
+            "native": "박성영",
+            "global": "Park Seong-yeong "
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

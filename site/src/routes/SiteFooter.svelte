@@ -5,7 +5,7 @@
 <footer>
   <a href="https://github.com/PseudoMon/tlvr-source" target="_blank"><GithubIcon /></a>
   <span>Site version 1.3</span>
-  <span>Data last updated: 2024-12-08 (Path of Life on Global)</span>
+  <span>Data last updated: 2025-01-28 (Inudi Harek, Horakhet on Global)</span>
 </footer>
 
 <style>
