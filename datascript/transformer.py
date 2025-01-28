@@ -83,7 +83,35 @@ def make_charlist():
 
 		charlist.append(newchar)
 
+		if charid == "char_002_amiya":
+			amiya_alter1, amiya_alter2 = make_amiya_alters_data(newchar)
+			charlist.append(amiya_alter1)
+			charlist.append(amiya_alter2)
+
 	return charlist
+
+def make_amiya_alters_data(base_amiya):
+	amiya_alter1 = base_amiya.copy()
+	amiya_alter2 = base_amiya.copy()
+
+	amiya_alter1["name"] = base_amiya["name"].copy()
+	for lang in amiya_alter1["name"]:
+		amiya_alter1["name"][lang] = base_amiya["name"][lang] + " 2"
+
+	amiya_alter2["name"] = base_amiya["name"].copy()
+	for lang in amiya_alter2["name"]:
+		amiya_alter2["name"][lang] = base_amiya["name"][lang] + " 3"
+
+	amiya_alter1["fullid"] = "char_1001_amiya2"
+	amiya_alter2["fullid"] = "char_1037_amiya3"
+
+	amiya_alter1["nameid"] = "amiya2"
+	amiya_alter2["nameid"] = "amiya3"
+
+	amiya_alter1["numberid"] = "1001"
+	amiya_alter2["numberid"] = "1037"
+
+	return (amiya_alter1, amiya_alter2)
 
 def make_and_save_charlist():
 	charlist = make_charlist()
