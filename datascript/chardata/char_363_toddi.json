@@ -17,7 +17,7 @@
                 "cn": "任命助理"
             },
             "text": {
-                "en": "Just let 'em burn. You weren't gonna give those papers a second look anyway.",
+                "en": "Let's just burn 'em. You weren't gonna give those papers a second look anyway.",
                 "jp": "燃やしちゃおうよ。どうせこんな紙っきれ二度と見ないんだし。",
                 "kr": "태워 버리자. 어차피 이런 종이 쪼가리, 또 보지도 않잖아.",
                 "cn": "烧了吧，反正这些纸你也不会看第二眼。"
@@ -33,7 +33,7 @@
                 "cn": "交谈1"
             },
             "text": {
-                "en": "If you wanted me to lay defenses in here, I'd break up the floor for starters. Not that I mind, it's up to you to think about it.",
+                "en": "If you wanted me to lay defenses in here, I'd break up the floor for starters. Not that I mind, it's for you to think about.",
                 "jp": "あたしに部屋の守りを任せたら床がぶっ壊れるよぉ。あたしはどっちでもいいけど、ちゃんと考えて決めてよね。",
                 "kr": "나더러 방을 지키라고 시켰다간 바닥이 무너질걸? 나는 어느 쪽이든 상관없지만, 잘 생각하고 결정해.",
                 "cn": "要我在房间里布防，地板就一定会坏。我是不太介意，你自己考虑清楚。"
@@ -49,7 +49,7 @@
                 "cn": "交谈2"
             },
             "text": {
-                "en": "You've got people from Royal Guard knocking about too? Heh—ain't that interesting.",
+                "en": "Got twps from Royal Guard knocking about, have you? Heh, ain't that interesting.",
                 "jp": "ここって、王立前衛学校出身の人が他にもいるんだ。ふーん。ちょっと面白そうじゃん。",
                 "kr": "여기에는 로열 가드 스쿨 출신도 있었구나. 흠~ 좀 재밌을 것 같네.",
                 "cn": "这里还有皇家近卫学校的人？哼——有点意思。"
@@ -65,7 +65,7 @@
                 "cn": "交谈3"
             },
             "text": {
-                "en": "Calibrate the sight? Nah, the stuff I ordered last should be here almost, I'll make the arrows first... Push off! Out my way!",
+                "en": "Calibrate the sight? Nah, materials I ordered last should be here almost, I'll make the arrows first... Oh, push off, out my way.",
                 "jp": "ちょっと照準器の調整をするか……いや、この間頼んだ素材もそろそろ届くし、やっぱり先に矢を……邪魔だ、あっち行け。",
                 "kr": "조준기 조정을 좀 해둘까…… 아니다. 전에 부탁했던 재료도 슬슬 올 테니까 역시 먼저 화살을…… 방해되잖아, 저리 가.",
                 "cn": "校准一下瞄具，不，还是先做箭矢，上次订的材料应该快到了......别烦我，一边去。"
@@ -81,7 +81,7 @@
                 "cn": "晋升后交谈1"
             },
             "text": {
-                "en": "Most who leave Vouivre don't agree with the mercenary life in Sargon. Move to Victoria, end up doing something else instead. You know, like... yeah, factory-working, farming. Right. Having their own little touch of land.",
+                "en": "Most who leave Vouivre don't agree with the mercenary life in Sargon. Move to Victoria, end up doing something else instead, they do. Like... factory-working, farming, you know. Having their own little touch of land.",
                 "jp": "ヴイーヴルを離れた人の多くは、サルゴンでの傭兵生活をあまり良く思ってないんだ。ヴィクトリアに行くと、大体違うことを始める。例えば……そうだね、工場を開いたり、農業をしたり……そう、自分の土地を持つんだ……",
                 "kr": "와이번을 떠난 사람들 대부분은 사르곤에서 용병 생활하는 걸 안 좋게 생각해. 빅토리아로 가면 대부분 일을 시작하지. 예를 들면…… 그렇지, 공장을 열거나 농사를 짓거나…… 맞아, 자기 땅을 갖는 거야……",
                 "cn": "离开瓦伊凡的人大多不认同在萨尔贡的佣兵生活，到了维多利亚，总会做些其他事情。比如说......啊，是了，从工，从农。拥有自己的土地。"
@@ -97,7 +97,7 @@
                 "cn": "晋升后交谈2"
             },
             "text": {
-                "en": "You could probably tell, but I didn't used to be artillery. Recon, infiltration, CQC, mainly learned all that. I know I didn't like it, and the instructors wouldn't let me switch, so I dropped out, simple as. Where's the point in learning things you hate?",
+                "en": "You could probably tell, but I didn't used to be artillery. Mainly studied recon, infiltration, CQC, all that. Did not bloody take to it, and the instructors wouldn't let me switch courses, so I dropped out, simple as. What's the point in learning things you hate?",
                 "jp": "あんたにはわかると思うけどあたし、前は砲兵じゃなかったんだ。偵察、潜入、近接格闘、主に習ってたのはこれ。好みじゃないし教官は転科させてくれなかったから、すっぱり辞めたの。嫌いなことを勉強しても意味ないでしょ？",
                 "kr": "이미 아는 걸 수도 있는데, 나 예전엔 포병이 아니었어. 정찰, 잠입, 근접 격투…… 주로 배운 건 이런 거였지. 근데 영 내 취향도 아니었고 교관이 병과를 바꿔주기도 않길래 그냥 때려쳤어. 싫은 걸 꾸역꾸역 공부해 봤자 딱히 의미 없잖아?",
                 "cn": "我以前不是做炮手的，你应该看得出来。侦察、潜入、近距格斗，主要是学这些。因为不喜欢，教官又不允许我调任，干脆就退学了。学自己讨厌的知识有什么意思？"
@@ -177,7 +177,7 @@
                 "cn": "干员报到"
             },
             "text": {
-                "en": "Arianrot, codename Toddifons. I don't like working for ordinary people. Here's hoping you can show me any signs you're not like them.",
+                "en": "Arianrot, codename Toddifons. I don't like working for ordinary people, so I've got my fingers crossed you show me something unusual.",
                 "jp": "あたしはアリアンロット、コードネームはトギフォンス。あたし凡人に使われるの嫌なんだよねぇ。あんたがそいつらと違うところ、ちゃんと見せてくれるといいんだけど。",
                 "kr": "나는 아리안로트야. 코드네임은 토디폰스고. 나, 평범한 사람 밑에서 일하는 게 싫거든. 네가 그런 녀석들과 다르단 걸 제대로 보여 준다면 괜찮겠지만.",
                 "cn": "阿丽安罗特，代号熔泉。我不喜欢给普通人干活，希望你能表现出自己有别于常人的地方。"
@@ -193,7 +193,7 @@
                 "cn": "观看作战记录"
             },
             "text": {
-                "en": "Boring. Off we go.",
+                "en": "Boring. Off we go.  ",
                 "jp": "つまんない。もう行くよ。",
                 "kr": "시시해. 나 간다.",
                 "cn": "没什么意思，走了。"
@@ -209,7 +209,7 @@
                 "cn": "精英化晋升1"
             },
             "text": {
-                "en": "What goes on in those Logistics' minds, cleaning up my side projects... tch. Fine, I accept. Your feelings are loud and clear. See you.",
+                "en": "What goes on in those Logistics' minds? Oh, look what Arianrot made, let's just grab it and... For me? Tch, fine. I accept. Your feelings are loud and clear. Thanks, see you.",
                 "jp": "支援部の連中何考えてんの、なんであたしが片手間に作ったものを……チッ、まあいいや、受け取っておく。あんたの心遣いは分かったってことで。じゃね。",
                 "kr": "지원부 녀석들 대체 뭔 생각을 하는 거지, 왜 내가 틈틈이 만든 걸…… 쳇, 됐어. 받아 둘게. 네 마음은 알았다고 치고. 그럼 가볼게.",
                 "cn": "后勤部的人在想什么，怎么把我随手做的......啧，行，我收下，算你心意到了。再见。"
@@ -225,7 +225,7 @@
                 "cn": "精英化晋升2"
             },
             "text": {
-                "en": "You have to have seen a Draco's flames before. Ever imagined how it'd be to rain them down on the enemy? I... can make that your reality!",
+                "en": "You've seen a Draco's flames before, I bet you anything. You ever imagined, the sight of them raining down on your enemy? <i>I</i> can make that your reality!",
                 "jp": "ドラコの炎は見たことあるよね。あれを敵の頭の上にぶちまけるのって想像したことある？あたし、それを実現してあげるよ。",
                 "kr": "드라코의 불꽃은 본 적 있지? 그걸 적의 머리 위에 퍼붓는 상상 해본 적 있어? 내가 그걸 실현시켜 줄게.",
                 "cn": "想必你见识过德拉克的烈火，有想过将它撒在敌人头上的那一刻吗？我，能给你实现。"
@@ -321,7 +321,7 @@
                 "cn": "选中干员2"
             },
             "text": {
-                "en": "Yeah?",
+                "en": "Iawn?",
                 "jp": "へえ？",
                 "kr": "흐음?",
                 "cn": "哦？"
@@ -401,7 +401,7 @@
                 "cn": "作战中3"
             },
             "text": {
-                "en": "Nothing remains after it rains arrows!",
+                "en": "Nothing remains once the arrows rain!",
                 "jp": "矢の雨を降らせた後には何も残らないんだよ。",
                 "kr": "화살비를 내린 뒤에는 아무것도 안 남는다고.",
                 "cn": "箭矢撒下去什么都不会剩。"
@@ -417,7 +417,7 @@
                 "cn": "作战中4"
             },
             "text": {
-                "en": "Hah! Why would fire go out before burning everything up?",
+                "en": "Ha! Fire wouldn't go out while there's something left to burn!",
                 "jp": "ハッ。燃え尽きるまで火が消えるわけないでしょ？",
                 "kr": "흥! 다 태울 때까지 불이 꺼질 리가 없잖아?",
                 "cn": "哈，在烧尽之前，火怎么会熄灭？"
@@ -433,7 +433,7 @@
                 "cn": "完成高难行动"
             },
             "text": {
-                "en": "Not that many people can make this thing shine—I guess you're one of them.",
+                "en": "There's only so many who can make this thing shine—guess you're one of them.",
                 "jp": "この武器の力をうまく引き出せる人間はそう多くはないよ。あんたはそうみたいだけど。",
                 "kr": "이 무기의 힘을 제대로 끌어낼 수 있는 인간은 그렇게 많지 않아. 너는 그게 되는 것 같지만.",
                 "cn": "能完全发挥这家伙性能的人可不多，你算一个。"
@@ -449,7 +449,7 @@
                 "cn": "3星结束行动"
             },
             "text": {
-                "en": "Out without too much ash on me. Good.",
+                "en": "Out without too much ash on me. Gwych.",
                 "jp": "土埃まみれにならずに済んだ。悪くない。",
                 "kr": "흙먼지투성이가 되지 않고 끝났네. 나쁘지 않아.",
                 "cn": "没沾上太多灰，很好。"
@@ -497,7 +497,7 @@
                 "cn": "进驻设施"
             },
             "text": {
-                "en": "Like this titchy bit of space is enough? Let's break this wall down and I'll have the whole area behind, thanks.",
+                "en": "Like this titchy bit of space is enough? Let's break this wall down and I'll have the whole area behind, Diolch.",
                 "jp": "これっぽっちのスペースじゃ足りないよ。ここの壁を壊して、奥のスペースも全部ちょうだい。",
                 "kr": "이 정도 공간으로는 부족하다고. 여기 있는 벽 다 부수고 안쪽 공간도 다 줘.",
                 "cn": "这点空间不够用，把这面墙打通，后面的使用面积都给我。"
@@ -529,7 +529,7 @@
                 "cn": "信赖触摸"
             },
             "text": {
-                "en": "Go on if you need something. No point in waiting for me to switch my contacts.",
+                "en": "Go on if you need something. Don't wait for me to change my contacts, I can hear you whatever color they are.",
                 "jp": "用事があるなら言いな、カラコン替え終わるの待たなくて平気。",
                 "kr": "용건 있으면 그냥 말해. 컬러 렌즈 갈아 끼는 거 옆에서 안 기다려도 되니까.",
                 "cn": "有事就说，没必要等我美瞳换完。"
@@ -561,7 +561,7 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "There'll be the whole routine celebration for New Year's, yeah, I get it. So I'll be sitting right here, drinking with my magazines, watching you grouch on the side, and I'll be happy as ever.",
+                "en": "Yeah, New Year's, there's a party, the whole song and dance, I get it. And that's why I'm sitting right here, having a drink with my magazines, while you carry on moaning and whinging. Trust me, that's my happy times.",
                 "jp": "新年には恒例行事のお祝いがあるって？ああ、知ってる。だからこうやって座って、酒を飲みながら雑誌を開いて、ついでにあんたがぐちぐち言ってるのを聴いてるじゃない。そりゃ楽しいよ。",
                 "kr": "새해에는 늘 축하 행사를 한다면서? 그래, 알아. 그러니까 이렇게 앉아서 술 마시면서 잡지도 보고, 겸사겸사 네가 쫑알대는 걸 옆에서 듣고 있잖아. 즐겁기야 하지, 당연히.",
                 "cn": "新年会有例行公事的庆祝，是，我明白。所以我坐在这里，一边喝酒一边看杂志，顺便看你发牢骚，开心得很。"
@@ -593,7 +593,7 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "我说过，矿石病只是次要的。要是不能做自己喜欢的事，活得再久又有什么意思呢？但是在罗德岛上，我总还能做点有趣的事。和你合作的感觉不赖，今后也不许让我失望。",
+                "en": "Oripathy comes second, I've said that. If I'm not able to do what I like, that's not life no matter how long it drags out. And you know, being here, Rhodes Island, I always get a crack at something interesting. I half like it working with you lot. So don't you ever go letting me down.",
                 "jp": "言ったよね、鉱石病（オリパシー）は二の次なの。自分の好きなこともできないなら、長生きしたって意味ないでしょ？まあでも、ロドスにいれば何かしら面白いことはできる。あんたと仕事するのは悪くないんだ、今後も失望させないでよ？",
                 "kr": "광석병 걸린 게 뭐 대수라고. 좋아하는 일을 하지 못한다면 오래 산들 무슨 의미가 있겠어. 로도스 아일랜드에선 항상 재미있는 일을 할 수 있고, 너랑 같이 일하는 것도 나쁘지 않아. 그러니 앞으로도 날 실망시키지 않았으면 좋겠어.",
                 "cn": "我说过，矿石病只是次要的。要是不能做自己喜欢的事，活得再久又有什么意思呢？但是在罗德岛上，我总还能做点有趣的事。和你合作的感觉不赖，今后也不许让我失望。"

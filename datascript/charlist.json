@@ -1274,6 +1274,19 @@
         "rating": 5
     },
     {
+        "fullid": "char_4147_mitm",
+        "nameid": "mitm",
+        "numberid": "4147",
+        "name": {
+            "en": "Mitm",
+            "jp": "ミトム",
+            "kr": "미틈",
+            "cn": "渡桥"
+        },
+        "nation": "rhodes",
+        "rating": 5
+    },
+    {
         "fullid": "char_497_ctable",
         "nameid": "ctable",
         "numberid": "497",
@@ -3107,6 +3120,19 @@
         "rating": 5
     },
     {
+        "fullid": "char_4151_tinman",
+        "nameid": "tinman",
+        "numberid": "4151",
+        "name": {
+            "en": "Tin Man",
+            "jp": "ブリキ",
+            "kr": "틴맨",
+            "cn": "锡人"
+        },
+        "nation": "columbia",
+        "rating": 5
+    },
+    {
         "fullid": "char_103_angel",
         "nameid": "angel",
         "numberid": "103",
@@ -3598,6 +3624,19 @@
             "cn": "黑键"
         },
         "nation": "leithanien",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4146_nymph",
+        "nameid": "nymph",
+        "numberid": "4146",
+        "name": {
+            "en": "Nymph",
+            "jp": "ニンフ",
+            "kr": "님프",
+            "cn": "妮芙"
+        },
+        "nation": "rhodes",
         "rating": 6
     },
     {

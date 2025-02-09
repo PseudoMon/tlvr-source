@@ -595,7 +595,7 @@
             "text": {
                 "en": "People who live in the distant corners of the land are often forgotten, but what Rhodes Island is doing has helped many of them. I want to thank you for that, Dr. {@nickname}.",
                 "jp": "人目につかない大地の片隅には、誰にも知られず、蔑ろにされ続けてきた人たちが常にいるものです。ロドスの行いは、そんな人たちの力になっていると思います。ありがとうございます、Dr.{@nickname}。",
-                "kr": "이 대지의 외딴곳에는, 아무도 알지 못하고 소외된 사람들이 존재하기 마련입니다. 지금 로도스 아일랜드가 하고 있는 일들은 이러한 사람들에게 힘이 되어 주고 있습니다. 감사합니다, Dr.{@nickname} 님.",
+                "kr": "이 대지의 외딴곳에는, 아무도 알지 못하고 소외된 사람들이 존재하기 마련입니다. 지금 로도스 아일랜드가 하고 있는 일들은 이러한 사람들에게 힘이 되어 주고 있습니다. 감사합니다, {@nickname} 박사님.",
                 "cn": "在大地上那些偏远的角落，总会有默默无闻，容易被忽视的人们。罗德岛在做的事，帮到了许多这样的人。谢谢您，Dr.{@nickname}。"
             },
             "asset": "char_4083_chimes/CN_044"

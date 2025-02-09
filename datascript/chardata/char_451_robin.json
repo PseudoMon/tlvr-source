@@ -17,7 +17,7 @@
                 "cn": "任命助理"
             },
             "text": {
-                "en": "Doctor. Should I help with anything?",
+                "en": "Doctor, anything I should help with?",
                 "jp": "ドクター、何か手伝おうか？",
                 "kr": "박사, 뭐 도와줄까?",
                 "cn": "博士，需要我做什么吗？"
@@ -33,7 +33,7 @@
                 "cn": "交谈1"
             },
             "text": {
-                "en": "Doctor. You always seem busy with work. Don't you have any hobbies? Me, I like seeing old movies people don't really remember.",
+                "en": "Doctor, you're always so busy with work. Don't you have any hobbies? Me, I like watching obscure old movies.",
                 "jp": "ドクター、いつも仕事ばかりしてるようだけど、何か趣味はないの？例えば私は、あまり人気のない古い映画を観るのが好きだよ。",
                 "kr": "박사, 맨날 일만 하는 것 같은데, 취미 같은 건 없어? 나 같은 경우엔, 별로 안 유명한 옛날 영화를 보는 걸 좋아하거든.",
                 "cn": "博士，你好像总是在工作的样子，你平时没有什么爱好吗？我的话，我喜欢找一些冷门的老电影看。"
@@ -49,7 +49,7 @@
                 "cn": "交谈2"
             },
             "text": {
-                "en": "Truthfully, I learned how to fight because of this movie I saw when I was young. Main character used all these knives and homemade traps, and I thought it was really cool, so I started learning myself. My knives here, they're actually the same kind as the ones in that movie.",
+                "en": "Truth is, I learned how to fight because of this movie I saw when I was little. Main character fought with knives and homemade traps. I thought it was really cool, so I started learning myself. My knives here, they're actually the same kind as the ones in that movie.",
                 "jp": "戦闘技術を学ぶきっかけは、小さい頃に見た映画だった。その主人公が、ナイフやお手製のトラップで戦っていて、かっこいいなと思ってそれを真似し始めたの。このナイフも、実は主人公が使っていたのと同じ物なんだ。",
                 "kr": "전투 기술을 배우게 된 계기는 어릴 적에 본 영화였어. 그 영화 주인공이 나이프랑 직접 만든 트랩으로 싸우는데, 멋있다고 생각해서 따라 하기 시작했지. 이 나이프도 사실은 그 영화 주인공이 쓰던 거랑 똑같은 거야.",
                 "cn": "我会学习战斗技巧，其实是因为小时候看了一部电影，里面的主角就是用匕首和自制陷阱战斗的，我当时觉得很帅，就开始学了起来。这些匕首，其实也是电影主角使用的同款。"
@@ -65,7 +65,7 @@
                 "cn": "交谈3"
             },
             "text": {
-                "en": "In Columbia, anything can be bought with money. It sounds great, maybe, until you turn it around. Without money, nothing's yours at all.",
+                "en": "In Columbia, anything can be bought with money. It sounds great, until you turn it around: Without money, nothing's yours at all.",
                 "jp": "クルビアでは、何でもお金で買える。いい話に聞こえるけど、逆に言えば、お金がなければ何も手に入らないってこと。",
                 "kr": "컬럼비아에선 뭐든 돈으로 살 수 있어. 좋은 말처럼 들리지만, 반대로 말하자면 돈이 없으면 아무것도 얻을 수 없다는 얘기지.",
                 "cn": "在哥伦比亚，什么都可以用钱买到，这听起来很好，但反过来说，就是没有钱什么都无法得到。"
@@ -81,7 +81,7 @@
                 "cn": "晋升后交谈1"
             },
             "text": {
-                "en": "Rhodes Island feels just like a company in a movie. Medical corp on the outside, actually a private military underneath. Operating to save more and more people... feels pretty cool.",
+                "en": "Rhodes Island feels like a company out of a movie. Medical corp on the outside, actually a private army underneath. Operating to save more and more people… feels pretty cool.",
                 "jp": "なんだか、ロドスって映画の中に出てくる会社みたいだね。表の顔は製薬会社で、裏の顔は傭兵集団、そして行動の目的はより多くの人を救うためだとか……ホント、かっこいいな。",
                 "kr": "뭐랄까, 로도스 아일랜드는 영화에 나오는 회사 같네. 겉모습은 제약회사지만 뒷모습은 용병 집단, 그리고 행동하는 목적은 더 많은 사람을 구하기 위해서고…… 정말 멋지네.",
                 "cn": "感觉罗德岛很像那些电影里的公司呢，表面是医药公司，私下却是佣兵集团，行动的目的是为了拯救更多的人......感觉，好帅。"
@@ -97,7 +97,7 @@
                 "cn": "晋升后交谈2"
             },
             "text": {
-                "en": "Doctor, do you think I come off gloomy to others? ...Uh, I didn't used to be like this. It was ever since my pop got the way he did, and I had to start worrying about keeping the family afloat. *Sigh*...",
+                "en": "Doctor, do you think I come off gloomy? Dammit… I didn't used to be like this. It was ever since my pop got the way he did, and I had to start worrying about keeping the family afloat. Hmm…",
                 "jp": "ドクター、私ってちょっと根暗っぽいかな？……うぅ、昔はこんな性格じゃなかったんだ。父さんがああなってから、生計を立てるのが私の仕事になっちゃって、それでね。はぁ……",
                 "kr": "박사, 나…… 좀 어두워 보여? 으으…… 예전에는 이런 성격이 아니었어. 아빠가 그렇게 되고 나선 생계를 이어가는 게 내 일이 되어서, 그래서…… 하아……",
                 "cn": "博士，我给人的感觉会不会有些阴沉？......唔，自从爸爸变成那样后，我就不得不去考虑家计的事，其实我以前不是这样的性格的，哈......"
@@ -113,7 +113,7 @@
                 "cn": "信赖提升后交谈1"
             },
             "text": {
-                "en": "I don't hate Anthony. If we have to talk about the past, I think my pop's to blame too. And honestly, I thank Anthony. If he weren't where he was, I might've done something by now I could never take back.",
+                "en": "I don't hate Anthony. If we have to talk about the past, I think my pop's to blame too. And honestly, I thank Anthony. If he wasn't in the right place at the right time, I might've done something... I could never take back.",
                 "jp": "アンソニーには恨みなんてないよ。もう過ぎたことだし、強いて言うなら、父さんにも責任があると思う。むしろアンソニーには感謝してるんだ。彼がいなかったら、私はもう取り返しのつかないことをしてたかもしれない。",
                 "kr": "앤소니한테 원한은 없어. 이미 지난 일이고, 굳이 따지자면 난 아버지한테도 책임이 있다고 생각해. 오히려 앤소니에겐 감사하고 있는 걸. 앤소니가 없었다면 난 이미 돌이킬 수 없는 짓을 저질렀을지도 몰라.",
                 "cn": "我不恨安东尼，过去的事一定要说的话，我觉得爸爸也有责任。而且其实我很感谢他，如果不是他，我大概已经做出无法挽回的事了。"
@@ -145,7 +145,7 @@
                 "cn": "信赖提升后交谈3"
             },
             "text": {
-                "en": "Doctor, there's times I'm following you, and I ease up so much I forget my own stuff. I have the money for treating my pop's illness now, but he's got troubles, and I can't cure that just on my own... Doctor, could you help me?",
+                "en": "Doctor, there's times I'm with you and I ease up so much I forget my own issues. I have the money to treat my pop's illness now, but I don't have a cure for his emotional troubles… Doctor, could you help me?",
                 "jp": "ドクターについていると、気を緩めすぎて自分の現状を忘れそうだよ。今は父さんの病気を治療する分のお金はあるけど、あの心の病は私一人じゃどうにもできない……ドクター、助けてもらえる？",
                 "kr": "박사랑 같이 있으면 긴장이 너무 풀려서 그런가, 지금 내 상황이 어떤지 까먹을 것만 같아. 지금은 아버지의 병을 치료할만한 돈은 생겼지만, 마음의 병까진 나 혼자서는 어쩔 수 없어서…… 박사, 혹시 도와줄 수 있어?",
                 "cn": "跟在博士身边有时候会因为太过放松而让我忘记了自己的事，虽然现在有钱给爸爸治病了，但是爸爸的心病光靠我可能是无法治愈的......博士，可以帮帮我吗？"
@@ -161,7 +161,7 @@
                 "cn": "闲置"
             },
             "text": {
-                "en": "So you drop right where you are when you're tired too, Doctor...",
+                "en": "So you get tired and drop right where you are, just like me…",
                 "jp": "疲れたらその場で休むような人なんだね、ドクターも……",
                 "kr": "피곤하면 그 자리에서 바로 쉬는 스타일이구나, 박사도……",
                 "cn": "博士也是累了就会直接就地休息的人呢......"
@@ -177,7 +177,7 @@
                 "cn": "干员报到"
             },
             "text": {
-                "en": "Nice to meet you, Doctor. I'm a new Operator. Robin's the name. I've got money issues, so if it's okay with you, you can send me to do whatever.",
+                "en": "Nice to meet you, Doctor. I'm a new Operator. Robin's the name. I've got money troubles, so if it's all the same to you, just send me to do whatever.",
                 "jp": "はじめまして、ドクター。新人オペレーターのロビンです。お金に困っているので、よかったらたくさん使ってください。",
                 "kr": "처음 뵙겠습니다, 박사님. 신입 오퍼레이터 로빈입니다. 돈 때문에 곤란한 상황이니, 괜찮으시다면 많이 써주세요.",
                 "cn": "你好，博士，我是新加入的干员，请叫我罗宾就好。我很缺钱，所以如果不嫌弃的话，请尽管差遣我吧。"
@@ -209,7 +209,7 @@
                 "cn": "精英化晋升1"
             },
             "text": {
-                "en": "Huh? I got a raise so quick...? That's great. Thank you, Doctor!",
+                "en": "What? I got a raise so quick...? That's great. Thank you, Doctor!",
                 "jp": "えっ、こんなに早く昇給できるの……助かる、ありがとうドクター！",
                 "kr": "어? 이렇게 빨리 승진할 수 있는 거야? 잘 됐다, 정말 고마워, 박사!",
                 "cn": "咦，这么快就涨薪了吗......太好了，谢谢博士！"
@@ -225,7 +225,7 @@
                 "cn": "精英化晋升2"
             },
             "text": {
-                "en": "I never stuck with my old jobs for very long. The company itself had problems, or it was something with my pop... This time, it feels like I'll be able to stick with Rhodes Island.",
+                "en": "I never stuck with my old jobs for very long. The company itself had problems, or it was something with my pop... This time, it feels like I'll be able to stick with Rhodes Island for a long time.",
                 "jp": "これまでの仕事はどれも長続きしなかった。会社の事情、父さんの病気……でも今度はロドスに長くいられそうだね。",
                 "kr": "지금까진 일을 다 오래 하지 못했어. 회사 사정도 그렇고 아버지가 편찮으신 것도 그렇고…… 하지만 이번에는 로도스 아일랜드에 오래 있을 수 있을 것 같네.",
                 "cn": "我过去的工作都没有持续很久，要么是公司自己有问题，要么是爸爸出事了......这一次，感觉能在罗德岛待很久。"
@@ -257,7 +257,7 @@
                 "cn": "任命队长"
             },
             "text": {
-                "en": "I'm not too good at figuring teamwork...",
+                "en": "I'm not too good at teamwork…",
                 "jp": "チームプレーはあまり得意じゃないかも……",
                 "kr": "팀플레이는 잘 못 할 것 같은데……",
                 "cn": "我不太擅长团队协作......"
@@ -273,7 +273,7 @@
                 "cn": "行动出发"
             },
             "text": {
-                "en": "Wonder what kind of place we're going this time.",
+                "en": "Wonder what kind of place we're going to this time.",
                 "jp": "今度はどんなところに行くんだろうな。",
                 "kr": "이번에는 어떤 곳으로 가게 될까.",
                 "cn": "这次会去什么样的地方呢。"
@@ -289,7 +289,7 @@
                 "cn": "行动开始"
             },
             "text": {
-                "en": "Status check, first...",
+                "en": "Let's take a look around first…",
                 "jp": "とりあえず状況の確認……",
                 "kr": "우선 상황 확인을……",
                 "cn": "先观察一下环境......"
@@ -321,7 +321,7 @@
                 "cn": "选中干员2"
             },
             "text": {
-                "en": "I'm ready to go.",
+                "en": "Ready. Just say the word.",
                 "jp": "準備、できてる。",
                 "kr": "준비, 됐어.",
                 "cn": "我准备好了。"
@@ -369,7 +369,7 @@
                 "cn": "作战中1"
             },
             "text": {
-                "en": "I get mad too!",
+                "en": "I've got a temper too!",
                 "jp": "私だって怒るよ！",
                 "kr": "진짜 화낼 거야!",
                 "cn": "我也是有脾气的！"
@@ -385,7 +385,7 @@
                 "cn": "作战中2"
             },
             "text": {
-                "en": "Haah!",
+                "en": "Hmph.",
                 "jp": "はあー！",
                 "kr": "하앗!",
                 "cn": "嘿呀！"
@@ -417,7 +417,7 @@
                 "cn": "作战中4"
             },
             "text": {
-                "en": "I'm wielding more than knives here!",
+                "en": "I've got more than just knives!",
                 "jp": "私の武器はナイフだけじゃない！",
                 "kr": "내 무기는 나이프만 있는 게 아니야!",
                 "cn": "我的武器可不止匕首！"
@@ -433,7 +433,7 @@
                 "cn": "完成高难行动"
             },
             "text": {
-                "en": "Doctor, can we cut this sort of mission down a little? Bad for the heart...",
+                "en": "Doctor, can we cut this sort of mission down a little? Bad for the heart…",
                 "jp": "ドクター、こういう任務は少なくしてもらえるかな？心臓に悪いから……",
                 "kr": "박사, 이런 임무는 줄여 줄 수 없을까? 심장에 좋지 않으니까……",
                 "cn": "博士，这样的任务能少一点吗，对心脏不好......"
@@ -497,7 +497,7 @@
                 "cn": "进驻设施"
             },
             "text": {
-                "en": "Let's get to know this place, then.",
+                "en": "I better get to know this place…",
                 "jp": "とりあえずぐるっと見てみよう。",
                 "kr": "일단 한 바퀴 둘러보고 와야겠다.",
                 "cn": "熟悉一下环境吧。"
@@ -513,7 +513,7 @@
                 "cn": "戳一下"
             },
             "text": {
-                "en": "Huh?",
+                "en": "Um?",
                 "jp": "ええ？",
                 "kr": "에에?",
                 "cn": "诶诶？"
@@ -561,7 +561,7 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "“今天最开心的，是要与过去告别；今天最难过的，是要与回忆告别”，这句，是台词......博士，新年快乐。",
+                "en": "'The happiest thing about today is we say goodbye to the past; the hardest thing about today is we say goodbye to the memories.' It's, uh, a line from a movie... Umm, Happy New Year, Doctor.",
                 "jp": "「今日一番の幸せは、過去に別れを告げること。今日一番の悲しみは、思い出に別れを告げること」。これ、映画のセリフだよ……ドクター、ハッピーニューイヤー。",
                 "kr": "“오늘이 기쁜 이유는, 과거를 떠나보낼 수 있기 때문이고, 오늘이 슬픈 이유는, 추억을 떠나보내야 하기 때문이다.”라는 대사가 있어…… 박사, 새해 복 많이 받아.",
                 "cn": "“今天最开心的，是要与过去告别；今天最难过的，是要与回忆告别”，这句，是台词......博士，新年快乐。"
@@ -593,7 +593,7 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "爸爸的病情好一点了，真的是，十分感谢......其实，我知道自己的能力不值得这份合约，只能尽力去回报罗德岛的帮助。就让我从保护博士开始做起吧，作为保镖，我还是有一些经验的。",
+                "en": "My pop's sickness eased up a little. I'm thankful—really, truly, I am... I gotta be honest though, I know with my abilities I don't deserve this contract. The most I can do is repay Rhodes Island for helping us, however I can. Just, I can start by protecting you, Doctor. That's experience I've got under my belt, as a bodyguard.",
                 "jp": "父さんの病状も良くなってきたみたいだし、本当に、ロドスには心から感謝してる……自分の実力がこの契約に見合わないことは分かっているから、精一杯尽くして少しでもロドスに恩返ししないと。まずはドクターの護衛を任せて。ボディガードの経験なら多少はあるから。",
                 "kr": "아버지의 병세가 많이 좋아졌어. 정말, 너무 고마워…… 실은 나도 내 능력이 우리의 계약을 이행하기엔 부족하다는 걸 알고 있어. 그래도 로도스 아일랜드로부터 받은 도움에 보답하기 위해, 난 계속 최선을 다할 거야. 먼저 보디가드로서 박사를 지키는 것부터 시작할게. 이런 일엔 자신 있거든.",
                 "cn": "爸爸的病情好一点了，真的是，十分感谢......其实，我知道自己的能力不值得这份合约，只能尽力去回报罗德岛的帮助。就让我从保护博士开始做起吧，作为保镖，我还是有一些经验的。"

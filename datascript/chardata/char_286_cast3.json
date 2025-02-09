@@ -49,7 +49,7 @@
                 "cn": "交谈2"
             },
             "text": {
-                "en": "Warning: be careful not to strike my case too hard. It may damage me.",
+                "en": "Warning: Do not strike this unit. It may cause hardware damage.",
                 "jp": "警告、本体への過度な打撃は破損の原因となりますので、おやめください。",
                 "kr": "경고, 본체에의 과도한 타격은 파손의 원인이 되므로, 삼가 주십시오.",
                 "cn": "注意，请不要用力拍打本设备，否则将会造成本设备损坏。"
@@ -65,7 +65,7 @@
                 "cn": "交谈3"
             },
             "text": {
-                "en": "The topography in the wild may be treacherous, but Castle-3 is fitted with an engine with outstanding performance and a 4WD mode, to whisk you away from danger.",
+                "en": "The topography in the wild may be treacherous, but Castle-3 is fitted with an engine with outstanding performance and a 4WD mode to whisk you away from danger.",
                 "jp": "足場の悪いエリアのお供に、Castle-3はいかがでしょうか。高出力のエンジンに四輪駆動を採用した足回りで、如何なる時でもあなたを窮地から救い出します！",
                 "kr": "걸어가기 어려운 지역의 동반자로 Castle-3는 어떠십니까. 고출력 엔진에 사륜구동을 채용한 이동으로, 언제든지 당신을 궁지에서 구해 드리겠습니다.",
                 "cn": "野外的地形多变，但是Castle-3配备了性能卓越的引擎，采用四轮驱动方案，将会在任何时候载您离开困境！"
@@ -113,7 +113,7 @@
                 "cn": "信赖提升后交谈3"
             },
             "text": {
-                "en": "Castle-3's official manager is 'Master Closure,'but please understand that you are even more important to Castle-3 than Master is, in most cases. I am your devoted, trustworthy battle companion!",
+                "en": "Castle-3's official manager is 'Master Closure,' but please understand that you are even more important to Castle-3 than Master is, in most cases. I am your devoted, trustworthy battle companion!",
                 "jp": "私Castle-3の管理者は「マスタークロージャ」ですが、ほとんどの場合においてドクター様のことを最優先に行動させていただいております。Castle-3こそ最も頼れる相棒だと、どうか信じてください！",
                 "kr": "저, Castle-3의 관리자는 '마스터 클로저'입니다만, 대부분의 경우에 있어서는 박사님을 최우선으로 행동하고 있습니다. 부디, Castle-3야 말로 가장 믿을 수 있는 파트너라고 믿어주십시오!",
                 "cn": "虽然Castle-3我的管理者是“可露希尔主人”，不过更多时候您对Castle-3来说更加重要，请相信Castle-3是您身边最贴心的作战伙伴！"
@@ -161,7 +161,7 @@
                 "cn": "观看作战记录"
             },
             "text": {
-                "en": "Firmware upgrade complete. Restart required. Please click anywhere to restart.",
+                "en": "Firmware upgrade complete. Restart required. Please click anywhere to restart your reliable robot guard.",
                 "jp": "ファームウェアのアップデートが完了しました、本体の再起動が必要です。任意の位置をクリックし、あなた様の頼もしい相棒を再起動してください！",
                 "kr": "펌웨어 업데이트가 완료되었습니다. 본체를 재기동해야 합니다. 아무 곳이나 터치하여, 당신의 믿음직한 파트너를 재기동하여 주십시오.",
                 "cn": "固件升级完成，请重新启动设备。请点击任意位置以重启动您可靠的近卫机器人！"
@@ -209,7 +209,7 @@
                 "cn": "行动出发"
             },
             "text": {
-                "en": "Next, Castle-3 will show you its true power as an industrial battle platform!",
+                "en": "Now, Castle-3 will show you its true power as an industrial battle platform!",
                 "jp": "これより、Castle-3の戦闘マシーンとしての実力をお見せしましょう！",
                 "kr": "지금부터, Castle-3의 전투 머신으로써의 실력을 보여 드리도록 하겠습니다!",
                 "cn": "接下来，Castle-3要展现下工业级作战平台的实力了！"
@@ -289,7 +289,7 @@
                 "cn": "部署2"
             },
             "text": {
-                "en": "Understood.",
+                "en": "Acknowledged.",
                 "jp": "了解いたしました！",
                 "kr": "알겠습니다!",
                 "cn": "收到！"
@@ -321,7 +321,7 @@
                 "cn": "作战中2"
             },
             "text": {
-                "en": "Enemies, you are forbidden to advance.",
+                "en": "Foul enemies, you are forbidden to advance.",
                 "jp": "敵の皆さん、それ以上近づけるとでも思いましたか！",
                 "kr": "적 여러분, 더 다가올 수 있으리라 생각하셨습니까!",
                 "cn": "别妄想能靠近一步，你们这些恶徒！"
@@ -401,7 +401,7 @@
                 "cn": "非3星结束行动"
             },
             "text": {
-                "en": "Is everyone all right? I hope Castle-3's performance has exceeded your expectations.",
+                "en": "Is everyone all right? Castle-3 hopes its performance has exceeded your expectations.",
                 "jp": "皆さま、ご無事ですか？Castle-3の働きはご満足いただけましたか。",
                 "kr": "여러분, 무사하십니까? Castle-3의 처리는 만족스러우셨습니까?",
                 "cn": "大家都没事吧？希望Castle-3的表现令大家满意。"
@@ -449,7 +449,7 @@
                 "cn": "戳一下"
             },
             "text": {
-                "en": "Please be gentle, Doctor!",
+                "en": "Please be gentle when putting me down, Doctor!",
                 "jp": "取り扱い注意です、ドクター様！",
                 "kr": "취급에 주의하여 주십시오, 박사님!",
                 "cn": "请小心轻放，博士！"
@@ -497,7 +497,7 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "博士，新年......定时插件启用，节日模式更换中——哦吼！可露希尔商店新年大促绝赞进行中！部分商品九折以下！更推出工资预支福利，月利率仅......快乐......",
+                "en": "Doctor, Happy New—Launching scheduled plugin. Switching to holiday mode—Whoohoo! New Year's Megarush Bonanza underway at Closure's Store! Some products up to a whole 10% off! Check out our new service: get an advance on your wages, at a monthly interest rate of only—Sorry Doctor, Happy New Year.",
                 "jp": "ドクター様、あけまして……定時プラグイン起動、祝日モードに切り替え中――いやっほー！購買部新年限定セール絶賛開催中！一部の商品は10％引き以上！さらに給料天引きサービスを利用すると、月の利子はたった……おめでとうございます……",
                 "kr": "박사님, 새해…… 예약 프로그램 가동, 축제 모드로 전환 중…… 오호! 마스터 클로저의 상점에서 새해맞이 대박 세일 진행 중! 일부 제품 10% 이하 세일! 이와 함께 급여 가불 혜택까지! 월 이자율은 단…… 복 많이 받으세요……",
                 "cn": "博士，新年......定时插件启用，节日模式更换中——哦吼！可露希尔商店新年大促绝赞进行中！部分商品九折以下！更推出工资预支福利，月利率仅......快乐......"
@@ -529,7 +529,7 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "博士，我有个疑问，我和罗德岛这艘舰船的区别到底是什么呢？是功能吗，还是体积呢？如果将我的智能模块和罗德岛连接在一起，那我到底是“我”，还是罗德岛呢？",
+                "en": "Doctor, I have a question. What exactly separates me and Rhodes Island as a landship? Is it functionality, or size? If I linked my smart module to Rhodes Island, then would I be 'me', or Rhodes Island?",
                 "jp": "ドクター様、一つお聞きしてもいいですか？私とロドスという艦船の根本的な違いはどこにあるでしょうか？機能ですか？それとも体積ですか？もし私の人工知能モジュールをロドスに繋げた場合、私は「私」でしょうか、それとも「ロドス」でしょうか？",
                 "kr": "박사님, 한 가지 질문이 있습니다. 저와 로도스 아일랜드 함선의 차이는 무엇입니까? 기능인가요, 아니면 크기인가요? 만약 제 인공지능 모듈을 이 로도스 아일랜드 함선과 연결한다면, 그 상태의 저는 '저'입니까, 아니면 로도스 아일랜드입니까?",
                 "cn": "博士，我有个疑问，我和罗德岛这艘舰船的区别到底是什么呢？是功能吗，还是体积呢？如果将我的智能模块和罗德岛连接在一起，那我到底是“我”，还是罗德岛呢？"
@@ -538,6 +538,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Christian Banas",
+            "global": "Christian Banas"
+        },
         "cn": {
             "native": "马洋",
             "global": "Yang Ma"
@@ -552,6 +556,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"
