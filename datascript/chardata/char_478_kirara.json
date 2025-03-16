@@ -602,6 +602,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Summer Natsuki",
+            "global": "Summer Natsuki"
+        },
         "cn": {
             "native": "陈婷婷",
             "global": "Chen Tingting"
@@ -616,6 +620,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

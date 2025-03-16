@@ -1313,6 +1313,19 @@
         "rating": 5
     },
     {
+        "fullid": "char_4144_chilc",
+        "nameid": "chilc",
+        "numberid": "4144",
+        "name": {
+            "en": "Chilchuck",
+            "jp": "チルチャック",
+            "kr": "칠책",
+            "cn": "齐尔查克"
+        },
+        "nation": null,
+        "rating": 5
+    },
+    {
         "fullid": "char_308_swire",
         "nameid": "swire",
         "numberid": "308",
@@ -1412,6 +1425,19 @@
             "jp": "Sharp",
             "kr": "Sharp",
             "cn": "Sharp"
+        },
+        "nation": null,
+        "rating": 5
+    },
+    {
+        "fullid": "char_4142_laios",
+        "nameid": "laios",
+        "numberid": "4142",
+        "name": {
+            "en": "Laios",
+            "jp": "ライオス",
+            "kr": "라이오스",
+            "cn": "莱欧斯"
         },
         "nation": null,
         "rating": 5
@@ -2415,6 +2441,19 @@
             "cn": "深律"
         },
         "nation": "leithanien",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4143_sensi",
+        "nameid": "sensi",
+        "numberid": "4143",
+        "name": {
+            "en": "Senshi",
+            "jp": "センシ",
+            "kr": "센시",
+            "cn": "森西"
+        },
+        "nation": null,
         "rating": 5
     },
     {
@@ -3546,6 +3585,19 @@
             "cn": "夕"
         },
         "nation": "yan",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4141_marcil",
+        "nameid": "marcil",
+        "numberid": "4141",
+        "name": {
+            "en": "Marcille",
+            "jp": "マルシル",
+            "kr": "마르실",
+            "cn": "玛露西尔"
+        },
+        "nation": null,
         "rating": 6
     },
     {

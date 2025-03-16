@@ -5,7 +5,7 @@
 <footer>
   <a href="https://github.com/PseudoMon/tlvr-source" target="_blank"><GithubIcon /></a>
   <span>Site version 1.3</span>
-  <span>Data last updated: 2025-02-09 (A Kazdelian Rescue on Global)</span>
+  <span>Data last updated: 2025-03-16 (Delicious on Terra on Global)</span>
 </footer>
 
 <style>

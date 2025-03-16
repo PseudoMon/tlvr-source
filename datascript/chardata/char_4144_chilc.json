@@ -1,0 +1,613 @@
+{
+    "charid": "char_4144_chilc",
+    "nameid": "chilc",
+    "names": {
+        "en": "Chilchuck",
+        "jp": "チルチャック",
+        "kr": "칠책",
+        "cn": "齐尔查克"
+    },
+    "voices": [
+        {
+            "id": "char_4144_chilc_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Uh-huh... I see. Hand me this paperwork. I'll sort it out. What? Don't tell me 'I know you can do this'. I'm not a child!",
+                "jp": "んー……わかった。この書類は任せとけ。は？偉いね、だぁ？子ども扱いするんじゃねーよ！",
+                "kr": "음…… 알았어. 이 서류는 나한테 맡겨. 뭐? 기특하다고? 어린애 취급하지 말라고!",
+                "cn": "嗯......我明白了，这些文件就交给我来处理吧。真了不起？别把我当小孩！"
+            },
+            "asset": "char_4144_chilc/CN_001"
+        },
+        {
+            "id": "char_4144_chilc_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Tch... I had a feeling, but actually hearing the doc dissect my numbers during the checkup was another thing. I need a while away from any missions with Senshi and Laios. Can't keep eating with them at this rate.",
+                "jp": "チッ……そんな気はしてたが、身体検査の結果を聞かされた時はさすがに衝撃だったね。しばらくは、センシやライオスと仕事に行くのを避けないとな。このままあいつらに付き合ってたら、まずいことになるぞ。",
+                "kr": "쯧…… 어쩐지 느낌이 안 좋더라니, 신체검사 결과는 역시나 충격이었다니까. 아무래도 당분간 라이오스나 센시와 일하는 건 피해야겠는데. 이대로 그 녀석들과 어울려 다니면 큰일이 날 것 같단 말이지.",
+                "cn": "啧......虽然已经有预感了，不过体检的时候，听医生跟我分析某项身体指标还是被吓到了。接下来一段时间必须避免和森西还有莱欧斯一起出任务，不能再跟着他们一直吃了。"
+            },
+            "asset": "char_4144_chilc/CN_002"
+        },
+        {
+            "id": "char_4144_chilc_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "I see your face, and I know what you're thinking—'I didn't even know you could eat this!' or something like that. I was reluctant at first, but then I got used to it. Spend enough time with them, and you will too. Uh, not that getting used to it matters or anything, I mean.",
+                "jp": "「そんなもん食うのか！」とか思ってんだろ？お前の表情見りゃわかるよ。俺も初めはいちいち驚いたりしたもんだが、だんだん慣れてきちまった……。あいつらとの付き合いが長くなればお前もそうなるかもな。いや、もちろん慣れなくたっていいんだが。",
+                "kr": "“그런 걸 먹는 거냐!”라고 생각했지? 표정을 보면 알아. 나도 처음엔 일일이 놀라기도 했는데, 점점 익숙해져 버렸지…… 그 녀석들이랑 오래 지내다 보면 너도 그렇게 될지 몰라. 아, 물론 그러지 않아도 되지만.",
+                "cn": "看你的表情我就知道了，你肯定在想——“我都不知道原来这个还能吃！”之类的事情吧。一开始我也经常这么想，后来就习惯了，跟他们相处久了你也会习惯的。呃，当然，不习惯也没关系。"
+            },
+            "asset": "char_4144_chilc/CN_003"
+        },
+        {
+            "id": "char_4144_chilc_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "*sigh* This is what I get for hanging around Laios and Senshi. Now everyone thinks I'm some monster-loving wacko too. What's that you've got there, Doctor? Senshi's brand new pièce de résistance? ...You look excited, too. Don't tell me you're one of them?",
+                "jp": "はぁ、ライオスとセンシのせいで、今じゃ俺まで魔物趣味の変人だと思われてんだよな……ドクター、何持ってんだ？センシの最新作？力作だって？なんで嬉しそうにしてんだよ、まさかお前もそっち側じゃねーだろうな？",
+                "kr": "하, 라이오스랑 센시 때문에, 지금은 나까지 마물을 좋아하는 괴짜라고 오해받는단 말이지…… 박사, 뭘 들고 있는 거야? 센시의 최신 요리? 역작이라고? 왜 기뻐하는 건데. 설마 너도 그쪽인 건 아니지?",
+                "cn": "唉，都怪莱欧斯和森西，现在我也被当成对魔物有奇怪癖好的怪人了。博士，你拿的是什么？森西的全新力作？......你怎么还挺高兴的，该不会你也是他们那一派的吧？"
+            },
+            "asset": "char_4144_chilc/CN_004"
+        },
+        {
+            "id": "char_4144_chilc_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Okay. It's dawned on me that Durins look young because they're actually young—Myrtle more than anyone. That girl is practically a child. I had a brief conversation with her, and she decided I was lying about not being her age—give me a break!",
+                "jp": "なんとなくわかってきたんだが、若く見えるドゥリン人ってのは実際歳いってないらしいな。特にあのテンニンカなんて、まるっきり子供だろ。そのくせ、前に少し話したら、俺のことをサバ読んだ同年代だと勘違いしやがって――おい、笑うなって！",
+                "kr": "이제 대충은 알 것 같은데, 젊어 보이는 두린족은 진짜로 나이가 많지 않은 것 같아. 특히 그 머틀은 완전히 애잖아. 그런 주제에 전에 잠깐 대화했을 땐, 내가 나이를 속인 자기 또래라고 착각해서는…… 야, 웃지 마!",
+                "cn": "我算是明白了，外表年轻的杜林人是真的年轻——尤其是桃金娘，根本就是小孩子啊。之前和她聊了两句，居然被她当成谎报年龄的同龄人——别笑了！"
+            },
+            "asset": "char_4144_chilc/CN_005"
+        },
+        {
+            "id": "char_4144_chilc_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Doctor, Terran mimics are much easier to tell than the dungeon kind. Watch, all it takes to lure one is some bait, just wait for it to bite and you can—ha! Nailed it... Tch, didn't expect there's another one!",
+                "jp": "テラのミミックは迷宮のよりずっとわかりやすいな、ドクター。ほら、こうやって餌でおびき寄せりゃすぐわかる。釣られて近づいてきたら――よっと！おし、これで……チッ、もう一匹いやがった！",
+                "kr": "테라의 미믹은 미궁의 미믹보다 훨씬 알기 쉬운데, 박사. 봐봐, 이렇게 먹이로 유인하면 금방 알 수 있어. 이거에 낚여서 다가오면…… 읏차! 좋아, 이걸로…… 쳇, 하나 더 있다!",
+                "cn": "博士，泰拉的宝箱怪比迷宫里的要好分辨多了，你看，只需要用诱饵去引诱它，等它被吸引后就可以——嘿！搞定......啧，居然还有一只！"
+            },
+            "asset": "char_4144_chilc/CN_006"
+        },
+        {
+            "id": "char_4144_chilc_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "I used to manage a guild too, you know. It keeps me on my feet every day, but sometimes even my own kind don't see the point. With Rhodes Island being such a big organization, you should learn to unwind every now and then. Wanna go grab a drink? It's not like the work will run off while you're away, so we may as well relax for now.",
+                "jp": "俺も向こうじゃ組合を仕切っててさ。毎日色んな場所を駆けずり回らなきゃならなかったし、周囲の理解を得られないことだってあった。お前はこんなでっかいロドスを仕切ってるわけだし、たまには息抜きが必要だろ。ってわけで、飲みに行かないか？どうせやるべきことからは逃げられないんだし、今のうちにリラックスしとこうぜ。",
+                "kr": "나도 저쪽에선 조합을 운영했어. 매일 여기저기 뛰어다녀야 했고 주위의 이해를 받지 못하는 일도 있었지. 넌 이렇게 커다란 로도스를 관리하고 있으니까, 가끔은 휴식이란 것도 필요하겠지. 그런 의미에서, 술이라도 마시러 갈까? 어차피 해야 할 일에서 도망칠 수도 없으니까, 이 참에 좀 릴랙스 하자고.",
+                "cn": "我原本也管理着一个公会，每天都要东奔西走，有时还得不到同胞的理解，罗德岛这么大，你得学会排解压力。所以说，要不要一起去喝一杯？反正该做的事跑不了，不如先放松一下。"
+            },
+            "asset": "char_4144_chilc/CN_007"
+        },
+        {
+            "id": "char_4144_chilc_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Laios and the others believe that giving all you've got equals a happy ending. As if it's ever that simple—what a bunch of morons. You're smart, Doctor. You don't believe in that either, right? ...Come again? I am NOT worried for them!",
+                "jp": "ライオスたちは必死にやれば絶対報われると思ってるみたいだが、ほんとバカだよな。世の中そう簡単に行くかっての。ドクター、お前みたいに賢い奴ならわかるだろ？……は？別にあいつらの心配してるわけじゃねーよ！",
+                "kr": "라이오스네들은 필사적으로 하면 반드시 보상받는다고 생각하는 것 같은데, 진짜 멍청한 놈들이라니까. 세상만사 그렇게 쉽게 되는 게 아니란 말이지. 박사, 너처럼 똑똑한 사람이라면 무슨 말인지 이해되지? ……뭐? 그 녀석들 걱정하는 거 아니거든!",
+                "cn": "莱欧斯他们总觉得只要拼了命就能够取得好结果，世上哪有这么简单的事，真是几个笨蛋。博士，你这样的聪明人肯定是明白这个道理的吧？......哈？我可没有担心他们！"
+            },
+            "asset": "char_4144_chilc/CN_008"
+        },
+        {
+            "id": "char_4144_chilc_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "You want to try dungeoneering? Considering the combat skills you have, you can never have too many extra lives. Okay, how about this? If you really wanna go, then you must follow <i>my</i> instructions when it comes to pathfinding and operation strategies. I'm the expert. For anything else, you and Laios can make it up.",
+                "jp": "迷宮で冒険してみたい、だぁ？お前の腕じゃ命がいくつあったって足んねえぞ。仕方ないな。そんなに行きたいなら、迷宮内のルート取りと行動については俺に従えよ。これでも専門家だからな。そのほかのことについては、お前とライオスの判断に任せるよ。",
+                "kr": "미궁에서 모험해 보고 싶다고? 네 실력으론 목숨이 아무리 몇 개라도 모자랄 거야. 어쩔 수 없지. 그렇게 가고 싶으면 미궁 내부 루트나 행동에 관해선 내 말을 따라. 이래 봬도 전문가거든. 그 외의 일은 너랑 라이오스의 판단에 맡길게.",
+                "cn": "你想去迷宫冒险？就凭你的身手，有几条命都不够你死的。好吧，如果你真要去，那么，在路线和行动方面就得全听我的，我可是专家。至于其他的，你和莱欧斯看着办吧。"
+            },
+            "asset": "char_4144_chilc/CN_009"
+        },
+        {
+            "id": "char_4144_chilc_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "I know I'm sick of Senshi yapping about having a healthy diet, but you might actually need the lecture from him.",
+                "jp": "健康的な食生活がどうこう言うのはセンシの口癖なんだ。俺はとっくに聞き飽きてるが、お前はもっと口うるさく言われとくべきかもな。",
+                "kr": "건강한 식생활이 어쩌고 저쩌고 하는 건 센시의 말버릇이야. 난 이미 질리도록 들었지만, 넌 더 잔소리를 들어야 할지도 모르겠네.",
+                "cn": "森西老把健康生活挂在嘴边，虽说听着挺腻的，但你可能挺需要被他念叨。"
+            },
+            "asset": "char_4144_chilc/CN_010"
+        },
+        {
+            "id": "char_4144_chilc_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "I've read through the contract. The terms all look solid, and so do the benefits. If you can pay me upfront, I'll be glad to work with you. I'm being blunt here for good reason—it benefits us all that we hash this out in advance, doesn't it?",
+                "jp": "契約書は見せてもらったよ。内容はちゃんとしてるし、待遇だって悪くない。前払いでなら喜んで協力してやろう。悪く思うなよ、こういうのは先にはっきりさせといたほうがお互いのためだからな。そうだろ？",
+                "kr": "계약서는 읽었어. 내용은 확실하고, 대우도 나쁘지 않네. 선불로 주겠다면 기꺼이 협력해 줄게. 나쁘게 생각하진 말라고. 이런 건 먼저 확실하게 해 두는 게 서로를 위한 거니까. 그렇지?",
+                "cn": "合同我读完了，规章制度相当完善，待遇也挺好，如果你们能提前支付报酬，我愿意和你们合作。别怪我说话不客气，事先把这些事情说清楚对大家都好，对吧？"
+            },
+            "asset": "char_4144_chilc/CN_011"
+        },
+        {
+            "id": "char_4144_chilc_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "You're not gonna try and put me in combat, are you?",
+                "jp": "まさか俺を戦わせるつもりじゃないよな？",
+                "kr": "설마 나한테 싸우라는 건 아니지?",
+                "cn": "你该不会想让我去战斗吧？"
+            },
+            "asset": "char_4144_chilc/CN_012"
+        },
+        {
+            "id": "char_4144_chilc_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Thanks. I'll do however much I'm paid for.",
+                "jp": "ありがとう。受け取った報酬分はきっちり働かせてもらうぜ。",
+                "kr": "고마워. 받은 보수만큼은 제대로 일하도록 하지.",
+                "cn": "谢谢，我拿了多少报酬就会做多少事。"
+            },
+            "asset": "char_4144_chilc/CN_013"
+        },
+        {
+            "id": "char_4144_chilc_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "The viciousness of Terra gives dungeons a real run for their money. On top of that, you have some nasty mimics too... Doctor, you ever see a suspicious chest, don't sit on it. Let me deal with it. Understand?",
+                "jp": "テラってのは迷宮と同じくらい危ない場所だよな。そのうえ、ここにもあのクソったれのミミックがいやがるし……ドクター、怪しい宝箱を見かけた時はほいほい腰かけたりせずに、こっちに処理を任せろよ。いいな？",
+                "kr": "테라는 미궁만큼이나 위험한 곳이군. 게다가 여기에도 그 망할 미믹이 있고…… 박사, 수상한 보물 상자를 발견하면 함부로 앉지 말고, 나한테 처리를 맡겨줘. 알겠지?",
+                "cn": "泰拉的险恶程度真是一点也不输给迷宫，而且，这边也有可恶的宝箱怪......博士，你见到可疑的箱子可不要随便坐上去，交给我来处理，知道了吗？"
+            },
+            "asset": "char_4144_chilc/CN_014"
+        },
+        {
+            "id": "char_4144_chilc_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Let's be clear, I'm just the scout. Don't count on me for combat.",
+                "jp": "先に言っとくが、俺は偵察するだけだからな。戦いまでは期待するなよ。",
+                "kr": "미리 말하는데, 난 정찰만 할 거야. 싸우는 건 기대하지 마.",
+                "cn": "事先声明，我只负责侦察，别指望我战斗。"
+            },
+            "asset": "char_4144_chilc/CN_017"
+        },
+        {
+            "id": "char_4144_chilc_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "This isn't my forte, but I'll try.",
+                "jp": "得意分野じゃないが、やれるだけやってみるよ。",
+                "kr": "잘하는 분야는 아니지만, 할 수 있는 만큼은 해 볼게.",
+                "cn": "这不是我的长项，不过，我尽力吧。"
+            },
+            "asset": "char_4144_chilc/CN_018"
+        },
+        {
+            "id": "char_4144_chilc_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Let's go. I've got the route planned.",
+                "jp": "ルートは決まった。行くぞ。",
+                "kr": "루트는 정해졌어. 가자.",
+                "cn": "走吧，路线规划好了。"
+            },
+            "asset": "char_4144_chilc/CN_019"
+        },
+        {
+            "id": "char_4144_chilc_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "I hear footsteps.",
+                "jp": "足音が聞こえた。",
+                "kr": "발소리가 들렸어.",
+                "cn": "听见脚步声了。"
+            },
+            "asset": "char_4144_chilc/CN_020"
+        },
+        {
+            "id": "char_4144_chilc_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Anyone need a lock picked?",
+                "jp": "鍵でも開けてほしいのか？",
+                "kr": "자물쇠라도 따 줄까?",
+                "cn": "哪里需要开锁吗？"
+            },
+            "asset": "char_4144_chilc/CN_021"
+        },
+        {
+            "id": "char_4144_chilc_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "I scouted this part. All clear.",
+                "jp": "偵察してきた。罠はない。",
+                "kr": "정찰하고 왔어. 함정은 없어.",
+                "cn": "我侦察过了，没有陷阱。"
+            },
+            "asset": "char_4144_chilc/CN_022"
+        },
+        {
+            "id": "char_4144_chilc_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Hey, this is a LOT of enemies!",
+                "jp": "おい、敵多すぎだろ！",
+                "kr": "야, 적이 너무 많잖아!",
+                "cn": "喂，敌人好多啊！"
+            },
+            "asset": "char_4144_chilc/CN_023"
+        },
+        {
+            "id": "char_4144_chilc_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Doctor, this is a mistake, right?!",
+                "jp": "何かの間違いだよな、ドクター！？",
+                "kr": "뭔가 잘못된 거지? 박사!",
+                "cn": "博士，你是不是搞错了？！"
+            },
+            "asset": "char_4144_chilc/CN_024"
+        },
+        {
+            "id": "char_4144_chilc_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "You asked for it!",
+                "jp": "俺のせいにすんじゃねえぞ！",
+                "kr": "내 탓으로 돌리지 말라고!",
+                "cn": "你们别怪我啊！"
+            },
+            "asset": "char_4144_chilc/CN_025"
+        },
+        {
+            "id": "char_4144_chilc_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Don't count on me to do any serious damage!",
+                "jp": "大した打撃は与えられねえからな！期待すんなよ！",
+                "kr": "별 타격은 못 주니까! 기대하지 마!",
+                "cn": "别指望我能造成多大伤害！"
+            },
+            "asset": "char_4144_chilc/CN_026"
+        },
+        {
+            "id": "char_4144_chilc_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Cover me already!",
+                "jp": "早く援護してくれ！",
+                "kr": "빨리 지원해 줘!",
+                "cn": "快掩护我一下！"
+            },
+            "asset": "char_4144_chilc/CN_027"
+        },
+        {
+            "id": "char_4144_chilc_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "They just keep coming!",
+                "jp": "いつになったら終わるんだよ！",
+                "kr": "대체 언제 끝나는 거야!",
+                "cn": "怎么没完没了的！"
+            },
+            "asset": "char_4144_chilc/CN_028"
+        },
+        {
+            "id": "char_4144_chilc_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Doctor, give me a heads-up about this sort of mission next time. Because I'm not coming again.",
+                "jp": "次こういう任務がある時は先に言ってくれよ、ドクター。絶対参加しねえから。",
+                "kr": "다음에 이런 임무가 있을 땐 미리 말해 줘, 박사. 절대로 참가하지 않을 거니까.",
+                "cn": "博士，下次有这种任务能不能提前和我说一声，我一定不参加。"
+            },
+            "asset": "char_4144_chilc/CN_029"
+        },
+        {
+            "id": "char_4144_chilc_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Good wrap-up, and I'm a little hungry too. Times like this call for... tch, they're tainting me.",
+                "jp": "無事に終わったな。小腹も空いたし、こういう時こそ何か食べ……チッ、あいつらのがうつっちまったな。",
+                "kr": "무사히 끝났군. 배도 출출하니 이럴 때야말로 뭔가 먹…… 쳇, 그 녀석들한테 옮았나.",
+                "cn": "圆满结束，肚子也有点饿了，这种时候就该吃......啧，被他们传染了。"
+            },
+            "asset": "char_4144_chilc/CN_030"
+        },
+        {
+            "id": "char_4144_chilc_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "You guys recover for now, I'll keep watch. Don't worry, if anyone approaches, I'll hear.",
+                "jp": "お前らは先に休んでろ、俺が警戒しておくから。安心しろ、近付いてくる奴がいたら俺がすぐに気付く。",
+                "kr": "너희는 먼저 쉬어. 내가 경계할 테니까. 걱정 마. 접근하는 녀석이 있으면 내가 바로 알아차릴 테니까.",
+                "cn": "你们先休整一下，我来警戒。放心，有人靠近的话，我听得到。"
+            },
+            "asset": "char_4144_chilc/CN_031"
+        },
+        {
+            "id": "char_4144_chilc_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Good thing I secured our escape route... everyone follow me!",
+                "jp": "撤退ルートを事前に確認しといてよかったな……こっちだ、ついてこい！",
+                "kr": "철수 경로를 미리 확인해 두길 잘했군…… 이쪽이야, 따라와!",
+                "cn": "幸好我早就确认了撤退路线......都跟我走！"
+            },
+            "asset": "char_4144_chilc/CN_032"
+        },
+        {
+            "id": "char_4144_chilc_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Time I mapped out Rhodes Island.",
+                "jp": "ロドスの地図、作っておくか。",
+                "kr": "로도스 아일랜드 지도를 만들어 둘까.",
+                "cn": "该做一份罗德岛的地图了。"
+            },
+            "asset": "char_4144_chilc/CN_033"
+        },
+        {
+            "id": "char_4144_chilc_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Hey!",
+                "jp": "おいっ！",
+                "kr": "야!",
+                "cn": "喂！"
+            },
+            "asset": "char_4144_chilc/CN_034"
+        },
+        {
+            "id": "char_4144_chilc_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Doctor, go for a round?",
+                "jp": "ドクター、一杯どうだ？",
+                "kr": "박사, 한잔할래?",
+                "cn": "博士，喝一杯吗？"
+            },
+            "asset": "char_4144_chilc/CN_036"
+        },
+        {
+            "id": "char_4144_chilc_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4144_chilc/CN_037"
+        },
+        {
+            "id": "char_4144_chilc_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "A party? Count me out. Some Durin buddies got hold of some good booze, I'll go meet with them and we're getting ourselves smashed. If you want a round yourself, you're free to come by. Oh yeah, and Happy New Year.",
+                "jp": "パーティー？やめとくよ。今日は珍しく先約があってさ。なんでも、ドゥリンの連中が良い酒を手に入れたんだと。ま、一杯飲みたきゃ俺たちのところに顔出してもいいぜ。っとそうだ、今年もよろしくな。",
+                "kr": "파티? 안 갈래. 오늘은 드물게도 선약이 있거든. 듣자 하니 두린족 녀석들이 좋은 술을 얻었다나. 한잔하고 싶으면 우리한테 와도 돼. 아 맞다, 올해도 잘 부탁해.",
+                "cn": "宴会？我就不去了。几个杜林朋友搞了一些好酒，我们约好了不醉不归。你要是想喝一杯的话，也可以来找我们。对了，新年快乐。"
+            },
+            "asset": "char_4144_chilc/CN_038"
+        },
+        {
+            "id": "char_4144_chilc_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Doctor, you're not here just to see me, are you?",
+                "jp": "わざわざ俺の顔見に来たわけじゃないよな？ドクター。",
+                "kr": "일부러 내 얼굴을 보러 온 건 아니지? 박사.",
+                "cn": "博士，你应该不是特意来找我的吧？"
+            },
+            "asset": "char_4144_chilc/CN_042"
+        },
+        {
+            "id": "char_4144_chilc_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "To be honest, I was pretty skeptical of you at first. People who say they'll help for nothing are usually up to some pretty shocking stuff behind your back. Now? Now I believe a do-gooder <i>can</i> be real, I'll say that...",
+                "jp": "正直、最初はお前らのことは疑ってた。見返りもなく他人を助けようなんて抜かす奴らは、その裏で人に言えないようなことやってんのが相場だからな。今？ま、少なくともそういうお人よしが実在する可能性くらいは信じ始めたよ……",
+                "kr": "솔직히 처음엔 너희를 의심했어. 대가도 없이 남을 돕겠다고 지껄이는 녀석들은, 뒤에서 남에게 말 못 할 짓을 하는 게 세상 이치니까. 지금? 뭐, 적어도 그런 사람 좋은 녀석이 실존할 가능성 정도는 믿게 됐지……",
+                "cn": "老实说，我一开始真的挺怀疑你们的，毕竟那些嘴上说着为他人付出不求回报的家伙，背地里一般都在做些见不得人的勾当。现在？现在我至少相信这样的老好人是有可能存在的......"
+            },
+            "asset": "char_4144_chilc/CN_044"
+        }
+    ],
+    "actors": {
+        "linkage": {
+            "native": "泊明日菜",
+            "global": "Asuna Tomari"
+        }
+    },
+    "availability": [
+        "linkage"
+    ]
+}

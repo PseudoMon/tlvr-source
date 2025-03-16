@@ -1,0 +1,613 @@
+{
+    "charid": "char_4141_marcil",
+    "nameid": "marcil",
+    "names": {
+        "en": "Marcille",
+        "jp": "マルシル",
+        "kr": "마르실",
+        "cn": "玛露西尔"
+    },
+    "voices": [
+        {
+            "id": "char_4141_marcil_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "I did this all the time back in magic school, and I've mastered how to use all your magical tools, so you can leave everything to me! ...Someone blew up that Originium flashlight? *ahem* Well, it wasn't me!",
+                "jp": "魔術学校で研究していたことと大体似てるかな。ここの魔術道具の使い方は全部憶えたから、安心して私に任せて！……源石式の懐中電灯を爆発させた人がいたって？こほんっ、それは私じゃないから！",
+                "kr": "마술학교에서 연구했던 거랑 대체로 비슷하려나. 이곳의 마술 도구 사용법은 전부 익혔으니까 걱정 말고 나한테 맡겨! ……오리지늄 손전등을 폭발시킨 사람이 있었다고? 크흠, 그거 나 아냐!",
+                "cn": "和我在魔法学校时要做的事差不多嘛，你这里的魔法器具我也都学会怎么用了，放心交给我好了！......把源石手电筒用炸了的人？咳，那不是我！"
+            },
+            "asset": "char_4141_marcil/CN_001"
+        },
+        {
+            "id": "char_4141_marcil_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Canned sandworm? Lemon fin-mint noon tea? Sea Terror jerky?... NOOO! NO, NO, ABSOLUTELY NOT! ABSOLUTELY NOT!",
+                "jp": "砂虫の缶詰？レモンドクダミの正午茶？それに干し恐魚まで？……無理――！いやいや、絶対無理！私は絶っ対、食べないからね！",
+                "kr": "갯지렁이 통조림? 레몬 삼백초 정오차? 게다가 말린 시테러까지? ……못 먹어! 아니 그러니까, 진짜 무리! 난 저어얼대로 안 먹을 거야!",
+                "cn": "沙虫罐头？柠檬折耳根晌午茶？恐鱼干？......不要——！不要不要，绝对不要！绝对不要！"
+            },
+            "asset": "char_4141_marcil/CN_002"
+        },
+        {
+            "id": "char_4141_marcil_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Here, your summary on healing magic compared to restorative Arts. What? You thought I'd take longer to finish? Heh-heh! Back in school, when I was developing a new healing magic, I'd read through tons of papers like that every day. So the next time you have any work like this, just let me handle it!",
+                "jp": "はい、回復魔法と治療系アーツの比較まとめ、出来上がったよ。え？こんなに早く終わると思ってなかった？ふふん、学校で新しい治療術を開発してた頃も、毎日このくらいの資料に目を通してたからね。またこういう仕事があったら、次も任せて！",
+                "kr": "자, 회복 마법과 치유 회복계 아츠의 비교 정리, 다 됐어. 응? 이렇게 빨리 끝낼 줄 몰랐다고? 흐흥, 학교에서 새로운 치료술을 개발할 때도, 매일 이 정도 자료를 훑어봤었거든. 이런 일이 또 있으면 다음에도 맡겨 줘!",
+                "cn": "给，治愈术和恢复疗愈系法术的对比总结。嗯？没想到我能这么快做完？哼哼，我在学校开发新治愈术时，每天要看的材料也有这么多。下次要是有这种工作，也都交给我吧！"
+            },
+            "asset": "char_4141_marcil/CN_003"
+        },
+        {
+            "id": "char_4141_marcil_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Seventh Night's Awakened'? 'Fiend of the Night'? Do you really have members with such titles? Sounds like they walked straight out of some ancient legend. Awakened in a banquet of blood and darkness, a lonely moon glimmering in his blood-red pupils, surrounded by countless... Huh? Who was that man being dragged away by the ear?",
+                "jp": "「第七夜に覚醒（めざ）めし魔王」で、「東夜の魔王」？そんな伝説の人が、本当にここにいるの？鮮血と暗黒の盛宴（フィースト）の中で目覚めた彼の真紅の瞳を月光が照らし、その周囲には無数の……って、あれ？あそこで耳をつままれて連行されてる男の人、誰？",
+                "kr": "'일곱 번째 밤에 깨어난 마군'에 '동야의 마왕'? 그렇게 전설적인 사람이 정말로 여기 있어? 선혈과 암흑의 축제 속에서 각성한 그의 진홍빛 눈동자를 달빛이 비추고, 그 주위에는 무수한…… 어머? 저기 귀 붙잡혀서 끌려가는 남자는 누구야?",
+                "cn": "“第七夜苏醒魔君”“东夜魔王”？你们这里真的有这种传说中的人物吗？在血与黑暗的盛宴中苏醒，一轮孤月照亮他血红的眸子，身边围绕着无数......欸？那个被揪住耳朵带走的男人是谁？"
+            },
+            "asset": "char_4141_marcil/CN_004"
+        },
+        {
+            "id": "char_4141_marcil_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "My gosh, these vegetables are so fresh! No soil at all, just water? I never knew you could garden with such devices! Having one of these in the dungeon would solve everything! ...You need electricity to run it...? Well, I'll pedal a whole generator if that's what it takes!",
+                "jp": "んー、この野菜すっごく新鮮！ここの装置を使えば、土もないのに水だけで、本当に野菜が育てられるんだね。迷宮にもこれがあればいいのに！……動かすのに電気が必要って？こんな野菜が食べられるなら、発電機でもなんでも漕ぐよ！",
+                "kr": "음~ 이 야채 정말 신선하다! 여기 장치를 쓰면 진짜 흙 없이 물만으로 야채를 키울 수 있는 거구나. 미궁에도 이게 있으면 좋을 텐데! ……움직이는 데 전기가 필요하다고? 이런 야채를 먹을 수 있다면 발전기든 뭐든 돌려야지!",
+                "cn": "唔，好新鲜的蔬菜！没有土只有水，没想到这种装置真的能种出菜来，要是迷宫里也有就好了！......需要电力支持......？我愿意一直蹬发电机给它供电！"
+            },
+            "asset": "char_4141_marcil/CN_005"
+        },
+        {
+            "id": "char_4141_marcil_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "It's true Familiar Creation is a dangerous magic, but I saw those children in the Medical Department and... They saw me as a mighty sorceress from the dungeon! And the one who can summon these little things to play with them! Aww, look how much they love it.",
+                "jp": "使い魔召喚は、確かに慎重に扱わなきゃいけない術だけど……入院中の子供達にとっては滅多に見られない光景だと思うから。せめて小さな遊び相手を作ってあげたかったの。ほら見て、すっごく気に入ってくれたみたい。",
+                "kr": "사역마 소환은 신중하게 다뤄야 하는 마법이긴 하지만…… 입원 중인 아이들은 좀처럼 볼 수 없는 광경일 테니까. 적어도 자그마한 놀이 상대라도 만들어 주고 싶었어. 봐봐, 아주 마음에 드나 봐.",
+                "cn": "制造使魔确实是危险魔法......但是医疗部的孩子们很少能够看到这样的景象。我能召唤出这种小东西陪他们玩，你看，他们多喜欢啊。"
+            },
+            "asset": "char_4141_marcil/CN_006"
+        },
+        {
+            "id": "char_4141_marcil_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Just a moment ago, I saw Laios eating yet another monster I've never seen. It was tall as a half-foot, covered in thorns, and it squirted poison. Doctor, how long until food poisoning symptoms show? Never mind, I'll just pay a visit to the Medical Department and get prepared beforehand...",
+                "jp": "……さっき、またライオスが見たこともない魔物を食べてるとこを見たんだけど。ライオスの半分くらいの大きさで、全身トゲだらけの、毒を吐くやつ。ねえドクター、食中毒ってどのくらいで症状が出るのかな？ううん、やっぱりいい。医療部で聞いてくるから……",
+                "kr": "……아까 라이오스가 또 처음 보는 마물을 먹고 있는 걸 봤는데. 라이오스의 반 정도 되는 크기에, 온몸이 가시투성이고 독을 쏘는 녀석 말이야. ……저기 박사, 식중독은 얼마나 지나야 증상이 나타날까? 아냐, 됐어. 의료부에 물어보고 올게……",
+                "cn": "......我刚刚看到莱欧斯又在吃一个我没见过的魔物，半人高，浑身带刺，还会喷毒液。博士，食物中毒的症状多久会表现出来？算了，我还是去医疗部问问吧......"
+            },
+            "asset": "char_4141_marcil/CN_007"
+        },
+        {
+            "id": "char_4141_marcil_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "I learned how to make this straw grasshopper in a handicraft class. When we go back, I'll give it to Falin. The first time we hanged out together, she caught a grasshopper live, and she took me to see a real dungeon, and we ate raspberries... That was the day we became friends. I'll always remember it.",
+                "jp": "これは藁で作ったバッタ。こっちで手芸を教えてもらった時に作ったから、持って帰ってファリンにあげるつもり。昔あの子と初めて一緒に遊んだ時、ファリンは、本当の迷宮に連れて行ってくれて。その途中でバッタを捕まえてたりもしてたんだ。そのあとは、ダンジョンの中で並んで木苺を食べたりもして……それが、あの子と友達になった日の思い出。私、ずっと覚えてるんだ。",
+                "kr": "이건 짚으로 만든 메뚜기야. 여기서 수공예를 배웠을 때 만들었는데, 가져가서 파린에게 줄 생각이야. 옛날에 걔랑 처음 놀았을 때 파린이 진짜 미궁에 데려가 줬거든. 그때 메뚜기를 잡기도 했어. 그 후엔 던전 안에서 산딸기를 먹기도 하고…… 그게 걔와 친구가 되었던 날의 추억이야. 계속 기억하고 있었어.",
+                "cn": "这是我在手工课上学的草编蚂蚱，我要把它带回去送给法琳。我们第一次一起玩时她就捉了蚂蚱，还带我去看了真正的迷宫，吃了木莓......那是我们成为朋友的第一天，我一直记得的。"
+            },
+            "asset": "char_4141_marcil/CN_008"
+        },
+        {
+            "id": "char_4141_marcil_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Doctor, can you show me how you use that thing you call a camera? I want to take a photograph of us—you, Laios and everyone. When we go back, I'll show it to Falin and tell her about each one of you. Am—am I doing it right? Laios, huddle up a little more. Three, two, one,  cheese—",
+                "jp": "ドクター、あのカメラっていう道具の使い方を教えてくれる？ライオスたちも呼んで、みんなで一緒に写真を撮りたくて。いつか向こうに戻ったら、その写真をファリンに見せて、あなたたちのことを紹介したいの。ええと、使い方は……これで合ってる？じゃあライオス、もっと寄って！いくよ、3、2、1――笑って～。",
+                "kr": "박사, 그 카메라라는 도구의 사용법을 가르쳐 줄래? 우리 멤버들도 불러서 다 같이 사진을 찍고 싶어. 언젠가 저쪽으로 돌아가면, 그 사진을 파린에게 보여 주면서 당신들을 소개하고 싶어. 그러니까, 사용법이…… 이거 맞아? 그럼 라이오스, 더 붙어! 찍는다! 3, 2, 1, 스마일~",
+                "cn": "博士，你能教我用那个叫作照相机的东西吗？我想和你们还有莱欧斯他们拍一张照片，等哪天我们回去了，就用这张照片向法琳介绍你们。是、是这样用吗？莱欧斯你再凑近点，三、二、一——笑~"
+            },
+            "asset": "char_4141_marcil/CN_009"
+        },
+        {
+            "id": "char_4141_marcil_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "...I wonder if my sleeping bag's still on the fifth floor... and the really valuable soap... *snzzz*... *snzzz*...",
+                "jp": "……私の寝袋、まだ地下五階にあるのかな……あの高かった石鹸も……すぅ……すぅ……",
+                "kr": "내 침낭, 아직도 지하 5층에 있으려나…… 그 비싼 비누도…… 새근…… 새근……",
+                "cn": "......不知道我的睡袋还在不在地下五层......还有那块很贵的肥皂......呼......呼......"
+            },
+            "asset": "char_4141_marcil/CN_010"
+        },
+        {
+            "id": "char_4141_marcil_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Thank you for helping us in finding a way back! Oh, yes, and my party may not look it but they're all wonderful people, and if they do anything strange, er, please try and forgive them...",
+                "jp": "向こうに帰る方法を一緒に探してくれるんだよね、ありがとう！それでその、私の仲間たちってみんな根はいい人だから、変なことをやらかしちゃっても、えっと、大目に見てもらえると嬉しいな……",
+                "kr": "저쪽으로 돌아갈 방법을 함께 찾아 주는 거지? 고마워! 그리고 그…… 내 동료들은 다들 근본은 좋은 사람들이니까, 이상한 짓을 해도 그…… 너그럽게 봐줬으면 좋겠어……",
+                "cn": "谢谢你们愿意帮我们找回去的方法！对了，我的队友其实都是很好的人来着，要是他们做了一些奇怪的事情，呃，拜托你们包涵一下......"
+            },
+            "asset": "char_4141_marcil/CN_011"
+        },
+        {
+            "id": "char_4141_marcil_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Is this really the time rewind magic which allows you to relive the past? On a scale this big? How is it done? Can you teach me?",
+                "jp": "これってまさか、過去に起きたことを再現する魔法？そんなものを、こんなにたくさん使えるの？原理はどうなってるんだろ。よかったら、やり方を教えてくれない？",
+                "kr": "이거 설마, 과거에 일어난 일을 재현하는 마법이야? 그런 걸 이렇게나 많이 쓸 수 있는 거야? 무슨 원리지? 괜찮으면 방법을 알려 줄래?",
+                "cn": "这难道就是重现时光的魔法？还能这样大批量地进行？是怎么做到的？能不能教教我？"
+            },
+            "asset": "char_4141_marcil/CN_012"
+        },
+        {
+            "id": "char_4141_marcil_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "So in other words, I have the permissions now to borrow all the books on advanced Originium Arts theory? Wow! Thank you!",
+                "jp": "つまり、前より権限が上がったから、あの上級アーツの理論書も読めるようになったってことだよね？ありがとう！",
+                "kr": "그러니까, 저번보다 권한이 올라갔으니 그 상급 아츠 이론서도 읽을 수 있게 됐다는 거지? 고마워!",
+                "cn": "也就是说，我有更多的权限可以去借阅那些高级源石技艺理论书了？多谢！"
+            },
+            "asset": "char_4141_marcil/CN_013"
+        },
+        {
+            "id": "char_4141_marcil_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "When I tell Falin about everything that's happened to us, she's sure to be excited... And that's just one more reason we have to make it back, and save her!",
+                "jp": "これまで起きたことは、いい土産話になりそう。ファリンに話したらきっと喜んで聞いてくれると思う……だから絶対、向こうに戻って助け出さないと！",
+                "kr": "지금까지 일어난 일은 멋진 여행담이 될 것 같아. 파린에게 얘기하면 틀림없이 기쁘게 들어줄 거야…… 그러니까 반드시 저쪽으로 돌아가서 구해야 해!",
+                "cn": "要是和法琳讲我们一路以来发生的这些事，她肯定会很高兴的......所以，我们一定要回去把她救出来！"
+            },
+            "asset": "char_4141_marcil/CN_014"
+        },
+        {
+            "id": "char_4141_marcil_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Magic tome, staff, repair tools... Done. Everything's packed and I'm ready to go.",
+                "jp": "魔術書に杖、それから杖の修理道具も……うん、準備万端！いつでも出発できるよ。",
+                "kr": "마술서랑 지팡이, 그리고 지팡이 수리 도구…… 응, 준비 완료! 언제든지 출발할 수 있어.",
+                "cn": "魔法书、法杖、修补工具......嗯，东西都准备好了，随时可以出发。"
+            },
+            "asset": "char_4141_marcil/CN_017"
+        },
+        {
+            "id": "char_4141_marcil_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Huh? Wait a moment, our leader's always been Laios.",
+                "jp": "私がリーダー？ライオスじゃなくて？",
+                "kr": "내가 리더라고? 라이오스가 아니라?",
+                "cn": "欸？我们的队长一直是莱欧斯呀。"
+            },
+            "asset": "char_4141_marcil/CN_018"
+        },
+        {
+            "id": "char_4141_marcil_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Let's go. As long we have a battle plan, I can make it work.",
+                "jp": "行こう。作戦計画さえあれば、ちゃんと実行できるから。",
+                "kr": "가자. 작전 계획만 있으면, 확실하게 실행할 수 있으니까.",
+                "cn": "走吧，只要有作战计划，我都能执行。"
+            },
+            "asset": "char_4141_marcil/CN_019"
+        },
+        {
+            "id": "char_4141_marcil_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Don't worry, I just ate my fill. My mana is in tip-top shape.",
+                "jp": "安心して。お腹いっぱい食べたばかりだし、魔力は十分余裕があるよ。",
+                "kr": "걱정 마. 방금 배부르게 먹었으니까, 마력은 충분히 여유 있어.",
+                "cn": "别担心，我刚刚吃饱了饭，现在魔力很充沛。"
+            },
+            "asset": "char_4141_marcil/CN_020"
+        },
+        {
+            "id": "char_4141_marcil_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Take it easy. Just leave it to me.",
+                "jp": "大丈夫、私に任せて！",
+                "kr": "괜찮아, 맡겨줘!",
+                "cn": "交给我你就放心好啦。"
+            },
+            "asset": "char_4141_marcil/CN_021"
+        },
+        {
+            "id": "char_4141_marcil_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Do you want me to ready a magic circle?",
+                "jp": "先に魔法陣を準備しといたほうがいいかな？",
+                "kr": "마법진을 미리 준비하는 게 좋으려나?",
+                "cn": "需要我提前准备魔法阵吗？"
+            },
+            "asset": "char_4141_marcil/CN_022"
+        },
+        {
+            "id": "char_4141_marcil_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "I've never seen all these monsters before...",
+                "jp": "見たことない魔物がたくさん……",
+                "kr": "처음 보는 마물이 잔뜩……",
+                "cn": "好多没见过的魔物......"
+            },
+            "asset": "char_4141_marcil/CN_023"
+        },
+        {
+            "id": "char_4141_marcil_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Over there, right?",
+                "jp": "狙いはあれだよね？",
+                "kr": "저걸 노리는 거지?",
+                "cn": "就是那些吧？"
+            },
+            "asset": "char_4141_marcil/CN_024"
+        },
+        {
+            "id": "char_4141_marcil_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Ever since my last familiar channeling, my arm's been sore...",
+                "jp": "前回使い魔を使った時から、ずっと腕がだるいんだよね……",
+                "kr": "지난번에 사역마를 쓴 이후로, 계속 팔이 무겁단 말이지……",
+                "cn": "上次操控使魔后，我的胳膊一直酸到现在......"
+            },
+            "asset": "char_4141_marcil/CN_025"
+        },
+        {
+            "id": "char_4141_marcil_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Fall back, let me handle this! I'll wipe them all out!",
+                "jp": "下がって！私がやる！まとめて片付けてあげるから！",
+                "kr": "물러나! 내가 할게! 한꺼번에 처리해 줄 테니까!",
+                "cn": "你们退后，交给我吧！全部歼灭！"
+            },
+            "asset": "char_4141_marcil/CN_026"
+        },
+        {
+            "id": "char_4141_marcil_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Exhausting your mana is dangerous. Be careful how you plan your tactics, you know.",
+                "jp": "魔力切れを起こすと危ないから、戦略は慎重に考えて。",
+                "kr": "마력이 소진되면 위험하니까, 전략은 신중하게 생각해 줘.",
+                "cn": "魔力耗尽很危险的，你可要谨慎规划战术啊。"
+            },
+            "asset": "char_4141_marcil/CN_027"
+        },
+        {
+            "id": "char_4141_marcil_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "I can see the monsters! Just give me a moment to aim...!",
+                "jp": "いた、魔物……！狙いを定めて……！",
+                "kr": "찾았다, 마물……! 정확하게 조준해서……!",
+                "cn": "我看到魔物了，等我瞄准它们......！"
+            },
+            "asset": "char_4141_marcil/CN_028"
+        },
+        {
+            "id": "char_4141_marcil_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Heh-heh! And THAT'S why I was top of my class.",
+                "jp": "ふっふーん！私がいて良かったでしょ？",
+                "kr": "흐흥~! 내가 있어서 다행이었지?",
+                "cn": "哼哼，有我在还不错吧？"
+            },
+            "asset": "char_4141_marcil/CN_029"
+        },
+        {
+            "id": "char_4141_marcil_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "I know for a fact Rhodes Island has regular cuisine! Why are Laios and Senshi still rushing to cook up the monsters we defeat?!",
+                "jp": "ロドスには普通の食事がちゃんとあるのに、ライオスもセンシもどうして魔物を料理しようとするわけ！？",
+                "kr": "로도스 아일랜드에는 평범한 식사도 있는데, 라이오스랑 센시는 왜 마물을 요리하려고 하는 거야?!",
+                "cn": "明明罗德岛有正常的料理，为什么莱欧斯和森西还要把刚刚打倒的魔物做来吃？！"
+            },
+            "asset": "char_4141_marcil/CN_030"
+        },
+        {
+            "id": "char_4141_marcil_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Phew, still alive. I almost ended up a full-course meal for the monsters...",
+                "jp": "ああよかった、もうちょっとでこっちが魔物のご飯になるとこだった……",
+                "kr": "아아, 다행이야. 조금만 늦었으면 우리가 마물 밥이 될 뻔했어……",
+                "cn": "还好还好，差点就要成为魔物的盘中餐了......"
+            },
+            "asset": "char_4141_marcil/CN_031"
+        },
+        {
+            "id": "char_4141_marcil_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "AHHHHHH! RUN FOR IT!!",
+                "jp": "ぎゃあああっ！逃げなきゃ、早く！！",
+                "kr": "꺄아아악! 도망쳐, 빨리!!",
+                "cn": "啊啊啊！快跑啊！！"
+            },
+            "asset": "char_4141_marcil/CN_032"
+        },
+        {
+            "id": "char_4141_marcil_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "I have to say, it's just like a dungeon in here...",
+                "jp": "ここってほんと迷宮みたいだよね……",
+                "kr": "여긴 정말 미궁 같네……",
+                "cn": "这里面真的很像一个迷宫啊......"
+            },
+            "asset": "char_4141_marcil/CN_033"
+        },
+        {
+            "id": "char_4141_marcil_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "EYAARGH! ...Oh, thank heavens, I thought you were a man-eating plant!",
+                "jp": "わあっ！？……びっくりした、人喰い植物かと思ったじゃん！",
+                "kr": "우왓?! ……깜짝이야. 식인 식물인 줄 알았잖아!",
+                "cn": "呜哇！......吓死我了，我还以为是食人植物！"
+            },
+            "asset": "char_4141_marcil/CN_034"
+        },
+        {
+            "id": "char_4141_marcil_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Are you heading to the Library too? Excellent, let's go together!",
+                "jp": "あなたも図書館に行くところ？いいよ、一緒に行こ！",
+                "kr": "너도 도서관에 가는 중이야? 좋아, 같이 가자!",
+                "cn": "你也要去图书室吗？好啊，一起走吧！"
+            },
+            "asset": "char_4141_marcil/CN_036"
+        },
+        {
+            "id": "char_4141_marcil_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4141_marcil/CN_037"
+        },
+        {
+            "id": "char_4141_marcil_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "It feels like it was just yesterday that we got here. I've already gotten the hang of that camera you showed me how to use! Right, we should take another photo today, with all my new friends—a big group photo altogether. Falin will love hearing all our stories!",
+                "jp": "まさかこんなに長くロドスにいることになるなんてね。とりあえず、前に教えてもらったカメラの使い方はもうバッチリだし、今日も一枚写真を撮ろうよ！もちろん新しくできた友達も一緒に、みんなで記念になるやつをね。ファリンもきっと、私たちの思い出話を喜んで聞いてくれるはずだから！",
+                "kr": "설마 이렇게 오래 로도스에 있게 될 줄이야. 아무튼 전에 배운 카메라 사용법은 이제 완벽하게 익혔으니까, 오늘도 한 장 찍자! 물론 새로 생긴 친구도 함께, 다 같이 기념사진이 될 만한 걸로. 파린도 분명 우리 추억 이야기를 기쁘게 들어줄 거야!",
+                "cn": "真没想到我在这里居然已经待了这么久了，上次你教我的照相机我已经会用了，今天我们再拍一张吧！还有那些我认识的新朋友们，我们一起拍张大合照，法琳肯定愿意听我们的这段故事~"
+            },
+            "asset": "char_4141_marcil/CN_038"
+        },
+        {
+            "id": "char_4141_marcil_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Doctor, how did you sleep last night? If you've been having bad dreams, then you want to check for Nightmares in your pillow—that's what we do before sleeping in the dungeon!",
+                "jp": "ドクター、昨日はよく眠れた？もしも夢見が悪いようなら、枕の中に夢魔（ナイトメア）がいないか確かめてみて――私たち、迷宮ではそうしてたから。",
+                "kr": "박사, 어젠 잘 잤어? 혹시 꿈자리가 뒤숭숭하다면 베개 안에 나이트메어가 없는지 확인해 봐. 우린 미궁에서 그렇게 했거든.",
+                "cn": "博士，昨晚睡得怎么样？要是一直做噩梦的话，就去检查一下枕头里有没有梦魔吧——在迷宫里我们就是这么做的！"
+            },
+            "asset": "char_4141_marcil/CN_042"
+        },
+        {
+            "id": "char_4141_marcil_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "I studied the theory of maladies and injuries in magic school, and took up developing healing magic as well. I know just how excruciating it is to battle with a seemingly incurable disease. Doctor, if you're ever in need, I'll be there to give all the help I can.",
+                "jp": "私、魔術学校では病気や怪我の要因に関する研究に携わってたし、治療術の開発なんかも担当してたんだ。だから、難病と闘う難しさはよくわかってる。ドクター、私の助けが必要なら、できる限り力を貸すからね。",
+                "kr": "나는 마술학교에서 병이나 상처의 원인에 관해 연구하기도 했었고, 치료술 개발 같은 것도 담당했었어. 그래서 난치병과 싸우는 어려움은 잘 알고 있어. 박사, 내 도움이 필요하면, 가능한 한 힘이 되어 줄게.",
+                "cn": "我在魔法学校从事疾病和外伤原理的研究，除此之外也负责开发治愈术，我很清楚与难以攻克的疾病做抗争是一件非常辛苦的事情。博士，如果你们需要的话，我很愿意提供力所能及的帮助。"
+            },
+            "asset": "char_4141_marcil/CN_044"
+        }
+    ],
+    "actors": {
+        "linkage": {
+            "native": "千本木彩花",
+            "global": "Sembongi Sayaka"
+        }
+    },
+    "availability": [
+        "linkage"
+    ]
+}

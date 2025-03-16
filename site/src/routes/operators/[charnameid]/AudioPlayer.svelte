@@ -20,6 +20,7 @@
   const regionalLang_sans_suffix = ["ger", "rus"]
   const teamrainbow = ["tachak", "blitz", "ash", "rfrost", 
     "ela", "iana", "rdoc", "fuze"]
+  const dungeonmeshi = ["laios", "marcil", "chilc", "sensi"]
 
   const nameMapping = {
     "cn_topolect": "CN REG",
@@ -49,6 +50,10 @@
     // Specific file location for crossover characters
     else if (lang === "linkage") {
       if (teamrainbow.some(name => assetlocClean.includes(name))) {
+        return `${sourceurl}/${voiceMap["jp"]}/${assetlocClean}.mp3`
+      } 
+
+      if (dungeonmeshi.some(name => assetlocClean.includes(name))) {
         return `${sourceurl}/${voiceMap["jp"]}/${assetlocClean}.mp3`
       } 
 

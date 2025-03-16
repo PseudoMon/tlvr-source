@@ -1,0 +1,613 @@
+{
+    "charid": "char_4143_sensi",
+    "nameid": "sensi",
+    "names": {
+        "en": "Senshi",
+        "jp": "センシ",
+        "kr": "센시",
+        "cn": "森西"
+    },
+    "voices": [
+        {
+            "id": "char_4143_sensi_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Can't say I wrap my head around your job. Anything you want me to cook? Rice omelette, veggie stew, barbecue?",
+                "jp": "……お前の仕事のことはよくわからんが、食べたいものがあれば作ってやろう。オムライスか、野菜スープか、それとも炭火焼肉か？",
+                "kr": "……자네 업무는 잘 모르겠네만, 먹고 싶은 게 있으면 만들어 주겠네. 오므라이스? 야채수프? 아니면 숯불 구이?",
+                "cn": "......你的工作老夫看不懂，你有什么想吃的料理吗？蛋包饭，鲜蔬汤锅，还是炭火烤肉？"
+            },
+            "asset": "char_4143_sensi/CN_001"
+        },
+        {
+            "id": "char_4143_sensi_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Take a deep breath! Skyfire, young lady, your body heat'll burn a fritter at this rate! Gummy, wonderful cookies you made—Goldenglow, why's your popcorn all stuck in your hair? There now, let me think how to go about this…",
+                "jp": "落ち着いて深呼吸しろ、スカイフレア！それ以上体温が上がれば、揚げ物が焦げてしまうぞ！おお、グムよ、お前の作ったクッキーは素晴らしいな――ところで、ゴールデングロー。お前の作るポップコーンは、なぜそうも髪の毛にくっつくのだ？ウーム、解決法を考えてみよう。しばし時間をくれ……",
+                "kr": "진정하고 심호흡하게, 스카이파이어! 거기서 더 체온이 오르면 튀김이 타 버릴 걸세! 오, 굼. 자네가 만든 쿠키는 훌륭하군…… 그런데 골든글로우. 자네가 만드는 팝콘은 왜 그렇게 머리카락에 달라붙는 건가? 음…… 해결책을 생각해 보겠네. 잠시만 시간을 주게나……",
+                "cn": "深呼吸！天火姑娘，你的体温再上升的话油锅里的炸物就要煳了！古米姑娘，你做的饼干很棒——澄闪姑娘，你做的爆米花怎么全都吸在头发上了？唔，让老夫好好想想怎么解决这个问题......"
+            },
+            "asset": "char_4143_sensi/CN_002"
+        },
+        {
+            "id": "char_4143_sensi_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "AH-CHOO! I was going to see inside the greenhouse where they raise the metal crabs, and fancy Marcille and Perfumer having a talk in there! I thought I'd slip out, but Marcille dragged me right back in to spray all these fancy smells on my beard. Now I can't even whiff an onion! AH-CHOO!",
+                "jp": "ぶわっくしょん！……実はハガネガニを飼育している温室を見に行こうとしたのだが、そこでマルシルとパフューマーがわしのヒゲの匂いについて熱心に話し合っているのを聞いてしまってな。よからぬ気配を感じてその場を離れようとしたところで、マルシルに見つかり引き戻されて、妙なものをヒゲに吹きかけられてしまった……その香りのせいでタマネギの匂いもわからん始末だ！ぶわっくしょん！",
+                "kr": "흐에취! ……실은 메탈 크랩을 사육하는 온실을 보러 가려했네만, 거기서 마르실과 퍼퓨머가 내 수염 냄새에 대해서 열심히 의논하는 걸 듣고 말았다네. 좋지 않은 낌새를 느끼고 자리를 뜨려 했는데, 거기서 마르실에게 들켜서 끌려가는 바람에 이상한 걸 수염에 묻히게 됐지…… 그 향기 때문에 양파 냄새도 못 맡는 상태라네! 흐엣취!",
+                "cn": "阿嚏！老夫本来想去饲养磐蟹的温室看看，没想到玛露西尔和调香师姑娘在里面聊天，老夫刚想回避就被玛露西尔拽了回来，往胡子上喷了不少很香的东西，老夫现在连洋葱味都闻不到了！阿嚏！"
+            },
+            "asset": "char_4143_sensi/CN_003"
+        },
+        {
+            "id": "char_4143_sensi_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Is this your kitchen? This is... unmistakably magic! Originium cookers, full-automatic ovens, an eight-burner range with temperature control—Aye, they're all for lazy people who lack of dedication to cooking. Take them away at once!",
+                "jp": "ここがお前たちの厨房か。源石（オリジニウム）を使った炊飯器に、全自動式のオーブン、温度制御のできる八口コンロとな……！フーム、なかなかよい料理が作れそうだ。",
+                "kr": "여기가 자네들 주방인가. 오리지늄을 사용한 밥솥, 전자동 오븐, 온도 제어 가능 8구짜리 화덕이라니……! 흠, 제법 좋은 요리를 만들 수 있겠어.",
+                "cn": "这里就是你们的厨房吗？有源石电饭锅、全自动烤箱，还有控温八头灶......！嗯，看来可以做一些相当不错的食物了。"
+            },
+            "asset": "char_4143_sensi/CN_004"
+        },
+        {
+            "id": "char_4143_sensi_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "If you want a sturdy body, you can't go ignoring your diet. Biotransformative Arts, helping you build up body strength in no time, you say? ...Your body'll get dull if you keep trying to take short-cuts. There's a difference between convenience and laziness, aye?",
+                "jp": "強い身体を作るためには、食事をおろそかにしてはいかん。なに？生体変化系のアーツを使えば簡単に筋肉をつけられる……？ウーム。何かを手軽に済ませると何かが鈍る。便利と安易は違う、そうは思わんか？",
+                "kr": "강한 몸을 만들려면 식사를 소홀히 해선 안 되네. 뭐라고? 생체 변환계 아츠를 쓰면 쉽게 근육을 만들 수 있다……? 으음. 뭔가를 손쉽게 얻으면 다른 뭔가가 둔해지지. 편리와 안이는 다르다네. 그렇게 생각하지 않나?",
+                "cn": "想要拥有强健的身体，饮食是绝对不能忽视的。生理变化系源石技艺能够直接增肌？......总是图省事的话，身体就会变得迟钝。便利和偷懒是不一样的，对吧？"
+            },
+            "asset": "char_4143_sensi/CN_005"
+        },
+        {
+            "id": "char_4143_sensi_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Just cleaned your kitchen, gave the crops a sprinkling, and put everything I cleaned out into the composter. I eat the food your grow here, and I put my effort back into this land. Makes me feel like I'm a part of it that way. Couldn't be more satisfied.",
+                "jp": "水場を綺麗にし、そこで得た水を作物に与え、あちこちから出てきた廃材は回収倉庫へ。ここで育ったものを食べ、自らもこの世界に分け与える、そうした暮らしをしていると、わしもこの世界の一部になれたように思えて、それが嬉しい。",
+                "kr": "수원지를 깨끗이 관리하고, 그 물을 작물에 주고, 여기저기서 나온 폐자재는 회수용 창고로. 여기서 자란 걸 먹고, 또 직접 이 세계에 나눠 주는, 그런 삶을 살고 있다 보면, 나도 이 세계의 일부가 된 것 같아서 기쁘다네.",
+                "cn": "老夫刚清理了净水系统，还去浇灌了作物，清出来的废料也送去了回收仓。吃着这里培育出的食物，同时也在为这个世界付出，这样的生活让老夫觉得自己成了这个世界的一部分，老夫很满意。"
+            },
+            "asset": "char_4143_sensi/CN_006"
+        },
+        {
+            "id": "char_4143_sensi_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "The first time I went to that 'gym' place, they said they never saw a Durin as strong as me, and asked me how I got that way. I told them I just cook everyday. What's that? Now they're all in the kitchen tossing up stir-frys? Well, I'm pleased as punch to get so many people interested in cooking.",
+                "jp": "「ジム」という場所に初めて行ってみたのだが、中にいた者に、こうも力持ちなドゥリン人は見たことがない、どうやって鍛えているのかと聞かれてな……ただ日々の料理をこなしているだけだと答えたが。なに？彼らはあの後、皆厨房で鍋を振っている？多くの人間が料理に興味を持ってくれるのは喜ばしいことだ。",
+                "kr": "'체육관'이라는 곳에 처음 가 봤네만, 안에 있던 자들이 이렇게 힘이 센 두린족은 처음 본다며 어떻게 단련했는지 묻더군…… 그저 매일 요리를 해 먹는다고 대답했네만. 음? 그 뒤로는 다들 주방에서 냄비를 흔들고 있다고? 많은 인간이 요리에 관심을 가지는 건 기쁜 일이지.",
+                "cn": "第一次去那个叫“健身房”的地方，里面的人说没见过力气这么大的杜林人，还问老夫怎么练的。老夫回答只是每天做菜而已。什么？他们现在都在厨房颠锅？这么多人对做菜感兴趣，老夫很欣慰啊。"
+            },
+            "asset": "char_4143_sensi/CN_007"
+        },
+        {
+            "id": "char_4143_sensi_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Makes me happy to see Laios's bunch eating proper everyday now. That said, Doctor, I hear that you've been eating nothing but instant food lately, using your busy schedule as an excuse, and that's no way to stay healthy! You want balanced nutrition, and that'll only start with more fresh veggies and good-quality proteins!",
+                "jp": "近頃は、ライオスたちも毎日きちんとしたものを食べていてわしは嬉しい。だがドクター、聞くところによると、お前は多忙を理由に即席食品ばかり食べているそうだな。それではあまりに不健康だ！栄養バランスを考えて、新鮮な野菜と良質なタンパク質を取らねばならんぞ！",
+                "kr": "요즘은 라이오스 쪽도 매일 제대로 된 요리를 먹고 있어서 기쁘다네. 그런데 박사, 듣자 하니 자네는 바쁘다는 이유로 즉석식품만 먹는다던데. 그래서는 건강에 무척 나쁘다네! 영양 균형을 고려해서, 신선한 야채나 질 좋은 단백질을 섭취해야지!",
+                "cn": "莱欧斯他们现在每天都有好好吃饭，老夫很高兴。不过博士，老夫听说你会因为忙碌而吃速食食品，这实在是太不健康了！为了营养均衡，你要多吃新鲜蔬菜和优质蛋白质才行！"
+            },
+            "asset": "char_4143_sensi/CN_008"
+        },
+        {
+            "id": "char_4143_sensi_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "I might scratch my head at the things you all do everyday, but I respect you mightily for all the patients you'll take on. It warms the cockles of my heart too to see them enjoy my food so much. If we find any way to hop between here and the dungeon, I'll be coming back to visit you all.",
+                "jp": "お前たちが毎日何をしているかはよくわからん。だが、これほど多くの病人の面倒を見ているとは、尊敬に値する。病室の者たちはわしの料理を喜んで食べてくれるし、わしもそれは嬉しく思う。もし、ここと迷宮を行き来する方法が見つかったなら、その時はまた様子を見に来るとしよう。",
+                "kr": "자네들이 매일 뭘 하는지는 모르네. 하지만 이렇게 많은 환자를 돌보는 건 존경스러워. 병실에 있는 자들이 내 요리를 기쁘게 먹어 줘서 나 역시 기쁘다네. 만약 이곳과 미궁을 왕래하는 방법이 발견된다면, 그땐 또 상황을 보러 오겠네.",
+                "cn": "老夫虽然不太懂你们每天都在做什么，但愿意照顾这么多病人，老夫很敬佩你们。病房里那些人很喜欢吃老夫做的饭，老夫心里也高兴。要是能找到在这里和迷宫间来回的方法，老夫会回来看你们的。"
+            },
+            "asset": "char_4143_sensi/CN_009"
+        },
+        {
+            "id": "char_4143_sensi_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Hmm, fine amount of sleep. Good, good.",
+                "jp": "ふむ、睡眠の質は良好だな。よしよし。",
+                "kr": "흠. 수면의 질은 양호하군. 좋아.",
+                "cn": "嗯，睡眠质量很好，不错，不错。"
+            },
+            "asset": "char_4143_sensi/CN_010"
+        },
+        {
+            "id": "char_4143_sensi_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Hmm. Clean stovetops, all the utensils, nice and hot flames, and you store your ingredients well... Looks like you know the value of a healthy diet. I like the place you've got!",
+                "jp": "うむ。各種揃った調理道具に、清潔で十分な火力を持つかまど、食材の備蓄も文句なし……どうやら、お前たちも料理のことをきちんと考えているようだな。わしはこの場所が気に入ったぞ！",
+                "kr": "음. 잘 갖춰진 각종 조리 도구에 충분한 화력이 나오는 청결한 화덕, 재료 비축도 문제없고…… 아무래도 너희도 요리를 진지하게 생각하는가 보군. 난 이곳이 마음에 들었네!",
+                "cn": "嗯，灶台干净，器具齐全，火力又旺又足，食材储备也做得很好......看来你们也很看重健康饮食，老夫很满意你们这里！"
+            },
+            "asset": "char_4143_sensi/CN_011"
+        },
+        {
+            "id": "char_4143_sensi_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "I was wondering when did I lose my rare spice collection. That's when it happened!",
+                "jp": "秘蔵の調味料をどこかで失くしたと思っていたが、この時か！",
+                "kr": "내 비장의 죠미료를 어디선가 잃어버렸나 했더니, 이때였나!",
+                "cn": "老夫还在想自己珍藏的调味料什么时候弄丢的，原来是这个时候啊！"
+            },
+            "asset": "char_4143_sensi/CN_012"
+        },
+        {
+            "id": "char_4143_sensi_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Be it with magic or Originium Arts, people have been trying to save the effort of cooking so long they've forgotten how to start a fire. Proper use of a flint and tinder, that's the most essential skill to grasp!",
+                "jp": "魔法にせよアーツにせよ、料理に用いて手間を省こうとばかりしていれば、いずれ人々は火の起こし方を忘れてしまうことだろう。火打石と薪の使い方こそ身に着けるべきスキルだ！",
+                "kr": "마법이건 아츠건 간에, 요리에 이용해서 수고를 덜 생각만 한다면 언젠가 사람은 불을 피우는 방법을 잊어버리게 되겠지. 부싯돌과 장작을 쓰는 법은 꼭 습득해야 할 기술이네!",
+                "cn": "做饭不论用魔法还是源石技艺都是贪图省事，长此以往人们就会忘记如何生火。正确使用火石和木柴才是最应该掌握的技能！"
+            },
+            "asset": "char_4143_sensi/CN_013"
+        },
+        {
+            "id": "char_4143_sensi_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Sami-style kebabs, Seaborn full courses, Ink Spirit jams and wines, I've done it all. Just give me the ingredients, and I can make you them to try... Speak up? You say we can't be eating those things, now?",
+                "jp": "サーミ風の串焼きに、シーボーンのフルコース、墨魎のジャムとワインであれば作ったことがあるぞ。材料さえあれば、すぐにでも振舞ってやれるのだが……ん？どれも本来は食べられないものなのか？",
+                "kr": "사미풍 꼬치구이나 시본 풀 코스, 묵량 잼과 와인이라면 만들어본 적 있지. 재료만 있으면 지금이라도 대접할 수 있네만…… 뭐? 원래는 다 못 먹는 것들이라고?",
+                "cn": "萨米特色肉串、海嗣全餐、墨魉果酱果酒，老夫之前都做过，只要有材料，现在就能做给你们尝尝......嗯？这些东西都是不能吃的吗？"
+            },
+            "asset": "char_4143_sensi/CN_014"
+        },
+        {
+            "id": "char_4143_sensi_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "One second, I'll double-check I've got all my kitchenware and weapons.",
+                "jp": "少し待て。調理道具と武器が揃っているかを確かめたい。",
+                "kr": "잠깐 기다리게. 조리 도구와 무기가 갖춰졌는지 확인하고 싶군.",
+                "cn": "稍等，让老夫再检查一下厨具和武器是否都带全了。"
+            },
+            "asset": "char_4143_sensi/CN_017"
+        },
+        {
+            "id": "char_4143_sensi_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Chin up, I've got it in me to protect the few of you.",
+                "jp": "案ずるな。お前たちを守るくらいはわしにもできる。",
+                "kr": "걱정 말게. 자네들을 지키는 것쯤은 나도 할 수 있어.",
+                "cn": "放心，保护你们几个老夫还是做得到的。"
+            },
+            "asset": "char_4143_sensi/CN_018"
+        },
+        {
+            "id": "char_4143_sensi_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "I'm ready!",
+                "jp": "準備完了じゃ！",
+                "kr": "준비 완료일세!",
+                "cn": "老夫准备好了！"
+            },
+            "asset": "char_4143_sensi/CN_019"
+        },
+        {
+            "id": "char_4143_sensi_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "That's more monsters than I imagined...",
+                "jp": "思っていたより魔物が多いのう……",
+                "kr": "생각보다 마물이 많군……",
+                "cn": "魔物的数量比想象中多啊......"
+            },
+            "asset": "char_4143_sensi/CN_020"
+        },
+        {
+            "id": "char_4143_sensi_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "What's the problem, you hungry?",
+                "jp": "どうした、腹が減ったのか？",
+                "kr": "왜, 배고픈가?",
+                "cn": "怎么了，你肚子饿了吗？"
+            },
+            "asset": "char_4143_sensi/CN_021"
+        },
+        {
+            "id": "char_4143_sensi_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Don't you worry, I know what to do.",
+                "jp": "案ずるな。やりかたはわかっている。",
+                "kr": "걱정 말게. 방법은 알고 있으니.",
+                "cn": "不用担心，老夫知道怎么做。"
+            },
+            "asset": "char_4143_sensi/CN_022"
+        },
+        {
+            "id": "char_4143_sensi_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Nice spot. Wouldn't mind cooking here later.",
+                "jp": "悪くない配置だ。後ほどここで、食事を作ろう。",
+                "kr": "나쁘지 않은 배치야. 나중에 여기서 식사를 만들도록 하세.",
+                "cn": "不错的位置，待会就在这里做饭吧。"
+            },
+            "asset": "char_4143_sensi/CN_023"
+        },
+        {
+            "id": "char_4143_sensi_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Aye, you leave this to me!",
+                "jp": "この場はわしに任せておけ！",
+                "kr": "여기는 나한테 맡기게나!",
+                "cn": "就这里吧，交给老夫！"
+            },
+            "asset": "char_4143_sensi/CN_024"
+        },
+        {
+            "id": "char_4143_sensi_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Now, what's the best dish to make...?",
+                "jp": "さて、何を作ったものか……",
+                "kr": "자, 뭘 만들었는가……",
+                "cn": "做哪道料理更好呢......？"
+            },
+            "asset": "char_4143_sensi/CN_025"
+        },
+        {
+            "id": "char_4143_sensi_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "I'll just taste for salt.",
+                "jp": "どれ、塩加減を見てみよう。",
+                "kr": "어디, 간을 좀 보도록 하지.",
+                "cn": "老夫先来尝一下咸淡。"
+            },
+            "asset": "char_4143_sensi/CN_026"
+        },
+        {
+            "id": "char_4143_sensi_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Add your ingredients in turns...",
+                "jp": "食材を数回に分けて投入し……",
+                "kr": "재료를 몇 차례에 나눠서 투입하고……",
+                "cn": "分批次下入需要的食材......"
+            },
+            "asset": "char_4143_sensi/CN_027"
+        },
+        {
+            "id": "char_4143_sensi_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Just a little longer, and it's done!",
+                "jp": "しばし待て、もうすぐ完成じゃ！",
+                "kr": "잠시 기다리게, 곧 완성일세!",
+                "cn": "再等一会儿，马上就做好了！"
+            },
+            "asset": "char_4143_sensi/CN_028"
+        },
+        {
+            "id": "char_4143_sensi_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Phew, I haven't tussled with a monster that tough in a long while.",
+                "jp": "フーム、これほど手強い魔物に遭うのは随分と久し振りだ。",
+                "kr": "흠, 이렇게 버거운 마물을 만나는 건 꽤 오랜만이군.",
+                "cn": "呼，这么难缠的魔物，老夫也好久没遇到过了。"
+            },
+            "asset": "char_4143_sensi/CN_029"
+        },
+        {
+            "id": "char_4143_sensi_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "I'm going to see with Laios if there's a way to cook these monsters. You interested, Doctor?",
+                "jp": "ドクター。この魔物を料理できないか、ライオスと試すことにしたのだが、お前も興味はあるか？",
+                "kr": "박사. 이 마물을 요리할 수 있는지 라이오스랑 시험해 보고 싶은데, 자네도 관심 있나?",
+                "cn": "老夫决定和莱欧斯一起去试一下这些魔物能不能烹饪，博士感兴趣吗？"
+            },
+            "asset": "char_4143_sensi/CN_030"
+        },
+        {
+            "id": "char_4143_sensi_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Seems I added something funny by mistake...",
+                "jp": "どうやら、何か良くない食材をうっかり入れてしまったようだな……",
+                "kr": "아무래도 무심코 뭔가 좋지 않은 재료를 넣어 버린 것 같군……",
+                "cn": "看来，老夫不慎加入了什么不好的食材呢......"
+            },
+            "asset": "char_4143_sensi/CN_031"
+        },
+        {
+            "id": "char_4143_sensi_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "...Get running!",
+                "jp": "……撤退じゃ！",
+                "kr": "……철수하세!",
+                "cn": "......快跑！"
+            },
+            "asset": "char_4143_sensi/CN_032"
+        },
+        {
+            "id": "char_4143_sensi_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Which way's the kitchen?",
+                "jp": "厨房まではどう行けばいい？",
+                "kr": "주방까지는 어떻게 가면 되나?",
+                "cn": "厨房怎么走？"
+            },
+            "asset": "char_4143_sensi/CN_033"
+        },
+        {
+            "id": "char_4143_sensi_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Are you poking me? Hmm... I say you're not going to get anything poking through my beard.",
+                "jp": "……今、わしをつついたか？ウーム……ヒゲの中を掻き回しても、何も出てはこないと思うぞ。",
+                "kr": "……지금 날 찔렀나? 음…… 수염 안을 휘저어 봤자 아무것도 안 나올 걸세.",
+                "cn": "......你在戳老夫吗？嗯......老夫不觉得你在胡子里戳来戳去能戳出什么来。"
+            },
+            "asset": "char_4143_sensi/CN_034"
+        },
+        {
+            "id": "char_4143_sensi_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Like it? You want me to ladle you some more?",
+                "jp": "美味いか？おかわりもあるぞ。",
+                "kr": "맛있나? 더 있다네.",
+                "cn": "好吃吗？那老夫再给你盛一碗？"
+            },
+            "asset": "char_4143_sensi/CN_036"
+        },
+        {
+            "id": "char_4143_sensi_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4143_sensi/CN_037"
+        },
+        {
+            "id": "char_4143_sensi_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "If you want to make a dish for the operators, I recommend you go with hotpot. You can put in all kinds of stewing ingredients. It can feed a whole table at once, and it's simple to make. Come with me, I'll teach you how the tastiest hotpot's made.",
+                "jp": "オペレーターたちに手料理を振舞うのならば、しゃぶしゃぶにするといいだろう。調理が簡単でありながら、様々な食材を入れることができ、皆で同じ鍋をつつくこともできるからな。さあ、ついてこい。一番美味いしゃぶしゃぶの作り方を教えてやろう。",
+                "kr": "오퍼레이터들에게 직접 만든 요리를 대접하겠다면 샤부샤부가 좋겠군. 조리가 쉬우면서도 다양한 재료를 넣을 수 있어서, 함께 한 냄비에 둘러앉아 먹는 것도 가능하니 말일세. 자, 따라오게. 가장 맛있는 샤부샤부를 만드는 법을 알려 주겠네.",
+                "cn": "要是想亲手给干员们做一道料理的话，老夫最推荐涮锅。各种食材都能放进去煮，可以很多人一起吃，做法也简单。跟老夫来吧，老夫教你怎么做最好吃的涮锅。"
+            },
+            "asset": "char_4143_sensi/CN_038"
+        },
+        {
+            "id": "char_4143_sensi_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Just in time, it's done. Come give my work a taste.",
+                "jp": "完成じゃ！さあ、食べてみなさい。",
+                "kr": "완성됐네! 자, 먹어 보게.",
+                "cn": "料理已经做好了，过来尝尝老夫的手艺吧。"
+            },
+            "asset": "char_4143_sensi/CN_042"
+        },
+        {
+            "id": "char_4143_sensi_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "This whole journey's been one endless surprise... Laios and Marcille are both much tougher than I'd thought, Chilchuck's really acting like a grown-up now, and I've made plenty of exciting new friends. It's been a fulfilling time, this.",
+                "jp": "つくづく、これはまったく予想のつかない旅だ……ライオスとマルシルは思っていたよりずっとしっかりしていたし、チルチャックもこの頃大人びてきた。わしはここでたくさんの面白い友と出会えたし、このような経験ができて、とても満足だ。",
+                "kr": "정말이지, 이건 전혀 예상이 안 되는 여행이야…… 라이오스와 마르실은 생각보다 훨씬 견실해졌고, 칠책도 최근 어른다워졌지. 난 여기서 재밌는 친구들을 많이 만나기도 했고, 이런 경험도 하게 되어서 아주 만족스럽다네.",
+                "cn": "真是一趟意想不到的旅程啊......莱欧斯和玛露西尔都比老夫想的要坚强得多，齐尔查克也像个大人了，老夫在这里认识了很多有趣的朋友，能有这样一段经历，老夫很满足。"
+            },
+            "asset": "char_4143_sensi/CN_044"
+        }
+    ],
+    "actors": {
+        "linkage": {
+            "native": "中博史",
+            "global": "Hiroshi Naka"
+        }
+    },
+    "availability": [
+        "linkage"
+    ]
+}

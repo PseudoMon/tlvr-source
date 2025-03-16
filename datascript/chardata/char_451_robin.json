@@ -602,6 +602,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Kari Wahlgren",
+            "global": "Kari Wahlgren"
+        },
         "cn": {
             "native": "邵敏佳",
             "global": "Icy"
@@ -616,6 +620,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

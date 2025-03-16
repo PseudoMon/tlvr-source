@@ -602,6 +602,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Sam Slade",
+            "global": "Sam Slade"
+        },
         "cn": {
             "native": "刘十四",
             "global": "Jingxia Liu"
@@ -616,6 +620,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

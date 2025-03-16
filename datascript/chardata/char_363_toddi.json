@@ -602,6 +602,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Annes Elwy",
+            "global": "Annes Elwy"
+        },
         "cn": {
             "native": "银子宝宝",
             "global": "Gin"
@@ -616,6 +620,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"
