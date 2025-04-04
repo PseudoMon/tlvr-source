@@ -617,12 +617,20 @@
         "kr": {
             "native": "이새벽",
             "global": "Lee Sae-byeok"
+        },
+        "old_jp": {
+            "native": "藤村歩",
+            "global": "Ayumi Fujimura"
         }
     },
     "availability": [
         "en",
         "cn",
         "jp",
-        "kr"
-    ]
+        "kr",
+        "old_jp"
+    ],
+    "audio_path_override": {
+        "old_jp": "https://raw.githubusercontent.com/PseudoMon/arknights-audio/49321c40e27f9293cd0b2d0c7b446796be74ab1b/voice"
+    }
 }

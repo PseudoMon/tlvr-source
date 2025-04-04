@@ -1,0 +1,84 @@
+{
+    "oldvoices":
+    {
+        "platnm": {
+            "lang": "jp",
+            "actor":
+            {
+                "native": "茅野愛衣",
+                "global": "Ai Kayano"
+            },
+            "baseurl": "https://raw.githubusercontent.com/PseudoMon/arknights-audio/9d94a6083acd5882c35047c33f06aeac978407c5/voice_old"        
+        },
+
+        "jesica": {
+            "lang": "en",
+            "actor":
+            {
+                "native": "Rebecca LaChance",
+                "global": "Rebecca LaChance"
+            },
+            "baseurl": "https://raw.githubusercontent.com/PseudoMon/arknights-audio/256053567424c27eac3e9ef8cc411f5d13cb8c21/voice_en"
+        },
+
+        "rope": {
+            "lang": "jp",
+            "actor":
+            {
+                "native": "藤村歩",
+                "global": "Ayumi Fujimura"
+            },
+            "baseurl": "https://raw.githubusercontent.com/PseudoMon/arknights-audio/49321c40e27f9293cd0b2d0c7b446796be74ab1b/voice"
+        },
+
+        "savage": {
+            "lang": "jp",
+            "actor":
+            {
+                "native": "藤村歩",
+                "global": "Ayumi Fujimura"
+            },
+            "baseurl": "https://raw.githubusercontent.com/PseudoMon/arknights-audio/49321c40e27f9293cd0b2d0c7b446796be74ab1b/voice"
+        },
+
+        "hsguma": {
+            "lang": "cn",
+            "actor":
+            {
+                "native": "蔡欣纯",
+                "global": "X.Chai"
+            },
+            "baseurl": "https://raw.githubusercontent.com/PseudoMon/arknights-audio/5e1b475f1a8ac48144c1a790224ee8bc8ac130b0/voice_cn"
+        },
+
+        "mberry": {
+            "lang": "cn",
+            "actor":
+            {
+                "native": "蔡欣纯",
+                "global": "X.Chai"
+            },
+            "baseurl": "https://raw.githubusercontent.com/PseudoMon/arknights-audio/5e1b475f1a8ac48144c1a790224ee8bc8ac130b0/voice_cn"
+        },
+
+        "red": {
+            "lang": "cn",
+            "actor":
+            {
+                "native": "蔡欣纯",
+                "global": "X.Chai"
+            },
+            "baseurl": "https://raw.githubusercontent.com/PseudoMon/arknights-audio/5e1b475f1a8ac48144c1a790224ee8bc8ac130b0/voice_cn"
+        },
+
+        "catap": {
+            "lang": "cn",
+            "actor":
+            {
+                "native": "伽月",
+                "global": "Hart Lau"
+            },
+            "baseurl": "https://raw.githubusercontent.com/PseudoMon/arknights-audio/5e1b475f1a8ac48144c1a790224ee8bc8ac130b0/voice_cn"
+        }
+    }
+}

@@ -253,7 +253,30 @@ def get_chardata(charid, wordtables, names={}):
 		"availability": availability,
 	}
 
+	add_old_voices(chardata)
+
 	return chardata
+
+def add_old_voices(chardata):
+	manualdata = load_json("manual.json")
+
+	try:
+		old_voice_data = manualdata["oldvoices"][chardata["nameid"]]
+	except KeyError:
+		return
+	
+	print(f"Adding old voice to {chardata['nameid']}")
+	newkey = "old_" + old_voice_data["lang"]
+	chardata["actors"][newkey] = old_voice_data["actor"]
+	chardata["availability"].append(newkey)
+
+	try:
+		chardata["audio_path_override"][newkey] = old_voice_data["baseurl"]
+	except KeyError:
+		chardata["audio_path_override"] = {}
+		chardata["audio_path_override"][newkey] = old_voice_data["baseurl"]
+
+	return
 
 def get_and_write_chardata(charid, wordtables, names={}):
 	chardata = get_chardata(charid, wordtables, names)
@@ -292,3 +315,8 @@ def run_transformer():
 	process_all_characters(charlist, wordtables)
 
 	return charlist, wordtables
+
+if __name__ == "__main__":
+	chardata = load_json("chardata/char_235_jesica.json")
+	add_old_voices(chardata)
+	print(chardata["availability"])

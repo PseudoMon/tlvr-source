@@ -617,12 +617,20 @@
         "kr": {
             "native": "김채하",
             "global": "Kim Chae-ha"
+        },
+        "old_jp": {
+            "native": "茅野愛衣",
+            "global": "Ai Kayano"
         }
     },
     "availability": [
         "en",
         "cn",
         "jp",
-        "kr"
-    ]
+        "kr",
+        "old_jp"
+    ],
+    "audio_path_override": {
+        "old_jp": "https://raw.githubusercontent.com/PseudoMon/arknights-audio/9d94a6083acd5882c35047c33f06aeac978407c5/voice_old"
+    }
 }

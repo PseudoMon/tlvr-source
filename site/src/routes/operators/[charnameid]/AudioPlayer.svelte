@@ -3,6 +3,7 @@
 
   export let assetloc: string;
   export let availability: string[] = [];
+  export let pathOverride;
 
   // Some skins have # in the name, which has to be translated in URL
   $: assetlocClean = assetloc.replace("#", "%23")
@@ -16,6 +17,7 @@
     "kr": "voice_kr",
   }
 
+  const oldLangs = ["old_jp", "old_en"]
   const regionalLangs = ["ita", "cn_topolect"]
   const regionalLang_sans_suffix = ["ger", "rus"]
   const teamrainbow = ["tachak", "blitz", "ash", "rfrost", 
@@ -24,12 +26,19 @@
 
   const nameMapping = {
     "cn_topolect": "CN REG",
-    "linkage": "OG"
+    "linkage": "OG",
+    "old_en": "OLD EN",
+    "old_jp": "OLD JP", 
   }
 
   function getAudioFileUrl(lang) {
     if (lang === null) {
       return null;
+    }
+
+    if (pathOverride != null && Object.keys(pathOverride).includes(lang))
+    {
+      return `${pathOverride[lang]}/${assetlocClean}.mp3`;
     }
     
     // One of the standard voice languages
@@ -38,17 +47,17 @@
     }
 
     // Regional voice
-    else if (regionalLangs.includes(lang)) {
+    if (regionalLangs.includes(lang)) {
       const regionalAssetloc = assetlocClean.replace("/", `_${lang}/`);
       return `${sourceurl}/voice_custom/${regionalAssetloc}.mp3`;
     }
 
-    else if (regionalLang_sans_suffix.includes(lang)) {
+    if (regionalLang_sans_suffix.includes(lang)) {
       return `${sourceurl}/voice_custom/${assetlocClean}.mp3`;
     }
 
     // Specific file location for crossover characters
-    else if (lang === "linkage") {
+    if (lang === "linkage") {
       if (teamrainbow.some(name => assetlocClean.includes(name))) {
         return `${sourceurl}/${voiceMap["jp"]}/${assetlocClean}.mp3`
       } 
@@ -89,11 +98,11 @@
 <div class="audio-container">
   <div class="audio-selector">
     <AudioIcon />
-    
     {#each availability as lang}
       <button
         on:click={() => clickLang(lang)}
         class:selected={selectedLang === lang}
+        class:no-width={oldLangs.includes(lang)}
       >{
         Object.keys(nameMapping).includes(lang) ? 
         nameMapping[lang] :
@@ -157,6 +166,10 @@
 
   .audio-selector button.selected {
     background-color: #7F2936
+  }
+
+  .audio-selector button.no-width {
+    width: auto;
   }
 
   audio {

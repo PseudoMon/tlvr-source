@@ -38,6 +38,7 @@
       <Voiceline 
         voicedata={voicedata}
         availability={data.availability}
+        pathOverride={data.audio_path_override}
       />
       </li>
       {/each}

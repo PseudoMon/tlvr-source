@@ -617,12 +617,20 @@
         "kr": {
             "native": "김하영",
             "global": "Kim Ha-young"
+        },
+        "old_en": {
+            "native": "Rebecca LaChance",
+            "global": "Rebecca LaChance"
         }
     },
     "availability": [
         "en",
         "cn",
         "jp",
-        "kr"
-    ]
+        "kr",
+        "old_en"
+    ],
+    "audio_path_override": {
+        "old_en": "https://raw.githubusercontent.com/PseudoMon/arknights-audio/256053567424c27eac3e9ef8cc411f5d13cb8c21/voice_en"
+    }
 }

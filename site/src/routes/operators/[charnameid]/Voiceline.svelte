@@ -4,6 +4,7 @@
 
   export let voicedata: Voicedata;
   export let availability: string[] = [];
+  export let pathOverride;
 
   interface Voicedata {
     title: {
@@ -31,6 +32,7 @@
 <AudioPlayer 
   assetloc={voicedata.asset}
   availability={availability} 
+  pathOverride={pathOverride}
 />
 {/if}
 
