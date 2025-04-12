@@ -17,7 +17,7 @@
                 "cn": "任命助理"
             },
             "text": {
-                "en": "Need a midnight snack, Boss?",
+                "en": "Need me to make you some midnight snacks, Boss?",
                 "jp": "大将、夜食でもこさえやしょうか？",
                 "kr": "대장, 야식이라도 만들까요?",
                 "cn": "老板，要我做点夜宵吗？"
@@ -49,7 +49,7 @@
                 "cn": "交谈2"
             },
             "text": {
-                "en": "When I'm off, I practice cooking... Not just seafood. What do you like to eat, Boss?",
+                "en": "When I'm off… I practice cooking. Not just seafood. What do you like to eat, Boss?",
                 "jp": "何もないときゃ、料理の研究をしてやす。海鮮だけじゃなくね。大将の好物はなんですかい？",
                 "kr": "아무 일도 없을 땐 요리 연구를 함다. 해산물만 하는 건 아니고요. 대장은 뭘 좋아하시나?",
                 "cn": "我没事的时候，会研究厨艺......不止是海鲜。老板喜欢吃什么吗？"
@@ -65,7 +65,7 @@
                 "cn": "交谈3"
             },
             "text": {
-                "en": "...Boss, is it usually on me to find something to talk about?",
+                "en": "Errr… Boss, is it usually on me to find something to talk about?",
                 "jp": "……大将、これは俺のほうから話を振ったほうがいい感じですかね？",
                 "kr": "……대장, 그러니까 음, 보통 이럴 땐 내가 먼저 말문을 떼는 게 맞는 걸까요?",
                 "cn": "......老板，难道说，一般需要由我来找话题吗？"
@@ -81,7 +81,7 @@
                 "cn": "晋升后交谈1"
             },
             "text": {
-                "en": "Boss, if you ever want to see a Lungmen night market, I can take you. It's fun, but not exactly safe.",
+                "en": "Boss, if you ever want to see a Lungmen night market, I can take you. It's fun... but not exactly safe.",
                 "jp": "大将、龍門の夜市に行きたいってんなら、俺が案内しやす。賑わってんすが、ちょっと物騒ですから。",
                 "kr": "대장, 용문의 야시장에 가고 싶으시면 내가 안내하겠슴다. 활기차기는 한데, 좀 위험하거든요.",
                 "cn": "老板，你要去龙门夜市的话，我可以带路。那里很热闹，就是不太安全。"
@@ -97,7 +97,7 @@
                 "cn": "晋升后交谈2"
             },
             "text": {
-                "en": "Boss Lady Kal'tsit gave me permission to use Rhodes Island's special channels to get some new stuff. Any requests, Boss?",
+                "en": "Boss Lady Kal'tsit gave me special permission to use Rhodes Island's supply channels. Now I can try some new stuff. Any requests, Boss?",
                 "jp": "ケルシーさんが特別にロドスのルートを通しての仕入れを許可して下すったんで、いろいろ新しいものに挑戦できやすぜ。大将、なにかとっておきのご注文はありやせんか？",
                 "kr": "켈시 씨가 특별히 로도스 아일랜드의 경로를 통해 물건을 매입하는 걸 허가해 주셔서, 이젠 여러 가지 새로운 물건을 구할 수 있슴다. 대장, 뭔가 특별한 주문 없슴까?",
                 "cn": "凯尔希大姐特别允许我用罗德岛的渠道来进货，可以尝试一些新东西。老板，有什么特别的要求吗？"
@@ -129,7 +129,7 @@
                 "cn": "信赖提升后交谈2"
             },
             "text": {
-                "en": "I've been told that with my looks, plus my knife skills, I was born to be evil. I didn't like that, but what could I do...? After coming to Rhodes Island, I realized I should just do what makes me happy.",
+                "en": "I've been told that with my looks, my good memory and knife skills, I was born to be a villain. I don't like that, and I've struggled to find a proper way to change myself. But after coming to Rhodes Island, I realized I should just live my own life.",
                 "jp": "誰か言ってたんですがね、俺の包丁さばきと記憶力の良さ、それから見てくれ、俺ぁ天性の悪人面だって。そりゃ良い気はしやせんよ。でもどうすりゃいいのかもわかんなくて……。だけどロドスに来てから分かってきたんす。自分のしたいことをしてりゃいいんだって。",
                 "kr": "누가 그러더라고요. 내 칼 솜씨에 좋은 기억력, 그리고 생긴 것까지, 딱 타고난 악당상이라고요…… 그런 말을 듣고 기분이 좋을 리는 없죠. 근데 어떻게 해야 할지도 모르겠더라고요. 근데 로도스 아일랜드에 오고서 깨달았슴다. 그냥 내가 하고 싶은 걸 하면 된다고요.",
                 "cn": "有人说，以我的刀功和记忆力，还有长相，天生就适合做恶人。我不喜欢，但也不知道怎么办......不过来到罗德岛后，我逐渐知道了，我只要做我想做的事就好。"
@@ -161,7 +161,7 @@
                 "cn": "闲置"
             },
             "text": {
-                "en": "Bo... Oh, you're asleep. I'll just keep reading.",
+                "en": "Bo... Oh, you're asleep. I'll just keep reading then.",
                 "jp": "たいし……あぁ、寝ちまってら。本の続きでも読むか。",
                 "kr": "대자…… 아아, 잠들었네. 그럼 책이나 마저 읽을까.",
                 "cn": "老......啊，睡着了，那我继续看书。"
@@ -193,7 +193,7 @@
                 "cn": "观看作战记录"
             },
             "text": {
-                "en": "Huh, so cooking and warfare are pretty much the same.",
+                "en": "Oh... so cooking and warfare are pretty alike…",
                 "jp": "なるほど。戦いも料理も、やる事ぁ変わんねぇんだな。",
                 "kr": "그렇구만. 전투도 요리도 다 거기서 거기네.",
                 "cn": "原来如此，战斗和做菜，也差不多。"
@@ -209,7 +209,7 @@
                 "cn": "精英化晋升1"
             },
             "text": {
-                "en": "Boss, does this mean I can spread out a bit more?",
+                "en": "Boss, does this mean I can expand my stall a bit more?",
                 "jp": "大将、これってつまり、もっと手広くやっていいってことですか？",
                 "kr": "대장, 이건 그러니까 장사 규모를 더 넓혀도 좋다는 건가요?",
                 "cn": "老板，这是说，我能把摊开大点的意思吗？"
@@ -225,7 +225,7 @@
                 "cn": "精英化晋升2"
             },
             "text": {
-                "en": "Boss, I figured it out. If you just treat the enemy as food, this battle thing is a lot easier.",
+                "en": "Boss, I figured it out. If you just treat the enemy like fish, then fighting is a lot easier.",
                 "jp": "大将、俺わかりやしたぜ。敵を食材だと思って扱えば、戦闘も簡単だってよ。",
                 "kr": "대장, 나 알았슴다. 적을 식자재라고 생각하고 다루면 전투도 어렵지 않다는걸요.",
                 "cn": "老板，我发现，把敌人当食材来看待的话，战斗也挺简单的。"
@@ -241,7 +241,7 @@
                 "cn": "编入队伍"
             },
             "text": {
-                "en": "Oh, I forgot to close up...",
+                "en": "I forgot to close up…",
                 "jp": "あっ、店閉めるの忘れたな……。",
                 "kr": "앗, 가게 닫는 거 깜박했네……",
                 "cn": "啊，忘了收摊......"
@@ -273,7 +273,7 @@
                 "cn": "行动出发"
             },
             "text": {
-                "en": "...Oh? We're going?",
+                "en": "Hm? We're going?",
                 "jp": "……ん？出発か？",
                 "kr": "……음? 출발인가?",
                 "cn": "......嗯？要出发了吗？"
@@ -305,7 +305,7 @@
                 "cn": "选中干员1"
             },
             "text": {
-                "en": "Yeah, what?",
+                "en": "Yeah?",
                 "jp": "はい？",
                 "kr": "네?",
                 "cn": "啊？"
@@ -321,7 +321,7 @@
                 "cn": "选中干员2"
             },
             "text": {
-                "en": "Here.",
+                "en": "Right here.",
                 "jp": "どうしやすか。",
                 "kr": "어떻게 할까요?",
                 "cn": "在。"
@@ -449,7 +449,7 @@
                 "cn": "3星结束行动"
             },
             "text": {
-                "en": "Boss, is it... over?",
+                "en": "Boss, is it... is it over?",
                 "jp": "大将、これで……終わりですかね？",
                 "kr": "대장, 이걸로…… 끝이겠죠?",
                 "cn": "老板，这就......算完了吗？"
@@ -497,7 +497,7 @@
                 "cn": "进驻设施"
             },
             "text": {
-                "en": "I don't know if there's a suitable place to set up my stall...",
+                "en": "I don't know if there's a suitable place to set up my stall…",
                 "jp": "どっか店構えるのにいい場所ないですかね……。",
                 "kr": "어디 가게 차리기 좋은 장소 없을까요……",
                 "cn": "不知道有没有适合摆摊的地方......"
@@ -529,7 +529,7 @@
                 "cn": "信赖触摸"
             },
             "text": {
-                "en": "Boss, I don't know if you have any vices...",
+                "en": "Boss, I wonder if you have any food preferences...?",
                 "jp": "大将に嫌いなものがないかわかりやせんが……。",
                 "kr": "대장이 가리는 음식은 없는지 모르겠네요……",
                 "cn": "不知道老板有没有忌口......"
@@ -561,7 +561,7 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "TBU",
+                "en": "I used to always have to close up the stall late, but now all of a sudden it's a holiday. Can't say I'm used to it... Boss, you want some late-night chow? I'm a little hungry myself. I can cook something for us both.",
                 "jp": "前だと深夜まで屋台を出してた日が、今じゃ休みの日とあっちゃ、ちっとばかし慣れねぇってもんでさぁ……大将、夜食の気分になったりしやせんか？実は俺、小腹がすいてやして、二人分こさえてきてもいいんですぜ。",
                 "kr": "늦게까지 영업을 해야 했던 날들이 이젠 휴일이 되어 버리다니, 뭔가 낯설게 느껴지네요…… 대장 야식 드시겠슴까? 사실 나도 약간 배가 고파져서, 2인분 만들 수 있슴다!",
                 "cn": "之前要更晚收摊的日子，现在居然变成了假期，还有点不适应......老板，想吃点夜宵吗？其实我也有点饿了，我可以做两人份的。"
@@ -577,7 +577,7 @@
                 "cn": "问候"
             },
             "text": {
-                "en": "Hey Boss, the weather's not bad today.",
+                "en": "Hey Boss, you're looking good today.",
                 "jp": "大将、今日も元気そうでなによりです。",
                 "kr": "대장, 오늘도 건강해 보여 다행임다.",
                 "cn": "老板，今天气色不错啊。"
@@ -593,7 +593,7 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "TBU",
+                "en": "When Officer Hoshiguma said I should come to Rhodes Island, I was ready to work my hands to the bone. Then I realized, I may not get paid as much as I thought I would, but the work's also easier than I thought, so I guess it balances out... I'll keep doing my best, Boss.",
                 "jp": "ホシグマさんに勧められてロドスへやって来た時、どんな大変な思いをしてでも稼いでやる覚悟でいやした。実際、給料は思ったほど高かぁなかったですが、仕事も思ってたほどキツくはなかったんで、まぁまぁってところですかね……大将、俺、これからもちゃんとやっていきやすよ。",
                 "kr": "호시구마 씨가 저를 로도스 아일랜드로 추천할 때만 해도, 이것저것 가리지 않고 열심히 돈 벌 준비가 되어 있었슴다. 나중에 보니 월급은 생각보다 높지 않았지만, 일도 생각했던 것만큼 힘들지 않았죠, 오히려 괜찮았어요…… 대장, 앞으로도 열심히 하겠슴다!",
                 "cn": "星熊警官推荐我来罗德岛的时候，我是做好了吃苦赚钱的准备的。后来发现，虽然工资没有想象的高，但工作也确实没有想象的累，也算挺不错吧......老板，我会好好干的。"

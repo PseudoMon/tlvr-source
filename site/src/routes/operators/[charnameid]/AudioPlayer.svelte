@@ -17,7 +17,7 @@
     "kr": "voice_kr",
   }
 
-  const oldLangs = ["old_jp", "old_en"]
+  const oldLangs = ["old_jp", "old_en", "old_cn"]
   const regionalLangs = ["ita", "cn_topolect"]
   const regionalLang_sans_suffix = ["ger", "rus"]
   const teamrainbow = ["tachak", "blitz", "ash", "rfrost", 
@@ -29,6 +29,7 @@
     "linkage": "OG",
     "old_en": "OLD EN",
     "old_jp": "OLD JP", 
+    "old_cn": "OLD CN",
   }
 
   function getAudioFileUrl(lang) {

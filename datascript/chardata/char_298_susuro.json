@@ -17,7 +17,7 @@
                 "cn": "任命助理"
             },
             "text": {
-                "en": "Time for a break, Doctor. Have you been at it since the last round? Take a break now, please.",
+                "en": "Time for a break, Doctor. Just how long have you been sitting at a table like that? Get up and go stretch out a little. Yes, I mean now.",
                 "jp": "ドクター、そろそろ休憩の時間だよ。さっきの仕事が終わってから、ずっと座りっぱなしだよね？今すぐ休んで、今すぐ。",
                 "kr": "박사, 슬슬 휴식 시간이야. 아까 일 끝나고 나서도 계속 앉아 있었지? 지금 당장 쉬어, 지금 당장.",
                 "cn": "博士，休息时间到了。上一轮工作结束之后，您不是还没离开过座位？休息，休息一下，嗯，就现在。"
@@ -49,7 +49,7 @@
                 "cn": "交谈2"
             },
             "text": {
-                "en": "Do you know everything an amnesia patient should know? Don't work yourself into the ground. Work and relaxation are equally important!",
+                "en": "You know what an amnesia patient should pay attention to, Doctor? Don't work yourself into the ground. Work and relaxation are equally important!",
                 "jp": "ドクター、記憶障害の患者が気をつけないといけないこと、もう分かってるよね？無茶ばっかりしないようにね。休養は仕事と同じくらい大切なんだから！",
                 "kr": "박사, 기억장애 환자가 조심해야 하는 것, 잘 알고 있지? 너무 무리하지 마. 쉬는 건 일하는 거만큼 중요하니까!",
                 "cn": "博士，失忆患者要注意的事，您了解过了吗？可不能太劳累，休息和工作同样重要！"
@@ -65,7 +65,7 @@
                 "cn": "交谈3"
             },
             "text": {
-                "en": "You always have patients who ignore the doctor's orders, but in battle, a doctor can't ignore a cry for help.",
+                "en": "You always have patients who ignore the doctor's orders, but in battle, you don't see a doctor who'd miss a single cry for help.",
                 "jp": "医者がどれだけ注意しても聞く耳を持たない患者さんもいるけど、私たち医者は戦場で助けを求める声を一つたりとも聞き逃しちゃダメなんだ。",
                 "kr": "의사가 아무리 주의를 줘도, 들을 생각도 안 하는 환자도 있긴 하지만…… 우리 의사들은 그래도, 전장에서 도움을 요청하는 목소리를, 단 하나도 놓쳐선 안 돼.",
                 "cn": "我知道，总有人把医生的嘱咐当成耳边风，可是在战场上，医生却绝对不会错过任何一声呼救。"
@@ -81,7 +81,7 @@
                 "cn": "晋升后交谈1"
             },
             "text": {
-                "en": "The cruelty of war and disasters have often spurred the development of medicine, so doctors must be at the forefront of pain and suffering. As long as I can help my patients get their lives back, I'm ready to face that fact.",
+                "en": "The advancement of medicine is a lesson taught by none other than the cruelty of war and disasters, a lesson we medical workers learn through pain and suffering... But... It's a fact I figured out long ago. As long as I can help my patients get their lives back, I'm ready to face the fact.",
                 "jp": "医学は残酷な戦争や天災に対応することで発展を遂げてきた。つまり、私たち医者にはそういった苦難が生涯つきまとうんだ……うん、もう覚悟はできてる。患者を本来あるべき生活に戻すことができるなら、そんな苦しみなんて大したことないよ。",
                 "kr": "의학은 잔혹한 전쟁과 재앙에 대응하며 발전해 왔어. 그러니까, 우리 같은 의사들한테는, 그런 고난이 평생 따라다닌다는 얘기지…… 응, 이미 각오는 되어 있어. 환자를 원래 누려야 할 삶으로 돌려보낼 수 있다면, 이런 괴로움은 별거 아니야.",
                 "cn": "医学的重大进步，往往是通过残酷的战争和巨大的灾难来实现的，所以医生注定要和痛苦同行......嗯，这些，我早就想好了，只要能让患者回归他们该有的生活，那些痛苦我就一点也不会害怕。"
@@ -97,7 +97,7 @@
                 "cn": "晋升后交谈2"
             },
             "text": {
-                "en": "The time I've worked with you has been, uh... some of my happiest! Come on, Doctor, you know I'm not good with words, so don't play dumb!",
+                "en": "Together we've spent some... uh, I mean, some most memorable moments! Come on, you know I'm not good at this, Doctor. And next time I see you put up that teasing face, I'd be real mad!",
                 "jp": "ドクターと一緒に過ごす時間は、とても……と、とても楽しい、と思う！もう、私がこういう話をするのは苦手ってわかってるのに聞こえないフリをするなんてひどいよ！ドクター、今度意地悪したら怒るからね！",
                 "kr": "박사와 함께 보내는 시간은 굉장히…… 저, 정말 즐겁다……고 생각해! 으으…… 너무해! 내가 이런 말 잘 못 하는 거 알면서, 안 들리는 척하는 거야?! 박사, 다음에 또 짓궂게 굴면 화낼 거야!",
                 "cn": "和您在一起工作的时光，真的很......啊，我是说，很快乐！真是的，明知道我不擅长说这种话，还要装成听不清的样子，博士，不许再这样坏心眼了哦？"
@@ -129,7 +129,7 @@
                 "cn": "信赖提升后交谈2"
             },
             "text": {
-                "en": "I'm still far below the level of Doctors Silence and Shining, but I'm not afraid of how hard it may be for me. How can I measure up to your confidence in me otherwise?",
+                "en": "I'm still far below the level of Silence and Shining, but that doesn't mean I can't overcome an obstacle when I see one before me. Otherwise, how can I measure up to your confidence in me?",
                 "jp": "サイレンスさんやシャイニングさんと比べれば、私なんかまだまだ実力不足だよね。けど、どんな困難が待ってても絶対に怖気づいたりしないと誓うよ。このくらいの強い決意を持たないと、ドクターの信頼に応えられないでしょ？",
                 "kr": "사일런스 씨나 샤이닝 씨에 비하면, 나 같은 건 아직 멀었지. 그래도, 어떤 고난이 기다리고 있다 해도, 절대 겁먹지 않겠다고 맹세할게. 이 정도로 강한 결의가 없으면, 박사의 신뢰에 부응할 수 없잖아?",
                 "cn": "比起赫默医生和闪灵医生，我的能力还差的很远吧，但不管未来有多困难，我也不会害怕的，没有这种决心的话，怎么对得起您的信赖呢？"
@@ -145,7 +145,7 @@
                 "cn": "信赖提升后交谈3"
             },
             "text": {
-                "en": "The sun is indeed warm on the deck, and the breeze is cozy as well... No, I'm not slacking off. Even a doctor needs to relax, right? Why don't you tell me what's bothering you? You can even whisper it.",
+                "en": "The sun's good on the deck, and the wind's just fine… Mm? No, I'm not slacking off. It's just... I'm feeling swamped right now, like you occasionally do, Doctor. So, anything bothering you? Mm-hm, keep it as a whisper if it's easier for you this way. I'm listening.",
                 "jp": "甲板で浴びる陽の光はやっぱりあったかいなぁ。顔を撫でる風も気持ちいい……え？別にサボってるわけじゃないよ。ドクターだって疲れることはあるでしょ？だからドクターの悩みも、こっそりでいいから私にも打ち明けてほしいな。",
                 "kr": "갑판에서 쬐는 햇빛은 역시 따뜻하네~ 얼굴에 스치는 바람도 기분 좋고…… 어? 딱히 게으름 피우는 건 아니거든? 박사도 지치는 일은 있잖아? 그러니까, 박사의 고민도, 몰래라도 좋으니까 나한테 털어놨으면 좋겠어.",
                 "cn": "甲板上的阳光果然好暖和，微风揉着脸的感觉也好舒服......欸，现在可不是在偷懒，因为就算是博士，也会有疲惫的时候吧？所以，把您心里的烦恼，和我说一说吧，就算是小声说出来也没关系哦？"
@@ -161,7 +161,7 @@
                 "cn": "闲置"
             },
             "text": {
-                "en": "Who designed this meal plan? It's simply horrifying!",
+                "en": "Who came up with this meal plan? I'm having spasms in my stomach just by looking at the list!",
                 "jp": "……この栄養食のメニュー、一体誰が考えたのかな？お、恐ろしすぎる……！",
                 "kr": "……이 영양식 메뉴, 대, 대체 누가 생각한 걸까? 너, 너무 무시무시하잖아……!",
                 "cn": "......这份营养餐的菜单，究竟是谁写出来的啊？内、内容也太可怕了吧！"
@@ -177,7 +177,7 @@
                 "cn": "干员报到"
             },
             "text": {
-                "en": "Sussurro, Medic, reporting in and reminding you to follow your doctor's orders, no matter how much you have on your plate.",
+                "en": "Sussurro, Medic, reporting in with a little reminder for the Doctor. Now, I understand you have a lot on your plate, and even if they say a 'doctor' makes the worst patient, you need to follow our advice.",
                 "jp": "医療オペレーターのススーロです。ドクターは各方面に精通していて、オペレーターたちの指導者って聞いたけど、医者の言うことはちゃんと聞いてもらうよ。",
                 "kr": "메딕 오퍼레이터인 수수로라고 해. 박사는 여러 요직을 겸하고 있어 오퍼레이터들의 멘토라고 들었는데…… 그래도 의사가 하는 말은 꼭 들어야 해, 알겠지?",
                 "cn": "医疗干员苏苏洛向您报到。即使博士您身兼多种要职，是干员们的导师，但医生的话，您也是要听的哦。"
@@ -225,7 +225,7 @@
                 "cn": "精英化晋升2"
             },
             "text": {
-                "en": "For this promotion, I have to thank the entire hard-working Medical Unit behind me and the guidance of the Doctor. I'm very, very grateful to you all!",
+                "en": "For this promotion, I have the entire Medical Department to thank, who's been supporting me all the time with their hard work. And of course, thank you too, Doctor, for your guidance. I'm very, very grateful to you all!",
                 "jp": "今回の昇進は、私個人だけじゃなく、医療チームのみんなの努力と、ドクターのご指導の賜物です。本当に、本当にありがとうございました！",
                 "kr": "이번 승진은 저 혼자만이 아니라, 의료부 모두의 노력과 박사의 지도 덕분입니다. 정말, 정말로 감사합니다!",
                 "cn": "能获得这次晋升，不只是为我个人，背后还有医疗组所有同伴们的努力，当然还有博士您的教导，非常，非常的感谢大家！"
@@ -257,7 +257,7 @@
                 "cn": "任命队长"
             },
             "text": {
-                "en": "Hold everything! You must complete all pre-battle physical exam to deploy!",
+                "en": "Hold everything! You must complete all pre-battle physical exams to deploy!",
                 "jp": "待って！出発前の検診がまだ終わってないよ！",
                 "kr": "잠깐! 출발 전 검진이 아직 안 끝났다고!",
                 "cn": "都等一下！出战前的体检必须要做完才能出发！"
@@ -273,7 +273,7 @@
                 "cn": "行动出发"
             },
             "text": {
-                "en": "Attention, medics, please follow all standard procedures in a battle.",
+                "en": "Attention, medics, make sure to follow all standard procedures in battle. Now, to your positions.",
                 "jp": "医療チームの皆さん、準備はいいですか。作戦開始後もフローに従って行動してくださいね。",
                 "kr": "의료부 여러분, 준비는 됐나요? 작전 개시 후에도, 플로우에 따라 움직여 주세요.",
                 "cn": "医疗组的各位，作战开始后也要按照流程操作哦，请大家做好准备。"
@@ -321,7 +321,7 @@
                 "cn": "选中干员2"
             },
             "text": {
-                "en": "Louder! It's hard to hear over the battle!",
+                "en": "Speak louder! It's hard to hear over the battle!",
                 "jp": "戦場は騒がしいから、指示はもっと大きい声でお願い！",
                 "kr": "전장은 시끄러우니까, 지시는 더 큰 목소리로 부탁할게!",
                 "cn": "战场很吵！请您说大声点！"
@@ -337,7 +337,7 @@
                 "cn": "部署1"
             },
             "text": {
-                "en": "Look over here for a doctor!",
+                "en": "Medic's here! Here! ",
                 "jp": "医者ならここに！ここだよ！",
                 "kr": "의사라면 여기 있어! 여기야!",
                 "cn": "医生就在这里呢，看这边！"
@@ -465,7 +465,7 @@
                 "cn": "非3星结束行动"
             },
             "text": {
-                "en": "Will the enemy return? There are still wounded unable to move here.",
+                "en": "Will the enemy return? There are still wounded unable to move here. ",
                 "jp": "まだ敵が残ってそうかな？ここにまだ動けない負傷者もいるし、困ったな……。",
                 "kr": "아직 적이 남았을까? 여긴 아직 움직이지 못하는 부상자도 있는데, 곤란하네……",
                 "cn": "敌人还会来吗？这里还有伤者无法行动，唔......"
@@ -513,7 +513,7 @@
                 "cn": "戳一下"
             },
             "text": {
-                "en": "Um...",
+                "en": "Um…",
                 "jp": "んん……？",
                 "kr": "으응……?",
                 "cn": "唔唔......"
@@ -561,7 +561,7 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "TBU",
+                "en": "Happy New Year, Doctor. New Year's is a time for proper relaxation, and you can't overstress yourself. I know you'll be at the dining table soon, though, and you can't let yourself go too much. I remember how bad your indigestion was after you overate last year. I'll keep an eye on you this time!",
                 "jp": "明けましておめでとう、ドクター。お正月だからしっかり休んで、あまり疲れすぎないようにね。でもこのあとのご飯ではハメを外しすぎたらだめだよ。去年は食べ過ぎで消化不良になったの忘れてないから、今年はしっかり見張るよ。",
                 "kr": "새해 복 많이 받아, 박사. 새해니까 푹 쉬어야 해, 너무 피곤해지면 안 된단 말이야. 그래도 이따가 식사할 때는 너무 풀어지면 안 돼. 작년에 너무 많이 먹어서 소화가 안 됐던 모습이 아직도 기억나는걸. 이번에는 똑바로 지켜볼 거야!",
                 "cn": "新年快乐，博士。新年应该好好放松一下，不能太过劳累。不过待会儿在餐桌上，您也不能太过放松了，我还记得您去年吃了太多食物消化不良的样子，今年我会盯紧您的！"
@@ -593,7 +593,7 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "TBU",
+                "en": "I don't know how much longer life will carry on like this. Sometimes I even feel like I can't make out the future ahead, but if it even gets to us medics, how much worse must it be for our patients, waiting for us to treat them? I'm sure we'll see the light of dawn one day, Doctor.",
                 "jp": "こんな日々がいつまで続くんだろう。時々、自分でも未来が見えないと思う時があるんだよ。でも医者である私たちまで辛いと思ったら、治療を待っている患者さんたちはもっと絶望するでしょ？ドクター、いつか私たちにも希望が見える日が来るよね？",
                 "kr": "이런 날들을 아직 얼마나 더 보내야 할지 모르겠어. 심지어 가끔은 미래가 흐릿하게 보일 때도 있다니까. 하지만 의사인 우리도 이렇게 힘든데, 치료를 기다리는 환자들은 얼마나 더 절망적일까? 박사, 언젠가는 희망의 빛을 볼 수 있는 날이 오겠지?",
                 "cn": "我不知道像这样的日子还要过多久，有时候甚至觉得自己也有些看不清未来，但如果连我们做医生的都觉得辛苦，那些等待我们治疗的病人岂不是会更加绝望？博士，我们总有看到曙光的那一天吧。"
@@ -602,6 +602,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Cassandra Lee Morris",
+            "global": "Cassandra Lee Morris"
+        },
         "cn": {
             "native": "辛悦",
             "global": "Yue Xin"
@@ -616,6 +620,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

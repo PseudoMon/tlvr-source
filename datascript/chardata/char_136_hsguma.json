@@ -621,6 +621,10 @@
         "cn_topolect": {
             "native": "师欣",
             "global": "Shixin Peng"
+        },
+        "old_cn": {
+            "native": "蔡欣纯",
+            "global": "X.Chai"
         }
     },
     "availability": [
@@ -628,6 +632,10 @@
         "cn",
         "jp",
         "kr",
-        "cn_topolect"
-    ]
+        "cn_topolect",
+        "old_cn"
+    ],
+    "audio_path_override": {
+        "old_cn": "https://raw.githubusercontent.com/PseudoMon/arknights-audio/5e1b475f1a8ac48144c1a790224ee8bc8ac130b0/voice_cn"
+    }
 }

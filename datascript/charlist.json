@@ -2964,6 +2964,19 @@
         "rating": 5
     },
     {
+        "fullid": "char_4162_cathy",
+        "nameid": "cathy",
+        "numberid": "4162",
+        "name": {
+            "en": "Catherine",
+            "jp": "キャサリン",
+            "kr": "캐서린",
+            "cn": "凯瑟琳"
+        },
+        "nation": "victoria",
+        "rating": 5
+    },
+    {
         "fullid": "char_101_sora",
         "nameid": "sora",
         "numberid": "101",
@@ -3039,6 +3052,19 @@
             "cn": "凛视"
         },
         "nation": "sami",
+        "rating": 5
+    },
+    {
+        "fullid": "char_487_bobb",
+        "nameid": "bobb",
+        "numberid": "487",
+        "name": {
+            "en": "Bobbing",
+            "jp": "ボビング",
+            "kr": "보빙",
+            "cn": "波卜"
+        },
+        "nation": "columbia",
         "rating": 5
     },
     {
@@ -4443,6 +4469,19 @@
             "cn": "薇薇安娜"
         },
         "nation": "leithanien",
+        "rating": 6
+    },
+    {
+        "fullid": "char_1019_siege2",
+        "nameid": "siege2",
+        "numberid": "1019",
+        "name": {
+            "en": "Vina Victoria",
+            "jp": "ヴィーナ・ヴィクトリア",
+            "kr": "비나 빅토리아",
+            "cn": "维娜·维多利亚"
+        },
+        "nation": "victoria",
         "rating": 6
     },
     {

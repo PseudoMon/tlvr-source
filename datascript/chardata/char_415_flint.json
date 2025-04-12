@@ -17,7 +17,7 @@
                 "cn": "任命助理"
             },
             "text": {
-                "en": "Handling files? Alright, then. Teach me how. Right. Sort them first. Like this? Then put them in order. By chronological... uh. Paper got torn... S-sorry. I didn't mean to.",
+                "en": "File management? Alright, then. Teach me how. Okay... Sort them first. Like this? Then put them in order, by date… Uh. I tore the paper… S-Sorry. I didn't mean to.",
                 "jp": "ファイルの処理？わかった、どうやるか教えろ。ああ、まずは分類だな、こうか？あとは並び替え、時間順に……あっ、紙が破れた……す、すまない。わざとじゃない。",
                 "kr": "파일 정리? 알았어. 어떻게 하는지 가르쳐 줘. 아아, 우선 분류 먼저, 이렇게? 그러고 나서 정렬, 시간순으로…… 앗, 종이 찢어졌다…… 미, 미안. 일부러 그런 건 아니야.",
                 "cn": "处理文件？好啊，该怎么做，你教我。嗯，先分类，这样？再排序，按照时间顺序......啊，纸弄破了......对、对不住，我不是有意的。"
@@ -33,7 +33,7 @@
                 "cn": "交谈1"
             },
             "text": {
-                "en": "Some of the people here. Don't you think they're a little too tall? ...No, I don't care. Not actually. How tall you are and how strong you are don't relate. I just need to bring every last one of them down.",
+                "en": "Some of the people here. Don't you think they're a little too tall? No, I don't care. Not actually. How tall you are and how strong you are don't relate. I just need to bring every last one of them down.",
                 "jp": "ここにいる何人かの話だが、背が高すぎると思わないか？……いや、違う。気にはしていない。背の高さと実力は関係ないだろうし、皆倒してしまえばいい。",
                 "kr": "이곳에 몇 명 말이야, 키가 너무 쓸데없이 크다는 생각 안 들어? ……아니, 사실 그렇게까지 신경은 쓰고 있지 않아. 키가 크다고 실력이 좋은 건 아니니까. 다 쓰러트려 버리면 그만인걸.",
                 "cn": "这里的有些人，是不是高大过头了？......不，没有，我才没有很在意，个头高大与否与实力无关，我只要把他们都打倒就行了。"
@@ -49,7 +49,7 @@
                 "cn": "交谈2"
             },
             "text": {
-                "en": "What's my tribe gonna do now that I'm gone? What a dumb question that is. See who has the bigger fists. Pick a new leader that way and just carry on. That's it.",
+                "en": "What's my tribe gonna do now that I'm gone? That's a dumb question. See who has the bigger fists. The biggest is the new leader. Then they're done. That's it.",
                 "jp": "私が去ってから部族はどうしたかだと？くだらない質問だ。腕っぷしの強さで新たな族長を選び、同じようにやっていけばいいだろう。",
                 "kr": "내가 떠나면 부족은 어떻게 하냐고? 무슨 그런 시시한 질문을…… 당연히 실력을 겨루고, 가장 강한 자를 새 족장으로 뽑아서, 지금까지처럼 똑같이 해 나가면 되잖아.",
                 "cn": "我走之后，我们部族怎么办？这是什么傻问题，比比谁的拳头大，选个新的头领把日子继续过下去不就行了。"
@@ -65,7 +65,7 @@
                 "cn": "交谈3"
             },
             "text": {
-                "en": "I heard a lot about Gavial. Like how she can crush a rock with her abs. Tear a raging beast apart with one hand. Is she actually that strong? Stronger than Chief Blaze? Warfarin said if I get treatment from Gavial, I can learn firsthand how strong she is... huh? Doctor, why are you stopping me?",
+                "en": "I heard a lot about Gavial. Like how she can crush a rock with her abs, and tear a raging beast apart with one hand. Is she actually that strong? Stronger than Chief Blaze? Warfarin said if I get treatment from Gavial, I'll know firsthand how strong she is. It's worth a try... Hm? Doctor, why are you stopping me?",
                 "jp": "ガヴィルの話はたくさん聞いている。腹筋で石を割れるとか、片手で凶暴な獣を引き裂けるとか。本当にそこまで強いのか？ブレイズのお頭以上なのか？ワルファリンはガヴィルに治療してもらえば身をもって体感できると言ってたが……なんだ？ドクター、どうして止めるんだ？",
                 "kr": "가비알의 이야기는 많이 들었다. 복근으로 돌을 부수고, 한 손으로 흉포한 짐승을 찢어발긴다지…… 정말 그렇게까지 강하나? 블레이즈 두목보다 더? 와파린은 가비알에게 치료를 받으면 몸소 느낄 수 있을 거라고 하던데…… 뭐지? 박사, 왜 말리는 거야?",
                 "cn": "我听了很多嘉维尔的事，像胸口碎石单手就能撕碎狂暴凶兽之类的。她真有那么强？比煌大头目还强？华法琳说，可以找嘉维尔治疗来切身体会她的强大......嗯？博士，为什么要拦着我？"
@@ -81,7 +81,7 @@
                 "cn": "晋升后交谈1"
             },
             "text": {
-                "en": "I came here so I could get stronger, and that hasn't changed. It's not just Chief Blaze and Gavial. There's a lotta people worthy enough for me to challenge here... what? You think I look happy? Well, that's not wrong. I don't hate it, being here.",
+                "en": "I came here to get stronger, and that hasn't changed. Not just Chief Blaze and Gavial, there's a lot of people here worth challenging... What? I look happy? You're right. I sort of like being here.",
                 "jp": "私は強くなるためにここに来た、その目的は今でも変わっていない。ブレイズのお頭とガヴィルだけでなく、ここにはまだまだ挑戦に値する奴が……なに？私が嬉しそうだと？確かにその通りだな、ここにいるのは嫌いではない。",
                 "kr": "난 강해지기 위해 이곳에 왔다. 그 목적은 지금도 변함없어. 블레이즈 두목과 가비알 뿐만 아니라 이곳엔 아직 도전할 가치가 있는 녀석이…… 뭐? 기뻐 보인다고? 맞아, 잘 봤어. 난 이곳이 싫지 않아.",
                 "cn": "我是为了变强才来这里的，这个目的现在也没变。不仅是煌大头目和嘉维尔，这里还有许多值得我挑战的家伙......嗯？我看起来很开心？是这样没错，我不讨厌呆在这里。"
@@ -97,7 +97,7 @@
                 "cn": "晋升后交谈2"
             },
             "text": {
-                "en": "Everyone in Rhodes Island. Don't they all think too much? You too, Doctor. You have to think about so much every day. You get tired, right. You don't? You have to do it? ...I guess that's true. There's a lotta stuff only you know how to sort out. No other way. Yeah. Then keep it up. Shout any time if you ever need me.",
+                "en": "The Rhodes Islanders. They all think too much. You too, Doctor. You have to think about so many things every day. You must be tired. You're not? You have to do it? Hmm, I guess that's true. There's a lot of stuff only you know how to handle. So it has to be you... Alright then, keep it up. Shout any time you need me.",
                 "jp": "ロドスの者は皆考えすぎではないか？ドクターもそうだ、毎日あれこれ考えていては疲れるだろう。そうでもない？考えざるを得ない？……それもそうか。お前にしかできないことは多いし、仕方ないか。ああ、では頑張ってくれ。何かあればいつでも呼べ。",
                 "kr": "로도스 아일랜드 사람들, 생각이 너무 많은 거 아니야? 박사도 그래. 매일 이것저것 생각하다 보면 피곤하잖아. 괜찮다고? 꼭 해야만 하는 일이라서? ……뭐 그것도 그런가. 너밖에 할 수 없는 일들이 많으니 어쩔 수 없구나. 알겠어, 그럼 열심히 해. 무슨 일 있으면 언제든지 부르고.",
                 "cn": "罗德岛的人，是不是都想得太多了？博士你也是，每天都要考虑那么多东西，会累吧。不会？必须得做？......也是，不少东西只有你能搞得定，没办法。嗯，那你就加油吧，有事随时叫我。"
@@ -113,7 +113,7 @@
                 "cn": "信赖提升后交谈1"
             },
             "text": {
-                "en": "Doctor, give me a hand. Up there. The flower basket up there. Help me get it down. What? You can't reach either? This sucks... Okay. What if I lift you up? Why don't we try that?",
+                "en": "Doctor, I need help. The flower basket up there. Get it down for me. What? You can't reach either? This sucks... Okay. I got an idea. How about I lift you up?",
                 "jp": "ドクター、手を貸してくれ。上だ、上に置いてある花かごを取ってもらえるか。なに、お前も届かないのか？困ったな……そうだ、私がお前を持ち上げて届くかやってみるのはどうだ？",
                 "kr": "박사, 좀 도와줘. 저기 위. 위에 있는 꽃바구니를 꺼내 줄 수 있을까. 뭐야, 너도 손이 안 닿는다고? 곤란한데…… 그렇지, 내가 너를 들어 올려줄 테니까 닿는지 봐봐, 어때, 좋은 생각이지?",
                 "cn": "博士，帮我个忙，上面，摆在上面的那个花篮，帮我拿一下。欸，你也够不着？伤脑筋了......要不然，我把你举起来试试？"
@@ -129,7 +129,7 @@
                 "cn": "信赖提升后交谈2"
             },
             "text": {
-                "en": "Zumama's going on the same mission as me this time? Don't worry. I'm not gonna start hitting her out of nowhere. If we wanna settle a score, we've got all the opportunities we want. Also, I mean, if we start fighting, that makes things hard for you, right? Yeah. I don't really want to do that to you.",
+                "en": "Zumama's going on the same mission as me this time? Don't worry. I won't pick a fight with her. We'll have lots of chances to settle our score. Also, if we started fighting, that would make things hard for you, right? Yeah. I don't want to do that to you.",
                 "jp": "ズゥママが私と同じ任務に参加するのか？安心しろ、急に殴りかかったりはしない。奴と決着をつける機会ならいくらでもある。それに、私たちが衝突すれば、お前も頭を抱えるだろう？ああ、あまりお前を困らせたくないのでな。",
                 "kr": "주마마가 나와 같은 임무에 참가하는 건가? 안심해. 갑자기 때리려고 덤비거나 하지는 않을 거니까. 녀석과 승부를 낼 기회라면 얼마든지 있는 걸. 게다가 우리가 부딪치면 너도 골치 아플 거 아니야? 그래, 난 널 곤란하게 만들 생각 없어.",
                 "cn": "祖玛玛这次和我出同一个任务？放心，我不会突然和她打起来的，我和她要决胜负，机会要多少有多少。而且，我们要是起冲突，你会为难吧？嗯，我也不太想让你为难。"
@@ -145,7 +145,7 @@
                 "cn": "信赖提升后交谈3"
             },
             "text": {
-                "en": "This flower. Don't you think it's pretty? I grew this one myself. Hey, what makes you so surprised? I'm not the kind of battle lunatic who only cares about getting stronger. Having a hobby or two is completely normal, right. Huh? You like it too? Then I'll give you this one. Yeah. Not bad. Suits you well.",
+                "en": "This flower. Don't you think it's pretty? I grew this one myself. Hey, why are you so surprised? I'm not so crazy about fighting that I only care about getting stronger. Having a hobby or two is completely normal, okay? You... You like it too? Then I'll give you this one. Not bad. It suits you.",
                 "jp": "この花、綺麗だろう？私が育てたものだ。おい、何をそんなに驚いているんだ、私は強くなることしか頭にない戦闘狂ではない。多少の趣味があっても変じゃないだろう。なに？お前も好きなのか？ではこれはお前に贈ろう。ああ、悪くない、似合っている。",
                 "kr": "이 꽃, 예쁘지? 내가 키운 거다. 어이, 뭘 그렇게 놀라는 거야. 나라고 머릿속이 온통 강해지는 것밖에 없는 건 아니라고. 취미 좀 있는 게 이상한 건 아니잖아. 뭐? 너도 좋아한다고? 그럼 이건 너한테 주지. 그래, 나쁘지 않아. 어울려.",
                 "cn": "这朵花，是不是很好看，这是我自己种的。喂，干嘛那么吃惊，我又不是只知道变强的那种战斗疯子，有点爱好也很正常吧。嗯？你也喜欢吗？那送给你。嗯，不错，很衬你。"
@@ -161,7 +161,7 @@
                 "cn": "闲置"
             },
             "text": {
-                "en": "Doctor, I picked a flower and... huh? Fell asleep? Heh, you're real laid-back. The flower... I'll just put it on your head. Yeah, that looks pretty good.",
+                "en": "Doctor, I picked a flower and... You're asleep? Aren't you lazy? I'll just put this flower on your head. Mm, looks pretty good.",
                 "jp": "ドクター、花を摘んできた……なんだ、居眠りか？まったく、呑気な奴だ。ではこの花は……頭に乗せておこう。ふむ、悪くないな。",
                 "kr": "박사, 꽃을 따 왔…… 뭐야, 자는 거야? 정말이지, 태평한 녀석이군. 그럼 이 꽃은…… 머리 위에 올려둬야지. 흠, 나쁘지 않네.",
                 "cn": "博士，我摘了点花来......嗯？睡了？哼，真是个悠闲的家伙，这花......就放头上吧，嗯，还挺好看的。"
@@ -193,7 +193,7 @@
                 "cn": "观看作战记录"
             },
             "text": {
-                "en": "Not bad. This technique's not bad! Doctor, I wanna challenge them! Where can I find where this warrior is?",
+                "en": "Not bad. Very nice move. Doctor, I want to challenge this warrior! Where can I find him?",
                 "jp": "悪くない、この技、悪くないぞ！ドクター、こいつに挑戦させてくれ！どこに行けばこの戦士に会えるのだ？",
                 "kr": "나쁘지 않아. 이 기술, 괜찮은데! 박사, 이 녀석한테 도전하게 해줘! 어디로 가야 이 전사와 만날 수 있지?",
                 "cn": "不错，这招不错！博士，我想挑战这人！在哪里能找到这上面的这位战士？"
@@ -209,7 +209,7 @@
                 "cn": "精英化晋升1"
             },
             "text": {
-                "en": "Promotion? Sure, do whatever you want. Anyway, I can keep fighting like I was already, right?",
+                "en": "Promotion? Sure, do whatever you want, but I can keep fighting like I was already, right?",
                 "jp": "昇進？わかった、お前の好きなようにすればいい。とにかく、私はこれまで通りに戦えばいいのだろう？",
                 "kr": "승진? 알았다. 네 마음대로 해. 어쨌든 난 예전처럼 계속 싸우면 되는 거지?",
                 "cn": "晋升？行，你决定就好。总之，我还是像之前一样战斗就行了吧？"
@@ -225,7 +225,7 @@
                 "cn": "精英化晋升2"
             },
             "text": {
-                "en": "Doctor, you. You've been thinking too much. Any enemies, we can hit them away with our fists! C'mon. Relax a little. You need to loosen up when it's time to take a rest. Wanna come over here and lie down with me?",
+                "en": "Doctor, you. You've been thinking too much. Any enemies, we can hit them away with our fists! Come. Relax a little. You need to loosen up when it's time to take a rest. Do you want to come over here and lie down with me?",
                 "jp": "ドクター、お前はな、あれこれ考えすぎなんだ。敵がいれば拳で打ちのめせばいいだろう！ほら、休む時くらいそんな固くなるな、リラックスしてみたらどうだ。こっちで一緒に横になるか？",
                 "kr": "박사. 너 말이야, 늘 이것저것 생각이 너무 많아. 적이 있으면 주먹으로 때려눕히면 되는 거라고! 자, 쉴 때마저 그렇게 굳어 있을 필요 있어? 긴장 좀 풀고, 이쪽에 같이 눕던가.",
                 "cn": "博士你啊，就是想得太多了，有什么敌人我们靠拳头打过去不就行了！来，放松点，该休息的时候就别那么紧绷，要过来一起躺着吗。"
@@ -273,7 +273,7 @@
                 "cn": "行动出发"
             },
             "text": {
-                "en": "We're going. Each of you, watch your cover. Don't leave any signs.",
+                "en": "We're going. Each of you, watch your cover. Don't leave any tracks.",
                 "jp": "出発だ、各自カバーし合うように。痕跡は残すな。",
                 "kr": "출발이다. 모두 엄호에 주의하도록. 흔적을 남기지 마라.",
                 "cn": "出发，各自注意掩护，别留下痕迹。"
@@ -289,7 +289,7 @@
                 "cn": "行动开始"
             },
             "text": {
-                "en": "Here comes the prey.",
+                "en": "Here comes the prey!",
                 "jp": "獲物が来るぞ。",
                 "kr": "사냥감이 온다!",
                 "cn": "猎物上门了。"
@@ -305,7 +305,7 @@
                 "cn": "选中干员1"
             },
             "text": {
-                "en": "On it.",
+                "en": "Let's do this.",
                 "jp": "行くぞ。",
                 "kr": "간다!",
                 "cn": "上了。"
@@ -321,7 +321,7 @@
                 "cn": "选中干员2"
             },
             "text": {
-                "en": "Sure.",
+                "en": "Got it.",
                 "jp": "わかった。",
                 "kr": "알았어.",
                 "cn": "行。"
@@ -353,7 +353,7 @@
                 "cn": "部署2"
             },
             "text": {
-                "en": "Wanna come one by one? Or all at once?",
+                "en": "Will you come one by one? Or all at once?",
                 "jp": "お前たち、一人ずつ来るか？それともまとめてかかるか？",
                 "kr": "너네, 한 명씩 올 거야 아니면 한꺼번에 덤빌 거야?",
                 "cn": "你们，挨个来还是一起上？"
@@ -369,7 +369,7 @@
                 "cn": "作战中1"
             },
             "text": {
-                "en": "Heh. Fine by me!",
+                "en": "Heh. I've been waiting!",
                 "jp": "フンッ、丁度いい！",
                 "kr": "흥, 딱 좋군!",
                 "cn": "哼，来得好！"
@@ -385,7 +385,7 @@
                 "cn": "作战中2"
             },
             "text": {
-                "en": "How's this fist for you!",
+                "en": "Taste my fist!",
                 "jp": "この拳はどうだ！",
                 "kr": "이 주먹은 어떠냐!",
                 "cn": "这拳如何！"
@@ -401,7 +401,7 @@
                 "cn": "作战中3"
             },
             "text": {
-                "en": "The look in all your eyes. Screw that.",
+                "en": "That look in your eyes, it disgusts me.",
                 "jp": "お前たちの目つき、虫が好かん。",
                 "kr": "너희 그 눈빛, 거슬려.",
                 "cn": "你们的眼神，很讨厌。"
@@ -449,7 +449,7 @@
                 "cn": "3星结束行动"
             },
             "text": {
-                "en": "Good job. Didn't know it. You've got something going up there.",
+                "en": "Good job. Didn't know it, but you really are skilled.",
                 "jp": "よくやった。まさかお前がこれほどできるとはな。",
                 "kr": "잘했다. 네가 이만큼이나 해낼 줄은 몰랐는데.",
                 "cn": "干得不错。看不出来，你还挺有一套的。"
@@ -465,7 +465,7 @@
                 "cn": "非3星结束行动"
             },
             "text": {
-                "en": "Tch. If the small fry wanna escape, let 'em. They're not worth chasing.",
+                "en": "Tch. Just some weaklings. Let them go. They're not worth chasing.",
                 "jp": "チッ、あんな小者、逃げるなら逃しておけばいい。追う必要はない。",
                 "kr": "칫. 저런 잔챙이 따위, 도망치는 것들은 도망치게 내버려 둬. 쫓을 필요 없어.",
                 "cn": "呿，那种小喽啰，逃了就逃了吧，没必要追。"
@@ -481,7 +481,7 @@
                 "cn": "行动失败"
             },
             "text": {
-                "en": "Don't blame yourself. I'm just still not strong enough.",
+                "en": "Don't blame yourself. It's my fault. I'm still not strong enough.",
                 "jp": "自分を責めるな、私が弱かったんだ。",
                 "kr": "자책하지 마. 내가 약했던 거다.",
                 "cn": "别自责，是我还不够强。"
@@ -513,7 +513,7 @@
                 "cn": "戳一下"
             },
             "text": {
-                "en": "Guh!",
+                "en": "Uwah!",
                 "jp": "おっと！",
                 "kr": "어엇?!",
                 "cn": "呃！"
@@ -561,7 +561,7 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "TBU",
+                "en": "So much food and so many presents... Say, how about ringing in the New Year with a nice boxing match? It would be hard on Medical? How come? They've got Gavial.",
                 "jp": "食べ物も、プレゼントもたくさんあるな……ここで新年の祝いに、ボクシング大会で盛り上げようじゃないか！そんなことしたら医療部が大変になる、だと？バカ言うな、ガヴィルがいるだろ。",
                 "kr": "먹을 것도, 선물도 엄청 많잖아…… 격투 대회라도 열어서 활기찬 새해를 맞이하는 건 어때? 그럼 의료부 부담이 너무 클 거라고? 그럴 리가 없잖아. 의료부엔 가비알이 있잖아!",
                 "cn": "好多吃的，还有好多礼物......那为什么不办一场热闹的拳击赛来庆祝新年呢？医疗部会有很大压力？怎么可能，不是有嘉维尔在吗？"
@@ -593,7 +593,7 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "TBU",
+                "en": "I used to be determined to beat anyone who looked down on me. It wasn't until I came to Rhodes Island that I found there were a lot more ways to prove myself. Say, finishing a mission, helping others... Yeah, I learned a lot of new things here.",
                 "jp": "昔、私を見下すデカブツは全員ぶっ倒すと決めたんだ。でもロドスに来てから、自分を証明する方法は他にもたくさんあると気づいた。例えば、任務をこなしたり、人を助けたり……ああ、新しいことをたくさん覚えたな。",
                 "kr": "예전에, 날 깔보는 덩치만 큰 녀석들은 내 주먹으로 다 뭉개버리리라 다짐했었어. 근데 로도스 아일랜드에 오고 나서 깨달은 게 있지. 나 자신을 증명할 방법은 주먹뿐만이 아니라는 걸 말이야. 임무를 수행하고, 다른 사람을 돕는 것…… 그래 맞아, 여기서 정말 많은 걸 배웠어.",
                 "cn": "我以前下定决心，要把每个瞧不起我的大块头都揍趴下。来到罗德岛才发现，原来证明自己的办法还有很多。比如完成任务，帮助别人......嗯，我学到了很多新东西。"
@@ -602,6 +602,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Akira Lee Watanabe",
+            "global": "Akira Lee Watanabe"
+        },
         "cn": {
             "native": "侯小菲",
             "global": "Fifi"
@@ -616,6 +620,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

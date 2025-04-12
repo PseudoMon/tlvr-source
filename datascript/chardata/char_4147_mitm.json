@@ -17,7 +17,7 @@
                 "cn": "任命助理"
             },
             "text": {
-                "en": "More work? I thought I was here on vacation. Well, I suppose I could help with organizing a few files. How does overtime pay work here?",
+                "en": "Whaa? More work? But I came to Rhodes Island for a good holiday... Alright, if it's simply sorting files, I'm OK with that, I guess. But tell me, Doctor, what's my per diem?",
                 "jp": "ここでも働くのかよ。俺、のんびりする気満々でロドスに来たんだけどなぁ。資料の整理くらいならやらなくもないけど……で、ここの残業手当っていくらくらいもらえんの？",
                 "kr": "여기서도 일해야 하는 거야? 난 좀 쉬어볼까 하고 로도스 아일랜드에 온 건데…… 뭐 그냥 자료 정리 정도라면 괜찮긴 하지만…… 그래서 여기 야근 수당은 어떻게 계산한다고 했더라?",
                 "cn": "怎么还要干活？我这趟来罗德岛可是打算好好休个假的。只是整理资料的话倒也不是不行，这边的加班津贴是怎么算的来着？"
@@ -33,7 +33,7 @@
                 "cn": "交谈1"
             },
             "text": {
-                "en": "The report you wanted is on the desk. Just one page. It's not there's anything new going on in Kazdel. What did you expect to learn, which way the Temple of Knowledge's doors open? Come on, I'm just a mole in the slums. Well, intelligence officer, in your terminology.",
+                "en": "The report you wanted's on your desk. Yeah, just one page. Not like we get something new in Kazdel every day. I mean C'mon, What else do you wanna know? How to pick the gate of the Temple of Knowledge? Cut me some slack, will ya? I'm just a slum snitch. Oh, right, you people here prefer <i>intelligence agent.</i>",
                 "jp": "言われた報告書、机に置いてくぜ。ああそうだよ、一枚だけ。カズデルにニュースなんてそう頻繁に起こらないだろ。何が知りたいっていうの？知識の殿堂の入り口がどこにあるかとか？へぇ、勘弁してくれよ、俺はただのスラムの下っ端とば口で――えと、あんたらんとこでいう諜報員ってやつな。",
                 "kr": "네가 말한 보고서는 책상 위에 올려 뒀어. 그래 맞아, 그냥 한 장이야. 카즈델에 새로운 소식이 있어봤자 얼마나 있겠어. 뭐가 알고 싶은 건데? 지식 전당의 입구가 어디에 있냐고? 난 그냥 슬럼가의 하급 수문에 불과하다고…… 어, 그러니까 너희 말로는 정보원 말이야.",
                 "cn": "你要的报告我放桌上了。对，只有一页，卡兹戴尔哪有那么多新鲜事。你还想了解些什么，比如知识圣殿的大门朝哪儿开？别难为我呀，我只是个贫民区的低级闸口，哦，按你们这儿的说法叫情报员。"
@@ -49,7 +49,7 @@
                 "cn": "交谈2"
             },
             "text": {
-                "en": "Our rules don't work quite the same as Rhodes Island, and we don't have them written down in black and white—paper is expensive, and it's not like most people can read. Nobody calls me Advisor outside the district. You can call me that if you want, but don't expect me to solve your troubles.",
+                "en": "Our rules are different from the ones you have at Rhodes Island. Also, they're not spelled out in black and white. Cuz' paper's pricey, and only a few can read. Plus each neighbourhood's got their own rules, so no one outside those blocks calls me 'consultant'. You can if you want, just don't expect me to get all tangled up in your mess.",
                 "jp": "俺らんとこのルールはロドスのとは訳が違うし、わざわざ明文化して貼り出すようなこともしない――スラムには字が読める奴なんて殆どいないし、何より紙代が勿体なすぎるからな。街から少しでも離れればもう誰も俺を「顧問」なんて呼ばないさ。あんたがそう呼びたいんなら好きにしていいけど、そっちの面倒事に巻き込まれるのは御免だぞ。",
                 "kr": "우리 쪽과 로도스 아일랜드의 규칙은 많이 달라. 게다가 그 규칙들을 이렇게 너희처럼 종이에 써서 붙여 두지도 않지…… 종잇값도 아까운 데다, 슬럼가에는 글을 읽을 줄 아는 사람도 거의 없으니까. 그 거리를 벗어난 이상 날 '고문'이라고 부르는 사람은 없을 거야. 물론 네가 날 그렇게 부르고 싶다면 마음대로 해, 상관없어. 하지만 그쪽의 귀찮은 일에 말려드는 건 사양할게.",
                 "cn": "我们那儿的规矩和罗德岛的不太一样，也不会白纸黑字地贴出来——毕竟纸张很贵，识字的更没几个。出了那几个街区，就没人再叫我“顾问”。你愿意这么喊也行，但可别指望我掺和你的麻烦事。"
@@ -65,7 +65,7 @@
                 "cn": "交谈3"
             },
             "text": {
-                "en": "The bandages on my fingers? It's just for show. Taught a few hoodlums a lesson at the market a few days ago, and the veggie stall owner gave me a few leeks because he saw my bandages and thought I got hurt. What? The blood's seeping through? Oh, er, just beet juice.",
+                "en": "The bandages on my digits? Just for style. Funny story, a few days ago I taught a bunch of nitpicking punks a lesson at the market. A vendor saw these bandages and thought I got hurt in the scuffle, so he gave me a few more green onions as a thank-you gift. Hmm? There's blood seeping out? No worries, that's just beetroot juice.",
                 "jp": "指の包帯？あー、そういうファッションなんだよ。そういやこの間、市場でイチャモンつけてたチンピラどもをしばいてやった時、八百屋の旦那もこれを見てケガだって勘違いして、どうしてもネギを差し入れたいと言って聞かなくってさ。ん？まだ血が出てるって？コホン、ビーツの汁だろ。",
                 "kr": "손가락에 감은 붕대? 이건 그냥 장식이야. 그러고 보니 재미있는 일이 있었는데, 얼마 전에 시장에서 시비 걸고 다니는 깡패들을 혼내준 적이 있었단 말이야. 근데 야채 가게 사장이 이 붕대를 보더니 내가 다친 줄 알고 파 몇 단을 더 주더라니까. 응? 또 피가 새어나온다고? 크흠, 이건 비트즙이야.",
                 "cn": "手指上的绷带？装饰而已。说来有趣，前几天在集市上教训了一群找茬的小混混，菜摊老板看见绷带，还以为我受了伤，非得多送我几根葱。嗯？什么，又渗血了？咳，甜菜汁罢了。"
@@ -81,7 +81,7 @@
                 "cn": "晋升后交谈1"
             },
             "text": {
-                "en": "Rye bread is 'bricks'. Coats are 'wallskin'. Sausage? That's just sausage. Why? Would you give a nickname to something that you only get to eat once every three or four years? That's basically the gist of Kazdel street slang. Take a walk around the construction sites, and you've heard just about everything.",
+                "en": "We call brown bread 'soft brick' and coats 'plaster'… What about sausages? What about 'em? Just sausages. Why? I mean, why give something you only get to eat once every few years a moniker? There's not much to the Kazdelian street slang, really. Just hang around a local construction site and you'll learn everything you need to know.",
                 "jp": "黒パンは「レンガ」、ロングコートは「カベ」、ソーセージ？ソーセージはまんまソーセージだ。何でかって？三、四年に一回お目にかかれたら上出来なもんに別名なんてつけるかよ。ま、カズデルの巷に伝わる隠語なんてこんくらいのもんだ。工事現場にでも行って適当にふらつけば、大抵耳に入るさ。",
                 "kr": "검은 빵은 '벽돌', 코트는 '벽면', 소시지? 소시지는 그냥 소시지지. 왜냐고? 3, 4년에 한 번 먹을까 말까 한 물건에 별명을 붙일 리가 없잖아. 카즈델에서 쓰이는 길바닥 은어도 끽해봤자 이 정도야. 뭐 공사장 같은 데라도 가서 몇 바퀴 돌면 대충 알아들을 수 있을 거야.",
                 "cn": "黑面包叫“烂砖”，大衣叫“墙皮”，香肠？香肠就叫香肠啊。为什么？你会给三四年才吃得上一回的东西起绰号吗？卡兹戴尔的街头黑话其实也就那么回事，你去工地上转一圈，就什么都能见着了。"
@@ -97,7 +97,7 @@
                 "cn": "晋升后交谈2"
             },
             "text": {
-                "en": "I can't believe you don't get fight every day here on Rhodes Island, with so many people around. At Kazdel, people can get into fights over whether a valve should be turned a full circle or a half circle. You have no idea how hard it is to talk down a few dozen people all holding pitchforks and hoes. I was the last one to leave because my legs were shaking so badly they couldn't move.",
+                "en": "With how crowded Rhodes Island is, I'm surprised you don't have full-on fights on your hands. In Kazdel, people trade blows over just about anything, like if a valve should be turned once or twice. Sounds stupid, right? But when I tried to calm them down, I had to defuse a fight with dozens of pitchforks and shovels in my face. By the time I did, my legs were so wobbly I could barely walk home.",
                 "jp": "ロドスにはこんなに大勢の人が集まってんのに、よく喧嘩にならないな。俺らんとこじゃ、バルブの捻り方ひとつで殴り合いになるぜ？あん時は数十ものレーキやら鋤に囲まれながら、なんとか説得して帰らせたもんだ。俺だけ最後まで残ってたけど、ありゃ腰が抜けて動けなかったんだよな。",
                 "kr": "로도스 아일랜드에는 이렇게 다양하고 많은 사람들이 모여있는데, 보면 별로 싸우는 거 같지도 않더라? 우리 거긴 밸브를 반 바퀴 돌리니 한 바퀴 돌리니 이런 걸로도 툭하면 싸우곤 했었는데. 뭐 그땐 내가 수십 개의 갈퀴와 호미에 둘러싸인 채로 어떻게든 설득해서 잘 돌려보냈지만. 근데 있지, 그때 나 거기에 한참 있었어, 다 가고 조용해질 때까지. 다리에 힘이 풀려서 움직일 수가 없었거든.",
                 "cn": "罗德岛上这么多人，居然没有天天吵架？在我们那儿，为了管道阀门转半圈还是一圈都能打起来，那次我被几十把草叉和锄头指着头，硬是把他们都劝回去了。我留到最后才走，实在是腿软了走不动。"
@@ -113,7 +113,7 @@
                 "cn": "信赖提升后交谈1"
             },
             "text": {
-                "en": "Want some sugar? I always carry a few lumps with me when I go out, and throw them at any kids trying to waylay me. If anyone of them reaches for it, they get set upon by the rest of the gang, and then nobody's paying attention to me. What do you mean, tactics? Just telling a little story, that's all.",
+                "en": "Want a candy? I always bring a few when I go out in case I run into street brats. When they block you for stuff, just throw one out, and they'll try to beat up the kid who grabbed it, leaving me alone to go on my merry way. Is this strategy talk? Nah, just sharing an anecdote is all.",
                 "jp": "飴いる？俺、出かける時はいつも飴をポケットに忍ばせておくんだ。道を塞ぐガキんちょがいたらこれをばっと撒けばいい。そうすりゃ俺のことなんかもう目になくて、みんなして一番先に飴に手を伸ばそうとした奴にかぶりつくからな。戦術？違う違う考え過ぎ、ただの笑い話だよ。",
                 "kr": "사탕 먹을래? 아~ 난 외출할 때마다 사탕을 주머니에 넣고 다니거든. 길 막는 꼬맹이들이 있다 그럼 이걸 확 뿌리면 게임 끝. 그러면 내가 앞에 있든 도망가든, 제일 먼저 사탕을 손에 넣은 애한테로 달려들곤 해. 전술? 이런 걸로 무슨, 그냥 애들 장난에 불과하지. 너무 과하게 생각하진 말라고.",
                 "cn": "要吃颗糖吗？我出门总会带些糖块，以防遇到拦路的小鬼。扔出一把糖块，哪个小孩敢第一个伸手去捡，剩下的便顾不上我，转头就去揍那个先伸手的。什么战术不战术的？讲点趣事而已，你想多了。"
@@ -129,7 +129,7 @@
                 "cn": "信赖提升后交谈2"
             },
             "text": {
-                "en": "You don't want all these coupon? Well, don't throw them away, I've almost gotten enough to get a free barbecue dinner. Nope, no mistake at all, it just says the coupons can't be used together. I'll just pay after each plate. Is there a problem? Hey, don't tell Closure! I've got a 50% off coupon for two here. How about we go together?",
+                "en": "Yo, you still need those coupons? Let me have 'em if you're gonna throw them out, I'm so close to getting a free BBQ. Nope, I read the rules, what they say is 'Only one coupon per purchase'. So it's fine if I settle the bill after each free dish... Tell you what, I also have a 50% off coupon for two, so if you don't tell Closure my plan, I'll take you for some roast beast tonight.",
                 "jp": "そのクーポン券、もういらない？捨てるんなら俺にくれよ、タダ焼肉まであとちょっとなんだ。いや間違いないね、注意書きには一度のお会計で一枚までとだけあるから、一皿ごとに会計すれば問題ないだろ？おい、クロージャにチクるなよ！あ、そうだ、俺半額ペア券も持ってるから、今夜一緒にどう？",
                 "kr": "그 쿠폰 이제 필요 없어? 아 버릴 거면 나 줘. 이럼 공짜 고기 한 끼 제대로 먹을 수 있겠는데. 아니, 분명 쓸 수 있어. 사용 규정에 한 번에 한 장만 쓸 수 있다고 했으니까, 한 접시 먹을 때마다 계산하면 문제없잖아, 안 그래? 잠깐, 클로저한테 말하면 안 된다! 그, 나한테 2인 반값 쿠폰이 있는데, 이따 밤에 같이 갈래?",
                 "cn": "这些优惠券你都不要了？别扔啊，我快凑够一顿免费烤肉了。绝对没弄错，规定只说不能单次叠加使用，我吃一盘结一次账，有问题吗？喂，别告诉可露希尔！我这里还有张双人半价券，今晚一起？"
@@ -145,7 +145,7 @@
                 "cn": "信赖提升后交谈3"
             },
             "text": {
-                "en": "Looks like budget for next season got a bump? I'm not an information dealer, but I do agree with one of their rules: Valuable information for valuable people only. The reason I don't waste your time with small stuff isn't just because you pay well.",
+                "en": "Seems like there's more budget for next season's operation? I'm not a real intelligence dealer, but I agree with one of their rules: Valuable info for valuable clients. I never waste your time with worthless trivia, and it's not just on account of your good prices.",
                 "jp": "来期から任務中で使える予算がちょっとばかし増えたみたいだな。俺は情報屋じゃないが、奴らの掟の一つには共感してる――価値ある情報は、価値のある人間にだけ渡せってね。俺がしょうもないことであんたの時間を取ったりしないのは、ただ単にいい給料で雇ってくれてるからじゃないんだぜ。",
                 "kr": "흠, 다음 분기 작전 예산이 조금 늘어난 것 같은데? 내가 정보상은 아니지만, 그래도 그쪽 규칙 중 한 가지 공감하는 게 있어. 가치 있는 정보는 가치 있는 사람에게 줄 것. 내가 쓸데없는 일로 네 시간을 뺏지 않는 건, 단순히 네가 많은 월급을 주고 날 고용해 줘서가 아니야.",
                 "cn": "下季度的行动预算好像又多了一些？我不是情报贩子，但我同意他们的一条行规：有价值的消息只留给有价值的人。我从来不拿芝麻绿豆的小事来浪费你的时间，可并不只是因为你开的价钱高。"
@@ -161,7 +161,7 @@
                 "cn": "闲置"
             },
             "text": {
-                "en": "Well, you go about your work, I'm taking a break.",
+                "en": "Keep up the good work, Doctor. I need a nap.",
                 "jp": "仕事を先に進めててくれ、俺はひと息ついてくるよ。",
                 "kr": "하던 일 계속해, 난 잠깐 쉬다 올게.",
                 "cn": "你先忙着，我要歇一会儿了。"
@@ -177,7 +177,7 @@
                 "cn": "干员报到"
             },
             "text": {
-                "en": "Here's my recommendation letter. It's been checked by HR. One moment... pardon me. Too many pockets, it gets really confusing.",
+                "en": "Hey, wassup, here's my recommendation letter, HR already checked it. Wrong one? Give me a sec… uh, no… no… Oh, coupon... Ah, here it is. Sorry about that. Too many pockets on this plaster, hard to keep track of where I keep my things.",
                 "jp": "俺の紹介状ね、もう人事部の確認済みなんだけど、ちょっと待ってくれ――あったあった。悪りぃ、このコートポケットが多くてさ、ごっちゃになるんだ。",
                 "kr": "이건 내 소개서야. 인사부에서 이미 확인은 했는데, 어디 보자, 잠깐만…… 여깄다. 실례실례, 코트에 주머니가 좀 많아서 찾기가 쉽지 않네.",
                 "cn": "这是我的介绍信，人事部已经核验过了，稍等——找到了。请见谅，这身衣服口袋太多，容易弄混。"
@@ -193,7 +193,7 @@
                 "cn": "观看作战记录"
             },
             "text": {
-                "en": "Much more interesting than watching two hoodlums fight.",
+                "en": "Way more entertaining than watching random street fights.",
                 "jp": "チンピラどもの喧嘩よりよっぽど面白いなこりゃ。",
                 "kr": "깡패들 싸움보다는 훨씬 재밌네.",
                 "cn": "这可比看小混混打架有意思多了。"
@@ -209,7 +209,7 @@
                 "cn": "精英化晋升1"
             },
             "text": {
-                "en": "Your recognition is more precious than any medal, Doctor. Is this pure gold, by the way? I tried biting it, and it's harder than I thought.",
+                "en": "Your recognition is worth more than this medal, Doctor. By the by, is this pure gold? Kinda hard, to the bite.",
                 "jp": "この勲章より、ドクターからの評価の方がずっと価値あるぜ。ところで、こいつって純金で間違いないよな？歯ごたえがちょっと硬い気がするつうか……",
                 "kr": "이 훈장보다 박사의 인정이 더 값지다고 생각해. 그나저나 그냥 궁금해서 묻는 건데 이거 순금 맞아? 물었을 때 조금 딱딱해서.",
                 "cn": "您的认可比这枚勋章更贵重，博士。顺便一问，这是纯赤金的吗？咬着有点硬啊。"
@@ -225,7 +225,7 @@
                 "cn": "精英化晋升2"
             },
             "text": {
-                "en": "Sure, I put my head on the line for you guys, but you don't really want me to lose it, do you? Best that we both keep on living, until the day we've done all that we need to.",
+                "en": "Seems to me I've really sold my soul to Rhodes Island, but I'm sure you wouldn't want me to throw my life away so easily. If you ask me, we should live life to the fullest until we finish off everything we've gotta do.",
                 "jp": "ここまで来ると、もう正真正銘ロドスのために命張ってる感あるねぇ。けどマジで命を落としてきてほしいとは思わねぇだろ？お互い命は大事にしようぜ。やりたいことを成し遂げる日まで生き抜いてこそだと思うんだよね、俺は。",
                 "kr": "여기까지 오니까 내가 정말 로도스 아일랜드를 위해 목숨을 걸고 있다는 느낌이 들어. 하지만 정말 우리가 목숨까지 거는 걸 바라는 건 아니잖아, 그렇지? 목숨은 소중히 여기자고. 하고 싶은 일을 정말로 이루는 그날까지. 잘 살아남자, 우리.",
                 "cn": "这么看，我现在可是正儿八经地给罗德岛卖命了。但你也肯定不希望我真的豁出命去。要我说呀，咱们都好好活着，一直活到把自己的事情做完的那一天。"
@@ -241,7 +241,7 @@
                 "cn": "编入队伍"
             },
             "text": {
-                "en": "And I thought I was going to get a few days off... well, don't worry, I never let you down, do I?",
+                "en": "No… My sweet, sweet vacation… But seriously though, I got you. When have I ever dropped the ball before?",
                 "jp": "あーあせっかくの休みが……はいはい心配すんな。こんな時にヘマをやらかす俺じゃないさ。",
                 "kr": "간만에 며칠 쉬나 했더니…… 알겠어, 좋아. 걱정하지 마. 내가 언제 뭐 실수하는 거 봤어?",
                 "cn": "好不容易休息几天......好啦，放心，我什么时候掉过链子？"
@@ -257,7 +257,7 @@
                 "cn": "任命队长"
             },
             "text": {
-                "en": "This is a big responsibility, guys. I'm counting on you.",
+                "en": "Now, ain't these big shoes to fill? Stay sharp everyone, and give me your a hundred and ten percent.",
                 "jp": "こいつは責任重大だな。皆々様、どうぞお手柔らかに。",
                 "kr": "책임감이 막중하네. 모두 잘 부탁해.",
                 "cn": "责任重大呀，各位，还请多多担待。"
@@ -273,7 +273,7 @@
                 "cn": "行动出发"
             },
             "text": {
-                "en": "Here's the battle plan. If there's anything you don't understand, figure it out yourself.",
+                "en": "Here's the battle plan, if you got any questions... Figure them out yourself.",
                 "jp": "それでは作戦計画書を配布する。不明な箇所は……自分でなんとかしてくれ。",
                 "kr": "이제 작전 계획서를 나눠 줄 거거든? 이해 안 되는 부분은…… 각자 알아서 잘 이해해 봐.",
                 "cn": "现在分发作战计划，有不懂的自己琢磨。"
@@ -289,7 +289,7 @@
                 "cn": "行动开始"
             },
             "text": {
-                "en": "No need for warnings. Hit them fast and hard, don't give them a chance to react.",
+                "en": "Don't warn 'em, just hit 'em. Don't give them a chance to react.",
                 "jp": "警告する必要はない、直接かかれ。反応する隙を与えるなよ。",
                 "kr": "경고할 필요가 뭐 있어, 바로 해 버려야지. 쟤들한텐 반응할 틈조차 주면 안 돼.",
                 "cn": "无需示警，直接动手。别给他们反应的机会。"
@@ -305,7 +305,7 @@
                 "cn": "选中干员1"
             },
             "text": {
-                "en": "Let's go.",
+                "en": "Alright, let's go.",
                 "jp": "そんじゃ、行きますか。",
                 "kr": "자, 그럼 가 볼까.",
                 "cn": "走了走了。"
@@ -321,7 +321,7 @@
                 "cn": "选中干员2"
             },
             "text": {
-                "en": "My turn already?",
+                "en": "My turn now?",
                 "jp": "もう俺の番？",
                 "kr": "벌써 내 차례야?",
                 "cn": "这就到我了？"
@@ -337,7 +337,7 @@
                 "cn": "部署1"
             },
             "text": {
-                "en": "It's a complicated situation. This place offers a good view.",
+                "en": "What a mess, but the view's perfect.",
                 "jp": "入り組んだ状況だ。ここからの方がよく見渡せる。",
                 "kr": "형세가 복잡하네. 여기 시야가 딱이다.",
                 "cn": "局势复杂，这儿视野正好。"
@@ -353,7 +353,7 @@
                 "cn": "部署2"
             },
             "text": {
-                "en": "No extra pay for tough-than-expected enemies?",
+                "en": "Oww… this is tricky, gonna cost you more. How about double the pay?",
                 "jp": "手強そうな相手だ。給料を二倍にしてもらわねぇとな？",
                 "kr": "만만치 않아 보이는데. 이 정도면 월급을 두 배는 줘야 하지 않을까?",
                 "cn": "点子扎手，是不是得发双倍工资？"
@@ -369,7 +369,7 @@
                 "cn": "作战中1"
             },
             "text": {
-                "en": "I don't need to explain things to you.",
+                "en": "I don't owe you an explanation.",
                 "jp": "あんたに説明する道理はない。",
                 "kr": "너한테 설명할 필요는 없지.",
                 "cn": "我不需要向你解释。"
@@ -385,7 +385,7 @@
                 "cn": "作战中2"
             },
             "text": {
-                "en": "You think you've got the time to chat?",
+                "en": "Still feel like yapping?",
                 "jp": "お喋りしてる余裕なんかあんの？",
                 "kr": "어쭈, 어디 떠들 여유가 있나 보네?",
                 "cn": "还有心思闲聊吗？"
@@ -401,7 +401,7 @@
                 "cn": "作战中3"
             },
             "text": {
-                "en": "Sorry, not taking any prisoners.",
+                "en": "Oh I'm sorry, now you wanna surrender?",
                 "jp": "悪いね、降伏は受け付けないよ。",
                 "kr": "이거 미안해서 어쩌나, 항복은 받지 않아.",
                 "cn": "抱歉，现在不接受投降。"
@@ -417,7 +417,7 @@
                 "cn": "作战中4"
             },
             "text": {
-                "en": "Getting dizzy? Good.",
+                "en": "Seeing stars now are we? Sounds about right.",
                 "jp": "目が回ったって？それが狙いさ。",
                 "kr": "아주 어질어질하지? 정상이야.",
                 "cn": "晕头转向了吧？这就对了。"
@@ -433,7 +433,7 @@
                 "cn": "完成高难行动"
             },
             "text": {
-                "en": "Wow, that was a close call. One insurance isn't enough if jobs are gonna be that tough.",
+                "en": "Man, that stuff was hairy. If all our missions are gonna be that rough, I'll need extra insurance.",
                 "jp": "危なかったぜ。ここのシノギが全部こんなにハードってんなら、保険の追加購入を考えなくちゃな。",
                 "kr": "이 정도로 위험할 줄은 정말 몰랐는데. 앞으로도 계속 이렇게 힘든 일뿐이라면 보험을 몇 개 더 들어 둬야겠는걸?",
                 "cn": "没想到会这么惊险，以后的活儿要都是这种难度，只买一份保险可不够。"
@@ -449,7 +449,7 @@
                 "cn": "3星结束行动"
             },
             "text": {
-                "en": "Trembling hand, perfectly normal, proof that I gave my all... I said, perfectly normal!",
+                "en": "My hands are shaking? It's totally normal, and proof I gave it a hundred percent... Hey! I said it's normal, alright!",
                 "jp": "手が震えるのは普通の生理現象、全力で頑張った証さ……だから普通の生理現象だって！",
                 "kr": "손이 떨리는 건 정상적인 신체 반응이자, 내가 최선을 다했다는 증거라고…… 그, 그냥 정상적인 반응이라니까!",
                 "cn": "手抖是正常现象，是尽了全力的证明......喂，都说了是正常现象！"
@@ -465,7 +465,7 @@
                 "cn": "非3星结束行动"
             },
             "text": {
-                "en": "Don't worry about chasing them, they won't get far. Let's get rested.",
+                "en": "No need for a blind chase. They won't get far, we should rest and refuel.",
                 "jp": "むやみに追いかける必要はない、どうせ遠くまでは逃げらんないから。まずは態勢を立て直すのに専念しよう。",
                 "kr": "어차피 멀리 못 달아나니까 무리해서 쫓을 필요 없어. 우선 태세 재정비에 집중하자.",
                 "cn": "不必盲目追击，他们逃不远的，咱们先休整休整。"
@@ -481,7 +481,7 @@
                 "cn": "行动失败"
             },
             "text": {
-                "en": "Don't panic, there's a way out here, follow me.",
+                "en": "Stay cool, everyone. Fall back this way!",
                 "jp": "慌てるな、みんな俺の後ろについて来い。こっちに抜け道を用意してある！",
                 "kr": "당황하지 말고 내 뒤를 따라와! 이쪽에 퇴로를 만들어 뒀어!",
                 "cn": "别慌，大伙跟着我走，这边有退路！"
@@ -497,7 +497,7 @@
                 "cn": "进驻设施"
             },
             "text": {
-                "en": "Well, the place is spacious enough. I wonder how the food is like.",
+                "en": "Big place. Wonder how the food tastes.",
                 "jp": "結構広々としてんじゃん。賄いのほうはどうかな？",
                 "kr": "공간은 꽤 넓네, 그나저나 먹을 건 잘 나오나 몰라.",
                 "cn": "地方还算宽敞，不知道伙食怎么样。"
@@ -513,7 +513,7 @@
                 "cn": "戳一下"
             },
             "text": {
-                "en": "Don't prick your finger.",
+                "en": "Careful now, you might prick your fingers.",
                 "jp": "指に気を付けな、刺さるぜ。",
                 "kr": "손가락 찔릴라, 조심해.",
                 "cn": "小心扎到手指哦。"
@@ -529,7 +529,7 @@
                 "cn": "信赖触摸"
             },
             "text": {
-                "en": "Fruit's on sale at half-price, and you can use points to redeem them—shh, don't tell anyone, get them before they're gone.",
+                "en": "Fruit's half off today, you can even buy it with points—ssh! Go get yours quick, and don't tell anyone.",
                 "jp": "今日はフルーツ半額らしいぜ？ポイントでの引き換えもやっててさ――シーッ、言い触らすなよ。ほら、早く買いに行けって。",
                 "kr": "오늘 과일 반값에, 포인트까지 사용할 수 있다고 하니까…… 쉿, 아무한테도 말하지 말고 조용히 가서 사.",
                 "cn": "今天的水果半价，还可以用积分兑换——嘘，别声张，快去买。"
@@ -561,7 +561,7 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "Only ever saw so many lights and decorations at the Sauin parade. The meaning's different, but the impact's the same. No, I'm not going down there. Perfectly happy up here, plus there's the New Year's sale that I've got to queue up for.",
+                "en": "I used to only see so many lanterns and decorations in Sauin parades. They don't carry the same significance, but it's breathtaking all the same. Go down for a closer look? Nah, here's a good spot. New Year's sale's starting soon, and I gotta be first in line.",
                 "jp": "前は、こんなにたくさんの灯りや飾りが見られるのは安魂祭のパレードの時くらいだったな。意味するところは大いに違うが、心揺さぶるのは変わらないね。会場に降りる？いや、俺は遠目で眺めるだけで十分だよ。それにこのあと新年の特売があるから、早めに並びに行かないと。",
                 "kr": "예전엔 서우인 때나 이렇게 많은 등불과 장식을 볼 수 있었는데…… 의미는 많이 다르지만, 마음을 울리는 건 다르지 않네. 같이 내려가자고? 난 됐어. 여기서 바라보는 걸로도 충분해. 게다가 이따가 새해맞이 특별 할인 행사가 있거든, 빨리 가서 줄 서야지.",
                 "cn": "以前，只有在安魂祭礼的游行上，才看得到这么多灯火和装饰，虽然寓意大不相同，但都是一样动人心魄。下去逛逛？不了，我在这里看看就好。等会儿还有新年商品特卖会，我得早点去排队。"
@@ -577,7 +577,7 @@
                 "cn": "问候"
             },
             "text": {
-                "en": "How's your break, Doctor? I still feel a little drowsy.",
+                "en": "Doctor, how was your break? Me, I'm still a little tired...",
                 "jp": "ドクター、ちゃんと休めたかい？俺はちょっと寝足りない感じかな。",
                 "kr": "박사, 잘 쉬었어? 난 아직 좀 졸린 거 같은데.",
                 "cn": "博士，休息得怎么样？我好像还有点困呢。"
@@ -593,7 +593,7 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "All the reports have been filed in accordance with your requirements. I even prepared a farewell statement that you can listen to while revoking access. The information that you were most interested in last year was—what's that, you don't need this? But you were saying that looking back is the only way to make sure we're walking straight.",
+                "en": "Doctor, I've archived these reports as you requested. I even have a closing speech for you while you wipe my access clearances. The info you were most interested in last year was— I can stop? But you told me yesterday we have to keep looking back to stay on the right track.",
                 "jp": "ドクター、要求通りに報告書をまとめて、アーカイブしてきたぞ。別れの挨拶も書いてきたから、アクセス権限の抹消を進めつつ聞いててくれ。昨年であんたが最も興味を持った情報は――ん？もういいのか？昨日あんたが言ってたじゃないか、道を外れないためには常に振り返りをしないとダメだって。",
                 "kr": "박사, 요청대로 보고서는 전부 정리해서 보관해 뒀어. 그리고 작별 인사도 써왔는데, 액세스 권한 말소하면서 들어 줘. 작년에 네가 가장 관심 있어 하던 정보는…… 응? 안 읽어도 된다고? 그렇지만 네가 어제도 그랬잖아, 뒤를 자주 돌아봐야 앞으로 제대로 나아갈 수 있다고.",
                 "cn": "博士，这些报告全部按你的要求归档封存了。我还准备了一篇告别词，你可以一边核销访问权限，一边听着。去年你最感兴趣的情报是——不用读了吗？但你昨天还说，常回头看才能把路走直。"

@@ -17,7 +17,7 @@
                 "cn": "任命助理"
             },
             "text": {
-                "en": "You've failed to complete the tasks within your purview, and are now asking me for help?",
+                "en": "You couldn't even finish the work you're supposed to do, so you're asking me for help?",
                 "jp": "あんた、自分の仕事も全うできないからって、私に助けろっていうの？",
                 "kr": "당신, 자기 일을 다 못하겠으니, 나더러 도우라는 거야?",
                 "cn": "你连自己的分内之事都完成不了，需要我来帮忙？"
@@ -33,7 +33,7 @@
                 "cn": "交谈1"
             },
             "text": {
-                "en": "Don't expect me to instruct others in Originium Arts. I have no interest in wasting time with plebeians.",
+                "en": "Stop sending me to teach people Originium Arts. I have no interest in wasting time with common people.",
                 "jp": "他人の指導役はもうごめんだ。一般人たちと雁首揃えてアーツごっこするなんて興味ない。",
                 "kr": "다른 사람들 지도해주는 건 이제 사양이야. 일반인이랑 머리 맞대고 아츠 놀이하는 데는 관심 없어.",
                 "cn": "不要让我去给其他人做法术指导了，我可没兴趣去跟一群普通人玩源石技艺游戏。"
@@ -49,7 +49,7 @@
                 "cn": "交谈2"
             },
             "text": {
-                "en": "I'm not here because I have to, but because I want to.",
+                "en": "I'm not here because I have to be. Just because I want to be.",
                 "jp": "私がここに留まってるのは必要だからじゃない、そうしたいからだ。",
                 "kr": "내가 여기에 머무르고 있는 건 필요해서가 아니야. 그렇게 하고 싶어서지.",
                 "cn": "我会在这里不是因为我需要在这里，只是因为我想而已。"
@@ -81,7 +81,7 @@
                 "cn": "晋升后交谈1"
             },
             "text": {
-                "en": "It appears that you have gained some understanding of my Arts by now. I do hope you are aware of the danger as well.",
+                "en": "Looks like you understand my Arts now, to some degree. I hope you're aware of the danger as well.",
                 "jp": "私のアーツを少しは理解できたようだな。ならばその危うさも覚えておくといいよ。",
                 "kr": "내 아츠를, 조금은 이해한 모양이네. 그럼 그 위험성도 기억해 두는 게 좋을 거야.",
                 "cn": "看来你已经对我的源石技艺有所了解了，希望你自己也清楚其危险性。"
@@ -97,7 +97,7 @@
                 "cn": "晋升后交谈2"
             },
             "text": {
-                "en": "Before I realized it, these Arts and this staff had already become my steadfast companions. I do not remember when I gained such power. Of course, I do not actually care.",
+                "en": "Before I realized it, these Arts and this staff became my most loyal friends. I don't remember when I gained this power. And of course, I don't actually care.",
                 "jp": "気がつくと、アーツの力もこのアーツユニットも手の中にあった。この力を手に入れた時のことは全く覚えてないが、もちろんそんなこと気にしたこともない。",
                 "kr": "정신을 차리고 보니 아츠의 힘도, 그리고 이 아츠 유닛도, 전부 내 손안에 있었지. 이 힘을 손에 넣었을 때의 일은 전혀 기억에 없어. 물론 애초에 그런 걸 신경 쓴 적도 없긴 하지만.",
                 "cn": "反应过来的时候，源石技艺和这把法杖已经伴随着我了。我一点都不记得什么时候得到了这样的能力，当然我也并不在意。"
@@ -113,7 +113,7 @@
                 "cn": "信赖提升后交谈1"
             },
             "text": {
-                "en": "I possess all kinds of memories. I don't know from whence did they came, nor do I know which truly belong to me. To discover the source of my memories, I have been traveling back and forth, from country to country, and now I have arrived at Rhodes Island.",
+                "en": "I have all kinds of memories. I don't know where they came from, and I don't know which ones are really mine. I've been traveling back and forth, from country to country trying to find the source. And now, here I am at Rhodes Island.",
                 "jp": "私にはいろんな記憶がある。どうやってその記憶を宿したのか、どれが本物の自分の記憶なのか、全然わからない。その記憶の出どころを探し出すために国々を渡り歩いているが、今はロドスに落ち着いたところだ。",
                 "kr": "내겐 여러 기억이 있어. 어떻게 그 기억을 갖고 있는지, 어떤 게 진짜 내 기억인지, 하나도 모르겠더라고. 그 기억의 출처를 찾아내겠다고 여러 나라를 전전하고 있지만, 지금은 로도스 아일랜드에 머물러 있는 거지.",
                 "cn": "我有着各种各样的记忆，我也不知道它们是怎么来的，我也不知道哪些是真正属于我的。为了找到记忆的来源，我一直在各个国家中来回旅行，而现在来到了罗德岛。"
@@ -129,7 +129,7 @@
                 "cn": "信赖提升后交谈2"
             },
             "text": {
-                "en": "There is truly nothing better than an ice-cream to calm me down when I am absorbed in chaotic memories. I always relied on ice-cream, when I was alone.",
+                "en": "When I'm all caught up in chaotic memories, there's nothing better than an ice cream to calm me down. I relied a lot on ice cream, when I was alone.",
                 "jp": "私を混乱する記憶の渦から救い出し落ち着かせてくれるのは、アイスクリームをおいて他にない。これまで一人だった頃は、いつも助けられていた。",
                 "kr": "날, 혼란스러운 기억의 소용돌이 속에서 구해주고, 또 자리를 잡게 해 준 건 아이스크림 말고 없어. 지금까지 혼자 있을 적엔 언제나 도움을 받았지.",
                 "cn": "没有什么比一份冰淇淋更能让我从混乱的记忆中冷静下来了，以前我还是一个人的时候多亏了它们。"
@@ -145,7 +145,7 @@
                 "cn": "信赖提升后交谈3"
             },
             "text": {
-                "en": "These memories of Rhodes Island are completely different from those before. They have a sense of realism about them. For the first time, I'm able to feel that I am truly myself. All of this is thanks to you, and all of Rhodes Island. ...What? I am capable of giving thanks where it is deserved, all right?",
+                "en": "The memories from after I came to Rhodes Island are completely different from the ones before. There's a sense of realism to them. For the first time, I feel like I'm really myself. That's all thanks to you, and the rest of Rhodes Island… What? I <i>am</i> capable of giving thanks where it's deserved, alright?",
                 "jp": "ロドスでの記憶はこれまでと違ってすごくリアルな感じがして、自分が自分であることを初めて実感させてくれた。これも全部あんたやロドスのみんなのおかげだ。……何よ、感謝すべきことは私もちゃんと言うから。",
                 "kr": "로도스 아일랜드에서의 기억은 지금까지랑 다르게 굉장히 진짜 같은 느낌이 들어서, 내가 나란 걸 처음으로 실감하게 해줬어. 이것도, 전부 당신이나 로도스 아일랜드 사람들 덕분이지…… 뭐, 나도 감사해야 할 일은 제대로 말할 줄 알거든?",
                 "cn": "在罗德岛的记忆跟以前的那些完全不同，充满了真实感，第一次让我觉得自己就是自己。这一切也多亏了你和罗德岛的大家。......干嘛，该感谢的时候我还是会感谢的好吧？"
@@ -161,7 +161,7 @@
                 "cn": "闲置"
             },
             "text": {
-                "en": "Tch... what a waste of time.",
+                "en": "Hmph… what a waste of time.",
                 "jp": "チッ、時間の無駄。",
                 "kr": "쳇, 시간 낭비야.",
                 "cn": "啧......浪费时间。"
@@ -177,7 +177,7 @@
                 "cn": "干员报到"
             },
             "text": {
-                "en": "I am Surtr. Are you the Doctor they mentioned? I will be working at Rhodes Island, starting today. I hope that you will not bore me too much.",
+                "en": "I am Surtr. Are you the Doctor they mentioned? I'll be working at Rhodes Island, starting today. I hope you won't bore me too much.",
                 "jp": "私はスルト、あんたが噂のドクター？これからはロドスで働かせてもらうことになってるから、退屈させないで。",
                 "kr": "나는 수르트야, 당신이 소문으로만 듣던 박사인가? 앞으론 로도스 아일랜드에서 일하게 됐으니까, 따분하게 만들지 말라고.",
                 "cn": "我是史尔特尔，你就是他们说的博士吗。今后我会在罗德岛工作，希望你们不要让我觉得无聊。"
@@ -209,7 +209,7 @@
                 "cn": "精英化晋升1"
             },
             "text": {
-                "en": "Have you started to value me after witnessing my power?",
+                "en": "What? You're starting to value me now that you know my power?",
                 "jp": "私の実力を見て、やっと大事にしようって思い始めたわけ？",
                 "kr": "내 실력을 보고, 드디어 소중히 여겨야겠다 생각하기 시작한 거야?",
                 "cn": "见识过我的实力之后，开始重视我了？"
@@ -225,7 +225,7 @@
                 "cn": "精英化晋升2"
             },
             "text": {
-                "en": "You value not my power, but me myself? Then I shall put in the appropriate level of effort to repay you.",
+                "en": "So it's not my power, but me myself? Hmph, you leave me no choice but to pay it back with hard work.",
                 "jp": "力ではなく私自身を評価してるから？そうか。そこまで言うなら、こちらも相応の努力で応えよう。",
                 "kr": "힘이 아니라, 날 높게 사고 있어서라고? 그래, 그렇게까지 말한다면, 이쪽도 상응하는 노력으로 보답하지.",
                 "cn": "看重的不是这能力，而是我本身？既然你都这样说了，那我也拿出相应的努力来回报你吧。"
@@ -241,7 +241,7 @@
                 "cn": "编入队伍"
             },
             "text": {
-                "en": "Am I needed now?",
+                "en": "Am I needed?",
                 "jp": "私が必要か。",
                 "kr": "내가 필요한가?",
                 "cn": "需要我了吗。"
@@ -273,7 +273,7 @@
                 "cn": "行动出发"
             },
             "text": {
-                "en": "Let's go.",
+                "en": "Time to go.",
                 "jp": "出発だ。",
                 "kr": "출발이다.",
                 "cn": "出发了。"
@@ -289,7 +289,7 @@
                 "cn": "行动开始"
             },
             "text": {
-                "en": "Are they the ones to be eliminated?",
+                "en": "Are they the ones I'm eliminating?",
                 "jp": "奴らが今回の殲滅対象か。",
                 "kr": "녀석들이 이번 섬멸 대상인가.",
                 "cn": "要消灭的就是他们吗。"
@@ -305,7 +305,7 @@
                 "cn": "选中干员1"
             },
             "text": {
-                "en": "Do not order me around.",
+                "en": "Don't order me around.",
                 "jp": "私に指図するな。",
                 "kr": "나한테 지시하지 마.",
                 "cn": "不要对我指手画脚。"
@@ -321,7 +321,7 @@
                 "cn": "选中干员2"
             },
             "text": {
-                "en": "Enough, I understand.",
+                "en": "Enough, I get it.",
                 "jp": "言われなくてもわかってる。",
                 "kr": "말 안 해도 알고 있어.",
                 "cn": "不要多说，我知道。"
@@ -385,7 +385,7 @@
                 "cn": "作战中2"
             },
             "text": {
-                "en": "Don't even think about running!",
+                "en": "You can run but you can't hide!",
                 "jp": "一匹も逃げられると思うな！",
                 "kr": "한 마리도 놓칠 거라 생각치 마라!",
                 "cn": "一个也别想逃走。"
@@ -417,7 +417,7 @@
                 "cn": "作战中4"
             },
             "text": {
-                "en": "Foolish fools.",
+                "en": "Foolish morons!",
                 "jp": "愚か者！",
                 "kr": "어리석은 놈!",
                 "cn": "愚蠢的家伙！"
@@ -481,7 +481,7 @@
                 "cn": "行动失败"
             },
             "text": {
-                "en": "If you can do nothing to help, just retreat! I'll handle this.",
+                "en": "If you can't help, just run! I'll handle this.",
                 "jp": "役立たず共は引っ込んでろ！ここは私がやる。",
                 "kr": "도움도 안 되는 것들은 물러나 있어! 여기는 내가 맡겠다.",
                 "cn": "没用的人都赶快撤退！这里我来。"
@@ -497,7 +497,7 @@
                 "cn": "进驻设施"
             },
             "text": {
-                "en": "An acceptably clean room, I suppose.",
+                "en": "This room is clean enough, I guess.",
                 "jp": "まぁまぁきれいな部屋かな。",
                 "kr": "그럭저럭 깔끔한 방이네.",
                 "cn": "还算是干净的房间。"
@@ -513,7 +513,7 @@
                 "cn": "戳一下"
             },
             "text": {
-                "en": "I know how to walk on my own.",
+                "en": "I can find my own way.",
                 "jp": "自分で歩けるから。",
                 "kr": "혼자서 걸을 수 있다니까 그래.",
                 "cn": "我知道自己走。"
@@ -529,7 +529,7 @@
                 "cn": "信赖触摸"
             },
             "text": {
-                "en": "Silence.",
+                "en": "Quiet, please.",
                 "jp": "静かにして。",
                 "kr": "조용히 좀 해.",
                 "cn": "安静。"
@@ -561,7 +561,7 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "TBU",
+                "en": "This day has always irritated me a little. Time goes by one year after another, and my memories also drift further and further away... Hmph, forget it. Hey you, come take a stroll with me on the deck. Maybe some cold wind will help calm me down.",
                 "jp": "この日になると、いつもイライラする。また一年が過ぎて、失くした記憶もどんどん手の届かないものになっていく……ふん、もう考えるのはやめだ。ねえ、甲板を散歩するからちょっと付き合って。冷たい風に当たってみれば、頭も冷やせるかもしれない。",
                 "kr": "하루하루가 자꾸 짜증이 나려 하네. 시간은 계속 흘러가고, 난 전의 기억들과 점점 멀어지고…… 쳇, 생각 그만할래. 저기, 나랑 갑판에서 같이 걷자. 찬 바람이라도 쐬면 기분이 가라앉을지도 모르니까.",
                 "cn": "这个日子总是让我有些烦躁，时间年复一年地过去，我离过去的记忆越来越远......哼，不想这些了。喂，陪我去甲板上走走吧。吹吹冷风，或许可以让我冷静下来。"
@@ -593,7 +593,7 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "TBU",
+                "en": "For now, I still don't have a way to find my past self, but the process has also shaped who I am today. My days here at Rhodes Island are an important part of that. Doctor, we still have a lot of time together ahead of us. Keep your faith in my sword.",
                 "jp": "今はまだ昔の自分を確実に取り戻す方法はないけど、それを探す過程は今の私を作り上げた。ロドスで過ごした日々も、その中の大事な一部だ。ドクター、これからも長い間一緒にいることになる。私の剣を頼っていいよ。",
                 "kr": "아직까지는 과거의 날 되찾을 방법을 찾지 못했어. 하지만 찾는 과정에 지금의 내가 만들어졌지. 로도스 아일랜드에서 지낸 나날들도 중요한 부분이야. 박사, 앞으로 오랜 시간 함께 해야 하니, 내 검을 믿도록 해.",
                 "cn": "我暂时还没有办法找回过去的自己，但是找寻的过程也塑造了现在的自己。在罗德岛待过的这些日子，也是其中重要的一部分。博士，接下来我们还有很长一段时间要共处，尽管相信我的剑吧。"

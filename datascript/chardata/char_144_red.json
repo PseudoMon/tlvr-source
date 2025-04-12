@@ -617,12 +617,20 @@
         "kr": {
             "native": "박신희",
             "global": "Park Seen-hee"
+        },
+        "old_cn": {
+            "native": "蔡欣纯",
+            "global": "X.Chai"
         }
     },
     "availability": [
         "en",
         "cn",
         "jp",
-        "kr"
-    ]
+        "kr",
+        "old_cn"
+    ],
+    "audio_path_override": {
+        "old_cn": "https://raw.githubusercontent.com/PseudoMon/arknights-audio/5e1b475f1a8ac48144c1a790224ee8bc8ac130b0/voice_cn"
+    }
 }

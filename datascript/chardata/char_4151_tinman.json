@@ -17,7 +17,7 @@
                 "cn": "任命助理"
             },
             "text": {
-                "en": "All done. Don't worry, not everything leaves a paper trail, and not everything should leave one. Besides, files that you see fit to give a Maylander detective access to aren't worth tampering with.",
+                "en": "Ah, files all sorted. Relax. Not everything spills its secrets, and not everything merits recording. A document left to a Maylander detective? Well, that must be one not worthy of <i>doctoring</i>.",
                 "jp": "整理は終わりましたよ。安心してください。証拠というのは必ず見つかるわけではありませんし、全ての物事が記録を残すことに適しているわけでもないのです。マイレンダーの探偵に整理をさせられるくらいの書類など、もとから細工する意味はありませんよ。",
                 "kr": "정리는 끝났습니다. 안심하세요, 원래 증거라는 게 찾는다고 해서 반드시 나오는 것도 아니고, 애초부터 기록이 적절하지 않은 사건도 존재하는 법이니까요. 게다가 메이랜더의 탐정에게 정리를 시킬 정도의 서류라면, 따로 손을 쓸 가치도 없는 내용이겠죠.",
                 "cn": "已经整理完了。放心，不是所有事情都能找到证据，也不是所有事情都适合记录在册，能让一位梅兰德的侦探整理的文书，本身也不值得做什么手脚。"
@@ -33,7 +33,7 @@
                 "cn": "交谈1"
             },
             "text": {
-                "en": "Rhodes Island and Maylander have signed a memorandum of cooperation. A specialist will take over from here. On my part, I'm more concerned about how my old friends are doing on this ship: the K'uk'ulkan, the robot by the name of Friston-3, and you, Doctor.",
+                "en": "Now that Rhodes Island and Maylander have reached an understanding on our partnership, we'll be sending specialists for the follow-up. In fact, I'm more curious about my old friends on this ship. For example, the K'uk'ulkan, the Friston-3 robot, and you, Doctor.",
                 "jp": "ロドスとマイレンダー基金は協力関係を築く方向で合意しました。これ以降の諸事については、専任の担当者が引き継ぎます。私としては、やはりここにいる古い顔なじみの近況の方が気にかかりますね。たとえば、例のククルカンですとか、Friston-3と呼ばれているロボット、それから、あなたとかね、ドクター。",
                 "kr": "로도스 아일랜드와 메이랜더 재단은 이미 상호 간 협력하기로 합의를 봤으니, 앞으로의 작업은 전담자가 와서 인계할 겁니다. 저로서는 이곳에 있는 '옛 친구'들의 근황이 더 궁금하더군요. 예를 들면 그 쿠쿨칸이라든가, Friston-3라고 불리는 로봇, 그리고 당신이라든가 말이죠…… 박사님.",
                 "cn": "罗德岛和梅兰德已经达成合作意向，后续的工作会有专员来对接。我还是更关心一些老朋友在这艘船上的情况，比如那位羽蛇，那个叫Friston-3的机器人，还有你，博士。"
@@ -49,7 +49,7 @@
                 "cn": "交谈2"
             },
             "text": {
-                "en": "May I take a smoke? I don't have to exhale, if you want. I picked up the habit when staying near a volcano in Bolívar. Can't get lung cancer if you don't have a lung, after all.",
+                "en": "Can I smoke in the office? If it bothers you, I won't exhale... Mmmm. Picked up this little habit during my time at a volcanic caldera in Bolívar. Can't seem to break it. But no worries, not like I have lungs to file a complaint.",
                 "jp": "執務室で一服をしても？気になるようでしたら、煙は体の中に留めておきますよ……以前、ボリバルでとある火山の噴火口にしばらく滞在したことがあるのですが、その時から癖になりましてね。どうも止められないのです。どのみち肺は持っていませんから、病気の心配もありませんよ。",
                 "kr": "집무실에서 한 대 피워도 괜찮을까요? 불편하시다면 연기를 뱉지 않을 수도 있습니다만…… 예전에 볼리바르의 한 화산 분화구에서 한동안 머물렀던 적이 있었는데, 그때부터 버릇이 되었지 뭡니까. 도저히 끊을 수가 없더군요. 어차피 전 폐가 없으니 병에 걸릴 걱정도 없답니다. 하하.",
                 "cn": "我能在办公室抽烟吗？你要是介意，我可以不把烟吐出来......我曾经在玻利瓦尔的某个火山口待过一阵子，打那时就有了这嗜好，戒不掉了，反正我也没有肺，不会得病。"
@@ -65,7 +65,7 @@
                 "cn": "交谈3"
             },
             "text": {
-                "en": "Are those kids still following me? Well, let's just consider it a Columbian fairy tale come true... this exoskeleton is indeed a little too conspicuous, and requires regular maintenance. I just can't be bothered to change it, though. Habit is a powerful thing.",
+                "en": "Are those kids still following me? Fine. Let them believe the Columbian fairy tale is real... My exoskeleton sure grabs attention, and man, does it need regular maintenance. But I'm just too lazy to keep replacing it. Well, that's the force of habit... even a tin can gets used to its dents.",
                 "jp": "あの子供たちは、まだ私の後ろについてきていますか？仕方ありませんね。クルビアの童話が現実になったと思わせておきましょう……この外骨格はあまりに人目を引きますし、その上定期メンテナンスまで必要だ。単に変えるのが面倒で、今までずるずる使っているだけです。はぁ、慣れというのはまったく恐ろしい。",
                 "kr": "혹시 아이들이 아직도 제 뒤를 따라오고 있습니까? 어쩔 수 없군요, 지금은 그냥 컬럼비아의 동화가 현실이 되었다고 믿게 둬야겠네요…… 이 외골격은 눈에 너무 띄는 데다, 정기적으로 유지 보수가 필요하긴 하지만…… 바꾸는 게 귀찮은 나머지 그냥 그대로 쓰고 있을 뿐입니다. 하아, 습관이라는 건 정말 무섭군요.",
                 "cn": "那群孩子还跟在我后面吗？算了，就让他们觉得哥伦比亚的童话成真了吧......这副外骨骼确实太引人注目了，还得定期保养，我只是一直懒得换。唉，习惯的力量真可怕。"
@@ -81,7 +81,7 @@
                 "cn": "晋升后交谈1"
             },
             "text": {
-                "en": "I've got here social reports from a few periodicals. I read them to follow the latest inventions and trends. Of course it's necessary. It keeps my mental age young. That's why I don't look like I'm thousands of years old.",
+                "en": "Wanna take a look together? These are social dynamics reports from some academic journals. Helps us catch a glimpse of the new inventions and trends coming next year... Hmm? Of course it's necessary. Can you tell that I'm a revenant who's lived for millennia? See? That's the charm of keeping a youthful mind.",
                 "jp": "ご一緒にどうですか？いくつかの学術誌が、社会の動向についてレポートを送ってきたのです。来年どのような新発明やトレンドが現れるか注目ですよ……はい？もちろん必要です。私が何千年も生きたレヴァナントに見えますか？ほら、気持ちが若いのは、良いことでしょう。",
                 "kr": "같이 보시겠습니까? 여러 학술지에서 사회 동향에 관한 보고서를 보내왔습니다. 내년엔 또 어떤 새로운 발명과 유행이 나타날지 주목해 봐야죠…… 네? 당연히 필요합니다. 박사님은 제가 지금 수천 년을 살아온 레버넌트처럼 보이십니까? 보십시오, 마음이 젊다는 건 좋은 일입니다.",
                 "cn": "一起看看？几家学刊送来的社会动态报告，可以关注下明年会出现哪些新发明和新风潮......嗯？当然是有必要的，你能看出我是个活了几千年的死魂灵吗？你看，心态年轻一点，多有用。"
@@ -97,7 +97,7 @@
                 "cn": "晋升后交谈2"
             },
             "text": {
-                "en": "Be it W, Nasti, the sweeping reforms, or the city in the clouds, the dreams that today's Sarkaz have for the future are most encouraging. Me? I work for the foundation, of course, and it's my job to invest in the young.",
+                "en": "W brought a swath of drastic reforms. Nasti's aiming for a city floating above the clouds... Hehe, you gotta admit, the Sarkaz vision for the future never disappoints. Me? I'm just an average joe working for the Foundation, investing in the next generation is where it's at.",
                 "jp": "Wさんに、ナスティさん、そして大鉈を振るった改革に、雲の上に浮かぶ都市もですが、昨今のサルカズが持つ未来の構想は、押し並べて刺激的ですね。私？基金に奉仕している身として、一番にすべきなのはもちろん若い人たちへの投資でしょう。",
                 "kr": "W 씨나 내스티 씨도 그렇고, 과감한 개혁에 구름 위에 떠 있는 도시까지, 요즘 살카즈들의 미래에 대한 구상은 하나같이 흥미롭더군요. 아, 저 말입니까? 재단에서 일하는 사람으로서, 제가 할 일은 젊은이에게 투자하는 것이겠지요.",
                 "cn": "无论是W，还是娜斯提，无论是大刀阔斧的改革，还是悬于云层之上的城市，如今，萨卡兹对未来的构想总是令人欣喜。我？一个在基金会打工的家伙，最应该做的当然是投资年轻人。"
@@ -113,7 +113,7 @@
                 "cn": "信赖提升后交谈1"
             },
             "text": {
-                "en": "I like Rhodes Island's top deck. It's a great view up there. I wish I had a ship like this during my scavenging days, and companions like you... my encounter with Maylander Selene was a long time later.",
+                "en": "I like the top deck of Rhodes Island. It's got a great view. Too bad I didn't have a ship like this, or friends like yours when I was... scavenging, all those years ago... But I did meet Maylander Selene, and we roamed that wilderness together.",
                 "jp": "ロドスのデッキは気に入りましたよ。見晴らしがとてもいい。私が各地で「屑屋」をしていた頃に、このような船やあなた方のような同行者がいなかったのは残念ですよ……マイレンダー・セレーネ氏と出会い、あの荒野に留まったのは、だいぶ後のことでした。",
                 "kr": "로도스 아일랜드의 갑판은, 정말 마음에 듭니다. 시야가 탁 트이는 느낌이 아주 좋거든요. 제가 이곳저곳을 돌아다니며 '고물상'을 할 때 이런 함선과 당신들 같은 동행자가 없었던 게 진심으로 아쉬울 따름이군요…… 제가 메이랜더 셀레네 씨와 만나고, 그 황야에 머무르기로 정한 건 그 후로도 한참 뒤의 일입니다.",
                 "cn": "我很喜欢罗德岛的甲板，视野很好。可惜我当年到处“拾荒”的时候，没有这样一艘船，以及你们这样的同行者......遇见梅兰德·塞勒涅，留在那片荒野，那都是很后面的事了。"
@@ -129,7 +129,7 @@
                 "cn": "信赖提升后交谈2"
             },
             "text": {
-                "en": "Keep your distance if you don't want to get burned. This tin can of a body sometimes gives me a burning sensation when the sun is bright. Regret? Perhaps. I would gladly go into the furnace if becoming firewood solves the Sarkaz's problems, but reality is not that simple.",
+                "en": "Keep your distance and don't get yourself burned. Without witchcraft, sometimes this <i>tin can</i> sizzles in mere sunlight... Do I regret it? Perhaps. If becoming a pile of firewood could solve the Sarkaz's problems, then I'd hop right into the Soul Furnace. Yet, that's not how it works.",
                 "jp": "近づかないでください、火傷してしまいます。巫術を使わないと、この「ブリキの缶詰」は強い日差しに炙られて、灼熱感をもたらすことがあるのです……罪悪感？そうかもしれませんね。もし薪になることで本当にサルカズの問題が解決できるのなら、私はとっくに溶炉に入っているでしょう。残念ながら、そうしたところで変わりはしませんが。",
                 "kr": "가까이 오지 마시죠, 화상을 입을 수도 있습니다. 주술을 사용하지 않으면 이 '깡통'은 강한 햇볕에 달궈져 타오르는 듯한 작열감을 주곤 합니다. ……죄책감을 느끼는 거냐고요? 그럴지도 모르겠네요. 만약 장작이 되는 걸로 살카즈 문제를 해결할 수 있었다면, 전 진작에 용광로에 뛰어들었을 겁니다. 하지만 유감스럽게도, 그런다고 달라지는 건 없습니다..",
                 "cn": "站远点，别被烫伤。不用巫术的话，这副“铁皮罐头”在烈日下偶尔会让我有灼烧感......愧疚？或许吧。如果变成薪柴真能解决萨卡兹的问题，那我应该在熔炉里，可惜不能。"
@@ -145,7 +145,7 @@
                 "cn": "信赖提升后交谈3"
             },
             "text": {
-                "en": "I have talked to Dame Kal'tsit about you. Don't worry, Maylander isn't going to dig up the past. Time flies for people like us, doesn't it? Would you like a smoke? The sun should be setting by the time you're done with it.",
+                "en": "Dame Kal'tsit and I talked a little about you. Don't worry. Your past won't be an issue for Maylander. Time sure flies for people like us, don't you agree? Care for a smoke? A few puffs and we'll be enjoying the sunset.",
                 "jp": "ケルシー士爵との間であなたに関する話はついています。ご安心を、マイレンダーは過去の件については追及しません。時間は、私たちのような者にとっては概して駆け足で過ぎ去っていくのです。ふ、タバコはどうです？一服し終わるころには、太陽も沈んでいるでしょう。",
                 "kr": "당신에 관한 이야기라면 켈시 경과 이미 이야기를 나눴습니다. 메이랜더는 과거의 일에 대해선 추궁하지 않으니 안심하시죠. 시간은 우리 같은 사람들에겐 대체로 빠르게 흘러가는 법이니까요. 후, 담배 한 대 하시겠습니까? 한 대 피우다 보면 저 해도 금방 저물어 있을 겁니다.",
                 "cn": "我和凯尔希勋爵交流过你的事情。放心，梅兰德不会追究那些过往。时间在我们这样的人身上总是走得很快，不是吗？抽烟吗？再有一支烟的工夫，太阳就该落下去了。"
@@ -161,7 +161,7 @@
                 "cn": "闲置"
             },
             "text": {
-                "en": "Let me get the newspapers, and some hot dogs and tortilla chips... fast food is a wonderful invention, isn't it? Thanks to it, the pace of expansion never stops.",
+                "en": "Good, I'll get the newspapers, and make us hot dogs with some nachos. Hats off to fast food, for keeping us pioneering without even a moment's rest. Great invention, don't you think?",
                 "jp": "では、私は新聞を取ってきます。ついでにホットドッグとナチョスも用意してきましょう……ファストフードは、開拓の歩みの象徴。偉大なる発明だと思いませんか？",
                 "kr": "그럼, 전 신문을 가져오겠습니다. 핫도그랑 나쵸도 함께 준비해 오죠…… 패스트푸드는 멈추지 않는 개척의 상징 같은 겁니다. 위대한 발명이라고 생각하지 않으십니까?",
                 "cn": "好，我去拿报纸，顺便烤点热狗和玉米片......快餐意味着开拓的节奏从不停歇，伟大的发明，不是吗？"
@@ -177,7 +177,7 @@
                 "cn": "干员报到"
             },
             "text": {
-                "en": "It's been a while since Trimounts, hasn't it, Doctor? Tin Man, representative of the Maylander Foundation, at your service. It's our pleasure to enter into cooperation with Rhodes Island, to pool our resources... and secrets.",
+                "en": "I haven't seen you since Trimounts, Doctor. Tin Man, P.I., representing the Maylander Foundation. Starting today, we'll be cooperating with Rhodes Island in a variety of sectors, along with sharing our resources... and secrets.",
                 "jp": "トリマウンツでの別れを経て、ついに再びお目にかかれましたね、ドクター。私は探偵のブリキ、マイレンダー基金を代表してやってきました。本日より、我々はロドスと多くの方面で協力関係を結び、リソースと……秘密を共有します。",
                 "kr": "트리마운츠에서 헤어진 이후로 드디어 다시 만나뵙게 됐군요, 박사님. 탐정 틴맨, 메이랜더 재단을 대표해 인사드립니다. 이제부터 메이랜더 재단은 로도스 아일랜드와 다방면에서 협력하고, 자원 공유는 물론…… 여러 비밀들도 공유할 겁니다.",
                 "cn": "特里蒙一别后，终于又见面了，博士。侦探锡人，代表梅兰德基金会。自即日起，我们将与罗德岛在各个领域展开合作，共享资源......与秘密。"
@@ -193,7 +193,7 @@
                 "cn": "观看作战记录"
             },
             "text": {
-                "en": "I see that Rhodes Island's business extends to more than just Oripathy treatment. It seems we have more room for cooperation than I originally thought.",
+                "en": "It looks like Rhodes Island excels in its other business areas, besides just Oripathy treatment. We've got more room for cooperation... than I expected.",
                 "jp": "どうやら、鉱石病治療以外の業務分野でも、ロドスは成功しているようです。我々の協力が活かせる範囲は思った以上に広いですね。",
                 "kr": "아무래도 로도스 아일랜드는 광석병 치료 외의 분야에서도 성공을 거둔 모양이군요. 우리가 협력할 수 있는 범위가 생각보다 더 넓을지도 모르겠습니다.",
                 "cn": "看来，除了矿石病诊疗之外，罗德岛的其他业务也做得很好，我们的合作空间比我想象的还要大。"
@@ -209,7 +209,7 @@
                 "cn": "精英化晋升1"
             },
             "text": {
-                "en": "The last time I was at such an occasion was when Maylander Selene tossed me a map and a bottle of spirits, and invited me to join his team. That was before the nation of Columbia was a thing... brings back the old days.",
+                "en": "And the last time I experienced something like this was by a campfire. Maylander Selene threw a map and a bottle of hard stuff across the flame, and invited me to join his team. Columbia wasn't even on the map yet... Hmph, it's like yesterday once more.",
                 "jp": "最後に似たような経験をしたのは、マイレンダー・セレーネ氏が焚火越しに地図を一枚と、酒をひと瓶投げて寄越して、自分のチームに入らないかと誘ってきた時までさかのぼりますね。あの頃はクルビアという国すらまだ存在していませんでした……少々懐かしく感じます。",
                 "kr": "마지막으로 비슷한 경험을 했던 게, 메이랜더 셀레네 씨가 모닥불 너머로 지도 한 장과 술 한 병을 던져 주며, 자신의 팀에 들어오지 않겠냐고 권유했던 때입니다. 그때는 컬럼비아라는 나라조차 존재하지 않았는데…… 조금은 그립군요.",
                 "cn": "上一次经历类似的场合，还是梅兰德·塞勒涅隔着篝火，扔过来一张地图一瓶酒，邀请我加入他的队伍，那时还没有哥伦比亚这个国家......有些怀念。"
@@ -225,7 +225,7 @@
                 "cn": "精英化晋升2"
             },
             "text": {
-                "en": "Thank you. Trust is not something given lightly for people like you and I.",
+                "en": "Thanks. It's tough for people like you and me to trust, I know.",
                 "jp": "感謝しましょう。あなたや私のような者にとって、誰かを信頼するというのは、それほど容易いことではないですから。",
                 "kr": "감사합니다. 당신이나 저나 누군가를 신뢰한다는 건 그리 쉬운 일이 아니니까요.",
                 "cn": "感谢。毕竟对于你我这样的人来说，交付信任可不是一件容易的事情。"
@@ -241,7 +241,7 @@
                 "cn": "编入队伍"
             },
             "text": {
-                "en": "Some of the team members could give the foundation's agents a run of their money. You're piquing my interest in this operation.",
+                "en": "Some people on this team are as talented and impressive as Maylander's agents. I'm interested to see how this operation unfolds, Doctor.",
                 "jp": "隊の中の幾人かは、マイレンダーのエージェントにも劣らない能力を持っています。ドクター、今回の作戦がどのように進むのか楽しみになってきましたよ。",
                 "kr": "오퍼레이터들 중 몇몇은 메이랜더 재단의 특수요원 못지않은 실력을 가지고 있군요. 이번 작전이 어떻게 진행될지 기대되기 시작했습니다, 박사님.",
                 "cn": "队伍里的某些人，素质不亚于基金会的特工啊，博士，我开始好奇这场行动会如何展开了。"
@@ -257,7 +257,7 @@
                 "cn": "任命队长"
             },
             "text": {
-                "en": "You may call me Tin Man. I ask no more or less than absolutely adherence to my orders.",
+                "en": "Call me Tin Man, ladies and gentlemen. For this operation, I'm expecting you to follow all my orders to the letter.",
                 "jp": "みなさん、どうぞ私のことは「ブリキ」と。さて、どのような命令であろうと、間違いなく執行してくださいね。",
                 "kr": "여러분, 전 '틴맨'이라고 불러 주시면 됩니다. 그럼, 이제부터는 제가 내리는 그 어떤 명령이라도 확실하게 수행해 주시길.",
                 "cn": "各位叫我“锡人”就好，接下来无论什么命令，都请你们严格执行。"
@@ -273,7 +273,7 @@
                 "cn": "行动出发"
             },
             "text": {
-                "en": "I will prepare a contingency plan.",
+                "en": "I'll be finding a backup route for our operation.",
                 "jp": "予備の作戦遂行ルートを見つけておきます。",
                 "kr": "예비 작전 루트를 찾아 두도록 하죠.",
                 "cn": "我负责找出一条备用的行动路线。"
@@ -289,7 +289,7 @@
                 "cn": "行动开始"
             },
             "text": {
-                "en": "You should take a detour.",
+                "en": "How about you take another way, good sir?",
                 "jp": "道を変えるのがおすすめですよ。",
                 "kr": "다른 길을 이용하는 걸 추천하죠.",
                 "cn": "你们换条路走吧。"
@@ -305,7 +305,7 @@
                 "cn": "选中干员1"
             },
             "text": {
-                "en": "Let me stretch a little... my joints are rusty.",
+                "en": "Let me stretch a little first. My joints are getting rusty.",
                 "jp": "先に伸びをしてもいいですか。関節が少し錆びついていて。",
                 "kr": "먼저 스트레칭 좀 하겠습니다, 관절이 조금 녹슨 것 같아서 말이죠.",
                 "cn": "让我先伸个懒腰，关节有些锈住了。"
@@ -321,7 +321,7 @@
                 "cn": "选中干员2"
             },
             "text": {
-                "en": "Take it easy. Let me have a smoke.",
+                "en": "Patience, my friend. Let me have a smoke first.",
                 "jp": "先に一服させてください。そう張り詰めなくても。",
                 "kr": "먼저 불 좀 붙여도 되겠습니까? 그렇게 긴장할 필요 없습니다.",
                 "cn": "让我先点根烟，神经别绷那么紧。"
@@ -337,7 +337,7 @@
                 "cn": "部署1"
             },
             "text": {
-                "en": "Sound is the best vehicle for Arts. Be on your guard.",
+                "en": "Watch out for voice; it's the best vessel for curses.",
                 "jp": "音に注意してください。あれは呪術を乗せるのに最良の媒体です。",
                 "kr": "소리에 주의하십시오. 소리는 주술을 싣는 데 가장 좋은 매개체이니.",
                 "cn": "留意声音，声音是咒术最好的载体。"
@@ -353,7 +353,7 @@
                 "cn": "部署2"
             },
             "text": {
-                "en": "Danger can lurk in the most familiar environment.",
+                "en": "Even an old haunt has its perils.",
                 "jp": "慣れ親しんだ環境であるほど、危険が潜むものです。",
                 "kr": "익숙한 환경일수록 위험이 도사리고 있는 법입니다.",
                 "cn": "越是习以为常的环境，越容易隐藏危险。"
@@ -369,7 +369,7 @@
                 "cn": "作战中1"
             },
             "text": {
-                "en": "Do not be flippant about history.",
+                "en": "Don't treat history with such a flippant attitude.",
                 "jp": "そのように軽薄な態度で歴史に向き合わないでください。",
                 "kr": "그리 경박한 태도로 역사를 대하지 마십시오.",
                 "cn": "别用这么轻佻的态度对待历史。"
@@ -385,7 +385,7 @@
                 "cn": "作战中2"
             },
             "text": {
-                "en": "Don't be narrow-minded about the future.",
+                "en": "Don't imagine the future with such a narrow view.",
                 "jp": "そのように狭窄な視野で未来を想像しないでください。",
                 "kr": "그리 편협한 사고로 미래를 상상하지 마십시오.",
                 "cn": "别用这么狭隘的视角想象未来。"
@@ -401,7 +401,7 @@
                 "cn": "作战中3"
             },
             "text": {
-                "en": "Found your files... no more files.",
+                "en": "Found your archive... Alright, destroyed.",
                 "jp": "あなた方のプロファイルはこれですね……はい、抹消完了です。",
                 "kr": "여러분에 관한 데이터가, 여기 있었군요…… 자, 말소되었습니다.",
                 "cn": "找到你们的档案了......好，抹去了。"
@@ -417,7 +417,7 @@
                 "cn": "作战中4"
             },
             "text": {
-                "en": "Remember the feeling of having your soul imprisoned. It is the most valuable lesson you will ever learn.",
+                "en": "Feel how your soul's imprisoned; it will be a lesson you won't forget.",
                 "jp": "魂が縛られる感覚を脳に刻んでおくことです。これはあなた方にとって最も得難い教育なのですから。",
                 "kr": "영혼이 속박되는 감각을 똑똑히 기억하세요. 이게 여러분께 가장 귀중한 교훈이 되어 줄 테니.",
                 "cn": "铭记灵魂被禁锢的滋味，这将是你们所受的最珍贵的教育。"
@@ -433,7 +433,7 @@
                 "cn": "完成高难行动"
             },
             "text": {
-                "en": "I heard rumors about the Kazdel Civil War a few years back. Looks like time has not diminished your talents in this regard, Doctor.",
+                "en": "A few years ago, I heard some rumors about the Kazdel civil war. Seems time has not rusted your talents in this area, Doctor.",
                 "jp": "ふぅ。数年前、サルカズの内紛について噂を耳にしたことがあります。どうやらあなたのこちら方面の才能は、時が経っても健在のようですね、ドクター。",
                 "kr": "후우, 카즈델 내전에 관한 소문이라면 저도 몇 년 전에 들어 본 적이 있습니다. 당신의 이 방면의 재능은 세월의 영향을 전혀 받지 않은 모양이군요, 박사님.",
                 "cn": "几年前，我听到过一些卡兹戴尔内战的传闻，看来岁月并没有影响你在这方面的天赋，博士。"
@@ -449,7 +449,7 @@
                 "cn": "3星结束行动"
             },
             "text": {
-                "en": "Despite having seen it before in Trimounts, your tactical and strategic prowess continues to surprise... do you mind if I reported back to the foundation that Rhodes Island has an outstanding tactician?",
+                "en": "I had a taste of it back in Trimounts, but your strategic planning and judgment here were truly impressive... Would you mind if I reported to the Foundation? They would be glad to know there's an outstanding commander behind Rhodes Island.",
                 "jp": "トリマウンツの時にも拝見させていただきましたが、あなたの知略と戦局判断にはやはり舌を巻きますね……ロドスは優秀な戦術指揮官を隠しているようだ。このことをマイレンダーに報告しても？",
                 "kr": "트리마운츠 때도 봤습니다만, 당신의 지략과 전황에 대한 판단은 여전히 혀를 내두르게 하는군요…… 로도스 아일랜드는 뛰어난 전술 지휘관을 숨겨 두고 있다...... 이 사실을 메이랜더 재단에 보고해도 되겠습니까?",
                 "cn": "虽然在特里蒙的时候就领教过，但你的谋略和对局势的判断还是让人惊讶......罗德岛藏着一位优秀的战术指挥官，你介意我向基金会这么汇报吗？"
@@ -465,7 +465,7 @@
                 "cn": "非3星结束行动"
             },
             "text": {
-                "en": "They may have escaped this battle, but they will not escape the battlefield.",
+                "en": "They may have escaped the battle, but they can't escape the war.",
                 "jp": "彼らはこの戦闘から逃れただけで、戦場からは逃れられませんよ。",
                 "kr": "그들은 그저 이 전투에서 도망쳤을 뿐, 전장에선 도망칠 수 없습니다.",
                 "cn": "他们只是逃离了这场战斗，但逃不开这片战场。"
@@ -481,7 +481,7 @@
                 "cn": "行动失败"
             },
             "text": {
-                "en": "No problem. The Maylander Foundation will clean up in accordance with the memorandum of cooperation. Leave it to me.",
+                "en": "It's not a problem. Per our agreement, the Maylander Foundation is responsible for damage control. Leave this to me.",
                 "jp": "問題はありません。合意書に基づき、後のことはマイレンダー基金が引き受けましょう。私にお任せあれ。",
                 "kr": "걱정 마십시오. 협력 계약에 따라, 뒷일은 메이랜더 재단이 처리할 테니, 이제부턴 제게 맡겨 주시죠.",
                 "cn": "没关系。按照合作协议，梅兰德基金会将负责善后事宜，交给我吧。"
@@ -497,7 +497,7 @@
                 "cn": "进驻设施"
             },
             "text": {
-                "en": "Nice room. Maybe it could become a new body once I get used to it... just kidding.",
+                "en": "Pretty nice room. Maybe once I get used to it, I'll turn it into my new body... Hehe, Just kidding.",
                 "jp": "悪くない部屋です。住み慣れたら、そのまま新しい体にしても……ふ、冗談ですよ。",
                 "kr": "나쁘지 않은 방이군요. 익숙해지면 아예 이 방을 새로운 몸으로 삼는 것도…… 후, 농담입니다.",
                 "cn": "房间不错，说不定住得习惯了，可以直接当新的身体......开个玩笑。"
@@ -513,7 +513,7 @@
                 "cn": "戳一下"
             },
             "text": {
-                "en": "What do you reckon would happen if a man suddenly touched scorching hot metal?",
+                "en": "What do you think happens when a human touches scorching hot metal?",
                 "jp": "人が高温の金属に突然触れた時、どうなるかご存じですか？",
                 "kr": "사람이 고온의 금속을 갑자기 만지면 어떻게 되는지 아십니까?",
                 "cn": "你说人要是突然摸到高温的金属，会怎么样？"
@@ -529,7 +529,7 @@
                 "cn": "信赖触摸"
             },
             "text": {
-                "en": "Did you see me suck the smoke rings back into my body through the cracks?",
+                "en": "You...didn't spot me pulling smoke rings back in my body through the gaps, did you?",
                 "jp": "もしかして、私が吐いた煙を体の隙間から再度吸い込んだのを見ましたか？",
                 "kr": "혹시 방금…… 제가 내뱉은 연기를 다시 몸의 틈새로 들이마시는 걸 보셨습니까?",
                 "cn": "你刚刚，是不是看见我从缝隙把烟圈又吸进体内了？"
@@ -561,7 +561,7 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "There are no New Year events in Kazdel. In Columbia, I join the young folks for the New Year's countdown and bell. As an operator of Rhodes Island, I suppose I'll have to satisfy the children's curiosity about me...",
+                "en": "Kazdel doesn't have New Year's celebrations like this, but in Columbia, I always join the kids in the square for the countdown to the bell. As a Rhodes Island operator, I guess I'll have to satisfy the children's curiosity about this tin man…",
                 "jp": "カズデルでは新しい年を迎える時に、特別これといったイベントはありません。一方でクルビアでは、広場で若者たちとカウントダウンをしながら、新年の鐘が鳴るのを待っていたものです。そしてこのロドスでは、どうやら今日は子供たちの缶詰男に対する好奇心を満足させてやらないといけないようですね……",
                 "kr": "카즈델에는 이렇다저렇다 할 특별한 새해맞이 이벤트가 없습니다. 그러나 컬럼비아에서는 저도 젊은이들도 광장에 모여 새해 종소리가 울리길 기다리며 카운트다운을 했었죠. 그리고 이곳 로도스 아일랜드에서는 아무래도…… 저에 대한 아이들의 호기심을 충족시켜 줘야만 할 것 같습니다……",
                 "cn": "卡兹戴尔不会有像样的新年活动，而在哥伦比亚，我会和年轻人在广场上一起倒数，等待钟声响起。作为罗德岛的干员，看来今晚必须要满足下那些孩子对我的好奇心了......"
@@ -577,7 +577,7 @@
                 "cn": "问候"
             },
             "text": {
-                "en": "Got a light, Doctor?",
+                "en": "You had a light, Doctor?",
                 "jp": "ドクター、火を借りても？",
                 "kr": "박사님, 불 좀 빌립시다.",
                 "cn": "有火吗，博士？"
@@ -593,7 +593,7 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "The one thing that Columbia, future Kazdel and Rhodes Island have in common is youth. Youth is everything. You and I are people of the past, but we are both protecting the future. The cooperation of Rhodes Island and Maylander will continue.",
+                "en": "Columbia, Kazdel of the future, and even Rhodes Island share one thing in common—Youth. Youth represents everything. Doctor, you and I are from the past, but at the moment, we're defending the future. I believe Rhodes Island and Maylander's partnership will continue.",
                 "jp": "クルビア、未来のカズデル、そしてロドス。この三者の共通点は――若さ。若さは全てを意味します。ドクター、私たちは過去からやってきた人物ですが、この時この場所において、我々のどちらも未来を守っています。マイレンダーは引き続きロドスに協力しましょう。",
                 "kr": "컬럼비아, 미래의 카즈델, 그리고 로도스 아일랜드. 이 셋의 공통점은…… 바로 젊음입니다. 젊음은 곧 모든 것을 의미하죠. 박사님, 우리는 과거에서 온 사람이지만, 지금 이 순간 우리는 함께 미래를 지키고 있습니다. 메이랜더는 앞으로도 로도스 아일랜드와 함께할 겁니다.",
                 "cn": "哥伦比亚，未来的卡兹戴尔，甚至罗德岛，它们共同的特点是——年轻，年轻便意味着一切。博士，你我都是来自过去的人，但此时此刻，我们都守护着未来。罗德岛与梅兰德的合作将继续。"

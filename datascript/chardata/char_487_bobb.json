@@ -1,0 +1,628 @@
+{
+    "charid": "char_487_bobb",
+    "nameid": "bobb",
+    "names": {
+        "en": "Bobbing",
+        "jp": "ボビング",
+        "kr": "보빙",
+        "cn": "波卜"
+    },
+    "voices": [
+        {
+            "id": "char_487_bobb_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "No problem, I'll handle it. Filling forms and organizing data are complicated and dull procedures to be sure. But it's necessary work, if we want local governments to help out in assisting the Infected. I'm sure you've nurtured a patience for it, as I have.",
+                "jp": "承知しました、お任せください。書類の作成や資料の整理がいかに退屈で煩雑かは、私にもよくわかりますよ。ですが地方政府の協力も得てより多くの感染者に手を差し伸べようというなら、こうした目も頭も痛くなるような手続きを避けては通れません。恐らくあなたも私と同じように、必要に迫られて忍耐力を養ってきたんでしょうね。",
+                "kr": "알겠습니다, 맡겨 주시죠. 서류 작성과 자료 정리가 얼마나 지루하고 까다로운 일인지는 저도 잘 압니다. 하지만 지방 정부의 힘을 빌려 더 많은 감염자를 도우려면, 이렇게 눈과 머리가 아픈 절차가 한가득이라도 견뎌내야 했습니다. 아마 박사님도 저와 마찬가지로 필요에 의해 많은 인내심을 길러 오셨겠죠.",
+                "cn": "没问题，交给我吧。我明白，填表啦，整理材料啦，既枯燥又繁琐，可是要想借助地方政府的力量触及更多感染者，就必须忍着头晕眼花把手续办完。您大概和我一样，不得已磨炼了不少耐心吧。"
+            },
+            "asset": "char_487_bobb/CN_001"
+        },
+        {
+            "id": "char_487_bobb_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "No, no, I didn't put these healthy living advisories up. Our organization aims to help people live better lives, but I don't believe that gives us the right to dictate what a better life is. Besides, I personally prefer energy bars to regular meals... Oh, heh, I'll consider your advice.",
+                "jp": "いえ、私はこんな健康生活ガイドなんて貼って回りませんよ。私たちの団体は、人々により良い生活をという想いを掲げてはいますが、私個人としては「より良い生活」を他人が好き勝手定義すべきではないと考えていますので。それに、私自身食事をエナジーバーで済ませてしまうこともままありますし……あは、ええ、ほどほどにしておきます。",
+                "kr": "아니요, 이 건강 생활 가이드들은 제가 붙인 게 아닙니다. 저희 단체는 사람들이 더 나은 삶을 살았으면 좋겠다는 이념을 가지고 있지만, 개인적으로는 다른 이들의 '더 나은 삶'을 저희가 정의해서는 안 된다고 생각해요. 당장 저만해도 에너지 바로 끼니를 때우는 경우가 많기도 하고…… 윽, 네 저도 주의하겠습니다.",
+                "cn": "不不，这些健康生活小贴士当然不是我贴的。我们机构希望人们过上更好的生活，但我不觉得我们就能随便定义什么是更好的生活。再说，我也总是用能量棒代替正餐......呃，我会注意的。"
+            },
+            "asset": "char_487_bobb/CN_002"
+        },
+        {
+            "id": "char_487_bobb_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Operators have been coming to me for talks? True enough. Even HR Operators are asking me about it. The only thing I can tell you is that I'm not here to poach people for Pure Heart Medical. You know very well I must keep all work engagements confidential, whether they've killed a relative, or simply stolen a cookie.",
+                "jp": "このところ私がしょっちゅう内緒話を持ちかけられている？人事部の方にも同じことを聞かれましたが、赤心社への引き抜きを打診しているわけではないことだけは保証しますよ。ご存知かと思いますが、私には仕事で関わった皆さんの秘密を守る義務がありますので。それが肉親を殺めたことであろうと、クッキーを一枚つまみ食いしたことであろうと、一切他言はできません。",
+                "kr": "요즘 제가 다른 분들과 비밀스러운 이야기를 자주 나누는 것 같다고요? 인사부 오퍼레이터분들에게도 비슷한 질문을 받았는데, 적심 의료로 스카우트 제안을 하는 것은 아니라는 점 하나만큼은 보장해 드릴 수 있습니다. 박사님도 아시다시피 전 업무 중 알게 되는 모든 이들의 비밀을 지켜야 할 의무가 있습니다. 그것이 가족을 죽게 만든 일이든, 아니면 과자 한 개를 훔쳐먹은 일이든 상관없이 말이죠.",
+                "cn": "最近总有人找我说悄悄话？人事部干员也来问过我，但我只能保证，我绝不是想挖人去赤心医疗。您知道的，我必须为工作中接触到的每个人保密，无论对方是害死过至亲，还是偷吃了一块饼干。"
+            },
+            "asset": "char_487_bobb/CN_003"
+        },
+        {
+            "id": "char_487_bobb_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Doctor, could you help me review this script for a business conference? There's a part about distributing Oripathy medicine on the frontier. I'm not used to such loud public speeches. Quiet talks are more my thing... But I'm so good at pushing for a dangerous mission? Th-That's a very different situation!",
+                "jp": "ドクター、このビジネスカンファレンス用のスピーチ原稿を見ていただけませんか？開拓地における鉱石病の薬品配給に関するものです。ただやっぱり私は静かに話す方が性に合っていて、声を張り上げての演説にはなかなか……危険な任務への参加を熱望していた時の威勢はどうした？あ、あれはまた別の話ですよ！",
+                "kr": "박사님, 여기 이 비즈니스 컨퍼런스용 연설 원고를 봐주실 수 있을까요? 개척지에서의 광석병 약품 배급에 관한 내용입니다. 전 아무래도 조용히 대화를 나누는 걸 더 선호하다 보니, 이런 목소리를 높여 연설하는 상황은 좀…… 위험한 임무에 나가겠다고 고집부릴 때의 기세는 어디 갔냐고요? 그, 그때랑은 상황이 다르잖아요!",
+                "cn": "博士，能帮我看看这份企业家大会的演讲稿吗？与拓荒地的矿石病药物配给有关。我还是更喜欢安安静静地谈话，不习惯高声演说......坚持要出危险任务的时候？那、那情况不一样呀！"
+            },
+            "asset": "char_487_bobb/CN_004"
+        },
+        {
+            "id": "char_487_bobb_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "The discussion went smoothly, so I'm in no position to feel down, but... I got yet another 'If the Infected were as well-mannered as you, we would have donated much more'. Tolerance or humility, people can only afford it when their backs aren't up against the wall.",
+                "jp": "会談は順調に進みましたし、落ち込むべきではないのですが……また「感染者も皆君のように聞き分けがよければ、とうに今以上の寄付をしていたのだがね」みたいなことを言われてしまって。はぁ、寛容でいるにしろ、譲歩するにしろ、そうやって一歩引くことができるのは、後ろにまだ退ける道が残されているからなのに。",
+                "kr": "회담은 순조롭게 진행되었으니 저도 낙담할 필요는 없지만…… 이번에도 “감염자들이 다 당신처럼 말이 잘 통했다면, 우리도 진작에 기부를 더 많이 했을 텐데.”라는 말을 듣게 되네요. 하아, 관용을 베푸는 것도, 양보를 하는 것도, 사람이 한 발짝 물러선다는 건, 그들에게 뒤로 물러설 길이 남아있었기 때문에 가능한 건데 말이죠.",
+                "cn": "会谈很顺利，我其实不该沮丧，不过......又是“如果感染者能像你一样好脾气，我们早就捐出更多善款了”这种话。唉，宽容也好，谦让也好，人愿意后退一步，那是因为背后有路可退啊。"
+            },
+            "asset": "char_487_bobb/CN_005"
+        },
+        {
+            "id": "char_487_bobb_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "I once escorted some Infected out of that city, with a few Sarkaz in tow. It was a long journey. They had no staves, and their condition only worsened when casting Arts to protect themselves, while I use my own Arts to keep them safe, at no cost to myself... ah, the irony of it all.",
+                "jp": "以前、ロンディニウムから避難する感染者を護送したことがあります。その中にはサルカズも数名いて、かなりの長旅になったものです。アーツユニットを持たない彼らは、自衛のためにアーツを使ってしまえば病状の悪化は避けられません。しかし私がアーツで彼らを守るのには、何の代償もいらない……皮肉なものですね。",
+                "kr": "예전에 런디니움에서 대피하는 감염자들을 호송한 적이 있었습니다. 그중에는 살카즈도 몇 있었어요. 꽤나 긴 여정이었죠. 그들에겐 아츠 스태프가 없었고, 자신의 몸을 지키기 위해 아츠를 시전한다면 병세가 악화하는 걸 피할 수 없는 상황이었습니다. 하지만 제가 오리지늄 아츠로 그들을 지키는 데에는 아무런 대가도 필요하지 않으니…… 정말 아이러니하지 않나요?",
+                "cn": "我护送过一些感染者离开那座城市，包括几名萨卡兹。那是一段很长的路。他们没有法杖，施术自保的话，会导致病情恶化，而我用源石技艺保护他们，无需任何代价......多讽刺啊。"
+            },
+            "asset": "char_487_bobb/CN_006"
+        },
+        {
+            "id": "char_487_bobb_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Yes, the Infected are usually isolated from the masses, and physical contact can be an act of kindness. Though, hugs inherently make people happy. You don't have to be infected or have a particular reason to enjoy one. Would you like a hug, Doctor?",
+                "jp": "ええ、感染者は距離を置かれるのが常ですので、スキンシップを図ることで好意を伝えられると思いますよ。ですが、ハグというのは元より人を幸せにするものであって、感染者だからだとか、他に特別な要因があるからだとか、そんな理由付けなんて必要ないんです。ドクター、ハグ、してみませんか？",
+                "kr": "네, 감염자들은 격리되는 일이 흔하기도 하고, 신체접촉을 통해 호의를 전달하는 방식은 효과적이라고 생각해요. 하지만 돌이켜보면 포옹은 원래부터 사람을 행복하게 만들어 주는 행위였어요. 감염자이기 때문이라든가, 다른 특별한 의미를 부여할 필요가 없긴 해요. 박사님 저희도 포옹해볼까요?",
+                "cn": "嗯，感染者往往与人群隔绝，与他们进行肢体接触能有效传达善意。不过，拥抱本来就能让人感到幸福，人们并不需要是感染者，也不需要拥有其他特别的理由才能享受它。博士，您想要一个拥抱吗？"
+            },
+            "asset": "char_487_bobb/CN_007"
+        },
+        {
+            "id": "char_487_bobb_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Do we have to talk about Londinium...? I once attended an aristocratic ball where everyone covered their crystals as they danced; I helped workers move their lumber as I heard them hoping to build a home before they took their last breaths. They were all smiling, so I want to smile when I tell their stories.",
+                "jp": "どうしてもロンディニウムの話をしないといけませんか？……貴族のパーティーに参加したことがあるんですが、そこでは皆さん結晶を覆い隠して、パートナーの手を引いて踊っていました。労働者の手伝いで木材を運んだ時なんかは、目の黒いうちに自分の家を建てたいなぁなんて願いも聞かされましたよ。みんないい笑顔でした。だから私も笑顔で話しているんです。",
+                "kr": "꼭 런디니움 이야기를 해야 하나요? ……예전에 런디니움 귀족들의 연회에 참여한 적이 있었어요. 그곳에서는 모두가 결정을 가린 채 파트너의 손을 잡고 춤을 추고 있었죠. 그리고 한번은 노동자들을 도와 목재를 날랐는데, 그분들은 죽기 전에 자신의 집을 지어보고 싶다고 하셨죠. 모두 얼마나 환하게 웃으시던지. 제가 지금 이런 얘기를 웃으면서 하는 것도 그런 이유에서예요.",
+                "cn": "一定要说起伦蒂尼姆吗？......我去过贵族的聚会，人们遮住结晶，牵起舞伴的手；我帮工人拉过木料，听他们许愿在咽气前能建好自己的家。他们是笑着的，所以，我也笑着跟您说这些。"
+            },
+            "asset": "char_487_bobb/CN_008"
+        },
+        {
+            "id": "char_487_bobb_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Have a seat, Doctor. No, you aren't interrupting anything. The view isn't that special either. Just another sunrise in the barrens amidst dusky skies. I tell myself the sun rises the same every morning... just as it did that one time I didn't look back.",
+                "jp": "ドクター、どうぞおかけになってください。邪魔だなんてとんでもない、別に何か特別な景色を眺めていたわけではありませんので。寂れた荒野に灰色の空、そして代わり映えのしないただの日の出が見えるだけです。これまで、ずっと自分に言い聞かせてきました。昇る太陽はいつの日も同じ――あの日顧みなかった日の出も、きっと同じなんだって。",
+                "kr": "앉으세요, 박사님. 방해라니요, 천만에요. 특별한 경치를 보고 있던 것도 아닌걸요. 황량한 황야, 회색빛 하늘, 그리고 변함없는 일출뿐이죠…… 전 늘 스스로에게 이렇게 말하곤 했어요. “떠오르는 태양은 언제나 똑같으니, 돌아보지 않았던 그날의 태양도 분명 이 모습 그대로였을 것이다.”라고요.",
+                "cn": "请坐，博士。您当然没有打扰我，我也不是在看什么特别的景色。光秃秃的荒野，灰蒙蒙的天，就只是又一个日出而已。我一直在告诉自己，每一天的日出都一样，那天我没有回头看见的日出也一样。"
+            },
+            "asset": "char_487_bobb/CN_009"
+        },
+        {
+            "id": "char_487_bobb_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Ssh—Hello there, the Doctor's on break at the moment... No, no, the Doctor is being very responsible. No one can work 24/7—everyone has to recharge every once in a while, right?",
+                "jp": "シーッ、静かに――こんにちは、ドクターはお休み中です……あは、いえいえ、もちろんサボりではありませんよ。人は元気いっぱいな時もあれば、どうしてもやる気が出ない時だってあるものです。毎日一心不乱に働ける人なんていないでしょう？",
+                "kr": "쉿, 조용히…… 안녕하세요, 박사님께서 주무시고 계셔서요. 아뇨, 게으름 피우는 게 아니죠. 사람은 기운이 넘칠 때도 있지만, 부족할 때도 있는 법이잖아요. 매일 열심히 일만 하는 사람은 없을 거예요.",
+                "cn": "嘘——你好呀，博士在休息......不不，当然不是偷懒啦，人就是有时候精力充沛，有时候又提不起劲嘛，怎么可能每天都同样地全神贯注呢？"
+            },
+            "asset": "char_487_bobb/CN_010"
+        },
+        {
+            "id": "char_487_bobb_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Hello, I'm here at Rhodes Island for an exchange study, representing the Maylander Foundation's Pure Heart Medical. Your Operators saw me before in Victoria...? I'd like to avoid discussing my experiences there for the time being, if I could.",
+                "jp": "お初にお目にかかります。マイレンダー基金傘下の「赤心社」という団体の代表者として、交流と後学のためにロドスにお伺いした次第です。ヴィクトリアで私を見た方がいる……？む、その経歴に関しては、一旦黙秘させていただいてもよろしいでしょうか？",
+                "kr": "처음 뵙겠습니다. 메이랜더 재단 산하의 적심 의료를 대표하여 교류와 배움을 위해 로도스 아일랜드에 오게 되었습니다. 빅토리아에서 절 보신 분이 있다고요……? 그 경력에 대한 공유는 잠시 보류해도 될까요?",
+                "cn": "您好，我代表梅兰德基金会下属的赤心医疗，前来罗德岛交流学习。有干员在维多利亚境内见过我......？关于那段经历，我想暂时保持沉默，可以吗？"
+            },
+            "asset": "char_487_bobb/CN_011"
+        },
+        {
+            "id": "char_487_bobb_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Sorry, could I just take a short break? It's honestly a bit too loud for me...",
+                "jp": "すみません、小休止を挟んでもいいでしょうか？さすがに騒がしすぎて……",
+                "kr": "죄송하지만, 잠시 휴식을 취해도 될까요? 조금 시끄러워서……",
+                "cn": "抱歉，我可以暂停休息一下吗？实在是有点吵......"
+            },
+            "asset": "char_487_bobb/CN_012"
+        },
+        {
+            "id": "char_487_bobb_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Thank you, Doctor. I'm glad Rhodes Island values me, but I'm afraid my suggestions won't be any better than what you're already doing.",
+                "jp": "ドクター、ありがとうございます。しかし残念ながら、ロドスに重用していただけるというのに、私に出せる提案はロドスがすでに成し遂げた成果に及ばないものばかりですよ。",
+                "kr": "감사합니다, 박사님. 로도스 아일랜드가 절 중요하게 여겨 주심에도 불구하고, 제가 제시한 제안이 여러분께서 이미 이룬 성과에 미치지 못한다는 게 유감스러울 뿐이네요.",
+                "cn": "谢谢您，博士。遗憾的是，罗德岛愿意重视我，我能提出的倡议却不比你们已经做到的更好。"
+            },
+            "asset": "char_487_bobb/CN_013"
+        },
+        {
+            "id": "char_487_bobb_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "I spent one afternoon in middle school reading a Maylander report on how the Infected live, and decided I had to do something for them. As my mind wanders back to that young boy's arrogant self-righteousness, I'm filled with shame. But I did the right thing. I have no regrets.",
+                "jp": "高校時代のとある午後、私はマイレンダーが公表した感染者の生存報告を読み、我こそがあの哀れな人々を救うのだと決心しました。のちにその若き無知蒙昧を幾度となく恥じ入ることになるのですが、幸いながら後悔したことはありません。",
+                "kr": "고등학생 시절의 어느 오후, 전 메이랜더가 발표한 감염자 생존 보고서를 읽고, 내가 그 불쌍한 사람들을 구하겠노라 결심했습니다. 물론 그 어린 시절의 무지에 부끄러웠던 적이 많지만, 다행히 후회한 적은 없습니다.",
+                "cn": "中学时的某个下午，我读到了一篇梅兰德发布的感染者生存报告，便决心救助那些可怜人。后来我一次次为那个年轻人的自以为是而感到愧疚，所幸从不后悔。"
+            },
+            "asset": "char_487_bobb/CN_014"
+        },
+        {
+            "id": "char_487_bobb_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "All this noise... I've gotten used to it.",
+                "jp": "この騒音には……もうすっかり慣れたものです。",
+                "kr": "이 소음은…… 더 이상 낯설지 않네요.",
+                "cn": "这些噪音......对我来说已经不再陌生了。"
+            },
+            "asset": "char_487_bobb/CN_017"
+        },
+        {
+            "id": "char_487_bobb_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Just follow me, everyone. Our plan is set and we have plenty of supplies, so we'll get through this.",
+                "jp": "皆さんは私の後に続いてください。作戦計画も、物資の蓄えも万全ですから、きっとうまく行きます。",
+                "kr": "그럼 여러분, 모두 저를 잘 따라오세요. 작전 계획도, 물자 비축도 완벽하니, 분명 다 잘 될 겁니다.",
+                "cn": "各位跟上我就好。计划都做好了，物资储备也很充足，不会有问题的。"
+            },
+            "asset": "char_487_bobb/CN_018"
+        },
+        {
+            "id": "char_487_bobb_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "If you get too cold, come over near me.",
+                "jp": "寒さで震えが来たら、私のそばに寄って構いませんからね。",
+                "kr": "추워서 몸이 떨린다면 제 옆으로 좀 더 붙으셔도 돼요.",
+                "cn": "如果有人发现自己冷得发抖，可以靠近我一些。"
+            },
+            "asset": "char_487_bobb/CN_019"
+        },
+        {
+            "id": "char_487_bobb_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "We should try talking with the other side, if it's not too late.",
+                "jp": "まだ間に合いそうなら、まずは交渉を試みよう。",
+                "kr": "시간적 여유만 있다면, 협상을 시도해 보고 싶은데요.",
+                "cn": "来得及的话，先跟对方沟通。"
+            },
+            "asset": "char_487_bobb/CN_020"
+        },
+        {
+            "id": "char_487_bobb_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Are you nervous?",
+                "jp": "緊張しているんですか？",
+                "kr": "긴장하셨나요?",
+                "cn": "您紧张吗？"
+            },
+            "asset": "char_487_bobb/CN_021"
+        },
+        {
+            "id": "char_487_bobb_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Of course, ready anytime.",
+                "jp": "もちろん、いつでも出られます。",
+                "kr": "물론이죠, 언제든지 가능합니다.",
+                "cn": "当然，我随时在。"
+            },
+            "asset": "char_487_bobb/CN_022"
+        },
+        {
+            "id": "char_487_bobb_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Phew… My ears might need a second to get used to this environment.",
+                "jp": "はぁ……まずは耳を慣らさないと。",
+                "kr": "하아…… 제 귀가 적응할 시간이 필요할 것 같네요.",
+                "cn": "呼......我的耳朵需要适应一下。"
+            },
+            "asset": "char_487_bobb/CN_023"
+        },
+        {
+            "id": "char_487_bobb_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "This confrontation is inevitable.",
+                "jp": "私たちに避けて通る選択肢はないんだ。",
+                "kr": "이건 저희가 피할 수 없는 거겠죠.",
+                "cn": "这是我们必须面对的。"
+            },
+            "asset": "char_487_bobb/CN_024"
+        },
+        {
+            "id": "char_487_bobb_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Fire is only a boundary.",
+                "jp": "火で超えてはならない一線を引いたまで。",
+                "kr": "불은 그저 경계선에 불과합니다.",
+                "cn": "火只是一道界线。"
+            },
+            "asset": "char_487_bobb/CN_025"
+        },
+        {
+            "id": "char_487_bobb_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Please don't force your way through.",
+                "jp": "強行突破はご遠慮願います。",
+                "kr": "강행 돌파는 삼가해 주세요.",
+                "cn": "请不要强行通过。"
+            },
+            "asset": "char_487_bobb/CN_026"
+        },
+        {
+            "id": "char_487_bobb_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "I won't surrender, so I suggest you take a detour.",
+                "jp": "退くつもりはありませんので、どうか迂回してください。",
+                "kr": "전 물러서지 않을 테니, 부디 우회해서 가주시길.",
+                "cn": "我不会后退，所以请你们绕道吧。"
+            },
+            "asset": "char_487_bobb/CN_027"
+        },
+        {
+            "id": "char_487_bobb_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "If only you had more choices in life…",
+                "jp": "君たちには、もっと多くの選択肢があったはずだ……",
+                "kr": "당신들에게도 다른 선택지가 있었을 텐데……",
+                "cn": "你们本该有更多的选择......"
+            },
+            "asset": "char_487_bobb/CN_028"
+        },
+        {
+            "id": "char_487_bobb_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "It's no wonder so many see you as hope itself... ah, sorry. Does that put a lot of pressure on you?",
+                "jp": "こんなにも多くの方々があなたに希望を見出すのも頷けます……ああ、すみません。こう言われたらプレッシャーになるでしょうか？",
+                "kr": "이렇게 많은 분들이 박사님에게서 희망을 찾는 것도 이해가 되네요…… 아, 죄송합니다, 이렇게 말하면 부담이실까요?",
+                "cn": "难怪那么多人视您为希望......啊，抱歉，我这样说会带给您压力吗？"
+            },
+            "asset": "char_487_bobb/CN_029"
+        },
+        {
+            "id": "char_487_bobb_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Phew— you're really incredible! How about taking a break to celebrate?",
+                "jp": "はぁ――素晴らしい指揮でした！ホッと一息ついて、ささやかな打ち上げでもどうでしょう？",
+                "kr": "휴, 정말 훌륭한 지휘였습니다! 숨도 돌릴 겸, 소소하게나마 파티를 열어볼까요?",
+                "cn": "呼——您可真厉害！想不想放松心情，现在就去庆祝一下？"
+            },
+            "asset": "char_487_bobb/CN_030"
+        },
+        {
+            "id": "char_487_bobb_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Doctor, just say the word and I'll go have a talk with them.",
+                "jp": "ドクターさえよければ、私が彼らと話してきます。",
+                "kr": "박사님께서 허락해 주신다면 제가 저들과 이야기를 나눠 보겠습니다.",
+                "cn": "博士，您同意的话，我去和他们聊聊。"
+            },
+            "asset": "char_487_bobb/CN_031"
+        },
+        {
+            "id": "char_487_bobb_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "...It's alright, we have a contingency plan and plenty of medical supplies. No need to worry.",
+                "jp": "……よかった、撤退プランは予め策定済みですし、医療物資も潤沢に残っているようです。これなら何も心配いりませんね。",
+                "kr": "……그나마 다행이네요, 철수 계획도 세워져 있었고, 의료 물자도 충분해요. 너무 걱정하실 필요는 없어요.",
+                "cn": "......还好还好，有撤退预案，医疗物资也很充足，那就没什么可担心的了。"
+            },
+            "asset": "char_487_bobb/CN_032"
+        },
+        {
+            "id": "char_487_bobb_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "It's going to be hard, convincing other companies to follow this standard of treatment for Infected employees…",
+                "jp": "感染者の社員にこれ相当の待遇をと言っても、なかなか聞いてくれる会社はないだろうな……",
+                "kr": "감염자 직원에게 이 정도의 대우를 해달라고 아무리 말해도, 들어 줄 회사는 없을 거예요……",
+                "cn": "很难说服其他公司以这个标准对待感染者员工啊......"
+            },
+            "asset": "char_487_bobb/CN_033"
+        },
+        {
+            "id": "char_487_bobb_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "If you want to scare me, you should try yelling 'boo!' or something next time.",
+                "jp": "私を驚かせたいのなら、大声を出す方が効きますよ。",
+                "kr": "절 놀래킬 생각이시라면, 큰 소리를 내시는 편이 더 효과적일 겁니다.",
+                "cn": "您如果想吓到我，大叫一声会更有效哦。"
+            },
+            "asset": "char_487_bobb/CN_034"
+        },
+        {
+            "id": "char_487_bobb_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Would you like to talk? I'll bring the beanbag chairs over... oh, you don't have to be so formal. I'm happy to hear whatever you have to say.",
+                "jp": "私とお喋りがしたい？ではビーズクッションを持ってきますね……ええ、畏まらなくていいので、話したいことを何でもおっしゃってください。喜んで聞きますから。",
+                "kr": "저랑 대화를 나누고 싶으신가요? 그럼 빈백 소파를 가져올게요…… 너무 격식 차릴 필요는 없어요. 어떤 말이든 기꺼이 들어 드릴게요.",
+                "cn": "您想找我聊天吗？我把懒人沙发推过来......嗯，不用那么正式，您想说什么都可以，我都乐意听。"
+            },
+            "asset": "char_487_bobb/CN_036"
+        },
+        {
+            "id": "char_487_bobb_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_487_bobb/CN_037"
+        },
+        {
+            "id": "char_487_bobb_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "...Did you call me? Ah, sorry. I had my earplugs in. They only asked me to untangle these streamers, so at least it wouldn't bother anyone if I didn't hear you. Oh, Please don't get me wrong, I do love New Year's. When people make their resolutions, it means they still have hope in their hearts.",
+                "jp": "……お呼びですか？ああすみません、耳栓をしていて。絡まった紙テープをほどく作業だけを任されているので、音が聞こえなくても問題ないかと思い――いえいえ誤解しないでください、年越しは好きですよ。皆さんが願掛けをするということは、それぞれまだ生活に希望を抱いているという証拠ですから。",
+                "kr": "……방금 절 부르셨나요? 죄송해요. 귀마개를 하고 있었어서. 마침 엉킨 종이테이프 푸는 작업을 맡기도 했고, 이건 소리가 들리지 않아도 작업에는 문제없을 거라고 생각했거든요…… 아, 오해하진 마세요, 저도 새해맞이는 정말 좋아해요. 사람들이 소원을 빈다는 건, 아직 각자의 삶에 희망을 품고 있다는 뜻이니까요.",
+                "cn": "......您刚刚叫我了吗？抱歉抱歉，我戴了耳塞。还好大家只让我负责解开所有缠在一起的彩带，听不见也不影响——请别误会，我还是很喜欢新年的。人们会许愿，就说明对生活仍怀抱希望。"
+            },
+            "asset": "char_487_bobb/CN_038"
+        },
+        {
+            "id": "char_487_bobb_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Please let me know if you need anything. Oh yes, you can also ask me to join you on your coffee break.",
+                "jp": "何かご用命があればいつでもお呼びください。ああ、仕事だけでなくコーヒー休憩の際も是非お声がけを。",
+                "kr": "필요하다면 언제든 절 불러주세요. 아, 업무뿐만이 아니라 커피 마시는 휴식 시간에 불러 주셔도 좋아요.",
+                "cn": "您如果有需要，请随时找我。啊，出去喝咖啡休息的时候也可以叫上我。"
+            },
+            "asset": "char_487_bobb/CN_042"
+        },
+        {
+            "id": "char_487_bobb_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "It's crucial we consolidate our achievements so far, but it's inevitable that we'll recall our many regrets and sorrows as well... We should find another day for it, but could I talk to you about a few things I've had on my mind? Yes, I hope you can be the one to hear me out.",
+                "jp": "これまでの成果を総括することも大切ですが、そうして振り返れば、多くの後悔や痛みも目に入ってしまいます……今日はこのいい雰囲気を壊したくないので、また日を改めてお話を聞いていただけますか？ええ、ドクターが聞く側です。",
+                "kr": "지금까지의 성과를 결산하는 것도 중요하지만, 과거를 되돌아보면 분명 수많은 아쉬움과 아픔까지 함께 보이겠죠…… 오늘은 이 좋은 분위기를 망치고 싶지 않으니, 다른 날 저의 이야기를 들어주실 수 있을까요? 네, 그때는 박사님이 들어주세요.",
+                "cn": "总结迄今为止的成就当然重要，不过，回头看的时候，一定也会看到许多遗憾与伤痛......今天的气氛可能不合适，之后我可以找您倾诉一些事情吗？是的，我找您。"
+            },
+            "asset": "char_487_bobb/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Griffyn Bellah",
+            "global": "Griffyn Bellah"
+        },
+        "cn": {
+            "native": "张琪",
+            "global": "Zhang Qi"
+        },
+        "jp": {
+            "native": "武内健",
+            "global": "Ken Takeuchi"
+        },
+        "kr": {
+            "native": "김병현",
+            "global": "Kim Byung-hyun"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

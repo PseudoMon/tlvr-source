@@ -1,0 +1,628 @@
+{
+    "charid": "char_4162_cathy",
+    "nameid": "cathy",
+    "names": {
+        "en": "Catherine",
+        "jp": "キャサリン",
+        "kr": "캐서린",
+        "cn": "凯瑟琳"
+    },
+    "voices": [
+        {
+            "id": "char_4162_cathy_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "A little fowlie says you want me for your job supervisor? You asked for it, then. No bunking off.",
+                "jp": "仕事中だれないように見ててくれって言ったのはあんただろ。ほら、手が止まってるよ。",
+                "kr": "딴짓 못하게 지켜봐 달라고 부탁한 건 너잖아? 제대로 해.",
+                "cn": "是你自己要我监督你干活的。别偷懒。"
+            },
+            "asset": "char_4162_cathy/CN_001"
+        },
+        {
+            "id": "char_4162_cathy_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "What's that? Bit of a din? Sorry about that, treacle. We work as we chat, we do. Say, did Feist ever mention? I can't sing a lullaby to save me life. We're all out building Londinium, keeping it going day and night, and meanwhile our little ones are nodding off to the clinking of our hammers.",
+                "jp": "音がうるさいかい？悪いね。仕事しながらおしゃべりするのに慣れててさ。フェイストから聞いたかい？あたしにゃ子守歌なんぞ歌えないがね。仲間と作り上げたロンディニウムは昼も夜も絶えず稼働し続け、うちのガキどもは鉄を打つ音で眠りにつくってわけさ。",
+                "kr": "소리가 시끄러웠나? 미안하네. 일하면서 수다를 떠는 데 익숙해져서 말이야. 피스트에게 들었는지 모르겠다만, 난 자장가 같은 건 못 불러. 우린 런디니움을 만들었고, 그건 밤낮 가리지 않고 돌아가지. 그리고 우리의 아이들은 땅땅하고 쇠 두드리는 소리 속에서 잠에 들어.",
+                "cn": "这声音有点吵？不好意思，我们习惯了一边干活一边跟人聊天。费斯特跟你讲起过吗？我可不会唱摇篮曲。我们造出伦蒂尼姆，它日夜运转，而我们的孩子就在打铁的叮叮声里入睡。"
+            },
+            "asset": "char_4162_cathy/CN_002"
+        },
+        {
+            "id": "char_4162_cathy_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "You don't believe it, do you, when I say the kids here can't get enough of me? I talk about me metalworking, that's all, and they gawp like I'm straight out of fairyland. Got a few Sarkaz eyeing me like a ghost, too... Bet you anything they saw what we could rustle up in Londinium.",
+                "jp": "あたしがここではいつも子供に囲まれてるってのが不思議みたいだね。あの子らはあたしがしてやる鉄の塊をぶっ叩く話が好きなだけだよ。童話を聞いてるようなもんさ。で、何人かあたしを見るなり逃げ出すサルカズは……ハッ、あいつらは労働者たちがロンディニウムで何を作り出してたかを知ってるんだよ。",
+                "kr": "내가 늘 아이들한테 둘러싸여 있는 게 신기한 모양이군? 아이들은 그저 내가 쇠를 두드리던 시절의 이야기를 좋아하는 것뿐이야. 마치 동화를 듣는 것처럼 말이지. 그리고 날 보자마자 도망가는 살카즈들은…… 하, 저 녀석들은 노동자들이 런디니움에서 무엇을 만들어냈는지 잘 알고 있지.",
+                "cn": "你好像不太相信我在这里总被孩子围住，是吗？他们只是喜欢听我讲敲铁块的故事，就像听童话。至于那么一两个绕着我走的萨卡兹......呵，他们见过工人们在伦蒂尼姆敲出了什么。"
+            },
+            "asset": "char_4162_cathy/CN_003"
+        },
+        {
+            "id": "char_4162_cathy_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Rummaging scrap from the tip, forging a thing or two out of it, it's pretty run-of-the mill. Plenty of us did that for fun during job training, I know I did. You hammer down at first and 'BANG!', and you think to yourself, heaven almighty, what if someone hears me? But soon enough, you're going hammer and tong just to get it finished. See, now you know how we felt making the walkers.",
+                "jp": "ゴミ溜めからくず鉄を拾い出して部品を作るってのは、珍しくもないね。工員たちのほとんどが見習いの時分に、それを楽しみにしてるんだ。あたしもそうだった。一番最初にこそこそハンマーを振り下ろした時は、音がでかすぎやしないかびくびくするが、そのうち頭の中は良い物を作ろうって考えでいっぱいになる。そうさ、あたしらはそうやって「クローラー」を作り出したんだよ。",
+                "kr": "쓰레기 더미에서 고철을 주워 부품을 만드는 건 결코 드문 일이 아니야. 노동자들 대부분이 견습 시절부터 그걸 하나의 즐거움으로 여겼지. 물론 나도 마찬가지고. 처음 몰래 망치를 내리쳤을 때는 소리가 너무 큰 것 같아 안절부절못했던 게 생각나네. 물론 금세 어떻게 해야 더 잘 만들 수 있을까만 생각하게 됐지만. 맞아, 우린 이렇게 보행전차를 만들어낸 거야.",
+                "cn": "从垃圾堆里捡拾废铁，炼出钢件，这不算稀奇事，许多工人做学徒时都会以此为乐，我也是。偷偷敲下第一锤时你会担心声音太响，后来你就只会想着把东西做好。看，我们就是这样造出了步行战车。"
+            },
+            "asset": "char_4162_cathy/CN_004"
+        },
+        {
+            "id": "char_4162_cathy_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Our Speaker's got a gorgeous name, you know, Vina Victoria. Right pain of a signature! I can see her practicing now. She asked me one time, get this, 'do you want a seat in Parliament?' But I think I'd rather stay in the factories, keep an eye on the kinds of acts she's signing in. She bloody well knows we're watching.",
+                "jp": "「ヴィーナ・ヴィクトリア」か。議長閣下は随分見栄えのいい名前をお持ちだね。新しいサインをきちんと書けるようになるのは、簡単じゃあなかっただろう。あの方はあたしを議会ホールに座らせようと話をしにきたよ。けど、あたしはむしろ工場に残って、どんな法案にこの名前がサインされるかを見てる方がいい。あの方は知ってるさ。あたしらに見られてることを。",
+                "kr": "'비나 빅토리아'라…… 의장님께선 참으로 예쁜 이름을 가지고 계시는군. 새로운 사인을 연습하는 것도 쉽지 않겠어. 그분은 날 의회에 앉힐 생각으로 찾아왔었지만, 난 오히려 지켜보고 싶더군. 공장에 남아서 그분이 어떤 법안에 그 이름을 서명하는지를 말이야. 그분도 알고 있을 거야. 우리가 지켜보고 있다는 것을.",
+                "cn": "“维娜·维多利亚”，议长阁下有个多漂亮的名字啊，练好这个新签名可不容易。她找过我，想让我坐进议会的大厅，但我宁可待在工厂里，看看她在什么样的法案上签了字。她懂的，我们盯着呢。"
+            },
+            "asset": "char_4162_cathy/CN_005"
+        },
+        {
+            "id": "char_4162_cathy_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Treacle, I've nothing to hide. You'd find it crap too, having to shelter in your own city. The first step was working with everyone I could. Get them to safety, made more arms in secret, more munitions to fight back. Carried on until every factory was in on it. Luckily, some people did us a massive favor with their agendas. Reunion, you know plenty about them, right? I want to hear.",
+                "jp": "隠すことなんざ何もないよ。ロンディニウムで隠れて逃げ回る暮らしは、生易しいもんじゃない。色んなところと協力したからこそ、より多くの人間を生かすことができた。武器を密造して、最後は全ての工場を抱き入れた。ちょうど、一部の連中が持つ信念があたしらにとっても利益のあるものでね――ふっ、あんたはレユニオンについてよく知ってるんだろう？どれ、ちょっと話してくれないかい。",
+                "kr": "숨기는 건 없어, 숨길 만한 것도 없고. 런디니움에서 숨어 지내는 건 결코 쉬운 일이 아니었지. 여러 곳과 협력하지 않았다면 그렇게 많은 사람을 살릴 수도, 비밀리에 무기를 제조할 수도, 마지막으로 모든 공장을 포섭할 수도 없었을 거야. 마침 어떤 이들의 신념이 우리에게 이득이 되는 경우도 있었고…… 넌 리유니온에 대해서 많이 알고 있지? 들어볼 수 있을까?",
+                "cn": "没什么可隐瞒的。在城内躲藏的日子不容易，只有与各方合作，我才能保下更多人，秘密造出军火，最后联系上所有工厂。正好，有些人的信念于我们有益——你很了解整合运动，是不是？跟我说说。"
+            },
+            "asset": "char_4162_cathy/CN_006"
+        },
+        {
+            "id": "char_4162_cathy_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "I need to thank you, Doctor, you did more than I ever guessed. If the airship hadn't fallen, we wouldn't be here now having tea. And while we're at it, I appreciate you not calling an old foundrywoman a 'war hero' for driving a walker. Let's be clear: us workers never wanted to be fighting the war.",
+                "jp": "あんたには感謝しないといけないね、ドクター。思っていたよりも遥かに動いてくれたみたいだ。もしあの飛行艇が墜落していなかったら、あたしらがここで揃って茶を飲むこともなかったはずだよ。それと、「クローラー」に乗ったこの老いぼれ工員を「英雄」と呼ばないでくれたのも感謝するよ。あんたも知ってるだろう、あたしらは戦争したいなんてこれっぽっちも思ってないんだ。",
+                "kr": "박사 너에겐 감사의 인사를 해야 되겠군. 넌 내가 생각했던 것보다 더 많은 일들을 해줬어. 만약 비행선이 추락하지 않았다면 우리가 여기서 함께 차를 마실 일도 없었겠지. 그리고 보행전차를 모는 나 같은 늙은 노동자를 '전쟁 영웅'이라고 부르지 않는 것도 정말 고맙게 생각해. 너도 알다시피, 우리 노동자들은 원래부터 전쟁 같은 건 할 생각이 없었거든.",
+                "cn": "我得感谢你，博士，你做的事情比我想象中更多。如果飞空艇没有坠落，我们可没机会坐在这里喝茶。当然，也感谢你没有管一个开步行战车的老工人叫“战争英雄”。你知道，工人们从来没想打仗。"
+            },
+            "asset": "char_4162_cathy/CN_007"
+        },
+        {
+            "id": "char_4162_cathy_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Pardon me boy Feist. He's got inventions on the brain, and not much in the way of people skills. Got a bit of a ways to go. Lucky he's still alive to invent Londinium something new... That's not what really matters, though, I just thank the stars he survived at all.",
+                "jp": "フェイストの小僧は、まだ大局を見れていないところがあるし、人付き合いの方でも感情的で考えなしだ。冴えてるのは何かしら発明してる時だけだよ。あの子が死に損なって良かったよ、ロンディニウムのために新しいものを開発できるからね……ふっ、なんであれ、あたしはあの子が生き残ったことを喜ぶんだけどね。",
+                "kr": "피스트 그 녀석은 아직 큰 그림을 볼 줄 모르고, 사람을 사귈 때도 상당히 경솔하게 굴지만, 그래도 발명할 때만큼은 꽤나 영리한 편이야. 지금까지 잘 살아남은 걸 보니, 앞으로 런디니움을 위해 새로운 발명을 해낼 수 있겠지…… 훗, 어찌 됐든 난 그 녀석이 살아있어서 다행이라고 생각하네.",
+                "cn": "费斯特那小子，大局观还有所欠缺，和人打交道依然很莽撞，也就搞发明的时候还算机灵。还好他活到了现在，能给伦蒂尼姆鼓捣些新发明......哈，无论如何，我都会庆幸他活了下来。"
+            },
+            "asset": "char_4162_cathy/CN_008"
+        },
+        {
+            "id": "char_4162_cathy_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "I'm getting on. Even without the Oripathy, my time's coming up, and I'm fine with that. Mind if I have a smoke...? Odds are, I'll be gone before I can hammer out the Londinium I remember. So be it. For each of us old bastards that kicks it, the city's frees up for a youngen.",
+                "jp": "あたしは年寄りだから、鉱石病にかかってなくても、どのみち先は長くない。だけどそんなのはどうでもいいんだ。タバコを吸っても？……頭の中にあるロンディニウムをもう一度作るには時間が足りないだろうけどね、ちょうどいいさ。年寄りがくたばることで、この都市から荷を少し下ろせるからね。",
+                "kr": "난 늙었으니 광석병에 걸리지 않았더라도 남은 시간은 그리 많지 않아. 뭐, 그런 건 아무래도 상관없어. 담배 한 대 피워도 괜찮겠나? ……내 기억 속의 런디니움을 다시 만들어 내기엔 시간이 모자랄지도 모르지만…… 이 늙은이가 죽으면 이 도시도 짐을 조금은 내려놓을 수 있겠군.",
+                "cn": "我是个老家伙，就算没有矿石病，时间也不多了，但这没什么。介意我抽根烟吗？......我多半是来不及敲出我记得的那个伦蒂尼姆了，正好，就让这座城市随着老家伙的死而卸下一些东西吧。"
+            },
+            "asset": "char_4162_cathy/CN_009"
+        },
+        {
+            "id": "char_4162_cathy_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Don't nod off here. If you want good rest, you sleep when you're meant to. Do things when you should, keep it to a rhythm, alright, treacle?",
+                "jp": "うたた寝するんじゃない。寝るべき時に寝てこそ、体がちゃんと休まるんだ。規律正しく行動するのが一等大事だよ。",
+                "kr": "졸지 말도록. 잠은 자야 할 시간에 자야 더 푹 잘 수 있는 법이니까. 규칙적인 생활을 하는 게 그 무엇보다 중요해.",
+                "cn": "别打瞌睡。在该睡的时候睡觉，你才能休息得更好。按照规律做事才是最重要的。"
+            },
+            "asset": "char_4162_cathy/CN_010"
+        },
+        {
+            "id": "char_4162_cathy_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Save your hospitality, Doctor. I'm only checking in me grandson here. I'll park myself in your office for a bit, give him time to hide all his gadgets… Huh, don't constipate yourself either, just say the word if Rhodes Island wants a favor done.",
+                "jp": "堅苦しいのはいらないよ、ドクター。あたしはうちの孫の様子を見に来ただけだ。あのハナタレのことだから、きっと今頃色々隠したいもんがあるだろうし、ひとまずあんたの執務室に少しお邪魔するよ……ふっ、あんたも、あたしにロドスの仕事をさせたいなら、変に隠す必要はないからね。",
+                "kr": "그렇게 격식 차릴 필요는 없어, 박사. 난 내 손자를 보러온 것뿐이니까. 그 녀석이라면 분명 숨길 것들이 있을 테니, 일단은 네 집무실에 잠시 앉아있도록 할까 하는데 괜찮겠지? ……그리고 너도, 로도스 아일랜드를 위해 부탁할 일이 있다면 숨기지 말고 말해.",
+                "cn": "不用客套，博士，我只是来看看我那个孙子。他肯定有些小玩意要藏起来，我先在你办公室坐一会儿......你想让我帮罗德岛做事，也不用藏着掖着。"
+            },
+            "asset": "char_4162_cathy/CN_011"
+        },
+        {
+            "id": "char_4162_cathy_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Doctor, how many of you made it back safe and sound?",
+                "jp": "ドクター、いま映ってる人らで無事に帰ってきたのは何人いる？",
+                "kr": "박사, 지금 화면에 보이는 사람들 중에 무사히 돌아온 건 몇이나 되지?",
+                "cn": "博士，这里面好端端回来的，有几个？"
+            },
+            "asset": "char_4162_cathy/CN_012"
+        },
+        {
+            "id": "char_4162_cathy_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Now what's the point in decorating this old rust bucket? I suppose she could bang out a shinier medal for you.",
+                "jp": "わざわざ古ぼけた機械を飾る必要はないよ。それとも、そいつにもっと綺麗なメダルでも作ってほしいのかい。",
+                "kr": "이런 낡아빠진 기계에 장식을 달 필요는 없지 않나? 아, 아니면 그걸로 더 예쁜 훈장이라도 만들어 달라는 건가?",
+                "cn": "不用费心装饰一台老式的机器，除非你想让它打出一枚更漂亮的勋章还给你。"
+            },
+            "asset": "char_4162_cathy/CN_013"
+        },
+        {
+            "id": "char_4162_cathy_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "The war had us Londiniers all hammering away on the same line. It might be over now, but we're still thick as thieves. You've won the trust of a good lot, and I think you can imagine their power.",
+                "jp": "戦争はロンディニウムの労働者たちを一つのラインに集めて、槌で叩き続けた。そいつが終わっても、あたしらはまだ集まったまんまだ。今あんたを信じてついていってるこいつらの力がどれほどのものか、あんただって分かってるはずだよ。",
+                "kr": "전쟁은 런디니움의 노동자들을 한 생산 라인에 세워 망치질하게 만들었지. 전쟁은 이제 끝났지만 우린 흩어지지 않았어. 지금 널 믿고 따르는 이들이 얼마나 큰 힘을 가지고 있는지, 너도 잘 알고 있을 거라고 생각한다.",
+                "cn": "战争将伦蒂尼姆的工人们放在同一条流水线上锤打。战争结束了，我们却没有分开。现在信任着你的这群人有多大力量，你应该心里有数。"
+            },
+            "asset": "char_4162_cathy/CN_014"
+        },
+        {
+            "id": "char_4162_cathy_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "The old machine's getting on a bit, but she still runs as fine as ever.",
+                "jp": "旧型ではあるけどね、使い出には遜色ないよ。",
+                "kr": "구형이긴 하지만, 사용하는 데는 문제 없다고.",
+                "cn": "这台机器是有些年头了，但运行起来可丝毫不差。"
+            },
+            "asset": "char_4162_cathy/CN_017"
+        },
+        {
+            "id": "char_4162_cathy_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Sure. I'll be watching this lot.",
+                "jp": "分かった。こいつらの面倒は見とくよ。",
+                "kr": "알겠다, 이 녀석들은 내가 잘 지켜보도록 하지.",
+                "cn": "行，我会盯着这些人。"
+            },
+            "asset": "char_4162_cathy/CN_018"
+        },
+        {
+            "id": "char_4162_cathy_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Keep your wits about ya. Even a factory machine can bite your finger right off.",
+                "jp": "ぼさっとするんじゃないよ。工場の機械にだって、指を持ってかれるんだからね。",
+                "kr": "정신 차리고 똑바로 해. 별거 아닌 공장 기계라도 언제든 네 손가락을 물어뜯어 버릴 수도 있으니까.",
+                "cn": "放机灵点，就算是工厂的机器，也能咬掉你的手指。"
+            },
+            "asset": "char_4162_cathy/CN_019"
+        },
+        {
+            "id": "char_4162_cathy_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Nothing to fear. We're here now. We're standing firm. We will win.",
+                "jp": "怖がることはないさ。地に足をつけてここまで来たなら、失敗なんてするわけないよ。",
+                "kr": "두려워할 필요 없다. 이곳까지 착실하게 두 발로 걸어왔으니, 우리가 패배할 일은 없다.",
+                "cn": "没什么可怕的。只要是踏踏实实走到这里的，就出不了错。"
+            },
+            "asset": "char_4162_cathy/CN_020"
+        },
+        {
+            "id": "char_4162_cathy_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "What do you need?",
+                "jp": "なんだい。",
+                "kr": "말해.",
+                "cn": "说吧。"
+            },
+            "asset": "char_4162_cathy/CN_021"
+        },
+        {
+            "id": "char_4162_cathy_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Got the ol' girl ready to work.",
+                "jp": "あたしの相棒はいつでも仕事できるよ。",
+                "kr": "내 파트너는 언제든 일할 수 있어.",
+                "cn": "我手里的家伙随时能干活。"
+            },
+            "asset": "char_4162_cathy/CN_022"
+        },
+        {
+            "id": "char_4162_cathy_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Here as planned.",
+                "jp": "計画通り位置についたよ。",
+                "kr": "예정된 위치에 도착했다.",
+                "cn": "按预定计划抵达。"
+            },
+            "asset": "char_4162_cathy/CN_023"
+        },
+        {
+            "id": "char_4162_cathy_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "What? We've got secret tunnels of our own.",
+                "jp": "そんなに驚くことかい？あたしらには秘密ルートがあるんだ。",
+                "kr": "그렇게 놀랄 일인가? 우리에게는 비밀 루트가 있거든.",
+                "cn": "有什么值得惊讶的吗？我们有自己的秘密通道。"
+            },
+            "asset": "char_4162_cathy/CN_024"
+        },
+        {
+            "id": "char_4162_cathy_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Brighter on the furnace!",
+                "jp": "炉の火力が足りてないよ。",
+                "kr": "용광로의 화력을 높여!",
+                "cn": "炉子烧得再旺点。"
+            },
+            "asset": "char_4162_cathy/CN_025"
+        },
+        {
+            "id": "char_4162_cathy_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Get that steam rising!",
+                "jp": "蒸気を噴かせ。",
+                "kr": "증기를 방출해라.",
+                "cn": "让蒸汽升起来。"
+            },
+            "asset": "char_4162_cathy/CN_026"
+        },
+        {
+            "id": "char_4162_cathy_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Cover your ears!",
+                "jp": "耳を塞いでな。",
+                "kr": "귀를 막아.",
+                "cn": "捂住耳朵。"
+            },
+            "asset": "char_4162_cathy/CN_027"
+        },
+        {
+            "id": "char_4162_cathy_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Victory to every Londinier!",
+                "jp": "勝利は全ロンディニウム人のもんだ。",
+                "kr": "승리는 전부 런디니움인의 것이다.",
+                "cn": "胜利归于每一个伦蒂尼姆人。"
+            },
+            "asset": "char_4162_cathy/CN_028"
+        },
+        {
+            "id": "char_4162_cathy_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "They say quenching makes or breaks steel, but without all the hammering first, you'll never get the good stuff. Haha, not half bad, Doctor.",
+                "jp": "部品の品質は、焼き入れした時に決まるんだ。だけど、その前にちゃんと一振り一振りハンマーで仕事してなきゃ碌なもんにはならない。よくやったね、ドクター。",
+                "kr": "부품의 품질은 담금질로 결정된다고 해도 과언이 아니지. 하지만 담금질 이전에 망치질을 제대로 하지 않았다면 아무런 결과도 얻어내지 못했을 거야. 정말 잘해 줬다, 박사.",
+                "cn": "钢件的品质好坏在淬火那一刻就会定下，但如果没有淬火前一下又一下的敲打，你什么都做不出来。干得不错，博士。"
+            },
+            "asset": "char_4162_cathy/CN_029"
+        },
+        {
+            "id": "char_4162_cathy_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "The grander the machinery, the tighter the little parts need to mesh. All credit to you, Doctor. You know how to make a squad tick.",
+                "jp": "大型の機械であればあるほど、小さい部品の噛み合わせがシビアになるんだよ。あんたは作戦効率の上げ方の肝をよく知ってるね。",
+                "kr": "큰 기계일수록 작은 부품 사이사이의 맞물림 정도가 중요한 법이지. 넌 확실히 작전 효율을 높이는 요령을 잘 알고 있는 것 같네.",
+                "cn": "越是大型的机械，越苛求微小零部件之间的契合程度。你的确掌握了提高作战效率的精髓。"
+            },
+            "asset": "char_4162_cathy/CN_030"
+        },
+        {
+            "id": "char_4162_cathy_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "The most precise tools aren't free from error, and sometimes we have to accept defects. Don't look back, Doctor. What matters is planning the next step.",
+                "jp": "あたしたちは、キズを受け入れなきゃいけない時があるんだよ。どんなに精密な機械だって、誤差が出るのは避けられないんだ。くよくよ後悔するのはやめな。今大事なのは次にどうするかだ。",
+                "kr": "우리도 때로는 흠집을 받아들여야 할 때가 있어. 아무리 정밀한 기계라도 오차가 발생하는 건 피할 수 없는 일이니까. 이제 그만 돌아봐, 박사. 지금 우리에게 중요한 건 이 다음 계획이다.",
+                "cn": "有时我们得接受瑕疵，哪怕是最精密的仪器也无法避免误差。别回头了，博士，现在要紧的是下一步规划。"
+            },
+            "asset": "char_4162_cathy/CN_031"
+        },
+        {
+            "id": "char_4162_cathy_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "*cough*, *cough* *hack*... Did you really think it through, eh?",
+                "jp": "ごほっ、ごほ……あんた、やりきったって言えるかい？",
+                "kr": "콜록, 콜록…… 너, 이게 네 최선이라고 말할 생각은 아니겠지?",
+                "cn": "咳、咳咳......你觉得自己想清楚了吗？"
+            },
+            "asset": "char_4162_cathy/CN_032"
+        },
+        {
+            "id": "char_4162_cathy_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Whoo… Is all of this your little Closure girl's nonsense?",
+                "jp": "ここにあるのは全部クロージャの娘っ子の作品かい？",
+                "kr": "여기 있는 건 모두 클로저 그 녀석의 작품인가?",
+                "cn": "这些都是可露希尔那个小丫头的杰作？"
+            },
+            "asset": "char_4162_cathy/CN_033"
+        },
+        {
+            "id": "char_4162_cathy_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Need a hand with something?",
+                "jp": "手伝いが必要かい？",
+                "kr": "도움이 필요한가?",
+                "cn": "需要我搭把手？"
+            },
+            "asset": "char_4162_cathy/CN_034"
+        },
+        {
+            "id": "char_4162_cathy_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Doesn't smell of motor oil here. I'll have to get used to that.",
+                "jp": "機械油の匂いがしない空気にも、おいおい慣れないといけないね。",
+                "kr": "기름 냄새가 나지 않는 공기에도, 이제 익숙해져야겠지.",
+                "cn": "没有机油味的空气，我还得慢慢适应。"
+            },
+            "asset": "char_4162_cathy/CN_036"
+        },
+        {
+            "id": "char_4162_cathy_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4162_cathy/CN_037"
+        },
+        {
+            "id": "char_4162_cathy_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "It's rare to hear the factories go quiet like this in Londinium. Even the snow can fall without being melted by steam. War's over now. Even if the snow's not as white, I'm sure people can feel that it's a fresh start. For those who have made it through the war, there's no better blessing than that.",
+                "jp": "ロンディニウムじゃ、こういう工場の轟音が聴こえない日は珍しいよ。雪が蒸気ですぐに融けるなんてこともないしね。たとえ雪がそんなに白くなくても、みんながこれは新しい始まりだって感じてるさ。あの戦争を生き抜いた人間にとって、これ以上の祝福はないよ。",
+                "kr": "이날은 런디니움에선 모처럼 공장의 굉음이 들리지 않는 날이었고, 내리는 눈도 증기로 금방 녹지 않았어. 비록 깨끗하고 하얀 눈은 아니었지만, 소복이 쌓인 눈을 보며 사람들은 이것이 새로운 시작이라는 걸 느낄 수 있었지. 그 전쟁 속에서 살아남은 사람들에게 이보다 더 큰 축복은 없을 거야.",
+                "cn": "在伦蒂尼姆，难得有这么个听不到工厂轰鸣的日子，雪也不会立刻因蒸汽而融化。就算雪没那么白，人们还是会感到，这是新的开始。对于从那场战争中走出来的人而言，没有比这更好的祝福了。"
+            },
+            "asset": "char_4162_cathy/CN_038"
+        },
+        {
+            "id": "char_4162_cathy_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Don't stretch yourself too thin, Doctor. I've spied with my little eye, Amiya worrying for you.",
+                "jp": "あんまり自分を追い詰めすぎないようにね、ドクター。アーミヤがあんたのことを心配してるよ。",
+                "kr": "너무 스스로를 몰아붙이지 말도록, 박사. 아미야가 널 걱정하고 있어.",
+                "cn": "不要把自己逼得太紧，博士。我注意到阿米娅在担心你。"
+            },
+            "asset": "char_4162_cathy/CN_042"
+        },
+        {
+            "id": "char_4162_cathy_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Time's the most honest thing there is. Your manifesto won't prove anything. The tracks you leave on the earth, that's what matters… Not that you need me teaching you. I see that part of you, Doctor. The part that's always here to stay.",
+                "jp": "時間は誰も欺きやしない。理想やらスローガンやらは何の証明にもならないんだよ。大事なのはあんたらがこの大地に残してきた跡だ……あたしからいちいち教える必要はないよ、ドクター。あんたがずっと頑張ってきたのは、見れば分かるからね。",
+                "kr": "시간은 누구도 속이지 않아, 아주 정직하지. 이상이나 슬로건은 그 어떤 것도 증명할 수 없어. 중요한 건 너희가 이 대지에 남기는 흔적이야…… 이걸 너한테 가르쳐 줄 필요는 없을 것 같네. 네가 그동안 얼마나 열심히 살아왔는지는 이렇게 보는 것만으로도 알 수 있으니까.",
+                "cn": "时间是最不会骗人的。理想与口号证明不了什么，重要的是你们在大地上留下的辙痕......你不需要我来教你，博士。我看得出来，你确实一直都有所坚持。"
+            },
+            "asset": "char_4162_cathy/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Bethan Dixon",
+            "global": "Bethan Dixon"
+        },
+        "cn": {
+            "native": "武向彤",
+            "global": "Xiangtong Wu"
+        },
+        "jp": {
+            "native": "深見梨加",
+            "global": "Rica Fukami"
+        },
+        "kr": {
+            "native": "김옥경",
+            "global": "Kim Ok-gyeong"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

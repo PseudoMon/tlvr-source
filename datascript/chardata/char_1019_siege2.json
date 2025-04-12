@@ -1,0 +1,628 @@
+{
+    "charid": "char_1019_siege2",
+    "nameid": "siege2",
+    "names": {
+        "en": "Vina Victoria",
+        "jp": "ヴィーナ・ヴィクトリア",
+        "kr": "비나 빅토리아",
+        "cn": "维娜·维多利亚"
+    },
+    "voices": [
+        {
+            "id": "char_1019_siege2_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "A Dublinn spy, one of Caster's lackeys, the leader of the workers, plus Wiš'adel... Fancy that, a full house? In any case, I take it I can rest while you handle my business? Since you <i>did</i> let me tuck myself back onto the ship.",
+                "jp": "ダブリンのスパイ、カスターの部下、労働者の顔役、それにウィシャデルか……なぜタイミングよく全員がいるんだ？まあいい、どのみち私が連中を躱すために帰艦して休暇をとるのは、貴様が許可を出したことだからな。全て私の代わりに処理してくれるんだろう？",
+                "kr": "더블린의 스파이, 캐스터의 부하, 노동자들의 지도자, 그리고 위셔델까지…… 어떻게 이 타이밍에 모두 여기에 있는 거지? 뭐, 상관없나. 내가 함선으로 피해서 휴가를 보낼 수 있게 허락한 건 너니까, 네가 전부 나 대신 처리해 주는 거다?",
+                "cn": "深池间谍、开斯特下属、工人领袖，还有维什戴尔......怎么恰好大家都在？不管了，反正你都同意让我躲回本舰来休假了，那你一定能替我全部处理好的，对吧？"
+            },
+            "asset": "char_1019_siege2/CN_001"
+        },
+        {
+            "id": "char_1019_siege2_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "What's this? It's one of those healthy meals they hand out outside the training grounds. 'Help yourselves', they say. What's that look for? It tastes good enough, better than the emergency ration handouts in Londinium by a country mile... Tell you something I know better now, Doctor. It's bloody hard, as it were, to keep a city's worth of bellies full.",
+                "jp": "何を食べている、だと？訓練場の入口にある、セルフサービスの栄養食だ。ん？なんだその顔は？味？まずまずだ。ロンディニウムが提供している非常食より余程マシだ……ドクター、私は今、身に染みて分かるようになった。一つの都市から飢餓を消すのは、本当に難しいんだ。",
+                "kr": "뭘 먹고 있냐고? 훈련장 입구의 영양식이야. 응? 왜 그런 표정을 짓는 거지? 생각보다 먹을만해, 맛도 런디니움에서 제공하는 비상식량에 비해 훨씬 괜찮고…… 박사, 난 이제야 깨달았어. 도시에 굶주리는 사람이 없도록 만드는 건 정말…… 정말 힘든 일이라는걸.",
+                "cn": "在吃什么？放在训练场门口的自取营养餐呀。嗯？为什么这副表情？味道还行，比伦蒂尼姆供应的应急口粮可好多了......博士，我现在更理解了，要让一座城市没有饿肚子的人很难很难。"
+            },
+            "asset": "char_1019_siege2/CN_002"
+        },
+        {
+            "id": "char_1019_siege2_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "My sword here has enough legends to fill a storybook. Even my teacher had his version to tell, flourishes and all. Yet, people only seem to remember those who wielded the sword, not the ones who forged it first... I won't stand for that, Doctor. I'll be there to tell the stories of the unsung heroes.",
+                "jp": "私の手にあるこの剣は、数多くの伝説を持つ。先生が教えてくれたものですら、彼による修飾がなされていた。人々は往々にして、伝説の中で誰が剣の所持者であったかだけを記憶し、その剣の作り手には目もくれない。だが、そうあるべきではないんだ。ドクター、無視されてきた者の物語を私が彼らの代わりに語ろう。",
+                "kr": "내 손에 쥐어진 이 검에는 수많은 전설이 깃들어 있어. 선생님이 내게 들려준 전설에도, 선생님만의 각색이 더 추가되었지. 사람들은 전설 속에서 검을 들었던 사람만 기억할 뿐, 검을 만든 사람은 기억하지 않아. 하지만 이래선 안 돼, 박사. 무시당한 이들의 이야기는 내가 대신해서 사람들에게 전하겠어.",
+                "cn": "我手上这柄剑有过许多传说，哪怕是老师告诉我的版本，也添加了他自己的修饰。人们往往只会记住传说中何人持剑，而无视剑被谁铸就。但不该这样，博士，被无视者的故事我来替他们讲。"
+            },
+            "asset": "char_1019_siege2/CN_003"
+        },
+        {
+            "id": "char_1019_siege2_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Sometimes, after a night of dotting Is and crossing Ts, I'll climb up onto the roof of Westhaleg and watch the sun come up. Down in the street, there'll be costermongers hollering, workers delivering goods. On occasion, you'll spot my boxing gym mates, all hungover. A few of them'll look up and see me, and we'll wave at each other. I love this city a lot, Doctor.",
+                "jp": "時々、徹夜で書類仕事をし終えた後に西部大広間の屋根に登って、日の出を見るんだ。通りには呼び売りや、荷運びがいて、時々二日酔いのボクシングジムの常連が通りがかることもある。顔を上げてこちらを見つけた者がいれば、私も挨拶を交わす。私はこの都市をとても愛しているんだ、ドクター。",
+                "kr": "가끔 서류 결재를 위해 밤을 새곤 하는데, 그럴 때마다 난 서쪽 회당 지붕에 올라서서 일출을 구경해. 길거리엔 소리치는 가게 주인, 물건을 나르는 노동자, 가끔은 숙취에 시달리는 복싱장 친구도 보이곤 하는데, 고개를 들어 나를 쳐다보는 사람이 있으면, 나도 그들과 인사를 나눠. ……박사, 나는 이 도시를 정말 사랑해.",
+                "cn": "有时候通宵批完公文，我会爬到西部大堂屋顶上看看日出。街上有吆喝的小贩、送货的工人，有时宿醉后的拳馆老伙计也会路过。有人抬头看到了我，我也会和他们打招呼。我很爱这座城市，博士。"
+            },
+            "asset": "char_1019_siege2/CN_004"
+        },
+        {
+            "id": "char_1019_siege2_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "All this regalia's from an old friend. It's not the lightest thing ever... I'll tell you what she taught me: If you've got a noble 'calling' that pisses you off, then go on and get loud about it. Give it hell, and hold nothing back. I can't argue being Speaker now weighs on my shoulders, but my spirit will stand tall, and I'll have her as my witness.",
+                "jp": "今、身にまとっているこの服は非常に重い……古い友人が寄越した品だ。ドクター、彼女が私に教えてくれたのは、いわゆる「使命」を呪う時には、思い切り罵ってかまわんということだ。私が議長という責任を負ったのは確かだが、それに心意気まで挫かれるほどやわではない。彼女にもいずれ分かるだろう。",
+                "kr": "이 옷은 상당히 무거워…… 어느 오래된 친구가 내게 보내 준 거야. 박사, 그 친구가 그랬는데, '사명'을 저주할 때는 마음껏 욕해도 된다더라? 내가 의장의 책임을 맡은 건 맞지만, 그 책임 때문에 마음이 꺾일 정도로 연약하진 않아. 그녀도 언젠가는 알게 될 거야.",
+                "cn": "这身衣服很重......是一位老朋友送的。博士，她教会我的，是咒骂所谓“使命”时不必留情。虽然担起了议长的责任不假，但我还不至于被其磨平了心气。她会看到的。"
+            },
+            "asset": "char_1019_siege2/CN_005"
+        },
+        {
+            "id": "char_1019_siege2_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "'Victoria'... I know to a lot of people, it's not me that sticks out, it's my name. But so what? The things they're so desperate to scrounge from me are the things I'm off to smash to bits. It's in my power to force that through their heads, sooner or later. The fight's only just started.",
+                "jp": "「ヴィクトリア」……多くの者が気に掛けているのはこの名であり、私自身ではないことを知っている。だからなんだと言うんだ？遅かれ早かれ私は、奴らに認めさせるんだ。奴らが心の底から私に求めているものこそ、私が徹底的に打ち壊そうとしているものなのだと。戦いは始まったばかりだ。",
+                "kr": "'빅토리아'…… 많은 사람들이 나 자신이 아니라, 내 이름을 중요하게 여긴다는 걸 알고 있어. 하지만 그게 어떻다는 거지? 난 사람들이 인정하게 만들 거야. 그들이 마음속에서 내게 바라는 것이야말로, 내가 철저히 깨부수려 하는 것이라고. 싸움은 이제부터 시작이야.",
+                "cn": "“维多利亚”......我知道很多人在乎的是我的名字，而不是我本人。但那又怎么样？我迟早要他们承认，他们心底里渴望从我这得到的东西，就是我要彻底砸烂的东西。战斗才刚开始呢。"
+            },
+            "asset": "char_1019_siege2/CN_006"
+        },
+        {
+            "id": "char_1019_siege2_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Alright, I've been coming back aboard a bit much recently, I admit. Mm-mm-mm, I'm not skiving. It's just hard to meet some of the people here otherwise. Delphine's dead set on calling it 'diplomacy'... And I don't just drag you along as a safeguard, Doctor. I have to be honest, I do want to learn a little more from you.",
+                "jp": "まあ、近頃本艦に戻る回数が多いのは認めよう。だが、決して怠けてるわけではない！ここでは、普段はあまり会えない者に会えるので、デルフィーンが頑なにそれを「外交」だと……貴様を引き込んでいるのも思わぬ問題の発生を避けるためだけではないんだ。私自身、貴様からより多くを学びたいと思っているのを認めねばな。",
+                "kr": "그래, 요즘 이 함선으로 돌아오는 횟수가 많아지긴 했네, 인정할게. 하지만 게으름을 피우는 건 아니야! 여기선 내가 평소에 만나기 힘든 사람들을 볼 수도 있고, 델핀도 계속 이런 게 '외교'라고 하니까…… 널 끌어들이는 것도 괜한 문제를 피하기 위해서만은 아니야. 그래, 난 아직 너한테서 배우고 싶은 게 많아.",
+                "cn": "好吧，我承认最近回舰的次数有点多了。不是偷懒！在这里，我能见一些平时不太好见的人，戴菲恩硬要说这叫“外交”......拉上你也不光为了避免意外，我得承认，我还想从你那学到更多。"
+            },
+            "asset": "char_1019_siege2/CN_007"
+        },
+        {
+            "id": "char_1019_siege2_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "My face? Just a blister, nothing big, helped Indra and the lot in a fight as I was passing through Norport. Heh, even the ones challenging our turf don't come half as strong as they used to. I've seen babies punch harder than... My clothes? Oh, flip, I forgot to change into my casuals!",
+                "jp": "顔の傷？大したものではない。ノーポート区を通りがかった時にインドラたちの喧嘩に加勢しただけだ。ふん、今となってはシマを奪いに来る者ですら歯ごたえがなく、攻撃も生ぬるい……服？く――平服に着替えるのを忘れた！",
+                "kr": "얼굴에 난 상처? 별거 아냐, 그냥 전에 노포트 구를 지나다가 인드라 걔네를 도와서 한바탕하다가 난 거야. 흥, 구역을 빼앗으러 온 놈조차 이젠 죄다 약해빠져가지곤, 공격이랍시고 사람 맥 빠지게 하는…… 응? 내 옷? 앗…… 평상복으로 갈아입는 걸 깜빡했잖아!",
+                "cn": "脸上的伤？没什么大碍，路过诺伯特区时顺手帮因陀罗她们干了一架。哼，现在连来抢地盘的人都弱了一大截，出手软绵绵的......衣服？哎我——我忘了换便服！"
+            },
+            "asset": "char_1019_siege2/CN_008"
+        },
+        {
+            "id": "char_1019_siege2_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Can you believe it? A simple trick like that and Dr. Kal'tsit's got the whole Glasgow Gangers on Rhodes Island. Wait, you knew all along? Haha! Come on, no need to dodge. There! A playful rap on the head, that's how we boxers respect our opponents after a match is done.",
+                "jp": "ふん、ケルシー先生は、あの頃随分と子供騙しの技でグラスゴーをロドスまで連れてきていたな。なんだ、貴様はとっくに知っていたのか。はっ、私の拳から逃げる必要はない。拳で相手の頭を小突くのは、私たちの試合の後で一目置いた者に対する礼儀だ。",
+                "kr": "쳇, 그러니까 켈시 선생님은 그때 그런 간단한 속임수로 우리 글래스고를 속여서 로도스 아일랜드로 데려온 거네? 잠깐, 너도 진작에 알고 있었어? 하, 내 주먹 피하지 마. 주먹으로 상대의 머리를 살짝 치는 건, 복싱 경기가 끝난 후에 상대를 인정하는 예의 같은 거니까.",
+                "cn": "凯尔希医生当初居然用那么简单的小伎俩就把我们格拉斯哥帮给骗到罗德岛来了。等等，原来你早就知道？哈，不用躲我的拳头。大拳头敲大头，这可是我们拳赛后认可对手的礼仪。"
+            },
+            "asset": "char_1019_siege2/CN_009"
+        },
+        {
+            "id": "char_1019_siege2_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Wake up, Doctor, you've got tons of business to sort out still— hah, finally I get to tell someone else that.",
+                "jp": "起きろドクター。まだ終わっていない仕事がたくさんあるだろう―――はは、ようやく私の方がこの言葉をかける側になったな。",
+                "kr": "일어나, 박사. 아직 해야 할 일이 산더미라고…… 하, 드디어 나도 다른 사람한테 이런 말을 해 보네.",
+                "cn": "博士醒醒，你还有很多公务没有处理完呢——哈，终于换我对别人讲这话了。"
+            },
+            "asset": "char_1019_siege2/CN_010"
+        },
+        {
+            "id": "char_1019_siege2_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Doctor, to be clear, this is not official business. What it is is two old friends, reuniting now the war's over. And about my old files... I think I'll finally fill in my name. Vina Victoria. No more hiding from it.",
+                "jp": "ドクター、これは公式な訪問ではない。古馴染み同士の戦後の再会だと思ってくれ。それと、私の旧プロファイルについてだが……名前の欠けている部分は書き足すつもりだ。ヴィーナ・ヴィクトリア。私はもう逃げない。",
+                "kr": "박사, 이걸 공식적인 방문이 아니라, 그냥 전쟁이 끝난 뒤 오랜 친구 사이의 재회라고 생각해 줘. 그리고 내 예전 프로필 말인데…… 비었던 이름을 채우고 싶어. 비나 빅토리아. 난 더 이상 숨지 않을 거야.",
+                "cn": "博士，这不是一次官方访问，把这当做老朋友在战后的重逢吧。至于我的旧档案......我会补全我的名字，维娜·维多利亚。我不会再躲了。"
+            },
+            "asset": "char_1019_siege2/CN_011"
+        },
+        {
+            "id": "char_1019_siege2_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Can't help feeling the itch... I might go and file for time off with Parliament.",
+                "jp": "なんだかうずうずしてきたな……機を見て議会に休みを申請せねば。",
+                "kr": "흠…… 왠지 손이 근질근질한데? 나중에 의회에 휴가를 신청해 봐야겠어.",
+                "cn": "有点手痒了......得找个机会向议会请假。"
+            },
+            "asset": "char_1019_siege2/CN_012"
+        },
+        {
+            "id": "char_1019_siege2_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "I lost a lot of mine, on the way back home. Parliament awarded them all these posthumous medals, and I still don't know who to even give them to... We weren't told how heavy glory weighs. I came out knowing.",
+                "jp": "故郷に戻る途上で、私は多くの同行者を失った。議会がその者たちに追贈した勲章を誰に渡せばいいのかすら分からない……栄光の背後にある重さを、私は嫌というほど理解している。",
+                "kr": "고향으로 돌아가는 길에서 난 수많은 동료를 잃었어. 의회에서 추서한 훈장조차 누구에게 전달해야 할지 솔직히 잘 모르겠어…… 영광의 배후에 존재하는 무게감을 이제 난 지겨울 정도로 잘 알아.",
+                "cn": "重新回家的路上，我失去了很多的同行者，甚至连议会为他们追授的勋章我都不知道该交给谁......荣耀背后的沉重，我已经深有体会。"
+            },
+            "asset": "char_1019_siege2/CN_013"
+        },
+        {
+            "id": "char_1019_siege2_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "I know clear as day what's up ahead. If I'm the only one left at the end of this all, so be it, I won't hesitate. But in my heart, drinking with her best mates until we drop in the sunset, that's the happy end to the story of Vina, the story of the Siege.",
+                "jp": "歩んだ先に広がる景色はよく分かっている。たとえ道の終わりに残っているのが私だけだとしても、決して迷いはしない。私にとっては、良き仲間たちと共に、夕焼けの中で酔って地に寝転がるのが、「シージ」の物語の完璧なエンディングだ。",
+                "kr": "내 앞에 펼쳐질 풍경은 잘 알고 있어. 설령 이 길의 끝에 혼자 남겨진다 해도, 난 결코 망설이지 않을 거야. 친구들을 끌어안고 석양빛 아래 함께 취해서 쓰러지는 게, '시즈' 이야기의 완벽한 엔딩일 테니까.",
+                "cn": "我很清楚前路的风景，哪怕这条路的终点只剩我一人，我也不会迟疑。在我心里，和好友们相拥醉倒在夕阳里，就是“推进之王”故事的完美结局。"
+            },
+            "asset": "char_1019_siege2/CN_014"
+        },
+        {
+            "id": "char_1019_siege2_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "I fight alongside you once again, Doctor, with a sword that's not just for show.",
+                "jp": "また肩を並べて戦うことができるな。ドクター、この剣は飾りではないぞ。",
+                "kr": "다시 어깨를 나란히 하고 싸울 수 있겠네. 박사, 이 검은 장식이 아니야.",
+                "cn": "又能并肩而战了，博士，这柄剑可不是装饰。"
+            },
+            "asset": "char_1019_siege2/CN_017"
+        },
+        {
+            "id": "char_1019_siege2_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "I'll adjust my combat style to fit you all.",
+                "jp": "戦闘スタイルを調整する形で皆に合わせる。",
+                "kr": "팀에 맞게 전투 스타일을 조정하도록 하지.",
+                "cn": "我会调整作战方式来配合大家。"
+            },
+            "asset": "char_1019_siege2/CN_018"
+        },
+        {
+            "id": "char_1019_siege2_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Recon, strategize, deploy… then, the siege.",
+                "jp": "偵察、計画、準備……そして実行。",
+                "kr": "정찰, 계획, 배치…… 그다음은 전진이다.",
+                "cn": "侦察，策划，布局......然后推进。"
+            },
+            "asset": "char_1019_siege2/CN_019"
+        },
+        {
+            "id": "char_1019_siege2_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "I've been through crueler fights.",
+                "jp": "もっと残酷な戦いも経験した。",
+                "kr": "더 잔혹한 전투도 난 겪어 봤다.",
+                "cn": "我经历过更残酷的战斗。"
+            },
+            "asset": "char_1019_siege2/CN_020"
+        },
+        {
+            "id": "char_1019_siege2_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Finally I can limber up.",
+                "jp": "やっと体を動かせるな。",
+                "kr": "드디어 내 차례인가.",
+                "cn": "终于能活动筋骨了。"
+            },
+            "asset": "char_1019_siege2/CN_021"
+        },
+        {
+            "id": "char_1019_siege2_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "It's the frontline for me after all.",
+                "jp": "やはり前線に立つのが性に合うな。",
+                "kr": "역시 최전선에 서는 게 더 익숙하군.",
+                "cn": "果然还是更习惯站在前线。"
+            },
+            "asset": "char_1019_siege2/CN_022"
+        },
+        {
+            "id": "char_1019_siege2_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Wish I didn't scare you.",
+                "jp": "驚きすぎて呆けたか？",
+                "kr": "놀라서 얼이 빠진 건가?",
+                "cn": "被吓傻了？"
+            },
+            "asset": "char_1019_siege2/CN_023"
+        },
+        {
+            "id": "char_1019_siege2_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Get up! There'll be no bending of the knee!",
+                "jp": "怖気づいて膝を折るなよ。跪かれるのは好かん！",
+                "kr": "겁먹지 말라고, 나도 무릎 꿇리는 취미 같은 건 없으니까!",
+                "cn": "别怂，我不喜欢别人对我下跪！"
+            },
+            "asset": "char_1019_siege2/CN_024"
+        },
+        {
+            "id": "char_1019_siege2_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "I forbid your retreat.",
+                "jp": "誰が逃げていいと言った。",
+                "kr": "도망치는 걸 허락한 적은 없을 텐데.",
+                "cn": "我没准你撤退。"
+            },
+            "asset": "char_1019_siege2/CN_025"
+        },
+        {
+            "id": "char_1019_siege2_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Who says you can't hammer with a sword?",
+                "jp": "剣で殴ってはいけない道理などなかろう？",
+                "kr": "검으로 사람을 때리지 말라는 법은 없잖아?",
+                "cn": "谁说不能用剑砸人？"
+            },
+            "asset": "char_1019_siege2/CN_026"
+        },
+        {
+            "id": "char_1019_siege2_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Negotiations are useless here.",
+                "jp": "交渉は受け付けない。",
+                "kr": "교섭은 통하지 않는다.",
+                "cn": "交涉在这不起作用。"
+            },
+            "asset": "char_1019_siege2/CN_027"
+        },
+        {
+            "id": "char_1019_siege2_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Violence too, is an effective means.",
+                "jp": "暴力もまた有効な手段だ。",
+                "kr": "폭력도 효과적인 수단이지.",
+                "cn": "暴力也是有效的手段。"
+            },
+            "asset": "char_1019_siege2/CN_028"
+        },
+        {
+            "id": "char_1019_siege2_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "My teacher was right. With each step forward, I still learn something new from you.",
+                "jp": "先生の言葉は正しい。私が成長を重ねてなお、貴様から学べるものは尽きない。",
+                "kr": "선생님 말씀이 맞았어. 내가 성장을 거듭해도, 너한테선 언제나 새로운 걸 배울 수 있어.",
+                "cn": "老师说得没错，每次更进一步之后，我都还能从你身上学到新东西。"
+            },
+            "asset": "char_1019_siege2/CN_029"
+        },
+        {
+            "id": "char_1019_siege2_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Getting to lump you with the thinking work feels bloody refreshing. It's been forever since I had a stress-free scrap!",
+                "jp": "たまに頭脳労働を貴様に任せると、本当に爽快だな。何の責任も持たず気持ちよく戦ったのはずいぶん久しぶりだ。",
+                "kr": "머리 쓰는 일을 너한테 맡겨 버리니까 정말 상쾌한걸. 오랜만에 아무것도 책임질 필요 없이 시원하게 싸웠어!",
+                "cn": "偶尔把思考的工作扔给你可真痛快，很久没卸下担子爽快打一场了！"
+            },
+            "asset": "char_1019_siege2/CN_030"
+        },
+        {
+            "id": "char_1019_siege2_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "The most precious lesson war taught me was this—there's never an absolute best-case. Regret is its own kind of mercy, and that goes for us and them both.",
+                "jp": "戦争が私にもたらした最も得難い教訓は、完璧なものなど存在しないということだ。無念もある種の慈悲だ。私にとっても、敵にとってもな。",
+                "kr": "전쟁이 내게 준 가장 큰 교훈은 이 세상에 완벽한 건 없다는 사실이야. 유감 역시 일종의 자비나 마찬가지겠지. 내게도, 그리고 적에게도.",
+                "cn": "战争给我最珍贵的教训就是——从没有绝对的完美。遗憾也是一种仁慈，对我对敌皆是。"
+            },
+            "asset": "char_1019_siege2/CN_031"
+        },
+        {
+            "id": "char_1019_siege2_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Not time to give up yet. Follow me, I'll bring you all home.",
+                "jp": "諦めるのはまだ早い。ついてこい、私が貴様らを連れて帰る。",
+                "kr": "포기하긴 아직 일러. 따라와, 내가 너희들을 데리고 돌아가겠어.",
+                "cn": "还没到放弃的时候，跟上我，我带你们回家。"
+            },
+            "asset": "char_1019_siege2/CN_032"
+        },
+        {
+            "id": "char_1019_siege2_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "...Really calms you down here. Think I'll get my forty winks.",
+                "jp": "……安心できる場所だな。少し眠るか。",
+                "kr": "……여기라면 역시 안심이 되네. 잠깐 잠이나 잘까.",
+                "cn": "......让人安心的地方，打个盹吧。"
+            },
+            "asset": "char_1019_siege2/CN_033"
+        },
+        {
+            "id": "char_1019_siege2_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Um. My cape... you're stepping on it.",
+                "jp": "マント……踏んでいるぞ。",
+                "kr": "내 망토…… 밟고 있는데.",
+                "cn": "披风......你踩到了。"
+            },
+            "asset": "char_1019_siege2/CN_034"
+        },
+        {
+            "id": "char_1019_siege2_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Eh? Did you say something, Gawain?",
+                "jp": "ん？先生が話しているのか？",
+                "kr": "응? 선생님이 날 찾은 건가?",
+                "cn": "欸，老师在说话？"
+            },
+            "asset": "char_1019_siege2/CN_036"
+        },
+        {
+            "id": "char_1019_siege2_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_1019_siege2/CN_037"
+        },
+        {
+            "id": "char_1019_siege2_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Doctor, if you're wondering about the prezzie pile in the cafeteria, that's from Londiniers all over. They had their local branch send them in, as thanks to Rhodes Island. Not one person who's alive will forget what we paid... Happy New Year, and do have a butcher's around the city when you can.",
+                "jp": "ハッピーニューイヤー、ドクター。食堂に置いてあるプレゼントは全てロンディニウムにいる皆が現地の事務所に託して運んできたもので、ロドスに対する感謝の気持ちだ。今生きている者たちは誰一人、私たちが何を犠牲にしたかを忘れはしない……機会があればまた、あの都市を訪れてみるといい。",
+                "kr": "박사, 식당에 놓여 있는 선물들은 모두 런디니움의 사람들이 현지 사무소에 의뢰해서 보내온 거야. 로도스 아일랜드에 대한 감사의 마음이지. 지금 살아 있는 사람들은 우리가 무엇을 희생했는지 결코 잊지 않을 거야…… 새해 복 많이 받아, 나중에 기회가 되면 다시 한번 그 도시에 가 보자.",
+                "cn": "博士，食堂堆放的礼物都是伦蒂尼姆的大伙委托当地办事处运过来的，是对罗德岛的感谢，每一个活着的人，都不会忘记我们付出了什么......新年快乐，有机会再去看看那座城市吧。"
+            },
+            "asset": "char_1019_siege2/CN_038"
+        },
+        {
+            "id": "char_1019_siege2_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "I always feel a bit awkward gamboling about Rhodes in this outfit. Need me to change back?",
+                "jp": "この衣装でロドスを歩き回るのはどうも恥ずかしいんだ。着替えた方がいいか？",
+                "kr": "지금 이 옷차림으로 로도스 아일랜드를 돌아다니기엔 조금 부끄러운데…… 옷을 갈아입는 게 좋으려나?",
+                "cn": "穿这套衣服在罗德岛瞎逛总觉得有点难为情，需要我换回去吗？"
+            },
+            "asset": "char_1019_siege2/CN_042"
+        },
+        {
+            "id": "char_1019_siege2_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Ever since that upheaval, Rhodes Island has been on every central nation's watchlist. Each future step you take might well cause new turmoil, but clearly you lot have set your hearts on something. Doctor, when Rhodes Island is in its most crucial moments, Londinium will be there to aid.",
+                "jp": "あの動乱の後、ロドスは全ての主要な国家の要注意リストに載った。この先の一挙一動が新たな混乱を引き起こす可能性があるが、貴様たちは明らかにある種の覚悟を決めているな。ドクター、ロンディニウムは最も必要な時に、ロドスの助けとなろう。",
+                "kr": "그 전란 이후로, 로도스 아일랜드는 모든 주요 국가의 경계 목록에 오르고 말았어. 앞으로의 일거수일투족이 새로운 혼란을 불러일으킬 수도 있겠지만, 너희도 분명 나름의 각오를 마쳤겠지. 박사, 런디니움은 가장 중요한 순간에 로도스 아일랜드의 힘이 되어줄 거야.",
+                "cn": "那场动乱后，罗德岛已经进入了所有核心圈国家的重点关注名单，未来每一步都有可能引起新的动荡，但显然你们已经下定了某种决心。博士，伦蒂尼姆会在关键时刻成为罗德岛的助力。"
+            },
+            "asset": "char_1019_siege2/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Claudia Jolly",
+            "global": "Claudia Jolly"
+        },
+        "cn": {
+            "native": "梁爽",
+            "global": "Shuang Liang"
+        },
+        "jp": {
+            "native": "川澄綾子",
+            "global": "Ayako Kawasumi"
+        },
+        "kr": {
+            "native": "가빈",
+            "global": "Ga Bin"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

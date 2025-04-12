@@ -553,12 +553,20 @@
         "kr": {
             "native": "강새봄",
             "global": "Kang Sae-bom"
+        },
+        "old_cn": {
+            "native": "伽月",
+            "global": "Hart Lau"
         }
     },
     "availability": [
         "en",
         "cn",
         "jp",
-        "kr"
-    ]
+        "kr",
+        "old_cn"
+    ],
+    "audio_path_override": {
+        "old_cn": "https://raw.githubusercontent.com/PseudoMon/arknights-audio/5e1b475f1a8ac48144c1a790224ee8bc8ac130b0/voice_cn"
+    }
 }
