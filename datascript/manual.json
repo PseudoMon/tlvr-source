@@ -21,6 +21,16 @@
             "baseurl": "https://raw.githubusercontent.com/PseudoMon/arknights-audio/256053567424c27eac3e9ef8cc411f5d13cb8c21/voice_en"
         },
 
+        "elysm": {
+            "lang": "jp",
+            "actor":
+            {
+                "native": "森久保祥太郎",
+                "global": "Showtaro Morikubo"
+            },
+            "baseurl": "https://raw.githubusercontent.com/PseudoMon/arknights-audio/9f839553efcfdf31146543a6ad1ca5536a0c5790/voice"
+        },
+
         "rope": {
             "lang": "jp",
             "actor":

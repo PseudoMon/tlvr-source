@@ -611,18 +611,26 @@
             "global": "Kaiqi Yang"
         },
         "jp": {
-            "native": "森久保祥太郎",
-            "global": "Showtaro Morikubo"
+            "native": "山中真尋",
+            "global": "Masahiro Yamanaka"
         },
         "kr": {
             "native": "남도형",
             "global": "Nam Doh-hyeong"
+        },
+        "old_jp": {
+            "native": "森久保祥太郎",
+            "global": "Showtaro Morikubo"
         }
     },
     "availability": [
         "en",
         "cn",
         "jp",
-        "kr"
-    ]
+        "kr",
+        "old_jp"
+    ],
+    "audio_path_override": {
+        "old_jp": "https://raw.githubusercontent.com/PseudoMon/arknights-audio/9f839553efcfdf31146543a6ad1ca5536a0c5790/voice"
+    }
 }

@@ -1092,6 +1092,19 @@
         "rating": 4
     },
     {
+        "fullid": "char_4165_ctrail",
+        "nameid": "ctrail",
+        "numberid": "4165",
+        "name": {
+            "en": "Contrail",
+            "jp": "コントレイル",
+            "kr": "콘트레일",
+            "cn": "云迹"
+        },
+        "nation": "columbia",
+        "rating": 4
+    },
+    {
         "fullid": "char_128_plosis",
         "nameid": "plosis",
         "numberid": "128",
@@ -2509,6 +2522,19 @@
         "rating": 5
     },
     {
+        "fullid": "char_4155_talr",
+        "nameid": "talr",
+        "numberid": "4155",
+        "name": {
+            "en": "Figurino",
+            "jp": "フィグリーノ",
+            "kr": "피구리노",
+            "cn": "裁度"
+        },
+        "nation": "siracusa",
+        "rating": 5
+    },
+    {
         "fullid": "char_107_liskam",
         "nameid": "liskam",
         "numberid": "107",
@@ -2688,6 +2714,19 @@
             "cn": "洋灰"
         },
         "nation": "rim",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4148_philae",
+        "nameid": "philae",
+        "numberid": "4148",
+        "name": {
+            "en": "Philae",
+            "jp": "フィラエ",
+            "kr": "필라에",
+            "cn": "菲莱"
+        },
+        "nation": "sargon",
         "rating": 5
     },
     {
@@ -3445,6 +3484,19 @@
         "rating": 6
     },
     {
+        "fullid": "char_4026_vulpis",
+        "nameid": "vulpis",
+        "numberid": "4026",
+        "name": {
+            "en": "Vulpisfoglia",
+            "jp": "ウルピスフォリア",
+            "kr": "불피스폴리아",
+            "cn": "忍冬"
+        },
+        "nation": "siracusa",
+        "rating": 6
+    },
+    {
         "fullid": "char_479_sleach",
         "nameid": "sleach",
         "numberid": "479",
@@ -3692,6 +3744,19 @@
         "rating": 6
     },
     {
+        "fullid": "char_1038_whitw2",
+        "nameid": "whitw2",
+        "numberid": "1038",
+        "name": {
+            "en": "Lappland the Decadenza",
+            "jp": "荒蕪ラップランド",
+            "kr": "라플란드 더 데카덴차",
+            "cn": "荒芜拉普兰德"
+        },
+        "nation": "siracusa",
+        "rating": 6
+    },
+    {
         "fullid": "char_4046_ebnhlz",
         "nameid": "ebnhlz",
         "numberid": "4046",
@@ -3861,6 +3926,19 @@
         "rating": 6
     },
     {
+        "fullid": "char_245_cello_sale#12",
+        "nameid": "cello-sale",
+        "numberid": "245",
+        "name": {
+            "en": "Virtuosa SALE",
+            "jp": "ヴィルトゥオーサ SALE",
+            "kr": "비르투오사 SALE",
+            "cn": "塑心 SALE"
+        },
+        "nation": "laterano",
+        "rating": 6
+    },
+    {
         "fullid": "char_250_phatom",
         "nameid": "phatom",
         "numberid": "250",
@@ -3895,6 +3973,19 @@
             "jp": "キリンRヤトウ",
             "kr": "키린R 야토",
             "cn": "麒麟R夜刀"
+        },
+        "nation": "rhodes",
+        "rating": 6
+    },
+    {
+        "fullid": "char_1502_crosly",
+        "nameid": "crosly",
+        "numberid": "1502",
+        "name": {
+            "en": "CrownSlayer",
+            "jp": "クラウンスレイヤー",
+            "kr": "크라운슬레이어",
+            "cn": "弑君者"
         },
         "nation": "rhodes",
         "rating": 6
@@ -4558,6 +4649,19 @@
             "jp": "聖約イグゼキュター",
             "kr": "이그제큐터 디 엑스 포에데레",
             "cn": "圣约送葬人"
+        },
+        "nation": "laterano",
+        "rating": 6
+    },
+    {
+        "fullid": "char_1032_excu2_sale#12",
+        "nameid": "excu2-sale",
+        "numberid": "1032",
+        "name": {
+            "en": "Executor the Ex Foedere SALE",
+            "jp": "聖約イグゼキュター SALE",
+            "kr": "이그제큐터 디 엑스 포에데레 SALE",
+            "cn": "圣约送葬人 SALE"
         },
         "nation": "laterano",
         "rating": 6

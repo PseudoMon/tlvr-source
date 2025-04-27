@@ -1,0 +1,628 @@
+{
+    "charid": "char_4148_philae",
+    "nameid": "philae",
+    "names": {
+        "en": "Philae",
+        "jp": "フィラエ",
+        "kr": "필라에",
+        "cn": "菲莱"
+    },
+    "voices": [
+        {
+            "id": "char_4148_philae_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "I can help you transcribe the documents. I used to help the priests copy the scriptures all the time, so I have a lot of experience with this kind of work. Oh, you use photocopiers here? In that case, I'll just guard you.",
+                "jp": "書類を書き写すお手伝いならできますよ。以前は、神官たちの代わりによく経典を写していたので、そういう仕事は慣れているのです。コピー機を使えばいい、ですか？それなら、あなたの護衛を務めるとしましょう。",
+                "kr": "문서를 옮겨 적는 일이라면 제가 도와드릴 수 있어요. 예전에 신관들을 대신해 경전을 자주 필사해봐서 익숙하거든요. 복사기를 쓰면 된다고요? 그럼 전 당신의 호위를 맡도록 할게요.",
+                "cn": "我可以帮你把文件誊写下来，以前我经常帮神官们抄录经文，这样的工作我很有经验。可以用复印机？那我就当你的护卫吧。"
+            },
+            "asset": "char_4148_philae/CN_001"
+        },
+        {
+            "id": "char_4148_philae_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Shh, keep quiet; don't startle it. An operator who knows insects told me this chrysalis is about to emerge. It feels wonderful, waiting for life to break free. I wonder what color its wings will be. Yes? You think it's turning darker? It can't be…",
+                "jp": "しーっ、静かに。この子を驚かさないようお願いします。昆虫に詳しいオペレーターさんの話では、この繭はそろそろ羽化するところだそうですよ。命がその殻を破って飛び出す瞬間を待つのは、とても素晴らしいものですね。この子は、一体どんな色の羽を伸ばすのでしょうか？えっ？繭がどんどん黒ずんでいるように見える？そんな、まさか……",
+                "kr": "쉿, 조용히. 이 아이를 놀라게 하지 말아 주세요. 곤충에 대해 잘 아는 오퍼레이터분께서 알려 주셨는데, 이 고치는 곧 부화할 거라고 해요. 생명이 껍데기를 뜯고 나오는 순간을 기다리는 건 정말 멋진 일이에요. 이 아이는 과연 어떤 색깔의 날개를 펼칠까요? 네? 고치가 점점 검게 변하는 것 같다고요? 설마, 그럴 리가……",
+                "cn": "嘘，轻一点，不要惊到它。熟悉昆虫的干员告诉我，这只蛹快要羽化了。等候生命破茧而出的感觉，很美妙，它会伸展出什么颜色的翅翼呢？嗯？你觉得它越来越黑了？不会吧......"
+            },
+            "asset": "char_4148_philae/CN_002"
+        },
+        {
+            "id": "char_4148_philae_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "The high priest gave me this telescope to broaden my perspectives. I would watch tuskbeasts on the prowl, traveling merchants, and even the Minoan cities, yet my thoughts lingered in the temple. Even though it was right beside me, it felt farther than the horizon.",
+                "jp": "神官長が私にこの望遠鏡を授けてくださったのは、視野を広げさせるためでした。あの頃の私は、狩りをする牙獣や往来する行商人、さらにはミノスの都市までもを見ることができましたが、心は常に神殿へと向けていました。その神殿はすぐそばにあるというのに、地平線よりも遠く感じたものです。",
+                "kr": "신관장님께서는 제게 시야를 넓히라는 의미로 이 망원경을 주셨어요. 그때 전 사냥하는 터스크비스트, 오고 가는 상인들, 심지어는 미노스의 도시까지 볼 수 있었지만, 마음은 언제나 신전을 향해 있었죠. 신전은 바로 옆에 있었음에도 불구하고, 지평선 너머보다도 더 멀게 느껴졌었습니다.",
+                "cn": "神官长给我这个望远镜，是为了让我开阔眼界。那段时日，我能看到围猎的牙兽、往来的行脚商，甚至还有米诺斯的城邦，心思却全在神庙上。明明它就在身边，我却感觉比地平线还要遥远。"
+            },
+            "asset": "char_4148_philae/CN_003"
+        },
+        {
+            "id": "char_4148_philae_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Am I daydreaming? No, I'm feeling the flow of the wind. Doctor, do you believe there are rivers in the sky as well? I do. They're invisible, yet nourishing; the gentle wind is their gift. Hmm, is it... raining? Let's head back, Doctor. I wouldn't want you to catch a cold.",
+                "jp": "ぼんやりしてどうしたのか、と？ただ、風の流れを感じていただけですよ。ドクターさんは、空にも河が流れていると言ったら信じますか？それは影も形もありませんが、しっとりと潤む清らかな風はその河からの贈り物なのです。これは……雨粒？降り始めてしまいましたね。帰りましょうか？風邪をひいてしまったら、元も子もないですから。",
+                "kr": "왜 멍하니 있냐고요? 그저 바람의 흐름을 느끼고 있었을 뿐이에요. 박사님, 박사님은 하늘에도 강이 흐른다고 하면 믿으시겠어요? 그 강은 그림자도 형체도 없지만, 맑고 촉촉한 바람은 그 강이 주는 선물이랍니다. 이건…… 빗방울인가요? 비가 내리기 시작했네요. 돌아갈까요? 감기라도 걸리면 큰일이니까요.",
+                "cn": "发呆？不，我正在感受风的流动。博士，你相信天空中也有河川吗？它无影无形，清润的风就是它的馈赠。这是......水滴？下雨了，要一起回去吗？如果着凉，就得不偿失了。"
+            },
+            "asset": "char_4148_philae/CN_004"
+        },
+        {
+            "id": "char_4148_philae_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Doctor, Midnight is twisting Spot's neck, and Orchid is pummeling Midnight... They are not fighting? But Sarkaz don't usually form friendships with other races... Is it because of Midnight's charm? Mhmm... Yes? You say he is not a good role model?",
+                "jp": "ドクターさん。向こうで、スポットさんの首を掴んだミッドナイトさんが、オーキッドさんに叩かれているのですが……え、喧嘩ではない？サルカズの身で、ほかの種族の方と友情を築けるなんて……ミッドナイトさんに人格的な魅力があるからこそでしょうか？えっ？真似したらだめ？",
+                "kr": "박사님, 저쪽에서 미드나이트 씨가 스팟 씨의 목을 비틀고 있고, 오키드 씨가 그런 미드나이트 씨를 때리고 있는데요…… 싸우는 게 아니라고요? 살카즈가 저렇게 다른 종족과 우정을 쌓을 수 있다니…… 미드나이트 씨에게 신비한 매력이 있어서 그런 걸까요? 네? 저런 건 배우지 말라고요?",
+                "cn": "博士，月见夜先生正扭着斑点先生的脖子，梓兰小姐在捶打他......他们不是在打架？作为萨卡兹，能和其他种族建立友谊......是因为月见夜先生的人格魅力吗？欸？你让我别学他？"
+            },
+            "asset": "char_4148_philae/CN_005"
+        },
+        {
+            "id": "char_4148_philae_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "When I left the temple, I took it with me and had a master smith craft it into a shield. Special, isn't it? The ancient texts say that sarcophagi are meant to guard the deceased for centuries, so they're always sturdy. I thought, since it would be my final companion anyway, I might as well use it to ward off evil.",
+                "jp": "これは、神殿を離れる時に持ち出して、知り合いの職人に頼んで盾として作り変えてもらった物なのです。斬新でしょう？古書によると、棺は死者を長きにわたって守るためにとても頑丈にできている、とのことでしたので。どうあれこの棺と共に歩むことになるのだから、災いを防ぐ盾とすればいいと思ったんです。",
+                "kr": "이건 제가 신전을 떠날 때 가지고 나온 거예요. 잘 아는 장인에게 방패로 만들어 달라고 부탁해서 탄생했죠. 꽤 특별하지 않나요? 고서에 따르면 관은 죽은 자를 기나긴 세월 동안 보호하기 위해 튼튼하게 만들어진다고 해요. 그래서 생각했죠, 이 관과 함께 나아가야 하는 운명이라면, 우선은 재앙을 막는 방패로 사용해보자고요.",
+                "cn": "离开神庙时，我带走了它，找熟识的工匠改装成了盾牌。很特别吧？古书中提到过，棺材要守护死者度过漫长岁月，所以都很坚固。我想，既然总要与它同行，那就先用来挡挡灾吧。"
+            },
+            "asset": "char_4148_philae/CN_006"
+        },
+        {
+            "id": "char_4148_philae_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Even the slightest contact with my Arts can cause extreme fatigue. You want to use my power to cure your insomnia? I'm afraid I can't do that. If you're having trouble sleeping, I'll burn some incense and chant for you, or join you in quiet contemplation, but my Arts would make you feel even worse. Oh, you were only joking? Phew.",
+                "jp": "私のアーツは微量であっても、人に疲労感を与えてしまうものです。眠れない時に頼みたい、と？恐れ入りますが、お断りします。もし寝付けないなら、お香を焚いて経文を読んで差し上げるなり、瞑想にお付き合いするなり致しますが、あなたに余計な苦しみを味わわせることだけはできません。えっ？冗談だったのですか？",
+                "kr": "제 아츠는 아주 미미한 정도라도 사람에게 피로감을 줄 수 있답니다. 잠이 오지 않으면 절 찾아오시겠다고요? 그건 거절하겠습니다. 만약 잠을 이루지 못하신다면 향을 피우면서 경전을 읽거나, 박사님과 함께 명상을 해 드릴 순 있겠지만, 박사님께 불필요한 고통을 안겨드릴 수도 있는 이건…… 할 수 없어요. 네? 농담이시라고요?",
+                "cn": "我的法术即便是最轻微的程度，也会让人感到疲倦。失眠的时候来找我？恕我拒绝。如果你难以入睡，我会为你焚香吟诵，也会陪你静思冥想，但绝不会让你徒增痛苦。嗯？只是玩笑？"
+            },
+            "asset": "char_4148_philae/CN_007"
+        },
+        {
+            "id": "char_4148_philae_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "After the rainy season, life flourishes. Every year, when the time comes, I go back to the villages to help drive away unwelcome intruders—wild beasts gnashing their fangs, swarms of sand fleas, and even armed raiders… Think that's scary? Well, many think the Sarkaz are even scarier.",
+                "jp": "雨期のあとには、万物が大きく成長するものです。いつもこの時期になると、私は集落に戻り、あの地へ訪れる招かれざる客――襲い来る凶悪な野獣や、一面に這うスナノミ、そして完全武装の略奪者を追い払っているのです……恐ろしいな、と？多くの人は、それらよりもサルカズのことを恐れていますよ。",
+                "kr": "우기가 지나면 만물이 성장하는 법이죠. 늘 이맘때가 되면 전 마을로 돌아가 그곳을 찾아오는 불청객을 쫓아내곤 했어요…… 흉악한 맹수들, 빽빽이 몰려오는 샌드웜들, 그리고 완전무장한 약탈자들…… 두렵지 않냐고요? 대다수의 사람들은 그것들보다 살카즈를 더 두려워한답니다.",
+                "cn": "雨季过后，万物滋长。每到那时候，我会回去帮人们驱赶闯入聚落的不速之客——张牙舞爪的野兽，密密麻麻涌来的沙蚤，还有那些全副武装的劫掠者......可怕？很多人觉得萨卡兹更可怕。"
+            },
+            "asset": "char_4148_philae/CN_008"
+        },
+        {
+            "id": "char_4148_philae_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Someone once invited me to become a mercenary for the Lord Ameer, but that's not what I want to do. The river will still flood, conflicts will still rage, and life remains at risk. And I… I don't want to stand on the sidelines. Doctor, I once asked why you chose to save people, and you gave me the same answer.",
+                "jp": "傭兵として首長のもとで働かないかとお誘いいただいたこともあるのですが、それはやりたいことではなくて。河はいずれまた氾濫し、争いは今も止むことはなく、命は脅かされ続けている。私は……歩みを止めたくないのです。ドクターさんに、何のために救うかをお尋ねしたことがありますが、これもまたその答えなのですよ。",
+                "kr": "아미르의 용병으로 일해보지 않겠냐는 제안을 받은 적도 있지만, 그건 제가 하고 싶은 일이 아니었어요. 강은 언젠가 다시 범람할 거고, 분쟁은 여전히 끝나지 않았으며, 생명은 지금도 위협을 받고 있어요. 그리고 전…… 발걸음을 멈추고 싶지 않아요. 박사님, 제가 예전에 박사님께 무엇을 위해 사람들을 구하냐고 물어본 적이 있었죠? 이것 또한 박사님께서 제게 주신 답입니다.",
+                "cn": "曾有人邀请我去做王酋的佣兵，可那并不是我想做的事。河水还会泛滥，争斗仍未止息，生命正受到威胁，而我......不愿止步不前。博士，我问过你为何而拯救，这也是你给我的答案。"
+            },
+            "asset": "char_4148_philae/CN_009"
+        },
+        {
+            "id": "char_4148_philae_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "The sun will set, and people need sleep. We don't need to carry on as the ever-flowing river, it's okay to rest.",
+                "jp": "陽が沈むのと同じように、人には睡眠が必要です。私たちは、河のようにひと時も休まず流れ続けずとも良いのですよ。",
+                "kr": "해가 지는 것처럼, 사람에게는 수면이 필요해요. 우린 강물처럼 쉼 없이 흐를 필요는 없죠.",
+                "cn": "太阳会落山，人也需要睡眠。我们不必像河水一样，一刻也不停歇。"
+            },
+            "asset": "char_4148_philae/CN_010"
+        },
+        {
+            "id": "char_4148_philae_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "I come from Sargon to travel across the land, training along the way. Is it the 'River of Life' that brought us together here? Human Resources tells me you're the most knowledgeable one on this ship. May I learn from you?",
+                "jp": "サルゴンより参りました。今はあちこちを回って修行中の身なのですが、こうして巡り合えたのは「生命の河」のお導きでしょうか？人事部の方から、あなたがこの船で一番博識な方だと伺いましたので、ぜひいろいろとご教示いただけますと幸いです……",
+                "kr": "전 사르곤에서 왔습니다. 지금은 이곳저곳을 돌아다니며 수행 중인데, 우리가 이렇게 만나게 된 건 '생명의 강'의 인도 덕분일까요? 인사부 분들 말로는 당신이 이 함선에서 가장 박식한 분이라고 하던데, 많은 가르침 부탁드리겠습니다……",
+                "cn": "我来自萨尔贡，正在四处游历修习，是“生命之河”让我们在此相会吗？听人事部说，你是这艘船上懂得最多的人，请容我向你讨教......"
+            },
+            "asset": "char_4148_philae/CN_011"
+        },
+        {
+            "id": "char_4148_philae_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "This is a very efficient way to train. The next time I return, I hope to record the flow of the river... Doctor, may I ask what is the maximum recording length?",
+                "jp": "とても効率の良い修行法ですね。次に集落へ帰る時には、河の水がほとばしる光景を撮りたいものですが……これの最大録画時間はどのくらいでしょうか？",
+                "kr": "아주 효율적인 수행법이네요. 다음에 마을로 돌아가면 강물이 넘실대는 장면을 기록하고 싶은데…… 이 설비의 최대 녹화 시간은 얼마나 될까요?",
+                "cn": "很高效的修习方式。下次回去，我要把河水流泻的景象录下来......请问录制时长的上限是多久？"
+            },
+            "asset": "char_4148_philae/CN_012"
+        },
+        {
+            "id": "char_4148_philae_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Promotion… I am one step further than I was yesterday.",
+                "jp": "昇進……昨日よりは一歩前進できた、ということね。",
+                "kr": "승진이라…… 어제보다 한 걸음 더 나아갔다는 의미겠군요.",
+                "cn": "晋升......今天的我，比昨天更进一步了。"
+            },
+            "asset": "char_4148_philae/CN_013"
+        },
+        {
+            "id": "char_4148_philae_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Thank you. I understand how precious it is to win recognition. But this also means I'm entering even more turbulent waters… I won't back down.",
+                "jp": "ありがとうございます。人から認めてもらうのがどれほど得難いことかはわかっていますが、つまり私は、より激しい急流へと身を投じることになるのでしょうね――無論、それに怯みはしませんが。",
+                "kr": "고맙습니다. 다른 사람에게 인정받는다는 게 얼마나 어려운 일인지 잘 알고 있어요. 하지만 이는 곧, 더욱 거센 급류에 몸을 던져야 한다는 뜻이겠죠…… 물론, 전 물러서지 않을 거예요.",
+                "cn": "谢谢，我明白获得他人的认可是一件多么可贵的事。不过，这也意味着我将进入更汹涌湍急的河段吧——我不会退缩。"
+            },
+            "asset": "char_4148_philae/CN_014"
+        },
+        {
+            "id": "char_4148_philae_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Stride forward, righteously, to ward off disaster.",
+                "jp": "己が意志にて正しき道を往き、災いを退けん。",
+                "kr": "몸을 일으켜 도를 행하고, 재앙을 물리친다.",
+                "cn": "立身行道，驱赶灾殃。"
+            },
+            "asset": "char_4148_philae/CN_017"
+        },
+        {
+            "id": "char_4148_philae_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "I shall take up this responsibility.",
+                "jp": "この重責、しっかりと担います。",
+                "kr": "맡겨 주신 중책은 반드시 수행해 내겠습니다.",
+                "cn": "我会担起这份重任。"
+            },
+            "asset": "char_4148_philae/CN_018"
+        },
+        {
+            "id": "char_4148_philae_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Some conflicts are irreconcilable, but I will try my best.",
+                "jp": "解決できない諍いもありますが、全力を尽くします。",
+                "kr": "해결할 수 없는 다툼도 존재하는 법이지만, 그래도 최선을 다하겠습니다.",
+                "cn": "有些矛盾不可调和，但我会尽力而为。"
+            },
+            "asset": "char_4148_philae/CN_019"
+        },
+        {
+            "id": "char_4148_philae_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "I see you dumping filth into the river.",
+                "jp": "あなたたちが、河に穢れを流すのを見ました。",
+                "kr": "당신들이 강에 오물을 흘려보내는 걸 보았습니다.",
+                "cn": "我看见你们往河水里倾倒污秽。"
+            },
+            "asset": "char_4148_philae/CN_020"
+        },
+        {
+            "id": "char_4148_philae_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "This is the branch to which destiny flows…",
+                "jp": "これは、運命が示した支流です……",
+                "kr": "이것이 운명이 인도하는 길이라면……",
+                "cn": "这是命运指向的支流......"
+            },
+            "asset": "char_4148_philae/CN_021"
+        },
+        {
+            "id": "char_4148_philae_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "I will meet the moment.",
+                "jp": "手は抜きませんよ。",
+                "kr": "나태해지지 않겠습니다.",
+                "cn": "我不会懈怠。"
+            },
+            "asset": "char_4148_philae/CN_022"
+        },
+        {
+            "id": "char_4148_philae_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Withstand the test.",
+                "jp": "幾度の試練を潜り抜けん。",
+                "kr": "시련이라면 극복해 나가겠어요.",
+                "cn": "历经考验。"
+            },
+            "asset": "char_4148_philae/CN_023"
+        },
+        {
+            "id": "char_4148_philae_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Solve the mysteries.",
+                "jp": "秘められし謎を紐解かん。",
+                "kr": "숨겨진 수수께끼를 풀어내겠어요.",
+                "cn": "求索奥秘。"
+            },
+            "asset": "char_4148_philae/CN_024"
+        },
+        {
+            "id": "char_4148_philae_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Withering longs for flourishing.",
+                "jp": "枯れたるものは繁栄を渇望する。",
+                "kr": "메마른 것은 번영을 갈망하기 마련입니다.",
+                "cn": "枯萎渴求繁盛。"
+            },
+            "asset": "char_4148_philae/CN_025"
+        },
+        {
+            "id": "char_4148_philae_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Drought sings of abundance.",
+                "jp": "渇けるものは潤いを謳歌する。",
+                "kr": "목마른 자는 풍작의 노래를 부르곤 합니다.",
+                "cn": "干涸歌咏丰盈。"
+            },
+            "asset": "char_4148_philae/CN_026"
+        },
+        {
+            "id": "char_4148_philae_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Feel the sand in your mouth. Taste the unspeakable bitterness.",
+                "jp": "口いっぱいに砂を詰め込まれる感覚は、言葉にしがたい苦しみですよ。",
+                "kr": "입안이 모래로 가득 찬다는 건 말로 표현할 수 없는 고통이겠죠.",
+                "cn": "沙子塞满嘴的感觉，苦不可言。"
+            },
+            "asset": "char_4148_philae/CN_027"
+        },
+        {
+            "id": "char_4148_philae_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "The River of Life flows unceasing.",
+                "jp": "生命の河は、止まることなく流れ往く。",
+                "kr": "생명의 강은, 끊임없이 흐르리라.",
+                "cn": "生命之河，奔流不息。"
+            },
+            "asset": "char_4148_philae/CN_028"
+        },
+        {
+            "id": "char_4148_philae_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Ah… like a miracle.",
+                "jp": "……まるで神の御業ですね。",
+                "kr": "……마치 신의 기적 같군요.",
+                "cn": "......宛如神迹。"
+            },
+            "asset": "char_4148_philae/CN_029"
+        },
+        {
+            "id": "char_4148_philae_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "May they all reach the other side safely.",
+                "jp": "誰もが無事に、彼岸へ辿り着けますように。",
+                "kr": "모두가 피안에 무사히 도착할 수 있기를.",
+                "cn": "愿所有人都能安然抵达彼岸。"
+            },
+            "asset": "char_4148_philae/CN_030"
+        },
+        {
+            "id": "char_4148_philae_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Perfection is hard to come by. You have done a great job, Doctor.",
+                "jp": "完璧を追及するのは難しいことです。十分に素晴らしい成果だと思いますよ、ドクターさん。",
+                "kr": "완벽을 추구하는 건 어려운 일입니다. 지금도 충분히 잘하셨어요, 박사님.",
+                "cn": "圆满难求。博士，你已经做得很好了。"
+            },
+            "asset": "char_4148_philae/CN_031"
+        },
+        {
+            "id": "char_4148_philae_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Failure is an inevitable part of learning. Let's try again.",
+                "jp": "修行には失敗がつきものです。もう一度やり直してみましょう。",
+                "kr": "수행에는 실패가 따르기 마련입니다. 처음부터 다시 해보면 돼요.",
+                "cn": "失败是修习的必经之路，我们从头来过吧。"
+            },
+            "asset": "char_4148_philae/CN_032"
+        },
+        {
+            "id": "char_4148_philae_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "I'll be careful not to knock anything over.",
+                "jp": "どこかにぶつけて壊さないように気を付けますね。",
+                "kr": "부수지 않게 저도 조심할게요.",
+                "cn": "我会当心，不会碰坏它们的。"
+            },
+            "asset": "char_4148_philae/CN_033"
+        },
+        {
+            "id": "char_4148_philae_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Please keep your distance…",
+                "jp": "あまり近付きすぎないでくださいね……",
+                "kr": "제게 너무 가까이 다가오지 마세요……",
+                "cn": "请不要离我太近......"
+            },
+            "asset": "char_4148_philae/CN_034"
+        },
+        {
+            "id": "char_4148_philae_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "I haven't finished telling my last story. It won't take too long, three days and nights at most.",
+                "jp": "前回お話しした神話は、まだ途中でしたよね……そう長くはなりませんよ。せいぜい三日三晩くらいだと思います。",
+                "kr": "지난번에 신화 이야기를 하다 말았었죠…… 걱정 마세요, 그렇게 오래 걸리진 않을 거예요. 얼추 사흘 밤낮 정도면 돼요.",
+                "cn": "上次的神话故事我还没讲完......不会讲太久的，最多三天三夜。"
+            },
+            "asset": "char_4148_philae/CN_036"
+        },
+        {
+            "id": "char_4148_philae_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4148_philae/CN_037"
+        },
+        {
+            "id": "char_4148_philae_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "During the Wepet Renpet celebration offerings, nearby settlements send emissaries with gifts of fine wine, fresh milk, and seasonal fruits. The priests pour these offerings into the river, giving thanks for the blessings of the past year… Oh, perhaps we should share a drink together, as is tradition? Hehe, happy New Year, Doctor.",
+                "jp": "新年の祭祀では、周辺の集落が代表者を立てて、美酒やミルク、季節のフルーツを献上しに来るのです。神官たちはそうした献上品を河に流して、過去一年の恩恵に感謝を示し……あっ、こちらの風習に従うのなら、私たちも乾杯すべきでしょうか？新年あけましておめでとうございます、ドクターさん。",
+                "kr": "새해 제사를 지낼 때가 되면 주변 마을에선 대표를 뽑아 술과 우유, 그리고 제철 과일을 바치러 옵니다. 그럼 신관들은 그 공물을 강에 흘려보내 지난 한 해의 은혜에 감사를 표하죠…… 아, 이곳의 풍습에 따라 우리도 건배할까요? 새해 복 많이 받으세요, 박사님.",
+                "cn": "新年祭祀时，周边的聚落会派代表来进献美酒，鲜奶与时令水果。神官们把贡品倒进河中，感激过去一年的恩泽......噢，按这里的习俗，或许我们应该共饮一杯？新年快乐，博士。"
+            },
+            "asset": "char_4148_philae/CN_038"
+        },
+        {
+            "id": "char_4148_philae_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Doctor, are you free today? I still have many questions I'd like you to answer.",
+                "jp": "ドクターさん、今日はお時間おありでしょうか？ご教授賜りたいことが、まだたくさんあるのです。",
+                "kr": "박사님, 오늘 시간 괜찮으신가요? 당신께 배우고 싶은 것이 아직 많이 남아 있답니다.",
+                "cn": "博士，今天有空吗？我还有很多问题想请你解惑。"
+            },
+            "asset": "char_4148_philae/CN_042"
+        },
+        {
+            "id": "char_4148_philae_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "'The rivers of Sargon are never bound to any one oasis.' This saying is common among our followers. Yet if I could start again, I would still sail here and share a journey with the Rhodes Islanders. Why? Doctor, I think you know better than anyone else.",
+                "jp": "「サルゴンの河は、どのオアシスにも留まらぬもの。」この言葉は、信徒の間でよく知られたものです。しかし、もしあの時に戻ったとしても、私はこの地へ船を向かわせ、ロドスと共に漕ぎ出すことを選ぶでしょう。それはなぜか？ドクターさんなら、きっと誰より深くその理由をおわかりだと思いますが。",
+                "kr": "“사르곤의 강물은 그 어느 오아시스에도 미련을 갖지 않는다.” 신도들 사이에서 잘 알려진 구절이랍니다. 하지만 그때로 다시 돌아간다 해도 전 로도스 아일랜드분들과 함께 노를 젓는 쪽을 선택할 거예요. 왜냐고요? 박사님이라면 누구보다 그 이유를 깊이 이해하고 계실 거라고 생각하는데요.",
+                "cn": "“萨尔贡的河川，从不眷恋某一处绿洲。”信众中流传着这样的俗语。可若一切重来，我仍愿行船至此，与罗德岛的众人同舟。为什么？博士，我相信你一定有着比任何人都更深刻的体悟。"
+            },
+            "asset": "char_4148_philae/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Sara Masry",
+            "global": "Sara Masry"
+        },
+        "cn": {
+            "native": "陈怡萱",
+            "global": "Chen Yixuan"
+        },
+        "jp": {
+            "native": "佐藤詩乃",
+            "global": "Sato Shino"
+        },
+        "kr": {
+            "native": "장채연",
+            "global": "Jang Chae-yeon"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

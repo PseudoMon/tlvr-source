@@ -1,0 +1,633 @@
+{
+    "charid": "char_1502_crosly",
+    "nameid": "crosly",
+    "names": {
+        "en": "CrownSlayer",
+        "jp": "クラウンスレイヤー",
+        "kr": "크라운슬레이어",
+        "cn": "弑君者"
+    },
+    "voices": [
+        {
+            "id": "char_1502_crosly_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "You want me at your side to see if Rhodes Island can live up to the talk. Hmm... Alright then, so long as your security doesn't give me too much trouble.",
+                "jp": "お前のそばにいろと言うのか？ロドスがいかにして理念を実践するか見ていろと？別に異存はない。セキュリティーシステムが私を目の敵にしないならな。",
+                "kr": "네 옆에 붙어 있으라고? 로도스 아일랜드가 어떤 방식으로 이념을 실현하는지 잘 보라고? 불만은 없다, 보안 시스템이 날 눈엣가시로 여기지만 않는다면 말이야.",
+                "cn": "让我跟在你身边？让我看看罗德岛怎么践行自己的理念？我没意见，只要安全系统别太刁难我。"
+            },
+            "asset": "char_1502_crosly/CN_001"
+        },
+        {
+            "id": "char_1502_crosly_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Life in the Truckers Mutual Aid Association? We drive, we deliver, we drink, we mess around and have a good time. Nobody bares their fangs in Nuova Volsinii... But as my mentor once said, the Fangs will never truly disappear.",
+                "jp": "ドライバー互助会での毎日は、車を出して、物を運んで、酒を飲んで、冗談を言い合って、そんな暮らしだった。ヌオバ・ウォルシーニでの生活には、「牙」の姿はなかった――だが、先生は言っていた。「牙」が完全にいなくなることなど永遠にない、とな。",
+                "kr": "트럭 상조회에서의 일상은 차를 몰고, 물건을 나르고, 술을 마시고, 서로 농담을 주고받는 거였어. 뉴 볼시니에서 생활하면서 '송곳니'의 모습은 볼 수 없었지만…… 선생님은 송곳니가 완전히 사라지는 일은 없을 거라고 말씀하셨다.",
+                "cn": "卡车互助会的日常——出车、送货、喝酒、互相开玩笑。新沃尔西尼的生活中没有什么獠牙——但老师曾经说过，獠牙永远不会彻底消失。"
+            },
+            "asset": "char_1502_crosly/CN_002"
+        },
+        {
+            "id": "char_1502_crosly_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "At first, I couldn't get used to pizza and spaghetti. My mentor was the one who taught me to mix finsauce into spaghetti, and replace the salsiccia on pizza with bacon. Had to find a way to fit in with the wolfpack, she said. So, I've eaten like this through all my years in Siracusa. Why? Because it tastes alright.",
+                "jp": "最初は、ピザやパスタなんて食べ慣れなくてあまり口に合わなかった。でも、先生がパスタはキャビアで和えればいいし、ピザはサラミをベーコンに替えればいいと教えてくれたんだ。狼の群れに何とか溶け込まなければならないから、と。シラクーザには何年もいたが、いつもこうして食べていたな――なぜかって？こうすると本当に美味いからだ。",
+                "kr": "처음엔 피자나 파스타 같은 음식이 입에 맞지 않았어. 그런데 선생님이 파스타는 린수알 소스에 비벼 먹으면 되고, 피자 위의 소시지는 베이컨으로 바꾸면 된다고 가르쳐 주셨지. 이렇게라도 늑대 무리에 녹아들어야 한다면서 말이야. 시라쿠사에 있는 몇 년간 난 늘 이렇게 먹었어. ……왜냐고? 그렇게 먹으면 정말 맛있으니까.",
+                "cn": "我一开始不太吃得惯披萨和面，是老师教我在面里拌鳞子酱，把披萨上的香肠换成腌肉，老师说我总得想办法融入狼群。我在叙拉古待了好多年，一直都是这么吃的——为什么？因为味道真的还不错。"
+            },
+            "asset": "char_1502_crosly/CN_003"
+        },
+        {
+            "id": "char_1502_crosly_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "<i>Truth and Justice</i>... That's the book my father used to read to me when I was little. He even took me to meet the author, who was later imprisoned by some duke, died in jail, and was buried in a mine. Pretty awful, no? But that's how things were, at the time.",
+                "jp": "『正当と正義』……小さい頃、父と一緒に読んだ本だ。著者本人に会わせてもらったこともある。けれどその著者はのちに、とある大公様に死ぬまで監禁されて、その遺体はひっそりと坑道の隅に葬られることになった――残酷な話だろ？だが、「正当と正義」なんてものは、そういう環境でこそ生まれるんだ。　",
+                "kr": "《정당과 정의》…… 어릴 적에 아버지와 함께 읽은 책이야. 같이 저자 본인을 만난 적도 있었지. 하지만 그는 나중에 어떤 대공에게 감금되어 감옥에서 생을 마감했어. 시신은 갱도 한구석에 묻혔고…… 잔혹한 이야기지? 《정당과 정의》는 그런 환경에서 탄생했던 거야.",
+                "cn": "《正当与正义》......我很小的时候，我爸就带我读过这本书，他还带我见过作者本人，后来他被某个大公监禁至死，偷偷埋在了矿洞角落——很残酷吧？但这就是“正当与正义”诞生的环境。"
+            },
+            "asset": "char_1502_crosly/CN_004"
+        },
+        {
+            "id": "char_1502_crosly_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "My father said that Sergei would become the greatest of all scientists, even if he was born in Ursus. I thought they were friends, partners, and kindred spirits... Yet Sergei stabbed them all in the back. He deserved to die, but I also doubt whether the blame was his alone.",
+                "jp": "父は言っていた。こんなウルサスに生まれていようと、セルゲイは最も偉大な科学者になるだろうと。二人は友人であり、同志でもあると思っていたが……セルゲイは、仲間を裏切ったんだ。死に値する行いだが、すべてが奴一人の罪じゃないのもわかってる。",
+                "kr": "아버지는, 세르게이는 가장 위대한 과학자가 될 거라고 말씀하셨어. 비록 그가 우르수스에서 태어났음에도 불구하고 말이야. 난 두 사람이 친구이자 뜻이 맞는 동지라고 생각했지만…… 세르게이는 동료를 배신했어. 죽어 마땅한 행위였지만, 그 모든 게 그 혼자만의 죄가 아니라는 것쯤은 알아.",
+                "cn": "我爸说谢尔盖会成为最伟大的科学家，即使他生在了乌萨斯。我曾以为他们是朋友，是志同道合的伙伴......谢尔盖背叛了同伴，他该死，但这也不全是他一人的罪责。"
+            },
+            "asset": "char_1502_crosly/CN_005"
+        },
+        {
+            "id": "char_1502_crosly_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Where did I learn to fight? From my mentor. She taught me to turn hatred into power, but not to hate. She taught me to fight, but not to step onto the battlefield... What a strange 'wolf' she was. Too bad I didn't figure out her final lesson sooner.",
+                "jp": "私の戦闘技術か？先生から教わったものだ。あの人は、憎しみを力にすることを教えながらも憎しみを手放せと諭し、戦い方を教えながらも戦場に向かうことを良しとしなかった。何ともおかしな「狼」だったな。惜しむらくは、先生が最後の授業で教えてくれたことを理解するのが遅すぎたことだ。",
+                "kr": "내 전투 기술? 선생님께 배운 거야. 그분은 나에게 증오를 힘으로 바꾸는 법을 가르쳐 주셨지만, 복수는 하지 말라고 하셨고, 싸우는 법을 가르쳐 주셨지만, 전장으로는 향하지 말라고 하셨어. 정말 이상한 '늑대'였지. 아쉬운 점이 있다면, 선생님이 나한테 가르쳐 준 마지막 수업의 의미를 내가 너무 늦게 깨달았다는 거야.",
+                "cn": "我的战斗技巧？是老师教我的。老师教我把恨意化为力量，却让我不要仇恨，教我战斗，却让我不要走向战场。多奇怪的“狼”啊。可惜老师教给我的最后一课，我没有早点听懂。"
+            },
+            "asset": "char_1502_crosly/CN_006"
+        },
+        {
+            "id": "char_1502_crosly_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Director Kal'tsit, Dr. Kal'tsit. No matter what hat she wears, she's still her same, cold-blooded self. Yet, I do find it believable that she didn't betray my father. Maybe she's not as ruthless as she looks, after all. Hmm, what do you think, Doctor?",
+                "jp": "ケルシー所長、ケルシー先生――肩書がどう変わろうと、彼女は相変わらず冷血に見える。だが、なぜだかあの人が私の父を裏切っていないということは信じられる。もしかすると、本当の彼女は見た目ほど冷たくはないのかもしれないな。どう思う？ドクター。",
+                "kr": "켈시 소장, 닥터 켈시. 어떤 신분이든 저 사람은 한결같이 차가워 보이네…… 하지만 왜인지는 모르겠지만, 그녀가 아버지를 배신하지 않았다는 것만큼은 믿을 수 있을 것 같아. 어쩌면 겉으로 보이는 것만큼 그렇게 차가운 사람은 아닐지도 모르겠네. 넌 어떻게 생각하지? 박사.",
+                "cn": "凯尔希所长，凯尔希医生，不论变换什么身份，她都是一副冷血的模样——但我却能够相信她没有背叛我父亲。也许她终归没有看上去那么无情。你说呢，博士？"
+            },
+            "asset": "char_1502_crosly/CN_007"
+        },
+        {
+            "id": "char_1502_crosly_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "In all the time I stood behind Talulah, I watched her crush dream after dream, morphing into our very own tyrant... That was my mistake, and one I will not make again... Kill her? No. What I want is to tear off the tyrant's crown.",
+                "jp": "これまで幾度もタルラの後ろに立って、彼女が多くの理想を葬るさまを、暴君になっていくさまを目の当たりにしてきた……これが私の罪だ。次はもう、間違わない……彼女を殺すのか、と？いいや、私が為すべきは、暴君の王冠を徹底的に破壊することだ。",
+                "kr": "탈룰라의 뒤에서, 난 그녀가 수많은 이상을 묻어 버리고, 폭군이 되어가는 모습을 바라보기만 했어…… 이게 내 죄야. 다음이 있다면, 절대로 이런 실수를 저지르지 않겠어…… 그녀를 죽일 거냐고? 아니, 내가 할 일은 폭군의 왕관을 완전히 없애버리는 거다.",
+                "cn": "那么多次站在塔露拉身后，眼看她把那么多理想葬送，眼看她成为我们的暴君......这是我犯的错，下一次，我不会再犯错......杀了她？不，我要做的，是把暴君的冠冕彻底抹去。"
+            },
+            "asset": "char_1502_crosly/CN_008"
+        },
+        {
+            "id": "char_1502_crosly_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "You've united many under your banner. This is familiar to me. I've stood with such people, and also against them... But do beware, leaders like you are known to make grave errors. When you do, I'll look you dead in the eyes, and I won't hesitate—<i>Doctor.</i>",
+                "jp": "お前は多くの人間を一つに団結させてきたが、その感覚は私にもよくわかる。私はそうした人々と相対したこともあれば、その隣に立っていたこともあるからな……よく気を付けろよ。お前のような奴は、いつか大きな過ちを犯すかもしれない――私が見ている以上、そうなった時には容赦はしないぞ、「ドクター」。",
+                "kr": "넌 많은 사람들을 한자리에 모이게 했어. 이런 광경, 나도 익숙해. 과거의 나는 그런 사람들과 맞섰던 적도, 그들의 편에 서 본 적도 있으니까…… 조심해. 너 같은 자가 큰 잘못을 저지를 수도 있으니. 난 항상 널 지켜볼 거다. 그리고 만약 그때가 온다면 난 망설이지 않을 거야, '박사'.",
+                "cn": "你团结了很多人，我熟悉这种感觉，我曾站在许多这样的人对面，也曾站在许多这样的人身边......当心，你这样的人可能会犯下大错——那时，我会盯着你，我不会犹豫，“博士”。"
+            },
+            "asset": "char_1502_crosly/CN_009"
+        },
+        {
+            "id": "char_1502_crosly_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "She learned her song by snow, she learned her blade by rain… She learned to show her courage, by fire that swept the plain… She learned to topple crowns, by all the silent pain... Oh, you're awake. No, it's nothing. Just a Siracusan nursery rhyme.",
+                "jp": "雪が歌を、雨が刃を持つことを、燎原の烈火が勇気を、沈黙する大地が王冠を揺らすことを彼女に教えた――目が覚めたのか。何でもない、シラクーザの童謡を口にしていただけだ。",
+                "kr": "눈은 그녀에게 노래를 가르쳤고, 비는 그녀에게 칼을 쥐는 법을 가르쳤다. 들불은 그녀에게 용기를 가르쳤고, 침묵하는 대지는 그녀에게 왕관을 뒤흔드는 법을 가르쳤다. ……깼나보군? 별 거 아니야. 그냥 시라쿠사의 동요를 읊고 있었을 뿐이야.",
+                "cn": "雪教她歌唱，雨教她持刀，燎原的烈火教她勇气，沉默的大地教她让冠冕动摇——你醒了，没什么，我只是在念一首叙拉古童谣。"
+            },
+            "asset": "char_1502_crosly/CN_010"
+        },
+        {
+            "id": "char_1502_crosly_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Crownslayer. It's a name we both know well, so let's keep it. Maybe one day you'll come to understand its true meaning.",
+                "jp": "「クラウンスレイヤー」はお互い馴染みのある名前だろうし、このままでいい。いずれ、お前もこの名の持つ真の意味を理解することになるかもしれないな。",
+                "kr": "“크라운슬레이어”, 서로에게 익숙한 이름일 테니 그대로 사용하지. 언젠가 너도 이 이름이 가진 진정한 의미를 이해하게 될지도 모르겠군.",
+                "cn": "“弑君者”，这个名字我们都很熟悉，留着它吧，有机会，你会理解这个名字的真正意义。"
+            },
+            "asset": "char_1502_crosly/CN_011"
+        },
+        {
+            "id": "char_1502_crosly_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Old combat records? Got anything with me in it? Come on, let's give it a try. I won't lose this time.",
+                "jp": "以前の作戦の録画？私が映っているのもあるか？それなら、もう一回だ。今度は失敗しないからな。",
+                "kr": "예전 작전 기록? 내가 찍힌 것도 있나? 흠, 한 번 더 해 보자고, 이번엔 실패하지 않을 테니까.",
+                "cn": "以前的作战录像？有我的吗？来，我们再试一次，这一次，我不会失败。"
+            },
+            "asset": "char_1502_crosly/CN_012"
+        },
+        {
+            "id": "char_1502_crosly_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Alright, alright. Enough with the formalities already. I couldn't care less about your little medals and ribbons. Do you take me for some general or noble? Or, would you prefer I test my blade on them?",
+                "jp": "わかったから、こういう形式ばったものは結構だ。勲章もメダルも向こうにやれ、私を将軍か貴族か何かだと思ってるのか――なんなら、それで試し切りをしてもいいんだぞ？",
+                "kr": "아, 알겠으니까 이런 형식적인 건 생략하자고. 훈장이랑 메달도 필요 없으니 가져가. 내가 무슨 장군이나 귀족도 아니고…… 자꾸 이러면 칼이 얼마나 잘 드나 저걸로 시험해 본다?",
+                "cn": "好了好了，这些仪式可以省省了，那些勋章奖牌拿远一点，当我是什么将军贵族吗——要不然，我让你看看我怎么拿它们试刀？"
+            },
+            "asset": "char_1502_crosly/CN_013"
+        },
+        {
+            "id": "char_1502_crosly_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Rhodes Island chose to trust me, so I'm willing to return that favor. Acceptance speech? Wait, you people aren't really expecting me to give one, are you?",
+                "jp": "ロドスが私を信じることにしたのなら、私もお前たちを信じよう――昇進の挨拶？そんなものを期待してたのか。",
+                "kr": "로도스 아일랜드가 날 믿기로 했다면, 나도 너희를 믿겠어. ……승진 소감? 나한테서 그런 걸 기대하고 있었던 거야?",
+                "cn": "罗德岛选择信任我，我也会把信任交给你们——感言？别告诉我你们期待的是那些东西。"
+            },
+            "asset": "char_1502_crosly/CN_014"
+        },
+        {
+            "id": "char_1502_crosly_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Just give me a target. My smoke will be their grave.",
+                "jp": "ターゲットを教えてくれ。煙をそいつの墓場にしてやる。",
+                "kr": "목표가 누군지 알려 줘, 연기를 녀석의 무덤으로 만들어 주겠어.",
+                "cn": "给我目标，烟雾会成为他的坟墓。"
+            },
+            "asset": "char_1502_crosly/CN_017"
+        },
+        {
+            "id": "char_1502_crosly_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Lead a squad…? Alright. I'm actually curious how you Rhodes Islanders do things.",
+                "jp": "小隊を率いるのか……いいだろう。ロドスがどう違うか見せてもらうぞ。",
+                "kr": "소대를 이끄는 건가…… 좋아, 그럼 로도스 아일랜드는 어떻게 다른지 한번 보도록 하지.",
+                "cn": "带领小队......也好，我倒要见识下罗德岛有何不同。"
+            },
+            "asset": "char_1502_crosly/CN_018"
+        },
+        {
+            "id": "char_1502_crosly_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Move out. Watch the smoke, and don't get separated.",
+                "jp": "行動開始。煙にまかれてはぐれるなよ。",
+                "kr": "작전 시작. 연기에 주의하고, 내 뒤를 놓치지 말도록.",
+                "cn": "行动开始，小心烟雾，别跟丢了。"
+            },
+            "asset": "char_1502_crosly/CN_019"
+        },
+        {
+            "id": "char_1502_crosly_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Contact. Everyone, spread out!",
+                "jp": "危ない――全員、散開！",
+                "kr": "위험해…… 전원 흩어져!",
+                "cn": "危险——队伍，展开！"
+            },
+            "asset": "char_1502_crosly/CN_020"
+        },
+        {
+            "id": "char_1502_crosly_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "My old methods still work.",
+                "jp": "私の技もまだ使える。",
+                "kr": "내 기술은 아직 쓸만해.",
+                "cn": "我的技巧依旧管用。"
+            },
+            "asset": "char_1502_crosly/CN_021"
+        },
+        {
+            "id": "char_1502_crosly_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "My knife hasn't dulled.",
+                "jp": "私の刃はまだ切れる。",
+                "kr": "내 칼도 무뎌지지 않았어.",
+                "cn": "我的刀依旧很快。"
+            },
+            "asset": "char_1502_crosly/CN_022"
+        },
+        {
+            "id": "char_1502_crosly_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "I strike from the smoke.",
+                "jp": "煙の中だ。",
+                "kr": "연막 속이다.",
+                "cn": "我在烟幕中。"
+            },
+            "asset": "char_1502_crosly/CN_023"
+        },
+        {
+            "id": "char_1502_crosly_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "I'll slay the crown.",
+                "jp": "王冠を討ち取ってやろう。",
+                "kr": "왕관을 깨부숴 주지.",
+                "cn": "我将杀死冠冕。"
+            },
+            "asset": "char_1502_crosly/CN_024"
+        },
+        {
+            "id": "char_1502_crosly_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Drink deep of the suffering of the deceased.",
+                "jp": "受難者の苦しみを呑み込め。",
+                "kr": "고통받는 이들의 괴로움을 삼켜라.",
+                "cn": "吞下死难者的苦。"
+            },
+            "asset": "char_1502_crosly/CN_025"
+        },
+        {
+            "id": "char_1502_crosly_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Taste the fury of the forsaken.",
+                "jp": "棄てられた者の怒りを嚙み締めろ。",
+                "kr": "버림받은 자들의 분노를 씹어라.",
+                "cn": "嚼碎被弃者的愤怒。"
+            },
+            "asset": "char_1502_crosly/CN_026"
+        },
+        {
+            "id": "char_1502_crosly_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Hate. It's all you deserve.",
+                "jp": "恨め、それがお前に相応しい結末だ。",
+                "kr": "증오해라, 그것이 너에게 맞는 결말이다.",
+                "cn": "怨恨吧，那是你应得的下场。"
+            },
+            "asset": "char_1502_crosly/CN_027"
+        },
+        {
+            "id": "char_1502_crosly_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Weep. Those will be your last words.",
+                "jp": "泣け、それがお前の遺言になるんだ。",
+                "kr": "울부짖어라, 그게 네가 남길 유언이니까.",
+                "cn": "哭泣吧，那是你的遗言。"
+            },
+            "asset": "char_1502_crosly/CN_028"
+        },
+        {
+            "id": "char_1502_crosly_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Very well. I'm honored to be part of this victory.",
+                "jp": "この凱旋に私も貢献できたとは。フンッ、光栄だ。",
+                "kr": "이 승리에 나도 기여할 수 있었다니. 영광이군.",
+                "cn": "很荣幸，这次凯旋有我的功劳。"
+            },
+            "asset": "char_1502_crosly/CN_029"
+        },
+        {
+            "id": "char_1502_crosly_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Sound strategies, and outstanding execution. No wonder your operations are so efficient.",
+                "jp": "優れた技術に、適切な戦術。お前たちの作戦が、これほど効率的なのも頷ける。",
+                "kr": "뛰어난 기술에 적절한 전술이라. 너희의 작전이 그토록 효율적이었던 것도 이제 이해가 된다.",
+                "cn": "技巧出众，战略得当，难怪你们的行动这么有效率。"
+            },
+            "asset": "char_1502_crosly/CN_030"
+        },
+        {
+            "id": "char_1502_crosly_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "The necessary lives have been taken. Mission accomplished.",
+                "jp": "必要な殺しは実行済みだ。任務目標は果たされただろう。",
+                "kr": "필요한 살육은 끝났고, 임무 목표도 달성했다.",
+                "cn": "必要的杀戮已经执行，任务目标完成了。"
+            },
+            "asset": "char_1502_crosly/CN_031"
+        },
+        {
+            "id": "char_1502_crosly_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Smokescreen deployed. Retreat, we'll find another chance later.",
+                "jp": "煙幕は張っておいた――撤退しよう。次の機会を狙うんだ。",
+                "kr": "연막 배치 완료, 후퇴한다. 다음 기회를 노리지.",
+                "cn": "烟幕已部署——撤退，之后再寻找时机。"
+            },
+            "asset": "char_1502_crosly/CN_032"
+        },
+        {
+            "id": "char_1502_crosly_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Not sending me out on a field mission today? Suit yourself.",
+                "jp": "今日は外勤に出なくてもいいと？お前の好きにしろ。",
+                "kr": "오늘은 외근 안 나가도 된다고? 그래 알았어.",
+                "cn": "今天不用我出外勤？随便你。"
+            },
+            "asset": "char_1502_crosly/CN_033"
+        },
+        {
+            "id": "char_1502_crosly_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Y-You can see me? But, I threw down a smokescreen...",
+                "jp": "わ、私が見えるのか？煙幕を張ったのに……",
+                "kr": "내, 내가 보이나? 분명 연막을 쳤는데……",
+                "cn": "你、你能看见我？明明放了烟幕......"
+            },
+            "asset": "char_1502_crosly/CN_034"
+        },
+        {
+            "id": "char_1502_crosly_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Take off my mask? I'd rather not. Hehe, hard to breathe with all the smoke, right? I keep it on for a reason.",
+                "jp": "私のマスクを外したい？止めたほうが――ほら、むせてるじゃないか。これで私がマスクを付けている理由がわかっただろう。",
+                "kr": "내 마스크를 벗기고 싶은 건가? 그러지 않는 게 좋을…… 봐, 연기 때문에 숨쉬기 힘들지? 내가 왜 마스크를 쓰고 있는지 이제 알겠어?",
+                "cn": "想摘下我的口罩？我建议不——被烟呛到了吧。你看，我总戴着口罩是有理由的。"
+            },
+            "asset": "char_1502_crosly/CN_036"
+        },
+        {
+            "id": "char_1502_crosly_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_1502_crosly/CN_037"
+        },
+        {
+            "id": "char_1502_crosly_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Never imagined I'd be welcoming the New Year on Rhodes Island. But here I am, with all of you… Looks like we've changed a lot. Happy New Year. To you, and to Rhodes Island.",
+                "jp": "ロドスで新年を迎えることになろうとは、思いもしなかった。だが、現に私はここに、お前たちと共にいる……どうやら、お互い確かに、色々と変わったようだな。新年おめでとう。お前に、ロドスに祝福を送ろう。",
+                "kr": "로도스 아일랜드에서 새해를 맞이하게 될 줄은 생각도 못 했는데. 하지만 지금 난 확실히 이곳에, 너희의 곁에 서 있지…… 아무래도 우리가 바뀐 게 한두 가지가 아닌 모양이야. 새해 복 많이 받아. 너도, 로도스 아일랜드도.",
+                "cn": "我从没想过，自己会在罗德岛上迎接新年，但如今我就在这里，在你们身边......看来我们确实都改变了很多。新年快乐，祝你，也祝罗德岛。"
+            },
+            "asset": "char_1502_crosly/CN_038"
+        },
+        {
+            "id": "char_1502_crosly_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Have you been on the ship all day, Doctor? Uh, Me? No, I just happened to be behind you. It's pure coincidence.",
+                "jp": "今日はずっと船にいるのか、ドクター？ん、私？たまたま後ろにいただけ、ただの偶然だ。",
+                "kr": "오늘은 계속 함선에 있을 건가, 박사? 나? 난 그저 우연히 네 뒤에 있었을 뿐이다. 그래, 우연.",
+                "cn": "今天一直在舰上吗，博士？我？我只是碰巧在你身后，只是碰巧。"
+            },
+            "asset": "char_1502_crosly/CN_042"
+        },
+        {
+            "id": "char_1502_crosly_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Infected or otherwise, there are so many on this land who yearn to live freely and with dignity. Some of them have failed, but so many more are still pressing on. May you continue to move forward with them, Rhodes Island.",
+                "jp": "感染者にしろ、非感染者にしろ、この大地には気ままで自由に、尊厳を持って生きたいと願う者たちが多くいる。その中にはうまくいかなかった者もいるが、それよりも多くの人間たちが今も努力を続けているんだ。ロドスよ、彼らと共に歩み続けろ。",
+                "kr": "감염자든 비감염자든 관계없이, 이 대지에는 떳떳하고 자유롭게 존엄을 지키면서 살고자 하는 사람들이 많아. 그중에는 순조롭지 않은 사람들도 있지만, 그보다 더 많은 사람들이 지금도 계속해서 노력하고 있지. 그들과 함께 계속 나아가자, 로도스 아일랜드여.",
+                "cn": "感染者也好，非感染者也罢，这片大地上有的是想要活得磊落、活得自由、活得有尊严的人。他们中有些人失败了，但更多的人还在努力。和他们一起继续前行吧，罗德岛。"
+            },
+            "asset": "char_1502_crosly/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Evgeniya Vagan",
+            "global": "Evgeniya Vagan"
+        },
+        "cn": {
+            "native": "陈彦亦",
+            "global": "Yee Chen"
+        },
+        "jp": {
+            "native": "千本木彩花",
+            "global": "Sembongi Sayaka"
+        },
+        "kr": {
+            "native": "이주은",
+            "global": "Lee Ju-eun"
+        },
+        "rus": {
+            "native": "Anna Gorkina",
+            "global": "Anna Gorkina"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr",
+        "rus"
+    ]
+}

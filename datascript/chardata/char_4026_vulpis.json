@@ -1,0 +1,633 @@
+{
+    "charid": "char_4026_vulpis",
+    "nameid": "vulpis",
+    "names": {
+        "en": "Vulpisfoglia",
+        "jp": "ウルピスフォリア",
+        "kr": "불피스폴리아",
+        "cn": "忍冬"
+    },
+    "voices": [
+        {
+            "id": "char_4026_vulpis_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Have someone else handle the paperwork and filing. But if you need anyone dealt with, or protected, just give me the list of names. I'll take care of them.",
+                "jp": "こうした書状書類は、他の適任者へ任せたほうがいい。もし処理したい者や保護対象がいるなら、リストをくれれば、片付けてくるよ。",
+                "kr": "이 편지와 문서 작업은 다른 사람한테 맡기는 편이 좋겠어. 제거하거나 보호해야 할 대상이 있다면 리스트를 작성해서 넘겨주던가. 그건 해줄게.",
+                "cn": "这些书信和文件，还是交给其他人处理吧。如果有需要解决或者保护的对象，你可以列一份名单，我去做。"
+            },
+            "asset": "char_4026_vulpis/CN_001"
+        },
+        {
+            "id": "char_4026_vulpis_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "These are clothes and snacks for Lisa, along with gifts for her friends. As for this box of old books her papa insisted I bring, I'm not sure what they're for. I'll just let Lisa decide what to do with them.",
+                "jp": "これはリサの服とおやつ、それとあの子の友人たちに用意した手土産だよ。で、この箱一杯の古書は、あの子の父親にどうしてもと持たされたものだけど、何の役に立つかは、私にも分からない。リサに渡したらあとは自分でいいようにするだろう。",
+                "kr": "이건 리사 옷이랑 간식이고, 이건 리사의 친구들을 위해 준비한 선물이야. 그리고 이 상자에 담긴 건 리사의 아빠가 꼭 전해달라고 한 고서들. 어떤 용도로 보낸 건지는 모르겠지만, 리사에게 전해주면 그 뒤엔 리사가 알아서 할 거야.",
+                "cn": "这些是给丽萨的洋服和食物，还有为她的朋友们准备的礼物。至于她爸爸非要我带着的这箱古书，我也不太懂有什么用，等丽萨来了自己处理吧。"
+            },
+            "asset": "char_4026_vulpis/CN_002"
+        },
+        {
+            "id": "char_4026_vulpis_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Uniform? No, thanks. I don't know why you people need so many pockets. Just as I can't grasp why the Higashinese stuff planks and pillows in their waistbands, making it so terribly hard to move around… Anyway, I'm fine with this outfit, and it has nothing to do with me being Siracusan.",
+                "jp": "制服？必要ないよ。貴方たちが何故それほどたくさんのポケットをつけたがるのか理解できない。極東の人が板と枕を腰に括りつけて、まともに歩けもしないようにするのが分からないのと同じでね……やはり今の服が一番馴染むよ。まだシラクーザ人であるかどうかとは関係なくね。",
+                "kr": "제복? 필요 없어. 난 너희가 왜 그렇게 많은 주머니를 옷에 달고 다니는지 이해할 수 없거든. 내가 지금도 극동 사람들이 판자랑 베개를 허리에 묶고 다니면서 제대로 걷지 못하는 걸 이해하지 못하는 것처럼 말이야…… 난 지금 입고 있는 이 옷이 편하고 좋아. 내가 시라쿠사인이든 아니든 관계없이 말이야.",
+                "cn": "制服？不必了。我不理解你们为什么要设计那么多口袋，就像我不懂东国人为什么要往腰上塞板子和枕头，弄得连步子都迈不开......还是这身穿着舒服，和我如今是不是叙拉古人没有关系。"
+            },
+            "asset": "char_4026_vulpis/CN_003"
+        },
+        {
+            "id": "char_4026_vulpis_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Some of the operators here have unsteady breathing. Perhaps they could try reciting a tanka or two to adjust their breaths as they strike, like: 'Solitude seeps not from autumn shade, but from the mountain pines in red sun's fall.' Or 'I bear no off'ring branch unto the hills, for rich brocades of maple sate the gods.' You think these lines evoke a particular image? Hm. Probably.",
+                "jp": "この子たちは呼吸が安定しないね。技を繰り出す時に、歌を詠んで整えてみるといい。たとえば「寂しさはその色としもなかりけり槙立つ山の秋の夕暮れ」とか、「このたびは幣も取りあへず手向山紅葉の錦神のまにまに」とか、ほか――え？歌の形象が独特って？まあ、そうかもしれないね。",
+                "kr": "오퍼레이터들의 호흡이 불안정하네. 이럴 땐 짧은 시구를 읊으며 호흡을 조절해 보는 것도 나쁘지 않지. 예를 들자면, “외로움은 그 빛깔 때문이 아니었구나, 소나무 우거진 산의 가을의 해질녘이여.”, “이번 여행길 예물을 준비하지 못했으니, 다무케 산 비단결의 단풍잎 마음껏 받으소서.” ……시구가 인상적이었다고? 흠, 그럴지도 모르겠네.",
+                "cn": "这些干员气息不稳，可以试试出招时念一些短句来调整呼吸。像“山头群松秋夕暮，萧寂非为寒色浓”“币帛未带因羁旅，红叶满山持献神”——你说这些诗的意象很特别？呃，或许吧。"
+            },
+            "asset": "char_4026_vulpis/CN_004"
+        },
+        {
+            "id": "char_4026_vulpis_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "No need to hide the Wolumonde story from me. Hm, you look nervous, but I'm not here to cast blame, my daughter knows the meaning of her work. <i>Suzuran</i> is no fragile flower, and I am no hidebound gardener.",
+                "jp": "ウォルモンドでの出来事を隠さないでいいよ……落ち着いて、私は罪を問いに来たのではない。あの子は何をすべきかよく分かっているからね。「スズラン」はか弱い花ではないし、私も道理の分からない庭師なんかじゃない。",
+                "kr": "월루몽드에서 있었던 일이라면 딱히 숨기지 않아도 돼…… 긴장할 것 없어. 난 죄를 물으러 온 게 아니니까. 그 아이도 자신이 뭘 해야 하는지 잘 알고 있어. '스즈란'은 연약한 꽃이 아닐뿐더러, 나 역시 이치를 모르는 정원사 같은 게 아니야.",
+                "cn": "没必要向我隐瞒沃伦姆德的事情......别紧张，我不是来问罪的，那孩子知道做什么有意义。“铃兰”又不是一种脆弱的花，我也不是什么古板的园丁。"
+            },
+            "asset": "char_4026_vulpis/CN_005"
+        },
+        {
+            "id": "char_4026_vulpis_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "My return trip to Siracusa? The perpetrator is dead, so there is little else to say. The man who, in his lust for power, deprived so many of a decent life, did not deserve a decent death.",
+                "jp": "シラクーザに戻った経緯？元凶はすでに死んだ。あえて言うことは何もないよ。権力に執着し、数え切れぬほどの人々に辛酸をなめさせた者が、綺麗に死ねるはずもないでしょう？",
+                "kr": "시라쿠사로 돌아간 이유? 사건의 원흉은 이미 죽었어. 나도 더는 할 말이 없고. 권력에 눈이 멀어 수많은 이들에게 고통을 안겨준 자가 평온하게 죽었을 리가 없잖아?",
+                "cn": "你问我重回叙拉古的经历？罪魁祸首已经死了，没什么可说的。一个狩猎权力的人，让无数人没办法体面地活，又怎么配体面地死？"
+            },
+            "asset": "char_4026_vulpis/CN_006"
+        },
+        {
+            "id": "char_4026_vulpis_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Lost in thought? Is something wrong? Hm, some business less suited to a so-called <i>pharmaceutical company</i>, is it? If you need my help, do speak clearly now. You see, Doctor, I have only the patience to manage this single braid.",
+                "jp": "どうしてこんなところでぼうっとしてるの？面倒事でも？一介の「製薬会社」には手に余る仕事？もし私の力が必要なら、そう言ってくれればいい……ドクター、生憎と私は気が短くてね。三つ編み一本分しかない。",
+                "kr": "왜 이런 데서 멍하니 있는 거지? 골칫거리라도 있는 거야? '제약 회사'로서 처리하기 껄끄러운 일인가? 내 도움이 필요한 거라면 돌리지 말고 솔직히 말해…… 박사, 미안하지만 난 인내심이 없어. 내 머리를 땋는 것도 한 가닥이 최대거든.",
+                "cn": "你怎么在这里发呆？麻烦事？一些“医药公司”不方便处理的业务？如果我能帮上忙的话，可以直说......博士，我的耐心可只够我自己编一根辫子。"
+            },
+            "asset": "char_4026_vulpis/CN_007"
+        },
+        {
+            "id": "char_4026_vulpis_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "The wine tasting is already finished? I went to freshen up and hurried back as quickly as I could... Ah, sorry, but my work demands it. You see, precision is everything. I must be meticulous about which bastard die at which moment, not a second sooner. Hehe, but we don't need to pick a time for whiskey. Care to stay a while longer?",
+                "jp": "試飲会はもう終わったの？最低限の身支度だけで、すぐに来たのに……ああ、すまない、時間を見なかった。仕事は当然時間厳守だよ。愚か者たちがいつ何時死んだかは、大事だからね。でもウイスキーにそんな制限はないでしょう。もう少し付き合って？",
+                "kr": "시음회는 벌써 끝난 건가? 간단히 매무새만 다듬고 바로 온 건데 말이지. 아, 미안. 시간 보는 걸 깜빡했네. 일할 땐 당연히 시간을 지켜. 녀석들이 몇 분 몇 초에 죽었는지는 중요하니까. 하지만 위스키는 그런 제한이 없잖아. 어떻게, 조금 더 있다가 갈래?",
+                "cn": "品酒会已经结束了？我明明只是简单梳洗了一下就赶过来了。啊抱歉，忘了看表。工作当然要守时，那些混蛋死在哪一分哪一秒都有说法，不过威士忌不在规定的时间喝也没事吧，再待会儿？"
+            },
+            "asset": "char_4026_vulpis/CN_008"
+        },
+        {
+            "id": "char_4026_vulpis_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "So much snow on the deck, and yet the corridors are not cold. I detest inconsistent weather, so the landship has been a blessing. I only just realized how long I've been here. You're right, an assassin's vacation is a good thing, for herself, and others.",
+                "jp": "甲板にはあんなに分厚い雪が積もっているのに、廊下はちょうどいい気温だね。私は温度がころころ上下するのが嫌いだから、この船は都合がいいよ――考えたら、もうここで随分長く過ごしているね。確かに貴方の言う通りだ。殺し屋が休みをとるのは、本人にとっても、他の人にとっても悪くないことだ。",
+                "kr": "갑판 위엔 눈이 그렇게나 두껍게 쌓였는데, 복도는 온도가 딱 좋네. 난 기온이 오르내리는 건 딱 질색이라, 이 배는 이런 점이 마음에 들어. 그러고 보니 나도 여기서 꽤 오래 지냈네. 당신 말이 맞았어, 암살자에게 휴가는 본인에게도, 다른 사람들에게도 나쁘지 않은 일이야.",
+                "cn": "甲板上积了那么厚的雪，走廊却一点都不冷，我讨厌忽冷忽热的天气，这艘船确实很方便——说起来我竟然已经在这里待了这么久。你说得对，一个杀手有假期，对她自己和其他人都不是件坏事。"
+            },
+            "asset": "char_4026_vulpis/CN_009"
+        },
+        {
+            "id": "char_4026_vulpis_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "I'll stay here, just call me if you need something. Hard to believe? Sometimes, I can be very patient, Doctor. Have you ever tried combing nineteen tails in one go?",
+                "jp": "傍にいるから、用があるならいつでも呼んで……私だっていつも気が短いわけではないよ。ドクター、一息に十九本のしっぽをブラッシングした経験は？",
+                "kr": "곁에 있을 테니 필요하면 언제든 불러…… 나도 인내심이 늘 없는 건 아니거든. 박사, 한 번에 열아홉 개의 꼬리를 빗질해 본 적 있어?",
+                "cn": "我就在旁边，有事随时叫我......我当然也有耐心的时候。博士，你有没有试过一口气梳理十九条尾巴？"
+            },
+            "asset": "char_4026_vulpis/CN_010"
+        },
+        {
+            "id": "char_4026_vulpis_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Hello. You must be 'the incredible Doctor' Lisa always mentions in her letters. Hmm, I've been curious to know what you looked like, and here you are. Which reminds me, could you update me on Lisa's studies, if you have the time?",
+                "jp": "こんにちは。リサが手紙で言っていた「何でもできるドクター」がどんな姿をしているか、ずっと気になっていたんだ。やっとこうして会えたね。折角だし、あの子の学業について話がしたいのだけど、時間はあるかな？",
+                "kr": "안녕. 리사가 편지에서 늘 말하던 '못하는 게 없는 박사님'이 대체 어떤 모습일지 궁금했었는데, 드디어 만났네. 이렇게 오게 된 김에 우리 리사의 학업에 대해서도 이야기를 나눠보고 싶은데, 시간 괜찮을까?",
+                "cn": "你好。我一直好奇，丽萨信里提到的“无所不能的博士”究竟长什么样子，今天终于见面了。我想顺便和你沟通一下那孩子的学业，有时间吗？"
+            },
+            "asset": "char_4026_vulpis/CN_011"
+        },
+        {
+            "id": "char_4026_vulpis_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "It's not often I see recordings of myself. I fought my battles in quiet alleyways, with no witnesses.",
+                "jp": "こうして映像で自分の姿を見ることはほとんどないよ。今まで経験してきた戦いは、皆人知れない路地裏で起きていたからね。",
+                "kr": "내 모습을 이렇게 영상으로 보게 될 줄이야. 전에 있었던 전투들은 모두 아무도 모르는 골목에서 벌어졌었거든.",
+                "cn": "我很少通过录像看自己。以前的那些战斗，都发生在无人知晓的街巷。"
+            },
+            "asset": "char_4026_vulpis/CN_012"
+        },
+        {
+            "id": "char_4026_vulpis_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "I appreciate the recognition. But this means those after the bounty on my head will come looking for Rhodes Island. You are not worried?",
+                "jp": "認めてもらえたようで、嬉しいね。だけど、これから私の首を狙う賞金稼ぎたちが、このロドスに来ることになるよ。それでも平気？",
+                "kr": "인정해 줘서 고마워. 하지만 앞으로 내 목에 걸린 현상금을 노리는 놈들이 로도스 아일랜드로 먼저 찾아올 텐데, 그래도 괜찮겠어?",
+                "cn": "多谢你的肯定。不过这意味着以后那些想要杀我拿赏金的家伙，会先找上罗德岛。没关系吗？"
+            },
+            "asset": "char_4026_vulpis/CN_013"
+        },
+        {
+            "id": "char_4026_vulpis_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "I accept your medal, Doctor. You needn't say more. I do know the difference between this medal, and the emblems of the Siracusan family.",
+                "jp": "受け取っておくよ、ドクター。皆まで言わなくていい、このメダルとシラクーザのファミリーが持つ紋章との違いは当然知っている。",
+                "kr": "받아 둘게, 박사. 당신이 주는 이 훈장이 시라쿠사 패밀리의 휘장과 어떻게 다른지는 말하지 않아도 아니까.",
+                "cn": "我收下了，博士。不用说那么多，我自然知道这枚勋章和叙拉古家族的家徽有什么不同。"
+            },
+            "asset": "char_4026_vulpis/CN_014"
+        },
+        {
+            "id": "char_4026_vulpis_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Leave the toughest one for me.",
+                "jp": "一番厄介な敵は私に任せて。",
+                "kr": "가장 까다로운 녀석은 나한테 맡겨.",
+                "cn": "最难对付的那个敌人交给我。"
+            },
+            "asset": "char_4026_vulpis/CN_017"
+        },
+        {
+            "id": "char_4026_vulpis_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Just keep yourselves safe, ladies and gentlemen.",
+                "jp": "君たちは自分の身を守っているだけでいいよ。",
+                "kr": "너희는 너희 목만 잘 지키고 있어.",
+                "cn": "各位，你们照顾自己就好。"
+            },
+            "asset": "char_4026_vulpis/CN_018"
+        },
+        {
+            "id": "char_4026_vulpis_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "My ears are sharp, so when I stop, you stop.",
+                "jp": "私は耳が良くてね。私が止まったら、君たちも止まって。",
+                "kr": "난 귀가 아주 예민해. 그러니 내가 멈추면 너희도 멈춰.",
+                "cn": "我的耳朵很灵，我停下的时候，你们就停下。"
+            },
+            "asset": "char_4026_vulpis/CN_019"
+        },
+        {
+            "id": "char_4026_vulpis_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Need to parley with them? But I rarely do such things, whether I'm in Siracusa or Higashi.",
+                "jp": "交渉をするの？シラクーザでも極東でも、私はそういうのは滅多にしないよ。",
+                "kr": "협상을 하겠다고? 시라쿠사에서든 극동에서든, 난 그런 건 잘 안 해.",
+                "cn": "要和对面交涉吗？不管在叙拉古还是东国，我很少做这些。"
+            },
+            "asset": "char_4026_vulpis/CN_020"
+        },
+        {
+            "id": "char_4026_vulpis_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "I'm all ears.",
+                "jp": "聞いているよ、どうぞ。",
+                "kr": "듣고 있어, 말해봐.",
+                "cn": "在听，你说。"
+            },
+            "asset": "char_4026_vulpis/CN_021"
+        },
+        {
+            "id": "char_4026_vulpis_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "So much negotiation and we end up talking with our blades.",
+                "jp": "交渉を重ねたところで、結局はやるんじゃないか。",
+                "kr": "협상을 하니 마니, 결국엔 손을 써야 하는 거 아닌가?",
+                "cn": "交涉半天，不还是要动手。"
+            },
+            "asset": "char_4026_vulpis/CN_022"
+        },
+        {
+            "id": "char_4026_vulpis_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Splendid day today.",
+                "jp": "天気がいいね。",
+                "kr": "날씨가 좋네.",
+                "cn": "天气很好。"
+            },
+            "asset": "char_4026_vulpis/CN_023"
+        },
+        {
+            "id": "char_4026_vulpis_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Beautiful place.",
+                "jp": "いい環境だ。",
+                "kr": "좋은 환경이야.",
+                "cn": "环境不错。"
+            },
+            "asset": "char_4026_vulpis/CN_024"
+        },
+        {
+            "id": "char_4026_vulpis_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Hate and resentment have no place, but in a burst of autumn red.",
+                "jp": "降る仇に積もる恨みの落ち葉なく、吹き出づる色葉のあか。",
+                "kr": "갈 곳 없는 원한이 쌓이니, 붉은 낙엽이 되어 가슴을 물들이는구나.",
+                "cn": "千仇万恨无归处，一腔秋叶红。"
+            },
+            "asset": "char_4026_vulpis/CN_025"
+        },
+        {
+            "id": "char_4026_vulpis_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Flowers imbibed, the lady in suit and tie dance with her blade.",
+                "jp": "花に酔へり羽織着て刀さす女。",
+                "kr": "꽃에 취해 양복을 걸치고 칼을 찬 여인이여.",
+                "cn": "洋服剑舞，所谓伊人醉山花。"
+            },
+            "asset": "char_4026_vulpis/CN_026"
+        },
+        {
+            "id": "char_4026_vulpis_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "At least make me lose the coat.",
+                "jp": "まずはこのコートを打ち落とせるかやってみて。",
+                "kr": "먼저 내 코트를 건드릴 수 있는지나 시험해보지그래.",
+                "cn": "你们可以试试先打落我的大衣。"
+            },
+            "asset": "char_4026_vulpis/CN_027"
+        },
+        {
+            "id": "char_4026_vulpis_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Why the rush? The road to the afterlife is crowded enough.",
+                "jp": "急ぐことはないよ。黄泉への道は混んでいるからね。",
+                "kr": "그렇게 서두르지 말라고, 황천길도 좁은데.",
+                "cn": "急什么，往生之路那么挤。"
+            },
+            "asset": "char_4026_vulpis/CN_028"
+        },
+        {
+            "id": "char_4026_vulpis_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Higashinese shoji screens often run a common theme. The kami created life and land to propagate themselves… A pity they didn't care for what came after. Sorting out this mess is hard work.",
+                "jp": "極東の神社で見る屏風絵でよくあるテーマとして――神は自身の裾野を広げるために、山や川、そして島と民草を創り出した……しかし後のことは、知らんぷりだ。このように後始末をつけるのは、大したものだよ。",
+                "kr": "극동의 신사에 가면 볼 수 있는 병풍 그림엔 흔히 쓰는 주제가 있어…… 신은 자신의 번성을 위해 산과 강, 섬과 중생을 창조했다…… 하지만 창조 이후의 일은 신경 쓰지 않았지. 이런 난장판의 뒤처리를 이렇게까지 해낸 건 정말 대단한 거야.",
+                "cn": "东国神社的屏风画有个常见的主题——神为了自身的繁衍，创造了山川岛屿和芸芸众生......可惜后面的事情，神就不怎么管了。能收拾这些烂摊子，不容易。"
+            },
+            "asset": "char_4026_vulpis/CN_029"
+        },
+        {
+            "id": "char_4026_vulpis_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "There's nothing to clean up. Let's go.",
+                "jp": "後片付けは必要ない、帰ろう。",
+                "kr": "뒤처리할 건 없군, 돌아가지.",
+                "cn": "没什么需要善后的，收工吧。"
+            },
+            "asset": "char_4026_vulpis/CN_030"
+        },
+        {
+            "id": "char_4026_vulpis_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Crawling out of the swamp is hard enough, never mind doing it gracefully.",
+                "jp": "泥沼から抜け出せただけで、十分な成果だからね。余裕の有無はそこまで重要ではない。",
+                "kr": "이런 진흙탕 속에서 빠져나온 것만으로도 충분히 대단한 일이야. 여유가 있었든 없었든 그건 중요하지 않아.",
+                "cn": "能从泥潭里脱身已经很不容易，从不从容倒也没那么重要。"
+            },
+            "asset": "char_4026_vulpis/CN_031"
+        },
+        {
+            "id": "char_4026_vulpis_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Leave the rest to me... it's clear why we failed, and I know how to make it even.",
+                "jp": "残りは私に任せて……敗戦の原因は明らかだから、誰に責任を取ってもらうべきか知ってる。",
+                "kr": "나머지는 내게 맡겨…… 실패의 이유가 명확하니, 누굴 찾아 대가를 치르게 할지 잘 알고 있어.",
+                "cn": "剩下的交给我......失败的原因一目了然，我知道该去找哪个家伙算账。"
+            },
+            "asset": "char_4026_vulpis/CN_032"
+        },
+        {
+            "id": "char_4026_vulpis_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "The soundproofing of this place is excellent. Was it done for professional reasons?",
+                "jp": "防音がしっかりしているね。業務上の都合なのかな？",
+                "kr": "방음이 잘 되어 있네, 상당히. 업무상의 이유인가?",
+                "cn": "房间的隔音这么好，是业务需要吗？"
+            },
+            "asset": "char_4026_vulpis/CN_033"
+        },
+        {
+            "id": "char_4026_vulpis_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Hehe, even Lisa has grown out of this by now.",
+                "jp": "ふっ、リサでもこんな幼稚なことはしないよ。",
+                "kr": "하아, 리사도 이런 유치한 장난은 안 쳐.",
+                "cn": "哈，丽萨现在都不会做这样幼稚的事情了。"
+            },
+            "asset": "char_4026_vulpis/CN_034"
+        },
+        {
+            "id": "char_4026_vulpis_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "The scar on my face? I wasn't born with it... Let's just leave it at that.",
+                "jp": "顔の傷？生まれつきのものではない……ああ、それだけ。",
+                "kr": "얼굴의 흉터? 태어날 때부터 있던 건 아니야…… 그래, 그게 다야.",
+                "cn": "你问我脸上这道疤？不是生来就有的......嗯，没了。"
+            },
+            "asset": "char_4026_vulpis/CN_036"
+        },
+        {
+            "id": "char_4026_vulpis_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4026_vulpis/CN_037"
+        },
+        {
+            "id": "char_4026_vulpis_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Happy New Year. What a wonderful gathering. Dancing, chatting, making noise just for fun, instead of drowning out a struggle. Hmm… Lisa's making her way here, Doctor. That was sake in my cup and not a double whiskey shot, understand?",
+                "jp": "あけましておめでとう。こうして皆が集まるのはいいね。踊りを踊って、楽しくお話をして、決して煩わしい何かの動きを隠すための賑やかさじゃない――あ、リサがこっちに来てる。ドクター、先ほどこのコップに入っていたのは清酒で、ウイスキーのダブルなんかじゃない。いいね？",
+                "kr": "새해 복 많이 받아. 너희처럼 이렇게 모두가 한자리에 모여 춤도 추고 이야기를 나누는 거, 보기 좋네. 무언가 성가신 일을 감추기 위한 떠들썩함이 아니라서 마음에 들어…… 아, 리사가 이쪽으로 오고 있어. 박사, 방금 내 컵에 들어있던 건 청주야. 위스키 더블샷 같은 게 아니라. 알아들었어?",
+                "cn": "新年快乐。像你们这样聚在一起就很好，跳跳舞，聊聊天，热闹不是为了遮掩那些烦人的动静——丽萨过来了，博士，刚刚我杯子里装的是清酒，不是什么双倍烈度的威士忌，对吧？"
+            },
+            "asset": "char_4026_vulpis/CN_038"
+        },
+        {
+            "id": "char_4026_vulpis_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Hello, Doctor... Hehe, I can hear your footsteps even with my ears folded.",
+                "jp": "こんにちは、ドクター……ふっ、たとえ耳を伏せたとしても、貴方の足音は聞こえるよ。",
+                "kr": "안녕, 박사…… 훗, 귀를 접고 있다 해도, 당신 발소리 정도는 들을 수 있어.",
+                "cn": "你好，博士......我就算把耳朵折起来，还是能听见你的脚步声。"
+            },
+            "asset": "char_4026_vulpis/CN_042"
+        },
+        {
+            "id": "char_4026_vulpis_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "I first contacted Rhodes Island because it was the best place to treat Lisa. But now, I would send her here to learn, even if she were perfectly healthy. Do not let this landship ever stop, Doctor, not after it has been sailing for so long.",
+                "jp": "当初貴方たちを訪ねたのは、リサが腕に傷を負い、ロドスがその治療に一番適していたからだった。でも今にして思えば、治療のためじゃなくても、私は喜んであの子をロドスへ修練に送り込んだだろうね。これほど長く旅をしてきた船だ、その歩みを止めることはないように、ドクター。",
+                "kr": "처음 너희를 찾아온 건 리사가 팔을 다쳤고, 로도스 아일랜드가 리사를 치료하기에 가장 적합한 곳이었기 때문이야. 근데 지금 보니, 리사가 아프지 않았더라도 난 그 아이를 로도스 아일랜드로 보내 생활하게 했을 것 같네. 이토록 긴 여정을 항해한 배를 멈추게 하지 마, 박사.",
+                "cn": "最开始联系你们，是因为丽萨的手臂受了伤，而罗德岛是最适合求治的地方。现在看来，哪怕那孩子没有生病，我也愿意送她来这里历练。一艘航行了这么久的船，别让它停下来，博士。"
+            },
+            "asset": "char_4026_vulpis/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Chiara Preziosi",
+            "global": "Chiara Preziosi"
+        },
+        "cn": {
+            "native": "金喵儿",
+            "global": "Miaoer Jin"
+        },
+        "jp": {
+            "native": "三石琴乃",
+            "global": "Kotono Mitsuishi"
+        },
+        "kr": {
+            "native": "전해리",
+            "global": "Jeon Hae-ri"
+        },
+        "ita": {
+            "native": "Virginia Astarita",
+            "global": "Virginia Astarita"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr",
+        "ita"
+    ]
+}

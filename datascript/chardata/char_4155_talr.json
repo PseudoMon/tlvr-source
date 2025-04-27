@@ -1,0 +1,633 @@
+{
+    "charid": "char_4155_talr",
+    "nameid": "talr",
+    "names": {
+        "en": "Figurino",
+        "jp": "フィグリーノ",
+        "kr": "피구리노",
+        "cn": "裁度"
+    },
+    "voices": [
+        {
+            "id": "char_4155_talr_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Back when I was an assistant at the shop, I filled the binders with hundreds of customers' preferences. Materials, hem lengths, even the number of buttons they wanted on the cuffs. Rhodes Island's paperwork couldn't be more complicated than––oh, w-wait, so much?",
+                "jp": "ぼくが店で助手をしていた時、百人以上のお客さんの布地の好みや、裾の長さ、袖口にボタンを何個縫い付けるかなどを、ノート何冊も書いたんですからね。ロドスの書類があれよりも複雑なんてことは――こ、こんなに？",
+                "kr": "제가 샵에서 조수로 일할 때, 수백 명의 손님들의 옷감 취향, 옷자락 길이, 소매 단추의 개수 같은 걸 노트에 적곤 했어요. 그걸 기록하는 데 사용된 노트만 해도 몇 권은 될 겁니다. 로도스 아일랜드의 문서가 그것보단 덜 복잡할…… 이, 이렇게 많다고?",
+                "cn": "在店里当助理的时候，上百位主顾喜欢什么料子、下摆留多长、袖口缝几颗扣子，我可记了好几册，罗德岛的文件总不会比这还复杂吧——怎、怎么这么多？"
+            },
+            "asset": "char_4155_talr/CN_001"
+        },
+        {
+            "id": "char_4155_talr_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "This strap buckle came from a Carnival stall, and the strap itself is an old measuring tape of mine. The hairpin was customized with a beading needle, and I embroidered this pattern here myself... It's too flamboyant? How silly, this is the pinnacle of Siracusan style. Get with the times.",
+                "jp": "バックルはカルネヴァーレの屋台で買ったもので、サスペンダーは使い古した革のメジャー、ヘアピンは待ち針を改造したやつ、それに模様も全部自分で刺繍したものです――派手すぎ？これは一番見栄えのするシラクーザスタイルなんですよ。あなたのセンスもそろそろ今時に合わせないと。",
+                "kr": "버클은 카르네발레의 노점에서 샀고, 멜빵은 낡은 가죽 줄자를 이용해서 만들었고, 머리핀은 긴 바늘을 개조해서 만들었습니다. 여기 이 무늬도 다 제가 직접 자수한 거예요. ……너무 화려하다고요? 이게 요즘 사람들이 가장 선호하는 시라쿠사 스타일이라고요. 박사님 취향도 시대에 좀 맞추시는 게 어때요?",
+                "cn": "背带扣是狂欢节小摊上买的，背带是我用旧了的皮尺，发卡是用珠针改的，花纹也都是我自己绣的——太花哨了？这可是最有派头的叙拉古风格，您的审美该更新了吧。"
+            },
+            "asset": "char_4155_talr/CN_002"
+        },
+        {
+            "id": "char_4155_talr_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "The tailor shop isn't half bad. Let me tell you about two of my good friends: one went to the police academy, the other joined a famiglia. They don't speak anymore. But they're both customers here at my shop. They come to me when they need clothes made.",
+                "jp": "仕立屋にいるのも悪くないですよ。例えば、ぼくには友人が二人いましたが、一人が警察学校に、もう一人がファミリーの扉を叩いてから、お互い一切口をきかなくなりました。でもぼくは仕立屋にいて、二人はどちらもお客さんですから、服を作る時はやはりぼくのところに来なければいけないわけです。",
+                "kr": "테일러샵에서 일하는 것도 나쁘지 않아요. 제게는 두 명의 친구가 있는데, 한 명은 경찰 학교에, 다른 한 명은 패밀리에 들어갔거든요? 그 후로 둘은 이야기는커녕 안부 인사 같은 짧은 한 마디도 나누지 못하게 됐어요. 하지만 전 테일러샵에 있고, 그 둘은 여전히 제 손님이라 옷을 만들기 위해선 꼭 저를 찾아온답니다.",
+                "cn": "待在裁缝店也挺好的啊。这么说吧，我有两个哥们，一个去了警察学校，一个进了家族的大门，从此再没有说过一句话。但是我在裁缝店，他们都是我的客人，要做衣服都还得找我。"
+            },
+            "asset": "char_4155_talr/CN_003"
+        },
+        {
+            "id": "char_4155_talr_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Nonno used to tell me all sorts of fanciful stories, so I wouldn't get bored in the shop. I've known those stories backwards and forwards my whole life now. There's no way I would believe—oh, by heaven! D-Doctor, a doll just floated by! In midair! Y-You didn't see it? No-no-no, I'm not kidding!",
+                "jp": "祖父はぼくが店で退屈しないように、いつもバカげた作り話をしてくれました。おかげでその手の話なんてもう暗唱できるほどですし、とっくにデタラメだっていうのも分かって――うわあああ！ド、ドクター、今人形が目の前を飛んでいった！み、見えなかった？ビビらせないでくださいよ！",
+                "kr": "할아버지는 제가 샵에서 지루해하지 않도록 항상 터무니없는 이야기들을 해주셨어요. 얼마나 많이 들었던지, 다 외울 지경이었죠. 물론 애초부터 믿지도 않았지만…… 으악! 바, 박사님, 바, 방금 어떤 인형이 휙 하고 날아갔어요! 모, 못 보셨다고요? 놀리시는 거죠!",
+                "cn": "爷爷以前总是讲些不着调的故事来哄我，好让我在裁缝店里也不会无聊，可那些故事我都能倒着背了，我早就不会相信——哇啊！博、博士，刚才有、有个娃娃飘过去了！没、没看到？您别吓我！"
+            },
+            "asset": "char_4155_talr/CN_004"
+        },
+        {
+            "id": "char_4155_talr_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Once upon a time, I wanted to join the ranks of Siracusa's worthies, but Nonno only taught me how to hold a ruler and a pair of scissors. Still, with nothing but these two tools, he managed to win the respect of so many such worthies... There's still a lot for me to learn. And for now, I want to start with a new suit of clothes.",
+                "jp": "ぼくもかつてはシラクーザの偉い人になりたかったですが、祖父はメジャーと裁ちばさみの持ち方しか教えてくれませんでした。でも、祖父がたくさんの大物たちから尊敬されてたのも、やはりメジャーとはさみのおかげでした……まだまだ学ぶことは多いですが、今は新しい服を仕立てるところから始めたいと思っています。",
+                "kr": "저도 예전엔 시라쿠사의 거물이 되고 싶었는데 할아버지는 제게 줄자랑 재단 가위 다루는 법만 가르쳐 주셨어요. 그런데 할아버지가 그토록 많은 거물에게 존중을 받던 것도 줄자와 가위 덕분이었죠…… 전 아직 배워야 할 게 많지만, 지금은 새로운 옷을 재단하는 것부터 시작하고 싶어요.",
+                "cn": "我曾经也想当叙拉古的大人物，爷爷却只教我怎么拿尺和剪刀。但爷爷被那么多大人物尊重，靠的也只是尺和剪刀......我要学的还有很多，现在，我还是想从做一套新衣学起。"
+            },
+            "asset": "char_4155_talr/CN_005"
+        },
+        {
+            "id": "char_4155_talr_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "I thought the end of Carnival was just as cruel as Siracusa's old fairy tales. But when midnight came and the fireworks burst into the night sky, everyone could still truly celebrate together... I guess that's how a fairy tale should end. Ah, will future Siracusan fairy tales also be like this?",
+                "jp": "カルネヴァーレの結末はシラクーザの古いおとぎ話と同じくらい残酷だと思いました。でも、あの日の真夜中、夜空に花火が打ち上がった時、みんなが一緒に心から盛り上がっていたこと……それこそがおとぎ話の結末でしょう。未来のシラクーザのおとぎ話は、こんな感じになるのでしょうか？",
+                "kr": "카르네발레의 결말은 시라쿠사의 오래된 동화만큼 잔혹할 거라고 생각했어요. 하지만 그날 밤, 하늘에 폭죽이 피어오르고 모두가 함께 진심으로 기뻐하던 모습을 보니…… 이런 게 바로 동화의 결말이 아닐까 싶었죠. 미래의 시라쿠사 동화도 이렇게 끝나게 될까요?",
+                "cn": "我以为狂欢节的结局和叙拉古老童话一样残酷。但到了那天午夜，当夜空中开出烟花，大家都还能真心地一同庆祝......那才是童话的结局吧。叙拉古未来的童话，会是这样吗？"
+            },
+            "asset": "char_4155_talr/CN_006"
+        },
+        {
+            "id": "char_4155_talr_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "It's alright, I can sort out these letters on my own. See, they're from our neighbors, de Montano's regulars. Even though they know that Nonno isn't around anymore, they still send their regards to the shop... Hmm, maybe this is what he meant by 'decency'.",
+                "jp": "この手紙は自分で片付けますので、ドクターが手を煩わせることはありません。ご覧のとおり、全部近所の人たち、それからデ・モンターノの常連客からのものです。祖父がもういないと分かっているのに、いつのもように店に挨拶の手紙を送ってくる……これが、祖父の言ってた「ディチェンテ」ということなのでしょうか？",
+                "kr": "이 편지들은 제가 정리할 테니까 도와주지 않으셔도 괜찮아요. 보시다시피 전부 이웃 사람이랑 데 몬타노의 오래된 단골들이 보내온 거예요. 할아버지가 더 이상 안 계신다는 걸 알면서도, 여전히 평소처럼 안부를 묻는 편지를 가게로 보내오네요…… 이게 바로 할아버지가 말씀하셨던 '품위'라는 걸까요.",
+                "cn": "这些信我自己可以整好，不用您帮忙的。您看，来信的都是街坊邻居，德蒙塔诺的老主顾。他们知道爷爷已经不在了，但还会把问候的信件寄到店里......也许这就是爷爷说的“体面”？"
+            },
+            "asset": "char_4155_talr/CN_007"
+        },
+        {
+            "id": "char_4155_talr_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Doctor, did you not sleep well? I can see the bags under your eyes. Why not take a page from my book and use some eyeshadow to make yourself look more energetic? Ah no, pretend I didn't say anything. I can tell that you're the type who never gets enough rest, but can always freshen up when it's time to get serious. I'll keep all the makeup stuff for myself.",
+                "jp": "ドクター、あまりよく眠れてないですか？目の下にクマが見えます。なんならぼくみたいに、明るめのアイシャドウを使ってみませんか？顔色が良く見えますから。いや、やめましょう。あなたは休憩を疎かにしがちだけど、本気を出せばすぐに溌剌と動けるタイプですからね。こういうメイクで誤魔化すようなやり方はやはりぼくだけの小技にしましょう。",
+                "kr": "잠을 제대로 못 주무셨나요, 박사님? 눈 밑에 다크서클이 생기셨네요. 저처럼 밝은 톤의 아이섀도를 써보시는 건 어때요. 더 생기 있어 보일 거예요. 아, 다시 생각해 보니 그럴 필요는 없겠네요. 박사님은 휴식을 소홀히 하시는 경향이 있지만, 마음만 먹으면 언제든 기운을 되찾는 타입이시니까요. 이런 메이크업 같은 속임수는 저만의 방식으로 남겨두죠.",
+                "cn": "博士，没睡好吗，我都看到您的黑眼圈了。要不学学我，用亮一点的眼影，看起来精神点。算了，您是那种虽然经常不休息，但只要认真起来，就能马上精神焕发的人。这点打扮还是留给我吧。"
+            },
+            "asset": "char_4155_talr/CN_008"
+        },
+        {
+            "id": "char_4155_talr_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Fold this corner first, go around twice like this, and finally tie it around your neck... Hmph, the scarf doesn't match your outfit. How about I just make you a complete Siracusan ensemble? It won't take anything I don't already know, so you might as well say yes.",
+                "jp": "まずはこの角を折って、次はこのように二回折って、最後は首に巻きます――おっと、今の服ではこのスカーフが合いませんね。いっそのことぼくがシラクーザ式の一揃いを作って差し上げましょうか……ちょうど新しい服を作る練習をしなければなりませんので、遠慮はいりませんよ。",
+                "kr": "먼저 이 모서리를 접고, 그다음에 이렇게 두 번, 마지막으로 이렇게 매면…… 으음, 지금 입고 있는 옷엔 이 스카프가 어울리지 않네요. 이참에 제가 시라쿠사 스타일의 의상을 한 벌 준비해 드릴게요…… 마침 저도 새로운 옷을 만드는 연습을 해야 하니, 부담은 갖지 말아 주세요.",
+                "cn": "先把这个角折起来，再像这样叠两次，最后系到脖子上——哎呀，领巾和您这身也不搭啊。要不我直接为您做一套叙拉古套装吧......正好我得学做一套新衣呢，请您别推辞。"
+            },
+            "asset": "char_4155_talr/CN_009"
+        },
+        {
+            "id": "char_4155_talr_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "This thread goes here, this goes there... Ugh, it's all tangled anew. What, you think tailors never get their threads tangled?",
+                "jp": "この糸口はこっちの、あれはあっちの……うーん、またごちゃごちゃしてる。何がおかしいですか？仕立屋だって糸は絡まるんですよ。",
+                "kr": "이 실은 이쪽에, 저건 저쪽에…… 윽, 또 엉켰잖아. 왜 웃으시죠? 재단사도 실이 엉킬 때가 있는 법이라고요.",
+                "cn": "这个线头是这里的，那个是那里的......呃，又弄乱了。怎么？裁缝就不会被线缠到了？"
+            },
+            "asset": "char_4155_talr/CN_010"
+        },
+        {
+            "id": "char_4155_talr_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "This is where I report in, right? Sorry, I came without getting changed first. Oh, I don't need to do that? Thank goodness, I feel more comfortable in familiar clothes.",
+                "jp": "挨拶はこちらで合ってますか？申し訳ありません、制服を着替えずに来てしまいました。着替えなくても大丈夫、ですか？ならよかった、自分で作った服の方が着心地がいいので。",
+                "kr": "인사는 이쪽에서 하면 될까요? 죄송합니다. 제복으로 갈아입지 않고 와버렸네요. 안 갈아입어도 괜찮다고요? 그럼 다행이네요, 저도 제가 만든 옷을 입고 있는 게 더 편하거든요.",
+                "cn": "在这边报到是吧，抱歉，我没有换制服就过来了。不一定要换？正好，穿着自己做的衣服更舒服。"
+            },
+            "asset": "char_4155_talr/CN_011"
+        },
+        {
+            "id": "char_4155_talr_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Uhhh… can't be any harder than learning to tailor.",
+                "jp": "まあ、仕立ての修業よりも難しいことではありません。",
+                "kr": "뭐, 재단 배우는 것보단 쉽네요.",
+                "cn": "呃，不会比学裁缝更难。"
+            },
+            "asset": "char_4155_talr/CN_012"
+        },
+        {
+            "id": "char_4155_talr_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "I appreciate the thought, but you really don't have to go out of your way to treat me like a child.",
+                "jp": "これらの表彰はありがたくいただきますが、ぼくを子供のように扱う必要はありませんよ。",
+                "kr": "이런 표창은 감사히 받겠지만, 절 어린애 달래듯 하실 필요는 없습니다.",
+                "cn": "这些褒奖我都收下了，不过，您可以不用把我当小孩子来哄。"
+            },
+            "asset": "char_4155_talr/CN_013"
+        },
+        {
+            "id": "char_4155_talr_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Ah, does this second promotion mean I can finally take charge on my own?",
+                "jp": "二度目の昇進をさせていただけるということは、ようやく一人前と認めていただけたのでしょうか？",
+                "kr": "이렇게 또 한 번 승진시켜 주셨다는 건, 제가 이제는 한 사람 몫을 할 수 있게 됐다는 의미일까요?",
+                "cn": "再次晋升的意思是，总算可以让我独当一面了吗？"
+            },
+            "asset": "char_4155_talr/CN_014"
+        },
+        {
+            "id": "char_4155_talr_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Trust me, I'm capable of handling field operations.",
+                "jp": "外勤任務は余裕でこなせます。任せてください。",
+                "kr": "외근 임무도 충분히 해낼 수 있으니, 맡겨만 주세요.",
+                "cn": "我可以胜任外勤工作，尽管相信我。"
+            },
+            "asset": "char_4155_talr/CN_017"
+        },
+        {
+            "id": "char_4155_talr_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Formulating strategies? Phew... Okay, I can do this, nothing I can't handle. It's just like threading a needle…",
+                "jp": "戦術を展開させるか。ふー……大丈夫だ、難しいことは何もない、ただ針に糸を通すだけだし……",
+                "kr": "전술 배치를 시작할까요? 후우…… 어려울 것 없어, 그냥 바늘에 실을 꿰는 것뿐이야……",
+                "cn": "安排战术，呼——没什么难的，没什么难的，不过是穿针引线而已......"
+            },
+            "asset": "char_4155_talr/CN_018"
+        },
+        {
+            "id": "char_4155_talr_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Suit up, it's time to set out.",
+                "jp": "準備を整えて出発しましょう。",
+                "kr": "준비는 철저히 하고 출발하시죠.",
+                "cn": "整装出发了。"
+            },
+            "asset": "char_4155_talr/CN_019"
+        },
+        {
+            "id": "char_4155_talr_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Hmph. Tough customers.",
+                "jp": "まったく、ややこしいお客さんですね。",
+                "kr": "쳇, 정말 까다로운 손님이네요.",
+                "cn": "啧，难缠的客户。"
+            },
+            "asset": "char_4155_talr/CN_020"
+        },
+        {
+            "id": "char_4155_talr_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Got a style in mind?",
+                "jp": "どのようなスタイルがご希望ですか？",
+                "kr": "어떤 스타일로 해 드릴까요?",
+                "cn": "什么样式？"
+            },
+            "asset": "char_4155_talr/CN_021"
+        },
+        {
+            "id": "char_4155_talr_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Got a fabric in mind?",
+                "jp": "どういう生地がお好みですか？",
+                "kr": "어떤 원단을 좋아하세요?",
+                "cn": "什么面料？"
+            },
+            "asset": "char_4155_talr/CN_022"
+        },
+        {
+            "id": "char_4155_talr_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Time to take measurements.",
+                "jp": "採寸の準備をします。",
+                "kr": "치수 잴 준비 다 됐습니다.",
+                "cn": "准备量体。"
+            },
+            "asset": "char_4155_talr/CN_023"
+        },
+        {
+            "id": "char_4155_talr_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Ready with the needle.",
+                "jp": "針と糸の準備は完了です。",
+                "kr": "바늘이랑 실도 다 준비됐어요.",
+                "cn": "针线齐了。"
+            },
+            "asset": "char_4155_talr/CN_024"
+        },
+        {
+            "id": "char_4155_talr_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "A waste of perfectly good fabric.",
+                "jp": "せっかくの生地が台無しだ。",
+                "kr": "이 좋은 원단을, 아깝게 됐네.",
+                "cn": "糟蹋了好料子。"
+            },
+            "asset": "char_4155_talr/CN_025"
+        },
+        {
+            "id": "char_4155_talr_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Oh, such awful tastes!",
+                "jp": "センス悪！",
+                "kr": "센스하고는!",
+                "cn": "品味真差！"
+            },
+            "asset": "char_4155_talr/CN_026"
+        },
+        {
+            "id": "char_4155_talr_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Hey! Stand still while I'm measuring!",
+                "jp": "採寸の時はしっかり立て！",
+                "kr": "치수를 잴 땐 똑바로 서 계세요!",
+                "cn": "量体的时候要站好！"
+            },
+            "asset": "char_4155_talr/CN_027"
+        },
+        {
+            "id": "char_4155_talr_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Keep your back straight—tsk, tsk. Who told you to keel over?",
+                "jp": "背筋を伸ばして――ちょっと、力を抜くな！",
+                "kr": "허리 펴고…… 잠깐, 힘 빼지 말라고요!",
+                "cn": "挺直腰板——啧啧，别塌下去！"
+            },
+            "asset": "char_4155_talr/CN_028"
+        },
+        {
+            "id": "char_4155_talr_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Mmm, a perfect stitch!",
+                "jp": "天衣無縫！",
+                "kr": "흠잡을 곳 하나 없네요!",
+                "cn": "天衣无缝！"
+            },
+            "asset": "char_4155_talr/CN_029"
+        },
+        {
+            "id": "char_4155_talr_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "This tactic was tailor-made for today's battle!",
+                "jp": "この戦術は今日の戦いのために誂えたみたいですね！",
+                "kr": "마치 오늘의 전투를 위해 맞춤 제작한 전술 같았어요!",
+                "cn": "这战术就是为了今天的战斗量身定制的！"
+            },
+            "asset": "char_4155_talr/CN_030"
+        },
+        {
+            "id": "char_4155_talr_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Thank goodness we accomplished our mission. Hmm, why is there a loose thread...?",
+                "jp": "幸いなことに任務は達成されました。あれ、どうしてこんなところに糸が飛び出て……",
+                "kr": "다행히 임무는 완수했네요. 어라, 왜 여기에 실밥이……",
+                "cn": "还好任务完成了。啧，怎么有个线头......"
+            },
+            "asset": "char_4155_talr/CN_031"
+        },
+        {
+            "id": "char_4155_talr_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Don't worry. It's only natural to waste some material when tailoring a suit.",
+                "jp": "服を仕立てる時も、材料を無駄にすることはよくあります。気にしないでください。",
+                "kr": "괜찮아요. 옷을 만들 때도 원단을 낭비하는 일이 종종 있거든요. 너무 신경 쓰지 마세요.",
+                "cn": "没关系，做套衣服，浪费点材料也正常。"
+            },
+            "asset": "char_4155_talr/CN_032"
+        },
+        {
+            "id": "char_4155_talr_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Any place to stash my toolkit?",
+                "jp": "裁縫箱を入れるスペースはありますか？",
+                "kr": "재봉 상자를 놓을만한 데가 어디 있을까요?",
+                "cn": "有地方放工具包吗？"
+            },
+            "asset": "char_4155_talr/CN_033"
+        },
+        {
+            "id": "char_4155_talr_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "OK, OK, I'll focus!",
+                "jp": "はいはい、サボってなんかないし！",
+                "kr": "네네, 딴짓 안 했습니다!",
+                "cn": "好了好了，我没在偷懒啦！"
+            },
+            "asset": "char_4155_talr/CN_034"
+        },
+        {
+            "id": "char_4155_talr_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Doctor, have you settled on the style you'd like to have made?",
+                "jp": "ドクター、この前作るとおっしゃってた一揃いのスタイルは決まりましたか？",
+                "kr": "박사님, 전에 말씀하셨던 옷 말인데요, 어떤 걸로 하실지 스타일은 정하셨나요?",
+                "cn": "博士，之前您说要做的套装，样式选好了吗？"
+            },
+            "asset": "char_4155_talr/CN_036"
+        },
+        {
+            "id": "char_4155_talr_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4155_talr/CN_037"
+        },
+        {
+            "id": "char_4155_talr_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "The mafiosi had their own secret ways of exchanging New Year's greetings. Back in the shop, we'd sew lace onto sleeves and gift leather wallets to our clients to celebrate the occasion. But none of these rituals seem appropriate for Rhodes Island. For now, I'll have to make do with a simple 'Happy New Year'.",
+                "jp": "ファミリーの人たちは、みんな隠語を使って新年の挨拶をするんです。仕立屋では、袖に縁飾りを縫い付けて、お客さんに財布を贈ったりします。でも今はロドスですし、こうしたお祝いはどれも違う気がするので、明けましておめでとうございますとだけ申し上げることにしましょうか。",
+                "kr": "패밀리 사람들은 서로 은어를 사용해 새해 인사를 해요. 그리고 테일러샵에선 소매에 무늬를 수놓고, 손님에게 지갑을 선물하며 새해를 축하했죠. 하지만 지금의 전 로도스 아일랜드에 있으니, 그런 방식보다는 그냥 “새해 복 많이 받으세요”라고 인사드리는 게 나을 것 같네요.",
+                "cn": "家族成员之间，大家会用暗语来说新年快乐。在裁缝店，我们会在袖子上缝块花边，还会给客人送皮夹来庆祝新年。现在在罗德岛上，这些庆祝好像都不太适合，就只跟您说一声新年快乐好了。"
+            },
+            "asset": "char_4155_talr/CN_038"
+        },
+        {
+            "id": "char_4155_talr_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Ah, Doctor, what a spiffy ensemble you've got there today. Oh? This is what you always wear? Err... Well, that's worth complimenting too!",
+                "jp": "ああ、ドクター、今日のコーデはなかなかですね。いつもこの一張羅？えっと……それでもいい感じですよ！",
+                "kr": "오오, 박사님. 오늘 스타일 나쁘지 않으신데요. 항상 똑같은 옷만 입으신다고요? 그…… 그래도 잘 어울리세요!",
+                "cn": "哦，博士，今天的穿搭不错。您说您一直都是这一身？呃......那也很不错！"
+            },
+            "asset": "char_4155_talr/CN_042"
+        },
+        {
+            "id": "char_4155_talr_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "When I set out, I grabbed all the spools of thread from the store, thinking I would advance beyond Nonno's level before they ran out. Now, with plenty of thread still left, I wonder, Doctor—if I might have already reached my goal long ago?",
+                "jp": "出発する前、店にある糸を全部荷物に入れておきました。使い終わるまでになんとしても、おじいちゃんすら行ったことのない場所に行くんだと思って。まだたくさん残っていますが――ドクター、ひょっとしたらぼくの目標は、とっくの昔にもう実現したのではありませんか？",
+                "kr": "출발하기 전에 샵에 있는 실들을 전부 가지고 나왔어요. 그 실들을 다 써 버리기 전에, 할아버지도 가보지 못한 곳에 꼭 전부 가 보자는 생각이었죠. 실은 아직 많이 남아 있지만…… 박사님, 어쩌면 제 목표는 이미 오래전에 실현된 게 아닐까 싶어요.",
+                "cn": "出发的时候，我把店里所有的线团都带出来了，心想在线团用完之前，一定要走到连爷爷也没到过的地方。现在线团还有很多——博士，您说我的目标，是不是其实早就实现了？"
+            },
+            "asset": "char_4155_talr/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Tommaso Zalone",
+            "global": "Tommaso Zalone"
+        },
+        "cn": {
+            "native": "陆泊云",
+            "global": "Lu Boyun"
+        },
+        "jp": {
+            "native": "寺島惇太",
+            "global": "Junta Terashima"
+        },
+        "kr": {
+            "native": "김동현",
+            "global": "Kim Dong-hyun"
+        },
+        "ita": {
+            "native": "Ezio Vivolo",
+            "global": "Ezio Vivolo"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr",
+        "ita"
+    ]
+}

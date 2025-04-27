@@ -1,0 +1,623 @@
+{
+    "charid": "char_245_cello_sale#12",
+    "nameid": "cello-sale",
+    "names": {
+        "en": "Virtuosa SALE",
+        "jp": "ヴィルトゥオーサ SALE",
+        "kr": "비르투오사 SALE",
+        "cn": "塑心 SALE"
+    },
+    "voices": [
+        {
+            "id": "char_245_cello_sale#12_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Do you hear the music? It is the resonance of countless individuals' emotions—we would be distinctly ourselves, yet as one. What a magnificent possibility.",
+                "jp": "旋律が聴こえている？あれは、数え切れぬ人々の感情の共鳴だよ――私たちは個として際立ち、けれども生まれながらに一つ。なんと壮大で美しい可能性なのかしら。",
+                "kr": "선율이 들려? 저건 셀 수 없이 많은 이들의 감정이 공명하는 소리야…… 우린 각자 다른 존재지만, 또다시 이렇게 하나가 되는 거지. 이 얼마나 웅장하고도 아름다운 가능성인지.",
+                "cn": "听见乐声了吗？那是无数人的情感在共鸣——我们各自鲜明，却又生而为一，多么壮美的可能性。"
+            },
+            "asset": "char_245_cello_sale#12/CN_001"
+        },
+        {
+            "id": "char_245_cello_sale#12_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "The Tower of Revelations, the Notarial Hall, the Sunset Chapel, and finally, the chapel square—the halos over our heads are extinguished, yet the city remains illuminated as always. Please hold here, Sankta. And tell me, is Laterano not more connected to the rest of this great land, and less dissimilar?",
+                "jp": "啓示の石塔、公証人役場、サンセット礼拜堂、そして教会広場――私たちの頭上の光輪は光を失ったけれど、都市は今日も輝いているのね。そちらのサンクタの方、少しいいかしら。教えてほしいことがあるの。今のラテラーノは、この大地の他の場所と何の違いもなく、密接に繋がっているのではない？",
+                "kr": "계시의 석탑, 공증소, 일몰 예배당, 그리고 교회당 광장까지…… 우리 머리 위의 광륜은 빛을 잃었지만, 도시의 불빛은 여전히 밝게 빛나고 있어. 거기 산크타 씨? 물어보고 싶은 게 있는데 잠깐 괜찮을까? 지금의 라테라노는 이 대지의 다른 곳들과 다를 바 없이 밀접하게 연결되어 있는 것 같아?",
+                "cn": "启示石塔、公证所、夕辉礼拜堂，最后是教堂广场——我们头顶的光环已经寂灭，城市却依然照常亮起。请留步，萨科塔。请告诉我，如今的拉特兰是否已和这片大地的其他地方并无区别，紧紧相连？"
+            },
+            "asset": "char_245_cello_sale#12/CN_002"
+        },
+        {
+            "id": "char_245_cello_sale#12_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "The Sarkaz are singing, and the Sankta play the accompaniment—who is this funérailles for, you ask? The nomadic monastery guides everyone it receives back to their homes, irrespective of life or death, irrespective of race or identity. Join in the chorus, and speak no more of this meaningless question.",
+                "jp": "サルカズが歌い、サンクタが伴奏を――誰のためのレクイエムなのかって？移動修道院は、道中で受け入れた人々全員を故郷へ送り届けるのよ。生死も、種族も問わずにね。さあ合奏へ加わって。意味のない質問はおしまい。",
+                "kr": "살카즈는 노래를 부르고, 산크타는 반주를 하고 있어…… 이건 누구를 위한 레퀴엠이냐고? 이동 수도원은 길에서 받아들인 모든 이들을 고향에 데려다 줄 거야. 생사도, 종족도 상관없이 말이야. 이 합주에 동참해 줘. 그리고 의미 없는 질문은 이제 그만.",
+                "cn": "萨卡兹在歌唱，萨科塔在伴奏——您问这是为谁唱起的葬歌？移动修道院会将沿途收容的每一个人送回故乡，不论生死，不论种族。加入这合奏吧，别再问那个没有意义的问题。"
+            },
+            "asset": "char_245_cello_sale#12/CN_003"
+        },
+        {
+            "id": "char_245_cello_sale#12_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "What is that vast, deep-blue expanse? The ocean, or the distant cosmos? Is it your origin, or your destination? Is it 'evolution', or the sum of all perfection and imperfection that you've carved throughout this process? You Many, is this your true voice? Life deserves a voice.",
+                "jp": "あの広大な深い青はなに？海かしら、それとも遥かな星空かしら？あなたたちの来た道と、行く末どちらかしら？「進化」、あるいはその中であなたたちに刻まれた満足と遺憾なのかしら？大群、これはあなたたちの心の声なの？命には、その声があるべきだわ。",
+                "kr": "저 광활한 진푸른색은 무엇이야? 바다? 아니면 아득한 별하늘? 저건 너희의 출발점일까, 아니면 종착점일까? 이건 '진화'일까, 아니면 그 과정 속에서 너희가 새긴 만족과 아쉬움일까? 위매니여, 이게 너희의 마음의 소리야? 생명이라면 그 무엇이라도 마음의 소리가 존재하니까.",
+                "cn": "那片浩瀚的深蓝色是什么？海洋，还是遥远的星空？是你们的来路，还是你们的去处？是“进化”，还是这个过程中被你们铭刻的所有圆满与缺憾？大群，这是你们的心声？生命就该有心声。"
+            },
+            "asset": "char_245_cello_sale#12/CN_004"
+        },
+        {
+            "id": "char_245_cello_sale#12_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "I am listening... Fear and trauma persist nevertheless, but the strong will overcome them, while the weak find their own ways to fight them without the need of a Pope or a Lord of Fiends. In the face of calamity, all will play their own song.",
+                "jp": "聴いているわ……恐怖と傷は変わらず生々しいものだけれど、強い人間はそれを乗り越え、弱い人は自分なりにそれに抗うの。「教皇」や「魔王」の先導など必要ないわ。「厄災」に向き合う時、誰もが自分の音楽を奏でているのよ。",
+                "kr": "난 듣고 있어…… 두려움과 상처는 여전히 생생하지만, 강인한 이들은 그것을 이겨내고, 나약한 이들도 그들만의 방식으로나마 이에 저항하고 있어. 그것에 맞서는 일엔 '교황'이나 '마왕'의 인도는 필요하지 않아. '재이' 앞에선 누구나 자신만의 악장을 연주하기 마련이니까.",
+                "cn": "我在听......恐惧和创伤依旧真实，但强大的人跨过了它们，脆弱的人在以自己的方式与之对抗，不需要一个“教宗”或者“魔王”来引领。“灾异”面前，每个人都在奏响自己的乐章。"
+            },
+            "asset": "char_245_cello_sale#12/CN_005"
+        },
+        {
+            "id": "char_245_cello_sale#12_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Is this a possibility inherent within 'empathy'? It has no personality, but it has the ability to suppress and manipulate human emotion, so why did it ultimately choose to construct a mechanism as unique as 'empathy' for the Sankta...? The music. Why did the music stop?",
+                "jp": "これが「共感」が本来持ち合わせていた可能性なの？「アレ」には人格はなくて、人の感情を操ったり、抑える能力もある。それなのに、どうしてサンクタのためにこんなに独特な感情のメカニズムを作り上げたのかしら。……チェロ、チェロの音はなぜ止んだの？",
+                "kr": "이건 '교감'이 원래부터 지니고 있던 가능성일까? '그것'은 인격을 갖추지 않았으며, 사람의 감정을 억제하거나 제어할 수 있는 능력을 지니고 있어. 하지만 무슨 이유로 산크타에게 '교감'이라는 복잡한 감정 메커니즘을 부여한 걸까 ……첼로, 첼로 소리는 왜 멈춘 거지?",
+                "cn": "这是“共感”本就拥有的可能？它并不具备人格，也有能力抑制、操控人的感情，却为什么最终选择为萨科塔建立这样独特的情感机制？......琴声，琴声为什么停下了？"
+            },
+            "asset": "char_245_cello_sale#12/CN_006"
+        },
+        {
+            "id": "char_245_cello_sale#12_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Yulia, the Witch King, Cora, Emmanuel... The audience will forever remember the sound of this instrument. Do you still recall what your mother told you when your father gave you this instrument and taught you to play for the first time? 'Arturia, I hope you sleep soundly, every night.'",
+                "jp": "ユリア、巫王、コーラ、エマニュエル……聴衆は永遠にこの旋律を忘れないことでしょう。パパがあなたにこのチェロを贈って、ママが初めてピチカートを教えてくれた時の言葉を覚えているかしら？「アルトリア、どんな夜にも良い夢を」。",
+                "kr": "율리아, 위치킹, 코라, 엠마누엘…… 청중들은 이 선율을 영원히 잊지 않을 거야. 아직 기억해? 아빠가 이 첼로를 선물하고, 엄마가 피치카토를 알려주던 때 너에게 했던 말을. “아르투리아, 매일 밤 좋은 꿈만 꾸렴.”",
+                "cn": "尤利娅、巫王、珂拉、艾曼纽......听众会永远记得这琴声。你还记得父亲送你这把琴，母亲第一次教你拨弦时说了什么吗？“阿尔图罗，希望你每个夜晚都好眠。”"
+            },
+            "asset": "char_245_cello_sale#12/CN_007"
+        },
+        {
+            "id": "char_245_cello_sale#12_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "'Calamity', and the people standing side-by-side, are both distant. In a deserted monastery, the Sankta sound the strings—is it my demise...? Arturia, turn back to that cemetery in the rain. Would you be willing to admit that life has meaning, even when it is transient?",
+                "jp": "「厄災」も、共に立つ人々もみな遠くにいて、誰もいない空っぽの修道院でサンクタがチェロを鳴らした――これが私の結末なの？……アルトリア、あの雨の降る墓地に戻ったら、あなたは命が消えることにも意味があると、認めるのかしら？",
+                "kr": "'재이'와, 함께하는 이들 모두 머나먼 곳에 있고, 아무도 없는 텅 빈 수도원에서 산크타가 홀로 첼로를 연주한다…… 이게 내 결말이야? ……아르투리아, 그때 그 비 내리는 묘지로 돌아간다면, 넌 생명이 사라지는 것에도 의미가 있다고 인정할까?",
+                "cn": "“灾异”与并肩而立的人们都在远方，空无一人的修道院里，萨科塔拉响了琴——那是我的结局？......阿尔图罗，回到那个雨中的墓园，你会愿意承认，生命连消逝都有意义吗？"
+            },
+            "asset": "char_245_cello_sale#12/CN_008"
+        },
+        {
+            "id": "char_245_cello_sale#12_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Doctor, would you believe that Fede still isn't up? I have cello in hand, and you're right here in front of me; and so, there's no reason for you to miss out on the totality of what I just experienced. Give me your hand—yes, precisely this string. Let us be played in unison.",
+                "jp": "ドクター、フェディったらまだ目覚めていないみたいなの。今、チェロは私の手にあり、あなたも私の前にいる。ならば、先ほど私が感じたことは、すべて理解しているわよね。手をこちらに、そう、その弦よ――一緒に奏でられましょう。",
+                "kr": "박사, 페디는 아직 깨어나지 못한 것 같아. 마침 첼로는 내 손안에 있고, 당신도 내 눈앞에 있네. 그렇다면 방금 내가 느낀 모든 걸 당신도 느껴보는 건 어때? 자, 손을 이리로. 맞아, 바로 그 현이야…… 우리 같이 연주해 보자.",
+                "cn": "博士，费迪这家伙居然还没醒。提琴就在我手里，您就在我面前，那么我刚刚感受到的一切，您没有理由错过。把手放上来，对，就是这根琴弦——我们将同时被奏响。"
+            },
+            "asset": "char_245_cello_sale#12/CN_009"
+        },
+        {
+            "id": "char_245_cello_sale#12_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "How beautiful... Humans are both the afterglow, and the sky that harbors it.",
+                "jp": "なんて素晴らしいのかしら……人々は夕焼けであり、それが広がる空でもある。",
+                "kr": "정말 아름다워…… 사람은 해질녘의 노을이자, 또 그 노을을 담고 있는 하늘이기도 해.",
+                "cn": "多美好啊......人们既是晚霞，也是它所在的天空。"
+            },
+            "asset": "char_245_cello_sale#12/CN_010"
+        },
+        {
+            "id": "char_245_cello_sale#12_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "I'm connected... This is the Movement that does not yet exist.",
+                "jp": "繋がったわ……これは、本来なら存在しない楽章よ。",
+                "kr": "연결됐어…… 이건 원래라면 존재하지 않는 악장이야.",
+                "cn": "我已连接......这是本不存在的乐章。"
+            },
+            "asset": "char_245_cello_sale#12/CN_011"
+        },
+        {
+            "id": "char_245_cello_sale#12_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Not a single note shall fade.",
+                "jp": "どの音符も消えはしない。",
+                "kr": "그 어떤 음표도 사라지지 않을 거야.",
+                "cn": "每一个音符都不会消失。"
+            },
+            "asset": "char_245_cello_sale#12/CN_012"
+        },
+        {
+            "id": "char_245_cello_sale#12_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "The future I envisioned has been set in stone, Doctor. It simply has not been elucidated yet, which is why I shall move towards it.",
+                "jp": "私の思い描いた未来が証明されたわね、ドクター。まだはっきりと見えないから、私はそこに向かって進むわ。",
+                "kr": "내가 그린 미래가 현실이 되었어, 박사. 아직 명확하게 보이진 않지만, 그렇기 때문에 난 그곳을 향해 나아갈 거야.",
+                "cn": "我构想的未来得到了验证，博士。它还并不清晰，所以我会向它走去。"
+            },
+            "asset": "char_245_cello_sale#12/CN_013"
+        },
+        {
+            "id": "char_245_cello_sale#12_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "In that future, we are each other's audience.",
+                "jp": "その未来では、私たちはお互いの聴衆になるでしょう。",
+                "kr": "그 미래에서 우린 서로가 서로의 청중이 될 거야.",
+                "cn": "在那个未来里，我们互为听众。"
+            },
+            "asset": "char_245_cello_sale#12/CN_014"
+        },
+        {
+            "id": "char_245_cello_sale#12_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "If music never existed in the first place, then why are we so strict about how it is to be performed?",
+                "jp": "楽章が存在しないなら、演奏も縛られる必要はないでしょう？",
+                "kr": "악장이 존재하지 않는다면, 연주도 얽매일 필요는 없겠지?",
+                "cn": "如果乐章本不存在，那演奏又何必拘泥？"
+            },
+            "asset": "char_245_cello_sale#12/CN_017"
+        },
+        {
+            "id": "char_245_cello_sale#12_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "A single cloud among countless others, dances with the wind and descends with the rain.",
+                "jp": "幾千万の雲のうちの、ひとかけら。風と共に舞い、雨と共に落ちよ。",
+                "kr": "수많은 구름 속, 한 송이의 구름 송이여. 바람과 함께 춤추고, 비와 함께 떨어지리라.",
+                "cn": "万千云朵中的一朵啊，随风起舞，随雨落下。"
+            },
+            "asset": "char_245_cello_sale#12/CN_018"
+        },
+        {
+            "id": "char_245_cello_sale#12_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "We advance to every last corner of Terra.",
+                "jp": "テラの隅々まで赴くのよ。",
+                "kr": "우린 테라의 모든 곳을 가보게 될 거야.",
+                "cn": "我们将去往泰拉的每一处。"
+            },
+            "asset": "char_245_cello_sale#12/CN_019"
+        },
+        {
+            "id": "char_245_cello_sale#12_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Are your hearts still so unwilling to be opened?",
+                "jp": "まだ心の扉を開きたくないの？",
+                "kr": "너희는 아직도 마음의 문을 열고 싶지 않은 거야?",
+                "cn": "你们的心扉还是不愿敞开吗？"
+            },
+            "asset": "char_245_cello_sale#12/CN_020"
+        },
+        {
+            "id": "char_245_cello_sale#12_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Let us lift our instruments.",
+                "jp": "奏でましょう。",
+                "kr": "우리 함께 연주하자.",
+                "cn": "我们演奏。"
+            },
+            "asset": "char_245_cello_sale#12/CN_021"
+        },
+        {
+            "id": "char_245_cello_sale#12_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Let us hearken.",
+                "jp": "耳を澄ませましょう。",
+                "kr": "우리 함께 감상하자.",
+                "cn": "我们聆听。"
+            },
+            "asset": "char_245_cello_sale#12/CN_022"
+        },
+        {
+            "id": "char_245_cello_sale#12_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Behold, the symphony of countless voices.",
+                "jp": "果てない声の重なりで生まれるシンフォニー。",
+                "kr": "이건 무한한 목소리가 합쳐져 연주된 교향곡이야.",
+                "cn": "这是无穷个声部演奏的交响。"
+            },
+            "asset": "char_245_cello_sale#12/CN_023"
+        },
+        {
+            "id": "char_245_cello_sale#12_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Behold, the consonance of countless souls.",
+                "jp": "無数の心が交わるハーモニー。",
+                "kr": "이건 무수한 마음이 어우러져 만들어낸 하모니야.",
+                "cn": "这是无数个心灵交织的和声。"
+            },
+            "asset": "char_245_cello_sale#12/CN_024"
+        },
+        {
+            "id": "char_245_cello_sale#12_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Play towards the setting sun.",
+                "jp": "夕陽へこの音色を捧げましょう。",
+                "kr": "석양에 이 선율을 바치고 싶어.",
+                "cn": "向夕阳奏乐。"
+            },
+            "asset": "char_245_cello_sale#12/CN_025"
+        },
+        {
+            "id": "char_245_cello_sale#12_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Sing with the cosmos.",
+                "jp": "星々と共に歌いましょう。",
+                "kr": "은하수와 함께 노래하자.",
+                "cn": "与星河同歌。"
+            },
+            "asset": "char_245_cello_sale#12/CN_026"
+        },
+        {
+            "id": "char_245_cello_sale#12_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "If you have regrets, embrace them.",
+                "jp": "後悔があるのなら、それを抱きましょう。",
+                "kr": "후회가 있다면, 그 후회까지 품어봐.",
+                "cn": "如果遗憾，拥抱遗憾。"
+            },
+            "asset": "char_245_cello_sale#12/CN_027"
+        },
+        {
+            "id": "char_245_cello_sale#12_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Feel each other, to your hearts' content.",
+                "jp": "思い切り、お互いを感じましょう。",
+                "kr": "마음껏 서로를 느껴봐.",
+                "cn": "尽情地，感受彼此吧。"
+            },
+            "asset": "char_245_cello_sale#12/CN_028"
+        },
+        {
+            "id": "char_245_cello_sale#12_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "We won't be forgotten.",
+                "jp": "私たちは忘れ去られはしないわ。",
+                "kr": "우린 절대 잊혀지지 않을 거야.",
+                "cn": "我们不会被遗忘。"
+            },
+            "asset": "char_245_cello_sale#12/CN_029"
+        },
+        {
+            "id": "char_245_cello_sale#12_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "We stand side by side. No calamity or unknown shall shake us.",
+                "jp": "共にあれば、どんな厄災や未知にも揺らぐことはないわ。",
+                "kr": "함께라면 그 어떤 재앙과 미지도 우릴 흔들 수 없어.",
+                "cn": "我们并肩而立，任何灾厄与未知都无法将我们撼动。"
+            },
+            "asset": "char_245_cello_sale#12/CN_030"
+        },
+        {
+            "id": "char_245_cello_sale#12_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Joy, fortune, or mourning? We accept it all, so long as it is sincere.",
+                "jp": "狂喜、僥倖、それとも哀悼かしら？全てを受け入れましょう。それが心の底からのものである限り。",
+                "kr": "환희, 행운, 아니면 애도? 우린 받아들일 거야, 그것이 마음 깊은 곳에서 우러나온 것이라면 모두.",
+                "cn": "欣喜，侥幸，或是哀悼？我们将接纳一切，只要那其中饱含真诚。"
+            },
+            "asset": "char_245_cello_sale#12/CN_031"
+        },
+        {
+            "id": "char_245_cello_sale#12_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Doctor, I have awoken.",
+                "jp": "ドクター、私は目覚めたわ。",
+                "kr": "난, 깨어났어. 박사.",
+                "cn": "博士，我已经醒来。"
+            },
+            "asset": "char_245_cello_sale#12/CN_032"
+        },
+        {
+            "id": "char_245_cello_sale#12_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Listen to the wind blowing through the corridor. This vessel also has its own true voice. What about you?",
+                "jp": "聞いて、この廊下を吹き抜ける風を。この船にも心の声があるのよ。ドクター、あなたはどうかしら？",
+                "kr": "들어 봐, 이 복도를 스쳐 지나는 바람의 소리를. 이 함선도 마음의 소리가 있는데, 박사 당신은 어떨까?",
+                "cn": "您听，这回荡在走廊的风，这艘船也有它自己的心声。您呢？"
+            },
+            "asset": "char_245_cello_sale#12/CN_033"
+        },
+        {
+            "id": "char_245_cello_sale#12_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Doctor? You have a pretty good sense of rhythm. 'Calamity' will not strike so soon, meaning you still have time to pick up a percussion instrument.",
+                "jp": "ドクターよね？リズム感は悪くないわ。「厄災」はそれほど早くは訪れないのだから、打楽器を学ぶならまだ時間はあるわ。",
+                "kr": "박사였어? 리듬감이 나쁘지 않은걸. '재이'는 그렇게 빨리 다가오지 않을 거야. 타악기를 배우고 싶은 거라면 시간은 아직 충분해.",
+                "cn": "是博士？不错的节奏感。“灾异”不会那么快到来，您还有时间学会一门打击乐器。"
+            },
+            "asset": "char_245_cello_sale#12/CN_034"
+        },
+        {
+            "id": "char_245_cello_sale#12_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "What are you trying to do? Even if I am not allowed to play, I can still make music resound within your mindscape.",
+                "jp": "何を望んでいるのかしら？演奏が禁止されていても、あなたの頭の中で旋律を起こすことはできるのよ。",
+                "kr": "무엇을 원해? 연주가 금지되어 있어도, 난 당신의 머릿속에서 선율을 울려 퍼지게 할 수 있어.",
+                "cn": "您想做什么？哪怕演奏不被允许，我依然可以让乐声在您的脑海中响起。"
+            },
+            "asset": "char_245_cello_sale#12/CN_036"
+        },
+        {
+            "id": "char_245_cello_sale#12_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_245_cello_sale#12/CN_037"
+        },
+        {
+            "id": "char_245_cello_sale#12_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Happy New Year, Doctor. To think you can create a moment of shared emotion simply by circling a date on the calendar—look, people have always had the potential for 'empathy'. Though it is a far cry from the grandeur of the Movement, I am still convinced that it exists.",
+                "jp": "ハッピーニューイヤー、ドクター。カレンダーの何にもない日に印をつけるだけで、誰もが気持ちを分かち合うことができる時間を作り出せるのよ――ほら、人間には元から「共感」の可能性が備わっているの。壮大な楽章にはまだほど遠いけれど、それが存在することはもう確信しているわ。",
+                "kr": "해피 뉴 이어, 박사. 달력의 어느 평범한 날짜에 동그라미를 하나 그리는 것만으로도 모두와 마음을 나눌 수 있는 시간을 만들어 낼 수 있어…… 사람에게는 원래부터 '교감'의 가능성이 내재되어 있었던 거야. 비록 웅장한 악장과는 거리가 멀지만, 그것이 존재한다는 것을 난 이제 확신할 수 있어.",
+                "cn": "新年快乐，博士。仅仅是在日历上圈出一个平凡的日子，就能创造一个人人都能分享情感的时刻——您看，人们本就拥有“共感”的可能，尽管和恢弘的乐章还相去甚远，但我已经确信了它存在。"
+            },
+            "asset": "char_245_cello_sale#12/CN_038"
+        },
+        {
+            "id": "char_245_cello_sale#12_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Since music cannot supersede language, Doctor, there's still a lot for the two of us to talk about.",
+                "jp": "音楽がまだ言葉の代わりにならないというのなら、お互いにまだ話すべきことがたくさんあるわね、ドクター。",
+                "kr": "음악이 여전히 언어를 대체할 수 없는 거라면, 우리 사이에는 아직 할 이야기가 많이 남아 있다는 의미야, 박사.",
+                "cn": "既然语言还不能被音乐取代，我们之间就还有许多事要聊，博士。"
+            },
+            "asset": "char_245_cello_sale#12/CN_042"
+        },
+        {
+            "id": "char_245_cello_sale#12_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Doctor, the possibilities that Fede and I perceive differ from one another, but the one constant is that you are here at Rhodes Island. 'Calamity' is not far away. If you are the single leitmotif that does not change across countless variations... I would be remiss in straying too far from you.",
+                "jp": "ドクター、私とフェディが感じ取った可能性はまるで異なるものだけれど、ロドス、そしてあなたは変わらずにそこにいる。「厄災」はそう遠くはないわ。もしあなたたちこそが、無数の変奏の中でただ一つ変わらずに響き続けてきた旋律なのであれば……あなたの傍にいたいと思うのは当然でしょう？",
+                "kr": "박사, 나와 페디가 감지한 가능성은 확연히 달랐지만, 그 속에 늘 존재하는 것이 있었어. 로도스 아일랜드와 박사, 바로 당신. '재이'는 머지않아 다가올 거야. 만약 너희가 이 무수한 변주곡 속에서 유일하게 변하지 않는 단 하나의 선율이라면…… 내가 당신 곁에 있고 싶은 건 당연한 거잖아, 그렇지?",
+                "cn": "博士，我和费迪感知到的可能性截然不同，但罗德岛还有您一直都在。“灾异”并不遥远，假如你们就是无数种变奏中不曾变化的旋律......我又怎么愿意离您太远呢？"
+            },
+            "asset": "char_245_cello_sale#12/CN_044"
+        }
+    ],
+    "actors": {
+        "cn": {
+            "native": "曾彤",
+            "global": "Tong Zeng"
+        },
+        "jp": {
+            "native": "遠藤綾",
+            "global": "Aya Endo"
+        },
+        "kr": {
+            "native": "손정민",
+            "global": "Son Jeong-min"
+        }
+    },
+    "availability": [
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

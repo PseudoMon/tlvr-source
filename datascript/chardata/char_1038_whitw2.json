@@ -1,0 +1,633 @@
+{
+    "charid": "char_1038_whitw2",
+    "nameid": "whitw2",
+    "names": {
+        "en": "Lappland the Decadenza",
+        "jp": "荒蕪ラップランド",
+        "kr": "라플란드 더 데카덴차",
+        "cn": "荒芜拉普兰德"
+    },
+    "voices": [
+        {
+            "id": "char_1038_whitw2_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Leaving all this work to me? Hahahaha, I appreciate your trust.",
+                "jp": "こういう仕事を全部ボクに任せるつもりなの？ハハッ、キミの寵愛ってサイコーだね。",
+                "kr": "이런 일들을 전부 나한테 맡기겠다는 거야? 하하, 날 신뢰해 준다니 기분이 좋네.",
+                "cn": "把这些活都交给我？哈哈，我喜欢你的信任。"
+            },
+            "asset": "char_1038_whitw2/CN_001"
+        },
+        {
+            "id": "char_1038_whitw2_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "It's Siracusan tradition to mask up and dress formally for a kill, but the people of Nuova Volsinii think such costuming means embracing a new life. But no matter the occasion, you must find the best tailor for the job, no? I certainly have.",
+                "jp": "礼服を着て仮面をつけるのは、シラクーザの伝統に則って考えれば街で人を殺すためだけど、ヌオバ・ウォルシーニの人たちはそういうおめかしを新しい生活を迎えるための装いとして捉えてるんだ。どうあれ、その手の服は一番素敵なサルトリアに仕立ててもらうべきじゃない？ボクのこの一張羅みたいにね。",
+                "kr": "시라쿠사의 전통에 따르면, 예복을 입고 가면을 쓰는 건 길거리에서 사람을 죽이기 위해서야. 하지만 뉴 볼시니 사람들은 이런 차림새를, 새로운 생활을 맞이하기 위한 것으로 받아들이지. 어느 쪽이든, 이런 옷은 최고의 재단사에게 맡겨야 하지 않겠어? 내가 입고 있는 이 옷처럼 말이야.",
+                "cn": "按叙拉古的传统，穿礼服戴面具是为了上街杀人，而新沃尔西尼人认为这样的装扮意味着拥抱新生活。不管是哪一种，都该找最好的剪裁师来做，对吧？就像我这一身。"
+            },
+            "asset": "char_1038_whitw2/CN_002"
+        },
+        {
+            "id": "char_1038_whitw2_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Ah, what nice weather today—Siracusa's rainy season is over, and the Grey Hall old guy can no longer stay in their seats as all the hungry opportunists rush in. Hahahaha, could the Carnival have been such a roaring success without my help?",
+                "jp": "いやぁ、いい天気だね――雨季も終わって、チャンスに飢えてる人たちがみんなシラクーザに群がってきたから、グレイホールのお偉方ものんびりしていられなくなったってわけ。ハハッ、ボクが手を貸してあげなかったら、あのカルネヴァーレはあそこまでの大成功とはいかなかっただろうね！",
+                "kr": "이야, 날씨 좋은데…… 시라쿠사의 장마도 끝이 났고 기회에 굶주린 녀석들도 전부 시라쿠사로 몰려드니, 그레이홀의 늙은이들도 앉아 있을 수만은 없게 됐네. 하하, 내 도움이 없었다면, 카르네발레가 이렇게 큰 성공을 거두지 못했을 거라고!",
+                "cn": "哎呀，天气真好——叙拉古的雨季也结束了，无数渴望机会的人都在往那儿跑，灰厅的老家伙们也都坐不住了。哈哈，要不是我帮了他们一把，那场狂欢节哪能这么成功！"
+            },
+            "asset": "char_1038_whitw2/CN_003"
+        },
+        {
+            "id": "char_1038_whitw2_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "If the left sword drops first, we donate the wineries to the city. If the right sword falls first, then the wineries offer free admission to everyone at next year's Carnival. Hahahaha, even as that obsessive, controlling father of mine rots away in jail, the Siracusans will never forget him!",
+                "jp": "左に持った剣が先に落ちたら、うちのワイナリーを地方政府に寄贈しよう。右の方が先に落ちたら、来年のカルネヴァーレで無償開放するよ――ハハッ、こうすれば、何でも手中に収めたい我が愛しのお父様が獄中にいようと、シラクーザ人に忘れられることはないだろうからさ！",
+                "kr": "왼손의 검이 먼저 떨어지면 와이너리는 시 정부에 기부하고…… 오른손의 검이 먼저 떨어지면 내년 카르네발레에서 무료로 개방해야겠어…… 하하, 이렇게 하면, 뭐든지 손에 넣고 싶어하는 나의 친애하는 아빠가 감옥에 있다 해도, 시라쿠사인들이 기억해 주겠지?",
+                "cn": "左手的剑先落地，那些酒庄捐给市政府，右手的剑先落地，它们无偿向明年的狂欢节开放——哈哈，这样我那亲爱的想要掌控一切的父亲哪怕待在监狱里，叙拉古人都会记得他！"
+            },
+            "asset": "char_1038_whitw2/CN_004"
+        },
+        {
+            "id": "char_1038_whitw2_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "The families, the government, Signora Sicilia... every party has proved their own theories for their own gain. But how is a new city enough? What they want is a brand new country! And me? I want to see all their wishes come true, all of them!",
+                "jp": "ファミリーも、地方政府も、ミズ・シチリアも……それぞれが自分の仮説を検証して、収穫を得ることもできた。だけど、新しい都市一つじゃ足りるはずないんだ、彼らは新しい国丸ごとを望んでいるんだから！ボクはどうかって？もちろん、みんなの願いを叶えてあげるさ！",
+                "kr": "패밀리, 정부, 시칠리아 부인…… 각자가 자신의 가설을 검증했고, 수확을 얻기도 했지. 하지만 새로운 도시 하나로는 부족해. 그들이 원하는 건 새로운 국가니까! 나는 어떻냐고? 당연히 모두의 소원을 들어줘야지!",
+                "cn": "家族、政府、西西里夫人......每个人都验证了自己的猜想，各有收获。但一座新城市怎么够，他们要的可是一个崭新的国家！我？我当然要让所有人都得偿所愿！"
+            },
+            "asset": "char_1038_whitw2/CN_005"
+        },
+        {
+            "id": "char_1038_whitw2_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Quiet. I won't have another 'wasteland', or 'civilization' enter my ears. Our new game is not so boring. You must learn quickly how the humans play… Oh. Hehehe, you overheard me, Doctor? Then how about you be my enemy? Come, stand against me.",
+                "jp": "静かにして。「荒野」だとか「文明」だとかの話はもう聞きたくないんだ――新しいゲームはそんなくだらないものじゃない。だからキミたちも、早く人間のゲームのルールを理解して……ハハッ、ドクター、聞かれちゃった？じゃあ、ボクの相手になってよ。",
+                "kr": "조용히 해. 더 이상 '황야'니 '문명'이니 하는 이야기는 듣고 싶지 않으니까…… 새로운 게임은 그런 시시한 게 아니야. 그러니까 너희도, 얼른 인간들의 게임 규칙을 이해하고…… 박사, 듣고 있었어? 그렇다면 내 상대가 돼 줘.",
+                "cn": "安静一点，别再让我听到你们念叨什么“荒野”“文明”——新游戏可没那么无聊，你们要快一点理解人类的游戏规则......哈哈，你听到了？那就做我的敌人吧，博士。"
+            },
+            "asset": "char_1038_whitw2/CN_006"
+        },
+        {
+            "id": "char_1038_whitw2_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Texas said I'd show up eventually? Aha! She knows me so well. Anyone would burn her prison to the ground, but how many dare to remain and see what's left in the ashes? Hehe, there is no shame in running away. But after that, you pray every day! Pray that the inferno won't haunt your nightmares!",
+                "jp": "テキサスはそのうちボクが現れるだろうって言ってたの？ボクのこと、よくわかってるなあ。みんな自分を閉じ込める檻を焼き払おうとするけど、その場に留まって、燃えカスの中に何が残っているかを確かめる人なんてどれだけいるんだろうね？ハハッ、逃げるのは恥なんかじゃないさ。だけど、毎晩夢で放火の現場に戻っちゃうってならないように祈らないとね！",
+                "kr": "텍사스가 언젠가 내가 다시 나타날 거라 했다고? 역시 나에 대해 잘 안다니까. 누구나 자신을 가둔 우리를 태워 버리고 싶어 하지만, 타버린 잿더미 속에 무엇이 남아 있는지 확인하기 위해, 그 자리에 머물러 있는 사람은 얼마나 될까? 도망치는 건 부끄러운 게 아니야. 다만 매일 밤, 꿈속에서 화재의 현장으로 돌아가지 않도록 기도해야겠지!",
+                "cn": "德克萨斯说我迟早会现身？她还真了解我。所有人都指望用一把火烧掉困住自己的东西，但有多少人敢留下来看看灰烬里还剩什么？哈哈，逃走才不可耻，祈祷自己不要每天做梦回到火场吧！"
+            },
+            "asset": "char_1038_whitw2/CN_007"
+        },
+        {
+            "id": "char_1038_whitw2_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Whiskey, on the rocks, with a mint garnish. Don't mind me, just knocking a few back while you carry on with your grand ambitions. But if I were you, I'd ease up on the goodness. Or the suffering will double when it all comes crashing down.",
+                "jp": "ウイスキーに氷、ミントを浮かべて、この部屋で何杯か楽しませてもらうよ。キミはその偉大な仕事を続けていて。ふぅ……質の良いものは増えすぎないほうがいいんだ。破滅していくのを見る苦しみも倍増しちゃうからね。",
+                "kr": "위스키에 얼음과 민트를 띄우고, 이 방에서 몇 잔 즐겨야겠어. 넌 그 위대한 일이나 계속하라고. 품질이 좋은 것도, 너무 많아지지 않는 편이 좋아. 파멸하는 걸 바라봐야 하는 고통도, 배로 늘어나거든.",
+                "cn": "威士忌，冰块，薄荷，我在你这儿喝几杯。你就继续这些伟大的工作吧。好的品质不宜过多，不然看着一些东西破灭，痛苦可是会加倍的。"
+            },
+            "asset": "char_1038_whitw2/CN_008"
+        },
+        {
+            "id": "char_1038_whitw2_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "You care very much for Rhodes Island, much as Texas cares for her companions. Woo yeah... that serious look on your face! Very good! Why don't we make a wager, with this landship... You count me in as part of this place too? Hmmm... Very interesting, Doctor.",
+                "jp": "キミはロドスを随分気にかけてるよね。まるでテキサスが仲間を気にかけるのと同じように――いいね、真剣な顔になってきたじゃない。だったら、この船を賭けて……ボクもこの船の一員だって？面白いこと言うね、ドクター。",
+                "kr": "넌 로도스 아일랜드를 상당히 신경 쓰고 있어, 마치 텍사스가 동료들을 걱정하는 것처럼 말이야…… 좋아, 표정이 진지해졌는걸. 그럼 이 배를 걸고 내기를…… 나도 이 배의 일원이라고? 재밌는 소리를 하는걸, 박사.",
+                "cn": "你很在意罗德岛，就像德克萨斯在意她的那些同伴——很好，你的表情认真起来了，既然如此，我们就拿这艘船打个赌......我也是这里的一分子？你刚刚说了很有意思的话，博士。"
+            },
+            "asset": "char_1038_whitw2/CN_009"
+        },
+        {
+            "id": "char_1038_whitw2_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Oh, dear Doctor, what would you trade for the peaceful nights you once knew?",
+                "jp": "ねえドクター。これまでの穏やかな眠りを取り戻せるなら、何を差し出す？",
+                "kr": "있잖아, 박사. 예전의 편안한 수면을 되찾을 수 있다면, 넌 무엇을 걸래?",
+                "cn": "博士啊博士，你愿意拿什么交换曾经的安眠？"
+            },
+            "asset": "char_1038_whitw2/CN_010"
+        },
+        {
+            "id": "char_1038_whitw2_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Long time no see. Oh no, did my weapon take your seat on the sofa...? A pity I was here first. What happened on the Carnival stage, you ask? Why so curious?",
+                "jp": "久しぶりだね。ああごめん、武器をソファに置いちゃったから、キミの座る場所がないかな……カルネヴァーレで何があったかって？そんなこと気にしてどうするのさ。",
+                "kr": "오랜만이야. 아, 이런. 무기를 소파 위에 둬서 네가 앉을 데가 없겠구나…… 카르네발레 때 무슨 일이 있었냐고? 뭐 그런 것까지 신경을 써?",
+                "cn": "好久不见。哎呀，我把武器放在沙发上，是不是害你没地方坐了......你问狂欢节上发生了什么？关心那么多干嘛。"
+            },
+            "asset": "char_1038_whitw2/CN_011"
+        },
+        {
+            "id": "char_1038_whitw2_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Bah. What a bore!",
+                "jp": "ちぇっ、全然面白くないよ！",
+                "kr": "쳇, 하나도 재미없다고!",
+                "cn": "啧，还不够有趣！"
+            },
+            "asset": "char_1038_whitw2/CN_012"
+        },
+        {
+            "id": "char_1038_whitw2_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "I refuse. I don't think Rhodes Island could throw a decent Carnival, even if we put a mask on each and every one of you.",
+                "jp": "嫌だね。ロドスのみんなに仮面を被せてカルネヴァーレをやったって、そんなに面白くならないでしょ。",
+                "kr": "싫어. 로도스 아일랜드 사람들에게 가면을 씌우고 카르네발레를 해봤자, 별로 재미있을 것 같지도 않거든.",
+                "cn": "拒绝。罗德岛哪怕办一场所有人戴上假面的狂欢，也不会多么有趣。"
+            },
+            "asset": "char_1038_whitw2/CN_013"
+        },
+        {
+            "id": "char_1038_whitw2_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Are you trying to placate me? Or do you think the game isn't fun enough...? I just can't see through you. No wonder I find your trust so entertaining!",
+                "jp": "こんな方法でボクを大人しくさせるつもり？それとも、キミもゲームをもっと盛り上げたいのかな……わからないけど、これだからキミの寵愛はサイコーなんだ！",
+                "kr": "이런 방식으로 날 얌전하게 만들 생각인 거야? 아니면…… 너도 게임을 더 재밌게 만들고 싶은 거야? 잘 모르겠지만, 이래서 네 '총애'가 기분 좋다니까!",
+                "cn": "想以这种方式让我安分一些，还是说你也觉得游戏需要更多乐趣......猜不透，难怪我喜欢你对我的信任！"
+            },
+            "asset": "char_1038_whitw2/CN_014"
+        },
+        {
+            "id": "char_1038_whitw2_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Where stand the wilds? Where stand the cities?",
+                "jp": "どこが荒野で、どこが都市かな？",
+                "kr": "어디가 황야고, 어디가 도시이려나?",
+                "cn": "哪里是荒野？哪里是城市？"
+            },
+            "asset": "char_1038_whitw2/CN_017"
+        },
+        {
+            "id": "char_1038_whitw2_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "A wolfpack I am.",
+                "jp": "ボクこそが、狼の群れそのものさ。",
+                "kr": "내가 바로 늑대 무리다.",
+                "cn": "我就是狼群。"
+            },
+            "asset": "char_1038_whitw2/CN_018"
+        },
+        {
+            "id": "char_1038_whitw2_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Ah, the parade's here.",
+                "jp": "ほら、パレードがやってくるよ。",
+                "kr": "봐, 퍼레이드가 시작됐어.",
+                "cn": "呀，游行的队伍过来了。"
+            },
+            "asset": "char_1038_whitw2/CN_019"
+        },
+        {
+            "id": "char_1038_whitw2_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "The mad lead the blind! Hahahaha! 'Tis no wonder they never tire!",
+                "jp": "イカれた連中が目の濁った奴らを先導してるみたいだね。ハハッ、道理でいつまで経っても疲れ知らずなわけだ！",
+                "kr": "미치광이가 장님들을 이끌고 있네. 하하, 이러니 계속 지칠 줄 모르는 거지!",
+                "cn": "疯子在领着瞎子赶路，哈哈，难怪你们永远不知疲倦！"
+            },
+            "asset": "char_1038_whitw2/CN_020"
+        },
+        {
+            "id": "char_1038_whitw2_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "The show hasn't started, and this place is already such a riot!",
+                "jp": "ショーの見どころはこれからなのに、もう勝手に盛り上がっちゃってるの？",
+                "kr": "공연은 아직 시작되지도 않았는데, 벌써 이렇게 떠들썩한 거야?",
+                "cn": "好戏还没开场，就已经这么热闹了吗？"
+            },
+            "asset": "char_1038_whitw2/CN_021"
+        },
+        {
+            "id": "char_1038_whitw2_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Look, Zaaro! See the game we humans are born playing—",
+                "jp": "見なよザーロ、人間が生まれながらにやってるゲームをね――",
+                "kr": "잘 봐, 자로. 인간이 태어나면서부터 하고 있는 게임을 말이야……",
+                "cn": "扎罗，看看人类生来就会的游戏——"
+            },
+            "asset": "char_1038_whitw2/CN_022"
+        },
+        {
+            "id": "char_1038_whitw2_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Your weapons are right at your fingertips, why wait?",
+                "jp": "武器なら目の前にあるでしょ。何を待ってるの？",
+                "kr": "무기라면 너희 눈앞에 있잖아. 뭘 기다리는 건데?",
+                "cn": "武器就在各位面前，等什么呢？"
+            },
+            "asset": "char_1038_whitw2/CN_023"
+        },
+        {
+            "id": "char_1038_whitw2_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "No need to cover up! If secrets go public, then everybody is in the game!",
+                "jp": "そんなにコソコソしなくていいよ。みんなに秘密がバレちゃえば、それはもうバレてないようなものだからね。",
+                "kr": "그렇게 몰래 움직이지 않아도 돼. 모두에게 비밀이 드러나면, 결국 더 이상 들키지 않게 되는 법이니까.",
+                "cn": "不要藏着掖着，秘密暴露在所有人面前，就等于没有暴露。"
+            },
+            "asset": "char_1038_whitw2/CN_024"
+        },
+        {
+            "id": "char_1038_whitw2_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "What should I do? I knew who you were right away. ",
+                "jp": "どうしようかな？キミの正体、すぐにわかっちゃったんだけど。",
+                "kr": "이걸 어쩌나? 순식간에 네 정체를 알아버렸는데.",
+                "cn": "怎么办？一下子就认出你是谁了。"
+            },
+            "asset": "char_1038_whitw2/CN_025"
+        },
+        {
+            "id": "char_1038_whitw2_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "What are you waiting for? The curtains are about to fall!",
+                "jp": "ショーはもうじき終演だけど、キミたちはまだ何か待ってるのかな？",
+                "kr": "이러다 무대가 끝나겠네. 아직도 뭘 기다리는 거야?",
+                "cn": "演出都要结束了，你们还在等什么？"
+            },
+            "asset": "char_1038_whitw2/CN_026"
+        },
+        {
+            "id": "char_1038_whitw2_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "The spotlight shines on us. Hahahaha!",
+                "jp": "みんながボクらを見てるよ、アハハハハ！",
+                "kr": "모두가 우릴 지켜보고 있어, 하하!",
+                "cn": "所有人都在看着我们呢，哈哈！"
+            },
+            "asset": "char_1038_whitw2/CN_027"
+        },
+        {
+            "id": "char_1038_whitw2_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Do not disappoint tonight, my friends.",
+                "jp": "諸君、この夜を裏切ることなかれ！",
+                "kr": "모두들, 이 밤을 실망시키지 말자고!",
+                "cn": "朋友们，别辜负这个夜晚！"
+            },
+            "asset": "char_1038_whitw2/CN_028"
+        },
+        {
+            "id": "char_1038_whitw2_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "A grand spectacle, a perfect show, a dignified exit. Bravo, Bravo… But I won't applaud, not without an accident befalling the act, haha.",
+                "jp": "すっごく盛り上がってたし進行も完璧、みんなメンツを保ったまま舞台を降りられた……素晴らしいとは思うけど、これじゃあ拍手は送れないな――一つくらいはサプライズがないとね。アハハッ。",
+                "kr": "성대한 무대에, 진행도 완벽했고, 모두 체면을 지키며 무대에서 퇴장할 수 있었지…… 훌륭하다고는 생각하지만, 이 정도로는 박수를 보낼 수 없겠어…… 서프라이즈 하나 정도는 있어줘야지, 하하.",
+                "cn": "场面盛大，流程完美，所有人都体面退场......很好，但我不会为这样的事情鼓掌——起码得有一件事情在意料之外，哈哈。"
+            },
+            "asset": "char_1038_whitw2/CN_029"
+        },
+        {
+            "id": "char_1038_whitw2_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Work's over, time for a drink. Where is Texas?",
+                "jp": "はいお終い。一杯飲みに行こうか。テキサスはどこかな？",
+                "kr": "자, 퇴근. 한잔하러 가자고. 텍사스는 어딨어?",
+                "cn": "收工，去喝一杯。德克萨斯呢？"
+            },
+            "asset": "char_1038_whitw2/CN_030"
+        },
+        {
+            "id": "char_1038_whitw2_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Come gawp at those whose masks have fallen. Some carefree, struck with panic. Some let loose, so free and manic! Oh, what fun to prowl this ball!",
+                "jp": "同じように仮面を剥がされても、まるで動じない人もいれば、無様に慌てふためく人もいて、かと思えばようやく真面目に演じ始める人もいる……面白いね！",
+                "kr": "똑같이 가면이 벗겨져도, 전혀 동요하지 않는 사람이 있는가 하면, 온갖 추태를 보이는 사람도, 그제야 진심으로 몰입하는 사람도 있지…… 정말 재밌는데!",
+                "cn": "明明都是被揭下了面具，有些人无动于衷，有些人丑态百出，有些人终于舍得全情投入......多有意思！"
+            },
+            "asset": "char_1038_whitw2/CN_031"
+        },
+        {
+            "id": "char_1038_whitw2_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Defeat? Hahahaha. That's just the end of Act One.",
+                "jp": "失敗した？アハハハッ、ショーはまだ始まったばかりだよ。",
+                "kr": "실패라고? 하하하하, 공연은 이제 막 시작됐을 뿐이야.",
+                "cn": "失败？哈哈哈哈，演出才刚刚开始。"
+            },
+            "asset": "char_1038_whitw2/CN_032"
+        },
+        {
+            "id": "char_1038_whitw2_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "It's quiet in here—not afraid to miss the excitement outside?",
+                "jp": "静かだなあ――これじゃ、外でやってる愉快なショーを見逃しちゃうよ？",
+                "kr": "조용하네…… 여기 있다간 밖에서 벌어지는 좋은 볼거리들을 놓칠지도 모르겠는데?",
+                "cn": "这么安静——你不担心错过外面的好戏吗？"
+            },
+            "asset": "char_1038_whitw2/CN_033"
+        },
+        {
+            "id": "char_1038_whitw2_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Haha... is this how you greet Texas too?",
+                "jp": "アハハッ……テキサスにもこんなふうに挨拶してるの？",
+                "kr": "하하…… 텍사스한테도 이런 식으로 인사하는 거야?",
+                "cn": "哈哈......你也是这么和德克萨斯打招呼的？"
+            },
+            "asset": "char_1038_whitw2/CN_034"
+        },
+        {
+            "id": "char_1038_whitw2_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Come here! Dance with the wolves.",
+                "jp": "ほらほら、狼と一緒に踊ろうよ。",
+                "kr": "자 자, 늑대와 함께 춤을.",
+                "cn": "来来来，与狼共舞。"
+            },
+            "asset": "char_1038_whitw2/CN_036"
+        },
+        {
+            "id": "char_1038_whitw2_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_1038_whitw2/CN_037"
+        },
+        {
+            "id": "char_1038_whitw2_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Happy New Year! You're inviting me in? How will you introduce me? Texas's archenemy, the Saluzzo traitor, or the white wolf who would conquer all? Hahahaha... Enjoy the evening, Doctor. For tomorrow, the twin moons shall rise for the hunt... like always.",
+                "jp": "新年おめでとう。ボクにもお祝いに加わってほしいの？みんなにどう紹介するつもり？テキサスの宿敵、サルッツォの裏切り者、それともすべてを征服せんとする白き狼かな？とにかく今日を楽しもうよ、ドクター。今夜が終われば、双月はまた狩りのためだけに昇るんだから。",
+                "kr": "새해 복 많이 받아. 나도 축하에 함께 했으면 좋겠다고? 날 어떻게 소개할 셈이야? 텍사스의 숙적, 살루초의 배신자, 아니면 모든 걸 정복하려는 하얀 늑대? 아무튼 오늘을 즐기자고, 박사. 오늘 밤이 끝나면, 두 개의 달은 다시 사냥만을 위해 떠오를 테니까.",
+                "cn": "新年快乐。你想邀请我进去吗？你要怎么介绍我？德克萨斯的死敌，萨卢佐家的叛徒，还是想要征服一切的白狼？享受今天吧，博士。过了今晚，双月依然只为狩猎而升。"
+            },
+            "asset": "char_1038_whitw2/CN_038"
+        },
+        {
+            "id": "char_1038_whitw2_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Here's a Carnival costume. Put it on.",
+                "jp": "カルネヴァーレ用の礼服を用意したから、着替えてみてよ。",
+                "kr": "카르네발레용 예복을 준비했어. 갈아입어 보라고.",
+                "cn": "我这里有一套狂欢节的礼服，换上它。"
+            },
+            "asset": "char_1038_whitw2/CN_042"
+        },
+        {
+            "id": "char_1038_whitw2_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Hah, the things you and the Rhodes Islanders do are quite interesting indeed. Siracusa, no, everywhere of this land is a filthy swamp, yet Rhodes Island manages to hold on still. Is it because you're so adaptable, or... did you have a hand in writing the rules of the game?",
+                "jp": "まあ、ボクは確かにキミたちに、そしてロドスのやってることに興味があるよ。シラクーザは、いや、この大地はそこら中汚れた泥沼みたいだから、ロドスがここまでやってこられたのは、キミたちの適応能力が高すぎるからか、あるいは――ゲームのルールを決める側だからかな？",
+                "kr": "하, 확실히 난 너희 그리고 로도스 아일랜드가 하는 일에 관심이 많아. 시라쿠사, 아니 이 대지의 구석구석이 더러운 진흙탕과도 같은데, 너희 로도스 아일랜드가 여기까지 올 수 있었던 건, 너희의 적응력이 너무 좋아서일까, 아니면…… 너희가 게임의 룰을 정하는 쪽이기 때문일까?",
+                "cn": "哈，我确实对你们，对罗德岛在做的事情很感兴趣。叙拉古，不，这片大地的每个地方都像肮脏的泥潭，罗德岛能坚持到现在，是你们适应得太好，还是——你们参与制定了游戏的规则？"
+            },
+            "asset": "char_1038_whitw2/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Christina Kowalchuk",
+            "global": "Christina Kowalchuk"
+        },
+        "cn": {
+            "native": "陈彦亦",
+            "global": "Yee Chen"
+        },
+        "jp": {
+            "native": "今井麻美",
+            "global": "Asami Imai"
+        },
+        "kr": {
+            "native": "서유리",
+            "global": "Seo Yu-ri"
+        },
+        "ita": {
+            "native": "Elisa Contestabile",
+            "global": "Elisa Contestabile"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr",
+        "ita"
+    ]
+}

@@ -1,0 +1,628 @@
+{
+    "charid": "char_4165_ctrail",
+    "nameid": "ctrail",
+    "names": {
+        "en": "Contrail",
+        "jp": "コントレイル",
+        "kr": "콘트레일",
+        "cn": "云迹"
+    },
+    "voices": [
+        {
+            "id": "char_4165_ctrail_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "You want me to help you sort these files? Alright... And double check the numbers too? Sure, leave it to me.",
+                "jp": "……一緒に書類の整理をやる？はい……データの正確性も検証しないといけない？分かった、任せて。",
+                "kr": "같이 문서 정리를 해야 한다고? 응…… 데이터의 정확성도 검증해야 한다고? 알았어, 나한테 맡겨 줘.",
+                "cn": "......要我跟您一起整理这些文件？好的......还有核算这些数据的准确性？好的，都交给我吧。"
+            },
+            "asset": "char_4165_ctrail/CN_001"
+        },
+        {
+            "id": "char_4165_ctrail_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Wow... There's a <i>lot</i> of people heading up on deck... What? Someone jumped off the bridge and they're organizing a rescue? But I didn't see anything like that when I was flying... W-Wait, they might be looking for <i>me!</i> Ohhh no, I've gotta clean up this mess! How am I gonna explain...?",
+                "jp": "なんだかデッキに人がいっぱい集まってる……え、飛び降りた人がいたから、みんな救助の準備をしてる？おかしいな、飛び上がってきた時はそんな人を見なかったけど……ま、まさかその飛び降りた人ってあたしのこと？うぅ、早くみんなを止めないと！で、でもどう説明すれば……",
+                "kr": "갑판 위에 사람들이 잔뜩 모여 있는 거 같은데…… 어, 누군가 뛰어내려서 구조 준비를 하는 거라고? 음, 내가 날아올라 올 때만 해도 그런 사람은 못 봤는데…… 서, 설마 뛰어내렸다는 사람이 나야……? 사, 사람들한테 얼른 그만하라고 해야 해. 근데 이걸 어떻게 설명하지……",
+                "cn": "甲板上聚了好多人啊。都在准备救援，因为刚才有人跳下了舰桥？我飞上来时没看到啊——难、难道说跳下去的人，指的是我？呜，得让大家赶紧停下来，我该怎么解释......"
+            },
+            "asset": "char_4165_ctrail/CN_002"
+        },
+        {
+            "id": "char_4165_ctrail_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Have you ever seen the land stars, Doctor? When I was flying over the frontier, the scattered bonfires were like stars sprinkled across the wilderness. Animals migrate to find a new place to live, but those Pioneers... I wonder if they dream of a nice, warm home?",
+                "jp": "ドクター、「地上の星」って見たことある？前に開拓地を飛んでいた時、かがり火が星のように荒野に散らばっていたのを見た。動物たちが移動を繰り返すのは、新しい生息地を求めての行動だけど、あの開拓者たちは……せめて夢の中では、彼らに暖かい家があるといいな。",
+                "kr": "박사, '지상의 별'을 본 적 있어? 전에 개척지에서 비행했을 때, 지상에서 타오르는 모닥불이 마치 별처럼 황야에 흩어져 있는 모습을 본 적이 있어. 동물들이 이동하는 건 새로운 서식지를 찾기 위해서지만, 그 개척자들은…… 적어도 꿈속에선 그들만의 따뜻한 집을 찾았기를……",
+                "cn": "博士，您见过地上的星星吗？之前我在拓荒地飞行时，看见篝火就像星辰一样散落在荒野中。动物们迁徙，是为了找到新的栖所，可那些拓荒者......至少在他们的梦里，会有温暖的家园吧。"
+            },
+            "asset": "char_4165_ctrail/CN_003"
+        },
+        {
+            "id": "char_4165_ctrail_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Yes, this is a monitoring device. l'll stick it onto a fowlbeast, and then adjust the rhythm of my breathing to the data it sends over. That way, I won't disturb the flock while I'm flying. Ah, sorry, I'm babbling again... Umm... Any other questions, Doctor?",
+                "jp": "そう、これモニター。羽獣に貼り付けて、そこから受信したデータに合わせて呼吸のリズムを調整する。そうすれば飛行中は羽獣たちを驚かさずに済むから。あっ、ごめん、勝手に喋りすぎちゃった……ドクター、ほかに何か聞きたいことある？",
+                "kr": "그래, 이건 모니터야. 이걸 파울비스트의 몸에 붙이고, 거기서 수신한 데이터에 맞춰 호흡 리듬을 조정해. 이래야 비행 중에 파울비스트 떼를 놀라게 하지 않을 수 있거든. 아, 미안, 너무 혼자 떠들었지…… 박사, 또 궁금한 거 있어?",
+                "cn": "对，这是监测器。我会把它粘在羽兽身上，依照传来的数据，及时调整气息节奏，这样就不会在飞行时惊扰到羽兽群了。啊，对不起，我不该啰唆个没完的......博士，您还有其他疑惑吗？"
+            },
+            "asset": "char_4165_ctrail/CN_004"
+        },
+        {
+            "id": "char_4165_ctrail_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "As a kid, I was really scared of the featherless monster fowls in the stories. They were always snatching up children. Even hearing the chirping of a real fowlbeast got me shaking. But after the first time I got plucked off the ground for real, after I got to see the whole land from above, I was never scared again. Um, you don't believe I got carried off by a fowlbeast? B-but it really did happen...",
+                "jp": "子供の頃、物語の中の子供を攫うハゲの怪物羽獣が怖すぎて、普通の羽獣の鳴き声を聞くだけで震え出すほどだった。でも、空に連れられて、地上の景色を見たら、怖くなくなった。え？あたしが羽獣に攫われた話、ドクターも信じてくれないの？",
+                "kr": "어렸을 땐, 이야기 속 아이를 잡아간다는 대머리 괴물 파울비스트를 많이 무서워했어. 그땐 그냥 일반 파울비스트 울음소리만 들려도 벌벌 떨 정도였다니까. 하지만 파울비스트한테 잡혀 하늘 위에서 대지의 풍경을 내려다보게 된 후부터는, 전혀 무섭지 않아. 응? 박사도 내가 파울비스트한테 잡혀간 이야기를 믿지 않는 거야?",
+                "cn": "小时候，我特别害怕故事里面抓小孩的秃毛怪羽，就连听到羽兽嘶叫都会吓得直哆嗦。不过，自从我那次被抓到空中，看到了大地上的景色，我就不再怕了。欸？连您也不相信我被羽兽叼走的事？"
+            },
+            "asset": "char_4165_ctrail/CN_005"
+        },
+        {
+            "id": "char_4165_ctrail_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "I learned some painful lessons on my first test flight. I lost my balance and almost flew straight into a cliff. It's all thanks to my glider that I survived. There's nothing left of it now, only these tattered strips of blue and purple. But I tie them on before every flight.",
+                "jp": "最初の飛行実験は大失敗だった。バランスを完全に崩して、岩にぶつかりそうになったけど、グライダーのおかげで命を拾った。それが今、この青紫のぼろ布になってる――そう、あれから毎回、飛ぶ時は必ず身に付けるようにしてるんだ。",
+                "kr": "첫 비행 실험은 대실패로 끝났어. 그때 난 완전히 균형을 잃고 바위에 부딪힐 뻔했는데 글라이더 덕분에 목숨을 건질 수 있었지. 여기 이 남보라색 헝겊이 바로 그 글라이더야. 지금은 이렇게 낡은 천조각이 되었지만. 응, 그날 이후로 난 비행할 때마다 이걸 꼭 지니고 다녀.",
+                "cn": "初次飞行实验的教训很惨痛。那时我彻底失去了平衡，就快要撞向山岩，是我的滑翔翼救了我一命——现在它变成了这些蓝紫色的破布。是的，在那以后，每一次飞行我都会把它系在身上。"
+            },
+            "asset": "char_4165_ctrail/CN_006"
+        },
+        {
+            "id": "char_4165_ctrail_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Once, I had an Originium slug pulled out of its shell and plopped down right in front of me. Can you guess who gave it to me? It was a mother fowlbeast hen. She decided I was one of her chicks, but I never saw her again once I left the forest... Well, I'll try to finish the slug soup, it's the least I can do.",
+                "jp": "前にもこんなふうに殻を剥かれたオリジムシを出されたことがある。誰からだと思う？羽獣の母親なの――あたしのことを雛羽獣だと思ってくれたんだ。でも森を出たあと、はぐれてしまった……まあ、せめてこのオリジムシスープは、頑張って完食するね。",
+                "kr": "예전에도 이런 식으로 껍질을 벗긴 원석충을 받은 적이 있어. 누구한테 받았게? 한 어미 파울비스트였어. 날 무리의 파울비스트 새끼라고 생각했나 봐. 하지만 숲을 빠져나온 후로 우리는 헤어졌어…… 음, 적어도 이 원석충 수프는 다 먹을 수 있게 노력해볼게.",
+                "cn": "之前，也有一只开了壳的源石虫摆在我面前。您猜是谁给我的？一位羽兽妈妈——它都把我认作队伍里的雏羽了，可出了林子，我们就走散了......嗯，至少这份源石虫羹，我会试着吃完的。"
+            },
+            "asset": "char_4165_ctrail/CN_007"
+        },
+        {
+            "id": "char_4165_ctrail_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "I record my voice, so I can play it back to the fowlbeasts and get them to slowly see me as one of their own. 'Gah gah' means 'look at me', 'Ah-kah' is 'run away'… Hehe, it's all guesses, really, but you learned them pretty quick.",
+                "jp": "あたしが声を録音してるのは、羽獣たちに聞かせて、少しずつあたしのことを受け入れてもらうためだよ。 「ガガ」は「こっちを見て」、「アカ」は「逃げて」という意味……ふふ、実は全部あたしの推測だけど、今ドクターがやった声真似はよく似てるね。",
+                "kr": "내가 목소리를 녹음하는 이유는 파울비스트한테 들려주기 위해서야. 천천히 조금씩이나마 나를 받아들일 수 있게 말이야. “까깍”은 “여길 봐”라는 의미고, “아카”는 “어서 도망쳐”라는 의미야…… 사실 전부 내 추측일 뿐이지만, 그래도 박사가 방금 흉내 낸 목소리는 정말 비슷했어.",
+                "cn": "把自己的声音录下来，是为了放给羽兽们听，让它们逐渐接纳我的存在。“嘎嘎”代表“看我”，“阿卡”代表“快跑”......其实这些都只是我的猜测，不过，您学得很像哦。"
+            },
+            "asset": "char_4165_ctrail/CN_008"
+        },
+        {
+            "id": "char_4165_ctrail_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "That's the entire pre-flight checklist. Come on, Doctor, I'll be taking you up for a quick loop around. Don't worry, no need to be scared, I'll hold you tight the whole way through. Eh? Ah, uh, no, wh-what I mean is... We'll be strapped together while we're flying, so you can relax. I'm not going to drop you.",
+                "jp": "注意事項はこれで全部。それじゃ一回飛んでみようか。大丈夫、怖がらなくてもいいよ、あたしがずっと抱き抱えてるから。え？い、いや、そういう意味じゃ……飛ぶ時は離れないように固定するから、安心して。落ちたりするようなことはさせないよ。",
+                "kr": "주의사항은 이게 다야. 그럼 박사, 한 번 비행해 볼까? 걱정하지 마, 내가 박사를 꼭 안고 있을 테니까 무서워할 필요 없어. 응? 아니, 그, 그러니까 내 말은…… 비행할 때는 떨어지지 않도록 우리를 고정할 거니까 걱정하지 말라는 거였어. 떨어지거나 하진 않을 거야.",
+                "cn": "注意事项就这些，那我来带着您飞一回试试吧。没关系的，您不用害怕，我会一直抱着您。欸？不，我、我的意思是......飞行时我们会绑在一起，您尽管放心，我不会让您掉下去的。"
+            },
+            "asset": "char_4165_ctrail/CN_009"
+        },
+        {
+            "id": "char_4165_ctrail_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Doctor, this file... Oh, you're asleep? Go ahead and rest up, then. I'll come back later.",
+                "jp": "ドクター、あの……眠ってる？じゃまた後の方がいいね。おやすみ。",
+                "kr": "저기, 박사…… 자? 그럼 먼저 쉬어, 이따가 다시 올게. 잘자.",
+                "cn": "博士，请问......睡着了？您先休息吧，晚一些我再来打扰。"
+            },
+            "asset": "char_4165_ctrail/CN_010"
+        },
+        {
+            "id": "char_4165_ctrail_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Hello, Doctor, I'm Operator Contrail. Nice to meet you—you remember seeing a photo of me flying with a fowlbeast flock in the news? I-I'm glad you remember me…",
+                "jp": "はじめまして、ドクター。あたしはコントレイル――ゴシップニュースであたしが羽獣の群れと一緒に飛んでる写真を見たことがある？お、覚えていただいて光栄です……",
+                "kr": "반가워, 박사. 나는 콘트레일이야…… 가십 뉴스에서 내가 파울비스트 떼와 함께 비행하는 사진을 봤다고? 기, 기억해 줘서 고마워……",
+                "cn": "博士，您好，我是干员云迹，初次见面——您在花边新闻里看见过我和羽兽群一起飞行的照片？很、很高兴被您记住......"
+            },
+            "asset": "char_4165_ctrail/CN_011"
+        },
+        {
+            "id": "char_4165_ctrail_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "On my next flight, I'll try this super-tricky barrel roll…",
+                "jp": "この宙返り難易度高そう、今度飛ぶ時にやってみよ……",
+                "kr": "이 공중제비, 엄청 어려워 보이는데…… 다음 비행 때 한 번 시도해 봐야겠어.",
+                "cn": "下次飞行时，我要试试这个高难度的翻滚动作......"
+            },
+            "asset": "char_4165_ctrail/CN_012"
+        },
+        {
+            "id": "char_4165_ctrail_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Thanks, Doctor... I love the medal. I'll hang it up with the pendants showcasing my successful test flights.",
+                "jp": "ありがとう、ドクター……このメダル、とても気に入った。飛行実験成功記念のストラップと一緒に大事に保存するよ。",
+                "kr": "고마워, 박사…… 이 메달 정말 마음에 들어. 비행 실험 성공 기념 스트랩이랑 같이 소중히 간직할게.",
+                "cn": "博士，谢谢......我很喜欢这个勋章。我会把它和这些代表着飞行实验成功的纪念挂件放在一起的。"
+            },
+            "asset": "char_4165_ctrail/CN_013"
+        },
+        {
+            "id": "char_4165_ctrail_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "'Though it may fall a hundred thousand times, a chick still yearns for its first flight.' I've loved those words ever since I first read them. Doctor, do you think... I've grown?",
+                "jp": "「たとえ何千回何万回失敗しても、雛羽獣は初めて空を飛ぶことを決して諦めません。」本で見た言葉だけど、結構好き。ドクター……あなたから見て、あたしは成長したかな？",
+                "kr": "“수천 번, 수만 번을 실패하더라도, 새끼 파울비스트는 자신의 첫 비행을 포기하지 않을 것이다.” 책에서 본 건데 이건 내가 정말 좋아하는 문구야. 박사, 박사는 내가…… 성장한 것 같아?",
+                "cn": "“即便跌倒过千千万万次，雏羽依然会向往自己的第一次飞翔”，我很喜欢在书上看到的这句话。博士，在您眼中......我成长了吗？"
+            },
+            "asset": "char_4165_ctrail/CN_014"
+        },
+        {
+            "id": "char_4165_ctrail_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Okay, I'll fly echelon.",
+                "jp": "うん、あたしが一緒に飛ぶよ。",
+                "kr": "응, 나도 함께 날아갈게.",
+                "cn": "嗯，我来伴飞。"
+            },
+            "asset": "char_4165_ctrail/CN_017"
+        },
+        {
+            "id": "char_4165_ctrail_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Alright... I'll navigate then.",
+                "jp": "分かった……あたしが先頭を飛ぶよ。",
+                "kr": "알겠어…… 선두는 내가 맡을게.",
+                "cn": "好......我会领航。"
+            },
+            "asset": "char_4165_ctrail/CN_018"
+        },
+        {
+            "id": "char_4165_ctrail_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "I'm not afraid.",
+                "jp": "怖くないよ。",
+                "kr": "난 두렵지 않아.",
+                "cn": "我不会害怕。"
+            },
+            "asset": "char_4165_ctrail/CN_019"
+        },
+        {
+            "id": "char_4165_ctrail_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Let me check the wind direction first.",
+                "jp": "風向きを確認させて。",
+                "kr": "바람이 불어오는 방향을 확인할게.",
+                "cn": "请让我确认风的来向。"
+            },
+            "asset": "char_4165_ctrail/CN_020"
+        },
+        {
+            "id": "char_4165_ctrail_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Propulsion units and emergency ejection equipment, check. All systems go.",
+                "jp": "動力ユニットと脱出装置の検査完了。",
+                "kr": "동력 유닛과 탈출 장비 검사 완료.",
+                "cn": "动力单元与逃生装置检查完毕。"
+            },
+            "asset": "char_4165_ctrail/CN_021"
+        },
+        {
+            "id": "char_4165_ctrail_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Ready for take-off.",
+                "jp": "飛行の準備ができた。",
+                "kr": "비행 준비 완료.",
+                "cn": "飞行准备已就绪。"
+            },
+            "asset": "char_4165_ctrail/CN_022"
+        },
+        {
+            "id": "char_4165_ctrail_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "In the pipe, five by five.",
+                "jp": "天候は安定しており、見晴らしも良好。",
+                "kr": "날씨도 안정적이고, 시야도 좋아.",
+                "cn": "气象稳定，视野良好。"
+            },
+            "asset": "char_4165_ctrail/CN_023"
+        },
+        {
+            "id": "char_4165_ctrail_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "All units, watch for my signal.",
+                "jp": "みんな、あたしのサインに注意して。",
+                "kr": "모두, 내 신호에 주의해줘.",
+                "cn": "请大家留心我的信号。"
+            },
+            "asset": "char_4165_ctrail/CN_024"
+        },
+        {
+            "id": "char_4165_ctrail_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Turbulence incoming.",
+                "jp": "気流に乱れが生じている。",
+                "kr": "기류가 불안정해졌어.",
+                "cn": "气流出现了扰动。"
+            },
+            "asset": "char_4165_ctrail/CN_025"
+        },
+        {
+            "id": "char_4165_ctrail_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "On me, stay in formation.",
+                "jp": "しっかりついてきて、遅れないように。",
+                "kr": "잘 따라와, 뒤처지면 안 돼.",
+                "cn": "跟紧我，别掉队。"
+            },
+            "asset": "char_4165_ctrail/CN_026"
+        },
+        {
+            "id": "char_4165_ctrail_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Brace yourselves, cumulonimbus ahead.",
+                "jp": "準備して、積乱雲の中を通るよ。",
+                "kr": "준비해, 이제 먹구름을 뚫고 지나갈 거야.",
+                "cn": "准备好，我们要穿越积雨云了。"
+            },
+            "asset": "char_4165_ctrail/CN_027"
+        },
+        {
+            "id": "char_4165_ctrail_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Is that fog...? Oh, just condensation on my glasses.",
+                "jp": "霧が出てる？……メガネが曇ってるせいか。",
+                "kr": "안개인가? ……아, 안경에 김이 서린 거구나.",
+                "cn": "起雾了？......原来是眼镜片上的雾。"
+            },
+            "asset": "char_4165_ctrail/CN_028"
+        },
+        {
+            "id": "char_4165_ctrail_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "A perfect flight record... Next time, we can try somewhere even further.",
+                "jp": "完璧な飛行記録……今度はもっと遠くの目的地に挑戦できるね。",
+                "kr": "완벽한 비행 기록이야…… 다음은 더 먼 곳을 목표로 삼을 수 있겠어.",
+                "cn": "完美的飞行记录......下次，我们可以挑战更远的目的地。"
+            },
+            "asset": "char_4165_ctrail/CN_029"
+        },
+        {
+            "id": "char_4165_ctrail_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "The two long white plumes up in the sky...? Yeah, those are mine.",
+                "jp": "空に二本の長い白い煙が見える？……あ、それあたしが残したものだよ。",
+                "kr": "저기 하늘에 두 갈래의 하얀 연기가 있다고? ……응, 내가 남긴 흔적이야.",
+                "cn": "天空中有两道长长的白烟？......嗯，是我留下的痕迹。"
+            },
+            "asset": "char_4165_ctrail/CN_030"
+        },
+        {
+            "id": "char_4165_ctrail_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Looks like there's still room for improvement... Maybe I should add a multi-speed pursuit module.",
+                "jp": "まだ改善が必要かも……可変速度追撃モジュールを付け加えるといいかも？",
+                "kr": "아직 개선할 부분이 있는 모양이네…… 변속 추격 모듈을 달아볼까?",
+                "cn": "看来还有改良的空间......或许应该再增加一个变速追击模块。"
+            },
+            "asset": "char_4165_ctrail/CN_031"
+        },
+        {
+            "id": "char_4165_ctrail_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "It's okay, Doctor... Anyone could run into a storm. Let's rest up for the night and try again when the weather clears.",
+                "jp": "気にしないで、ドクター……嵐は避けられないものだし、一晩休んで、晴れたらまた出発しよう。",
+                "kr": "괜찮아, 박사…… 폭풍은 피할 수 없는 법이니까. 하룻밤 쉬고, 날씨가 개면 다시 출발하자.",
+                "cn": "没事的，博士......难免会遇上风暴。我们可以歇一夜，等放晴后再出发吧。"
+            },
+            "asset": "char_4165_ctrail/CN_032"
+        },
+        {
+            "id": "char_4165_ctrail_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "The setting sun, some floating feathers, a sea of clouds stretching out into the distance... No, not a painting, it's the view out the window.",
+                "jp": "夕日、空を舞う羽根、果てしなく広がる雲海……これは壁に飾られた絵ではなく、窓の外の景色なんだ。",
+                "kr": "저녁 노을, 하늘을 나는 파울비스트, 끝없이 펼쳐진 구름 바다…… 이건 벽에 걸린 그림이 아니라, 창밖의 풍경이야.",
+                "cn": "落日，飞羽，云海无际......这不是墙上的挂画，而是窗外的景色。"
+            },
+            "asset": "char_4165_ctrail/CN_033"
+        },
+        {
+            "id": "char_4165_ctrail_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Oh, Doctor. Go right ahead…",
+                "jp": "ドクター、どうしたの……",
+                "kr": "박사, 무슨 일 있어……?",
+                "cn": "博士，请说......"
+            },
+            "asset": "char_4165_ctrail/CN_034"
+        },
+        {
+            "id": "char_4165_ctrail_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "There's a black cloud in the corner of the test flight photo? Th-That's my tail…",
+                "jp": "飛行実験の写真の隅に黒い雲が見えた？そ、それはあたしのしっぽだよ……",
+                "kr": "비행 실험 사진 모서리에 먹구름이 있다고? 그, 그건 내 꼬리야……",
+                "cn": "飞行实验照片的角落里，有一团乌云？那、那是我的尾巴......"
+            },
+            "asset": "char_4165_ctrail/CN_036"
+        },
+        {
+            "id": "char_4165_ctrail_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4165_ctrail/CN_037"
+        },
+        {
+            "id": "char_4165_ctrail_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "You're looking for peace and quiet on the deck too, Doctor? I'm still not too good with crowds, so I wrote all my New Year's greetings down on cards. I didn't have any other plans tonight, so I was just gonna stand here and look up at the night sky... Sure, we can look together.",
+                "jp": "ドクターもデッキに気分転換に来たの？やっぱり賑やかなパーティーには慣れないから、みんなへの新年の挨拶はカードに書くことにしたんだ。今夜は他に予定もないから、ここで夜空を眺めていようと思って……一緒に見たい？分かった、そうしよう。",
+                "kr": "박사도 갑판에 기분 전환하러 온 거야? 난 시끌벅적한 파티는 익숙하지 않아서, 모두에게 전할 새해 인사말은 그냥 축하 카드에 쓰기로 했어. 오늘 밤 별다른 약속이 없기도 하고, 여기서 밤하늘이나 보려고…… 같이 보고 싶다고? 좋아, 그러자.",
+                "cn": "您也是来甲板清静一会儿的？我果然还是不习惯热闹的聚会，给大家的新年祝福，就写在贺卡里吧。我今晚没有别的打算，就想站在这里，看一看夜空......好啊，我们一起看。"
+            },
+            "asset": "char_4165_ctrail/CN_038"
+        },
+        {
+            "id": "char_4165_ctrail_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "I don't have any test flights planned for today, Doctor... You just wanted to chat? Alright, you've got my ear.",
+                "jp": "ドクター、今日飛行実験の予定はないよ……ならお話を？いいよ、しっかり聞くね。",
+                "kr": "박사, 오늘은 예정된 비행 실험이 없는데…… 나랑 얘기하고 싶다고? 응, 열심히 들을게.",
+                "cn": "博士，今天我没有安排飞行实验......您想聊聊天？好的，我会认真听您说的。"
+            },
+            "asset": "char_4165_ctrail/CN_042"
+        },
+        {
+            "id": "char_4165_ctrail_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Starting from Columbia, twisting and turning all the way to Rim Billiton. Rhodes Island's following a long and windy course, just like a migratory fowlbeast. I'll be your wingman, but more than the destination, I'm excited for what I'll find along the way. You too, right, Doctor?",
+                "jp": "クルビアから出発して、紆余曲折を経てようやくレム・ビリトンに辿り着く――遠羽獣の渡りのルートは、ロドスの旅と同じように長くて険しい。みんなと一緒に飛ぶつもりだけど、あたしは目的地に辿り着くことよりも、その過程で体験した全ての方が大事。ドクターもそう思う？",
+                "kr": "컬럼비아에서 출발해 우여곡절을 거쳐 림 빌리턴에 도착한다…… 철새 파울비스트의 이동 경로는 로도스 아일랜드의 항로처럼 길고도 험난해. 난 모두와 함께 비행할 생각이지만, 단순히 목적지에 도착하는 것보단 그 과정에서 경험하는 것들이 더 중요하다고 생각해. 어? 박사도 그렇게 생각하는 거야?",
+                "cn": "从哥伦比亚出发，几经波折，最终抵达雷姆必拓——远羽兽的迁徙路线，和罗德岛的航行之路一样漫长。我会陪伴着大家一起飞，不过比起抵达终点，我更在意亲身经历的过程。博士，您也这么想吗？"
+            },
+            "asset": "char_4165_ctrail/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Olivia Tucker",
+            "global": "Olivia Tucker"
+        },
+        "cn": {
+            "native": "则灵",
+            "global": "Hu Yixuan"
+        },
+        "jp": {
+            "native": "橘立夏",
+            "global": "Ritsuka Tachibana"
+        },
+        "kr": {
+            "native": "미소",
+            "global": "Mi-so"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}
