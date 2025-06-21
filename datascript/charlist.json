@@ -4434,13 +4434,13 @@
     },
     {
         "fullid": "char_2024_chyue_cfa#1",
-        "nameid": "chyue-e2",
+        "nameid": "chyue-cfa",
         "numberid": "2024",
         "name": {
-            "en": "Chongyue E2",
-            "jp": "チョンユエ E2",
-            "kr": "총웨 E2",
-            "cn": "重岳 E2"
+            "en": "Chongyue CFA",
+            "jp": "チョンユエ CFA",
+            "kr": "총웨 CFA",
+            "cn": "重岳 CFA"
         },
         "nation": "yan",
         "rating": 6

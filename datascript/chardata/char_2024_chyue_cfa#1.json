@@ -1,11 +1,11 @@
 {
     "charid": "char_2024_chyue_cfa#1",
-    "nameid": "chyue-e2",
+    "nameid": "chyue-cfa",
     "names": {
-        "en": "Chongyue E2",
-        "jp": "チョンユエ E2",
-        "kr": "총웨 E2",
-        "cn": "重岳 E2"
+        "en": "Chongyue CFA",
+        "jp": "チョンユエ CFA",
+        "kr": "총웨 CFA",
+        "cn": "重岳 CFA"
     },
     "voices": [
         {

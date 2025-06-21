@@ -42,7 +42,7 @@ def get_new_names(oldnames, newid):
 
     newnames = {}
 
-    if extraid == "1":
+    if extraid == "1" and oldnames["en"] != "Chongyue":
         nameaddon = "E2"
         # it's xiaohei or mudrock
 

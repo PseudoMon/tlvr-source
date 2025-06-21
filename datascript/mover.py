@@ -17,7 +17,8 @@ def move_chardata():
         targetname = path.basename(charpath).split("_")[-1]
 
         if "#" in targetname:
-            if targetname.split("#")[-1] == "1.json":
+            # Ending in 1 is either e2, or Chongyue's special outfit
+            if (targetname.split("#")[-1] == "1.json") and (path.basename(charpath).split("_")[-2] != "chyue"):
                 targetname = targetname.split("#")[0] + "-e2.json"
             else:
                 targetname = get_extravoice_path(path.basename(charpath)) \
