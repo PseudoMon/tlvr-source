@@ -585,6 +585,22 @@
             "asset": "char_308_swire/CN_042"
         },
         {
+            "id": "char_308_swire_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Look at you always wearing that outfit. You gotta at least change your shoes sometimes. Here, look what I've brought for you. Dark, flat, no design sensibility whatsoever. The brand I usually wear just got a bunch of new styles, and I picked out a few pairs for you based on your tastes. But looking like that, nobody will be able to tell they're luxury branded! What a waste!",
+                "jp": "看你也不常换衣服，鞋总是要换着穿吧？深色的，平底的，看起来没有什么设计感的，我常穿的牌子出了一批新款，我照你的喜好买了几双。唉，但是这样，谁能看得出来你穿的这是奢侈品啊！亏了！",
+                "kr": "넌 옷은 자주 안 갈아입어도, 신발은 갈아 신는 거지? 매번 색깔도 칙칙하고 플랫한 디자인이라니, 내가 자주 신는 브랜드에서 신상이 나왔거든? 뭐 네가 좋아할 만한 걸로 몇 켤레 사와봤어. 아, 근데 그 옷차림 때문에 네가 신은 신발이 브랜드 제품인지 못 알아보겠잖아! 정말!",
+                "cn": "看你也不常换衣服，鞋总是要换着穿吧？深色的，平底的，看起来没有什么设计感的，我常穿的牌子出了一批新款，我照你的喜好买了几双。唉，但是这样，谁能看得出来你穿的这是奢侈品啊！亏了！"
+            },
+            "asset": "char_308_swire/CN_043"
+        },
+        {
             "id": "char_308_swire_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

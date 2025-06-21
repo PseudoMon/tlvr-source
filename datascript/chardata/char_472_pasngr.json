@@ -561,7 +561,7 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "TBU",
+                "en": "The New Year... what an unfamiliar concept. The golden sands of Sargon remain unchanged year after year. Making resolutions for a new start on an artificial calendar is nothing but empty self-consolation. That said, here at Rhodes Island, perhaps a day when everyone has a common cause for celebration is indeed special.",
                 "jp": "新年……なにやら他人事のような言葉ですね。サルゴンの黄砂は時が経とうと変わることはありません。人が作った暦、その新しい周回の始まりに祈りを捧げるのは、虚しい自己満足にすぎないでしょう。とはいえ、このように皆で祝う理由がある日というのは、ロドスでは貴重ですね。",
                 "kr": "새해라…… 정말 낯선 단어군요. 사르곤의 모래바람은 해마다 여전한데, 인위적으로 만든 역법에 기대 새로운 시작을 기원한다라, 이건 헛된 자기 위안에 불과합니다. 그래도 로도스 아일랜드에서는 이렇게 함께 기뻐하며 축하할 이유가 있는 날이 소중할 테지요.",
                 "cn": "新年......真是个有些陌生的词汇。萨尔贡的黄沙年年依旧，向人为制造的历法祈求一个新的开始，不过是一种虚无的自我慰藉。不过在罗德岛，这样有理由共同欢庆的日子也算弥足珍贵。"
@@ -585,6 +585,22 @@
             "asset": "char_472_pasngr/CN_042"
         },
         {
+            "id": "char_472_pasngr_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "A birthday should be no cause for celebration. It is instead a countdown to one's death. Every time such an occasion occurs, I reflect upon what I have yet to accomplish. The terminus of ideal and hate remains far out of sight, just as one's life's end is erratic and undetermined. These ravings are perhaps not suitable for this occasion. I should congratulate you instead. Happy birthday.",
+                "jp": "生日不应是庆贺的理由，而是人生倒数的节点。每到此时，我都会自省还有哪些未竟之事。理想与仇恨的终点遥不可视，人生的终点飘忽不定。这些呓语并不适合现在，我还是该祝您，生日快乐。",
+                "kr": "생일은 축하할 날이 아닌 인생의 마지막을 향한 수셈일 뿐입니다. 저는 이날마다 이루지 못한 것이 무엇인지를 돌이켜보며 반성을 하죠. 이상과 증오는 끝이 보이지 않고, 인생의 종착역 또한 종잡을 수 없는 법. 이런 헛소리들은 적합하지 않은 것 같군요. 생일 축하드립니다, 박사님.",
+                "cn": "生日不应是庆贺的理由，而是人生倒数的节点。每到此时，我都会自省还有哪些未竟之事。理想与仇恨的终点遥不可视，人生的终点飘忽不定。这些呓语并不适合现在，我还是该祝您，生日快乐。"
+            },
+            "asset": "char_472_pasngr/CN_043"
+        },
+        {
             "id": "char_472_pasngr_CN_044",
             "title": {
                 "en": "Anniversary Celebration",
@@ -593,7 +609,7 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "TBU",
+                "en": "Having lived such an absurd life, I am but a husk of a man. Yet, from this ship that Kal'tsit has placed great hope in, I caught a glimpse of light in this boundless, dull realm. Doctor, I look forward to the sights you will show me, after we traverse the immeasurable hatred and battles ahead.",
                 "jp": "これまでの滑稽な人生を経て、私にはこの肉の体だけが残っているのです。しかし、ケルシーが大きな希望を託したこの船は、色褪せた視界にかすかな光を示してくれました。ドクター、私は期待しているのです――数えきれぬ憎しみと戦いを乗り越えた末に、あなた様がどのような景色を見せてくれるのかを。",
                 "kr": "그동안의 허황된 삶을 지나니, 저에겐 이 몸뚱어리 하나만이 남아있더군요. 그러다 켈시의 큰 기대를 받은 이 함선이 제게 망망대해만 같던 세상 속에서 밝은 빛을 보여주었죠. 수많은 증오와 전쟁을 이겨내면, 박사님께선 과연 어떤 광경을 보여주실지, 전 무척 기대가 됩니다.",
                 "cn": "经历过此前荒诞的人生后，我徒留这一副躯壳。但凯尔希寄予厚望的这艘舰船让我看到了茫茫尘世中一抹亮色。我依然十分期待，博士，在越过了无数仇恨与战火后，您最终会向我展示怎样的风景呢？"

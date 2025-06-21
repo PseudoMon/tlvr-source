@@ -521,6 +521,22 @@
             "asset": "char_212_ansel/CN_042"
         },
         {
+            "id": "char_212_ansel_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, good evening. It's just past midnight, so I think it counts as your birthday. Happy birthday to you! I got you a cake, but my advice is to wait till tomorrow to eat it. Oh, come to think of it, does this make me the first to wish you a happy birthday?",
+                "jp": "博士，晚上好。现在刚过零点，应该也算到您的生日了吧。祝您生日快乐！我提前准备了蛋糕，但还是建议您明早再吃哦。啊，这样的话，我会不会是今天第一个祝您生日快乐的人呢？",
+                "kr": "박사님, 즐거운 저녁 시간 보내셨나요. 음, 막 자정이 지났으니, 이제 박사님의 생일이네요. 생일 축하드려요! 박사님께 드릴 케이크는 미리 가져왔지만, 드시는 건 날이 밝고 드셔야 해요, 아셨죠? 앗, 이렇게 되면 제가 오늘 박사님의 생일을 첫 번째로 축하하는 사람인 건가요?",
+                "cn": "博士，晚上好。现在刚过零点，应该也算到您的生日了吧。祝您生日快乐！我提前准备了蛋糕，但还是建议您明早再吃哦。啊，这样的话，我会不会是今天第一个祝您生日快乐的人呢？"
+            },
+            "asset": "char_212_ansel/CN_043"
+        },
+        {
             "id": "char_212_ansel_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

@@ -585,6 +585,22 @@
             "asset": "char_236_rope/CN_042"
         },
         {
+            "id": "char_236_rope_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday. Got your present here. Go ahead. Yep, it <i>was</i> your wallet, until the moment I took it from your pocket. No harm in giving it to you here as <i>my</i> present, right? Okay, okay, jokes are over, now look inside. I spent forever hand-drawing the card, y'know?",
+                "jp": "生日快乐哦。这是礼物，收下吧。你的钱包？它在被我偷走的那一刻起就不属于你了，现在作为礼物送给你也没什么问题吧？好啦不开玩笑了，你看看里面。手绘贺卡可花了我好长时间呢。",
+                "kr": "생일 축하해, 이건 선물! 받아 줘. 박사 지갑 아니냐고? 아니지 아니지, 그건 내가 훔쳐간 그 순간부터 박사의 것이 아니게 된 걸. 그러니까 지금 이걸 박사한테 선물로 다시 준다고 해도 전혀 문제 될 게 없는 거지. 알았어, 농담은 여기까지. 지갑 안에 봐봐, 수제 축하 카드를 만드느라 내가 얼마나 고생했는지 알아?",
+                "cn": "生日快乐哦。这是礼物，收下吧。你的钱包？它在被我偷走的那一刻起就不属于你了，现在作为礼物送给你也没什么问题吧？好啦不开玩笑了，你看看里面。手绘贺卡可花了我好长时间呢。"
+            },
+            "asset": "char_236_rope/CN_043"
+        },
+        {
             "id": "char_236_rope_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

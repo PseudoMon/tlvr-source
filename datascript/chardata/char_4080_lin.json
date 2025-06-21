@@ -585,6 +585,22 @@
             "asset": "char_4080_lin/CN_042"
         },
         {
+            "id": "char_4080_lin_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "You think this glass ornament is pretty...?  As long as you like it. It's not that hard to make, actually... Anyway, Happy birthday. If you have time tonight, how about I take you out somewhere for dinner? I'll take you to get <i>real</i> Lungmen food, somewhere Swire's ilk would never know.",
+                "jp": "誕生日おめでとう。はい、このガラス細工をどうぞ。……綺麗？そう、気に入ったのならよかったわ。作るのはそう難しくないのよ……ところで、もし時間があれば、今夜はご飯を奢りましょうか。スワイヤーなんかが絶対知らないような、真の龍門グルメをご馳走してあげるわ。",
+                "kr": "그, 생일 축하해. 이 유리로 만든 액세서리…… 예쁘다고? 그래, 마음에 들었으면 됐어. 만드는 건 그렇게 어렵지 않았으니까…… 혹시 오늘 시간 괜찮으면, 내가 밥이라도 사 줄까? 스와이어 녀석이라면 절대 모를 용문의 진짜 맛집으로 데려가 줄게.",
+                "cn": "这个玻璃饰品......很漂亮？你喜欢就好。其实做起来并不算困难......生日快乐。如果有空的话，晚上可以请你吃一顿饭？诗怀雅那个家伙，绝对不知道龙门真正的美食在哪里。"
+            },
+            "asset": "char_4080_lin/CN_043"
+        },
+        {
             "id": "char_4080_lin_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

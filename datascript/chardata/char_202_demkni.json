@@ -585,6 +585,22 @@
             "asset": "char_202_demkni/CN_042"
         },
         {
+            "id": "char_202_demkni_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "According to the rota, you have a workday today. I'll tell any operators who come with gifts to wait to celebrate until you're done with work. The gifts, I'll accept on your behalf and place at the entrance. I'll be placing my present among them as well. Happy birthday, Doctor. Time to get to work.",
+                "jp": "根据排班，今天是你的工作日，我会告诉来送礼的干员在你结束工作后再来庆祝，送来的礼物我会帮你收下并放到门口。以及，我的礼物也会放在那里，生日快乐，开始工作吧。",
+                "kr": "순번표에 따르면 오늘은 네 근무일이니, 선물을 전달하러 온 오퍼레이터들에겐 업무 종료 시점에 다시 축하하러 오라고 전하겠다. 그들이 보내온 선물은 내가 대신 받아서 입구에 두지. 그리고 내 선물도 마찬가지로 그곳에 둘 예정이다. 생일 축하한다, 그럼 이제 일을 시작해.",
+                "cn": "根据排班，今天是你的工作日，我会告诉来送礼的干员在你结束工作后再来庆祝，送来的礼物我会帮你收下并放到门口。以及，我的礼物也会放在那里，生日快乐，开始工作吧。"
+            },
+            "asset": "char_202_demkni/CN_043"
+        },
+        {
             "id": "char_202_demkni_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

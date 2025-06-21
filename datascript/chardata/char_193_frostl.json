@@ -585,6 +585,22 @@
             "asset": "char_193_frostl/CN_042"
         },
         {
+            "id": "char_193_frostl_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor. Here's a charm I made for you. Inside it are some lyrics I extracted from a song, the one I always listen to when I'm feeling down. I hope it'll protect you from any hurt enemies might deal you. Oh, it's coming on too heavy? Not at all. Life's the most important thing, trust me on that.",
+                "jp": "生日快乐，博士，这是我为你做的护身符，里面放了我摘抄的歌词，这首歌，我心情不好的时候就会去听。希望它能保护你在这一年里不受敌人伤害。太严肃了吗？不，生命是最重要的，请相信我。",
+                "kr": "생일 축하해, 박사. 이건 내가 만든 부적인데, 안에 노래 가사를 필사해서 넣어뒀어. 기분이 안 좋을 때 자주 듣는 노래야. 이게 올 한 해, 적으로부터 널 지켜줄 수 있길 바랄게. 너무 진지하다고? 아니, 목숨은 언제나 가장 소중한 거니까. 날 믿고 잘 간직해 줘.",
+                "cn": "生日快乐，博士，这是我为你做的护身符，里面放了我摘抄的歌词，这首歌，我心情不好的时候就会去听。希望它能保护你在这一年里不受敌人伤害。太严肃了吗？不，生命是最重要的，请相信我。"
+            },
+            "asset": "char_193_frostl/CN_043"
+        },
+        {
             "id": "char_193_frostl_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

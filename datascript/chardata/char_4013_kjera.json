@@ -585,6 +585,22 @@
             "asset": "char_4013_kjera/CN_042"
         },
         {
+            "id": "char_4013_kjera_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, happy birthday! Come have a taste of this cake I made, or maybe blow out the candles and make a wish first? Oh, and put on this medicinal garland, it'll bless any children to live a hundred years free of ailments! You're not little anymore, you say? Heheh, Doctor, what are you telling me.",
+                "jp": "博士，生日快乐！快来尝尝我做的蛋糕，要不要先吹蜡烛许愿？对了对了，快戴上这个药草编的花环，可以保佑小孩子一整年百病不侵的！欸，你说自己已经不小了？呵呵，博士，你在说什么呀。",
+                "kr": "박사, 생일 축하해! 자, 어서 내가 만든 케이크 먹어 봐. 아니다, 먼저 촛불 불고 소원부터 빌까? 맞다맞다, 여기 약초로 엮은 화관 써야지. 이 화관을 쓴 아이는 한 해 동안 온갖 병으로부터 보호를 받을 수 있어! 응? 넌 어린아이가 아니라고? 하하, 박사. 무슨 소리를 하는 거야.",
+                "cn": "博士，生日快乐！快来尝尝我做的蛋糕，要不要先吹蜡烛许愿？对了对了，快戴上这个药草编的花环，可以保佑小孩子一整年百病不侵的！欸，你说自己已经不小了？呵呵，博士，你在说什么呀。"
+            },
+            "asset": "char_4013_kjera/CN_043"
+        },
+        {
             "id": "char_4013_kjera_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

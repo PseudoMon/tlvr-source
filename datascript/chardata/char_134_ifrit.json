@@ -585,6 +585,22 @@
             "asset": "char_134_ifrit/CN_042"
         },
         {
+            "id": "char_134_ifrit_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Feast your eyes on the great Ifrit's handmade chocolate cake! Silence taught me, and I got it right on the first try! I know, I know, I'm the best! ...Wh-What the hell? How come it melted?",
+                "jp": "看好了，这可是伊芙利特大人亲手做的巧克力蛋糕，赫默教我的！我一下就学会了，怎么样，是不是很厉害！......怎、怎么回事啊？怎么都融化掉了？",
+                "kr": "어이, 잘 보라고, 이프리트 님께서 직접 만든 초콜릿 케이크다! 사일런스한테 만드는 법을 배웠는데, 한 번 보고 외웠지. 어떠냐, 대단하지? ……어라, 왜 이래 이거? 왜 녹아버리는 거야?",
+                "cn": "看好了，这可是伊芙利特大人亲手做的巧克力蛋糕，赫默教我的！我一下就学会了，怎么样，是不是很厉害！......怎、怎么回事啊？怎么都融化掉了？"
+            },
+            "asset": "char_134_ifrit/CN_043"
+        },
+        {
             "id": "char_134_ifrit_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

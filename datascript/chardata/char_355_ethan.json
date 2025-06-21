@@ -585,6 +585,22 @@
             "asset": "char_355_ethan/CN_042"
         },
         {
+            "id": "char_355_ethan_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "You're saying you got a present but never saw from who? Huh, that's crazy, must be some paranormal stuff going on here. Why don't we go check the monitors... Hey, wait a sec, you know I'm not for real, right?",
+                "jp": "你说你收到了礼物，却没看到送礼物的人？嗯，真是奇怪了呢，看来罗德岛上有灵异事件发生，我们快去查查监控吧......喂，等下，你不会真信了吧？",
+                "kr": "선물을 받았는데 누가 보냈는진 모르겠다고? 음, 신기한 일이네. 로도스 아일랜드에는 이상한 사건들이 자주 일어나는 것 같아. 우리 CCTV나 확인하러 갔다 올까…… 어이, 잠깐만. 진짜 믿는 건 아니지?",
+                "cn": "你说你收到了礼物，却没看到送礼物的人？嗯，真是奇怪了呢，看来罗德岛上有灵异事件发生，我们快去查查监控吧......喂，等下，你不会真信了吧？"
+            },
+            "asset": "char_355_ethan/CN_043"
+        },
+        {
             "id": "char_355_ethan_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

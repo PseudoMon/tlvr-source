@@ -585,6 +585,22 @@
             "asset": "char_252_bibeak/CN_042"
         },
         {
+            "id": "char_252_bibeak_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "D-Doctor, um, happy... happy… Happy birthday! I've never seen you wear any other clothes, so I made you an outfit exactly like your current one, but with lighter and suppler material used. It... it should be more comfortable... Would you like to try it on?",
+                "jp": "博士，生、生日快乐！因为从来没有见过您穿别的衣服，我就做了一套和您身上这件一模一样的，但是用了更轻薄柔软的面料，穿上应该会更舒服吧......您要试试看吗？",
+                "kr": "박사님, 생, 생일 축하드려요! 다른 옷을 입는 걸 본 적이 없어서, 똑같은 디자인이지만 더 가볍고 부드러운 원단을 사용해서 만들어봤어요. 한번 입어보실래요……?",
+                "cn": "博士，生、生日快乐！因为从来没有见过您穿别的衣服，我就做了一套和您身上这件一模一样的，但是用了更轻薄柔软的面料，穿上应该会更舒服吧......您要试试看吗？"
+            },
+            "asset": "char_252_bibeak/CN_043"
+        },
+        {
             "id": "char_252_bibeak_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

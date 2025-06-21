@@ -585,6 +585,22 @@
             "asset": "char_1028_texas2/CN_042"
         },
         {
+            "id": "char_1028_texas2_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor. You're another year older, and you'll have another chance to grow. Since it's a special occasion, want me to call over the Penguin Logistics girls and throw a birthday party? Even I get in the mood for a little bit of fun and excitement with my friends. That's not the kind of 'excitement' you'll ever find in Siracusa.",
+                "jp": "誕生日おめでとう、ドクター。実りのある一年になることを祈るよ。せっかくの機会だし、ペンギン急便のメンツを集めて誕生日パーティーをするのはどうだ？私もたまには馴染みの連中と賑やかにやりたいんだ。この手の「賑やかさ」は、シラクーザにはないからな。",
+                "kr": "생일 축하한다, 박사. 한 살 더 먹은 만큼 박사도 더 성장할 수 있으면 좋겠네. 모처럼인데, 펭귄 로지스틱스 사람들을 모아서 생일 파티를 하는 건 어때? 나도 가끔은 친구들이랑 시끌벅적하게 지내고 싶을 때가 있거든. 이런 '시끌벅적'한 느낌은 시라쿠사엔 없으니까.",
+                "cn": "生日快乐，博士。新的一岁，你也会有新的成长。机会难得，要把企鹅物流的人都喊来开个生日派对吗？我偶尔也会想热闹一下，和伙伴们聚聚。这种“热闹”，叙拉古不会有。"
+            },
+            "asset": "char_1028_texas2/CN_043"
+        },
+        {
             "id": "char_1028_texas2_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

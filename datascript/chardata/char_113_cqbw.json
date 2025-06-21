@@ -585,6 +585,22 @@
             "asset": "char_113_cqbw/CN_042"
         },
         {
+            "id": "char_113_cqbw_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "It's today, isn't it? It was a cinch to get my hands on the detailed profile of Rhodes Island's 'Doctor', which means your security sucks as bad as the bombs I made when I was three years old. And look at this, it's your birthday? How many birthday songs packed full of love have you heard by now?",
+                "jp": "是今天吧？罗德岛博士的详细资料，这么容易就能被我偷到手，你们的防护系统和我三岁时搓出来的炸弹一样糟糕啊。而且你居然在过生日哎？听到了几首充满爱意的生日歌啊？",
+                "kr": "오늘이지? 로도스 아일랜드 박사의 상세 정보를 이렇게 손쉽게 손에 넣을 수 있다니. 여기 방어 시스템은 내가 세 살 때 만든 폭탄만도 못하다고. 그리고 뭐 생일? 애정이 듬뿍 담긴 생일 축하 노래 오늘 몇 번이나 들은 거야, 박사?",
+                "cn": "是今天吧？罗德岛博士的详细资料，这么容易就能被我偷到手，你们的防护系统和我三岁时搓出来的炸弹一样糟糕啊。而且你居然在过生日哎？听到了几首充满爱意的生日歌啊？"
+            },
+            "asset": "char_113_cqbw/CN_043"
+        },
+        {
             "id": "char_113_cqbw_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

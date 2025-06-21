@@ -585,6 +585,22 @@
             "asset": "char_4117_ray/CN_042"
         },
         {
+            "id": "char_4117_ray_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday to you, Doctor. Made you this cake—it's that giant sandbeast print I photoed... Why didn't you think I'd come? I'm your friend. I'd make you sad forgetting your birthday.",
+                "jp": "お誕生日おめでとう、ドクター。これ、うちが作ったケーキで、これは大型のサンドビーストの足跡を撮ったやつ……なんでうちは来ないと思ってたの？だって友達だし、うちがお誕生日を忘れたら、ドクターは傷付くでしょ。",
+                "kr": "생일 축하해, 박사. 이건 내가 만든 케이크고, 이건 내가 찍은 자이언트 샌드비스트의 발자국이야…… 내가 안 올 거라고 생각했어? 나는 박사의 친구고, 그런 내가 박사의 생일을 까먹으면 박사는 상처받을 거잖아.",
+                "cn": "祝你生日快乐，博士。这是我做的蛋糕，这是我拍的巨型沙地兽的脚印......为什么觉得我不会来？我是你的朋友，忘记你的生日，会让你伤心的。"
+            },
+            "asset": "char_4117_ray/CN_043"
+        },
+        {
             "id": "char_4117_ray_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

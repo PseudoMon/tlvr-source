@@ -65,7 +65,7 @@
                 "cn": "交谈3"
             },
             "text": {
-                "en": "This outfit? Made it myself - it's gotta be as cool as possible since it gets really hot in the boiler room. It...doesn't look like work attire? What d'ya mean? There's all sorts of different workers, and each has her own needs.",
+                "en": "This outfit? Made it myself—it's gotta be as cool as possible since it gets really hot in the boiler room. It... doesn't look like work attire? What d'ya mean? There's all sorts of different workers, and each has her own needs.",
                 "jp": "この服？あたしの手作りだけど。ボイラー室ってすごい暑いから、なるべく涼しいデザインにしたんだ。作業員っぽくない？うーん……ぽくないってどういうこと？色んな性格の作業員がいるし、それぞれ違ったニーズがあるのは普通でしょ？",
                 "kr": "이 옷? 내가 직접 만든 거야. 보일러실이 많이 덥길래 최대한 시원하게 만들어봤어. 일할 때 입는 옷이 아닌 것 같다고? 흠…… 일할 때 입는 게 뭐 정해져 있나? 일하는 사람이라도 서로 다른 성격이 있고 필요한 게 다를 수도 있잖아, 안 그래?",
                 "cn": "这身衣服？是我自己做的，因为锅炉房里很热，所以做得尽量清凉一些。你说这不像工人的衣服？嗯......什么叫作不像？工人也有各种各样的性子，每一个人的需要都不一样，不是吗？"
@@ -113,7 +113,7 @@
                 "cn": "信赖提升后交谈1"
             },
             "text": {
-                "en": "Sometimes the commander reads books that are really hard to understand.. I remember a line went somethin' like this, 'People built cities, but refused to adapt to them.' Not sure I agree with that though. As long as you find your own way to live, it doesn't make a difference whether you're in the city or in the middle o' nowhere.",
+                "en": "Sometimes the commander reads books that are really hard to understand... I remember a line went somethin' like this, 'People built cities, but refused to adapt to them.' Not sure I agree with that though. As long as you find your own way to live, it doesn't make a difference whether you're in the city or in the middle o' nowhere.",
                 "jp": "うちの指揮官さんってたまにすっごく深い本を読むんだけど、そこに出てきた「人類は都市を創造したが、都市に適応することを永遠に拒んだ」って言葉が今でも頭に残ってる。あたしに言わせれば、正しいけど正しくないって感じ。だって自分が望む生活がそこにあれば、都市も荒野も変わらないからね。",
                 "kr": "가끔씩 지휘관은 아주 심오한 책들을 보고는 해. 그중 “인류는 도시를 만들었지만, 도시에 적응하기를 영원히 거부했다.”라는 말이 아직까지 기억에 남아. 틀린 말도, 맞는 말도 아니라고 생각해. 원하는 삶을 찾을 수만 있다면, 그곳이 도시든 황무지든 결국 상관은 없을 테니까.",
                 "cn": "有时候指挥官会读一些很深奥的书，我还记得一句，“人类创造了城市，却永远拒绝适应城市”。我觉得，这话对也不对。只要能找到自己想要的生活，城市和荒原都是一样的。"
@@ -583,6 +583,22 @@
                 "cn": "早上好，Dr.{@nickname}，新的一天也要努力工作。"
             },
             "asset": "char_4040_rockr/CN_042"
+        },
+        {
+            "id": "char_4040_rockr_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Dr. {@nickname}, I heard it's your birthday today, so happy birthday! Here's a present from me to you. Um, that's you and Amiya carved on there. It's my first go with this sort of ornamental thing, so it didn't turn out too well... You like it? Oh, that's brilliant, then!",
+                "jp": "今日は誕生日なんだってね、おめでとうドクター、これあげる。うん、君とアーミヤさんがモチーフだよ。初めてこういう装飾品を作ってみたんだけど、あんまり出来は良くないかも……気に入ったの？それならよかった。",
+                "kr": "박사, 오늘 생일이라고 들었어. 생일 축하해. 자, 이건 선물이야. 응, 박사와 아미야를 조각한 거야. 이런 장식품은 처음이라 잘 됐는지 모르겠는데…… 맘에 든다고? 정말 다행이야.",
+                "cn": "Dr.{@nickname}，我听说今天是你的生日，生日快乐，这是送给你的。嗯，雕的是你和阿米娅，我还是第一次尝试这种装饰品，效果不太好......你喜欢？那再好不过。"
+            },
+            "asset": "char_4040_rockr/CN_043"
         },
         {
             "id": "char_4040_rockr_CN_044",

@@ -585,6 +585,22 @@
             "asset": "char_1023_ghost2/CN_042"
         },
         {
+            "id": "char_1023_ghost2_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "I heard today was your birthday. I support chasing all sense of ceremony, even if it's not going to mean anything. So, happy birthday, Doctor, and congratulations on notching up another year of suffering.",
+                "jp": "今日はあなたの誕生日らしいわね。たとえ全く意味のないものでも、儀式的行事へのこだわりには賛同するわ。だから、誕生日おめでとう、ドクター。苦難を耐え忍ぶ時間がまた一年増えたわね。",
+                "kr": "오늘은 박사님의 생일이라고 들었어요. 설령 아무런 의미 없는 의식일지라도, 이런 의식 자체에 대해서는 긍정적으로 생각하고 있어요. 그러니 생일 축하해요, 박사님. 고난을 견뎌낸 시간이 또 일 년 늘었네요.",
+                "cn": "我听说了，今天是你的生日。我支持一切对仪式感的追求，即使那可能不会产生任何意义。所以，祝你生日快乐，博士，祝你承受苦难的时间又多了一年。"
+            },
+            "asset": "char_1023_ghost2/CN_043"
+        },
+        {
             "id": "char_1023_ghost2_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

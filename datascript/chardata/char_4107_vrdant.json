@@ -585,6 +585,22 @@
             "asset": "char_4107_vrdant/CN_042"
         },
         {
+            "id": "char_4107_vrdant_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor. I've been thinking for a long time about what to give you, and finally decided I'd let you choose yourself. Here, take a seed from my palm, any seed. Plant it, and see what kind of flowers you get blooming eventually.",
+                "jp": "お誕生日おめでとう、ドクター。何を送ろうかずいぶん悩んだんだけど、やっぱり自分で選んでもらうことにするよ。はい、ボクの手から種を一つ取って、それを植えてみて。どんな花なのかは、咲いてからのお楽しみ。",
+                "kr": "생일 축하해, 박사. 박사한테 뭘 선물해 줄지 엄청 고민했었는데, 역시 박사가 직접 선택하는 편이 더 나을 것 같아. 자, 여기 있는 씨앗 중 하나를 골라. 그리고 가져가서 직접 심어봐. 어떤 꽃인지는 나중에 알 수 있을 거야.",
+                "cn": "生日快乐，博士，我想了很久该送你什么，最后还是决定让你自己挑。来，从我手里拿一颗种子，把它种下去，看看最终能开出怎样的花朵吧。"
+            },
+            "asset": "char_4107_vrdant/CN_043"
+        },
+        {
             "id": "char_4107_vrdant_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

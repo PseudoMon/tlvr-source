@@ -585,6 +585,22 @@
             "asset": "char_499_kaitou/CN_042"
         },
         {
+            "id": "char_499_kaitou_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Be careful when eating that cake, Doctor. I put a little ruby in it. Good luck to you.",
+                "jp": "ああ、ケーキを召し上がる時はどうかお気をつけください、ドクター。中にはルビーを埋め込んであるのでね。あなたの幸運を祈っています。",
+                "kr": "아. 케이크를 드실 땐 조심해 주세요, 박사님. 케이크 안에 루비 하나를 숨겨 뒀거든요. 당신에게 행운이 있길 빕니다.",
+                "cn": "啊，吃蛋糕的时候小心一些，博士。我在里面埋了一小颗红宝石，希望您有好运气。"
+            },
+            "asset": "char_499_kaitou/CN_043"
+        },
+        {
             "id": "char_499_kaitou_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

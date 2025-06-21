@@ -585,6 +585,22 @@
             "asset": "char_4138_narant/CN_042"
         },
         {
+            "id": "char_4138_narant_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "We always say that maturity comes with the paths you've traveled, not the time you've passed. So on a day like this, we'll use these colorful ropes to decorate the burdenbeasts, or... You call the chair your burdenbeast? Nonsense, you can't hang these ropes on it. Give me your hand. You can forge a path on your own, you know.",
+                "jp": "人を成長させるのは、そいつが過ごした時間じゃなくて、歩んできた道だって言うでしょ。だから誕生日には駄獣におめかしをするか、もしくは……この組紐で執務室の椅子を飾りたい？だめだめ。ほら、手を出して。道は自分で歩んでもいいものでしょ。",
+                "kr": "한 사람을 성장하게 만드는 건 그가 살아온 시간이 아닌, 그가 걸어온 길이라고 하지. 그래서 우린 오늘 같은 날 버든비스트를 꾸며주곤 해. 근데 여긴…… 이 끈으로 당신 집무실 의자를 꾸미겠다고? 그건 안 되지. 자, 손을 이리로. 길은 스스로 걸어야 의미가 있는 법이잖아.",
+                "cn": "我们总说，让一个人长大的，不是他行过的时间，而是他踏过的路途，所以这个日子我们会打扮驮兽，或者......你要把这些彩绳挂在办公椅上？不行，把手给我。路也是可以自己走出来的嘛。"
+            },
+            "asset": "char_4138_narant/CN_043"
+        },
+        {
             "id": "char_4138_narant_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

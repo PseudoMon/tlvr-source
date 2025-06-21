@@ -585,6 +585,22 @@
             "asset": "char_130_doberm/CN_042"
         },
         {
+            "id": "char_130_doberm_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor. Today is a day worth celebrating, but nevertheless, I'll have to ask you focus on work before this evening's birthday party. Sorry, please forget everything I said about 'birthday party.'",
+                "jp": "生日快乐博士，今天是个值得庆祝的日子，但在晚上的生日宴会前，还是要请你专注于工作。咳，生日宴会的事，还请你装作没有听到。",
+                "kr": "생일 축하한다, 박사. 오늘은 축하해야 할 날이 맞지만 밤에 있을 생일 파티가 열리기 전까지는 일에 집중해 주길 바란다. 크흠…… 생일 파티 건은 못 들은 걸로 해 줬으면 좋겠군.",
+                "cn": "生日快乐博士，今天是个值得庆祝的日子，但在晚上的生日宴会前，还是要请你专注于工作。咳，生日宴会的事，还请你装作没有听到。"
+            },
+            "asset": "char_130_doberm/CN_043"
+        },
+        {
             "id": "char_130_doberm_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

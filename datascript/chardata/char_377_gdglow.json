@@ -585,6 +585,22 @@
             "asset": "char_377_gdglow/CN_042"
         },
         {
+            "id": "char_377_gdglow_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "If today was my birthday, I'd be on a sofa at home with my brothers and sisters. We'd be eating and drinking and playing until all end up falling asleep and waking up the next day. But never mind that, you're the star for today, Doctor. Do you want a new look? Well, how about I trim a new hairstyle for you? Mm-hm! Great, let's do it!",
+                "jp": "如果今天是我的生日，我一定会窝在大沙发上，和兄弟姐妹吃喝玩乐一番然后躺下睡到明天。不过，博士才是今天的主人公。想要有个新面貌？那，我来为博士剪一个新发型怎么样？嗯，好，走吧！",
+                "kr": "만약 오늘이 제 생일이었다면 분명 커다란 소파에 늘어져서 형제자매들과 즐겁게 먹고 놀고는 그대로 누워서 아침까지 잤을 거예요. 하지만, 오늘의 주인공은 박사님이시잖아요. 새로운 모습을 원한다고요? 그럼 제가 새로운 헤어스타일로 잘라드릴까요? 네, 좋아요. 가죠!",
+                "cn": "如果今天是我的生日，我一定会窝在大沙发上，和兄弟姐妹吃喝玩乐一番然后躺下睡到明天。不过，博士才是今天的主人公。想要有个新面貌？那，我来为博士剪一个新发型怎么样？嗯，好，走吧！"
+            },
+            "asset": "char_377_gdglow/CN_043"
+        },
+        {
             "id": "char_377_gdglow_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

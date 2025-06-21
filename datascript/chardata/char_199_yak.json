@@ -585,6 +585,22 @@
             "asset": "char_199_yak/CN_042"
         },
         {
+            "id": "char_199_yak_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "It's your birthday, Doctor, isn't it? No need to worry, for I dare not forget the date. It's just the gift I prepared... I'm really not sure if you are going to appreciate it... So please, Doctor, do me a favor and open it after I leave. Thank you.",
+                "jp": "今天是博士的生日啊。啊啊，忘倒是没有忘，只是我准备的礼物，实在不知道博士会不会喜欢......麻烦您在我离开后再打开它吧，多谢了。",
+                "kr": "오늘이 박사님 생신이군요. 아니요, 잊고 있었던 건 아닙니다만, 준비한 선물을 마음에 들어 하실지 모르겠어서…… 부디 제가 나간 후에 열어보시길 부탁드리겠습니다. 박사님, 생신 축하드립니다.",
+                "cn": "今天是博士的生日啊。啊啊，忘倒是没有忘，只是我准备的礼物，实在不知道博士会不会喜欢......麻烦您在我离开后再打开它吧，多谢了。"
+            },
+            "asset": "char_199_yak/CN_043"
+        },
+        {
             "id": "char_199_yak_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

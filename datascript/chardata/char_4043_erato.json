@@ -585,6 +585,22 @@
             "asset": "char_4043_erato/CN_042"
         },
         {
+            "id": "char_4043_erato_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "In mythology, every hero's birth is accompanied by a strange phenomenon. For example, the once-in-a-century blooming of a flower, or a falling star... Just what happened on this day, years ago? It must've been a spectacular sight. Happy birthday, Doctor. Go ahead and make a wish.",
+                "jp": "神話で英雄が生誕する際には、超常現象が起きるものですの。花が咲き乱れたり、隕石が落ちたり……かつての今日という日付に、何が起きたのかしらね？きっと目も眩むような素敵な景色に違いございませんわ。お誕生日おめでとうございます、ドクター、願いをどうぞ。",
+                "kr": "신화 속에서 영웅이 탄생할 때에는, 언제나 기이한 현상이 동반되기 마련이죠. 꽃이 만발한다든가, 운석이 떨어진다든가…… 과거의 오늘에는 과연 어떤 일이 벌어졌을까요? 분명 눈부실 정도의 멋진 광경이 펼쳐졌겠죠. 생일 축하해요, 박사님. 이제 소원을 비세요.",
+                "cn": "在神话里，每个英雄诞生的时候，都会伴随着奇异的景象。或许是百花盛开，或许是陨石坠落......许多年前的今天发生了什么呢？一定是令人目眩的景色吧。生日快乐博士，许个愿吧。"
+            },
+            "asset": "char_4043_erato/CN_043"
+        },
+        {
             "id": "char_4043_erato_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

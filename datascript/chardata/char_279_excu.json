@@ -585,6 +585,22 @@
             "asset": "char_279_excu/CN_042"
         },
         {
+            "id": "char_279_excu_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor. Like others, I have prepared a gift for you. However, given I do not grasp the associated connotations, I am unsure whether my imitation of this formality may displease you. I may need to rephrase as follows. Would I be allowed to do something that makes you happy today?",
+                "jp": "生日快乐，博士。我和其他人一样为您准备了礼物。但我不确定，在不了解其中含义的情况下，只是对形式的模仿是否会招致您的不悦。或许我该换一种问法——今天，我可以做什么令你开心的事情吗？",
+                "kr": "생일 축하드립니다, 박사님. 다른 분들처럼 박사님을 위한 선물을 준비했습니다. 그러나 이 행동의 의미를 미처 이해하지 못한 채 그저 형식적으로 모방하는 것이 당신의 심기를 거스르게 하는 건 아닌지 염려가 됩니다. 아니면…… 이 외에 제가 오늘 박사님을 기쁘게 해드릴 수 있는 일이 있을까요?",
+                "cn": "生日快乐，博士。我和其他人一样为您准备了礼物。但我不确定，在不了解其中含义的情况下，只是对形式的模仿是否会招致您的不悦。或许我该换一种问法——今天，我可以做什么令你开心的事情吗？"
+            },
+            "asset": "char_279_excu/CN_043"
+        },
+        {
             "id": "char_279_excu_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

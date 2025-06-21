@@ -561,7 +561,7 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "TBU",
+                "en": "Ah, Doctor. Happy New Year. I am writing a letter. My travels have kept me away from the monastery for some years, and I have grown used to my current life. Yet at days like this, I can't help but miss head priest and the other disciples. Perhaps it is time for a visit.",
                 "jp": "ああ、ドクター。明けましておめでとう。拙僧は文を認めておるところだ。幾年かの流浪でその生活にも慣れたが、この時期になると住職様と寺の兄弟弟子たちがどうしても頭に浮かぶのでござる。或いは、機会あらば一度寺に戻ってみるべきか。",
                 "kr": "아아, 박사. 새해 복 많이 받으시오. 소승은 글을 적고 있었소. 수년간의 유랑 생활에도 익숙해졌지만, 이맘때면 주지 스님과 동문 제자들이 생각나오. 시간도 오래되었으니, 기회가 있을 때 한 번 절에 가봐야겠소.",
                 "cn": "啊，博士。新年快乐，小僧正在写信。虽然流浪数年，小僧也早已习惯了这样的生活，但每到这个时候，总会想起住持爷爷和寺里的师兄弟们。或许这么久了，小僧也该回去看看了。"
@@ -585,6 +585,22 @@
             "asset": "char_362_saga/CN_042"
         },
         {
+            "id": "char_362_saga_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Today is the day thou camest into this realm. It is of two meanings—to be delivered into it is to be born, and to transcend likewise is to be born. Once my head priest told me that should one be capable of understanding the realm to be of void nature, in doing so they come of it. However, I believe it is not a realm bare and empty, but a self at ease and free in being that is truest to the message.",
+                "jp": "今天是博士的出世之日，出世有两意，诞生于世为出世，超脱于世也为出世。住持爷爷曾给小僧讲，人若是能知晓世间性空，即是出世间。不过小僧认为，相比于世间空空，自在自性才是真意。",
+                "kr": "오늘이 박사가 출세한 날이구려. 출세란 세상에 태어나다, 세간에서 해탈하다, 이 두 가지의 의미가 있다고 하오. 주지 스님은 소승에게 세상의 공허함을 깨닫게 된 순간이 세간 속에서 해탈한 것이라고 하셨소만 소승은 세간의 공허함보다는 자급자족하며 살아가는 것이 이 출세의 진정한 의미라고 믿고 있다오.",
+                "cn": "今天是博士的出世之日，出世有两意，诞生于世为出世，超脱于世也为出世。住持爷爷曾给小僧讲，人若是能知晓世间性空，即是出世间。不过小僧认为，相比于世间空空，自在自性才是真意。"
+            },
+            "asset": "char_362_saga/CN_043"
+        },
+        {
             "id": "char_362_saga_CN_044",
             "title": {
                 "en": "Anniversary Celebration",
@@ -593,7 +609,7 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "TBU",
+                "en": "Head priest once said, 'for that which must be done, act despite the impossibility.' I used to think it was a simple statement. After all, there were no tasks that could not be done, only those that should and should not be done. But as my travels continued, I realized it was a profound truth, worthy of acting upon for my entire life.",
                 "jp": "住職様曰く、「其の不可なることを知りて、之を為す」と。拙僧は、もともとこれを至極簡単な言葉だと考えていた。なぜなら、世間には「できぬこと」はなく、「すべきこと」と、「すべきでないこと」だけがあるからでござる。しかし時が経つにつれて、拙僧はようやく、それが生涯をかけて行うに値するほど、重い一言であると知ったのだ。",
                 "kr": "언젠가 주지 스님께서 “불가능하다는 것을 알면서도 해야 하는 일이라면 계속 하라”라고 말하신 적이 있소. 소승은 이 세상에 불가능한 일은 없고, 해야 할 일과 하지 말아야 할 일이 명확히 나뉘어 있다 그리 지극히 간단하게만 생각했었소. 하지만 시간이 지나, 이제서야 소승은 조금 깨달은 것 같소. 이것은 매우 무거운 말이었으며, 이 소승이 평생 실천할 가치가 있다는 것을 말이오.",
                 "cn": "住持爷爷说过，“知其不可而为之。”小僧原以为这是极其简单的一句，因为世上没有不可为之事，只有应为和不应为之事。只是渐行渐远，小僧才了然，这是极沉重的一句话，值得小僧一生践行。"

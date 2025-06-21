@@ -585,6 +585,22 @@
             "asset": "char_293_thorns/CN_042"
         },
         {
+            "id": "char_293_thorns_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy Birthday, Doctor. Good timing. I have a gift for you. I put in extra effort to wrap it up so you will like it. Looks good, doesn't it? But I suggest you wear gloves when you open it. Just in case.",
+                "jp": "生日快乐，博士，正好我有礼物要给你。为了让你喜欢它，我用心地包装了一下，挺好看的吧？不过拆的时候最好戴上手套，以防万一。",
+                "kr": "생일 축하한다, 박사. 마침 줄 선물도 있고. 네 마음에 들도록 열심히 포장해 봤는데, 어떻지, 괜찮나? 그래도 포장을 뜯을 땐 장갑을 끼도록 해. 혹시 모르니까, 만일이라는 게 있잖아.",
+                "cn": "生日快乐，博士，正好我有礼物要给你。为了让你喜欢它，我用心地包装了一下，挺好看的吧？不过拆的时候最好戴上手套，以防万一。"
+            },
+            "asset": "char_293_thorns/CN_043"
+        },
+        {
             "id": "char_293_thorns_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

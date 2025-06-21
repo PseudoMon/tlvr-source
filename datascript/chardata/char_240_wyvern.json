@@ -553,6 +553,22 @@
             "asset": "char_240_wyvern/CN_042"
         },
         {
+            "id": "char_240_wyvern_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, I heard it was your birthday. I have some beast jerky from home, please, help yourself to some if you don't mind. The people back home loved it, which is what made them all so strong! Happy birthday, and I wish you another year of good health!",
+                "jp": "博士，听说今天是您的生日啊。我这里有一些老家寄来的兽肉干，不嫌弃的话，就请收下吧。在老家，人们都喜欢吃这种肉干，所以大家都很强壮！生日快乐博士，祝您新的一年身体健康！",
+                "kr": "박사님, 생일이라고 들었어요. 고향에서 보내온 비스트 고기 육포가 있는데, 괜찮으시다면 받아주세요. 고향에서는 다들 이런 육포를 즐겨 먹거든요. 그래서 다들 엄청 건강해요! 생일 축하합니다, 박사님. 새해에는 건강하시길 바라겠습니다.",
+                "cn": "博士，听说今天是您的生日啊。我这里有一些老家寄来的兽肉干，不嫌弃的话，就请收下吧。在老家，人们都喜欢吃这种肉干，所以大家都很强壮！生日快乐博士，祝您新的一年身体健康！"
+            },
+            "asset": "char_240_wyvern/CN_043"
+        },
+        {
             "id": "char_240_wyvern_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

@@ -537,6 +537,22 @@
             "asset": "char_4142_laios/CN_042"
         },
         {
+            "id": "char_4142_laios_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "I wasn't sure what kind of birthday cake I should buy you, but then the instant I saw it, I had to get it—it's a dragon cake! See? The strawberry jam on it is like its flame breath! Isn't that super cool?",
+                "jp": "バースデーケーキを選ぶにあたって、何がいいか迷っていたんだが……これを見た瞬間に決めたよ。見てくれ、ドラゴンケーキだ！イチゴジャムで吹き出す炎を表現してるのがかっこいいだろう？",
+                "kr": "생일 케이크로 뭐가 좋을지 고민했는데…… 이걸 본 순간 결정했어. 봐, 드래곤 케이크야! 딸기 잼으로 뿜어지는 불꽃을 표현한 게 멋있지 않아?",
+                "cn": "挑选生日蛋糕的时候，我原本还在犹豫应该买什么款式，但看到它的瞬间我就立刻决定了——龙形蛋糕！看，用草莓酱模拟的喷出来的火焰，是不是超酷？"
+            },
+            "asset": "char_4142_laios/CN_043"
+        },
+        {
             "id": "char_4142_laios_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

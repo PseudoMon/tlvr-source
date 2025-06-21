@@ -585,6 +585,22 @@
             "asset": "char_350_surtr/CN_042"
         },
         {
+            "id": "char_350_surtr_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday. You remember your birthday, even though you're amnesiac. That has to mean that something really important must've happened on this day… Um, I have your birthday memorized now, and I won't forget it this time.",
+                "jp": "生日快乐。作为失忆的人居然还记得自己的生日，说明这个日子一定发生过很重要的事吧......嗯，我记住你的生日了，这次绝不会忘的。",
+                "kr": "생일 축하해. 기억을 잃은 사람이 생일은 기억하고 있다니, 엄청 중요한 일이 일어났었다는 얘기겠지…… 응, 기억했어, 박사 생일. 이번엔 절대로 잊지 않을 거야.",
+                "cn": "生日快乐。作为失忆的人居然还记得自己的生日，说明这个日子一定发生过很重要的事吧......嗯，我记住你的生日了，这次绝不会忘的。"
+            },
+            "asset": "char_350_surtr/CN_043"
+        },
+        {
             "id": "char_350_surtr_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

@@ -569,6 +569,22 @@
             "asset": "char_151_myrtle/CN_042"
         },
         {
+            "id": "char_151_myrtle_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "So, Doctor, today's your birthday, huh? Then as a mature adult, let me give you a little present. Hm, Doctor, kneel down a little... Ahem-hem. Good job, good job... Alright! That was a compliment from the Generalissimo herself. You did well, Doctor.",
+                "jp": "原来今天是博士的生日啊。那么作为一个成熟的大人，就让我给博士一点奖励吧。嘿哟，博士，你稍微蹲下一点......好乖好乖——这是大将军的表扬哦。博士，你做得很棒啦。",
+                "kr": "오늘이 박사의 생일이었구나. 그럼 성숙한 어른으로서 박사에게 상을 주도록 할게. 에잇, 박사, 조금만 숙여봐…… 착하다, 착해…… 이건 대장군의 칭찬이야. 박사, 정말 잘했어.",
+                "cn": "原来今天是博士的生日啊。那么作为一个成熟的大人，就让我给博士一点奖励吧。嘿哟，博士，你稍微蹲下一点......好乖好乖——这是大将军的表扬哦。博士，你做得很棒啦。"
+            },
+            "asset": "char_151_myrtle/CN_043"
+        },
+        {
             "id": "char_151_myrtle_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

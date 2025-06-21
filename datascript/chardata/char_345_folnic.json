@@ -585,6 +585,22 @@
             "asset": "char_345_folnic/CN_042"
         },
         {
+            "id": "char_345_folnic_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor. I prepared a gift for you. This is a neck massager developed by the Medical Department. Why don't you give it a try now? It might hurt a little, but it's good for your health. Hey, don't try to escape. I <i>will</i> manage your health one way or another.",
+                "jp": "博士，生日快乐。我特意为您准备了礼物，是一套医疗部研发的颈椎按摩仪。请您现在就试试吧，可能会有点痛，但对您的健康一定是有好处的。啊，别想逃跑。我一定会履行好健康管理的责任的。",
+                "kr": "박사님, 생일 축하합니다. 오늘은 제가 당신을 위해 특별히 선물을 준비해봤답니다. 이건 의료부에서 개발한 경추 안마기예요. 지금 한번 해보시겠어요? 처음엔 조금 아플 수 있지만, 그 아픔은 모두 박사님의 건강을 위한 것이랍니다. 앗, 도망치시려는 생각이라면 접으세요. 저는 박사님의 건강을 책임지는 사람으로서 최선을 다할 겁니다.",
+                "cn": "博士，生日快乐。我特意为您准备了礼物，是一套医疗部研发的颈椎按摩仪。请您现在就试试吧，可能会有点痛，但对您的健康一定是有好处的。啊，别想逃跑。我一定会履行好健康管理的责任的。"
+            },
+            "asset": "char_345_folnic/CN_043"
+        },
+        {
             "id": "char_345_folnic_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

@@ -521,6 +521,22 @@
             "asset": "char_281_popka/CN_042"
         },
         {
+            "id": "char_281_popka_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor. I never really celebrated birthdays before, but now that I'm at Rhodes Island, Orchid always lets me have extra snacks on them... Do you want any? I'll sneak some out for you. Others won't notice!",
+                "jp": "博士，生日快乐。之前，我没有怎么过过生日，来到罗德岛后，过生日的时候，梓兰姐姐都会允许我多吃一些点心......博士，您有什么想吃的吗？我可以瞒着医生，偷偷帮您拿一点！",
+                "kr": "생일 축하해, 박사. 전엔 생일을 별로 축하한 적이 없었는데, 로도스 아일랜드에 온 이후로는 생일이 되면, 오키드 언니가 간식을 평소보다 많이 먹을 수 있게 해줘…… 박사, 혹시 먹고 싶은 거 있어? 내가 의사 선생님 몰래 갖고 올게!",
+                "cn": "博士，生日快乐。之前，我没有怎么过过生日，来到罗德岛后，过生日的时候，梓兰姐姐都会允许我多吃一些点心......博士，您有什么想吃的吗？我可以瞒着医生，偷偷帮您拿一点！"
+            },
+            "asset": "char_281_popka/CN_043"
+        },
+        {
             "id": "char_281_popka_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

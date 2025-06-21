@@ -585,6 +585,22 @@
             "asset": "char_222_bpipe/CN_042"
         },
         {
+            "id": "char_222_bpipe_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "I heard the news! Today's yer big day, Doctor, so that means a meal on you, aye? Me and Chenchen'd always treat each other to supper back on our birthdays at school, heheh. Oh, right, I've got a wee prezzie for ye, too. Here y' are! It's one of the potatoes I planted a wee while ago- just sprung up proper today!",
+                "jp": "我听说啦，今天是博士的生日，那么该博士请客吃饭了！在学校的时候，我和陈陈都是过生日的那个人请客的。对了对了，我也有礼物要送给博士。看！之前种下的一颗土豆，正好在今天开花了！",
+                "kr": "어디서 들었는데, 오늘이 박사 생일이라며. 그럼 밥 사줘야겠네! 학교 댕길 때, 첸이랑 나는 생일인 사람이 밥 쏘고 했사. 까먹을 뻔 했다, 박사한테 줄 선물도 있사. 자! 저번에 심은 감자 기억나나? 그게 오늘 마침 꽃이 마카 피었다니~!",
+                "cn": "我听说啦，今天是博士的生日，那么该博士请客吃饭了！在学校的时候，我和陈陈都是过生日的那个人请客的。对了对了，我也有礼物要送给博士。看！之前种下的一颗土豆，正好在今天开花了！"
+            },
+            "asset": "char_222_bpipe/CN_043"
+        },
+        {
             "id": "char_222_bpipe_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

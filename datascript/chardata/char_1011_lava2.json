@@ -585,6 +585,22 @@
             "asset": "char_1011_lava2/CN_042"
         },
         {
+            "id": "char_1011_lava2_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "You've already been waiting here? Tch, you got me this time. Anyway, you can thank me for the present later, for I have something to show you, so quiet now. Just to let you know, we fortunetellers have found a way to boost one's luck. And look no further for its inventor because she's standing right before you. I see... I see... See that? My divination says you'll get even cooler in the future. Also, Happy birthday.",
+                "jp": "已经在等着了吗？算是被你看破了，哼，礼物可以等会儿再看，现在先不要说话，占卜师有一种特殊的方法可以改变人的运势。谁发明的？我发明的。生日快乐，看到这个了吗？这代表你会越变越酷。",
+                "kr": "기다리고 있던 거야? 흥, 박사한테 간파 당하다니. 선물은 나중에 확인하고 일단은 조용히 있어봐. 그것보다 점술사한테는 운세를 바꾸는 특별한 방법이 있거든. 누가 발명했냐고? 바로 이 몸! 생일 축하해, 이거 보여? 이건 박사가 앞으로 더 멋있어진다는 걸 의미해.",
+                "cn": "已经在等着了吗？算是被你看破了，哼，礼物可以等会儿再看，现在先不要说话，占卜师有一种特殊的方法可以改变人的运势。谁发明的？我发明的。生日快乐，看到这个了吗？这代表你会越变越酷。"
+            },
+            "asset": "char_1011_lava2/CN_043"
+        },
+        {
             "id": "char_1011_lava2_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

@@ -585,6 +585,22 @@
             "asset": "char_204_platnm/CN_042"
         },
         {
+            "id": "char_204_platnm_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "A kind little reminder from me. Those tickets I gave you WILL expire. Don't make me tie you up and drag you there, okay? ...Day after tomorrow? Alright, it's a deal then. No backsies. What, why am I smiling? Is this your first time going to an amusement park with someone? That's cute. Interpret it however you like, little dummy.",
+                "jp": "提醒一下，给你的门票可是会过期的，你总不希望我绑着你去吧？......后天？说好了，不许反悔。我为什么笑了？你是不是第一次和别人一起去转游乐园？真可爱。想当成什么意思都可以哦。",
+                "kr": "다시 한번 말하는데, 박사한테 준 티켓은 사용 기한이 있는 거라고. 설마 내가 박사를 묶어서 데려가길 바라는 건 아니겠지? ……모레? 약속한 거야. 무르면 안 돼. 왜 웃냐고? 박사 너 다른 사람하고 놀이공원 가는 거 처음이지? 귀엽다 진짜. 네 마음대로 생각해.",
+                "cn": "提醒一下，给你的门票可是会过期的，你总不希望我绑着你去吧？......后天？说好了，不许反悔。我为什么笑了？你是不是第一次和别人一起去转游乐园？真可爱。想当成什么意思都可以哦。"
+            },
+            "asset": "char_204_platnm/CN_043"
+        },
+        {
             "id": "char_204_platnm_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

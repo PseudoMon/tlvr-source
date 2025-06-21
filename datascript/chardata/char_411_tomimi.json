@@ -561,7 +561,7 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "TBU",
+                "en": "If today's a holiday, does that mean I can take the day off? Haghhh… Oh, where's Gavial? Have you seen her, Doctor? If I've got a free day, of course I'm going to spend it with Gavial!",
                 "jp": "休日ってことは、もしかして休めるんですか？はぁ――ガヴィルさんはどこにいるんだろう。ドクターは見かけませんでしたか？今日はやることがないんだから、ガヴィルさんと一緒に過ごさなきゃ！",
                 "kr": "휴일이라면, 저도 쉴 수 있는 건가요? 휴우…… 가비알 씨는 어디 있으려나, 박사님 혹시 가비알 씨 보셨어요? 오늘 할 일도 없는데 당연히 가비알 씨랑 보내야죠!",
                 "cn": "放假的话，是不是就可以休息了？呼啊——嘉维尔在哪里啊，博士您见到她了吗？今天没有事情做，当然要和嘉维尔待在一起啦！"
@@ -585,6 +585,22 @@
             "asset": "char_411_tomimi/CN_042"
         },
         {
+            "id": "char_411_tomimi_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor! I brought you a birthday present! Umm... huh? Wh-Where did it go? I hid it behind my back so I could surprise you. How could it go missing...? Wahh… Oh! Here it is! It was stuck under my tail... Sorry about that, and happy birthday to you, Doctor. Hehe.",
+                "jp": "博士！我给您带来了生日礼物！......欸？怎么、怎么不见了？我明明藏在腰后面，准备拿出来当惊喜的！去哪里了，呜呜......啊！原来被夹到尾巴下面了，嘿嘿，博士，生日快乐！",
+                "kr": "박사님! 제가 박사님을 위해서 생일 선물을 준비했어요! ……어라? 왜, 왜 안 보이지? 분명 제대로 등 뒤에 숨겼는데, 내 깜짝 서프라이즈가! 우웅, 도대체 어디 있는 거야…… 앗! 꼬리 밑부분에 끼어 있었네요. 헤헤, 박사님. 생일 축하해요!",
+                "cn": "博士！我给您带来了生日礼物！......欸？怎么、怎么不见了？我明明藏在腰后面，准备拿出来当惊喜的！去哪里了，呜呜......啊！原来被夹到尾巴下面了，嘿嘿，博士，生日快乐！"
+            },
+            "asset": "char_411_tomimi/CN_043"
+        },
+        {
             "id": "char_411_tomimi_CN_044",
             "title": {
                 "en": "Anniversary Celebration",
@@ -593,7 +609,7 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "TBU",
+                "en": "Doctor, I got a paper slip from the fortune box, and it says if I say five positive words to a plant every day, it will grow even bigger. Let me try it with this one! Tail, backpack, barbecue, sweet dreams... And... Gavial. Hehe... Doctor! Why are you laughing at me?",
                 "jp": "ドクター、お楽しみ箱でこのくじを引き当てました。植物に毎日五つのいい言葉をかけると、よく育つって書いてあります。この鉢植えで試してみましょう！しっぽ、リュック、バーベキュー、いい夢、それと……ガヴィルさん。へへ……ドクター！どうして笑うんですか？",
                 "kr": "박사님, 방금 럭키박스에서 종이를 뽑았는데, 종이엔 매일매일 식물한테 좋은 단어 다섯 가지를 말해주면 더 잘 자랄 거라고 쓰여 있었어요. 앗, 여기 마침 화분이 있네요, 한번 시도해 봐야겠어요! 그럼 음, 꼬리, 가방, 바비큐, 좋은 꿈…… 가비알 씨. 헤헤…… 박사님! 왜 웃으시는 거예요?",
                 "cn": "博士，我在幸运箱里抽到了张纸条，上面写每天对植物说五个好词，它就会长得更好。这个盆栽，让我来试试！尾巴、背包、烧烤、好梦......嘉维尔。嘿嘿......博士！为什么笑我？"

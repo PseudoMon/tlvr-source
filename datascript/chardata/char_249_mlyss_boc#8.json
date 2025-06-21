@@ -585,6 +585,22 @@
             "asset": "char_249_mlyss_boc#8/CN_042"
         },
         {
+            "id": "char_249_mlyss_boc#8_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "You can stop guessing now. It's the real me standing before you, not a flowing shape. You know I make the trip here every year, so why would this year be an exception? Alrighty, I lugged half a ton of investigation files here for Rhodes Island. So c'mon now, let's just head to the restaurant first.",
+                "jp": "確認しなくて結構よ。あなたの前にいるのは分身じゃありませーん。毎年お祝いしにきてるんだから、今年だけ例外なわけないでしょ？さ、ロドスに持ってきた調査資料がちょっとした量あるの。だからひとまず先に食堂に行きましょう。",
+                "kr": "떠볼 필요 없어, 네 앞에 있는 건 분신이 아니니까. 매년 축하해주러 오는데, 올해라고 예외일 리가 없잖아. 자, 로도스 아일랜드가 참고할만한 자료를 가져왔어. 꽤 많은데, 우리 일단 식당으로 갈까?",
+                "cn": "不用试探啦，站在你面前的不是分身，既然我每年都会赶来，这次又怎么会是例外呢？好了，我带给罗德岛的考察资料可有点多，所以，现在还是先出发去餐厅吧。"
+            },
+            "asset": "char_249_mlyss_boc#8/CN_043"
+        },
+        {
             "id": "char_249_mlyss_boc#8_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

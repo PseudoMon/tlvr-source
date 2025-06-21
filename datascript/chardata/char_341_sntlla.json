@@ -585,6 +585,22 @@
             "asset": "char_341_sntlla/CN_042"
         },
         {
+            "id": "char_341_sntlla_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Congratulations on completing another annual cycle of your life, Doctor. This should be the day when your strength is most abundant, so if there's anything you'd like to achieve, now is the time to start.",
+                "jp": "ドクター、また無事に歳月を一巡できたことをお祝いします。今日は最もエネルギーに満ちている一日ですから、何か成し遂げたい目標があれば、今すぐ始めてみてはいかがでしょうか。",
+                "kr": "당신의 삶이 무사히 한 해의 순환을 마무리 지은 것을 축하드립니다, 박사님. 오늘이 당신의 한 해 중에서 가장 에너지 넘치는 날일 테죠. 이루고 싶은 소망이 있으시다면 지금부터 시작해 보시는 게 어떠실까요?",
+                "cn": "祝贺您的生命在一个年岁中完成循环，博士。今天应当是您最具力量的日子，有什么想要实现的，就从现在开始吧。"
+            },
+            "asset": "char_341_sntlla/CN_043"
+        },
+        {
             "id": "char_341_sntlla_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

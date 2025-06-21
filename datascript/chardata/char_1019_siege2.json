@@ -585,6 +585,22 @@
             "asset": "char_1019_siege2/CN_042"
         },
         {
+            "id": "char_1019_siege2_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, if you'd like to accept these! Here we've got a well-wishes card from Morgan, here's some handmade boxing gloves from Hannah, and here's a medal engraved by Dagda... Hold on, where's mine? Oh, flip, I left it at the gym! Wait, it's your birthday today and you <i>forgot?</i>",
+                "jp": "ドクター、どうぞ収めてくれ。これはモーガンのメッセージカード、こちらはハンナが手作りしたグローブ、それからこっちはダグザが彫ったバッジだ……あれ、私の分は？しまった、ボクシングジムに忘れた！待て、貴様は今日が自分の誕生日だということを忘れていたのか？",
+                "kr": "박사, 우선 이거 먼저 받아! 이건 모건의 축하 메시지고, 이건 한나가 직접 만든 권투 글러브, 그리고 이건 다그다의 훈장인데…… 어라, 내 선물은 어디 있지? 이런, 복싱장에 두고 왔잖아! 잠깐, 너 오늘이 네 생일인 것도 잊고 있던 건 아니지?",
+                "cn": "博士，请先收下这些东西吧！这是摩根的祝贺信，这是汉娜的手工拳套，还有这个，达格达的刻章......欸，我的礼物呢？糟了，忘在拳馆了！等等，你忘了今天是自己生日？"
+            },
+            "asset": "char_1019_siege2/CN_043"
+        },
+        {
             "id": "char_1019_siege2_CN_044",
             "title": {
                 "en": "Anniversary Celebration",
@@ -615,8 +631,8 @@
             "global": "Ayako Kawasumi"
         },
         "kr": {
-            "native": "가빈",
-            "global": "Ga Bin"
+            "native": "오로아",
+            "global": "Oh Roah"
         }
     },
     "availability": [

@@ -585,6 +585,22 @@
             "asset": "char_4026_vulpis/CN_042"
         },
         {
+            "id": "char_4026_vulpis_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy Birthday, Doctor. Lisa's papa asked me to give you this omamori. He hopes to visit you in person, if given the chance. As for me, I offer a promise: my blade is yours whenever you need it.",
+                "jp": "誕生日おめでとう、ドクター。このお守りはリサの父親から預かったものだ。機会があれば、是非こちらまで伺ってお目に掛かりたいと言っていたよ。で、私の方だけど、貴方に一つ約束をしよう。いつどんな時でも、私の刃が必要であれば、遠慮なく声をかけてくれて構わない。",
+                "kr": "생일 축하해, 박사. 이 호신부는 리사 아빠가 전해달라고 한 거야. 기회가 되면 꼭 직접 만나보고 싶다고 하던걸. 그리고 내 선물은…… 당신과 약속을 하나 하지. 언제 어떤 상황에서든 내 검이 필요하다면 주저 없이 빌려주겠다고.",
+                "cn": "生日快乐，博士。这枚御守，是丽萨的爸爸托我转交给你的，未来有机会，他希望亲自拜会你。至于我，我交给你一个承诺，任何时候，如果需要用到我的刀，尽管开口。"
+            },
+            "asset": "char_4026_vulpis/CN_043"
+        },
+        {
             "id": "char_4026_vulpis_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

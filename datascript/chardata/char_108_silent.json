@@ -585,6 +585,22 @@
             "asset": "char_108_silent/CN_042"
         },
         {
+            "id": "char_108_silent_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, I have a proposal for your review: a new medical drone model. Oh, and I've heard it's your birthday. I didn't mean it like this, but hopefully you find it a practical gift.",
+                "jp": "博士，这是一份医疗无人机的改进设计方案，请您衡量它投入战场的战术价值......另外，我听说了，今天是您的生日。虽然并非刻意为之，但我希望这是一份有实用价值的礼物。",
+                "kr": "박사, 이건 의료용 드론 개선 설계 방안인데, 전술적 가치를 한번 판단해 줄래? 아, 그리고 들었어, 생일이라며. 의도한 건 아니지만 이게 박사에게 유용한 선물이길 바랄게.",
+                "cn": "博士，这是一份医疗无人机的改进设计方案，请您衡量它投入战场的战术价值......另外，我听说了，今天是您的生日。虽然并非刻意为之，但我希望这是一份有实用价值的礼物。"
+            },
+            "asset": "char_108_silent/CN_043"
+        },
+        {
             "id": "char_108_silent_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

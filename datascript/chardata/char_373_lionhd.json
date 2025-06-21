@@ -585,6 +585,22 @@
             "asset": "char_373_lionhd/CN_042"
         },
         {
+            "id": "char_373_lionhd_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, happy birthday! Look! I chose this outfit just for you. Trust me, you'll turn heads all around Rhodes Island in this getup! The top is too short? The pants are too flashy? Hey, c'mon, that's fashion!",
+                "jp": "博士，生日快乐！看！我专门为你挑选的生日服装。相信我的眼光，穿上这身衣服，你一定会成为全罗德岛的焦点的！上衣太短？裤子太招摇？这是时尚啦！",
+                "kr": "생일 축하해, 박사! 이거 봐! 내가 박사를 위해서 특별히 고른 생일 코스튬이라고! 빨리 갈아입어 봐. 내 안목은 확실하니까 분명 로도스 아일랜드 모두의 시선을 사로잡을 수 있을 거야! 상의가 너무 짧은 것 같다고? 바지도 너무 화려하다고? 무슨 소리야, 그게 가장 멋있는 부분인데!",
+                "cn": "博士，生日快乐！看！我专门为你挑选的生日服装。相信我的眼光，穿上这身衣服，你一定会成为全罗德岛的焦点的！上衣太短？裤子太招摇？这是时尚啦！"
+            },
+            "asset": "char_373_lionhd/CN_043"
+        },
+        {
             "id": "char_373_lionhd_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

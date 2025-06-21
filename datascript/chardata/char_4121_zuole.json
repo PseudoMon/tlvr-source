@@ -585,6 +585,22 @@
             "asset": "char_4121_zuole/CN_042"
         },
         {
+            "id": "char_4121_zuole_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "I was a fairly mischievous boy. I once leapt into a sand wheel in Yumen, nearly costing me my life. It was my birthday, so my father had me wear this mask for the entire day. Happy birthday, Doctor. Rhodes Island won't be stopping, but would you like to hop off for a look? Don't worry, I'll fly you back.",
+                "jp": "子供の頃、やんちゃで玉門の排砂溝に飛び込み、危うく命を落とすところでした。その日は私の誕生日だったので、父はこの面を一日中付けて外さないようにと言いつけただけでしたが。というわけで、誕生日おめでとうございます、ドクター。今日はロドスが泊まる予定はありませんが、飛び降りてみたくはありませんか？安心してください、私が跳んでデッキまで連れ帰りますから。",
+                "kr": "어릴 적 겁도 없이 옥문의 모래 방아에 뛰어들었다가 죽을 뻔한 적이 있습니다. 마침 그날이 제 생일이었던지라, 아버지께선 벌로 이 가면을 하루 종일 쓰고 있으라고만 하셨죠. 생일 축하드립니다, 박사님. 로도스 아일랜드는 오늘도 항해를 멈추지 않겠지만, 혹시 잠깐 내려가서 구경하고 싶으시다면 제게 말씀만 하세요. 박사님을 모시고 다시 뛰어 올라오면 되니까 걱정 마시고요.",
+                "cn": "小时候顽劣，跳进玉门的沙渠，险些丢了性命。那天是我生日，所以父亲只是让我戴着这副面具一整天不许摘下。生日快乐，博士。罗德岛今天不会停，但您想下去看看吗？放心，我能带您飞上来。"
+            },
+            "asset": "char_4121_zuole/CN_043"
+        },
+        {
             "id": "char_4121_zuole_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

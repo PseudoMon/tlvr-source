@@ -17,7 +17,7 @@
                 "cn": "任命助理"
             },
             "text": {
-                "en": "Do you think me a princess, sitting elegantly in an office?",
+                "en": "Do you think me Lady of the Office? This is work for <i>grown-ups</i>.",
                 "jp": "あたしが執務室で優雅に座ってるお姉さまみたいなタイプだと思ってるわけ？",
                 "kr": "내가 집무실에 우아하게 앉아 있는 아가씨 같은 타입이라고 생각하는 거야?",
                 "cn": "你看我像是坐办公室的优雅大姐姐吗？"
@@ -33,7 +33,7 @@
                 "cn": "交谈1"
             },
             "text": {
-                "en": "Don't take Iris's songs as true. They're for the young children, you know. What? Yes, I'm the guards with the scissors—what about it? Chop-chop? That's me making clothes—what did you think it was? *sigh* Adults, honestly. So eager to assume worse.",
+                "en": "Don't take Iris's songs so literally. They're meant for the young ones, you know. What? Yes, I'm the guard with the scissors—what about it? Chop-chop? That's the sound of me making clothes—what did YOU think it was? Huh... adults, honestly. So eager to assume the worst.",
                 "jp": "アイリスの歌を本気にしちゃダメなのよ、あれはお子様向けなんだからね。何？ええ、「ハサミを持った守り人」とはあたしのことよ、それが何？カチャカチャ？服作ってる音だけど、なんだと思ってたの？はぁ、大人ってほーんと、すぐ悪い方に捉えるんだから。",
                 "kr": "아이리스의 노래를 진지하게 받아들이면 안 돼. 그건 어린이용이니까. 뭐? 맞아, '가위를 지닌 파수꾼'은 내 얘기야. 그게 왜? 싹둑싹둑? 옷 만드는 소린데, 뭔 줄 안 거야? 어른들이란 참, 뭐든지 나쁜 쪽으로만 생각한다니까.",
                 "cn": "别把爱丽丝的歌当真了，那个就是哄小朋友用的。啊？嗯啊，拿剪刀的守卫是我，怎么了？咔嚓咔嚓？那是做衣服啊，你以为是什么？唉，大人们真是的，总喜欢往坏处想。"
@@ -49,7 +49,7 @@
                 "cn": "交谈2"
             },
             "text": {
-                "en": "Preservation techniques? I wouldn't know. Even Iris hasn't the faintest clue how I keep things safe, so why would I be telling you?",
+                "en": "Preservation techniques? Huh, fat chance. Even Iris hasn't the faintest clue about how I safekeep things. Why should I let YOU know?",
                 "jp": "保存技術？さぁね。あのアイリスだってあたしがどうやって物をとっとくか知らないのに、なんであんたに教えないといけないわけ？",
                 "kr": "보존 기술? 글쎄, 아이리스도 내가 어떻게 물건을 보관하는지 모르는데, 내가 왜 너한테 알려줘야 돼?",
                 "cn": "保存技术？我不知道。爱丽丝都不清楚我是怎么保管东西的，为什么要告诉你？"
@@ -81,7 +81,7 @@
                 "cn": "晋升后交谈1"
             },
             "text": {
-                "en": "Don't ask me. I don't know why the Castle takes things in from everywhere to keep and then sends them back out. Granny wants me to do it, so I do it. In adult terms, it's work, isn't it? Something someone has to do.",
+                "en": "Don't ask me. I don't know why the Castle takes deposits from everywhere, just to send them back out. Granny wants me doing it, so I do. Don't you know? I hear adults call that <i>work.</i> It's when <i>someone</i> has to do it.",
                 "jp": "あたしに聞かないでよ。なんでお城で物を預かっては送り返してるかなんて、知らないんだから。おばあちゃまがやれって言うからやってるだけ。大人の言い方だと仕事ってやつじゃないの、誰かがやんなきゃいけないやつ。",
                 "kr": "나한테 묻지 마. 나도 왜 성에서 물건을 맡았다가 돌려주고 그러는지는 모르니까. 할머니가 하라고 해서 하는 것뿐이거든. 어른들 방식으로 말하자면, 업무 아니야? 누군가는 해야 하는 일 말이야.",
                 "cn": "别问我，我可不知道城堡为什么要到处收东西存着然后送出去。奶奶让我做，我就做了。用大人的说法，这叫工作，总得有人做的。"
@@ -97,7 +97,7 @@
                 "cn": "晋升后交谈2"
             },
             "text": {
-                "en": "Annie's a quiet one by nature, nothing at all like me. C-Controlling her? What are you talking about?! She's a person, she goes where she wants to! She's only by my side because she likes being with me. That's what best friends are like. Aren't they, Annie? 'Mm.'",
+                "en": "Annie's just the quiet sort, nothing at all like me. C-Controlling her? What are you talking about? She's a whole person, she goes where she wants to! She's only by my side because she likes being with me. That's what best friends do. Isn't it, Annie? 'Mm.'",
                 "jp": "アニーは物静かな性格なのよ、あたしと全然違うの。操ってる？何言ってるわけ？！アニーは人間よ、行きたいとこに行くの。あたしのそばにいるのは、それが好きだからってだけだよ。一番仲のいい友達ってそういうもんよ。ね、アニー？「うん。」",
                 "kr": "애니는 성격이 얌전해. 나랑 전혀 다르지. 조종하는 거 아니냐고? 무슨 소리야?! 애니는 인간이야. 내 옆이 좋아서 같이 있는 거라고. 가장 친한 친구란 그런 거잖아. 그렇지, 애니? “응”.",
                 "cn": "安妮本来就是个安静的人，和我完全不一样。操控？你在想什么？！她是个人，想去哪里就去哪里，在我身边只是因为喜欢和我在一起，最要好的朋友总是要在一起的嘛，对吧？“嗯。”"
@@ -113,7 +113,7 @@
                 "cn": "信赖提升后交谈1"
             },
             "text": {
-                "en": "There's too many children here. No wonder Iris doesn't want to leave. Hrmm... if this goes on any longer, we may as well move the whole Castle of Dreams here onto Rhodes Island. It'll save time, and effort.",
+                "en": "With all the children here, it's no wonder Iris doesn't want to leave. Hrmm... if this carries on, we'd be better off plonking the whole Castle of Dreams here onto Rhodes Island. That'd save so much time and effort.",
                 "jp": "ここは子供がたくさんいるのね、アイリスが帰ってこないはずだわ。う～ん……この感じが続くなら、いっそお城を丸ごと持ってきちゃえばいいわね。あたしも時短ができるし、疲れないし。",
                 "kr": "여기엔 아이들이 많구나. 아이리스가 안 돌아올 만도 해. 음…… 계속 이럴 거라면 차라리 성을 통째로 옮기는 게 낫겠어. 그럼 나도 시간을 아낄 수 있고 피곤하지도 않을 테니까.",
                 "cn": "这里的小孩子太多，难怪爱丽丝不想回来。嗯......再这样下去，干脆把整个梦城堡都搬到罗德岛上来算了，省时又省力。"
@@ -129,7 +129,7 @@
                 "cn": "信赖提升后交谈2"
             },
             "text": {
-                "en": "What even is a good girl? Are you saying I'm not good? —Well, I suppose Granny has said there's situations you can't do as you please in, where you need to 'act' a little. Like? Well... 'My greetings to you, I come from the County of Linton. My name is Bena.' More or less like that, you know!",
+                "en": "Good girl this and good girl that, are you saying that I'm not <i>good</i>?—Well, I suppose sometimes you can't just do as you please. You have to 'act' a little, Granny says. Act how? Well... 'My greetings to you. I come from the County of Linton. Bena is my name.' Something like that, you know!",
                 "jp": "いい子にってどういうこと？あたしがいい子じゃないって言いたいわけ？でもおばあちゃまも言ってたね、時と場合によっては気分だけで動いちゃいけない、ある程度「演技」をしなきゃって。たとえば？そうね……「ごきげんよう。私はリントン郡からまいりましたベナですわ」、こんな感じでしょ。",
                 "kr": "착한 아이라니 무슨 소리야? 내가 착하지 않다는 거야? 그래도, 할머니도 그랬었지. 때와 장소에 따라서는 자기 기분대로만 행동해서는 안 된다, 어느 정도 '연기'를 해야 한다고 말이야. 예를 들면? 글쎄…… “안녕하세요, 저는 린던 카운티에서 온 베나라고 한답니다”, 이렇게 맞지?",
                 "cn": "什么叫乖小孩，你是说我不乖咯？不过奶奶说了，有些场合不能由着性子来，要适当“表演”一下。比如？嗯......“您好，我是来自林顿郡的贝娜。”大概就这种感觉。"
@@ -145,7 +145,7 @@
                 "cn": "信赖提升后交谈3"
             },
             "text": {
-                "en": "Granny brought me into the Castle when I was young, and I grew up there. When she retired, I took over her post at the Castle. How am I anything like Iris who just inherits the whole place? What, you think I'm jealous? Not a chance! Iris has to watch out for her figure, and me? I can eat all I want without putting on a pound, ahah!",
+                "en": "Granny brought me into the Castle when I was young, and I grew up there, and once she retired, I took over her whole job. What could I have in common with Iris, Little Miss Heir-to-the-Castle? What, you think I'm jealous? Dream on! Iris has to watch her figure, but me? I can eat all I want without putting on a pound!",
                 "jp": "あたしはおばあちゃまに拾われてきたの。お城で育って、おばあちゃまがやめちゃったから代わりにお仕事してるってだけ。そのお城を受け継いだアイリスと同じわけないでしょ？え、アイリスが羨ましいかって？そんなわけないわよ。だってアイリスはスタイルに気をつけなきゃいけないけど、あたしはどんなに食べても太らないもの。あは。",
                 "kr": "난 할머니가 주워 왔어. 성에서 자랐고, 할머니가 그만둬서 대신 일 하고 있는 것뿐이야. 성 자체를 물려받은 아이리스랑 같을 리가 없지. 뭐? 아이리스가 부럽냐고? 그럴 리 없잖아. 아이리스는 몸매를 신경 써야 하는데, 난 아무리 먹어도 살찌지 않거든. 아하하~",
                 "cn": "我是被奶奶捡到城堡的，从小在城堡长大，奶奶退休了就接替她为城堡工作，怎么会和继承城堡的爱丽丝一样呢？你是说，羡慕？那可不会，她还要想着维持身材呢，我呢，怎么吃都不长肉的，哈哈。"
@@ -161,7 +161,7 @@
                 "cn": "闲置"
             },
             "text": {
-                "en": "'Rest soundly. Doctor.' Who cares about that Doctor? Come out and let's go play! 'Alright.'",
+                "en": "'Rest soundly. Doctor.' Who cares about that Doctor? Come on, let's go out and play! 'Alright.'",
                 "jp": "「ゆっくりお休み、ドクター。」そんなやつに構ってないで、外で遊びましょうよ。「分かった。」",
                 "kr": "“푹 쉬어, 박사.” 그런 녀석 신경 쓰지 말고 밖에서 놀자. “알았어.”",
                 "cn": "“好好休息。博士。”别管他了，我们出去玩吧。“好的。”"
@@ -177,7 +177,7 @@
                 "cn": "干员报到"
             },
             "text": {
-                "en": "I'm Bena, here to retrieve an idiot who went out and forgot to come home. But I hear there's still things she has to do, and I suppose that's fair. I'll stay and keep her company for a while.",
+                "en": "I'm Bena, and I <i>was</i> here to fetch an idiot who went out and forgot to come home. But I hear she still has things to do, so <i>I'll</i> just stay a while and keep her company.",
                 "jp": "あたしはベナよ、出てったっきりおうちを忘れちゃったらしいお馬鹿ちゃんを探しにきたの。でも、なんかまだやることが残ってるみたいだから、仕方ないわ。あたしも付き合って残るわよ。",
                 "kr": "난 베나라고 해. 밖에 나가더니 집을 잊어버렸다는 어떤 바보를 찾으러 왔지. 근데 아무래도 아직 할 일이 남은 모양이니까, 어쩔 수 없지. 나도 같이 남아 줄게.",
                 "cn": "我叫贝娜，来找一个出门就忘了回家的笨蛋。听说她还有些活要干，没办法，我也在这陪她一会好了。"
@@ -193,7 +193,7 @@
                 "cn": "观看作战记录"
             },
             "text": {
-                "en": "You can't show something this violent to Annie and me.",
+                "en": "Oh, you can't show something this violent to Annie and me.",
                 "jp": "切っただの張っただの乱暴なことを、あたしとかアニーに見せないでよ。",
                 "kr": "벤다든지 때린다든지 그런 폭력적인 건 나랑 애니한테 보여 주지 말라고.",
                 "cn": "打打杀杀的东西不适合给我和安妮看。"
@@ -209,7 +209,7 @@
                 "cn": "精英化晋升1"
             },
             "text": {
-                "en": "Ahah! Well, looks like you know how to work with children after all!",
+                "en": "Ah-hah! See, you <i>do</i> know how to play by children's rules!",
                 "jp": "ふふん、なによ、子供の機嫌の取り方を心得てるようじゃない。",
                 "kr": "흐흥~ 뭐야~ 애들 기분도 맞춰줄 줄 아나 보네?",
                 "cn": "哼哼，看来你挺懂怎么讨小孩子欢心的嘛。"
@@ -225,7 +225,7 @@
                 "cn": "精英化晋升2"
             },
             "text": {
-                "en": "Annie, are you ready? We're going to show this eternally hooded hoodlum what our Arts are made of! 'Alright, Bena.'",
+                "en": "Annie, are you ready? We're going to show this hooded hoodlum what our Arts are made of! 'Alright, Bena.'",
                 "jp": "アニー、準備はいい？このいっつもフードを被りっぱなしのやつに、あたしたちのアーツを見せてやるのよ！「分かった、ベナ。」",
                 "kr": "애니, 준비됐어? 맨날 후드나 뒤집어쓰고 있는 이 녀석한테 우리의 아츠를 보여 주는 거야! “알았어, 베나.”",
                 "cn": "准备好了吗，安妮，给这个摘不下兜帽的家伙见识下我们的技艺！“好的，贝娜。”"
@@ -257,7 +257,7 @@
                 "cn": "任命队长"
             },
             "text": {
-                "en": "Annie's got some ideas for you. Listen to me, now, everyone.",
+                "en": "Attention, please! Annie's told me of some brilliant ideas.",
                 "jp": "アニーに考えがあるって。あたしがみんなに教えてあげる。",
                 "kr": "애니한테 좋은 생각이 있대. 내가 모두에게 알려 줄게.",
                 "cn": "安妮有些想法，我来说给大家听。"
@@ -273,7 +273,7 @@
                 "cn": "行动出发"
             },
             "text": {
-                "en": "Let's take it just like a walk in the forest.",
+                "en": "Let's just take it like a walk in the forest.",
                 "jp": "森の中をお散歩するつもりで行くよ。",
                 "kr": "숲을 산책하는 느낌으로 가자고~",
                 "cn": "就当是去森林里散步好了。"
@@ -289,7 +289,7 @@
                 "cn": "行动开始"
             },
             "text": {
-                "en": "Interested in pulling these toys apart too?",
+                "en": "So you want to pull these toys apart too?",
                 "jp": "あんたもこのおもちゃたちをバラバラにしたいの？",
                 "kr": "너도 이 장난감들을 산산조각 내고 싶어?",
                 "cn": "你也想拆这些玩具吗？"
@@ -305,7 +305,7 @@
                 "cn": "选中干员1"
             },
             "text": {
-                "en": "Heheh.",
+                "en": "Hehehee.",
                 "jp": "へへん。",
                 "kr": "헤헹.",
                 "cn": "哼哼。"
@@ -337,7 +337,7 @@
                 "cn": "部署1"
             },
             "text": {
-                "en": "Annie, don't go too far.",
+                "en": "Annie, don't go <i>too</i> far.",
                 "jp": "アニー、遠くに行っちゃダメだよ。",
                 "kr": "애니, 멀리 가면 안 돼.",
                 "cn": "安妮，别走太远。"
@@ -401,7 +401,7 @@
                 "cn": "作战中3"
             },
             "text": {
-                "en": "Whatever breaks needs to be fixed.",
+                "en": "Whatever breaks needs a fixing.",
                 "jp": "壊れちゃったものは直さないとね。",
                 "kr": "망가진 건 고쳐야겠지.",
                 "cn": "坏掉的东西就得修理。"
@@ -417,7 +417,7 @@
                 "cn": "作战中4"
             },
             "text": {
-                "en": "If there's no fixing it, turn it to pieces.",
+                "en": "If there's no fixing it, smash it to pieces.",
                 "jp": "直らないんだったらバラバラにしちゃいましょ。",
                 "kr": "고칠 수 없다면 산산조각 내자고.",
                 "cn": "修不好就弄碎吧。"
@@ -449,7 +449,7 @@
                 "cn": "3星结束行动"
             },
             "text": {
-                "en": "No piece of work who still needs trimming, then?",
+                "en": "No one else in need of a trim?",
                 "jp": "剪定が必要な悪いやつはもういないよね。",
                 "kr": "가지치기해야 할 나쁜 녀석들은 이제 없겠지.",
                 "cn": "没有坏人要修剪了吧。"
@@ -497,7 +497,7 @@
                 "cn": "进驻设施"
             },
             "text": {
-                "en": "We're two people here! This room's not big enough!",
+                "en": "Hang on, this room's a little small. We're two people here.",
                 "jp": "あたしたち二人なんだよ。この部屋じゃ小さすぎ。",
                 "kr": "우린 두 명이잖아. 이 방은 너무 좁다고.",
                 "cn": "我们有两个人，房间不够大啊。"
@@ -561,7 +561,7 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "TBU",
+                "en": "Well, happy New Year to you. Annie and I are taking our crack at the Yanese lantern tradition. This one's for Granny, may she live a long and healthy life. And this one's for you, may you... err... you know what, make your own wish...",
                 "jp": "あけましておめでとう。アニーと一緒に新年の提灯を作ってるのよ。これはおばあちゃまへ、長生きしてくれますように。これはあんたへ……えーと……自分で願いを言って……",
                 "kr": "안녕? 새해 복 많이 받아. 나랑 애니는 새해맞이 꽃등을 만들고 있어. 이 꽃등은 오래 사시라는 의미로 할머니께 드리고, 이건 너한테 줄게. 이 꽃등의 의미는…… 어…… 소원은 알아서 빌어……",
                 "cn": "新年好啊。我和安妮在做新年花灯。这盏灯给奶奶，祝她长命百岁。这一盏给你，祝你......呃......你自己许愿吧......"
@@ -585,6 +585,22 @@
             "asset": "char_369_bena/CN_042"
         },
         {
+            "id": "char_369_bena_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "It just baffles me! How can you all be so happy to have your birthdays? One year older is one year further from your childhood innocence. Honestly... here, a new pillow for you. Take it and dream sweet dreams. I wish that you keep that child at heart of yours alive... forever and ever.",
+                "jp": "真是不明白，为什么很多人过生日的时候都很开心呢？长大了一岁，就离童真又远了一点。算了，这个枕头送给你，枕着它做个好梦吧。祝你在任何时候，都不会丢掉最宝贵的童心。",
+                "kr": "정말 이해가 안 돼. 왜 모두가 생일 보내는 걸 기뻐하는 거지? 나이를 한 살 더 먹으면, 아이의 순수함에서 한 발짝 더 멀어지는 셈이잖아. 뭐 됐다. 자, 선물. 이 베개가 네게 좋은 꿈을 가져다주길. 그 어떤 순간이 와도, 가장 소중한 동심을 잃지 않기를 바랄게.",
+                "cn": "真是不明白，为什么很多人过生日的时候都很开心呢？长大了一岁，就离童真又远了一点。算了，这个枕头送给你，枕着它做个好梦吧。祝你在任何时候，都不会丢掉最宝贵的童心。"
+            },
+            "asset": "char_369_bena/CN_043"
+        },
+        {
             "id": "char_369_bena_CN_044",
             "title": {
                 "en": "Anniversary Celebration",
@@ -593,7 +609,7 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "TBU",
+                "en": "It's all over the shop today, isn't it! Let me take some photos for you. One, two... Good, these merry moments are safe and sound now. If you ever want to relive the memories of today, just come see me at the Castle.",
                 "jp": "今日は本当に賑やかね。あたしが写真を撮ってあげようじゃないの、いち、にの……よし、今日の楽しい記憶はもう保存したから。今日のことを振り返りたい時は、お城へ会いに来てね。",
                 "kr": "오늘은 정말 시끌벅적하네. 내가 사진 찍어줄게. 하나, 둘…… 좋아, 오늘의 즐거운 기억은 내가 이미 보존해뒀어. 오늘의 기억이 다시 보고 싶을 땐, 성으로 와서 날 찾으면 돼.",
                 "cn": "今天真是热闹啊。我来给这里拍张照吧，一、二......好，今天的快乐回忆已经被我保存下来啦。等你想要重温今天的回忆的时候，就来城堡找我吧。"
@@ -602,6 +618,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Lydia Kirton",
+            "global": "Lydia Kirton"
+        },
         "cn": {
             "native": "王晓彤",
             "global": "Cheddar"
@@ -616,6 +636,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

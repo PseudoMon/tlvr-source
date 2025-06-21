@@ -585,6 +585,22 @@
             "asset": "char_337_utage/CN_042"
         },
         {
+            "id": "char_337_utage_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, happy birthday. Did you know? There's a real trick to birthday parties. I could share some hacks with you, like, on the down-low, to really up your popularity at dinnertime. Number one— wait, are these all your presents?! This whole room?!",
+                "jp": "博士，生日快乐哦~你知道吗？生日宴会是很有讲究的。我可以悄悄告诉你，在宴会上迅速提升自己人气的秘诀哦。首先——等等，博士的房间里，堆的这些全都是礼物？！",
+                "kr": "박사, 생일 축하해~ 그거 알아? 생일 파티는 엄청 신경 써야 돼. 파티에서 빨리 인기를 올릴 수 있는 비법을 몰래 알려줄 수 있는데. 일단은…… 잠깐, 방에 있는 이것들 전부 선물이야?!",
+                "cn": "博士，生日快乐哦~你知道吗？生日宴会是很有讲究的。我可以悄悄告诉你，在宴会上迅速提升自己人气的秘诀哦。首先——等等，博士的房间里，堆的这些全都是礼物？！"
+            },
+            "asset": "char_337_utage/CN_043"
+        },
+        {
             "id": "char_337_utage_CN_044",
             "title": {
                 "en": "Anniversary Celebration",
@@ -593,7 +609,7 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "TBU",
+                "en": "The dinner party today was, like, killer. That's the kind of thing you should really do every day. Otherwise, you start overthinking things and get all hung up on it. Then stuff gets worse and lose all your optimism for life, which is tough to hold onto. Meh, that's just me babbling to myself, don't worry about it. Anyway, enjoy the happiness you've got in the moment, that's what matters most!",
                 "jp": "今日のパーティーは最高だよー、毎日こんなバカ騒ぎができたらいいのになぁ。人は孤独になると、あることないこと考えちゃうもんだしさ。ずっとポジティブでいるのも実際けっこうしんどいからねー。あー今のナシ。やっぱり今を楽しむのが一番でしょ！",
                 "kr": "오늘 파티 정말 좋았어~ 매일 이랬으면 좋겠다. 사람은 외로워지면, 이런저런 생각들을 하기 마련이지. 계속 낙천적인 상태를 유지하는 것도 실은 엄청 어려운 일이야. 아, 신경 쓰지 마~ 눈앞의 행복을 잡는 게 가장 중요하지!",
                 "cn": "今天的宴会真棒啊~要是能天天这样就好了呢。人一旦孤独下来，就很容易开始胡思乱想吧。想要一直保持乐观的状态，其实也是件很费力的事呢。啊，不用在意~还是享受当下的开心最重要！"

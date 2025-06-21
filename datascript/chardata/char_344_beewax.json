@@ -561,7 +561,7 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "TBU",
+                "en": "Wepet renpet neferet, Doctor. It's an important day, so the first thing I did was a little horn care. Now my friends can come touch them... Oh, touching my horns, you can't feel how well I've kept them? Hm, that's okay. You don't have horns. I don't blame you.",
                 "jp": "あけましておめでとうございます、ドクター。今日は大事な日なので、早くから角のお手入れを頑張って終わらせたんです。親しい人なら触っても大丈夫ですよ……えっ、普段との違いがよく分からないですか？えっと、気にしないでください。だってドクターには角が生えてないですもんね、仕方ないです。",
                 "kr": "새해 복 많이 받으세요, 박사님. 오늘은 중요한 날이잖아요, 그래서 미리미리 뿔을 관리해 뒀어요. 친한 사람들이 모두 만져 볼 수 있게 말이에요…… 아, 관리가 된 건지 잘 모르겠다고요? 음, 괜찮아요. 박사님은 뿔이 없으니까, 그것도 이해해요.",
                 "cn": "新年快乐，博士。因为今天是重要的节日，所以我很早就做好了角的保养，亲近的人都可以来碰一碰......啊，你感觉不出来它保养得很好吗？嗯，没关系，你没有长角，不怪你。"
@@ -585,6 +585,22 @@
             "asset": "char_344_beewax/CN_042"
         },
         {
+            "id": "char_344_beewax_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "It's your birthday today, Doctor? Okay. Let me give you my blessing. Please close your eyes and imagine an endless desert. The priest's staff knocks on the ground. This signifies the gods' blessings are drawing near, and each step kicks up a sandstorm... Huh? Why did you start coughing?",
+                "jp": "今天是博士的生日？好啊，那我送给你生日的祝福。请闭上眼睛，想象一望无际的沙漠。司祭用长杖的末端敲击地面，这是神灵的祝福在靠近，每一步都扬起沙暴......啊，你怎么开始咳嗽了？",
+                "kr": "오늘이 박사님의 생일이라고요? 자, 그럼 제가 생일 축복의 기도를 올려드릴게요. 눈을 감고, 한없이 펼쳐진 사막을 상상해 보세요. 사제가 지팡이의 끝으로 땅을 두드리면, 신의 축복이 박사님에게 다가올 거예요. 한 걸음 한 걸음 모래 폭풍을 일으키며…… 앗, 괜찮으세요? 왜 갑자기 기침을 하세요?",
+                "cn": "今天是博士的生日？好啊，那我送给你生日的祝福。请闭上眼睛，想象一望无际的沙漠。司祭用长杖的末端敲击地面，这是神灵的祝福在靠近，每一步都扬起沙暴......啊，你怎么开始咳嗽了？"
+            },
+            "asset": "char_344_beewax/CN_043"
+        },
+        {
             "id": "char_344_beewax_CN_044",
             "title": {
                 "en": "Anniversary Celebration",
@@ -593,7 +609,7 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "TBU",
+                "en": "Even now, I still haven't figured out what my sister is up to. But having traveled with Rhodes Island for so long, I've seen lots of sights like the ones in the magazines, but with my own eyes. When I go back to my people, I'll probably see more clearly the blessings of the gods.",
                 "jp": "お姉ちゃんが何をしているのか、結局今でもよく分からないんです。でもロドスと共に過ごした長い時間の中で、雑誌の写真でしか見たことなかったような景色をたくさん見られました。今後部族に戻った時には、神が私たちに与えてくれた祝福がどんなものか、前よりもはっきりと理解できるようになるかもしれませんね。",
                 "kr": "사실 지금도 언니가 뭘 하는진 잘 모르겠어요. 하지만 로도스 아일랜드와 함께한 이 긴 시간 속에서, 잡지의 사진으로만 보던 경치를 제 두 눈으로 직접 볼 수 있었죠. 나중에 부족으로 돌아가면, 신이 우리에게 주신 축복이 어떤 것인지 더욱 선명하게 볼 수 있을 것 같아요.",
                 "cn": "直到现在，我也没有搞清楚姐姐究竟在做什么，不过跟着罗德岛走了这么久，倒是亲眼见到了许多和杂志照片一样的风景。等回到部族之中时，我应该也能更加清晰地看到神灵给了我们怎样的祝福吧。"

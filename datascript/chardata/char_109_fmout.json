@@ -585,6 +585,22 @@
             "asset": "char_109_fmout/CN_042"
         },
         {
+            "id": "char_109_fmout_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor. As my birthday gift for you, I will answer any one question from you about the future. Yes, anything will be fine. I would like to remind you though, that I don't offer this knid of chance everyday, so think twice before you ask.",
+                "jp": "生日快乐哦。作为礼物，我可以回答你一个和未来相关的问题哦。嗯，什么都可以。不过这种机会可不是常有的，在提问前可要好好想清楚哦。",
+                "kr": "생일 축하하네. 선물로 미래에 관한 질문을 하나 대답해 주지. 응, 뭐든 다 괜찮네. 하지만 흔하게 생기는 기회가 아니니, 질문 전에 생각을 잘하도록 하게나.",
+                "cn": "生日快乐哦。作为礼物，我可以回答你一个和未来相关的问题哦。嗯，什么都可以。不过这种机会可不是常有的，在提问前可要好好想清楚哦。"
+            },
+            "asset": "char_109_fmout/CN_043"
+        },
+        {
             "id": "char_109_fmout_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

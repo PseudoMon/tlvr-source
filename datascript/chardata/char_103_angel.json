@@ -585,6 +585,22 @@
             "asset": "char_103_angel/CN_042"
         },
         {
+            "id": "char_103_angel_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Leader, c'mere, c'mon! Welcome to your birthday party! Turn out the lights and blow out your candles. Oh, but remember, even as the candles go out, my halo will shine on you in the dark. Never worry that you'll lose your way—the angel's Blessings will be forever at your side.",
+                "jp": "老板，快来快来，欢迎来到你的生日派对！把灯关上吹蜡烛吧~即便蜡烛熄灭，天使的光环也会为您照亮此方黑暗。您不必担心失去方向，天使的祝福将会永伴您的左右。",
+                "kr": "리더, 빨리 와, 빨리. 짜잔~ 너의 생일 파티에 온 것을 환영해! 불 끄고 촛불을 불어~ 촛불은 꺼져도 천사의 광륜은 어둠을 밝혀줄 거야. 길을 잃을 걱정은 하지 마, 천사의 축복이 늘 함께 할 테니까.",
+                "cn": "老板，快来快来，欢迎来到你的生日派对！把灯关上吹蜡烛吧~即便蜡烛熄灭，天使的光环也会为您照亮此方黑暗。您不必担心失去方向，天使的祝福将会永伴您的左右。"
+            },
+            "asset": "char_103_angel/CN_043"
+        },
+        {
             "id": "char_103_angel_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

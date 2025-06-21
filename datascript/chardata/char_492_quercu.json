@@ -585,6 +585,22 @@
             "asset": "char_492_quercu/CN_042"
         },
         {
+            "id": "char_492_quercu_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Dr.{@nickname}. One look at the floral mess on your desk shows me your operators don't speak the language of flowers. Doctor, would you like to know their meaning? How about I give you a flower of my own here, and you listen carefully?",
+                "jp": "生日快乐Dr.{@nickname}，看你桌上堆的这些花就知道，今天肯定有不少干员自作主张地决定了花想说什么。博士，你想知道答案吗？要不我手上这枝花送你，你好好听一听？",
+                "kr": "{@nickname} 박사, 생일 축하해. 책상에 놓인 꽃들을 보니까 알겠네. 많은 오퍼레이터들이 꽃이 전하고자 하는 메시지를 제멋대로 결정했다는 걸 말이야. 어때, 박사. 답을 알고 싶어? 그럼 내가 이 꽃을 줄 테니까, 잘 들어봐.",
+                "cn": "生日快乐Dr.{@nickname}，看你桌上堆的这些花就知道，今天肯定有不少干员自作主张地决定了花想说什么。博士，你想知道答案吗？要不我手上这枝花送你，你好好听一听？"
+            },
+            "asset": "char_492_quercu/CN_043"
+        },
+        {
             "id": "char_492_quercu_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

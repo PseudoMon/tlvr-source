@@ -521,6 +521,22 @@
             "asset": "char_376_therex/CN_042"
         },
         {
+            "id": "char_376_therex_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "I hear the others are expressing their feelings of fondness for you by way of gifts, but you and I have no need for such tedious things to express our emotions! Our hearts have long been connected through heat and impact! Doctor! Happy birthday!",
+                "jp": "听说大家都在用送礼物的方式表达对博士的喜爱之情，不过我觉得博士与我根本不需要这些繁琐的东西来表达心意！我们的内心早已被热与冲击力连接在了一起！博士！生日快乐！",
+                "kr": "다른 분들은 선물을 통해 박사님에 대한 사랑을 표현한다고 들었습니다. 하지만 저와 박사님의 관계라면 그런 성가신 것으로 마음을 표현할 필요는 없다고 생각합니다! 우리의 마음은 이미 아주 오래전에 에너지와 충격파로 하나가 되었으니까요! 박사님! 생일 축하합니다!",
+                "cn": "听说大家都在用送礼物的方式表达对博士的喜爱之情，不过我觉得博士与我根本不需要这些繁琐的东西来表达心意！我们的内心早已被热与冲击力连接在了一起！博士！生日快乐！"
+            },
+            "asset": "char_376_therex/CN_043"
+        },
+        {
             "id": "char_376_therex_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

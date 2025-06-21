@@ -585,6 +585,22 @@
             "asset": "char_4119_wanqin/CN_042"
         },
         {
+            "id": "char_4119_wanqin_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Well, since it's your birthday, I have no choice. I'll stand to the side and watch. You'll want to keep your lower body firmly planted. If you're unfamiliar with a Tianshi apparatus, you could very easily get pulled into the air by the kite, so keep your center of gravity low... Oh, you've flown off already...",
+                "jp": "今日はドクターの誕生日なので特別に、ですよ。僕も側で見てますが、下半身をどっしりと構えてくださいね。経験のない人がこの天師儀を使うと、凧に引っ張られて浮いちゃうことがよくあるので、重心を安定させて……あっ、やっぱり持ってかれちゃったか……",
+                "kr": "오늘은 박사님의 생일이니까 특별히 허락해 드리는 거예요. 제가 옆에서 지켜보긴 할 텐데, 그래도 다리에 힘을 줘 단단히 고정시키는 게 좋아요. 초보자들이 천사의를 쓸 때 연에 끌려 날아가는 경우가 많으니까, 꼭 중심을 잘 잡아서…… 아앗, 에휴 역시 날아가 버렸네……",
+                "cn": "因为今天是您的生日我才答应的，我会在旁边看着，但您最好还是把下盘扎稳些，没有经验的人用这个天师仪很容易被风筝带上半空，一定要稳住重心......啊，还是飞上去了......"
+            },
+            "asset": "char_4119_wanqin/CN_043"
+        },
+        {
             "id": "char_4119_wanqin_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

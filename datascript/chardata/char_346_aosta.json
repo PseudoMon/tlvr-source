@@ -585,6 +585,22 @@
             "asset": "char_346_aosta/CN_042"
         },
         {
+            "id": "char_346_aosta_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor. I've never given a gift before, so I'm not sure what you might like… Is there anything in particular you want? Just give me an hour, I may DIY it for you.",
+                "jp": "博士，生日快乐。我之前还没有给人送过礼物，也不知道博士会喜欢什么......博士有什么想要的东西吗？只要给我一个小时，我现在就可以去给你做一个。",
+                "kr": "박사님, 생일 축하합니다. 다른 사람에게 선물을 해본 적이 없기도 하고, 박사님이 뭘 좋아하시는지도 모르겠어서…… 음, 박사님 혹시 필요하거나 갖고 싶은 거 있으신가요? 저한테 한 시간만 주시면, 제가 바로 만들어 드리겠습니다.",
+                "cn": "博士，生日快乐。我之前还没有给人送过礼物，也不知道博士会喜欢什么......博士有什么想要的东西吗？只要给我一个小时，我现在就可以去给你做一个。"
+            },
+            "asset": "char_346_aosta/CN_043"
+        },
+        {
             "id": "char_346_aosta_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

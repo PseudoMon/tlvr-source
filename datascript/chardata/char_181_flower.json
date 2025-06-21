@@ -585,6 +585,22 @@
             "asset": "char_181_flower/CN_042"
         },
         {
+            "id": "char_181_flower_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Perfect timing, Doctor. I was just about to go look for you. Come take a seat, I have a special aromatherapy and dessert prepared. Go on, take a deep breath and relax. Just for today, this greenhouse's flowers bloom only for you. Happy birthday.",
+                "jp": "博士，来得正好。我正要去找您呢。快坐下吧，我为您准备了特制的香薰和甜点。请好好放松一下。在今天这个日子里，这片温室的花朵只为您而开放。祝您生日快乐。",
+                "kr": "박사, 마침 잘 왔어. 박사를 찾으러 가려던 참이거든. 이리 와서 앉아. 내가 박사를 위해서 특제 디퓨저와 디저트를 만들었거든. 여기서 푹 쉬도록 해. 오늘 이 온실에 핀 꽃송이들은 모두 박사만을 위해 피어 있는 거야. 생일 축하해.",
+                "cn": "博士，来得正好。我正要去找您呢。快坐下吧，我为您准备了特制的香薰和甜点。请好好放松一下。在今天这个日子里，这片温室的花朵只为您而开放。祝您生日快乐。"
+            },
+            "asset": "char_181_flower/CN_043"
+        },
+        {
             "id": "char_181_flower_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

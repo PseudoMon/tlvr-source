@@ -585,6 +585,22 @@
             "asset": "char_1038_whitw2/CN_042"
         },
         {
+            "id": "char_1038_whitw2_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "One birthday, my father brought me to tour a vineyard in bloom. I wondered why there was no monstrous vehicle to run it down to ruin, along with the whole of Siracu— What? No, I bought this bottle of wine off some random shelf. That manor became a trash heap long ago.",
+                "jp": "ボクの誕生日に、親愛なるお父様が大豊作のブドウ園を見学させてくれたことがあってね。その時ボクは、どうしてここを粉砕して更地にできるような大きな乗り物がないのかなあと思ったんだ。ついでにシラクーザを丸ごと――ん？アハッ、違うよ、キミにプレゼントしたワインは適当に買ったものさ。あのブドウ園はとっくにゴミ捨て場同然になってるからね。",
+                "kr": "내 생일날에, 아빠가 풍작을 맞은 포도밭을 구경시켜 준 적이 있어. 그때 나는, 왜 이걸 한 번에 밀어버릴 정도로 거대한 탈것이 없는 걸까 생각했었지. 내친김에 시라쿠사도 전부…… 응? 아니, 너한테 선물한 와인은 아무거나 대충 사 온 거야. 그 포도밭은 진작에 쓰레기장이 돼버렸거든.",
+                "cn": "有次生日，我亲爱的父亲带我参观丰收的葡萄园，我当时想，怎么没有一辆巨型载具把它碾成废墟，顺便将整个叙拉古——你说什么？不，送你的这瓶酒是我随便买的，那个庄园早就成了垃圾场。"
+            },
+            "asset": "char_1038_whitw2/CN_043"
+        },
+        {
             "id": "char_1038_whitw2_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

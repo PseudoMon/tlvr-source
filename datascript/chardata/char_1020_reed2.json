@@ -585,6 +585,22 @@
             "asset": "char_1020_reed2/CN_042"
         },
         {
+            "id": "char_1020_reed2_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "You read the poem I left in your gift...? To tell the truth, it wasn't written for this day. It's just—last night, while wrapping your present, the perfect rhyme suddenly came to me.",
+                "jp": "えっ、プレゼントに挟まっていた詩を読んだ？……あれは、誕生日のために書いたものじゃないんだ。昨夜ラッピングをしている時に、ちょうど良い韻の踏み方を思いついたから……",
+                "kr": "선물에 끼워 둔 시 읽었다고? …… 사실 그건 오늘을 위해 쓴 시는 아냐. 어젯밤에 네 선물을 포장하고 있을 때, 갑자기 좋은 시운이 떠올랐었거든.",
+                "cn": "你读过我夹在礼物里的诗笺了？......其实，它不是为今天而写的。只是昨晚给你包装礼物时，我突然想到了恰当的韵脚。"
+            },
+            "asset": "char_1020_reed2/CN_043"
+        },
+        {
             "id": "char_1020_reed2_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

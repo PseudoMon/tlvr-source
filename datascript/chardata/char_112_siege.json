@@ -585,6 +585,22 @@
             "asset": "char_112_siege/CN_042"
         },
         {
+            "id": "char_112_siege_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor. I look back fondly on the way I used to celebrate this sort of thing with Indra and the gang. We'd drink ourselves half to death, right on the street, and make a racket to match, but that doesn't seem so appropriate now... Still, I've got some lollipops on me. Want one?",
+                "jp": "博士，生日快乐。过去和因陀罗他们，在街头喝得半醉之后大闹一场的庆生方式的确令人怀念，但是现在似乎不适合这么做呢......我这还有一些棒棒糖，你要来一根吗？",
+                "kr": "생일 축하해, 박사. 예전엔 인드라와 다른 애들이랑 길거리에서 술에 취해 한바탕 실랑이를 벌이며 생일을 축하하곤 했었는데, 그립네. 하지만 이제 그런 방식으로 축하하는 건 적절하지 않겠지…… 막대 사탕 있는데, 하나 먹을래?",
+                "cn": "博士，生日快乐。过去和因陀罗他们，在街头喝得半醉之后大闹一场的庆生方式的确令人怀念，但是现在似乎不适合这么做呢......我这还有一些棒棒糖，你要来一根吗？"
+            },
+            "asset": "char_112_siege/CN_043"
+        },
+        {
             "id": "char_112_siege_CN_044",
             "title": {
                 "en": "Anniversary Celebration",
@@ -615,8 +631,8 @@
             "global": "Ayako Kawasumi"
         },
         "kr": {
-            "native": "가빈",
-            "global": "Ga Bin"
+            "native": "오로아",
+            "global": "Oh Roah"
         }
     },
     "availability": [

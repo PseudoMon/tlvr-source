@@ -585,6 +585,22 @@
             "asset": "char_297_hamoni/CN_042"
         },
         {
+            "id": "char_297_hamoni_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "I'm not here unprepared, let me say that. It'd be incredibly rude of me to have forgotten the date. I'm sure the typical gift-giving fare wouldn't have piqued your interest, so I have some choice pieces of intel I assume you'll like—if, of course, you're willing to believe me.",
+                "jp": "何の用意もなしに来たわけではないわ、今日のことを忘れていたら職務怠慢だもの。ありきたりなプレゼントじゃあなたは興味を持たないと思うから、気に入りそうな情報をいくつか持ってきたの――私のことを信じてくれるなら、ね。",
+                "kr": "나도 아무런 준비 없이 온 건 아냐. 오늘이 무슨 날인지 잊어버렸다면, 그건 직무 태만이나 마찬가지인걸. 흔해 빠진 선물로는 네 관심을 끌 수 없을 것 같아서, 네가 마음에 들어 할 만한 정보 몇 가지를 가져왔어. 물론 박사가 날 믿어 줘야 하겠지만.",
+                "cn": "我并不是毫无准备而来，如果遗忘了今天，那会是我的失职。寻常的礼物必然不会引起你的兴趣，我猜你可能会喜欢这几条消息——如果你选择相信我的话。"
+            },
+            "asset": "char_297_hamoni/CN_043"
+        },
+        {
             "id": "char_297_hamoni_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

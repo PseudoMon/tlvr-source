@@ -585,6 +585,22 @@
             "asset": "char_128_plosis/CN_042"
         },
         {
+            "id": "char_128_plosis_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, people celebrate their own dates of birth. How do you wish to celebrate yours? Acknowledged. Increasing favor rating of Doctor. Error: Invalid operation. Cause of failure: favor rating is already at—maximum.",
+                "jp": "生日，人们庆祝自己诞生的日子，博士希望以何种形式庆祝？了解，将提升对博士的好感度。错误，对博士的好感度提升失败。失败原因：好感度已提升至——满值。",
+                "kr": "생일이란, 사람들이 자신의 탄생을 축하하는 날입니다. 박사님은 어떠한 방식으로 축하하고 싶으신가요? 알겠습니다. 박사님에 대한 호감도를 높이겠습니다. 오류 발생, 호감도 상승에 실패했습니다. 실패 원인, 호감도가 이미 최대치를 달성했습니다.",
+                "cn": "生日，人们庆祝自己诞生的日子，博士希望以何种形式庆祝？了解，将提升对博士的好感度。错误，对博士的好感度提升失败。失败原因：好感度已提升至——满值。"
+            },
+            "asset": "char_128_plosis/CN_043"
+        },
+        {
             "id": "char_128_plosis_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

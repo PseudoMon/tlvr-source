@@ -585,6 +585,22 @@
             "asset": "char_427_vigil/CN_042"
         },
         {
+            "id": "char_427_vigil_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Your birthday? Doctor, do you seriously celebrate things like that at your age? Alright then. We're partners, so I have to go along with this. Happy birthday. You want me to sing it? Don't push your luck.",
+                "jp": "誕生日？ドクター、その歳でまだ誕生日を祝うのか？……まあいい、仲間に気を配るのも俺の役目だ。誕生日おめでとう、ドクター。バースデーソングも歌ってほしいだと？あまり調子に乗るなよ。",
+                "kr": "생일? 아직까지도 생일을 챙기는 거야, 박사? 좋아, 파트너의 기분을 맞춰주는 것도 내 일이긴 하지. 생일 축하한다…… 생일 축하 노래도 불러달라고? 적당히 해.",
+                "cn": "生日？博士，你这个年纪还会庆祝生日吗？好吧，适当关怀合作伙伴也是我的责任。祝你生日快乐。生日快乐歌？别得寸进尺。"
+            },
+            "asset": "char_427_vigil/CN_043"
+        },
+        {
             "id": "char_427_vigil_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

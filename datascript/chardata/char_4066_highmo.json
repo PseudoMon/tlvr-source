@@ -585,6 +585,22 @@
             "asset": "char_4066_highmo/CN_042"
         },
         {
+            "id": "char_4066_highmo_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Look at this mountain of gift boxes. They symbolize everyone around you who treasures you. And I add: this, my present to you. I'm so glad these petals and pearls my mother gave me didn't fade with time, just like how she taught me to string flower garlands.",
+                "jp": "山積みになったプレゼントは、あなたを大切に思っている一人一人の象徴です。そして、これが私からのプレゼントです。母が私に託した花びらや真珠が、歳月によって色褪せていなくて幸いでした。母から教わったフラワーリースの作り方と同じように、鮮やかなままです。",
+                "kr": "여기 산처럼 쌓인 이 선물들은 당신을 소중히 여기는 한 사람 한 사람을 상징한답니다. 그리고 이건 제가 당신에게 주는 선물이에요. 어머니께서 주신 꽃잎과 진주가 세월의 흐름에 퇴색되지 않아서 다행이에요. 마치 어머니께서 가르쳐 주신, 화환을 만드는 방법이 녹슬지 않은 것처럼요.",
+                "cn": "看看这些堆成小山的礼物盒，它们象征着身边每一个珍视你的人。以及，这一份是我要送给你的礼物。我很庆幸母亲交给我的这些花瓣和珍珠没有因岁月而失色，就像她教给我的花环编织手艺一样。"
+            },
+            "asset": "char_4066_highmo/CN_043"
+        },
+        {
             "id": "char_4066_highmo_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

@@ -553,6 +553,22 @@
             "asset": "char_1001_amiya2/CN_042"
         },
         {
+            "id": "char_1001_amiya2_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Does it feel strange at all to celebrate a birthday that you don't remember? Does it... feel like... that's not you? It doesn't? Thank goodness. Doctor, I'd like to take out my violin and give it another try. Perhaps this time I won't break any strings.",
+                "jp": "庆祝一个自己不记得的生日，会觉得奇怪吗？会觉得......那好像不是自己吗？......不会吗？那就太好了。博士，我想再把小提琴取出来试试，也许今天我不会弄断琴弦了。",
+                "kr": "자신이 기억하지 못하는 생일을 축하하는 건 이상할까요? 혹시…… 자기가 자신이 아닌 것처럼 느껴지진 않나요? ……아니라고요? 다행이에요. 박사님, 저 바이올린을 다시 한번 켜고 싶어요. 아마 오늘이라면 현을 끊어뜨리진 않을 것 같아요.",
+                "cn": "庆祝一个自己不记得的生日，会觉得奇怪吗？会觉得......那好像不是自己吗？......不会吗？那就太好了。博士，我想再把小提琴取出来试试，也许今天我不会弄断琴弦了。"
+            },
+            "asset": "char_1001_amiya2/CN_043"
+        },
+        {
             "id": "char_1001_amiya2_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

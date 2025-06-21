@@ -585,6 +585,22 @@
             "asset": "char_4039_horn/CN_042"
         },
         {
+            "id": "char_4039_horn_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "What rite should I be celebrating your birthday by? I don't believe you to be fond of drinking parties, so I'll sing for you, then. This is a small little ceremonial from back in the Tempest Platoon.",
+                "jp": "どういった方法であなたの誕生日を祝うのがよいでしょうか？ドクターが酒盛りを好むとは思えませんし、歌にしましょうか。これはかつての第二テンペスト特攻隊での習慣です。",
+                "kr": "박사님의 생일을 어떤 식으로 축하해 드리면 좋을까요? 술을 곁들인 파티 같은 건 좋아하지 않으실 것 같으니, 노래를 불러 드리겠습니다. 폭풍돌격대의 소소한 의식들도 이런 식이였거든요.",
+                "cn": "我该用哪一种礼仪为您庆祝生日？我不认为您喜欢酒会，那就为您唱首歌吧。这是以前风暴突击队的小小仪式。"
+            },
+            "asset": "char_4039_horn/CN_043"
+        },
+        {
             "id": "char_4039_horn_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

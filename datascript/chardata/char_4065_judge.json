@@ -585,6 +585,22 @@
             "asset": "char_4065_judge/CN_042"
         },
         {
+            "id": "char_4065_judge_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, is today your birthday? I'll skip the serious business for now, so just enjoy this day to yourself. If you have nothing to do, I could tell you about some of Siracusa's osterie?",
+                "jp": "ドクター、今日が誕生日なんですか？ではもうお堅い業務の話はやめておきますので、どうぞゆっくりお休みください。どうしても手持ち無沙汰であれば、シラクーザのとある小料理屋のお話でも如何でしょうか？",
+                "kr": "오늘이 생일이신가요, 박사님? 그럼 더이상 딱딱한 일 얘기는 하지 않을 테니, 오늘은 푹 쉬시지요. 정말 할 일이 없으신 거라면, 시라쿠사의 레스토랑을 소개해 드릴 수 있는데, 어떠신가요?",
+                "cn": "博士，今天是您的生日？现在起我不会谈任何严肃的事务，好好休息一天吧。实在无所事事的话，听我说说叙拉古的小餐馆怎么样？"
+            },
+            "asset": "char_4065_judge/CN_043"
+        },
+        {
             "id": "char_4065_judge_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

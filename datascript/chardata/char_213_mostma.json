@@ -561,7 +561,7 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "TBU",
+                "en": "This day used to be like any other for me. Wouldn't stop long at any one place, wouldn't form any serious friendships, wouldn't have fun like everyone else. I never imagined I'd enjoy the holiday atmosphere here. I gotta admit, it isn't half bad. Happy New Year, Doctor, hope we all enjoy it.",
                 "jp": "これまでは、私にとって新年は普通の日と何も変わらなかったんだ。同じところに長く留まることはないし、周りの人たちと深く付き合うつもりもなかった。どれだけ賑やかでも……自分とは関係ないと思ってたよ。だから、こうやって年越し気分が味わえる日が来るのは予想外かな。なかなか悪くないね。明けましておめでとう、ドクター。",
                 "kr": "지금껏 나에게 새해는 평범한 날이랑 전혀 다르지 않았어. 같은 곳에 오래 머무는 일도 없고, 주위 사람들과 친하게 지낼 생각도 없었거든. 아무리 떠들썩해도…… 나와는 상관없다고 생각했었지. 그래서 이렇게 해를 넘기는 기분을 맛볼 수 있는 날이 올 거라고는 생각도 못 했어. 제법 나쁘지 않네. 새해 복 많이 받아. 박사.",
                 "cn": "以前，这个日子对我来说和平时别无二致，不会过多停留的地方，不打算深交的人，他们所有的热闹......都与我无关。我从没想过我也会有体会到节日氛围的一天，这感觉不坏。新年快乐，博士。"
@@ -585,6 +585,22 @@
             "asset": "char_213_mostma/CN_042"
         },
         {
+            "id": "char_213_mostma_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "So today's your birthday, Doctor. Happy birthday. Would you take an incredible story from my travels as a present? I guess not... alright, how about we take a trip together? I'll pick the scenery, you choose the time.",
+                "jp": "今天是博士的生日啊。生日快乐。一段精彩的旅行故事可以作为生日礼物吗？似乎不行啊......那么，一段与你共度的旅行怎么样？我会挑选景色，由你来决定时间。",
+                "kr": "오늘 박사 생일이지? 생일 축하해. 선물로는 음, 내가 여행하며 경험한 재미있는 추억 이야기를 말해줘도 되려나? 안 되겠지…… 그렇다면, 나와 함께 여행 가지 않을래? 목적지는 내가 고를 테니까, 시간은 박사가 정하는 거야.",
+                "cn": "今天是博士的生日啊。生日快乐。一段精彩的旅行故事可以作为生日礼物吗？似乎不行啊......那么，一段与你共度的旅行怎么样？我会挑选景色，由你来决定时间。"
+            },
+            "asset": "char_213_mostma/CN_043"
+        },
+        {
             "id": "char_213_mostma_CN_044",
             "title": {
                 "en": "Anniversary Celebration",
@@ -593,7 +609,7 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "TBU",
+                "en": "The more dangerous the place, the more enchanting the views get. Once you make it through every layer of danger, to finally stand in the eye of a Catastrophe, you're a part of the scenery yourself. In the end, where will you lead Rhodes Island, Doctor? I'm still dying to see.",
                 "jp": "危険な場所であるほど、魅力的な景色を見つけられるものでね。いくつもの困難を乗り越えて、最終的に天災の真っただ中に身を置く時、自分もその景色の一部になるのさ。ドクター、果たして君はロドスをどこへ導くのかな？とても楽しみにしているよ。",
                 "kr": "위험한 장소일수록 매력적인 경치를 찾을 수 있는 법. 겹겹이 쌓인 어려움을 극복하고, 재앙 한가운데에 몸을 두면, 너 자신도 그 경치의 일부가 될 수 있어. 박사, 넌 과연 이 로도스 아일랜드를 어디로 이끌까? 난 그게 너무 기대돼.",
                 "cn": "越是危险的地方，越是能找到迷人的风景。当你跨过了层层险阻，最终置身于天灾中央时，也就成为了风景的一部分。博士，您最终会带领罗德岛驶向何处呢？我依然十分期待哦。"

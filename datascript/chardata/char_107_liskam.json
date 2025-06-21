@@ -585,6 +585,22 @@
             "asset": "char_107_liskam/CN_042"
         },
         {
+            "id": "char_107_liskam_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, watch out for Franka's birthday gift. Not one gift she's ever given me has been normal. A two-meter steel sword, a pair oversized paw-shaped woolly slippers... I mean, these quirky presents are clearly up to something! She must be expecting to see me make a fool of myself. Anyway, my present was picked out in earnest. Here, a solar-powered flashlight.",
+                "jp": "博士，小心芙兰卡的生日礼物，她之前给我送的东西没有一样是正常的，两米长的钢刀，兽爪形状的超大毛绒鞋，不是礼物，是专门想看我出丑才送的吧！我的是真心实意挑选的，给，太阳能手电筒。",
+                "kr": "박사님, 프란카가 준 선물은 조심해야 해요. 걔가 저한테 줬던 물건 중엔 어느 것 하나 정상적인 게 없었거든요. 2미터나 되는 강철 칼에, 비스트 발 모양의 초대형 털신…… 으으, 그건 그냥 제가 망신당하는 꼴을 보고 싶어서 준 게 분명해요! 하지만 이건 제가 진심으로 고민해 가며 고른 거예요. 여기요, 태양열 랜턴이에요.",
+                "cn": "博士，小心芙兰卡的生日礼物，她之前给我送的东西没有一样是正常的，两米长的钢刀，兽爪形状的超大毛绒鞋，不是礼物，是专门想看我出丑才送的吧！我的是真心实意挑选的，给，太阳能手电筒。"
+            },
+            "asset": "char_107_liskam/CN_043"
+        },
+        {
             "id": "char_107_liskam_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

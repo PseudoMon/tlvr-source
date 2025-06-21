@@ -585,6 +585,22 @@
             "asset": "char_4098_vvana/CN_042"
         },
         {
+            "id": "char_4098_vvana_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Come read with me, Doctor. Ever since I came here, I've rarely found myself so agitated that I couldn't read. Oh, right. If you find any books that interest you, please feel free to take them when you leave, even though you gave me plenty of them... Happy birthday, Doctor.",
+                "jp": "お誕生日おめでとうございます、ドクター。少し読書に付き合ってくださいな。ロドスに来てからというもの、心がざわついて本を読めないということはほとんどなくなりました。ああそうだ、もしお好きな本があれば、どれでもお持ちになって結構ですよ。あなたにいただいたものも多いですけどね。",
+                "kr": "잠시 저와 같이 책을 읽지 않으시겠어요? 로도스 아일랜드에 온 이후론, 독서 중에 방해받는 일이 거의 없어서 좋아요. 아, 혹시 박사님께서 마음에 드는 책이 있으시다면 가져가셔도 좋습니다. 몇 권은 박사님께서 저한테 주신 거지만요…… 아, 생일 축하해요, 박사님.",
+                "cn": "陪我看会儿书吧。来到这里后，我已经很少会烦躁得无法阅读了。哦对了，要是喜欢哪本，你离开的时候都可以带走，虽然有不少还是你送我的......生日快乐，博士。"
+            },
+            "asset": "char_4098_vvana/CN_043"
+        },
+        {
             "id": "char_4098_vvana_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

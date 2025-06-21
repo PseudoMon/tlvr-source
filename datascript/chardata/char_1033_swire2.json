@@ -67,7 +67,7 @@
             "text": {
                 "en": "Ahem... I've taken a glance at our recent mission records. Looks like Rhodes Island's tactics have got more professional over the past few years. Not bad, not bad... Excuse me?! What's wrong with your former training consultant checking your operators' records? I absolutely have not been looking at Ch'en's files!",
                 "jp": "コホンッ……最近の作戦記録をチェックしてみたけど、ここ何年かでロドスの戦術も洗練されてきたみたいね。なかなかやるじゃない……はぁ？元々教官だったアタシが記録を見るのは普通でしょ？ちょっ、チェンの情報なんか覗いていないわよ！",
-                "kr": "크흠…… 최근의 작전 기록을 체크해 봤는데, 로도스 아일랜드의 전술도 전보다 더 세련되어진 것 같네. 나쁘지 않아…… 뭐야? 훈련 고문을 맡았던 내가 작전 기록을 좀 보겠다는데 무슨 문제라도 있어? 첸 그 녀석의 자료 따윈 본 적 없거든!",
+                "kr": "크흠…… 최근의 작전기록을 체크해 봤는데, 로도스 아일랜드의 전술도 전보다 더 세련되어진 것 같네. 나쁘지 않아…… 뭐야? 훈련 고문을 맡았던 내가 작전기록을 좀 보겠다는데 무슨 문제라도 있어? 첸 그 녀석의 자료 따윈 본 적 없거든!",
                 "cn": "咳......检查了一下最近的行动记录，看得出这几年来，罗德岛的战术也更专业了，不错不错......哈？作为曾经的训练顾问看看任务记录不是很正常吗？我才没有偷看陈的资料！"
             },
             "asset": "char_1033_swire2/CN_004"
@@ -583,6 +583,22 @@
                 "cn": "早上好啊......嗯？就是普通的问候，你在期待什么？嗷呜？"
             },
             "asset": "char_1033_swire2/CN_042"
+        },
+        {
+            "id": "char_1033_swire2_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor! Over the last two years, I've come to realize more and more that only shallow friendships need all that shallow pretense to maintain, so I didn't get you anything this year. Doctor, take a day off. If there's anything you want to do or anywhere you want to go, I'll come with you.",
+                "jp": "誕生日おめでとう、ドクター！ここ数年ね、薄っぺらい関係であればあるほど、小手先のもので関係維持をするんだって感じるのよね。だから今年はプレゼントを用意してないわよ。ドクター、今日は休みを取ったらどう？行きたい場所とか、やりたい遊びがあったら、何でも付き合ってあげるわよ。",
+                "kr": "생일 축하해, 박사! 요즘 들어 느끼는 건데, 가벼운 관계일수록 시간과 에너지를 더 써야 유지할 수 있는 것 같아. 그래서 올해는 생일 선물을 따로 준비하지 않았어. 그 대신 박사, 오늘은 하루 쉬는 게 어때? 가고 싶은 곳이나 하고 싶은 게 있다면 내가 함께해 줄게.",
+                "cn": "生日快乐博士！这两年逐渐觉得，越是泛泛之交，才越需要表面功夫维系关系，所以今年没有准备礼物哦。博士，给自己放一天假吧，有什么想去的地方或是想玩的，我陪你去。"
+            },
+            "asset": "char_1033_swire2/CN_043"
         },
         {
             "id": "char_1033_swire2_CN_044",

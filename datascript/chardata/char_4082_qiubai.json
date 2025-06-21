@@ -585,6 +585,22 @@
             "asset": "char_4082_qiubai/CN_042"
         },
         {
+            "id": "char_4082_qiubai_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, I recently made a trip back to Yan, and brought this for you... It's just rice wine from the common folk of Jiangnan. It's not meant to be a keepsake. Pop open the seal, and let's share a drink or two.",
+                "jp": "ドクター、先日炎国へ一度帰郷してきたんです。これをどうぞ……江南の民家が自家醸造している米の酒です。取っておくほどではないですよ、開けてしまいましょう。何杯か付き合いますよ。",
+                "kr": "최근 염국에 한 번 다녀왔습니다. 박사님, 이걸 받아 주세요…… 강가 아래 지역의 평범한 백성이 빚은 쌀로 만든 술입니다. 소장할 정도의 물건은 아니니, 지금 열도록 하죠. 저도 몇 잔 같이 마셔 드리겠습니다.",
+                "cn": "博士，我最近回了趟炎国，这个送你......不过是江南百姓自己酿的米酒而已。没必要收藏了，开了封，我陪你喝几杯。"
+            },
+            "asset": "char_4082_qiubai/CN_043"
+        },
+        {
             "id": "char_4082_qiubai_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

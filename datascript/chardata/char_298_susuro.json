@@ -195,7 +195,7 @@
             "text": {
                 "en": "I must make more copies of these battle notes for Myrrh and company.",
                 "jp": "ふむ、この作戦記録のメモはコピーして、ミルラたちにも見せてあげよう。",
-                "kr": "흠…… 이 작전 기록 메모는, 복사해서 미르 쪽에도 보여줘야겠다.",
+                "kr": "흠…… 이 작전기록 메모는, 복사해서 미르 쪽에도 보여줘야겠다.",
                 "cn": "嗯，这些作战记录的笔记我得多抄录几份，给末药她们带去。"
             },
             "asset": "char_298_susuro/CN_012"
@@ -583,6 +583,22 @@
                 "cn": "博士，你好。"
             },
             "asset": "char_298_susuro/CN_042"
+        },
+        {
+            "id": "char_298_susuro_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, happy birthday. I made you a cylinder cake—they seem popular lately. You don't need to hide it, I figured you'd be rolling in cakes today long beforehand... Anyway, don't eat too much, whatever you do! Watch your sugar intake!",
+                "jp": "博士生日快乐，这是我做的针筒蛋糕，最近好像挺流行的。不用藏啦，我早就能猜到，博士您今天一定会蛋糕大丰收的......咳，总之，千万别吃太多，注意糖的摄入量！",
+                "kr": "박사, 생일 축하해. 이건 내가 만든 주사기 케이크야, 요새 유행하는 것 같더라고. 숨기지 않아도 돼, 오늘 박사는 케이크가 풍년이 될 거라 당연히 예상했지…… 크흠, 그래도 너무 많이 먹지는 마, 당분 섭취 양을 주의하라고!",
+                "cn": "博士生日快乐，这是我做的针筒蛋糕，最近好像挺流行的。不用藏啦，我早就能猜到，博士您今天一定会蛋糕大丰收的......咳，总之，千万别吃太多，注意糖的摄入量！"
+            },
+            "asset": "char_298_susuro/CN_043"
         },
         {
             "id": "char_298_susuro_CN_044",

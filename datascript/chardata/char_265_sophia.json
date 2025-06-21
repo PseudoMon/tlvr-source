@@ -585,6 +585,22 @@
             "asset": "char_265_sophia/CN_042"
         },
         {
+            "id": "char_265_sophia_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor. I got you a little gift. Sign right here. It's not a big plot, but I picked the location with care. The scenery is gorgeous. You could build a villa, or garden or something… What? Why are you looking at me like that? Is land not an appropriate birthday present for a friend?",
+                "jp": "生日快乐博士。一点小礼物，喏，在这签个名吧。地方不算太大，但位置是我精心挑的，风景不错。可以建栋别墅，或者花圃什么的——嗯？干嘛这么看着我。朋友过生日的时候送一块地很奇怪吗？",
+                "kr": "생일 축하해, 박사. 작지만 내 성의니까 받아줘. 자, 그럼 여기에 사인하고~ 장소가 넓은 편은 아니지만, 위치는 내가 신경 써서 고른 거라, 풍경도 나쁘지 않을 거야. 별장을 짓거나 화단을 꾸며도 좋으니까…… 응? 왜 그렇게 쳐다보는 거야? 친구 생일에 땅 정도는 다 선물하잖아, 아니야?",
+                "cn": "生日快乐博士。一点小礼物，喏，在这签个名吧。地方不算太大，但位置是我精心挑的，风景不错。可以建栋别墅，或者花圃什么的——嗯？干嘛这么看着我。朋友过生日的时候送一块地很奇怪吗？"
+            },
+            "asset": "char_265_sophia/CN_043"
+        },
+        {
             "id": "char_265_sophia_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

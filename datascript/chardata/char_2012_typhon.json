@@ -585,6 +585,22 @@
             "asset": "char_2012_typhon/CN_042"
         },
         {
+            "id": "char_2012_typhon_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "I helped you find a safe spot. Trees, water from freshly melted snow, the rotting flesh of beasts buried in the soil—you have to thank them for joining your spirit and letting you walk on this land. Come, take my hand.",
+                "jp": "ちょうどいい場所を見つけてきたぞ。あそこなら安全だ。木々や雪水、土に還った獣の血肉、これらから溢れるエネルギーは叡智を授けてくれる。おかげで人は立ち上がり、大地を歩めるようになったんだ。しっかり感謝するんだぞ。さあ、行こうか。わたしの手を取って。",
+                "kr": "널 위해 안전한 곳을 찾아뒀어. 나무, 눈 녹은 물, 흙으로 돌아간 짐승의 피와 살, 그것들이 네게 가져다준 기운에 감사하도록 해. 그 덕분에 네가 대지에서 걸어 다닐 수 있으니까 말이야. 자, 가자. 내 손을 잡아.",
+                "cn": "我帮你找到了安全的地方。树木，雪水，腐烂于泥土的兽的血肉，你要感谢它们结成了你的灵性，让你起身在大地上行走。走吧，抓好我的手。"
+            },
+            "asset": "char_2012_typhon/CN_043"
+        },
+        {
             "id": "char_2012_typhon_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

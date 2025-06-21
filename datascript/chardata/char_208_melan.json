@@ -521,6 +521,22 @@
             "asset": "char_208_melan/CN_042"
         },
         {
+            "id": "char_208_melan_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, thank you for all the care and encouragement you've given me. This is a present from me... some refreshing fragrances. I've already tried them, they don't clash when mixed together. So you can blend them however you like…",
+                "jp": "博士，感谢您一直以来的关心和督促，这是我准备的礼物......一些可以提神的香料。我已经实验过了，任意几种搭配在一起都不会有相冲的效果，您可以按照自己的喜好随意制作......",
+                "kr": "박사님, 항상 신경 써주시고 지도해 주셔서 감사드려요. 제가 마음을 담아 선물을 준비했는데…… 이건 정신을 차릴 수 있게 도와주는 향료 세트예요. 향료를 어떻게 조합하든 효과는 걱정 안 해도 될 거예요. 제가 먼저 실험해 봤거든요…… 박사님 취향에 맞춰 좋아하는 향으로 조합해 보시는 게 좋을 거 같아요.",
+                "cn": "博士，感谢您一直以来的关心和督促，这是我准备的礼物......一些可以提神的香料。我已经实验过了，任意几种搭配在一起都不会有相冲的效果，您可以按照自己的喜好随意制作......"
+            },
+            "asset": "char_208_melan/CN_043"
+        },
+        {
             "id": "char_208_melan_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

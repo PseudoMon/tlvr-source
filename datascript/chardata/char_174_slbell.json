@@ -585,6 +585,22 @@
             "asset": "char_174_slbell/CN_042"
         },
         {
+            "id": "char_174_slbell_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "So—how does it taste? Nice and cool, isn't it? It's my own handmade frosted chocolate. Do you like it? Good, that's a relief, I really spent a lot of time studying it.",
+                "jp": "嗯——味道怎么样？是不是凉凉的？这是我亲手做的霜雪巧克力，很美味吧？喜欢吗？啊啊，那就好，不枉我研究了那么久呢。",
+                "kr": "드셔보세요…… 맛이 어떠신가요? 직접 만든 파우더 스노우 초콜릿이에요. 식어도 맛있죠? 좋아해 주셨으면 좋겠어요. 오랜 시간 공들여 연구한 보람이 있었네요.",
+                "cn": "嗯——味道怎么样？是不是凉凉的？这是我亲手做的霜雪巧克力，很美味吧？喜欢吗？啊啊，那就好，不枉我研究了那么久呢。"
+            },
+            "asset": "char_174_slbell/CN_043"
+        },
+        {
             "id": "char_174_slbell_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

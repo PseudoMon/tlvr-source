@@ -585,6 +585,22 @@
             "asset": "char_179_cgbird/CN_042"
         },
         {
+            "id": "char_179_cgbird_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, happy birthday. You still remember your own birthday... how fortunate, truly. Alas, I can't procure any present for you... Would you tell me what your birthday wishes are, Doctor? Your wishes may bring hope to me.",
+                "jp": "博士，生日快乐。您还记得自己的生日，真是一件幸运的事呢。只是很可惜，我没办法为您准备什么礼物......博士，可以告诉我您的生日愿望吗？您的愿望，也可以为我带来希望。",
+                "kr": "생일 축하드려요, 박사님. 자신의 생일을 기억한다는 건 정말 행운이나 다름없는 일 같아요. 아쉽지만 저로선 박사님의 선물을 준비할 수 없었어요. 정말 죄송합니다…… 박사님, 혹시 박사님의 생일 소원을 제게 알려 주실 수 있으실까요? 박사님의 소원은 저에게도 새로운 희망을 가져다주니까요.",
+                "cn": "博士，生日快乐。您还记得自己的生日，真是一件幸运的事呢。只是很可惜，我没办法为您准备什么礼物......博士，可以告诉我您的生日愿望吗？您的愿望，也可以为我带来希望。"
+            },
+            "asset": "char_179_cgbird/CN_043"
+        },
+        {
             "id": "char_179_cgbird_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

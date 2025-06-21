@@ -585,6 +585,22 @@
             "asset": "char_322_lmlee/CN_042"
         },
         {
+            "id": "char_322_lmlee_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor. Eh? How did I know it was today? Haha, how could I forget? You're one of my biggest clients, a little human touch is the least I could... Okay, okay, no more jokes, Dr.{@nickname}. Go ahead, please, accept this meager token. Friendship is friendship, and we're past all that other stuff.",
+                "jp": "生日快乐博士，欸，我怎么记得？哈哈，这怎么能忘呢？您可是大客户，这点人情还是得......不开玩笑了，Dr.{@nickname}，一点心意，还请收下。人情是人情，你我是你我。",
+                "kr": "생일 축하합니다, 박사님. 아, 기억하고 있을 줄 몰랐다고요? 하하, 잊을 리 있겠습니까? 박사님은 단골손님인걸요. 이 정도 성의는 보이는 게 오히려 당연한 이치겠지요…… 뭐, 농담은 이쯤 하고, {@nickname} 박사님. 제 작은 선물입니다, 받아 주세요. 세상의 이치는 세상의 이치이고, 우리는 우리니까요.",
+                "cn": "生日快乐博士，欸，我怎么记得？哈哈，这怎么能忘呢？您可是大客户，这点人情还是得......不开玩笑了，Dr.{@nickname}，一点心意，还请收下。人情是人情，你我是你我。"
+            },
+            "asset": "char_322_lmlee/CN_043"
+        },
+        {
             "id": "char_322_lmlee_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

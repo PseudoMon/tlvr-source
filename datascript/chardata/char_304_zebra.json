@@ -561,7 +561,7 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "TBU",
+                "en": "Doctor, Happy New Year. Since I came to Rhodes Island, you have cared much for me, but you've never expressed gratitude to me. So today, at the very least, I want to sincerely thank you. (Th-There, I said it! I… I didn't mess up, did I?)",
                 "jp": "ドクター、明けましておめでとうございます。ロドスに来てからたくさんお世話になっていたのに、今までドクターに感謝を言われたことがありませんでした。ですから今日くらいは、ちゃんと伝えたくて。（い、言えました！ま、間違えたりしてないですよね？）",
                 "kr": "박사님, 새해 복 많이 받으세요. 로도스 아일랜드에 온 후로 이렇게나 신세 지고 있는데, 박사님께서 아직 감사하다는 인사를 하신 적이 없었더라고요. 그래서 오늘 제대로 전달하고 싶었어요. 박사님 고맙습니다. (앗, 말…… 말했다! 틀리게 말하거나 하진 않았겠죠?)",
                 "cn": "博士，新年快乐。来到罗德岛后，受到了您很多照顾，但是您一直都没有对我说过感谢，所以至少今天，我想好好感谢博士。（说，说完了！我、我没背错吧？）"
@@ -585,6 +585,22 @@
             "asset": "char_304_zebra/CN_042"
         },
         {
+            "id": "char_304_zebra_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "(The Doctor is so popular. Would someone of such stature really need a gift from someone like me…? But I really do want to give one…) Oh, what am I holding? Well, um, it's a gift. Please, accept it! Happy birthday!",
+                "jp": "（博士这么受欢迎，真的需要我这样的人送出的礼物吗......但是，我好想给博士送礼物......）欸，我手里的东西？啊，这、这是，这是礼物，请收下！生日快乐！",
+                "kr": "(박사님은 인기가 많으시니, 저같은 애가 주는 선물은 필요 없으시겠죠…… 그래도, 박사님한테 선물 드리고 싶은데……) 앗? 들고 있는 게 뭐냐고요? 아 그게 이건, 선물이에요! 받아주세요! 생일 축하드려요!",
+                "cn": "（博士这么受欢迎，真的需要我这样的人送出的礼物吗......但是，我好想给博士送礼物......）欸，我手里的东西？啊，这、这是，这是礼物，请收下！生日快乐！"
+            },
+            "asset": "char_304_zebra/CN_043"
+        },
+        {
             "id": "char_304_zebra_CN_044",
             "title": {
                 "en": "Anniversary Celebration",
@@ -593,7 +609,7 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "TBU",
+                "en": "(They're all surrounding the Doctor. That is to be expected, considering the Doctor's popularity… Oh, the Doctor is waving at me. Is there something behind me? Huh, the Doctor is coming over…) Ehhh, should I join in the festivities…? Alright.",
                 "jp": "（ドクターが皆さんに囲まれています。さすがドクター、やっぱり人気ですね……あれ、こっちを見て手招きをしている。この辺りに何かあるのでしょうか？あ、こっちに近付いて来ている……）え？私も一緒にパーティーに参加するんですか？……喜んで。",
                 "kr": "(박사님이 다른 분들에게 둘러싸여 있네요. 역시 박사님의 인기란…… 앗,박사님이 저한테 손짓하시는 거 같은데. 제 근처에 뭐라도 있는 걸까요? 앗, 박사님이 왜 이쪽으로……) 네? 저도 같이 파티에 가자고요? ……좋아요.",
                 "cn": "（博士被大家围住了，不愧是博士，真受欢迎......欸，博士冲我这边招手了，我这边有什么东西吗？欸，博士走过来了......）欸？我也要一起参加宴会吗？......好。"

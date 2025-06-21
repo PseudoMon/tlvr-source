@@ -585,6 +585,22 @@
             "asset": "char_172_svrash/CN_042"
         },
         {
+            "id": "char_172_svrash_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Oh? Does my appearance aboard Rhodes Island today surprise you? The journey here from Kjerag certainly was an extensive one, but you shouldn't underestimate the fellowship between us so. Happy birthday, my ally and my friend. This present aside, do you have any birthday wishes?",
+                "jp": "哦？我今天出现在罗德岛令你很惊讶吗？这趟从谢拉格到罗德岛的行程的确漫长，但你也不该如此低估你我之间的友谊。生日快乐，我的朋友。除了这份礼物之外，你还有什么生日愿望吗？",
+                "kr": "음? 내가 오늘 로도스 아일랜드에 나타나서 놀란 건가? 쉐라그에서 로드스 아일랜드로 오는 여정이 길긴 하지만, 우리 사이의 우정을 그렇게 과소평가해서는 안 되지. 생일 축하한다, 나의 맹우여. 이 선물 외에 또 다른 생일 소원이 있나?",
+                "cn": "哦？我今天出现在罗德岛令你很惊讶吗？这趟从谢拉格到罗德岛的行程的确漫长，但你也不该如此低估你我之间的友谊。生日快乐，我的朋友。除了这份礼物之外，你还有什么生日愿望吗？"
+            },
+            "asset": "char_172_svrash/CN_043"
+        },
+        {
             "id": "char_172_svrash_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

@@ -561,7 +561,7 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "TBU",
+                "en": "My horns look especially good today? Thank you. It was my sister who insisted on giving me horn care. I might as well assume that such things bring good luck for the new year. Having experienced a variety of customs, people's feelings when praying for new beginnings are always similar.",
                 "jp": "今日は一段と角が綺麗だって？お褒めに預かり嬉しいよ。うちのおちびちゃんが手入れをするって言って譲らなくてね。まあ、これで新しい一年に幸運が訪れると信じることにするさ。これまで各地で様々な風習を見てきたけど、人々が新しいことの始まりに願いを込めたいと思うのはどこも同じだ。",
                 "kr": "내 뿔이 오늘 유독 더 예뻐 보인다고? 고마워. 우리 꼬맹이가 오늘 꼭 손질해야 한다고 고집을 부려서 관리를 좀 했지. 이걸로 새로운 한 해에 행운이 찾아오리라 믿어보지 뭐. 그동안 다양한 곳에서 여러 풍습을 살펴봤지만, 새로운 시작에 새로운 소원을 비는 건 어디나 마찬가지인 것 같더군. 박사도 새해 복 많이 받아.",
                 "cn": "我的角今天看起来格外好看？谢谢。是我妹妹非要给我做角部护理的。我姑且相信这样做可以给新的一年带来好运吧。见识过了各种各样的习俗，人们为新的开始祈愿的心情总是相似的。"
@@ -585,6 +585,22 @@
             "asset": "char_426_billro/CN_042"
         },
         {
+            "id": "char_426_billro_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor. I am not one to play the sycophant on such occasions, but I'm willing to offer you a gift as a friend. This gramophone is for you, and when next I travel between Rhodes Island and Leithanien, I'll be sure to back some records.",
+                "jp": "生日快乐，博士。我厌恶在这种场合向上司谄媚，但我愿意作为朋友向你送出礼物。这个唱片机送给你，以后在罗德岛与莱塔尼亚之间往返时，我会经常带一些唱片回来的。",
+                "kr": "생일 축하해, 박사. 이런 날 상사에게 아첨하는 건 딱 질색이지만, 이건 친구로서 선물하는 거니 받아줘. 턴테이블이야. 앞으로 라이타니엔에서 로도스 아일랜드로 복귀할 때마다 레코드판을 선물로 가져다줄게.",
+                "cn": "生日快乐，博士。我厌恶在这种场合向上司谄媚，但我愿意作为朋友向你送出礼物。这个唱片机送给你，以后在罗德岛与莱塔尼亚之间往返时，我会经常带一些唱片回来的。"
+            },
+            "asset": "char_426_billro/CN_043"
+        },
+        {
             "id": "char_426_billro_CN_044",
             "title": {
                 "en": "Anniversary Celebration",
@@ -593,7 +609,7 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "TBU",
+                "en": "Rhodes Island is a partner that keeps its promises, but true partners need connections deeper than contracts. No, Beeswax has grown up, and her relationship with Rhodes Island is her own business. What we are discussing now is between you and me.",
                 "jp": "ロドスは信頼できるパートナーだよ。でも本当の仲間というものには、契約以外にも何らかの繋がりが必要だ。いや、ビーズワクスのことではないよ。あの子も、もう子供じゃないからね、ロドスとの付き合い方は自分で決めればいい。今話しているのは私と君のことだよ。",
                 "kr": "로도스 아일랜드는 신뢰할 수 있는 파트너야. 하지만 진정한 파트너 사이엔 계약 이외에 다른 연결고리가 필요한 법이지. 아니, 비즈왁스를 말하는 게 아니야. 그 아이도 이제 어린아이가 아니니, 모든 건 그 아이의 선택에 달렸지. 난 지금 나와 널 말하는 거야, 박사.",
                 "cn": "罗德岛是一个信守诺言的合作伙伴，但是真正的伙伴，需要一些契约之外的联系。不，蜜蜡已经长大了，她与罗德岛的关系应该是她自己的事。我们现在谈论的，是我与你的事。"

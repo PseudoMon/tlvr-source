@@ -553,6 +553,22 @@
             "asset": "char_278_orchid/CN_042"
         },
         {
+            "id": "char_278_orchid_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Present time. I picked out a color-changing lipstick, one that goes from transparent to light pink. Even if you aren't in any makeup, it'll give you some complexion. I wasn't sure what kind you'd like, so I went the one I use, a fruit flavor. How about you give it a try...? No, no, Doctor, no licking once it's on.",
+                "jp": "礼物，我专门选的变色唇膏，涂上以后就会由透明转为淡淡的粉色，就算没有化妆也会显得有气色。不知道博士喜欢哪种，我就选了自己最常用的那一款果味的，试试看？......涂完不许舔！",
+                "kr": "선물이야, 내가 특별히 박사를 위해 골라봤어. 이 립밤, 처음 바르면 아무 색깔도 없거든? 근데 점점 은은한 분홍색으로 바뀔 거야. 그럼 화장을 따로 안 해도 지금보다 안색이 좋아 보일 거야. 박사가 어떤 걸 좋아할지 몰라서, 우선은 내가 가장 자주 쓰는 과일향으로 골라봤는데, 지금 한 번 발라볼래? ……립밤을 바르고 핥으면 안 되지!",
+                "cn": "礼物，我专门选的变色唇膏，涂上以后就会由透明转为淡淡的粉色，就算没有化妆也会显得有气色。不知道博士喜欢哪种，我就选了自己最常用的那一款果味的，试试看？......涂完不许舔！"
+            },
+            "asset": "char_278_orchid/CN_043"
+        },
+        {
             "id": "char_278_orchid_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

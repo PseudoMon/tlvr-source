@@ -585,6 +585,22 @@
             "asset": "char_446_aroma/CN_042"
         },
         {
+            "id": "char_446_aroma_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Perfume? Why would I give you perfume? Hehe, your scent shouldn't be covered by any other smell, Doctor. It’s natural and pleasing, much more so than any perfume I could mix.",
+                "jp": "フレグランス？どうして私がそれをプレゼントすると思ったの？ドクターの香りを他の匂いで隠しちゃうなんてもったいないよ。すごくナチュラルで心地いいし、調香した香水よりもいい香りだもん。",
+                "kr": "향수? 왜 내가 박사한테 향수를 선물할 거라고 생각한 거야? 박사의 향기는 다른 향기로 가리기엔 아까운걸. 박사 특유의 편하고 내추럴한 향기가 만들어 낸 향기보다 더 좋다고.",
+                "cn": "香氛？博士，你为什么觉得我会送你香氛？博士身上的气味不应该被其他味道掩盖，它闻起来很舒服很自然，比调配的香水还要好闻。"
+            },
+            "asset": "char_446_aroma/CN_043"
+        },
+        {
             "id": "char_446_aroma_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

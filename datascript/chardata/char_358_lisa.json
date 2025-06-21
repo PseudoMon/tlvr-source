@@ -585,6 +585,22 @@
             "asset": "char_358_lisa/CN_042"
         },
         {
+            "id": "char_358_lisa_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, could you bend down a bit for me? Yep, thanks. Now open your hands. Oh, and keep your fingers together... Now then... Hmm... Yoshi! Here, Doctor. Dad taught me how to draw a blessing talisman. I have written it on your palm. It'll give you good luck for the next year. Hehe, Happy birthday, Doctor.",
+                "jp": "博士，能请你蹲下来吗？嗯，谢谢，再把手摊开，啊，手指要并拢哦。爸爸以前教过我一个祝福的符文，现在我把它写在了你的手掌里，这样一整年都会有好运的。嘿，这样就好啦，生日快乐，博士。",
+                "kr": "박사님, 여기 잠깐 앉아 주시겠어요? 네, 고맙습니다. 자, 우선 손바닥을 펼쳐 주세요. 아, 손가락은 붙여 주시고요. 이건 아빠가 예전에 저한테 가르쳐 주신 복을 부르는 주문이에요. 지금 박사님의 손바닥에 그걸 그릴 거고요. 이제 올 한 해 행운이 쭉~~ 박사님을 따라다닐 거예요. 헤헤, 됐다. 생일 축하드려요, 박사님.",
+                "cn": "博士，能请你蹲下来吗？嗯，谢谢，再把手摊开，啊，手指要并拢哦。爸爸以前教过我一个祝福的符文，现在我把它写在了你的手掌里，这样一整年都会有好运的。嘿，这样就好啦，生日快乐，博士。"
+            },
+            "asset": "char_358_lisa/CN_043"
+        },
+        {
             "id": "char_358_lisa_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

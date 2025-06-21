@@ -585,6 +585,22 @@
             "asset": "char_388_mint/CN_042"
         },
         {
+            "id": "char_388_mint_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, here's a book as a present. Happy birthday! Look, I illustrated the cover myself. I'm always gathering minerals, and these ones have been recent favorites of mine. I looked for paints with lusters as close as I could get! And I have the actual rocks to give you too, of course. What do you think, Doctor? Go on, it's all for you.",
+                "jp": "博士，这本书是礼物，生日快乐！看，我在封面上画了我最近捡到的好看的矿石，我可是专门找了和石头光泽非常相近的颜料呢！当然，这些小石头也是礼物，博士你喜欢吗？一起收下吧。",
+                "kr": "이 책은 선물이에요, 박사님. 생일 축하드려요! 이거 보세요, 표지에 제가 최근에 주운 예쁜 광석을 그려봤어요. 돌의 광택이랑 가장 비슷한 염료를 찾아서 그렸답니다! 그리고 이 광석도 드릴게요! 마음에 드시나요? 그럼 받아주세요!",
+                "cn": "博士，这本书是礼物，生日快乐！看，我在封面上画了我最近捡到的好看的矿石，我可是专门找了和石头光泽非常相近的颜料呢！当然，这些小石头也是礼物，博士你喜欢吗？一起收下吧。"
+            },
+            "asset": "char_388_mint/CN_043"
+        },
+        {
             "id": "char_388_mint_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

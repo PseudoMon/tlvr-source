@@ -585,6 +585,22 @@
             "asset": "char_115_headbr/CN_042"
         },
         {
+            "id": "char_115_headbr_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Privet, this one's for you. Hey, who said you could open it right now? Whatever, not like it's anything special. It plays music, same model as mine. Gets the job done, as far as I'm concerned… You've had my back for a while, so a little token of appreciation is the least I can do. Happy birthday, Doctor.",
+                "jp": "喂，这个送给你。欸，不要现在打开啊——没什么特别的，是和我同款的随身听，我觉得还挺好用的......也算是受了你不少照顾，今天总得有点表示吧。那个，生日快乐。",
+                "kr": "자, 이거 선물. 아, 지금 열어보지 말고…… 별거 아냐. 내꺼랑 같은 브랜드의 카세트 플레이어인데, 난 꽤 쓸만하길래…… 그동안 너한테 신세를 꽤 많이 졌으니까, 오늘 같은 날에는 표현을 해야겠지. 그, 생일 축하해.",
+                "cn": "喂，这个送给你。欸，不要现在打开啊——没什么特别的，是和我同款的随身听，我觉得还挺好用的......也算是受了你不少照顾，今天总得有点表示吧。那个，生日快乐。"
+            },
+            "asset": "char_115_headbr/CN_043"
+        },
+        {
             "id": "char_115_headbr_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

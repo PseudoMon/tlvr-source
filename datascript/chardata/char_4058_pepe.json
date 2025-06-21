@@ -585,6 +585,22 @@
             "asset": "char_4058_pepe/CN_042"
         },
         {
+            "id": "char_4058_pepe_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor! Careful what you wish for, though, Sargonian legends tell of crafty gods who will grant any wish, but at an unreasonable price! Better yet, just tell me your wish and I'll try to grant it! ",
+                "jp": "お誕生日おめでとう、ドクター！願い事はよく考えてするんだよ。サルゴンの言い伝えだと、ずる賢い神様はこういう機に乗じて「ぼったくろうとする」からね。それにさ、何かお願いがあるなら、直接私に言えばいいよ。何とかして叶えてあげるよ。",
+                "kr": "생일 축하해, 박사! 소원 잘 생각한 다음에 비는 거 잊지 말고! 사르곤 전설에 따르면, 몇몇 교활한 신들은 생일 소원 빌 때 '바가지'를 씌우기도 한대. 아, 뭔가 부탁할 일이 있으면, 나한테 바로 말해도 괜찮아. 내가 어떻게든 들어 줄 테니까.",
+                "cn": "生日快乐，博士！记得不要乱许愿哦，在萨尔贡的传说中，有些狡猾的神明可是会趁机“乱要价”的。况且，有什么愿望，你直接讲给我听就好了，我会帮你想办法的哦。"
+            },
+            "asset": "char_4058_pepe/CN_043"
+        },
+        {
             "id": "char_4058_pepe_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

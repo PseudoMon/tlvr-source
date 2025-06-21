@@ -585,6 +585,22 @@
             "asset": "char_469_indigo/CN_042"
         },
         {
+            "id": "char_469_indigo_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Here… a cake for you. Blue Poison taught me how to bake it. I've practiced plenty of times, so it's sure to taste great despite its looks. The gloves? They're for food hygiene, Doctor, not because the cake's poisonous, trust me.",
+                "jp": "这是......蓝毒教我做的蛋糕，之前我已经练习了很多次了，虽然样子奇怪了一点，但是味道真的很不错的！手套？戴着手套是因为食品安全，不是因为有毒啦，博士！",
+                "kr": "이건…… 블루포이즌 씨의 도움으로 만들어 본 케이크에요. 모양은 좀 그래도, 맛은 분명 괜찮을 거예요! 전에 많이 연습했거든요. 장갑이요? 앗, 장갑을 낀 건 위생 때문이지, 독이 있어서가 아니에요, 박사님!",
+                "cn": "这是......蓝毒教我做的蛋糕，之前我已经练习了很多次了，虽然样子奇怪了一点，但是味道真的很不错的！手套？戴着手套是因为食品安全，不是因为有毒啦，博士！"
+            },
+            "asset": "char_469_indigo/CN_043"
+        },
+        {
             "id": "char_469_indigo_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

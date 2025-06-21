@@ -585,6 +585,22 @@
             "asset": "char_487_bobb/CN_042"
         },
         {
+            "id": "char_487_bobb_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "You're an important partner of Pure Heart Medical, so of course we got you a birthday gift. Please, open it. Haha, I'm sorry. I just wanted to see the shocked look on your face when you opened it. This body pillow is a personal gift from me, I hope you enjoy it as much as I do.",
+                "jp": "あなたは赤心社の大切なパートナーですから、誕生日とあらば私たちからも当然プレゼントをお贈りしますよ。ほら、開けてみてください――ははっ、すみません、プレゼントを開けて驚く顔が楽しみで。この抱き枕は私個人の気持ちです。私と同じくらいこの子を気に入ってもらえると嬉しいです。",
+                "kr": "박사님은 적심 의료의 중요한 협력 파트너예요. 그러니 박사님의 생일엔 저희도 당연히 선물을 드려야죠. 자, 열어 보세요! 하하, 죄송해요. 선물을 풀어 보고 놀라시는 박사님의 얼굴이 너무 기대됐거든요. 이 바디필로우는 제 개인적인 선물이에요. 제가 이 아이를 좋아하는 만큼 박사님도 마음에 들어 하셨으면 좋겠네요.",
+                "cn": "您是赤心医疗的重要合作伙伴，在您的生日，我们当然会送来礼物，请拆开看看吧——哈哈，抱歉，我只是想看看您拆开礼物时惊讶的表情。这个抱枕是我个人的心意，希望您和我一样喜欢它。"
+            },
+            "asset": "char_487_bobb/CN_043"
+        },
+        {
             "id": "char_487_bobb_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

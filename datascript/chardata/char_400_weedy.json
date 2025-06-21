@@ -561,7 +561,7 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "TBU",
+                "en": "Doctor, stand still and don't move a muscle, let me inspect you. Hmm... no dust on the bottom of your clothes, and your shoes are clean. That's good. Oh, wait! Your shirt collar is so wrinkled. You are not going to attend the party like that, right? Go back and sort that out, I'll wait here for you.",
                 "jp": "ドクター、ストップ。チェックするから動かないで。うん、裾は汚れてないし、靴紐も綺麗だね。なかなか格好いいよ。あっ、待った。シャツの襟がしわくちゃになってる。まさか、このままパーティーに参加するつもりじゃないよね？早く部屋で整えてきて、ここで待ってるから。",
                 "kr": "박사, 거기 잠시 스톱. 확인할 게 있어. 음, 옷에 묻은 먼지는 없고, 신발 끈도 깔끔하네. 좋아. 잠깐, 셔츠 깃은 왜 이렇게 구겨져 있는 거야? 설마 이 상태로 파티에 갈 생각은 아니겠지? 얼른 가서 정리하고 와, 여기서 기다리고 있을 테니까.",
                 "cn": "博士，站住不许动，让我检查一下。嗯，衣摆没有沾灰，鞋带也是干净的，还不错嘛。等等，衬衫的领子怎么这么皱，难道你打算就这样出席晚会吗？快回去整理一下，我在这等你。"
@@ -585,6 +585,22 @@
             "asset": "char_400_weedy/CN_042"
         },
         {
+            "id": "char_400_weedy_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, have you seen Leaf? Her signal suddenly dropped, and my terminal indicates she's somewhere around your office—You thought she was a present and put her away? The present wasn't her, it was the box on her back! Also! How were you so sure I'd give you a present?",
+                "jp": "博士，你看到小叶了吗？信号突然中断了，终端显示他应该在你的办公室附近——以为是礼物就收起来了？小叶不是礼物，他背着的那个礼盒才是！还有！你怎么就认定我会给你准备礼物？",
+                "kr": "박사, 혹시 리프 봤어? 갑자기 신호가 끊겼거든. 단말기에는 박사 사무실 주변에 있다고 뜨는데…… 응? 선물인 줄 알고 가져갔다고? 리프는 선물이 아니야. 리프가 등에 메고 있던 상자가 진짜 선물이지! 그리고! 왜 내가 너한테 선물을 줄 거라고 확신하는 거야?",
+                "cn": "博士，你看到小叶了吗？信号突然中断了，终端显示他应该在你的办公室附近——以为是礼物就收起来了？小叶不是礼物，他背着的那个礼盒才是！还有！你怎么就认定我会给你准备礼物？"
+            },
+            "asset": "char_400_weedy/CN_043"
+        },
+        {
             "id": "char_400_weedy_CN_044",
             "title": {
                 "en": "Anniversary Celebration",
@@ -593,7 +609,7 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "TBU",
+                "en": "I work as an undurable scientist yet want to step onto the battlefield, but Rhodes Island has actually satisfied my headstrong requests. Whether in the lab or the field, I'm always asking myself: Isn't there more I can do? I'm very greedy after all, when it comes to the pursuit of scientific value.",
                 "jp": "ひ弱な科学者なのに、戦場に立ちたいという私のわがままなお願いを、ロドスは叶えてくれた。研究室でも戦場でも、「もっとできることがあるんじゃないか」といつも自分に問いかけるんだ。科学の価値を追求することに関しては、私は貪欲だからね。",
                 "kr": "나는 몸이 약한 과학자지만 늘 전장에 나서고 싶었어. 로도스 아일랜드는 그런 내 억지에 가까운 요구를 들어줬지. 연구실이든 전장이든, 난 항상 스스로에게 이런 질문을 하곤 해. “더 할 수 있지 않을까?”라고 말이야. 난 과학에 대해선 욕심이 많거든.",
                 "cn": "我作为一名体弱的科学家却想要踏上战场，但罗德岛竟然满足了我这个任性的要求。无论在研究室还是战场，我都总是在问自己：是不是能做到更多？在追求科学的价值上，我可是很贪心的。"
@@ -611,8 +627,8 @@
             "global": "Maria Naganawa"
         },
         "kr": {
-            "native": "가빈",
-            "global": "Ga Bin"
+            "native": "오로아",
+            "global": "Oh Roah"
         }
     },
     "availability": [

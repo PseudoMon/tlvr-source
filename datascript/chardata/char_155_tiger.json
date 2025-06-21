@@ -585,6 +585,22 @@
             "asset": "char_155_tiger/CN_042"
         },
         {
+            "id": "char_155_tiger_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Hah, it's your birthday today, then. Here's a prezzie: these brass knuckles. They're the tiger's choice, get all your average muckers done and dusted! You should learn to watch yourself too, I say. Can't always count on me being there when you're in danger, right? Still, if I'm around and anyone picks on you, their arse is good as kicked!",
+                "jp": "哈，今天是你的生日啊。这副指虎送给你，用它对付一般的喽啰绰绰有余了！我说，你也该学着保护自己了，不能指望每次遇到危险的时候我都在你身边吧？当然，有我在的时候，谁都别想欺负你！",
+                "kr": "하, 오늘이 네 생일이구나. 이 너클을 선물로 줄게. 이거면 웬만한 조무래기들은 처리할 수 있을 거야! 너도 이제 너 자신을 지킬 줄 알아야 해. 설마 네가 위험할 때마다 내가 곁에 있어주길 바라는 건 아니겠지? 물론, 내가 있을 땐 아무도 널 괴롭히지 못할 거야!",
+                "cn": "哈，今天是你的生日啊。这副指虎送给你，用它对付一般的喽啰绰绰有余了！我说，你也该学着保护自己了，不能指望每次遇到危险的时候我都在你身边吧？当然，有我在的时候，谁都别想欺负你！"
+            },
+            "asset": "char_155_tiger/CN_043"
+        },
+        {
             "id": "char_155_tiger_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

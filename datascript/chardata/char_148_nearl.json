@@ -585,6 +585,22 @@
             "asset": "char_148_nearl/CN_042"
         },
         {
+            "id": "char_148_nearl_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor. Aplogies that I don't have anything that might pique your interest with me, but perhaps you'd like this book on the history of the knights of Kazimierz? Forgive me, I've already given you my knight's oath, and anything I could grant you beyond that is negligible by comparison.",
+                "jp": "生日快乐，博士，我没有特殊的礼物，您愿意收下这本有关卡西米尔骑士历史的书吗？我已经对您许下过骑士的誓言，除此之外我能赠予的一切都微不足道，还请您见谅。",
+                "kr": "생일 축하한다, 박사. 딱히 특별한 선물은 없지만, 여기에 카시미어 기사의 역사에 관한 책이 있는데, 받아 주겠나? 나는 이미 그대에게 기사의 맹세를 한 적이 있다. 그 외에 내가 줄 수 있는 모든 것은 보잘것없지, 양해해 주길 바란다.",
+                "cn": "生日快乐，博士，我没有特殊的礼物，您愿意收下这本有关卡西米尔骑士历史的书吗？我已经对您许下过骑士的誓言，除此之外我能赠予的一切都微不足道，还请您见谅。"
+            },
+            "asset": "char_148_nearl/CN_043"
+        },
+        {
             "id": "char_148_nearl_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

@@ -585,6 +585,22 @@
             "asset": "char_206_gnosis/CN_042"
         },
         {
+            "id": "char_206_gnosis_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "I've gathered from the hollering and hooting of the operators out here that today is your birthday. This book will serve as your birthday present. Accept, and then I ask you to please pacify the people outside the laboratory... SilverAsh is here too? Hmm, it seems you do carry a beyond-average estimation in his eyes.",
+                "jp": "我从外面大呼小叫的干员嘴里得知了今天是你的生日，这本书作为你的生日礼物，收下之后，请你让实验室外面的人都安静些吧......银灰也在此处？看来你在他的心目中的分量确实非同寻常。",
+                "kr": "밖에서 시끄럽게 떠들어 대는 오퍼레이터들에게서 오늘이 네 생일이라는 얘기를 들었다. 생일 선물로 이 책을 너에게 주지. 이 책을 받고, 부디 연구실 밖의 저들을 조용히 시켜줬으면 하는데…… 실버애쉬도 저기 있다고? 확실히 넌, 그에게 특별한 존재로 각인된 모양이군.",
+                "cn": "我从外面大呼小叫的干员嘴里得知了今天是你的生日，这本书作为你的生日礼物，收下之后，请你让实验室外面的人都安静些吧......银灰也在此处？看来你在他的心目中的分量确实非同寻常。"
+            },
+            "asset": "char_206_gnosis/CN_043"
+        },
+        {
             "id": "char_206_gnosis_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

@@ -585,6 +585,22 @@
             "asset": "char_493_firwhl/CN_042"
         },
         {
+            "id": "char_493_firwhl_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Here, Doctor, rainbow candles for your birthday! Hey, what's that look on your face? The flames are as colorful as the candles. How about that?",
+                "jp": "ドクター、はいこれ。レインボーのバースデーキャンドルだよ――ちょっと、そんな嫌そうな顔しないでよー。本体だけじゃなくて、炎まで七色になるんだから。",
+                "kr": "자, 박사. 이건 박사한테 주는 레인보우 생일 초. 잠깐, 그렇게 싫어하는 표정 짓지 마. 몸체 색깔뿐만 아니라 촛불도 일곱 가지 색깔이라고.",
+                "cn": "给，博士，这是我送你的七色生日蜡烛——不要一脸嫌弃嘛，不光蜡是七色的，蜡烛的火焰也是七色的哦。"
+            },
+            "asset": "char_493_firwhl/CN_043"
+        },
+        {
             "id": "char_493_firwhl_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

@@ -195,7 +195,7 @@
             "text": {
                 "en": "I was wondering when did I lose my rare spice collection. That's when it happened!",
                 "jp": "秘蔵の調味料をどこかで失くしたと思っていたが、この時か！",
-                "kr": "내 비장의 죠미료를 어디선가 잃어버렸나 했더니, 이때였나!",
+                "kr": "내 비장의 조미료를 어디선가 잃어버렸나 했더니, 이때였나!",
                 "cn": "老夫还在想自己珍藏的调味料什么时候弄丢的，原来是这个时候啊！"
             },
             "asset": "char_4143_sensi/CN_012"
@@ -583,6 +583,22 @@
                 "cn": "料理已经做好了，过来尝尝老夫的手艺吧。"
             },
             "asset": "char_4143_sensi/CN_042"
+        },
+        {
+            "id": "char_4143_sensi_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Tell me anything you'd like to eat, no matter what. Go on now, it's your birthday, and I haven't much I could wrap up and give you anyhow, so I'll make you a whole banquet to celebrate!",
+                "jp": "今日はお前の誕生日だそうだな。食べたいものがあれば、何でも言ってくれ。わしには大した贈り物はできんが、代わりに料理をたらふく食べさせてやろう！",
+                "kr": "오늘이 자네 생일이라더군. 먹고 싶은 게 있다면 뭐든 말하게. 대단한 선물은 못 주지만, 대신 요리를 배불리 먹게 해 주겠네!",
+                "cn": "不管想吃什么料理都告诉老夫吧，今天是你的生日，老夫也没有什么能送你的礼物，就给你做一顿大餐作为庆祝吧！"
+            },
+            "asset": "char_4143_sensi/CN_043"
         },
         {
             "id": "char_4143_sensi_CN_044",

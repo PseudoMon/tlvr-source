@@ -585,6 +585,22 @@
             "asset": "char_2025_shu/CN_042"
         },
         {
+            "id": "char_2025_shu_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor. Let me tell your fortune for the year. Hmm, I see a prosperous one in store for you, investments made will bring you gain, and all your wishes will come true. Truths or lies? I've told you before—the answer's in your hands.",
+                "jp": "お誕生日おめでとう、ドクター。ん？新しく重ねる歳の運勢を見てほしい？うーん……財運も出世運も言うことなしだし、努力にはきちんと見返りがあるし、願いも全部叶うわよ。本当かって？言ったでしょう、答えはあなたの手の中にあるの。",
+                "kr": "생일 축하해, 박사. 응? 네 올해 운세 좀 봐달라고? 으음, 새로운 한 해엔 큰돈을 벌고, 노력에 대한 보상도 반드시 받을 수 있을 거야. 물론 네가 바라는 소원도 전부 이뤄질 거고. 거짓말 아니냐고? 내가 말했지, 답은 전부 네가 쥐고 있다고.",
+                "cn": "生日快乐博士。让我看看你新一岁的运势？唔，我看出你新的一岁会大富大贵，付出有所得，所想皆成真。真话假话？我说过，答案就在你手里。"
+            },
+            "asset": "char_2025_shu/CN_043"
+        },
+        {
             "id": "char_2025_shu_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

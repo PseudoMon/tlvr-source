@@ -585,6 +585,22 @@
             "asset": "char_171_bldsk/CN_042"
         },
         {
+            "id": "char_171_bldsk_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Apparently this confection is popular in Higashi. You get strawberry juice in a plasma bag with an IV drip as a straw, and the sensation of drinking it is macabre but completely novel! Want one, Doctor? What are you sniffing it so hard for? It's just strawberry, of course it is! There's no weird additives in it at all!",
+                "jp": "据说东国那里流行这种甜品，血浆袋装的莓果汁，吸管就是点滴管，喝起来会有种恐怖但是新奇的感觉！博士你喝喝看？这么认真地闻它干什么，当然只是莓果汁啊，没有添加任何奇怪的东西！",
+                "kr": "듣기론 극동에선 이런 혈액팩에다 담아서 파는 베리주스 디저트가 유행이라던데, 빨대도 링거관처럼 생겼고, 마시면 오싹하면서도 신기한 느낌이 들 거 같군 그래! 박사도 한번 마셔 볼래? 왜 그렇게 진지한 표정으로 냄새를 맡는 거지? 그냥 베리주스일 뿐이라고, 다른 이상한 걸 넣었을 리가 없잖아!",
+                "cn": "据说东国那里流行这种甜品，血浆袋装的莓果汁，吸管就是点滴管，喝起来会有种恐怖但是新奇的感觉！博士你喝喝看？这么认真地闻它干什么，当然只是莓果汁啊，没有添加任何奇怪的东西！"
+            },
+            "asset": "char_171_bldsk/CN_043"
+        },
+        {
             "id": "char_171_bldsk_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

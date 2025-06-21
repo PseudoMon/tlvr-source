@@ -561,7 +561,7 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "TBU",
+                "en": "I  n e e d  t o  w i s h  y o u  a  h a p p y  n e w  y e a r  m y s e l f .  H a p p y  n e w  y e a r .  'Me too! Doctor, Happy New Year! Happy New Year!'",
                 "jp": "新年のあいさつは、自分で言わなきゃ。あけましておめでとう。「レンズからもあいさつをさせてください！ドクター様、あけましておめでとうございます！あけましておめでとうございます！」",
                 "kr": "새해 인사는 내가 직접 하고 싶어. 새해 복 많이 받아. “렌즈도 말할래요! 박사님, 새해 복 많이 받으세요! 새해 복 많이 받으세요!”",
                 "cn": "新年的祝福，得亲口对你说。新年快乐。“镜头也要说！博士，新年快乐！新年快乐！”"
@@ -585,6 +585,22 @@
             "asset": "char_336_folivo/CN_042"
         },
         {
+            "id": "char_336_folivo_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "H a p p y  b i r t h d a y , T h a n k  y o u  f o r  a l w a y s  l i s t e n i n g  s o  p a t i e n t l y  w h e n  I  t a l k . T h i s  i s  m y  f a v o r i t e  p i c t u r e  t h i s  y e a r . Y o u  c a n  h a v e  i t .",
+                "jp": "生日礼物，谢谢博士总是耐心听我说话，这是我今年最满意的作品，送给你。",
+                "kr": "생일 축하해, 박사. 항상 내 말을 인내심 있게 들어줘서 고마워. 이건 올해 찍은 것들 중 가장 마음에 들었던 작품이야, 선물로 줄게.",
+                "cn": "生日礼物，谢谢博士总是耐心听我说话，这是我今年最满意的作品，送给你。"
+            },
+            "asset": "char_336_folivo/CN_043"
+        },
+        {
             "id": "char_336_folivo_CN_044",
             "title": {
                 "en": "Anniversary Celebration",
@@ -593,7 +609,7 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "TBU",
+                "en": "'Miss Scene is not well-suited for a lively party like this. She would be at a complete loss. Therefore, Lens will have a drink with her here. Would you like me to help you with anything? Lens's music database has been updated with three new songs. Please press the button here to select one!'",
                 "jp": "「シーンお嬢様はああいった賑やかなパーティーに向いていません。パニックになってしまわれます。ですので、レンズがここでドリンクを飲まれるお嬢様に付き添っているというわけです。ドクター、何かお手伝いが必要ですか？つい最近、レンズの音楽ライブラリに新曲が三曲追加されました。こちらのボタンで曲をお選びください！」",
                 "kr": "“씬 아가씨께서는 이런 시끌벅적한 파티에 어울리는 걸 불편해하시기 때문에, 저 렌즈가 이곳에서 아가씨와 함께 음료를 마신답니다. 박사님도 렌즈의 도움이 필요하신가요? 렌즈의 플레이리스트에는 최근 세 곡의 노래가 새로 추가되었답니다. 여기 있는 버튼을 눌러 선택해 주세요!”",
                 "cn": "“稀音小姐不太适合参与这样热闹的宴会，那样她会手足无措的，所以，镜头在这里陪小姐喝饮料。博士想要镜头帮您做什么吗？镜头的曲库最近更新了三首歌曲，请按这里的按钮挑选！”"

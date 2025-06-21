@@ -569,6 +569,22 @@
             "asset": "char_275_breeze/CN_042"
         },
         {
+            "id": "char_275_breeze_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, happy birthday! Here's three slices of Victorian cake. One of—excuse me, what's the rush? I didn't even finish yet. Lucky you to pick the spicy one. Come on, wash that down with a spot of tea.",
+                "jp": "博士，生日快乐！这有三块维多利亚蛋糕，其中——哎呀，您怎么这么着急，我还没说完呢。您好像幸运地挑到了最辣的那个。来，喝口红茶吧。",
+                "kr": "박사, 생일 축하해! 여기 빅토리아 케이크 3조각을 가져왔어! 이건…… 아 박사, 뭐가 그렇게 급하다고 바로 먹은 거야, 아직 말 안 끝났는데, 참. 후후, 역시 박사는 행운이 따른다니까, 단번에 가장 매운 케이크를 고르다니. 자, 홍차 한잔 마셔.",
+                "cn": "博士，生日快乐！这有三块维多利亚蛋糕，其中——哎呀，您怎么这么着急，我还没说完呢。您好像幸运地挑到了最辣的那个。来，喝口红茶吧。"
+            },
+            "asset": "char_275_breeze/CN_043"
+        },
+        {
             "id": "char_275_breeze_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

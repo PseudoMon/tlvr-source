@@ -585,6 +585,22 @@
             "asset": "char_4014_lunacu/CN_042"
         },
         {
+            "id": "char_4014_lunacu_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "A birthday is the day you were born onto this land, right? That much I know. I found a meadow full of flowers yesterday. It smells very nice. I haven't told anyone else, so let's go. I've already planned out the route.",
+                "jp": "誕生日とは生まれた日のことだろう、それは知ってるぞ。昨日花がいっぱい咲いている草原を見つけたのだ。すごく良いニオイがするんだが、まだ誰にも教えてはいない。行くぞ、道は覚えてるからな。",
+                "kr": "생일이란 게 태어난 날을 말하는 거지? 그건 알고 있어. 어제 꽃이 잔뜩 핀 초원을 발견했는데, 엄청 좋은 냄새가 나더라고. 아직 아무한테도 안 가르쳐 줬어. 가자, 가는 길은 기억하고 있어.",
+                "cn": "生日就是出生的日子对吧，这个我知道，我昨天发现一片开满花的草地，很好闻，我没告诉任何人，走，我已经探好路了。"
+            },
+            "asset": "char_4014_lunacu/CN_043"
+        },
+        {
             "id": "char_4014_lunacu_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

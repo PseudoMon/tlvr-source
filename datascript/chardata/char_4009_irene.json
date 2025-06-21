@@ -585,6 +585,22 @@
             "asset": "char_4009_irene/CN_042"
         },
         {
+            "id": "char_4009_irene_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy Birthday, Dr. {@nickname}. Because of the situation in Iberia, I've never had the breathing room to celebrate someone's birthday, but you gave me this moment of reprieve, and I have to put it to good use. Here, pick your favorite piece of music. We'll start with that.",
+                "jp": "お誕生日おめでとうございます、Dr.{@nickname}。イベリアの情勢下では人の誕生日を祝う余裕なんてありませんでしたが、せっかくひとときの余暇をいただけるなら、有意義に利用しないと。さあ、まずはお気に入りの曲を選んでください。",
+                "kr": "생일 축하드려요, 박사님. 이베리아의 그런 상황에서 다른 사람의 생일을 챙겨줄 만한 여유는 생각하지도 못했었는데, 이렇게 기회를 주셨으니 당연히 잘 활용해야죠. 자, 그럼 가장 마음에 드는 음악을 고르는 것부터 시작해 볼까요.",
+                "cn": "生日快乐，Dr.{@nickname}。伊比利亚的局势从未让我有过庆贺别人生日的余裕，但你给了我这片刻闲暇，我当然得好好利用一下。来吧，从选一段你最喜欢的音乐开始。"
+            },
+            "asset": "char_4009_irene/CN_043"
+        },
+        {
             "id": "char_4009_irene_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

@@ -195,7 +195,7 @@
             "text": {
                 "en": "I'm seeing myself in a lot of these battle records. Talk about weird.",
                 "jp": "内部の作戦記録で自分の戦う様子を目にするなんて、なんか不思議だよね。",
-                "kr": "내부 작전 기록으로 내가 싸우는 모습을 보다니, 왠지 신기한데.",
+                "kr": "내부 작전기록으로 내가 싸우는 모습을 보다니, 왠지 신기한데.",
                 "cn": "很多内部的作战记录里都能看到我自己，这种感觉有点奇怪。"
             },
             "asset": "char_401_elysm/CN_012"
@@ -583,6 +583,22 @@
                 "cn": "今天有什么任务吗？"
             },
             "asset": "char_401_elysm/CN_042"
+        },
+        {
+            "id": "char_401_elysm_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor. I've meticulously prepared this year's gift, taking into consideration everything I've learned. This time, you'll be blown away by... W-Wait, hold on, Doctor, don't leave! I swear, it's not a prank this time!",
+                "jp": "生日快乐，博士。今年的礼物由我精心特制，吸取了之前的教训，这一次一定会是意想不到的惊喜......等、等等，博士，别走，相信我，这次绝对不是整蛊玩具了！",
+                "kr": "생일 축하해, 박사. 올해의 선물은 이전에 배운 교훈을 통해서 특별히 제작한 거야. 이번엔 분명 깜짝…… 자, 잠깐만, 가지 말아 봐, 박사. 믿어줘, 이번엔 절대 놀래키는 장난감 같은 거 아니라니까!",
+                "cn": "生日快乐，博士。今年的礼物由我精心特制，吸取了之前的教训，这一次一定会是意想不到的惊喜......等、等等，博士，别走，相信我，这次绝对不是整蛊玩具了！"
+            },
+            "asset": "char_401_elysm/CN_043"
         },
         {
             "id": "char_401_elysm_CN_044",

@@ -585,6 +585,22 @@
             "asset": "char_4088_hodrer/CN_042"
         },
         {
+            "id": "char_4088_hodrer_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Most Sarkaz... don't put a whole lot of stock in the process of getting older. They may forget a lot across the span of their long lives, but if you carefully listen to the way they describe the many oddities of life, you'll quickly find that the one thing never missing is the chapter in commemoration of suffering.",
+                "jp": "サルカズは歳を重ねることには……かなり鈍感と言える。その長い人生の中で、サルカズは多くの物事を忘れていくのかもしれない。だが、十人十色の人生経験に耳を傾ければ、誰にでも苦難を掲げる一節があることに気付くはずだ。",
+                "kr": "살카즈 대부분은 나이를 먹는 것에…… 상당히 둔감한 편이다. 그들은 기나긴 세월 속에서 많은 것들을 잊어버리곤 하지. 하지만 살카즈들이 풀어내는 각기다른 인생에 귀를 기울이다 보면, 누구에게나 고난이 기록된 페이지는 반드시 존재한다는 걸 알 수 있을 거다.",
+                "cn": "萨卡兹对于年龄的增长大都......不甚敏感，他们在漫长的生命中也许会遗忘很多事，但如果仔细聆听他们对人生千奇百怪的描述，你不难发现，唯独纪念苦难的篇章永远不会缺席。"
+            },
+            "asset": "char_4088_hodrer/CN_043"
+        },
+        {
             "id": "char_4088_hodrer_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

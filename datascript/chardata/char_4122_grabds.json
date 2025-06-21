@@ -585,6 +585,22 @@
             "asset": "char_4122_grabds/CN_042"
         },
         {
+            "id": "char_4122_grabds_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "I made you a bowl of noodles. Give it a try. I remember when I was still a kid, Shu always made me a bowl of longevity noodles for my birthday. An entire bowl made up of a single noodle. She always added a fried egg over easy too. I think this one might be overcooked, though. It might... have turned into a bowl of gruel.",
+                "jp": "ドクター、長寿麺を作ってきたよ、食べてみて？あたしが小さい時、誕生日はいつもシュウ姉ちゃんがこれを作ってくれてたんだ。丸々一本のながーい麺で出来ててね、それから卵も入れて、完成～。まあ、今のはちょっとゆで過ぎたみたい……ふにゃふにゃになっちゃってる、かも……",
+                "kr": "박사를 위해서 장수면 한 그릇을 만들어봤는데, 먹어볼래? 있지, 어렸을 때 슈 언니가 나한테 장수면을 끓여줬던 게 아직도 생생하게 기억나. 기다란 면 한 가닥이 그릇을 가득 채우고 있었고, 그 위엔 달걀 프라이가 한 개 올려져 있었지. 음, 근데 내가 만든 건, 면을 너무 오래 삶은 것 같기도…… 너무 불어서 한 덩어리가 되어 버린 것 같네.",
+                "cn": "我给你煮了一碗面，尝尝看？我记得小时候过生日，黍姐姐会给我做一碗长寿面，一根面条就是一整碗，里面再打一个荷包蛋。不过这碗我好像煮过头了，可能......已经糊成一坨了。"
+            },
+            "asset": "char_4122_grabds/CN_043"
+        },
+        {
             "id": "char_4122_grabds_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

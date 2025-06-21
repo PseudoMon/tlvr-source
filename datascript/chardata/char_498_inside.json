@@ -585,6 +585,22 @@
             "asset": "char_498_inside/CN_042"
         },
         {
+            "id": "char_498_inside_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, what would you like for your birthday? One of the occasional tasks I get is to help people return unwanted gifts. Instead of making things so troublesome, it's better to just outright ask the recipient what they would like, don't you think?",
+                "jp": "ドクター、バースデープレゼントは何がいい？役場には時々、要らないプレゼントを送り返すなんて任務も舞い込むんだよな。そんなややこしいことになるくらいなら、最初から相手に欲しいもんを聞いときゃいいのにな。そうだろ？",
+                "kr": "박사, 생일 선물로 뭐 받고 싶어? 공증소에선 가끔 마음에 들지 않는 선물을 되돌려 보내는 임무도 있었어. 왜 그렇게 번거롭게 하나 몰라, 애초에 상대방의 취향을 물어봤으면 되는 거잖아. 안 그래?",
+                "cn": "博士，你想要什么生日礼物？我在公证所偶尔会遇到的任务之一，就是帮人退还不喜欢的礼物。与其把事情搞得那么麻烦，还不如一开始就问清楚对方的喜好，你说呢？"
+            },
+            "asset": "char_498_inside/CN_043"
+        },
+        {
             "id": "char_498_inside_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

@@ -585,6 +585,22 @@
             "asset": "char_010_chen/CN_042"
         },
         {
+            "id": "char_010_chen_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Here I am, what do you need…? Your birthday? You have time for stuff like this? What are you waiting for, am I supposed to sing for you? In your dreams… Happy birthday, I'm leaving.",
+                "jp": "我来了，找我有什么事？......生日？你现在还有闲心过这个？还在期待什么，等我给你唱生日歌吗，想得挺好......生日快乐，走了。",
+                "kr": "나 왔어, 무슨 일로 나를 찾은 거지? ……생일? 아직도 그럴 여유가 있나? 내가 생일 축하 노래라도 해주길 기대하나? 참 좋은 생각이네…… 생일 축하한다, 그럼 이만.",
+                "cn": "我来了，找我有什么事？......生日？你现在还有闲心过这个？还在期待什么，等我给你唱生日歌吗，想得挺好......生日快乐，走了。"
+            },
+            "asset": "char_010_chen/CN_043"
+        },
+        {
             "id": "char_010_chen_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

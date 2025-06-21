@@ -585,6 +585,22 @@
             "asset": "char_143_ghost/CN_042"
         },
         {
+            "id": "char_143_ghost_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "How did I spend birthdays before now? Heheh. I don't remember too clearly... While I'm still lucid, Doctor, take this. An illuminous pearl, to be a valuable speck of light to you in the dark of night, there among illusory visions…",
+                "jp": "至今为止，我是怎么过生日的？呵呵，记不太清了......趁着我还清醒，博士，收下这个吧，一颗发着光的珍珠，它会在黑夜里，为您带来一点点可喜的光亮，一些，虚幻的愿景......",
+                "kr": "지금까지 제가 어떻게 생일을 보냈냐고요? 하하, 기억이 잘 안 나네요…… 제가 아직 제정신일 때 이걸 받으세요, 박사님. 빛을 내는 진주에요. 이건 어두운 밤에, 당신에게 작은 기쁨의 빛을, 약간의 허황된 미래를 가져다줄 수 있을 거예요……",
+                "cn": "至今为止，我是怎么过生日的？呵呵，记不太清了......趁着我还清醒，博士，收下这个吧，一颗发着光的珍珠，它会在黑夜里，为您带来一点点可喜的光亮，一些，虚幻的愿景......"
+            },
+            "asset": "char_143_ghost/CN_043"
+        },
+        {
             "id": "char_143_ghost_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

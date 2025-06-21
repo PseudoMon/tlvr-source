@@ -585,6 +585,22 @@
             "asset": "char_4064_mlynar_epoque#28/CN_042"
         },
         {
+            "id": "char_4064_mlynar_epoque#28_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Once you stop making wishes, you naturally no longer look forward to birthdays. Whether that's because you can already fulfill them on your own, or out of crippling despair... I'm afraid it's been far too long since the last time I said 'Happy birthday' to anyone.",
+                "jp": "ひとたび願うことを止めたならば、人々は誕生日には期待をしなくなるものだ。それが、すでに願いを実現できるだけの力を持ったからなのか、それとも徹頭徹尾失望したからなのかによらずな……もう長い間、誰かに「誕生日おめでとう」とは言っていなかった。",
+                "kr": "바라는 것을 멈추면, 사람들은 자연스레 생일을 기대하지 않게 되지. 본인에게 소원을 이룰 만한 힘이 생겼기 때문이든, 아니면 철저히 실의에 빠졌기 때문이든 말이야…… 다른 이에게 '생일 축하한다'라는 말을 꺼낸 지도 정말 오래된 것 같군.",
+                "cn": "一旦不再许愿，人们自然也不会再期待生日，无论是因为自己已经有能力实现愿望，还是出于彻底的失望......我恐怕已经很久没对人说过“生日快乐”了。"
+            },
+            "asset": "char_4064_mlynar_epoque#28/CN_043"
+        },
+        {
             "id": "char_4064_mlynar_epoque#28_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

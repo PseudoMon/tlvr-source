@@ -585,6 +585,22 @@
             "asset": "char_249_mlyss/CN_042"
         },
         {
+            "id": "char_249_mlyss_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Hm? Mm... nothing, I'm just imagining what you might've been like when you were born. Speaking of which, you decided what you're eating tonight? It's not like the canteen instantly churns out your order, so can we hurry it up?",
+                "jp": "あら？えっと……なんでもないの。ただ、生まれたばかりのあなたってどんな感じだったのかなって思って。で、今晩何を食べたいかはもう決まった？レストランの予約って余裕をもってやらなきゃなのよ、早くしてくれないかしら？",
+                "kr": "어? 음…… 별 건 아니고, 그냥 갓난아기였을 때 당신은 어떤 모습이었을까 상상하고 있었어. 아, 그래서 오늘 저녁에 뭐 먹을지는 정했어? 레스토랑은 미리 예약해야 한다고, 빨리 결정해 주면 안 돼?",
+                "cn": "嗯？嗯......没什么，只是在想刚刚诞生的你大概会是什么模样。说起来你想好今天晚上吃什么了没有？订餐厅也是要花时间的，能不能快一些？"
+            },
+            "asset": "char_249_mlyss/CN_043"
+        },
+        {
             "id": "char_249_mlyss_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

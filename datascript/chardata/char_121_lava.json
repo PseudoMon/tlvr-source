@@ -521,6 +521,22 @@
             "asset": "char_121_lava/CN_042"
         },
         {
+            "id": "char_121_lava_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor. Here, I made you a pair of gloves. And take a look at these beautiful patterns on them! Cool, aren't they? I got them from my divination, which always comes true. You too will learn that in the future.",
+                "jp": "博士，生日快乐，我给你做了一副手套，上面的花纹是不是很酷？这可不是胡画的，这些可都是我占卜得到的结果，我的占卜不会出错，一切都会在未来应验的。",
+                "kr": "박사, 생일 축하해. 받아 장갑, 내가 직접 만든 거야. 무늬가 꽤 멋지지 않아? 그 무늬는 아무렇게나 넣은 게 아니라, 전부 점괘를 통해서 얻은 거라고. 내 점괘는 틀릴 리 없으니까, 전부 다 미래에 실현될 거야.",
+                "cn": "博士，生日快乐，我给你做了一副手套，上面的花纹是不是很酷？这可不是胡画的，这些可都是我占卜得到的结果，我的占卜不会出错，一切都会在未来应验的。"
+            },
+            "asset": "char_121_lava/CN_043"
+        },
+        {
             "id": "char_121_lava_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

@@ -585,6 +585,22 @@
             "asset": "char_248_mgllan/CN_042"
         },
         {
+            "id": "char_248_mgllan_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Phew! It took me a bit, but I finally made it in time! Happy birthday, Doctor! Here's a snowflake sample, it's from the furthest north anyone's ever been! I messed up a bit, but this one's the best sample I could get. It's my gift to you!",
+                "jp": "呼，花了点时间，总算是赶上啦，生日快乐博士！这是我做的雪花标本，是我从现在人们能到达的极北最远处带回来的雪花，我失败了好多次，这是最好看的那一朵，给！",
+                "kr": "후우, 시간이 좀 걸리긴 했지만, 드디어 완성이야, 박사, 생일 축하해! 이건 내가 만든 눈꽃 표본이야, 사람들의 발이 닿을 수 있는 극북 가장 먼 곳에서 가져온 눈꽃이거든. 많이 실패하긴 했지만, 이게 그중에 제일 예쁜 거야, 자!",
+                "cn": "呼，花了点时间，总算是赶上啦，生日快乐博士！这是我做的雪花标本，是我从现在人们能到达的极北最远处带回来的雪花，我失败了好多次，这是最好看的那一朵，给！"
+            },
+            "asset": "char_248_mgllan/CN_043"
+        },
+        {
             "id": "char_248_mgllan_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

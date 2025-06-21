@@ -585,6 +585,22 @@
             "asset": "char_367_swllow/CN_042"
         },
         {
+            "id": "char_367_swllow_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Dr.{@nickname}, this is my birthday present for you. Unfortunately, it's a little rough, since I used a little gap in time when the kitchen was free to make it. Though, a few operators did help me, and I think I rescued one of them before...",
+                "jp": "Dr.{@nickname}，这是我为你准备的生日礼物。很可惜，非常不精致，毕竟是趁着没人用厨房的空隙去做的。不过，也有几位干员提供了帮助，好像有一位是我曾救过的......",
+                "kr": "{@nickname} 박사, 자 여기. 이건 내가 널 위해 준비한 선물이야. 주방 빌 때 틈틈이 만든 거라 그렇게까지 예쁜 건 아니지만. 그래도 다른 오퍼레이터들이 많이 도와줬어. 그중에 내가 구해준 사람도 있었던 것 같고……",
+                "cn": "Dr.{@nickname}，这是我为你准备的生日礼物。很可惜，非常不精致，毕竟是趁着没人用厨房的空隙去做的。不过，也有几位干员提供了帮助，好像有一位是我曾救过的......"
+            },
+            "asset": "char_367_swllow/CN_043"
+        },
+        {
             "id": "char_367_swllow_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

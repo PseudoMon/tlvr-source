@@ -585,6 +585,22 @@
             "asset": "char_4015_spuria/CN_042"
         },
         {
+            "id": "char_4015_spuria_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Your birthday? Uh, you never told me. How'd I know? You didn't bring this up because you want a present, right? Haha... I really like that look on your face right now. Here, this instant photo's your gift. The first one I just took is mine, though.",
+                "jp": "今日ってあなたの誕生日なの？えぇ～、教えてもくれてなかったのに、知るわけないじゃない。今それ言い出すのって、まさかプレゼントが欲しいの？……ふふ、その顔大好き。ほら、手出して。このインスタントカメラをあげるね。でも、今撮った一枚は私のものだからあげな～い。",
+                "kr": "오늘이 네 생일이라고? 에이, 알려주지도 않았는데 내가 어떻게 알아? 지금 이 얘기를 꺼낸 건, 설마 선물을 달라는 뜻은 아니겠지? ……하하, 지금 네 표정, 정말 마음에 드네. 자, 이 폴라로이드 카메라가 선물이야. 아, 방금 찍은 사진은 내가 가져간다?",
+                "cn": "你的生日？欸，你没有告诉我，我怎么会知道。现在说这个，不会是为了找我要礼物吧？......哈哈，我真喜欢你这个表情。拿着，这个拍立得是你的礼物，不过刚刚拍的第一张照片就归我啦。"
+            },
+            "asset": "char_4015_spuria/CN_043"
+        },
+        {
             "id": "char_4015_spuria_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

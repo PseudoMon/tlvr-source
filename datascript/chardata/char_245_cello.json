@@ -585,6 +585,22 @@
             "asset": "char_245_cello/CN_042"
         },
         {
+            "id": "char_245_cello_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Is it the pain or joy of the past that you think about this time of year? Tell me, and let me transform the blotches of your mind into reality through music... as long as you allow me, of course.",
+                "jp": "毎年この日に思い出すのは、これまでの苦しみと喜びのどちらかしら？話してみて。私の曲で、あなたの心のまだら模様を現実にしてあげる……あなたが許可さえしてくれればね。",
+                "kr": "매년 이맘때면, 당신은 과거의 고통과 기쁨 중 어떤 감정을 느껴? 말해 줘, 난 당신의 마음속에 깃든 얼룩을 현실로 만들어 줄 수 있어…… 물론, 당신이 허락해 준다면 말이야.",
+                "cn": "每年这个时候，您会想起过去的痛楚，还是欢欣呢？向我讲述吧，让我用乐曲将您内心的斑驳化为现实......只要您准许。"
+            },
+            "asset": "char_245_cello/CN_043"
+        },
+        {
             "id": "char_245_cello_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

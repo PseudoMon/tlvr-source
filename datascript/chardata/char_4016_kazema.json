@@ -585,6 +585,22 @@
             "asset": "char_4016_kazema/CN_042"
         },
         {
+            "id": "char_4016_kazema_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday. For you, Doctor. Put this paper flower under your pillow, and it'll turn into a real flower the next morning. Just like our first meeting, it's both real and fake, it all lies in your hands.",
+                "jp": "生日快乐，送给您，博士。把这纸花放在枕头底下，明天会变成一朵真正的花哦。就和第一次见面时一样，是虚是实，都在您的手中。",
+                "kr": "생일 축하해요, 박사님. 제 선물을 받아주세요. 이 종이꽃을 베개 밑에 놔두면, 내일은 진짜 꽃이 되어 있을 거예요. 처음 만났을 때처럼, 가짜인지 진짜인지는 모두 박사님 생각하기 나름입니다.",
+                "cn": "生日快乐，送给您，博士。把这纸花放在枕头底下，明天会变成一朵真正的花哦。就和第一次见面时一样，是虚是实，都在您的手中。"
+            },
+            "asset": "char_4016_kazema/CN_043"
+        },
+        {
             "id": "char_4016_kazema_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

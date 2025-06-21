@@ -561,7 +561,7 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "TBU",
+                "en": "The New Year? I see. Another year has passed. I... never liked days like this before, the whole idea of 'out with the old, in with the new.' What we lost has always left a much deeper impression on me than what we gained, but maybe things are slightly different now. Mm—may I join in for the dinner party? Doctor?",
                 "jp": "新年？そうか、また一年経ったのか。昔は……古きと別れ、新しきを迎えるという風習は好きではなかった。失ったものは得たものよりも記憶に残るからだ。だが、今は少し違うのかもしれない。ああ、私もパーティーに参加して良いだろうか、ドクター？",
                 "kr": "새해? 그렇구나, 또 1년이 지났구나. 사실 옛날에는…… 이렇게 새해 맞이하는 걸 좋아하지 않았어. 얻는 것보다 잃는 게 훨씬 더 인상에 깊게 남으니까. 지금은 좀 다를지도 모르겠네. 음, 파티에 참석해도 괜찮을까, 박사?",
                 "cn": "新年？是这样，又过了一年了，我......其实过去并不喜欢这种辞旧迎新的日子。失去的总比得到的要印象深刻得多，不过现在也许不太一样了，嗯，我可以参加宴会吗？博士？"
@@ -585,6 +585,22 @@
             "asset": "char_311_mudrok/CN_042"
         },
         {
+            "id": "char_311_mudrok_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, happy birthday. This is for you. Ah, it's a stone sculpture of my making, not a 'friend.' 'Friends' aren't to be treated as presents. Do you like it? I could teach you, sometime, to converse with my friends. Would you be interested?",
+                "jp": "博士，生日快乐。这个送给您。啊，这是我做的石雕，不是“朋友”啦。“朋友”是不能当作礼物的吧。博士很喜欢？下次，我可以试着教博士与朋友们交谈，您觉得怎么样？",
+                "kr": "박사, 생일 축하해. 이거 받아. 아, 이건 내가 돌을 깎아 만든 조각품이야. '친구'는 아니야. '친구'는 선물할 수 없으니까. 마음에 들어, 박사? 다음에는 친구들과 얘기 나누는 방법을 가르쳐 줄 수도 있는데, 어때?",
+                "cn": "博士，生日快乐。这个送给您。啊，这是我做的石雕，不是“朋友”啦。“朋友”是不能当作礼物的吧。博士很喜欢？下次，我可以试着教博士与朋友们交谈，您觉得怎么样？"
+            },
+            "asset": "char_311_mudrok/CN_043"
+        },
+        {
             "id": "char_311_mudrok_CN_044",
             "title": {
                 "en": "Anniversary Celebration",
@@ -593,7 +609,7 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "TBU",
+                "en": "In the beginning, all I wanted was to survive. But before I knew it, the responsibility of leading my companions fell on my shoulders too. I want to find myself, and my companions, a home. Doctor, should I keep walking with Rhodes Island, will I be able to?",
                 "jp": "最初は、ただ生き残れるだけでいいと思った。だがいつの間にか、仲間たちを導く責任も背負うことになったんだ。私は、自分と仲間たちのための家を見つけたかった。ドクター、ロドスについていけば、私たちの居場所を見つけられるだろうか？",
                 "kr": "처음에는 그냥 살아남고 싶었을 뿐이었어. 하지만 어느새 동료들을 이끌어야 할 책임도 짊어지게 됐지. 나는 나 자신과 동료들을 위한 집을 찾고 싶어. 박사, 로도스 아일랜드와 동행하면, 나는 나만의 집을 찾을 수 있을까?",
                 "cn": "最初，我只是想让自己能够活下来。但不知不觉地，带领同伴们的责任也落在了我的肩上。我想给自己，还有同伴们找到一个家。博士，和罗德岛同行的话，我可以找到属于我们的家吗？"

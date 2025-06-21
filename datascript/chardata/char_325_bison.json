@@ -545,7 +545,7 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "TBU",
+                "en": "It's New Year's, so on behalf of MountainDash Logistics, I'm sending formal greetings to Rhodes Island. May everything go well for Rhodes Island's employees, and may you be safe and sound in the coming year. Also, here's a personal card from me to you, Doctor, to wish you a Happy New Year. To another great year working together.",
                 "jp": "新年になりましたので、フェンツ運輸を代表してロドスに年賀状をお届けします。ロドスのみなさんのますますのご活躍とご健勝をお祈り申し上げます。それと、これがぼく個人からのカードです。ドクターにとって良い一年になりますように。今年も、ご指導ご鞭撻をどうぞよろしくお願いしますね。",
                 "kr": "새해가 왔으니, 제가 마운틴대쉬 로지스틱스를 대표해서 로도스 아일랜드에 연하장을 전해 드리겠습니다. 올 한 해도 로도스 아일랜드 모두가 건강하시길, 건승하시길 바라겠습니다. 그리고 이건 제가 개인적으로 박사님께 드리는 연하장인데, 박사님도 새해 복 많이 받으세요. 올해도 잘 부탁드립니다.",
                 "cn": "新年到了，我谨代表峯驰物流向罗德岛送上新年贺帖。恭祝罗德岛全体员工在新的一年诸事顺利，平安健康。然后，这个是我自己送给博士的贺卡，祝您新年快乐。今年也要请您继续指教了。"
@@ -569,6 +569,22 @@
             "asset": "char_325_bison/CN_042"
         },
         {
+            "id": "char_325_bison_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, happy birthday. Please try this bowl of long life noodles. All ingredients have been chosen with care. It has wheat from Yan, fin from Higashi, and the broth is Iberian ham. It took me months to put together, and it was still a rush to get everything in on time. I hope you like it.",
+                "jp": "博士，生日快乐。请尝尝这碗长寿面吧。里面所有食材都是精心挑选过的。有来自炎国的小麦，乌萨斯的肉排，还有熬汤的伊比利亚火腿。我提前准备了很久，还好赶在今天送到了。希望您能喜欢。",
+                "kr": "생일 축하드립니다, 박사님. 여기 장수면 드셔보세요. 식재료는 모두 제가 엄선했답니다. 염국산 밀, 우르수스산 스테이크, 그리고 육수는 이베리아산 햄으로 만들었습니다. 사실 꽤 오랜 시간 준비했는데, 다행히 오늘 때마침 재료가 들어왔네요. 박사님 마음에 드셨으면 좋겠습니다.",
+                "cn": "博士，生日快乐。请尝尝这碗长寿面吧。里面所有食材都是精心挑选过的。有来自炎国的小麦，乌萨斯的肉排，还有熬汤的伊比利亚火腿。我提前准备了很久，还好赶在今天送到了。希望您能喜欢。"
+            },
+            "asset": "char_325_bison/CN_043"
+        },
+        {
             "id": "char_325_bison_CN_044",
             "title": {
                 "en": "Anniversary Celebration",
@@ -577,7 +593,7 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "TBU",
+                "en": "My father says the most precious thing to a business is pulling everyone together under the same ideal. At Penguin Logistics and Rhodes Island, I've seen that cohesion for myself. I have to learn from yours and Emperor's examples, in that regard.",
                 "jp": "父が言っていました、企業にとって最も得難いものは、いつ何時であっても従業員を一つにまとめられる共通の理想です。ぼくはペンギン急便とロドスで、この結束力を見ました。この点については、ドクターとエンペラーさんに見習わなければいけませんね。",
                 "kr": "아버지께서 기업이 가장 얻기 힘든 것은 어떤 상황에서도 사람들을 한데 모을 수 있는 공통의 이상이라고 말씀하셨어요. 그리고 전 펭귄 로지스틱스와 로도스 아일랜드에서 이 결속력을 보았습니다. 이 점은 제가 엠퍼러 씨와 박사님에게 본받아야 하는 부분이라고 생각합니다.",
                 "cn": "父亲说过，一个企业最宝贵的，就是在任何时候都能将所有人凝聚在一起的共同理想。我在企鹅物流和罗德岛，都看到了这种凝聚力。在这一点上，我需要向您和大帝先生学习。"

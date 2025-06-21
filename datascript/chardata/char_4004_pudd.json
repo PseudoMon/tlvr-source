@@ -585,6 +585,22 @@
             "asset": "char_4004_pudd/CN_042"
         },
         {
+            "id": "char_4004_pudd_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, happy birthday! Here's a doll for you, it looks just like my Pillow. Isn't it cute? It... It looks kind of like me? No it doesn't!",
+                "jp": "博士，生日快乐！这个玩偶送给您，和我的小抱枕长得很像，很可爱吧？您说这个玩偶长得有点像我？才......才没有！",
+                "kr": "생일 축하드려요, 박사님! 생일이시니까 이 인형을 선물로 드릴게요. 왠지 제 베개랑 닮아서 귀엽지 않나요? 네? 베개보단 절 닮은 것 같다고요? 그…… 그럴 리가요!",
+                "cn": "博士，生日快乐！这个玩偶送给您，和我的小抱枕长得很像，很可爱吧？您说这个玩偶长得有点像我？才......才没有！"
+            },
+            "asset": "char_4004_pudd/CN_043"
+        },
+        {
             "id": "char_4004_pudd_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

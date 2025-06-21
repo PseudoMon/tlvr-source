@@ -113,7 +113,7 @@
                 "cn": "信赖提升后交谈1"
             },
             "text": {
-                "en": "Most confuse Arturia's Arts as tampering with cognition and mental faculty, but I know the fact is just the oppoiste. Arturia is interested only in the truest emotions, and cares not for where these emotions lead. The influence she can command is far worse than anyone can possibly imagine.",
+                "en": "Most confuse Arturia's Arts as tampering with cognition and mental faculty, but I know the fact is just the opposite. Arturia is interested only in the truest emotions, and cares not for where these emotions lead. The influence she can command is far worse than anyone can possibly imagine.",
                 "jp": "アルトリアのアーツは他者の認知や思考を改変するものだと、多くの者は誤解していますが、私の知る事実は真逆です。アルトリアの興味は生々しい感情にこそあり、その感情の行方にはありません。彼女が作り出す悪夢は、人の想像をはるかに超えてしまうものです。",
                 "kr": "많은 사람들이 아르투리아의 오리지늄 아츠는 다른 사람의 인식이나 사고를 변화시키는 것으로 오해하고 있지만, 제가 아는 바는 그와 반대입니다. 아르투리아는 가장 진실한 감정에만 흥미를 느낄 뿐, 그 감정의 흐름은 신경 쓰지 않습니다. 그녀가 만들어내는 영향은 사람들의 상상을 훨씬 뛰어넘을 정도로 위험합니다.",
                 "cn": "大多数人会误以为阿尔图罗的源石技艺是篡改他人的认知，改变他人的思想，而我知道事实恰恰相反。阿尔图罗只关注最真实的情感，而不在乎情感的走向。她能造成的影响远比人们想得到的更恶劣。"
@@ -583,6 +583,22 @@
                 "cn": "你的变化很大，博士。"
             },
             "asset": "char_1032_excu2/CN_042"
+        },
+        {
+            "id": "char_1032_excu2_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Gifts need to be packaged in such a way that you cannot immediately see the contents on a single glance? Is this a compulsory requirement? My apologies, I am not well-versed in such matters. Well, then, Doctor. I will prepare an unscannable safe and a new gift. Please wait for just a moment.",
+                "jp": "贈り物をする時は、ラッピングを施して、中身が見えないようにすべきなのですか。それは必須条件なのでしょうか？申し訳ありません、理解が足りていませんでした。では外部からスキャン不能なセキュリティボックスと、新しいプレゼントを取り急ぎ用意してきますので、少々お待ちください、ドクター。",
+                "kr": "선물은 포장을 해서 내용물이 보이지 않게 해야 한다고요? 반드시 그렇게 해야 하는 겁니까? 죄송합니다. 이 부분에 대한 경험이 부족했던 모양입니다. 그럼 박사님, 스캔이 불가한 보관함과 새로운 선물을 준비해서 올 테니, 잠시 기다려 주세요.",
+                "cn": "赠送的礼物需要包装，要使人无法一眼看出里面的内容？这是某种强制性的要求吗？抱歉，我对此不是很了解。那么博士，我会尽快准备好无法扫描的保险盒以及新的礼物，请你稍等。"
+            },
+            "asset": "char_1032_excu2/CN_043"
         },
         {
             "id": "char_1032_excu2_CN_044",

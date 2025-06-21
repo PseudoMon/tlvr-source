@@ -585,6 +585,22 @@
             "asset": "char_4114_harold/CN_042"
         },
         {
+            "id": "char_4114_harold_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "*sigh* Every soul that celebrates a birthday reminds me that while my girl was young, war had me miss several of her own special occasions—and as is the case, she came not to care if I would be there or not. But I apologize—you tend to reminisce at the drop of a hat when you're my age. How many slices should we cut this cake into?",
+                "jp": "はぁ、他人様の誕生日に立ち会う度、娘のことを思わずにはいられません。あれがまだ幼い頃、戦で何度も誕生日に欠席してしまいましてね――やがて成長した娘が父の不在に関心を持たなくなったのも無理はない……おっと失礼、この歳になれば何かと刺さることが多くて敵いませんな。さて、ケーキはいくつに切り分けましょうか？",
+                "kr": "하아, 누군가의 생일이 다가오면 전장에 나가 있는 바람에 어린 딸아이의 생일을 몇 차례 놓쳤던 기억이 떠오르곤 합니다…… 시간이 흐르니 제가 없어도 그 아인 개의치 않게 되었지만요. 죄송합니다, 제 나이쯤 되면 자꾸 옛일을 추억하게 되어서 말이죠. 케이크는, 몇 조각으로 자르고 싶으십니까?",
+                "cn": "唉，每逢有人生日，我就会想起在女儿还小的时候，因为战事而错过了几次她的生日——后来，她逐渐也就不在意我会不会在了。抱歉，到了我这个岁数，总是会触景生情。蛋糕，您想切成几份？"
+            },
+            "asset": "char_4114_harold/CN_043"
+        },
+        {
             "id": "char_4114_harold_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

@@ -585,6 +585,22 @@
             "asset": "char_4006_melnte/CN_042"
         },
         {
+            "id": "char_4006_melnte_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "My former coworkers celebrated each safe return from a mission like a birthday. I wasn't really into hanging out with them. The wild carousing like they lived through a disaster always made me feel sick—I'm sorry, Doctor. I shouldn't be saying this today. Happy birthday.",
+                "jp": "以前の同僚たちは、任務から戻る度に誕生日パーティーみたいに騒いでました。ですが私は、運良く生き延びたと自己欺瞞の中で大はしゃぎするのが不快で、その輪に入るのが嫌でした――ごめんなさい、ドクター。今日言うことではないですね。誕生日おめでとうございます。",
+                "kr": "예전 동료들은 임무에서 돌아올 때마다 그날이 마치 생일인 것처럼 축하를 나누곤 했어요. 하지만 저는 거기에 어울리는 걸 별로 좋아하진 않았어요. 운 좋게 살아남은 걸 가지고 오만하게 떠들어대는 게 불편했거든요…… 죄송해요, 박사님. 오늘 같은 날에 할 말은 아니었네요. 생일 축하드려요.",
+                "cn": "以前的同事会把每次任务归来都当成生日庆祝。我不大喜欢跟他们凑在一起，那种假装劫后余生的狂欢让我觉得不舒服——抱歉，博士，我不该在今天说这些。祝您生日快乐。"
+            },
+            "asset": "char_4006_melnte/CN_043"
+        },
+        {
             "id": "char_4006_melnte_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

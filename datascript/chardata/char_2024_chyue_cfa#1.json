@@ -1,0 +1,639 @@
+{
+    "charid": "char_2024_chyue_cfa#1",
+    "nameid": "chyue-e2",
+    "names": {
+        "en": "Chongyue E2",
+        "jp": "チョンユエ E2",
+        "kr": "총웨 E2",
+        "cn": "重岳 E2"
+    },
+    "voices": [
+        {
+            "id": "char_2024_chyue_cfa#1_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Are you interested in this continuity log, Doctor? We film our shots in a shuffled order, different from how they appear in the final product. So if we lose this log, the editor will be in trouble. Uh... actually, I'm looking for a page that went missing... Could you help me check the back of that prop box? I think it may be hiding there.",
+                "jp": "この香盤表に興味があるのか？撮影の順序は実際に上映されるものとは違うのでな。この表をなくすと、編集の際に大分面倒なことになるんだ。うむ、ちょうど一ページどこかにいってしまって……ドクター、そこの道具箱の後ろに落ちていないか見てくれないか？",
+                "kr": "이 콜 시트에 관심 있나? 촬영 순서는 실제 영상 순서와 달라서 말이지. 이걸 잃어버리면 편집할 때 상당히 귀찮아지네. 으음…… 마침 한 페이지가 사라져 찾고 있었는데…… 박사, 거기 도구 상자 뒤에 떨어지진 않았는지 봐줄 수 있겠나?",
+                "cn": "博士对这个场记表感兴趣吗？镜头拍摄的顺序与成片不同，要是弄丢了它，剪辑的时候会有很多麻烦。唔，我正在找丢了的那一页......博士，请帮我看看，是不是掉在道具箱后面了？"
+            },
+            "asset": "char_2024_chyue_cfa#1/CN_001"
+        },
+        {
+            "id": "char_2024_chyue_cfa#1_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Doctor, I'm here to serve as stunt coordinator for Nian's motion picture. The actors here have never been trained in kung fu, but you will find that their diligent rehearsal is no less impressive or touching. What? The male lead is injured? Ai-ya... what should we do...? Ah? You want me to take the role?",
+                "jp": "以前に請け合った通り、ニェンの映画のアクション指導をしてやりに来た。どうだ、ここにいる役者たちはこれまで武芸を嗜んだことはなかったそうだが、懸命に稽古に励む姿はなかなか様になっていて、心震えるものがあるな。ん？主役が怪我をした？さて、いかがするべきか……代役を私に？",
+                "kr": "일전에 약속한 대로, 니엔의 영화 무술 지도를 해주러 왔다네. 어떤가, 여기 있는 배우들은 지금까지 무예를 익힌 적이 없다고 하지만, 이렇게 열심히 연습하는 모습이 꽤나 마음을 울리는 군 그래. 음? 주연이 다쳤다고? 흐음. 어찌하면 좋을지…… 내가 대신해달라고……?",
+                "cn": "博士，我应约来给年的电影当动作指导了。你看，这些演员虽然没有学过武艺，但努力练习的样子也是风貌不凡，令人感动。欸？男主角不小心受伤了？这可如何是好......让我替补？"
+            },
+            "asset": "char_2024_chyue_cfa#1/CN_002"
+        },
+        {
+            "id": "char_2024_chyue_cfa#1_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Let me see... I'm an L.G.D. officer, part of a special task force looking for artifacts. During a hostage rescue mission, I end up losing my memory when my superior betrays me, and in the end I battle a feranmut in the wilderness... Err... Nian, this is a little overwrought, don't you think? Fine, Director.",
+                "jp": "どれ……私は近衛局の隊員で、文化財の捜索を行う任務部隊に配属された。ある人質救助の任務の最中、上司の裏切りによって負った傷がもとで記憶を失い、ついには荒野で巨獣との決戦に臨む……ニェン、このストーリーは少々複雑すぎやしないか――はぁ、あい分かった、監督。",
+                "kr": "어디보자…… 나는 근위국 대원으로, 문화재 수색 특별 행동조에 합류하게 된다. 어떤 인질 구출 임무 도중 상관의 배신으로 부상을 입고 기억을 잃은 채, 결국 황야의 베헤모스와 결전을 맞이하게 된다…… 니엔, 이 스토리는 너무 복잡한 것 같은…… 그래. 알겠다, 감독.",
+                "cn": "我是一名近卫局成员，加入了寻找文物的特别行动组，在一次解救人质的任务中，因为上司的叛变受伤失去记忆，最终在荒野上与巨兽决战......小年，这个故事是不是太复杂——好吧，导演。"
+            },
+            "asset": "char_2024_chyue_cfa#1/CN_003"
+        },
+        {
+            "id": "char_2024_chyue_cfa#1_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "While we risk our lives out there, you're sitting back thinking of dinner. We fight criminals day and night, and all you ever think about is how to spiff up your reports. You got promoted at our expense. Have you ever thought of us? Oh, I'm merely rehearsing my lines. Haha. General Zuo is certainly nothing like this. He is a fine and upstanding man.",
+                "jp": "俺たちが現場で戦ってる時、お前は安全な場所で人と飯を食ってる。俺たちが命懸けで犯人を捕まえてる時、お前はどう点数稼ぎするかしか頭にない。俺たちの手柄を我が物顔で自分のもんにするが、部下のことを少しは考えたことあんのかよ――ああ、セリフを練習していただけだ。はは、ズオ将軍はもちろんこのような上官ではないぞ。",
+                "kr": "우리가 목숨 걸고 범인을 쫓을 때, 당신은 여기 앉아서 밥이나 먹고 있고, 범인을 잡아 오면 어떻게 하면 더 점수를 딸 수 있을까만 머리에 들어있잖아! 우리 덕분에 승진했으면서, 우리 생각은 하기나 해!? ……아아, 대사 연습을 하고 있었을 뿐이네. 하하, 좌장군은 물론 이런 상관이 아니지.",
+                "cn": "我们打架的时候，你在后方跟人吃饭，我们拼了命地抓罪犯，你只想着报告怎么写得好看。你是踩着部下的战功升级，你有没有替部下想一想——哦，我是在练习台词。哈哈，左将军当然不是这样的长官。"
+            },
+            "asset": "char_2024_chyue_cfa#1/CN_004"
+        },
+        {
+            "id": "char_2024_chyue_cfa#1_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "The fights in the movies are nothing like real combat. You must consider whether your position fits the shot composition, and whether your moves feel original. It's not just simple poses. It's a science, and I must learn everything anew. I should use my tail here? Hmm... Alright, let's try it again.",
+                "jp": "映画の殺陣は実際の戦いとは異なる。カメラの動きにどう動線を合わせるか、アクションをいかに目新しいものにするか、全てにこだわりがあり奥深く、決して上辺だけ取り繕った演技ではないんだ。私も一から学ばねばならない。このシーンで尾を使ってみたい？いいだろう、もうワンテイクやってみるか。",
+                "kr": "영화의 격투 신은 실제 싸움과는 다르다네. 카메라의 움직임에 동선을 어떻게 맞추는가, 액션을 얼마나 신선하게 만드는가, 이 모든 것이 학문이고, 결코 겉만 번지르르한 허세가 아니지. 나도 처음부터 배워야 한다네. 이 장면에서는 꼬리를 써 보고 싶다고? 좋군. 그럼 한 테이크 더 해보도록 할까.",
+                "cn": "电影里的打斗和实战不同，走位要如何配合镜头调度，动作要如何设计出新，这里面都是学问，可不是简单的花架子，我也得从头学起。这个地方想要试试用上尾巴？好啊，我们再来一条。"
+            },
+            "asset": "char_2024_chyue_cfa#1/CN_005"
+        },
+        {
+            "id": "char_2024_chyue_cfa#1_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "If you want your picture to be exciting, you must pour your heart and soul into creating it. If it's perfection that you seek, you must find a way through trial and error. All this blood and sweat, to turn a brief dream into one that lasts an eternity... Those who walk this path, are truly worthy of admiration and respect.",
+                "jp": "映画で人の心を動かそうというのなら、己の命を打ち込んで創作しなければならないものだ。叶う限りの美と完璧を求めるのであれば、一度また一度と答えを探して挑戦し、転げ回り、傷だらけになる過程が必ず挟まる。これら全ては、ひと時の夢を留めて、永遠にするための努力なのだ……創作者よ、なんと敬い感じ入るべきものか。",
+                "kr": "영화로 사람의 마음을 움직이기 위해선, 몸과 마음을 다해 창작해야만 한다네. 최상의 미와 완벽을 추구하기 위해선, 거듭 답을 찾아 도전하고, 넘어지고, 상처투성이가 되는 과정을 거쳐야 하지. 이 모든 과정은 찰나의 꿈을 영원한 것으로 만들기 위한 노력이네…… 창작자란, 이 얼마나 공경해 마지않을 사람들인가.",
+                "cn": "想要电影精彩动人，就少不了呕心沥血地去创造。想追求尽善尽美，就少不了一遍遍摸爬滚打，遍体鳞伤。这一切都是为了把一个短暂的梦留下，变成永恒的梦......这些人啊，可敬可佩。"
+            },
+            "asset": "char_2024_chyue_cfa#1/CN_006"
+        },
+        {
+            "id": "char_2024_chyue_cfa#1_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "And all of you hiding in a gloomy place like this! Why debase yourselves? Don't you know you're the scum of society?! Um, Director, I think as a policeman, our hero should reason with the lost young men, BEFORE engaging in physical combat with them... Ah? Talk sense into them as we fight? Very well, I'll try.",
+                "jp": "お前たちはなんでこんな暗がりで、クズに成り下がってるんだ――監督、この主人公は警察として道を誤った若者に手を出す前に、まず道理を説いてやらねばいけないと思うが……うん？話をしながら叩きのめす？分かった、できる限りやってみよう。",
+                "kr": "너희는 왜 이런 캄캄한 어둠 속에 숨어서, 사회의 쓰레기로 살아가고 있는 것이냐! ……감독, 주인공이 경찰로서 길을 잘못 든 젊은이들에게 손을 올리기 전에, 먼저 이치를 설명해야 한다고 생각하네만…… 얘기하면서 때려눕히라고? 알겠다. 최대한 해 보지.",
+                "cn": "你们为什么躲在这种暗无天日的地方，变成人人都讨厌的样子——导演，我认为主角作为警察，面对误入歧途的年轻人，在动手前应该先讲道理......要边动手边讲？好吧，我尽量试试。"
+            },
+            "asset": "char_2024_chyue_cfa#1/CN_007"
+        },
+        {
+            "id": "char_2024_chyue_cfa#1_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Nian, since we are shooting a picture, we must consider the influence it will have. No amount of drink will improve your kung fu, and you need not rely on violence in your struggle for justice. If everyone simply imitates—I can choreograph my own moves for the fights? Ahem-hem, Ling, I'll borrow this wine flask. You may have it back once the shoot is over.",
+                "jp": "ニェン、我々が映画を撮影する際にはそれが及ぼす影響まで考慮せねばならない。酒を飲むだけでは力量を上げることはできないし、正義を果たすために必ずしも力の誇示が必要なわけではない。もしこれを見た者が皆真似などしたら――うん？役者本人が決めたアクションだと？コホン、リィン、この瓢箪はひとまず預かっておく。撮影が終了したら返すからな。",
+                "kr": "니엔, 우리가 영화를 촬영할 때는 그것이 미칠 영향까지 고려해야 한다. 술을 마신다고 해서 역량을 높일 수 없고, 정의를 실현하기 위해 반드시 힘을 과시해야 하는 것도 아니지. 만약 이걸 본 사람들이 따라 하기라도 한다면…… 배우 본인이 결정한 액션이라고? 크흠. 링, 이 호리병은 일단 내가 맡아 보관하다, 촬영이 끝나면 돌려주마.",
+                "cn": "年，我们在拍电影，必须要考虑到它的影响。喝酒提升不了武艺，伸张正义也未必要靠争勇斗狠。若是别人都模仿起来——演员自己设计的动作？令，这葫芦我先收下，等拍摄完再还你。"
+            },
+            "asset": "char_2024_chyue_cfa#1/CN_008"
+        },
+        {
+            "id": "char_2024_chyue_cfa#1_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "I am both myself and a character in a story. Now I have left a fictional story, yet how do I know I'm not already in another, real story? If I hadn't come to shoot this picture, I may never have gotten the chance to experience a different life. All this is indeed very interesting. Would I like to try it again? Hmm... It would take much preparation for me to do so.",
+                "jp": "我は我であり、物語の中の登場人物でもある。舞台の外にいたとして、それがまた他の劇中でないと言い切れるものだろうか？映画の撮影でなければ、このような人生を体験する機会もなかったろう。なんとも興味深い経験だ。もう一度挑戦をしたくないかと？それには、今少し備えが必要だな。",
+                "kr": "나는 나이고, 이야기 속 등장인물이기도 하네. 무대 밖에 있다고 하여, 그것이 또 다른 극 중이 아니라고 어찌 단언할 수 있겠나? 영화 촬영이 아니었다면, 이런 인생을 경험할 기회도 없었겠지. 아주 흥미로운 경험이야. 다시 한번 도전하고 싶지 않냐고? 그러려면 준비가 조금 더 필요할 것 같군.",
+                "cn": "我既是我，也是故事里的角色；身在戏外，又怎知自己不是在另一场戏中？如果不是来拍电影，恐怕也没有机会体验这样的人生。的确是很有趣的经历。想不想再试一次？我还要多做准备才行。"
+            },
+            "asset": "char_2024_chyue_cfa#1/CN_009"
+        },
+        {
+            "id": "char_2024_chyue_cfa#1_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Ah… Look at that cloud in the distance. It's beautiful. Director, let's get an empty shot of it.",
+                "jp": "見て見ろ、遠くに浮かぶあの雲、なかなか良い姿をしているだろう。監督、エンプティ・ショットを撮っておこう。",
+                "kr": "저기 저 멀리 떠 있는 구름을 좀 보세, 꽤 멋진 모습이지 않은가. 감독, 설정 샷을 하나 찍어 두세나.",
+                "cn": "你看天边那朵云，多好看啊。导演，拍一个空镜头吧。"
+            },
+            "asset": "char_2024_chyue_cfa#1/CN_010"
+        },
+        {
+            "id": "char_2024_chyue_cfa#1_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Actors to their marks—Doctor, are you here for a visit? You want to help? Alright, hold this clapperboard. Now, stand a little closer to the camera. Yes, that's the right place. 3, 2, 1. Action!",
+                "jp": "役者のスタンバイ完了――ドクター、貴公も現場見学に来たのか。手伝いたい？では、このカチンコを持っていてくれ。カメラにもっと近付けて、そう、そこだ。三、二、一、アクション！",
+                "kr": "배우 스탠바이 완료…… 박사, 귀공도 견학을 온 것인가. 도와주고 싶다고? 그러면 이 슬레이트를 들고 있게. 카메라에 더 가까이, 그래, 그렇게. 3, 2, 1, 액션!",
+                "cn": "演员就位——博士，你也来参观拍摄吗？想要帮忙？那就麻烦你拿一下这个场记板好了。往镜头前面一点，嗯，这样刚好。三、二、一、action！"
+            },
+            "asset": "char_2024_chyue_cfa#1/CN_011"
+        },
+        {
+            "id": "char_2024_chyue_cfa#1_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "I can feel that each frame of action in this one is a product of tremendous human effort.",
+                "jp": "この一コマ一コマは全て、数え切れぬほどの者たちが心血を注いだ結果だろうな。",
+                "kr": "이 한 컷 한 컷 모두가, 셀 수 없이 많은 이들의 심혈을 기울인 결과겠지.",
+                "cn": "这每一帧画面，都是无数人的心血吧。"
+            },
+            "asset": "char_2024_chyue_cfa#1/CN_012"
+        },
+        {
+            "id": "char_2024_chyue_cfa#1_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "What? A Best Actor nomination? Uh no no no, as an actor, I am well aware that I still have a long way to go. Best Newcomer Award? That I can try to work toward.",
+                "jp": "主演男優賞？いやいや……役者としての己にまだまだ至らぬ部分が山とあるのはよく知っている。新人賞？それならば、獲れるものか努めてみるのも一興だろう。",
+                "kr": "남우주연상 후보? 아니, 아니네…… 배우로서 아직 부족한 부분이 산처럼 많이 있다는 것을 잘 알고 있다네. 신인상? 그거라면 받을 수 있도록 노력해 보는 것도 또 하나의 재미겠군그래.",
+                "cn": "最佳男主角提名？不不不......我知道，作为演员自己还有很多不足，最佳新人奖？或许还可以努力一下。"
+            },
+            "asset": "char_2024_chyue_cfa#1/CN_013"
+        },
+        {
+            "id": "char_2024_chyue_cfa#1_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Seeing the audience enjoying the picture fills me with that very same joy. Thank you, thank you very much.",
+                "jp": "皆が作品を観て喜ぶのなら、私も嬉しい。感謝する。",
+                "kr": "관객들이 작품을 보고 기뻐해 주니, 나도 기쁘군. 모두 고맙네.",
+                "cn": "看到观众看电影的时候很开心，我也很开心。谢谢你们。"
+            },
+            "asset": "char_2024_chyue_cfa#1/CN_014"
+        },
+        {
+            "id": "char_2024_chyue_cfa#1_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Before the camera, one must embody one's character.",
+                "jp": "カメラの前に立ったら、役に入り切らねばならない。",
+                "kr": "카메라 앞에 서면, 역할에 완전히 몰입해야 하지.",
+                "cn": "到了镜头前，就要将自己当作戏里的角色。"
+            },
+            "asset": "char_2024_chyue_cfa#1/CN_017"
+        },
+        {
+            "id": "char_2024_chyue_cfa#1_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "You want me to be the director? I dare say I have a little experience.",
+                "jp": "私が監督をするのか？それなりに経験はあるが。",
+                "kr": "감독을 맡아달라고? 나름 경험은 있네만.",
+                "cn": "需要我来当导演吗？我也算有些经验。"
+            },
+            "asset": "char_2024_chyue_cfa#1/CN_018"
+        },
+        {
+            "id": "char_2024_chyue_cfa#1_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Eenie meenie miney mo, that's the way I got to go!",
+                "jp": "どちらにしようかな。決めた。こちらだ。",
+                "kr": "어-느-것-을-고-를-까-요- 정했다. 이쪽이다.",
+                "cn": "一颗豆豆两颗米，那个出口便是你。"
+            },
+            "asset": "char_2024_chyue_cfa#1/CN_019"
+        },
+        {
+            "id": "char_2024_chyue_cfa#1_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "I hope next time when we meet, we won't be fighting each other. Instead we will be drinking tea together.",
+                "jp": "次は殴り合いではなく、共に茶を啜れることを心から願っている。",
+                "kr": "다음에 만날 때는 서로 싸우는 대신, 차나 함께 마시기를 바라지.",
+                "cn": "希望我们下次见面不是你打我我打你，而是一起喝茶。"
+            },
+            "asset": "char_2024_chyue_cfa#1/CN_020"
+        },
+        {
+            "id": "char_2024_chyue_cfa#1_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "That's why I like being a cop. Because I think all human life is important.",
+                "jp": "俺が警察という仕事を好んでいるのは、人間の命が等しく大事だと思っているからだ。",
+                "kr": "내가 경찰 일을 좋아하는 건, 모든 사람의 목숨이 똑같이 값지고 중요하다고 생각하기 때문이야.",
+                "cn": "我喜欢做警察，是因为我觉得每个人的生命都很重要。"
+            },
+            "asset": "char_2024_chyue_cfa#1/CN_021"
+        },
+        {
+            "id": "char_2024_chyue_cfa#1_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Always do the right thing, and stop the people who don't.",
+                "jp": "正義を行え。不正を阻止しろ。",
+                "kr": "정의를 행하고, 부정을 막아라.",
+                "cn": "一定要做正确的事，还要阻止别人做坏事。"
+            },
+            "asset": "char_2024_chyue_cfa#1/CN_022"
+        },
+        {
+            "id": "char_2024_chyue_cfa#1_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "I know what I'm doing. Don't stop me.",
+                "jp": "俺の命だ。使い道は心得ている。",
+                "kr": "내 목숨이야. 어떻게 쓸지는 잘 알고 있다.",
+                "cn": "命是我的，我有分寸。"
+            },
+            "asset": "char_2024_chyue_cfa#1/CN_023"
+        },
+        {
+            "id": "char_2024_chyue_cfa#1_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "You take the credit. I take the blame!",
+                "jp": "手柄はくれてやる。全責任は俺が負う。",
+                "kr": "공은 너에게 주겠다. 책임은 내가 지지.",
+                "cn": "功是你领，祸我来当！"
+            },
+            "asset": "char_2024_chyue_cfa#1/CN_024"
+        },
+        {
+            "id": "char_2024_chyue_cfa#1_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Let the spar begin!",
+                "jp": "一手、御指南願おう。",
+                "kr": "한 수, 지도를 부탁한다.",
+                "cn": "请指教！"
+            },
+            "asset": "char_2024_chyue_cfa#1/CN_025"
+        },
+        {
+            "id": "char_2024_chyue_cfa#1_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Freeze! You're under arrest, but you have the right to remain silent.",
+                "jp": "動くな。これより逮捕する。お前には黙秘権がある。",
+                "kr": "꼼짝 마! 현 시각으로 너를 체포한다. 너에겐 묵비권을 행사할 권리가 있다!",
+                "cn": "别动，你现在被捕了，你有权保持沉默。"
+            },
+            "asset": "char_2024_chyue_cfa#1/CN_026"
+        },
+        {
+            "id": "char_2024_chyue_cfa#1_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Something you just don't get. Some things are priceless.",
+                "jp": "人には理解できないことがある。この世には金で買えないものもある。",
+                "kr": "사람이 이해할 수 없는 것이 있듯, 이 세상에는 돈으로 살 수 없는 것도 있는 법이야.",
+                "cn": "有些事你理解不了，有些东西千金不换。"
+            },
+            "asset": "char_2024_chyue_cfa#1/CN_027"
+        },
+        {
+            "id": "char_2024_chyue_cfa#1_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Give it up. The whole building is surrounded by cops.",
+                "jp": "観念しろ。もう逃げられない。",
+                "kr": "항복해, 넌 포위됐어.",
+                "cn": "投降吧，外面都是警察。"
+            },
+            "asset": "char_2024_chyue_cfa#1/CN_028"
+        },
+        {
+            "id": "char_2024_chyue_cfa#1_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "You say it's over? No! it's NOT over! The real culprit is still hiding in the shadows. How can you say it's—O-Oh, sorry, the filming of this shot is indeed over.",
+                "jp": "これで終わりだと？真の黒幕をまだ捕らえていないのに、捜査を終われるか！何をもって終わりだなんて――ああ、すまない。確か今のシーンで撮影は終わりだな。",
+                "kr": "이걸로 끝이라고? 진정한 흑막을 아직 잡지 못했는데, 수사를 마치겠다는 거지!? 도대체 무슨 근거로 끝이라는…… 아아, 미안하네. 그러고 보니 이번 장면 촬영은 끝이었지.",
+                "cn": "你说结束？真正的祸首还没有抓到，案子还没有结！你凭什么说结束——哦，抱歉，这一镜拍摄的确是结束了。"
+            },
+            "asset": "char_2024_chyue_cfa#1/CN_029"
+        },
+        {
+            "id": "char_2024_chyue_cfa#1_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "I hope the masses will remember these scenes on the silver screen, even after many years have passed.",
+                "jp": "長く月日が経った後も、銀幕に映ったこれらの画が人々の心に残っていれば幸いだ。",
+                "kr": "긴 세월이 흐른 뒤에도, 스크린에 비친 이 장면들이 사람들의 마음속에 남아 있다면 더할 나위 없이 행복하겠군.",
+                "cn": "希望即使过去很久，人们也会记得银幕里的这些画面。"
+            },
+            "asset": "char_2024_chyue_cfa#1/CN_030"
+        },
+        {
+            "id": "char_2024_chyue_cfa#1_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "If it is a masterpiece you want, you must seek perfection in every detail. Let's try this once more.",
+                "jp": "良い作品を作ろうと思うのであれば、細部まで完璧を目指して最善を尽くすべきだ。もうワンテイクいくぞ。",
+                "kr": "좋은 작품을 만들고 싶다면, 세세한 부분까지도 완벽을 추구하며 최선을 다해야 하는 법이네. 한 테이크 더 가지.",
+                "cn": "想要拍出好的作品，每个细节都应当追求尽善尽美，我们再来一条吧。"
+            },
+            "asset": "char_2024_chyue_cfa#1/CN_031"
+        },
+        {
+            "id": "char_2024_chyue_cfa#1_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Life will knock us down, but we can choose, whether or not, to get back up.",
+                "jp": "人生は俺たちを打ちのめす。だが、自分が立ち上がるかは選ぶことができるんだ。",
+                "kr": "삶이 우리를 쓰러뜨릴 수는 있지. 하지만 다시 일어설지 말지는 우리의 선택에 달렸네.",
+                "cn": "生活会把我们打趴下，但我们可以选择是否自己站起来。"
+            },
+            "asset": "char_2024_chyue_cfa#1/CN_032"
+        },
+        {
+            "id": "char_2024_chyue_cfa#1_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Is that a wrap for today? Better check and see if you have left anything behind.",
+                "jp": "今日の撮影は終わったのか？片付け忘れたものがないか、もう一度確認をするといい。",
+                "kr": "오늘 촬영은 끝난 건가? 떨어뜨린 물건이 있지는 않은지 다시 한 번 확인하도록.",
+                "cn": "今天的拍摄结束了吗？再检查一下有没有落下东西吧。"
+            },
+            "asset": "char_2024_chyue_cfa#1/CN_033"
+        },
+        {
+            "id": "char_2024_chyue_cfa#1_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Doctor, this costume and makeup took three hours to finish.",
+                "jp": "ドクター、今日のメイクは三時間もかけてできたものだぞ。",
+                "kr": "박사, 오늘 메이크업은 3시간이나 걸려서 완성한 것이라네.",
+                "cn": "博士，这身服装造型可是花了三个小时才准备好的。"
+            },
+            "asset": "char_2024_chyue_cfa#1/CN_034"
+        },
+        {
+            "id": "char_2024_chyue_cfa#1_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Doctor, perfect timing. Come help me rehearse. Oh, just the lines, no kung fu necessary.",
+                "jp": "ドクター、ちょうどいい。少し相手役をやってくれないか。なに、読み合わせをするだけだ、アクションはない。",
+                "kr": "박사, 마침 잘 됐군. 잠시 상대 역할을 좀 해주지 않겠나. 뭐, 대사만 맞춰주면 되네. 액션은 아닐세.",
+                "cn": "博士，正好，来帮我搭一段戏吧。只是对对台词，不用动手。"
+            },
+            "asset": "char_2024_chyue_cfa#1/CN_036"
+        },
+        {
+            "id": "char_2024_chyue_cfa#1_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_2024_chyue_cfa#1/CN_037"
+        },
+        {
+            "id": "char_2024_chyue_cfa#1_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "That's another year in the books. How time flies may feel somewhat woeful. But this is a new beginning, so we should be cheerful. What I am holding, you ask? I learned how to use a camcorder recently, so I'm filming whatever catches my fancy. See the fireworks? How beautiful they are.",
+                "jp": "また一年が過ぎていったな。逝く者は斯くの如きかとは言うが、感傷を覚えるのもまた避けられぬ。しかし何といっても旧きに礼をして、新しきを迎える日だからな。心楽しくあるべきだろう。これか？近頃、私もカメラの使い方を学んでな。何かと記録をつけるのが習慣になったんだ。ほら見ろ、花火が大層美しいぞ。",
+                "kr": "또 한 해가 지났군. 가는 세월을 막을 수 없다지만, 감상에 젖는 것 또한 피할 수 없구나. 하지만 무엇보다도 옛것을 기리고 새것을 맞이하는 날이니, 마음은 즐거워야겠지. 이것 말인가? 최근에 카메라 사용법을 배우고 있네. 이것저것 기록하는 게 습관이 되었어. 자 보게나, 불꽃놀이가 참으로 아름답지 않은가.",
+                "cn": "又一年过去了。虽说逝者如斯，难免伤怀。但毕竟是辞旧迎新的日子，还是应该开心一些。我手上的物件？我最近也学会了用摄影机，习惯随手记录点什么。你看，这烟花多好看啊。"
+            },
+            "asset": "char_2024_chyue_cfa#1/CN_038"
+        },
+        {
+            "id": "char_2024_chyue_cfa#1_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Doctor, you're early today. Don't forget to eat breakfast before you start work.",
+                "jp": "ドクター、今日は早いじゃないか。朝飯をとってから仕事するんだぞ。",
+                "kr": "박사, 오늘은 일찍 나왔군. 아침은 먹고 일하게나.",
+                "cn": "博士，今天来得真早。开工前要记得吃早餐。"
+            },
+            "asset": "char_2024_chyue_cfa#1/CN_042"
+        },
+        {
+            "id": "char_2024_chyue_cfa#1_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, happy birthday. This, is a film print from a picture I was in. It's not worth much, but it's a treasured memory to me. You want to watch it now? I suppose I could borrow Nian's equipment... No matter. You're the star of the show today.",
+                "jp": "ドクター、誕生日の祝いを申し上げる。これは以前に出演した映画のフィルムだ。大したものではないが、忘れがたい思い出には違いない。今すぐ観たいのか？ならばニェンのところから再生機器を借りて来よう……遠慮することはない、今日は貴公が主役だからな。",
+                "kr": "박사, 생일 축하하네. 이건 예전에 출연했던 영화 필름일세. 대단한 건 아니네만, 잊을 수 없는 추억임엔 틀림없지. 지금 바로 보고 싶다고? 그러면 니엔에게서 재생 플레이어를 빌려 오도록 하겠네…… 사양하지 말게나, 오늘은 귀공이 주인공이니 말이야.",
+                "cn": "博士，生日快乐。这是我之前参演的电影留下的一份原始胶片。不算贵重的礼物，但的确是一段难得的回忆。现在就想看看？我应该可以从年那里借来设备......无妨，今天你是主角。"
+            },
+            "asset": "char_2024_chyue_cfa#1/CN_043"
+        },
+        {
+            "id": "char_2024_chyue_cfa#1_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Rhodes Island rarely enjoys auspicious celebrations like these. A certain motion picture says, you should treat every day like the holidays. Before we can love our ideals, we must first love our own lifestyles. Which reminds me, Doctor, if you have time today, why don't we take in a matinee together? Or perhaps you'd prefer to spar outside?",
+                "jp": "ロドスでこれほど賑やかな祝典が行われるのは珍しいな。とある映画で、何気なく過ごす一日一日を、特別な日であるように大事にすべきだと言っていた。まずは己の日常を愛してこそ、己の理想に愛を注げるのだ。ドクター、時間があるのなら、このあと共に映画鑑賞でもどうだ？あるいは、表に出て手合わせをしてもいいぞ。",
+                "kr": "로도스 아일랜드에서 이렇게 떠들썩한 축제가 열리는 것은 드문 일이로군 그래. 어떤 영화에서 나온 말이네만, 무심코 지나가는 매일이 특별한 날이 되도록 소중히 여기라고 했네. 먼저 자신의 일상을 사랑해야만, 자신의 이상에도 사랑을 쏟을 수 있는 것이지. 박사, 시간 괜찮다면 이따가 영화라도 한 편 같이 보겠나? 아니면 밖에 나가서 대련을 해도 괜찮네.",
+                "cn": "罗德岛上难得有这样热闹的庆典。电影里说，应该把每一天都当成节日来爱。要先热爱自己的生活，才能热爱自己的理想吧。博士，今天有空的话一起来看部电影如何？或者你更想出门活动一下拳脚？"
+            },
+            "asset": "char_2024_chyue_cfa#1/CN_044"
+        }
+    ],
+    "actors": {
+        "cn": {
+            "native": "赵岭",
+            "global": "Ling Zhao"
+        },
+        "jp": {
+            "native": "関俊彦",
+            "global": "Toshihiko Seki"
+        },
+        "kr": {
+            "native": "구자형",
+            "global": "Koo Ja-hyoung"
+        }
+    },
+    "availability": [
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

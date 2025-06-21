@@ -65,7 +65,7 @@
                 "cn": "交谈3"
             },
             "text": {
-                "en": "You've probably noticed, but my hair is quite difficult to sytle... So I have to let my hair down like this... It's not very appropriate, is it?",
+                "en": "You've probably noticed, but my hair is quite difficult to style... So I have to let my hair down like this... It's not very appropriate, is it?",
                 "jp": "見ての通り私、こんな姿だし…。普通の髪型とかできないから、こんなふうに髪を下ろすしかなくて…私、見苦しいよね……。",
                 "kr": "보다시피 난, 이렇게 생겼잖아…… 평범한 머리 모양을 하질 못하니까 이렇게 머리를 늘어뜨릴 수밖에 없어서…… 나…… 보기 흉하지?",
                 "cn": "如您所见，我的头发没法编一些常见的发型，所以就只能像这样把头发放下来......果然我这样，还是不太好吧......"
@@ -583,6 +583,22 @@
                 "cn": "博，博士..."
             },
             "asset": "char_127_estell/CN_042"
+        },
+        {
+            "id": "char_127_estell_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, this is a gift I made... My friend on my head shed a bunch of feathers, which I made into a pendant. I hope you like it...",
+                "jp": "博士......我、这是我做的礼物！我头上的小伙伴换毛时掉落了很多软软的羽毛，我用它们做成了小挂饰......您、您要是喜欢就好了......！",
+                "kr": "박사…… 이, 이거 내가 만든 거야! 내 머리 위에 있는 친구가 털갈이할 때 보송보송한 솜털이 많이 떨어지는 편이라, 그걸 모아서 작은 장식품을 만들어 봤는데…… 박, 박사가 마음에 들어 했으면 좋겠어!",
+                "cn": "博士......我、这是我做的礼物！我头上的小伙伴换毛时掉落了很多软软的羽毛，我用它们做成了小挂饰......您、您要是喜欢就好了......！"
+            },
+            "asset": "char_127_estell/CN_043"
         },
         {
             "id": "char_127_estell_CN_044",

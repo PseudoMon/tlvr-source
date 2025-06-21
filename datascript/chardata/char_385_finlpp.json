@@ -585,6 +585,22 @@
             "asset": "char_385_finlpp/CN_042"
         },
         {
+            "id": "char_385_finlpp_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor! This is a water purifier I developed myself. You connect it to the tap, and it lets you directly drink the water that comes out! Oh, of course, I'll keep working on new filter models for you to replace it with. I've got this all planned out, and the next step is—getting everyone at Rhodes Island to use it!",
+                "jp": "博士生日快乐，这是我自己研发的净水器，把它接在水龙头上，流出来的水就是可以直接饮用的了！当然，我也会继续研究出新款滤芯给博士替换，那么下一步，就是争取让罗德岛所有人都用上！",
+                "kr": "생일 축하해, 박사. 이건 내가 개발한 정수기야, 이걸 수도꼭지에 연결하면 흘러나오는 물을 그대로 마실 수 있어! 물론 정화용 필터는 내가 계속 개발해서 박사한테 줄 생각이고. 그 다음 목표는 로도스 아일랜드에 있는 모든 사람들이 이 정수기를 사용할 수 있게 하는 거야!",
+                "cn": "博士生日快乐，这是我自己研发的净水器，把它接在水龙头上，流出来的水就是可以直接饮用的了！当然，我也会继续研究出新款滤芯给博士替换，那么下一步，就是争取让罗德岛所有人都用上！"
+            },
+            "asset": "char_385_finlpp/CN_043"
+        },
+        {
             "id": "char_385_finlpp_CN_044",
             "title": {
                 "en": "Anniversary Celebration",
@@ -615,8 +631,8 @@
             "global": "Marie Miyake"
         },
         "kr": {
-            "native": "가빈",
-            "global": "Ga Bin"
+            "native": "오로아",
+            "global": "Oh Roah"
         }
     },
     "availability": [

@@ -585,6 +585,22 @@
             "asset": "char_4054_malist/CN_042"
         },
         {
+            "id": "char_4054_malist_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "I've been straining my wrist muscles over the past few days. The Medic Operators told me it'd improve a little using these wrist braces, so I bought a few spares. I was at a loss for what to give you today, so take these two as a present. Just fix them to the table and they'll work.",
+                "jp": "ここのところ腕の筋肉を使いすぎて、医療部の奴にこのアームレストを勧められたから、予備用のやつも含めて多めに買っておいたんだ。アンタに何送ればいいかわかんなかったし、一セットあげるよ、机に付けとけばいいから。",
+                "kr": "요즘 손목을 너무 써서, 의료부 오퍼레이터들이 평소에 이런 팔걸이를 써 보면 나아질 거라고 하더라. 그래서 예비용까지 넉넉하게 사 뒀지. 마침 오늘 너한테 뭘 선물하면 좋을지 고민했었는데, 이걸 두 개 줄게. 책상에 고정하기만 하면 돼.",
+                "cn": "我前几天手腕肌肉过劳，医疗部干员说平时用这种腕部支架会好一点，我就多买了几个备用。本来今天也不知道送你什么，这两个就当礼物了，你固定在桌子上就行。"
+            },
+            "asset": "char_4054_malist/CN_043"
+        },
+        {
             "id": "char_4054_malist_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

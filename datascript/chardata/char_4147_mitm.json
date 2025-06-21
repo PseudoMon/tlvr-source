@@ -585,6 +585,22 @@
             "asset": "char_4147_mitm/CN_042"
         },
         {
+            "id": "char_4147_mitm_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "You're a real mystery, you know? I asked around and nobody seemed to know what you like for your birthday. But from what I've seen, you probably won't hate this. Try it out, nothing like hot soup to wash away all your worries, so chug it down and celebrate!",
+                "jp": "あちこちに探りを入れても、あんたが欲しそうなプレゼントってのがわかんなかったけど……普段見てる限り、こいつは多分嫌いじゃないよな？俺のお手製だ。口に合うといいんだが。どんな悩みでもあったかいスープを飲めば、きれいさっぱり吹っ飛ぶもんだ。これを飲んで気分をあげていこうぜ。",
+                "kr": "여기저기 다 캐묻고 다녔는데, 박사가 제일 갖고 싶어하는 생일 선물이 뭔지는 결국 알아내지 못했어…… 하지만 평소에 관찰한 바로는, 이런 걸 꽤 좋아할 거 같아서 말이야. 자, 내가 직접 만든 거야. 입에 맞았으면 좋겠네. 그 어떤 걱정거리라도 따뜻한 국물 한 입이면 말끔히 사라지는 법이잖아? 이걸 마시고 박사가 더 행복했으면 좋겠어.",
+                "cn": "四处打听也没有问出你最想要什么生日礼物，不过据我观察，你应该不会讨厌这个——尝尝我的手艺，是不是你喜欢的口味？一碗热汤能够驱散所有忧虑，喝了这碗汤，要更加开心哦。"
+            },
+            "asset": "char_4147_mitm/CN_043"
+        },
+        {
             "id": "char_4147_mitm_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

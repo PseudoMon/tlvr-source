@@ -585,6 +585,22 @@
             "asset": "char_1021_kroos2/CN_042"
         },
         {
+            "id": "char_1021_kroos2_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor. I've left your prezzie in your bag. What, been forever since my last prank? I suppose it has been. We've known each other for so long, you've seen practically every trick I have in the book. Or perhaps you're saying you miss that sometimes? Well, I can indulge you.",
+                "jp": "博士生日快乐哦。礼物已经放在你的口袋里了。很久没有做恶作剧了？好像是这样呢。毕竟和博士认识这么久了，我的小戏法博士基本都见过了嘛。难道说博士也会怀念过去的小游戏吗？那也可以哦~",
+                "kr": "박사, 생일 축하해. 선물은 박사 호주머니에 넣어뒀어. 장난을 안 친지 꽤 오래됐다고? 음, 그런 것 같아. 우리가 알고 지낸 지도 꽤 됐고, 내 트릭은 박사도 거의 다 봤잖아. 설마 박사도 예전처럼 장난치는 게 그리운 거야? 다시 해줄 수도 있어~",
+                "cn": "博士生日快乐哦。礼物已经放在你的口袋里了。很久没有做恶作剧了？好像是这样呢。毕竟和博士认识这么久了，我的小戏法博士基本都见过了嘛。难道说博士也会怀念过去的小游戏吗？那也可以哦~"
+            },
+            "asset": "char_1021_kroos2/CN_043"
+        },
+        {
             "id": "char_1021_kroos2_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

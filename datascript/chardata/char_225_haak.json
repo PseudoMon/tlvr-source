@@ -585,6 +585,22 @@
             "asset": "char_225_haak/CN_042"
         },
         {
+            "id": "char_225_haak_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Heheheh, here's a cake, fruits of my research! I assure you, it's pure cake, nothin' but the same stuff you find in every cake! ...You heard weird laughing from the lab yesterday? My dude, there was no such thing, and I think your ears might be goin' funky. C'mon, a bite of cake'll fix you.",
+                "jp": "嘿嘿嘿，我研究出来的蛋糕，我保证，纯纯的蛋糕，只加了每一个蛋糕都有的东西！......昨天听到实验室里有奇怪的笑声？老板，没有，那说不定是您耳朵出了点问题，来，吃口蛋糕就好了。",
+                "kr": "나리, 헤헤헤. 이건 내가 '연구해낸' 케이크인데, 받아줘. 케이크에 들어갈 만한 재료만 사용했으니까 아주 멀쩡하고 정상적인 거라고 보장할게! ……어제 실험실에서 수상한 웃음소리가 들렸다고? 그럴 리가, 분명 나리가 잘못 들었을 거야. 헤헤, 얼른 이거 한 입 먹어 봐.",
+                "cn": "嘿嘿嘿，我研究出来的蛋糕，我保证，纯纯的蛋糕，只加了每一个蛋糕都有的东西！......昨天听到实验室里有奇怪的笑声？老板，没有，那说不定是您耳朵出了点问题，来，吃口蛋糕就好了。"
+            },
+            "asset": "char_225_haak/CN_043"
+        },
+        {
             "id": "char_225_haak_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

@@ -585,6 +585,22 @@
             "asset": "char_250_phatom/CN_042"
         },
         {
+            "id": "char_250_phatom_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor. If this desolate throat of mine could still sing, I would gladly devote a ballad to you for the occasion. It is my regret, then, that the opportunity is no more. Ah, Ms. Christine offers us a rose—it seems she, too, wishes you well on this special day.",
+                "jp": "生日快乐，博士。如果我这残破的喉咙还能唱歌的话，我很乐意为您献上一首生日歌谣。只可惜，我不再有这个机会了。啊，Miss.Christine衔来了一朵玫瑰，看来她也想为您庆生呢。",
+                "kr": "생일 축하한다, 박사. 만약 이 망가진 목으로나마 노랫소리를 만들어낼 수 있었다면, 기꺼운 마음으로 박사에게 생일 축하 노래를 바쳤을 텐데. 하지만 안타깝게도 이제 그런 기회는 더 이상 오지 않겠지. 아, 저기 미스 크리스틴이 장미 한 송이를 가지고 오고 있군. 그녀도 박사의 생일을 축하하는 모양이다.",
+                "cn": "生日快乐，博士。如果我这残破的喉咙还能唱歌的话，我很乐意为您献上一首生日歌谣。只可惜，我不再有这个机会了。啊，Miss.Christine衔来了一朵玫瑰，看来她也想为您庆生呢。"
+            },
+            "asset": "char_250_phatom/CN_043"
+        },
+        {
             "id": "char_250_phatom_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

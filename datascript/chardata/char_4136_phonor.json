@@ -521,6 +521,22 @@
             "asset": "char_4136_phonor/CN_042"
         },
         {
+            "id": "char_4136_phonor_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "If Aefanyl chose Rhodes Island as his second home, then I will regard you as family, same as him. Tonight, I'll sing a song that belongs only to you.",
+                "jp": "アエファニルがロドスを第二の郷に選んだのなら、妾もあの子と同じく、そなたを家族として認めよう。今宵はそなたのためだけに歌って進ぜようぞ。",
+                "kr": "아이파닐이 로도스 아일랜드를 제2의 고향으로 삼은 이상, 나도 그 아이와 마찬가지로 그대를 가족으로 대할 거야. 오늘 밤은 내가 박사만을 위해 노래를 불러줄게.",
+                "cn": "如果哀珐尼尔选择罗德岛作为自己的第二个家，那我也会同他一样，把您当作家人对待。在今夜，我会唱响独属于您的咏歌。"
+            },
+            "asset": "char_4136_phonor/CN_043"
+        },
+        {
             "id": "char_4136_phonor_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

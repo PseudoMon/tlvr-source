@@ -1,0 +1,644 @@
+{
+    "charid": "char_4163_rosesa",
+    "nameid": "rosesa",
+    "names": {
+        "en": "Rose Salt",
+        "jp": "ローズソルト",
+        "kr": "로즈솔트",
+        "cn": "瑰盐"
+    },
+    "voices": [
+        {
+            "id": "char_4163_rosesa_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Come on, Doctor, I <i>just</i> got back from fieldwork. My arms ache, my legs are sore… Can't we leave this stuff for tomorrow? Pretty please? No? Tsk, stupid hood-head… My Rhodes Island pass is ready...? Ahaha! Just kidding. Right away, boss!",
+                "jp": "ねー、ドクターさん。あたし外勤から戻って来たばかりで、腕も脚も痛くってさぁ、この仕事明日にしていい？ダメ？ちっ、クソフードが……申請してた通行証はもうできてた？……あはは～、今のは冗談だからね、すぐにやるよっ。",
+                "kr": "저기 박사님~ 나 외근 갔다가 막 돌아와서 여기 팔도 다리도 아픈데, 이 일 내일 하면 안 될까? 안 된다고? 쳇, 망할 후드 놈이…… 전에 신청한 통행증이 벌써 나왔다고? ……아하하~ 방금 건 농담이야, 농담! 바로 할게!",
+                "cn": "哎呀，博士，你看我刚出外勤回来，胳膊痛腿也痛，这点事情我能不能明天再做呀？不能？嘁，死兜帽头......我要的通行证罗德岛已经办好了——哈哈~我开玩笑的，我现在就做呀。"
+            },
+            "asset": "char_4163_rosesa/CN_001"
+        },
+        {
+            "id": "char_4163_rosesa_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Hey, you awake? C'mon, c'mon, snap out of it! And what's with that dopey look on your face? You said you were dead tired and didn't wanna work, so I told HR you passed out and got you some sick leave. Oh, that smell in the air? Dizzyleaf smoke. Isidro tried some before, and he slept like a log.",
+                "jp": "おっと、起きたの？ちょっとちょっと、しっかりしなよ。なんでそんなぽかんとしてんの？さっき疲れ切ってて仕事したくないって言うから、人事にあんたが倒れたって報告して、休みの許可までとってあげたんだからね。何か匂いがするって？眠り薬だよ。イシドロに使った時は、すっごく気持ちよさそうに寝てたんだから。",
+                "kr": "일어났어? 자자, 정신 차리라고. 왜 그렇게 멍하니 있는 거야? 아까 너무 피곤해서 일하기 싫다길래, 인사부 쪽에는 너 쓰러졌다고 보고하고 병가까지 받아놨다고. 무슨 냄새가 난다고? 아, 수면향이야. 이시드로한테 썼을 때는 아주 기분 좋게 자던데.",
+                "cn": "哦，你醒来了？喂喂，回回神，怎么一脸茫然的样子？你刚刚说你好累不想工作，我就和人事干员说你昏过去了，还帮你请了病假。空气里的味道？是迷烟啦，伊西多就试过，我记得他睡得很香。"
+            },
+            "asset": "char_4163_rosesa/CN_002"
+        },
+        {
+            "id": "char_4163_rosesa_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Who made this finshit class schedule?! Why do I have to sit in an etiquette class with those stupid little brats? And what in the saltdamned seas is this supposed to be? 'List of banned profanity: salty bastard, inquisition gilipollas…' Hmph, honestly, how is—Ow! Why'd you hit me...?",
+                "jp": "何このクソみたいな時間割。なんでこのあたしがアホ面並べたガキどもと一緒に礼儀作法の授業なんか受けないといけないわけ？それとこれ何？「使用禁止罵詈雑言一覧表――塩漬けミイラ、ペテン師……」ちっ、何様のつも――きゃっ！おい、なんで頭を叩くんだよ！",
+                "kr": "뭐야 이 린수똥 같은 시간표는. 왜 내가 저 멍청한 꼬맹이들하고 예절 수업을 들어야 하는 건데? 그리고 이건 또 뭐야? '사용 금지 욕설 목록: 이런 염장, 사기꾼놈……' 쳇, 너희가 뭔데 이래라 저…… 아야! 머리는 왜 때리는데!",
+                "cn": "什么鳞屎课程表？我为什么要和那群蠢蛋小屁孩一起上礼仪课？还有这又是什么玩意？“不许说的脏话词语表：咸人干、经棍......”嘁，你们算什么东——呜啊！你干嘛打我的头！"
+            },
+            "asset": "char_4163_rosesa/CN_003"
+        },
+        {
+            "id": "char_4163_rosesa_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Doctor! It's been two weeks since I applied for field missions. I was wondering if—What the hell? <i>Three</i> years with a clean record at Rhodes Island first?! Ahem, I mean, come on, can't you bend the rules just a little. Doing bad things in Rhodes Island's name? I would never! So... Please, my most esteemed boss. Help me, O Supreme and Invincible Commander. Oh, I beg you, the Great Doctor!",
+                "jp": "ドクターさん、あたしね、外勤任務許可証の申請をしてもう半月経ってるの。いつ――はあ？三年間勤務して、素行不良の記載がない記録を持ってないとダメ？硬いこと言わないでさぁ、お願い～ロドスの名前で悪いことなんかしないから！絶対！お願い！ドクターはいっちばん優しいって知ってるもん！憧れの上司様！最高の指揮官様！",
+                "kr": "박사님, 그게 있지, 외근 임무 허가서 신청한 지 벌써 보름이나 됐는데. 언제쯤…… 아앙? 3년 근속에 불량 소행 소견이 없어야 한다고? 그렇게 딱딱한 소리 하지 말고~ 부탁할게~ 로도스 아일랜드 이름 달고 나쁜 짓은 절대로! 안 할게, 약속! 박사가 상냥한 사람인 거 나 다 알아~! 존경하는 상사님! 최고의 지휘관님!",
+                "cn": "博士，我申请外勤证明半个月了，您看——怎么只有我要在罗德岛干满三年还没不良记录才行！通融一下嘛~用罗德岛的名义做坏事？才不会！求求你！最好的博士！尊敬的上司！至高无上的指挥官！"
+            },
+            "asset": "char_4163_rosesa/CN_004"
+        },
+        {
+            "id": "char_4163_rosesa_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "So much stuff in my room? Not really. Only a bunch of pretty dresses, yummy snacks, and shiny gems. Hey, don't look at me like that! I <i>paid</i> for all this! I just wanna be surrounded by the things I've always wanted. Snuggling up to them helps me sleep at night.",
+                "jp": "部屋の物が多い？別に多いとは思わないけど。綺麗なお洋服とか、美味しいものとか、色んなジュエリーがあるだけでしょ。何じろじろ見て。全部自分で買ったもんだよ！あたしは、昔欲しかったものに囲まれるのが好きなんだ。夜寝る時だってすーごく安心できるんだから！",
+                "kr": "방에 물건이 많다고? 별로 많은 것 같진 않은데. 그냥 예쁜 옷이나 맛있는 음식, 그리고 다양한 보석이 있는 정도잖아. 뭘 그렇게 쳐다보는 거야. 다 내가 직접 산 거라고! 나는 예전부터 갖고 싶었던 것들에 둘러싸여 있는 걸 좋아했어. 이러면 밤에 잘 때도 마음이 아주 편안해진다니까!",
+                "cn": "多吗？我觉得我屋子里的东西不多啊，无非就是各种漂亮衣服，各种好吃的，各种珠宝。看什么，都是我自己买的！我就喜欢曾经想要的东西都在身边的感觉，和它们挤在一起，晚上睡觉都更安心。"
+            },
+            "asset": "char_4163_rosesa/CN_005"
+        },
+        {
+            "id": "char_4163_rosesa_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "I've slept on beds softer than this one, as well as out in the Salt Flat, and on a ship's deck. I'll never forget how it feels, just like I'll never return to a life on the run. You know what, Doctor? One day, I'll have a nice, big, comfy bed all my own, and that's how I'll know I'm living the good life.",
+                "jp": "これより柔らかいベッドに寝たこともあるし、塩砂漠とか、デッキでだって寝たことある。寝っ転がった感覚も全部覚えてるから、二度と邪険にされて追い払われる暮らしなんかしたくない。いつか、自分の力でいっちばん気持ちいいベッドで寝るんだ。あたしは絶対に誰よりもいい暮らしをしてみせる！",
+                "kr": "난 이거보다 훨씬 부드러운 침대에서 잠들어 본 적도 있고, 소금 사막이나 갑판에서 잠든 적도 있어. 그 모든 느낌을 기억하는 한, 다시는 무시당하거나 쫓겨나는 삶을 살고 싶지 않아. 언젠가 내 힘으로 가장 편안한 침대에서 잘 거야. 나는 반드시 누구보다도 더 나은 삶을 살아 보이겠어!",
+                "cn": "比这更软的床我睡过，盐漠、船板我也睡过，睡上去的感觉我都记得，所以我绝对不要再去过那种会被人赶走的日子。总有一天我能靠自己睡在最舒服的大床上，我一定要过最好的生活！"
+            },
+            "asset": "char_4163_rosesa/CN_006"
+        },
+        {
+            "id": "char_4163_rosesa_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Listen, Doctor. Those Bastards at the Inquisition are nothing more than a school of starving saltfins. The moment they smell blood, they'll lock their dead finny eyes on you and mark you for death. Disgusting! Vermin! Stay clear at all costs! Wait, what...? The little bird I was just dancing with was an <i>Inquisitor</i>?!",
+                "jp": "ドクター、裁判所のペテン師たちは飢えた塩鱗獣の群れだよ。血の匂いを嗅ぎ取ったら、目ん玉丸くしてずーっと見てくんの。こっちが弱ってて絶対に捕まえられる獲物だって分かるまでね。キモ！カス！あんなやつらと絶対関わりたくない！え？さっきあたしと踊ってた小鳥ちゃんがそうなの？",
+                "kr": "박사, 재판소 그 사기꾼 놈들은 굶주린 염린떼나 다름없어. 피 냄새를 맡으면 눈을 동그랗게 뜨고 계속 쳐다본다니까. 무조건 잡을 수 있을 만큼 약해진 먹잇감이란 걸 확인할 때까지 말이야. 역겨워! 쓰레기들! 그딴 놈들하고는 절대 엮이지 마! 어? 방금 나랑 춤췄던 그 작은 새가 거기 소속이라고?",
+                "cn": "博士，审判庭那帮经棍就是一群饿疯了的盐鳞，闻到血味就用那些死鳞眼一直盯着你，直到他们确定你是一个必死的猎物，恶心！下贱！绝对不要和他们扯上关系！欸？你说刚才和我跳舞的小鸟就是？"
+            },
+            "asset": "char_4163_rosesa/CN_007"
+        },
+        {
+            "id": "char_4163_rosesa_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Any towns in Iberia I don't know? Pfft! I could show you where all their mayors hide their doblones. So what's this about? Ohh... You need intel but can't dig it up yourselves? And now you're... begging me for help? Hee hee hee hee. Well then, first of all… Address me properly, as Señora Pascuala.",
+                "jp": "イベリアにあたしが知らない町があるわけないでしょ？町長がへそくりをどこに隠してるかまで知ってるけどなにか？え……あの辺の情報が欲しいけど、直接調査には行けない？ふっふーん、あんたらにもあたしに頭を下げる時があんだ？それじゃまず、「お願いします、パスクアラ様」って言ってみなさい。",
+                "kr": "이베리아에 내가 모르는 마을이 있을 리가 없잖아? 촌장이 비자금을 어디에 숨겨놓는지까지 다 알고 있다고. 뭐, 왜? 어…… 그쪽 정보가 필요한데 직접 조사하러 갈 수는 없다고? 흐흥~ 그러니까 나한테 머리 숙여 부탁하러 온 거네? 자, 그럼 먼저 “제발 부탁합니다, 파스콸라님”이라고 해 봐.",
+                "cn": "伊比利亚有我不熟的镇子吗？我连镇长们的私房钱藏哪都知道，怎么了？哦......你们想要那边的消息，又不好直接去查？哼哼，也有你们求我的时候？那先叫一声帕斯卡拉大人来听听吧。"
+            },
+            "asset": "char_4163_rosesa/CN_008"
+        },
+        {
+            "id": "char_4163_rosesa_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Oye, Doctor, you think I could earn more in Columbia or Kazimierz? I hear those two places have loads of people who'll throw money at anything. The streets are a treasure trove of opportunity! Oh, don't worry, if I do get a big haul, I'll need you there to help reel it in.",
+                "jp": "ねぇドクター、クルビアとカジミエーシュ、どっちに行く方が稼げると思う？あの辺りは道を歩けば金持ちのカモにぶち当たるから、稼ぐチャンスがそこら中に転がってるってさ！安心しなさいなって、もし良い金ズルを見つけたら、絶対あんたにも良い思いさせてあげるから。",
+                "kr": "있지, 박사. 컬럼비아랑 카시미어 중에 어디로 가는 편이 더 벌이가 될 것 같아? 듣기론 그쪽에 돈 많은 호구들이 깔려 있어서, 돈 벌 기회가 아주 널려 있대! 걱정하지 마, 걱정하지 마. 혹시 좋은 기회 있으면, 너도 좀 챙겨줄 테니까.",
+                "cn": "哎，博士，你说，是去哥伦比亚赚得多，还是去卡西米尔赚得多？我听说那些地方遍地都是有钱的冤大头，满街都是赚钱的机会呢！放心放心，要是我找到赚大钱的路子，到时候肯定少不了你的~"
+            },
+            "asset": "char_4163_rosesa/CN_009"
+        },
+        {
+            "id": "char_4163_rosesa_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "*Sigh* Imagine having a whole office to yourself… I wish I had one too…",
+                "jp": "ふーん……自分だけの執務室があるってほんと羨ましい。あたしもいつか欲しいなぁ……",
+                "kr": "흐음…… 자기 집무실이 있다니, 진짜 부럽네. 나도 언젠간 갖고 싶은데……",
+                "cn": "嗯......一个人就能有一间办公室可真好，我以后也想要有......"
+            },
+            "asset": "char_4163_rosesa/CN_010"
+        },
+        {
+            "id": "char_4163_rosesa_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Hola, everyone, pleased to meet you! I'm your newest operator! Señores Elysium and Weedy recommended this place to me. I hope we can all get along—Hey, Pelirrojito! What's with the pretend puking? You got a problem with me?!",
+                "jp": "ロドスのお兄ちゃんお姉ちゃんこんにちは！あたしは今日入ったばっかりの新人オペレーターです。エリジウムお兄ちゃんとウィーディお姉ちゃんの紹介で来ました！これからみんなと仲良くしていきたいです。よろしくね――ちょっと赤髪！何を吐く真似なんかしてんの。あたしがいつぶりっ子したって？",
+                "kr": "로도스 아일랜드 언니 오빠들, 안녕하세요! 저는 오늘 막 들어온 신입 오퍼레이터예요! 엘리시움 오빠와 위디 언니 소개로 왔어요! 앞으로 사이좋게 지내요~ 잘 부탁…… 어이 빨간 털! 뭘 토하는 척이야? 내가 언제 귀여운 척했다고?",
+                "cn": "各位哥哥姐姐好！我是今天新入职的干员，是极境哥哥和温蒂姐姐推荐我来这里的！希望和大家能好好相处呀——小红毛？你在旁边吐什么？我装什么了？"
+            },
+            "asset": "char_4163_rosesa/CN_011"
+        },
+        {
+            "id": "char_4163_rosesa_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "See? Didn't I say I'm pretty good at this sort of thing?",
+                "jp": "どうよ、言ったでしょ。あたしって実力はあんだから！",
+                "kr": "어때, 봐! 내가 말했지? 나 실력 있다니까?",
+                "cn": "看吧，我说过的，我可是有真本领的！"
+            },
+            "asset": "char_4163_rosesa/CN_012"
+        },
+        {
+            "id": "char_4163_rosesa_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "A raise? Excellent! Oh Doctor, you are truly my guiding light, and Rhodes Island is the best company ever. I'll work here until the day I die! So, when's the next raise?",
+                "jp": "昇給したの？やった！ドクターさんって本当に最高の上司だね！あたしロドスのこと大好き、一生ここで働くよ！それで次の昇給はいつなの？",
+                "kr": "급여 올려준다고? 예이! 우리 박사님은 정말 최고의 상사라니까! 나 로도스 아일랜드 진짜진짜 좋아! 여기서 평생 일할래! 그래서 다음 급여 인상은 언제야?",
+                "cn": "涨工资了？真好！博士您真是我的好领导！罗德岛也是我最喜欢的公司，我要在这里干一辈子！我们什么时候再涨工资呀？"
+            },
+            "asset": "char_4163_rosesa/CN_013"
+        },
+        {
+            "id": "char_4163_rosesa_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "This is just one small step. I'll take another, then another, till one day, everything I ever wanted will be within reach.",
+                "jp": "これは最初の一歩にすぎないよ。ちょっとずつちょっとずつ増やして、あたしが欲しいものは、いつか全部手に入れてみせるんだから。",
+                "kr": "이건 첫걸음일 뿐이야. 조금씩 조금씩 늘려서, 내가 원하는 건 언젠가 모두 손에 넣어 보일 테니까.",
+                "cn": "这只是刚开始的一小步，再多一点，再多一点，我想要的东西总有一天我会把它们都抓在手里。"
+            },
+            "asset": "char_4163_rosesa/CN_014"
+        },
+        {
+            "id": "char_4163_rosesa_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Yahoo, I'm here and ready for another day's work!",
+                "jp": "やほやほ～、仕事に来たよ！",
+                "kr": "야호 야호~ 일하러 왔어~",
+                "cn": "来啦来啦，我又来干活啦。"
+            },
+            "asset": "char_4163_rosesa/CN_017"
+        },
+        {
+            "id": "char_4163_rosesa_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Hello everyone, I'm your captain for today, so please listen up and listen well!",
+                "jp": "お兄ちゃんお姉ちゃん、今日はあたしが隊長だからね。みーんなあたしの言うことを聞くんだよ！",
+                "kr": "언니 오빠들, 오늘은 내가 대장이니까, 다~들 내 말 잘 들어야 돼~!",
+                "cn": "哥哥姐姐们，现在我是队长，你们所有人都要听我的指挥哦！"
+            },
+            "asset": "char_4163_rosesa/CN_018"
+        },
+        {
+            "id": "char_4163_rosesa_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Careful out there—I'm not <i>that</i> good a medic.",
+                "jp": "みんな気を付けてね。あたしの医術ってなんでもできるわけじゃないのー。",
+                "kr": "다들 조심해. 내 의술이 뭐든 다 할 수 있는 건 아니니까~",
+                "cn": "哥哥姐姐们要小心点哦，我的医术没有那么厉害呀。"
+            },
+            "asset": "char_4163_rosesa/CN_019"
+        },
+        {
+            "id": "char_4163_rosesa_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Uwaah! My gosh… Please keep me safe, everyone!",
+                "jp": "うぅ、怖いよぉ……お兄ちゃんお姉ちゃん、あたしのこと絶対に守ってね。",
+                "kr": "으으…… 무서워어…… 언니 오빠들, 나 꼭 지켜줘야 해~?",
+                "cn": "呜呜，好害怕......哥哥姐姐们一定要保护我呀！"
+            },
+            "asset": "char_4163_rosesa/CN_020"
+        },
+        {
+            "id": "char_4163_rosesa_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "What? Worried I'm not healing them right?",
+                "jp": "なによ？あたしがちゃんと治療しないか心配なわけ？",
+                "kr": "뭐 왜? 내가 제대로 치료 안 할까 봐 걱정이라도 되나 보지?",
+                "cn": "干嘛？你担心我不好好给他们治疗？"
+            },
+            "asset": "char_4163_rosesa/CN_021"
+        },
+        {
+            "id": "char_4163_rosesa_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Relax, your operators have been good to me. I still have a conscience, you know.",
+                "jp": "安心しなよ、あんたのオペレーターはどいつもやさしくしてくれるから。あたしも恩知らずじゃないんでね。",
+                "kr": "걱정 말라고. 너의 오퍼레이터들은 모두 나한테 친절하니까. 나도 은혜를 모르진 않는다고.",
+                "cn": "放心，你的干员都对我不差，我还是有点良心的。"
+            },
+            "asset": "char_4163_rosesa/CN_022"
+        },
+        {
+            "id": "char_4163_rosesa_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "This here is a good spot. They can't see me.",
+                "jp": "ここいい感じ。敵にあたしの姿が見えないし。",
+                "kr": "여기 좋네. 적에게 내 모습이 안 보이겠어.",
+                "cn": "这里挺好，敌人看不到我。"
+            },
+            "asset": "char_4163_rosesa/CN_023"
+        },
+        {
+            "id": "char_4163_rosesa_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Check again, it's dizzyleaf smoke. If we can't take 'em down, this'll take 'em out…",
+                "jp": "もう一度チェックしよっと。これは眠り薬、負けそうになったら全員眠らせて……",
+                "kr": "다시 한번 확인해 볼까. 이건 수면향…… 질 것 같으면 전부 다 재워버리고……",
+                "cn": "再检查一下，这个是迷烟，打不过就把他们都迷晕......"
+            },
+            "asset": "char_4163_rosesa/CN_024"
+        },
+        {
+            "id": "char_4163_rosesa_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Remember to stand <i>inside</i> the smoke, okay?",
+                "jp": "ちゃんと薬草の煙の中に立つんだよ～。",
+                "kr": "약초 연기 속에 서 있어야 해~",
+                "cn": "记得要站在药草烟雾的范围内呀~"
+            },
+            "asset": "char_4163_rosesa/CN_025"
+        },
+        {
+            "id": "char_4163_rosesa_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "The smoke won't chase you like a hungry saltfin, so stay put already!",
+                "jp": "煙に足はついてないし、あんたを追っかけたりしないの。大人しくして動かないで！",
+                "kr": "연기에 발이 달린 것도 아니고, 널 쫓아가지는 않는다고. 그러니까 가만히 있어!",
+                "cn": "药草烟雾没有长腿，不会追着你跑，老实点别乱动！"
+            },
+            "asset": "char_4163_rosesa/CN_026"
+        },
+        {
+            "id": "char_4163_rosesa_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "If anyone's severely injured, just let me know and I'll add more herbs to the censer!",
+                "jp": "怪我がひどかったら教えてね、お薬を増やすから～。",
+                "kr": "부상이 심하면 말해줘, 약을 늘려줄게~",
+                "cn": "伤重了一定要告诉我呀，我会加大药量的~"
+            },
+            "asset": "char_4163_rosesa/CN_027"
+        },
+        {
+            "id": "char_4163_rosesa_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Is my smoke toxic?! More herbs won't kill you, so stop whining already!",
+                "jp": "あたし、煙に毒が入ってるなんて言ったっけ？増やしても死にゃしないよ。ギャーギャー騒ぐな！",
+                "kr": "맞다, 내가 연기에 독이 들었다고 했었나? 늘려도 안 죽으니까 징징대지 마!",
+                "cn": "我的烟雾是有毒吗？加大药量熏不死你，别乱叫唤！"
+            },
+            "asset": "char_4163_rosesa/CN_028"
+        },
+        {
+            "id": "char_4163_rosesa_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Wow, it's a privilege to be working with you all!",
+                "jp": "わぁ、やっぱりみんなと一緒に働くの気持ちいいね！",
+                "kr": "와아, 역시 너희랑 일하니까 기분 좋다~!",
+                "cn": "哎呀，跟你们一起干活就是舒服！"
+            },
+            "asset": "char_4163_rosesa/CN_029"
+        },
+        {
+            "id": "char_4163_rosesa_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Not bad. If I hired one of you as a bodyguard, I'd never have to worry about danger again… What? I'm showing my true colors? Oh, you must've misunderstood. What I meant is, I couldn't bear to be apart from you all.",
+                "jp": "いいじゃん。適当に一人引っこ抜いてあたしのボディガードにすれば、危険な目に遭う心配もなくなる……本性を現した？そんなー、あたしはお兄ちゃんお姉ちゃんと一緒にいたいだけだよ。",
+                "kr": "좋은데, 적당히 한 명 빼 와서 내 보디가드를 시키면 위험에 처할 일도 없을 테고…… 본성이 나왔다고? 에이~ 나는~ 언니 오빠들이랑 같이 있고 싶은 것뿐인걸.",
+                "cn": "真不错，这里随便找一个人挖走当我的保镖，以后就完全不用担心遇上什么危险了嘛......什么叫露出本来面目了？我是舍不得哥哥姐姐们呀。"
+            },
+            "asset": "char_4163_rosesa/CN_030"
+        },
+        {
+            "id": "char_4163_rosesa_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Frigging heartless bastards… You better remember this! I'll be back for my pound of flesh one day!",
+                "jp": "クソッタレが、思いっきりやりやがって……いつか絶対やり返してやる！",
+                "kr": "망할 놈들이, 아주 제대로 깽판 쳐놨네…… 언젠가는 꼭 복수해주겠어!",
+                "cn": "这群该死的东西下手真狠......迟早有一天我吃的亏要在你们身上讨回来！"
+            },
+            "asset": "char_4163_rosesa/CN_031"
+        },
+        {
+            "id": "char_4163_rosesa_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Didn't expect you to be so loyal, waiting for me like that! Now move it, or we're dying together!",
+                "jp": "あたしを待ってるなんて、そんな義理堅いとは思ってなかった！ほら、早くしないと二人ともここで終わりだよ！",
+                "kr": "날 기다린 거야? 이렇게 의리 있을 거라고는 생각 못 했는데! 빨리 가자. 서두르지 않으면 둘 다 여기서 끝장이야!",
+                "cn": "真没想到你这么讲义气，还等着我！快，再不跑我们就要死在一块了！"
+            },
+            "asset": "char_4163_rosesa/CN_032"
+        },
+        {
+            "id": "char_4163_rosesa_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Hmm, this place isn't half bad.",
+                "jp": "ふむふむ……なかなかいい環境じゃん。",
+                "kr": "흠흠…… 꽤 괜찮은 환경이네.",
+                "cn": "嗯嗯......环境很不错嘛。"
+            },
+            "asset": "char_4163_rosesa/CN_033"
+        },
+        {
+            "id": "char_4163_rosesa_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Hey hey hey, ever heard of personal space?!",
+                "jp": "ちょっと、触んなって！",
+                "kr": "아 잠깐, 만지지 말라니까!",
+                "cn": "哎哎哎，别动手动脚的！"
+            },
+            "asset": "char_4163_rosesa/CN_034"
+        },
+        {
+            "id": "char_4163_rosesa_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Oh, it's you, Doctor. Want some water? A snack? Just call me whenever and I'll be there to help.",
+                "jp": "わぁ、ドクターさんじゃない。お水飲む？ご飯は？いつでも呼んでくれればできることはなんでもするからね。",
+                "kr": "와아, 박사님이잖아? 물 마실래? 밥은 먹었어? 언제든 불러주면 내가 할 수 있는 건 뭐든 해줄게~",
+                "cn": "哎呀，博士，是你呀，要喝水吗？要吃饭吗？不管什么时候叫我一声我都可以帮忙的呀。"
+            },
+            "asset": "char_4163_rosesa/CN_036"
+        },
+        {
+            "id": "char_4163_rosesa_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4163_rosesa/CN_037"
+        },
+        {
+            "id": "char_4163_rosesa_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "I don't really get what this holiday's about. What's there to celebrate about time simply passing by? If you ask me, people should celebrate when they get what they want. For me, I'll look back at all the hardships I went through, and cherish how they've become precious things I can hold in my hand.",
+                "jp": "こういうイベントなんか意味分かんない。時間が過ぎてったことなんて祝ってどうすんの？もしあたしが決めるなら、みんな自分が欲しいものを手に入れた時に祝うように変える。今まで自分がした苦労が、この手に掴んだものに結び付いたことを祝いたいし。",
+                "kr": "이런 이벤트 따위가 무슨 의미가 있는지 모르겠어. 시간이 흐른 걸 축하해서 뭘 하는데? 내가 정할 수 있었다면, 다들 자기가 원하는 걸 손에 넣었을 때 축하하도록 바꿀 거야. 난 지금까지 고생한 게 손에 쥔 결과물로 이어졌다는 걸 축하하고 싶거든.",
+                "cn": "我不明白过这种节有什么意思，时间流逝有什么好庆祝的？要是我来规定，人们就该在得到自己想要的东西的时候庆祝，我要庆祝我所吃的那些苦头，最后都变成了我手中真切拥有的东西。"
+            },
+            "asset": "char_4163_rosesa/CN_038"
+        },
+        {
+            "id": "char_4163_rosesa_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Hello, Doctor! If you need any help, just give me a shout!",
+                "jp": "ドクターさんこんにちは！手伝いが必要ならいつでも声かけてね！",
+                "kr": "박사님 안녕! 도움이 필요하면 언제든 말해줘!",
+                "cn": "博士好呀！有什么事情需要帮忙都可以来找我呀！"
+            },
+            "asset": "char_4163_rosesa/CN_042"
+        },
+        {
+            "id": "char_4163_rosesa_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Of course I remembered your birthday! Though I gotta admit, I only memorized it to get on your good side at first, but then... You turned out to be a real great boss, and a true friend too. Here, some rum I nabbed from the salt ship. For you.",
+                "jp": "あんたの誕生日は覚えてるに決まってるでしょ。まあ、最初は取り入って美味しい思いをしたかったのは認めるけど、でも……あんたって、上司としても友達としても、まあまあ良いやつだしね。ほら、前に塩船でもらってきたラム酒、あげる。",
+                "kr": "박사 생일은 당연히 기억하고 있지. 뭐, 처음엔 적당히 붙어서 한몫 챙기려고 했던 건 인정할게. 그래도…… 너는 상사로서도 친구로서도 그럭저럭 꽤 괜찮은 편이야. 자, 예전에 소금배에서 가져온 럼주인데, 너 줄게.",
+                "cn": "你的生日我当然记得，不过我承认，我最开始记这个是为了巴结你让你给我点好处，但后来嘛......你确实是一个不错的上司，一个不错的朋友。喏，我之前从盐船上拿的朗姆酒，送你啦。"
+            },
+            "asset": "char_4163_rosesa/CN_043"
+        },
+        {
+            "id": "char_4163_rosesa_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Doctor, I hope you and all the friends I made aboard the landship can live the lives you truly want. Heehee, who knows? Next time we meet, I might be rich and famous, coming to sponsor Rhodes Island!",
+                "jp": "ドクターも、あたしがここで知り合ったみんなも、この先理想の暮らしをできますように。へへ、もしかしたら次に会う時は、あたしが超有名大富豪になってて、ロドスへ資金援助に来てるかもね。",
+                "kr": "박사도, 여기서 알게 된 모두도, 앞으로 이상적인 삶을 살 수 있길 바랄게. 헤헤, 다음에 만날 땐, 내가 엄~청 유명한 부자가 돼서 로도스 아일랜드에 자금을 대러 올지도 모른다고!",
+                "cn": "博士，祝你，祝我在这里认识的所有朋友，都能在未来过上自己想要的生活。哎呀，说不定等下次再见，我就是一个鼎鼎有名的大富豪，前来资助罗德岛了呢。"
+            },
+            "asset": "char_4163_rosesa/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Andrea Alzuri Barro",
+            "global": "Andrea Alzuri Barro"
+        },
+        "cn": {
+            "native": "南昭",
+            "global": "Nan Zhao"
+        },
+        "jp": {
+            "native": "高岸美里亜",
+            "global": "Miria Takagishi"
+        },
+        "kr": {
+            "native": "미소",
+            "global": "Mi-so"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

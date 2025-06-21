@@ -585,6 +585,22 @@
             "asset": "char_157_dagda/CN_042"
         },
         {
+            "id": "char_157_dagda_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, I wanted to do my bit for your birthday party, so I asked Saileach if she could teach me these desserts. Morgan and the rest like to say I'm bad at expressing my feelings out loud... So all I could do is try and make the cakes a little sweeter. I hope you like them.",
+                "jp": "ドクター、私も貴殿の誕生日パーティーに何かしたくて、レディ・サイラッハにお菓子の作り方を教えてもらったんだ。モーガンたちもよく、私が口下手だと言うが……せめてケーキは甘めに作った。気に入ってくれると嬉しい。",
+                "kr": "박사. 나도 네 생일 파티에 뭐라도 해 주고 싶어서, 사일라흐 씨한테 디저트 만드는 법을 좀 배웠어. 모건이랑 다른 사람들은 내가 말주변이 없어서 감정 표현을 잘 못한다고 하던데…… 그래도 케이크는 최대한 달콤하게 만들어 봤으니까, 네 마음에 들었으면 좋겠어.",
+                "cn": "博士，我也想为你的生日派对出一份力，所以麻烦琴柳小姐教我做了这些甜点。摩根她们都说，我不擅长口头上的情感表达......我只能尽量把蛋糕做甜一些了，希望你会喜欢。"
+            },
+            "asset": "char_157_dagda/CN_043"
+        },
+        {
             "id": "char_157_dagda_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

@@ -585,6 +585,22 @@
             "asset": "char_017_huang/CN_042"
         },
         {
+            "id": "char_017_huang_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, happy birthday! Here's an extra-extra-large cake for you! Yeah, I can't hold birthday parties of my own, so you got the kind of cake I wanna eat. Any other presents you'd like? I don't mind if it's a tricky request. I could carry you twenty clicks to find the right shop!",
+                "jp": "博士，生日快乐，这个大大大蛋糕是给你的！嗯，因为我自己没生日会可开嘛，所以把我想吃的蛋糕送给你了。你还有什么想要的礼物没有？有点难搞到的也没关系，我可以抱着你跑二十公里去买！",
+                "kr": "박사, 생일 축하해. 이 대에에에빵 큰 케이크는 선물이야! 아, 그게 나는 생일 파티를 열 일이 없다 보니, 내가 먹고 싶었던 케이크를 박사에게 주는 거야. 뭐 다른 선물 갖고 싶은 거 있어? 구하기 어려운 거라도 괜찮아. 박사를 안고 20km쯤은 뛰어가서 사올 수 있으니까!",
+                "cn": "博士，生日快乐，这个大大大蛋糕是给你的！嗯，因为我自己没生日会可开嘛，所以把我想吃的蛋糕送给你了。你还有什么想要的礼物没有？有点难搞到的也没关系，我可以抱着你跑二十公里去买！"
+            },
+            "asset": "char_017_huang/CN_043"
+        },
+        {
             "id": "char_017_huang_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

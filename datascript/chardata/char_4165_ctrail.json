@@ -585,6 +585,22 @@
             "asset": "char_4165_ctrail/CN_042"
         },
         {
+            "id": "char_4165_ctrail_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "This multicolored, feathered wobble doll... It means you should live life to the fullest and never give up. Huh? No, I'm not saying you should get all round and, and, and plump like this, and I'm definitely not saying you're too stingy... Ummm, I'm sorry, I'm bad at picking out gifts... Oh... You were joking? You're teasing me again, Doctor...",
+                "jp": "この五色の羽根がついた起き上がり人形は、色とりどりの人生を送り、どんな困難にも屈しないという意味だよ。え？いや、まん丸の体になるように願ってるわけではないよ！ケチな人って皮肉を言いたいわけでも……うぅ、ごめん、あたしプレゼント選びが下手だから……冗談？もう、またからかって……",
+                "kr": "이 오색 깃털 오뚝이는 다채로운 삶과 꺾이지 않는 마음을 의미해. 응? 아, 아니, 박사가 동글동글 몸이 되라는 건 아니고, 그렇다고 박사가 꼬장꼬장하다는 건 더더욱 아니야…… 으으, 미안해. 내가 선물 고르는 걸 잘 못 해서…… 농담이라고? 정말, 또 놀리다니……",
+                "cn": "这个五彩羽毛不倒翁——寓意着生活多彩，百折不挠。嗯？不是的，绝没有祝您圆圆滚滚，也不是讽刺您一毛不拔......呜，对不起，我不太会挑礼物。是开玩笑的？您又取笑我......"
+            },
+            "asset": "char_4165_ctrail/CN_043"
+        },
+        {
             "id": "char_4165_ctrail_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

@@ -585,6 +585,22 @@
             "asset": "char_159_peacok/CN_042"
         },
         {
+            "id": "char_159_peacok_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Your office entrance is all filled with finely-wrapped boxes! I've convicted each and every one of them! Now partake in this gift from me: Soldiers Assemble: Barrage Fortress! The Firestorm Update!",
+                "jp": "你办公室门口怎么堆满了包装精美的盒子！我已经将它们统统断罪了！快接下我的这份礼物，《狂弹要塞！罗德大兵集结·火爆更新版》！",
+                "kr": "사무실 입구에 왜 아름답게 포장된 상자가 가득 쌓여 있는 것이지? 그것들은 이미 내가 모두 유죄로 단죄하였노라! 빨리 이 선물을 받거라, 《탄막 요새! 로도스 장병 대집결·핫 업데이트 버전》이다!",
+                "cn": "你办公室门口怎么堆满了包装精美的盒子！我已经将它们统统断罪了！快接下我的这份礼物，《狂弹要塞！罗德大兵集结·火爆更新版》！"
+            },
+            "asset": "char_159_peacok/CN_043"
+        },
+        {
             "id": "char_159_peacok_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

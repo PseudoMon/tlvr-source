@@ -585,6 +585,22 @@
             "asset": "char_484_robrta/CN_042"
         },
         {
+            "id": "char_484_robrta_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Tons of celebrities in Wrankwood would ask me to do their makeup for their birthday parties. Cover every trace of time on their faces, no matter the cost. But is that really beauty? Doctor, this mirror's my gift to you. I hope you'll find a true and beautiful you staring back.",
+                "jp": "在蓝卡坞，许多明星都会在生日宴会前邀请我去给他们化妆，不惜一切代价地要抹除时间在脸上留下的痕迹。但是那样真的能算美吗？博士，这面镜子送给你。祝你能在里面看到一个真实美丽的自己。",
+                "kr": "랭크우드에 있을 땐, 수많은 스타들이 생일 파티 열기 전에 나한테 메이크업을 부탁했었어. 그들은 시간이 얼굴에 남긴 흔적을 지우기 위해서라면 어떤 대가라도 치를 것만 같았지. 하지만 그게 진정한 아름다움이라고 할 수 있을까? 박사, 이 거울을 선물로 줄게. 거울 속에서 진정으로 아름다운 자신을 발견하길 바랄게.",
+                "cn": "在蓝卡坞，许多明星都会在生日宴会前邀请我去给他们化妆，不惜一切代价地要抹除时间在脸上留下的痕迹。但是那样真的能算美吗？博士，这面镜子送给你。祝你能在里面看到一个真实美丽的自己。"
+            },
+            "asset": "char_484_robrta/CN_043"
+        },
+        {
             "id": "char_484_robrta_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

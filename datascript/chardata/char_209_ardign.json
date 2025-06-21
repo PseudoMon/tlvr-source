@@ -521,6 +521,22 @@
             "asset": "char_209_ardign/CN_042"
         },
         {
+            "id": "char_209_ardign_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Yay! Happy birthday, Doctor! Hm, something smells good. You got a gift from Melantha, didn't you? What a scent! Melantha taught me how to make perfume, actually, do you want to try with me?",
+                "jp": "耶~博士，生日快乐！嗯，我闻到了香香的味道，是玫兰莎送给博士的礼物吧？真好闻，她也教会我怎么调配香水了！博士，要不要一起试试看呀！",
+                "kr": "이예이~ 박사, 생일 축하해! 으음~ 뭔가 좋은 냄새가 나는데, 멜란사 선물이지? 향기 장난 아니다. 맞아, 그러고 보니 멜란사가 나한테도 향수 만드는 법을 가르쳐 줬었거든? 박사, 이참에 같이 향수나 만들어 볼까?",
+                "cn": "耶~博士，生日快乐！嗯，我闻到了香香的味道，是玫兰莎送给博士的礼物吧？真好闻，她也教会我怎么调配香水了！博士，要不要一起试试看呀！"
+            },
+            "asset": "char_209_ardign/CN_043"
+        },
+        {
             "id": "char_209_ardign_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

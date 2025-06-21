@@ -585,6 +585,22 @@
             "asset": "char_220_grani/CN_042"
         },
         {
+            "id": "char_220_grani_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor! I've tried this a few times with the other operators, and it's super fun! Come, get on my back. Ready? 3, 2, 1... go!",
+                "jp": "博士，生日快乐呀！嘿嘿，我之前和其他干员试过几次，真的超级好玩，来，让我把你背起来，趴稳了吗？三、二、一——冲咯！",
+                "kr": "생일 축하해, 박사! 헤헤, 전에 다른 오퍼레이터들이랑 했던 놀이가 있는데, 한번 해보지 않을래? 자, 등에 올라타. 이제 출발해도 되지? 꽉 잡아. 그럼 셋, 둘, 하나…… 간다!",
+                "cn": "博士，生日快乐呀！嘿嘿，我之前和其他干员试过几次，真的超级好玩，来，让我把你背起来，趴稳了吗？三、二、一——冲咯！"
+            },
+            "asset": "char_220_grani/CN_043"
+        },
+        {
             "id": "char_220_grani_CN_044",
             "title": {
                 "en": "Anniversary Celebration",
@@ -608,7 +624,7 @@
         },
         "cn": {
             "native": "木雅瑞林",
-            "global": "Rylynn"
+            "global": "木雅瑞林"
         },
         "jp": {
             "native": "山崎はるか",

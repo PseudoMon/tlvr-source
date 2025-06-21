@@ -1,0 +1,644 @@
+{
+    "charid": "char_4164_tecno",
+    "nameid": "tecno",
+    "names": {
+        "en": "Tecno",
+        "jp": "テクノ",
+        "kr": "테크노",
+        "cn": "特克诺"
+    },
+    "voices": [
+        {
+            "id": "char_4164_tecno_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Help you with your work? Okay, I can do street art, choreography, puppet craft... anything, really. What do you need?",
+                "jp": "仕事の手伝い？いいよ。グラフィティアートでも、ダンスの振り付けでも、人形作りでも……何だって腕には自信があるからね。で、何すればいいの？",
+                "kr": "일 도와달라고? 좋아. 그라피티, 댄스 안무, 인형 만들기…… 뭐든지 자신 있어. 그래서, 뭘 하면 되는데?",
+                "cn": "帮你工作？好啊，涂鸦、舞蹈编排、木偶制作......我样样精通。要我帮你做什么？"
+            },
+            "asset": "char_4164_tecno/CN_001"
+        },
+        {
+            "id": "char_4164_tecno_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "No, I don't know any Durins at Rhodes Island. Besides, I don't want to go back underground. You know why I left in the first place? When we voted on the monthly music genre, I tossed in death metal. They actually voted against me a thousand-to-one!",
+                "jp": "ロドスに知り合いのドゥリン族がいるかって？いないよ。それに、地下に戻りたいなんて思ってもないしね。アタシが地上に出てきた理由、教えてあげようか？月替わりの音楽のスタイルを投票制で決めてたんだけど、デスメタルを提案したら千対一で却下されたから！",
+                "kr": "로도스 아일랜드에 아는 두린족이 있냐고? 없어. 그리고 지하로 돌아가고 싶은 생각도 전혀 없고. 내가 지상에 나온 이유, 알려줘? 월별 음악 스타일을 투표로 정하는데, 데스메탈을 제안했더니 글쎄 1000:1로 부결당했다니까!",
+                "cn": "罗德岛上有没有我认识的杜林族？没有。再说我才不想回地下呢。知道我为什么离开吗？当时我们投票决定当月的音乐风格，我提议放死亡金属，他们居然投了我一个一千比一！"
+            },
+            "asset": "char_4164_tecno/CN_002"
+        },
+        {
+            "id": "char_4164_tecno_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "The graffiti in the corridor? I forgot to wipe it off. Besides, I went to fess up to Closure. And I got a gift for Aciddrop, since she took the blame. I even stepped in to clean for Purestream. You're not mad at me about anything? Hm, okay. So... Do you want to go tagging with me next time, then?",
+                "jp": "通路のラクガキが何？消すの忘れただけって言ったじゃん。ちゃんと自分からクロージャに謝りに行ったし、濡れ衣着せられたアシッドドロップにはお詫びの品もプレゼントしたし、掃除当番のセイリュウのシフトだって代わってあげたのに――え、お小言じゃないの？ならいいけど。てか……次にグラフィティ描く時は、一緒にやってみる？",
+                "kr": "복도의 그라피티? 지우는 걸 까먹었다고 말했잖아. 내 발로 클로저한테 사과하러도 갔고, 누명 뒤집어쓴 애시드드롭한테는 사과의 의미로 선물도 했고, 청소 당번인 퓨어스트림 대신 근무도 서줬다고. ……어? 잔소리하는 거 아니라고? 그럼 됐어. 그럼 있지…… 다음번에 그라피티 그릴 때는 너도 올래?",
+                "cn": "走廊上的涂鸦？都说了我只是忘了擦。再说我主动去跟可露希尔承认了错误，给被冤枉的酸糖送了礼物，还替负责清洁的清流顶了班——不是训我？好吧，那......下次涂鸦要不要一起来？"
+            },
+            "asset": "char_4164_tecno/CN_003"
+        },
+        {
+            "id": "char_4164_tecno_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "The bandages? Yeah, I was gonna use them to cover my Originium crystals, but they keep popping up all over me. A few little bandages can't get them all. It only makes the crystals even more obvious. Why keep the bandages? It's like a statement, you know? The crystals are there, whether you see them or not, and they haven't killed me.",
+                "jp": "ヒザにつけてるガーゼはね、最初は結晶を隠すためのものだったの。だけど結局、そこら中生えて隠し切れなくなったというか、むしろこれのせいで目立っちゃってさ。じゃあなんで取らないかって？なんか宣言みたいじゃん。見えようが見えまいが、有るもんは有るし、アタシも生きてるんだって。",
+                "kr": "무릎에 댄 거즈? 그건 원래 오리지늄 결정을 숨기려고 붙인 거였어. 근데 결정이 계속 자라나더니 가려지지가 않더라고. 오히려 이거 때문에 더 눈에 띄는 것 같아. 그럼 왜 안 떼냐고? 왠지 무슨 선언 같지 않아? 보이든 안 보이든, 결정은 그 자리에 있고, 나는 아직 살아있다!",
+                "cn": "这个纱布嘛，一开始确实是想挡源石结晶，可到处有结晶往外冒，根本挡不住，反而让结晶更显眼了。那为什么还不摘？不觉得它像一种宣言吗？别人看见看不见，结晶都在那里，我也都还活着。"
+            },
+            "asset": "char_4164_tecno/CN_004"
+        },
+        {
+            "id": "char_4164_tecno_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "After they destroyed the puppets my street art community made, I spent two weeks apprenticing with my electrician neighbor. Taking the new skills I learned with my Arts, my puppets became more than just artwork. Whenever I cast it, the puppets appear, and uppercut the bad guys as hard as I do.",
+                "jp": "コミュニティの人形を壊されてから、近所の電気技師んとこで半月くらい練習して、そこに自分のアーツまで取り入れたおかげで、アタシの人形はもうただのアートじゃなくなったんだ。アーツを使えばすぐに出てきて、こんなふうに！悪党のアゴに強烈なパンチをお見舞いしてくれんだから。",
+                "kr": "예술 거리의 인형이 망가진 이후의 일인데…… 근처 전기 기술자한테 가서 보름 정도 연습하고 거기에 내 오리지늄 아츠까지 더했더니, 이제 내 인형은 예술품 그 이상의 물건이 됐어! 아츠를 쓰면 바로 튀어나가서, 이렇게! 악당 놈들 턱에 강력한 펀치를 날려준다고.",
+                "cn": "在街头艺术社区的木偶被毁之后，我找电工邻居学了半个月，再加上我的源石技艺，现在我的木偶可不只是艺术品了。只要我一施术她们就会出现，还能和我一样，在坏蛋下巴上狠狠来一拳。"
+            },
+            "asset": "char_4164_tecno/CN_005"
+        },
+        {
+            "id": "char_4164_tecno_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "This looks like a coffin? Because that's what it is. Oh, could I trouble you to write a eulogy for me? Don't worry, it's for an art exhibition. Many people are 'further from death' than me, but they're still basically walking dead. I just want to give them a wake-up call.",
+                "jp": "この作品、どう？棺桶みたい？ってそりゃ、棺桶だもん。ついでにアタシへの追悼文も考えてほしいんだけど――心配しないでよ、アート展に出るために用意してるだけだから。アタシよりも死から遠い人なんて山ほどいるけど、どいつもこいつも死んだも同然のつまらない生き方してるから、ちょっと啓発してやろうと思ってんの。",
+                "kr": "이 작품 어때? 관 같다고? 맞아, 관이야. 박사 시간 될 때 나를 위한 추도사를 써줬으면 좋겠는데…… 걱정하지 마, 아트 전시회에 내려고 준비하는 거니까. 나보다 오래 살 사람들은 수두룩하지만, 다들 죽은 거나 다름없는 지루한 삶을 살고 있더라고. 그래서 좀 일깨워 주려고.",
+                "cn": "这件作品怎么样？像棺材？就是棺材。顺便，还得麻烦你给我写段悼词——别担心，就是参加个艺术展而已。许多人和死亡的距离比我要远，可他们活着却与死了没区别，我只想给他们小小提个醒。"
+            },
+            "asset": "char_4164_tecno/CN_006"
+        },
+        {
+            "id": "char_4164_tecno_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "The Society Tribune in Dossoles talks bad about our community. They called us 'sociopathic'. So I pinned a bulletin outside their office, telling them how we eat when we're hungry, sleep when we're tired, and love when we're lonely. If that's 'sociopathic', then society's pathetic.",
+                "jp": "ドッソレスには『社会新聞』ってのがあんだけど、うちのコミュニティについてデマばっか書いて、反社会的な連中だーとかアタシらのこと批判してくんの。そこで、アタシはそこの社屋の壁に『反社会新聞』を掲げてやったんだ。「我々は空腹時には食事を取り、眠気を感じれば睡眠を取り、寂しくなれば人を愛する者である」ってね。これが反社会的だって言うなら、その社会自体に問題があるでしょ。",
+                "kr": "도솔레스에 '사회 뉴스'라는 게 있거든? 우리 예술 거리에 대해 헛소리만 잔뜩 써대는 주제에 우리를 '반사회적인 놈들이다'라고 비난하더라고. 그래서, 내가 걔네 사옥 벽에 '반사회 뉴스' 칸을 대문짝만하게 붙이고, '우리는 배고프면 먹고, 졸리면 자고, 외로우면 사랑하는 자들이다'라고 적었어. 이런 게 반사회적인 거라면 그 사회 자체가 문제 있는 거 아닐까?",
+                "cn": "多索雷斯有个《社会报》喜欢造社区的谣，还说我们反社会。于是我就在报社外墙上办了个“反社会报”，写我们饿了吃，困了睡，孤单了就去爱别人的事。这要真算反社会，那还是社会的问题更大。"
+            },
+            "asset": "char_4164_tecno/CN_007"
+        },
+        {
+            "id": "char_4164_tecno_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "We beat Mateo down hard in the end, but storming the art gallery was a mess, especially when I led the charge to the balcony to save that bastard, Reynell. Some guys got hurt so bad they'll never hold a paintbrush again… This should've been my blood.",
+                "jp": "確かに最後はマッテオをぶちのめせたけど、でも、ギャラリーに乗り込んだ時、特にアタシがみんなを連れて屋上のバルコニーまで上がって、レイネルの大バカ野郎を助けた時には、たくさん怪我人が出ちゃったんだ。中には、手を怪我して絵を描けなくなっちゃった人もいてさ……はぁ、怪我したのがアタシだったらよかったのにな。",
+                "kr": "우리가 마지막에 확실히 마테오를 때려눕히긴 했는데…… 갤러리아에 들어가 모두를 데리고 옥상 발코니까지 올라가서 레이넬 그 멍청한 놈을 구할 때, 부상자가 많이 나왔어. 그중에는 손을 다쳐서 더 이상 그림을 그릴 수 없게 된 사람도 있고…… 하아, 차라리 내가 다쳤더라면 좋았을 텐데.",
+                "cn": "虽说我们最后确实把马特奥揍扁了，但冲进艺术馆，尤其是我带着大家冲上阳台，救下雷内尔那个混球的时候，不少人受了伤，甚至有人伤了手，再也没法画画......唉，我宁愿伤的是我自己。"
+            },
+            "asset": "char_4164_tecno/CN_008"
+        },
+        {
+            "id": "char_4164_tecno_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "I told you NOT to pat my head! If you were anyone else, I would've thrashed you for that. Since you're not exactly tough, lower your head... lower... now close your eyes. Hmm... there! I just slapped a ticket on your head. Wanna know where? Go ahead, pat your head for it, hehe.",
+                "jp": "頭を撫でるなっ――だから、撫でるなっての！ほかの人ならもうボコボコにしてるとこだよ。アンタは弱そうだから大目に見てあげるけど。ほら、頭下げて。もうちょい下げて、目ぇつぶって――よし、頭に違反通告貼ってやった。どこに貼ったのかって？自分の頭撫でて確かめてみれば？へへっ。",
+                "kr": "쓰다듬지 마…… 쓰다듬지 말라고 했지! 다른 사람이었으면 진작에 두들겨 패버렸을 거야. 넌 약해 보여서 봐 줄 거지만. 머리 숙여봐. 좀 더 숙여, 눈도 감고…… 됐다. 머리에 위반 통지서 붙여놨어. 어디에 붙였냐고? 네 머리 직접 쓰다듬으면서 찾아보던가? 헤헷.",
+                "cn": "别摸我头——说了不要摸！换成其他人已经挨揍了，看在你不怎么禁打的份上，头低下来，再低一点，现在闭上眼睛——好，罚单已经贴在你头上了。想知道罚单贴在哪里？摸自己的头去吧，嘿嘿。"
+            },
+            "asset": "char_4164_tecno/CN_009"
+        },
+        {
+            "id": "char_4164_tecno_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Doctor, I know I was wrong. I shouldn't have hidden my medicine, let alone tried to send it to Dossoles. Please don't be mad, okay? Wait... Are you snoring? Are you even listening?! Ah well, guess that means my apology is accepted.",
+                "jp": "ドクター、悪かったよ、自分の薬を隠して、ドッソレスに勝手に送ろうとするなんてダメだったよね。もう怒らないでくれる？ねえ、おねがいおねがい――って、いびきかいてない？ちょっと、寝てんの！？……はぁ、とにかく、こっちはもう謝ったからね。",
+                "kr": "잘못했어, 박사. 내가 먹을 약을 숨겨서 몰래 도솔레스로 보내면 안 되는 건데. 내가 다 잘못했어, 그러니까 화내지 마, 응? 제발 제발…… 잠깐, 코 고는 소리? 아니, 어이 설마 자는 거야!? ……하아. 아무튼 나 사과했다?",
+                "cn": "博士，我知道自己错了，我不该把自己的药藏起来，更不该尝试把药寄到多索雷斯去，你别生气了，好不好好不好——在打呼噜？睡了？！......唉，我可跟你道过歉了哦。"
+            },
+            "asset": "char_4164_tecno/CN_010"
+        },
+        {
+            "id": "char_4164_tecno_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Are you the Doctor? I'm Tecno. Ernesto sent me to Rhodes Island for treatment, so I'm here to say hi... Um...You're not calling me kiddo? Because you're a nice person, or because there are lots of Durins at Rhodes Island?",
+                "jp": "アンタがドクターって人？アタシはテクノ。エルネストの紹介で、ロドスに治療を受けに来たから、一応挨拶しに……アタシを子供扱いしないわけ？なんだ、いい奴じゃん。それかもしかして、ロドスにはドゥリン族がいっぱいいたりして？",
+                "kr": "네가 박사야? 나는 테크노야. 에르네스토 소개로 로도스 아일랜드에 치료받으러 왔고, 일단은 인사차 …… 날 꼬맹이 취급하지 않네? 뭐야, 좋은 녀석이잖아. 아, 아님 혹시 로도스 아일랜드에 두린족이 많이 있는 건가?",
+                "cn": "你就是博士？我是特克诺，埃内斯托让我来罗德岛治病，我就来打个招呼......不叫我小朋友吗？你还蛮不错的嘛，还是说罗德岛上的杜林人其实很多？"
+            },
+            "asset": "char_4164_tecno/CN_011"
+        },
+        {
+            "id": "char_4164_tecno_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "The way that guy fights, it's like some sick choreographed dance. I'm totally stealing those moves. Fighting or dancing? Wouldn't you like to know... hehe.",
+                "jp": "コイツの喧嘩っぷり、もうなんかそういうダンスみたいになってるね……勉強になるよ。喧嘩とダンスどっちの勉強かって？教えてあげない。",
+                "kr": "저 녀석 싸우는 폼이 완전 춤추는 거 같잖아…… 배울 게 많네. 싸움이랑 춤 중에 어떤 점에서 배울 게 있냐고? 그건 비밀.",
+                "cn": "那家伙打人的动作像是某种舞步......很有学习价值。学打人还是学跳舞？不告诉你。"
+            },
+            "asset": "char_4164_tecno/CN_012"
+        },
+        {
+            "id": "char_4164_tecno_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Doctor, ahem, well... you've always looked out for me. So I got my street art crew to make this bracelet for you. Ah? Wait, you've got something for me first? I... guess I won't argue, hehe.",
+                "jp": "ドクター、こほん、えーっと、いつもお世話になってるから、コミュニティの友達に作ってもらったブレスレットをアンタに――え、その前にアタシにくれるものがある？じゃあ、まあ……遠慮なく？",
+                "kr": "박사, 크흠. 그…… 평소 도움받고 있기도 하고, 예술 거리 친구에게 부탁해서 이 팔찌를 만들었는데 너한테…… 응? 그전에 나한테 줄 게 있다고? 그러면 뭐…… 사양 안 할게?",
+                "cn": "博士，咳，那个，一直受你照顾，这是我拜托街头艺术社区的朋友给你做的手链——啊？你要先给我东西？那我......不客气了？"
+            },
+            "asset": "char_4164_tecno/CN_013"
+        },
+        {
+            "id": "char_4164_tecno_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Doctor, forget the medal. I got my art crew to build you a puppet—we're talking several stories high. Now I just need a hood for this monster. You got any spare outfits I can snag?",
+                "jp": "昇進メダルなんていいよ。それより、コミュニティのみんなに頼んで中層ビルぐらい大きなドクター人形を作ってもらったんだけど、それに被せるフードだけまだ出来てなくってさ……予備のコートとかもらえないかな？持ち帰って参考にしたいんだ。",
+                "kr": "승진 메달은 됐어. 그것보다 예술 거리 친구들한테 한 몇 층 건물 크기쯤 되는 대형 박사 인형을 만들어달라고 부탁했는데, 거기 씌울 후드가 아직 완성이 안 돼서…… 혹시 여벌 후드 있어? 가져가서 참고하고 싶은데.",
+                "cn": "博士，徽章就算了，我拜托艺术社区给你做了一个几层楼高的大木偶，现在就缺一个能给木偶戴的兜帽......你有没有备用的衣服？我拿回去研究一下。"
+            },
+            "asset": "char_4164_tecno/CN_014"
+        },
+        {
+            "id": "char_4164_tecno_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Beating up bad guys again? Count me in! My puppets and I will come in handy!",
+                "jp": "また悪党を懲らしめに行くんでしょ？アタシも混ぜて。人形もアタシも、役に立つからさ。",
+                "kr": "또 악당 응징하러 가는 거지? 나도 껴줘. 인형도 나도 분명 도움이 될 거야.",
+                "cn": "又要去揍坏蛋了是吧？算我一个，我和我的木偶都派得上用场。"
+            },
+            "asset": "char_4164_tecno/CN_017"
+        },
+        {
+            "id": "char_4164_tecno_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "A group fight? Leave it to me. I'll make sure everyone gets back in one piece.",
+                "jp": "喧嘩のリーダー？任せてよ、みんな無事に連れ帰ってあげる。",
+                "kr": "싸움 리더? 내게 맡겨. 모두 무사히 데리고 돌아와 주지.",
+                "cn": "带人打架？交给我了，我一定把大家安全带回来。"
+            },
+            "asset": "char_4164_tecno/CN_018"
+        },
+        {
+            "id": "char_4164_tecno_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "I don't care how you fight. Just remember one thing: don't play the hero. Call me if things get messy.",
+                "jp": "喧嘩のやり方はそれぞれに任せるけど、ヒーロー気取りの無理だけはしないでね。なんかあったらアタシを呼ぶこと。",
+                "kr": "싸우는 방식은 각자 편한대로 해. 하지만 영웅이라도 된 것마냥 무리하는 건 금물이야. 무슨 일 있으면 나 부르고.",
+                "cn": "你们想怎么打我都不管，只有一点，千万别逞英雄，有事记得叫我。"
+            },
+            "asset": "char_4164_tecno/CN_019"
+        },
+        {
+            "id": "char_4164_tecno_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Hmph, aggressive. Looks like we'll have to settle this with force.",
+                "jp": "チッ、向こうは随分気合入ってるみたいだし、実力行使しかなさそうだね。",
+                "kr": "쳇. 저쪽도 꽤 기합이 들어간 모양이네. 어쩔 수 없지, 실력을 보여줄 수밖에.",
+                "cn": "啧，对面气势汹汹的，这下只能武力解决了。"
+            },
+            "asset": "char_4164_tecno/CN_020"
+        },
+        {
+            "id": "char_4164_tecno_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Out with it! I'm in the middle of stretching!",
+                "jp": "言いたいことがあるなら、準備運動中の今言って。",
+                "kr": "할 말 있으면 지금 말해, 준비운동 중이니까.",
+                "cn": "有话快说，我正拉伸呢。"
+            },
+            "asset": "char_4164_tecno/CN_021"
+        },
+        {
+            "id": "char_4164_tecno_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Give me an order. Me, and my puppets, are getting antsy.",
+                "jp": "さっさと指示出して。アタシも人形も待ちきれないの。",
+                "kr": "빨리 지시하라고. 나도 인형도 기다리다 지치겠어.",
+                "cn": "快下令吧，我和木偶都等不及了。"
+            },
+            "asset": "char_4164_tecno/CN_022"
+        },
+        {
+            "id": "char_4164_tecno_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "I'm not used to being this high up. Can I go back down?",
+                "jp": "こんな高いとこ慣れてないんだけど……下に降りちゃダメ？",
+                "kr": "이렇게 높은 데는 익숙하지 않은데…… 아래로 내려가면 안 돼?",
+                "cn": "站这么高真不习惯......我能到下面去吗？"
+            },
+            "asset": "char_4164_tecno/CN_023"
+        },
+        {
+            "id": "char_4164_tecno_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Okay, sure. My puppets should be able to handle these guys, anyway.",
+                "jp": "まあここでいっか。どうせ人形が悪党どもを余裕でブチのめしてくれるし。",
+                "kr": "뭐 됐다, 여기서 하지 뭐. 어차피 악당들은 인형이 여유롭게 때려눕힐 거니까.",
+                "cn": "就这样吧，反正靠木偶也足够揍扁这群坏蛋了。"
+            },
+            "asset": "char_4164_tecno/CN_024"
+        },
+        {
+            "id": "char_4164_tecno_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Box step!",
+                "jp": "ボックスステップ！",
+                "kr": "박스 스텝!",
+                "cn": "方形步！"
+            },
+            "asset": "char_4164_tecno/CN_025"
+        },
+        {
+            "id": "char_4164_tecno_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Weight Shift!",
+                "jp": "重心変えて！",
+                "kr": "무게 중심 바꾸고!",
+                "cn": "换重心！"
+            },
+            "asset": "char_4164_tecno/CN_026"
+        },
+        {
+            "id": "char_4164_tecno_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Spiral Turn!",
+                "jp": "スパイラルターン！",
+                "kr": "스파이럴 턴!",
+                "cn": "螺旋转！"
+            },
+            "asset": "char_4164_tecno/CN_027"
+        },
+        {
+            "id": "char_4164_tecno_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Hey, you! You're the one getting beaten! You don't have to follow my moves!",
+                "jp": "ちょっとそこ！アンタはボコられる側なんだから、合わせて踊んなくていいの！",
+                "kr": "야 너! 너는 얻어맞는 쪽이니까 같이 춤 출 필요 없어!",
+                "cn": "哎，你！你是挨揍的那个，你不用跟着跳！"
+            },
+            "asset": "char_4164_tecno/CN_028"
+        },
+        {
+            "id": "char_4164_tecno_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Doctor, why are you just standing there? C'mon, take my hand, let's dance!",
+                "jp": "ドクター、なにボーッとしてんの？手を差し伸べてあげてんだから、一緒に踊ろうよ！",
+                "kr": "박사, 뭘 그렇게 멍하니 있어? 자, 내 손 잡아. 같이 춤추자!",
+                "cn": "博士，还愣着干什么？我手都伸给你了，跟着我舞起来！"
+            },
+            "asset": "char_4164_tecno/CN_029"
+        },
+        {
+            "id": "char_4164_tecno_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Phew, another lesson for those who never learn. What a satisfying day.",
+                "jp": "はぁ、今日も懲りない連中を懲らしめてやれたね。充実した一日じゃん。",
+                "kr": "후우, 오늘도 나쁜 놈들 응징했네. 알찬 하루야!",
+                "cn": "呼，又教训了一帮不长记性的家伙，今天过得真充实。"
+            },
+            "asset": "char_4164_tecno/CN_030"
+        },
+        {
+            "id": "char_4164_tecno_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Some of them got away? Let them go. You know the old saying, 'today's enemies are tomorrow's friends'.",
+                "jp": "逃げた奴がいたの？ほっときゃいいよ。実際戦ってみて、意外と悪い奴じゃないかもってなることだってあるでしょ。",
+                "kr": "도망친 놈이 있다고? 그냥 두자, 박사. 싸우면서 정든다는 말도 있잖아.",
+                "cn": "有人跑了？随他们去吧。再说不是还有不打不相识这回事嘛。"
+            },
+            "asset": "char_4164_tecno/CN_031"
+        },
+        {
+            "id": "char_4164_tecno_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Today you got lucky, but we'll see! Quickly, Doctor, we gotta run!",
+                "jp": "今日のところは許してあげる！ドクター、早くいこ！",
+                "kr": "오늘은 내가 봐준다! 박사, 빨리 가자!",
+                "cn": "算你们今天运气好！博士，我们快走！"
+            },
+            "asset": "char_4164_tecno/CN_032"
+        },
+        {
+            "id": "char_4164_tecno_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Rhodes Island's facilities are impressive... I'm getting the itch to help renovate the art community. Have to pay it forward.",
+                "jp": "ロドスの施設っていいものばかりだよね……アタシも、コミュニティのためになんか改造してあげたくなっちゃったな。一人だけここでいい思いするのは申し訳ないからさ。",
+                "kr": "로도스 아일랜드 시설은 다 좋네…… 나도 예술 거리를 위해서 뭔가 개조해 주고 싶어졌어. 나만 여기서 편하게 있는 건 미안하니까.",
+                "cn": "罗德岛上的设施真不错......搞得我也想帮艺术社区做点改造了。总不能只有我一个人在你们这儿享福。"
+            },
+            "asset": "char_4164_tecno/CN_033"
+        },
+        {
+            "id": "char_4164_tecno_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Puppet's right behind you. Hmmm, seriously? You're not scared at all? Boooring!",
+                "jp": "ねぇ、アンタの後ろに人形が――なーんだ、全然ビビんないじゃん。つまんないの。",
+                "kr": "저기, 너 뒤에 인형이…… 에이 뭐야. 전혀 안 쪼네. 시시하게.",
+                "cn": "木偶在你背后——什么嘛，你根本不害怕，一点都不好玩。"
+            },
+            "asset": "char_4164_tecno/CN_034"
+        },
+        {
+            "id": "char_4164_tecno_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "A shoulder tap? Fine, so long as you don't pat my head.",
+                "jp": "今、肩叩いた？……まあいいや。頭撫でてこないならそれで。",
+                "kr": "방금 어깨 친 거야? ……뭐 됐어. 머리만 쓰다듬지 않는다면야.",
+                "cn": "拍肩膀？......算了，不是摸头就行。"
+            },
+            "asset": "char_4164_tecno/CN_036"
+        },
+        {
+            "id": "char_4164_tecno_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4164_tecno/CN_037"
+        },
+        {
+            "id": "char_4164_tecno_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Come! Check out our New Year's concert. Doesn't it make you want to dance? Hahaha~ Good music is supposed to make you jump out of your seat and dance! And Leithanian music totally fails at that!",
+                "jp": "ほらほら、アタシらのニューイヤーコンサートを観てってよ。ノリのいい音楽聴いてると踊りたくなってこない？リターニア人の音楽って、こういうとこが全然足りてないんだよね。だっていい音楽は、皆を踊り出したくさせるものでしょ！",
+                "kr": "자, 우리 뉴 이어 콘서트를 봐! 비트감 있는 음악 들으니까 춤추고 싶어지지 않아? 라이타니엔 음악엔 이런 게 전혀 없단 말이지. 모두가 절로 춤추고 싶어지게 만드는 음악이야말로 좋은 음악이라고!",
+                "cn": "来，听听我们的新年音乐会，是不是很有节奏感，听着就让人想跳舞？我跟你说，莱塔尼亚人的音乐在这一点上完全不行，好的音乐就是应该让人想手舞足蹈的嘛！"
+            },
+            "asset": "char_4164_tecno/CN_038"
+        },
+        {
+            "id": "char_4164_tecno_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Morning, Doctor. Still remember the dance moves I taught you yesterday?",
+                "jp": "ドクターおはよ、昨日教えたステップはまだちゃんと覚えてる？",
+                "kr": "좋은 아침, 박사. 어제 가르쳐 준 스텝 아직 잘 기억하고 있지?",
+                "cn": "早啊博士，我昨天教你的舞步你还记得吗？"
+            },
+            "asset": "char_4164_tecno/CN_042"
+        },
+        {
+            "id": "char_4164_tecno_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Come dance with my puppet! Your feet are stuck in their joints? Don't. Move. I'll fix this... There! Now you've got yourself a mobility scooter! Happy birthday! Wondering how to get your feet out? Hehe, I'll tell you tomorrow.",
+                "jp": "アタシの人形と一曲踊ろう！……足が人形の関節に挟まっちゃった？動かないで、いじってみるから――よし、ドクター用の自走式歩行器の出来上がり！ハッピーバースデー！どうすれば足が外れるかについては、また明日教えてあげる。ふふっ。",
+                "kr": "박사, 내 인형이랑 한 곡 추자! ……발이 인형 관절에 꼈다고? 움직이지 마, 내가 한 번 볼 테니까…… 됐다, 박사용 자동 보행기 완성! 해피 버스데이! 발 빼는 방법은 내일 알려줄게. 후훗~",
+                "cn": "来和我的木偶共舞一曲吧！......脚卡在木偶的关节里了？你别动啊，我调整一下——好了，现在你有一辆代步车了！生日快乐！至于怎么把脚拿出来，哼哼，等明天再告诉你。"
+            },
+            "asset": "char_4164_tecno/CN_043"
+        },
+        {
+            "id": "char_4164_tecno_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Doctor, my old man just came to Rhodes Island to visit me! Who's crying? I'm not! Here, a voucher for Spicy Krysztauowa's Rhodes location. Go there! Go and eat! Don't you forget to use it!",
+                "jp": "ドクター聞いてよ、おっちゃんがロドスまで会いに来てくれたの！……は？な、泣いてなんかないし！それよりほらこれ、「ホット・クリスタウォワ」ロドス支店のクーポンね。忘れずに食べに行ってよ！絶対だからね！",
+                "kr": "박사 들어봐 봐, 아빠가 로도스 아일랜드로 만나러 왔다니까! ……응? 우, 우는 거 아닌데! 그것보다 자 이거, '핫 크리슈타와' 로도스 아일랜드 지점 쿠폰. 까먹지 말고 먹으러 가! 무조건!",
+                "cn": "博士，老爹来罗德岛看我啦！......谁哭了，我才没哭！给你，“热辣克里斯达尔罗德岛分店”的优惠券，记得去吃！一定要记得哦！"
+            },
+            "asset": "char_4164_tecno/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Anna Devlin",
+            "global": "Anna Devlin"
+        },
+        "cn": {
+            "native": "金喵儿",
+            "global": "Miaoer Jin"
+        },
+        "jp": {
+            "native": "南野こころ",
+            "global": "Kokoro Minamino"
+        },
+        "kr": {
+            "native": "박하진",
+            "global": "Park Ha-jin"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

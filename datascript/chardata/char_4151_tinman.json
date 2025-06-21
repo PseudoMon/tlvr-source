@@ -585,6 +585,22 @@
             "asset": "char_4151_tinman/CN_042"
         },
         {
+            "id": "char_4151_tinman_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Me? How to decide a revenant's birthday? Umm... The day I was born? Too long ago to remember. The day I got a new body? Then I'd have too many birthdays to count. Birthdays don't mean much to me. But for you, commemorating something is a way to validate your own existence, isn't it? Happy birthday, Doctor. How about we go for a walk?",
+                "jp": "私？レヴァナントの誕生日はどう決めるのでしょうか。生まれた時？遠い昔ですよ。体を交換する時？回数が多すぎるので、私としては別段意味を感じません。それで、あなたにとっては、何を覚えているかこそが、ご自身の存在の証明なのでしょう？お誕生日おめでとうございます。一緒に散歩でもしますか？",
+                "kr": "제 생일 말입니까? 레버넌트의 생일은 어떻게 정하면 좋을까요, 태어난 때? 흐음 그건 아주 오래전 일이죠. 그럼 몸을 교체한 때? 그건 너무 자주 있는 일이라 큰 의미가 없습니다. 박사님에게 있어, 무엇을 기억한다는 건 무슨 의미입니까. 자신의 존재의 증명일까요? 뭐, 생일 축하드립니다, 함께 산책이라도 나가시죠?",
+                "cn": "我？死魂灵的生日怎么算，诞生的时日？太遥远了。更换身躯的时间？次数太多，对我来说意义不大。至于你，铭记什么，本身便是在证明自己的存在吧？生日快乐，一起走走？"
+            },
+            "asset": "char_4151_tinman/CN_043"
+        },
+        {
             "id": "char_4151_tinman_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

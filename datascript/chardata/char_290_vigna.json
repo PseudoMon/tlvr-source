@@ -585,6 +585,22 @@
             "asset": "char_290_vigna/CN_042"
         },
         {
+            "id": "char_290_vigna_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor! A perfect time for everyone to get hyped-up, don't you think? How about we take the meeting room and hold a live concert there! Huh? Still a no, even on your birthday? Aargh… Well, but my song request service is still at your disposal. Oh, but guitar solo only, mind you.",
+                "jp": "博士生日快乐！今天可是最应该嗨起来的日子，让我们去把会议室申请下来开音乐会吧！啊，博士的生日也不行吗？唔......那我还是可以给您提供点歌服务的，仅限吉他独奏哦。",
+                "kr": "생일 축하해, 박사! 오늘은 가장 신나야 하는 날이니까, 회의실에서 콘서트를 열 수 있게 신청하자, 어때! 아, 안 된다고? 박사 생일인데도? 우웅…… 그래도 박사가 원한다면 박사만을 위해서 내가 연주해 줄게. 물론 기타 연주에 한해서!",
+                "cn": "博士生日快乐！今天可是最应该嗨起来的日子，让我们去把会议室申请下来开音乐会吧！啊，博士的生日也不行吗？唔......那我还是可以给您提供点歌服务的，仅限吉他独奏哦。"
+            },
+            "asset": "char_290_vigna/CN_043"
+        },
+        {
             "id": "char_290_vigna_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

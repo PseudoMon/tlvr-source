@@ -561,7 +561,7 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "TBU",
+                "en": "Happy New Year, and why so late to rise? I'm already back from my training. Let me tell you, think of a wish. On the first day of the new year, make 1,000 sword swings. Then that wish will come true. Do not ask whether it's true! It's real, as long as you believe it.",
                 "jp": "本年もよろしゅう頼むぞ。それにしても遅い起床ではないか？私（わたくし）などもう訓練を終えて戻ってきたところだと言うのに。新年の初日（ついたち）に、心の中で願いを念じつつ刀を千回振れば、その願いは成就するのだ。誰が言うたかなど気にするでない、お主が信じさえすれば、それは真実となるのだからな。",
                 "kr": "새해 복 많이 받아라. 근데 이제야 기상한 거냐? 난 이미 훈련을 마치고 돌아오는 길이다. 새해 첫날, 마음속에 소원을 하나 담고 칼을 천 번 휘두르면 그 소원이 정말로 이루어지지. 누가 말했는지는 중요하지 않아. 네가 진실이라고 믿으면 그게 바로 진실이니까.",
                 "cn": "新年好啊，你怎么这个点才起床？我都已经做完训练回来了。新年第一天，在心里想一个愿望，然后用心挥刀一千次，这样就能愿望成真。别管是谁说的，只要你相信，它就是真的。"
@@ -585,6 +585,22 @@
             "asset": "char_475_akafyu/CN_042"
         },
         {
+            "id": "char_475_akafyu_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Oh? Today's your birthday, {@nickname}? Haha! Come, I'll take you for ale and meat! Honestly, why stay quiet about a day so important? Hm? you wonder what I would've gotten you if I knew? Well, need you ask? Better ale and even more meat!",
+                "jp": "哦？今天是{@nickname}你的生日啊！走，我请你喝酒吃肉去！真是的，这么重要的日子怎么不早说？啊，问我早说的话会准备什么？当然是更好的酒和更多的肉！",
+                "kr": "음? 오늘이 {@nickname} 박사 나리의 생일인가! 가자, 오늘은 내가 술과 고기를 사주마! 정말이지, 왜 진작 말하지 않은 건가. 얘기했으면 뭘 준비했을 거냐고? 그거야 당연히 더 좋은 술과 더 많은 고기를 준비했겠지!",
+                "cn": "哦？今天是{@nickname}你的生日啊！走，我请你喝酒吃肉去！真是的，这么重要的日子怎么不早说？啊，问我早说的话会准备什么？当然是更好的酒和更多的肉！"
+            },
+            "asset": "char_475_akafyu/CN_043"
+        },
+        {
             "id": "char_475_akafyu_CN_044",
             "title": {
                 "en": "Anniversary Celebration",
@@ -593,7 +609,7 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "TBU",
+                "en": "Never have I asked you what we fight for, yes? Stop, no need for an answer. Words are the least reliable of all. I only care that you've considered the question, and considered it well. Lead us forth on a just path, Doctor, and I assure you my katana will be sharp enough to cut through all.",
                 "jp": "私はこれまで、一度もお主に我々はなんのために戦っているかと問うたことはあるまい。そうであろう？待て、答えはいらぬぞ。口だけではなんとでも言えるからのう。お主には、この問いについてよくよく考え抜いてほしいだけだ。お主が我らを率いて進む道が正道である限り、この刀はなんでも切り裂いてやろう。",
                 "kr": "우리가 싸우는 이유에 대해서, 너한테 한 번도 물어본 적 없지? 아니, 답을 줄 필요는 없어. 입 밖으로 낼 수 있는 신념은 믿을 게 못 되거든. 난 그냥 네가 이 문제를 잘 생각해 봤으면 해서 말이야. 네가 이끄는 길이 올바른 길인 이상, 내 칼이 베지 못하는 건 없어.",
                 "cn": "我从来没有问过你，我们是为何而战的，对吧？停，不用告诉我答案。口头上说的话是最不可信的。我只希望你能好好想明白这个问题。只要你带领我们走的路是正道，这柄刀就会斩无不断。"

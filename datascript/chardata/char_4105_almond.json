@@ -585,6 +585,22 @@
             "asset": "char_4105_almond/CN_042"
         },
         {
+            "id": "char_4105_almond_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor! I got you a set of puzzles for your birthday. You'll find out what my present is if you manage to solve it. Sounds like fun, right? Hmm... How come you look like you've figured it out already?",
+                "jp": "ドクター、誕生日おめでとう！キミのために特別に謎解きを用意したんだ。これを解いたら、あたしちゃんからのプレゼントが何か分かるよ。どう、わくわくしちゃうでしょ！……あれ、なんでそんな全部分かってますみたいな顔してるの？",
+                "kr": "박사, 생일 축하해! 박사를 위해서 특별히 수수께끼를 하나 준비했어. 이걸 풀면 내 선물이 뭔지 알 수 있다고, 기대되지? ……음, 어째 벌써 다 알고 있다는 것 같은 표정이네?",
+                "cn": "生日快乐！我特意为你的生日准备了一套谜题，解开它就能知道我究竟送了你什么，是不是很期待？......欸，你看起来怎么一副已经知道了的样子？"
+            },
+            "asset": "char_4105_almond/CN_043"
+        },
+        {
             "id": "char_4105_almond_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

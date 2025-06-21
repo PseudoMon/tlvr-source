@@ -585,6 +585,22 @@
             "asset": "char_4023_rfalcn/CN_042"
         },
         {
+            "id": "char_4023_rfalcn_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "I made this drinking horn out of the sands of my tribal homeland. A new warrior blows her victory horn after her first battle, celebrating her arrival into the world.",
+                "jp": "これは、うちの部族の砂で焼き上げた角笛だ。部族では、初陣のあとに勝利の角笛を力いっぱい吹いて、自分が戦士として生まれ変わったことを祝うんだ。",
+                "kr": "이건 우리 부족의 모래로 구운 뿔피리야. 선물로 줄게. 우리 부족엔 첫 전투를 치른 후에 승리의 뿔피리를 힘껏 불어서 자신이 전사로서 새롭게 태어났다는 것을 알리는 풍습이 있어. 이게 바로 우리의 축하 방식이야.",
+                "cn": "这是用我部落里的沙子烧出来的号角杯，一个人第一次在战斗后奋力吹响的胜利号角，就代表她身为战士新生的号哭，这是我们庆祝的方式。"
+            },
+            "asset": "char_4023_rfalcn/CN_043"
+        },
+        {
             "id": "char_4023_rfalcn_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

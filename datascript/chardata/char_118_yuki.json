@@ -585,6 +585,22 @@
             "asset": "char_118_yuki/CN_042"
         },
         {
+            "id": "char_118_yuki_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday. Please take this present. No, 'tis no bidding of the Princess.",
+                "jp": "恭贺诞辰。这是礼物，请收下。不，不是主上之命。",
+                "kr": "생일 축하하네. 이건 선물이다, 받아 주게. 아니, 주인님의 명은 아니다.",
+                "cn": "恭贺诞辰。这是礼物，请收下。不，不是主上之命。"
+            },
+            "asset": "char_118_yuki/CN_043"
+        },
+        {
             "id": "char_118_yuki_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

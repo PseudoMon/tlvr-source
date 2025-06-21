@@ -585,6 +585,22 @@
             "asset": "char_158_milu/CN_042"
         },
         {
+            "id": "char_158_milu_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "You want to hear my harmonica? Fine. What are you in the mood for?… Calm and leisurely… Alright, here's a little tune called 'Greenleaves.'",
+                "jp": "想听我吹奏口琴？可以。博士现在的心情如何？......平静且悠闲......明白了，这首小调叫“绿叶”，请听吧。",
+                "kr": "하모니카 연주가 듣고 싶다고? 그래. 박사 지금 기분이 어떻지? ……차분하고 여유롭다…… 알겠어. 그럼 '그린 리프'를 들려줄게.",
+                "cn": "想听我吹奏口琴？可以。博士现在的心情如何？......平静且悠闲......明白了，这首小调叫“绿叶”，请听吧。"
+            },
+            "asset": "char_158_milu/CN_043"
+        },
+        {
             "id": "char_158_milu_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

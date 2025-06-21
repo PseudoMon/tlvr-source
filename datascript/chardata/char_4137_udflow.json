@@ -585,6 +585,22 @@
             "asset": "char_4137_udflow/CN_042"
         },
         {
+            "id": "char_4137_udflow_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, for you. Wait, why are you using it as a coaster? Doctor, they're not shorthand scribbles, I wrote an earnest birthday message, so I'd appreciate it if you would actually read it.",
+                "jp": "ドクター、これを――待ってください、どうして受け取ってすぐコップの下敷きに？ドクター、どうかしっかり内容を読んでください。それは「速記」ではなく、小官が真面目に書いた誕生日のお祝いメッセージです。ご理解ください。",
+                "kr": "박사님, 여기…… 잠시만요, 왜 받자마자 그걸 컵 밑에 두시려는 거죠? 부디 진지하게 읽어 주시길 바랍니다. 그건 속기가 아닌, 제가 진지하게 쓴 생일 축하 메시지니까요. 생일 축하드립니다. 박사님.",
+                "cn": "博士，给你——等等，怎么刚接过去就要拿去垫杯子？博士，请您认真阅读里面的内容，那不是速写，是我认真写下的生日祝愿，谢谢。"
+            },
+            "asset": "char_4137_udflow/CN_043"
+        },
+        {
             "id": "char_4137_udflow_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

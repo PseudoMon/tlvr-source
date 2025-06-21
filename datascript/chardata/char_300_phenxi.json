@@ -195,7 +195,7 @@
             "text": {
                 "en": "Keeping battle records is a pretty good habit.",
                 "jp": "作戦記録を保存してるのは良い習慣ね。",
-                "kr": "작전 기록을 보존하는 건 좋은 습관이네.",
+                "kr": "작전기록을 보존하는 건 좋은 습관이네.",
                 "cn": "保留作战记录是个不错的习惯。"
             },
             "asset": "char_300_phenxi/CN_012"
@@ -583,6 +583,22 @@
                 "cn": "别来无恙。"
             },
             "asset": "char_300_phenxi/CN_042"
+        },
+        {
+            "id": "char_300_phenxi_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "About that food street I mentioned. You wanna go check it out? I've never seen you use a firearm before, so we can just play by the rules at that shooting gallery. You want to see me hit their targets from the roof of a skyscraper? Ugh, I shouldn't have told you that... Fine, today's your birthday. Special exception!",
+                "jp": "之前说的小吃街，有空吗？我没见过你用什么铳械，射击摊我们就老老实实地站在店门口玩吧。你想看我从大楼上射中靶子？早知道不和你说了......行吧，今天是你生日，特例！",
+                "kr": "전에 말했던, 맛집골목 어때? 시간 괜찮아? 네가 총을 쓰는 걸 본 적이 없으니까, 사격은 그냥 가게 문 앞에 서서 하자. 빌딩 위에서 내가 과녁 쏘는 걸 보고 싶다고? 말하지 말았어야 했는데…… 그래, 오늘은 박사 생일이니까, 특별히 보여줄게.",
+                "cn": "之前说的小吃街，有空吗？我没见过你用什么铳械，射击摊我们就老老实实地站在店门口玩吧。你想看我从大楼上射中靶子？早知道不和你说了......行吧，今天是你生日，特例！"
+            },
+            "asset": "char_300_phenxi/CN_043"
         },
         {
             "id": "char_300_phenxi_CN_044",

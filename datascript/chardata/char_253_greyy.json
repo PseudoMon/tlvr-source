@@ -585,6 +585,22 @@
             "asset": "char_253_greyy/CN_042"
         },
         {
+            "id": "char_253_greyy_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Here's my birthday present for you, Doctor... Um, I didn't have the money to buy anything nice, so I made something myself... a candle that won't be blown out. May it light a corner of your room and never go out.",
+                "jp": "生日礼物......博士，嗯......我没有那么多钱去买很棒的礼物，我的礼物是自己做的.....是一根不会被吹灭的蜡烛，博士，我希望它能永远照亮您房间的一角，永远不会熄灭。",
+                "kr": "생일 선물…… 박사님, 음…… 사실 멋진 선물을 살 돈이 별로 없어서 제가 직접 만들었는데…… 꺼지지 않는 촛불이에요. 박사님, 저는 이 촛불이 박사님의 방 한구석이나마 영원히 꺼지지 않고 밝게 비출 수 있기를 바라고 있어요.",
+                "cn": "生日礼物......博士，嗯......我没有那么多钱去买很棒的礼物，我的礼物是自己做的.....是一根不会被吹灭的蜡烛，博士，我希望它能永远照亮您房间的一角，永远不会熄灭。"
+            },
+            "asset": "char_253_greyy/CN_043"
+        },
+        {
             "id": "char_253_greyy_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

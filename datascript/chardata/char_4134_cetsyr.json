@@ -585,6 +585,22 @@
             "asset": "char_4134_cetsyr/CN_042"
         },
         {
+            "id": "char_4134_cetsyr_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor. How did you used to celebrate this day in the previous world? It must've been a scene full of warmth and happiness. I found one such song in 'Civilight Eterna.' Would you like to listen to it? Before that, Doctor, may you never be alone again in the journey ahead.",
+                "jp": "お誕生日おめでとう、ドクター。昔の世界では、どうやってこの日をお祝いしていたの？きっと温かくて幸せな光景だったのでしょう。「文明の存続」の中で曲を見つけたのだけど、聞いてみない？ドクター、どうかこの先の旅路であなたがもう孤独ではありませんように。",
+                "kr": "생일 축하해, 박사. 네가 지내던 과거의 세상에서는 이날을 어떻게 축하했어? 궁금하네, 분명 따뜻하고 행복했겠지? '문명의 존속'에서 노래를 한 곡 찾았는데, 한번 들어볼래? 박사, 앞으로의 여정이 외롭지 않기를 내가 바라고 또 바라볼게.",
+                "cn": "生日快乐，博士。你在过去的世界里会怎样庆祝这一天呢？那一定是很温馨幸福的画面吧。我在“文明的存续”里，找到了这样一首歌，你要听听吗？博士，祝你今后的旅途，不再孤独。"
+            },
+            "asset": "char_4134_cetsyr/CN_043"
+        },
+        {
             "id": "char_4134_cetsyr_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

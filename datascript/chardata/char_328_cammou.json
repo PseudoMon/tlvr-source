@@ -451,7 +451,7 @@
             "text": {
                 "en": "Wonderful! We can just use this as a real-time battle record!",
                 "jp": "ワンダフル！このままノーカットで作戦記録に使えるじゃん。",
-                "kr": "원더풀! 이대로 편집 없이 작전 기록으로 쓸 수 있겠어.",
+                "kr": "원더풀! 이대로 편집 없이 작전기록으로 쓸 수 있겠어.",
                 "cn": "太精彩了，简直就是现成的作战记录。"
             },
             "asset": "char_328_cammou/CN_030"
@@ -561,7 +561,7 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "TBU",
+                "en": "Oh! I just got a new idea. Hold on, where's my camera? Anywhere I can set up a tripod? Doctor, help me test this out! When the fireworks go off, you look out the window. I'll take a picture of your eyes—",
                 "jp": "あっ！新しいアイデア思いついちゃった。えーっと、カメラはどこだっけ。三脚を置ける場所はあるかな？ドクター、ちょっとテストに付き合って、花火が打ち上がったら窓の外を眺めてほしいんだ。ドクターの目を撮ってみるから――",
                 "kr": "오오! 갑자기 새로운 아이디어가 떠올랐어! 잠깐, 카메라를 어디다 뒀더라. 음, 여기 삼각대 세울 자리 있을까? 박사, 잠깐 테스트 좀 할게. 거기 있어봐. 좀 이따 폭죽이 터지면 창밖을 바라보는 거야, 그럼 그때 내가 박사의 눈을 찍으면……",
                 "cn": "哦！我突然想到一个新点子，等下等下，摄像机在哪，这里有没有个地方可以布置三脚架？博士，帮我试验一下，待会儿放烟花的时候你看向窗外，我拍一下你的眼睛——"
@@ -585,6 +585,22 @@
             "asset": "char_328_cammou/CN_042"
         },
         {
+            "id": "char_328_cammou_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, have you heard of montages? It's when you mix a bunch of different shots from different scenes together. I sometimes catch you commanding when I film my battle records. Ta-dah! <i>Doctor's Commanding Highlights in Ultra HD</i>! It's your birthday present!",
+                "jp": "博士，你听说过“混剪”吗？就是将各种场景镜头混合剪辑在一起，我拍战场记录时有时候会拍到你指挥时的样子，《超清博士指挥现场高燃踩点混剪》，噔噔！生日礼物！",
+                "kr": "박사, 혹시 '교차 편집'이라고 들어 봤어? 여러 장면들을 섞어서 편집하는 그거 말이야. 내가 작전기록을 촬영하면서 박사가 지휘하는 모습도 같이 찍었거든. 쨘! 《박사의 현장 지휘 하이라이트 교차 편집 초고화질본》. 생일 선물!",
+                "cn": "博士，你听说过“混剪”吗？就是将各种场景镜头混合剪辑在一起，我拍战场记录时有时候会拍到你指挥时的样子，《超清博士指挥现场高燃踩点混剪》，噔噔！生日礼物！"
+            },
+            "asset": "char_328_cammou/CN_043"
+        },
+        {
             "id": "char_328_cammou_CN_044",
             "title": {
                 "en": "Anniversary Celebration",
@@ -593,7 +609,7 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "TBU",
+                "en": "Doctor! It's true that at first, I joined Rhodes Island just to make some money for the road. But now, I'm never gonna leave a company that doesn't charge me for drone repairs! Even if there are a lot of big Felines here! I'm—Ahhhhh! Is that Blaze?!",
                 "jp": "ドクター！あたしロドスに来たのは旅費を稼ぐためだったけど、でもドローンを無料でメンテナンスしてくれる会社なんて、一生離れられないよ！たとえこーんなにでかいフェリーンがいても、怖くなんかな――ぎゃあああー、あれってブレイズ！？",
                 "kr": "박사! 내가 로도스 아일랜드에 온 이유는 여행 경비를 벌기 위해서였어. 하지만 드론을 수리하는 데 돈을 내지 않아도 되는 회사라니, 이런 회사라면 정말 평생 다니고 싶을 정도야! 아무리 거대한 필라인이 있다고 해도 난 절대 무섭…… 꺄아아악 저 사람 혹시 블레이즈 씨야?",
                 "cn": "博士！虽然来罗德岛最初的原因只是想赚点路费，但是维修无人机不需要花钱的公司我真的一辈子都不会离开了！哪怕是这里有这么大的菲林，我也不会害——啊啊啊那位是煌吗？！"

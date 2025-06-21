@@ -585,6 +585,22 @@
             "asset": "char_4144_chilc/CN_042"
         },
         {
+            "id": "char_4144_chilc_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Catch—yep, that's a lockpicking kit, your birthday present. You were curious ever since Senshi brought it up, right? I got Engineering to make you a whole set. Do whatever you like with it, just don't let me know.",
+                "jp": "ほら、これやるよ――そう、ピッキングツールだ。誕生日プレゼント。お前、センシの話を聞いてからずっと興味持ってたみたいだから、エンジニア部に作ってもらったんだ。俺の目の届かないところでなら、好きに使えよ。",
+                "kr": "자, 이거 줄게. 그래, 피킹 툴이야. 생일 선물. 네가 센시 얘기를 들은 후로 계속 관심이 있는 것 같아서, 엔지니어링부에 만들어 달라고 했어. 내가 안 보는 곳에서라면 마음대로 써.",
+                "cn": "接着——对，是开锁工具，就当作你的生日礼物了。森西和你说过之后，你就一直挺好奇的吧，我找工程部给你做了一套，你想用它干什么就干什么，别让我知道就是了。"
+            },
+            "asset": "char_4144_chilc/CN_043"
+        },
+        {
             "id": "char_4144_chilc_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

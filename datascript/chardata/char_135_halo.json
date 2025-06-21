@@ -585,6 +585,22 @@
             "asset": "char_135_halo/CN_042"
         },
         {
+            "id": "char_135_halo_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday! Come, come! Here's my present for you. Crack it open~ What do you think? This music box is great, isn't it? Hehe~ Doctor, you know when my birthday is, don't you? I'm expecting a surprise when the time comes. It's a promise~",
+                "jp": "ハッピーバースデー！はい、キミへのプレゼントだよ、開けてみて？どう、このオルゴールいい感じでしょ、えへへ～。ねドクター、私の誕生日はもちろん知ってるよね？じゃあその日もサプライズしてくれる？約束だよ～。",
+                "kr": "해피 버스데이! 자 자, 이건 내가 주는 선물이야, 한번 열어봐~ 어때? 이 오르골 괜찮지, 헤헤~. 박사, 내 생일이 언제인지 알지? 내 생일이 오면 나한테도 서프라이즈 해 주는 거다. 약속한 거다~",
+                "cn": "生日快乐！来来来，这是我给你准备的礼物，打开看看吧~怎么样，这个八音盒不错是不是，嘿嘿~博士，你知道我生日什么时候吧，那到了那天，你也得给我一个惊喜，就这么约定了哦~"
+            },
+            "asset": "char_135_halo/CN_043"
+        },
+        {
             "id": "char_135_halo_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

@@ -585,6 +585,22 @@
             "asset": "char_4079_haini/CN_042"
         },
         {
+            "id": "char_4079_haini_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor! I've recently come to appreciate the unique beauty of the patterns found on paper currency, and I've drawn a copy of this bill for you. Is it a good imitation? Don't let people see it? Counterfeit money? What does that mean?",
+                "jp": "ドクター、誕生日おめでとう！この頃は紙幣に印刷された模様や図形に独特な美を見出してね、模写してみたからプレゼントするわ。そっくりに描けてるでしょ？……え、他の人には絶対に見せちゃダメって？偽札？どういうこと？",
+                "kr": "생일 축하해, 박사! 이거 선물! 요즘 지폐에 인쇄된 무늬랑 도형에서 독특한 아름다움을 발견했지 뭐야. 그래서 한번 모사해 봤는데 어때? 완전 똑같지? ……다른 사람한테는 절대 보여 주지 말라고? 위조지폐? 그게 무슨 소리야?",
+                "cn": "博士，生日快乐！我最近发现纸质货币上印刷的花纹和图形有种独特的美，就试着临摹了一幅送给你，你看像不像？......千万别被人看到？假钞？那是什么意思？"
+            },
+            "asset": "char_4079_haini/CN_043"
+        },
+        {
             "id": "char_4079_haini_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

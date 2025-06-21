@@ -585,6 +585,22 @@
             "asset": "char_4078_bdhkgt/CN_042"
         },
         {
+            "id": "char_4078_bdhkgt_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "This is the seed of the 'Tree of Life and Death.' Flowers appear on its branches in every state of its life cycle, from bud to bloom to decay. None of us can escape the cycle of life and death. Every day is precious. Happy birthday, Doctor.",
+                "jp": "ドクター、はいこれ。「生老病死樹」の種だよ。育つと、芽を出してから枯れるまで、花の一生が全部同時に枝につくんだ。生老病死は避けられないし、いつかはやってくるものでしょ。だからこそ人生の毎日を大事に過ごすべきなんだ。ドクター、誕生日おめでとう。",
+                "kr": "박사, 이건 '생로병사 나무'의 씨앗이야, 선물로 줄게. 이 나무는 꽃을 피울 때가 되면 꽃눈, 꽃망울, 꽃봉오리, 시든 가지 같은 여러 모습의 꽃들이 전부 나타날 거야. 생로병사는 피할 수도, 도망칠 수도 없어. 그래서 삶의 모든 순간이 소중한 거고. 박사, 생일 축하해.",
+                "cn": "博士，这是“生老病死树”的种子，送给你。等它开花的时候，花芽、花苞、花朵、枯枝，各种姿态的花都会出现在枝头。生老病死，躲不过，逃不掉，所以生命里每一天都很珍贵。博士，生日快乐。"
+            },
+            "asset": "char_4078_bdhkgt/CN_043"
+        },
+        {
             "id": "char_4078_bdhkgt_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

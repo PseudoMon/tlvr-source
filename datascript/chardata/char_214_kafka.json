@@ -585,6 +585,22 @@
             "asset": "char_214_kafka/CN_042"
         },
         {
+            "id": "char_214_kafka_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, birthday cake for you! See the flowers around the outside? Pure bespoke craft by Kafka hands. Careful you don't lose count counting 'em all, heheh! C'mon, yannow fine work like this ain't no sweat for me and my shears. Not that I got anything against working up a sweat for my best bud—hey, whoa, whoa, paws off! No eating yet! You admire the freakin' thing first!",
+                "jp": "博士，给你生日蛋糕！外面的裱花可是我做的哦。你能数清这上面有多少朵花吗？我的剪刀当然也可以做到这么精细的事啦，因为是重要的朋友，得准备得充分一点嘛。哎，别急着吃啊，先仔细看看！",
+                "kr": "박사, 여기 생일 케이크! 겉에 장식은 카프카가 한 거야. 이 위에 꽃이 몇 송이 있는지 셀 수 있겠어? 카프카의 가위로도 이렇게 세심한 작업을 할 수 있다고. 소중한 친구인데 당연히 제대로 준비해야지. 에이, 너무 급하게 먹으려고 하지만 말고, 자세히 봐봐!",
+                "cn": "博士，给你生日蛋糕！外面的裱花可是我做的哦。你能数清这上面有多少朵花吗？我的剪刀当然也可以做到这么精细的事啦，因为是重要的朋友，得准备得充分一点嘛。哎，别急着吃啊，先仔细看看！"
+            },
+            "asset": "char_214_kafka/CN_043"
+        },
+        {
             "id": "char_214_kafka_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

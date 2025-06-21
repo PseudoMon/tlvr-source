@@ -585,6 +585,22 @@
             "asset": "char_340_shwaz/CN_042"
         },
         {
+            "id": "char_340_shwaz_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Here, it's a birthday present. I was there while Lady Ceylon picked out her present, so I chose some fine dishes for afternoon tea to go with the tea set. When you brew your relaxing tea, you can enjoy some snacks along with it.",
+                "jp": "给，生日礼物。小姐挑选礼物时我也在，所以选了和茶具相配套的下午茶餐碟。休息时除了泡茶放松，也可以吃一些点心。",
+                "kr": "여기, 생일 선물입니다. 실론 님이 선물 고르실 때 저도 옆에 있었기에, 찻잔 세트와 어울리는 케이크 스탠드를 선택해 봤습니다. 쉬실 때 차와 함께 간단한 다과를 드시는 것도 좋을 것 같다는 생각이 들어서요……",
+                "cn": "给，生日礼物。小姐挑选礼物时我也在，所以选了和茶具相配套的下午茶餐碟。休息时除了泡茶放松，也可以吃一些点心。"
+            },
+            "asset": "char_340_shwaz/CN_043"
+        },
+        {
             "id": "char_340_shwaz_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

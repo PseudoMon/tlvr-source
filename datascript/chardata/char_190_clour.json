@@ -585,6 +585,22 @@
             "asset": "char_190_clour/CN_042"
         },
         {
+            "id": "char_190_clour_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "This cloak's for you. I learned to make this back with the other hunters. If you get lost in the wild one day, that hood you've got isn't gonna save you from sandstorms. Obviously, I'd rather be there with you to protect you, if I could.",
+                "jp": "这件披风送给你，是我在部落的时候学到的手艺。如果哪天你不小心在荒野上迷路了，你的那身兜帽可没法挡风沙。当然，如果可能的话，我还是希望能在你身边保护你......",
+                "kr": "이 망토 줄게. 부족에 있을 때 뜨개질하는 법을 배웠거든. 만약 황야에서 길을 잃게 된다면, 지금 네가 입고 있는 그 후드로는 모래폭풍을 막을 수 없을 거야. 물론 가능하다면 내가 계속 박사의 곁을 지켜주고 싶지만……",
+                "cn": "这件披风送给你，是我在部落的时候学到的手艺。如果哪天你不小心在荒野上迷路了，你的那身兜帽可没法挡风沙。当然，如果可能的话，我还是希望能在你身边保护你......"
+            },
+            "asset": "char_190_clour/CN_043"
+        },
+        {
             "id": "char_190_clour_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

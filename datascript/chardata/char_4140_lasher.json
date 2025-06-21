@@ -585,6 +585,22 @@
             "asset": "char_4140_lasher/CN_042"
         },
         {
+            "id": "char_4140_lasher_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "In the past, to ensure that balance was not lost, the overseer was permitted no trusted aides. That's why I never had any time, even if I wanted to celebrate some special day... But if you have any worries, I am willing to lend you my assistance. You have my best wishes, Doctor.",
+                "jp": "昔は、天秤の均衡が失われないよう、支配人は側近などを作らないようにしていた。だから特別な一日を祝いたくとも、時間など取れるはずもなく……もし何か悩みがあるのなら、私が喜んで力になろう。そしてめでたき一日に祝福を、ドクター。",
+                "kr": "저울의 균형이 깨지지 않도록 관리인은 측근을 두지 않아. 그래서 예전엔 특별한 날에도 시간을 낼 수 없었지…… 박사, 고민이 있다면 말해줘. 내가 기꺼이 도울 테니까. 오늘 행복한 하루가 되길 바랄게.",
+                "cn": "过去，为了不让天平失衡，监管人身边不会有亲信，所以我即使想庆祝一个特殊的日子，也留不出时间......如果你眼下有什么烦忧，我愿意提供帮助。向你致以祝福，博士。"
+            },
+            "asset": "char_4140_lasher/CN_043"
+        },
+        {
             "id": "char_4140_lasher_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

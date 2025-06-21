@@ -585,6 +585,22 @@
             "asset": "char_4081_warmy/CN_042"
         },
         {
+            "id": "char_4081_warmy_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor! Lanns and I made you a carrot cake...! You've already got lots of cake from the others? Then... Huh? You could eat a few slices and share the rest with Amiya and Savage? That's great! I'll light some candles!",
+                "jp": "ドクターさん、ハッピーバースデー！ドクターさんのために、ランナお姉ちゃんとキャロットケーキを作りました！……あ……もう他の人がくれたケーキをたくさん食べたんですか？それじゃ……え？少し食べて、残りをアーミヤお姉ちゃんとサベージお姉ちゃんに分けるの……？よかった！それじゃロウソクを点けますね！",
+                "kr": "생일 축하드려요, 박사님! 저랑 라나 언니가 박사님을 위해 당근 케이크를 준비했어요! ……음, 벌써 다른 분들께 받은 케이크를 많이 드셨다고요? 그럼 이건…… 네? 그래도 몇 조각 드셔 보시고 아미야 언니랑 새비지 언니한테도 나눠 주고 싶으시다고요? 잘 됐네요! 그럼 제가 촛불을 켤게요!",
+                "cn": "生日快乐，博士！我和兰娜姐为您准备了萝卜蛋糕！......您今天已经吃过好多人送的蛋糕了？那......欸？您愿意尝几块，再分给阿米娅姐和暴行姐几块？太好啦！我来点蜡烛！"
+            },
+            "asset": "char_4081_warmy/CN_043"
+        },
+        {
             "id": "char_4081_warmy_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

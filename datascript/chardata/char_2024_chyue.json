@@ -585,6 +585,22 @@
             "asset": "char_2024_chyue/CN_042"
         },
         {
+            "id": "char_2024_chyue_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Once I traveled through Sargon and taught the locals a few moves for their defense. From what I heard, they became very fierce and instigated many riots. Ever since, I have been careful who I teach. This booklet contains instructions on how to strengthen your body and health. Take it. It is a joyous day, after all.",
+                "jp": "かつてサルゴンを通りがかった際、現地の者に自衛のための武技を教えたことがある。のちにその者たちが、手にした力を笠に着て少なからぬ動乱を起こしたと聞いた。以来、武術の教授には慎重になっているんだ……この冊子には体を鍛える方法が書いてある、貰っておいてくれ。なんといっても、今日はめでたい日だからな。",
+                "kr": "과거 사르곤을 지나다 현지인들이 자기 몸을 지킬 수 있도록 무술을 가르친 적이 있었지. 하지만 후에 그들이 그 힘으로 적지 않은 소란을 피웠다고 들었네. 그 뒤로 난 타인에게 무술을 전수해 주는 것에 신중하게 되었지. 이 책자에는 몸을 단련하는 방법들이 적혀 있네, 받아 두게나. 뭐니 뭐니 해도 오늘은 경사스러운 날이니 말이야.",
+                "cn": "我曾途经萨尔贡，指点过当地人一些武技用于防身，后来听说他们恃勇斗狠，掀起了不少动乱，从此我传功授业便格外谨慎。这本册子里记了些强身健体的法门，你收着吧。今天毕竟是个难得的日子。"
+            },
+            "asset": "char_2024_chyue/CN_043"
+        },
+        {
             "id": "char_2024_chyue_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

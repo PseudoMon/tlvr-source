@@ -585,6 +585,22 @@
             "asset": "char_4055_bgsnow/CN_042"
         },
         {
+            "id": "char_4055_bgsnow_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "This is for you, Doctor. I asked a Logistics Operator to formulate a special shade of ink—apparently, this one gradually changes hue once it's on paper. Happy birthday.",
+                "jp": "ドクター、こちらを差し上げますわ。支援部の方に調合していただいた特殊な染料のインクですの。紙の上で色を徐々に変えるらしいですわ。お誕生日おめでとうございます。",
+                "kr": "이걸 드리겠습니다, 박사님. 이건 제가 후방 지원부 오퍼레이터분께 부탁드려서 제작한 특수한 색깔의 잉크랍니다. 종이 위에 떨어뜨리면 서서히 색이 바뀐다는 모양이에요. 생일 축하드립니다.",
+                "cn": "博士，这个给你。这是我拜托后勤干员调制的特殊颜色的墨水，据说能在纸上留下渐变的颜色。生日快乐。"
+            },
+            "asset": "char_4055_bgsnow/CN_043"
+        },
+        {
             "id": "char_4055_bgsnow_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

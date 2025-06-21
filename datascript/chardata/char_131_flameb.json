@@ -585,6 +585,22 @@
             "asset": "char_131_flameb/CN_042"
         },
         {
+            "id": "char_131_flameb_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Here is a flower I grew. Take it. You don't need to assign it too much meaning. All I hope is that before you greet life's withering, you come upon a time in which you blossom at full might. Happy birthday.",
+                "jp": "这束花是我种的，收下吧。不用为它赋予太多意义。只是希望你在迎来生命的凋亡前，也能找到一个全力绽放的时刻。生日快乐。",
+                "kr": "이건 내가 직접 심고 키운 꽃이다, 받아. 의미를 부여할 건 없어. 그저 네 생명이 지기 전에, 너도 이 꽃처럼 최선을 다해 싹을 틔우고 만개하는 순간을 맞이하기를 바랄 뿐이다. 생일 축하한다, {@nickname}.",
+                "cn": "这束花是我种的，收下吧。不用为它赋予太多意义。只是希望你在迎来生命的凋亡前，也能找到一个全力绽放的时刻。生日快乐。"
+            },
+            "asset": "char_131_flameb/CN_043"
+        },
+        {
             "id": "char_131_flameb_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

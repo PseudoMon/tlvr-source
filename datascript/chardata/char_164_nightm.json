@@ -585,6 +585,22 @@
             "asset": "char_164_nightm/CN_042"
         },
         {
+            "id": "char_164_nightm_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor! It must be hard always carrying such heavy responsibilities, you deserve a break. Come closer, close your eyes, and let me bring you sweet dreams... Doctor?! S-Stay back, don't listen to me!",
+                "jp": "博士，生日快乐哦。一直以来背负这么多责任，真是太辛苦你了。其实你也很想休息的，对不对？来，靠过来一点，闭上眼睛，让我为你编织一个轻松的梦......博士！离我远一点，不要听！",
+                "kr": "박사, 생일 축하해. 항상 많은 책임을 짊어지느라 고생이 많아. 당신도 사실은 좀 쉬고 싶잖아, 그렇지? 이리 가까이 와봐, 릴랙스하고, 눈을 감아봐, 내가 좋은 꿈을 꾸게 해줄게…… 으앗 박사님! 저한테서 떨어지세요, 듣지 마세요!",
+                "cn": "博士，生日快乐哦。一直以来背负这么多责任，真是太辛苦你了。其实你也很想休息的，对不对？来，靠过来一点，闭上眼睛，让我为你编织一个轻松的梦......博士！离我远一点，不要听！"
+            },
+            "asset": "char_164_nightm/CN_043"
+        },
+        {
             "id": "char_164_nightm_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

@@ -585,6 +585,22 @@
             "asset": "char_180_amgoat/CN_042"
         },
         {
+            "id": "char_180_amgoat_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Professor, do you know there's a cake that's both named after and inspired by volcanoes? It's called 'lava cake.' I asked Gummy and Mousse, and they taught me how to make it. When you cut it open, the chocolate inside comes spilling out. Here's your cake, Professor, Happy birthday.",
+                "jp": "前辈，您知不知道有种蛋糕的取名和制作灵感都是来源于火山，叫“熔岩蛋糕”？我请教了古米还有慕斯干员，她们教我做出来了，切开以后里面就会有巧克力流出来，前辈，生日快乐~",
+                "kr": "선배, '초콜릿 라바 케이크' 이름이랑, 제작할 때의 영감은 전부 화산에서 왔다는 걸 알고 계신가요? 제가 굼이랑 무스한테 케이크 만드는 방법을 배웠거든요. 케이크를 자르면 안에서 초콜릿이 흘러나올 거예요. 생일 축하해요, 선배~",
+                "cn": "前辈，您知不知道有种蛋糕的取名和制作灵感都是来源于火山，叫“熔岩蛋糕”？我请教了古米还有慕斯干员，她们教我做出来了，切开以后里面就会有巧克力流出来，前辈，生日快乐~"
+            },
+            "asset": "char_180_amgoat/CN_043"
+        },
+        {
             "id": "char_180_amgoat_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

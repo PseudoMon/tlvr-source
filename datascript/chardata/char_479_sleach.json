@@ -585,6 +585,22 @@
             "asset": "char_479_sleach/CN_042"
         },
         {
+            "id": "char_479_sleach_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "This Victorian poetry anthology is one I always used to read, back in County Hillock. Now, I'm giving it to you. Oh, there's one passage I really love—'Old Sunlight hugs tight all the town in her bosom. Old Moonlight bends down with a kiss to the wild.' The feeling you give me is, really, just as warm as that. Heheh, have a happy birthday, Doctor.",
+                "jp": "这本维多利亚诗集，是我在小丘郡的时候经常读的，送给您。我非常喜欢其中的一句，“阳光拥城市入怀，月色亲吻荒野”，博士给人的感觉，就像这句诗一样温柔呢。呵呵，祝您生日快乐。",
+                "kr": "이 빅토리아 시집은 내가 힐록 카운티에 있을 때 자주 읽던 거야. 박사한테 줄게. 난 이 구절이 마음에 들더라, “햇빛은 도시를 품에 감싸안고, 달빛은 황야에 입 맞추리”, 박사가 사람들에게 주는 느낌도 마치 이 구절처럼 부드럽고 따스해. 후후, 해피 버스데이, 박사.",
+                "cn": "这本维多利亚诗集，是我在小丘郡的时候经常读的，送给您。我非常喜欢其中的一句，“阳光拥城市入怀，月色亲吻荒野”，博士给人的感觉，就像这句诗一样温柔呢。呵呵，祝您生日快乐。"
+            },
+            "asset": "char_479_sleach/CN_043"
+        },
+        {
             "id": "char_479_sleach_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

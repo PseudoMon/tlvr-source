@@ -585,6 +585,22 @@
             "asset": "char_117_myrrh/CN_042"
         },
         {
+            "id": "char_117_myrrh_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor. I've prepared you some pills, based on your health records. They'll help you relax and sleep better. And don't worry, I've coated each one in cake-flavored frosting. If you like them, I can make more for you whenever you want!",
+                "jp": "博士，生日快乐。我根据您的健康记录，为您准备了一些药丸。它们有安神和助眠的功效。请放心，我在每一颗药丸上裹好了蛋糕口味的糖衣。您喜欢的话，任何时候我都可以帮您做的！",
+                "kr": "박사님, 생일 축하드려요. 건강 검진 결과에 따라 박사님을 위한 알약들을 준비해 봤어요. 신경을 안정시켜주고 수면에 도움이 될 거예요. 걱정 마세요, 알약에 모두 케이크 맛 설탕 코팅을 했으니까요. 맘에 드신다면, 언제든지 만들어 드릴게요!",
+                "cn": "博士，生日快乐。我根据您的健康记录，为您准备了一些药丸。它们有安神和助眠的功效。请放心，我在每一颗药丸上裹好了蛋糕口味的糖衣。您喜欢的话，任何时候我都可以帮您做的！"
+            },
+            "asset": "char_117_myrrh/CN_043"
+        },
+        {
             "id": "char_117_myrrh_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

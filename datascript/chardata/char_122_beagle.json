@@ -521,6 +521,22 @@
             "asset": "char_122_beagle/CN_042"
         },
         {
+            "id": "char_122_beagle_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "D-Doctor, happy birthday! Huh? I—I'm not nervous, not at all. We got you a birthday present, so can you come visit the dorms real quick? But you'll want to be careful! And please don't tell Kroos I was the one who warned you!",
+                "jp": "博士，生、生日快乐！啊？我、我才没有紧张。博士，我们为您准备了生日礼物，可以请您到宿舍来一下吗？但是一定要小心一点哦！也请不要告诉克洛丝是我提醒您的！",
+                "kr": "바, 박사님! 새, 생일 축하드려요! 네? 아, 저 긴장한 거 아니에요! 저희 팀이 박사님을 위해 생일 선물을 준비했는데, 이따가 저희 숙소에 한번 들려주실 수 있으실까요? 그, 근데 긴장은 늦추지 마시고 오는 길에 조심하시는 게 좋을 거예요. 혹시 몰라서 말씀드리는 건데요, 박사님한테 주의를 준 건 크루스한테는 꼭 비밀로 해주세요! 꼭이요!",
+                "cn": "博士，生、生日快乐！啊？我、我才没有紧张。博士，我们为您准备了生日礼物，可以请您到宿舍来一下吗？但是一定要小心一点哦！也请不要告诉克洛丝是我提醒您的！"
+            },
+            "asset": "char_122_beagle/CN_043"
+        },
+        {
             "id": "char_122_beagle_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

@@ -585,6 +585,22 @@
             "asset": "char_4106_bryota/CN_042"
         },
         {
+            "id": "char_4106_bryota_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, happy birthday! Be sure to make a wish out loud on such an important day. Huh? It won't come true if others hear it? But back when I was still at the 'White Volcano,' it really seemed like our wishes would come true more easily when we yelled.",
+                "jp": "ドクター、ハッピーバースデー！せっかくだし、大きな声で願い事を唱えましょう。他人に聞かれたら叶わなくなるって？でも俺、「ホワイト・ヴォルケーノ」にいた頃はずっと声に出してお願いしてましたよ。そっちのほうが叶う気がするんだけどなぁ。",
+                "kr": "생일 축하해요, 박사님! 이런 중요한 날엔 큰 소리로 소원을 빌어야 해요. 다른 사람이 들으면 소원이 이뤄지지 않을 거라고요? 하지만 저는 '순백의 화산'에 있었을 때부터, 소원을 외치는 편이 더 잘 이뤄졌었는데요?",
+                "cn": "博士，生日快乐！这么重要的日子，要大声许愿哦。让别人听见就不灵验了？可我在“纯白火山”时，把愿望喊出来，好像更容易实现啊。"
+            },
+            "asset": "char_4106_bryota/CN_043"
+        },
+        {
             "id": "char_4106_bryota_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

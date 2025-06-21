@@ -585,6 +585,22 @@
             "asset": "char_343_tknogi/CN_042"
         },
         {
+            "id": "char_343_tknogi_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Here, give me your hand. Don't be nervous. Just follow my steps... Look, our hair flutters in the breeze risen by the movement of my arms, and our clothes sway in an elegant arc. Sharing a dance together is a beautiful thing, wouldn't you agree?",
+                "jp": "来，把手给我，不用那么紧张，跟着我的步子来就好了——你瞧，头发被胳膊带出的轻风扬起，衣服的下摆也旋出了优雅的弧度，共舞是一件很美的事情，对吗？",
+                "kr": "자, 손을 이리로. 너무 그렇게 긴장하실 필요는 없답니다. 제 발걸음을 따라오시기만 하면 돼요. ……자, 보세요. 팔이 움직이며 생기는 가벼운 바람에 머리카락이 나부끼고, 옷자락도 아름다운 곡선을 그리고 있어요. 함께 춤을 춘다는 건 정말 아름다운 일이지 않나요?",
+                "cn": "来，把手给我，不用那么紧张，跟着我的步子来就好了——你瞧，头发被胳膊带出的轻风扬起，衣服的下摆也旋出了优雅的弧度，共舞是一件很美的事情，对吗？"
+            },
+            "asset": "char_343_tknogi/CN_043"
+        },
+        {
             "id": "char_343_tknogi_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

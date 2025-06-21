@@ -489,6 +489,22 @@
             "asset": "char_501_durin/CN_042"
         },
         {
+            "id": "char_501_durin_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Big Doctor, Big Doctor, Happy birthday! If you're another year older, does that mean you're getting taller, too? I bought you a sleeping bag. If you're getting taller, I don't know how long it'll fit...?",
+                "jp": "大个子博士，大个子博士——生，日，快，乐！啊，又长大了一岁的话，博士的个子也会再长高一点吗？这样的话，准备送给博士的睡袋，不知道还能用多久啊......",
+                "kr": "커다란 박사 씨, 커다란 박사 씨~ 생~일, 축~하, 해! 앗, 한 살 더 먹으면 박사 키도 더 커지는 거야? 박사를 위해서 침낭을 준비했는데, 얼마나 더 사용할 수 있으려나……",
+                "cn": "大个子博士，大个子博士——生，日，快，乐！啊，又长大了一岁的话，博士的个子也会再长高一点吗？这样的话，准备送给博士的睡袋，不知道还能用多久啊......"
+            },
+            "asset": "char_501_durin/CN_043"
+        },
+        {
             "id": "char_501_durin_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

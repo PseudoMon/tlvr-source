@@ -195,7 +195,7 @@
             "text": {
                 "en": "This battle record is a five out of five. It's as good as the Wrankwood action blockbusters I used to watch at the video shop.",
                 "jp": "この作戦記録、シアターで観たランクウッドのアクション大作映画みたいに完璧ですね。",
-                "kr": "이 작전 기록은 비디오룸에서 봤던 랭크우드 액션 영화처럼 완벽하군요.",
+                "kr": "이 작전기록은 비디오룸에서 봤던 랭크우드 액션 영화처럼 완벽하군요.",
                 "cn": "这份作战记录完美得像我在录像厅里看过的那些蓝卡坞动作大片。"
             },
             "asset": "char_4110_delphn/CN_012"
@@ -583,6 +583,22 @@
                 "cn": "好久不见，博士，准备好行动了吗？"
             },
             "asset": "char_4110_delphn/CN_042"
+        },
+        {
+            "id": "char_4110_delphn_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "I took this photo from someplace high up while on a certain trip. Can you tell who these people are fighting for, when they've been reduced to dots? Perhaps you've never seen the land of Victoria from such a perspective, so who knows just what ideas you might have. No need to tell me though. Happy birthday, Doctor. ",
+                "jp": "これは昔遊歴中に、ある高いところから撮った写真です。虫みたいに沢山の人たちが群がって、彼らが誰のために戦っているかも分からないでしょう？ドクターは、今初めてこの角度からヴィクトリアという地を見たかもしれませんね。何か新しい考えは生まれましたか？私に伝える必要はありませんよ。誕生日おめでとうございます、ドクター。",
+                "kr": "이건 제가 예전 여행 때 어떤 높은 곳에서 찍은 사진이에요. 사진 속 개미처럼 작아 보이는 사람들이 누굴 위해 서로 싸우는 건지, 박사님은 구분하실 수 있나요? 박사님께서도 이런 각도에서 보는 빅토리아는 아마 처음이시겠죠. 뭔가 새롭게 떠오르는 건 없으신가요? 아, 저한테 말씀해 주실 필요는 없습니다. 생일 축하드립니다, 박사님.",
+                "cn": "这是某次游历中我站在高处拍下的照片，人如蝼蚁，你分得清他们为谁而战吗？也许你从未从这个角度看过维多利亚的土地，不知道你又会有什么新的想法？不用告诉我哦。生日快乐，博士。"
+            },
+            "asset": "char_4110_delphn/CN_043"
         },
         {
             "id": "char_4110_delphn_CN_044",

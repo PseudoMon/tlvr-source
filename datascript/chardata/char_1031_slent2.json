@@ -585,6 +585,22 @@
             "asset": "char_1031_slent2/CN_042"
         },
         {
+            "id": "char_1031_slent2_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor. Here's your cake, your card, a small gift, and... I seem very practiced, do I? Oh, I'm sure; I've definitely grown somewhat used to celebrating birthdays. Days like this lift your spirits, don't they?",
+                "jp": "誕生日おめでとう、ドクター。ケーキを用意してきたよ。それに、バースデーカードとちょっとしたプレゼント、あとは……手慣れたふうに見える？うん、そうかも。誰かの誕生日を祝うことには、少し慣れてきた気がする。だって、こういうお祝いごとがあると、なんだか嬉しくなるから。あなたもそう思わない？",
+                "kr": "박사, 생일 축하해. 이건 내가 준비한 케이크야, 그리고 생일 카드랑 선물, 또…… 응? 익숙해 보인다고? 그럴지도. 누군가의 생일을 축하하는 일이 이젠 낯설지만은 않아. 이렇게 축하할 날이 오면 나까지도 기분이 즐거워지거든. 박사도 그렇지 않아?",
+                "cn": "博士，生日快乐。这是我准备的蛋糕，这是贺卡，这是一点小礼物，还有......我很熟练？嗯，是啊，我确实已经有些习惯给别人过生日了，这样的日子总是令人开心，不是吗？"
+            },
+            "asset": "char_1031_slent2/CN_043"
+        },
+        {
             "id": "char_1031_slent2_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

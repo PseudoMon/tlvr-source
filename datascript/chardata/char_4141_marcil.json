@@ -585,6 +585,22 @@
             "asset": "char_4141_marcil/CN_042"
         },
         {
+            "id": "char_4141_marcil_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "It took me forever to pick out your gift. As a huge, huge fan of The Daltian Clan, this one hits all the same notes, and the narrative and writing style are superb. Promise me this, Doctor, you WILL read it! Very well, it's yours—the classic romance tale, <i>Love on Terra!</i>",
+                "jp": "贈り物はすっごく悩んだんだけど、やっぱりこれかなって。私が大大大好きな『ダルチアンの一族』によく似ていて物語も文体もとっても素敵なお話だから、絶対に読むって約束してね、ドクター！はい、どうぞ――文学史の傑作、『愛はテラに』だよ！！",
+                "kr": "선물을 정말 많이 고민했는데, 역시 이게 좋을 것 같았어. 내가 아주아주 좋아하는 '다르티안 일족'이랑 정말 비슷해서, 스토리도 문체도 굉장히 훌륭한 이야기거든. 반드시 읽겠다고 약속해 줘, 박사! 자, 받아. 문학사의 걸작, '사랑은 테라에'야!!",
+                "cn": "这份礼物我挑了很久，它和我非常非常喜欢的《达尔吉安的一族》很像，故事和文笔都很优秀。博士，答应我，你一定要去看！喏，给你——经典爱情故事《爱在泰拉》！！"
+            },
+            "asset": "char_4141_marcil/CN_043"
+        },
+        {
             "id": "char_4141_marcil_CN_044",
             "title": {
                 "en": "Anniversary Celebration",
@@ -604,7 +620,7 @@
     "actors": {
         "linkage": {
             "native": "千本木彩花",
-            "global": "Sembongi Sayaka"
+            "global": "Sayaka Sembongi"
         }
     },
     "availability": [

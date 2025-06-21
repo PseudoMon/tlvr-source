@@ -585,6 +585,22 @@
             "asset": "char_4047_pianst/CN_042"
         },
         {
+            "id": "char_4047_pianst_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "I've reserved some tickets to a performance of a symphony, all fine VIP seats. If you're free on the day, you must attend. Ah, yes, I wish you a happy birthday.",
+                "jp": "あなたのために、オーケストラコンサートのチケットを何枚か確保しておきました。どちらも貴賓席になっていますので、もし当日にお時間があれば是非お越しください。それと、お誕生日おめでとうございます。",
+                "kr": "제가 당신을 위해 연주회 티켓을 몇 장 준비했습니다. 모두 좋은 위치에 있는 귀빈석이니, 혹시 그날 여유가 되신다면 방문해 주시기 바랍니다. 참, 생일 축하드립니다.",
+                "cn": "我为您预留了几张交响乐演奏会的门票，都是贵宾席的好位子，如果您当日有空，请务必光临。对了，祝您生日快乐。"
+            },
+            "asset": "char_4047_pianst/CN_043"
+        },
+        {
             "id": "char_4047_pianst_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

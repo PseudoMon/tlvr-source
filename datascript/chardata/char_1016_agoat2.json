@@ -585,6 +585,22 @@
             "asset": "char_1016_agoat2/CN_042"
         },
         {
+            "id": "char_1016_agoat2_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "The obsidian in this brooch comes from a volcano you haven't climbed yet. When you're not busy, we can go volcano-climbing, one by one. You'll know exactly which volcano I'm talking about once you get to the top. The scenery up there is magnificent, and the other half of your present is waiting up there.",
+                "jp": "このブローチの黒曜石は、先輩がまだ登ったことのない火山で採れたものなんです。いつか時間の余裕ができたら、是非未踏の山々に挑戦してみてください。登ってみれば、私がどの山のことを言っていたのかすぐにわかると思います。素晴らしい景色と残り半分のプレゼントがそこで先輩を待ってますから。",
+                "kr": "이 브로치의 흑요석은 선배가 아직 가본 적 없는 화산에서 채취한 거예요. 나중에 선배도 시간 되시면 한 곳, 한 곳 전부 방문하는 걸 추천드려요. 올라가 보면 분명 제가 얘기한 화산이란 걸 바로 알 수 있으실 거예요. 멋진 경치와 나머지 절반의 선물이 거기서 선배를 기다리고 있을 테니까요.",
+                "cn": "这颗胸针上的黑曜石来自一座您还没有登过的火山，等什么时候前辈不忙了，可以一座一座地攀登来看，只要登上，您肯定就能知道我说的是哪座。那上面的风景很好，等待您的还有剩下的半份礼物。"
+            },
+            "asset": "char_1016_agoat2/CN_043"
+        },
+        {
             "id": "char_1016_agoat2_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

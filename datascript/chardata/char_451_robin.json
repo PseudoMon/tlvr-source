@@ -585,6 +585,22 @@
             "asset": "char_451_robin/CN_042"
         },
         {
+            "id": "char_451_robin_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, happy birthday. I got a necklace for you. It's from my movie tie-in collection. Comes from a real classic romance flick. But now I'm, uh, remembering what happens to the ship and the lead couple, and it sends kind of a crappy message... Umm, please forget what I said. Just treat it like a normal necklace, okay?",
+                "jp": "博士，生日快乐。这个项链送给您。是我收集的电影周边啦，出自一部很经典的爱情电影。可是突然想到，剧情里那艘船和主角的命运，寓意不太好啊......不用在意！请当作普通饰品收下吧！",
+                "kr": "박사, 생일 축하해. 이 목걸이는 내가 수집했던 영화 굿즈인데, 선물로 줄게. 엄청 유명한 로맨스 영화 굿즈야. 근데 잠깐, 이 영화 속 주인공이 탄 배의 결말이 좋진 않았던 것 같은데…… 에이 신경 쓰지 마! 그냥 평범한 목걸이라고 생각하고 받아 줘!",
+                "cn": "博士，生日快乐。这个项链送给您。是我收集的电影周边啦，出自一部很经典的爱情电影。可是突然想到，剧情里那艘船和主角的命运，寓意不太好啊......不用在意！请当作普通饰品收下吧！"
+            },
+            "asset": "char_451_robin/CN_043"
+        },
+        {
             "id": "char_451_robin_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

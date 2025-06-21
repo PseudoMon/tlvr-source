@@ -585,6 +585,22 @@
             "asset": "char_136_hsguma/CN_042"
         },
         {
+            "id": "char_136_hsguma_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Phew, arrived on time. Didn't ride all that way for nothing—I was almost speeding, actually. Anyway, Doctor, happy birthday! I brought you a special pre—uh, where's my bag? I didn't drop it on the way, did I...? Ah, shoot. Doctor, how about I make up the present to you next time, and I'll treat you to some food for today?",
+                "jp": "呼，总算是赶在今天到了，也不枉我骑了这么久的车，差点超速。博士，生日快乐！我特地带了礼——欸，我的包呢，该不会掉路上......博士，要不礼物下次补给你，今天我先请你吃一顿？",
+                "kr": "휴우, 오늘이 지나기 전에 도착은 했네요. 과속할 뻔하긴 했지만 어쨌든 이 긴 운전이 헛되진 않았어요. 박사님, 생일 축하드립니다! 제가 선물을 가져왔…… 어라, 내 가방. 설마 오는 길에 떨어뜨렸나…… 박사님, 선물은 다음에 드릴 테니까, 오늘은 일단 식사 어떠세요? 제가 사드릴게요.",
+                "cn": "呼，总算是赶在今天到了，也不枉我骑了这么久的车，差点超速。博士，生日快乐！我特地带了礼——欸，我的包呢，该不会掉路上......博士，要不礼物下次补给你，今天我先请你吃一顿？"
+            },
+            "asset": "char_136_hsguma/CN_043"
+        },
+        {
             "id": "char_136_hsguma_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

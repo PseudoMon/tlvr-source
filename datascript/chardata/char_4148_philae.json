@@ -585,6 +585,22 @@
             "asset": "char_4148_philae/CN_042"
         },
         {
+            "id": "char_4148_philae_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "In our faith, birthdays are incredibly significant. To us, birthdays do not hearken back to the beginnings of our lives; rather, they remind us of the difficult paths we have trod to our births, Doctor. Having endured countless hardships in your previous life, you won't be daunted by the trials of the present. Relax, and proceed apace.",
+                "jp": "誕生日は、私たちの信仰において何よりも大切な日です。私たちにとって、それは物事の始まりではなく、苦行を経て困難を打ち破った節目ですから。ドクターさん、前世に数え切れぬほどの試練を乗り越えてきた人は、必ず現世の困難にも打ち勝つことができるはずです。どうか、肩の力を抜いて、自分らしく気ままに進んでくださいね。",
+                "kr": "생일은 우리 신앙에서 무엇보다 중요한 날이에요. 우리에게 생일은 만물의 시작이 아닌, 역경을 넘어서고 가시밭길을 이겨 낸 기념비적인 날이랍니다. 박사님, 전생에 수많은 시련을 극복해온 사람이라면 반드시 현생의 어려움도 넘어설 수 있을 거예요. 부디 마음을 편안히 가지고 자유롭게 나아가세요.",
+                "cn": "在我们的信仰中，生日是个无比重要的日子。它之于我们，并非万事之始，而是苦旅过后的艰难渡越。博士，既然生前已历经万千磨砺，那么现世的困境便也难不住你。请放轻松，自在地前行吧。"
+            },
+            "asset": "char_4148_philae/CN_043"
+        },
+        {
             "id": "char_4148_philae_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

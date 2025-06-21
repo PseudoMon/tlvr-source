@@ -3,7 +3,9 @@ from os import path
 from utils import save_json, load_json
 
 langs = ["en", "jp", "kr", "cn"] 
-mute_chars = ["rguard", "rdfend", "rsnipe", "rmedic", "rcast", "aprot"]
+mute_chars = ["rguard", "rdfend", "rsnipe", "rmedic", "rcast", "aprot", 
+	"ccast", "csnipe", "cpione", "cguard", "cspec", "cmedic", "cdfend", "csuppo",
+	"acnipe", "acpion", "accast", "acsupo", "acspec", "acmedc", "acfend", "acguad"]
 
 def rarity_str_to_int(raritystr):
 	# Transform rarity data from e.g. TIER_6 to 6 as an integer
@@ -164,9 +166,13 @@ def get_voices(wordkey, wordtables):
 				# Skip en
 				continue
 
-			langbasedata = wordtables[lang]["charWords"][wordid]
-			voicedata["title"][lang] = langbasedata["voiceTitle"]
-			voicedata["text"][lang] = langbasedata["voiceText"]
+			try:
+				langbasedata = wordtables[lang]["charWords"][wordid]
+			except KeyError:
+				print(f"Error getting voice in {lang} for {wordid}")
+			else:
+				voicedata["title"][lang] = langbasedata["voiceTitle"]
+				voicedata["text"][lang] = langbasedata["voiceText"]
 
 		voices.append(voicedata)
 

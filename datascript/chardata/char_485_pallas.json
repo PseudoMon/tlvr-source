@@ -585,6 +585,22 @@
             "asset": "char_485_pallas/CN_042"
         },
         {
+            "id": "char_485_pallas_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Congratulations on the day of your birth, Dr.{@nickname}. This wreath, a symbol of honor and victory, is a gift for you. On your road ahead, may you always journey alongside wisdom and courage. The glory befitting a hero, it's sure to be awaiting you at the end of the thorny path.",
+                "jp": "Dr.{@nickname}，恭贺诞辰。这顶象征着胜利与荣誉的花环赠予您。祝您在前行的道路上，永远有勇气和智慧相伴。在荆棘遍布的险路尽头，一定有属于英雄的荣耀在等待着您。",
+                "kr": "{@nickname} 박사님, 생일을 축하드려요. 이 승리와 영예를 상징하는 화환은 선물입니다. 앞으로 나아가는 길에 항상 용기와 지혜가 함께 하시기를 기원합니다. 가시덤불이 가득한 험한 길 끝에, 반드시 영웅의 영광이 당신을 기다리고 있을 겁니다.",
+                "cn": "Dr.{@nickname}，恭贺诞辰。这顶象征着胜利与荣誉的花环赠予您。祝您在前行的道路上，永远有勇气和智慧相伴。在荆棘遍布的险路尽头，一定有属于英雄的荣耀在等待着您。"
+            },
+            "asset": "char_485_pallas/CN_043"
+        },
+        {
             "id": "char_485_pallas_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

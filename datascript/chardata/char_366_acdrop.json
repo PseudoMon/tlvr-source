@@ -561,7 +561,7 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "TBU",
+                "en": "Oh, Doctor, Happy New Year! We've got a block party in a bit. Why don't you come show off your moves? You could give breakdancin' a shot? It ain't that hard, I'll teach ya!",
                 "jp": "あ、ドクターか、あけましておめでとう！そろそろストリートの集まりに行くんだけど、ドクターも腕試しに来るだろ？今回はストリートダンスに挑戦してみよっか。難しいことはないさ、ボクが教えてあげるから！",
                 "kr": "아, 박사, 새해 복 많이 받아! 이따가 스트릿 모임이 있을 예정인데, 박사도 와서 어울려 볼래? 이번엔 스트릿 댄스를 시도해 보는 거야! 안 어려워, 내가 가르쳐 줄게!",
                 "cn": "啊，博士，新年快乐！一会儿我们还有个街头聚会，你也该来试试身手了吧？这次就尝试一下街舞怎么样？不难的，我教你！"
@@ -585,6 +585,22 @@
             "asset": "char_366_acdrop/CN_042"
         },
         {
+            "id": "char_366_acdrop_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "You're still working? Let's go get some exercise outside. Wait, you volunteered for overtime? Doctor, ain't no point in workin' this much. Life only begins once you clock out! C'mon, what do you wanna eat? It's on me.",
+                "jp": "今天还在工作啊？走吧，一起出去活动活动。你是自愿加班的？博士，工作到这种程度就没必要了，下班时间才是真正的人生嘛！想吃什么？今天我请你！",
+                "kr": "생일인데 아직도 일하고 있는 거야? 자, 나가자. 같이 밖에서 몸을 좀 움직이자고. 야근은 박사가 원해서라고? 박사, 뭐가 됐든 그렇게까지 열심히 일할 필요는 없어. 진정한 인생은 퇴근 시간부터 시작되는 거라고! 먹고 싶은 거 있어? 오늘은 내가 쏠게!",
+                "cn": "今天还在工作啊？走吧，一起出去活动活动。你是自愿加班的？博士，工作到这种程度就没必要了，下班时间才是真正的人生嘛！想吃什么？今天我请你！"
+            },
+            "asset": "char_366_acdrop/CN_043"
+        },
+        {
             "id": "char_366_acdrop_CN_044",
             "title": {
                 "en": "Anniversary Celebration",
@@ -593,7 +609,7 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "TBU",
+                "en": "I used to skate to ditch class n' get away from the adults. Then, it was to lose the cops when I was out tagging. I said I did it in the name of freedom, but thinkin' back, I guess that was kinda selfish. We fight harder for other people's freedom than our own, don'tcha think? Like what we're doin' here.",
                 "jp": "思い返せば、ボクがスケボーをやり出したのは塾や大人たちから逃れるためで、落書きをするようになってからは、警察を振り切るための手段として使ってた……あの頃は自由だなんだと掲げちゃいたが、今思うとだいぶ自分勝手だったね。本当の自由は、大勢のために戦うこと。そうだろ？今、ボクたちがそうしているように。",
                 "kr": "예전에 내가 스케이트보드를 탔던 건 어른들을 피해 학원을 빠져나오기 위해서였는데, 나중엔 그라피티를 그리고 경찰을 따돌리기 위해서 스케이트보드를 탔지. 그때는 자유를 위한 거라고 말했지만, 지금 생각해 보니까 그건 좀 제멋대로인 행동이었던 것 같아. 진정한 자유란 더 많은 사람들을 위해 분투해야 하는 거잖아, 그렇지? 마치 지금 우리가 하고 있는 일처럼 말이야.",
                 "cn": "我之前滑滑板是为了逃补习班躲大人，后来是为了涂鸦甩开警察，当时说是为了自由，其实现在想来还是有些任性的。真正的自由应该是为了更多人而奋斗，对吧？就像我们现在做的事一样。"

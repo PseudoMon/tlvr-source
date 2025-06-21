@@ -585,6 +585,22 @@
             "asset": "char_431_ashlok/CN_042"
         },
         {
+            "id": "char_431_ashlok_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday. Here's... no, actually, forget it. Giving you an autographed postcard as a gift just feels too arrogant, my apolo— You don't mind? Oh... thanks for that...",
+                "jp": "生日快乐，这是......不，还是算了......签字明信片这种东西作为礼物送给别人还是太傲慢了，我......您不介意吗？谢，谢谢......",
+                "kr": "생일 축하드립니다. 이건…… 그, 아무것도 아니에요…… 사인 엽서를 선물로 주는 건 역시 오만한 것 같아서, 그게 전…… 괜찮으시다고요? 그, 고맙습니다……",
+                "cn": "生日快乐，这是......不，还是算了......签字明信片这种东西作为礼物送给别人还是太傲慢了，我......您不介意吗？谢，谢谢......"
+            },
+            "asset": "char_431_ashlok/CN_043"
+        },
+        {
             "id": "char_431_ashlok_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

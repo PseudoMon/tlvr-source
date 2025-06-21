@@ -585,6 +585,22 @@
             "asset": "char_003_kalts_boc#6/CN_042"
         },
         {
+            "id": "char_003_kalts_boc#6_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "I will return to the Ark tonight. I hope to see you through the anti-Originium curtain, just like in years past.",
+                "jp": "今日は方舟へと帰還する予定だ。その際、抗源石幕（アンチオリジニウムカーテン）越しに君の顔を見られたらと思う。例年通りに。",
+                "kr": "오늘은 방주로 귀환할 예정이다. 귀환하면 안티 오리지늄 커튼 너머로 네 얼굴을 볼 수 있었으면 좋겠군. 예전처럼 말이야.",
+                "cn": "今天我会回到方舟，我希望能隔着抗源石帷幕见你一面。就和往年一样。"
+            },
+            "asset": "char_003_kalts_boc#6/CN_043"
+        },
+        {
             "id": "char_003_kalts_boc#6_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

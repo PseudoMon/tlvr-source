@@ -585,6 +585,22 @@
             "asset": "char_219_meteo/CN_042"
         },
         {
+            "id": "char_219_meteo_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor. I want to take this chance to express my gratitude, for you are always looking out for me. I wasn't sure what would be a suitable gift... but I will give you an oath, I'll give it all I've got to protect you. Um… is that okay?",
+                "jp": "博士，生日快乐。我很想趁此机会，对您平日里的关照表示感谢。但是也不知道该送什么像样的礼物......我承诺，会一直尽全力来保护您。这样......可以吗？",
+                "kr": "박사, 생일 축하해. 이 기회를 빌려, 평소에 신세 진 부분들에 감사하단 말을 하고 싶어. 어떤 선물이 괜찮을지 모르겠네…… 약속할게, 최선을 다해 박사를 보호하겠다고. 이러면…… 될까?",
+                "cn": "博士，生日快乐。我很想趁此机会，对您平日里的关照表示感谢。但是也不知道该送什么像样的礼物......我承诺，会一直尽全力来保护您。这样......可以吗？"
+            },
+            "asset": "char_219_meteo/CN_043"
+        },
+        {
             "id": "char_219_meteo_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

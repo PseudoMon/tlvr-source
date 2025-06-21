@@ -585,6 +585,22 @@
             "asset": "char_466_qanik/CN_042"
         },
         {
+            "id": "char_466_qanik_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "I've been practicing tsoavttsomav iednijn (divination with my mother). Do you want to have your fortune told again? Maybe start with easy questions, like how big you'll grow this year. Apparently, I'm going to grow a lot!",
+                "jp": "この一年間、母さんとたくさん占いの練習をしたんだ。ドクターのことをもう一度占ってみようか？できたら簡単な質問からで。たとえば、あとどれくらい背が伸びるかとか。ぼくも自分の身長を占ってみたけど、今年はぐーんと伸びるって結果が出たんだよ！",
+                "kr": "지난 일 년간, 어머니랑 점치는 연습을 많이 했어. 박사도 한 번 더 점쳐 줄까? 일단은 간단한 질문부터 시작해 보자, 예를 들면 키가 앞으로 얼마나 더 클지 같은 거 말이야. 나도 내 키를 점쳐 봤는데, 올해엔 꽤 많이 클 거라고 나왔어!",
+                "cn": "我这一年和母亲练习了很多次占卜技巧，博士想要我再来为您占卜一次吗？最好从简单的问题开始，比如说您可能会长高多少这种。我用这个方法测出来，今年我的身高可能会增加很多哦！"
+            },
+            "asset": "char_466_qanik/CN_043"
+        },
+        {
             "id": "char_466_qanik_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

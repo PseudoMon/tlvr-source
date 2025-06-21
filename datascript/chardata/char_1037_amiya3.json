@@ -553,6 +553,22 @@
             "asset": "char_1037_amiya3/CN_042"
         },
         {
+            "id": "char_1037_amiya3_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor. Do you want me to... play the violin like before? I didn't get to sneak in much practice... Oh, the time we have to ourselves just gets shorter and shorter these days... But luckily, I know your favorite tune by heart, and I'll never forget it.",
+                "jp": "ドクター、お誕生日おめでとうございます。今日もこれまでのお誕生日のように……ヴァイオリンを演奏しましょうか？こっそり練習ももうずいぶんできていないですが……はぁ、最近時間に追われてばかりですね。幸い、ドクターが好きなこの曲は、私の指が、心がずっと覚えています。",
+                "kr": "박사님, 생일 축하드려요. 늘 그랬던 것처럼…… 오늘도 바이올린을 연주해 드릴까요? 아뇨, 몰래 연습을 하거나 하진 않았어요…… 하아, 요즘은 늘 시간에 쫓기는 것만 같아요. 그래도 박사님이 가장 좋아하시는 이 곡은 제 마음에 깊이 새겨져, 손이 늘 기억하고 있답니다.",
+                "cn": "博士，生日快乐。还和过去一样......想听我拉小提琴吗？也没怎么偷偷练习......呜，现在时间越来越不够用。还好，你最喜欢的这首曲子，我的心和手指，都不会忘记。"
+            },
+            "asset": "char_1037_amiya3/CN_043"
+        },
+        {
             "id": "char_1037_amiya3_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

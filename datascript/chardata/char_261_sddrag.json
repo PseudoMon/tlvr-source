@@ -585,6 +585,22 @@
             "asset": "char_261_sddrag/CN_042"
         },
         {
+            "id": "char_261_sddrag_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, happy birthday to you. Ah, please wait a moment. You can't blow this candle out. Just let it burn like this for a little while... I hope that this flame—can bring you some warmth.",
+                "jp": "博士，祝您生日快乐。啊，请等一下，这个蜡烛是不能吹灭的。就让它这样燃烧一会吧......希望这一束火苗，能给您带来些许温暖。",
+                "kr": "박사, 생일 축하해. 아, 잠깐만. 이 촛불은 불어도 꺼지지 않을 거야. 그냥…… 조금 더 타오르게 두자…… 이 불꽃이 박사에게 조그마한 온기라도 가져다줄 수 있기를 바라.",
+                "cn": "博士，祝您生日快乐。啊，请等一下，这个蜡烛是不能吹灭的。就让它这样燃烧一会吧......希望这一束火苗，能给您带来些许温暖。"
+            },
+            "asset": "char_261_sddrag/CN_043"
+        },
+        {
             "id": "char_261_sddrag_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

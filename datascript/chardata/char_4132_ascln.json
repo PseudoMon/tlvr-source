@@ -585,6 +585,22 @@
             "asset": "char_4132_ascln/CN_042"
         },
         {
+            "id": "char_4132_ascln_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "The party is too loud, so you came out for some fresh air? I've been here all along, you just didn't see me. Your safety is the most important thing. And in such a mixed company, reducing my presence makes the mission easier. Oh, and happy birthday, I didn't get a chance to say it inside.",
+                "jp": "パーティが騒がしいから外の空気を吸いに出てきた？奇遇だなと言われても、お前たちが気付かないだけで、私も初めから側にいたのだがな。人でごった返す会場では、お前の安全が第一だ。存在感を消していた方が動きやすいだろう。ああそうだ、誕生日おめでとう。中では言う機会がなかったのでな。",
+                "kr": "파티가 시끄러워 바람이라도 쐬러 나온 건가? 음? 나는 한참 전부터 있었어. 너희가 눈치채지 못했을 뿐이지. 파티장이 너무 복잡하더군. 이런 환경일수록 너의 안전을 지키는 게 더 중요하지. 존재감을 지우고 있는 편이 임무를 수행하기에도 더 편하고. 아, 생일 축하한다. 안에서는 말할 기회가 없길래.",
+                "cn": "聚会很吵，想出来透透气？我一直都在，只是你们没看到我。现场人员混杂，你的安全才是最重要的，降低我的存在感，更方便执行任务。对了，生日快乐，在里面没机会和你说。"
+            },
+            "asset": "char_4132_ascln/CN_043"
+        },
+        {
             "id": "char_4132_ascln_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

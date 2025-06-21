@@ -585,6 +585,22 @@
             "asset": "char_271_spikes/CN_042"
         },
         {
+            "id": "char_271_spikes_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Prof. {@nickname}. As you can see, I'm not too fond of overly complicated ceremonies. I hope you're not so into loud parties, either, since I'm planning to celebrate in more meaningful ways with you. Right, I mean just the two of us.",
+                "jp": "生日快乐，{@nickname}老师。如您所见，我不喜欢过分复杂的仪式感，我希望您也不会热衷于吵闹的派对。这样我就可以和您一起做些更有意义的庆祝活动。对，只有我们两个。",
+                "kr": "생일 축하해, {@nickname} 선생님. 선생님도 알다시피 난 복잡한 의식투성이의 축제는 딱 질색이라서. 선생님도 저런 시끄러운 파티에 열광하지 않았으면 좋겠어. 그래야 우리 단둘이 더 의미있는 축하를 할 수 있을 테니까 말이야. 맞아, 나와 선생님 우리 둘이서만.",
+                "cn": "生日快乐，{@nickname}老师。如您所见，我不喜欢过分复杂的仪式感，我希望您也不会热衷于吵闹的派对。这样我就可以和您一起做些更有意义的庆祝活动。对，只有我们两个。"
+            },
+            "asset": "char_271_spikes/CN_043"
+        },
+        {
             "id": "char_271_spikes_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

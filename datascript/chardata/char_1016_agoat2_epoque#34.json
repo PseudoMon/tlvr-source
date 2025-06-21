@@ -585,6 +585,22 @@
             "asset": "char_1016_agoat2_epoque#34/CN_042"
         },
         {
+            "id": "char_1016_agoat2_epoque#34_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "You've finally reached the top of the volcano, Professor. This is the view I've always wanted to show you... Why are you dreaming of me? Hehe, it's my way of telling you what I want to say. Happy birthday, Professor.",
+                "jp": "先輩、ついにこの火山に登ってくださいましたね。これがずっとずっと先輩と一緒に見たかった景色です……どうして夢で会えたか、ですか？えへへ、ちょっとズルい方法で気持ちを伝えてるから、ですよ。先輩、お誕生日おめでとうございます。",
+                "kr": "선배, 드디어 이 화산에 오르셨네요. 지금 우리 눈앞에 펼쳐진 이 풍경이, 바로 제가 선배한테 계속 보여 주고 싶었던 풍경이에요…… 어떻게 선배의 꿈속에 나온 거냐고요? 헤헤. 그거야 당연히 조금 다른 방식으로 선배한테 마음을 전하고 싶어서죠. 선배, 생일 축하해요.",
+                "cn": "前辈，您终于登上这座火山了。这是我一直一直想要和您一起看的风景......为什么会梦到我？嘿嘿，那当然是因为，我在用另一种方式，把想说的话告诉您呀。前辈，生日快乐。"
+            },
+            "asset": "char_1016_agoat2_epoque#34/CN_043"
+        },
+        {
             "id": "char_1016_agoat2_epoque#34_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

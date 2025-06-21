@@ -585,6 +585,22 @@
             "asset": "char_455_nothin/CN_042"
         },
         {
+            "id": "char_455_nothin_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Ah, Doctor, I've rustled up a divination for you, the grams are written here on this fan. They signify this fresh year ahead of you will be a smooth sail, with waves and winds both on your side... You don't believe me? Not unless I give you a performance with this fan? I'd be put at a loss, you know, given my mere modest speck of kickboxing artistry. But you are the boss, your word is the law.",
+                "jp": "博士啊，我给您占了一卦，卦辞我写在这扇子上了，意思是您新的一岁将会顺风顺水......您不信？除非我拿扇子给您表演一段？咳，我这点拳脚功夫真不好意思献丑。但您是老板，您说了算。",
+                "kr": "박사, 내가 박사를 위해 점을 쳐봤다네. 점괘의 풀이는 이 부채에 써 두었지. 새로운 한 해에는 모든 일이 순조롭고 더욱 승승장구하게 될 거라고 나왔는데…… 믿지 못하겠다는 겐가? 내가 부채를 들고 공연이라도 해야 믿을 수 있겠다고? 크흠, 내 무술 실력은 어디서 선보이기 부끄러울 수준이긴 하다만, 그래도 박사가 주인이니 박사의 말대로 해보겠네.",
+                "cn": "博士啊，我给您占了一卦，卦辞我写在这扇子上了，意思是您新的一岁将会顺风顺水......您不信？除非我拿扇子给您表演一段？咳，我这点拳脚功夫真不好意思献丑。但您是老板，您说了算。"
+            },
+            "asset": "char_455_nothin/CN_043"
+        },
+        {
             "id": "char_455_nothin_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

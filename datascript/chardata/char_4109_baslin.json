@@ -585,6 +585,22 @@
             "asset": "char_4109_baslin/CN_042"
         },
         {
+            "id": "char_4109_baslin_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Your seat is here. Yes, right here, in the center of the front row. Miss Orchid had me arrange an ensemble with the children on Rhodes Island, and, um, I'm one of the performers too... This is not a birthday gift, but I'd like your opinions on the performance.",
+                "jp": "ドクター、ここに座ってください。ここです、一列目の真ん中の席。オーキッドさんの勧めで、ロドスにいる子供たちにアンサンブルの稽古を付けていたんです。あ、僕も演奏しますが……誕生日祝いとかじゃないですよ。ただ聞いていただいて、何かご意見でもいただけないかと思っただけです。",
+                "kr": "여기 앉으세요, 박사님. 네, 첫 번째 줄 가장 가운데 자리요. 오키드 씨의 제안으로 로도스 아일랜드의 아이들한테 합주 연습을 시키고 있었어요. 아, 저도 연주자 중 한 명이긴 해요…… 그, 생일 선물 이런 건 아니고 그냥 들려 드리는 거예요, 그냥요. 듣고 나서 혹시 좋은 의견 있으시면 말씀해 주세요.",
+                "cn": "您坐在这儿，就是这儿，第一排最中间的座位。梓兰小姐让我帮岛上的孩子们排了一曲合奏，呃，我也是乐手之一......不是生日礼物，就是让您听一听，然后给点意见。"
+            },
+            "asset": "char_4109_baslin/CN_043"
+        },
+        {
             "id": "char_4109_baslin_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

@@ -585,6 +585,22 @@
             "asset": "char_163_hpsts/CN_042"
         },
         {
+            "id": "char_163_hpsts_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor. I'm not precisely sure what to give you as a present, since you don't need weapons. But the bar has been mixing some new drinks lately, and they've still got the ones I like. So how about I buy you a drink?",
+                "jp": "生日快乐，博士。您不用武器，我也不知道该送什么礼物。吧台最近推了几款新饮品，我喜欢的那几款也没有下架，我去请您喝一杯吧。",
+                "kr": "생일 축하해, 박사. 박사는 무기를 사용하지 않으니까, 무엇을 선물해야 좋아할지 한참 고민했는데, 바에 마침 새로운 음료가 나왔다고 하더라고. 내가 좋아하는 음료도 아직 있고. 내가 살 테니까 한잔하러 가자.",
+                "cn": "生日快乐，博士。您不用武器，我也不知道该送什么礼物。吧台最近推了几款新饮品，我喜欢的那几款也没有下架，我去请您喝一杯吧。"
+            },
+            "asset": "char_163_hpsts/CN_043"
+        },
+        {
             "id": "char_163_hpsts_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

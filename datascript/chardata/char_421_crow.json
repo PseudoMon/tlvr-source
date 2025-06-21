@@ -17,7 +17,7 @@
                 "cn": "任命助理"
             },
             "text": {
-                "en": "Be your bodyguard? Sure.",
+                "en": "Be your bodyguard? Okay.",
                 "jp": "ドクターの護衛？いいよぉ。",
                 "kr": "박사의 호위? 좋아.",
                 "cn": "做博士的护卫？好哦。"
@@ -33,7 +33,7 @@
                 "cn": "交谈1"
             },
             "text": {
-                "en": "I don't know how my papa is doing nowadays... But, I trust the mayor, so it should be fine.",
+                "en": "I wonder how papa is doing nowadays... But, I trust the mayor to keep her word, so it should be fine.",
                 "jp": "パパ、今どうしてるかなぁ……市長は約束を守る人っぽいし、たぶん問題ないよね。",
                 "kr": "아빠는 지금 어떻게 지내고 있을까…… 시장은 약속을 지키는 사람 같으니, 아마 문제없겠지.",
                 "cn": "爸爸不知道现在过得好不好......不过，感觉市长是一个说话算话的人，应该没问题吧。"
@@ -49,7 +49,7 @@
                 "cn": "交谈2"
             },
             "text": {
-                "en": "Though Dossoles is noisy and filled with unsavory people, life is still a lot better there than for the Bolívarians outside... Have you not been there yet, Doctor? Let's go together next time then.",
+                "en": "Though Dossoles is noisy and filled with bad people, life there is still a lot better there than the rest of Bolívar... Mhm? You haven't been there yet, Doctor? Hehe, Let's go together next time then.",
                 "jp": "ドッソレスシティはすごく騒がしいし、悪い人もたくさんいるかもしれないけど、それでもあそこでの生活は、外で暮らしてる他のボリバルの人たちよりはだいぶいいんだよ……ドクターは行ったことないの？じゃあ今度一緒に行こうよ。",
                 "kr": "도솔레스 시티는 굉장히 소란스럽고 나쁜 사람도 잔뜩 있을지도 모르지만, 그래도 그곳에서의 생활은 밖에서 살고 있는 다른 볼리바르 사람들보다는 훨씬 나아…… 박사는 가 본 적 없어? 그럼 다음에 같이 가자.",
                 "cn": "多索雷斯虽然很吵闹，也有许多坏人，但是在那里的生活还是比在外面的玻利瓦尔要好许多呢......博士没有去过吗？那下次一起去吧。"
@@ -65,7 +65,7 @@
                 "cn": "交谈3"
             },
             "text": {
-                "en": "Phew... Staying indoors all day is so stifling. Doctor, let's head up to the deck to get some fresh air, yeah? I'm sure you must be tired from working for so long.",
+                "en": "Phew… Staying inside all day is so stuffy. Doctor, let's go get some fresh air up on the deck, okay? I'm sure you must be tired from working for so long.",
                 "jp": "ふぅ……丸一日お部屋にこもりっきりだと気が滅入っちゃうよ。ドクター、一緒に甲板に新鮮な空気を吸いに行かない？君もずっとお仕事してて疲れたでしょ。",
                 "kr": "후우…… 하루 종일 방에 틀어박혀 있으면 우울해진다고. 박사, 같이 갑판에 가서 바람이나 좀 쐴까? 너도 일만 해서 피곤할 것 아냐.",
                 "cn": "呼......一整天都待在房间里感觉好闷。博士，我们一起去甲板上呼吸新鲜空气吧？博士工作了这么久也累了吧。"
@@ -81,7 +81,7 @@
                 "cn": "晋升后交谈1"
             },
             "text": {
-                "en": "Doctor, do you like the whole fighting and killing business? I'm actually not a fan, but I've seen too much of that stuff, as well as too many people around me doing it. And it kinda rubbed off on me...",
+                "en": "Doctor, do you enjoy all this fighting and killing? I don't, not really. But I guess I've been around it too long, and done too much myself... I'm kinda used to it…",
                 "jp": "ドクターって、戦うの好き？誰かを切ったり、ぶちのめしたりって……わたし、実はそんなに好きじゃないんだ。でもずーっとそういうことをやってきたし、周りの人もみんな同じようなことしてたから、知らないうちに慣れちゃったんだよね……",
                 "kr": "박사는 싸우는 거 좋아? 누군가를 베거나 때려눕히거나…… 나는 사실 별로 안 좋아해. 하지만 계속 그런 걸 해 왔고, 주변 사람도 다들 비슷한 일을 해 왔으니까, 나도 모르게 익숙해졌단 말이지……",
                 "cn": "博士喜欢打打杀杀的事情吗？我其实也没有很喜欢呢，只是一直以来都在做类似的事情，身边的人也都在做类似的事情，不知不觉地就习惯了......"
@@ -97,7 +97,7 @@
                 "cn": "晋升后交谈2"
             },
             "text": {
-                "en": "Getting stronger is a good thing, but there doesn't seem to be anything to do after getting stronger... Doctor, how'd you decide on the things you wanted to do?",
+                "en": "Getting stronger is nice, but I can't think of what to do once I'm stronger... Doctor, how do you decide what you want to do?",
                 "jp": "強くなるのはいいことだけど、強くなっても、別にやることはなさそう……ドクターはどうやって自分のやることを決めてるの？",
                 "kr": "강해지는 건 좋은 거지만, 강해져도 딱히 할 일은 없을 것 같아…… 박사는 어떻게 자기가 할 일을 정하고 있어?",
                 "cn": "变强虽然是好事，但是变强之后好像也没有要做的事......博士是怎么决定自己想要做什么事的呢？"
@@ -113,7 +113,7 @@
                 "cn": "信赖提升后交谈1"
             },
             "text": {
-                "en": "For the longest time, papa didn't actually want me helping him with work. Given my personality, as you know, I'm not really cut out for it. But, I still gave it my all, because I became his daughter.",
+                "en": "For the longest time, Papa didn't want me to help him. You know, my personality isn't really suited for what he does. But still... I gave it my all, because he took me in as his daughter.",
                 "jp": "パパはね、ほんとはずっと、わたしに手伝いをさせたくなかったんだ。ドクターも知ってる通り、わたしの性格ってああいうことに向いてないから。でもわたしもパパの娘になったんだからって、頑張ったんだよ。",
                 "kr": "우리 아빠는 있지. 사실은 전부터 계속, 내게 일을 시키고 싶어 하지 않아 했어. 박사도 알다시피, 내 성격은 그런 데 맞지 않거든. 하지만 나도 아빠의 딸이니까 열심히 했었지.",
                 "cn": "一直以来，爸爸其实都不希望我帮他做事，因为博士你也知道我的性格，其实是不太适合做这种事的。但是我毕竟成为了爸爸的女儿，所以也努力了哦。"
@@ -129,7 +129,7 @@
                 "cn": "信赖提升后交谈2"
             },
             "text": {
-                "en": "Hey Doctor, can I scooch over a little closer to you? Um, because the office is so big, it feels a little deserted if I sit this far away. Can I?",
+                "en": "Doctor, doctor, can I scooch a little closer to you? Well, the office is so big, it feels a bit empty and lonely sitting so far from you… Can I?",
                 "jp": "ドクタードクター、わたしもうちょっと近くに座ってもいいかな。うんと、だって執務室はこんなに広いんだし、ドクターとの距離が遠すぎると、なんだか寂しくて。だめ？",
                 "kr": "박사, 박사, 나 박사랑 좀 더 가까이 앉아도 돼? 음, 그게, 집무실이 이렇게 넓으니까, 박사랑 거리가 너무 멀면 왠지 쓸쓸해서. 안 돼?",
                 "cn": "博士博士，我可以坐在离博士近一点的地方吗？唔，因为办公室这么大，离博士远了感觉会有些冷清，不行吗？"
@@ -145,7 +145,7 @@
                 "cn": "信赖提升后交谈3"
             },
             "text": {
-                "en": "Doctor, you clearly can't throw a punch, but you're just as reliable as papa. It feels like I can just obey your every word, and not have to think about anything. Huh? For me, that's a good thing.",
+                "en": "Doctor, I don't think you can fight at all, but you're just as reliable as papa. It feels like I can just follow your orders, and I won't ever have to think for myself. Oh...? But for me, that's a good thing.",
                 "jp": "ドクターはどう見たってちっとも戦えないのに、パパみたいに頼もしいんだよね。何にも考えないで、ドクターの言うことだけ聞いてればいいって感じ。ん？わたしにとって、それが理想だよ。",
                 "kr": "박사는 아무리 봐도 전혀 못 싸우는데, 아빠처럼 믿음직스럽단 말이지. 아무 생각도 안 하고 박사 말만 들으면 된다는 느낌이 들어. 응? 나한테는 그게 가장 이상적이야.",
                 "cn": "博士明明一点都不能打，但是却和爸爸一样可靠呢，感觉我什么都不用去想，只要听博士的话就好了。嗯？对我来说，这样就好哦。"
@@ -161,7 +161,7 @@
                 "cn": "闲置"
             },
             "text": {
-                "en": "I wonder what's under the Doctor's mask. Lemme sneak a peek...",
+                "en": "What does the Doctor look like under that mask? Let's sneak a peek…",
                 "jp": "ドクターのマスクの下ってどうなってるんだろう。こっそり見ちゃお……",
                 "kr": "박사의 마스크 아래는 어떻게 생겼을까? 몰래 봐야지……",
                 "cn": "博士面罩下面是什么样的呢，悄悄看看吧......"
@@ -177,7 +177,7 @@
                 "cn": "干员报到"
             },
             "text": {
-                "en": "Hello, Doctor. I'm Rafaela, the one Miss Ch'en introduced, and I'll be formally joining Rhodes Island today. Huh, a code name? Hmm... let's go with La Pluma then.",
+                "en": "Hello, Doctor. I'm Rafaela, the one Miss Ch'en introduced. I'll be formally joining Rhodes Island today. Uh, code name? Mhmm... You can call me La Pluma.",
                 "jp": "ドクター、こんにちは。わたし、チェンさんに勧められて来たんだ。名前はラファエラっていうの。今日から正式にロドスに入るよ。えと、コードネーム？うーん……じゃあ、ラ・プルマって呼んで。",
                 "kr": "박사, 안녕. 난 첸 씨의 추천으로 왔고, 이름은 라파엘라라고 해. 오늘부터 정식으로 로도스 아일랜드에 오게 됐어. 음, 코드네임? 음…… 그럼, 라 플루마라고 불러 줘.",
                 "cn": "博士，你好，我是陈小姐推荐来的，名字是拉菲艾拉，今天开始正式加入罗德岛。欸，代号？唔......就叫我羽毛笔吧。"
@@ -209,7 +209,7 @@
                 "cn": "精英化晋升1"
             },
             "text": {
-                "en": "Doctor, did you need me for something? Oh, a promotion? Hmm... did I do something special?",
+                "en": "Doctor, did you need me for something? Mm? A promotion? Hmm... did I do something special?",
                 "jp": "ドクター、わたしに何か用事？ええ、昇進？うんと……わたし何かすごいことしたのかな？",
                 "kr": "박사, 나한테 뭐 볼일 있어? 어, 승진? 음…… 나 뭐 대단한 일 했나?",
                 "cn": "博士，找我有什么事吗？咦，升职？唔......我做了什么很厉害的事吗？"
@@ -225,7 +225,7 @@
                 "cn": "精英化晋升2"
             },
             "text": {
-                "en": "Doctor, I'm stronger now than I was before? Really? I don't feel it... But if you say so, it must be true.",
+                "en": "Doctor, I'm stronger than before? Really? Hmm… I'm not sure I feel anything different… But if you say so, then it must be true.",
                 "jp": "ドクター、わたし前よりも強くなったの？ほんとに？自分じゃ全然分かんないや……でも、ドクターが言うなら、きっとそうだよね。",
                 "kr": "박사, 나 전보다 강해졌어? 정말로? 난 전혀 모르겠는데…… 하지만, 박사가 그렇다면 분명 그런 거겠지.",
                 "cn": "博士，我现在变得比以前更厉害了吗？真的吗？我自己没有什么感觉呢......不过既然博士这么说，那一定是这样吧。"
@@ -241,7 +241,7 @@
                 "cn": "编入队伍"
             },
             "text": {
-                "en": "Oh, time for a mission?",
+                "en": "Mm? Time for a mission?",
                 "jp": "え、任務に行かないとなのかな？",
                 "kr": "어, 임무 가야 하는 거야?",
                 "cn": "欸，要出任务了吗？"
@@ -257,7 +257,7 @@
                 "cn": "任命队长"
             },
             "text": {
-                "en": "I'm pretty good at leading the way.",
+                "en": "I'm kinda good at leading the way.",
                 "jp": "わたし道案内は得意だよ。",
                 "kr": "나 길 안내는 잘해.",
                 "cn": "我挺擅长带路哦。"
@@ -305,7 +305,7 @@
                 "cn": "选中干员1"
             },
             "text": {
-                "en": "Woah, Doctor, don't scare me like that.",
+                "en": "Woah, Doctor... Don't scare me like that.",
                 "jp": "わっ。ドクター、脅かさないでよ。",
                 "kr": "와, 박사, 놀라게 하지 마.",
                 "cn": "哇，博士，不要吓我。"
@@ -321,7 +321,7 @@
                 "cn": "选中干员2"
             },
             "text": {
-                "en": "I'll do as you say.",
+                "en": "I'll follow your instructions.",
                 "jp": "ドクターの言う通りにするよ。",
                 "kr": "박사가 하라는 대로 할게.",
                 "cn": "我听博士的。"
@@ -337,7 +337,7 @@
                 "cn": "部署1"
             },
             "text": {
-                "en": "Sure.",
+                "en": "Okay.",
                 "jp": "いいよ。",
                 "kr": "좋아.",
                 "cn": "好哦。"
@@ -401,7 +401,7 @@
                 "cn": "作战中3"
             },
             "text": {
-                "en": "It's a little harder than I expected...",
+                "en": "It's tricky.",
                 "jp": "思ってたよりちょっと大変……",
                 "kr": "생각보다 좀 힘드네……",
                 "cn": "比想象的要费劲一点呢......"
@@ -433,7 +433,7 @@
                 "cn": "完成高难行动"
             },
             "text": {
-                "en": "Huh, I had no clue I'd even be able to complete a mission like this...",
+                "en": "Woah... I didn't think I could accomplish a mission like this…",
                 "jp": "わたし、自分がこんな任務もこなせるなんて知らなかったよ……",
                 "kr": "나, 내가 이런 임무를 해낼 수 있을 줄은 몰랐어……",
                 "cn": "我都不知道，原来我连这样的任务都能完成欸......"
@@ -497,7 +497,7 @@
                 "cn": "进驻设施"
             },
             "text": {
-                "en": "The corridors in Rhodes Island are so wide...",
+                "en": "The corridors in Rhodes Island are so wide…",
                 "jp": "ロドスの廊下は広いね。",
                 "kr": "로도스 아일랜드의 복도는 넓구나.",
                 "cn": "罗德岛的走廊好宽哦。"
@@ -513,7 +513,7 @@
                 "cn": "戳一下"
             },
             "text": {
-                "en": "Hrmm?",
+                "en": "Mm-hm?",
                 "jp": "うんと？",
                 "kr": "으음?",
                 "cn": "唔嗯？"
@@ -529,7 +529,7 @@
                 "cn": "信赖触摸"
             },
             "text": {
-                "en": "Let's go see what Doctor is up to.",
+                "en": "What's the Doctor doing now? Let's go take a look.",
                 "jp": "ドクターが何をしてるか見にいっちゃおーっと。",
                 "kr": "박사가 뭐 하는지 보러 가야지.",
                 "cn": "去看看博士在做什么吧。"
@@ -561,7 +561,7 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "TBU",
+                "en": "Happy new year, Doctor. Rhodes Island is so lively during New Year. Woo, look over there, the operators have prepared so many games. It looks like a lot of fun... Doctor, which one should I try? Can you choose for me?",
                 "jp": "ドクター、明けましておめでとう。ロドスの年越しは賑やかだね。あれ見て、みんないろんな模擬店をやってるみたいで面白そう。ドクター、わたし、どれを遊べばいいかな？ドクターに決めてほしいな。",
                 "kr": "박사, 새해 복 많이 받아. 로도스 아일랜드의 새해는 활기차구나. 저기 좀 봐, 오퍼레이터들이 이벤트를 엄청 많이 준비한 거 같아. 재미있어 보이는데, 박사, 나 어떤 걸 해보는 게 좋을까? 박사가 골라줘.",
                 "cn": "博士，新年快乐。罗德岛的新年好热闹呀，你看那边，干员们组织了好多项目哦，看上去好有意思。博士，我去玩哪个比较好呢？帮我做个决定吧。"
@@ -577,12 +577,28 @@
                 "cn": "问候"
             },
             "text": {
-                "en": "Ehh... Doctor, when'd you get here?",
+                "en": "Oh, Doctor. How did you end up right in front of me?",
                 "jp": "……あれ、ドクター、いつ目の前に来たの？",
                 "kr": "……어라, 박사. 언제 눈앞까지 온 거야?",
                 "cn": "......咦，博士，你什么时候到我面前的？"
             },
             "asset": "char_421_crow/CN_042"
+        },
+        {
+            "id": "char_421_crow_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, a lot of Operators ask me to mix special drinks for their birthdays. Each one is custom-made based on their preferences and the weather that day. Would you like one too, Doctor? Hehe, but only after you've finished your work.",
+                "jp": "博士博士，经常会有干员在生日那天找我帮他们做一杯生日特调哦，都是根据每个人不同的喜好还有当天的天气定做的，博士你要不要也来一杯？不过，只能在结束工作以后哦。",
+                "kr": "박사, 박사. 생일이면 스페셜 칵테일을 만들어달라는 오퍼레이터들이 종종 있어. 그럼 나는 각자의 취향과 그날그날 날씨에 맞춰 만들어 주곤 해. 박사도 한잔 만들어줄까? 아, 근데 일부터 먼저 끝내야 된다.",
+                "cn": "博士博士，经常会有干员在生日那天找我帮他们做一杯生日特调哦，都是根据每个人不同的喜好还有当天的天气定做的，博士你要不要也来一杯？不过，只能在结束工作以后哦。"
+            },
+            "asset": "char_421_crow/CN_043"
         },
         {
             "id": "char_421_crow_CN_044",
@@ -593,7 +609,7 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "TBU",
+                "en": "Here you are, Doctor! I was just helping the others with the decorations. I did a whole wall by myself. Celebrations like this are so much fun. Oh, do you have a moment? I'd love to show you my work.",
                 "jp": "ドクター、ここにいたんだ。わたし、さっき部屋のデコレーションを手伝って、壁一面の飾り付けをしたんだよ。こういう記念日ってすっごく楽しいね。ドクター、今時間ある？わたしの成果を見せてあげたいな～。",
                 "kr": "박사, 여기 있었네. 방금 다른 사람들을 도와 실내를 꾸며주고 왔어. 벽 하나를 전부 내가 꾸몄다고, 이런 기념일은 정말 재미있는 것 같아. 박사 지금 시간 있어? 내 작품을 한번 보여주고 싶은데~",
                 "cn": "博士，你在这里呀，我刚刚去帮其他人布置室内装扮了，一整面墙都是我做的哦，这样的纪念日好有趣。博士现在有空吗，我想给你看看我的成果~"
@@ -602,6 +618,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Karla Tovar",
+            "global": "Karla Tovar"
+        },
         "cn": {
             "native": "刘一蕾",
             "global": "Liu Yilei"
@@ -616,6 +636,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

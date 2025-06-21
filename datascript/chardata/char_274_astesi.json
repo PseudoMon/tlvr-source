@@ -585,6 +585,22 @@
             "asset": "char_274_astesi/CN_042"
         },
         {
+            "id": "char_274_astesi_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, happy birthday. Your present is in the box before you. Whatever delights you will surely delight me too. Now, close your eyes, say the name of something you like, and then open it.",
+                "jp": "博士，生日快乐，礼物就在你面前的箱子里。能够令你愉悦的，也必能让我欢喜，来，闭上眼睛，说出你喜爱的东西，然后打开它吧。",
+                "kr": "박사, 생일 축하해. 선물은 여기 상자에 들어있어. 분명 박사가 기뻐할 만한 선물일 거야. 박사가 기쁘면 나도 기쁠 것 같아. 자, 눈을 감고 박사가 좋아하는 것을 말하면서 열어 봐.",
+                "cn": "博士，生日快乐，礼物就在你面前的箱子里。能够令你愉悦的，也必能让我欢喜，来，闭上眼睛，说出你喜爱的东西，然后打开它吧。"
+            },
+            "asset": "char_274_astesi/CN_043"
+        },
+        {
             "id": "char_274_astesi_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

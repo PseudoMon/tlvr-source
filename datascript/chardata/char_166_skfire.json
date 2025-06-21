@@ -585,6 +585,22 @@
             "asset": "char_166_skfire/CN_042"
         },
         {
+            "id": "char_166_skfire_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Manipulating Originium Arts to bake little clay treats is a lovely way to practice my fine control of the flames, and it's quite safe. Here, this delightful cup is for you. Ah, and it even heats itself, so you'll always have hot water. But do be careful when you sip from it.",
+                "jp": "操控源石技艺烤制小玩意有助于锻炼我对火的精细控制，而且还很安全。这个杯子被烤得很漂亮，送给你了。哦对，它不知道为什么自带了加热效果，里面的水一直都会很烫，你喝的时候小心一点。",
+                "kr": "오리지늄 아츠로 이렇게 작은 물건을 구워 만드는 걸 연습하다 보면, 불을 세심하게 다루는 법을 훈련할 수 있죠. 그리고 화재 걱정도 전혀 없답니다. 이 컵, 정말 예쁘게 구워지지 않았나요? 이걸 선물로 줄게요. 아 참, 저도 왜 그런지는 모르겠지만, 자체 가열 효과가 있어서 그 컵에 담긴 물은 늘 뜨거울 거예요. 마실 때 조심하세요.",
+                "cn": "操控源石技艺烤制小玩意有助于锻炼我对火的精细控制，而且还很安全。这个杯子被烤得很漂亮，送给你了。哦对，它不知道为什么自带了加热效果，里面的水一直都会很烫，你喝的时候小心一点。"
+            },
+            "asset": "char_166_skfire/CN_043"
+        },
+        {
             "id": "char_166_skfire_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

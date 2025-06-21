@@ -585,6 +585,22 @@
             "asset": "char_235_jesica/CN_042"
         },
         {
+            "id": "char_235_jesica_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor! Sorry… I can't make anything myself, so I had to buy you a gift… It's too expensive? It could pay for a whole month of training? B-But isn't that pretty normal for a gift?",
+                "jp": "博士，生日快乐......！对不起，我自己不会做什么东西，所以给您的礼物是买来的......太昂贵了？能抵训练场一个月的消耗？这、这就是标准的礼物规格呀......",
+                "kr": "박사님, 생일 축하드려요……! 제가 만들 줄 아는 게 없어서 선물은 따로 사왔어요…… 너무 비싸다고요? 이거면 한 달 치 훈련장 비용과 맞먹는다고요? 서, 선물이라면 보통 이 정도로 하지 않나요……",
+                "cn": "博士，生日快乐......！对不起，我自己不会做什么东西，所以给您的礼物是买来的......太昂贵了？能抵训练场一个月的消耗？这、这就是标准的礼物规格呀......"
+            },
+            "asset": "char_235_jesica/CN_043"
+        },
+        {
             "id": "char_235_jesica_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

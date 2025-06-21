@@ -585,6 +585,22 @@
             "asset": "char_473_mberry/CN_042"
         },
         {
+            "id": "char_473_mberry_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, happy birthday... I'd like to ask, ever since I gave you that amulet, did any of your wishes happen to come true...? N—No? Then... do you have any wishes for your birthday, that I can make real?",
+                "jp": "博士，生日快乐......我想问问，您收下那个平安符后，有心想事成的感觉吗......没，没有？那......您有什么生日愿望，我可以帮您实现吗?",
+                "kr": "박사님, 생일 축하드려요…… 저 여쭤보고 싶은 게 있는데, 혹시 예전에 제가 드린 부적을 받고 나서 바라던 일들이 이루어졌나요? ……아, 없었다고요? 그럼…… 제가 이뤄드릴 수 있는 소원이 있을까요?",
+                "cn": "博士，生日快乐......我想问问，您收下那个平安符后，有心想事成的感觉吗......没，没有？那......您有什么生日愿望，我可以帮您实现吗?"
+            },
+            "asset": "char_473_mberry/CN_043"
+        },
+        {
             "id": "char_473_mberry_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

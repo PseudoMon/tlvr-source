@@ -585,6 +585,22 @@
             "asset": "char_4048_doroth/CN_042"
         },
         {
+            "id": "char_4048_doroth_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Humm, did those young operators just give you something? Wait... what day is it? Oh dear, I lost track of the days again! Dr. {@nickname}, could you make a stop by my lab? Thankfully I've got the entire year's presents all lined up!",
+                "jp": "あら？さっきの子たち、あなたに何か渡してたような……あっ、いけない。今日って何日かしら？日付感覚がすっかりなくなっちゃってたわ！Dr.{@nickname}、このまま私のラボに寄っていってもらえない？幸い、プレゼントならこの一年分ちゃんと用意してあるから。",
+                "kr": "어머, 방금 그 아이들이 너한테 뭔가를 준 것 같은데…… 잠깐, 오늘이 며칠이었지? 날짜를 깜빡했었네! {@nickname} 박사, 같이 내 연구실로 가지 않을래? 다행히 올해 줄 선물들은 미리 다 준비해 뒀거든.",
+                "cn": "咦，刚才那几个小干员把什么东西塞给了你......糟了，今天是几号？我果然忘了时间！Dr.{@nickname}，能顺路去一趟我的实验室吗？幸好，我把一年的礼物都准备好啦。"
+            },
+            "asset": "char_4048_doroth/CN_043"
+        },
+        {
             "id": "char_4048_doroth_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

@@ -585,6 +585,22 @@
             "asset": "char_420_flamtl/CN_042"
         },
         {
+            "id": "char_420_flamtl_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, please take this emblem of Pinus Sylvestris Knightclub handmade by myself! From now on, you are an honorary member of us. Thank you for all the things you've done for the Infected. And happy birthday to you!",
+                "jp": "博士，请收下这枚徽章吧。这是我自制的红松骑士团团徽！这象征着从今天开始，您就是红松骑士团的荣誉成员啦。感谢您一直以来为感染者做的所有事情，祝您生日快乐！",
+                "kr": "박사님, 이 훈장을 받아 주세요. 이건 제가 직접 만든 피누스 실베스트리스 기사단 훈장이에요! 이건 박사님께서 오늘부터 피누스 실베스트리스 기사단의 명예 단원이라는 의미랍니다. 감염자들을 위해 해주신 모든 일에 감사드리며, 그럼 다시 한번 생일 축하드려요, 박사님!",
+                "cn": "博士，请收下这枚徽章吧。这是我自制的红松骑士团团徽！这象征着从今天开始，您就是红松骑士团的荣誉成员啦。感谢您一直以来为感染者做的所有事情，祝您生日快乐！"
+            },
+            "asset": "char_420_flamtl/CN_043"
+        },
+        {
             "id": "char_420_flamtl_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

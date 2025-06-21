@@ -585,6 +585,22 @@
             "asset": "char_338_iris/CN_042"
         },
         {
+            "id": "char_338_iris_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Are you awake? Do you remember what you dreamt of? An unending sea of iris flowers, a dance at the castle, fireworks under a starry sky. Didn't you feel as though you'd rather not wake up? Those scenes are meant to be reserved for the children, but I can make an exception for you, just this once. Happy birthday.",
+                "jp": "你醒了？还记得在梦里看到了什么吗？一望无际的鸢尾花海、城堡里的舞会、星空下的烟火，是不是有种不愿意醒来的感觉？这些景色原本只是为孩子准备的，不过也可以为你破例一次。生日快乐。",
+                "kr": "일어났어요? 방금 꿈에서 무엇을 봤는지 기억하시나요? 끝없이 펼쳐진 아이리스 꽃밭, 성 안의 무도회, 별이 반짝이는 밤하늘 아래 불꽃놀이. 영원히 꿈속에 있고 싶다는 생각이 들지 않았나요? 이 모든 풍경은 원래 아이들을 위해 준비한 거지만, 당신을 위해서 이번 한 번만 예외로 둘게요. 해피 버스데이, 박사님.",
+                "cn": "你醒了？还记得在梦里看到了什么吗？一望无际的鸢尾花海、城堡里的舞会、星空下的烟火，是不是有种不愿意醒来的感觉？这些景色原本只是为孩子准备的，不过也可以为你破例一次。生日快乐。"
+            },
+            "asset": "char_338_iris/CN_043"
+        },
+        {
             "id": "char_338_iris_CN_044",
             "title": {
                 "en": "Anniversary Celebration",
@@ -593,7 +609,7 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "TBU",
+                "en": "By all rights, children are meant to be the hope of our land, yet Oripathy spells such early ends to their lives. Lives I can never even save... I can only hope to protect their fledgling dreams as best I can. That is my ideal, and why I must walk with Rhodes Island.",
                 "jp": "子供たちはこの大地の希望ですのに、彼らの多くは鉱石病によって、あまりにも短い人生を迎えましたわ。私は彼らの命をつなぐことはできませんが、その心に抱く小さな夢を守れたらと願っています。この理想を叶えるため、私はロドスと協力する必要がありますの。",
                 "kr": "아이들은 본래 이 대지의 희망이어야 하지만, 많은 아이들이 광석병으로 너무나 일찍 생의 마침표를 찍고 있어요. 저는 생명을 구할 힘이 없지만, 그들의 작은 꿈을 지켜내고 싶어요. 이 이상을 실현하기 위해서, 저는 로도스 아일랜드와 함께 나아갈 거예요!",
                 "cn": "孩子本该是大地的希望，有许多孩子，却被矿石病早早地画上了生命的休止符。我无法拯救他们的生命，只希望尽可能去守护他们的小小梦想。为了这个理想，我需要与罗德岛同行。"

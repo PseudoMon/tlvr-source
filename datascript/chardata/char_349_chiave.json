@@ -585,6 +585,22 @@
             "asset": "char_349_chiave/CN_042"
         },
         {
+            "id": "char_349_chiave_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Ehi, Doctor, Happy birthday! Ta-dah— Check out this model car. I made it myself. It's yours now. Truth be told, if the conditions were right, I would've built you an actual car. Well, I guess that's a promise. Doctor, come visit me in Siracusa sometime and I'll trade this for a real car.",
+                "jp": "哟，博士。生、日、快、乐！铛铛——看这个汽车模型，小爷亲手做的，送给你啦。其实有条件的话，我也想组装一辆真的送给你啊。就这么说定了。博士，有机会来叙拉古，用这个找我换辆真车啊。",
+                "kr": "여어, 박사. 생. 일. 축. 하. 한. 다! 쨔잔! 이건 내가 직접 만든 자동차 모형이야, 박사한테 선물로 줄게. 사실 여건만 되면 진짜 자동차를 조립해 주고 싶었지만…… 쳇 이렇게 하자. 박사, 시라쿠사에 오게 되면, 내가 이걸 진짜 자동차로 바꿔줄게.",
+                "cn": "哟，博士。生、日、快、乐！铛铛——看这个汽车模型，小爷亲手做的，送给你啦。其实有条件的话，我也想组装一辆真的送给你啊。就这么说定了。博士，有机会来叙拉古，用这个找我换辆真车啊。"
+            },
+            "asset": "char_349_chiave/CN_043"
+        },
+        {
             "id": "char_349_chiave_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

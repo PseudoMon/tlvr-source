@@ -585,6 +585,22 @@
             "asset": "char_289_gyuki/CN_042"
         },
         {
+            "id": "char_289_gyuki_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor! I wanted to fill your office with flowers, but my teacher said restraint is the first rule of Ikebana. So I made you this! And it should fit just fine on your desk!",
+                "jp": "博士，生日快乐啊！我本来想做超级大的插花来把你的办公室塞满，不过老师说过，控制花材的用量是插花的第一步，所以我就只做了这个，正好可以摆在你的桌上！",
+                "kr": "생일 축하해, 박사! 원래는 엄청 큰 꽃병에 꽃꽂이 해서 박사의 사무실을 가득 채워줄 생각이었는데, 꽃꽂이 선생님이 꽃의 수량을 조절하는 것이 꽃꽂이의 첫걸음이라고 해서, 그냥 이것만 가져왔어. 박사의 탁자 위에 두기 딱 좋은 것 같네!",
+                "cn": "博士，生日快乐啊！我本来想做超级大的插花来把你的办公室塞满，不过老师说过，控制花材的用量是插花的第一步，所以我就只做了这个，正好可以摆在你的桌上！"
+            },
+            "asset": "char_289_gyuki/CN_043"
+        },
+        {
             "id": "char_289_gyuki_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

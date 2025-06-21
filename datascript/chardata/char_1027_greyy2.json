@@ -585,6 +585,22 @@
             "asset": "char_1027_greyy2/CN_042"
         },
         {
+            "id": "char_1027_greyy2_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor! Here's a gift I designed for you. Why don't you take a look inside? See? There's a button on the side of the base. Just press it... and there we go! 'A town lit by home lights under a starry sky' in this little crystal ball, lovely isn't it?",
+                "jp": "ドクター、お誕生日おめでとうございます！はい、僕がデザインしたスノードームです。開けてみてください……そう、その台座側面のボタンを押せば……ほら、中の景色、まるで星空を暖かな家々の光が照らしているみたいでしょう。",
+                "kr": "박사님, 생일 축하드려요! 이건 제가 직접 디자인한 스노우볼이에요. 한번 열어 보세요…… 네, 받침대 옆에 버튼을 누르면…… 보세요, 수정구 속에 비친 이 풍경. 마치 밤하늘 아래에서 모두에게 온기를 전해 주는 불빛 같죠.",
+                "cn": "生日快乐，博士！这是我自己设计的礼物，您可以拆开看看......对，台座侧面有个按钮，只要按一下......您看，水晶球里的景致，是不是像星空下温暖的万家灯火一样。"
+            },
+            "asset": "char_1027_greyy2/CN_043"
+        },
+        {
             "id": "char_1027_greyy2_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

@@ -521,6 +521,22 @@
             "asset": "char_4093_frston/CN_042"
         },
         {
+            "id": "char_4093_frston_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor. Now, I would like to use this chance to once again declare the following: Do <i>not</i> celebrate my birthday on the 13th of November, that is the production date of 'Friston-3,' not the birthday of Friston.",
+                "jp": "ドクター、誕生日おめでとう。そうだ、この機会に再度表明しておくけれど、11月13日に僕を祝う必要はない。あれは「Friston-3」の工場出荷日であって、フリストンの誕生日ではないのだから。",
+                "kr": "생일 축하하네, 박사. 아 참, 이번 기회에 다시 한번 얘기하겠네만, 11월 13일에 날 축하해 줄 필요는 없다네. 그건 'Friston-3'의 출고일이지, 'Friston'의 생일이 아니니 말일세.",
+                "cn": "博士，祝你生日快乐。对了，我想趁这个机会再声明一次：不要再在11月13号那天为我庆祝了，那只是“Friston-3”的出厂日，不是Friston的生日。"
+            },
+            "asset": "char_4093_frston/CN_043"
+        },
+        {
             "id": "char_4093_frston_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

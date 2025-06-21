@@ -557,14 +557,12 @@
             "title": {
                 "en": "New Year's blessing",
                 "jp": "新年",
-                "kr": "새해",
-                "cn": "新年祝福"
+                "kr": "새해"
             },
             "text": {
                 "en": "Need a cook?",
                 "jp": "シェフは必要？",
-                "kr": "셰프가 필요하신가요?",
-                "cn": "需要厨师吗？"
+                "kr": "셰프가 필요하신가요?"
             },
             "asset": "char_458_rfrost/CN_038"
         },

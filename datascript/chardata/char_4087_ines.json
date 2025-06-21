@@ -585,6 +585,22 @@
             "asset": "char_4087_ines/CN_042"
         },
         {
+            "id": "char_4087_ines_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "For us mercs, getting older isn't a thing to celebrate. You pick up more scars, and your value goes down. If there's anything worth celebrating, it's the fact that our victories were able to buy us another year.",
+                "jp": "傭兵にとって、歳を重ねるのはろくでもないことよ。怪我や病気が重なれば価値も下がっていくからね。どうしても何か祝いたいなら、この一年の勝利を祝いましょう。それがあってこそ、今日まで生き延びてこられたんだから。",
+                "kr": "나이를 먹는다는 건 용병에게 별로 좋은 일이 아니야. 부상이나 병이 누적되면 용병으로서의 가치도 떨어지거든. 그래도 꼭 뭔가를 축하하고 싶다면, 올해 거둔 승리를 축하하자. 그 승리 덕분에 오늘까지 살아남을 수 있었으니까.",
+                "cn": "对雇佣兵来说，年纪的增长可不是什么好事。伤病累积，价值下降。非要说有什么值得庆贺的话，我们该欢庆过去一年的胜利，是那些胜仗让我们活了下来。"
+            },
+            "asset": "char_4087_ines/CN_043"
+        },
+        {
             "id": "char_4087_ines_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

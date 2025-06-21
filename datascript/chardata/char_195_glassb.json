@@ -585,6 +585,22 @@
             "asset": "char_195_glassb/CN_042"
         },
         {
+            "id": "char_195_glassb_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor. This hardcover is my gift to you—Ah, well done, you've discerned without so much as a flip that it contains not literature, but cake. No, I wasn't at all hoping to see you scoop up a handful of icing…",
+                "jp": "博士，生日快乐。这本“精装书”送给您——唔，不愧是博士，连翻都不翻就看出来了，封皮里不是书，而是蛋糕。不，我并没有期待您抓了一手蛋糕的样子......",
+                "kr": "박사님, 생일 축하합니다. 이 '양장본'을 선물로 드릴게요…… 앗, 역시 박사님이네요. 펼쳐보지도 않고 표지 안에 있는 것이 책이 아니라 케이크라는 걸 아셨군요. 아뇨, 케이크를 손에 잔뜩 묻힌 모습을 기대한 건 아니에요……",
+                "cn": "博士，生日快乐。这本“精装书”送给您——唔，不愧是博士，连翻都不翻就看出来了，封皮里不是书，而是蛋糕。不，我并没有期待您抓了一手蛋糕的样子......"
+            },
+            "asset": "char_195_glassb/CN_043"
+        },
+        {
             "id": "char_195_glassb_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

@@ -585,6 +585,22 @@
             "asset": "char_4046_ebnhlz/CN_042"
         },
         {
+            "id": "char_4046_ebnhlz_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Would you like to listen to a dark, terrifying, head-splitting Birthday Variation?—I'm joking. Happy birthday, Doctor. Sheesh, there's no need to be *that* surprised. Can't I joke every once in a while?",
+                "jp": "陰鬱で恐ろしく、頭痛がするような誕生歌変奏曲はいかがかな？――ふっ、冗談だ。誕生日おめでとう、ドクター。む……そんなに驚くことはないだろう。私が冗談を言ってはいけないのか？",
+                "kr": "공포스럽고, 음울하고, 두통을 몰고 오는 생일 축하 변주곡을 듣고 싶나? ……농담이야. 생일 축하한다, 박사. 으음…… 그렇게 놀랄 것까지야. 나는 농담도 하면 안 되는 건가?",
+                "cn": "想听一首恐怖、阴沉、让人头痛的生日歌变奏曲吗——开个玩笑。生日快乐，博士。呃......也没必要这么惊讶吧，我就不能开个玩笑吗？"
+            },
+            "asset": "char_4046_ebnhlz/CN_043"
+        },
+        {
             "id": "char_4046_ebnhlz_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

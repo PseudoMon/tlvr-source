@@ -585,6 +585,22 @@
             "asset": "char_144_red/CN_042"
         },
         {
+            "id": "char_144_red_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "I've seen people. Many people. They went to the Doctor's room, and left things. That spells danger… it doesn't? Birthday presents? Oh, well… I'll lend you this fluffy ball to touch. But you have to give it back.",
+                "jp": "红看到，很多人来博士房间，送来很多东西，很危险......不危险？生日？好吧......这个毛球，可以借你摸摸，之后要还给红......",
+                "kr": "레드 봤어. 많은 사람들이 박사 방에 왔다. 그리고 뭘 많이 두고 갔어. 위험해…… 안 위험하다고? 생일? 알겠다…… 이 털공, 빌려줄게. 가지고 놀다가, 다시 레드한테 돌려줘……",
+                "cn": "红看到，很多人来博士房间，送来很多东西，很危险......不危险？生日？好吧......这个毛球，可以借你摸摸，之后要还给红......"
+            },
+            "asset": "char_144_red/CN_043"
+        },
+        {
             "id": "char_144_red_CN_044",
             "title": {
                 "en": "Anniversary Celebration",
@@ -608,7 +624,7 @@
         },
         "cn": {
             "native": "木雅瑞林",
-            "global": "Rylynn"
+            "global": "木雅瑞林"
         },
         "jp": {
             "native": "小清水亜美",

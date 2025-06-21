@@ -585,6 +585,22 @@
             "asset": "char_488_buildr/CN_042"
         },
         {
+            "id": "char_488_buildr_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor. This is a 'mini hammer' that I designed myself. It works on the same principles as my weapon, and you can wield it with just one hand. I'll be heading back to Siesta tomorrow. While I'm gone, you can use it to crack nuts.",
+                "jp": "ハッピーバースデー、ドクター！これはあたしがデザインした「ミニクラッカー」だよ。原理はあたしの武器と一緒で、片手でも扱えるんだ。何日かしたらシエスタに戻るから、あたしがいない時はこれでナッツを食べるといいよ！",
+                "kr": "생일 축하해, 박사. 이건 내가 디자인한 '미니 해머'야. 내 무기랑 비슷한 원리인데, 한 손으로도 다룰 수 있어. 며칠 뒤엔 시에스타로 돌아가 봐야 하니까, 내가 없는 동안엔 이걸로 견과류 부숴 먹어!",
+                "cn": "生日快乐，博士，这是我设计的“迷你破碎锤”，和我的武器原理一样，而且单手就可以操作。过几天我就要回汐斯塔了，我不在的时候您可以用它来砸坚果吃。"
+            },
+            "asset": "char_488_buildr/CN_043"
+        },
+        {
             "id": "char_488_buildr_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

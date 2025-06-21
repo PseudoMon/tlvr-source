@@ -561,7 +561,7 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "TBU",
+                "en": "Back home, most flowers would already have withered by now. But just thinking about how spring will be here soon... fills my heart with hope. Doctor, let's find the first flower that blooms in the greenhouse together!",
                 "jp": "故郷にいた頃、毎年この時期になると、お花はもうほとんど枯れています。でもすぐにまた春がやって来るのだと思うと、心が希望に満ちていくんです。ドクター、今年一番に咲いたお花を探しに、温室に行きましょう！",
                 "kr": "제 고향에선, 이맘때면 많은 꽃들이 시들었어요. 그래도 조금 있으면 곧 봄이 찾아올 거라고 생각하니 희망이 벅차오르네요. 박사님, 같이 온실로 가서 새해에 피어난 첫 꽃을 찾아보지 않으실래요?",
                 "cn": "在老家，这个时候许多花都已经凋谢了，但是想到春天很快就要到来，心里又充满了希望。博士，我们去温室里找一找在新的一年开的第一朵花吧！"
@@ -585,6 +585,22 @@
             "asset": "char_258_podego/CN_042"
         },
         {
+            "id": "char_258_podego_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, happy birthday! Please, try this floral tea! I made it the way Miss Lena taught me, and if you really savor it, you can taste a hint of cake flavor! Eh? You can't? Let me try... Oh... Sorry, Doctor. I... I think I forgot the honey…",
+                "jp": "博士，生日快乐！请尝尝这杯花茶吧！这是我用莱娜姐姐的技术做的茶，仔细品尝的话会有蛋糕的味道呢！欸，喝不出来吗？我来试试......对不起博士，我好像，忘记放花蜜了......",
+                "kr": "박사님, 생일 축하드려요! 이 꽃차 한잔 마셔보세요! 레나 언니 기술로 만든 차인데, 잘 음미해 보시면 은은한 케이크 맛이 난답니다! 앗, 안 난다고요? 제가 한 번 마셔볼게요…… 죄송해요, 박사님. 꿀 넣는 걸 깜빡한 것 같아요……",
+                "cn": "博士，生日快乐！请尝尝这杯花茶吧！这是我用莱娜姐姐的技术做的茶，仔细品尝的话会有蛋糕的味道呢！欸，喝不出来吗？我来试试......对不起博士，我好像，忘记放花蜜了......"
+            },
+            "asset": "char_258_podego/CN_043"
+        },
+        {
             "id": "char_258_podego_CN_044",
             "title": {
                 "en": "Anniversary Celebration",
@@ -593,7 +609,7 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "TBU",
+                "en": "I've been all over with Rhodes Island. Does that mean I've spread flowery fragrance to just as many places? Hehe... I may still have lots of room for improvement, compared to Miss Lena, but I'll do my best to make Rhodes Island an even warmer place!",
                 "jp": "ロドスに来てから、いろんな場所に行きました。これってお花の香りを大地に広めたことになりませんか？へへ……ラナお姉さんに比べれば、私はまだまだ一人前には程遠いですが、ロドスをもっと温もり溢れる場所にできるように頑張ります！",
                 "kr": "로도스 아일랜드를 따라 많은 곳을 다녔으니, 꽃향기도 대지 곳곳에 퍼뜨렸다고 볼 수 있겠죠? 헤헤…… 레나 언니에 비하면 아직 여러모로 부족하지만, 로도스 아일랜드를 더 따뜻하고 아늑한 곳으로 만들기 위해 최선을 다할게요!",
                 "cn": "跟着罗德岛走过了许多地方，是不是也算将花香散播到大地各处了呢？嘿嘿......虽然和莱娜姐姐比起来，我还有许多不成熟的地方，但我会尽力让罗德岛变成一个更温馨的地方！"

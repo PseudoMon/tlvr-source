@@ -585,6 +585,22 @@
             "asset": "char_4063_quartz/CN_042"
         },
         {
+            "id": "char_4063_quartz_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor. Here's a pocket watch... Of course, it's not my own. And it's not one of those collectibles the Columbian businessmen like. You may not need something like this to show off, but you can use it to check the time.",
+                "jp": "誕生日おめでとう、ドクター。私からは懐中時計を……いや、私が持ってるのとは別物だよ。ああ、クルビアの資産家たちが好んで集めるようなブランド物でもない。あなたはこういったもので己の身分を誇示する必要もないと思うが、時間を確認するくらいには使えるから。",
+                "kr": "생일 축하해, 박사. 이 회중시계를 선물로 줄게…… 아니, 내 거랑은 다른 거야. 아, 그렇다고 컬럼비아 자산가들이 좋아할 만한 그런 명품 시계도 아니야. 너라면 이런 시계로 신분을 과시할 필요도 없겠지만, 시간을 확인하는 정도론 괜찮잖아.",
+                "cn": "生日快乐，博士。送您一块怀表......当然不是我自己这块，也不是哥伦比亚企业家们喜欢收集的那种名表，虽然您也不需要这样的物件来彰显身份，但看看时间也是可以的。"
+            },
+            "asset": "char_4063_quartz/CN_043"
+        },
+        {
             "id": "char_4063_quartz_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

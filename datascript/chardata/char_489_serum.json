@@ -585,6 +585,22 @@
             "asset": "char_489_serum/CN_042"
         },
         {
+            "id": "char_489_serum_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "I apologize, Doctor, I'm currently working. If you wanted to chat, you'll have to wait until I'm on break. Oh, yes, I left your birthday present on your desk early this morning—if that's what you wanted to talk about, I'd be very happy to sit down with you at dinner this evening.",
+                "jp": "抱歉博士，我正在工作。要聊天的话得等到休息时间才行。对了，您的生日礼物一大早就放在您的办公桌上了——如果您是想聊这个的话，我很乐意在晚餐时间和您交流。",
+                "kr": "죄송합니다, 박사님. 지금 제가 업무 중이라, 잡담이라면 쉬는 시간까지 기다려 주시겠어요? 아, 생일 선물이라면 아침 일찍 박사님의 책상에 올려 뒀습니다만…… 선물에 대해 이야기 나누고 싶으신 거라면, 저녁 식사 시간 어떠신지요. 기꺼이 함께 하겠습니다.",
+                "cn": "抱歉博士，我正在工作。要聊天的话得等到休息时间才行。对了，您的生日礼物一大早就放在您的办公桌上了——如果您是想聊这个的话，我很乐意在晚餐时间和您交流。"
+            },
+            "asset": "char_489_serum/CN_043"
+        },
+        {
             "id": "char_489_serum_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

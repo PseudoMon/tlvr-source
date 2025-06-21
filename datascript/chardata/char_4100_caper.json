@@ -585,6 +585,22 @@
             "asset": "char_4100_caper/CN_042"
         },
         {
+            "id": "char_4100_caper_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Look at you. Is today some kinda special occasion? Hehe, you look so funny when you're disappointed. Alright, here's my gift for you. You can probably figure out what it is, right?",
+                "jp": "その様子じゃ、今日は何か特別な日なのね？……フフッ、そのがっかりした顔好きだわ。はいはい、プレゼントは用意してあるよ――すぐ目の前にあるんだけど、それが何か、わかるよね？",
+                "kr": "박사 표정을 보니까, 오늘은 뭔가 특별한 날인가 보네? ……히히, 박사는 시무룩해하는 표정도 정말 재밌다니까. 자, 여기 선물. 뭔지는 대충 예상되지?",
+                "cn": "看你的样子，今天是什么特别的日子吗？......嘻嘻，你沮丧的表情真有趣。好啦，我准备的礼物就在你面前，你应该猜得到是什么吧？"
+            },
+            "asset": "char_4100_caper/CN_043"
+        },
+        {
             "id": "char_4100_caper_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

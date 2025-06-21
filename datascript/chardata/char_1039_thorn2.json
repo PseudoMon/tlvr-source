@@ -1,0 +1,644 @@
+{
+    "charid": "char_1039_thorn2",
+    "nameid": "thorn2",
+    "names": {
+        "en": "Thorns the Lodestar",
+        "jp": "引星ソーンズ",
+        "kr": "쏜즈 더 로드스타",
+        "cn": "引星棘刺"
+    },
+    "voices": [
+        {
+            "id": "char_1039_thorn2_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Doctor, since you've decided to join our voyage, you'll need to contribute. Think you can handle steering the ship? Here's the wheel: turn right to go right, turn left to go left. Clear? Very good. Let's set sail. Joking? No, I'm dead serious.",
+                "jp": "ドクター、俺たちの船旅に加わるからには、船上での仕事も受け持ってもらうぞ。舵取りでもやってみるか？これが舵輪で、右に回せば船が右に、左に回せば左に曲がる。覚えたか？では出発しよう。冗談？いいや、至って本気だが。",
+                "kr": "박사, 네가 우리 항해에 가담하기로 한 이상, 이제부턴 뱃일도 맡아야 할 거다. 조타를 해보고 싶다고? 이게 타륜인데, 오른쪽으로 돌리면 오른쪽으로, 왼쪽으로 돌리면 왼쪽으로 배가 선회하지. 기억했나? 그럼 출발하지. 농담이냐고? 아니, 난 지금 매우 진지하다만.",
+                "cn": "博士，既然你决定加入我们的航程，就需要分担我们的工作。你可以试试掌舵？这是舵轮，向右打船就向右转，向左打船就向左转。记好了？那我们就出发吧。玩笑？不，我可没在开玩笑。"
+            },
+            "asset": "char_1039_thorn2/CN_001"
+        },
+        {
+            "id": "char_1039_thorn2_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Here's your hammock, Doctor. The seas have been gentle these past two days, rocking like a cradle. But when the wind rises and waves swell, sleep won't come so easily. So I've brought you this bucket, use it if seasickness strikes. Just be sure to aim well; our cleaning crew won't take kindly to a messy deck.",
+                "jp": "お前用のハンモックはこれだ、ドクター。最近は波も大人しいし、寝心地は揺り籠のように良いだろう。だが、風が強くなれば波が荒れて寝づらくなるだろうから、バケツも用意しておいた。くれぐれも床にだけは吐くなよ。掃除当番からぐちぐち小言を聞かされ続けることになるぞ。",
+                "kr": "박사, 이게 네가 쓸 해먹이다. 최근엔 파도도 잔잔하니, 요람에서 자는 것처럼 편안히 잘 수 있을 거다. 하지만 바람이 세지면 파도가 거칠어져 잠들기 힘들어질 테니, 자, 여기 양동이를 준비해 뒀다. 절대 바닥에는 토하지 말도록. 청소 당번의 끊임없는 중얼거림을 듣고 싶지 않다면 말이야.",
+                "cn": "这就是你的吊床了，博士，这两天海浪不大，睡起来像摇篮，等到风刮起来，浪大了就不好入睡了，所以我还为你准备了一个桶，千万不要吐在地板上，打扫卫生的船员会嘀咕很久的。"
+            },
+            "asset": "char_1039_thorn2/CN_002"
+        },
+        {
+            "id": "char_1039_thorn2_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Doctor, I'll be occupied with my alchemical research. Can you helm the ship in my absence? No, not a word to the crew. My last experiment, while successful in improving engine efficiency, left our hull compromised. The crew wasn't pleased. At the celebration banquet that followed... They voted to hang me from the mast the entire night.",
+                "jp": "ドクター、しばらく錬金術の実験に集中したいんだ。船の指揮を代わってもらえないか？いや、船員たちには黙っておいてくれ。前回の実験でエンジンの効率を飛躍的に向上させた代わりに、船体を破損させてしまってな。その後の打ち上げで投票が行われて、結果俺は一晩マストに吊るされる羽目になったんだ。",
+                "kr": "박사, 당분간 연금술 실험에 집중하고 싶은데, 배 지휘를 대신 맡아줄 수 있겠나? 아니, 선원들에게는 말하지 말고. 저번 실험에서 엔진 효율을 비약적으로 향상시킨 대신, 선체를 파손시켜버렸거든. 그 후 열린 파티에서 투표가 진행되었고, 결국 나는 하룻밤 동안 돛대에 매달리게 됐어.",
+                "cn": "博士，最近我要花时间在炼金术实验上，你能暂时代我指挥吗？不，请不要告诉船员们，上次我的实验虽大幅提升了引擎效率，但因为损坏船体，庆功宴上他们投票把我挂在桅杆整整一夜。"
+            },
+            "asset": "char_1039_thorn2/CN_003"
+        },
+        {
+            "id": "char_1039_thorn2_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "These silvery liquid orbs, 'Corazonix', now form my right arm. They convey to me the movement of all things: the wind, the waves, fin-schools... and even the subtle currents of blood within the human body. That sensation... is as if I am merging with the very pulse of all existence.",
+                "jp": "この銀色の球形をした流体は、「心相原質」というものだ。今ではこれが俺の右腕を構成し、常に風や波、鱗獣の群れから……体内の血液に至るまで、万物の動向を伝達してくれる。まるで、俺も万物と共に流れているような心地がするんだ。",
+                "kr": "이 은색 구형 유체는 '코라소닉스'라는 것이다. 지금은 이것들이 내 오른팔을 구성하고 있지. 이건 바람과 파도, 그리고 린수 떼는 물론…… 심지어는 몸속의 혈액에 이르기까지, 만물의 움직임을 내게 전달해 준다. 그건 마치…… 나도 만물과 하나 되어 흐르는 듯한 느낌이야……",
+                "cn": "这些银色的流体小球叫做“心相原质”，如今是它们构成了我的右臂，也是它们时时刻刻向我传达万物的动向，风、浪、鳞群......甚至人体内的血液。那种感觉，好像我在与万物一同流淌。"
+            },
+            "asset": "char_1039_thorn2/CN_004"
+        },
+        {
+            "id": "char_1039_thorn2_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "People forge connections by accepting fragments of others into themselves. That's what my maestro once said. He came from the Church of the Deep, so I initially misinterpreted his words. But in truth, his meaning was profound: we enter life as hollow vessels; we are incomplete until shaped by communication and shared understanding.",
+                "jp": "「人々が繋がりを築くことは、他人の一部を取り込むことを意味している」――先生の言葉だ。あの人は深海教徒だからと、俺はこの言葉の意味を誤解していた。だが、思えばその真意は、「誰もが空っぽの心を抱えていて、他人と交わって初めて、完成された自分を作り上げることができる」というものだったんだろうな。",
+                "kr": "'사람이 관계를 구축한다는 것은, 타인의 일부를 흡수한다는 것을 의미한다'…… 스승이 했던 얘기다. 그가 심해 교도였기에 나는 이 말의 의미를 오해하고 있었지. 돌이켜보면 이 말의 진의는 '누구나 텅 빈 마음을 가지고 있으며, 타인과 교류해야만 비로소 완성된 자신을 만들어낼 수 있다'라는 것이었을 거야.",
+                "cn": "老师曾说，人们建立连接意味着接受他人的一部分融入自身，他来自深海教会，我因此误读了这句话。但其实它的本意是指，每个人都是空心一片，需要与他人交流才能构建起完整的自己。"
+            },
+            "asset": "char_1039_thorn2/CN_005"
+        },
+        {
+            "id": "char_1039_thorn2_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "In the past, I could only answer your questions about Iberia through second-hand stories. The glory of its past and the desolation of its present have never stirred any sense of belonging in me—Rather, its future is what I yearn to shape. With this ship as my lodestar, I shall forge my own narrative for Iberia.",
+                "jp": "イベリアについて質問された時、これまでは聞きかじった言葉で答えることしかできなかった。だが、俺はイベリアの過去の栄光にも、今日の没落にも帰属意識はないし、イベリアの未来にこそ関わりたいと思っている。だからこの船を拠点に、俺は俺のイベリアを追い求めていくつもりだ。",
+                "kr": "이베리아에 대해 질문을 받았을 때, 지금까지는 여기저기서 주워들은 얘기로밖엔 대답할 수 없었다. 그러나 나는 과거 이베리아의 영광에도, 지금의 몰락에도 소속감을 느끼지 못한다. 내가 참여하고 싶은 건 바로 이베리아의 미래다. 그래서 나는 이 배를 거점으로, 나만의 이베리아를 추구해 나갈 생각이다.",
+                "cn": "那些有关伊比利亚的问题，从前我只能以道听途说的言语回答你，它过去的辉煌与如今的荒芜都无法令我产生归属感，它的未来才是我真正想参与的。以这艘船为中心，我会诠释属于我的伊比利亚。"
+            },
+            "asset": "char_1039_thorn2/CN_006"
+        },
+        {
+            "id": "char_1039_thorn2_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "We're about to run out of provisions, so I'm taking the dinghy out to go fincatching. Care to join me, Doctor? Use a fishing rod? No, too inefficient. It's better to dive straight into the ocean, and hurl fins aboard with Destreza. Not a swing wasted.",
+                "jp": "船の食糧が底をつきかけていてな。ボートを出して鱗獣を獲ってくるつもりだが、ドクターも来るか？釣り竿？いや、それではあまりに非効率的だ。直接海に飛び込んで、至高の術で鱗獣を引き上げればいいだろう。それなら時間も無駄にせずに済む。",
+                "kr": "배의 식량이 다 떨어져 가서 말이야. 보트를 타고 린수를 잡으러 갈 건데, 박사도 가겠나? 낚싯대? 아니, 그건 너무 비효율적이다. 직접 바다에 뛰어들어가 데스트레자로 린수를 낚아 올리면 되는걸. 그편이 시간도 더 절약되고 효율적이다.",
+                "cn": "船上的食物要吃光了，我正要坐小船去捉些鳞过来，你要一起吗，博士？用钓竿？不，那样效率太低，不如直接跳进海里施展至高之术把鳞挑上船来，不会浪费一点时间。"
+            },
+            "asset": "char_1039_thorn2/CN_007"
+        },
+        {
+            "id": "char_1039_thorn2_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "The ship's now entering the eye of the storm! Hard to port! Steady, sailors! Don't panic, Doctor. I hold these raging tides in the palm of my hand. I promise you won't be swept overboard. Oh, sorry. Didn't expect you to get all soaked…",
+                "jp": "嵐の真ん中を突っ切るぞ！取り舵いっぱい！帆を揚げろ！野郎ども、気張れ！慌てるな、ドクター。この激しい波も、俺の手のひらの上だ。お前を振り落としはしないと約束――あっ、すまない。ずぶ濡れになることは想定外だった……",
+                "kr": "폭풍의 중심을 돌파한다! 좌현 최대로! 돛을 올려! 선원들, 힘을 내라! ……당황할 것 없어, 박사. 이 거친 파도도 내 손바닥 위에 있으니, 절대 떨어뜨리지 않는다고 약속…… 아, 미안. 흠뻑 젖어버리는 건 예상 못 했군……",
+                "cn": "现在要驶入风暴中心了！左满舵！扬帆！稳住，船员们！博士，你不用慌张，这些狂暴的浪花都在我的掌控中，我不会让你摔下栏杆的，我保证——哦，对不起，我没想到它会浇你一身......"
+            },
+            "asset": "char_1039_thorn2/CN_008"
+        },
+        {
+            "id": "char_1039_thorn2_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Oh, Doctor. How did you find this sanctuary? Me...? When the crew gets too rowdy, I retreat here for some peace and quiet. Isn't it strange? Out here, where the only sound is the wind and the waves, I somehow hear the echoes of voices from Rhodes Island.",
+                "jp": "なっ……ドクター、どうやってここを見つけたんだ？俺か？ガヤガヤうるさい船員たちから離れて静かに過ごしたい時は、こっそりここに来てるんだ。風と波の音しかしないというのに、不思議と、ロドスの連中の声が頭に蘇ってくる。",
+                "kr": "아니…… 박사, 여길 어떻게 찾았지? 나 말인가? 시끄러운 선원들에게서 벗어나 조용히 시간을 보내고 싶을 때는 몰래 여기로 온다. 여기선 바람과 파도 소리만 들리는 데도…… 이상하지. 로도스 아일랜드 사람들의 목소리가 머릿속을 울리는 걸 보면.",
+                "cn": "呃，博士，你是怎么找到这里来的？我吗......平时船员叽叽喳喳的，有点吵，想清静一下，就会躲到这里来。奇怪，明明这里只有风声与海浪声，却让我想起罗德岛上大家的声音。"
+            },
+            "asset": "char_1039_thorn2/CN_009"
+        },
+        {
+            "id": "char_1039_thorn2_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Asleep already? I never expected you to adapt to the rocking waves so quickly... Though, I've heard that people find rest where they feel secure.",
+                "jp": "眠ったのか？こんなに早く海の揺れに慣れるとは……そういえば、人が眠気を覚えるのは、安全だと感じる場所にいる時だという話を聞いたことがあるな。",
+                "kr": "잠든 건가? 이렇게 빨리 바다의 흔들림에 적응할 줄이야…… 그러고 보니 사람은 안전하다고 느끼는 장소에서야 졸음이 온다는 말을 들은 적이 있던 것 같군.",
+                "cn": "睡着了？想不到你居然这么快就习惯了海浪的颠簸......我曾听说，人们在某个地方感到困倦，是因为他们觉得那里很安全。"
+            },
+            "asset": "char_1039_thorn2/CN_010"
+        },
+        {
+            "id": "char_1039_thorn2_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Doctor, welcome to la Cuna de Nene. I... am her captain. Ahem... The name wasn't my idea. We let the First Mate's pet draw name stripes.",
+                "jp": "「赤子の揺り篭」号へようこそ、ドクター。俺は……ここの船長だ。こほん、船の名前は俺がつけたわけじゃない。船員一同の案を箱に集めて、副船長のペットに選ばせた結果がこれだ。",
+                "kr": "'네네의 요람'호에 온 것을 환영한다, 박사. 나는…… 이 배의 선장이다. 크흠, 배 이름은 내가 지은 게 아니야. 선원 모두의 의견을 상자에 모아서 부선장의 애완동물에게 고르게 한 결과가 이거다.",
+                "cn": "博士，欢迎来到“宝宝摇篮”号，我......是它的船长。咳咳，这不是我起的名字。当时，我们把写了名字的纸条混在一起，让大副的宠物去抓的。"
+            },
+            "asset": "char_1039_thorn2/CN_011"
+        },
+        {
+            "id": "char_1039_thorn2_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Is this footage from my previous missions? You actually brought it aboard... That move was full of openings. It clearly wasn't properly calculated.",
+                "jp": "昔の俺の作戦記録か？船にまで持ち込んでくるとは……ふん、一目で見切られるだろう技だな。やはり当時は計算が疎かだった。",
+                "kr": "예전 내 작전기록인가? 배에까지 들고 올 줄은…… 한눈에 간파당할 기술이군. 역시 그땐 계산이 서툴렀어.",
+                "cn": "这是我之前的作战录像？你居然带上船了......这招式一眼就能看穿，显然没有好好计算。"
+            },
+            "asset": "char_1039_thorn2/CN_012"
+        },
+        {
+            "id": "char_1039_thorn2_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "A gift to celebrate my promotion to captain? That happened a long time ago, though. Why bring it up now, Doctor?",
+                "jp": "船長就任のお祝い？就任はもう随分前のことだが、なぜ急に？",
+                "kr": "선장 취임 축하? 취임한 지는 이미 꽤 됐다만, 왜 갑자기?",
+                "cn": "庆祝我升任船长的贺礼？这都好久之前的事情了，博士你怎么突然想起这个？"
+            },
+            "asset": "char_1039_thorn2/CN_013"
+        },
+        {
+            "id": "char_1039_thorn2_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Congratulations, Doctor. In recognition of your exceptional service aboard, and the profound bond you've forged with the First Mate's pet, the crew and I have voted unanimously to promote you to the distinguished rank of Senior Groomer.",
+                "jp": "おめでとう、ドクター。船上での働き及び、副船長のペットと築いた深い絆を評価して、船員一同満場一致で、お前をこの船の主任飼育員に任命する。",
+                "kr": "축하한다, 박사. 배에서의 활동과 부선장의 애완동물과 쌓은 깊은 유대를 높이 평가하여, 선원들 만장일치로 너를 이 배의 주임 사육사로 임명한다.",
+                "cn": "恭喜你，博士，鉴于你在船上的优异表现，以及与大副宠物结下的深厚友谊，我和船员们一致决定将你升为这艘船的高级饲养员。"
+            },
+            "asset": "char_1039_thorn2/CN_014"
+        },
+        {
+            "id": "char_1039_thorn2_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Doctor, take the helm for now. This will be a tough battle, and my crew needs me to fight shoulder-to-shoulder with them.",
+                "jp": "ドクター、しばらく船長代理を頼めるか。厳しい戦いになるだろうから、俺も船員たちと共に戦いに出る。",
+                "kr": "박사, 잠시 선장 대리를 맡아줄 수 있겠나? 고된 전투가 될 것 같으니, 나도 선원들과 함께 싸우겠다.",
+                "cn": "博士，请你暂时代行船长之职，这将是一场艰苦的战斗，我需要和船员们并肩作战。"
+            },
+            "asset": "char_1039_thorn2/CN_017"
+        },
+        {
+            "id": "char_1039_thorn2_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Give me your orders like before, Doctor. I will follow them.",
+                "jp": "昔のように命令をくれ、ドクター。お前に従おう。",
+                "kr": "예전처럼 명령을 내려줘, 박사. 너를 따르겠다.",
+                "cn": "像从前那般下达命令吧，博士，我会听从的。"
+            },
+            "asset": "char_1039_thorn2/CN_018"
+        },
+        {
+            "id": "char_1039_thorn2_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Hoist the flag, sailors! Tell the enemies, we are here.",
+                "jp": "旗を掲げろ、野郎ども！俺たちが来たことを敵に知らしめてやれ。",
+                "kr": "선원들이여, 깃발을 올려라! 우리가 왔음을 적들에게 알려주자!",
+                "cn": "升起旗帜，水手们！告诉敌人我们来了。"
+            },
+            "asset": "char_1039_thorn2/CN_019"
+        },
+        {
+            "id": "char_1039_thorn2_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Starboard stern, batteries ready! All hands, prepare to fire!",
+                "jp": "大砲に弾をこめろ！右舷後方へ向け、命令を待て！",
+                "kr": "포탄 장전! 방향은 우현 후방, 명령을 기다린다!",
+                "cn": "大炮装填，瞄准右后方，全体待命！"
+            },
+            "asset": "char_1039_thorn2/CN_020"
+        },
+        {
+            "id": "char_1039_thorn2_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "I can hold here myself. I know what to do.",
+                "jp": "今は一人にしてくれ。どうすべきかは分かっている。",
+                "kr": "지금은 혼자 있게 해줘. 어떻게 해야 하는지는 알고 있다.",
+                "cn": "让我一个人待着，我知道该怎么做。"
+            },
+            "asset": "char_1039_thorn2/CN_021"
+        },
+        {
+            "id": "char_1039_thorn2_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Please help me, Doctor.",
+                "jp": "ドクター、手を貸してくれ。お前の助けが必要だ。",
+                "kr": "박사, 좀 도와주겠나. 네 도움이 필요하다.",
+                "cn": "博士，请搭把手，我需要你的帮助。"
+            },
+            "asset": "char_1039_thorn2/CN_022"
+        },
+        {
+            "id": "char_1039_thorn2_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Once the wind fills our sails, it's time to act.",
+                "jp": "海風が帆を膨らませたら、行動開始だ。",
+                "kr": "해풍이 돛을 부풀리면, 작전을 시작한다.",
+                "cn": "等海风吹起风帆，就该动手了。"
+            },
+            "asset": "char_1039_thorn2/CN_023"
+        },
+        {
+            "id": "char_1039_thorn2_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "I hear the waves drumming against the hull. They herald our victory.",
+                "jp": "波が船縁を打つ音が聞こえる。勝利の予兆だ。",
+                "kr": "뱃전에 부딪치는 파도 소리가 들린다. 이건 승리의 전조다.",
+                "cn": "我听到海浪在拍击船舷，它在预告一场胜利。"
+            },
+            "asset": "char_1039_thorn2/CN_024"
+        },
+        {
+            "id": "char_1039_thorn2_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Probes, functional. Corazonix... Good to go.",
+                "jp": "探針は正常、心相原質も……異常なし。",
+                "kr": "탐침 정상, 코라소닉스도…… 이상 없다.",
+                "cn": "探针正常，心相原质......也正常。"
+            },
+            "asset": "char_1039_thorn2/CN_025"
+        },
+        {
+            "id": "char_1039_thorn2_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Clear images... Hmph, check the data.",
+                "jp": "綺麗に映っているな……ふむ、データも見てみるか。",
+                "kr": "선명하게 나오는군…… 흠. 데이터도 한번 볼까.",
+                "cn": "成像挺清晰的......啧，看看数据。"
+            },
+            "asset": "char_1039_thorn2/CN_026"
+        },
+        {
+            "id": "char_1039_thorn2_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Not bad... Reasonable data. Try processing it.",
+                "jp": "よし、妥当なデータだ。早速演算してみよう。",
+                "kr": "좋아, 타당한 데이터군. 바로 연산해 보도록 하지.",
+                "cn": "不错，数据合理，计算下试试。"
+            },
+            "asset": "char_1039_thorn2/CN_027"
+        },
+        {
+            "id": "char_1039_thorn2_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Is it correct? Or not quite... Whatever, let's have a go.",
+                "jp": "数値は合っているか？何か違う気も……まあいい、とにかく起動しよう。",
+                "kr": "수치가 맞는 건가? 뭔가 틀린 것 같은…… 뭐, 일단 기동시키도록 하지.",
+                "cn": "对吗？好像又不太对......算了，事到如今先运作吧。"
+            },
+            "asset": "char_1039_thorn2/CN_028"
+        },
+        {
+            "id": "char_1039_thorn2_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "A truly resounding victory. Let us bask in the cheers of this moment.",
+                "jp": "痛快な勝利だ。この喜びを存分に味わうとしよう。",
+                "kr": "통쾌한 승리다. 이 기쁨을 마음껏 만끽해보자고.",
+                "cn": "真是一场酣畅淋漓的胜利，享受此刻的欢呼吧。"
+            },
+            "asset": "char_1039_thorn2/CN_029"
+        },
+        {
+            "id": "char_1039_thorn2_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "What we just encountered is but a minor hiccup before lengthy voyage. Cheer up, Doctor. Far greater trials await us ahead.",
+                "jp": "この程度、ごく軽微な海難事故でしかない。しっかりしろドクター、この先にはさらなる困難が待ち受けているぞ。",
+                "kr": "우리가 겪은 건 항해 중 흔히 일어나는 사소한 사고일 뿐이다. 정신 차리도록, 박사. 우리 앞엔 더 큰 어려움이 기다리고 있으니.",
+                "cn": "我们所遭遇的只是航行中最微不足道的事故，打起精神，博士，前面还有更难的。"
+            },
+            "asset": "char_1039_thorn2/CN_030"
+        },
+        {
+            "id": "char_1039_thorn2_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "There's no need to pursue a spent force. Let's return to the ship.",
+                "jp": "奴らはもう風前の灯火だ、追いかけて吹き消すまでもない。帰航しよう。",
+                "kr": "저들은 바람 앞의 등불이나 다름없다. 굳이 쫓아가서 끌 필요조차 없지. 귀항하자.",
+                "cn": "只是强弩之末，不必追击，我们返航吧。"
+            },
+            "asset": "char_1039_thorn2/CN_031"
+        },
+        {
+            "id": "char_1039_thorn2_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Turn downwind and set full sail! We must get clear of this region immediately!",
+                "jp": "追い風に舵を切り、目いっぱい帆を張れ。一刻も早くこの海域を脱出するぞ！",
+                "kr": "순풍 방향으로 배를 돌리고, 돛을 최대한으로 펼쳐. 한시라도 빨리 이 해역을 벗어나야 한다!",
+                "cn": "转向顺风，满帆行驶，我们需要尽快撤出这片海域！"
+            },
+            "asset": "char_1039_thorn2/CN_032"
+        },
+        {
+            "id": "char_1039_thorn2_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Why the surprised look? Even a captain isn't exempt from cleaning duties. Could you pass me the mop? I need to finish before dark. Thanks, Doctor.",
+                "jp": "そう驚くな、船長の身でも掃除くらいはする。モップを取ってくれないか？暗くなる前に終わらせないとな。ありがとう、ドクター。",
+                "kr": "그렇게 놀랄 것 없다. 선장이라도 청소는 하니까. 대걸레를 좀 건네주지 않겠나? 어두워지기 전에 끝내야 하거든. 고맙다, 박사.",
+                "cn": "别惊讶，就算是船长也要亲自打扫卫生，可以帮我递一下拖把吗？我得在天黑前结束，谢谢你，博士。"
+            },
+            "asset": "char_1039_thorn2/CN_033"
+        },
+        {
+            "id": "char_1039_thorn2_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "They sense you coming, Doctor.",
+                "jp": "こいつでお前の接近を感じていたぞ、ドクター。",
+                "kr": "이걸로 네가 접근하는 걸 느끼고 있었다, 박사.",
+                "cn": "它们感受到你的靠近了，博士。"
+            },
+            "asset": "char_1039_thorn2/CN_034"
+        },
+        {
+            "id": "char_1039_thorn2_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "My braid's come undone, will you help me?",
+                "jp": "髪紐がほどけてしまったんだ。結んでくれないか？",
+                "kr": "머리끈이 풀렸는데, 묶어주지 않겠나?",
+                "cn": "我的辫子松开了，可以帮我重新绑一下吗？"
+            },
+            "asset": "char_1039_thorn2/CN_036"
+        },
+        {
+            "id": "char_1039_thorn2_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_1039_thorn2/CN_037"
+        },
+        {
+            "id": "char_1039_thorn2_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Seeing how ecstatic the crew is tonight, I doubt the rum in our hold will last through the night. Oh, I must remind you, Doctor. When the revelry begins, keep clear of the railings. We can't risk a tipsy Doctor going overboard. Ah, why am I even concerned...? Ahem, just, uh, trust me on this one.",
+                "jp": "船員たちの今夜の盛り上がりようを見るに、倉庫に取っておいたラム酒は全部飲み干されそうだな。ドクター、船の手すりには寄りかかるなよ。酔っ払って海に落ちるのは御免だろう。ん、なぜそんなことになるとわかるのかって……こほん、とにかく俺にはわかるんだ。",
+                "kr": "선원들의 흥분한 모습을 보니, 오늘 밤이면 창고에 둔 럼주가 다 동날 것 같군. 박사, 배 난간에 기대지 마. 취해서 바다에 빠지긴 싫을 거잖아. 음? 왜 그런 일이 생길지 아냐고……? 크흠. 어쨌든 난 알아.",
+                "cn": "看今夜船员们这兴奋的样子，估计仓库里那箱朗姆酒要存不住了。我得提醒你，博士，到时可别靠在栏杆旁，你不会想喝醉后掉进海里的。啊，你问我怎么知道......咳咳，总之我就是知道。"
+            },
+            "asset": "char_1039_thorn2/CN_038"
+        },
+        {
+            "id": "char_1039_thorn2_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Hello, Doctor. We are sailing towards the rising sun.",
+                "jp": "ああ。今は、太陽が昇るほうへと進んでいるところだ。",
+                "kr": "그래. 우린 지금 해가 뜨는 쪽으로 항해하는 중이다.",
+                "cn": "我们正朝着太阳升起的方向行进。"
+            },
+            "asset": "char_1039_thorn2/CN_042"
+        },
+        {
+            "id": "char_1039_thorn2_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Today's your birthday, Doctor? After drifting on the seas for so long, my chronometer might be a bit fuzzy, despite my best efforts to keep it calibrated. Ah, look, migrating fins swimming beneath our hull... Fascinating, isn't it? Individually distinct, yet moving in such sublime harmony.",
+                "jp": "お前の誕生日は今日で合っているか？海上で長く過ごしたせいで、時間の記録に誤差が生じているかもしれないが、できる限り正してみたんだ。ドクター、見ろ。大移動中の鱗獣の群れが船の下をくぐっていくぞ。それぞれが違う姿かたちをしているのに、集まるとこれほど美しく調和するとは、不思議なものだな。",
+                "kr": "오늘이 네 생일 맞나? 바다에서 오래 지내다 보니 시간 기록에 오차가 생겼을지도 모르겠지만, 최대한 맞춰봤다. 저길 봐, 박사. 대이동 중인 린수 떼가 배 아래로 지나가고 있어. 각기 다른 모습인데도, 모이면 이렇게나 아름다운 조화를 이루는 게, 정말 신기하지 않나?",
+                "cn": "今天是你的生日吗？在海上漂了这么久，时间记录可能会有误差，我已经尽力校准了。博士，看，迁徙的鳞群正从船下游过，真奇妙，明明每一条都不同，聚在一起却和谐得如此美妙。"
+            },
+            "asset": "char_1039_thorn2/CN_043"
+        },
+        {
+            "id": "char_1039_thorn2_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Back then, Doctor, I was still aboard YOUR ship... I once considered dropping the anchor, ending my life of wandering, to settle on Rhodes Island. But no one can stay in one place forever, and every journey has its end. What truly matters is that we have each other in this moment.",
+                "jp": "ドクター、俺がまだお前の船にいたあの頃は……放浪生活に終止符を打ち、ロドスに落ち着こうと考えたこともあったんだ。すべての旅はいつか終わるものだからな。しかし、人は一つの場所に永遠に留まり続けることなどできない。ゆえに大切なのは、今この瞬間、皆が共にあることだと思う。",
+                "kr": "박사, 내가 아직 네 배에 있었을 때는…… 방랑 생활을 끝내고 로도스 아일랜드에 정착하려고 생각했던 적도 있었다. 모든 여행은 언젠가 끝나기 마련이니까. 하지만 사람은 한 장소에 영원히 머물 수는 없어. 그렇기 때문에 중요한 건 지금 이 순간, 모두가 함께 있는 것이라고 생각한다.",
+                "cn": "博士，那时我还在你的船上......我曾想过结束流浪的生活，留在罗德岛，但人没办法永远停在一个地方的，每段旅程都有结束的那天，重要的是，大家此刻正陪伴着彼此。"
+            },
+            "asset": "char_1039_thorn2/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Javier Bañas",
+            "global": "Javier Bañas"
+        },
+        "cn": {
+            "native": "徐翔",
+            "global": "Ethan"
+        },
+        "jp": {
+            "native": "石川界人",
+            "global": "Kaito Ishikawa"
+        },
+        "kr": {
+            "native": "홍범기",
+            "global": "Hong Bum-ki"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

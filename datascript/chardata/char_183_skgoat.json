@@ -585,6 +585,22 @@
             "asset": "char_183_skgoat/CN_042"
         },
         {
+            "id": "char_183_skgoat_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday. This gemstone is for you. Very pretty, isn't it? I found it in the wilds after a Catastrophe had passed through. Does it confer good luck, you ask? Stones like these have already gone through countless arduous years of settlement and compression to become what they are. Asking it to control fate on top of that seems a bit much.",
+                "jp": "生日快乐，这块宝石送给你。是我在一处天灾过后的荒野上发现的，很漂亮吧。有没有转运的功能？这些石头经历了上万年的挤压沉积才变成现在的样子，已经很不容易了，不要再期待它有这种能力了。",
+                "kr": "생일 축하해, 이 보석을 선물로 줄게. 이건 전에 내가 재앙이 지나간 황야에서 발견한 거야. 예쁘지? 행운을 불러오는 효능 같은 건 없냐고? 이 돌은 이미 수만 년에 걸친 압력을 견뎌서 어렵게 어렵게 지금의 모습이 된 거야. 그런 능력이 있을 거라고 기대하지는 마.",
+                "cn": "生日快乐，这块宝石送给你。是我在一处天灾过后的荒野上发现的，很漂亮吧。有没有转运的功能？这些石头经历了上万年的挤压沉积才变成现在的样子，已经很不容易了，不要再期待它有这种能力了。"
+            },
+            "asset": "char_183_skgoat/CN_043"
+        },
+        {
             "id": "char_183_skgoat_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

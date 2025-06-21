@@ -585,6 +585,22 @@
             "asset": "char_196_sunbr/CN_042"
         },
         {
+            "id": "char_196_sunbr_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Afternoon, Doctor... a big crowd kept me in the kitchen late last night, I had to make cakes in all different flavors... But I got the tastiest one I made right here. Happy birthday, Doctor! Say aahh—",
+                "jp": "哈~中午好，博士......昨天晚上，古米被一群哥哥姐姐困在厨房里做了一整晚各种口味的蛋糕......哼，不过，这一份才是古米做得最美味的，生日快乐博士！啊——",
+                "kr": "후아암~ 박사 안녕…… 어젯밤엔 언니 오빠들한테 붙잡혀서 밤새도록 다양한 맛의 케이크를 만들었어…… 흐흠, 그래도 가장 맛있게 잘 만들어진 건 이거지만 말이야. 생일 축하해, 박사! 아~",
+                "cn": "哈~中午好，博士......昨天晚上，古米被一群哥哥姐姐困在厨房里做了一整晚各种口味的蛋糕......哼，不过，这一份才是古米做得最美味的，生日快乐博士！啊——"
+            },
+            "asset": "char_196_sunbr/CN_043"
+        },
+        {
             "id": "char_196_sunbr_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

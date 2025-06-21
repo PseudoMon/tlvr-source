@@ -585,6 +585,22 @@
             "asset": "char_187_ccheal/CN_042"
         },
         {
+            "id": "char_187_ccheal_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday to you, Doctor. Speaking of, I oughta give you a little present... Let's take this opportunity to give you a full, thorough physical exam!",
+                "jp": "生日快乐啊博士。说起来，我是不是也该有点表示啊......对了！要不就趁此机会，给博士做一次全套深入体检吧！",
+                "kr": "생일 축하해, 박사. 그러고 보니, 나도 뭘 좀 준비했어야 하는 거 아닌가…… 맞다! 이참에, 박사한테 건강검진 풀세트를 해주는 것도 좋겠어!",
+                "cn": "生日快乐啊博士。说起来，我是不是也该有点表示啊......对了！要不就趁此机会，给博士做一次全套深入体检吧！"
+            },
+            "asset": "char_187_ccheal/CN_043"
+        },
+        {
             "id": "char_187_ccheal_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

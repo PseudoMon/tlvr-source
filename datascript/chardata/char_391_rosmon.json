@@ -561,7 +561,7 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "TBU",
+                "en": "I don't remember how I used to spend New Year's very well. I think I had brothers, and we would set off fireworks in the yard, but I also wonder... Were they real? The people on Rhodes Island… are the only ones I have left. Please don't leave me. Not ever.",
                 "jp": "昔は新年をどうやって過ごしてたか、もうほとんど思い出せない。だけどなんとなく、私にもお兄ちゃんや弟がいて、一緒に庭で花火をしてたような気がする。でもそれって……本当にあったことなのかな？私にはもう、ロドスのみんなしかいないの。だから……私の前から、いなくならないで。",
                 "kr": "예전에는 새해를 어떻게 보냈는지 이젠 거의 기억나지 않아. 왠지 나에게 오빠랑 동생이 있어서, 정원에서 함께 불꽃놀이를 했던 것 같은데…… 또 한편으로는 이 기억이 거짓된 건 아닐까 하는 생각이 들어. 내게는 이제 로도스 아일랜드 사람들뿐이야. 그러니까…… 날 떠나지 말아 줘.",
                 "cn": "我已经不太想得起以前的新年是怎么过的了。我总觉得我有过哥哥和弟弟，我们在院子里放烟花，但又总是在想......他们是真的吗？我只有罗德岛的大家了。不要，不要离开我。"
@@ -585,6 +585,22 @@
             "asset": "char_391_rosmon/CN_042"
         },
         {
+            "id": "char_391_rosmon_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, I remember your birthday now. It's always been on my terminal. This is a really, really good day, right? I don't know why we celebrate the days we were born... But just hearing the word, make me feel life and warmth. Doctor, do you want to blow out the candles? Candles are warm, too.",
+                "jp": "博士，你的生日，我记住了，一直记在我的终端上。这是很好很好的日子吧？虽然不明白为什么出生值得庆祝......但听到这个词，我还是能感觉到温暖。博士，你要吹蜡烛吗？蜡烛也很温暖。",
+                "kr": "박사의 생일, 기억했어. 오래전부터 단말기에 기록해 뒀거든. 생일은 정말 행복한 날인 거지? 태어난 걸 왜 축하하는 건지 잘 이해는 못 하겠지만…… 그래도 이 단어를 들으면 왠지 따뜻해. 박사, 촛불 불어서 끄는 거 하고 싶어? 촛불도 엄청 따뜻해.",
+                "cn": "博士，你的生日，我记住了，一直记在我的终端上。这是很好很好的日子吧？虽然不明白为什么出生值得庆祝......但听到这个词，我还是能感觉到温暖。博士，你要吹蜡烛吗？蜡烛也很温暖。"
+            },
+            "asset": "char_391_rosmon/CN_043"
+        },
+        {
             "id": "char_391_rosmon_CN_044",
             "title": {
                 "en": "Anniversary Celebration",
@@ -593,7 +609,7 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "TBU",
+                "en": "Should I wear blue shoes or white shoes to the party tonight? Doctor, I don't remember what I've done this past year, but all the people I hurt were bad, right? If I haven't done anything wrong, I want to wear this new pair of white shoes.",
                 "jp": "夜のパーティーには、青い靴と白い靴、どっちを履いていけばいいかな？ドクター、私はこの一年間自分が何をしてきたのか、もう覚えてないんだ。だけど、私が傷付けたのは悪い人だけだよね？何も悪いことをしてないなら、新しく買ったこの白い靴を履きたいな。",
                 "kr": "박사, 저녁 파티에는 파란색 신발이 좋을까, 하얀색 신발이 좋을까? 지난 일 년 동안 내가 어떤 일을 했는지 이젠 기억나지 않지만, 내가 다치게 한 건 전부 나쁜 사람들이었지? 내가 잘못한 게 없다면, 나 새로 산 하얀 신발을 신고 파티에 가고 싶어.",
                 "cn": "晚会上，是穿蓝色的鞋子好，还是白色的鞋子好呢？博士，过去一年自己做了什么，我已经不记得了。但是，被我伤到的只有坏人，对吗？如果我没有做错事的话，我想穿这双新买的白色鞋子。"

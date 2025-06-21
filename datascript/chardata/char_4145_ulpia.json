@@ -585,6 +585,22 @@
             "asset": "char_4145_ulpia/CN_042"
         },
         {
+            "id": "char_4145_ulpia_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Take this. I understand that land-dwellers require a certain level of ceremony on their birthdays. Mastering the notes of Ægir music shouldn't take you too long. Or you could seek out the other Hunters and ask them to sing it for you... Me? I must be wary of my own voice.",
+                "jp": "持っていけ。陸の連中が記念日を重んじることは理解している。エーギルの楽譜も、お前であれば読み解くのにそれほど時間はかからんだろう。あるいは、ハンターたちに見せれば歌ってくれるだろうが……俺？生憎、自分の歌声に対する警戒を解くわけにはいかんのでな。",
+                "kr": "가져가도록. 나도 육지 사람들이 의식을 중요하게 여기는 건 잘 알고 있다. 너라면 에기르의 악보를 해석하는 데 그렇게 오랜 시간이 걸리진 않겠지. 아니면 헌터들을 찾아가라. 그녀들이 너에게 노래를 불러 줄 테니…… 나 말인가? 내 노랫소리에 대한 경계를 풀어서는 안 되기에, 아쉽게도 그건 안 될 것 같군.",
+                "cn": "拿去。我理解对陆地人来说，仪式感不可或缺。掌握阿戈尔的音符，对你来说应该用不了多少时间。或者你可以去找猎人们，她们会唱给你听......我？我必须警惕自己的歌声。"
+            },
+            "asset": "char_4145_ulpia/CN_043"
+        },
+        {
             "id": "char_4145_ulpia_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

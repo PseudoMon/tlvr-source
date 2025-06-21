@@ -489,6 +489,22 @@
             "asset": "char_503_rang/CN_042"
         },
         {
+            "id": "char_503_rang_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "I'm kinda too old to follow what you young'uns may want. But here's a little something I like. This scarf's made out of my favorite material, lightweight but warm. It will keep you cozy when it's cold, Doctor. Happy birthday.",
+                "jp": "老夫已经不太知道你们年轻人喜欢什么了，就送点平常自己用得好的吧。这条围巾用的是老夫最喜欢的面料，又轻又暖和，天冷了就戴上，博士，生日快乐。",
+                "kr": "요즘 젊은이들은 뭘 좋아하는지 잘 모르겠어서, 내가 평소에 자주 사용하던 물건을 선물로 주겠네. 이 스카프는 내가 가장 좋아하는 재질로 만들었다네. 아주 가볍고 따뜻하지. 날이 추워지면 잘 사용해 주게나. 생일 축하하네, 박사.",
+                "cn": "老夫已经不太知道你们年轻人喜欢什么了，就送点平常自己用得好的吧。这条围巾用的是老夫最喜欢的面料，又轻又暖和，天冷了就戴上，博士，生日快乐。"
+            },
+            "asset": "char_503_rang/CN_043"
+        },
+        {
             "id": "char_503_rang_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

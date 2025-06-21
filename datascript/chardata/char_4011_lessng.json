@@ -585,6 +585,22 @@
             "asset": "char_4011_lessng/CN_042"
         },
         {
+            "id": "char_4011_lessng_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "You can't leave yet. Other things will have to wait till later, no matter how urgent they might be. Anyway, just stay here for a bit longer... Seems like you've guessed it. Yes, we're preparing a birthday celebration for you, and I've been tasked to make sure you stay here... It's an arduous mission, but I must complete it.",
+                "jp": "……行かせられない。どれほど緊急の要件があっても後にしてくれ。とにかく、もう少しだけここにいてもらう。どうやら気付いたようだな。ああ、みんなでドクターの誕生日を祝おうってことで、俺は引き留め役を任された……難しい任務だが、失敗は許されない。",
+                "kr": "……이 앞으로는 못 지나가. 급한 일이 있다고 해도 안 돼. 뭐든 어쨌든 잠깐만 더 여기 있어 줘…… 눈치챈 모양이네. 맞아, 박사를 위해서 서프라이즈 파티를 준비 중이고, 내 역할은 박사를 여기 묶어 두는 거야…… 어려운 임무지만, 반드시 해내고 말겠어.",
+                "cn": "......您不能走，再紧急的事情也待会儿再说。反正您再等会儿。看来您已经猜到了，是的，我们要为您庆祝生日，我负责把您留住......这项任务很难，但我必须完成。"
+            },
+            "asset": "char_4011_lessng/CN_043"
+        },
+        {
             "id": "char_4011_lessng_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

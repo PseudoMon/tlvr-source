@@ -585,6 +585,22 @@
             "asset": "char_272_strong/CN_042"
         },
         {
+            "id": "char_272_strong_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "It's your birthday today, Boss. Big day. I always remember it, but I'm no good at presents... How about I make you something to eat? Whatever you want, I'll whip it up.",
+                "jp": "今天是老板的生日啊，这可是个大日子。我是一直记得的，可我不太会准备礼物......老板，我这就下厨，您想吃什么，随便点。",
+                "kr": "오늘이 대장 생일입니까? 아주 중요한 날이었네요. 앞으로 기억해 두겠슴다. 그런데 선물 준비까지는…… 대장, 지금 바로 요리 시작할 테니까 먹고 싶은 거 말만 하십쇼, 다 해드리겠슴다!",
+                "cn": "今天是老板的生日啊，这可是个大日子。我是一直记得的，可我不太会准备礼物......老板，我这就下厨，您想吃什么，随便点。"
+            },
+            "asset": "char_272_strong/CN_043"
+        },
+        {
             "id": "char_272_strong_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

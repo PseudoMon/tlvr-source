@@ -585,6 +585,22 @@
             "asset": "char_476_blkngt/CN_042"
         },
         {
+            "id": "char_476_blkngt_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "To the children of the wild, having food in your belly and a safe place to shelter's all the lucky blessings you'll ever count—no one has birthdays on their mind, and I have no idea what I should even give you. How about this? Ten favors I'll do you. Not missions from the Doctor of Rhodes Island, but things you want me to do.",
+                "jp": "对荒地的孩子来说，肚子里有吃的，有安全的藏身处就算万幸，还哪里顾得上过生日，我还真不知道要送你什么。这样吧，我可以为你做十件事，不是罗德岛的博士交代的任务，而是你想让我做的事。",
+                "kr": "황야의 아이들은 말이야, 배 곪지 않고, 숨을 곳만 있어도 운이 좋은 편이라고 할 수 있어. 음, 생일 같은 건 꿈도 꾸지 못하는 일이다 보니 뭘 선물해야 할지도 도통 모르겠네. 이렇게 하자, 내가 열 가지 일을 해 줄게. 로도스 아일랜드의 박사로서 시키는 일이 아니라, 단순히 너라는 사람이 나한테 시키고 싶은 일 말이야.",
+                "cn": "对荒地的孩子来说，肚子里有吃的，有安全的藏身处就算万幸，还哪里顾得上过生日，我还真不知道要送你什么。这样吧，我可以为你做十件事，不是罗德岛的博士交代的任务，而是你想让我做的事。"
+            },
+            "asset": "char_476_blkngt/CN_043"
+        },
+        {
             "id": "char_476_blkngt_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

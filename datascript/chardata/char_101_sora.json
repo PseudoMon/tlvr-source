@@ -585,6 +585,22 @@
             "asset": "char_101_sora/CN_042"
         },
         {
+            "id": "char_101_sora_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "A lot of fans say my singing can bring people true happiness, and I really hope they're right. Doctor, today I've got a song just for you. Happy birthday! This is for a beautiful life and a cheerful you, all year long!",
+                "jp": "有许多粉丝说，我的歌声可以给人带来幸福，如果真是这样就好了呢。博士，今天这首歌，只唱给你一个人听哦。祝你生日快乐！今年一整年都要幸福开心！",
+                "kr": "많은 팬분들이 내 노래는 사람들에게 행복을 가져다준다고 말해 줬어. 그 말이 정말이라면 얼마나 좋을까? 박사, 오늘 부르는 이 노래는 오직 박사만을 위한 거야. 생일 축하해! 올 한 해도 오늘처럼 행복이 가득하길 바랄게!",
+                "cn": "有许多粉丝说，我的歌声可以给人带来幸福，如果真是这样就好了呢。博士，今天这首歌，只唱给你一个人听哦。祝你生日快乐！今年一整年都要幸福开心！"
+            },
+            "asset": "char_101_sora/CN_043"
+        },
+        {
             "id": "char_101_sora_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

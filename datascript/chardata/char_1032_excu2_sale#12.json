@@ -585,6 +585,22 @@
             "asset": "char_1032_excu2_sale#12/CN_042"
         },
         {
+            "id": "char_1032_excu2_sale#12_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "I am about to return to Laterano. The missions assigned by the Notarial Hall clearly rate a higher priority than your birthday party. What I have done, however, is to procure this party hat for you... Is this a problem? If my understanding is correct, blue should be a suitable color for such an occasion.",
+                "jp": "まもなくラテラーノへと戻ります。あなたの誕生日会と比べても、現状公証人役場の任務の優先度が上であることは明白です。ですが一応このパーティハットをご用意しておきましたので、どうぞ……何か問題でも？認識に齟齬がなければ、青はこういったシチュエーションでも使用可能な色のはずですが。",
+                "kr": "박사님, 저는 라테라노로 복귀하려고 합니다. 지금으로선 당신의 생일 파티보다 공증소 임무의 우선순위가 더 높다는 것이 분명하니까요. 이 파티 모자를 받아주시겠습니까? 당신을 위해 준비했습니다. 무슨 문제라도…… 있는 겁니까? 제 이해가 틀리지 않았다면, 푸른색은 파티에 사용할 수 있는 색깔일 텐데요.",
+                "cn": "我即将返回拉特兰，相比你的生日聚会，如今公证所派发的任务优先级显然更高。我为你准备了这顶派对帽......有什么问题吗？理解没有偏差的话，蓝色应该可以出现在这样的场合。"
+            },
+            "asset": "char_1032_excu2_sale#12/CN_043"
+        },
+        {
             "id": "char_1032_excu2_sale#12_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

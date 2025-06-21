@@ -585,6 +585,22 @@
             "asset": "char_277_sqrrel/CN_042"
         },
         {
+            "id": "char_277_sqrrel_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Chief, this is a... a Pinenut egg waffle that I made myself. I, I, I hope you have a happy birthday! Uwbwlhbh please stop pinching my cheeks!",
+                "jp": "长官，这是......我自己做的松子羽蛋仔......祝、祝您，生日快乐！呜啊不要再捏我的脸了啦！",
+                "kr": "상관님, 이건…… 제가 만든 견과류를 넣은 와플인데…… 생…… 생신…… 축하드립니다! 아우읏 얼굴 찌그러뜨리지 말아주십시오!",
+                "cn": "长官，这是......我自己做的松子羽蛋仔......祝、祝您，生日快乐！呜啊不要再捏我的脸了啦！"
+            },
+            "asset": "char_277_sqrrel/CN_043"
+        },
+        {
             "id": "char_277_sqrrel_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

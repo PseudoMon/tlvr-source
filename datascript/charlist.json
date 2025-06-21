@@ -1131,6 +1131,19 @@
         "rating": 5
     },
     {
+        "fullid": "char_4163_rosesa",
+        "nameid": "rosesa",
+        "numberid": "4163",
+        "name": {
+            "en": "Rose Salt",
+            "jp": "ローズソルト",
+            "kr": "로즈솔트",
+            "cn": "瑰盐"
+        },
+        "nation": "iberia",
+        "rating": 5
+    },
+    {
         "fullid": "char_115_headbr",
         "nameid": "headbr",
         "numberid": "115",
@@ -2194,6 +2207,19 @@
             "cn": "温米"
         },
         "nation": "rim",
+        "rating": 5
+    },
+    {
+        "fullid": "char_4164_tecno",
+        "nameid": "tecno",
+        "numberid": "4164",
+        "name": {
+            "en": "Tecno",
+            "jp": "テクノ",
+            "kr": "테크노",
+            "cn": "特克诺"
+        },
+        "nation": "bolivar",
         "rating": 5
     },
     {
@@ -4121,6 +4147,19 @@
         "rating": 6
     },
     {
+        "fullid": "char_1039_thorn2",
+        "nameid": "thorn2",
+        "numberid": "1039",
+        "name": {
+            "en": "Thorns the Lodestar",
+            "jp": "引星ソーンズ",
+            "kr": "쏜즈 더 로드스타",
+            "cn": "引星棘刺"
+        },
+        "nation": "iberia",
+        "rating": 6
+    },
+    {
         "fullid": "char_147_shining",
         "nameid": "shining",
         "numberid": "147",
@@ -4389,6 +4428,19 @@
             "jp": "チョンユエ",
             "kr": "총웨",
             "cn": "重岳"
+        },
+        "nation": "yan",
+        "rating": 6
+    },
+    {
+        "fullid": "char_2024_chyue_cfa#1",
+        "nameid": "chyue-e2",
+        "numberid": "2024",
+        "name": {
+            "en": "Chongyue E2",
+            "jp": "チョンユエ E2",
+            "kr": "총웨 E2",
+            "cn": "重岳 E2"
         },
         "nation": "yan",
         "rating": 6

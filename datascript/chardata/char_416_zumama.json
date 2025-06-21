@@ -561,7 +561,7 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "TBU",
+                "en": "Doctor, is there a holiday today…? New Year's? We welcome in the new year…? I don't understand, we don't have this holiday in my tribe. But everyone looks happy. Can I join in? Where is Lancet-2?",
                 "jp": "ドクター、今日は何の祝いだ？……新年？新たな一年を迎える？……知らないな、私たちの部族にはない祭日だ。だが、皆とても楽しそうだな。私も参加して良いか？Lancet-2姉様はどこにいるんだ？",
                 "kr": "박사, 오늘 무슨 날이야? ……새해? 새로운 한 해를 맞이하는 날이라고? ……잘 모르겠네, 우리 부족엔 없는 기념일이라서. 근데 다들 즐거워 보이는데, 나도 참가해도 되나? Lancet-2 언니는 지금 어디 있지?",
                 "cn": "博士，今天是什么节日？......新年？迎接新的一年到来？......不懂，我们部族没有这个节日。不过，大家好像很开心的样子，我也可以参加吗？Lancet-2大姐在哪里呢？"
@@ -585,6 +585,22 @@
             "asset": "char_416_zumama/CN_042"
         },
         {
+            "id": "char_416_zumama_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "I think I've seen how you celebrate your birthdays. You make a wish and tell it to no one, in hopes that it will come true in the following year. Can I make a wish too? I can? Then, let's close our eyes… Hmmm… Oh, right, happy birthday, Doctor.",
+                "jp": "我好像之前看到过你们过生日的方式，你要许个愿，还不能告诉别人，这样它就会在接下来的一年内实现。我也可以一起许个愿吗？可以？那我们闭上眼睛吧，嗯......对了，生日快乐，博士。",
+                "kr": "너희가 생일을 어떻게 보내는지 본 적 있어. 소원을 빌고, 그 소원을 아무에게도 말하지 않으면 일 년 안에 그 소원이 이루어지는 거잖아. 그럼 나도 같이 소원을 빌어도 될까? 괜찮아? 그럼 눈을 감고, 으음…… 아참, 맞다. 생일 축하해, 박사.",
+                "cn": "我好像之前看到过你们过生日的方式，你要许个愿，还不能告诉别人，这样它就会在接下来的一年内实现。我也可以一起许个愿吗？可以？那我们闭上眼睛吧，嗯......对了，生日快乐，博士。"
+            },
+            "asset": "char_416_zumama/CN_043"
+        },
+        {
             "id": "char_416_zumama_CN_044",
             "title": {
                 "en": "Anniversary Celebration",
@@ -593,7 +609,7 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "TBU",
+                "en": "I read in a book that today is a day to show my loyalty to my boss and prove my sincerity. Doctor, I'm struggling with the concept of loyalty. This is a heart-shaped badge I designed and built myself on the Engineering lathe. Why is it heart-shaped? Doesn't that represent loyalty?",
                 "jp": "本によれば、今日は上司に忠心を示す日で、誠意が大事らしい。忠心というものをよくわかっていないのだが、ドクター、これはエンジニア部の旋盤を使って作ったハート形のバッジだ。私がデザインしたんだ。なんでハート形か？忠心なのだろ？",
                 "kr": "책에 따르면, 오늘은 상사에게 충성심을 표하는 날이자, 성의를 보여야 하는 날이라고 하던데. 박사, 난 충성심이라는 게 뭘 의미하는 건지는 잘 몰라서 그냥 이걸 만들어 봤어. 받아줘. 이건 내가 엔지니어링부의 선반을 빌려서 직접 디자인한 하트 모양 배지야. 왜 하트 모양이냐고? 충성심은 하트 아닌가?",
                 "cn": "书上说，今天需要向自己的老板表示忠心，要表示出诚意。博士，忠心这个东西我不太好把握，这个是我自己设计，用工程部的车床制造出来的心形徽章。为什么是心形？不是忠心吗？"

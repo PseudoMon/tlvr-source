@@ -585,6 +585,22 @@
             "asset": "char_423_blemsh/CN_042"
         },
         {
+            "id": "char_423_blemsh_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "I've made you all sorts of gifts, Doctor. Metal mask, swords, other things… But I guess you don't have much use for them. Why don't you choose something you'd like to display in your office? Ahahah... Sorry... I really only know how to craft knight stuff, I haven't figured out what to do for Rhodes Island.",
+                "jp": "博士，我试着给你造了不少礼物，面甲、佩剑之类的，但......好像你都用不上。要、要不你挑一件想摆在办公室里的？对不起！我熟悉的是面向骑士的工匠技术，还没想好在罗德岛要怎么用。",
+                "kr": "박사, 박사를 위해서 투구, 검 뭐 여러가지 만들어 봤는데…… 음 생각해 보니 박사는 쓸데가 없을 것 같네. 그래도 장식용으로라도 좋으니까 사무실에 걸어 놓는 건 어때? 미안, 기사 공예 쪽으론 익숙한데, 이걸 로도스 아일랜드에서는 어떻게 활용해야 할지 도통 모르겠네.",
+                "cn": "博士，我试着给你造了不少礼物，面甲、佩剑之类的，但......好像你都用不上。要、要不你挑一件想摆在办公室里的？对不起！我熟悉的是面向骑士的工匠技术，还没想好在罗德岛要怎么用。"
+            },
+            "asset": "char_423_blemsh/CN_043"
+        },
+        {
             "id": "char_423_blemsh_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

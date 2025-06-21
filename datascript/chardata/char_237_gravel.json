@@ -585,6 +585,22 @@
             "asset": "char_237_gravel/CN_042"
         },
         {
+            "id": "char_237_gravel_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "How daring of you to tear open a gift package with no sender, Doctor. With that little caution, trouble's bound to come knocking sooner or later~ Actually, rather than being on my toes all day as your bodyguard, how about I just open these up for you, hm?",
+                "jp": "博士，毫无警惕地拆开没有署名的礼物可是很危险的，这样疏于防范，可是会出事的哦~身为博士的护卫，这种日子就最应该一直守护左右呀，就让我来为你查明里面都放了些什么吧。",
+                "kr": "박사, 아무런 서명도 없는 선물을 함부로 여는 건 정말 위험한 행동이야. 이렇게 안전에 불감해서야 참, 조심하지 않으면 큰일 날 수도 있다고~ 박사의 보디가드로서, 이런 날일수록 더 꼭 붙어서 박사의 곁을 지켜야겠어. 그럼 이 안에 뭐가 들어 있는진 내가 먼저 봐볼게.",
+                "cn": "博士，毫无警惕地拆开没有署名的礼物可是很危险的，这样疏于防范，可是会出事的哦~身为博士的护卫，这种日子就最应该一直守护左右呀，就让我来为你查明里面都放了些什么吧。"
+            },
+            "asset": "char_237_gravel/CN_043"
+        },
+        {
             "id": "char_237_gravel_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

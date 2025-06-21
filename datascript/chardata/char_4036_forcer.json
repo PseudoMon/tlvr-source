@@ -585,6 +585,22 @@
             "asset": "char_4036_forcer/CN_042"
         },
         {
+            "id": "char_4036_forcer_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, happy birthday. It seems you've already gotten plenty of cakes today. So, here's my present—a mug of premium coffee. It <i>is</i> totally devoid of sugar, but if you taste carefully, you can pick out a fruity, caramel sweetness... Doctor, is something wrong? Doctor?",
+                "jp": "博士，生日快乐。您今天似乎已经收到了很多蛋糕。那么我的礼物是这一杯精品咖啡。虽然完全没有加糖，但您用心品味的话，可以从中尝出焦糖和水果的甜味......博士，您怎么了，博士？",
+                "kr": "박사님, 생일 축하드립니다. 케이크는 이미 많이 받으신 듯하니, 저의 선물은 커피에요. 설탕은 안 들어갔지만, 마음으로 음미하신다면 캐러멜과 과일의 단맛을 느낄 수 있을 겁니다…… 박사님, 괜찮으세요?",
+                "cn": "博士，生日快乐。您今天似乎已经收到了很多蛋糕。那么我的礼物是这一杯精品咖啡。虽然完全没有加糖，但您用心品味的话，可以从中尝出焦糖和水果的甜味......博士，您怎么了，博士？"
+            },
+            "asset": "char_4036_forcer/CN_043"
+        },
+        {
             "id": "char_4036_forcer_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

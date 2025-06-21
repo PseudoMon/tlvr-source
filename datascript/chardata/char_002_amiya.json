@@ -585,6 +585,22 @@
             "asset": "char_002_amiya/CN_042"
         },
         {
+            "id": "char_002_amiya_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, if you can remember even some of your past... That would make me really happy. Right, I'm still not very good at the violin, but... since you're the only one here to listen, there's a song I'd like to practice. A sort of nostalgic song.",
+                "jp": "博士，如果过去的那些记忆，您还能回想起一些的话......我真的很高兴。嗯，我的小提琴还不够熟练，但是......既然这里只有您能听到，我想试着演奏一下。一首有些怀旧的曲子。",
+                "kr": "박사님, 박사님이 과거의 기억을 조금이라도 떠올릴 수 있다면…… 정말 기쁠 것 같아요. 음, 바이올린은 아직 서툴긴 하지만…… 박사님에게만 들려드리는 거라면, 한 곡 연주하고 싶어요. 추억을 떠올릴 수 있는 곡으로요.",
+                "cn": "博士，如果过去的那些记忆，您还能回想起一些的话......我真的很高兴。嗯，我的小提琴还不够熟练，但是......既然这里只有您能听到，我想试着演奏一下。一首有些怀旧的曲子。"
+            },
+            "asset": "char_002_amiya/CN_043"
+        },
+        {
             "id": "char_002_amiya_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

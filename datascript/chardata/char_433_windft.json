@@ -585,6 +585,22 @@
             "asset": "char_433_windft/CN_042"
         },
         {
+            "id": "char_433_windft_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor~ I'm not all that good at picking, is this kind of cake your thing? C'mon, let's have another hug.",
+                "jp": "ドクター、ハッピーバースデー！センスがないかもしれませんが、このケーキは気に入ってもらえそうですか？あ、ついでにハグもしましょう。",
+                "kr": "생일 축하합니다, 박사님~ 센스가 조금 부족할지도 모르겠지만, 혹시 이런 케이크도 좋아하시나요? 내친김에 포옹이나 더 하죠.",
+                "cn": "博士生日快乐~我不太会挑，这个样子的蛋糕喜欢吗？再拥抱一下吧。"
+            },
+            "asset": "char_433_windft/CN_043"
+        },
+        {
             "id": "char_433_windft_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

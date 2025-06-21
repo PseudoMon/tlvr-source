@@ -585,6 +585,22 @@
             "asset": "char_4146_nymph/CN_042"
         },
         {
+            "id": "char_4146_nymph_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Today's your birthday, right, Doctor? So why are you still buried in these documents? Quit looking at them. Look at me... Go to the cafeteria, and have a big, hearty meal. No coming back after dinner either. Okay? That's right. Everyone deserves a break on their birthdays, even the hardest worker. Now come on, let's go.",
+                "jp": "今日はドクターのお誕生日でしょ。なんでまだそんな書類に頭ひねってるの？そんなものより、あたしを見て……今すぐ食堂に行って、お腹いーっぱい食べなさい。食べ終わっても戻ってきちゃダメよ。わかった？……よーし。お誕生日くらい肩の荷を下ろさないとね。じゃあ行こっ。",
+                "kr": "오늘 박사의 생일이지? 그런데 왜 아직도 그런 서류에 머리를 싸매고 있어? 이제 서류는 그만 보고 나 좀 봐봐…… 지금 당장 식당으로 가서 배불리 먹어. 다 먹고 나서도 절대 여기로 돌아오면 안 된다. 알겠지? ……좋아. 생일만큼은 어깨 위의 짐을 내려놔야지. 어서 가.",
+                "cn": "今天是您的生日吧，博士，怎么还在头疼这些文书呢？别看了，看着我......现在，去食堂，吃顿大餐，吃完以后不许回这里，好吗？......对啦，生日就得把担子卸下来嘛，走吧。"
+            },
+            "asset": "char_4146_nymph/CN_043"
+        },
+        {
             "id": "char_4146_nymph_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

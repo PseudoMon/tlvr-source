@@ -585,6 +585,22 @@
             "asset": "char_326_glacus/CN_042"
         },
         {
+            "id": "char_326_glacus_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, happy birthday. I have a compass here from my collection. It's for you. Technology keeps marching on, but some stuff still keeps a classic form factor. Isn't that wonderful...? Oh, sorry, I got a little off-track. Anyway, may you never lose your way, on your forward course.",
+                "jp": "博士，生日快乐。这个指南针是我的收藏，送给您。科技不断进步，可有些老旧的东西却一直保持着最初的形态，是不是很神奇呢？好像说得有些远了......祝您在前行的道路上，不会迷失方向。",
+                "kr": "박사님, 생일 축하드려요! 이 나침반은 제 수집품인데요, 박사님께 드릴게요. 과학은 끊임없이 발전해 나가는데, 나침반처럼 이렇게 아주 오래전부터 존재해온 것들은 아직도 가장 초기의 형태를 유지하고 있다는 게 신기하지 않나요? 아, 너무 멀리 나간 것 같네요…… 박사님, 앞으로 나아가는 길에서 방향을 잃지 않으시길 바랄게요.",
+                "cn": "博士，生日快乐。这个指南针是我的收藏，送给您。科技不断进步，可有些老旧的东西却一直保持着最初的形态，是不是很神奇呢？好像说得有些远了......祝您在前行的道路上，不会迷失方向。"
+            },
+            "asset": "char_326_glacus/CN_043"
+        },
+        {
             "id": "char_326_glacus_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

@@ -557,14 +557,12 @@
             "title": {
                 "en": "New Year's blessing",
                 "jp": "新年",
-                "kr": "새해",
-                "cn": "新年祝福"
+                "kr": "새해"
             },
             "text": {
                 "en": "You want to dance with the Gemini? Interesting. But no.",
                 "jp": "バーチャルコピーとダンスがしたいって？ 面白い発想だけど、残念ながら不可能ね。",
-                "kr": "제미니랑 춤을 춰 보고 싶다고? 흥미로운 생각이지만, 아쉽게도 안 돼.",
-                "cn": "想和双子分身跳支舞？有趣的想法，可惜不行。"
+                "kr": "제미니랑 춤을 춰 보고 싶다고? 흥미로운 생각이지만, 아쉽게도 안 돼."
             },
             "asset": "char_4124_iana/CN_038"
         },
@@ -585,18 +583,30 @@
             "asset": "char_4124_iana/CN_042"
         },
         {
+            "id": "char_4124_iana_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor. Take a break today.",
+                "jp": "お誕生日おめでとう、ドクター。今日はゆっくり休みなさい。",
+                "kr": "생일 축하해, 박사. 오늘은 느긋하게 쉬어."
+            },
+            "asset": "char_4124_iana/CN_043"
+        },
+        {
             "id": "char_4124_iana_CN_044",
             "title": {
                 "en": "Anniversary Celebration",
                 "jp": "周年",
-                "kr": "애니버서리",
-                "cn": "周年庆典"
+                "kr": "애니버서리"
             },
             "text": {
                 "en": "I have a lot of respect for the patients on Rhodes Island. They face bigger challenges than me, but they've never given up.",
                 "jp": "ロドスにいる患者さんたちは本当にすごいと思うわ。私よりもよっぽど辛いでしょうに、決して諦めたりしないもの。",
-                "kr": "로도스 아일랜드의 환자들은 존경스럽지. 나보다 더 큰 어려움을 겪고 있으면서도 굴하지 않으니까 말이야.",
-                "cn": "我尊敬罗德岛上的病患们。他们面对的阻力比我更大，但他们从不屈服。"
+                "kr": "로도스 아일랜드의 환자들은 존경스럽지. 나보다 더 큰 어려움을 겪고 있으면서도 굴하지 않으니까 말이야."
             },
             "asset": "char_4124_iana/CN_044"
         }

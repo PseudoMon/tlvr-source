@@ -585,6 +585,22 @@
             "asset": "char_133_mm/CN_042"
         },
         {
+            "id": "char_133_mm_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Shh, shhh—not a word, hear me out first! I'll bet you anything it's your birthday today, isn't it? You see, I didn't seek ANY verbal testimony, not when I could simply let the available clues inform my mental deductions! By the way, I also happened to deduce this is a present you'll love—doughnuts!",
+                "jp": "欸欸！——不要说不要说，先听听我的！今天一定是博士的生日对不对？我专门什么都没有问，从各种线索里推理出来的！以及，这也是我推理出的博士一定会喜欢的礼物——甜甜圈！",
+                "kr": "잠깐잠깐! 말하지 말고 내 말을 먼저 들으란 것이다! 오늘은 분명 박사의 생일일 것이다, 맞지? 이건 누구한테 물어본 것이 아니라 여러 가지 단서들을 통해 추리해낸 것이다! 그리고 추리를 바탕으로, 박사가 가장 좋아할 만한 선물을 준비했다는 것이다! 그건 바로바로…… 도넛! 인 것이다!",
+                "cn": "欸欸！——不要说不要说，先听听我的！今天一定是博士的生日对不对？我专门什么都没有问，从各种线索里推理出来的！以及，这也是我推理出的博士一定会喜欢的礼物——甜甜圈！"
+            },
+            "asset": "char_133_mm/CN_043"
+        },
+        {
             "id": "char_133_mm_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

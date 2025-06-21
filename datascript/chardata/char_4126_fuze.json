@@ -557,14 +557,12 @@
             "title": {
                 "en": "New Year's blessing",
                 "jp": "新年",
-                "kr": "새해",
-                "cn": "新年祝福"
+                "kr": "새해"
             },
             "text": {
                 "en": "Tachanka and I are hitting the bar tonight. Coming?",
                 "jp": "今晩Tachankaと一杯やるんだが、あんたもどうだ？",
-                "kr": "Tachanka랑 오늘 밤에 몇 잔 하기로 했는데, 함께하겠나?",
-                "cn": "我和战车打算今晚一起喝几杯，你来吗？"
+                "kr": "Tachanka랑 오늘 밤에 몇 잔 하기로 했는데, 함께하겠나?"
             },
             "asset": "char_4126_fuze/CN_038"
         },
@@ -585,18 +583,30 @@
             "asset": "char_4126_fuze/CN_042"
         },
         {
+            "id": "char_4126_fuze_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor... It's nothing, just a metal trinket. I made it myself.",
+                "jp": "誕生日おめでとう、ドクター……いや、大したものじゃない。単なる鉄のおもちゃさ。俺の手作りだ。",
+                "kr": "생일 축하한다, 박사…… 별거 아니고, 쇳조각으로 만든 장난감인데, 내가 직접 만들었다."
+            },
+            "asset": "char_4126_fuze/CN_043"
+        },
+        {
             "id": "char_4126_fuze_CN_044",
             "title": {
                 "en": "Anniversary Celebration",
                 "jp": "周年",
-                "kr": "애니버서리",
-                "cn": "周年庆典"
+                "kr": "애니버서리"
             },
             "text": {
                 "en": "I can find a sense of belonging here. It's wonderful.",
                 "jp": "俺はここに居場所を見つけることができた。素晴らしいことだ。",
-                "kr": "여기선 소속감을 조금 찾을 수 있었다, 아주 좋군.",
-                "cn": "我能在这里找到一些归属感，这很好。"
+                "kr": "여기선 소속감을 조금 찾을 수 있었다, 아주 좋군."
             },
             "asset": "char_4126_fuze/CN_044"
         }

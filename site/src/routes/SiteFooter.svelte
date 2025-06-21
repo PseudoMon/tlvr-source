@@ -5,7 +5,7 @@
 <footer>
   <a href="https://github.com/PseudoMon/tlvr-source" target="_blank"><GithubIcon /></a>
   <span>Site version 1.4</span>
-  <span>Data last updated: 2025-04-27 (I Portatori dei Velluti on Global)</span>
+  <span>Data last updated: 2025-06-21 (Exodus from the Pale Sea on Global)</span>
 </footer>
 
 <style>

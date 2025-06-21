@@ -585,6 +585,22 @@
             "asset": "char_215_mantic/CN_042"
         },
         {
+            "id": "char_215_mantic_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "I'll just put the present on the table and leave... Doctor, happy birthday... Eek! Did-did you notice me...? Um, Happy birthday to you... Doctor.",
+                "jp": "把礼物放在桌子上，然后就离开吧......博士，生日快乐......呀！您、您注意到我了吗......博士，祝您生日快乐。",
+                "kr": "책상에 선물만 놓고 바로 나가야지…… 박사, 생일 축하해…… 앗! 바, 박사 내가 온 거, 알고 있었구나…… 생일 축하해, 박사.",
+                "cn": "把礼物放在桌子上，然后就离开吧......博士，生日快乐......呀！您、您注意到我了吗......博士，祝您生日快乐。"
+            },
+            "asset": "char_215_mantic/CN_043"
+        },
+        {
             "id": "char_215_mantic_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

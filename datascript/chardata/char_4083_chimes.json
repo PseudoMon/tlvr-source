@@ -585,6 +585,22 @@
             "asset": "char_4083_chimes/CN_042"
         },
         {
+            "id": "char_4083_chimes_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor. This bowl of chang shou mian is a recipe from my hometown, just drizzle them with some scallion oil, and add some stir-fry... simple to make, but lingers on the tongue. Did you like it? I'm glad. Here's to your good health for another year.",
+                "jp": "ドクター、お誕生日おめでとうございます。こちらの「長寿麺」を味わってみてください。私の故郷のレシピなんですが、少量のネギ油と、炒め物で仕上げています。簡素ですが、鼻を抜ける香ばしさがたまりませんよ。……お口に合いましたか？よかった。新たな一年も、ご健康とご多幸をお祈りします。",
+                "kr": "생일 축하드려요, 박사님. 이 장수면 한번 드셔 보세요. 제 고향의 조리법대로 만든 건데, 볶은 고명을 얹고 파기름을 넣어서 마무리해요…… 만드는 법은 간단해도 고소함은 오래간답니다. 박사님 입맛에 맞으신가요? 다행이네요. 올 한 해도 건강하고 행복하시길 바랄게요.",
+                "cn": "博士，生日快乐。尝尝这碗长寿面吧。这是我老家的做法，只是淋了一点葱油，再加一点炒料......做法很简单，但香味很绵长。还合您的口味吗？太好了。祝您新的一年里也能平安健康。"
+            },
+            "asset": "char_4083_chimes/CN_043"
+        },
+        {
             "id": "char_4083_chimes_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

@@ -553,6 +553,22 @@
             "asset": "char_192_falco/CN_042"
         },
         {
+            "id": "char_192_falco_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "So today is your birthday, Doctor? Alright, happy birthday! I promise I'll see my guard duty through more vigilantly. Uh, I mean, if you're going to hold a birthday get-together like the Laterans do, then I'll ensure your safety, and take responsibility for the aftermath.",
+                "jp": "原来今天是博士的生日啊，嗯，我一定会更认真地完成护卫的工作的。啊，我是说，如果您也想举办一场拉特兰人那样的生日聚会的话，我会保护您的安全，并且负责善后的。",
+                "kr": "오늘이 박사님의 생일이셨군요. 그럼 오늘은 더 힘줘서 호위 일을 해보겠습니다. 맡겨만 주세요. 아, 그러니까 제 말은, 만약 라테라노식으로 파티를 하고 싶으시다면, 박사님의 안전은 제가 보장하고, 뒤처리도 제가 맡아서 하겠다는 의미였어요.",
+                "cn": "原来今天是博士的生日啊，嗯，我一定会更认真地完成护卫的工作的。啊，我是说，如果您也想举办一场拉特兰人那样的生日聚会的话，我会保护您的安全，并且负责善后的。"
+            },
+            "asset": "char_192_falco/CN_043"
+        },
+        {
             "id": "char_192_falco_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

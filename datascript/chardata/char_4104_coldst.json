@@ -585,6 +585,22 @@
             "asset": "char_4104_coldst/CN_042"
         },
         {
+            "id": "char_4104_coldst_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Remember the bet I told you about? That's your birthday present, if you're down for it. But in the meantime... enjoy this glass of 'Wild Sunrise'. Happy birthday, Doctor.",
+                "jp": "前に話した賭けのことを覚えてる？いつかイエスって返事がもらえたら、それが誕生日へのプレゼントよ。で今なんだけど……ひとまずこの「ウィルダネス・サンライズ」を飲みましょうか。ハッピーバースデー、ドクター。",
+                "kr": "저번에 얘기했던 내기, 기억나? 당신의 대답이 오케이라면 그게 당신 생일 선물이 될 거야. 지금은 말이지…… 우선 이 '와일드 선라이즈'부터 한잔해. 생일 축하해, 박사.",
+                "cn": "记得我之前跟你说的打赌的事吗？等你答应我，它就是你的生日礼物了。至于现在......就先喝了这杯“荒野日出”吧。生日快乐，博士。"
+            },
+            "asset": "char_4104_coldst/CN_043"
+        },
+        {
             "id": "char_4104_coldst_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

@@ -585,6 +585,22 @@
             "asset": "char_4027_heyak/CN_042"
         },
         {
+            "id": "char_4027_heyak_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor! Me? My people don't get many chances to celebrate birthdays, our lifespan being short as it is. I just didn't want to pass on this cursed knowledge. Do I still have time to change things? Ha, look at me, getting drunk on your birthday.",
+                "jp": "お誕生日おめでとう、ドクター。――私？んー、私たちの一族は寿命が短いから、誕生日を祝う機会はそもそも多くないのよね。でも、この呪いみたいな知識を受け継がせ続けるのはイヤだし、何かを変えるのにまだ間に合えばいいんだけど……ふふ、あなたの誕生日なのに、私が酔っちゃうなんてね。",
+                "kr": "생일 축하해, 박사. 나? 우리 종족은 수명이 짧아서, 애초에 생일을 축하받을 기회가 많지 않아. 나도 이런 저주 같은 지식들을 계속 전수하는 건 싫지만, 이제 와서 무언가를 바꾸기엔 너무 늦은 건 아닐까…… 후후, 당신의 생일인데 내가 취해버렸네.",
+                "cn": "博士，生日快乐。我？种族的寿命极短，我本来就没几个生日可过，我只是不想将这些像诅咒一样的知识继续传承下去，我还来得及改变什么吗......哈，你的生日，我却喝醉了。"
+            },
+            "asset": "char_4027_heyak/CN_043"
+        },
+        {
             "id": "char_4027_heyak_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

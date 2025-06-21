@@ -585,6 +585,22 @@
             "asset": "char_4071_peper/CN_042"
         },
         {
+            "id": "char_4071_peper_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Hey Doctor, guess what day it is? …You don't remember? It's your birthday! How could you forget your own birthday! Huh? You were pulling my leg? And you know I've prepared a present...? What?!",
+                "jp": "今日は何の日なんだって？はぁ？何忘れてるんすか！ドクターの誕生日っすよ！自分の誕生日も忘れてどーすんの！……え、今のウソ？うちがプレゼントを用意してるのも知ってるって……えぇ！？",
+                "kr": "오늘이 무슨 날이냐고요? 하? 진짜 모르겠어요? 박사의 생일이잖아요! 자기 생일을 잊어버리는 사람이 어딨어요! ……엥, 거짓말이라고요? 제가 선물을 준비한 것도 알고 있다고요? ……에엣?!",
+                "cn": "今天是什么日子？哈？博士你怎么可以不记得！今天可是你的生日欸！怎么可以把自己的生日忘掉！......欸，刚刚是骗我的？你还知道我替你准备了礼物？......欸？！"
+            },
+            "asset": "char_4071_peper/CN_043"
+        },
+        {
             "id": "char_4071_peper_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

@@ -585,6 +585,22 @@
             "asset": "char_464_cement/CN_042"
         },
         {
+            "id": "char_464_cement_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor! Are you free today? The construction team just took on a new mining project, and the groundbreaking ceremony's today. Everyone would be so happy to see you there... Why don't I buy you lunch afterwards?",
+                "jp": "お誕生日おめでとう、ドクターちゃん！今日は時間あるかな？うちの建設隊で採掘場の新しい工事を請け負ってね、今日の午後に着工のテープカット式なんだ。ドクターちゃんが現場に来てくれたら、きっとみんな喜ぶよ……終わったらあたしがご飯をおごっちゃうから。どう？",
+                "kr": "생일 축하해, 박사! 오늘 시간 있어? 우리 공사팀이 새로운 광산 프로젝트를 받아서, 오후에 착공식이랑 테이프 커팅식을 진행할 예정이거든. 박사가 현장에 와주면 분명 다들 좋아해 줄 거야…… 끝나면 밥 사 줄 테니까, 어때?",
+                "cn": "生日快乐，博士！今天有空吗？工程队又接了一个新的矿场项目，下午开工剪彩，要是你能到场的话，大家一定很开心......结束后我请你吃饭怎么样？"
+            },
+            "asset": "char_464_cement/CN_043"
+        },
+        {
             "id": "char_464_cement_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

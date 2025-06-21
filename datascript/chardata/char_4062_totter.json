@@ -585,6 +585,22 @@
             "asset": "char_4062_totter/CN_042"
         },
         {
+            "id": "char_4062_totter_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor. I picked this out for you from my own collection. I hope you like it... Okay, stop giving me that look. Is it so strange for someone who likes snow to collect snow globes as a hobby?",
+                "jp": "ドクター、お誕生日おめでとう。自分のコレクションから贈り物を選んでみたんだが、気に入ってくれると嬉しい……いや、その、そんな目で見ないでくれ。雪を好む者がスノードームを集めるのは別に普通のことだろう。",
+                "kr": "생일 축하한다, 박사. 내 컬렉션 중에서 하나 골라 봤는데 마음에 들었으면 좋겠군…… 아니, 그런 눈으로 바라보는 건 그만둬 줬으면 좋겠는데. 눈을 좋아하는 사람이 스노우볼을 수집하는 게 이상한 건 아니잖아.",
+                "cn": "生日快乐，博士，我从自己的收藏中选了一样送给你，希望你能喜欢......好了，别这么看我，喜欢雪的人热爱收藏雪花球很奇怪吗？"
+            },
+            "asset": "char_4062_totter/CN_043"
+        },
+        {
             "id": "char_4062_totter_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

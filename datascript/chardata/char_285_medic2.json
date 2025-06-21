@@ -521,6 +521,22 @@
             "asset": "char_285_medic2/CN_042"
         },
         {
+            "id": "char_285_medic2_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, happy birthday. I'm so happy I can share this celebration with you. But my database's statistics suggest that human life expectancy far exceeds the lifetime usage of smart operation platforms. I don't know how many more birthdays... I will be able to spend with you...",
+                "jp": "博士，生日快乐。很开心能与您共同庆祝生日。但是资料库统计结果显示，人类平均寿命远远超过智能工作平台使用年限。不知道我还能陪您度过多少个生日呢......",
+                "kr": "생일 축하드려요, 박사님. 박사님의 생일을 함께 축하할 수 있어서 정말 기뻐요. 하지만 데이터베이스 검색 결과에 따르면, 인류의 평균 수명은 인공지능 작업용 플랫폼의 수명보다 훨씬 길다고 합니다. 저는 앞으로 몇 번이나 더 박사님의 생일을 함께할 수 있을까요……",
+                "cn": "博士，生日快乐。很开心能与您共同庆祝生日。但是资料库统计结果显示，人类平均寿命远远超过智能工作平台使用年限。不知道我还能陪您度过多少个生日呢......"
+            },
+            "asset": "char_285_medic2/CN_043"
+        },
+        {
             "id": "char_285_medic2_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

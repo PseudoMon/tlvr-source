@@ -585,6 +585,22 @@
             "asset": "char_243_waaifu/CN_042"
         },
         {
+            "id": "char_243_waaifu_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, happy birthday to you! Please, take this present. It's a wooden dummy. 'When seeking the way, the greatest fear is to have no master nor opponent,' so to us who wish to be martial artists, it's both an opponent and a master. Alright, let me teach you how to train with it!",
+                "jp": "博士，祝您生日快乐！请收下我的礼物。这个叫木人桩，“问道之路，最忌无师无对手”，对于习武之人来说，它既是对手，也是老师。那么，就让我来教博士该怎样练习吧！",
+                "kr": "생일 축하드려요, 박사님! 여기 제 선물을 받아 주세요! 이건 '목인장'이라는 물건이에요. “도를 추구하는 자에게 가장 두려운 것은 스승과 상대가 존재하지 않는 것일지니”라는 말이 있죠. 무예를 갈고닦는 사람에겐 바로 이 목인장이 상대이자 스승이나 다름없어요. 그럼 박사님, 제가 사용법을 알려드릴게요!",
+                "cn": "博士，祝您生日快乐！请收下我的礼物。这个叫木人桩，“问道之路，最忌无师无对手”，对于习武之人来说，它既是对手，也是老师。那么，就让我来教博士该怎样练习吧！"
+            },
+            "asset": "char_243_waaifu/CN_043"
+        },
+        {
             "id": "char_243_waaifu_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

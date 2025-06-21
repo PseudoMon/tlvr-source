@@ -585,6 +585,22 @@
             "asset": "char_173_slchan/CN_042"
         },
         {
+            "id": "char_173_slchan_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, happy birthday! Speaking of which, lemme have a look at what my brother gave you! Aww... he's still into this pricey boring ornament stuff. Zero times as practical as my present. Anyway, check this out, Doctor! A choice set of climbing equipment, just for you. Once the weather's good, let's go scale some mountains!",
+                "jp": "博士，生日快乐！对了！快让我看看，老哥给你送了什么？啊，老哥还是喜欢这种又贵又没意思的摆件啊。一点都不如我的礼物实在。这套精选登山装备送给你。等天气好的时候，我们一起去爬山吧！",
+                "kr": "박사, 생일 축하해! 아참! 오빠는 뭐 선물했어? 빨리 보여 줘! 아, 역시 오빠는 비싸기만 하고 재미없는 장식을 좋아한단 말이야. 이것보단 내 선물이 훨씬 더 실용적일 거야. 난 고급 등산 장비 세트를 준비했거든. 날씨 좋을 때 같이 등산 가자!",
+                "cn": "博士，生日快乐！对了！快让我看看，老哥给你送了什么？啊，老哥还是喜欢这种又贵又没意思的摆件啊。一点都不如我的礼物实在。这套精选登山装备送给你。等天气好的时候，我们一起去爬山吧！"
+            },
+            "asset": "char_173_slchan/CN_043"
+        },
+        {
             "id": "char_173_slchan_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

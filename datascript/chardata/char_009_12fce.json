@@ -521,6 +521,22 @@
             "asset": "char_009_12fce/CN_042"
         },
         {
+            "id": "char_009_12fce_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, happy birthday. I'm very curious, actually. Is this your real birthday, or is it maybe a particularly significant day to you? Oh, perhaps I'm prying too much. Please, forgive me.",
+                "jp": "博士，生日快乐。我也会好奇，这是您真实的生日，还是对您而言有特殊意义的日子呢？或许我问得太多了，请不要介意。",
+                "kr": "생일 축하드립니다, 박사님. 오늘이 당신의 진짜 생일인지, 아니면 당신에게 어떤 특별한 의미를 지닌 날인지 궁금하군요. 질문이 너무 많았나요? 너무 심각하게 생각하지 않으셔도 돼요.",
+                "cn": "博士，生日快乐。我也会好奇，这是您真实的生日，还是对您而言有特殊意义的日子呢？或许我问得太多了，请不要介意。"
+            },
+            "asset": "char_009_12fce/CN_043"
+        },
+        {
             "id": "char_009_12fce_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

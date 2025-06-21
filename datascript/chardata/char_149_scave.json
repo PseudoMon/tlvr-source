@@ -585,6 +585,22 @@
             "asset": "char_149_scave/CN_042"
         },
         {
+            "id": "char_149_scave_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "I did used to take birthdays seriously... but who's out there still counting out every year they live these day...? Whatever. If you'd like, I could wish you have fun today or something.",
+                "jp": "我确实曾经把生日当一回事......不过现在，谁要一年一年认真数自己活着的日子？你喜欢的话，就祝你今天过得开心好了。",
+                "kr": "한때는 생일을 중요하게 생각했었지…… 하지만 지금은, 누가 매년 자신이 살아온 날들을 열심히 세고 싶겠어? 그래도 네가 좋아하는 날이니, 오늘은 즐겁게 보냈으면 좋겠네.",
+                "cn": "我确实曾经把生日当一回事......不过现在，谁要一年一年认真数自己活着的日子？你喜欢的话，就祝你今天过得开心好了。"
+            },
+            "asset": "char_149_scave/CN_043"
+        },
+        {
             "id": "char_149_scave_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

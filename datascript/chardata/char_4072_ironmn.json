@@ -585,6 +585,22 @@
             "asset": "char_4072_ironmn/CN_042"
         },
         {
+            "id": "char_4072_ironmn_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, help me figure out why this panel's on fire... You can't figure it out either? I'd hope not, I broke it on purpose... um, flip, I shouldn't have said that. Would've ruined the surprise they had for you if I just let you walk on past. Closure's not gonna kill me, is she?",
+                "jp": "ドクター、このパネル火吹いてんだけど見てくんない……あんたもわかんない？そりゃあ、わざとぶっ壊したからな……やべっ、口が滑った。このまま足止め失敗して、みんなが準備してるサプライズが台無しになったら、俺クロージャさんに殺されない？",
+                "kr": "박사, 이 패널에 스파크가 튀는데 뭐가 문젠지 좀 봐줄래? ……박사도 잘 모르겠다고? 그럴 수밖에 내가 일부러 부순 거니…… 이런, 말실수했다. 이대로 박사를 놓쳐서 애들이 준비하고 있던 서프라이즈를 망치기라도 하면…… 나 클로저씨한테 죽는 거 아니야?",
+                "cn": "博士，帮我看看这面板怎么在冒火......你也搞不定？那当然，我是故意弄坏......糟糕，说漏嘴了。要是就这么让你走过去，破坏了他们为你准备的惊喜，可露希尔小姐不会杀了我吧？"
+            },
+            "asset": "char_4072_ironmn/CN_043"
+        },
+        {
             "id": "char_4072_ironmn_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

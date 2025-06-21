@@ -585,6 +585,22 @@
             "asset": "char_4041_chnut/CN_042"
         },
         {
+            "id": "char_4041_chnut_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "This crystal here can soothe your mind. Try putting it on when you're feeling bad. Oh, and when you're feeling good too, sure! I took it when I left home, and it's yours now. Happy birthday, Doctor.",
+                "jp": "この水晶にはね、気持ちを落ち着かせる効果があるんだ。イライラする時に身につけるといいよ。あ、もちろん、嬉しい時につけても問題ないからね！故郷を出た時に持ってきたものなんだけど、ドクターに贈るよ。お誕生日おめでとう！",
+                "kr": "이 크리스탈은 마음을 안정시키는 효과가 있어. 기분이 나쁠 때 착용하면 좋을 거야. 앗, 물론 기분이 좋을 때도 착용해도 좋아! 고향을 떠날 때부터 가지고 있었던 건데, 선물로 줄게. 생일 축하해, 박사.",
+                "cn": "这块水晶有稳定情绪的功效，心情不好的时候可以佩戴它，啊、心情好的时候也可以戴的！是我从家里带出来的，送给你，生日快乐，博士。"
+            },
+            "asset": "char_4041_chnut/CN_043"
+        },
+        {
             "id": "char_4041_chnut_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

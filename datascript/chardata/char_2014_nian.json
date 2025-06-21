@@ -585,6 +585,22 @@
             "asset": "char_2014_nian/CN_042"
         },
         {
+            "id": "char_2014_nian_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Birthdays, huh? Yeah, heard of those. You guys know where you came from, when you got here, so you like to celebrate the day. Here, this hammer's for you. Can't lift it? Hehe, of course you can't. I like to see people live and grow, you know. If after all these years, all we've forged is weapons, without honing our people, then the weapons are just some lumps of metal too heavy to wield.",
+                "jp": "生日嘛，我知道的，你们清楚自己从何而来，又是何时到来的，还喜欢在这一天庆祝。喏，这把锤子送你。拿不起来？拿不起来就对了。我喜欢看人活着，要是锻出来的都是兵器的话，我也嫌它沉啊。",
+                "kr": "생일? 뭔지 알지. 너희는 자신이 언제 어디서 왔는지 알고 있잖아. 그리고 그날을 축하하는 걸 좋아하고. 자, 이 망치를 선물로 줄게. 응? 무거워서 못 들겠다고? 그럼 다행이네, 그게 정상이거든. 나는 사람들이 살아가는 모습을 보는 걸 좋아해. 만약 다듬어진 모든 것이 무기가 된다면, 나도 그게 무겁다고 느껴질 거야.",
+                "cn": "生日嘛，我知道的，你们清楚自己从何而来，又是何时到来的，还喜欢在这一天庆祝。喏，这把锤子送你。拿不起来？拿不起来就对了。我喜欢看人活着，要是锻出来的都是兵器的话，我也嫌它沉啊。"
+            },
+            "asset": "char_2014_nian/CN_043"
+        },
+        {
             "id": "char_2014_nian_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

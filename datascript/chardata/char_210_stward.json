@@ -521,6 +521,22 @@
             "asset": "char_210_stward/CN_042"
         },
         {
+            "id": "char_210_stward_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor! And allow me to be your personal butler today! Steward, at your service.",
+                "jp": "博士，生日快乐！今天就请让我担任您的专属管家吧！史都华德，乐意为您效劳。",
+                "kr": "박사, 생일 축하해! 오늘은 내가 박사의 전속 집사가 될게! 그럼 박사님, 무엇을 도와드릴까요, 이 스튜어드에게 말씀만 하세요.",
+                "cn": "博士，生日快乐！今天就请让我担任您的专属管家吧！史都华德，乐意为您效劳。"
+            },
+            "asset": "char_210_stward/CN_043"
+        },
+        {
             "id": "char_210_stward_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

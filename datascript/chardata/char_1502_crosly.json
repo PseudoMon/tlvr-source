@@ -195,7 +195,7 @@
             "text": {
                 "en": "Old combat records? Got anything with me in it? Come on, let's give it a try. I won't lose this time.",
                 "jp": "以前の作戦の録画？私が映っているのもあるか？それなら、もう一回だ。今度は失敗しないからな。",
-                "kr": "예전 작전 기록? 내가 찍힌 것도 있나? 흠, 한 번 더 해 보자고, 이번엔 실패하지 않을 테니까.",
+                "kr": "예전 작전기록? 내가 찍힌 것도 있나? 흠, 한 번 더 해 보자고, 이번엔 실패하지 않을 테니까.",
                 "cn": "以前的作战录像？有我的吗？来，我们再试一次，这一次，我不会失败。"
             },
             "asset": "char_1502_crosly/CN_012"
@@ -585,6 +585,22 @@
             "asset": "char_1502_crosly/CN_042"
         },
         {
+            "id": "char_1502_crosly_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "That crown on your head... It's just a prop the operators made for your birthday? Happy birthday to you then. Hehe, don't worry, I won't slay this crown.",
+                "jp": "頭に乗せているそれは……オペレーターたちが作ってくれたバースデークラウン？今日はお前の誕生日なのか？おめでとう――安心しろ。王冠を被っているからといって命は奪わないさ。",
+                "kr": "머리에 쓰고 있는 그건…… 오퍼레이터들이 만들어 준 생일 왕관이라고? 오늘이 네 생일인가? 생일 축하한다. 안심해, 그런 걸 쓰고 있다고 해서 널 죽이거나 하진 않을 테니.",
+                "cn": "你戴着的是......干员们给你做的生日王冠？今天是你的生日吗？祝你生日快乐——放心，我不会因为你戴着这个王冠就杀了你的。"
+            },
+            "asset": "char_1502_crosly/CN_043"
+        },
+        {
             "id": "char_1502_crosly_CN_044",
             "title": {
                 "en": "Anniversary Celebration",
@@ -612,7 +628,7 @@
         },
         "jp": {
             "native": "千本木彩花",
-            "global": "Sembongi Sayaka"
+            "global": "Sayaka Sembongi"
         },
         "kr": {
             "native": "이주은",

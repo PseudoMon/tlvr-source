@@ -585,6 +585,22 @@
             "asset": "char_4155_talr/CN_042"
         },
         {
+            "id": "char_4155_talr_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor! Come and try this new outfit. I based it off the measurements of your coat to make sure it would fit. Huh? I made it too small? Impossible! You must've eaten too much cake! Uhh... *Ahem* No, no, that's not an issue. I have all the tools on me right now. Let me fix it for you!",
+                "jp": "ドクター、お誕生日おめでとう！このコートを着てみてください。この前脱いでいかれたものを横に並べてこっそり作ってみたんですが、サイズが合ってるかどうか……え、小さかった？ケーキの食べすぎでは！？あ、大丈夫です、道具は全部ここにありますし、すぐに直せます！",
+                "kr": "박사님, 생일 축하드려요! 이 코트 한번 입어보실래요? 저번에 벗어 두신 옷 사이즈를 비교해서 만들어봤는데, 어떤가요? ……작다고요? 그, 그건 분명 박사님이 케이크를 너무 많이 드셔서일 거예요! 괜찮아요. 도구도 여기 다 있고, 금방 수선해 드릴게요!",
+                "cn": "生日快乐博士！来试一试这件新外套，我比着您脱下来的外套悄悄做的，看看合不合身。呃，做小了？是您蛋糕吃多了吧！没、没关系，我的工具都在这，马上就改好！"
+            },
+            "asset": "char_4155_talr/CN_043"
+        },
+        {
             "id": "char_4155_talr_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

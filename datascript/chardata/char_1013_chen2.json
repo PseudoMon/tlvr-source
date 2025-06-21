@@ -585,6 +585,22 @@
             "asset": "char_1013_chen2/CN_042"
         },
         {
+            "id": "char_1013_chen2_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "This party gets more and more impressive by the year. Last time I came, you didn't have a present pile like this. Maybe I should just keep your present for myself... Just kidding, here, take it, don't get it all mixed up with the others.",
+                "jp": "这阵势是一年比一年大了，上次我来的时候礼物还没有堆成这个样子，要不这个礼物我就自己留下了？开个玩笑，接着，给你，别放混了。",
+                "kr": "해가 지날수록 점점 더 해가는군. 저번에 왔을 땐 선물이 이 정도까지 쌓이지는 않았는데 말이야. 준비해온 선물은 그냥 다시 가져갈까? 농담이야. 자, 받아. 저기에 쌓아두지는 말고.",
+                "cn": "这阵势是一年比一年大了，上次我来的时候礼物还没有堆成这个样子，要不这个礼物我就自己留下了？开个玩笑，接着，给你，别放混了。"
+            },
+            "asset": "char_1013_chen2/CN_043"
+        },
+        {
             "id": "char_1013_chen2_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

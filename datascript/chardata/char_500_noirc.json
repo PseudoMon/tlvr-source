@@ -489,6 +489,22 @@
             "asset": "char_500_noirc/CN_042"
         },
         {
+            "id": "char_500_noirc_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Yo, Doctor! Here's a mask from my stash, straight to you! You've rocked the hood for long enough, right? You could try masking up, just for today. Think about it! And hey, if no one else is gonna say it, I will—I think you'll look cool as hell with it on.",
+                "jp": "哟，博士，这是俺的秘藏面具，送您了！兜帽戴了这么久，今天特殊，戴上面具多好！别人不说，俺是觉得您戴上去后可是真够酷的。",
+                "kr": "여어, 박사. 이건 내가 소중하게 간직하던 가면인데, 박사 줄게! 후드는 오래 써왔잖아, 오늘은 특별한 날이니까 이 가면을 쓰면 좋겠어! 딴 사람은 뭐라 할지 몰라도 난 박사가 쓰면 정말 멋있을 것 같거든.",
+                "cn": "哟，博士，这是俺的秘藏面具，送您了！兜帽戴了这么久，今天特殊，戴上面具多好！别人不说，俺是觉得您戴上去后可是真够酷的。"
+            },
+            "asset": "char_500_noirc/CN_043"
+        },
+        {
             "id": "char_500_noirc_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

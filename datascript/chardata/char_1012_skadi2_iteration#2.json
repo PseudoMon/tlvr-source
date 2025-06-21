@@ -585,6 +585,22 @@
             "asset": "char_1012_skadi2_iteration#2/CN_042"
         },
         {
+            "id": "char_1012_skadi2_iteration#2_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Normal cakes and pastries can't satisfy your hunger, can they? Maybe we could go with some new ideas. Hmm... A frosted galaxy? A chocolate mountain? Maybe a candied fruit forest? You still want human pastries...? Alright...",
+                "jp": "普通のスイーツじゃあなたの渇望は満たされないでしょうし、新しいアイデアを試してみてもいいわね。うーん……アイシングの銀河？チョコレートの山脈？それとも砂糖漬けの森？……やっぱり人間らしいスイーツがいい？……そう……",
+                "kr": "일반적인 디저트로는 당신의 갈망을 해소할 수 없으니, 새로운 걸 시도해 봐야겠어. 음…… 설탕으로 만든 은하? 초콜릿 산맥? 아니면 설탕으로 절인 숲은 어때? ……아직도 사람의 디저트가 먹고 싶은 거야? ……그래, 알겠어……",
+                "cn": "一般的糕点满足不了你的渴望吧，或许我们能挑选些新点子。唔......糖霜银河？巧克力山？还是蜜饯森林？......你仍想要人类的糕点？......那好吧......"
+            },
+            "asset": "char_1012_skadi2_iteration#2/CN_043"
+        },
+        {
             "id": "char_1012_skadi2_iteration#2_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

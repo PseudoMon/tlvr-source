@@ -585,6 +585,22 @@
             "asset": "char_4116_blkkgt/CN_042"
         },
         {
+            "id": "char_4116_blkkgt_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "I've forgotten my birthday, just as I'll soon forget my own name. But that's not important. Degenbrecher <i>is</i> my name, and if I can recall the day I took it, you can call that my birthday. But back on topic. Will you manage to open all the presents here today?",
+                "jp": "自分の名前すら忘れかけてるように、誕生日なんてもう覚えてないわ。だけど別にそれはどうだっていい。この武器――デーゲンブレヒャーが私の名前だから。これの製造日が分かるなら、その日を私の誕生日にすればいいだけだもの。それよりも、こんなプレゼントの山、あなたは一日で処理できるの？",
+                "kr": "난 내 생일을 잊었어, 이제 거의 잊은 거나 마찬가지인 내 이름처럼 말이야. 하지만 딱히 중요한 건 아니야. 이 무기, 데겐블레허가 바로 내 이름이니까. 녀석의 제조일을 알 수 있다면 그걸 내 생일로 삼아도 괜찮겠지. 그나저나 당신, 이 선물 더미들 오늘 안에 다 열어볼 수 있겠어?",
+                "cn": "我忘了我的生日，就好像我也快记不起我的名字了。这并不重要，锏就是我的名字，如果我记得它的生产日期，那也可以是我的生日。话说回来，这堆礼物，你今天拆得完吗？"
+            },
+            "asset": "char_4116_blkkgt/CN_043"
+        },
+        {
             "id": "char_4116_blkkgt_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

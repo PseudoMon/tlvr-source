@@ -585,6 +585,22 @@
             "asset": "char_1014_nearl2/CN_042"
         },
         {
+            "id": "char_1014_nearl2_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Today is your birthday—naturally I'd remember. Please, accept this handcrafted trinket. Kazimierz's products may aim to dazzle, but in all truth, it's never anything more than new packaging... You'd like a Radiant Knight souvenir figure? Please, spare me your jokes, Doctor.",
+                "jp": "今天是您的生日，我当然还记得。请收下这件小小的工艺品吧，卡西米尔的商品虽然琳琅满目，但其实只是包装在不断更换......您想要耀骑士的礼品玩偶？请不要开玩笑了，博士......",
+                "kr": "당연히, 오늘이 그대의 생일이라는 걸 기억하고 있었지. 작지만 이 공예품을 받아주겠나. 카시미어의 상품 중에 화려한 게 많다지만, 사실 겉포장만 다른 것뿐이니까…… 빛의 기사 인형을 원한다고? 농담은 그만두도록, 박사.",
+                "cn": "今天是您的生日，我当然还记得。请收下这件小小的工艺品吧，卡西米尔的商品虽然琳琅满目，但其实只是包装在不断更换......您想要耀骑士的礼品玩偶？请不要开玩笑了，博士......"
+            },
+            "asset": "char_1014_nearl2/CN_043"
+        },
+        {
             "id": "char_1014_nearl2_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

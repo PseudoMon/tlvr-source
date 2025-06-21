@@ -585,6 +585,22 @@
             "asset": "char_4139_papyrs/CN_042"
         },
         {
+            "id": "char_4139_papyrs_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Please stay still, Doctor. You could get pricked. The museum makes these brooches custom for our VIPs. If… hypothetically, you're willing to visit the museum… I could be your guide. Oh? Today? O-Of course. I took the day off, so I'm totally free.",
+                "jp": "ドクター、じっとしててくださいね、動いたら刺さっちゃうかもしれませんから。このバッジは、うちの博物館のVIPゲストの証です。もし……もしご興味があれば、わたしが専属ガイドとして館内を案内しますので……きょ、今日ですか？も、もちろん大丈夫ですよ。今日一日お休みをいただきましたから、いつでもお供できます。",
+                "kr": "움직이지 마세요, 박사님. 찔릴 수 있으니까 가만히…… 이 브로치는 저희 박물관에서 VIP들을 위해 제작한 거예요. 혹시 관심 있으시면, 나중에 저희 박물관 오셨을 때 제가 박사님의 해설사가 되어 드릴게요! 오늘이요? 조, 좋아요. 당연히 가능하죠. 오늘 저도 휴가라 하루 종일이라도 괜찮아요.",
+                "cn": "请不要动，博士，小心被扎到。这是博物馆为VIP观众定制的胸针，如果......我是说如果，您愿意来馆内走一走，我可以担任您的讲解员。就今天吗？好、好呀，我请了假，一整天都有空。"
+            },
+            "asset": "char_4139_papyrs/CN_043"
+        },
+        {
             "id": "char_4139_papyrs_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

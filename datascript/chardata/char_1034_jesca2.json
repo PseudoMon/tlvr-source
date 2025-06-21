@@ -195,7 +195,7 @@
             "text": {
                 "en": "I just dug up my old combat records, which proved to be pretty useful. Comparing my before-and-after, I at least know what mistakes I shouldn't be making again. Ugh, I really looked like a... bumbling idiot back then.",
                 "jp": "さっき昔の自分の作戦記録も出てきたんですが、これを見れば今後気をつけるべきミスを振り返ることくらいはできますので、それなりに役に立つと思います。はぁ、あの時のわたしったら、なんだか……どんくさいなぁ。",
-                "kr": "방금 제 옛날 작전 기록을 봤는데, 나름 유용한 것 같아요. 앞으로 어떤 실수를 조심해야 할지 돌아볼 수 있었거든요. 하아, 저 때의 전 다시 봐도 참…… 바보 같았네요.",
+                "kr": "방금 제 옛날 작전기록을 봤는데, 나름 유용한 것 같아요. 앞으로 어떤 실수를 조심해야 할지 돌아볼 수 있었거든요. 하아, 저 때의 전 다시 봐도 참…… 바보 같았네요.",
                 "cn": "我刚刚翻到了自己过去的作战录像，也算是有价值，对照下来，至少能知道什么错误不该再犯。唉，当时的我看着还真是......傻乎乎的。"
             },
             "asset": "char_1034_jesca2/CN_012"
@@ -583,6 +583,22 @@
                 "cn": "好久不见，博士。"
             },
             "asset": "char_1034_jesca2/CN_042"
+        },
+        {
+            "id": "char_1034_jesca2_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor. I brought you a gift from the frontier... A jar of all-natural maple syrup. Though it's not as fancy as the stuff I used to get you, it's a rare treat where I live. It's can't even buy it with money; you have to head out to the forest to collect it yourself.",
+                "jp": "お誕生日おめでとうございます、ドクター！開拓地からプレゼントを持って来たので、受け取ってください……はい、無添加のメープルシロップです。以前プレゼントしたものほど高価ではありませんが、わたしの住んでいる場所ではすごく貴重なものなんですよ。お金があってもなかなか手に入らないので、どうしてもほしい場合は森に行って採取するしかないんです。",
+                "kr": "생일 축하드려요, 박사님. 개척지에서 선물을 가져왔는데…… 천연 메이플 시럽이에요, 받아주세요. 비록 전에 박사님께 드린 것처럼 값비싼 물건은 아니지만, 제가 있던 곳에선 귀한 거라…… 돈이 있다고 살 수 있는 게 아니었거든요. 직접 숲에 가서 채집해야만 하는 물건이에요.",
+                "cn": "生日快乐，博士，我从拓荒地带了礼物给您......是一罐天然枫糖，虽然不比以前送您的东西名贵，但在我住的地方，却是紧俏的货物，有钱也很难买到，只能自己去林子里采集。"
+            },
+            "asset": "char_1034_jesca2/CN_043"
         },
         {
             "id": "char_1034_jesca2_CN_044",

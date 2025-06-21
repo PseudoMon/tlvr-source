@@ -521,6 +521,22 @@
             "asset": "char_282_catap/CN_042"
         },
         {
+            "id": "char_282_catap_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor! I guess getting old isn't something you should feel optimistic about, but it's still worth commemorating the day a new life was born. Gimme a minute, let's celebrate with something from my secret snack cache.",
+                "jp": "博士生日快乐——嗯，长大了一岁，其实不是件轻松的事吧，但是作为纪念生命诞生的日子，还是非常值得庆贺的！稍等一下，我去拿点我珍藏的零食，一起来庆祝吧。",
+                "kr": "박사 생일 축하해~ 흐음, 한 살 더 먹는 것도 마냥 쉬운 일은 아니야, 그렇지? 그래도 한 생명의 탄생을 기념하는 날이니, 축하는 필수지! 잠깐만 기다려, 내가 아끼고 아껴온 비장의 간식을 가져올 테니까 오늘은 같이 즐기는 거야!",
+                "cn": "博士生日快乐——嗯，长大了一岁，其实不是件轻松的事吧，但是作为纪念生命诞生的日子，还是非常值得庆贺的！稍等一下，我去拿点我珍藏的零食，一起来庆祝吧。"
+            },
+            "asset": "char_282_catap/CN_043"
+        },
+        {
             "id": "char_282_catap_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

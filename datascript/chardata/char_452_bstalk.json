@@ -561,7 +561,7 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "TBU",
+                "en": "Happy New Year, Doctor. For my New Year's wish, I want the Beanstalk Breeding Company to get founded this year without a hitch! If you'll do me just the tiniest favor, then I'll work even harder when I'm on the clock!",
                 "jp": "明けましておめでとう、ドクター！今年の目標はね、自分の会社をうまく立ち上げることだよ！もしドクターがちょこっと援助してくれたら、オペレーターの方ももっと頑張れるんだけどな～！",
                 "kr": "새해 복 많이 받아, 박사. 내 새해 소원은 빈스토크 육성 회사가 올해 안에 성공적으로 설립되는 거야! 박사가 이 건에 아주 조~금 도움을 준다면, 나도 일할 때 더 열심히 할 수 있을 텐데!",
                 "cn": "新年快乐哦博士。我的新年愿望是，豆苗培育公司在今年顺利成立！如果博士可以给予我一点小小的帮助的话，我工作时也会更努力的！"
@@ -585,6 +585,22 @@
             "asset": "char_452_bstalk/CN_042"
         },
         {
+            "id": "char_452_bstalk_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, happy birthday! Given our unusual friendship, I've decided to give you a very precious present. Ta-dah—a robust little metal crabling, choice selection of the Beanstalk Breeding Company! Isn't he just adorable? Shh! You can't let anyone else know, or they'll all be hounding me for their own!",
+                "jp": "博士，生日快乐！看在我们不一般的交情上，我决定送你一件珍贵的礼物。铛铛——豆苗培育公司精选健康磐蟹幼崽一只！是不是很可爱？嘘！可不能让其他人知道啦，不然大家都会来找我要的！",
+                "kr": "생일 축하해, 박사! 우리 사이의 특별하고도 깊은 정을 봐서, 귀한 선물을 준비해 봤어! 짜잔! 빈스토크 육성 회사에서 엄선한 건강한 새끼 메탈 크랩이야! 너무 사랑스럽지? 쉿! 다른 사람한텐 비밀이야! 알려지기라도 하면 다들 나한테 찾아와서 한 마리만 달라고 조를 거라고!",
+                "cn": "博士，生日快乐！看在我们不一般的交情上，我决定送你一件珍贵的礼物。铛铛——豆苗培育公司精选健康磐蟹幼崽一只！是不是很可爱？嘘！可不能让其他人知道啦，不然大家都会来找我要的！"
+            },
+            "asset": "char_452_bstalk/CN_043"
+        },
+        {
             "id": "char_452_bstalk_CN_044",
             "title": {
                 "en": "Anniversary Celebration",
@@ -593,7 +609,7 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "TBU",
+                "en": "Rhodes Island dinner parties never fail to impress! But when do we get to hold a pet show here? We can compete to see whose pets know the most tricks, or just find out who's most popular. You want them to fight? Are you crazy, Doctor?! You think way too violent!",
                 "jp": "ロドスのパーティーって相変わらず賑やかだけどさ、いつになったらペット大会をできるんだろうね？みんなのペットを集めて、お利口な子はどっちとか、単純に人気があるのはどっちとか、みたいなやつ。ペットバトル？ドクター！発想が乱暴だってば！",
                 "kr": "로도스 아일랜드 파티는 언제나 시끌벅적하네. 그건 그렇고, 언제쯤 로도스 아일랜드에서 반려동물 대회를 개최할 수 있을까? 어느 반려동물이 더 뛰어난지, 너무 복잡하면 단순하게 반려동물의 인기를 대결하는 거야. 반려동물끼리 결투? 박사! 너무 폭력적인 거 아니야?",
                 "cn": "罗德岛的宴会一如既往地热闹呢，可是什么时候能在罗德岛举办宠物大赛呢？比比谁的宠物能做到更多事，或者单纯的人气比拼这样。宠物对战？博士！你的想法太暴力啦！"

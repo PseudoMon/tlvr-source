@@ -585,6 +585,22 @@
             "asset": "char_106_franka/CN_042"
         },
         {
+            "id": "char_106_franka_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor! Here's your gift, no tricks attached. Don't forget to make your wish and make it come true! You only live once, after all.",
+                "jp": "博士，生日快乐！今天还是不捉弄您啦，这是我的礼物，请收下吧~难得的生日，一定要好好想想自己的愿望，然后尽快去实现才行。许多事情错过了，就再也没有机会了哦。",
+                "kr": "생일 축하해, 박사! 오늘은 장난치지 않을게. 이건 내 선물이야, 받아줘~ 모처럼 생일인데 소원 잘 생각하고 최대한 빨리 이루라고. 한번 때를 놓치면 다시 기회가 오지 않는 일들도 많으니까 말이야.",
+                "cn": "博士，生日快乐！今天还是不捉弄您啦，这是我的礼物，请收下吧~难得的生日，一定要好好想想自己的愿望，然后尽快去实现才行。许多事情错过了，就再也没有机会了哦。"
+            },
+            "asset": "char_106_franka/CN_043"
+        },
+        {
             "id": "char_106_franka_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

@@ -585,6 +585,22 @@
             "asset": "char_494_vendla/CN_042"
         },
         {
+            "id": "char_494_vendla_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, these little florets are for you. They grow all across the outcrops and pastures of my homeland. Even when gales level them flat, all they need is a little bit of sunshine, and they'll bloom forth again with renewed vitality. Isn't that just like us Victorians? Thank you for everything you've done, and happy birthday.",
+                "jp": "ドクター様、お誕生日おめでとうございます。このお花たちを差し上げますね。故郷の山や草地によく生えているものなのですが、強風が吹いてほとんどが枯れてしまっても、ほんの少し日の光があれば蘇るんですよ。ヴィクトリア人だってきっと同じように元気になれるはずです。ドクター様も私たちのために力を尽くしてくださいましたよね。ありがとうございます。",
+                "kr": "생일 축하드려요, 박사님. 이 꽃, 선물로 드릴게요. 이건 제 고향의 산이나 들판에서 흔히 볼 수 있는 꽃이에요. 강한 바람이 불어 금방 시들어 버릴 것 같아도, 약간의 햇빛을 비추면 다시 살아난답니다. 분명 우리 빅토리아 사람들도 이 꽃처럼 다시 생기를 되찾을 거예요. 항상 저희를 위해 힘써 주셔서 감사합니다, 박사님!",
+                "cn": "这些小花送给您。它们遍布我家乡的山岩与草地，纵使狂风扫过只剩下一片狼藉，但只需要少许阳光，它们便能重新焕发生机。我们维多利亚人又何尝不是这样呢？感谢您的努力，生日快乐。"
+            },
+            "asset": "char_494_vendla/CN_043"
+        },
+        {
             "id": "char_494_vendla_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

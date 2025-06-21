@@ -585,6 +585,22 @@
             "asset": "char_185_frncat/CN_042"
         },
         {
+            "id": "char_185_frncat_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, could you accept this felt doll? I made it with the fur those kittens left behind. It was a lot of fur for a small doll, so I tried a few times to get it right. Do you recognize it, Doctor? It's you... N-No? Aw…",
+                "jp": "猫猫，猫猫们留下了很多绒毛，我收集起来做了这个毛毡小人，能看出来是博士吗？因为绒毛有很多，我也练习了很多次，博、博士看不出吗？呜......",
+                "kr": "무스가 야옹이들이 남긴 털을 모아서 이런 털 인형을 만들어봤어요. 이건 박사님인데 알아보시겠어요? 야옹이들 털이 많다 보니 저도 연습할 기회가 많았거든요. 바, 박사님인 거 모르시겠다고요? 힝……",
+                "cn": "猫猫，猫猫们留下了很多绒毛，我收集起来做了这个毛毡小人，能看出来是博士吗？因为绒毛有很多，我也练习了很多次，博、博士看不出吗？呜......"
+            },
+            "asset": "char_185_frncat/CN_043"
+        },
+        {
             "id": "char_185_frncat_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

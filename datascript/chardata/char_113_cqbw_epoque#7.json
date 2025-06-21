@@ -585,6 +585,22 @@
             "asset": "char_113_cqbw_epoque#7/CN_042"
         },
         {
+            "id": "char_113_cqbw_epoque#7_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "It's bright out, the weather's great, we just knocked out a big mission, and we'll be back at Babel for debrief by sunset. What a great day. Hey, Hoederer, what do you say to a feast?",
+                "jp": "天気も良いし、気温もちょうどいいわ。昨日は大仕事も片付いたし、今夜にでもバベルに戻って報告できるわ。なんて良い一日なのかしら。ちょっとヘドリー、今日くらいご馳走食べさせてくれたっていいでしょ？",
+                "kr": "날씨도 좋고, 온도도 딱이야. 어제는 큰 임무도 하나 끝냈고, 밤이면 바벨에 돌아가 보고도 할 수 있어. 오늘은 정말 좋은 날이네. 저기, 외드레르, 오늘정도는 맛있는 걸로 먹어도 괜찮지 않아?",
+                "cn": "阳光充足，温度正好，昨天刚完成了一个大任务，晚上就能回巴别塔报告了，今天倒是个好日子。喂，赫德雷，今天能不能吃点好的？"
+            },
+            "asset": "char_113_cqbw_epoque#7/CN_043"
+        },
+        {
             "id": "char_113_cqbw_epoque#7_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

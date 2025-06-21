@@ -585,6 +585,22 @@
             "asset": "char_449_glider/CN_042"
         },
         {
+            "id": "char_449_glider_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, happy birthday! Here's a dried berry mix as a present! I've divided it into little pouches according to your intake each day, so eating one a day will supplement all the nutrients you need. Um, Doctor, Why are you hiding them? You don't want Hibiscus to see them? Hehe, Don't worry, she's already gotten some herself!",
+                "jp": "博士生日快乐，礼物是什锦莓果干！我已经按照博士每天可以摄入的量分装了小袋，博士每天吃一袋就能补充所需的营养啦。欸，为什么要藏起来呀？怕被芙蓉医生看到？放心，她已经接受莓果干啦！",
+                "kr": "생일 축하해요, 박사님! 생일 선물로는 말린 과일 믹스를 드릴게요! 박사님께서 매일 드실 양만큼 소분해서 넣어뒀으니, 매일매일 드시면서 필요한 영양을 보충해 보세요! 앗, 왜 숨기시는 거예요? 히비스커스 선생님께 들키면 안 된다고요? 이건 괜찮아요, 히비스커스 선생님도 말린 과일은 봐주기로 하셨거든요!",
+                "cn": "博士生日快乐，礼物是什锦莓果干！我已经按照博士每天可以摄入的量分装了小袋，博士每天吃一袋就能补充所需的营养啦。欸，为什么要藏起来呀？怕被芙蓉医生看到？放心，她已经接受莓果干啦！"
+            },
+            "asset": "char_449_glider/CN_043"
+        },
+        {
             "id": "char_449_glider_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

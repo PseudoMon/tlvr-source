@@ -585,6 +585,22 @@
             "asset": "char_491_humus/CN_042"
         },
         {
+            "id": "char_491_humus_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "It's your birthday, huh...? *sigh* I didn't know, so I didn't get you anything. How about this? I'll treat you to a feast tomorrow. Whatever you want. But uh... try to not order anything too expensive.",
+                "jp": "あんた今日誕生日なのか……はぁ、そりゃ知らなかったから何も用意してねえよ。そうだな、明日メシを奢ってやるから、好きなものを食うってのはどうだ。ただ……高すぎるのは勘弁な。",
+                "kr": "오늘이 네 생일이었다니…… 하아, 몰라서 아무것도 준비 못 했어. 대신 내가 내일 맛있는 걸 사 줄 테니까, 메뉴는 네가 고르는 게 어때? 그…… 너무 비싼 건 안 고르기다……?",
+                "cn": "今天你过生日啊......唉，这个我确实不知道，我什么也没给你准备。要不这样，明天我请你去吃一顿，吃什么你定。不过......也别太贵了。"
+            },
+            "asset": "char_491_humus/CN_043"
+        },
+        {
             "id": "char_491_humus_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

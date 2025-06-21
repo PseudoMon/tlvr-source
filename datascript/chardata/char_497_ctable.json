@@ -585,6 +585,22 @@
             "asset": "char_497_ctable/CN_042"
         },
         {
+            "id": "char_497_ctable_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "So today's your birthday... I don't even remember my own. Does my record in Medical note what day I was saved? I want that day to be my birthday. Doctor, I'll spend the day with you, so when my birthday comes, would you spend it with me?",
+                "jp": "今日はドクターの誕生日だったのね……私の誕生日？記憶にないわ。私を救助した日付って、医療部の記録に残っているのかしら？その日を誕生日にしたいの。ドクター、今日はお供するから、私の誕生日の時も一緒に過ごしてくれる？",
+                "kr": "오늘이 박사의 생일이었구나…… 내 생일? 나는 내 생일이 기억나지 않아. 의료부 기록에 날 구조했던 날짜가 적혀 있지? 그럼 그날을 내 생일로 하고 싶어. 박사, 오늘은 내가 어울려 줄 테니까, 내 생일이 되면 나랑 같이 있어 줄래?",
+                "cn": "原来今天是博士的生日啊......我并不记得自己的，医疗部的档案上有记录我是哪一天得救的吗？我想把那天当成我的生日。博士，今天我陪着你，等到我的生日，你也可以来陪我吗？"
+            },
+            "asset": "char_497_ctable/CN_043"
+        },
+        {
             "id": "char_497_ctable_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

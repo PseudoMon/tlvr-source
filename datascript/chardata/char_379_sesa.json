@@ -561,7 +561,7 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "TBU",
+                "en": "A brand new year already. When will the day finally arrive that we brush with the truth... My tone's off? Right, I'm still rehearsing. Stop it, I know, I'll see you at the party soon.",
                 "jp": "新たに転生せし一年、か。真実に辿り着く日は果たしていつ……いつになったら来るのかねぇ……口調が戻ってる？ああ、まだ練習中だからな。はいはい、わかってるって。パーティには後でちゃんと行くからよ。",
                 "kr": "새로이 다시 태어난 일 년인가. 진실에 다다르는 날은 언제쯤 찾아올 것인가…… 아아, 말투가 이상하다고? 신경 쓰지 말라고, 방금 그건 연습이라는 거다. 그만 얘기해, 알았다고. 파티는 이따가 갈 테니.",
                 "cn": "已经是新的一年了，接触真相的日子何时才会到来呢......语气不对？是啊，我还在排练。别说了，我知道，等会儿我就去参加聚会。"
@@ -585,6 +585,22 @@
             "asset": "char_379_sesa/CN_042"
         },
         {
+            "id": "char_379_sesa_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Since today is your birthday, I shall gift you a secret signal. Use it, and you may request I liberate my true power... never mind, forget the secret signal. You know full well what I can actually do, don't you, Dr.{@nickname}?",
+                "jp": "既然今天是你的生日，那我就送给你一句暗号吧，用这句话，你就能要求我解放真正的力量......算了，不用暗号。Dr.{@nickname}，你其实很清楚我能做什么，对吧？",
+                "kr": "오늘이 당신 생일일 줄이야, 그럼 암호 한 마디를 선물로 주지, 나중에 이 암호로 나의 진정한 힘을 해방할 수 있을 거야…… 됐어, 암호는 필요 없어. {@nickname} 박사, 당신은 내가 뭘 할 수 있는지 잘 알잖아, 아닌가?",
+                "cn": "既然今天是你的生日，那我就送给你一句暗号吧，用这句话，你就能要求我解放真正的力量......算了，不用暗号。Dr.{@nickname}，你其实很清楚我能做什么，对吧？"
+            },
+            "asset": "char_379_sesa/CN_043"
+        },
+        {
             "id": "char_379_sesa_CN_044",
             "title": {
                 "en": "Anniversary Celebration",
@@ -593,7 +609,7 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "TBU",
+                "en": "I understand your craving, on this day of retrospection, for ancient tales from the golden sands of Sargon, and truths that belong to the future... Hey now, don't go. I truly wished to share these stories, even if I failed... Never mind. Care for some tea?",
                 "jp": "あんたの願いはよーくわかってるぜ。今日は過去を振り返る記念日ってことで、サルゴンの黄塵に覆われた太古の物語を聞いて、未来に横たわる真実を共に探求しようって算段だろ……おい逃げんなって。本気で何か話してやりたかったんだよ。まあ、ろくな話でもねぇけど……あーやめだやめだ、紅茶でもいっとくか？",
                 "kr": "당신의 갈증은 이해해. 지나간 날들을 되돌아보고 싶은 거겠지. 분명 사르곤 황사 속의 옛이야기와 미래의 진실을 알고 싶을 거야, 그렇지…… 어이, 가지 마. 방금은 진짜 박사한테 들려주고 싶었다고, 뭐 나도 말할 순 없지만…… 됐고, 홍차나 한잔하겠나?",
                 "cn": "我明白你的渴求，这是回顾过往的日子，你想听萨尔贡黄沙里的古老故事，还想探求属于未来的真相......别走啊，我刚刚是真想讲给你听的，虽然我也讲不出......算了，来杯红茶吗？"

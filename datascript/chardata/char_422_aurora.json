@@ -585,6 +585,22 @@
             "asset": "char_422_aurora/CN_042"
         },
         {
+            "id": "char_422_aurora_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, happy birthday! Sit here and wait for me one moment, okay? Shield output adjusted, and... Look! Now it's snowing inside your room! When the snowflakes melt in the palm of your hand, doesn't it feel so wonderful? I've always been wanting another chance to see the snows of Kjerag with you!",
+                "jp": "博士，生日快乐！请坐在这等我一下，盾牌功率调整完成，这样......看！您的房间里就下起雪啦！雪花在掌心里融化的感觉，很美妙吧？我一直想和您再去看一次谢拉格的雪呢！",
+                "kr": "박사, 생일 축하해! 여기 앉아서 잠깐만 기다려줘. 이렇게 방패 출력을 조절하면…… 봐봐, 눈이야! 박사 방에서도 눈 내리는 걸 볼 수 있다고! 손바닥에서 녹아내리는 눈송이의 느낌, 너무 좋지 않아? 나 전부터 생각했던 건데, 박사랑 같이 쉐라그의 눈을 보고 싶어. 같이 보러 가지 않을래?",
+                "cn": "博士，生日快乐！请坐在这等我一下，盾牌功率调整完成，这样......看！您的房间里就下起雪啦！雪花在掌心里融化的感觉，很美妙吧？我一直想和您再去看一次谢拉格的雪呢！"
+            },
+            "asset": "char_422_aurora/CN_043"
+        },
+        {
             "id": "char_422_aurora_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

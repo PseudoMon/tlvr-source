@@ -585,6 +585,22 @@
             "asset": "char_1035_wisdel/CN_042"
         },
         {
+            "id": "char_1035_wisdel_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Oi! Why are you bumbling around me all this time? Were you…expecting something? Pfff, maybe take a look under your desk? Cut the blue wire. That hint is my birthday present to you. Real thoughtful of me, right?",
+                "jp": "ねえ、ずっとこの辺をちょろちょろしてるけど、一体何を期待してるのかしら？そんな暇があったら自分の机の下を見てみたら？ちなみに切るなら青い線にしてよ？このアドバイスがあたしからの誕生日プレゼントだから。あたしって親切でしょ？",
+                "kr": "야, 자꾸 내 주변을 어슬렁거리는데, 뭘 기대하는 거야? 그러지 말고 네 테이블 밑이나 좀 볼래? 혹시 자를 거라면 거기 있는 파란색 선을 자르던가. 이게 내가 너한테 주는 생일 선물이야. 어때, 마음에 들어?",
+                "cn": "喂，在我旁边转悠了这么久，你在期待什么？要不要看看你的桌子底下？剪那根蓝色的线，这条建议就是我留给你的生日礼物，很贴心吧？"
+            },
+            "asset": "char_1035_wisdel/CN_043"
+        },
+        {
             "id": "char_1035_wisdel_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

@@ -585,6 +585,22 @@
             "asset": "char_201_moeshd/CN_042"
         },
         {
+            "id": "char_201_moeshd_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Shhh! Rise n' shine, Baws. Get'cher clothes on! We gotta move before the others wake up. Texas's got the engine runnin', and Exusiai's talkin' about a champaign buffet with all the rubber bullets we'n shoot. Relax, Baws, we know a thing or two about birthday parties.",
+                "jp": "嘘！博士，趁现在大家都还没醒，快换好衣服。德克萨斯的车已经在等着了，能天使的香槟和橡皮弹头管够。让我们去最近的城市里大闹一场吧！放心，在策划生日派对方面，我可是专业的！",
+                "kr": "쉿! 사장님, 사람들 깨기 전에 얼른 옷 갈아입어라. 텍사스 차는 이미 도착했고, 엑시아가 샴페인이랑 고무탄도 넉넉히 챙겨뒀다. 얼른 가까운 도시로 가서 한바탕하자고! 마 걱정은 고마 붙들어 매라. 생일 파티 기획하는 건 내가 프로 아이가!",
+                "cn": "嘘！博士，趁现在大家都还没醒，快换好衣服。德克萨斯的车已经在等着了，能天使的香槟和橡皮弹头管够。让我们去最近的城市里大闹一场吧！放心，在策划生日派对方面，我可是专业的！"
+            },
+            "asset": "char_201_moeshd/CN_043"
+        },
+        {
             "id": "char_201_moeshd_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

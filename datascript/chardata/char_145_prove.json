@@ -585,6 +585,22 @@
             "asset": "char_145_prove/CN_042"
         },
         {
+            "id": "char_145_prove_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "This is the kind of day to try new things, Doctor. Trust me, the memories you make on birthdays will last a lifetime. I've already looked up the weather and lay of the land, and I've got backpacks ready to go. Let's head on an adventure for a couple of days!",
+                "jp": "博士，这种日子就应该尝试一些新事物，相信我，哪怕只尝试一次，你也绝对会记得很久的！我已经查好了附近的环境和这几天的天气，背包就在这里，我带你去野外探险两天？",
+                "kr": "박사, 오늘 같은 날에는 새로운 일을 시도해 보는 게 좋아. 날 믿어 봐, 한번 시도해 봤다는 것만으로도 이 경험은 박사의 기억 속에 정말 오랫동안 남을 거야! 내가 주변 환경이랑 요 며칠 날씨를 전부 조사해 뒀거든? 가방은 여기에 준비해 뒀으니까, 우리 이틀 정도 야외 탐험 나가보지 않을래?",
+                "cn": "博士，这种日子就应该尝试一些新事物，相信我，哪怕只尝试一次，你也绝对会记得很久的！我已经查好了附近的环境和这几天的天气，背包就在这里，我带你去野外探险两天？"
+            },
+            "asset": "char_145_prove/CN_043"
+        },
+        {
             "id": "char_145_prove_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

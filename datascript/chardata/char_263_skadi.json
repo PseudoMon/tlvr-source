@@ -585,6 +585,22 @@
             "asset": "char_263_skadi/CN_042"
         },
         {
+            "id": "char_263_skadi_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Birthday...? I never considered giving you any gifts before. Are cakes and candles how you convey such sentiments on the land? You must want very much to receive a gift from me, correct? In that case, here is a song. Lie by my side, and I'll sing to you.",
+                "jp": "生日......？我还从来没有想过要送给你一些什么，蛋糕和蜡烛，这是你们表达感情的方式吗？你也很想从我这里得到礼物，是吗？那，这是一首歌，躺在我旁边，我唱给你听吧。",
+                "kr": "생일……? 그러고 보니 박사에게 무언갈 선물해야겠다고 생각해 본 적이 없었어. 케이크와 촛불, 이게 당신들이 감정을 표현하는 방식이야? 당신도 내게서 선물을 받고 싶은 거고, 그렇지? 자, 내 옆에 누워, 노래 한 곡 불러줄게.",
+                "cn": "生日......？我还从来没有想过要送给你一些什么，蛋糕和蜡烛，这是你们表达感情的方式吗？你也很想从我这里得到礼物，是吗？那，这是一首歌，躺在我旁边，我唱给你听吧。"
+            },
+            "asset": "char_263_skadi/CN_043"
+        },
+        {
             "id": "char_263_skadi_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

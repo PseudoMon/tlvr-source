@@ -585,6 +585,22 @@
             "asset": "char_496_wildmn/CN_042"
         },
         {
+            "id": "char_496_wildmn_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Here, your birthday present, you're gonna love it for sure! Last time when Sona and the rest unpacked my gifts, I could tell they were trying hard to keep a calm face just because they could barely contain their excitement inside! C'mon now, this time I wanna see YOUR reaction— Surprise! Did you guess it? A pair of lightning-patterned socks! Cool, isn't it?",
+                "jp": "来，拿着，给你准备的生日礼物，保证你喜欢！之前我送过索娜她们，虽然都装作普普通通的样子，但我知道她们都高兴得不得了。快拆开，让我看看你惊喜的表情——闪电花纹袜子！怎么样？哈哈！",
+                "kr": "자, 받아. 생일 선물, 박사 너도 분명 좋아할 거야. 전에 소나 걔들한테도 줬었는데, 겉으론 안 그런 척하면서 사실 속으론 좋아 죽던 거 나 다 안다고! 얼른 열어봐, 나한테 박사의 놀란 표정을 보여달라고~ 짜잔, 번개 무늬 양말! 어때? 하하!",
+                "cn": "来，拿着，给你准备的生日礼物，保证你喜欢！之前我送过索娜她们，虽然都装作普普通通的样子，但我知道她们都高兴得不得了。快拆开，让我看看你惊喜的表情——闪电花纹袜子！怎么样？哈哈！"
+            },
+            "asset": "char_496_wildmn/CN_043"
+        },
+        {
             "id": "char_496_wildmn_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

@@ -585,6 +585,22 @@
             "asset": "char_405_absin/CN_042"
         },
         {
+            "id": "char_405_absin_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "I don't know how you spend your birthdays, but my mother always baked this cake for me. It's my favorite, and she taught me how to make it... Back home, I never thought a day like this would come... Do you like it, Doctor?",
+                "jp": "我不太清楚博士的生日是怎么过的，以前妈妈会给我做这种蛋糕，我很喜欢，妈妈也把它的做法教给了我......我在家里从来没有想过还有这样一天......博士，好吃吗？",
+                "kr": "박사는 어떤 식으로 생일을 보내는지 잘 모르겠지만, 나는 생일날 엄마가 만들어주는 이 케이크가 너무 좋았어. 엄마가 전에 케이크 만드는 방법을 가르쳐 주셔서 한번 만들어봤어…… 집에 있을 때만 해도 이런 날이 올 줄은 정말 꿈에도 몰랐는데…… 어때 박사, 맛있어?",
+                "cn": "我不太清楚博士的生日是怎么过的，以前妈妈会给我做这种蛋糕，我很喜欢，妈妈也把它的做法教给了我......我在家里从来没有想过还有这样一天......博士，好吃吗？"
+            },
+            "asset": "char_405_absin/CN_043"
+        },
+        {
             "id": "char_405_absin_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

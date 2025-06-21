@@ -585,6 +585,22 @@
             "asset": "char_1012_skadi2/CN_042"
         },
         {
+            "id": "char_1012_skadi2_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "I can feel the joy of a life being born... but, how should I share this joy with you...? Dr.{@nickname}, don't stray too far from me. We can embrace this new life, together...",
+                "jp": "生命诞生的喜悦，我可以感受到......可是，我该如何将这份喜悦分享给您呢......Dr.{@nickname}，不要离我太远。我们可以一起，拥抱新的生命......",
+                "kr": "생명이 탄생하는 기쁨을, 나는 느낄 수 있어…… 하지만 이 기쁨을 어떻게 해야 당신과 나눌 수 있을까…… {@nickname} 박사, 내 곁에서 너무 멀어지지 마. 우리 같이, 새 생명의 온기를 느껴보자……",
+                "cn": "生命诞生的喜悦，我可以感受到......可是，我该如何将这份喜悦分享给您呢......Dr.{@nickname}，不要离我太远。我们可以一起，拥抱新的生命......"
+            },
+            "asset": "char_1012_skadi2/CN_043"
+        },
+        {
             "id": "char_1012_skadi2_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

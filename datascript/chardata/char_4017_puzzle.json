@@ -585,6 +585,22 @@
             "asset": "char_4017_puzzle/CN_042"
         },
         {
+            "id": "char_4017_puzzle_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "If the intel I've collected isn't mistaken, then nobody has ascertained your true preferences as of yet. So provisionally, I'm choosing to give you a puzzle as a gift. You want a race? No, it wouldn't be much contest.",
+                "jp": "今まで集めた情報通りであれば、どうやら貴方の本当の趣味嗜好を把握できた者はいないようですね。差し当たりプレゼントにジグソーパズルを用意させてもらいました――早解き競争？いいえ、そんなくだらないお遊びは結構です。",
+                "kr": "지금까지 모은 정보대로라면, 당신의 진짜 취미를 알아낸 사람은 아직 없더군요. 그래서 일단은 이 퍼즐을 선물로 준비했습니다. 퍼즐 빨리 맞추기 시합 말입니까? 그런 시시한 놀이는 사양하겠습니다.",
+                "cn": "如果我收集到的情报无误，至今没有人摸清过您的真实喜好。所以我姑且选了一幅拼图作为礼物。限时比赛？不了，无聊。"
+            },
+            "asset": "char_4017_puzzle/CN_043"
+        },
+        {
             "id": "char_4017_puzzle_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

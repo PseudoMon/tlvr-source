@@ -585,6 +585,22 @@
             "asset": "char_301_cutter/CN_042"
         },
         {
+            "id": "char_301_cutter_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, happy birthday. I got this cake while I was out on a field mission a week ago. I did really wanna make it myself, but I don't have the right to use the kitchen just yet... I'll keep fighting hard, so I can treat you to a cake I made myself next year.",
+                "jp": "博士，生日快乐。这个蛋糕，是一周前我出外勤任务的时候带回来的。虽然很想自己来做，但我暂时还没有获得食堂使用权......我会继续努力，争取在明年，让您吃到我亲手做的蛋糕。",
+                "kr": "박사, 생일 축하해. 이 케이크는 일주일 전에 내가 외근 임무를 나갔을 때 가져온 거야. 나도 직접 케이크를 만들어 보고 싶었지만, 아직은 주방 사용 권한이 없어서…… 나도 계속 노력해서, 내년엔 박사한테 내가 직접 만든 케이크를 선물해 줄게.",
+                "cn": "博士，生日快乐。这个蛋糕，是一周前我出外勤任务的时候带回来的。虽然很想自己来做，但我暂时还没有获得食堂使用权......我会继续努力，争取在明年，让您吃到我亲手做的蛋糕。"
+            },
+            "asset": "char_301_cutter/CN_043"
+        },
+        {
             "id": "char_301_cutter_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

@@ -585,6 +585,22 @@
             "asset": "char_478_kirara/CN_042"
         },
         {
+            "id": "char_478_kirara_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy Birthday, got you a dedicated pager. Just press this button and mine will light up. It also works vice-versa. Hehe. This way, you can reach me whenever you want a game buddy! Um, friends do this with each other, right? This is, like, a normal friend thing?",
+                "jp": "生日快乐，这个专用传呼机送给你。看，只要按下这个按钮，我手上的这台就会亮起来，我这边也是一样的。嘿嘿，想找人联机打游戏的时候就用这个叫我吧！那个，一般好朋友之间，会这样做的吧？",
+                "kr": "생일 축하해. 이건 전용 호출긴데 선물이니까 받아둬. 여기 버튼을 누르면 내 손에 있는 호출기에 알람이 뜬다? 내가 누르면 박사 호출기가 켜질 거고. 헤헤, 멀티 플레이 하고 싶으면 언제든 이걸로 나 불러줘…… 뭐, 친한 친구끼리는 이런 거 하잖아?",
+                "cn": "生日快乐，这个专用传呼机送给你。看，只要按下这个按钮，我手上的这台就会亮起来，我这边也是一样的。嘿嘿，想找人联机打游戏的时候就用这个叫我吧！那个，一般好朋友之间，会这样做的吧？"
+            },
+            "asset": "char_478_kirara/CN_043"
+        },
+        {
             "id": "char_478_kirara_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

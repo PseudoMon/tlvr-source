@@ -585,6 +585,22 @@
             "asset": "char_4102_threye/CN_042"
         },
         {
+            "id": "char_4102_threye_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "I cannot offer you my best wishes against my will. On a day like this, we would best take our own paths. May you follow your will and live on. I shall wait for you in the future I see.",
+                "jp": "心を偽って貴方を祝福はできません。このような日は、礼節に則り出会わぬように動きましょう。貴方が心のままに生き延びられますよう。私は、この眼が視た未来において貴方を待ちます。",
+                "kr": "저의 본심을 속인 채 당신을 축복할 수는 없습니다. 오늘 같은 날에는, 서로 마주치지 않게 움직이도록 하죠. 부디 당신의 뜻대로 계속 살아남기를. 저는, 제가 바라본 미래에서 당신을 기다리겠습니다.",
+                "cn": "我无法违心地为您祝福，这样的日子里，我们还是各自绕道而行吧。愿您按照自己的心意生存下去，我会在我所预见的未来等待您。"
+            },
+            "asset": "char_4102_threye/CN_043"
+        },
+        {
             "id": "char_4102_threye_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

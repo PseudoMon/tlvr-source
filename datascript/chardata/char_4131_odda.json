@@ -585,6 +585,22 @@
             "asset": "char_4131_odda/CN_042"
         },
         {
+            "id": "char_4131_odda_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor. I got some biscuits from Kazdel for you. I guess you could say they're a local specialty? We always eat them on our birthdays. Yes? You bit into something hard? Oh, it's just a tiny piece of shrapnel. Probably flew in while they were being made. It's fine, just toss that bit away and eat the rest.",
+                "jp": "誕生日おめでとうドクター。プレゼント、カズデルから持って来た焼き菓子だ。まあご当地土産ってとこだな。カズデルじゃあみんな誕生日にこれを食べるんだぞ。え、硬い物を噛んだ？ああ、弾薬の破片だな。窓から入ってきたのが生地に混ざったんだろ。それだけ吐き出せば平気さ。",
+                "kr": "박사, 생일 축하해. 이 과자는 내가 카즈델에서 가져온 선물이야. 뭐 특산품인 셈이지. 카즈델에서는 생일에 모두 이걸 먹어. 뭔가 딱딱한 걸 씹었다고? 어디 보자, 아, 탄약 파편이네. 과자 만들 때 창문으로 들어왔나 보다. 괜찮아, 그것만 뱉어내고 먹으면 돼.",
+                "cn": "博士，生日快乐，这一袋饼是我从卡兹戴尔带来的礼物，算是特产吧，当地人过生日都吃这个。您硌到牙了？哦，只是一块小小的弹片，应该是做饼的时候从窗外飞进来的，没事，丢了可以继续吃。"
+            },
+            "asset": "char_4131_odda/CN_043"
+        },
+        {
             "id": "char_4131_odda_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

@@ -585,6 +585,22 @@
             "asset": "char_242_otter/CN_042"
         },
         {
+            "id": "char_242_otter_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Your birthday present? A literal piece of cake! Here's a cake sample, complete with blueprint, recipe, and a mass-production line ready for full rollout! How's that?",
+                "jp": "哼哼，生日礼物这种小儿科的事可难不倒我！给，这是生日蛋糕的样品。连夜赶工出的图纸和配方，就连流水线我都备齐了，甚至能马上开工量产！怎么样，目瞪口呆了吧？",
+                "kr": "후훗, 생일 선물 이런 걸 내가 어려워할 리가 없지! 자, 이건 생일 케이크의 샘플이야. 밤새 작업한 도면이랑 레시피, 어셈블리 라인까지 준비되었거든. 바로 대량생산이 가능해! 어때, 놀랍지?",
+                "cn": "哼哼，生日礼物这种小儿科的事可难不倒我！给，这是生日蛋糕的样品。连夜赶工出的图纸和配方，就连流水线我都备齐了，甚至能马上开工量产！怎么样，目瞪口呆了吧？"
+            },
+            "asset": "char_242_otter/CN_043"
+        },
+        {
             "id": "char_242_otter_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

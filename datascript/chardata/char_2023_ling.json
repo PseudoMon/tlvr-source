@@ -585,6 +585,22 @@
             "asset": "char_2023_ling/CN_042"
         },
         {
+            "id": "char_2023_ling_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "A birthday? Though all life and death's abundance makes but a farcical dream... Nay, should you be free at ease within, then a toast from me to you is only becoming. You may not be the old friend that lives in dreams, but that we lock eyes and converse apiece here is no misfortune to me at all.",
+                "jp": "生日？方生方死，无非是大梦一场......但其间若是自在得意，便值得我敬你一杯。虽非故人入梦，只是我与你在此对坐畅谈，也不会觉得有什么可惜。",
+                "kr": "생일? 태어나고 죽는 것은 그저 한차례 길고 큰 꿈에 불과하나니…… 하지만 이 속에서 뜻을 이룰 수 있다면 그대를 위해 한잔하는 것 정도야 할 수 있지. 비록 옛 친구의 꿈은 아니나, 그대와 나, 여기 마주 앉아 이야기하는 것이 그저 아쉽기만 한 건 아니니까.",
+                "cn": "生日？方生方死，无非是大梦一场......但其间若是自在得意，便值得我敬你一杯。虽非故人入梦，只是我与你在此对坐畅谈，也不会觉得有什么可惜。"
+            },
+            "asset": "char_2023_ling/CN_043"
+        },
+        {
             "id": "char_2023_ling_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

@@ -585,6 +585,22 @@
             "asset": "char_2015_dusk/CN_042"
         },
         {
+            "id": "char_2015_dusk_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "What? You wanted me to celebrate your birthday? Don't think I came all the way out here just for that, I'm only getting some fresh air and happened to run into you. Oh, and here, a painting I messed up and stopped caring about, so now it's yours. What did I draw? Why don't you go look in a mirror and compare.",
+                "jp": "啊？生日还要人庆祝吗？别以为我专门找你来就是为了说这个，只是出来透透气，不巧碰到了你。哦，还有这个，画坏的东西，没兴致了，送给你了。画的是什么？你对着镜子比照一下呀。",
+                "kr": "뭐? 생일에 축하받고 싶다고? 난 생일 때문에 널 찾아온 게 아니야, 그냥 바람 쐬러 나왔다가 우연히 너와 마주쳤을 뿐이지. 아, 이건 그리다 보니 답이 안 나와서 흥미가 떨어진 그림인데, 이건 너 줄게. 뭘 그렸냐고? 거울 좀 보면서 비교해 보든지.",
+                "cn": "啊？生日还要人庆祝吗？别以为我专门找你来就是为了说这个，只是出来透透气，不巧碰到了你。哦，还有这个，画坏的东西，没兴致了，送给你了。画的是什么？你对着镜子比照一下呀。"
+            },
+            "asset": "char_2015_dusk/CN_043"
+        },
+        {
             "id": "char_2015_dusk_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

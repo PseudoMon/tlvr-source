@@ -585,6 +585,22 @@
             "asset": "char_363_toddi/CN_042"
         },
         {
+            "id": "char_363_toddi_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Oh? Birthday, then, today. How about we head deckside to celebrate? I'll give you my little siege ballista, can set off some massive fireworks? Oh, too dangerous? Tch, you sopping wet blanket. Whatever, off to the shops then, pick you out a proper present. Well? Get changed already, we're off.",
+                "jp": "哦？今天是你的生日啊。要不要把这个攻城弩借给你，去甲板上放一个超大号烟花庆祝一下？太危险了？嘁，真没劲。算了，还是去商场给你挑件正经的礼物吧。快换好衣服，我们现在就出发。",
+                "kr": "어? 오늘이 네 생일이라고. 공성 발리스타라도 빌려줄까? 갑판에 가서 초대형 폭죽을 터뜨려 네 생일을 축하하는 거지. 너무 위험하다고? 쳇, 재미없어. 됐어, 멀쩡한 선물 쥐여줄 테니까 쇼핑이나 가자. 뭐해, 옷 갈아입어. 지금 나갈 거니까.",
+                "cn": "哦？今天是你的生日啊。要不要把这个攻城弩借给你，去甲板上放一个超大号烟花庆祝一下？太危险了？嘁，真没劲。算了，还是去商场给你挑件正经的礼物吧。快换好衣服，我们现在就出发。"
+            },
+            "asset": "char_363_toddi/CN_043"
+        },
+        {
             "id": "char_363_toddi_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

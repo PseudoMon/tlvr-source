@@ -585,6 +585,22 @@
             "asset": "char_4064_mlynar/CN_042"
         },
         {
+            "id": "char_4064_mlynar_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "If you have no time to deal with work today, then I'll take my leave. A present? I used to give Maria gifts when she was little. I even once chased after bandits who had ransacked a village, for the sake of a small child's birthday wish. That said, you are not a small child.",
+                "jp": "今日は仕事の対応をする余裕がないようでしたら、お先に失礼いたします。……プレゼント、ですか？確かに、幼い頃のマリアに贈ったことはありました。ある子供の誕生日の願いを叶えるため、村を荒らした盗賊を捕まえたことも。ですが、あなたはもう子供ではないでしょう。",
+                "kr": "오늘 따로 업무를 처리할 여유가 없으신 거라면, 먼저 실례하겠습니다…… 선물 말입니까? 마리아가 어릴 적엔 저도 선물을 건넨 적이 있었죠. 한 아이가 생일에 빈 소원을 이뤄 주기 위해 마을을 약탈한 강도를 잡아낸 적도 있습니다만, 당신은 이미 아이가 아니지 않습니까.",
+                "cn": "如果你今天无暇处理工作的话，我就先告辞了......礼物？玛莉娅还小的时候，我的确送过她一些东西。我也曾为了一个孩子的生日愿望，追上了洗劫村庄的强盗。但您恐怕已经不是孩童了。"
+            },
+            "asset": "char_4064_mlynar/CN_043"
+        },
+        {
             "id": "char_4064_mlynar_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

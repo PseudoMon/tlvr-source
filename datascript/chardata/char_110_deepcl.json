@@ -585,6 +585,22 @@
             "asset": "char_110_deepcl/CN_042"
         },
         {
+            "id": "char_110_deepcl_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Here's a hand-drawn birthday card. Do you like it? Heheh. I have two birthdays myself, in a way. I achieved a new form, after accepting the gift. Here, Doctor, look—I created this color, but it is entirely yours.",
+                "jp": "这是我亲手绘制的生日贺卡哦，喜欢吗？呵呵，对我来说，生日有两个，在获得那份礼物之后，我的生命进入了一种新的状态。来，看着这里——这是由我创造的，只属于你的色彩哦，博士。",
+                "kr": "생일 카드를 그려봤는데, 마음에 들어? 후후, 사실 나에겐 두 번의 생일이 있어. 그 '선물'을 받고 나서 내 생명은 새로운 탄생을 맞이했거든. 자 이걸 봐…… 내가 만들어 낸, 박사만을 위한 색깔을.",
+                "cn": "这是我亲手绘制的生日贺卡哦，喜欢吗？呵呵，对我来说，生日有两个，在获得那份礼物之后，我的生命进入了一种新的状态。来，看着这里——这是由我创造的，只属于你的色彩哦，博士。"
+            },
+            "asset": "char_110_deepcl/CN_043"
+        },
+        {
             "id": "char_110_deepcl_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

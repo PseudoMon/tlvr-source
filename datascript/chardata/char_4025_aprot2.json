@@ -585,6 +585,22 @@
             "asset": "char_4025_aprot2/CN_042"
         },
         {
+            "id": "char_4025_aprot2_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Excellent, you are here just as I expected. Though some young operators express their affection in far too ardent ways, you'll nevertheless break their hearts should you hide away like this. And one more hint before you open the door, try to place your feet back, and find something to brace against. Yes. This way, you won't be thrown to the floor when they joyfully tackle you.",
+                "jp": "太好了，您果然在这里。虽然有些小干员表达喜爱的方式太过热情，但您这样躲着会让他们伤心的。在开门前，我还是想提醒您一下，把腿往后撤，找到一个支撑点，对，这样就不会被扑倒了。",
+                "kr": "다행이네요, 여기 계셨군요. 몇몇 어린 오퍼레이터분들의 표현 방식이 가끔은 지나칠 때도 있지만, 그래도 계속 이렇게 피하시기만 한다면 그들도 속상해할 거예요. 자, 문을 열기 전에 미리 말씀드릴게요. 다리를 뒤로 빼고, 지지할 곳을 찾아보세요. 네, 그러면 덮쳐져도 넘어지지 않을 거예요.",
+                "cn": "太好了，您果然在这里。虽然有些小干员表达喜爱的方式太过热情，但您这样躲着会让他们伤心的。在开门前，我还是想提醒您一下，把腿往后撤，找到一个支撑点，对，这样就不会被扑倒了。"
+            },
+            "asset": "char_4025_aprot2/CN_043"
+        },
+        {
             "id": "char_4025_aprot2_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

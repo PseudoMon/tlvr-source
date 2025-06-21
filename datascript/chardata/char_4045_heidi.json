@@ -585,6 +585,22 @@
             "asset": "char_4045_heidi/CN_042"
         },
         {
+            "id": "char_4045_heidi_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Do you look forward to birthdays? Even with how long ago I crossed into adulthood, birthdays for me still are a commemoration of growth and progress.",
+                "jp": "ドクターにとって、誕生日は嬉しいものですか？成人してからずいぶん経ちましたが、私にとって誕生日は未だに成長と前進を祝う一種の記念日ですね。",
+                "kr": "박사님은 생일을 기대하시나요? 성인이 된 지 한참 지난 지금도, 저에게 생일은 여전히 성장과 발전을 뜻한답니다.",
+                "cn": "你会期待生日吗？即使我已经成年这么久了，生日对我来说仍然是一种在成长与前进的纪念。"
+            },
+            "asset": "char_4045_heidi/CN_043"
+        },
+        {
             "id": "char_4045_heidi_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

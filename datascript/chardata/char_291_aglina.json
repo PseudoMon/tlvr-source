@@ -585,6 +585,22 @@
             "asset": "char_291_aglina/CN_042"
         },
         {
+            "id": "char_291_aglina_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "{@nickname}, close your eyes... Keep this a secret just between the two of us, okay? Hold my hand tight now... Do you feel floaty? Look, {@nickname}! Don't the stars seem closer?",
+                "jp": "{@nickname}，闭上眼......请把这个当作我们两个人之间的秘密。拉住我的手......感觉轻飘飘的？看，{@nickname}！星星是不是离我们更近一些了？",
+                "kr": "{@nickname}, 눈을 감아 봐…… 아, 잠깐, 이건 우리 둘만의 비밀이다? 그럼 이제 내 손을 잡아…… 어때? 몸이 가벼워진 느낌이 들어? 자, 이제 눈을 떠 {@nickname}! 별과 우리 사이의 거리가 더 가까워졌지?",
+                "cn": "{@nickname}，闭上眼......请把这个当作我们两个人之间的秘密。拉住我的手......感觉轻飘飘的？看，{@nickname}！星星是不是离我们更近一些了？"
+            },
+            "asset": "char_291_aglina/CN_043"
+        },
+        {
             "id": "char_291_aglina_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

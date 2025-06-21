@@ -585,6 +585,22 @@
             "asset": "char_154_morgan/CN_042"
         },
         {
+            "id": "char_154_morgan_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, thank you for giving us a place we can call home. Here—I ordered in a whole box of Victorian-make lollipops, a YEAR'S worth, just for you, love. Come on, try try try, see how the... soap flavor tastes first, yeah?",
+                "jp": "ドクター、吾輩たちに居場所をくれてありがとうね～。はい、これは特注したヴィクトリア名物のロリポップ。丸々ひと箱あるから、一年は余裕でもつよ！ほら食べてみて、この……ソープ味ってのはどう？",
+                "kr": "박사, 우리한테 머물 곳을 제공해 줘서 고마워. 자, 이건 내가 박사를 위해서 특별히 주문한 빅토리아 특제 막대사탕이야. 한 상자 통째로 가져왔으니까 1년은 먹을 수 있을 거야! 빨리 먹어 봐…… 이 비누 맛 사탕은 어때?",
+                "cn": "博士，谢谢你为我们提供容身之所。给，这是我为你特别订购的维多利亚特产棒棒糖，一整箱呢，够你吃一年啦！快尝尝看，就从这个......肥皂味开始怎么样？"
+            },
+            "asset": "char_154_morgan/CN_043"
+        },
+        {
             "id": "char_154_morgan_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

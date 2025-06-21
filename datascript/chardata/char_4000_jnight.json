@@ -521,6 +521,22 @@
             "asset": "char_4000_jnight/CN_042"
         },
         {
+            "id": "char_4000_jnight_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": " 'Beep-beep.' Doctor, your takeout is delivered... Yes, Justice Knight has brought you your birthday meal from the Rhodes Island Cafeteria. Scan of ingredients inside packaging: Inedible items, paraffin wax, Acid Originium Slug; edible items, butter, fermented flour. Scan results: safe.",
+                "jp": "“滴滴”，博士，您的外卖送到了......是的，这是正义号从罗德岛食堂给您拿来的生日餐。包装盒内成分检测：不可食用，石蜡，酸性源石虫；可食用，奶油，发酵面粉。检测结果：安全。",
+                "kr": "“띠띠”, 박사님, 배달이 도착했어…… 맞아, 저스티스 나이트가 로도스 아일랜드 식당에서 박사님을 위해 가져온 생일 메뉴야. 포장 내부의 성분을 검사할게. 식용 불가: 파라핀, 산성 원석충. 식용 가능: 크림, 발효 밀가루. 검사 결과는 안전이야.",
+                "cn": "“滴滴”，博士，您的外卖送到了......是的，这是正义号从罗德岛食堂给您拿来的生日餐。包装盒内成分检测：不可食用，石蜡，酸性源石虫；可食用，奶油，发酵面粉。检测结果：安全。"
+            },
+            "asset": "char_4000_jnight/CN_043"
+        },
+        {
             "id": "char_4000_jnight_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

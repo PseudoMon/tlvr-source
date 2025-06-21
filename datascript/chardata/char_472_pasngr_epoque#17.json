@@ -585,6 +585,22 @@
             "asset": "char_472_pasngr_epoque#17/CN_042"
         },
         {
+            "id": "char_472_pasngr_epoque#17_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Seems that even time celebrates you, Doctor. Forgive me for not having prepared a gift. May your dreams be free of the pains of the past. Or perhaps, I will tell your future when the past eats away at you.",
+                "jp": "時間さえもあなた様を言祝いでいるようです、ドクター。贈り物を用意する暇がないことをお許しください。夢の中のあなたが過去の痛みに煩わされることがありませんように。あるいは、過去に苛まれる時が来たら、僕をあなたの預言者にしませんか。",
+                "kr": "아무래도 시간조차 당신을 축복하려는 모양입니다, 박사님. 미처 선물을 준비할 틈조차 없었음에 용서를 청합니다. 꿈속의 당신은 과거의 아픔에 시달리지 않길 바랍니다. 혹시 당신도 과거에 시달릴 때가 온다면, 제가 당신의 예언자가 되는 것은 어떨까요?",
+                "cn": "看来连时间都会为您庆祝，博士。原谅我无暇为您准备礼物。祝您的梦中再无过去的痛楚，或者，当您也为过去所扰时，就让我成为您的先知吧。"
+            },
+            "asset": "char_472_pasngr_epoque#17/CN_043"
+        },
+        {
             "id": "char_472_pasngr_epoque#17_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

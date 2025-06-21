@@ -585,6 +585,22 @@
             "asset": "char_102_texas/CN_042"
         },
         {
+            "id": "char_102_texas_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Here's a box of vinyls from the boss's collection. I got it from Lungmen. Take it, Doctor. No need to worry about my boss. Happy birthday.",
+                "jp": "这箱是老板珍藏的黑胶，我从龙门带来的。收下吧，博士，别在意老板怎么想。生日快乐。",
+                "kr": "이 상자에는 내가 용문에서 가져온 보스의 애장품 LP판들이 들어있다. 보스가 뭐라고 생각할지는 신경 쓰지 말고 받아, 박사. 그럼 생일 축하한다.",
+                "cn": "这箱是老板珍藏的黑胶，我从龙门带来的。收下吧，博士，别在意老板怎么想。生日快乐。"
+            },
+            "asset": "char_102_texas/CN_043"
+        },
+        {
             "id": "char_102_texas_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

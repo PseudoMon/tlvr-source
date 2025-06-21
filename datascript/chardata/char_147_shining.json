@@ -585,6 +585,22 @@
             "asset": "char_147_shining/CN_042"
         },
         {
+            "id": "char_147_shining_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "The day of your birth, is it? When a young life leaves the womb a newborn babe, the happiness and the hope in that moment will dwell in them, as well as their loved ones, for ages to come. Doctor, it honors me to the core, that I may celebrate a day so special alongside you.",
+                "jp": "诞生的日子，是吗？一个幼小的生命脱离母胎呱呱坠地，那一刻的欣喜和希望，会停留在他和他亲近的人心中很久。博士，能和你一同庆祝这样一个特殊的日子，我十分荣幸。",
+                "kr": "태어난 날이라…… 어린 생명이 어머니로부터 태어나는 순간, 그 순간의 기쁨과 희망은 아이와 주변인들의 마음에 오랫동안 남아 있곤 하죠. 박사님, 당신과 함께 이런 특별한 날을 축하할 수 있게 되어서 영광이에요.",
+                "cn": "诞生的日子，是吗？一个幼小的生命脱离母胎呱呱坠地，那一刻的欣喜和希望，会停留在他和他亲近的人心中很久。博士，能和你一同庆祝这样一个特殊的日子，我十分荣幸。"
+            },
+            "asset": "char_147_shining/CN_043"
+        },
+        {
             "id": "char_147_shining_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

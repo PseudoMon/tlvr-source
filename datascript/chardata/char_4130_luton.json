@@ -585,6 +585,22 @@
             "asset": "char_4130_luton/CN_042"
         },
         {
+            "id": "char_4130_luton_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Life is the opposite of death. It means infinite possibility... In that sense, one's day of birth is very much worth celebrating. I'd like to ask... can today also be my birthday? I would like to share in this joy with you.",
+                "jp": "生は死と相対するもので、無限の可能性を意味します……そう考えてみれば、誕生日というのは確かに祝うべきものなのでしょう。一つお願いをしてもよろしいでしょうか……今日この一日を、私の誕生日にさせていただけませんか？この喜びを、貴方と分かち合いたいのです。",
+                "kr": "삶은 죽음의 반대편에 있고, 또 무한한 가능성을 의미해요…… 그렇게 생각하니 생일은 축하할 만한 날이 맞군요. 저 한 가지 부탁드려도 될까요…… 오늘을 제 생일로 정하고 싶어요. 이 기쁨을 당신과 함께 나누게 해주세요.",
+                "cn": "生是死的对立面，生意味着无限的可能......这么说来，生日的确是值得庆祝的。我有一个请求......能否将今天也定为我的生日？我想要和您一同分享这份喜悦。"
+            },
+            "asset": "char_4130_luton/CN_043"
+        },
+        {
             "id": "char_4130_luton_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

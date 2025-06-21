@@ -585,6 +585,22 @@
             "asset": "char_4162_cathy/CN_042"
         },
         {
+            "id": "char_4162_cathy_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "What, you think I didn't bake this cake? It's a little fancy-pants, but I'll have you know, it's me who does up all of Feist's birthdays. It's like working a machine: practice makes perfect. So, happy birthday, Doctor, and thank you and your lot for looking after me boy.",
+                "jp": "なんだ、あたしがこのケーキを作ったのが信じられないかい？まあ、確かにちょっと派手だったかね。だけどね、フェイストの誕生日はあたしが一手に引き受けてたんだ。こういうのは機械の操作と一緒さ、何度もやってくうちに上手になってくるもんだ。誕生日おめでとうよ、ドクター。うちの小僧の面倒を見てくれてありがとうね。",
+                "kr": "왜 그래? 내가 이 케이크를 만들었다는 게 믿기지 않나? 뭐, 확실히 화려하긴 하네. 하지만 이전까지 피스트의 생일은 언제나 내가 챙겼어. 케이크 만드는 것도 기계를 조작하는 것처럼 여러 번 하다 보면 점점 능숙해지는 법이거든. 생일 축하한다, 박사. 그 아이를 돌봐줘서 고마워.",
+                "cn": "怎么，不相信这个蛋糕是我做的？嗯，的确花哨了点。要知道，费斯特的生日可都是我在张罗。这事就跟操作机械一样，熟能生巧。生日快乐，博士，感谢你们帮我照顾那小子。"
+            },
+            "asset": "char_4162_cathy/CN_043"
+        },
+        {
             "id": "char_4162_cathy_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

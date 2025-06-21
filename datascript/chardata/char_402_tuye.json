@@ -561,7 +561,7 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "TBU",
+                "en": "Wishing you a Happy New Year! I look forward to your kind guidance in the coming year. Okay, done. Without a hitch, right? Happy now?—a bonus? For me? Really? Hmm... thank you, Happy New Year.",
                 "jp": "明けましておめでとうございます今年もよろしくお願いします。はい、挨拶は以上。ちゃんとしてただろ？お前が満足ならそれで――ボーナス？私に？本気か？ふん……ありがとう、今年もよろしく。",
                 "kr": "새해 복 많이 받고, 올해도 잘 부탁할게. 자, 끝. 어때, 완벽한 인사말이지? 네가 좋아하면 됐어…… 보너스? 나 주는 거야? 진짜로? 음…… 고마워, 진짜 새해 복 많이 받아.",
                 "cn": "新年快乐，新的一年也请多多指教。好，说完了。很标准吧？你开心就好——奖金？给我的？你认真的？唔......谢谢，新年快乐。"
@@ -585,6 +585,22 @@
             "asset": "char_402_tuye/CN_042"
         },
         {
+            "id": "char_402_tuye_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday. I'm giving you this parasol I bought from a trustworthy merchant in Sargon. It's well-made. You'll be going many places, and I'm sure there will be times when you'll need it. Oh, if you want to hold it open and jump off the ship's bridge, I won't stop you.",
+                "jp": "生日快乐。这把雨伞送给你，这是我从萨尔贡一个信得过的商人那里买来的，质量很好。今后要去很多地方，你总有用得到的时候。啊，如果你想撑着它从舰桥上往下跳的话，我也不会拦着你的。",
+                "kr": "생일 축하해. 우산 줄게, 선물이야. 사르곤의 믿을만한 상인에게서 산 거야. 퀄리티도 엄청 좋다고. 앞으로 많은 곳을 다녀야 할 테니, 언젠간 쓸 일이 있을 거야. 아, 물론 그걸 낙하산처럼 들고 함선에서 뛰어내린다 해도 막진 않을게.",
+                "cn": "生日快乐。这把雨伞送给你，这是我从萨尔贡一个信得过的商人那里买来的，质量很好。今后要去很多地方，你总有用得到的时候。啊，如果你想撑着它从舰桥上往下跳的话，我也不会拦着你的。"
+            },
+            "asset": "char_402_tuye/CN_043"
+        },
+        {
             "id": "char_402_tuye_CN_044",
             "title": {
                 "en": "Anniversary Celebration",
@@ -593,7 +609,7 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "TBU",
+                "en": "I've checked Rhodes Island's navigation log. The routes you've traversed are downright treacherous. But why doesn't anyone show a hint of fear? As the ship's navigator, what power you got allows such absolute, unquestioning trust? I'm... intrigued.",
                 "jp": "ロドスの運航記録を見たことがあるが、お前たちは相当危険なルートを進んで来てる。なのに誰もビビってないのはなんでだ？お前がこの船の舵取りとして、みんなから無条件で信頼される理由はなんだ？気になる……",
                 "kr": "로도스 아일랜드의 항로 기록을 확인해 봤는데, 너희가 걸어온 이 길 엄청 험난했더라? 근데 왜 아무도 겁먹은 기색이 없지? 어떻게 이 많은 사람들이 아무런 의심 없이 널 믿는 건지, 이유가 궁금하네……",
                 "cn": "我查看过罗德岛的航线记录，你们走过的路线可真够凶险的。可为什么没有人显露出害怕的样子？你作为这艘船的领航者，有什么本事可以让所有人无条件地相信你？我很好奇......"

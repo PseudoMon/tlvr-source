@@ -561,7 +561,7 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "TBU",
+                "en": "Happy New Year, Doctor. This is my first time celebrating with so many people, and it's not bad at all. Oh, speaking of which, I was supposed to write a letter to Mom before I left, but I totally forgot. Gotta write one now.",
                 "jp": "あけましておめでとう、ドクター。こんな大勢で年越しするのは初めてだけど、悪くないもんだね。あっ、そういえば出発前に母さんに手紙書くって約束したのに、すっかり忘れてた。今から書こう。",
                 "kr": "새해 복 많이 받아, 박사. 이렇게 많은 사람들하고 새해를 보내는 건 처음인데, 나쁘진 않네. 앗, 그러고 보니 출발하기 전에 엄마한테 편지 쓰기로 했는데 완전히 까먹고 있었네. 지금 얼른 써야겠다.",
                 "cn": "新年好，博士。和这么多人一起过新年对我来说是第一次，感觉倒是不坏。啊，说起来，出发前说好要给老妈写信的，完全忘了，赶紧写一封好了。"
@@ -585,6 +585,22 @@
             "asset": "char_218_cuttle/CN_042"
         },
         {
+            "id": "char_218_cuttle_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday! Here's your present. I bought Monica one, and it worked really well, so I got you one too. The bane of you people with work irregular schedules—a super-strong time schedule alarm. If you don't follow its schedule, you get an alarm so loud that your aunt hears it two cities over.",
+                "jp": "生日快乐！礼物在这里，我之前给莫妮卡买了一个，感觉很好用，就给博士你也买了，作息不规律者的克星——超强时间表闹铃。一旦设定完成却没有遵守，它的铃声能传到你两座城外的姨妈耳朵里。",
+                "kr": "생일 축하해. 선물은 여기. 전에 모니카한테 사줬던 건데, 꽤 쓸만할 것 같아서 박사 것도 샀어. 불규칙한 생활 습관을 지닌 사람들에게 딱인 바로바로 초강력 알람 시계야. 스케줄을 설정했는데 시간 내에 그걸 완성하지 않는다면 알람이 울릴 거야. 근데 그 알람 소리는 두 개 도시 너머에 있는 이모 귀에도 들리는 거지!",
+                "cn": "生日快乐！礼物在这里，我之前给莫妮卡买了一个，感觉很好用，就给博士你也买了，作息不规律者的克星——超强时间表闹铃。一旦设定完成却没有遵守，它的铃声能传到你两座城外的姨妈耳朵里。"
+            },
+            "asset": "char_218_cuttle/CN_043"
+        },
+        {
             "id": "char_218_cuttle_CN_044",
             "title": {
                 "en": "Anniversary Celebration",
@@ -593,7 +609,7 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "TBU",
+                "en": "I never had many plans for the future to begin with, and I never thought I'd come this far. Looking back, I made the right decision to come here with Monica... How do I see the future now? Hm... Man, what a question. I got nothing.",
                 "jp": "先のことなんてほとんど考えてなかったけど、気付けばいつの間にかこんなところまで進めてた。こうして振り返ってみると、あの時モニカについてきてよかったのかもね。今の将来設計？うーん……考えるのも面倒くさいから、やっぱり特にないかな。",
                 "kr": "난 미래 계획을 철저하게 세우는 타입이 아닌데, 어쩌다 보니 나도 모르는 새에 여기까지 오게 되었네. 지금 보면, 그때 모니카를 따라서 여기 오길 정말 잘한 것 같아…… 지금은 미래에 대해 어떻게 생각하냐고? 으음…… 그런 건 역시 귀찮아, 지금도 없는 건 마찬가지야.",
                 "cn": "我原本没有对未来计划那么多，没想到自己也渐渐地走到了这一步，这样一看，当初跟着莫妮卡一起来是件好事呢......现在对未来的看法？嗯......好麻烦，还是没有。"

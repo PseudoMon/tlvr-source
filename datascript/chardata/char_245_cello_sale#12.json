@@ -585,6 +585,22 @@
             "asset": "char_245_cello_sale#12/CN_042"
         },
         {
+            "id": "char_245_cello_sale#12_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor... did you already listen to the entire piece behind my back? Though it was but an impromptu session, it contained all the thoughts I had while waiting for you, as well as the emotions that should be expressed no other day but today. Since you didn't miss it, tell me—what did you hear from it?",
+                "jp": "……ドクター、後ろでずっと聴いていたの？即興の演奏だったけれど、あなたを待っている時の気持ちや、今日でしか伝えられない思いをすべて含んでいたわ。そうして聴いてくれていたのなら、あなたは今の曲に何を感じたのかしら？",
+                "kr": "……박사, 뒤에서 계속 듣고 있었던 거야? 즉흥 연주였지만, 이 선율 속엔 당신을 기다리면서 느꼈던 모든 감정과 '오늘'만 전할 수 있는 생각을 담아봤어. 마침 이렇게 들어줬으니, 이 곡에 대한 당신의 감상을 들어보고 싶은데, 말해줄 수 있어?",
+                "cn": "......博士，您在我身后听完了整首曲子吗？虽然只是临时起意的演奏，但它已经包含了我等待您时的所有思绪，以及，只应在今天表达的情感。既然您没有错过，那么，您从中听出了什么呢？"
+            },
+            "asset": "char_245_cello_sale#12/CN_043"
+        },
+        {
             "id": "char_245_cello_sale#12_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

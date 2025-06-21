@@ -585,6 +585,22 @@
             "asset": "char_003_kalts/CN_042"
         },
         {
+            "id": "char_003_kalts_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "So this is the day you've chosen, is it? I won't ask you about the significance of the date. You are free to keep the answer to yourself. I only hope that your choice will serve to give more meaning to Rhodes Island's existence. Of course, if you would like, I can offer you my well wishes, too. Happy birthday.",
+                "jp": "这是你选择的日子，对吗？我不会询问你这个日子的特殊意义，你可以保留这个答案。我只是希望，你的选择可以让此处的存在具备意义。当然，如果你愿意的话，我也会为你送上祝福。生日快乐。",
+                "kr": "오늘이, 네가 선택한 날, 맞지? 이날이 네게 어떤 특별한 의미인지는 묻지 않겠다. 그저 너의 선택이 이곳의 존재에 의미를 부여할 수 있길 바랄 뿐이야. 물론, 네가 원한다면 나도 축복을 보내지. 생일 축하한다, 박사.",
+                "cn": "这是你选择的日子，对吗？我不会询问你这个日子的特殊意义，你可以保留这个答案。我只是希望，你的选择可以让此处的存在具备意义。当然，如果你愿意的话，我也会为你送上祝福。生日快乐。"
+            },
+            "asset": "char_003_kalts/CN_043"
+        },
+        {
             "id": "char_003_kalts_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

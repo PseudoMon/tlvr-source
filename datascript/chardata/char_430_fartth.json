@@ -585,6 +585,22 @@
             "asset": "char_430_fartth/CN_042"
         },
         {
+            "id": "char_430_fartth_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Here, Doctor. This is your present from me. It's a chime. Hang it on your window, and it'll sing whenever the breeze stirs. Very soothing. Happy birthday, Doctor. I gift you the sound of the wind.",
+                "jp": "......礼物。这是我准备的礼物，一串风铃，把它挂在窗户上，起风时就能听到好听的乐声，很让人安心。生日快乐，博士，我送给你风的声音。",
+                "kr": "……선물. 풍경이야. 이 풍경을 창가에 달아 두면 바람이 불 때마다 기분 좋은 소리가 울려 퍼져 마음이 안정될 거야. 생일 축하해, 박사. 바람의 소리를 선물할게.",
+                "cn": "......礼物。这是我准备的礼物，一串风铃，把它挂在窗户上，起风时就能听到好听的乐声，很让人安心。生日快乐，博士，我送给你风的声音。"
+            },
+            "asset": "char_430_fartth/CN_043"
+        },
+        {
             "id": "char_430_fartth_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

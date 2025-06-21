@@ -585,6 +585,22 @@
             "asset": "char_4042_lumen/CN_042"
         },
         {
+            "id": "char_4042_lumen_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Kal'tsit mentioned that today is your birthday, Doctor. I don't have the means to gift you anything precious... but please take this. It's an audio recording of the waves in my hometown. If you ever find yourself in a bad spot, please give it a listen. Of course, you're more than welcome to come to me directly.",
+                "jp": "ケルシーさんから、今日があなたのお誕生日だと聞きました、ドクター。大したプレゼントを用意できませんが、これを……どうぞ受け取ってください。僕の故郷の、海の音を録音したものです。心が落ち着かない時は、それを聴いてみるといいです。もちろん、直接僕のところに来ていただいも構いませんよ。",
+                "kr": "켈시 씨로부터 오늘이 박사님의 생일이라는 이야기를 전해 들었어요. 박사님, 대단한 선물을 준비할 능력은 안 되지만…… 받아 주세요. 제 고향의 파도 소리를 녹음한 것이에요. 혹시라도 고민거리가 생기게 된다면, 이 파도 소리를 들어보세요. 물론 직접 저를 찾아와 주셔도 좋고요.",
+                "cn": "听凯尔希女士说，今天是您的生日。博士，我没法给您准备什么特别贵重的礼物......请收下吧，这里面录的是我家乡的海浪声，如果您遇到了烦心事，就听听它吧。当然，直接来找我也行。"
+            },
+            "asset": "char_4042_lumen/CN_043"
+        },
+        {
             "id": "char_4042_lumen_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

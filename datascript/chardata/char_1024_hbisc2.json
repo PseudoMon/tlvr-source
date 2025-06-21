@@ -585,6 +585,22 @@
             "asset": "char_1024_hbisc2/CN_042"
         },
         {
+            "id": "char_1024_hbisc2_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, I—made you a birthday cake, actually. I used low-fat butter and dark chocolate, and I cut back the sugar as much as possible, but still, the calories are flooring me. How should I even... okay, just for today, I'm making an exception! Thank you for the good work, Doctor. Happy birthday.",
+                "jp": "実は、ドクターのためにバースデーケーキを用意したんです。低脂肪のクリームとダークチョコレートを使って、できるだけ糖分を抑えていますが、やっぱりカロリーは高いです。一体どうすれば……いや、やめておきましょう。今日だけ特別ですからね！いつもお仕事お疲れ様です、ドクター。お誕生日おめでとうございます。",
+                "kr": "박사님, 사실 박사님을 위해 생일 케이크를 준비했답니다. 저지방 크림과 다크초콜릿을 사용했고, 가능한 당분을 줄이려고 했는데…… 그래도 칼로리가 상당히 높네요. 어떻게 하면 좋을까요…… 좋아요, 오늘은 특별히 넘어가 드릴게요! 수고하셨어요, 박사님. 생일 축하드려요.",
+                "cn": "博士，其实，我为您准备了生日蛋糕。我用了低脂奶油和黑巧克力，也尽可能地控制了糖分，但热量还是很夸张。到底该怎么办......好吧，只有今天是特例哦！工作辛苦了，博士，生日快乐。"
+            },
+            "asset": "char_1024_hbisc2/CN_043"
+        },
+        {
             "id": "char_1024_hbisc2_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

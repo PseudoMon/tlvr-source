@@ -585,6 +585,22 @@
             "asset": "char_197_poca/CN_042"
         },
         {
+            "id": "char_197_poca_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "We had to be extremely careful with our gifts at school. A slight mistake may just trigger a sizable scandal. But that's something I no longer need to worry about, and I can express myself however I wish. Happy birthday, Doctor. Gummy taught me how to bake these cookies. Thank you for taking care of us.",
+                "jp": "在学校时送礼物总是要格外小心，一不注意就会引起不小的风波呢。不过现在没有这种顾虑，就可以放心表达自己的心意了吧。博士，生日快乐。这是我向古米学做的饼干，谢谢你对我们的照顾。",
+                "kr": "학교에 있을 땐 선물 주는 게 조심스러웠어. 자칫 잘못하면 큰 소동이 일어날 수 있었거든. 하지만 지금은 그럴 걱정 없으니까, 안심하고 내 마음을 표현해도 되겠지. 박사, 생일 축하해. 굼한테 배워서 만든 과자야, 우릴 돌봐줘서 고마워.",
+                "cn": "在学校时送礼物总是要格外小心，一不注意就会引起不小的风波呢。不过现在没有这种顾虑，就可以放心表达自己的心意了吧。博士，生日快乐。这是我向古米学做的饼干，谢谢你对我们的照顾。"
+            },
+            "asset": "char_197_poca/CN_043"
+        },
+        {
             "id": "char_197_poca_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

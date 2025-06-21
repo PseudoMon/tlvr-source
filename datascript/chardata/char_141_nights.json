@@ -585,6 +585,22 @@
             "asset": "char_141_nights/CN_042"
         },
         {
+            "id": "char_141_nights_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor. Meow? My best wishes aren't enough? Don't tell me you want some presents, you greedy kitty. Well then, what do you want? Shall I give you a riddle, or allow you to rub my ears?",
+                "jp": "生日快乐哦~呜喵？生日祝福还不够，还想要从猫猫这里得到什么礼物吗？真是贪心呢。那么，想要什么？给你猜个谜语，还是允许你摸摸耳朵呢？",
+                "kr": "생일 축하해…… 냐앙? 생일 축하면 됐지 설마 고양이한테 선물까지 받으려는 거야? 욕심도 참. 좋아, 그럼 한번 골라봐. 수수께끼를 내줄까, 아니면 내 귀 만져보게 해줄까?",
+                "cn": "生日快乐哦~呜喵？生日祝福还不够，还想要从猫猫这里得到什么礼物吗？真是贪心呢。那么，想要什么？给你猜个谜语，还是允许你摸摸耳朵呢？"
+            },
+            "asset": "char_141_nights/CN_043"
+        },
+        {
             "id": "char_141_nights_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

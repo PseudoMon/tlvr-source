@@ -585,6 +585,22 @@
             "asset": "char_474_glady/CN_042"
         },
         {
+            "id": "char_474_glady_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "If we are to suppose the birth of a life is worth celebrating, said life must first possess notable value. Take my hand. This dance will be a special one. You may well consider it my endorsement of you. Happy birthday.",
+                "jp": "如果一个生命的诞生是值得庆祝的，那么首先，这个生命得拥有相当的价值才行。握住我的手吧。这是一支特殊的舞。您同样可以将它视作我的认可。生日快乐。",
+                "kr": "만약 한 생명의 탄생이 축하할 만한 일이라면, 우선 그 생명이 축하를 받을 만한 가치를 지니고 있어야 합니다. 제 손을 잡으세요. 저와 함께 특별한 춤을 추죠. 이 춤을 제가 당신을 인정했다는 의미로 여기셔도 좋습니다. 생일 축하드립니다.",
+                "cn": "如果一个生命的诞生是值得庆祝的，那么首先，这个生命得拥有相当的价值才行。握住我的手吧。这是一支特殊的舞。您同样可以将它视作我的认可。生日快乐。"
+            },
+            "asset": "char_474_glady/CN_043"
+        },
+        {
             "id": "char_474_glady_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

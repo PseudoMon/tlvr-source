@@ -521,6 +521,22 @@
             "asset": "char_502_nblade/CN_042"
         },
         {
+            "id": "char_502_nblade_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor. Please, accept this humble gift. Yes, of course I remember your birthday.",
+                "jp": "博士，生日快乐。一点薄礼，还请收下。是的，我当然记得您的生日。",
+                "kr": "박사, 생일 축하한다. 별건 아니지만, 받아줘. 물론 박사의 생일은 당연히 기억하고 있었지.",
+                "cn": "博士，生日快乐。一点薄礼，还请收下。是的，我当然记得您的生日。"
+            },
+            "asset": "char_502_nblade/CN_043"
+        },
+        {
             "id": "char_502_nblade_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

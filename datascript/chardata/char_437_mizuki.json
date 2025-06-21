@@ -561,7 +561,7 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "TBU",
+                "en": "Happy New Year, Doctor! We've all grown by another year, and I've absorbed plenty of nutrients. I really hope everyone can keep evolving and become even better.",
                 "jp": "ドクター、明けましておめでとう！また一年成長したね、僕もたくさん栄養を摂取できたよ。みんなもどんどん良く進化していけたらいいね。",
                 "kr": "박사, 새해 복 많이 받아! 또 1년 성장했네, 나도 많은 영양분을 섭취했어! 다들 점점 더 좋은 쪽으로 진화할 수 있으면 좋겠다.",
                 "cn": "新年快乐，博士！又成长了一年，我汲取了不少营养呢，真希望大家都能进化得越来越好呀。"
@@ -585,6 +585,22 @@
             "asset": "char_437_mizuki/CN_042"
         },
         {
+            "id": "char_437_mizuki_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "I dunno where it came from… But they say if you mix a little of yourself into a cake, then whoever eats it will go crazy for you. Sounds… sick, right? Wait, Doctor, don't run away! I didn't put anything weird in this birthday cake, I swear!",
+                "jp": "不知道是哪里传出来的说法，说是在做蛋糕时混一点自己的血肉进去，就能让吃下去的人死心塌地耶。听起来还蛮......咦，博士你别跑嘛，我正在做的这个没有放啦，没有的，我发誓！",
+                "kr": "나도 어디서 전해져 온 이야기인지는 모르겠는데, 케이크를 만들 때 자신의 피와 살점을 넣으면, 그 케이크를 먹은 사람들을 만든 이한테 홀딱 반하게 만들 수 있다고 하더라고. 꽤 흥미로운 아이디어…… 앗, 잠깐 박사. 도망치지 마. 지금 만들고 있는 케이크에는 정말 안 넣었어. 정말이야, 나 맹세해!",
+                "cn": "不知道是哪里传出来的说法，说是在做蛋糕时混一点自己的血肉进去，就能让吃下去的人死心塌地耶。听起来还蛮......咦，博士你别跑嘛，我正在做的这个没有放啦，没有的，我发誓！"
+            },
+            "asset": "char_437_mizuki/CN_043"
+        },
+        {
             "id": "char_437_mizuki_CN_044",
             "title": {
                 "en": "Anniversary Celebration",
@@ -593,7 +609,7 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "TBU",
+                "en": "Doctor, when you look at me now, what do you see? Am I still just a kid, or have I grown strong enough… maybe even stronger than you? If that were true… Then shouldn't I protect you instead?",
                 "jp": "ドクター、今の僕はどう見える？もう十分力がついてて、ドクターよりも強くなってたりして？もし僕が本当にドクターより強いのなら、今度は……僕がドクターを守る番になるのかな？",
                 "kr": "박사, 박사가 보기에 지금의 난, 어때? 이미 충분한 힘을 가진 것 같지 않아? 어쩌면 박사보다 더 강할 수도 있다고! 근데 만약 내가 정말로 박사보다 강하다면 말이야, 이제…… 내가 박사를 지킬 차례인가?",
                 "cn": "博士，你看我现在的样子怎么样？看起来是不是已经获得了足够多的力量，甚至比博士都还要厉害？如果我比博士厉害的话，该被保护的......是不是就是博士了？"

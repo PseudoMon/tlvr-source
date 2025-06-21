@@ -585,6 +585,22 @@
             "asset": "char_2013_cerber/CN_042"
         },
         {
+            "id": "char_2013_cerber_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Today's the Doctor's birthday, this is the Doctor's cake. I can't eat it before you, I must wait! But there's so much fruit on top, and icing, and jam... Doctor, when are you going to blow out the candles? They said once you blow out the candles, then we can start eating it!",
+                "jp": "今天是博士的生日，这个就是博士的蛋糕，我是不能先吃的，我是不能先吃的！上面有很多水果，还有奶油，还有果酱，博士，你什么时候吹蜡烛呀？他们说吹完蜡烛就是吃蛋糕的时候了！",
+                "kr": "오늘은 박사의 생일, 그리고 이건 박사의 케이크. 그러니까 내가 먼저 먹으면 안 돼. 절대 먼저 먹으면 안 돼! 과일이랑 크림, 잼도 잔뜩 있네…… 박사, 대체 언제 촛불 끄는 거야? 박사가 촛불을 후~하고 불어야 케이크를 먹을 수 있다고 했단 말이야!",
+                "cn": "今天是博士的生日，这个就是博士的蛋糕，我是不能先吃的，我是不能先吃的！上面有很多水果，还有奶油，还有果酱，博士，你什么时候吹蜡烛呀？他们说吹完蜡烛就是吃蛋糕的时候了！"
+            },
+            "asset": "char_2013_cerber/CN_043"
+        },
+        {
             "id": "char_2013_cerber_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

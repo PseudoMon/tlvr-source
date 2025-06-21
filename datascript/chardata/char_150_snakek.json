@@ -585,6 +585,22 @@
             "asset": "char_150_snakek/CN_042"
         },
         {
+            "id": "char_150_snakek_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Hey, hey, Doctor! Happy birthday! These are for you: this baseball bat, these mitts, and this baseball! Come on, let's play!... You still got work to do? You're working on your birthday? Can't you take a day off? Aww…",
+                "jp": "博士博士，生日快乐！送你一副棒球棒，还有手套，还有棒球！来来，跟我一起玩吧！工作？今天为什么还要工作呀，博士的生日不放假吗？嗯......",
+                "kr": "박사 박사, 생일 축하해! 여기 선물이야. 야구 배트, 장갑 그리고 공까지! 빨리 와, 나랑 같이 놀자! 일? 오늘 같은 날에까지 왜 일하는 거야, 박사 생일인데 휴가는 없어? 응……",
+                "cn": "博士博士，生日快乐！送你一副棒球棒，还有手套，还有棒球！来来，跟我一起玩吧！工作？今天为什么还要工作呀，博士的生日不放假吗？嗯......"
+            },
+            "asset": "char_150_snakek/CN_043"
+        },
+        {
             "id": "char_150_snakek_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

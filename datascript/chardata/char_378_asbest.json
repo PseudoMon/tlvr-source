@@ -561,7 +561,7 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "TBU",
+                "en": "Ahh crap, I forgot it's New Year's. Shouldn't have come back. I hate huge crowds like this... Even those Archosauria we came across in Sargon weren't this rowdy… Huh? Wait, wait! What're you grabbing my hand for? Let go! I'm going back to my room!",
                 "jp": "げっ、年越しだって忘れてたぜ。こんな時に帰ってくんじゃなかった、こう大勢でわちゃわちゃしてるとこが一番ウゼぇんだよな……チッ、前サルゴンで会ったあのアダクリス人たちだってここまでうるさくはなかったぞ。んだよ、引っ張んじゃねぇって！部屋に戻ってっから離しやがれ！",
                 "kr": "망했다. 오늘이 새해라는 걸 잊고 있었네. 이럴 때 돌아오는 게 아니었는데. 이렇게 같이 모여있는 자리가 제일 싫어…… 쳇, 사르곤에서 만난 아다크리스 녀석들도 이렇게까지는 시끄럽지 않았는데. 계속 잡아서 뭐 하게? 이거 놔! 방에 돌아갈 거라고!",
                 "cn": "要命，忘了今天是新年了，不该这时候回来的，姑奶奶最烦这种一大群人聚在一起......啧，之前在萨尔贡遇到的那群阿达克利斯人都没你们能闹。还拉着我干什么？手放开！我要回房！"
@@ -585,6 +585,22 @@
             "asset": "char_378_asbest/CN_042"
         },
         {
+            "id": "char_378_asbest_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Fine, fine, whatever! Take this and get out of my face! What kind of person you are, asking people to give you a present? Gah… Alright, mate, you got your gift. Now shut up, and get out!",
+                "jp": "拿着拿着，给你给你给你！居然还会专门让人送你礼物，什么人啊？好了，行，拿了就不要再多说话，麻利地出去。",
+                "kr": "자 자, 줄게, 너 준다고! 선물 달라고 조르는 사람도 있다니, 너 뭐야? 됐어, 받았으면 그만 떠들고, 이제 나가.",
+                "cn": "拿着拿着，给你给你给你！居然还会专门让人送你礼物，什么人啊？好了，行，拿了就不要再多说话，麻利地出去。"
+            },
+            "asset": "char_378_asbest/CN_043"
+        },
+        {
             "id": "char_378_asbest_CN_044",
             "title": {
                 "en": "Anniversary Celebration",
@@ -593,7 +609,7 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "TBU",
+                "en": "Damn. And I thought New Year's would be the only special holiday here. Didn't know you got another one. Guess I picked just the right bloody time to come back. Shh-sh-sh, hold it right there. You want to talk, fine, but we'll talk over drinks. Otherwise, keep your trap shut.",
                 "jp": "うっわしくったぁ、ロドスじゃ年越し以外にもこんなイベントがあるとは、毎度なんつータイミングで帰ってきてんだあたしゃ……たんま！話しかけたいなら何杯か付き合ってもらうぜ？飲まねぇなら静かにしてろ。",
                 "kr": "방심했다. 로도스 아일랜드에 새해 말고도 이런 기념일이 있었다니, 나도 참 돌아올 시간 한번 잘 골랐네. 그만! 나랑 얘기하고 싶은 거면 술도 몇 잔 해야 할걸? 싫으면 그냥 조용히 있어.",
                 "cn": "大意了，没想到除了新年罗德岛居然还有这么一个节日，我可真是会挑时间回来。打住！想和姑奶奶多说话可以，喝几杯不？要不就安静。"

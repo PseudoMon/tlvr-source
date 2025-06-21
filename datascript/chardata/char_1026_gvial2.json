@@ -585,6 +585,22 @@
             "asset": "char_1026_gvial2/CN_042"
         },
         {
+            "id": "char_1026_gvial2_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "So it's your birthday again, Doctor. Craziest day of the year aboard Rhodes Island, apart from New Year's. Seriously, Rhodes Islanders are taking some hell of a shine to you. Here, a present from me. Also, I'm watching you, same as always. You're not doing a second of work today.",
+                "jp": "ドクター、早ぇもんでまた誕生日だな。ロドスじゃ年越しを除けばこの日が一番賑やかになんだよな。さすがにモテるねぇ。ほら、アタシからのプレゼントだ。それから例年の通り、今日もお前が働いちまわないように見張っとくからな。",
+                "kr": "또 네 생일이 돌아왔네, 박사. 로도스 아일랜드에서는 새해를 제외하면 오늘이 가장 시끌벅적한 날이지. 역시 인기가 많은걸. 자, 내가 주는 선물이야. 그리고 저번에도 그랬던 것처럼, 네가 일하러 가지 못하도록 계속 지켜볼 거야.",
+                "cn": "博士，又到了你的生日啊，在罗德岛上，一年里除了新年，就数这个日子最热闹了，你真是有够受欢迎的。给你，我的礼物。还有，老规矩，今天我会看着你，不会让你有机会工作的。"
+            },
+            "asset": "char_1026_gvial2/CN_043"
+        },
+        {
             "id": "char_1026_gvial2_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

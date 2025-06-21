@@ -585,6 +585,22 @@
             "asset": "char_198_blackd/CN_042"
         },
         {
+            "id": "char_198_blackd_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, happy birthday! I have a present for you. You'd like to open it now? How about guessing what's inside first? Mm-hm... Correct, it's a scent sachet! I hope when you're carrying it around, you can feel as though I'm by your side.",
+                "jp": "博士，生日快乐！这些是在下为您准备的礼物，现在就要拆开吗？要不要猜猜里面是什么呢？嗯......是个香囊没错啦！希望您带在身上的时候，能感觉到仿佛我就在您身边。",
+                "kr": "박사님, 생일 축하드려요! 이건 제가 박사님을 위해서 준비한 선물인데, 지금 열어 보시게요? 그전에 뭐가 들어 있는지 맞춰 보지 않으실래요? 아…… 맞아요, 향낭이에요! 이걸 지니고 계시면, 늘 제가 곁에 있다는 느낌을 받을 수 있으실 거예요.",
+                "cn": "博士，生日快乐！这些是在下为您准备的礼物，现在就要拆开吗？要不要猜猜里面是什么呢？嗯......是个香囊没错啦！希望您带在身上的时候，能感觉到仿佛我就在您身边。"
+            },
+            "asset": "char_198_blackd/CN_043"
+        },
+        {
             "id": "char_198_blackd_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

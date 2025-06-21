@@ -521,6 +521,22 @@
             "asset": "char_4091_ulika/CN_042"
         },
         {
+            "id": "char_4091_ulika_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday to you~ Happy birthday to you~! I hope all of our friends out there celebrating birthdays today will enjoy eternal happiness! I'm gonna end stream slightly earlier this time, so see you guys tomorrow!",
+                "jp": "ハーピバースデイトゥユー！お誕生日のみんなが、ずっとずっと幸せでありますように！ちょっと早いけど今日の配信はこれで終わるね。明日も来てね～！",
+                "kr": "생일 축~하~ 합니다~! 오늘 생일을 맞이한 모두가 앞으로도 쭉 행복하길 바랄게! 조금 이르긴 하지만 오늘 방송은 여기까지! 내일도 보러 와 줘~!",
+                "cn": "祝你生~日~快~乐~！祝今天过生日的朋友们永远幸福！我要稍微提前一点下播啦，大家明天见！"
+            },
+            "asset": "char_4091_ulika/CN_043"
+        },
+        {
             "id": "char_4091_ulika_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

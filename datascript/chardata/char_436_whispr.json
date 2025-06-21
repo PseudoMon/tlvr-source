@@ -585,6 +585,22 @@
             "asset": "char_436_whispr/CN_042"
         },
         {
+            "id": "char_436_whispr_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor. Amnesiac as you are, you still haven't forgotten the meaning of this day, which tells me a lot. In that case, would you like to keep the stub of a movie ticket with your birthday on it?",
+                "jp": "生日快乐，博士。既然你还记得，今天是于你而言有独特意义的日期的话，你会想留下一张写着生日的电影票根吗？",
+                "kr": "생일 축하해요, 박사님. 오늘이 박사님에게 있어 특별한 의미가 있는 날이라면, 박사님은 생일이 적힌 영화표를 간직하고 싶진 않으신가요?",
+                "cn": "生日快乐，博士。既然你还记得，今天是于你而言有独特意义的日期的话，你会想留下一张写着生日的电影票根吗？"
+            },
+            "asset": "char_436_whispr/CN_043"
+        },
+        {
             "id": "char_436_whispr_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

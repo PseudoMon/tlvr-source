@@ -585,6 +585,22 @@
             "asset": "char_4133_logos/CN_042"
         },
         {
+            "id": "char_4133_logos_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor. How many years have I been offering my blessings to you now? You don't remember either...? It's fine. Sometimes, forgetting is a blessing in its own right, letting the past be put to rest. Just remember that I'll still be here for you next year.",
+                "jp": "誕辰に言祝ぎを、ドクター。はて、我がうぬの生誕を祝福するのはこれで何度目であったかな？うぬも正確には分らぬか……時として、忘却もまた幸福なことだ。過去はもはや過去でしかない。ただ一つ記憶しておくべきは、来年のこの時も、我は変わらずここにおることだけよ。",
+                "kr": "생일 축하한다, 박사. 당신에게 축하 인사를 보낸 게 이제 몇 년째지? 당신도 기억하지 못하는 건가…… 때로는 망각도 하나의 행복이지, 지나간 일은 중요하지 않으니까. 이것만 기억해 둬, 내년 이때도 난 여기에 있을 거다.",
+                "cn": "生日快乐，博士，这是我将祝福赠予您的第几个年头了？您也不记得了吗......有时，遗忘亦是幸福，过往之事已不重要。只需记住，明年此刻我依旧会在此。"
+            },
+            "asset": "char_4133_logos/CN_043"
+        },
+        {
             "id": "char_4133_logos_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

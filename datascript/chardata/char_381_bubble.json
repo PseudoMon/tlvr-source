@@ -585,6 +585,22 @@
             "asset": "char_381_bubble/CN_042"
         },
         {
+            "id": "char_381_bubble_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor! Oh, this means you've grown a whole extra year! When am I gonna get as big as you?",
+                "jp": "博士生日快乐！咦，这么说博士也长大了一岁。那泡泡什么时候才能长得和博士一样大呢？",
+                "kr": "박사, 생일 축하해! 어, 그러고 보니 박사도 한 살 더 먹는 거네. 그럼 버블은 대체 언제 박사만큼 클 수 있는 거야?",
+                "cn": "博士生日快乐！咦，这么说博士也长大了一岁。那泡泡什么时候才能长得和博士一样大呢？"
+            },
+            "asset": "char_381_bubble/CN_043"
+        },
+        {
             "id": "char_381_bubble_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

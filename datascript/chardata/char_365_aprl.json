@@ -585,6 +585,22 @@
             "asset": "char_365_aprl/CN_042"
         },
         {
+            "id": "char_365_aprl_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Happy birthday, Doctor! I'm here to hang out! What do you want to do today? Karaoke? Shopping? Oh, I know a place where you can try archery. They even give out prizes for their contests. I'll shoot a few arrows, and whatever I win with my pro skills, it's going to be your birthday present!",
+                "jp": "生日快乐，博士！我来陪你玩啦！今天想做什么呢？去唱歌，还是去购物？啊，我还知道一个可以射箭的体验馆，参加比赛还有奖品可以拿哦。让我去露一手，赢下的奖品，就送给博士当礼物吧！",
+                "kr": "생일 축하해, 박사! 오늘은 내가 박사랑 놀아줄게! 뭐 하고 싶은 거 없어? 노래 부르러 갈까, 아니면 쇼핑? 아, 활쏘기 체험관 하나 아는데, 거기 대회에 참가하면 상품도 받을 수 있다고 하더라고. 그럼 오늘 어디 솜씨 한번 뽐내볼까, 상품 받게 되면 박사의 생일 선물로 줄게!",
+                "cn": "生日快乐，博士！我来陪你玩啦！今天想做什么呢？去唱歌，还是去购物？啊，我还知道一个可以射箭的体验馆，参加比赛还有奖品可以拿哦。让我去露一手，赢下的奖品，就送给博士当礼物吧！"
+            },
+            "asset": "char_365_aprl/CN_043"
+        },
+        {
             "id": "char_365_aprl_CN_044",
             "title": {
                 "en": "Anniversary Celebration",

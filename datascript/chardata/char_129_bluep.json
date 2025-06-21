@@ -585,6 +585,22 @@
             "asset": "char_129_bluep/CN_042"
         },
         {
+            "id": "char_129_bluep_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, happy birthday. A dessert from me—please, take it. And if it's okay, I'd like you to give it a taste right now. What is it? Everyone's watching? I don't see the problem. You're a regular whenever I make snacks, aren't you?",
+                "jp": "博士，生日快乐。这是我做的甜品，请收下。如果可以的话，也请您现在就尝一尝味道。很多人在看？这没什么问题呀，您平时也常吃我做的点心，不是吗？",
+                "kr": "박사님, 생일 축하해요. 이건 제가 만든 디저트인데, 받아주세요. 혹시 괜찮으시다면 지금 드셔보셨으면 좋겠는데. 다들 보고 있다고요? 그게 무슨 문제라도…… 평소에도 제가 만든 디저트 잘 드시잖아요.",
+                "cn": "博士，生日快乐。这是我做的甜品，请收下。如果可以的话，也请您现在就尝一尝味道。很多人在看？这没什么问题呀，您平时也常吃我做的点心，不是吗？"
+            },
+            "asset": "char_129_bluep/CN_043"
+        },
+        {
             "id": "char_129_bluep_CN_044",
             "title": {
                 "en": "Anniversary Celebration",
