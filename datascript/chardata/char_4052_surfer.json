@@ -1,0 +1,644 @@
+{
+    "charid": "char_4052_surfer",
+    "nameid": "surfer",
+    "names": {
+        "en": "Surfer",
+        "jp": "サーファー",
+        "kr": "서퍼",
+        "cn": "寻澜"
+    },
+    "voices": [
+        {
+            "id": "char_4052_surfer_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "No problem. Leave it to me. While most of my work may be outdoors, I still need to handle thick stacks of paperwork. Once it's done, I'm hoping for a little reward... perhaaaaps, a short vacation?",
+                "jp": "大丈夫、私に任せて。普段は外での仕事がほとんどだけど、それでも分厚い書類の提出は欠かせないからね。だけど全部終わらせたら、ささやかなご褒美も欲しいかな……例えばちょっとした短期休暇とか。",
+                "kr": "괜찮아. 나한테 맡겨줘. 밖에서 일하는 경우가 대부분이긴 하지만, 산더미 같은 서류 작업도 피할 순 없거든. 그래도 이걸 다 끝내고 나면, 작은 보상이라도 받고 싶은데…… 예를 들면 짧은 휴가 같은 거 말이야.",
+                "cn": "没关系，交给我就好，虽说我的工作地点多在户外，但一样少不了要呈一沓厚厚的文件上去。不过做完这些，我希望有一些小奖励......比如一个小小的假期。"
+            },
+            "asset": "char_4052_surfer/CN_001"
+        },
+        {
+            "id": "char_4052_surfer_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Doctor, did you receive the report I submitted? Oh, this hair is a strand from the tip of my ear. I deliberately slipped it into the report to test whether you'd read it thoroughly. I'm glad you noticed.",
+                "jp": "ドクター、私のレポートは受け取ってくれたかな？ああそれ、私の耳先の毛だよ。見つけてくれて嬉しいなぁ。レポートに一本挟んでおいて、あなたがちゃんと読んでくれてるかチェックしようと思ってさ。",
+                "kr": "박사, 내 보고서 받았어? 아아, 그건 내 귀 끝의 털이야. 발견해 줘서 기쁜걸. 박사가 내 보고서 제대로 읽고 있나 체크해 보려고 끼워뒀지.",
+                "cn": "博士，你有收到我递交的报告吗？啊，这是我耳朵尖上的一根毛，我很开心你能发现，当时把它夹在报告里是想测试一下，你有没有仔仔细细把上面的文字完整地看一遍。"
+            },
+            "asset": "char_4052_surfer/CN_002"
+        },
+        {
+            "id": "char_4052_surfer_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Watch out! You didn't cut your hand, did you? I forgot to warn you that the wire is extremely sharp. You must be very careful when touching it. Though dangerous, it's incredibly versatile in the wild—perfect for climbing, tying things down, towing, and... dealing with some uninvited guests... oh... never mind.",
+                "jp": "危ないっ！手は切ってない？言い忘れててごめんだけど、このワイヤーはすごく細くて鋭いから、慎重に取り扱わないといけないんだ。危ないものだけど、野外活動では色々役立つんだよ。クライミングとか、物を縛ったり牽引するのにも使えるし、想定外の来訪者にも……えーっと、なんでもないよ。",
+                "kr": "위험해! 손 안 베였어? 미안, 말하는 걸 깜빡했는데, 이 와이어는 엄청 가늘고 날카로워서 조심히 다뤄야 해. 이게 위험한 물건이기는 해도, 야외 활동에선 여러모로 유용하다? 클라이밍이나, 물건을 묶고 견인하는 데도 쓸 수 있고, 또 예상치 못한 방문자에게도…… 흠흠, 아무것도 아니야, 어쨌든 그렇다고.",
+                "cn": "小心！你的手刚刚没有划破吧？忘记和你说了，这根细线非常锋利，触碰时一定要谨慎。虽然危险，但它在野外用途可不小，攀爬、捆扎、牵引，面对一些意外来客也能......嗯咳，算了。"
+            },
+            "asset": "char_4052_surfer/CN_003"
+        },
+        {
+            "id": "char_4052_surfer_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "I brought back a bag of nuts I collected on my recon mission, all pre-shelled. Don't worry, I've sampled every variety, and they're guaranteed to be crisp and delicious. Oh, except for one particular nut, which might leave your mouth temporarily numb. How might you pick out that one? Pure chance.",
+                "jp": "袋いっぱいにナッツを採ってきたよ。今回の偵察任務中に野外で集めたやつで、殻も剥いてあるからね。安心して、一通り味見はしてあるから、どれも香ばしくて美味しいって私のお墨付きだよ。だけど口が痺れちゃうのも混ざってるから、それに当たるかどうかはドクターの運次第だね。",
+                "kr": "박사, 여기 견과류 좀 가져왔어. 이번 정찰 임무 중에 야외에서 주운 건데, 내가 껍질도 다 까놨다? 맛도 한 번씩 다 봤는데, 전부 고소하고 맛있더라. 으음~ 그런데 입이 얼얼해지는 것도 섞여 있긴 해서, 그걸 먹게 될지는 박사의 운에 달린 걸로~",
+                "cn": "我带回了一袋坚果，是这次侦测任务中在野外收集到的，已经剥好壳了。放心，每一种我都吃过，保证香脆美味。不过嘛，里面有一种会让嘴巴暂时麻木，会不会吃到就看你运气了。"
+            },
+            "asset": "char_4052_surfer/CN_004"
+        },
+        {
+            "id": "char_4052_surfer_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "I was once a Youth Scout, with a camp nestled in a beautiful park. I believed that was the essence of camping, until... I ventured into the real wilderness. I learned a harsh lesson: when every choice is life or death, you don't get the luxury of maintaining appearances. Life might afford poetry, but survival demands ruthless pragmatism.",
+                "jp": "昔ボーイスカウトに入ってたことがあるんだけど、綺麗な公園がキャンプ場だったから、あれが普通のキャンプだって勘違いしてたんだ。実際に荒野に足を踏み入れてみて、すべての選択が命に関わる状況じゃなりふり構ってられないって思い知らされたの。詩的な生活はあり得ても、生存となるとそうはいかないんだよ。",
+                "kr": "예전에 걸스카우트를 한 적이 있는데, 그때 캠프장이 예쁜 공원이었어서 난 그게 일반적인 캠핑인 줄 알았어. 그런데 실제로 황야에 발을 들이고, 모든 선택이 목숨과 직결되는 상황에 놓이니, 그저 예쁘게 체면치레를 할 수는 없다는 걸 깨달았지. 시적인 생활은 가능할지 몰라도, 생존은 그렇지 않더라.",
+                "cn": "我做过童子军，他们的营地在一处漂亮的公园，曾经我以为那就是野营。直到真的步入荒原我才明白，当做出的每个选择都性命攸关，没有人可以维持体面。生活或许可以诗意，生存不行。"
+            },
+            "asset": "char_4052_surfer/CN_005"
+        },
+        {
+            "id": "char_4052_surfer_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "The records are wrong.I was born in the wilderness, and my adoptive parents brought me to a nomadic city to raise me there. As for my biological parents, their faces have long faded from memory. Still, occasionally... two indistinct faces appear in my dreams. Do they belong to them? I can't tell.",
+                "jp": "プロファイルが間違ってるよ。実は私って荒野生まれなんだ。育ての親が移動都市に連れてってくれて、そこで育ったってだけ。血の繋がった両親がどんなだったかはもうとっくに忘れちゃったけど、たまに……夢にぼやっとした二人の顔が浮かぶことがあるの。それが両親なのかな？分からないや。",
+                "kr": "프로필이 잘못돼 있네. 사실 난 황야에서 태어났어. 날 키워준 양부모님이 이동 도시로 데려가 거기서 자랐을 뿐이야. 친부모님 얼굴은 이제 잘 기억나지 않지만, 가끔…… 꿈속에 흐릿한 실루엣이 떠오를 때가 있어. 그게 부모님일까? 잘 모르겠네.",
+                "cn": "档案上记错了，其实我在荒野出生，是养父母把我带到了移动城市并抚养长大。至于亲生父母，他们的样子我早就记不清了，偶尔......梦里会有两张模糊的面孔出现。是他们吗？我也不知道。"
+            },
+            "asset": "char_4052_surfer/CN_006"
+        },
+        {
+            "id": "char_4052_surfer_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "I just saw Jessica in the hallway. She looks much more confident now. No, she didn't recognize me. My work doesn't involve direct interaction with coworkers, which means few at Blacksteel are even aware of my existence. That's why I was surprised when you took the initiative to talk to me, Doctor.",
+                "jp": "さっき廊下でジェシカさんを見かけたけど、随分キリッとした感じになってたね。ううん、向こうは私を知らないよ。私の仕事は同僚と顔を合わせる必要がないから、BSWで私を知ってる人はほとんどいないんだ。だからここに来てビックリしたんだよ、ドクターの方から声を掛けてくれるなんて、って。",
+                "kr": "아까 복도에서 제시카 씨를 봤는데, 꽤 야무져진 느낌이더라. 아니, 그쪽은 나를 몰라. 내 일 자체가 동료들과 얼굴 맞대는 게 아니라서, 블랙스틸에서 나를 아는 사람은 거의 없어. 그래서 여기 와서 깜짝 놀랐다니까? 박사가 먼저 말을 걸어 줄 줄은 몰랐거든.",
+                "cn": "我刚刚在走廊看到杰西卡小姐了，她看起来干练了许多。不，她不认识我，我的工作不需要与同事当面交接，所以在黑钢，没有几个人知道我。来到这里后，我很惊讶，博士你居然会主动和我说话。"
+            },
+            "asset": "char_4052_surfer/CN_007"
+        },
+        {
+            "id": "char_4052_surfer_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Doctor, I received the ID badge you sent me... but, I apologize, I can't keep it on me. My work demands absolute secrecy, and any form of identification is out of the question. Speaking of which, you'd be shocked at the secrets I've managed to uncover just by blending in as an unremarkable traveler!",
+                "jp": "ドクター、届けてくれたIDカードは見たよ。ああごめん、いつでも身に着けとくわけにはいかないんだ。私の仕事は隠密行動が基本だから、身分証みたいなものは絶対表に出せないんだよ。でもね、想像できないだろうけど、普通の旅人をしていても、たーくさん秘密が見つかるんだから。",
+                "kr": "박사, 보내준 사원증은 잘 받았어. 아, 근데 미안한데 항상 들고 다니긴 어려울 거 같아. 일할 땐 은밀하게 움직여야 해서 신분증 같은 건 절대 밖으로 내보이면 안 되거든. 하지만 말이야, 상상은 잘 안 되겠지만, 평범한 여행자처럼 하고 있어도 아주 많은 비밀을 발견할 수 있다?",
+                "cn": "博士，我看到你送来的工牌了。啊，很抱歉，我不能常常把它带在身上，我的工作需要隐秘行事，身份标识绝对不能出现。不过，你绝对想象不到，只靠普通旅人的身份，我发现过多少秘密。"
+            },
+            "asset": "char_4052_surfer/CN_008"
+        },
+        {
+            "id": "char_4052_surfer_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Doctor, would you sit with me for a moment? I've always understood that my duty is to scout ahead and blaze a trail. Still, despite my meticulous planning, there are times when most of my people don't come back. It seems, no matter how hard I try, it's never quite enough.",
+                "jp": "ドクター、しばらくそばに座っててくれる？これまでずっと、私の仕事の意義はみんなのためにリスクを明確にして、道を切り拓くことにあると思ってた。だけど時々、万全の備えをしたはずなのに、無事に帰ってくる人がほぼいないってこともあるんだ。私はいつだって詰めが甘いのかもしれないね。",
+                "kr": "박사, 잠깐 옆에 앉아 있어 줄래? ……지금까지 난, 내 일의 의미가 모두를 위해 위험을 명확히 정의하고, 길을 여는 거라고 생각했어. 하지만 가끔은 정말 만전을 기했는데도 무사히 돌아오는 사람이 거의 없는 경우도 있었지. 어쩌면 난…… 항상 마무리가 부족한 걸지도 모르겠네.",
+                "cn": "你可以陪我坐一会儿吗，博士？一直以来，我都清楚自己工作的意义在于为他人探明风险、开拓前路。可有时，我以为一切都安排妥当，回来的人却寥寥无几。看起来，我做的总是不够啊。"
+            },
+            "asset": "char_4052_surfer/CN_009"
+        },
+        {
+            "id": "char_4052_surfer_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Don't you feel cooped up staying indoors, Doctor, especially when you finally got some free time? How 'bout we go for a walk…? The sunlight out there is just perfect.",
+                "jp": "ドクター、せっかく暇なのに、部屋にこもってて息苦しくならないの？いい日差しだし、ちょっと散歩でもしようよ。",
+                "kr": "박사, 모처럼 한가한데 방에만 박혀 있으면 답답하지 않아? 날씨도 좋은데 잠깐 산책이라도 할까?",
+                "cn": "难得有空，待在屋子里不会很闷吗，博士？阳光正好，要不要出去走走？"
+            },
+            "asset": "char_4052_surfer/CN_010"
+        },
+        {
+            "id": "char_4052_surfer_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Hello, Doctor. I'm Surfer from Blacksteel Worldwide's advance recon team. My primary duties involve intelligence gathering and pre-mission reconnaissance. If you possess any pertinent information, please, don't keep it to yourself.",
+                "jp": "はじめまして、ドクター。私はBSW先遣小隊所属、コードネームはサーファーだよ。主な担当任務は作戦前の情報収集とか、実地調査。もし関連する情報を持ってたら、絶対出し惜しみしないでね。",
+                "kr": "만나서 반가워, 박사. 나는 블랙스틸 월드와이드 선발팀 소속, 코드네임 서퍼야. 주 임무는 작전 전 정보 수집이나 현지 조사. 혹시 관련 정보가 있으면 숨기지 말고 공유해 줘.",
+                "cn": "博士你好，我是来自黑钢国际先遣小组的寻澜，主要负责任务前期的情报搜集和地点勘察。如果你有相关信息的话，可千万不要藏私哦。"
+            },
+            "asset": "char_4052_surfer/CN_011"
+        },
+        {
+            "id": "char_4052_surfer_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Mind if I take some of these with me? They'd make an excellent remedy for cabin fever on those rainy days when I'm confined to my tent.",
+                "jp": "この資料は持っていってもいい？キャンプで雨に降られちゃった時に、テントにこもってるのってほんとにつまらないんだよ。これ観てお勉強でもしてれば時間潰せるでしょ。",
+                "kr": "이 자료 가져가도 될까? 캠프에서 비가 와 텐트 안에 갇혀 있으면 정말 지루하거든. 이거라도 보면서 공부하면 시간 보내기 좋을 거 같네.",
+                "cn": "这些资料我可以带走吗？有时营地下雨，待在帐篷里真的很无聊，看看它学点什么也好打发时间。"
+            },
+            "asset": "char_4052_surfer/CN_012"
+        },
+        {
+            "id": "char_4052_surfer_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Twice the vacation days, double the salary... Achoo—oh, hi there, Doctor! No, no, I wasn't saying anything just now.",
+                "jp": "どうか有休が二倍、給料も二倍に……くしゅん――ドクター、いつの間にこっち向いてたの。いやいや、私は何も言ってないよ。",
+                "kr": "제발 휴가 두 배, 월급 두 배로…… 에취. 박사, 언제부터 여기 보고 있던 거야. 아니아니, 나 아무 말도 안 했어.",
+                "cn": "年假翻一倍，工资翻一倍......阿嚏——博士，你转过身来了啊。没有没有，我刚刚没在说话。"
+            },
+            "asset": "char_4052_surfer/CN_013"
+        },
+        {
+            "id": "char_4052_surfer_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Guess what, Doctor? Yesterday, on my way back here, I saw a brilliant red sunset. A good omen that today would be a lucky day. Sooo, have you come bearing good news?",
+                "jp": "昨日の帰り道で真っ赤な夕焼けを見れたから、「明日はきっといいことある」って思ってたんだ。ドクター、何かいい知らせを届けに来てくれたんでしょ？",
+                "kr": "어제 돌아오는 길에 진홍빛 노을을 봐서, '내일은 분명 좋은 일이 있을 거야'라고 생각했는데. 박사, 뭔가 좋은 소식 전하러 온 거지?",
+                "cn": "昨天我在回程中看到一片艳红的夕阳，就有预感今天一定会走运。博士，你这次来，是有好消息要带给我吗？"
+            },
+            "asset": "char_4052_surfer/CN_014"
+        },
+        {
+            "id": "char_4052_surfer_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Adding me to this wilderness mission was a wise choice. Trust me, Doctor, I'll ensure your safe return to the landship.",
+                "jp": "今回の任務では荒野の奥まで踏み込むみたいだし、私を連れて行くのはいい判断だね。私を信じて、ドクター。必ずあなたを無事に連れて帰るよ。",
+                "kr": "이번 임무는 황야 깊은 곳까지 가야 하는 모양이던데, 나를 데려가기로 한 건 좋은 판단이야. 날 믿어줘, 박사. 반드시 널 무사히 데리고 돌아와 줄게.",
+                "cn": "这次任务深入荒野，带上我是明智的选择，相信我，博士，我会把你平安带回舰上的。"
+            },
+            "asset": "char_4052_surfer/CN_017"
+        },
+        {
+            "id": "char_4052_surfer_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "The wilderness is far more complex than most imagine. If you want to accompany me, you'll have to abandon those romantic notions about camping first.",
+                "jp": "野外の環境はみんなが思ってるよりずっと複雑だよ。私に付いてきたいなら、まずは頭の中のロマンティックなキャンプ像を捨ててからにしてね。",
+                "kr": "야외 환경은 생각보다 훨씬 복잡해. 나와 동행하고 싶다면, 먼저 캠핑에 대한 로맨틱한 상상부터 버리는 게 좋을 거야.",
+                "cn": "野外环境远比大家想象的要复杂，如果想与我同行，首先就要抛掉脑子里那些对野营的浪漫想象。"
+            },
+            "asset": "char_4052_surfer/CN_018"
+        },
+        {
+            "id": "char_4052_surfer_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Alright. We pitched the tent. Now we have a base camp from which to go anywhere we please.",
+                "jp": "テントは張ったから、あとはもうどこへでも行けるよ。",
+                "kr": "텐트는 다 쳤으니까, 이제 어디든 갈 수 있어.",
+                "cn": "帐篷扎好了，接下来我们去哪里都可以。"
+            },
+            "asset": "char_4052_surfer/CN_019"
+        },
+        {
+            "id": "char_4052_surfer_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "I'll go solo. A large group might provoke hostility from the locals.",
+                "jp": "行くのは私だけでいいよ。大勢だと、現地の人たちに敵意を持たれるかもだから。",
+                "kr": "나 혼자 가는 게 좋을 거 같아. 사람이 많으면, 현지 사람들이 적의를 가질지도 몰라.",
+                "cn": "我自己一个人去就够了，人太多，会引起当地人的敌意。"
+            },
+            "asset": "char_4052_surfer/CN_020"
+        },
+        {
+            "id": "char_4052_surfer_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "I'll go gather some dry branches. We must have a campfire lit before nightfall.",
+                "jp": "枯れ枝を集めてくるね。暗くなる前に焚き火を起こしとかないと。",
+                "kr": "마른 나뭇가지 좀 모아 올게. 어두워지기 전에 모닥불을 피워 둬야지.",
+                "cn": "我去找些枯枝，天黑前我们得把篝火生起来。"
+            },
+            "asset": "char_4052_surfer/CN_021"
+        },
+        {
+            "id": "char_4052_surfer_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Water's not far. Stay put, and I'll fill the canteens.",
+                "jp": "水場が近いからちょっと待ってて。水筒をいっぱいにしてくるね。",
+                "kr": "물가가 가까우니까 잠깐만 기다려. 물통 채워올게.",
+                "cn": "水源离这里不远，稍等，我去把水壶打满。"
+            },
+            "asset": "char_4052_surfer/CN_022"
+        },
+        {
+            "id": "char_4052_surfer_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "*Sigh* I never expected to encounter so many people on this trip.",
+                "jp": "はぁ、今回の旅ではこんなにたくさんの人と出会うなんてね。",
+                "kr": "하아. 이번 여행에서 이렇게나 많은 사람을 만날 줄이야.",
+                "cn": "唉，我也没想到此次出行会遇到这么多人。"
+            },
+            "asset": "char_4052_surfer/CN_023"
+        },
+        {
+            "id": "char_4052_surfer_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Hello, I'm here for a brief survey. Don't worry, I won't overstay my welcome.",
+                "jp": "こんにちは。ちょっとした調査なので長居はしません。ご安心ください。",
+                "kr": "안녕하세요. 잠깐 조사차 왔어요, 오래 머물지는 않을 테니까 안심하세요.",
+                "cn": "您好，只是有些小调查要做，放宽心，我不会久留。"
+            },
+            "asset": "char_4052_surfer/CN_024"
+        },
+        {
+            "id": "char_4052_surfer_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "They came just in time; our provisions are running low.",
+                "jp": "いいタイミングで来てくれたね。丁度物資が底を尽きそうだったんだ。",
+                "kr": "딱 좋은 타이밍에 와줬네. 마침 물자가 바닥나던 참이었는데.",
+                "cn": "他们来得正好，我们的物资不剩多少了。"
+            },
+            "asset": "char_4052_surfer/CN_025"
+        },
+        {
+            "id": "char_4052_surfer_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "*Sigh* They ruined the night. What a waste of this gorgeous scenery.",
+                "jp": "最悪のタイミングで来ちゃったね。あーあ、せっかくの夜景なのに。",
+                "kr": "최악의 타이밍에 왔잖아. 하아…… 모처럼 이렇게 아름다운 야경인데.",
+                "cn": "他们出现得很不合时宜，唉，多么好的夜景。"
+            },
+            "asset": "char_4052_surfer/CN_026"
+        },
+        {
+            "id": "char_4052_surfer_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Forgive me, I woke up on the wrong side of the sleeping bag.",
+                "jp": "ごめんね。寝袋から出てきたばっかりで、イライラしてるんだ。",
+                "kr": "미안. 침낭에서 막 나온 터라, 좀 짜증이 나네.",
+                "cn": "抱歉，我刚从睡袋里爬起来，心情很糟。"
+            },
+            "asset": "char_4052_surfer/CN_027"
+        },
+        {
+            "id": "char_4052_surfer_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Excuse me, can we hurry this up? I really don't want my meal getting cold.",
+                "jp": "あのー、早く終わらせてもらえない？冷えた夜ご飯は食べたくないんだけど。",
+                "kr": "저기, 빨리 끝내줄 순 없을까? 다 식은 저녁을 먹고 싶진 않은데.",
+                "cn": "请问，能快点结束吗？我实在不想吃放凉的晚饭。"
+            },
+            "asset": "char_4052_surfer/CN_028"
+        },
+        {
+            "id": "char_4052_surfer_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Have you burnt this scenery into your mind, Doctor? We'll head out like a shooting star, but this memory, right here, right now, will endure for you to reflect upon over and over again.",
+                "jp": "この景色はドクターにはどう見えてる？しっかり心に刻んでおいてね。私たちはいずれ立ち去るけど、記憶はずっと残って、いつでも思い出せるんだから。",
+                "kr": "박사에게는 이 풍경이 어떻게 보여? 마음에 잘 새겨 둬. 우리는 언젠가 이곳을 떠나겠지만, 기억은 머릿속에 남아서 언제라도 떠올릴 수 있을 테니까.",
+                "cn": "看到你眼前的景象了吗，博士？牢牢记住它吧，我们终将远去，但记忆会长存，随时等你回首。"
+            },
+            "asset": "char_4052_surfer/CN_029"
+        },
+        {
+            "id": "char_4052_surfer_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Everyone gained from this trip. And my gain is everyone's satisfaction.",
+                "jp": "今回の遠征で、みんな何かしら得るものがあったみたいだね。大満足だよ。",
+                "kr": "이번 원정에서 다들 무언가 얻은 게 있었던 모양이네. 나도 정말 만족스러워.",
+                "cn": "这趟远行中，每个人都有各自的收获，我已经很满足了。"
+            },
+            "asset": "char_4052_surfer/CN_030"
+        },
+        {
+            "id": "char_4052_surfer_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "The terrain ahead is not in our favor. Continuing this advance is not advisable, Doctor. We should stand down.",
+                "jp": "この先の地形はこっちに不利になるから、このまま進むのはオススメできないな。ドクター、この辺にしておこうよ。",
+                "kr": "앞쪽 지형은 우리에게 불리해. 계속 전진하는 건 추천하지 않아. 박사, 여기서 멈추자.",
+                "cn": "前方地势对我们不利，继续前进不是好主意，博士，到此为止吧。"
+            },
+            "asset": "char_4052_surfer/CN_031"
+        },
+        {
+            "id": "char_4052_surfer_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Doctor, though the journey may not have been entirely satisfying, we must ensure no trash is left behind.",
+                "jp": "ドクター、期待通りの旅にならなくても、帰り際にはゴミ一つ残しちゃダメだからね。",
+                "kr": "박사, 여정이 기대와 다르게 흘러갔어도, 돌아갈 때는 쓰레기 하나라도 남겨둬선 안 돼.",
+                "cn": "博士，就算旅途不尽兴，离开时也不能有一点垃圾留下。"
+            },
+            "asset": "char_4052_surfer/CN_032"
+        },
+        {
+            "id": "char_4052_surfer_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Really? Are you going to confine me to this windowless room for so long? I must have done something to upset you, then?",
+                "jp": "本気？ほんとにこんな空も見えない部屋にずっと居させるつもり？ドクターを怒らせることでもしちゃったのかな？",
+                "kr": "진심이야? 이런 하늘도 보이지 않는 방에 계속 있게 한다고? 아니면 내가 박사를 화나게 할 만한 일이라도 한 걸까?",
+                "cn": "真的吗？你真的要让我留在这间不见天日的屋子里那么久吗？我做了什么事惹你不开心了，对不对？"
+            },
+            "asset": "char_4052_surfer/CN_033"
+        },
+        {
+            "id": "char_4052_surfer_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Hmm...? Oh. Want some canned soup?",
+                "jp": "缶詰スープでもどう？",
+                "kr": "통조림 스프라도 먹을래?",
+                "cn": "来点罐头汤吗？"
+            },
+            "asset": "char_4052_surfer/CN_034"
+        },
+        {
+            "id": "char_4052_surfer_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Go get some rest. I'll take the night watch.",
+                "jp": "中で寝ていいよ。私が夜番するから。",
+                "kr": "안에서 자도 돼. 내가 불침번 설 테니까.",
+                "cn": "你进去睡吧，我来守夜。"
+            },
+            "asset": "char_4052_surfer/CN_036"
+        },
+        {
+            "id": "char_4052_surfer_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4052_surfer/CN_037"
+        },
+        {
+            "id": "char_4052_surfer_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Looks like this year will be no different from last year. I'll visit some old places and some new, meet some old friends and make some new, and handle some old tasks while taking on new ones. The good news is, at least this time, I won't be alone on the journey.",
+                "jp": "今年も去年と大して変わってないかな。馴染みの場所にも新しい場所にも行って、馴染みの友達にも新しい友達にも会って、馴染みの任務にも初めての任務にも挑戦して……でも、その旅路が私一人のものじゃなくなったのは嬉しいかも。",
+                "kr": "올해도 작년과 크게 다르지는 않은 것 같아. 익숙한 곳에도 새로운 곳에도 가보고, 익숙한 친구도 새로운 친구도 만나고, 익숙한 임무도 처음 겪는 임무도 도전해 보면서…… 그래도, 이 여정이 이제 나 혼자만의 것이 아니라는 게 기쁘기도 해.",
+                "cn": "看来今年和去年比也没什么变化，去一些老地方和新地方，见一些老朋友和新朋友，出一些旧任务和新任务，不过可喜的是，路途上总算不是只有我自己一人了。"
+            },
+            "asset": "char_4052_surfer/CN_038"
+        },
+        {
+            "id": "char_4052_surfer_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "When was the last time we saw each other... a month ago? It's a joy to see you in good health, Doctor.",
+                "jp": "前に会ったのはいつだっけ。一ヶ月前？元気してた、ドクター？",
+                "kr": "전에 만난 게 언제였더라. 한 달 전? 잘 지냈어, 박사?",
+                "cn": "上次见面是什么时候，一个月前？别来无恙啊，博士。"
+            },
+            "asset": "char_4052_surfer/CN_042"
+        },
+        {
+            "id": "char_4052_surfer_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "No, no, no, Doctor, this map isn't THE birthday gift. What you need to do is mark a location on the map, any one will do, and I'll take you camping there. I'm sure the breathtaking canyon views will help you relax.",
+                "jp": "いやいや違うよ、ドクター。この地図が誕生日プレゼントなんて勘違い。あなたにはこの地図の好きなところに目印を付けてほしいんだ。そしたら私がそこまでキャンプに連れて行ってあげる。きっと峡谷の絶景でばっちりリラックスできるよ。",
+                "kr": "아니아니, 그게 아니야, 박사. 이 지도는 생일 선물이 아니야. 자, 박사가 해야 하는 건, 이 지도를 보고 마음에 드는 곳에 표시를 해주는 거야. 그럼 내가 그곳으로 박사를 데리고 가줄게. 거기서 캠핑하자. 협곡의 절경을 바라보다 보면 분명 제대로 릴랙스 될 거야.",
+                "cn": "不不不，博士，这张地图不是你的生日礼物，你搞错了。你要做的，是随意在上面勾出一个地点，之后我会带你前去扎营，我想，那里美丽的峡谷风光肯定能让你好好放松一下。"
+            },
+            "asset": "char_4052_surfer/CN_043"
+        },
+        {
+            "id": "char_4052_surfer_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Sometimes, the farther the destination, the fewer provisions I load. In the wilderness, packing too much means a heavy burden; a light pack is the key to success. I've carried a lot for a long time: as the weight on your shoulders grows heavier, and the road ahead remains infinitely long, how will you ultimately reach the end, Doctor?",
+                "jp": "目的地が遠ければ遠いほど、荷物を減らすことだってあるよ。野外に生きる者としては、多すぎる荷物は負担にしかならないし、軽装でいる方がいいんだ。だからずっと気掛かりだったんだけど、あなたが背負ってるものは日に日に重さを増してるのに、先の道はずっと長く続いてるでしょ。最終的にどうやって目的地に辿り着くつもりなの、ドクター。",
+                "kr": "가끔은 목적지가 멀면 멀수록, 짐을 줄이는 경우가 있어. 야외에서 생활하는 입장에서 너무 많은 짐은 부담일 뿐이거든. 가볍게 지내는 게 차라리 나아. 그래서 계속 마음에 걸렸던 건데, 박사가 지고 있는 짐은 날이 갈수록 점점 더 무거워지는데, 앞으로의 여정은 아직도 한참 남았잖아. 어떻게 목적지에 도달할 생각이야, 박사?",
+                "cn": "有时候，目的地越是遥远，我携带的物资就越少。涉身野外，过多的东西只会成为负担，还不如轻装。我一直很困惑，你所背负的日渐沉重，而前路却依然漫长。最终，你要如何抵达尽头呢，博士？"
+            },
+            "asset": "char_4052_surfer/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Dev Joshi",
+            "global": "Dev Joshi"
+        },
+        "cn": {
+            "native": "陈阳",
+            "global": "Chen Yang"
+        },
+        "jp": {
+            "native": "前田恵",
+            "global": "Kei Maeda"
+        },
+        "kr": {
+            "native": "김서현",
+            "global": "Kim Seo-hyun"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

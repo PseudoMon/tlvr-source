@@ -1352,6 +1352,19 @@
         "rating": 5
     },
     {
+        "fullid": "char_4052_surfer",
+        "nameid": "surfer",
+        "numberid": "4052",
+        "name": {
+            "en": "Surfer",
+            "jp": "サーファー",
+            "kr": "서퍼",
+            "cn": "寻澜"
+        },
+        "nation": "columbia",
+        "rating": 5
+    },
+    {
         "fullid": "char_308_swire",
         "nameid": "swire",
         "numberid": "308",
@@ -3107,6 +3120,19 @@
         "rating": 5
     },
     {
+        "fullid": "char_4172_xingzh",
+        "nameid": "xingzh",
+        "numberid": "4172",
+        "name": {
+            "en": "Xingzhu",
+            "jp": "シィンズゥ",
+            "kr": "싱주",
+            "cn": "行箸"
+        },
+        "nation": "yan",
+        "rating": 5
+    },
+    {
         "fullid": "char_4102_threye",
         "nameid": "threye",
         "numberid": "4102",
@@ -3809,6 +3835,19 @@
         "rating": 6
     },
     {
+        "fullid": "char_1040_blaze2",
+        "nameid": "blaze2",
+        "numberid": "1040",
+        "name": {
+            "en": "Blaze the Igniting Spark",
+            "jp": "熾炎ブレイズ",
+            "kr": "블레이즈 디 이그나이팅 스파크",
+            "cn": "烛煌"
+        },
+        "nation": "rhodes",
+        "rating": 6
+    },
+    {
         "fullid": "char_206_gnosis",
         "nameid": "gnosis",
         "numberid": "206",
@@ -4404,6 +4443,19 @@
             "cn": "涤火杰西卡"
         },
         "nation": "columbia",
+        "rating": 6
+    },
+    {
+        "fullid": "char_2026_yu",
+        "nameid": "yu",
+        "numberid": "2026",
+        "name": {
+            "en": "Yu",
+            "jp": "ユー",
+            "kr": "위",
+            "cn": "余"
+        },
+        "nation": "yan",
         "rating": 6
     },
     {

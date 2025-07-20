@@ -1,0 +1,649 @@
+{
+    "charid": "char_2026_yu",
+    "nameid": "yu",
+    "names": {
+        "en": "Yu",
+        "jp": "ユー",
+        "kr": "위",
+        "cn": "余"
+    },
+    "voices": [
+        {
+            "id": "char_2026_yu_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Ah, I see this is a fine location. Alright, then… 'Daily desserts, fresh out of the oven, in limited quantities.' Heehee, there we go! Oh, Doctor? Nothing special here. Don't let me keep you.",
+                "jp": "この場所、悪くないねぇ。それじゃ……「甘いものでほっと一息！焼き立て、数量限定」、よし！ん、ドクター？なんでもないよ。気にしないで仕事してな。",
+                "kr": "이 장소, 나쁘지 않네. 그러면…… '1일 1단맛, 갓 구움, 수량 한정', 좋았어! 응? 박사? 아니 아니 아무것도 아니야. 난 신경 쓰지 말고 일해.",
+                "cn": "这位置不错嘛，那我就......“每日甜点，新鲜出炉，限量供应”，好嘞！博士？没事没事，你忙你的。"
+            },
+            "asset": "char_2026_yu/CN_001"
+        },
+        {
+            "id": "char_2026_yu_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Doctor, I don't know what Nian told you, but I must emphasize this: I. Don't. Cook. Without good reason. A chef must be particular in his prepara... Wai-wai-wai-wait, That bag of snacks is your lunch? Tch, aiya... stop eating that, I'll whip something up for you.",
+                "jp": "ドクター、ニェン姉ちゃんに何を吹き込まれたかは知らないけど、もう一度言っとくよ。私の腕は安売りしないんだ。料理人ってのは、火を起こすのにも、包丁を握るのにもこだわりがあるん――ちょっと、まさか昼ご飯をこのお菓子で済ませようとしてるの？まったく、何か作ってきてあげるよ。すぐできるからそこにいて。",
+                "kr": "박사, 니엔 누나가 무슨 소리를 했는지 모르겠지만, 내가 다시 한번 말하는데, 난 아무한테나 막 이것저것 요리해주지 않아. 요리사는 불을 피우는 것도, 칼을 쥐는 것도 자기만의 방식이 있는 법이거든…… 잠깐, 너 설마 그 과자로 점심을 때울 생각이야? 참 나. 있어 봐, 뭐라도 만들어 올게. 금방이면 되니까 기다려.",
+                "cn": "博士，不管年姐和你说了什么，我都要再强调一遍，我可不是随随便便就会下厨的。一个厨师，开灶动刀都有讲究——欸，你午饭就用这包零食打发了？唉，我去给你做两个菜去，马上就好。"
+            },
+            "asset": "char_2026_yu/CN_002"
+        },
+        {
+            "id": "char_2026_yu_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "I'm fairly confident in my culinary arts, but just as there are those who indulge in exotic delicacies, there are those who prefer bland flavors. You can't satisfy everyone, and it's also a matter of whether fate allows for a chef and a diner to cross paths. So, do you find this dish to your liking? If you want any special treatment in the future, you'd better nod right now.",
+                "jp": "料理の腕前を言うなら、そりゃ自信はあるよ。でも珍味が好きな人もいれば、淡白な日常料理が好きな人もいるでしょ。全員の口に合わせるのは難しいから、料理人とお客さんの相性ってのも関わってくるんだ。ところでこの料理はどう、口に合う？次も特製料理が食べたかったら、頷くとこだからね。",
+                "kr": "요리 실력이라면 자신 있지. 하지만 산해진미를 좋아하는 사람이 있는가 하면, 일상에서 자주 접하는 소박한 요리를 좋아하는 사람도 있는 법이잖아? 모두의 입맛에 맞추기는 어려우니까, 요리사와 손님의 궁합이란 것도 중요한 것 같아. 근데 이 요리는 어때, 입에 맞아? 다음에도 내 특제 요리가 먹고 싶다면, 고개를 끄덕여야겠지?",
+                "cn": "要说厨艺，我当然还是有信心的。可有人爱山珍野味，就有人爱清粥小菜。众口难调，也要看厨师和食客的缘分。这道菜还合胃口吗？如果下次还想开小灶的话，现在就只能点头哦。"
+            },
+            "asset": "char_2026_yu/CN_003"
+        },
+        {
+            "id": "char_2026_yu_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "I'm laying low on Rhodes Island to dodge my debts? Who said that? I owe Ji a little rent, but he's had plenty of my cooking! My siblings only ever think of me when they're hungry. Doctor, now you know who's the dependable one in the family!",
+                "jp": "私が借金から逃げるためにロドスに来たって？誰が言ったのそれ！？確かにジー兄ちゃんへの家賃がちょっと遅れたけど、向こうだって散々私もちで飲み食いしてるのに！はぁ、うちの兄ちゃん姉ちゃんはまったくなぁ、腹が鳴った時しか私のこと思い出さないんだから。ドクター、これで誰がうちの兄弟姉妹で一番頼りになるか分かったでしょ？",
+                "kr": "내가 빚 때문에 로도스 아일랜드로 도망쳐온 거라고? 누가 그런 소리를 해?! 물론 지 형한테 집세를 좀 밀리긴 했지만, 자기도 내 식당에서 맨날 먹고 마신단 말이야! 하아, 우리 형 누나들은 배가 고플 때만 내 생각이 나나 봐. 박사, 이제 우리 형제자매 중에 누가 가장 믿음직한지 알겠지?",
+                "cn": "我来罗德岛躲债？谁说的？！我是欠了绩一点房租，但他也没少吃我的呀！唉，我的这些哥哥姐姐，只有馋了饿了的时候才会念着我的好。博士，现在你知道谁才是这个家里最靠谱的人了？"
+            },
+            "asset": "char_2026_yu/CN_004"
+        },
+        {
+            "id": "char_2026_yu_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "'A nobleman stays clear of the kitchen.'... Hmph, I wonder which bitter scholar dreamed up such nonsense. Just because you ignore something, it ceases to exist? People eat five grains, and then they have six desires and seven emotions. Nothing could be more natural. The work of this kitchen is, if you ask me, the most significant thing in this land.",
+                "jp": "「君子は庖厨を遠ざく」なんてさ、どこの嫌味な書生が言い出した戯言か知らないけど。世の中にはこんなに色んなことがあるんだよ。それ全部、目を瞑ればなくなるって言うの？人が五穀を食べるのも、七情六欲を持ってるのも、至極当たり前のことだろ。厨房で起こるすべては、この世で一番大事なことなんだよ。",
+                "kr": "아니, '군자는 주방을 멀리한다'라니. 어떤 되도 않는 서생이 지어낸 헛소리인지는 모르겠지만, 세상에는 이렇게나 다양한 일들이 있는데, 그게 뭐 눈 감고 안 본다고 사라지기라도 하나? 사람이 오곡을 먹고, 감정과 욕망을 갖는 건, 당연한 일이야. 그러니 주방에서 일어나는 일은 세상에서 가장 중요한 거라고.",
+                "cn": "“君子远庖厨”，也不知道是哪个酸书生编出来的歪理。世上那么多事，你不去瞧，它就没有了？人吃五谷杂粮，生七情六欲，再寻常不过。这厨房里的事，明明就是世上最大的事。"
+            },
+            "asset": "char_2026_yu/CN_005"
+        },
+        {
+            "id": "char_2026_yu_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "I love the mortal realm. I mean, who would want to go back to that primordial chaos after tasting all these different flavors? Sour, salty, bitter, spicy... miss any one of them, you'll never master cookery. Likewise, joy, sorrow, separation, reunion... if you don't understand all of them, you'll never learn how to truly be a <i>person</i>. Yeah... Now, I've come to understand all the tastes.",
+                "jp": "私はこの人間が好きだよ。こんなにたくさんの味を知れたのに、あの混沌に帰りたいなんて思うやつがいるわけないでしょ？五味のどれか一つを知らないだけでも料理は作れないんだ。出会いも別れも、どれか一つでも経験が欠けてたら「人たる」ことはできないんだ。そうだね……今の私は、それを覚えたよ。",
+                "kr": "나는 이 '인간 세상'이 마음에 들어. 이렇게나 다양한 맛을 알게 됐는데, 누가 그 혼돈으로 다시 돌아가고 싶겠어? 짠맛, 쓴맛, 신맛, 단맛, 매운맛, 이 오미 중 하나라도 맛보지 못했다면 요리를 만들 수 없듯, 슬픔과 기쁨, 만남과 이별, 어느 하나라도 경험하지 못한다면 '사람다움'을 배울 수 없지. 그래…… 지금의 난, 그걸 배웠어.",
+                "cn": "我喜欢这人间，尝过了这么多味道，谁还会想回到那片混沌里去？酸咸苦辣，少尝一种就学不会做菜；悲欢离合，少尝一种也学不会“做人”。嗯......我现在，是学会了。"
+            },
+            "asset": "char_2026_yu/CN_006"
+        },
+        {
+            "id": "char_2026_yu_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Blaze went home, and brought Miss Ning along? Ah... Good for them... Shh... nope, I didn't fan the flame or anything. Oftentimes, what matters is who sits around the table, rather than what's upon it. All I want is for my patrons to enjoy their meals. The land is home to many flavors, but nothing compares to the taste of family reunion.",
+                "jp": "ブレイズが寧ちゃんを実家に連れて帰ったの？良かったね……しーっ、別にあの二人の間に何か起きるように画策したりしてないからね。大抵の場合、何を食べるかより、誰と食べるかの方が重要なんだ。私は客人に思いっきり食事を楽しんでもらいたいだけだよ。人間百味、その中でも団欒の味が一番いいもんだ。",
+                "kr": "블레이즈가 영인을 본가로 데려갔다고? 정말 잘 됐네…… 쉿, 딱히 뭔가 일어나도록 꾸민 건 아니야. 대부분의 상황에선, 무엇을 먹는지보다는 누구와 먹는지가 더 중요하거든. 나는 그저 손님이 마음껏 식사를 즐겨줬으면 할 뿐이야. 인간 세상의 백 가지 맛 중, 단란함이 가장 맛있는 법이지.",
+                "cn": "煌带宁小姐回老家了？真好啊......嘘，我可没做什么挑拨的事。很多时候，和谁一块吃饭比吃什么更重要。我只是想让客人吃得尽兴罢了。人间百味，还是圆圆满满的滋味最好。"
+            },
+            "asset": "char_2026_yu/CN_007"
+        },
+        {
+            "id": "char_2026_yu_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "'Who am I?' My siblings have all thought things through. Me? I'm not ready yet. There are still many dishes I haven't tasted, and too many TV dramas I have to finish... Hey, wait a second. Doctor, just play your tile already. Bringing up philosophical questions right when I'm about to win? That's cheating, and it's way too obvious, you know!",
+                "jp": "「我とは誰か」か……兄ちゃん姉ちゃんはどいつもこいつも達観してるよ。ふっ、私はどうもそうはなれないね。まだ試してない料理法が山ほどあるし、気になってるドラマも観終わってない――いや待て、さっさと牌捨てなって。私が勝ちそうな時にその話を持ち出すなんて、誤魔化したいのが見え見えだよ、ドクター！",
+                "kr": "'나는 누구인가'라…… 형 누나들은 모두 하나같이 달관했어. 나는 아직 그렇게는 못 되겠던데. 아직 해보지 않은 요리법이 산더미처럼 쌓여 있는 데다, 보고 싶었던 드라마도 아직 다 못 봤으니까…… 아니 잠깐, 빨리 패 버려. 내가 이길 것 같을 때 이런 이야기를 꺼내다니, 속이 훤히 보인다고, 박사!",
+                "cn": "“我是谁？”哥哥姐姐们一个比一个通透。我可不行，还有那么多菜式没有试过，连想看的电视剧都还没看完——欸不对，你倒是把那张牌打出来呀，在我快赢的时候说这些，耍赖太明显了，博士！"
+            },
+            "asset": "char_2026_yu/CN_008"
+        },
+        {
+            "id": "char_2026_yu_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Here we come to this moment again... You are just like that brother of mine. Once you've got your mind set on something, nothing else matters, and there's no going back. Hey-ya... You see, Doctor. Soup needs to be simmered slowly to develop its flavors, but it can be so mentally exhausting. That's why... one must always take care to eat well.",
+                "jp": "またこんな時間まで……あんたとうちの例の兄ちゃんはちょっと似てるよ。これだって決めたら脇目もふらず、引き返すこともできないんだ。スープってのは確かに弱火でじっくり煮込んでこそうま味が出てくるんだけど、すごく精神を消耗することでもあるからさ。はぁ……どんな時でも、ご飯はちゃんと食べなきゃだめだよ。",
+                "kr": "또 이 시간까지…… 가만 보면 너랑 우리 집 그 형은 닮은 구석이 있단 말이야. 이거다 싶으면 곁눈질도 안 하고, 뒤도 안 돌아보더라. 탕은 약한 불에 천천히, 뭉근하게 끓여야 제맛이 나는 거야. 물론 그래서 신경도 엄청나게 써야 하지만. 하아…… 어쨌든 어떤 상황에서도 밥은 제대로 챙겨 먹어야 해.",
+                "cn": "又到这个点了......你和我那个哥哥也挺像的。认准了一个理就什么都不顾，再回不了头了。汤是要慢慢熬才能熬出滋味，可也容易伤神啊。唉......不管什么时候，还是要好好吃饭呀。"
+            },
+            "asset": "char_2026_yu/CN_009"
+        },
+        {
+            "id": "char_2026_yu_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "I'm still not used to the quiet without a kitchen fire burning nearby… It makes me so sleepy…",
+                "jp": "竈の火の音がないと、ちと慣れないなぁ。こんな静かだと、ふぁ、ねむ……",
+                "kr": "아궁이 불 소리가 없는 건, 아직 좀 어색하네. 이렇게 조용하면, 후아암, 졸리는데……",
+                "cn": "没有灶火声，还有点不习惯。这么安静，好困啊......"
+            },
+            "asset": "char_2026_yu/CN_010"
+        },
+        {
+            "id": "char_2026_yu_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Hello, you must be the Doctor. I'm here to visit my brother and sisters. Do I sign the visitor's log here? Alright. Hmm...? Logistics Operator Employment contract? Nian! You trick me again!",
+                "jp": "どーも。ドクターってあんたでしょ。私はここで世話になってる兄ちゃん姉ちゃんに会いに来たんだ。来客の受付ってここに名前書くの？分かった――後方支援オペレーター雇用契約書？ニェン姉ちゃん！また騙したな！",
+                "kr": "안녕. 네가 박사구나? 형이랑 누나들을 만나러 왔어. 방문객은 여기에 이름 쓰면 되는 거 맞지? 알겠어…… 잠깐, 후방지원 오퍼레이터 고용 계약서? 니엔 누나! 날 또 속인 거야?!",
+                "cn": "你好，你就是博士吧。我来探望一下我的哥哥姐姐，访客是在这里登记吗？好嘞——后勤干员入职合同？年姐！你又骗我！"
+            },
+            "asset": "char_2026_yu/CN_011"
+        },
+        {
+            "id": "char_2026_yu_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Maybe we should watch something else while we're eating?",
+                "jp": "食事の時は、こういう映像流すのひとまずやめとかない……？",
+                "kr": "밥 먹을 때는 이런 영상 안 보면 안 될까……?",
+                "cn": "吃饭的时候，还是先别看这些了吧......？"
+            },
+            "asset": "char_2026_yu/CN_012"
+        },
+        {
+            "id": "char_2026_yu_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Bitter gourd is in season now. Deseeding, blanching, and adding it to the soup brings out the most flavor. Some find it too bitter, while others are absolutely in love with it. Palates differ, and sweetness or bitterness are unique to each individual.",
+                "jp": "ちょうど旬で、ニガウリが熟れてるよ。種をとって、ゆでこぼして、それからスープに入れるのが一番うまい。苦いと嫌う人もいるけど、好きでたまらないって人もいる。思うことは人それぞれ、甘いか苦いかは己のみが知るってね。",
+                "kr": "마침 제철이라 여주가 아주 잘 익었더라. 씨를 빼고 데친 다음 탕에 넣으면 맛이 아주 좋아. 쓴맛 때문에 싫어하는 사람도 있긴 하지만, 반대로 엄청 좋아하는 사람도 있다? 생각은 사람마다 다르고, 단지 쓴지는 오직 자신만이 아는 거지.",
+                "cn": "正是好时节，凉瓜熟了。去籽，焯水，放进汤里最是提味。有人尝了嫌苦，有人却喜欢得不得了。言人人殊，甘苦自知啊。"
+            },
+            "asset": "char_2026_yu/CN_013"
+        },
+        {
+            "id": "char_2026_yu_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Oh? Trying to keep me here? Haha. There's nothing to be ashamed of. You've had a taste of my cooking. If you could forget that flavor, wouldn't all my years of culinary practice have been in vain?",
+                "jp": "私がいなくなったら嫌なの？はは、そんな残念がることはないよ。あんたは私の料理を食べたろ。長いこと腕を鍛えてきたんだ、そうそう忘れられる味じゃないだろ？",
+                "kr": "내가 사라지는 게 싫어? 하하, 그렇게 아쉬워할 것 없어. 너는 내 요리를 먹어봤잖아. 그게 그렇게 쉽게 잊힐 맛이었으면, 내가 지금까지 갈고닦아 온 요리 실력은 다 뭐가 되겠어.",
+                "cn": "舍不得我吗？哈哈，也没什么好遗憾的。你都吃过我做的菜了，要是还能忘掉那种味道，我这么多年的厨艺不是白练了？"
+            },
+            "asset": "char_2026_yu/CN_014"
+        },
+        {
+            "id": "char_2026_yu_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "I won't fight for nothing. But for the right price, hehe, I'm in.",
+                "jp": "タダ働きはしないよ。へへ、でもお代は相談に乗るさ。",
+                "kr": "공짜로 일하진 않아. 헤헤, 하지만 보수라면 협상이 가능하지.",
+                "cn": "我可不会白白出手，嘿嘿，不过价钱也好商量。"
+            },
+            "asset": "char_2026_yu/CN_017"
+        },
+        {
+            "id": "char_2026_yu_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "A-hem! The chef has the final word here.",
+                "jp": "ごほんっ、料理長の命令は絶対だ。",
+                "kr": "에헴, 주방장의 명령은 절대적인 법.",
+                "cn": "咳咳，大厨的话就是绝对的命令。"
+            },
+            "asset": "char_2026_yu/CN_018"
+        },
+        {
+            "id": "char_2026_yu_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "The mung bean soup is already simmering. Whether you want your beans intact or fully dissolved depends on how quickly you return.",
+                "jp": "緑豆湯はもう火にかけてるよ。豆の形が残ってるのと皮が花みたいに開いたの、どっちが飲めるかは戻ってくる速さによるからね～。",
+                "kr": "녹두탕은 이미 불에 올려뒀어. 콩의 형태가 남아있는 것과 잘 익어 풀어진 것 중에 뭘 먹게 될지는 네가 돌아오는 속도에 달렸다고~",
+                "cn": "绿豆汤已经炖上了，想喝粒粒分明的还是颗颗开花的，就看你回来的速度了~"
+            },
+            "asset": "char_2026_yu/CN_019"
+        },
+        {
+            "id": "char_2026_yu_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Line up, line up. We have plenty of good eats for everyone.",
+                "jp": "並んで並んで、うまい料理は山ほどあるから。",
+                "kr": "자, 줄 서, 줄. 맛있는 요리라면 잔뜩 있으니까.",
+                "cn": "排好队排好队，好菜有的是呢。"
+            },
+            "asset": "char_2026_yu/CN_020"
+        },
+        {
+            "id": "char_2026_yu_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Patience, friend. Heat control is everything here.",
+                "jp": "急かさないで、火加減が肝要なんだ。",
+                "kr": "보채지 마, 불 조절이 가장 중요하다고.",
+                "cn": "别催，火候是关键。"
+            },
+            "asset": "char_2026_yu/CN_021"
+        },
+        {
+            "id": "char_2026_yu_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Quickly! The spare ribs have been stewing for so long, they're falling apart!",
+                "jp": "急げ、排骨が煮込み過ぎてぐずぐずになるよ！",
+                "kr": "빨리 안 오고 뭐 해, 갈비 더 조리면 흐물흐물해진다고!",
+                "cn": "还不快点，排骨都要炖烂了！"
+            },
+            "asset": "char_2026_yu/CN_022"
+        },
+        {
+            "id": "char_2026_yu_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "So long as you're here, have some hot soup before you go.",
+                "jp": "どうせもう来たんだし、スープでも飲んで行ったら？",
+                "kr": "이왕 이렇게 온 김에 따뜻한 국물이라도 먹고 가지 그래?",
+                "cn": "来都来了，喝碗热汤再走吧。"
+            },
+            "asset": "char_2026_yu/CN_023"
+        },
+        {
+            "id": "char_2026_yu_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "You will get what you deserve. I mean, what you ordered.",
+                "jp": "責任はとってもらうよ――いやー、食べきれなかった分はちゃんと持って帰れってことさ。",
+                "kr": "남은 음식은 책임져줘야겠어…… 아니, 까먹지 말고 포장해가라고.",
+                "cn": "让你们吃不了兜着走——我是说，记得打包。"
+            },
+            "asset": "char_2026_yu/CN_024"
+        },
+        {
+            "id": "char_2026_yu_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Cold oil into a hot wok. The heat is just perfect.",
+                "jp": "熱い鍋に冷たい油。火加減はちょうどだ。",
+                "kr": "뜨거운 웍에 차가운 기름. 불 조절도 딱이네.",
+                "cn": "热锅冷油，火候正好。"
+            },
+            "asset": "char_2026_yu/CN_025"
+        },
+        {
+            "id": "char_2026_yu_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Slow-simmer on low heat. Patience is not optional.",
+                "jp": "とろ火でことこと、焦りは禁物だ。",
+                "kr": "약불로 천천히 뭉근하게, 조급해하지 말고.",
+                "cn": "文火慢炖，着急不得。"
+            },
+            "asset": "char_2026_yu/CN_026"
+        },
+        {
+            "id": "char_2026_yu_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Tough to swallow, huh? Try to behave yourself next time.",
+                "jp": "あんまり良い心地じゃないでしょ？次は悪いことするんじゃないぞ。",
+                "kr": "그렇게 기분 좋은 맛은 아닐 거야. 다음엔 나쁜 짓 하지 마.",
+                "cn": "这滋味不好受吧？下回可别做坏事了哦。"
+            },
+            "asset": "char_2026_yu/CN_027"
+        },
+        {
+            "id": "char_2026_yu_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Still misbehaving? Then let's kick it up a notch!",
+                "jp": "まだ抵抗するの？少し激しい調理をしても悪く思わないでよ。",
+                "kr": "아직도 저항하는 거야? 그럼 격하게 조리해도 뭐라고 하기 없기다?",
+                "cn": "还不老实？那就别怪我下猛料了。"
+            },
+            "asset": "char_2026_yu/CN_028"
+        },
+        {
+            "id": "char_2026_yu_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Not bad. This recipe will stand the test of time.",
+                "jp": "悪くないね。このレシピはしばらく流行りそうだな。",
+                "kr": "나쁘지 않은데. 이 요리법 한동안 유행하겠어.",
+                "cn": "还不错，这份菜谱可以流传好一阵子了。"
+            },
+            "asset": "char_2026_yu/CN_029"
+        },
+        {
+            "id": "char_2026_yu_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Daring to add ingredients like that? You've definitely got the potential to be a top chef.",
+                "jp": "こんな大胆に料理するなんて、あんたもすごい料理人になれるよ！",
+                "kr": "이렇게나 대담하게 요리하다니, 너도 훌륭한 요리사가 될 수 있겠는걸!",
+                "cn": "敢这样下料，你也很有做大厨的潜力嘛！"
+            },
+            "asset": "char_2026_yu/CN_030"
+        },
+        {
+            "id": "char_2026_yu_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "The taste's passable, but the appearance falls short. Customers won't be as accommodating as me.",
+                "jp": "味はまあまあだけど、見てくれがダメだね。客は私みたいに甘くないんだよ。",
+                "kr": "맛은 그럭저럭 괜찮은데, 모양이 별로네. 손님들은 나처럼 너그럽지 않다고.",
+                "cn": "味道说得过去，但卖相还不行。客人可不会像我这样迁就你啊。"
+            },
+            "asset": "char_2026_yu/CN_031"
+        },
+        {
+            "id": "char_2026_yu_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Messed up the dish? Sometimes getting messy is the spice of cooking, and life. Wash it out, and the wok will be good as new.",
+                "jp": "焦げちゃった？まあ、たまに焦がすのも、また楽しいじゃないか？綺麗に洗えば、鍋はまた使えるよ。",
+                "kr": "태웠어? 뭐, 가끔은 태워 먹는 것도 그 나름의 재미가 있지. 괜찮아, 웍은 깨끗하게 씻으면 다시 쓸 수 있으니까.",
+                "cn": "糊了？难得糊涂，怎么不是乐趣？洗一洗，又是一口好锅。"
+            },
+            "asset": "char_2026_yu/CN_032"
+        },
+        {
+            "id": "char_2026_yu_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "No open flames? Hmm…",
+                "jp": "火気厳禁？えぇ……",
+                "kr": "화기엄금? 이런……",
+                "cn": "禁止明火吗？唔......"
+            },
+            "asset": "char_2026_yu/CN_033"
+        },
+        {
+            "id": "char_2026_yu_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Haha, stop tickling me!",
+                "jp": "あはは、くすぐったいって。",
+                "kr": "아하하, 간지러 간지럽다니까.",
+                "cn": "哈哈，别挠我痒痒肉。"
+            },
+            "asset": "char_2026_yu/CN_034"
+        },
+        {
+            "id": "char_2026_yu_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Are you hungry? Give me a moment.",
+                "jp": "お腹減ったの？ちょっと待ってね。",
+                "kr": "배고파? 잠깐만 기다려 봐.",
+                "cn": "饿了吗？稍等哦。"
+            },
+            "asset": "char_2026_yu/CN_036"
+        },
+        {
+            "id": "char_2026_yu_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_2026_yu/CN_037"
+        },
+        {
+            "id": "char_2026_yu_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Nian, quit sneaking bites and go call Dusk out. Ling, could you lend a hand? Shu and I are swamped in kitchen. Where did <i>Dage</i> wander off to now...? Ah! Doctor! what took you so long? Come, have a seat and join us! Happy New Year!",
+                "jp": "ニェン姉ちゃん、また盗み食いなんかして！さっさとシーを引っ張ってきてよ。リィン姉ちゃんもこっち来てちょっと手伝って。私とシュウ姉ちゃん二人じゃ手が足りないんだって。チョンユエ兄ちゃんまたいないけど、どこ行ったんだろ……あ、ドクター、遅いよ。早く座って一緒に食べよう。あけましておめでとう！",
+                "kr": "니엔 누나, 몰래 집어먹지 말라고! 우선 빨리 가서 시 좀 끌고 와. 링 누나도 이리 와서 좀 도와줘. 나랑 슈 누나 둘만으로는 손이 모자란다고. 총웨 형은 또 어딜 간 건지…… 아, 박사. 늦었잖아. 빨리 앉아서 같이 먹자. 새해 복 많이 받아!",
+                "cn": "年姐，别偷吃！先去叫夕出来。令姐，你也来帮帮忙，我和黍姐两个人忙不过来的。大哥又去哪了......博士，你怎么才来？快坐下一起吃啊！新年快乐！"
+            },
+            "asset": "char_2026_yu/CN_038"
+        },
+        {
+            "id": "char_2026_yu_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Come, have a seat. Make yourself at home. You can order anything on the menu.",
+                "jp": "さぁさぁ、好きなとこに座って。メニューにあるのはなんでもできるよ。",
+                "kr": "자자, 편한 데 앉아. 메뉴에 있는 건 뭐든 만들 수 있어.",
+                "cn": "随便坐随便坐，菜单上有的都能点。"
+            },
+            "asset": "char_2026_yu/CN_042"
+        },
+        {
+            "id": "char_2026_yu_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doctor, happy Birthday! This is a present I've treasured for years...my private cookbook. If you follow the instructions step-by-step, you too can become a master chef. If Yu can cook, so can you. What? Still want me to cook for you? Hehe, OK, OK. I'll make an exception today.",
+                "jp": "ドクター、誕生日おめでとう！はいこれ。私の秘蔵レシピ集！書いてある通りの手順で練習していけば、あんたも料理の達人になれるよ。人に鱗獣をあげるより、捌く刀をあげろって言うでしょ？それでもやっぱり私の作ったご飯が食べたい？はいはい。今日は特別だからね！",
+                "kr": "박사, 생일 축하해! 자 여기, 내 비장의 요리법 모음집! 여기 적힌 대로 하나씩 연습하면 너도 요리의 달인이 될 수 있을 거야. 린수를 잡아주기보다 린수 손질하는 칼을 쥐여주라는 말이 있잖아. 그래도 내가 만든 밥이 먹고 싶다고? 그래 알았어, 오늘은 특별한 날이니까!",
+                "cn": "博士，生日快乐！这是送你的礼物，我珍藏多年的私人菜谱！只要按上面的步骤练习，你也可以成为一代名厨的。授人以鳞不如授人以刮鳞刀嘛。还是想吃我做的饭？好吧好吧，今天算破例啊。"
+            },
+            "asset": "char_2026_yu/CN_043"
+        },
+        {
+            "id": "char_2026_yu_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "I never knew Rhodes Island could be so bustling during festivals. I have literally been cooking on all burners today. But, well, it's all worth it. Just look at all these young sprouts, so full of promise... Ah! What are you doing? Open your ears, and don't measure me! I-I didn't grow any taller...",
+                "jp": "ロドスのお祝いってこんなに賑やかなんだね。今日は忙しすぎてどうにかなりそうだったよ。うむ、若い人らはみんなどれも香椿の芽、青菜の芯ってね、未来が楽しみだなぁ～。ちょっと、なに。人の話をちゃんと聞きなって。身長測るんじゃない！別に背はの、伸びてないから……",
+                "kr": "로도스 아일랜드의 축하연은 정말 떠들썩하네. 오늘은 얼마나 바쁘던지 정신이 다 없다. 휴우, 참죽나무의 새싹이자 푸르른 채소의 모종들이여, 이 젊은이들의 미래가 기대되는구나~ 잠깐, 사람이 말을 하면 제대로 들어야지. 키 재지 마! 키가 크, 크진 않았어……",
+                "cn": "原来罗德岛上的庆典这么热闹，今天可忙死我了。哎，都是香椿的芽、青菜的尖，年轻人，未来可期啊~喂，你干嘛，好好听人说话，别量了！没、没长高......"
+            },
+            "asset": "char_2026_yu/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "木雅瑞林",
+            "global": "木雅瑞林"
+        },
+        "cn": {
+            "native": "卢晓彤",
+            "global": "Thea"
+        },
+        "jp": {
+            "native": "大谷育江",
+            "global": "Ikue Otani"
+        },
+        "kr": {
+            "native": "김아롱",
+            "global": "Kim Arong"
+        },
+        "cn_topolect": {
+            "native": "卢晓彤",
+            "global": "Thea"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr",
+        "cn_topolect"
+    ]
+}

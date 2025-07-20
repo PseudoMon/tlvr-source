@@ -1,0 +1,644 @@
+{
+    "charid": "char_1040_blaze2",
+    "nameid": "blaze2",
+    "names": {
+        "en": "Blaze the Igniting Spark",
+        "jp": "熾炎ブレイズ",
+        "kr": "블레이즈 디 이그나이팅 스파크",
+        "cn": "烛煌"
+    },
+    "voices": [
+        {
+            "id": "char_1040_blaze2_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Here. I've sorted these files according to how important or urgent they are, and whatever's left, I'll—Why do you look like you don't recognize me? C'monnn... Get these done so you can send me back out there already!",
+                "jp": "はい、この書類は全部優先度順に並べてあるよ。残りの分は――って、なんで私の顔をじーっと見てるの？私が誰か忘れちゃった？いいからはやくー。さっさと書類を片付けて、私を戦いに出して！",
+                "kr": "자, 여기 서류는 전부 우선순위대로 정리해뒀어. 나머지는…… 왜 그렇게 빤히 쳐다보는 거야? 내가 누군지 까먹었어? 됐고, 빨~리 서류 처리하고, 얼른 날 전장으로 보내줘!",
+                "cn": "给，这些文件全部按照重要紧急度分类排序了，剩下的我会——看着我做什么，不认识了？快~抓紧时间搞定文书，然后派我出战！"
+            },
+            "asset": "char_1040_blaze2/CN_001"
+        },
+        {
+            "id": "char_1040_blaze2_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Ahhh... why did the little bunny run off when she saw me? Not like I'm gonna give her an airlift hug during work hours! I've been acting weird? Hah. After everything I went through, I get so excited to see everybody, it makes me wanna—Uh? You're not going anywhere? Then... a-one-and-a-two, up you go too?",
+                "jp": "ちょっと――ウサギちゃんったら、私を見るなり逃げちゃって。仕事中には抱き上げたりなんかしないっての！最近私がちょっと変？は、色々あったけど、また君たちに会えたのがなんかすっごく嬉しくて、ついこうやって――あ、あれ……君は逃げないんだ？じ、じゃあ、せーので高い高ーいしちゃおっか？",
+                "kr": "아 잠깐잠깐…… 토깽이가 날 보자마자 도망가잖아? 일하는 중에는 안아 올리거나 하지 않는데? 요즘 내가 좀 이상하다고? 하, 이러저러한 일을 겪고, 다시 너희랑 만나니 왠지 기뻐서, 나도 무심결에…… 어, 어라? 너는 안 도망가네? 그, 그럼 하나 둘 셋 하고 번쩍 들어 올려 줄까?",
+                "cn": "哎——小兔子怎么见我就跑？工作时间我又不会抱起她举高高！我最近不正常吗？哈，经历了一些事之后，再见到你们，不知怎么地就特别开心，总想——呃，你怎么不躲？那，一二三，举高高？"
+            },
+            "asset": "char_1040_blaze2/CN_002"
+        },
+        {
+            "id": "char_1040_blaze2_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "How did you know I was researching this in my dorm? I'm trying to see how big my Arts can make the flames in this furnace, but I just can't believe—You got a tip about a fire hazard? Ahem, here's a bag of Cystymilk toffees, so *ssh* keep this a secret from Amiya, alright—Y-YOU WANT FIVE PACKS?! That's brutal! DEAL!",
+                "jp": "どうして私が宿舎でこれをイジってるのを知ってるの？実はこの炉が私のアーツをどこまで高められるかの限界点を探っててね、何より不思議なのが――えっ？火災の危険ありってクレームが？……コホン。ねぇ、ミルクビーンズ一袋でアーミヤちゃんにはシーってことで――ご、五袋ほしい！？このぼったくり！でものった！",
+                "kr": "내가 숙소에서 이거 만지작거리는지 어떻게 알았어? 사실 이 화로가 내 아츠를 어디까지 끌어올려 줄 수 있는지 연구하고 있었는데, 진짜 믿기지 않는 게 뭐냐면, 이게…… 어? 화재 위험이 있다는 클레임이 들어왔다고? ……크흠, 저기 박사, 치스티밀크 빈즈 한 봉지 줄 테니까 아미야한테는 비밀로 해줘, 쉿…… 다, 다섯 봉지 달라고!? 완전 바가지잖아! 하지만 어쩔 수 없지!",
+                "cn": "你怎么知道我在宿舍研究这个？我在找这炉子把我的源石技艺放大的极限点，最不可思议的是——什么？被投诉有消防隐患？咳咳，一包瘤奶糖豆，对阿米娅保密，嘘——五、五包？！你好黑！成交！"
+            },
+            "asset": "char_1040_blaze2/CN_003"
+        },
+        {
+            "id": "char_1040_blaze2_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Let me do it, you rinse the bowls like this. It's not about making them squeaky clean, Yanese dining culture's just funny like that. Oh, there's something I really love about it, though—doesn't matter if you know your dinner mates or not, everyone sitting at one table shares the same dishes. So yap away while enjoying the same stuff, and bam! We're all friends now.",
+                "jp": "貸して、お椀はこうやってお湯で濯いでから使うの。意味なんて気にしなくていいよ、とにかく炎国の食文化は変わってるからね。だけどその中でも好きなのがあって――どんな仲でも、同じテーブルについたら大皿から料理を取り分けて食べるんだよ。同じ味に舌鼓を打ちながらお喋りして、はいっ！それでもう友達ってわけ。",
+                "kr": "줘 봐. 그릇은 이렇게 뜨거운 물로 헹궈서 사용하는 거야. 의미 같은 건 신경 쓸 필요 없어. 염국의 식문화는 원래부터 독특하니까. 근데 그 중에 내가 좋아하는 게 하나 있는데, 어떤 사이든 한 테이블에 앉으면, 같은 접시의 요리를 다같이 나눠 먹는다는 거야. 같은 맛을 즐기면서 수다를 떨다보면, 그걸로 친구가 되는 거지.",
+                "cn": "我来，碗要这么涮。别管能涮掉什么，炎国的饭桌习惯就是奇怪得很。不过有一条我特别喜欢——不管熟不熟，凡是同桌吃饭就得分享同一盘菜。吃着一样的味道聊天，啪！就能交上朋友了。"
+            },
+            "asset": "char_1040_blaze2/CN_004"
+        },
+        {
+            "id": "char_1040_blaze2_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "I made a few new friends on my trip to Baizao, went to a bunch of feasts, and tied up some loose ends. There's so much on this land that's unfair or unavoidable, and my work as an Elite Operator remains the same. It's got my blood boiling a little too—Oh, did I burn you? My bad!",
+                "jp": "今回百灶に行って、新しい友達もできたし、たーっくさんご馳走を食べて、色々こじれてた厄介事も片付けてきたんだ。この大地には不公平なことも、やるせないこともたくさんあるけど、エリートオペレーターの務めは変わらないでしょ。だから私は血をもっと滾らせて――あっ、ごめん！火傷してない？",
+                "kr": "이번에 백조에 가서, 새로운 친구도 사귀고, 맛있는 것도 엄~청 먹고, 여러 가지 골치 아프게 얽혀 있던 일들도 해결하고 왔어. 이 대지에는 부조리한 일도, 안타까운 일도 많지만, 정예 오퍼레이터로서 해야 하는 일은 변하지 않겠지. 그러니까 나는 피를 더 끓어올려서…… 아, 미안! 화상 안 입었어?",
+                "cn": "我这次去百灶，认识了几个新朋友，吃了好几顿大餐，了结了一点理不清的麻烦事。这片大地上多的是不公和无奈，我作为精英干员要做的事不会变，让自己的血再热一些——啊，烫着你了？对不起！"
+            },
+            "asset": "char_1040_blaze2/CN_005"
+        },
+        {
+            "id": "char_1040_blaze2_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "My life's been pretty fantastical, huh? All those twists and turns and yet I survived, even ended up here at Rhodes Island—Is this what they call fate? If those accidents hadn't happened, I wouldn't be here right now—Oh, no, no, no! I prefer my life as it is, with the little bunny and you, Doctor!",
+                "jp": "私の経歴もけっこう伝説的でしょ？あれだけの波瀾万丈を生き延びたどころか、その波に乗ってロドスにまで辿りついたんだから――これが「運命」ってやつかな？もしこれまでのトラブルがなかったら、私は今もまだ――いやいや誤解しないで、今の生活の方が気に入ってるって。ウサギちゃんもドクターもいるし！",
+                "kr": "내 경력도 꽤나 화려하지? 그런 파란만장에서 살아남았을 뿐만 아니라, 오히려 그 파도를 타고 로도스 아일랜드에까지 다다랐으니…… 이게 '운명'이라는 걸까? 만약 지금까지의 고난이 없었다면 나는 지금…… 아니아니 오해하지는 마, 난 지금 생활이 더 마음에 들어! 토깽이도 있고, 박사도 있고!",
+                "cn": "我的经历应该也算挺传奇的吧？那么多的波折没有杀死我，反而把我送来了罗德岛——这就是“命运”？如果没有那些意外，我现在也不会——不不不，我还是更喜欢现在的生活，还有小兔子和博士！"
+            },
+            "asset": "char_1040_blaze2/CN_006"
+        },
+        {
+            "id": "char_1040_blaze2_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Right, let's go back and visit your mom. Wait, I mean visit <i>my</i> mom? Agh, that's even worse! Uh, Doctor? You heard all that? It's less trouble than it sounds, I'm happy to take my sister back. I just wanted to sort this out first—my messy family. I guess I'll just have to get used to it, haha.",
+                "jp": "さあ、君のお母さんに会いに帰ろう。いや、うちの母さんって言うべき？いやいやもっと変か！えっ、ドクター？全部聞こえてた？別に悩んでるってほどじゃないよ。妹をうちに連れて帰れるのはすっごく嬉しいし。ただ、いきなり複雑になった家族構成をね、ちゃんと整理しなきゃって。慣れるまでの辛抱かな、あはは。",
+                "kr": "자, 네 엄마 만나러 가자. 아니지, 우리 엄마라고 해야 하나? 아니지 아니지 이게 더 이상해! 어, 박사? 다 들었어? 딱히 고민이랄 것까진 아니고, 그냥 여동생을 집에 데려갈 수 있어서 좋아. 그저…… 갑자기 복잡해진 가족 구성을 좀 정리해야 할 것 같아서. 익숙해지면 되겠지, 하하.",
+                "cn": "走，回去看你妈去。不对，看我妈去？啊啊更不对！呃，博士？你都听到了？算不上烦恼，能带妹妹回去我可高兴了。只是，我得捋捋顺——这突然变得乱七八糟的家庭关系。习惯了就好了吧，哈哈。"
+            },
+            "asset": "char_1040_blaze2/CN_007"
+        },
+        {
+            "id": "char_1040_blaze2_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "The image I have of my dad is a silly guy around my age—subsisting on crumbs, and saving his lunch money to get some treats for his baby girl. Huh? Sounds like something I'd do? Mm...I guess, but he could be such a coward, I feel like I just wanna punch him. I'm more like my mom there.",
+                "jp": "今改めて親父を見てみると、なんかバカばっかりやってる同年代って感じがするよ。ただでさえひもじい暮らしをしてるのに、食費を削ってまで娘にお菓子を送ってくれるなんて――えっ？私にも似たとこがあるって？そうかもね。でも親父は一発ぶん殴ってやりたくなるくらい腑抜けてる時もあるんだから。私のこの性格は母さん譲りだよ。",
+                "kr": "지금 보니, 우리 아빤 참 세상 바보짓만 하는 동년배 같달까. 자기도 먹고 살기 어려우면서, 식비를 아껴가면서까지 딸에게 과자를 보내주다니…… 어? 나도 비슷한 면이 있다고? 뭐, 그럴지도. 그래도 아빠는 한 대 때려주고 싶을 정도로 한심한 때도 있다니까. 어쨌든 내 성격은 엄마한테 물려받은 거야.",
+                "cn": "我现在看我爸，就像某个爱做傻事的同龄人。自己活得惨兮兮的，还拿饭钱给女儿寄点心吃——啊？这点像我？好吧，但他有时候懦弱得让人想揍他。我的脾气还是随我妈。"
+            },
+            "asset": "char_1040_blaze2/CN_008"
+        },
+        {
+            "id": "char_1040_blaze2_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Yeah, you're the contact listed on my ID. When the day comes, I hope you're the first to hear the news, hehe. You know every single thing I haven't said, all my unfinished business. With this, I can throw myself into battle with no regrets. Wait, how did you know—I said I dropped it somewhere!",
+                "jp": "私のIDカードに書いてある緊急連絡先は確かにドクターのだよ。私にもしものことがあったら、その知らせを一番に受け取ってほしいから。君なら私の言えなかった言葉も、果たせなかった目標もわかってくれるでしょ。それを思えば、安心して全身全霊で戦えるってわけ。ってあれ？なんで知ってるの――あーっ、どこで落としたかなってずっと探してたんだから！",
+                "kr": "내 ID카드에 적혀있는 긴급 연락처는, 맞아 잘 봤어, 박사 거야. 내게 무슨 일이 생기면 박사가 그 소식을 가장 먼저 받아보기를 바라니까. 너라면 내가 하지 못했던 말도, 이루지 못한 목표도 다 이해해 주겠지. 그걸 생각하면 마음 놓고 전력으로 싸울 수 있어. 근데 어라? 그건 어떻게 알았어…… 아아아! 어디에 떨어뜨렸는지 계속 찾고 있었단 말이야!",
+                "cn": "我身份牌上的联络人的确是你。真到用上的那天，我希望你最先接到消息。你懂我所有没说完的话、未完成的目标。想到这点我就能毫无顾虑地投入战斗。等等，你怎么知道——我说被我丢哪儿去了！"
+            },
+            "asset": "char_1040_blaze2/CN_009"
+        },
+        {
+            "id": "char_1040_blaze2_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "These sleeves are so tight, I can't stand it! Phew… Much better. *Ssh* Don't tell Leizi, or she's going to nag my ears off about disrespecting her clothes again…",
+                "jp": "この服の袖っ……きつくて……動きづらいっ！ふぅ――だいぶ楽になったよ。しーっ、レイズには内緒にね。バレちゃったら「私の贈った服を着崩すのはおやめなさい」とかまた文句言われちゃうから……",
+                "kr": "이 옷, 소매가 너무…… 꽉 껴서…… 불편해! ……후우, 이제 좀 낫네. 쉿, 레이즈한테는 비밀이야. 들키면 또 '제가 보낸 옷을 망가뜨리셨군요' 라고 한소리 할 게 분명하니까……",
+                "cn": "这衣服的袖子裹得、难受！呼——舒服多了。嘘，别告诉惊蛰，否则她又要骂我把她的衣服穿得没规没矩了......"
+            },
+            "asset": "char_1040_blaze2/CN_010"
+        },
+        {
+            "id": "char_1040_blaze2_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Ta-da, I'm back! Yep, signing with my real name this time—Gu Zhuhuang. After stashing it away for so many years, I can finally write this name out in public. I'm still the same old me though, so just call me Blaze like you used to, Doctor.",
+                "jp": "ただいまー！そうそう、今度は顧燭煌って本名でサインしたんだ。ずっと隠してた名前だけど、ようやく堂々と書けるようになったから。でも私は私のままだし、ドクターはこれまで通り、ブレイズって呼んでいいからね。",
+                "kr": "다녀왔어~! 맞아, 이번에는 본명으로 사인했어, 고촉황 이라고. 계속 숨겨왔던 이름인데, 이제는 당당히 쓸 수 있게 됐거든. 그래도 난 여전히 나니까, 박사는 평소처럼 그냥 블레이즈라고 부르면 돼.",
+                "cn": "我回来了！嗯，签的是我的本名，顾烛煌。这个名字被藏起来这么多年，总算能光明正大地写出来了。不过我还是我，博士，你不用改口，叫我煌就好。"
+            },
+            "asset": "char_1040_blaze2/CN_011"
+        },
+        {
+            "id": "char_1040_blaze2_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Doctor, you know I've pored over these battle records, studying them inside and out, so you don't have to drag me into a watch session, you know? Wait, these are—No! Not the one where my tail caught fire! That's when I was totally green, I learned quick after that!",
+                "jp": "ドクター、私が作戦記録をぜーんぶ見直してるのは知ってるでしょ。一緒に見るまでもないって。いやちょっと、これは違っ――ストップ！私の尻尾が燃えるとこリピートしないで！あれは最初の頃で不慣れだっただけ！",
+                "kr": "박사, 내가 모든 작전기록을 복기했다는 거 알잖아, 같이 볼 필요 없다니까. 아니 잠깐 잠깐, 이건 아니…… 스톱! 내 꼬리 타는 장면 반복하지 마! 저건 얼마 안 된 때라 서툴렀던 것뿐이라고!",
+                "cn": "博士，你知道所有作战记录我都复盘过，不用拉着我一起看吧。等等，这个不是——不要！不要反复看我的尾巴着火的样子！那只是一开始不熟练！"
+            },
+            "asset": "char_1040_blaze2/CN_012"
+        },
+        {
+            "id": "char_1040_blaze2_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Phew—Gave me a fright, I thought you were gonna talk about work. So, this means you think I'd make a good Caster? Yay! That's an extra six hours of training for me now!",
+                "jp": "ふぅ――仕事のダメ出しでもされるかと思ってビビっちゃったよ。てことは、私の術師としての活躍を認めてくれたんだね？やったー！じゃあもうワンセット六時間トレーニングしてくる！",
+                "kr": "후우…… 업무 면담인 줄 알고 쫄았잖아. 어쨌든, 캐스터로서 나의 활약을 인정해 준 거네? 야호! 자, 그럼 6시간짜리 한 세트 더 훈련하러 가야겠어!",
+                "cn": "呼——还以为是工作谈话，吓死我了。这么说，你认可了我作为术师的表现？太好了！这就去加练六个小时！"
+            },
+            "asset": "char_1040_blaze2/CN_013"
+        },
+        {
+            "id": "char_1040_blaze2_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Yes, I accept. I know what you're up to with this whole setup. We've got an unspoken understanding, right? Uh, you're really just giving me the medal without a word? ",
+                "jp": "謹んでいただくよ。これだけ仰々しい場を用意されたら、君が何するつもりかくらいわかるって。私たちはとっくに以心伝心でしょ！あれ、ほんとに何も言わずにメダルを付けちゃうんだ。",
+                "kr": "감사히 잘 받을게. 이렇게까지 성대한 자리라니, 네가 뭘 하려는지는 대충 알겠어. 우리는 전부터 이심전심이었잖아? 어라, 진짜 아무 말 없이 메달만 달아주네.",
+                "cn": "我愿意。看到这个阵仗我就能猜到你要干什么，我们早就有这默契了，对吧！欸，你还真的什么都不说，直接就上来别徽章啊。"
+            },
+            "asset": "char_1040_blaze2/CN_014"
+        },
+        {
+            "id": "char_1040_blaze2_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "There's something I want to try. Send me out on a mission, Doctor!",
+                "jp": "新しい技を試したかったとこなんだ。私も連れてって、ドクター！",
+                "kr": "새로운 기술을 시험해 보고 싶었던 참이야. 나도 데려가, 박사!",
+                "cn": "正好想试试新招，带我出战吧，博士！"
+            },
+            "asset": "char_1040_blaze2/CN_017"
+        },
+        {
+            "id": "char_1040_blaze2_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "I'll BLAZE the trail for you.",
+                "jp": "私の炎がみんなの道を切り拓くから。",
+                "kr": "내 불꽃이 모두의 길을 열어줄 거야.",
+                "cn": "我的火焰将为你们开道。"
+            },
+            "asset": "char_1040_blaze2/CN_018"
+        },
+        {
+            "id": "char_1040_blaze2_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "The flames in the furnace are jumping for joy!",
+                "jp": "炉の炎が湧き踊ってるよ！",
+                "kr": "화로의 불이 솟아오르고 있어!",
+                "cn": "炉子里的火焰在兴奋地跳动！"
+            },
+            "asset": "char_1040_blaze2/CN_019"
+        },
+        {
+            "id": "char_1040_blaze2_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Surrender now, and I can still turn down the heat.",
+                "jp": "今すぐ投降してくれたら、火を収めてあげる。",
+                "kr": "지금 즉시 항복하면, 불은 거둬줄게.",
+                "cn": "现在投降，我可以收住火势。"
+            },
+            "asset": "char_1040_blaze2/CN_020"
+        },
+        {
+            "id": "char_1040_blaze2_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "You know, it wasn't easy learning Originium Arts Automation either!",
+                "jp": "アーツのオートメーション化もめちゃムズなんだよ！",
+                "kr": "아츠 자동화도 엄청 어렵다고!",
+                "cn": "源石技艺机械自动化也好难学！"
+            },
+            "asset": "char_1040_blaze2/CN_021"
+        },
+        {
+            "id": "char_1040_blaze2_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "My blood is boiling.",
+                "jp": "私の血が沸き立ってる。",
+                "kr": "내 피가 끓어오르고 있어.",
+                "cn": "我的血液在沸腾。"
+            },
+            "asset": "char_1040_blaze2/CN_022"
+        },
+        {
+            "id": "char_1040_blaze2_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Got the situation down crystal clear!",
+                "jp": "ここなら戦況が一目瞭然だね！",
+                "kr": "여기라면 전황이 한눈에 보이네!",
+                "cn": "战场动态，一清二楚！"
+            },
+            "asset": "char_1040_blaze2/CN_023"
+        },
+        {
+            "id": "char_1040_blaze2_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Air's burning my lungs. Temp's just right.",
+                "jp": "空気が肺を焦がしてる。適温だよ。",
+                "kr": "공기가 폐를 태우고 있어. 딱 적당한 온도야.",
+                "cn": "空气灼烧着肺部，温度刚刚好。"
+            },
+            "asset": "char_1040_blaze2/CN_024"
+        },
+        {
+            "id": "char_1040_blaze2_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Step right up and taste my fireballs' power!",
+                "jp": "この火の玉を味わってみたいなら、前に出てきちゃって！",
+                "kr": "이 불덩이 맛을 보고 싶다면, 앞으로 나와!",
+                "cn": "想领教我火球的威力，就上前吧！"
+            },
+            "asset": "char_1040_blaze2/CN_025"
+        },
+        {
+            "id": "char_1040_blaze2_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Triple flames, scorch the heavens! The furnace... how did the rest go? Who cares, won't affect my flames!",
+                "jp": "三火天道を熯かさん！洪炉……なんだっけ？まあいいや、支障なし！",
+                "kr": "삼화, 천도를 태워버리리! 홍로! ……뭐였더라? 아 뭐 됐다, 지장 없음!",
+                "cn": "三火熯天道！洪炉......啥来着？不管了，没影响！"
+            },
+            "asset": "char_1040_blaze2/CN_026"
+        },
+        {
+            "id": "char_1040_blaze2_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Daybreak? That's my boiling blood turning the horizon red!",
+                "jp": "日の出？ううん、地平線まで燃え進む私の血だよ！",
+                "kr": "날이 밝았다고? 아니, 저건 지평선까지 타오르는, 내 피야!",
+                "cn": "天亮了？是我的血燃向了地平线！"
+            },
+            "asset": "char_1040_blaze2/CN_027"
+        },
+        {
+            "id": "char_1040_blaze2_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Better run faster, before my fire swallows you whole!",
+                "jp": "炎に追いつかれたくなかったら、もっと早く走らなきゃ！",
+                "kr": "불길에 따라잡히기 싫다고? 그럼 더 빨리 뛰어야지!",
+                "cn": "不想被火舌追上？那你跑得还不够快！"
+            },
+            "asset": "char_1040_blaze2/CN_028"
+        },
+        {
+            "id": "char_1040_blaze2_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "I got your back, Doctor. Doesn't matter who's picking fights with who. Even bigwigs have to own up to their mistakes!",
+                "jp": "私は君の味方だよ、ドクター。手に負える連中が相手でも、そうじゃなくてもね。どんな「大物」だって、自分のやらかしの責任は取らせてやらないと！",
+                "kr": "나는 언제나 네 편이야, 박사. 상대가 감당할 만한 놈들이든 아니든 말이야. 어떤 '거물'이라도 자신이 저지른 일에 대한 책임은 지게 해야지!",
+                "cn": "我支持你，博士。管他们谁惹得起，谁惹不起。就算是“大人物”，也要为自己的错误负责！"
+            },
+            "asset": "char_1040_blaze2/CN_029"
+        },
+        {
+            "id": "char_1040_blaze2_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "My furnace flame will burn as long as I'm still standing!",
+                "jp": "私が立ってる限り、炉の炎は絶対消えない！",
+                "kr": "내가 서 있는 한, 화로의 불은 절대 꺼지지 않아!",
+                "cn": "只要我还站着，我的炉火就不会熄灭！"
+            },
+            "asset": "char_1040_blaze2/CN_030"
+        },
+        {
+            "id": "char_1040_blaze2_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Let's go eat! There's nothing a good meal can't resolve—my favorite Yanese saying, haha.",
+                "jp": "行こう。ぱーっとご馳走にしよっ！美味しい料理で晴らせない心のモヤはない――私の一番好きな炎国の教えだよ、ははっ。",
+                "kr": "가자. 가서 한끼 제대로 먹자고! 맛있는 요리로 걷히지 않는 마음의 안개는 없다! 내가 가장 좋아하는 염국의 가르침이야. 하하.",
+                "cn": "走，去撮一顿！没有什么不爽，是一顿美食抚平不了的——这是我最喜欢的炎国道理，哈哈。"
+            },
+            "asset": "char_1040_blaze2/CN_031"
+        },
+        {
+            "id": "char_1040_blaze2_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "If you're unsatisfied with the results, I'm ready to move out anytime.",
+                "jp": "結果が不満だったら、いつでもまた出られるよ。",
+                "kr": "결과가 불만이라면 언제든 다시 갈 수 있어.",
+                "cn": "你要是对结果不满意，我随时待命。"
+            },
+            "asset": "char_1040_blaze2/CN_032"
+        },
+        {
+            "id": "char_1040_blaze2_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Where did my drinks in the fridge go? I was only gone a few days!",
+                "jp": "たった数日離れただけなのに、冷蔵庫に入れといた私のドリンクはどこ行っちゃったの！？",
+                "kr": "겨우 며칠 비웠을 뿐인데, 냉장고에 넣어뒀던 내 음료수는 다 어디 간 거야!?",
+                "cn": "我才走没几天，我冰箱里的饮料呢？！"
+            },
+            "asset": "char_1040_blaze2/CN_033"
+        },
+        {
+            "id": "char_1040_blaze2_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Yikes! That's cold! My skin's too hot? Your hands are practically ice!",
+                "jp": "つめたっ！私の肌が熱いから？いやそっちの手が冷たすぎるんだって！",
+                "kr": "앗 차가워! 내 피부가 뜨거운 거라고? 아니야, 네 손이 너무 차가운 거야!",
+                "cn": "好冰！我的皮肤太烫？是你的手太冷了！"
+            },
+            "asset": "char_1040_blaze2/CN_034"
+        },
+        {
+            "id": "char_1040_blaze2_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "This furnace even has medical uses. They say it heals any illness if you smoke yourself over it every morning and night, with... what did they call it again—Aizhi? Aijiu? What is that smell?!",
+                "jp": "私の炉は健康器具にもなるらしいんだ。これを炉で朝晩燻せば万病に効くとかなんとか紹介されて買ってみたんだけど、なんて読むんだろ――艾、久火？灸？こほこほっ！なにこのにおいっ！",
+                "kr": "이 화로는 의료용으로도 쓸 수 있대. 향을 아침저녁으로 피우면 만병통치가 된대서 사 봤는데, 이거 어떻게 읽는 거지…… 쑥, 뜨므? 뜸? 콜록콜록, 이 냄새 뭐야!",
+                "cn": "这炉子还能用来养生来着，卖我这个的人说早晚熏一熏包治百病，这叫——艾炙？艾灸？咳！咳！咳！什么味道！"
+            },
+            "asset": "char_1040_blaze2/CN_036"
+        },
+        {
+            "id": "char_1040_blaze2_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_1040_blaze2/CN_037"
+        },
+        {
+            "id": "char_1040_blaze2_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "It's just fire, wh-what's got you all so into it—Uh... Amiya, Doctor, and you guys... Fine, just don't stand too close to me, or you might get burned. One, two! Wait, I did it? So peacetime flames can look as pretty as fireworks…",
+                "jp": "ただの火だし、そ、そんな大したもんじゃ――えっ、アーミヤちゃんもドクターも、他のみんなもすっごく期待してくれてるんだね……しょうがない、じゃあ火傷しないように離れてて。いち、にい、それっ！うまくいった？うわーっ、戦場の外の炎は、花火に負けないくらい綺麗な演出にもなるんだね。",
+                "kr": "그냥 불이잖아, 그, 그렇게 대단한 게 아니…… 어? 아미야랑 박사도 그렇고, 다들 엄청 기대하고 있잖아…… 어쩔 수 없지, 그럼 화상 안 입게 다들 멀리 떨어져 봐. 하나, 둘, 이얍! 성공이네? 와아, 전장 밖의 불꽃은 불꽃놀이만큼 예쁠 수도 있구나.",
+                "cn": "火而已，有、有什么好看——呃，阿米娅，博士，还有大家，都这么期待......好吧，都离远点，小心烫伤。一、二！成功了？战场外的火焰，原来真的可以像烟花一样好看。"
+            },
+            "asset": "char_1040_blaze2/CN_038"
+        },
+        {
+            "id": "char_1040_blaze2_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Hey. Gotta go train, see you later!",
+                "jp": "おはよー。今からトレーニングだから、また後でね！",
+                "kr": "좋은 아침~ 지금부터 훈련하러 갈 거라서, 나중에 봐!",
+                "cn": "嗨。去训练了，一会儿见！"
+            },
+            "asset": "char_1040_blaze2/CN_042"
+        },
+        {
+            "id": "char_1040_blaze2_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Doc—tor—C'mon! Put more oomph into it! I'm at my limit, it's over for me—Doctor, I didn't think you were this good at arm wrestling... Huh? I let you win? No, you beat me for real, I—Yeesh, just wanted to make you happy on your birthday is all, why not just play along!",
+                "jp": "ドークーター、もっと頑張ってよ！ほら力入れて！うわーやばい、やられる――あーやられた！ドクターってこんな腕相撲が強かったんだね～えっ？大根役者だって？本気でやって負けたんだよ。そんな――ああもう、せっかくの誕生日に喜んでもらいたかったのに。たまには騙されてくれたっていいでしょ！",
+                "kr": "박사, 힘내! 좀 만 더! 우와앗, 큰일 났다, 지겠는데에…… 아, 졌다! 박사가 팔씨름을 이렇게 잘할 줄이야~ 응? 연기 티 난다고? 진짜로 진 건데? 그게…… 아아 진짜! 모처럼 생일이고 기쁘게 해주고 싶었는데, 가끔은 좀 속아줘도 되잖아!",
+                "cn": "博——士——再加把劲！用力！我不行了，要倒了——倒了！博士，你掰手腕原来这么厉害~啊？演技？我真的输给你了啊，我——唉，趁你生日想哄你开心，你就不能偶尔装装糊涂！"
+            },
+            "asset": "char_1040_blaze2/CN_043"
+        },
+        {
+            "id": "char_1040_blaze2_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "I'm only third on this year's Training Room user rankings? Who's number one—DOCTOR?! Oh, so newbies use admin login before they get their own passes. Scared me for a sec there. Wait, then who's number two? C'mon! Tell me, no way I'm losing this year too!",
+                "jp": "ここ一年の訓練室使用時間ランキングで、私がまさかの三位？じゃあ一位は――ドクター！？ああ、まだIDカードのない新米オペレーターは管理人名義で使ってるからか、びっくりしたー。ってそれじゃあ二位は誰？一体誰なの！？こっそり教えて。向こう一年は絶対負けないから！",
+                "kr": "최근 1년 훈련실 사용 시간 랭킹이…… 잠깐만 내가 3등이라고? 그럼 1등은…… 박사!? 아! 아직 ID 카드가 없는 신입은 전부 관리자 이름으로 등록하니까 그런 거구나. 아 놀래라…… 잠깐, 그럼 2등은 누구지? 대체 누구냐고! 좀 알려줘. 올해는 절대로 안 질 거니까!",
+                "cn": "过去一年的训练室使用时长我居然只排第三？第一名是——博士？！哦，没开通行证的新干员都用管理员的名字登录啊，吓我一跳。等等，那第二名是谁？谁呀？！透露一下，今年我肯定不会输！"
+            },
+            "asset": "char_1040_blaze2/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Cristina Vee",
+            "global": "Cristina Vee"
+        },
+        "cn": {
+            "native": "周童",
+            "global": "Atom"
+        },
+        "jp": {
+            "native": "中原麻衣",
+            "global": "Mai Nakahara"
+        },
+        "kr": {
+            "native": "김연우",
+            "global": "Kim Yeon-woo"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

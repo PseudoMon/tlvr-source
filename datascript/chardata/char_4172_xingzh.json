@@ -1,0 +1,644 @@
+{
+    "charid": "char_4172_xingzh",
+    "nameid": "xingzh",
+    "names": {
+        "en": "Xingzhu",
+        "jp": "シィンズゥ",
+        "kr": "싱주",
+        "cn": "行箸"
+    },
+    "voices": [
+        {
+            "id": "char_4172_xingzh_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Although I know this is beyond the scope of an assistant's duties, I would like to tidy up your desk for you before work. Something as simple as stacking your books into a neat pile helps manage one's inner biases and distractions. Would you like to try, Doctor? Don't worry, I'm here to help. Why don't we start with this little mountain of documents?",
+                "jp": "秘書の業務にこの作業が含まれていないことは存じていますが、お仕事を始める前には机を綺麗にするのが習慣なのです。書籍やノートを整頓して置けば、心の内の偏った考えや雑念も消えていきます。ドクター様、貴殿も試してみますか？大丈夫ですよ、わたくしがお助けしますから。まずはこの小山の如く積まれたファイルから始めましょうか。",
+                "kr": "비서 업무에 이 작업이 포함되어 있지 않다는 것은 알고 있지만, 일을 시작하기 전에 책상을 깔끔하게 정리하는 것이 습관입니다. 서적이나 노트를 정돈해 두면, 마음속에 편견이나 잡념도 사라지죠. 박사님도 한번 해 보시겠어요? 괜찮아요. 제가 도와드릴 테니까요. 그럼 먼저 이 산처럼 쌓인 파일부터 시작해 볼까요?",
+                "cn": "我知道助理的职责不包括这个，但还是习惯工作前先把桌面整理干净。把书本整齐地摞好，内心的偏见和杂念也会随之消失。博士，您也来试试？别怕，我会帮您，先从这堆小山似的文档开始吧？"
+            },
+            "asset": "char_4172_xingzh/CN_001"
+        },
+        {
+            "id": "char_4172_xingzh_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Why do I have all these bottles of ink on my desk? Are you an ink enthusiast too? Hehe, of course you can borrow some. I have Ceramic Gray for dignity, Feldspar Gray for simplicity and Cloud Gray for elegance. Which are you most partial to...? Oh, they all look the same to you...? Well, I do have some ink the Logistics Department gave to me. Let's get you started with that, shall we?",
+                "jp": "どうして十いくつものインクを机に置いているか、と……もしやドクター様もインクにご興味がおありで？もちろんお使いいただけますよ。古鼎灰は厳かで重厚、長石灰は古くて素朴、暮雲灰は清雅な趣きがあります。貴殿はどれがお好みですか？どれも同じに見える？なるほど。ではあちらに後方支援部からいただいたインクがありますので、ドクター様はあれをお使いになってくださいな。",
+                "kr": "책상 위 먹의 종류가 다양하다고요? ……혹시 박사님께서도 먹에 관심 있으신가요? 물론 써보셔도 됩니다. 고정 회색은 엄숙하고 중후하며, 장석 회색은 고풍스러우면서 소박합니다. 모운 회색은 청아한 멋이 있지요. 박사님은 어떤 느낌을 선호하시나요? 다 똑같아 보이신다고요? 그렇군요. 그러면 저쪽에 후방 지원부에서 받은 잉크가 있으니까, 박사님은 그걸 쓰시죠.",
+                "cn": "为什么放十几瓶墨水在桌上？您也对它们感兴趣？当然可以借用。古鼎灰庄重，长石灰古朴，暮云灰清雅，您偏爱哪一种气质？看起来都一样？那边有从后勤部领的墨水，您呀，还是用那个吧。"
+            },
+            "asset": "char_4172_xingzh/CN_002"
+        },
+        {
+            "id": "char_4172_xingzh_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Baizao fare is defined by delicacy rather than dearness. The lingzhi mushrooms used in Fortune Soup need three years to mature. Tea leaves need prior removal of stems before they can be made into a bowl of tea soup rice, which imparts a light sweetness to the final dish. Whether a meal is frugal or abundant should not change the feeling with which you cook it. Whether your life is poor or rich should not change the feeling with which you live it. <i>That</i> is the bone and soul of Baizao.",
+                "jp": "百灶の御菜は洗練された美味を貴ぶもの。値嵩を崇拝するものではありません。一杯の福禄羹に用いられる霊芝は、育つまでに三年を要します。茶漬け飯を作るにも、前もって茶葉の茎を取り除いて洗浄すれば、口に入れた際に格別清かな滋味となります。豊倹いずれになるかは人次第。そこに求められるのは心遣いだけです。窮達に揺らすことはない。これこそが、百灶の気風です。",
+                "kr": "백조의 요리는 정성의 맛을 귀히 여깁니다. 비싼 재료만을 사용하려고 하지 않지요. 복록탕에 사용되는 영지버섯은 자라는 데만 3년이 걸립니다. 차밥을 만들 때도, 찻잎의 줄기를 미리 제거하고 깨끗이 씻어 준비하면, 입에 넣었을 때 맑고 깔끔한 풍미가 느껴지죠. 풍족과 검소함은 사람의 마음가짐에 달렸습니다. 필요한 건 오적 정성뿐. 곤궁이나 영달에 흔들리지 않는다, 이게 바로 백조의 기풍입니다.",
+                "cn": "百灶的菜肴在精不在贵，一份福禄羹里用的灵芝，要三年才能长成；一碗清茶泡饭，提前将茶叶去梗洗净，吃起来也会有不一样的清甜。丰俭由人，只求用心。穷达不改其志，这才是百灶的风骨。"
+            },
+            "asset": "char_4172_xingzh/CN_003"
+        },
+        {
+            "id": "char_4172_xingzh_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Blaze is spreading rumors that I deal in ancient texts? Aww, this is but a collection of historical records. I simply cannot bear to see them lost in the long river of time. Ballads, proverbs, poems, even accounting ledgers. They all harbor secrets between their lines... Hmm...? Doctor, what was that you were hiding just now? Don't worry, I won't conduct any research without permission. Soooo, what is it you're hiding?",
+                "jp": "ブレイズがわたくしのことを古本屋だと話したのですか？散逸させるのが惜しい史料を集めているだけですのに！謡言や詩歌、ひいては帳簿ですら、一行一行に密事を秘めているものなのですよ――あら、今何をお隠しになったのかしら。心配なさらずとも、わたくしは勝手に漁ったり致しませんよ。それで、何をお隠しになったの？",
+                "kr": "블레이즈가 저를 헌책방 사장이라고 얘기했다고요? 사라지면 아까운 사료들을 모으고 있을 뿐인걸요! 풍문이나 시가, 심지어는 장부까지, 모든 한 줄 한 줄에는 비밀이 숨어있단 말입니다…… 어머, 지금 무얼 숨기신 건가요? 걱정 마세요. 제가 그렇다고 함부로 캐묻거나 찾아다니진 않으니까요. 그래서, 뭘 숨기셨죠?",
+                "cn": "煌还说我是倒卖旧书的？我明明是收集一些舍不得让它们散佚的史料！那些谣谚、诗词，甚至账本，字里行间可都藏着秘密呢——咦，您刚才藏起了什么？我不会擅自研究的。所以，您藏起了什么？"
+            },
+            "asset": "char_4172_xingzh/CN_004"
+        },
+        {
+            "id": "char_4172_xingzh_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "The first time I challenged my superior was over his demand to soften a satirical poem into something more <i>pleasant.</i> Yet to what degree is the truth distorted in the name of this <i>pleasantness</i>? How many narratives massaged? How many people... The chronicles of history cannot be a curated collection of comfortable tales.",
+                "jp": "初めて上役の方と言い争ったのは、彼の方に風刺の効いた詩をなるべく角が立たないように解釈しろと求められた時でした。「角が立たない」ようにするために、どれほどの物事の本質が曲げられ、意味が変わり、またどれほどの人が……史籍に記されてしかるべき物事とは、もとより耳障りがいいものばかりであってはならないのです。",
+                "kr": "처음 상사와 언쟁을 벌였던 건, 풍자가 담긴 시를 가능한 모나지 않게 해석하라는 요구를 받았을 때였어요. '모나지 않게' 만들기 위해 얼마나 많은 본질이 왜곡되고, 의미가 변질되며, 또 얼마나 많은 사람이…… 사서에 기록될 만한 일은, 애초에 듣기 좋은 것만 있어서는 안됩니다.",
+                "cn": "我头一次与上司争执，是他要我将一首讽喻诗解读得好听些。为这一句“好听”，多少事就变了味、走了样，又有多少人......那些理应记在史册上的事，本来就不该只有好听这一种声音。"
+            },
+            "asset": "char_4172_xingzh/CN_005"
+        },
+        {
+            "id": "char_4172_xingzh_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "The Yanese delight in leaving our mark on history, to accomplish great things worthy of record. But what did Father think? Did he ever feel regret? I cannot say. But how could one label him insignificant? A man like him is not mere marginalia or interlinear space… he is the very page upon which history is inscribed.",
+                "jp": "炎国の者は「青史に名を残す」という言葉を好み、勲業やら文章やらと、何かと後世に残すことを良しとしがちです。ですが、父様はどう考えていたのでしょうか？悔いたことはあるのでしょうか？わたくしには分かりません。どうしてちっぽけな人間になるのでしょうか。父様のような方は、書籍の行間にある空白ではなく、史書の頁そのものなのです。",
+                "kr": "염국 사람들은 '청사에 이름을 남겨야 한다'는 말을 즐겨 한답니다. 그래서 공적이니 문장이니 뭐든 후세에 남겨야만 의미가 있다고 여기죠. (사색) 그러나 아버지는 어떤 생각이셨을까요? 후회는 없으셨을까요? 전 모르겠습니다. 그걸 어떻게 보잘것없다고 말할 수 있겠어요. 아버지 같은 분은 서적 행간의 여백이 아니라, 역사서의 책장 그 자체셨는걸요.",
+                "cn": "炎国人总喜欢说青史留名，文章功业，总要能留下点什么才好。可父亲是怎么想的呢？他后悔过吗？我不知道。怎么能算渺小呢？像他这样的人啊，不是书上字里行间的空白，而是史书的书页本身。"
+            },
+            "asset": "char_4172_xingzh/CN_006"
+        },
+        {
+            "id": "char_4172_xingzh_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "You are full already, Doctor? No, you're not. Here, try a Laobing. It's a beastmeat pancake of Yang nature, and best paired with bamboo shoot and lily soup for Yin. Oh, and these seasonal apricot blossom pastries are an absolute must! Haha, I'll chronicle today thusly: 'Springtime wandering with a companion, our bellies full, bathed in apricot blossom shadows, sharing wine beneath rustling branches'. That is true refinement.",
+                "jp": "もうお腹いっぱい、ですか？いけません、獣肉の烙餅は漢方では熱に分類される品ですから、できれば春筍百合羹を一杯召し上がった方が……この季節ですから、杏花酥も外せません――ふふ、本日の旅行記には「友と共に春を踏み、食事に興じながら杏花を愛で、樹下に酔う」、と書きましょう。",
+                "kr": "벌써 배가 부르시다고요? 안 됩니다. 비스트 고기 전병은 열을 올리는 음식이니만큼, 죽순백합탕도 한 그릇 드시는 편이 좋습니다. 참, 그리고 이 계절엔 살구꽃 과자도 빼놓을 수 없죠. 후후, 오늘 여행기에는 '친구와 함께 봄을 걷고, 식사를 즐기며 살구꽃을 감상하다, 나무 아래서 취하다'로 써야겠네요.",
+                "cn": "博士，您已经吃饱了？这可不行，兽肉烙饼性热，最好再吃一碗春笋百合羹，这个季节的杏花酥更不能错过——哈哈，今天的游记就写“与友人踏春，扶肚皮赏杏花，共醉树下”，倒也是一桩雅事。"
+            },
+            "asset": "char_4172_xingzh/CN_007"
+        },
+        {
+            "id": "char_4172_xingzh_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "My relationship with Blaze isn't nearly as harmonious as you say. She's far less well-behaved with me than she is with you. I've apologized to her. After all, she could have led a peaceful life. What did she do? It was a forehead flick. With such force as to leave you dazed for hours. But thanks to that, I've found the courage to maintain our relationship thereafter.",
+                "jp": "わたくしとブレイズの関係は仰るほど良いものではありませんよ。わたくしに対してはドクター様を相手にした時のように素直ではないのです――彼女には頭を下げました。本来であれば穏やかな暮らしを送ることができたのですから。返答？人の額を指で弾く時の力加減といったら、優に半日は気を失うくらいでしたよ。だからこそ、わたくしは彼女との付き合いを続ける勇気が持てたのです。",
+                "kr": "저와 블레이즈의 관계는 박사님께서 말씀하시는 것처럼 좋지는 않답니다. 제게는 박사님을 대할 때처럼 솔직하지 않거든요…… 사실 블레이즈에겐 사과했어요. 원래라면 평온한 삶을 살 수 있었을 테니까요. 대답이요? 이마를 튕길 때 그녀의 손가락 힘 말씀이라면, 족히 반나절은 정신을 잃을 정도였죠. 물론 그 덕분에 저는 그녀와 계속 교류할 용기를 얻었답니다.",
+                "cn": "我和煌的关系哪有您说的那么好，她对我可不像对您那么老实——我向她道过歉，毕竟她本可以过上安稳的生活。她？她弹人额头的手劲，能叫人迷糊半天。所以，我才有勇气继续和她交好。"
+            },
+            "asset": "char_4172_xingzh/CN_008"
+        },
+        {
+            "id": "char_4172_xingzh_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Grandfather cherished his garden, though the two persimmon trees he nurtured bore fruit perpetually astringent, fit only for drying. We would wash the harvest, then spread them out to dry, finally dusting them with a sugar coating as delicate as freshly fallen snow. The sweetness would mask the bitterness, deceiving the tongue, rendering them unexpectedly palatable... Ah, what a pristine snowfall.",
+                "jp": "お爺様は自家で青果の栽培を行うのを最も好んでおられました。けれど家にある二本の柿の木に成る実は、いつもそれほど甘くないので干し柿にするしかありません。果実を洗って天日に干したあと、雪のような粉糖をまぶすのです。渋みを覆う甘みが舌を欺くほどになれば、食せます……ええ、良い雪ですね。",
+                "kr": "할아버님께서는 집에서 과일 나무를 기르고 텃밭 가꾸는 걸 가장 좋아하셨어요. 그런데 집에 있는 두 그루의 감나무에서 열리는 열매는 늘 달지 않아, 곶감으로 만들 수밖에 없었죠. 과일을 씻어 햇볕에 말린 다음, 눈처럼 하얀 설탕을 묻혀…… 떫은맛을 덮을 만큼의 단맛이 혀를 속일 정도가 되면 먹을 수 있었죠…… 네, 참 좋은 눈이네요.",
+                "cn": "爷爷平时最喜欢在家里栽树种菜，但那两棵柿子树挂的果总是不甜，只好做成柿饼。果子洗净晒干，再撒上一层雪一样的糖霜。甜味盖过涩味，骗过舌头，也就好入口了......嗯，好一场雪啊。"
+            },
+            "asset": "char_4172_xingzh/CN_009"
+        },
+        {
+            "id": "char_4172_xingzh_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Perfect, what a flawless moment… each of us working quietly, our focus undisturbed. How about we go for a warm meal and a break? Say, in two hours' time?",
+                "jp": "ええ、このようにお互いへ干渉せずに、静かに仕事をいたしましょう。二時間後に、共に休憩に行って、温かいものでもとりましょうね。",
+                "kr": "네, 이렇게 서로 간섭하지 말고 조용히 일하시죠. 두 시간 후에 같이 따뜻한 거라도 마시면서 휴식을 취하도록 해요.",
+                "cn": "对，就像现在这样，互不干扰地安静工作。两小时后，一起去吃点温暖的东西休息一下吧。"
+            },
+            "asset": "char_4172_xingzh/CN_010"
+        },
+        {
+            "id": "char_4172_xingzh_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Oh, I've already been introduced? Please, don't believe a word Blaze says. The girl still insists I'm a folk singer. I am Xingzhu, a historian of Baizao. If you happen upon any intriguing ballads or proverbs, I'd be delighted if you would share them with me.",
+                "jp": "わたくしをご存知なのですか？もしブレイズから何か聞いたのであれば、どうか信じないでくださいませ。あの子はわたくしが民謡歌手であるなどと言いふらしたこともあるのです。わたくしは百灶から参りました歴史研究者です。もし面白い謡言を耳にすることがあれば、いつでも話してくださいましね。",
+                "kr": "저를 알고 계신나요? 혹시 블레이즈에게서 무언가 들은 게 있으시다면, 부디 믿지 말아주세요. 그 애는 제가 민요 가수라는 둥 소문을 내기도 했거든요. 다시 인사드립니다. 저는 백조에서 온 역사 연구자입니다. 재미있는 풍문을 들으시면 언제든 말씀해 주시기를.",
+                "cn": "您认出我了？无论煌是怎么向您介绍我的，您都别信。那丫头还说我是唱民歌的呢。我是来自百灶的历史研究者，您要是听到了有趣的谣谚，都可以分享给我。"
+            },
+            "asset": "char_4172_xingzh/CN_011"
+        },
+        {
+            "id": "char_4172_xingzh_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "How very educational. I've learned something new today.",
+                "jp": "大変結構な学習内容ですね。勉強になります。",
+                "kr": "아주 훌륭한 내용이네요. 덕분에 많이 배웁니다.",
+                "cn": "很有学习意义呢。受教了。"
+            },
+            "asset": "char_4172_xingzh/CN_012"
+        },
+        {
+            "id": "char_4172_xingzh_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "This medal in my hand represents your recognition that more than casualties are worth recording on the battlefield. At times, there may also be primroses in full bloom.",
+                "jp": "わたくしがこのメダルを手にしているのはつまり、戦場では死傷者だけでなく、時に咲き誇った春告げの花も記録に値するものだと、貴殿も同意してくださったということですね。",
+                "kr": "제가 이 메달을 받았다는 건 즉, 전장에서는 사상자 뿐만 아니라 때로는 봄을 알리며 피어나는 꽃도 기록할 가치가 있다고 당신도 동의하셨다는 것이겠군요.",
+                "cn": "我手中这枚勋章，意味着您也同意，战场上值得记录的不只有伤亡，有时也可以是一枝盛开的报春花。"
+            },
+            "asset": "char_4172_xingzh/CN_013"
+        },
+        {
+            "id": "char_4172_xingzh_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "There is a saying I am fond of that goes: the unofficial history is built verse by verse, lyric by lyric. When I think about how I myself will be a verse in the mundane saga, I find it pleasing.",
+                "jp": "わたくしは「民間の歴史は民草の一行一行の詩、一句一句の歌によって作り上げられている」という表現がとても素敵だと思っています。自分もまた世の一行の詩歌であることを思うと、なんとも嬉しくなるのです。",
+                "kr": "저는 '민간의 역사란 민초의 한 줄 한 줄의 시, 한 구절 한 구절의 노래로 만들어진다'라는 표현이 참으로 멋지다고 생각합니다. 저 또한 세상의 한 줄 시가임을 생각하면, 왠지 기쁘게 느껴지거든요.",
+                "cn": "我喜欢这种说法——民间的历史是由百姓的一行行诗、一句句歌谣构成的。想到我也是人间的一行诗，我就乐在其中。"
+            },
+            "asset": "char_4172_xingzh/CN_014"
+        },
+        {
+            "id": "char_4172_xingzh_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "A spot of field research? How wonderfu—*cough* I will keep safety in mind.",
+                "jp": "実地考察？願ってもな――こほん、安全に注意を払って参ります。",
+                "kr": "현장 조사요? 바라 마지않…… 크흠. 안전에 주의하며 다녀오겠습니다.",
+                "cn": "实地考察？太好——咳，我会注意安全的。"
+            },
+            "asset": "char_4172_xingzh/CN_017"
+        },
+        {
+            "id": "char_4172_xingzh_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Bring forth all your prowess. My pen shall stand witness.",
+                "jp": "皆様、どうぞご存分に力を振るってください。わたくしも筆を揮ってそれを見届けます。",
+                "kr": "여러분, 부디 마음껏 실력을 발휘해 주세요. 저도 붓을 들고 그 모습을 지켜보겠습니다.",
+                "cn": "诸位尽情发挥，我将挥笔见证。"
+            },
+            "asset": "char_4172_xingzh/CN_018"
+        },
+        {
+            "id": "char_4172_xingzh_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "It's a golden opportunity to gather folk material myself. Is there anything I should take note of?",
+                "jp": "せっかく現地へ素材の収集に赴けるのです。何か注意すべきことはありますか？",
+                "kr": "모처럼 현지로 자료 수집을 가게 되었는데, 혹시 주의해야 할 점이 있을까요?",
+                "cn": "难得去现场采风，有什么需要注意的吗？"
+            },
+            "asset": "char_4172_xingzh/CN_019"
+        },
+        {
+            "id": "char_4172_xingzh_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "*Sigh* One cannot discuss ice with an insect of summer. However shall I explain this to you?",
+                "jp": "はぁ、夏虫に氷を語るべからず。皆様に話が通じるはずもありませんね。",
+                "kr": "하아, 여름 벌레에게 얼음을 설명할 수 없음이니. 여러분과 얘기가 통할 리는 없겠군요.",
+                "cn": "唉，夏虫不可语冰，和你们又怎么讲得通呢？"
+            },
+            "asset": "char_4172_xingzh/CN_020"
+        },
+        {
+            "id": "char_4172_xingzh_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Very well. I'm on my way.",
+                "jp": "ええ、参ります。",
+                "kr": "네, 갑니다.",
+                "cn": "嗯，我去了。"
+            },
+            "asset": "char_4172_xingzh/CN_021"
+        },
+        {
+            "id": "char_4172_xingzh_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "The road ahead is bumpy. Do take care.",
+                "jp": "この先は険しい道です。どうかお気をつけて。",
+                "kr": "여기부터는 길이 험하군요. 부디 조심하시길.",
+                "cn": "前路坎坷，请小心。"
+            },
+            "asset": "char_4172_xingzh/CN_022"
+        },
+        {
+            "id": "char_4172_xingzh_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "A glance is all I need to comprehend.",
+                "jp": "状況は一目瞭然ですね。",
+                "kr": "상황이 일목요연하네요.",
+                "cn": "情况一目了然。"
+            },
+            "asset": "char_4172_xingzh/CN_023"
+        },
+        {
+            "id": "char_4172_xingzh_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "There is much to be recorded.",
+                "jp": "書き留めねばならぬことが多くあります。",
+                "kr": "기록해 두어야 할 것이 많이 있네요.",
+                "cn": "要记的有很多。"
+            },
+            "asset": "char_4172_xingzh/CN_024"
+        },
+        {
+            "id": "char_4172_xingzh_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "My ink and pen may never rest, my stack of papers put to test.",
+                "jp": "筆耕輟じず、落紙飛ぶがごとし。",
+                "kr": "필경 멈추지 않고, 종이에 붓 휘두르면 나는 듯 하니.",
+                "cn": "笔耕不辍，落纸如飞。"
+            },
+            "asset": "char_4172_xingzh/CN_025"
+        },
+        {
+            "id": "char_4172_xingzh_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "A humble scholar's duty is all I claim, the way of life that leads not to shame.",
+                "jp": "三尺の微命、俯仰愧じる無し。",
+                "kr": "보잘것 없는 목숨, 하늘 우러러 한 점 부끄럽지 않음이니.",
+                "cn": "三尺微命，俯仰无愧。"
+            },
+            "asset": "char_4172_xingzh/CN_026"
+        },
+        {
+            "id": "char_4172_xingzh_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Cross mount and river, night of gale and snow, all blankets any whisper of my home.",
+                "jp": "山水の一程、風雪の一更、故園此の声無し。",
+                "kr": "천 리 산수 기약 없고, 한 밤 풍설 쉴 새 없네. 고향에는 없는 소리구나.",
+                "cn": "山水一程，风雪一更，故园无此声。"
+            },
+            "asset": "char_4172_xingzh/CN_027"
+        },
+        {
+            "id": "char_4172_xingzh_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Here, some poprice candy. Just a little while longer, okay?",
+                "jp": "米花糖を一口召し上がって、今少し踏ん張りましょう？",
+                "kr": "쌀강정 한 입 드시고, 조금 더 힘내볼까요?",
+                "cn": "来一口米花糖，再坚持一下？"
+            },
+            "asset": "char_4172_xingzh/CN_028"
+        },
+        {
+            "id": "char_4172_xingzh_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "I can finally breathe easy. Why don't we get something to eat, Doctor, once you're finished with work? I said <i>after</i> work. The hawker stalls aren't going anywhere.",
+                "jp": "これでやっと息を吐くことができますね。ドクター様、お仕事が終わったら、何か食事をしに参りませんか？お待ちを、終わったらと申し上げたでしょう。屋台は逃げませんからね。",
+                "kr": "이제야 한숨 돌릴 수 있겠네요. 박사님, 일 마무리하고 같이 식사하러 가시지 않으시겠어요? 잠시만요, '마무리하고'라고 말씀드렸잖아요? 노점엔 발이 달려있지 않답니다.",
+                "cn": "这下能松口气了。博士，忙完了一起去吃点什么吧？哎——我说忙完以后。小吃摊又不会长脚跑掉。"
+            },
+            "asset": "char_4172_xingzh/CN_029"
+        },
+        {
+            "id": "char_4172_xingzh_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Hmm… Let me ponder how best to commend your exceptional leadership. Yes, a <i>Compendium of Extraordinary Talents</i> would undoubtedly be less vivid without your story.",
+                "jp": "貴殿の先ほどの指揮ですが――どのように賞賛すべきか考えさせてくださいまし。そうだ、貴殿のお話がない奇人の異聞録は、きっとなんとも魅力の失せたものなのでしょうね。",
+                "kr": "방금 전 박사님의 지휘는…… 어떻게 칭찬해 드려야 좋을지 고민을 좀 해보겠습니다. 박사님의 이야기가 없는 기인 이문록은 빛바랜 퇴물일 게 분명합니다.",
+                "cn": "您刚才的指挥——让我想想怎么夸。对，奇人异闻志里要是少了您的故事，一定会黯然失色。"
+            },
+            "asset": "char_4172_xingzh/CN_030"
+        },
+        {
+            "id": "char_4172_xingzh_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "I've already meticulously documented the physical characteristics of the escapees. Would you prefer to handle this immediately, or take a brief respite first?",
+                "jp": "逃げ出した者の外見の特徴は仔細に記録いたしました。ドクター様は今すぐあれらを処理されますか、それとも少しお休みになってからにしますか？",
+                "kr": "도망친 자들의 외형적 특징은 자세하게 기록해뒀습니다. 박사님께서는 지금 바로 그자들을 처리하실 생각이실지? 아니면 잠시 쉬고 나서 하실 건가요?",
+                "cn": "我已经详细记录下逃脱者的外貌特征，您是想现在就处理，还是休息一下再继续？"
+            },
+            "asset": "char_4172_xingzh/CN_031"
+        },
+        {
+            "id": "char_4172_xingzh_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "I don't think you need to be bolstered by those 'rallying' folk tales right now. Here, this should do the trick. Delightfully sweet and sour, isn't it? Feeling a bit better now?",
+                "jp": "貴殿には「捲土重来」を旨とする民間の故事による励ましは不要かと存じますが。どうぞ、これこそがドクター様に今必要なものです。ふっ、甘酸っぱいでしょう？気持ちは楽になりましたか？",
+                "kr": "당신에게는 '권토중래'라는 민간 이야기를 통한 격려는 필요하지 않을 것 같군요. 자, 여기. 이것이야말로 박사님께 필요한 것이겠지요. 훗, 새콤달콤하죠? 기분은 조금 나아지셨나요?",
+                "cn": "我不觉得您需要被那些“重振旗鼓”的民间故事鼓励。给，这个才是您需要的。呵，酸酸甜甜的？心情好些了？"
+            },
+            "asset": "char_4172_xingzh/CN_032"
+        },
+        {
+            "id": "char_4172_xingzh_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "May I ask how to get to the archive? Oh, so it's not in the dormitories... Then could you please tell me where the library is?",
+                "jp": "もし、ここから資料室へはどのようにして行けば？休憩エリアにはないのですか……では図書館へはどうです？",
+                "kr": "저, 자료실은 어떻게 가나요? 휴식 구역에는 없다고요…… 그럼 도서관은 어디에 있을까요?",
+                "cn": "请问档案室怎么走？不在休息区吗......那请问图书馆怎么走？"
+            },
+            "asset": "char_4172_xingzh/CN_033"
+        },
+        {
+            "id": "char_4172_xingzh_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Oh my! Please, keep the jests in moderation…",
+                "jp": "まあ、冗談は笑える程度になさってくださいね……",
+                "kr": "저기…… 농담은 적당히 하세요……",
+                "cn": "哎呀，开玩笑请适度......"
+            },
+            "asset": "char_4172_xingzh/CN_034"
+        },
+        {
+            "id": "char_4172_xingzh_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "There was a girl, with words so sweet, who stole two chops of burden-meat. She made two biscuits, oiled them neat, then gorged so much she had to bleat: 'Oh! Ouchie-Eek!'…",
+                "jp": "お口ぴかぴかお嬢ちゃん、二両ばかりのお肉を掠めとり。たっぷり挟んだ酥餅。たっぷり浴びた香ばしさ。もう入らないよ――はち切れそう～",
+                "kr": "입술 반짝 소녀, 고기 두 냥 훔쳤네. 입안 가득 소병, 온몸 가득 고소함. 더는 못 먹어~ 더는 못 먹어~",
+                "cn": "小丫头，嘴抹油，偷了二两驮兽肉。夹酥饼，淋香油，撑得丫头直叫唤——哎哟哟~"
+            },
+            "asset": "char_4172_xingzh/CN_036"
+        },
+        {
+            "id": "char_4172_xingzh_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4172_xingzh/CN_037"
+        },
+        {
+            "id": "char_4172_xingzh_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "I used to detest the clamor of the new year, but now, I find myself with rather more complicated feelings, sitting alone in this courtyard. So I ended up writing a poem on the wall. Instead of wallowing in misery, I would rather whimsically spill my ink. Are the splashes not like silent fireworks, Doctor?",
+                "jp": "以前は新年の喧騒が一番嫌いでしたが、今はこの人気のない中庭に座っていると、心中に複雑な気持ちが生まれるので――壁に詩を書きました。嘆息し嘆くくらいであれば、気儘に墨をかけましょう。どうです、壁面に音のない花火を打ち上げたように見えませんか、ドクター様？",
+                "kr": "예전엔 새해의 떠들썩함이 가장 싫었습니다. 그러나 지금은 이렇게 인적 없는 안뜰에 우두커니 앉아 있으면 마음속에 복잡한 감정이 떠올라서…… 벽에 시를 써봤답니다. 탄식하고 한탄하느니, 차라리 마음껏 먹을 뿌리는 게 나을 테니까요. 어떤가요, 벽면에 소리 없는 불꽃놀이를 쏘아 올린 것처럼 보이지 않나요, 박사님?",
+                "cn": "我以前最讨厌新年的聒噪，如今坐在这无人的庭院里，心里又五味杂陈——所以，我在墙上作了首诗。与其唏嘘哀叹，不如肆意泼墨，像不像我在墙上放了无声的烟花，博士？"
+            },
+            "asset": "char_4172_xingzh/CN_038"
+        },
+        {
+            "id": "char_4172_xingzh_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Have you eaten yet, Doctor?",
+                "jp": "食事はお済みですか、ドクター様？",
+                "kr": "식사는 하셨나요, 박사님?",
+                "cn": "吃过了吗，博士？"
+            },
+            "asset": "char_4172_xingzh/CN_042"
+        },
+        {
+            "id": "char_4172_xingzh_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Oh, Doctor, I dropped my notebook at the noodle house. I need you to come along with me and—Why do we need to go together? Look, ah… erm… well… Sorry, I meant this as a birthday surprise, to offer you a Yanese longevity noodle. It's remarkably challenging for one who despises dishonesty to tell such white lies.",
+                "jp": "ドクター様、わたくしとしたことが、うっかり備忘録をあの麺館に忘れてきてしまいました。もしよろしければわたくしと共にいらしてください――どうして一緒に行く必要があるのか？質問はなしです。とにかく――はぁ。申し訳ありません、貴殿をあちらにお連れして、不意打ちでお誕生日のお祝いをして、麺をごちそうしたかっただけなのです。やはり、嘘が嫌いな人間は、上手に嘘はつけませんね。",
+                "kr": "박사님, 제가 깜빡하고 그만 비망록을 그 국숫집에 두고 와버렸어요. 저와 같이 가 주실 수 있으실까요…… 왜 같이 가야 하냐는 질문은 받지 않겠습니다. 아무튼…… 하아. 죄송합니다. 당신을 그곳으로 모시고 가 깜짝 생일 축하를 하고, 면을 대접하고 싶었던 것뿐이에요. 역시 거짓말을 싫어하는 사람은 잘 하지도 못하네요.",
+                "cn": "博士，我把笔记本落在了那家面馆，请您务必和我一起去——为什么要一起去？您别问了，总之——抱歉，我是想把您带到那里，突然祝您生日快乐，再请您吃碗面。果然讨厌谎言的人说不了谎。"
+            },
+            "asset": "char_4172_xingzh/CN_043"
+        },
+        {
+            "id": "char_4172_xingzh_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Doctor, we have a tradition of gifting each other books on commemoration days at the academy. I thought long and hard about what you needed before deciding on this: 'Calligraphy: From Amateur To Adept'—It sounds like homework? Nonsense. Just one page a day, and you'll learn to love the tranquility of mastering your strokes.",
+                "jp": "ドクター様、我々の研究院には、記念日に書籍を贈り合う慣習がございます。わたくし、ドクター様に何を贈ればいいか長く考えたのですが、最終的にこちらの『硬筆書法――ゼロから達人まで』を選びました。宿題のようだ？何を仰るのです。毎日一頁練習すれば、貴殿も習字をする際の静けさを好むようになりますよ。",
+                "kr": "박사님, 우리 연구원에는 기념일에 서적을 주고받는 관습이 있답니다. 박사님께 어떤 서적을 드려야 좋을지 오랫동안 생각해 봤는데요, 여기 '경필서법-기초에서 달인까지'로 골라봤습니다. 숙제 같다고요? 무슨 말씀을. 매일 한 장씩 연습하다보면, 당신도 서예할 때의 고요함을 좋아하시게 될 거예요.",
+                "cn": "博士，我们研究院有在纪念日互相赠送书籍的传统。我想了许久您需要什么，最后选了这本《硬笔书法零基础入门到精通》——像作业？怎么会呢。每天一页，您会爱上练字时的宁静的。"
+            },
+            "asset": "char_4172_xingzh/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Crystal Yu",
+            "global": "Crystal Yu"
+        },
+        "cn": {
+            "native": "张晔",
+            "global": "Zhang Ye"
+        },
+        "jp": {
+            "native": "戸板優衣",
+            "global": "Yui Toita"
+        },
+        "kr": {
+            "native": "김다운",
+            "global": "Kim Dawn"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

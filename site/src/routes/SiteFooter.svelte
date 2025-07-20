@@ -5,7 +5,7 @@
 <footer>
   <a href="https://github.com/PseudoMon/tlvr-source" target="_blank"><GithubIcon /></a>
   <span>Site version 1.4</span>
-  <span>Data last updated: 2025-06-21 (Exodus from the Pale Sea on Global)</span>
+  <span>Data last updated: 2025-07-20 (Such is the Joy of Our Reunion on Global)</span>
 </footer>
 
 <style>
