@@ -2353,6 +2353,19 @@
         "rating": 5
     },
     {
+        "fullid": "char_4173_nowell",
+        "nameid": "nowell",
+        "numberid": "4173",
+        "name": {
+            "en": "Nowell",
+            "jp": "ノウエル",
+            "kr": "노웰",
+            "cn": "诺威尔"
+        },
+        "nation": "victoria",
+        "rating": 5
+    },
+    {
         "fullid": "char_402_tuye",
         "nameid": "tuye",
         "numberid": "402",
@@ -2886,6 +2899,19 @@
         "rating": 5
     },
     {
+        "fullid": "char_4177_brigid",
+        "nameid": "brigid",
+        "numberid": "4177",
+        "name": {
+            "en": "Brigid",
+            "jp": "ブリギッド",
+            "kr": "브리지드",
+            "cn": "水灯心"
+        },
+        "nation": "victoria",
+        "rating": 5
+    },
+    {
         "fullid": "char_4015_spuria",
         "nameid": "spuria",
         "numberid": "4015",
@@ -3234,6 +3260,19 @@
             "cn": "霜华"
         },
         "nation": null,
+        "rating": 5
+    },
+    {
+        "fullid": "char_4171_wulfen",
+        "nameid": "wulfen",
+        "numberid": "4171",
+        "name": {
+            "en": "Wulfenite",
+            "jp": "ウルフェナイト",
+            "kr": "울페나이트",
+            "cn": "钼铅"
+        },
+        "nation": "sargon",
         "rating": 5
     },
     {
@@ -3848,6 +3887,19 @@
         "rating": 6
     },
     {
+        "fullid": "char_450_necras",
+        "nameid": "necras",
+        "numberid": "450",
+        "name": {
+            "en": "Necrass",
+            "jp": "ネクラス",
+            "kr": "네크라스",
+            "cn": "死芒"
+        },
+        "nation": "victoria",
+        "rating": 6
+    },
+    {
         "fullid": "char_206_gnosis",
         "nameid": "gnosis",
         "numberid": "206",
@@ -4047,7 +4099,7 @@
         "nameid": "crosly",
         "numberid": "1502",
         "name": {
-            "en": "CrownSlayer",
+            "en": "Crownslayer",
             "jp": "クラウンスレイヤー",
             "kr": "크라운슬레이어",
             "cn": "弑君者"
@@ -4768,6 +4820,19 @@
             "cn": "圣约送葬人 SALE"
         },
         "nation": "laterano",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4010_etlchi",
+        "nameid": "etlchi",
+        "numberid": "4010",
+        "name": {
+            "en": "Entelechia",
+            "jp": "エンテレケイア",
+            "kr": "엔텔레키아",
+            "cn": "隐德来希"
+        },
+        "nation": "rhodes",
         "rating": 6
     },
     {

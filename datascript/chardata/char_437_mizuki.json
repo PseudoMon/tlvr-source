@@ -17,7 +17,7 @@
                 "cn": "任命助理"
             },
             "text": {
-                "en": "Dr. Kal'tsit told me if you ever chose to place me at your side, it means you've decided to protect me. From the looks of things though, Doctor, I don't think you understand what that means? But I know she must've said it for a reason.",
+                "en": "Dr. Kal'tsit told me if you ever chose to place me at your side, it means you've decided to protect me. But maybe you're just as clueless as I am with her riddle, Doctor. Still, I'm sure she must've said it for a reason.",
                 "jp": "ケルシー先生が言ってたよ。ドクターが僕を側に置くようになったら、それは僕を守ることを決めたんだって。でもドクター自身は、それが何を意味するか理解してないみたいだね。だけど僕にはわかるんだ、ケルシー先生は適当を言ってるわけじゃないってね。",
                 "kr": "켈시 선생님이 그랬어. 박사가 나를 옆에 두기로 결정했다면, 그건 박사가 나를 지키기로 마음먹은 거라고. 하지만 보아하니 박사 스스로도 그게 무엇을 의미하는지 이해하지 못한 모양이네. 하지만 나는 알 수 있어. 켈시 선생님이 그냥 해본 말은 아니라는 걸.",
                 "cn": "凯尔希医生跟我说过，如果博士选择把我安置在身边，那么就意味着博士决定要保护我。但看样子，博士也还不太明白是什么意思？不过我感觉得出来，她有她这么说的把握。"
@@ -33,7 +33,7 @@
                 "cn": "交谈1"
             },
             "text": {
-                "en": "Fine dining, comics, games, and the people who created them, are all psalms laid out beneath the starry firmament. And my journey is to taste them all— and to eliminate anything that seeks to threaten them.",
+                "en": "Tasty food, manga, and video games… I see them all as poetry scattered under the starry sky. I intend to relish them all on my journey... and eliminate anything that threatens their existence.",
                 "jp": "グルメ、マンガ、ゲーム、そしてそれを創り出す人たち、みーんな星空の下に散らばる詩なんだ。僕の旅の目的は、そういうものを全部味わうこと――そして、それを邪魔するものを片付けることだよ。",
                 "kr": "미식, 만화, 게임, 그리고 그걸 만들어내는 사람들, 다들 밤하늘 아래에 흩어진 시와 같아. 내 여행의 목적은 그런 걸 전부 맛보는 것…… 그리고 그걸 방해하는 것을 처리하는 거야.",
                 "cn": "美食、漫画、游戏，以及创造了它们的人们，都是散落在星空下的诗篇。而我的旅途就是品遍它们——还有处理掉可能对这一切造成妨害的东西。"
@@ -49,7 +49,7 @@
                 "cn": "交谈2"
             },
             "text": {
-                "en": "Ah, Doctor, you came at just the right time. Quick, come have a taste, I prepared this special sashimi dish using a special technique that best preserves the nutrients and vitality of the ingredients!",
+                "en": "Ah, Doctor! Perfect timing! Please try this special sashimi I made. With my secret technique, the nutrients and vitality of the ingredients are best preserved.",
                 "jp": "あ、ドクター、ちょうどいいところに来た。これ食べてみて、食材の栄養と生命力を最大限キープできる極秘の調理法で作った刺し身料理だよ！",
                 "kr": "아, 박사, 마침 잘 왔어. 이거 먹어 봐. 재료의 영양과 생명력을 최대한 유지할 수 있게 나만의 조리법으로 만든 '특제 회' 요리야!",
                 "cn": "啊，博士，你来得正好，快尝尝看，我这采用了最能保留食材营养和生命力的独家秘诀做出来的特色刺身料理！"
@@ -65,7 +65,7 @@
                 "cn": "交谈3"
             },
             "text": {
-                "en": "This one, huh? It's a classic arcade game from Higashi, though it's kind of niche now. Want to give it a try, Doctor? Here, you move that yellow mouth around and try to eat as much stuff as you can. But until you've absorbed enough nutrients to become strong, you'll only be prey to others.",
+                "en": "Oh, this? It's a classic arcade game that used to be popular in Higashi. Want to have a go, Doctor? Here, just move that yellow mouth to eat and grow. However… until you've absorbed enough nutrients to grow strong, you'll only be prey to others.",
                 "jp": "これ？極東で流行ってたレトロゲームだよ、今はもうあんまり人気ないけどね。ドクターもやってみる？あの黄色い顔を、周りのものを食べるように操作するんだ。でもたくさん栄養を摂ってパワーアップするまでは、他の敵から獲物として狙われちゃうんだ。",
                 "kr": "이거? 극동에서 유행했던 고전 게임이야. 지금은 별로 인기가 없지만. 박사도 한번 해 볼래? 이 노란 얼굴을 컨트롤해서 주위에 있는 것들을 먹으면 돼. 간단하지? 근데 영양분을 잔뜩 섭취해서 파워업하기 전까진 넌 다른 적들이 노리는 사냥감이야.",
                 "cn": "这个吗？是东国早些年的经典游戏哦，虽说现在已经不太流行了。博士要试试看吗？来，操纵那个黄色的嘴去吃东西就行。不过在吸收到足够的营养、获得足够的力量之前，都只会被别人当作猎物呢。"
@@ -81,7 +81,7 @@
                 "cn": "晋升后交谈1"
             },
             "text": {
-                "en": "A strong sense of justice? You have the wrong idea, Doctor. I'm personally not that concerned about bad guys, but for various reasons, the people here usually can't do much to them, right? In times like that, if there was some way to make those bad guys disappear... Nobody would lose sleep over that, right? It'd be a breath of fresh air, right?",
+                "en": "A sense of justice? No, You got me wrong, Doctor. I don't really care much about bad guys. It's just… for some reason, good people always let them get away with bad things. What if... someone came along and got rid of them? No one would feel bad for them, right? Everyone would just be happy.",
                 "jp": "正義感？いや、ドクターは誤解してるよ。僕は別に悪人をなんとも思ってないよ。でもみんなは、色々事情があって悪人に手を焼かされてるんでしょ？そんな時に悪人を消してあげれば……誰も困らないし、みんなホッとするでしょ？",
                 "kr": "정의감? 아니, 박사는 오해하고 있어. 나는 악인에 대해 딱히 특별한 감정이 있는 게 아니야. 하지만 다들 여러 사정 때문에 그들을 어쩌지 못하고 애만 먹고 있잖아? 그럴 때에 만약 악인을 사라지게 만들 수 있다면…… 아무도 곤란해지지 않고, 다들 한시름 덜겠지?",
                 "cn": "正义感？博士误会啦。我自己对坏人其实是无所谓的，但出于种种理由大家往往不能把坏人怎么样吧？这种时候如果能让坏人消失......也不会有人感到困扰，只会觉得松了口气吧？"
@@ -97,7 +97,7 @@
                 "cn": "晋升后交谈2"
             },
             "text": {
-                "en": "Though I don't really understand your rationale, Doctor, what you're basically saying is, only eliminate the people who you've designated as bad guys, right? Because you're a good person, Doctor. What if you were actually a bad guy? Don't say that, that'd be quite troublesome. There's no way I could...",
+                "en": "Hmm… I still don't get your point, Doctor, but I just need to take out the ones you say are bad, yes? After all, I know the Doctor is a good person. What if you're the bad guy? Don't ask me that! I would be crushed. Even if you are, I really, really don't wanna…",
                 "jp": "ドクターの理屈はよくわからないけど、とにかくドクターが悪人って判定した奴だけ片付ければいいんでしょ？だってドクターは良い人だから。もしドクターが実は悪人だったらどうするか？やめてよ、そんなの困るんだ。だってそしたら、僕はドクターを……",
                 "kr": "박사가 알려준 이치 같은 건 아직 잘 이해하지 못했지만, 아무튼 박사가 악인이라 판단한 녀석만 처리하면 되는 거잖아? 왜냐면 박사는 착한 사람이니까. 박사도 사실은 악인이라면 어쩔 거냐고? 그만해, 그럼 곤란하단 말이야. 정말 그렇다고 해도, 나는 박사를……",
                 "cn": "虽然还是不太明白博士讲的道理，但是总之，只处理掉博士认证过是坏人的家伙就没问题了吧？因为博士是好人呀。如果博士其实是坏人的话？不要吧，那我会很困扰啊。我，总不能......"
@@ -113,7 +113,7 @@
                 "cn": "信赖提升后交谈1"
             },
             "text": {
-                "en": "Sometimes, it feels like there's something on this ship... Familiar, yet also foreign. Gentle, yet also seemingly full of hostility. Doctor, it makes me rather uneasy...",
+                "en": "There's something on this ship that's both familiar and strange... gentle, yet hostile. It's making me uneasy, Doctor.",
                 "jp": "時々感じるんだ。この艦内には……懐かしくて、でもどこか馴染みのない……優しくて、でも敵意に満ちた何かがあるって。ドクター、僕、ちょっと不安だよ……",
                 "kr": "가끔씩 난, 이 함내에는…… 익숙하지만 왠지 낯선…… 상냥하지만 또 적의로 가득 찬 무언가가 있다는 걸 느껴. 박사, 나, 좀 불안해……",
                 "cn": "有时会感到舰船内好像有什么......熟悉的，又有些陌生......亲切，又好像充满敌意的气息。博士，我有些不安......"
@@ -129,7 +129,7 @@
                 "cn": "信赖提升后交谈2"
             },
             "text": {
-                "en": "Doctor, what does it feel like to take charge of the lives of so many others with your own hands? If I was in your position, I'd feel very warm, maybe wouldn't even be able to resist trembling... Huh? I was talking about you as a commander, holding on to everyone's lifeline.",
+                "en": "Doctor, what does it feel like to hold the lives of others in your hands? If it were me, their warmth would make me tremble with excitement. Hm? Oh, I was talking about you as a commander, holding everyone's lifeline.",
                 "jp": "ドクター、人の命を握ってる時ってどんな気分？もし僕なら、すごくあったかく感じて、それで身体が震えちゃうと思う……えっ？いやいや、ドクターが指揮官としてみんなの命を預かってる時の感想を聞いてるだけだよ。",
                 "kr": "박사, 다른 사람의 생명을 손에 쥐고 있으면 어떤 기분일까? 만약 나라면, 굉장히 따뜻하게 느껴져서 몸이 떨릴 것 같아…… 응? 아니, 박사가 지휘관으로서 모두의 목숨을 책임질 때의 기분을 묻는 것뿐이야.",
                 "cn": "博士觉得，把别人的生命掌握在自己手中时是什么样的感觉呢？如果换作我的话会感到很温暖，甚至忍不住为此有些颤抖......嗯？我是指博士在作为指挥官，握持着大家生命线时的感想。"
@@ -145,7 +145,7 @@
                 "cn": "信赖提升后交谈3"
             },
             "text": {
-                "en": "I sometimes think, since the food we eat and the nutrients we absorb become a part of us, if we were to eat the same things and do the same things, would we gradually become the same? Doctor... can we?",
+                "en": "The food and nutrients we take in sustain and shape us. So sometimes I wonder... if we ate the same food and did the same things, would we gradually become the same? Doctor, would we?",
                 "jp": "たまに思うけど、呑み込んだ食べ物と吸収した栄養が僕たちを造り上げたんなら、もし同じものを食べて、同じことをしてたら、どんどん同じになっていくのかなって。ドクター、僕たちに……できるかな？",
                 "kr": "난 가끔 이런 생각이 들어. 우리가 삼킨 음식물, 흡수한 영양분이 우리를 구성하고 있는 거잖아. 그럼 만약 같은 걸 먹고 같은 일을 하면, 우리는 점점 비슷해지지 않을까? 박사, 우리도…… 가능할까?",
                 "cn": "我有时候会想，既然是我们吃下去的食物和汲取的营养造就了我们，那么如果我们吃下了同样的东西，做着同样的事情，我们就会渐渐变得一样吗？博士，我们......能吗？"
@@ -193,7 +193,7 @@
                 "cn": "观看作战记录"
             },
             "text": {
-                "en": "I need to absorb and digest all this, right? I'll do my best.",
+                "en": "I need to digest and absorb all this, right? I'll do my best.",
                 "jp": "これを吸い込んで消化すればいいんでしょ。頑張るよ。",
                 "kr": "이걸 흡수해서 잘 소화하면 되는 거지? 열심히 할게.",
                 "cn": "要吸收和消化掉这些对吧，我会努力的。"
@@ -209,7 +209,7 @@
                 "cn": "精英化晋升1"
             },
             "text": {
-                "en": "I got the nod? Does that mean I can go with you to more places and take care of more bad guys?",
+                "en": "I've earned your approval? Does that mean I can go to more places with you and get rid of more bad guys?",
                 "jp": "僕が認められたの？これからはドクターともっと色んな場所に行って、悪人を片付けていいってこと？",
                 "kr": "나 인정받은 거야? 그럼 이제 박사랑 더 다양한 곳에 가서 악인을 처리할 수 있는 거지?",
                 "cn": "我被认可了？之后是不是就可以跟博士去更多不同的地方解决坏人？"
@@ -225,7 +225,7 @@
                 "cn": "精英化晋升2"
             },
             "text": {
-                "en": "On one rainy day, I received an unexpected gift that changed me, but I was not taught how to face the future. Doctor, if it were you, would you have shown me the path yourself?",
+                "en": "On one rainy day, I received an unexpected gift that changed me, but I was not taught how to face the future… Doctor, if it were you, would you have shown me the path yourself?",
                 "jp": "あの時もこんな雨の日だったなぁ。予想外の贈り物を受け取って、僕は変わったんだ。でもあの人はこれからの将来とどうやって向き合えばいいか教えてくれなかった。ドクター、君なら手を取って僕に教えてくれる？",
                 "kr": "그때도 이렇게 비가 내리는 날이었어. 그날 예상 밖의 선물을 받고, 나는 변했지. 하지만 그 사람은 앞으로의 미래를 어떻게 마주해야 하는지는 알려주지 않았어. 박사, 박사라면 알고 있을 것 같은데, 내게 가르쳐줄래?",
                 "cn": "曾经也是一个下着雨的日子，我得到了一些预想之外的、改变了我的馈赠，但那个人并没有教我该怎么面对将来的事。博士，如果是你的话会亲自指导我吗？"
@@ -241,7 +241,7 @@
                 "cn": "编入队伍"
             },
             "text": {
-                "en": "It'd be best to not expose myself to others, even my teammates? Mm, I'll do as you say, Doctor.",
+                "en": "I should stay hidden, even from my teammates? Understood, I'll do as you say, Doctor.",
                 "jp": "チームメイト同士でも、みんなの前に出ない方がいい？わかった、ドクターの言う通りにするよ。",
                 "kr": "다른 사람들 눈엔 띄지 않는 게 좋다고? 팀원들이라 해도? 알았어, 박사 말대로 할게.",
                 "cn": "不要暴露在大家面前比较好，哪怕是队友？嗯，我听博士的。"
@@ -257,7 +257,7 @@
                 "cn": "任命队长"
             },
             "text": {
-                "en": "I will protect you from the shadows, Doctor, as well as everyone else participating in the operation.",
+                "en": "I will protect you from the shadows, Doctor, as well as everyone else in our squad.",
                 "jp": "ドクターのことも、作戦に参加するみんなのことも、陰から守るよ。",
                 "kr": "박사도, 작전에 참가하는 모두도, 내가 그늘 속에서 지켜 줄게.",
                 "cn": "我会暗中保护好博士的，还有参与作战的大家。"
@@ -273,7 +273,7 @@
                 "cn": "行动出发"
             },
             "text": {
-                "en": "The deployment plan and secret missions for this operation... Yes, flawless indeed.",
+                "en": "The deployment plan and secret missions for this operation... Mhm, all confirmed.",
                 "jp": "今回の作戦計画と秘密任務は、っと……うん、間違いなし。",
                 "kr": "이번 작전 계획과 비밀 임무는…… 음, 문제없어.",
                 "cn": "本次作战的部署计划和隐秘任务......嗯，确认无误。"
@@ -289,7 +289,7 @@
                 "cn": "行动开始"
             },
             "text": {
-                "en": "The enemies, huh. They don't look half bad.",
+                "en": "Are they the enemies? They don't look half bad.",
                 "jp": "あれが敵？なかなかうまそうに見えるね。",
                 "kr": "저게 적인가? 제법 맛있게 생겼네.",
                 "cn": "敌人吗，看上去还不赖嘛。"
@@ -321,7 +321,7 @@
                 "cn": "选中干员2"
             },
             "text": {
-                "en": "I'm ready to go whenever~",
+                "en": "Ready whenever.",
                 "jp": "いつでもいいよ。",
                 "kr": "언제든지 좋아.",
                 "cn": "随时都可以上哦。"
@@ -353,7 +353,7 @@
                 "cn": "部署2"
             },
             "text": {
-                "en": "Weave the tapestry of your tactics boldly and without worry.",
+                "en": "Be bold, Doctor, trust what the mind says.",
                 "jp": "思うがままの戦術でいいよ。",
                 "kr": "걱정 말고 마음껏 전술을 펼쳐봐.",
                 "cn": "放心大胆地布置战术吧。"
@@ -369,7 +369,7 @@
                 "cn": "作战中1"
             },
             "text": {
-                "en": "A piece of cake.",
+                "en": "Looks like a piece of cake.",
                 "jp": "前菜代わりにもならないね。",
                 "kr": "애피타이저 정도도 안 되겠네.",
                 "cn": "小菜一碟。"
@@ -401,7 +401,7 @@
                 "cn": "作战中3"
             },
             "text": {
-                "en": "When did you delude yourself into thinking that these tentacles are mere illusions?",
+                "en": "These tentacles are illusions? Why delude yourself?",
                 "jp": "一体いつから、この触手はまやかしに過ぎないって錯覚してたの？",
                 "kr": "대체 언제부터, 이 촉수들은 그저 속임수일 거라고 생각한 거야?",
                 "cn": "你什么时候产生了这些附肢只是幻象的错觉？"
@@ -417,7 +417,7 @@
                 "cn": "作战中4"
             },
             "text": {
-                "en": "Where there are people, there must be someone to cull the evildoers among them.",
+                "en": "Evildoers need to be culled. They always will be culled.",
                 "jp": "悪徒は討たれるべきだし、その執行人は必ず現れる。",
                 "kr": "누군가는 악인을 처리해야 하는 법이지.",
                 "cn": "总得有人，也总会有人来处理掉恶徒呢。"
@@ -465,7 +465,7 @@
                 "cn": "非3星结束行动"
             },
             "text": {
-                "en": "Hm? Doctor, why'd you let some bad guys through? I'll go clean them up for you.",
+                "en": "Huh? Doctor, why'd you let some bad guys through? I'll go clean them up for you.",
                 "jp": "あれ？ドクター、何人か逃がしてるよ？僕が代わりに片付けてくるね。",
                 "kr": "어라? 박사, 몇 명 놓쳤는데? 내가 대신 정리하고 올게.",
                 "cn": "嗯？博士怎么放跑了几个坏人？我去替博士收拾一下吧。"
@@ -481,7 +481,7 @@
                 "cn": "行动失败"
             },
             "text": {
-                "en": "If you want to cover everyone as they evacuate, I still have an idea... No, just saving everyone isn't good enough. Only by eliminating all the bad guys here...",
+                "en": "If it's only to cover everyone's retreat, I can do that… No, just saving everyone is not enough, the bad guys still need to be eliminated…",
                 "jp": "みんなの撤退を援護するなら手はあるよ……いや、援護するだけじゃダメだ、ここで悪人を全員始末しないと……",
                 "kr": "모두의 퇴각을 엄호하는 거라면 방법은 있어…… 아니, 엄호하는 것만으로는 부족해, 여기서 악인을 모두 처리해야……",
                 "cn": "如果是要掩护大家撤离的话我还有办法......不，光是救人的话是不够的，只有在这里把坏人全都......"

@@ -23,7 +23,9 @@ $: welcomeText = data.welcomeText[$currentLang]
 
   <p>This site includes all characters and all voice files currently available in the Global servers, including regional voices. Check footer for when the site was last updated.</p>
 
-  <p>This site was made with love by <a href="https://pseudomon.github.io">PseudoMon</a>. Its creation was inspired by <a href="https://050644zf.github.io/ArknightsStoryTextReader">ASTR</a>. The site's source code is available on <a href="https://github.com/PseudoMon/tlvr-source">GitHub</a>.</p>
+  <p>This site was made with love by <a href="https://pseudomon.github.io">PseudoMon</a>. Its creation was inspired by <a href="https://050644zf.github.io/ArknightsStoryTextReader">ASTR</a>.</p>
+
+  <p>Audio files as shown on this site can also be accessed directly from <a href="https://github.com/PseudoMon/arknights-audio">their repository</a>. The site's source code is available on <a href="https://github.com/PseudoMon/tlvr-source">GitHub</a>.</p>
 
   <p>If you found a bug or have suggestions for the site, you can <a href="https://github.com/PseudoMon/tlvr-source/issues">submit an issue in Github</a> or contact me directly on <a href="https://twitter.com/PseudoMonious">Twitter</a>.</p>
 </main>

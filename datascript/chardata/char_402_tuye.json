@@ -17,7 +17,7 @@
                 "cn": "任命助理"
             },
             "text": {
-                "en": "You want me on work this boring thing...? Fine, fine. You're interesting enough to me. I'll go along with you.",
+                "en": "You want me to do something so boring...? Fine, fine. I'll tag along, just because you're somewhat amusing.",
                 "jp": "こんなくだらない仕事をさせるつもりか？……はいはい、お前はそこそこ面白いし、付き合ってやる。",
                 "kr": "이런 시시한 일을 시킬 생각인가? 그래그래…… 너는 그럭저럭 재미도 있으니, 어울려 주지.",
                 "cn": "让我干这么无聊的事？......好吧，看在你这个人还算有趣的份上，陪你一次。"
@@ -33,7 +33,7 @@
                 "cn": "交谈1"
             },
             "text": {
-                "en": "If you want something moved, don't ask me. I'm not that brand of Forte.",
+                "en": "Don't count on me to move stuff. I'm not that brand of Forte.",
                 "jp": "荷物の運搬は私に頼るな。フォルテだからって得意なわけじゃない。",
                 "kr": "짐 옮기는 건 내게 기대지 마. 포르테라고 해서 다 잘하는 건 아니니까.",
                 "cn": "要搬东西的话别找我。我才不是那种丰蹄。"
@@ -49,7 +49,7 @@
                 "cn": "交谈2"
             },
             "text": {
-                "en": "This is some insanely precise instrument... huh? What, familiar sight? Huhhh. Oh, right. If that Mayer person comes 'round, don't tell her I'm here.",
+                "en": "This is some insanely precise instrumentation... Wait, haven't I seen these before? Oh, right. If that Mayer girl shows up, don't tell her where I am.",
                 "jp": "びっくりするほど精密な計器だな……え、これに見覚えがある？へー。そうだ、あのメイヤーとかいうのが来ても、私がここにいるって言うなよ。",
                 "kr": "깜짝 놀랄 정도로 정밀한 계기네…… 뭐? 이걸 본 적이 있다고? 헤에~ 아 그리고, 그 메이어인지 뭔지가 와도, 내가 여기 있단 얘긴 하지 마.",
                 "cn": "这仪器的构造可真精密......看起来眼熟？对了，如果那个叫梅尔的找过来，别告诉她我在这里。"
@@ -65,7 +65,7 @@
                 "cn": "交谈3"
             },
             "text": {
-                "en": "Never seen the equipment on my back before? Right, come over, put your hand here... keh-ka-hahahahahah! Look at your dumb face! You wanna know what just came out? It's water! And what's mixed in? Heh. You don't get to know.",
+                "en": "Never seen the equipment on my back before? Right, come over, put your hand here... keh-ka-hahahahahah! Look at your pathetic face! Guess what just sprayed out? It's water!—With a few... extras. Don't bother asking what!",
                 "jp": "私が背負（しょ）ってる装置が珍しい？じゃあちょっと来い、手をここに……アハハハハ！その驚いた顔は傑作だな！噴き出したのは何かって？ただの水だ。混ざってるものは……フッ、秘密だ。",
                 "kr": "내가 메고 있는 장치가 신기하다고? 그럼 잠깐 와 봐, 손 여기 놔봐…… 아하하하하! 얘 놀라는 표정 좀 봐! 아주 걸작인데?! 뿜어져 나온 게 뭐냐고? 그냥 물이야! 섞여 있는 건…… 훗, 비밀이고.",
                 "cn": "没见过我背后这种装置？过来，把手放在这里......哈哈哈哈！看你那狼狈的样子！你问喷出来的是什么？就是水咯。至于水之外还加了什么东西，嘁，不告诉你。"
@@ -81,7 +81,7 @@
                 "cn": "晋升后交谈1"
             },
             "text": {
-                "en": "My interest in helping others is zip. But higher efficiency is good for everybody.",
+                "en": "My interest in helping others is zip. But boosting efficiency benefits everybody.",
                 "jp": "人助けなんか興味ないが、効率アップはみんなのためになる。",
                 "kr": "사람 돕는 일에는 관심 없지만, 효율이 올라가는 건 모두에게 도움이 되지.",
                 "cn": "我对帮助别人不感兴趣。但效率的提升对所有人来说都是好事。"
@@ -129,7 +129,7 @@
                 "cn": "信赖提升后交谈2"
             },
             "text": {
-                "en": "No rain in the ship? Wow. Like I don't know that? Now try and predict how it goes down out there. Next time there's a storm, just try it, get a little closer. Bet you won't stop thanking me then.",
+                "en": "No rain inside the landship? Duh, obviously I know that. But you never know how it might go outside. Hmph, next time there's a storm, stick close to me. You'll be glad I'm holding this.",
                 "jp": "艦内じゃ雨は降らない？当然知ってるが、外じゃそうとも限らない。嵐が来たら近づいてみろ、きっと私のこれに感謝することになる。",
                 "kr": "함 내에는 비가 안 온다고? 당연히 알고 있지만, 밖에서는 그렇지도 않아. 폭풍이 오면 가까이 가봐, 분명 내 이것에 감사하게 될 테니까.",
                 "cn": "船上没雨，废话，我当然知道。可外面就不一定了。啧，等风暴到来的时候，记得靠近点，你会感谢我手里拿着它的。"
@@ -145,7 +145,7 @@
                 "cn": "信赖提升后交谈3"
             },
             "text": {
-                "en": "Oi. How does a day trip in the desert sound? I'll take you. I mean, anywhere else is fine too. As long as we have my multifunction jetpack, following the scent of the wind... heh. You must be dumb happy, having a guide as stellar as me.",
+                "en": "Hey. Fancy a desert day trip? I can guide you around there. Or anywhere else you like, as long as I have my multi-function jetpack, following the scent of the wind... heh, you're incredibly lucky to have a guide like me.",
                 "jp": "おい、砂漠に日帰り旅行するのはどうだ？連れてってやるから。他の場所でもいいけど。とにかくこの多機能噴射バッグを持って、風の匂いに任せて行けば……フンッ、私みたいに優秀なガイドがいて、お前も幸せだな。",
                 "kr": "어이, 사막으로 당일치기 여행은 어때? 데려가 줄 테니까. 음…… 다른 장소도 상관없긴 한데, 아무튼 이 다기능 분사 가방을 가지고 바람 냄새를 따라가면…… 흥, 나같이 우수한 가이드가 있어서, 너는 참 행복하겠구나.",
                 "cn": "喂，想不想去沙漠一日游？我带你。去别的地方也可以。只要带上我的多功能喷气背包，跟着风的味道走......啧啧，像我这么优秀的向导，你赚翻了。"
@@ -161,7 +161,7 @@
                 "cn": "闲置"
             },
             "text": {
-                "en": "You out cold? Then let me just try this. Harder flow, greater spray area... And you get no right to complain.",
+                "en": "You out cold? Hehe, then I've got a trick to try. Higher pressure, wider spray... And you're past the statute of limitations for a complaint.",
                 "jp": "寝てるのか？じゃあこれを試させてもらう。噴射力と噴射面積を上げて……文句はナシだからな。",
                 "kr": "자고 있나? 그럼 이걸 시험해 보지. 분사력과 분사 면적을 올려서…… 불평하기 없기다?",
                 "cn": "没动静？那我可以试试这招了，水流更劲，喷洒面积更大......可不许抱怨哦。"
@@ -209,7 +209,7 @@
                 "cn": "精英化晋升1"
             },
             "text": {
-                "en": "Doesn't this Elite Medal have any other kind of function? No fun there.",
+                "en": "Doesn't this elite medal do anything at all? No fun to be had here.",
                 "jp": "このエリートメダル、何の機能もついてないのか？つまらないな。",
                 "kr": "이 정예 메달, 아무런 기능도 없는 거야? 재미없네.",
                 "cn": "这晋升徽章也没什么别的功能了啊，没劲。"
@@ -225,7 +225,7 @@
                 "cn": "精英化晋升2"
             },
             "text": {
-                "en": "Medical pro? It's a weird world where I get called that. Anyway, it's all about getting my jobs done, either way, right?",
+                "en": "Medical professional? Funny thing to call me that. Anyway, it's all about getting my job done, either way, right?",
                 "jp": "医療のプロ？まさか私がそんな風に呼ばれるようになるとは。とにかく、今まで通り任務をこなせばいいんだな。",
                 "kr": "의료의 프로? 설마 내가 그런 식으로 불리게 될 줄이야. 아무튼, 지금처럼 임무를 수행하면 되는 거지?",
                 "cn": "医疗方面的专家？真是没想到。总之都是确保任务完成是吧。"
@@ -241,7 +241,7 @@
                 "cn": "编入队伍"
             },
             "text": {
-                "en": "Out for field work again? Fine, fine. You're helping me test new equipment when we get back.",
+                "en": "Out for field work again? Fine. You're helping me test new equipment when we get back.",
                 "jp": "また外仕事か？はいはい、終わったら新装備のテストに付き合ってもらおう。",
                 "kr": "또 외근이야? 알았어, 알았다고. 갔다 돌아오면, 새 장비 테스트하는 것 좀 도와줘.",
                 "cn": "又要出外勤？好吧，回来帮我试新装备。"
@@ -257,7 +257,7 @@
                 "cn": "任命队长"
             },
             "text": {
-                "en": "Leading team combat doesn't differ much from being a guide.",
+                "en": "Leading a team in combat is close enough to being a guide.",
                 "jp": "作戦の隊長になるのは、ガイドをするのと同じようなものだろ。",
                 "kr": "작전에서 팀장이 된다는 건 가이드를 하는 거랑 같은 거잖아?",
                 "cn": "带队作战和当向导差别不大。"
@@ -273,7 +273,7 @@
                 "cn": "行动出发"
             },
             "text": {
-                "en": "Route, OK. Equipment, check. Go.",
+                "en": "Route, okay. Equipment, check. Let's go.",
                 "jp": "ルートOK、装備も異常なし。出発。",
                 "kr": "루트 오케이, 장비도 이상 없음. 출발.",
                 "cn": "路线合理，装备正常，出发。"
@@ -289,7 +289,7 @@
                 "cn": "行动开始"
             },
             "text": {
-                "en": "More boring than running into a sandstorm.",
+                "en": "Boring... Worse than running into a sandstorm.",
                 "jp": "砂嵐に遭うよりずっとくだらないな。",
                 "kr": "모래 폭풍을 맞는 것보다 훨씬 시시하네.",
                 "cn": "比遇上风沙还要无聊。"
@@ -337,7 +337,7 @@
                 "cn": "部署1"
             },
             "text": {
-                "en": "Good. Efficiency up by 17%.",
+                "en": "Good. Efficiency up seventeen percent.",
                 "jp": "よし、効率17%アップだ。",
                 "kr": "좋아, 효율 17% 상승.",
                 "cn": "很好，效率将会提升17%。"
@@ -369,7 +369,7 @@
                 "cn": "作战中1"
             },
             "text": {
-                "en": "Faster.",
+                "en": "Even faster.",
                 "jp": "もっと速く。",
                 "kr": "더 빨리.",
                 "cn": "再快一些。"
@@ -401,7 +401,7 @@
                 "cn": "作战中3"
             },
             "text": {
-                "en": "How's the newest nutritional fluid taste?",
+                "en": "How's the new nutritional paste taste?",
                 "jp": "新しい栄養剤の味はどうだ？",
                 "kr": "새로운 영양제 맛은 좀 어때?",
                 "cn": "新款营养液味道如何？"
@@ -433,7 +433,7 @@
                 "cn": "完成高难行动"
             },
             "text": {
-                "en": "Tch. The sandstorms I've seen beat this any day.",
+                "en": "Ugh. The sandstorms I've seen beat this any day.",
                 "jp": "チッ、私が見てきた砂嵐はこんなのよりずっとすごい。",
                 "kr": "쳇, 내가 봐왔던 모래 폭풍은 이런 것보다 훨씬 어마어마하다고.",
                 "cn": "嘁，我见过的风沙比这个厉害多了。"
@@ -449,7 +449,7 @@
                 "cn": "3星结束行动"
             },
             "text": {
-                "en": "Scraped through, huh. Wasn't a waste of time.",
+                "en": "Scraped by, huh. Wasn't a waste of time after all.",
                 "jp": "ギリギリ合格だな。時間の無駄にはならなかった。",
                 "kr": "턱걸이로 합격. 시간 낭비는 안 했네.",
                 "cn": "马马虎虎吧，还不算浪费时间。"
@@ -481,7 +481,7 @@
                 "cn": "行动失败"
             },
             "text": {
-                "en": "At least you figured a good retreat route...",
+                "en": "At least you figured a good retreat route…",
                 "jp": "少なくとも撤退ルートの選定は上手くできたみたいだな……",
                 "kr": "적어도, 철수 루트 선정은 잘 된 것 같네……",
                 "cn": "至少选了合格的撤退路线......"
@@ -497,7 +497,7 @@
                 "cn": "进驻设施"
             },
             "text": {
-                "en": "You have a lot of rooms, huh...",
+                "en": "You have a lot of rooms, huh…",
                 "jp": "こんなたくさん部屋があるんだな……",
                 "kr": "이렇게나 방이 많다니……",
                 "cn": "原来有这么多房间......"
@@ -513,7 +513,7 @@
                 "cn": "戳一下"
             },
             "text": {
-                "en": "You gotta stop the boring crap.",
+                "en": "You gotta stop with the boring crap already.",
                 "jp": "くだらないマネするな。",
                 "kr": "시시한 짓 하지 마.",
                 "cn": "别这么无聊。"
@@ -529,7 +529,7 @@
                 "cn": "信赖触摸"
             },
             "text": {
-                "en": "Wanna try touching my bag again? Won't hit your face this time. Promise.",
+                "en": "Wanna try touching my bag again? Won't hit you in the face this time. Promise.",
                 "jp": "もう一回私のバッグに触ってみるか？今回は顔に当てないと保証してやるから。",
                 "kr": "한 번 더 내 가방 만져볼래? 이번에는 얼굴에 안 맞춘다고 약속할게.",
                 "cn": "要不要再摸一下我的背包？这回会避开你的脸，我保证。"
@@ -561,7 +561,7 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "Wishing you a Happy New Year! I look forward to your kind guidance in the coming year. Okay, done. Without a hitch, right? Happy now?—a bonus? For me? Really? Hmm... thank you, Happy New Year.",
+                "en": "Wishing you a Happy New Year! I look forward to your kind guidance in the coming year. Okay, done. Without a hitch, right? Happy now?—a bonus? For me? Really? Hmm... thank you. Happy New Year.",
                 "jp": "明けましておめでとうございます今年もよろしくお願いします。はい、挨拶は以上。ちゃんとしてただろ？お前が満足ならそれで――ボーナス？私に？本気か？ふん……ありがとう、今年もよろしく。",
                 "kr": "새해 복 많이 받고, 올해도 잘 부탁할게. 자, 끝. 어때, 완벽한 인사말이지? 네가 좋아하면 됐어…… 보너스? 나 주는 거야? 진짜로? 음…… 고마워, 진짜 새해 복 많이 받아.",
                 "cn": "新年快乐，新的一年也请多多指教。好，说完了。很标准吧？你开心就好——奖金？给我的？你认真的？唔......谢谢，新年快乐。"
@@ -577,7 +577,7 @@
                 "cn": "问候"
             },
             "text": {
-                "en": "Rain again. Good weather, huh, Doctor?",
+                "en": "Rain again. Nice weather, huh, Doctor?",
                 "jp": "また雨か。いい天気だな、ドクター。",
                 "kr": "또 비가 오네…… 좋은 날씨야, 박사.",
                 "cn": "外面天气不错，又下雨了呢，博士。"
@@ -593,7 +593,7 @@
                 "cn": "生日"
             },
             "text": {
-                "en": "Happy birthday. I'm giving you this parasol I bought from a trustworthy merchant in Sargon. It's well-made. You'll be going many places, and I'm sure there will be times when you'll need it. Oh, if you want to hold it open and jump off the ship's bridge, I won't stop you.",
+                "en": "Happy birthday. Here's this umbrella's for you. I bought it from a trustworthy merchant in Sargon—It's top-notch. You'll be traveling all over the place, so it'll come in handy. Oh, and if you feel like jumping off the ship's bridge with it, I won't stop you.",
                 "jp": "生日快乐。这把雨伞送给你，这是我从萨尔贡一个信得过的商人那里买来的，质量很好。今后要去很多地方，你总有用得到的时候。啊，如果你想撑着它从舰桥上往下跳的话，我也不会拦着你的。",
                 "kr": "생일 축하해. 우산 줄게, 선물이야. 사르곤의 믿을만한 상인에게서 산 거야. 퀄리티도 엄청 좋다고. 앞으로 많은 곳을 다녀야 할 테니, 언젠간 쓸 일이 있을 거야. 아, 물론 그걸 낙하산처럼 들고 함선에서 뛰어내린다 해도 막진 않을게.",
                 "cn": "生日快乐。这把雨伞送给你，这是我从萨尔贡一个信得过的商人那里买来的，质量很好。今后要去很多地方，你总有用得到的时候。啊，如果你想撑着它从舰桥上往下跳的话，我也不会拦着你的。"
@@ -609,7 +609,7 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "I've checked Rhodes Island's navigation log. The routes you've traversed are downright treacherous. But why doesn't anyone show a hint of fear? As the ship's navigator, what power you got allows such absolute, unquestioning trust? I'm... intrigued.",
+                "en": "I've checked Rhodes Island's navigation log. You've been down some awfully treacherous routes. But why don't I see even a hint of fear in anybody? What talent do you have, as the one who guides the ship, to bring out such deep, unshakable trust? I'm... curious.",
                 "jp": "ロドスの運航記録を見たことがあるが、お前たちは相当危険なルートを進んで来てる。なのに誰もビビってないのはなんでだ？お前がこの船の舵取りとして、みんなから無条件で信頼される理由はなんだ？気になる……",
                 "kr": "로도스 아일랜드의 항로 기록을 확인해 봤는데, 너희가 걸어온 이 길 엄청 험난했더라? 근데 왜 아무도 겁먹은 기색이 없지? 어떻게 이 많은 사람들이 아무런 의심 없이 널 믿는 건지, 이유가 궁금하네……",
                 "cn": "我查看过罗德岛的航线记录，你们走过的路线可真够凶险的。可为什么没有人显露出害怕的样子？你作为这艘船的领航者，有什么本事可以让所有人无条件地相信你？我很好奇......"
@@ -618,6 +618,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Georgia Burnell",
+            "global": "Georgia Burnell"
+        },
         "cn": {
             "native": "Z君",
             "global": "Z"
@@ -632,6 +636,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

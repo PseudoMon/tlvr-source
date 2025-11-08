@@ -17,7 +17,7 @@
                 "cn": "任命助理"
             },
             "text": {
-                "en": "Leader! Give us something to do~",
+                "en": "Hey, leader! Got some work for us?",
                 "jp": "リーダー、何か仕事をまわしてちょ。",
                 "kr": "리더, 뭐라도 좀 시켜줘.",
                 "cn": "老板，安排点差事给我们吧~"
@@ -33,7 +33,7 @@
                 "cn": "交谈1"
             },
             "text": {
-                "en": "Leader! Let's throw a party! We can play some hip-hop and eat apple pie! The best life is the party life! No party, no life!",
+                "en": "Leader, how about we throw a party? We can play some hip-hop and eat apple pie. The best life is the party life! No party, no life!",
                 "jp": "リーダー、パーティーでもしない？ヒップホップ流して、アップルパイなんかも焼いちゃってさぁ。完璧な人生にパーティはつきもの。ノーパーティ、ノーライフってね。",
                 "kr": "리더, 파티 한번 안 할래? 음악도 힙합으로 틀고, 애플파이 같은 걸 구워 먹는 거야! 완벽한 인생에는 파티를 빼놓을 수 없지! 노 파티, 노 라이프라고!",
                 "cn": "老板，不办个派对吗？来点嘻哈，再来点烤苹果派~完美的人生可是不能停止聚会的！No party，No life！"
@@ -65,7 +65,7 @@
                 "cn": "交谈3"
             },
             "text": {
-                "en": "Some people believe that money can buy everything. But that saying doesn't apply to me! If I want someone to rest in pieces, no amount of money can save them~",
+                "en": "Some people believe money can buy anything. But, uh-uh, that saying doesn't really apply to me. Wealth won't make a lick of difference to where my targets end up.",
                 "jp": "金さえあれば何でも手に入るなんて言う奴もいるけど、あたしにゃ通用しないよ。たとえどんな大金持ちでも、あの世に送ってやればそれっきり～。",
                 "kr": "돈만 있으면 뭐든지 손에 넣을 수 있다고 떠드는 놈들도 있지만, 나한텐 안 통해. 아무리 부자라도 저세상으로 보내주면 거기서 끝이지~",
                 "cn": "有人认为只要有钱什么都能做到，不过在我这里可是行不通的哦。如果我要那个人安息，他有多少钱都没有用~"
@@ -81,7 +81,7 @@
                 "cn": "晋升后交谈1"
             },
             "text": {
-                "en": "My first wish: for eight new guns! We angels all have a special gun we grow up with, but owning just one gun is so lame, right?",
+                "en": "My first wish: more guns! We angels all have a patron firearm, a special gun we grow up with, but owning just one gun is kinda lame. I want eight more!",
                 "jp": "お願いその一！銃を八丁ほどプレゼントよろしく！あたしたち天使はみんな自分の守護銃を持ってるけど、一丁だけじゃしょぼいんだよね！",
                 "kr": "첫 번째 부탁! 총을 한 여덟 자루만 선물해 줘. 우리 천사들은 다들 자기만의 수호총을 갖고 있긴 한데…… 한 자루만 있으면 폼이 안 나거든!",
                 "cn": "第一个愿望！请送我八把铳当礼物！我们天使都有自己的守护铳，但只有一把可不够看！"
@@ -97,7 +97,7 @@
                 "cn": "晋升后交谈2"
             },
             "text": {
-                "en": "My second wish... find someone to help me turn off this light over my head!",
+                "en": "My second wish: get someone to turn off this light over my head!",
                 "jp": "お願いその二……誰かこの頭の上の蛍光灯を消して！",
                 "kr": "두 번째 부탁…… 누가 이 머리 위에 달린 형광등 좀 없애 줘!",
                 "cn": "第二个愿望......找个人把我头上这盏日光灯管关掉！"
@@ -113,7 +113,7 @@
                 "cn": "信赖提升后交谈1"
             },
             "text": {
-                "en": "The only reason Texas lives so carefree and swagged out is that she's got me watching over her. That's the obvious truth, right?",
+                "en": "I've always got Texas covered, that's why she lives so carefree. So obvious it goes without saying, right?",
                 "jp": "テキサスのやつが、あーんなに生き生きとしているのは、あたしのおかげだよ。こんなこと、言うまでもないでしょ？",
                 "kr": "텍사스가 저렇게 생기 넘치는 것도 다 내 덕분이라고. 이런 건 꼭 말로 안 해줘도 알잖아?",
                 "cn": "德克萨斯那家伙能活得这么潇洒，可多亏有我罩着她，这不是明摆着的事嘛~"
@@ -145,7 +145,7 @@
                 "cn": "信赖提升后交谈3"
             },
             "text": {
-                "en": "Us Penguin Logistics girls ain't so bad, right? Wanna come be our boss? Ehehe, just kidding.",
+                "en": "Us Penguin Logistics girls ain't so bad, right? What do you say, leader? Wanna come be our boss? Hehe, just kidding.",
                 "jp": "リーダー、ペンギン急便も悪くないでしょ？うちのボスとかやってみちゃう？ふふ～冗談だよ～。",
                 "kr": "리더, 펭귄 로지스틱스도 꽤 괜찮지? 내 상사로 입사해 보는 건 어때? 히힛, 농담이야~",
                 "cn": "老板，咱们企鹅物流还是挺不错的吧？要不要来当当我们的老大？欸嘿嘿~开玩笑的~"
@@ -161,7 +161,7 @@
                 "cn": "闲置"
             },
             "text": {
-                "en": "...Lord, is this someone we gotta save too?",
+                "en": "Oh Lord… is this another soul for us to save?",
                 "jp": "……主よ、この人にも救済が必要なのでしょうか？",
                 "kr": "주님…… 이 사람에게도 구원이 필요할까요?",
                 "cn": "......主啊，这个人也是我们要拯救的吗？"
@@ -177,7 +177,7 @@
                 "cn": "干员报到"
             },
             "text": {
-                "en": "Our slogan is 'Long live the Penguin Empire.' Are you our client? You can call me Exusiai. I'm nothing like that Lupo ice queen. I'm always down for some fun!",
+                "en": "Password: 'Long live the Penguin Empire.' So you're the client? Call me Exusiai. I'm nothing like that Lupo ice queen. I'm always down for some fun!",
                 "jp": "合言葉は「ペンギン帝国万歳」、アンタが今回の雇い主？あたしのことはエクシアって呼んでね。あの無愛想なオオカミとは違って、声をかけてくれればいつでも遊んであげるよ！",
                 "kr": "암구호는 “펭귄 제국 만세”, 당신이 이번 고용주야? 난 엑시아라 불러 줘. 저 사교성 없는 늑대랑은 달리, 난 말만 하면 언제든지 놀아 줄게!",
                 "cn": "口令是“企鹅帝国万岁”，你就是雇主吗？叫我能天使。我和那个冷淡的鲁珀人可不一样，你要是想找点有趣的事做，随时都可以来叫我！"
@@ -209,7 +209,7 @@
                 "cn": "精英化晋升1"
             },
             "text": {
-                "en": "Thanks for promoting me!",
+                "en": "Thanks for the promotion, leader.",
                 "jp": "ごひいきにしてくれて、ありがと～！",
                 "kr": "특별히 신경 써 줘서 고마워~!",
                 "cn": "老板，多谢提拔~"
@@ -225,7 +225,7 @@
                 "cn": "精英化晋升2"
             },
             "text": {
-                "en": "Leader... No, savior, I pledge to this gun in my hand to protect you until the very end of this world.",
+                "en": "Leader... No, savior, I swear on this gun in my hand, I will protect you until the day of reckoning.",
                 "jp": "リーダー……いや、義人よ、この銃に誓って、あなたを最後の審判までお守りします。",
                 "kr": "리더…… 아니, 의인이시여. 최후의 심판이 내릴 날까지 당신을 지켜낼 것을, 이 총에 맹세합니다.",
                 "cn": "老板......不，义人，以手中的这把铳起誓，我将守护您的生命直至万物终结之日。"
@@ -257,7 +257,7 @@
                 "cn": "任命队长"
             },
             "text": {
-                "en": "No one makes a better leader than me! You've got a good eye.",
+                "en": "You've got a good eye. No one makes a better leader than me.",
                 "jp": "キミ、人を見る目あるね！あたしより隊長にふさわしいやつはいないって！",
                 "kr": "너, 사람 보는 눈이 있구나? 나만큼 팀장에 어울리는 사람이 또 없거든!",
                 "cn": "没有比我更适合当队长的人！您真是别具慧眼！"
@@ -289,7 +289,7 @@
                 "cn": "行动开始"
             },
             "text": {
-                "en": "I already called dibs on the most lucrative real estate in Hell, and you guys all get a share. Rest easy!",
+                "en": "Relax, I already called dibs on the most lucrative real estate in Hell, to share with all of you.",
                 "jp": "キミたちのために地獄の一等地に部屋を用意しておいたから！安心していってらっしゃい！",
                 "kr": "너희를 위해서, 지옥 끝 가장 비싼 곳에 방 잡아놨으니까! 맘 놓고 푹~ 쉬다 가!",
                 "cn": "我帮你们预定了地狱黄金地段的房产，请放心！"
@@ -353,7 +353,7 @@
                 "cn": "部署2"
             },
             "text": {
-                "en": "Let me create a diversion.",
+                "en": "Let me double their trouble.",
                 "jp": "ちょっとからかってあげよーっと。",
                 "kr": "장난 좀 쳐 볼까?",
                 "cn": "让我来制造点混乱。"
@@ -369,7 +369,7 @@
                 "cn": "作战中1"
             },
             "text": {
-                "en": "Heaven's will!",
+                "en": "Divine judgment!",
                 "jp": "ディオ・ヴォーレント！",
                 "kr": "데오 볼렌테!",
                 "cn": "天意！"
@@ -433,7 +433,7 @@
                 "cn": "完成高难行动"
             },
             "text": {
-                "en": "Wonderful! This is the chance of a lifetime. Charge on!",
+                "en": "Perfect! Let's keep up the momentum and charge on!",
                 "jp": "よし！このまま突き進もう！",
                 "kr": "좋았어! 이대로 뚫고 가자!",
                 "cn": "好！就照这个劲头向前冲！"
@@ -465,7 +465,7 @@
                 "cn": "非3星结束行动"
             },
             "text": {
-                "en": "The sound of victory is the sweetest melody. Alright, let's grab some drinks to celebrate when we get back!",
+                "en": "Victory is a heavenly melody. Alright, let's go home and grab some beers!",
                 "jp": "勝利の知らせは甘美なる福音。よーし、帰って飲もう！",
                 "kr": "승전보는 곧 달콤한 복음일지니. 좋아~! 한잔하러 가볼까!",
                 "cn": "胜利的讯息即是甜蜜的福音。好~回去喝一杯吧！"
@@ -481,7 +481,7 @@
                 "cn": "行动失败"
             },
             "text": {
-                "en": "Even a well-crafted gun will jam sometimes. Life is no different, so don't worry about it~",
+                "en": "Life is like a gun, sometimes it just jams. Don't get discouraged, leader, we'll get'em next time.",
                 "jp": "ま、銃だって詰まるときはあるし、人生も同じだよ。気にしない気にしない。",
                 "kr": "뭐…… 총도 가끔 걸릴 때가 있잖아, 인생도 똑같은 거야. 너무 신경쓰지 마~",
                 "cn": "铳有卡壳的时候，人生也是如此，别介意别介意~"
@@ -497,7 +497,7 @@
                 "cn": "进驻设施"
             },
             "text": {
-                "en": "I like this place!",
+                "en": "Wowee! I love this place!",
                 "jp": "ここ、気に入った！",
                 "kr": "여기, 마음에 들었어!",
                 "cn": "我喜欢这个地方！"
@@ -561,7 +561,7 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "Happy New Year, Leader! The party's about to start, Employee Performance Competition Night's over, and I wasn't dead last! Here's your booze and apple pie. Let's heat ourselves up to the hip-hop beat, and set this firework tower to the sky. Here we go! Three, two—BANG!",
+                "en": "Happy New Year, Leader! The party's about to start, Employee Performance Competition Night's over, and I'm not dead last! Here's your booze and apple pie. Let's heat ourselves up to the hip-hop beat, and set this firework tower to the sky~ Here we go! Three, two—BANG!",
                 "jp": "リーダー、ハッピーニューイヤー！もうすぐパーティが始まるよ！こっちはやっと最終営業日が終わったとこだけど、成績ビリは回避したから心置きなく楽しもう！はい、リーダーの分のお酒とアップルパイ。さーて、ヒップホップのビートにノってあそこの花火タワーに点火しちゃいますか！いっくよー、三、二、一――ドッカーン！",
                 "kr": "리더, 새해 복 많이 받아! 실적 발표의 밤이 끝났으니 파티가 곧 시작될 거야. 응? 나 꼴찌 아니야~! 기념으로 술이랑 애플파이 받아. 이제 힙합 리듬에 맞춰서 저 앞에 보이는 폭죽 탑을 터뜨려볼까? 자, 셋, 둘, 하나…… 펑!!",
                 "cn": "新年快乐啊，老板！派对就要开始了，业绩决战夜刚刚结束，我没有垫底~！这是您的酒和苹果派，让我们跟着嘻哈的节奏，一起炸了面前这座烟花塔吧~来，三、二、一——嘣！！"
@@ -577,7 +577,7 @@
                 "cn": "问候"
             },
             "text": {
-                "en": "Hey, Leader!",
+                "en": "Sup, leader!",
                 "jp": "やっほー！リーダー！",
                 "kr": "야~호! 리더!",
                 "cn": "哟，老板！"
@@ -593,7 +593,7 @@
                 "cn": "生日"
             },
             "text": {
-                "en": "Leader, c'mere, c'mon! Welcome to your birthday party! Turn out the lights and blow out your candles. Oh, but remember, even as the candles go out, my halo will shine on you in the dark. Never worry that you'll lose your way—the angel's Blessings will be forever at your side.",
+                "en": "Leader, c'mere, c'mon! Welcome to your birthday party! Turn out the lights and blow out your candles! Oh, but remember, even as the candles go out, my halo will shine on you in the dark. Never worry that you'll lose your way—the angel's Blessings will be forever at your side.",
                 "jp": "老板，快来快来，欢迎来到你的生日派对！把灯关上吹蜡烛吧~即便蜡烛熄灭，天使的光环也会为您照亮此方黑暗。您不必担心失去方向，天使的祝福将会永伴您的左右。",
                 "kr": "리더, 빨리 와, 빨리. 짜잔~ 너의 생일 파티에 온 것을 환영해! 불 끄고 촛불을 불어~ 촛불은 꺼져도 천사의 광륜은 어둠을 밝혀줄 거야. 길을 잃을 걱정은 하지 마, 천사의 축복이 늘 함께 할 테니까.",
                 "cn": "老板，快来快来，欢迎来到你的生日派对！把灯关上吹蜡烛吧~即便蜡烛熄灭，天使的光环也会为您照亮此方黑暗。您不必担心失去方向，天使的祝福将会永伴您的左右。"
@@ -609,7 +609,7 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "We are led in differing directions. But by your power and wisdom, you may guide us on our journey together. Should the soul in you that protects us be a constant, we too will open a brand new path for you on our souls of honesty and ardor.",
+                "en": "We are led in differing directions. But by your power and wisdom, you may guide us on our journey together. Should the soul in you that protects us be a constant, we too will open a brand new path for you by our souls of honesty and ardor.",
                 "jp": "私たちは皆、異なる道を歩んできました。ですが、どうか今こそ、あなたの力と知恵を以て皆を一つの旅路へとお導きください。私たちを守るというあなたの想いが不変であれば、同じく不変なる誠意と熱意で応え、新たな道を切り拓いてみせましょう。",
                 "kr": "우리는 모두 각자 다른 길로 가고 있어. 너의 힘과 지혜로 우리를 같은 곳으로 갈 수 있게 이끌어줘. 우리를 지키려는 너의 마음이 변치 않는다면, 우리 역시 성실하고 뜨거운 마음으로 너를 위해 새로운 길을 열 거야.",
                 "cn": "我们被指引去往不同的方向，以您的力量和智慧，引领我们踏上一段共同的旅程吧。若您守护我们的心从未改变，我们亦会以诚实和热忱之心，为您开辟全新的道路。"
@@ -619,8 +619,8 @@
     ],
     "actors": {
         "en": {
-            "native": "Leonora Haig",
-            "global": "Leonora Haig"
+            "native": "Shannon Tarbet",
+            "global": "Shannon Tarbet"
         },
         "cn": {
             "native": "蔡书瑾",

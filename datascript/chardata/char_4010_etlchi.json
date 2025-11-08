@@ -1,0 +1,644 @@
+{
+    "charid": "char_4010_etlchi",
+    "nameid": "etlchi",
+    "names": {
+        "en": "Entelechia",
+        "jp": "エンテレケイア",
+        "kr": "엔텔레키아",
+        "cn": "隐德来希"
+    },
+    "voices": [
+        {
+            "id": "char_4010_etlchi_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Wasting me on tidying up papers? Hardly the most brilliant of plans. Why squander a pair of capable hands? Pass those charts and tables over, I'll reorganize them for you... And, as I'm already in your seat handling this headache, let's have you rest for a bit, alright?",
+                "jp": "アタシが書類整理だけなんてパッとしない業務配分ね。労力の無駄遣いもほどほどにして、組み直したげるから分担表をこっちに寄越して……もう君の席も苦手な仕事もアタシがもらったから、そっちはのんびり休んでなさい。わかった？",
+                "kr": "내게 서류 정리만 맡기다니, 영 재미없는 업무 배분이네. 능력 낭비도 적당히 해야지. 내가 다시 짜줄 테니까 분담표 이리 줘 봐…… 이제 네 자리도, 어려운 일도 내가 다 맡을 테니, 넌 느긋하게 쉬도록 해. 알겠지?",
+                "cn": "只让我做材料整理不是什么高明的规划。别浪费人力，把那些表格扔过来，我给你重新安排......我已经坐在你的椅子上帮你解决困难了，你就安心休息一会儿，好吗？"
+            },
+            "asset": "char_4010_etlchi/CN_001"
+        },
+        {
+            "id": "char_4010_etlchi_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Little Garnet here is just an elaborate Arts creation. Whether taking lives or saving them, it allows me to shed less blood and do the job with a little less mess. But in the end, it's nothing more than a crystal of blood. Well, aren't <i>you</i> fascinated? Here, you can play with it for a while... Oh dear, why are you pulling away your hand?",
+                "jp": "「ザクロちゃん」はよーくできたアーツの道具なの。人殺しでも人助けでも、この子のおかげで血しぶきが減って、キレイな仕事ができるってわけ。まっ、結局ただの血の結晶なんだけどね。そんな興味津々なら、ちょっと貸したげよっか――ってあれ、手引っ込めちゃってどうしたの？",
+                "kr": "'꼬마 석류'는 아주 잘 만들어진 아츠 도구야. 사람을 죽일 때도 살릴 때도, 이 아이 덕분에 피 튀기는 일이 줄어서 깔끔하게 일처리가 가능하다니까. 뭐, 사실은 그냥 핏빛 결정일 뿐이지만. 그렇게 흥미로우면 잠깐 빌려줄까…… 어라? 손은 왜 빼고 그래?",
+                "cn": "“小石榴”可是相当精巧的法术造物。杀人也好，救人也好，它能让我少洒些血，做事干净漂亮些。不过，说到底它只是块鲜血结晶而已，你看得这么着迷，给你玩一会儿吧——怎么把手缩回去了？"
+            },
+            "asset": "char_4010_etlchi/CN_002"
+        },
+        {
+            "id": "char_4010_etlchi_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "I've taken care of those tasks—effortlessly, I might add. No need to thank me. That would give the impression I've exerted myself over such trivial matters. Incidentally, when will that bunny start asking me for help directly, instead of using you as her messenger? Rest assured, I won't scare her like I did before.",
+                "jp": "この辺のタスクもついでに終わらせといたよ。お礼は結構、この程度の仕事にずいぶん手こずったみたいになるじゃない。ところであのウサギちゃん、いつになったら君の口を借りずにアタシにお願いできるようになるのかな？安心してよ、もう前みたいにあの子を脅かしたりしないから。",
+                "kr": "이 일들도 하는 김에 끝내 놨어. 고맙다는 말도 됐어. 겨우 이 정도 일로 애먹은 것처럼 보이잖아. 그런데 저 토끼 친구는 언제쯤에야 네 입을 빌리지 않고 나한테 직접 부탁할 수 있게 될까? 안심해. 이제는 예전처럼 저 아이를 겁주거나 하지는 않을 거니까.",
+                "cn": "这些任务我都顺手办好了。不用谢，别让我觉得自己好像费了点劲才搞定这种小事。顺带一提，小兔子什么时候才能不借你的口来托我帮忙？放心啦，我不会再像以前那样吓唬她了。"
+            },
+            "asset": "char_4010_etlchi/CN_003"
+        },
+        {
+            "id": "char_4010_etlchi_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "The sisters refused my visit again. They still find me... disagreeable. I've never claimed Rose Riverside's Canoes to be a harmonious family. As we can perceive the rhythmic pulse of each other's hearts pumping blood, the trust between us needn't rely on sentiment.",
+                "jp": "ローズ河畔の子たちにまた訪問を断られちゃってさ、相変わらず嫌われてるなぁって……いや、船同士みんな仲良しだなんて、初めからひと言も言ってないでしょ。互いに心臓が血を送る脈動まで感じられるんだから、感情で信頼関係を維持するまでもないってわけ。",
+                "kr": "로즈 리버사이드 자매들한테 방문을 또 거절당해서, 여전히 미움받고 있구나 싶어…… 아니, 배들끼리 사이가 좋다고는 한 번도 말한 적 없는 거 같은데? 서로 심장이 피를 보내는 박동까지 느낄 수 있으니까, 감정으로 신뢰 관계를 유지할 필요까지는 없다는 거지.",
+                "cn": "那几位姐妹又拒绝了我的探望，她们还是那么看不惯我......我可从没说过，玫瑰河畔的航船都是相亲相爱的呀。既然我们都能触知彼此心脏泵出血液时的搏动，那信任就不需要情感来维持。"
+            },
+            "asset": "char_4010_etlchi/CN_004"
+        },
+        {
+            "id": "char_4010_etlchi_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "No, no one else is here. I was just chatting with Laqeramaline—or rather, with the incantations woven by the Banshees, reminiscing about the riverside landscapes I've traversed. Who <i>doesn't</i> like to take something precious as a keepsake, to hold in place for a loved one?",
+                "jp": "アタシ一人だよ。今ラケラマリンと――まあ、正確に言えばバンシーの紡いだ呪文とお喋りしてたの。あちこち巡ってきた中で見てきた河畔の景色を懐かしんでたんだ。ほら、みんなやるでしょ？大切なものに想いを込めて渡して、自分の代わりに大切な人と一緒にいてもらうってやつ。",
+                "kr": "나 혼자야. 방금 라케라말린하고…… 뭐, 정확히 말하면 밴시가 엮은 주문과 이야기하고 있었어. 여기저기 돌아다니며 보았던 강변의 풍경을 그리워하고 있었지. 왜, 다들 그러잖아? 소중한 것에 마음을 담아 건네고, 자신 대신 소중한 사람과 함께 있어달라고 하는 거.",
+                "cn": "没有别人，刚才我在和菈玛莲聊天——或者说得准确些，和女妖们编织的咒言聊天，怀念一下我去各地游历领略过的河畔风光。谁不是这样呢？拿些珍贵的东西做信物，代替自己陪在珍视的人身边。"
+            },
+            "asset": "char_4010_etlchi/CN_005"
+        },
+        {
+            "id": "char_4010_etlchi_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Some sisters have never seen this landship with their own eyes. Some imagine it to be an egg woven of countless blood vessels; others see it as a ghost formed from communication data and electrical cables. How do I know their imaginings with such clarity? Good question. How indeed?",
+                "jp": "ローズ河畔にはこの船を一度も見たことない子もいたけど、無数の血管で構成された卵だって想像してた子も、通信データとケーブルで組まれた幽霊だって思ってた子もいたなぁ。なんであの子たちの心の中までわかるのかって？そうねぇ、なんででしょうね？",
+                "kr": "로즈 리버사이드에는 이 배를 한 번도 직접 본 적 없는 자매들도 있었어. 그중엔 수많은 혈관으로 구성된 알이라고 상상했던 자매도, 통신 데이터와 케이블로 구성된 유령이라고 생각했던 자매도 있었지. 어떻게 그 아이들의 마음속 생각까지 알고 있냐고? 그러게, 왜일까?",
+                "cn": "一些姐妹从来没有亲眼见过这艘船，有人想象，它是无数血管织成的一枚卵；有人以为，它是通信数据和电缆构建的幽灵。我为什么能清晰地知道她们的想象？是啊，为什么呢？"
+            },
+            "asset": "char_4010_etlchi/CN_006"
+        },
+        {
+            "id": "char_4010_etlchi_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "I won't tell a soul, so tell me: the one who just entered the office and the one who came in earlier, they have a rather... <i>sensitive</i> connection, don't they? Look at your furrowed brow... I'm not angling for intelligence, I'm genuinely concerned about you. Do be careful not to get caught up in emotional entanglements.",
+                "jp": "ねぇ誰にも言わないから、こっそり教えてよ。さっき執務室に入ってきた人と、その前に来た人は普通の関係じゃないでしょ？それに君のその困った顔……いやいや、別に他人のプライベートを探りたいんじゃなくて、君を心配してるの。変に色恋沙汰に巻き込まれないようにね。",
+                "kr": "저기, 아무한테도 말하지 않을 테니까, 몰래 좀 알려줘 봐. 방금 사무실에 들어온 사람이랑 그 바로 전에 온 사람, 보통 관계는 아니지? 게다가 네 그 곤란한 얼굴…… 아니 아니, 딱히 사생활을 캐려는 건 아니고, 네가 걱정돼서 그래. 괜히 이상한 연애 문제에 휘말리지 않게 조심하라고.",
+                "cn": "我不会告诉任何人的——讲讲看，刚刚进办公室那位，和之前进来那位，关系不太一般吧？再看看你自己愁眉苦脸的样子......我没在打听情报，我在关心你呀。你可不要随便沾惹感情纠葛哦。"
+            },
+            "asset": "char_4010_etlchi/CN_007"
+        },
+        {
+            "id": "char_4010_etlchi_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Rejecting the kindness of others is terribly rude, wouldn't you agree? Some people, when they notice changes within themselves, want to break away from the past. But me? I will always remember the most intimate moments I've shared with each of my friends. These memories aren't fabricated, so why would one arbitrarily deny our friendship?",
+                "jp": "人の気持ちをそっくりそのまま突き返すのが一番失礼だと思わない？自分がちょっと変わったからって、過去とケジメを付けたがる人、いるんだよねぇ。だけどアタシは友達一人ひとりとの、一番親しかった頃のことをずっと覚えてるよ。思い出はどれも本物だし、一方的に友情を否定するなって話だよ。",
+                "kr": "사람의 마음을 그대로 되돌려 보내는 건 정말 실례라고 생각해, 안 그래? 자기가 좀 변했다고, 과거랑 선 긋고 이별하려는 사람 말이야. 난 친구 한 명 한 명과의 가장 친했던 시절을 늘 기억하고 있어. 추억은 다 실재하니까, 일방적으로 우정을 부정하지 말라는 얘기야.",
+                "cn": "退回别人的心意是最没礼貌的，你说是不是？有的人呀，看到自身出现了变化，就想和过去告别。但我总是记得我跟每个朋友最亲近的那一刻。那些记忆又不是假的，何必自顾自否认我们的友情呢？"
+            },
+            "asset": "char_4010_etlchi/CN_008"
+        },
+        {
+            "id": "char_4010_etlchi_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Indeed, my interrogations are truly gentle. As long as enough blood flows, I can thoroughly sift through a heart and excavate all the secrets I wish to know. A pity, though, that you and your blood are simply too precious. Do strive to live on. The day you lie mortally wounded on death's door, I'll be there to see you.",
+                "jp": "ええ、アタシの尋問は相当優しい方。たっぷり血を流してくれれば、その小っちゃな心臓を徹底的に調べ上げて、気になる秘密を根こそぎ掘り出してやれるからね。まぁ残念ながら、君はその身体も血も貴重すぎるからそういうわけにもいかないんだけどさ。せいぜい頑張って生き延びてよ。重傷を負って死の淵を彷徨い出した時には、きっと会いに来るから。",
+                "kr": "맞아, 내 심문은 꽤 부드러운 편. 피를 충분히 흘려주기만 하면, 그 작은 심장을 철저히 조사해서 궁금한 비밀을 모조리 파헤칠 수 있거든. 뭐 아쉽게도, 너는 그 신체도 피도 너무 귀중해서 그럴 수가 없지만 말이야. 어쨌든 열심히 살아남아 봐. 언젠가 네가 중상으로 죽음의 문턱을 헤매게 되면 반드시 만나러 올 테니까.",
+                "cn": "是啊，我的审讯可是很温柔的，只要一个人流的血够多，我就能翻遍那颗小心脏，挖出我好奇的一切秘密。可惜，你和你的血都太珍贵了。努力活吧，到你重伤濒死的那天，我会来见你的。"
+            },
+            "asset": "char_4010_etlchi/CN_009"
+        },
+        {
+            "id": "char_4010_etlchi_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Hmm... Pulse is steady. Not dead, just asleep.",
+                "jp": "どれどれ……脈搏は安定してるね。ぐっすり眠ってるだけで、死んでない、と。",
+                "kr": "어디 보자…… 맥박은 안정적이네. 푹 잠들었을 뿐, 죽은 건 아니구나.",
+                "cn": "嗯......脉搏很稳定，只是睡得很香，不是死了。"
+            },
+            "asset": "char_4010_etlchi/CN_010"
+        },
+        {
+            "id": "char_4010_etlchi_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Codename, Entelechia. It's been quite a while, battlefield commander of Rhodes Island—Don't feel bad that you've forgotten me. No one can know every single one of our Canoes.",
+                "jp": "コードネーム、エンテレケイア。ご無沙汰ね、この船の戦場指揮官さん――アタシのことを覚えてなくても申し訳ないなんて思わないでね。もともと君じゃすべての船を知り尽くすことなんてできないでしょうから。",
+                "kr": "코드네임, 엔텔레키아. 오랜만이네, 이 배의 전장 지휘관이여. 나를 잊었다고 미안해하지는 마. 애초에 네가 모든 배를 다 알 수는 없을 테니까.",
+                "cn": "代号，隐德来希。好久不见，这艘船上的战地指挥官——别为忘记我而愧疚，你不可能熟悉任何一艘航船。"
+            },
+            "asset": "char_4010_etlchi/CN_011"
+        },
+        {
+            "id": "char_4010_etlchi_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Can a recording on a machine be more truthful than a memory bubbling from one's heart?",
+                "jp": "機械なんかで記録された光景が、ほんとに人の心から浮かび上がる記憶以上に真実だって言えるの？",
+                "kr": "기계 따위로 기록된 풍경이 사람의 마음에서 떠오르는 기억보다 더 진실하다고, 정말로 말할 수 있을까?",
+                "cn": "一台机器所记录的情形，真的比一个人心头涌现的记忆更接近事实吗？"
+            },
+            "asset": "char_4010_etlchi/CN_012"
+        },
+        {
+            "id": "char_4010_etlchi_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "I should 'promote' you too, shouldn't I, as a token of appreciation? Why don't I purify the blood in your body, see if you can become a pure Vampire… Relax, you're not a mixed-blood Sarkaz, and unworthy of a torture you could not endure.",
+                "jp": "アタシも感謝の印に、君を「昇華」させてあげないとね？君の体内の血をまるっと浄化して、純血のブラッドブルードになれるか見てみたいな――なんて、冗談だよ。混血のサルカズじゃあるまいし、君がそんな苦しみに耐えられるはずないでしょ。",
+                "kr": "나도 감사의 표시로 너를 '승화' 시켜줘야겠네? 너의 몸속의 피를 모조리 정화하면 순혈 뱀파이어가 될 수 있는지 한번 보고 싶은데…… 농담이야. 혼혈 살카즈도 아니고, 네가 그런 고통을 견딜 수 있을 리가 없잖아.",
+                "cn": "作为感谢，我也该“提升”你，是不是？把你身体里的血净化一遍，看看你能不能变成纯粹的血魔——放心吧，你又不是混血萨卡兹，受不起这样的折磨。"
+            },
+            "asset": "char_4010_etlchi/CN_013"
+        },
+        {
+            "id": "char_4010_etlchi_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Ah, a medal... Have you thought it through? I'm rather fussy when it comes to gifts and the ones handing them over. The vows between Canoes come first, so I can't do much for Rhodes Island... But if a friend has a personal favor to ask, I don't mind lending a hand at times.",
+                "jp": "この昇進メダル、考えあってのこと？アタシはプレゼントにも、その贈り主にもこだわるタチなんだけどなぁ。船同士の誓いがある以上、ロドスばっかり贔屓するわけにはいかないよ――でもまあ、友達からの個人的なお願いなら、いつでも手伝ってあげるかな。",
+                "kr": "이 승진 메달, 잘 생각하고 주는 거야? 나는 선물도, 그 선물을 주는 사람에게도 깐깐한 타입이라서 말이야. 배들끼리의 맹약이 먼저라, 로도스 아일랜드만 편애할 수는 없는데…… 그래도 뭐, 친구의 개인적인 부탁이라면 언제든 도와줄게.",
+                "cn": "这勋章，你想好了吗？我挑剔礼物，也挑剔赠礼人。有航船之间的誓言在先，我可不能为罗德岛做得太多——不过，如果朋友有私人委托，我不介意随时帮忙。"
+            },
+            "asset": "char_4010_etlchi/CN_014"
+        },
+        {
+            "id": "char_4010_etlchi_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "I don't mind escorting this many people at once.",
+                "jp": "この人たちをいっぺんに護送すればいいってわけね。構わないよ。",
+                "kr": "이 사람들을 한꺼번에 호송하면 된다는 거네. 좋아.",
+                "cn": "我不介意一次护送这么多人。"
+            },
+            "asset": "char_4010_etlchi/CN_017"
+        },
+        {
+            "id": "char_4010_etlchi_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Take care not to let your blood run dry.",
+                "jp": "血をすっからかんにしないよう気をつけることね。",
+                "kr": "피를 다 쏟아내지 않도록 조심하라고.",
+                "cn": "小心些，别让自己的血流干了。"
+            },
+            "asset": "char_4010_etlchi/CN_018"
+        },
+        {
+            "id": "char_4010_etlchi_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Every drop of blood whispers.",
+                "jp": "ひとしずくの血だって言葉を語るんだから。",
+                "kr": "한 방울의 피라도, 말을 할 수 있지.",
+                "cn": "每一滴血都会说话。"
+            },
+            "asset": "char_4010_etlchi/CN_019"
+        },
+        {
+            "id": "char_4010_etlchi_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "I prefer a clean floor, so I'll grant you a death without shedding blood.",
+                "jp": "地面はキレイにしときたいから、血の流れない死に方を贈ろっか。",
+                "kr": "난 바닥이 깨끗한 게 좋은데, 피가 흐르지 않는 죽음을 선물해줄까?",
+                "cn": "我喜欢地面干净些，就送你们一个不用流血的死法吧。"
+            },
+            "asset": "char_4010_etlchi/CN_020"
+        },
+        {
+            "id": "char_4010_etlchi_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Oh, you have an indecisive side too?",
+                "jp": "君もそんなふうにグズグズするんだ？",
+                "kr": "너도 그렇게 머뭇거릴 때가 있구나?",
+                "cn": "你也有举棋不定的时候？"
+            },
+            "asset": "char_4010_etlchi/CN_021"
+        },
+        {
+            "id": "char_4010_etlchi_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "If you need to calm down, I can slow your heartbeat for you.",
+                "jp": "冷静になりたいなら、心臓をなだめてあげようか。",
+                "kr": "냉정해지고 싶다면, 심장을 진정시켜 줄 수 있어.",
+                "cn": "你需要冷静的话，我可以让你的心脏跳得慢些。"
+            },
+            "asset": "char_4010_etlchi/CN_022"
+        },
+        {
+            "id": "char_4010_etlchi_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "At moments like these, Little Garnet shines most brilliantly.",
+                "jp": "こういう時の「ザクロちゃん」のツヤはたまらないよね。",
+                "kr": "이럴 때의 '꼬마 석류'의 빛깔은 정말 아름답단 말이야.",
+                "cn": "这种时候，“小石榴”的光泽是最美的。"
+            },
+            "asset": "char_4010_etlchi/CN_023"
+        },
+        {
+            "id": "char_4010_etlchi_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Don't get me wrong. I don't like the smell of the battlefield.",
+                "jp": "誤解なきよう言っとくけど、戦場のにおいは別に好きじゃないから。",
+                "kr": "오해할까 봐 말해 두는데, 전장의 냄새는 별로 좋아하지 않아.",
+                "cn": "别误会，我不喜欢战场的气味。"
+            },
+            "asset": "char_4010_etlchi/CN_024"
+        },
+        {
+            "id": "char_4010_etlchi_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Gush forth from your heart.",
+                "jp": "心の臓から湧き上がる。",
+                "kr": "심장에서 솟아오른다.",
+                "cn": "从心脏中涌现。"
+            },
+            "asset": "char_4010_etlchi/CN_025"
+        },
+        {
+            "id": "char_4010_etlchi_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Part ways from your flesh.",
+                "jp": "皮と肉から吸い上げる。",
+                "kr": "살과 피부에서 빨아들인다.",
+                "cn": "从皮肉中抽离。"
+            },
+            "asset": "char_4010_etlchi/CN_026"
+        },
+        {
+            "id": "char_4010_etlchi_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Fall back into death.",
+                "jp": "生から死へと遡れ。",
+                "kr": "삶에서 죽음으로 돌아가라.",
+                "cn": "从生回溯至死。"
+            },
+            "asset": "char_4010_etlchi/CN_027"
+        },
+        {
+            "id": "char_4010_etlchi_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Oh dear. Don't choke on your own blood, now.",
+                "jp": "あーあ、自分の血でむせるなんてやめてよね。わかった？",
+                "kr": "아아~ 자기 피에 사레들리지 말라고. 알겠지?",
+                "cn": "哎呀，别被自己的血呛到了，好吗？"
+            },
+            "asset": "char_4010_etlchi/CN_028"
+        },
+        {
+            "id": "char_4010_etlchi_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Fine work. I will preserve this moment within my memories.",
+                "jp": "悪くなかったね。この瞬間は記憶に収めておくよ。",
+                "kr": "나쁘지 않았어. 이 순간은 기억해 둘게.",
+                "cn": "还不错，我会把这一刻收存在记忆里。"
+            },
+            "asset": "char_4010_etlchi/CN_029"
+        },
+        {
+            "id": "char_4010_etlchi_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Can you feel your blood racing? Do you find this scene beautiful? If you're satisfied with the battle's outcome, then I haven't come here for naught.",
+                "jp": "血がドッドッって走ってるのを感じる？キレイな眺めだって思ってくれてる？この戦いの結果に満足してもらえたなら、アタシも来た甲斐があったかな。",
+                "kr": "피의 흐름이 빨라진 게 느껴져? 눈앞의 풍경은 마음에 들고? 이 전투 결과가 만족스럽다면, 나도 온 보람이 있네.",
+                "cn": "感觉到血流加速了吗？觉得眼前的景象漂亮吗？要是你对这场战斗的结果满意，我就不算白跑一趟。"
+            },
+            "asset": "char_4010_etlchi/CN_030"
+        },
+        {
+            "id": "char_4010_etlchi_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "So long as they bleed, they cannot flee.",
+                "jp": "血を流した連中は、もう逃げられないから。",
+                "kr": "피를 흘린 녀석들은, 이제 도망칠 수 없어.",
+                "cn": "但凡流了血的，就逃不掉。"
+            },
+            "asset": "char_4010_etlchi/CN_031"
+        },
+        {
+            "id": "char_4010_etlchi_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Go already. Do not dwell on this mess, nor let it scar you. The aftermath is mine alone to handle.",
+                "jp": "行って。この地獄絵図はトラウマものだから、あんまり見ない方がいいよ。始末はアタシ一人でつけられるから。",
+                "kr": "가. 이런 아수라장은 오래 보지 않는 게 좋겠어. 트라우마가 남기 전에 어서 가, 뒤처리는 나 혼자로 충분해.",
+                "cn": "走呀，别看这里的一片狼藉，别让自己留下伤痕。善后有我一个人就够了。"
+            },
+            "asset": "char_4010_etlchi/CN_032"
+        },
+        {
+            "id": "char_4010_etlchi_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "A familiar sight. As I suspected back then, no one can alter this landship's mechanical design.",
+                "jp": "ここも変わらないね。昔の予想通り、この船の機構は誰にもイジれないってことか。",
+                "kr": "여기도 그대로네. 예전에 예상했던 대로, 이 배의 구조는 역시 아무도 건드릴 수 없는 거였어.",
+                "cn": "很眼熟。和我当时的猜测一样，没人能改变这艘船的机械结构。"
+            },
+            "asset": "char_4010_etlchi/CN_033"
+        },
+        {
+            "id": "char_4010_etlchi_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Does it feel nice, having your blood run backwards?",
+                "jp": "血が逆流するのって気持ちいい？",
+                "kr": "피가 거꾸로 솟는 느낌, 어때?",
+                "cn": "血液倒流的感觉舒服吗？"
+            },
+            "asset": "char_4010_etlchi/CN_034"
+        },
+        {
+            "id": "char_4010_etlchi_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "I would like to bestow upon you a little gift. Say, an Arts enchantment on your pen nib, the same I use on Little Garnet. How does that sound?",
+                "jp": "祝福を授けてあげよっか。たとえば、君のペン先に「ザクロちゃん」と同じキレイになるアーツをかけてあげるとか。どう？",
+                "kr": "축복을 내려줄까? 예를 들면…… 네 펜 끝에 '꼬마 석류'와 같은 아름다워지는 아츠를 걸어 주는 거야, 어때?",
+                "cn": "我愿意给你一点祝福，比如，给你的笔尖施加一个与“小石榴”相同的美化法术，怎么样？"
+            },
+            "asset": "char_4010_etlchi/CN_036"
+        },
+        {
+            "id": "char_4010_etlchi_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4010_etlchi/CN_037"
+        },
+        {
+            "id": "char_4010_etlchi_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "How rare to see everyone in the mood to celebrate a holiday, rather than to mourn someone. It's also rare to see a banquet hall prepare a seat for a Vampire. The sisters of Rose Riverside have spoiled many a banquet before. Whoever said a dinner party isn't the perfect hunting ground for intelligence?",
+                "jp": "みんなで誰かを弔うんじゃなくて、同じ祝日を楽しく過ごすなんて、珍しいこともあるね――ブラッドブルードの参加にみんなが辟易しないパーティも同じくらい珍しいんだけどね。まぁローズ河畔の子たちがいつもみんなをドン引きさせちゃってるのが悪いんだけど、パーティが情報収集にはうってつけなんだから仕方ないでしょ？",
+                "kr": "모두 같이 누군가를 추모하는 게 아니라 기념일을 즐겁게 보낸다니, 별 드문 일이 다 있네…… 뱀파이어가 참석해도 불편해하지 않는 파티 역시 마찬가지로 드물지만. 뭐 로즈 리버사이드 자매들이 오늘 같은 날 자주 분위기를 깨버리긴 했어. 정보 수집에는 파티가 딱이니 어쩔 수 없었단 말이야.",
+                "cn": "真难得，人人都有兴致庆祝一个节日，而不是在这一天为谁哀悼——也难得有一场宴会不害怕血魔入席。玫瑰河畔的姐妹们都做过不少败人兴致的事，谁叫宴会是最容易打探情报的地方呢？"
+            },
+            "asset": "char_4010_etlchi/CN_038"
+        },
+        {
+            "id": "char_4010_etlchi_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "If I were a commander whose life is either the target or concern of many and more, I would learn to tread a little lighter, Doctor.",
+                "jp": "もしアタシがそこら中から命を狙われてる指揮官だったら、もっと静かに歩くけどね、ドクター。",
+                "kr": "만약 내가 여기저기서 목숨이 노려지고 있는 상황의 지휘관이라면, 좀 더 조용히 걸었을 거야, 박사.",
+                "cn": "如果我也是一位被无数人惦记性命的指挥官，我会学着把脚步放轻些，博士。"
+            },
+            "asset": "char_4010_etlchi/CN_042"
+        },
+        {
+            "id": "char_4010_etlchi_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "A new birth is always a bloody affair. Some sisters choose to commemorate the day they killed an archenemy as their birthday; others pick the day their blood was purified and they became pure Vampires. How about you? Since coming to this great land, the blood you've shed and the pain you've endured… how much do you remember?",
+                "jp": "新たな誕生はいつだって血に塗れてる。アタシたちの中では宿敵が殺された日を記念にする子もいれば、血が浄化されて、純血のブラッドブルードになった日を誕生日にしてる子だっているよ。君はどうなの？この大地にやってきてから、流してきた血や、受けてきた苦しみは、どのくらい覚えてる？",
+                "kr": "새로운 탄생은 늘 피에 젖어 있어. 우리 중에는 숙적이 살해된 날을 기념하는 자매도 있고, 피가 정화되어 순혈 뱀파이어가 된 날을 생일로 삼은 자매도 있어. 너는 어때? 이 대지에 온 뒤 흘린 피와 겪은 고통을 얼마나 기억하고 있지?",
+                "cn": "新生可向来是件鲜血淋漓的事，有些姐妹纪念仇敌被杀死的日子，也有姐妹将血液被净化、自己成为纯粹的血魔的那一天视作生日。你呢？来到这片大地上，你流过的血、受过的痛楚，你还记得多少？"
+            },
+            "asset": "char_4010_etlchi/CN_043"
+        },
+        {
+            "id": "char_4010_etlchi_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Farewells are difficult, so we must strive to minimize our partings. This isn't my personal conviction, but it was the reason Rose Riverside rallied behind Theresa, and why I support you now. Very well, present your year-end retrospective. I find solace in hearing memories unfold.",
+                "jp": "お別れってなかなか難しいことだから、そんな別れを減らせるように頑張らないと。別にこれがアタシの信条ってわけじゃないけどさ、ローズ河畔がテレジアに付いた要因なのは確かだし、今アタシが君たちを手伝ってる理由でもあるんだ。さてと、そろそろ君の回顧録を聞かせてもらおうかな。人の振り返りを聞くのって好きなんだよね。",
+                "kr": "이별이라는 건 꽤 어려운 거니까, 그런 이별을 줄일 수 있도록 노력해야 해. 이건 딱히 내 신조 같은 건 아니지만, 로즈 리버사이드가 테레시아를 지지한 이유였고, 지금 내가 너희를 돕는 이유이기도 해. 자, 그럼 이제 너의 회고록을 들려줄래? 난 누군가의 회상을 듣는 걸 좋아하거든.",
+                "cn": "告别很难，所以我们该努力让离别更少一些。这当然不是我的信念，但确实是当初玫瑰河畔支持特蕾西娅的原因，也是如今我给你们帮忙的理由。好了，开始念你的回顾报告吧，我喜欢听人追忆过去。"
+            },
+            "asset": "char_4010_etlchi/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Elana Martin",
+            "global": "Elana Martin"
+        },
+        "cn": {
+            "native": "陈雨",
+            "global": "Yu Chen"
+        },
+        "jp": {
+            "native": "長谷川育美",
+            "global": "Ikumi Hasegawa"
+        },
+        "kr": {
+            "native": "사문영",
+            "global": "Sa Moon-young"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

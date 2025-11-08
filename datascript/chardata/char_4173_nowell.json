@@ -1,0 +1,644 @@
+{
+    "charid": "char_4173_nowell",
+    "nameid": "nowell",
+    "names": {
+        "en": "Nowell",
+        "jp": "ノウエル",
+        "kr": "노웰",
+        "cn": "诺威尔"
+    },
+    "voices": [
+        {
+            "id": "char_4173_nowell_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "I'm a jack of all trades, master of none. If there's one skill I can say I have, it's whiling the time away.",
+                "jp": "私はどんなことでもある程度はできるが、器用貧乏がせいぜいでね。強いて言うなら、唯一の特技は暇を潰すことかな。",
+                "kr": "나는 뭐든지 어느 정도는 할 수 있지만, 그 어느 것도 능통하지는 않아. 굳이 잘하는 걸 꼽자면, 시간 때우기 정도랄까.",
+                "cn": "我什么都能做点，但都不精通。非要说的话，我唯一擅长的大概是打发时间。"
+            },
+            "asset": "char_4173_nowell/CN_001"
+        },
+        {
+            "id": "char_4173_nowell_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Hmm? Oh, these are test lenses, I'm sorting them by prescription strength… Indeed, glasses help us to see things clearly, but 20/20 eyesight is far from enough to truly see the land for what it is.",
+                "jp": "ん？これは検眼用のレンズだよ。ちょうど順序を整理しているところで、度数の高さで並べ替えている……ああ、眼鏡があれば人はくっきりと見ることができるけどね、現実を言うなら、目が良く見えるだけじゃ、全く足りないんだ。",
+                "kr": "음? 이건 검안용 렌즈다. 도수 순으로 정리하던 참인데…… 그래 맞아, 안경이 있으면 선명하게 볼 수 있을지는 몰라도, 현실은…… 눈이 잘 보인다고 해서 다가 아니지.",
+                "cn": "嗯？这些是验光用的镜片，我在整理顺序，按照度数高低排列......是，眼镜能帮助人看清事物，可就现实来说，只是眼睛能看清，还远远不够。"
+            },
+            "asset": "char_4173_nowell/CN_002"
+        },
+        {
+            "id": "char_4173_nowell_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Reunion? I was with them for a brief moment. The bonfire that is life... You see, they still have much flame left; meanwhile, what am I but leftover ashes, cupped in the hand, waiting until I scatter to the wind.",
+                "jp": "レユニオン……彼らとは少しの間だけ一緒に旅をした。結局のところ、人の一生が燃え盛る火だって言うなら、彼らはまだ全く燃え尽きる時じゃないし、私はもういつか風に吹かれて、散るのを待つだけの灰だからな。",
+                "kr": "리유니온이라…… 그들과는 잠시 동행했었다. 사람의 인생이 타오르는 불꽃이라면, 그들에겐 활활 타오를 날이 아직 많이 남아있겠지만…… 반면에 난, 언제 불어올지 모를 바람에 날려 흩어지기만을 기다리는 한 줌의 재일 뿐이지.",
+                "cn": "整合运动......我与他们曾短暂同路。毕竟，如果说人的一生总会燃烧，那他们还远没到燃尽的时刻，而我已是一捧灰，等着被吹散，或早或晚。"
+            },
+            "asset": "char_4173_nowell/CN_003"
+        },
+        {
+            "id": "char_4173_nowell_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Was I distracted again? Sorry. I was just glancing at the drizzle and mist outside. It's the bane of wanderers. The mud traps our feet and the mist blinds our vision, making every step feel like wading through a bog, and I mean that literally.",
+                "jp": "またぼうっとしてた？悪いね、窓の外で霧雨が降ってるのを見ていたんだ。流浪者はこういう天気を憎く思うんだよ。視界が霞んで、足元には泥だまりが広がり、踏み出す一歩一歩が沼にはまっていくような――こいつは比喩じゃない。事実だよ。",
+                "kr": "아, 내가 또 멍하니 있었나? 미안하군. 창밖에 안개비가 내리는 걸 보고 있었다. 방랑자들은 이런 날씨를 굉장히 싫어하지. 시야는 흐리고, 발밑은 진흙탕이 되어, 한 걸음 한 걸음 내디딜 때마다 늪에 빠져드는 듯한…… 이건 비유가 아니고 사실이다.",
+                "cn": "我又走神了？抱歉，只是看见窗外有雨雾。流浪者憎恨这样的天气，脚下泥泞，眼前迷蒙，走出的每一步都像陷在沼泽里——这不是比喻，是事实。"
+            },
+            "asset": "char_4173_nowell/CN_004"
+        },
+        {
+            "id": "char_4173_nowell_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "I learned Gaulish pugilism as a form of self-defense when I was an apprentice in Lingones. It hardly differed in technique from plain street brawling, and it was already lost by the time Gaul fell. Hm! I might even be the last in the land to remember it.",
+                "jp": "リンゴネスで学生をやっていたころに、自衛のためガリア拳術の修練を積んだことがある。中身はストリートでの殴り合いと大して変わらず、ガリアが滅亡する前には失われていたね。はっ、なんなら私があれを覚えてる最後の一人かもしれないな。",
+                "kr": "링고네스에서 학교에 다니던 무렵, 스스로를 지키기 위해 가울 권술을 배운 적이 있다. 그건 길거리 주먹다짐과 크게 다르지 않았고, 가울이 멸망하기도 전에 사라졌지. 하, 어쩌면 내가 그걸 기억하는 마지막 사람일지도 모르겠군.",
+                "cn": "还在林贡斯当学徒时，我曾为了自保练过高卢拳术。这东西的路数与街头斗殴没什么两样，高卢覆灭前它就失传了。哈，我甚至可能是最后一个还记得它的人。"
+            },
+            "asset": "char_4173_nowell/CN_005"
+        },
+        {
+            "id": "char_4173_nowell_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "There's only one way to free myself, and it perfectly coincides with Rhodes Island's goal. That's why I choose to stay, to help others, in hopes that each day, little by little, I get closer to... the end.",
+                "jp": "私が解放される方法は一つしかないんだけど、それはちょうどロドスの目標と同じでね。だから、ここに残るのを選んだんだ。手を差し伸べ、他人を助ける……そうすれば、毎日少しずつ「終わり」に近付いていけるからね。",
+                "kr": "내가 해방될 방법은 단 하나뿐이다. 그리고 그 방법은 마침 로도스 아일랜드의 목표와 같지. 그래서 여기에 남기로 한 거다. 손을 내밀어, 다른 사람을 구하는 것…… 그렇게 하다 보면, 매일 조금씩 '끝'에 가까워질 수 있을 테지.",
+                "cn": "只有一个方法可以使我获得解脱，而它正好是罗德岛的目标，这也是为什么我会选择留下，提供帮助，拯救他人......这样，每一天都能离“终点”更近些。"
+            },
+            "asset": "char_4173_nowell/CN_006"
+        },
+        {
+            "id": "char_4173_nowell_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "In my great-grandson's eyes, you know, I see his grandmother. He visited me, but I wasn't the stranger of the family this time, nor was I struck with pain to see the lines on his face. We've made great progress both. We met, and bid farewell to each other in peace. I could envision no other ending for you and me.",
+                "jp": "私のひ孫の目は、あいつのばあさんによく似てるんだ。今回あいつは家族の中の異類を探しに来たわけじゃないし、私もあいつの老いた姿に苦さを感じることがなくなった。お互いにそこそこ進歩したってところだね。顔を合わせ、そして静かに別れる。これは私が想定している君との唯一の結末でもあるよ。",
+                "kr": "내 증손자의 눈은, 제 할머니를 많이 닮았어. 이번에 그 아이는 가족 중의 이질감을 찾기 위해 온 게 아니었고, 나도 그 녀석의 늙은 모습을 보며 괴로워하지 않았지. 서로 어느 정도 발전한 셈이야. 얼굴을 마주하고, 조용히 헤어지는 것. 그게 내가 생각하고 있는 너와의 유일한 결말이기도 해.",
+                "cn": "我曾孙的眼睛，其实和他祖母的很像。这次他不为寻找家族中的异类而来，我也不为他苍老的面容而感到痛苦，彼此都有了长足的进步。见面，而后平静地告别，这也是我对你我之间结局的唯一设想。"
+            },
+            "asset": "char_4173_nowell/CN_007"
+        },
+        {
+            "id": "char_4173_nowell_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "See? Tilt the lens just so, point it at your kindling... and poof, fire. Got the hang of it? Good. Not that I recommend it as a technique, no. All that fussing with sunlight and angles? Just grill with an electric grill instead.",
+                "jp": "こうやって、ちょうどいい角度を探して、適切にレンズを傾け、可燃物に当てると……火が点く。覚えたかな？よろしい。だがこの技を使うのはおすすめしないよ。バーベキューをやりたい時は、屈折で火を点けることを考えてお天道様の機嫌を伺うくらいなら、普通にコンロを使った方が楽だからね。",
+                "kr": "이렇게, 알맞은 각도를 찾아서, 적절하게 렌즈를 기울여 빛을 가연성 물질에 맞추면…… 불이 붙지. 기억했나? 좋아. 하지만 이 방법을 쓰는 건 추천하지 않아. 바비큐가 하고 싶다면, 굴절로 불을 붙이기 위해 태양의 기분을 살피는 것보단, 그냥 평범하게 전기 그릴을 쓰는 게 더 편하거든.",
+                "cn": "像这样，找准角度，适当倾斜镜片，照向可燃物......就点燃了。学会了吗？好的，但我不建议你用这招。烧烤的时候，比起想办法折射引火，看天吃饭，还是直接用电烤架更方便。"
+            },
+            "asset": "char_4173_nowell/CN_008"
+        },
+        {
+            "id": "char_4173_nowell_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "These involuntary flashbacks and déjà-vu are beginning to affect my work. The young lady from Medical suggested I carry a notebook with me, so I could jot keywords down to piece together later. Her other advice was to find someone who could help verify the content of my memories. And well... here I am.",
+                "jp": "コントロールのできないフラッシュバックのせいで仕事に影響が出始めたように感じる。医療部のお嬢さんにメモ帳を持ち歩いて、キーワードを書き留めてからそれらを繋げてみろと言われたよ。それと、誰か記憶の内容を証明してくれる助っ人を探した方がいいとも。だからここに来たんだ。",
+                "kr": "통제할 수 없는 플래시백 때문에 일에 지장이 생기기 시작한 것 같다. 의료부 아가씨가 메모장을 들고 다니면서 떠오르는 키워드를 적어보고, 그것들을 연결해 보라고 하더군. 그리고 기억의 내용을 증명해 줄 조력자도 있으면 좋을 거라고 했지. 그래서 여기로 왔다.",
+                "cn": "那些不受控的记忆闪回，似乎已经开始影响我的工作。医疗部的小姑娘建议我随身携带记事本，记录关键词，再尝试串联。她同时也建议我寻找一名确证回忆内容的帮手，所以，我就在这里了。"
+            },
+            "asset": "char_4173_nowell/CN_009"
+        },
+        {
+            "id": "char_4173_nowell_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "I can prescribe a pair of glasses for you, if you can't read what's on the… Doctor?",
+                "jp": "ドクター、字が見にくいなら、眼鏡を誂えてあげようか――ドクター？",
+                "kr": "박사, 글씨가 잘 안 보인다면 안경을 맞춰 줄까…… 박사?",
+                "cn": "博士，看不清楚字的话，我可以给你配一副眼镜——博士？"
+            },
+            "asset": "char_4173_nowell/CN_010"
+        },
+        {
+            "id": "char_4173_nowell_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "I'm Nowell. I've made glasses for your patients, and I know a little about medicine... I'll be spending some time here.",
+                "jp": "どうも、ノウエルだ。君らの患者に眼鏡を誂えたこともあるし、多少は医者の真似事もできる……これからしばらく世話になるよ。",
+                "kr": "난 노웰이다. 너희 환자들에게 안경을 맞춰준 적도 있고, 의사 흉내도 어느 정도는 낼 수 있어…… 한동안 신세 질 테니 앞으로 잘 부탁한다.",
+                "cn": "我是诺威尔，为你们的患者配过镜片，也会一些医术......接下来我会在这里停留一段时间。"
+            },
+            "asset": "char_4173_nowell/CN_011"
+        },
+        {
+            "id": "char_4173_nowell_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "That one's carrying an umbrella, but it's not raining... oh, it's an Arts Unit.",
+                "jp": "この子は傘を持っているが、戦場に雨が降ってるようには見えないね……ああ、あれはアーツユニットだったのか。",
+                "kr": "이 아이는 우산을 들고 있지만, 전장에 비가 오는 것 같지는 않군…… 아아, 아츠 유닛이었나.",
+                "cn": "那个人拿着伞，但战场没有下雨......哦，原来那是施术单元。"
+            },
+            "asset": "char_4173_nowell/CN_012"
+        },
+        {
+            "id": "char_4173_nowell_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "I didn't do anything worthy of this medal, but... Thank you.",
+                "jp": "このメダルに見合うようなことは何にもしていない。だが……感謝する。",
+                "kr": "이 메달에 걸맞은 일을 한 적이 없다만. 그래도…… 고맙다.",
+                "cn": "我没做什么能配得上这枚勋章的事。但......谢谢你。"
+            },
+            "asset": "char_4173_nowell/CN_013"
+        },
+        {
+            "id": "char_4173_nowell_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "I still await death with a passion. It may be that I never repay Rhodes Island for its kindness. Even so, do you still insist on this... reward?",
+                "jp": "私は変わらず死を熱望している。ロドスから貰った援助に報いることなく去るかもしれない。たとえそうでも、君はこの褒章を私にくれるって言うのかな。",
+                "kr": "나는 지금도 여전히 죽음을 열망하고 있어. 로도스 아일랜드에서 받은 도움에 보답하지 못한 채 떠날지도 모르지. 그렇다고 해도 너는 이 훈장을 내게 주겠다는 건가.",
+                "cn": "我还是热切地盼望着死亡，也许最后都无法回报罗德岛给予的帮助。即使这样，你也要坚持你的褒奖吗？"
+            },
+            "asset": "char_4173_nowell/CN_014"
+        },
+        {
+            "id": "char_4173_nowell_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "My experience working alongside others is limited.",
+                "jp": "誰かに合わせて動く経験はあんまり積んでいないんだ。",
+                "kr": "누군가에게 맞춰 움직이는 경험은 별로 없다만.",
+                "cn": "我没有太多配合其他人行动的经验。"
+            },
+            "asset": "char_4173_nowell/CN_017"
+        },
+        {
+            "id": "char_4173_nowell_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "You don't need me in the rear?",
+                "jp": "後ろの方に立たなくていいのかな？",
+                "kr": "뒤에 서지 않아도 괜찮나?",
+                "cn": "我不用站在后方吗？"
+            },
+            "asset": "char_4173_nowell/CN_018"
+        },
+        {
+            "id": "char_4173_nowell_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "*Sigh* Let's go, then.",
+                "jp": "はぁ、行こうか。",
+                "kr": "하아, 가지.",
+                "cn": "唉，走吧。"
+            },
+            "asset": "char_4173_nowell/CN_019"
+        },
+        {
+            "id": "char_4173_nowell_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Follow me.",
+                "jp": "ついておいで。",
+                "kr": "따라와.",
+                "cn": "跟紧我。"
+            },
+            "asset": "char_4173_nowell/CN_020"
+        },
+        {
+            "id": "char_4173_nowell_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Go ahead.",
+                "jp": "用件をどうぞ。",
+                "kr": "용건을 말해봐.",
+                "cn": "请说。"
+            },
+            "asset": "char_4173_nowell/CN_021"
+        },
+        {
+            "id": "char_4173_nowell_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "I'm ready.",
+                "jp": "こっちの準備はできている。",
+                "kr": "이쪽은 준비됐다.",
+                "cn": "我准备好了。"
+            },
+            "asset": "char_4173_nowell/CN_022"
+        },
+        {
+            "id": "char_4173_nowell_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Alright.",
+                "jp": "ああ。",
+                "kr": "그래.",
+                "cn": "嗯。"
+            },
+            "asset": "char_4173_nowell/CN_023"
+        },
+        {
+            "id": "char_4173_nowell_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "I'll take good care of them.",
+                "jp": "この子たちのことは見とくさ。",
+                "kr": "이 아이들은 내가 보고 있겠다.",
+                "cn": "我会照看他们。"
+            },
+            "asset": "char_4173_nowell/CN_024"
+        },
+        {
+            "id": "char_4173_nowell_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "The light is shining at the right angle.",
+                "jp": "日差しの角度はちょうどいい。",
+                "kr": "햇빛 각도가 딱 좋군.",
+                "cn": "光照角度适宜。"
+            },
+            "asset": "char_4173_nowell/CN_025"
+        },
+        {
+            "id": "char_4173_nowell_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Hang in there.",
+                "jp": "もう少し堪えて。",
+                "kr": "조금만 더 참아.",
+                "cn": "再坚持一下。"
+            },
+            "asset": "char_4173_nowell/CN_026"
+        },
+        {
+            "id": "char_4173_nowell_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "If you're wounded, stay behind me.",
+                "jp": "怪我人は私の後ろにいてくれ。",
+                "kr": "부상자는 내 뒤에 있어.",
+                "cn": "伤者站到我身后。"
+            },
+            "asset": "char_4173_nowell/CN_027"
+        },
+        {
+            "id": "char_4173_nowell_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "I'm here. I'll help you.",
+                "jp": "私がいる。私がいるさ。今助けてやるからな。",
+                "kr": "여기 있어, 여기 있다고. 지금 구해줄 테니까 안심해.",
+                "cn": "我在，我在。我会救你们。"
+            },
+            "asset": "char_4173_nowell/CN_028"
+        },
+        {
+            "id": "char_4173_nowell_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Will there ever be an end to conflict like this?",
+                "jp": "こうした争いに終わりはないんだよ。そうだろう？",
+                "kr": "이런 싸움은 정말 끝이 없군, 그렇지 않나?",
+                "cn": "这样的争斗永无尽头，对吗？"
+            },
+            "asset": "char_4173_nowell/CN_029"
+        },
+        {
+            "id": "char_4173_nowell_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "We have saved some lives. That's something.",
+                "jp": "私たちはまた人を救ったんだね。いいことだ。",
+                "kr": "우리가 또다시 사람을 구한 거로군. 잘됐어.",
+                "cn": "我们又救下了一些人。这很好。"
+            },
+            "asset": "char_4173_nowell/CN_030"
+        },
+        {
+            "id": "char_4173_nowell_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Making mistakes is a human thing.",
+                "jp": "どうやら、君も平凡な人間みたいだ。",
+                "kr": "보아하니, 너도 평범한 인간인 모양이야.",
+                "cn": "看来，你也只是普通人。"
+            },
+            "asset": "char_4173_nowell/CN_031"
+        },
+        {
+            "id": "char_4173_nowell_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Go! I have the rear… Go!",
+                "jp": "私が殿を務めるから、先に逃げろ。早く！",
+                "kr": "내가 뒤를 맡을 테니, 먼저 도망쳐. 빨리!",
+                "cn": "我殿后，你们先走。快走！"
+            },
+            "asset": "char_4173_nowell/CN_032"
+        },
+        {
+            "id": "char_4173_nowell_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Any place to rest is fine.",
+                "jp": "足を休める場所があればそれでいい。",
+                "kr": "잠깐 쉴 수 있는 장소면, 난 그걸로 충분해.",
+                "cn": "有个能歇脚的地方就行。"
+            },
+            "asset": "char_4173_nowell/CN_033"
+        },
+        {
+            "id": "char_4173_nowell_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Unfortunately for me, with age does not come heart disease, Doctor.",
+                "jp": "残念ながら、私は年齢が原因の心臓疾患を持っていないんだ。",
+                "kr": "유감이지만, 나는 나이로 인한 심장 질환은 없어, 박사.",
+                "cn": "很遗憾，我没有年龄所致的心脏疾病，博士。"
+            },
+            "asset": "char_4173_nowell/CN_034"
+        },
+        {
+            "id": "char_4173_nowell_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Being an optician doesn't mean I have any vision problems. That's to say, I can see you, Doctor. You don't need to get so close.",
+                "jp": "私は眼鏡士だが、自分自身の視力に問題はない。君のことははっきり見えるぞドクター、ここまで近寄らないで大丈夫だ。",
+                "kr": "나는 안경사지만, 내 시력에는 문제가 없어. 너는 똑똑히 보인다고, 박사. 그러니 이렇게까지 가까이 올 필요는 없어.",
+                "cn": "虽然我是一名配镜师，但自身并没有视力上的问题。我能看清你，博士，不用靠得这么近。"
+            },
+            "asset": "char_4173_nowell/CN_036"
+        },
+        {
+            "id": "char_4173_nowell_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4173_nowell/CN_037"
+        },
+        {
+            "id": "char_4173_nowell_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Happy New Year, Doctor. Once, it tortured me to see doors and courtyards dressed in festive decor, a cruel reminder of time's passage that one could never escape, a far cry from the intended joy. Thankfully, things are different now.",
+                "jp": "明けましておめでとう、ドクター。かつては祭りの雰囲気を色濃くさせた家の前を通るたびに、拷問のように感じていた。しかし避けたところで、流れ過ぎた時間について繰り返し気付かされる。どちらにしても、こうした日に感じるべき喜びとは程遠い。今日は、これまでと違ってよかった。",
+                "kr": "새해 복 많이 받도록, 박사. 한때는 축제 분위기가 물씬 풍기는 집 앞을 지날 때마다, 마치 고문을 받는 느낌이 들곤 했다. 아무리 피하려고 해도 시간이 흘러간다는 사실을 반복해서 느낄 뿐이었지. 어느 쪽이든, 이런 날에 느껴야 할 기쁨과는 거리가 멀었어. 그래도 다행히, 오늘은 지금까지와는 다르군.",
+                "cn": "新年快乐，博士。曾经，我路过那些装点着节日氛围的门庭，只觉得是种凌迟，即使避开，也会被反复提醒时间的流逝，无论哪种都与这日子应有的欢乐相去甚远。还好，今时不同往日。"
+            },
+            "asset": "char_4173_nowell/CN_038"
+        },
+        {
+            "id": "char_4173_nowell_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Hello, Doctor.",
+                "jp": "どうも、ドクター。",
+                "kr": "안녕, 박사.",
+                "cn": "你好，博士。"
+            },
+            "asset": "char_4173_nowell/CN_042"
+        },
+        {
+            "id": "char_4173_nowell_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "I've heard it's your birthday. When you blow out the candles and make a wish, don't let anyone hear it, for those with cruel intent might exploit it… Just a joke. Happy birthday, Doctor.",
+                "jp": "今日は君の誕生日だと聞いた。もし蝋燭を吹いて願いを唱えるなら、それを誰かに聞かれないようにした方がいい。手ひどく利用されたら事だからね……はは、冗談だ。誕生日おめでとう、ドクター。",
+                "kr": "오늘이 너의 생일이라고 들었다. 혹시 초를 불고 소원을 빌 생각이라면, 다른 누군가에게 들리지 않게 조용히 비는 게 좋을 거야. 잔혹하게 이용당할지도 모르니…… 하하, 농담이다. 생일 축하한다, 박사.",
+                "cn": "我听说今天是你的生日。如果你要吹蜡烛许愿的话，不要让你的愿望被有心人听见，以免被残酷地利用......哈哈，只是玩笑。博士，生日快乐。"
+            },
+            "asset": "char_4173_nowell/CN_043"
+        },
+        {
+            "id": "char_4173_nowell_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Rhodes Island is a ship that gives sanctuary to those on a long and arduous journey. Those who find this vessel no longer need to wander, to measure their remaining lives with their feet. If only I had... no, it never could have been.",
+                "jp": "「ロドス」――確かにここは長く苦しい旅の途上にいる者たちの寄る辺となる船みたいだね。この船に乗れば、もう当てなく彷徨う必要などなくなり、己の足で残りの時間を歩く必要もない。もし私がもっと早く……いや、そんな可能性などないか。",
+                "kr": "'로도스 아일랜드'…… 이곳은 확실히 길고 힘든 여정 속에 있는 이들이 의지할 수 있는 배로군. 이 배에 타면 더 이상 방황하지 않아도 되고, 남은 시간을 혼자 걷지 않아도 돼. 만약 내가 조금 더 일찍…… 아니, 그런 가능성은 없었겠지.",
+                "cn": "“罗德岛”，似乎的确是漫长苦旅中人们能借道靠岸的那艘船。登船的人此后便不必漂泊，不必再用双脚丈量余生。如果我能更早......不，没有那种可能。"
+            },
+            "asset": "char_4173_nowell/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Benjamin LHommas",
+            "global": "Benjamin LHommas"
+        },
+        "cn": {
+            "native": "刘垚",
+            "global": "Liu Yao"
+        },
+        "jp": {
+            "native": "新垣樽助",
+            "global": "Tarusuke Shingaki"
+        },
+        "kr": {
+            "native": "권성혁",
+            "global": "Kwon Sung-hyuk"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

@@ -33,7 +33,7 @@
                 "cn": "交谈1"
             },
             "text": {
-                "en": "I may sit down? No, I mustn't. I'm a bodyguard. As a bodyguard, I must protect my target no matter the time and circumstance... Am I perhaps being a bother, standing here next to you?",
+                "en": "I can sit down? No... I'm a bodyguard. As a bodyguard, I have to stay vigilant and keep close to my principal... Am I... perhaps being a bother, standing here?",
                 "jp": "座っていていいと？いけません。私は護衛です。護衛たる者はいついかなる時も対象のすぐ側で守らねばなりません。……もしかして。私がお近くにいるのは邪魔でしたか？",
                 "kr": "앉아 있으라고요? 그럴 수는 없어요. 저는 호위인걸요. 호위는 언제 어느 때든 호위 대상의 바로 곁에서 지켜줘야 합니다…… 혹시, 제가 여기 서 있는 게 방해가 됐나요?",
                 "cn": "我可以去坐下？不行，我是护卫。身为护卫，就应该时刻守护在对象的身边才行......难道说，我站在这里给您添麻烦了吗？"
@@ -49,7 +49,7 @@
                 "cn": "交谈2"
             },
             "text": {
-                "en": "I've met Spot before... Oh, no, the squad I was a part of traveled through a city he was stationed in, and he gave me a hand then. He most likely doesn't remember. It's okay.",
+                "en": "Spot? I've met him before... No, actually, when my unit passed through the city he was stationed in, he gave me a hand. He probably doesn't remember. It's fine.",
                 "jp": "スポットさんには、以前お会いしたことが……いえ、ただ私が所属していた部隊が彼の駐留する都市を通りがかった際に協力してくれたことがありました。彼は覚えていないでしょう、いいんです。",
                 "kr": "스팟 씨와는 예전에 만난 적이…… 아니다, 당시 제가 소속되었던 부대가, 스팟 씨가 주둔하던 도시를 지날 때 도와주신 적이 있었어요. 아마 스팟 씨는 저를 기억하지 못하시겠지만요. 괜찮아요.",
                 "cn": "斑点，我以前见过他......不，只是我当时的部队经过他驻守的城市时，他有帮过我。他应该不记得了，没关系。"
@@ -65,7 +65,7 @@
                 "cn": "交谈3"
             },
             "text": {
-                "en": "(I'm not sure what the Doctor is doing, but that looks so amazing...) Eh? Uh... I-I didn't say anything. You misheard, Doctor.",
+                "en": "(I'm not sure what the Doctor is doing, but it looks incredible...) Eh? Uh... I-I didn't say anything. Must've been the wind, Doctor.",
                 "jp": "（ドクターがなさることは全く意味がわかりませんが、なんだかすごいように感じます。）……え？あ、わ、私は何も話していません。空耳ですよ、ドクター。",
                 "kr": "(박사님이 하시는 일, 사실 무슨 의미인지 전혀 모르겠지만, 뭔가 대단한 것 같습니다.) ……에? 아, 저, 저 아무 말도 안 했어요. 잘못 들으신 거예요, 박사님.",
                 "cn": "（博士在做的事虽然看不懂，但是感觉好厉害）......欸，啊，我、我什么都没说，您听错了。"
@@ -81,7 +81,7 @@
                 "cn": "晋升后交谈1"
             },
             "text": {
-                "en": "Doctor, you mentioned this just now, so I thought I'd bring you some. Umm, I'm not doing anything unnecessary, right?",
+                "en": "Doctor, you mentioned these just a second ago, so I went and fetched them for you. Umm... I hope I didn't overstep?",
                 "jp": "ドクター、これ、先ほどおっしゃっていたので持ってきました。あの、私、余計なことはしていませんよね？",
                 "kr": "박사님, 이거, 아까 말씀하셨던 거 같아서 가지고 왔습니다…… 저, 제가 괜한 짓을 한 건 아니죠?",
                 "cn": "博士，这些，我记得您刚才有提到，就去帮您拿来了。那个，我没有做多余的事吧？"
@@ -97,7 +97,7 @@
                 "cn": "晋升后交谈2"
             },
             "text": {
-                "en": "Doctor, I'm so sorry. I rushed ahead by myself on my last mission... I noticed somebody was wounded, and it felt like the blood in my head just started to boil. I forgot your order and ran straight to her. I didn't mean to do that. P-Please don't hate me...",
+                "en": "Doctor, I'm so sorry. I rushed in alone again on that last mission... I saw someone was wounded, and it felt like the blood surged straight to my head. I forgot your orders and charged on in. I didn't do it on purpose. P-Please don't hate me..",
                 "jp": "ドクター、すみません。この間の任務でまた一人で飛び出してしまいました……怪我をしている人が目に入って、頭に血が上ったみたいにドクターのご命令を忘れて飛び出しました。わざとじゃないんです、どうか、どうか私を嫌わないでください……",
                 "kr": "박사님, 죄송합니다. 저번 임무에서 또 혼자 뛰쳐나가고 말았어요…… 다친 사람이 눈에 들어왔는데, 피가 거꾸로 솟는 것 같은 느낌이 들어 그만, 박사님의 명령을 잊고 뛰쳐나갔습니다. 저 일부러 그런 게 아니에요. 제발, 제발 저를 미워하지 말아 주세요……",
                 "cn": "博士，对不起，上次任务我又一个人冲出去了......我当时看到有人受伤，就感觉脑子像充血一样，忘记了您的命令冲了过去，我不是故意的，请、请不要讨厌我......"
@@ -113,7 +113,7 @@
                 "cn": "信赖提升后交谈1"
             },
             "text": {
-                "en": "Umm, Doctor, were you looking for me...? No, I wasn't trying to hide from you, and I definitely don't hate you... It's just that... Sorry, I'm not sure how to explain...",
+                "en": "Umm, Doctor, were you looking for me...? No, I'm not avoiding you, and I definitely don't hate you... It's just that... Sorry, I'm not sure how to put it into words…",
                 "jp": "あの、ドクター、私をお探しですか？……いえ、ドクターを避けているわけでも、嫌いなわけでもありません。ただ……すみません、どう説明すればいいか分からなくて……",
                 "kr": "저기…… 박사님. 저 찾으셨어요? 아뇨…… 박사님을 피한 게 아니에요. 싫어하는 것도 아니고요. 그저…… 죄송합니다, 어떻게 설명해야 좋을지 모르겠어서……",
                 "cn": "啊，博士，您在找我吗？......不，我并不是躲着您，也没有讨厌您，只是......对不起，我不知道该怎么说......"
@@ -129,7 +129,7 @@
                 "cn": "信赖提升后交谈2"
             },
             "text": {
-                "en": "When I was in the Sargon army, most people didn't like me, but there was one person who treated me really well. She was my best friend, but... in the end... she betrayed me. Doctor, I don't know anymore. I'm not sure how to trust anyone now.",
+                "en": "When I was serving in the Sargonian army, everyone hated me, except for one woman. She was kind to me, and we became best friends. But... in the end... she betrayed me. Doctor, I'm lost. How can I bring myself to trust anyone ever again?",
                 "jp": "サルゴンの軍にいた時は、周りのみんなに嫌われていました。でも一人だけとても良くしてくれる方がいて、彼女は私の一番の友達だったんです。ただ、最後には裏切られて……ドクター、私、もう分からないんです。どうやって他の人を信じれば良いのでしょうか？",
                 "kr": "사르곤의 군대에 있었을 때, 주위 사람들 대부분은 절 싫어하셨어요. 하지만 딱 한 분, 저한테 되게 잘 해주셨던 분이 계셨는데, 그녀는 저의 가장 좋은 친구가 되어주셨죠. 근데 마지막엔 저를 배신해서…… 박사님, 저는 이제 모르겠어요. 다른 사람 믿는다는 거, 어떻게 해야 하는 걸까요?",
                 "cn": "在萨尔贡当兵的时候，其他人都不喜欢我，只有一个人对我很好，她是我最好的朋友。但是，最后她却骗了我......博士，我已经不知道了，我该怎么样去信任别人呢？"
@@ -145,7 +145,7 @@
                 "cn": "信赖提升后交谈3"
             },
             "text": {
-                "en": "(The Doctor is such a nice person. Everybody hates me, but he talks to me willingly. There shouldn't be any problem if I put my trust in the Doctor, right?) Oh, Doctor, I'm listening. Yes, I will always trust you. Whoever makes an enemy of you, they're making an enemy of me too!",
+                "en": "(The Doctor is so kind, speaking so nicely to me, even though I'm such an unlikable whelp. I should be able to trust the Doctor, right?) Oh, Doctor, I'm listening. Yes, you're still my ever-dependable Doctor. The Doctor's enemies are my enemies!",
                 "jp": "（ドクターはなんて優しいんでしょうか。こんなに人に嫌われる人間なのに、そんな私に対してもちゃんと話をしてくれます。やっぱり、ドクターのことは信じても大丈夫なんですよね。） あ、ドクター、聞いています。はい、私はやはりドクターを信じたいと思います。ドクターの敵は私の敵です！",
                 "kr": "(박사님은 어쩜 이렇게 상냥하실까요. 이렇게 남에게 미움받는 저에게조차 제대로 말을 걸어 주시고, 역시 박사님은 믿어도 괜찮겠죠.) 아…… 박사님, 듣고 있습니다. 네, 저는 역시 박사님을 믿고 싶습니다. 박사님의 적은 제 적이에요!",
                 "cn": "（博士对我真好，明明我是个这么讨人厌的人，还愿意对我好好说话，果然，相信博士一定是没问题的吧。）啊，博士，我在听，嗯，我还是想相信博士。博士的敌人，就是我的敌人！"
@@ -161,7 +161,7 @@
                 "cn": "闲置"
             },
             "text": {
-                "en": "(I kind of want to... watch the Doctor sleep.)",
+                "en": "(I think I'd like to sneak a peek… at the Doctor's sleeping face.)",
                 "jp": "（ドクターの寝顔……少し見てみたいです。）",
                 "kr": "(박사님의 잠든 얼굴…… 조금 보고 싶습니다.)",
                 "cn": "（有点想看......博士的睡脸）"
@@ -177,7 +177,7 @@
                 "cn": "干员报到"
             },
             "text": {
-                "en": "(Looks like a kind person, but is this guy really going to be as easy to get along with as Amiya said...?) Uh, um, I'm sorry, I-I was spacing out. Operator codename Heavyrain, reporting in.",
+                "en": "(This one looks kind enough, but will this Doctor be as easy to get along with as Amiya says...?) Ah, excuse me, I'm sorry, I-I was spacing out. Operator, codename Heavyrain, reporting in.",
                 "jp": "（見たところ確かに優しそうな方ですが、本当にアーミヤさんの言うように親しみやすい方なのでしょうか……）あ、その、すみません、ぼ、ぼうっとしてしまいました……コードネームヘビーレイン、着任しました。",
                 "kr": "(겉보기엔 확실히 상냥해 보이는 분이지만, 정말 아미야 씨 말처럼 친해지기 쉬운 분일까요……) 아, 저, 죄송합니다. 머, 멍하니 있었네요…… 코드네임 헤비레인, 인사드립니다.",
                 "cn": "（看起来，好像是个很和善的人，不知道真的像阿米娅说的那样好相处吗......）啊，那个，对不起，我、我走神了，干员代号，暴雨，报到。"
@@ -257,7 +257,7 @@
                 "cn": "任命队长"
             },
             "text": {
-                "en": "I'll do my best!",
+                "en": "I'll do my best.",
                 "jp": "……私、頑張ります。",
                 "kr": "……저, 열심히 하겠습니다.",
                 "cn": "......我会尽力。"
@@ -481,7 +481,7 @@
                 "cn": "行动失败"
             },
             "text": {
-                "en": "Doctor, I'll protect you!",
+                "en": "Doctor, I'll cover you from the rear!",
                 "jp": "ドクター、私があなたを守ります！",
                 "kr": "박사님, 제가 엄호할게요!",
                 "cn": "博士，我来掩护你！"
@@ -593,7 +593,7 @@
                 "cn": "生日"
             },
             "text": {
-                "en": "(The Doctor is so popular. Would someone of such stature really need a gift from someone like me…? But I really do want to give one…) Oh, what am I holding? Well, um, it's a gift. Please, accept it! Happy birthday!",
+                "en": "(The Doctor is so popular. Would someone of such stature really need a gift from a girl like me…? But I really do want to give one…) Oh, what am I holding? Well, um, it's a gift. Please, accept it! Happy birthday!",
                 "jp": "（博士这么受欢迎，真的需要我这样的人送出的礼物吗......但是，我好想给博士送礼物......）欸，我手里的东西？啊，这、这是，这是礼物，请收下！生日快乐！",
                 "kr": "(박사님은 인기가 많으시니, 저같은 애가 주는 선물은 필요 없으시겠죠…… 그래도, 박사님한테 선물 드리고 싶은데……) 앗? 들고 있는 게 뭐냐고요? 아 그게 이건, 선물이에요! 받아주세요! 생일 축하드려요!",
                 "cn": "（博士这么受欢迎，真的需要我这样的人送出的礼物吗......但是，我好想给博士送礼物......）欸，我手里的东西？啊，这、这是，这是礼物，请收下！生日快乐！"
@@ -609,7 +609,7 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "(They're all surrounding the Doctor. That is to be expected, considering the Doctor's popularity… Oh, the Doctor is waving at me. Is there something behind me? Huh, the Doctor is coming over…) Ehhh, should I join in the festivities…? Alright.",
+                "en": "(They're all surrounding the Doctor. That is to be expected, considering the Doctor's popularity… Oh, the Doctor is waving at me. Is there something behind me? Huh, the Doctor is coming over…) Oh, should I join in the festivities…? Alright.",
                 "jp": "（ドクターが皆さんに囲まれています。さすがドクター、やっぱり人気ですね……あれ、こっちを見て手招きをしている。この辺りに何かあるのでしょうか？あ、こっちに近付いて来ている……）え？私も一緒にパーティーに参加するんですか？……喜んで。",
                 "kr": "(박사님이 다른 분들에게 둘러싸여 있네요. 역시 박사님의 인기란…… 앗,박사님이 저한테 손짓하시는 거 같은데. 제 근처에 뭐라도 있는 걸까요? 앗, 박사님이 왜 이쪽으로……) 네? 저도 같이 파티에 가자고요? ……좋아요.",
                 "cn": "（博士被大家围住了，不愧是博士，真受欢迎......欸，博士冲我这边招手了，我这边有什么东西吗？欸，博士走过来了......）欸？我也要一起参加宴会吗？......好。"

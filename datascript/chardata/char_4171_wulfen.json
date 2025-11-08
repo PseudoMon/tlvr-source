@@ -1,0 +1,644 @@
+{
+    "charid": "char_4171_wulfen",
+    "nameid": "wulfen",
+    "names": {
+        "en": "Wulfenite",
+        "jp": "ウルフェナイト",
+        "kr": "울페나이트",
+        "cn": "钼铅"
+    },
+    "voices": [
+        {
+            "id": "char_4171_wulfen_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Still remember all those mineral geology facts I told you last time, Doctor?",
+                "jp": "ドクター、こないだあたしが話した鉱石の知識はもう覚えた？",
+                "kr": "박사, 저번에 내가 얘기해준 광석 지식은 다 잘 기억하고 있지?",
+                "cn": "博士，我上次给你介绍的矿石知识你都记住了吗？"
+            },
+            "asset": "char_4171_wulfen/CN_001"
+        },
+        {
+            "id": "char_4171_wulfen_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Pop quiz, Doctor! We've got three different ores here. Get their names right, and you can keep them all, how's that? Here we go... Wow, nailed it... Okay, you get this one too... Bzzt, so close! Just missed one. Better luck next time, Doc.",
+                "jp": "ドクター、ゲームしよ？ここに三種類の鉱石があるから、もしこの子たちの名前を全部当てたらドクターにあげる。どう？……お、正解。んー、合ってるってことでいいよ。あぁ、惜しい！あと一つだったね。これに懲りずに頑張って、ドクター。",
+                "kr": "박사, 퀴즈게임 어때? 자, 여기 세 종류의 광석이 있는데, 만약 얘들 이름을 전부 다 맞추면 박사한테 줄게. 어때? ……오, 정답. 음…… 맞힌 걸로 해줄게. ……아아, 아깝다! 한 개만 더 맞추면 되는데. 좌절하지 말고 힘내, 박사.",
+                "cn": "博士，来玩个游戏吧，这里有三种矿石，如果你能把它们的名字都说对，我就把它们送给你，怎么样？呃，猜得没错。嗯？算你对了。欸......可惜！就差一个。再接再厉哦，博士。"
+            },
+            "asset": "char_4171_wulfen/CN_002"
+        },
+        {
+            "id": "char_4171_wulfen_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Come here, closer... Hold still... Don't worry, nothing weird, I'm just putting on some high SPF sunscreen on you. Our next mission's got some brutally harsh sunshine in store for us. You don't prepare, you'll regret it. Alright, come on, let's head up on deck and test it out!",
+                "jp": "おいでおいで、このまま動かないで……よし。安心して、別に変なものを塗ったわけじゃないって。日焼け止めだよ、すっごく効くんだって！次の任務で行くとこは日差しがめっちゃ強いから、準備しとかないと大変なことになるんだよ。さ、デッキに行こ、効果を確かめなきゃ！",
+                "kr": "이리 와봐, 가만히. 움직이지 말고…… 됐다! 안심해, 이상한 걸 바른 건 아니니까. 선크림인데, 이게 효과가 엄청 좋대! 다음 임무는 햇빛이 엄청 강한 데로 가니까, 미리 준비해 두지 않으면 큰일 난다고. 자, 갑판으로 가자. 효과 확인해야지!",
+                "cn": "过来过来，别动......放心，我没有给你涂什么奇怪的东西，这是防晒霜，据说非常有效！下次出任务要去的地方太阳可毒了，不做好准备可是要吃亏的。走，我们去甲板上试试效果！"
+            },
+            "asset": "char_4171_wulfen/CN_003"
+        },
+        {
+            "id": "char_4171_wulfen_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Hang the bag from my tail, Doctor. It's easier that way. Don't worry, my tail is way stronger than my arms. I'd say it's my proudest feature. And Grandma says people in certain parts of Sargon respect strong tail-havers. What do you think of mine?",
+                "jp": "ドクター、荷物は袋ごとあたしの尻尾の上に置いていいよ。その方が楽でしょ。安心して、尻尾は手よりもずーっと力持ちだから。あたしの一番自慢なところなんだよ。ばあちゃんが言ってたけど、サルゴンの一部では尻尾がすごい人はリスペクトされるんだって。あたしのはどうかな？",
+                "kr": "박사, 짐은 가방째로 내 꼬리 위에 올려놔도 돼. 그게 더 편하잖아. 걱정하지 마, 내 꼬리는 손보다 훨씬 힘이 좋거든. 나의 가장~ 큰 자랑거리지. 전에 할머니가 그랬는데, 사르곤 일부 지역에서는 꼬리가 강한 사람이 존경받는다더라고. 박사가 보기에 난 어때?",
+                "cn": "博士，这袋东西放我尾巴上吧，这样方便一点。放心，我尾巴的力量比我的手强多了。这可是我最自豪的部位。听我奶奶说，尾巴厉害的人在萨尔贡一些地方是会受到尊敬的，你觉得我怎么样？"
+            },
+            "asset": "char_4171_wulfen/CN_004"
+        },
+        {
+            "id": "char_4171_wulfen_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "People ask why I don't collect gems, since they're supposedly prettier. But that's not the kind of beauty I'm after. Exactly! Gemstones have a defined beauty, but an ore's beauty is unbounded. I'm more into the whole 'irregular' thing. I knew you'd understand, Doctor!",
+                "jp": "前に、宝石の方がもっと綺麗なのになんでそっちを集めないのかって聞かれてさ。でもあたしは別にああいう美しさは好きじゃないのよ。そうそう！宝石の美は人が決めたものだけど、鉱石はそういう縛りで括られない。あたしは鉱石の規則のない感じのが好き！ドクターはやっぱ分かってる人だね！",
+                "kr": "전에 있지, 보석이 더 예쁜데 왜 보석을 모으지 않느냐는 얘기를 들은 적이 있어. 근데 나는 그런 류의 아름다움은 좋아하지 않아. 맞아 맞아! 보석의 아름다움은 사람이 정한 거지만, 광석은 그런 틀에 묶여있지 않지. 나는 광석의 불규칙한 느낌이 좋아! 역시 박사는 뭘 좀 아네!",
+                "cn": "曾经有人问我，为什么不收集宝石呢，宝石不是更美吗？但我并不喜欢那种美。对对！宝石的美是经过定义的，而矿石却不受拘束，我更喜欢它的不规则！博士，你果然是明白人呀！"
+            },
+            "asset": "char_4171_wulfen/CN_005"
+        },
+        {
+            "id": "char_4171_wulfen_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Finding the ore isn't the end, Doctor. You take it slow, you analyze it, you understand it, and you find out that everything leading up to its discovery might be a link in its creation. And then? Then, for the first time, you truly feel the history of this great land.",
+                "jp": "鉱石を見つけて終わりじゃないんだよ、ドクター。ちょっとずつその子を分析して、理解していくとね、見つけるまでに見たものはぜーんぶ、その子の誕生に影響したものたちであるっていうのに気づくんだよ。それで？それで、あたしはこの大地の歴史に初めて実感を持てたね。",
+                "kr": "광석은 발견한 걸로 끝이 아니야, 박사. 조금씩 그 아이를 분석하고 이해하다 보면, 발견하기까지 봐왔던 모든 것들이 그 아이의 탄생에 영향을 줬다는 걸 깨닫게 되지. 그리고? 그리고 그렇게 난 이 대지의 역사를 처음으로 실감할 수 있게 되었어.",
+                "cn": "找到矿石并不是结束，博士。当你一点一点地去分析它，了解它，你会惊讶地发现，你找到它之前所看到的一切，都可能是影响它诞生的一环。然后？然后我第一次对这片大地的历史有了实感。"
+            },
+            "asset": "char_4171_wulfen/CN_006"
+        },
+        {
+            "id": "char_4171_wulfen_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Hey, why do I hear my own voice? Oh, it's you, Doctor. You're watching my old expedition videos. No, it's cool. I'm glad you've decided to unearth the beauty of minerals, or me. Of course, I'd be even happier if you just asked me straight.",
+                "jp": "あれ、なんか自分の声が聴こえてる？なんだドクター、前に撮った探検の動画を見てくれてるのね。いいのいいの、鉱石の美しさを理解しようと思ったのでも、あたしのことを知ろうとしたのでも、どっちでも嬉しいよ。もっちろん、直に訊きに来てくれたらもっと嬉しいけどね。",
+                "kr": "어라, 내 목소리가 들리는 거 같은데? 뭐야 박사, 전에 찍은 탐험 영상을 보고 있었구나. 괜찮아, 괜찮아. 광석의 아름다움을 이해해 보려던 것이든, 나에 대해서 알아보려던 것이든, 둘 다 기쁘니까. 물론 직접 물어보러 와 준다면 더 기쁘겠지만?",
+                "cn": "咦，我怎么听到了自己的声音？博士，你在看我以前拍的探险视频啊。没事没事，无论你是想要了解矿石的美，还是想要了解我，我都很高兴。当然，要是能直接来问我就更好了。"
+            },
+            "asset": "char_4171_wulfen/CN_007"
+        },
+        {
+            "id": "char_4171_wulfen_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "I had a chance to visit a padishah's trove when I was little. There, I saw a massive piece of ore, its color as vibrant as my own hair. It was many years later before I learned its name: Wulfenite. That's what inspired me to start collecting minerals.",
+                "jp": "ちっちゃい頃、運良くパーディシャー様の宝物庫に入れてもらったことがあるんだよね。あそこで、すっごい大きな鉱石を見たんだ。その子の色はあたしの髪と同じくらい鮮やかで魅力的なの。それから長い時間をかけて、やっと名前を特定した――ウルフェナイトってね。これがあたしの鉱石収集の始まりなんだ。",
+                "kr": "어릴 때 정말 운 좋게 파디샤님의 보물창고에 들어간 적이 있는데, 거기서 엄청 거대한 광석을 봤어. 그 아이의 색깔은 내 머리카락만큼 선명하고 매력적이었지. 그 뒤로 난 오랜 시간을 들여 겨우 이름을 알아냈어. '울페나이트'. 이게 내 광석 수집의 시작이었어.",
+                "cn": "小时候，我曾经有幸进入帕夏大人的宝库。在那里，我见到了一块巨大的矿石，它的颜色和我的发色一样鲜艳动人。我花了很长时间才找到它的名字——钼铅，而这，就是我收集矿石的起点了。"
+            },
+            "asset": "char_4171_wulfen/CN_008"
+        },
+        {
+            "id": "char_4171_wulfen_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "You saw my application, didn't you? I'm planning to start a channel here at Rhodes Island to introduce people to geology. And I want you for my inaugural guest. What do you think?",
+                "jp": "ドクター、あたしの申請は知ってるよね？ロドスで新しい番組を始めるつもりなの。より多くの人に地質学について知ってもらうためにね！初回のゲストにドクターを呼びたいんだけど、どう？",
+                "kr": "박사, 내 신청서 봤지? 로도스 아일랜드에서 새 프로그램을 시작할까 하는데. 더 많은 사람들에게 지질학을 소개하고 싶어! 그런 의미에서 첫 번째 특별 게스트로 박사를 부르고 싶은데, 함께해줄래?",
+                "cn": "博士，你应该也看到我的申请了吧？我打算在罗德岛内部开设一档新的节目，好让更多的人对地质学有所了解！第一期节目，我想邀请你来做嘉宾，可以吗？"
+            },
+            "asset": "char_4171_wulfen/CN_009"
+        },
+        {
+            "id": "char_4171_wulfen_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Are you bored, Doctor? Hee hee, let me show you my special skill: blowing just this one shock of white hair in my bangs. Watch! Huff—!",
+                "jp": "ドクター、ちょっと退屈だったりしない？あたしの特技を見せてあげる――息を当てておでこの白い髪だけを吹き上げるの。見てて、ふー！",
+                "kr": "박사, 혹시 조금 지루해? 그렇다면 내 특기를 보여줘야겠네…… 여기 이마 위에 흰 머리 보이지? 내가 숨결로 요 하얀 머리카락만 불어 올려볼게, 잘 봐봐! 후 후!",
+                "cn": "博士，你是不是有点无聊？我给你表演一下我的特技——精准地吹起我额头上的这撮白发。看好了，呼——！"
+            },
+            "asset": "char_4171_wulfen/CN_010"
+        },
+        {
+            "id": "char_4171_wulfen_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Hi there, Doctor. I'm Wulfenite, and we're gonna be working together! Let's start by introducing ourselves. I'm from Columbia, and I love exploring, collecting minerals, and...",
+                "jp": "こんにちは、ドクター。あたしは新入りのウルフェナイトだよ。これから一緒に仕事することになるね。そうだ、まずお互いに自己紹介をしようよ。あたしはクルビア出身で、趣味は探検と鉱石収集、それから……",
+                "kr": "안녕, 박사. 나는 신입 오퍼레이터 울페나이트야. 앞으로 같이 일하게 될 텐데, 잘 부탁해! 맞다, 먼저 서로 자기소개부터 해볼까. 나는 컬럼비아 출신이고, 취미는 탐험이랑 광석 수집, 그리고……",
+                "cn": "你好，博士，我是新干员钼铅，以后我们就要一起工作了。对了，我们先来彼此了解一下吧，我来自哥伦比亚，喜欢探险和收藏矿石，还有......"
+            },
+            "asset": "char_4171_wulfen/CN_011"
+        },
+        {
+            "id": "char_4171_wulfen_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "I can't believe what amazing adventurers are here at Rhodes Island! I need to work harder!",
+                "jp": "ロドスにこんなすごい探検家がいるなんて……あたしも頑張んなきゃ！",
+                "kr": "로도스 아일랜드에 이렇게 훌륭한 탐험가가 있다니…… 나도 더 노력해야겠어!",
+                "cn": "罗德岛上竟然有这么厉害的探险家......我也要努力了！"
+            },
+            "asset": "char_4171_wulfen/CN_012"
+        },
+        {
+            "id": "char_4171_wulfen_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Doctor, I'd like to apply for a room to set up my own mineral showcase.",
+                "jp": "ドクター、鉱石の展示室用に一つ部屋を申請してもいい？",
+                "kr": "박사, 광석 진열용 방 하나 신청해도 돼?",
+                "cn": "博士，我可以申请一个房间做我的矿石陈列室吗？"
+            },
+            "asset": "char_4171_wulfen/CN_013"
+        },
+        {
+            "id": "char_4171_wulfen_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Look, Doctor! I passed my aptitude test, and now I'm qualified to lead my own expedition! There are a LOT of ore veins I want to survey. Will you come with me?",
+                "jp": "ドクター、見て見て、無事に能力テストをパスしたの。これで一個小隊を連れて探検に行けるんだ！あたしね、たーくさん探検したい鉱脈があるんだ。ドクターも一緒に行く？",
+                "kr": "박사, 이것 봐. 무사히 능력 테스트를 통과했어. 이제 나도 팀 꾸려서 탐험에 갈 수 있다고! 나 있지, 가보고 싶은 광맥이 엄~청 많거든. 박사도 같이 갈래?",
+                "cn": "博士，快看，我顺利通过能力测试了，现在我有资格自己带领一支小队去探险了！我有许——多想去探索的矿脉，你要和我一起去吗？"
+            },
+            "asset": "char_4171_wulfen/CN_014"
+        },
+        {
+            "id": "char_4171_wulfen_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Where are we digging this time?",
+                "jp": "今回はどこ掘りに行くの？",
+                "kr": "이번엔 어디로 채굴하러 가?",
+                "cn": "这一次要去哪里挖掘矿石？"
+            },
+            "asset": "char_4171_wulfen/CN_017"
+        },
+        {
+            "id": "char_4171_wulfen_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Leave it to me. I'm well prepared.",
+                "jp": "あたしに任せなさい。万全の準備を済ませてあるよん。",
+                "kr": "나한테 맡겨. 준비는 완벽하게 끝냈으니까.",
+                "cn": "交给我吧，我已经做好了万全的准备。"
+            },
+            "asset": "char_4171_wulfen/CN_018"
+        },
+        {
+            "id": "char_4171_wulfen_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "No need to worry. Just stay close to me, and we'll be fine.",
+                "jp": "みんな安心してついてきて、大丈夫だよ。",
+                "kr": "다들 안심하고 따라와, 문제없을 거야!",
+                "cn": "大家不用担心，跟紧我，不会有问题的。"
+            },
+            "asset": "char_4171_wulfen/CN_019"
+        },
+        {
+            "id": "char_4171_wulfen_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Let's dig out some ores!",
+                "jp": "鉱石探しを始めよう！",
+                "kr": "광석 탐색을 시작해 볼까!",
+                "cn": "开始寻找矿石吧！"
+            },
+            "asset": "char_4171_wulfen/CN_020"
+        },
+        {
+            "id": "char_4171_wulfen_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Did you find a vein, Doctor?",
+                "jp": "ドクター、鉱脈は見つかった？",
+                "kr": "박사, 광맥은 찾았어?",
+                "cn": "博士，你找到矿脉了吗？"
+            },
+            "asset": "char_4171_wulfen/CN_021"
+        },
+        {
+            "id": "char_4171_wulfen_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Wha? Another mineral trespass?",
+                "jp": "え、また邪魔が入ったの？",
+                "kr": "어라, 또 방해꾼이 있는 거야?",
+                "cn": "什么，又有人来妨碍我们？"
+            },
+            "asset": "char_4171_wulfen/CN_022"
+        },
+        {
+            "id": "char_4171_wulfen_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "What ores will we find today?",
+                "jp": "今日はどんな鉱石が掘れるかな？",
+                "kr": "오늘은 어떤 광석을 캘 수 있으려나?",
+                "cn": "今天又会挖到什么样的矿石呢？"
+            },
+            "asset": "char_4171_wulfen/CN_023"
+        },
+        {
+            "id": "char_4171_wulfen_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Let's drive out those troublemakers.",
+                "jp": "さっさと邪魔くさいやつらを追い払おうね！",
+                "kr": "귀찮은 녀석들은 빨리 쫓아내 버리자고!",
+                "cn": "快点把这些碍事的家伙赶走吧！"
+            },
+            "asset": "char_4171_wulfen/CN_024"
+        },
+        {
+            "id": "char_4171_wulfen_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Leave us alone!",
+                "jp": "あたしたちの邪魔をしないで！",
+                "kr": "우리를 방해하지 마!",
+                "cn": "不要来妨碍我们！"
+            },
+            "asset": "char_4171_wulfen/CN_025"
+        },
+        {
+            "id": "char_4171_wulfen_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Ah, I've never seen this ore before!",
+                "jp": "わあ、この鉱石見たことないやつっぽい！",
+                "kr": "와아, 이 광석 처음 보는 거 같은데!",
+                "cn": "哇，这种矿石我好像没见过！"
+            },
+            "asset": "char_4171_wulfen/CN_026"
+        },
+        {
+            "id": "char_4171_wulfen_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Fire in the hole. Watch for falling rocks!",
+                "jp": "石の破片に気を付けて、ここ爆破するよ！",
+                "kr": "다들, 돌 파편 조심해. 여기 폭파할 거야!",
+                "cn": "当心碎石，我要引爆这里了！"
+            },
+            "asset": "char_4171_wulfen/CN_027"
+        },
+        {
+            "id": "char_4171_wulfen_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "I'm the hammer and you're the rock!",
+                "jp": "あたしのハンマーを食らえ！",
+                "kr": "내 망치맛 좀 봐라!",
+                "cn": "吃我一锤！"
+            },
+            "asset": "char_4171_wulfen/CN_028"
+        },
+        {
+            "id": "char_4171_wulfen_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Doctor... a hand, please... I'm exhausted... let me catch my breath before we continue the survey…",
+                "jp": "はぁ、はぁ……ドクター、ちょっと手貸してくれないかな、疲れすぎてやばい……あ、あたしちょっと一息ついてから、調査を続けるね……",
+                "kr": "하아, 하아…… 박사, 나 너무 힘들어서 그런데 좀 부축해 줄 수 있을까? ……나 숨, 숨만 조금 돌리고 다시 조사 계속할게……",
+                "cn": "呼......呼......博士，能不能扶我一把，我快累死了。我......我先喘口气，再继续勘探工作......"
+            },
+            "asset": "char_4171_wulfen/CN_029"
+        },
+        {
+            "id": "char_4171_wulfen_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Look, Doctor! I found a really rare ore! It's our lucky day!",
+                "jp": "ドクター、見て、鉱石を見つけたの！これめっちゃ珍しいやつなんだよ！あたしたちほんっとツイてるね！",
+                "kr": "박사, 이거 봐봐, 광석을 찾았어! 이거 엄청 귀한 거야! 우리 진짜 운이 좋은걸!",
+                "cn": "博士，快看，我发现了这种矿石！它可稀有了！我们真走运！"
+            },
+            "asset": "char_4171_wulfen/CN_030"
+        },
+        {
+            "id": "char_4171_wulfen_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Come on, don't give me that look, Doctor. It's low grade, but it leaches well!",
+                "jp": "ドクター、そんな顔しないでよぉ、今の結果でも十分すごいって！",
+                "kr": "박사, 그런 표정 짓지 마. 지금 결과도 충분히 대단하다고!",
+                "cn": "博士，别露出这种表情嘛，有这样的收获也已经很了不起了！"
+            },
+            "asset": "char_4171_wulfen/CN_031"
+        },
+        {
+            "id": "char_4171_wulfen_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Let's go back, Doctor. There's no ore here worthwhile.",
+                "jp": "はぁ、ドクター、帰ろっか。ここにはあたしの欲しい鉱石はないみたい。",
+                "kr": "하아. 돌아갈까, 박사. 여기에는 내게 필요한 광석이 없는 것 같아.",
+                "cn": "唉，博士，我们回去吧，这里看来没有我想要的矿石。"
+            },
+            "asset": "char_4171_wulfen/CN_032"
+        },
+        {
+            "id": "char_4171_wulfen_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Where's the warehouse? I need a place to keep the ore I just dug up...",
+                "jp": "倉庫ってどっちだっけ。さっき掘った鉱石を保管しなきゃ……",
+                "kr": "창고가 어디였더라. 아까 채굴한 광석을 보관해야 하는데……",
+                "cn": "仓库在哪里来着，我要存放一下刚挖到的矿石......"
+            },
+            "asset": "char_4171_wulfen/CN_033"
+        },
+        {
+            "id": "char_4171_wulfen_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Wanna play tug-of-war with my tail, Doctor?",
+                "jp": "ドクター、あたしの尻尾と綱引きしてみる？",
+                "kr": "박사, 내 꼬리로 줄다리기 해보고 싶은 거야?",
+                "cn": "博士，想和我的尾巴玩拔河吗？"
+            },
+            "asset": "char_4171_wulfen/CN_034"
+        },
+        {
+            "id": "char_4171_wulfen_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Hey, Doctor! Good timing. Check out this ore!",
+                "jp": "あっドクター、ちょうどよかった。見せたい鉱石があるんだよ。",
+                "kr": "아, 박사! 마침 잘됐다. 보여주려던 광석이 있어.",
+                "cn": "哎呀，博士，正好，我有块矿石想给你看看。"
+            },
+            "asset": "char_4171_wulfen/CN_036"
+        },
+        {
+            "id": "char_4171_wulfen_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4171_wulfen/CN_037"
+        },
+        {
+            "id": "char_4171_wulfen_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "What are your goals for the new year, Doctor? Me? I set goals every year: where to explore and how many rare minerals to collect. I've met all last year's goals! We could set our goals together and motivate each other!",
+                "jp": "ドクター、何か新しい一年の目標決めた？あたし？あるよ。あたしは毎年、その一年にどこへ探索に行ってどれだけレアな鉱石をゲットするか目標を立ててるんだ。去年のは達成してるよ！ドクター、一緒に目標を決めてお互いにお尻を叩き合うのもいいよね！",
+                "kr": "박사, 새해 목표는 정했어? 나? 난 정했지. 나는 매년 올해엔 어디를 탐험하고, 희귀한 광석을 얼마나 캘지 목표를 세우거든. 작년 건 달성했어! 박사, 우리 같이 목표를 정하고 서로를 응원하면 참 좋을 거 같은데 어떻게 생각해?",
+                "cn": "博士，新的一年你有给自己定下什么目标吗？我？有啊，我每年都会给自己定下新的一年去哪里探索和获得多少稀有矿石的目标，去年的已经完成了！博士，我们可以一起制定目标，互相监督！"
+            },
+            "asset": "char_4171_wulfen/CN_038"
+        },
+        {
+            "id": "char_4171_wulfen_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Let's go dig together, Doctor!",
+                "jp": "ドクター、採掘に行こーよ！",
+                "kr": "박사, 같이 채굴하러 가자!",
+                "cn": "博士，一起去采矿吧！"
+            },
+            "asset": "char_4171_wulfen/CN_042"
+        },
+        {
+            "id": "char_4171_wulfen_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Here, Doctor, the mineral you wanted before. Took a lot of effort to find it, hehe. No, don't mention it! I did it because I wanted to. By the way, are you really gonna sit alone in your office all day again? That would be such a waste. Come on, let's go party!",
+                "jp": "ドクター、これあげる。うん、前に欲しがってた鉱石だよ。ドクターのためだけに探してきたんだ。結構苦労したんだからね。平気だよ、あたしに遠慮なんかしてどうすんの。ところでさ、今日も一人で執務室に引きこもってるつもりなの？もったいなすぎるよ。行こ、パーティーでもしよっか！",
+                "kr": "박사, 이거 줄게. 맞아, 전에 갖고 싶어 했던 그 광석이야. 박사를 위해서 특별히 찾아왔어. 꽤 고생했다고~ 괜찮아, 사양할 필요 없어. 음 근데, 오늘도 혼자 이렇게 집무실에 틀어박혀 있을 거야? 너무 아깝잖아~ 우선 일어나, 파티라도 하자!",
+                "cn": "博士，给你。对，是你之前想要的那种矿石。我特意帮你找来的，费了我不少功夫呢。没事，跟我客气什么呀。话说，今天你也打算一个人闷在办公室里吗？这也太浪费了，走，我们去举办派对吧！"
+            },
+            "asset": "char_4171_wulfen/CN_043"
+        },
+        {
+            "id": "char_4171_wulfen_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "I'm back! Phew... Hehe, Doctor, did you really think I'd spend the whole day in the mines? I rushed back for this important day. How could I miss it? Oh oh, come over here, quick! Look what I found on my trip!",
+                "jp": "ただいまー！はぁ、はぁ……へへ、ドクターさ、あたしが今日も鉱山にこもるもんだと思ってたでしょ？ちゃーんと帰ってきたよ！こんな特別な日なのに何もしないわけないでしょ？そうそう、早くおいで、今回の成果を見せてあげる！",
+                "kr": "다녀왔어~! 하아, 하아…… 헤헤, 박사, 내가 오늘도 광산에 틀어박혀 있을 줄 알았지? 당연히 때맞춰 돌아와야지! 이렇게 특별한 날을 내가 그냥 넘길 리가 없잖아? 맞다, 이리 와봐, 이번 탐험의 성과를 보여줄게!",
+                "cn": "我回来了！呼，呼......嘿嘿，博士，你是不是以为我今天也会泡在矿区里？我特地赶回来了！这么重要的日子我怎么会错过呢？对了对了，你快过来，我给你看看这次的成果！"
+            },
+            "asset": "char_4171_wulfen/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Chloe Eves",
+            "global": "Chloe Eves"
+        },
+        "cn": {
+            "native": "徐晨",
+            "global": "Chen Xu"
+        },
+        "jp": {
+            "native": "後藤麻衣",
+            "global": "Mai Gotou"
+        },
+        "kr": {
+            "native": "성예원",
+            "global": "Sung Ye-won"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

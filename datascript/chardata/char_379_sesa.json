@@ -17,7 +17,7 @@
                 "cn": "任命助理"
             },
             "text": {
-                "en": "Hmm, is this the Doctor's room? How boring. It looks just like those never-changing hills of Sargon. At least get a game console, will you?",
+                "en": "Hmm, is this the Doctor's room? Painfully sterile. Reminds me of Sargon's monotonous hilly terrain. Wouldn't hurt to install a game console, would it?",
                 "jp": "おーっと？これがドクターの部屋か？サルゴンのいつまでも変わり映えしねぇ丘みたいにつまんねーとこだな。ゲーム機くらいは置いてもいいんじゃねえの？",
                 "kr": "오~? 여기가 박사 방인가? 어떻게 된 게 사르곤에서 맨날 보는 언덕처럼 재미있는 게 하나도 없어? 게임기 정도는 둬도 되지 않아?",
                 "cn": "嗯？这就是博士的房间吗？实在是很乏味，就像萨尔贡那些一成不变的山丘一样。放个游戏机怎么样？"
@@ -33,7 +33,7 @@
                 "cn": "交谈1"
             },
             "text": {
-                "en": "{@nickname}, I feel something resonating from within you. How strange. Is this because we still have so much untapped potential? But alas, you've forgotten your past. Does it feel like a burden's been lifted off of you, or does it make things more painful?",
+                "en": "Dr.{@nickname}, I feel something resonating between us. Weird, right? Is it because we both have so much untapped potential? But you've forgotten your past. Feels like freedom to you? Or just another level of pain?",
                 "jp": "ドクター、あんたからはある種の共鳴を感じるぜ。不思議なもんだ、俺たちがどっちも可能性のカタマリだからか？だがあんたは過去を失ってる、そう考えたら少しは気が楽になるか？それとも余計に苦しくなるか？",
                 "kr": "박사, 너한테선 무언가 공명하는 게 느껴져. 신기하군. 우리가 둘 다 가능성의 결정체라 그런가? 하지만 넌 과거를 잃었어. 그렇게 생각하면 조금은 마음이 편해지나? 아니면, 더 괴로워지나?",
                 "cn": "{@nickname}，我在你身上感到了一种共鸣，真是奇怪，是因为你我都有着更多的可能性吗？不过你忘记了过去，这样会感到轻松吗，还是会更加痛苦呢？"
@@ -49,7 +49,7 @@
                 "cn": "交谈2"
             },
             "text": {
-                "en": "{@nickname}, I take greater pride in natural wisdom than the knowledge that is deliberately taught! With Rhodes Island at my side, we will get ever-closer to the Great Truth. Hey, don't avert your gaze. There's nothing to be ashamed of, is there?",
+                "en": "I take greater pride in natural wisdom than indoctrinated knowledge, Dr.{@nickname}! With Rhodes Island on my side, both you and I will grow ever-closer to the Great Truth. Hey, don't avert your gaze. Oh, are you feeling a touch... embarrassed?",
                 "jp": "なぁドクター、わざわざ叩き込まれた知識なんかより、天性の叡智こそが俺の誇れる力（アビリティ）なんだ！ロドスのような盟友がいれば、俺たちは「大いなる真実」にもっと近づけるはず……おい、なんで目をそらすんだよ。まさか照れてんのか、そうなんだろ、なあ？",
                 "kr": "{@nickname} 박사. 내가 자랑스럽게 생각하는 능력은, 애써서 머리에 때려 박은 지식 같은 게 아니라, 바로 이 타고난 지혜거든. 로도스 아일랜드 같은 맹우가 있다면, 우리는 '위대한 진실'에 더 다가갈 수 있겠지…… 어이 잠깐, 뭐야 왜 나랑 눈 안 마주칠라 그러는데. 설마 부끄러워서? 부끄러워서 그런 거지? 아니 쫌!",
                 "cn": "比起被刻意教化的知识，天生的智慧才是我引以为傲的力量，{@nickname}！有罗德岛这样的盟友，我们都会离伟大的真实更近的。喂，别撇开视线啊，你是不是觉得很羞耻啊，是不是？"
@@ -65,7 +65,7 @@
                 "cn": "交谈3"
             },
             "text": {
-                "en": "'I wish to cross over to the distant shores.' That used to be the secret phrase people used to communicate with me. That bridge is the link between two worlds, transferring wisdom and imbuing power... Hey, let me finish. It's rude to just turn around and walk off like that!",
+                "en": "'I wish to bridge the gap to the other side.' That was once a code phrase used to contact me. The bridge connects two lands, transferring wisdom and imbuing power... Hey, let me finish. Turning away mid-sentence? How terribly discourteous!",
                 "jp": "「我彼岸に渡らん」、これはかつて俺とやり取りする奴らが使ってた暗号だ。橋とは二つの地を繋ぐ連結者(メディエーター)なるもの。力を引き込み、智慧を伝達する……ってこらぁ、人の話を最後まで聞けよ！途中で立ち去ろうとするなんて失礼じゃねーか！",
                 "kr": "“나는 저 너머로 건너가겠다.” 이건 예전에 나와 교류하던 녀석들이 사용했던 암호다. 다리란 두 개의 땅을 잇는 연결자의 역할을 하는 것…… 힘을 불어넣고, 지혜를 전달한다…… 에이 진짜! 사람이 말을 하면 좀 끝까지 들어! 다 듣지도 않고 중간에 나가는 게 어딨어!",
                 "cn": "“我愿渡往彼岸”，那是过去别人用来和我接头的暗号。桥是两片土地的连接者，灌输力量，传递智慧......听我说完啊，转身就走很没礼貌！"
@@ -81,7 +81,7 @@
                 "cn": "晋升后交谈1"
             },
             "text": {
-                "en": "Rhodes Island has some pretty tasteless folks, acting like their outer appearance is just some decoration, like a skin to be taken off! You'll come off as slovenly to people if you don't carefully coordinate your look, right? What, my clothes are tattered? You simply don't understand the boldness of this fashion statement...",
+                "en": "Rhodes Island is home to some folk devoid of aesthetic sensibility. A disguise isn't just a superficial layer, but an art of meticulous refinement. Without careful cultivation, one merely appears... disheveled. You think my clothing looks tattered? Ha! You simply fail to comprehend my nuanced style...",
                 "jp": "ロドスには趣ってもんを分かってない奴が多い。偽装とは自らを飾り付ける行為であって、表面だけ取り繕えばいいってもんじゃねーんだ。しっかり磨き上げておかねーと、周りにはボロボロの化けの皮を被ってるようにしか見えねぇ。俺がボロボロな服を着てるだけだって？このスタイルの良さをあんたには理解できねーんだよ……。",
                 "kr": "로도스 아일랜드에는 멋이라는 걸 모르는 녀석들이 너무 많단 말이지. 위장이란 자신을 꾸미는 행위이지, 표면만 매만진다고 되는 게 아니야. 제대로 손질해 두지 않으면 주변에는 너덜너덜한 괴물 가죽을 뒤집어쓰고 있는 걸로밖에 안 보여. 내가 너덜너덜한 옷을 입고 있을 뿐이라고? 하긴, 이 스타일의 좋은 점을 넌 이해 못 하겠지……",
                 "cn": "罗德岛里总有些缺乏格调的家伙，伪装是种修饰，不是种简单皮囊啊。要是不好好精心雕琢下的话，只会让人觉得外表破破烂烂而已吧？你说我穿的破烂？你根本就不懂这种风格......"
@@ -97,7 +97,7 @@
                 "cn": "晋升后交谈2"
             },
             "text": {
-                "en": "Do you believe that weapons have souls? The things they've experienced, the hands they've been passed through, and the reason they've been swung... No! These have nothing to do with the soul. For a weapon, any belief or meaning has been superimposed upon it. Tell me, are we weapons, or are we people with souls imposed upon us?",
+                "en": "Do you believe weapons have souls? The things they've experienced, the hands that have wielded them, and the reasons they've been swung... No! These aren't souls. For a weapon, any belief or meaning is externally imposed. Tell me, are we the weapons, or are we the ones imposing souls onto others?",
                 "jp": "武器にも魂が宿るって信じるか？こいつらが何を経験してきたか、誰の手に握られてきたか、そして何のために戦ってきたか――いや違う、これは魂なんかじゃねぇ。武器からすれば、どんな信念や意義だって無理やり押し付けられたお飾りに過ぎねぇんだ。なぁ、俺たちは良いように使われる武器か？それとも魂（エゴ）を押し付ける人間か？",
                 "kr": "무기에도 영혼이 깃든다는 걸 믿나? 이 녀석들이 무엇을 경험해 왔는지, 누구의 손에 쥐어졌었는지, 그리고, 뭘 위해 싸워왔는지…… 아니, 틀려. 이건 영혼 같은 게 아니야. 무기에게는 어떠한 신념이나 가치도, 억지로 강요받은 장식에 지나지 않아. 자 그럼, 우리는 좋을 대로 사용되는 무기인가? 아니면 자아를 억지로 갖다 붙인 인간인가?",
                 "cn": "你相不相信武器有灵魂？它们经历过什么，曾被谁握在手中，又是为了什么而战——不！这些不是灵魂，对武器来说，任何信念和意义都是被强加的。你我是武器吗，还是强加灵魂的人呢？"
@@ -113,7 +113,7 @@
                 "cn": "信赖提升后交谈1"
             },
             "text": {
-                "en": "A genius? Do people like that really exist...? Most craftspeople in Sargon are just ordinary apprentices who are still learning to walk, tinkering with metals. But as long as they continue down the path, even they can reach the road's destination.",
+                "en": "A genius? Do such beings truly exist...? In Sargon, most craftsmen appear to me as mere apprentices still learning to walk, tinkering with metal. Yet, walk long enough, and even they may traverse the entire path.",
                 "jp": "天才？本当にそんなヤツがいるのか……俺からすれば、サルゴンの職人たちはみな、ガチャガチャ金属と戯れるだけの、まだまだあんよ期の学徒にしか見えないけどな。とはいえ、歩みを止めさえしなければ、いつかは進むべき道が開けるもんだ。",
                 "kr": "천재? 정말로 그런 녀석이 있을까……? 내가 볼 때 사르곤에 있는 장인들은 모두, 달그락 달그락거리는 쇠붙이를 갖고 놀 뿐인, 이제 겨우 걸음마를 뗀 학생 정도 수준으로밖에 안 보이는데 말이야. 그래도 걸음을 멈추지만 않는다면, 언젠가는 나아가야 할 길이 열리겠지.",
                 "cn": "天才？世上真有天才吗......萨尔贡的多数工匠在我看来不过是尚在学习走路的普通学徒，叮叮当当地摆弄金属，但只要走得够久，他们也能走出整条道路。"
@@ -129,7 +129,7 @@
                 "cn": "信赖提升后交谈2"
             },
             "text": {
-                "en": "Need my help making some adjustments? My skills aren't something that can ever see the light of day. 'Allowing everyone to just pick up a weapon is the way to creating wars.' I must wear these shackles to restrict myself. Or, do you wish to unchain me and unleash havoc upon this world?",
+                "en": "Do you need my help refining a weapon? My skills are best kept hidden under a bushel. 'Enabling universal weapon access is tantamount to creating war'—this self-imposed shackle I must bear. Or... do you seek the key to unlock chaos across the land?",
                 "jp": "俺に武器をいじってほしいのか？俺の腕は世に出していいもんじゃねぇんだよ。誰しもが武器を持てるようにするってことは、戦争を生み出すってこと。俺はこの手かせで自分を縛っておかなきゃいけねぇんだ。それとも、あんたは大地を混乱の渦に陥れる鍵を求めてるってのか？",
                 "kr": "내가 무기를 손봐주길 바라는 건가? 내 실력은 세상에 내보여도 되는 게 아니야. 누구나 무기를 들 수 있게 놔둔다는 것은 곧, 전쟁을 낳는다는 것…… 나는 이 수갑으로 나를 묶어놔야 한다고. 아니면 설마 넌, 지금 이 땅을 혼란의 소용돌이에 빠트릴 열쇠를 찾고 있는 건가?",
                 "cn": "想要我帮忙调整武器？我的本事是不能见人的，“让所有人都能拿起武器的方法是创造战争的方法”，这个封锁自己的镣铐，我必须戴上。还是说，你想要那把能搅乱大地的开锁器？"
@@ -145,7 +145,7 @@
                 "cn": "信赖提升后交谈3"
             },
             "text": {
-                "en": "Do you know about who I am? And about my past? No, you don't know, nor should you know. My incognito exists to bury the past behind me. Forget about it, and let these things sink into the depths of the deserts.",
+                "en": "You know who I am? And my past? No, you don't, and you shouldn't. I maintain anonymity precisely to bury the past behind me. Forget it all, and let this skin I've shed sink into the depths of the deserts.",
                 "jp": "俺の正体をあんたは知ってる？それに俺の過去も知ってる、だと？いや、あんたは知らねぇ、知るはずもねぇ。俺は立場も名前も捨ててきたんだ、全てから逃げるためにな。忘れようぜ、そんなもんは砂漠の奥に埋めときゃあいい。",
                 "kr": "내 정체를 알고 있다고? 게다가 내 과거도 알고 있다고? 아니, 넌 몰라. 알 리가 없지. 나는 설 곳도, 이름도 버리고 왔어. 모든 것으로부터 도망치기 위해서 말이야. 잊어버리자고. 그런 건, 그냥 사막 깊숙한 곳에 묻어두면 돼.",
                 "cn": "你知道我的身份？也知道我的过去？不，你不知道，你不应该知道。我隐姓埋名，就是为了逃避以前的一切，忘了吧，把那些都埋在沙漠深处。"
@@ -177,7 +177,7 @@
                 "cn": "干员报到"
             },
             "text": {
-                "en": "I know exactly what you're searching for, Doctor of Rhodes Island! You long for truth and power! And I, Sesa, am willing to grant you these things... Woah, wait, wait up! Don't push me out the door! I'm serious about my job application!",
+                "en": "I know precisely what you seek, Doctor of Rhodes Island! Your thirst for truth and power is palpable. And I, Sesa, am willing to bestow that very strength upon you... Woah, hold on! Don't throw me out! I'm here to apply for a position!",
                 "jp": "あんたの探しもんを知ってるぜ、ロドスのドクターさんよ。そう！あんたが渇望しているのは真実と強さだ！そしてこの俺様ことシェーシャが、あんたにその力を与え……っておいやめろ、追い出さないでくれ！本気で求職に来たんだよ！",
                 "kr": "로도스 아일랜드의 박사, 맞지? 네가 찾는 게 뭔진 잘 알고 있어. 그래! 네가 갈망하는 건, 바로 진실과 강한 힘! 그리고 나, 세사가 너에게 그 힘을 주려…… 아이 잠깐 잠깐! 쫓아낼 건 없잖아! 진짜 진지하게 일자리 구하러 온 거라고!",
                 "cn": "我知道你在寻找什么，罗德岛的博士，你渴望真相和强大！而我慑砂，愿意赐予你这份力量......哎别，别这样，别推我出门啊，我是认真来求职的！"
@@ -193,7 +193,7 @@
                 "cn": "观看作战记录"
             },
             "text": {
-                "en": "This weapon's output... I see...",
+                "en": "This weapon's output... I see…",
                 "jp": "この武器からほとばしるエナジー……なるほど……。",
                 "kr": "이 무기에서 흘러넘치는 에너지…… 그렇군……",
                 "cn": "这种武器出力...唔嗯......"
@@ -209,7 +209,7 @@
                 "cn": "精英化晋升1"
             },
             "text": {
-                "en": "...You wish for greater power? Don't draw any unnecessary attention before the time is right. Otherwise, it'll be veeery dangerous.",
+                "en": "...You wish for greater power? Don't draw any unnecessary attention before the time is right. Otherwise, it'll be waaay too dangerous.",
                 "jp": "力が……欲しいか？まだその時じゃない、今目立つととーんでもねぇことになるぜ。",
                 "kr": "힘을…… 원하는가? 아직은 때가 아니야. 지금 눈에 띄면 엄청난 일이 벌어질 거다.",
                 "cn": "......想要力量？还没到时候，别引人注目，这很~~危险。"
@@ -225,7 +225,7 @@
                 "cn": "精英化晋升2"
             },
             "text": {
-                "en": "'The bridge is the connection, the ammunition is wisdom, the weapon is the will, and harmony is equality.' Shall we tear asunder the veil that obfuscates the Truth? Perhaps I can lend you a bit more power... Just a bit more.",
+                "en": "'The bridge connects, the ammunition embodies wisdom, the weapon expresses will, and harmony manifests equality.' Do you wish to shatter the misty veil obscuring the Truth? Perhaps I can lend you a touch of power... just a little bit.",
                 "jp": "「橋は連結、弾薬は叡智、武器は意志、諧律は平等」。真実を覆い隠す霧を、徹底的に晴らしてみたくねぇか？少しなら力を貸してやれなくもねぇ……ああ、少しだけな。",
                 "kr": "다리란 곧 연결, 탄약이란 곧 지혜, 무기란 곧 의지, 계율이란 곧 평등을 뜻하니…… 진실을 뒤덮은 안개를 남김없이 다 걷어내고 싶지 않나? 조금이라면 힘을 빌려줄 수도 있지…… 그래, 조금만 말이야.",
                 "cn": "“桥是连接，弹药是智慧，武器是意志，谐律是平等。”遮掩真相的迷雾，你想不想把它们彻底粉碎？也许我能借你一点点力量......就一点点。"
@@ -241,7 +241,7 @@
                 "cn": "编入队伍"
             },
             "text": {
-                "en": "The 'bridge' seeks completion... Those weapons in your hands... May I take a closer look?",
+                "en": "The 'bridge' yearns… for those weapons in your hands... May I take a closer look?",
                 "jp": "「橋」が渇望してやがる……なぁ、お前らの武器、ちょっと見せてもいいか？",
                 "kr": "'다리'가 갈망하고 있어…… 어이 거기 너희, 무기를 좀 보여줄 수 있겠나?",
                 "cn": "“桥”在渴求......你们手中的武器，让我看下，行吗？"
@@ -257,7 +257,7 @@
                 "cn": "任命队长"
             },
             "text": {
-                "en": "Let me guide you... Just rub this oil into the bolt slot of your crossbow. Remember to apply it uniformly.",
+                "en": "Let me guide you... Just apply this oil to the bolt slot of your crossbow. Make sure you apply it evenly.",
                 "jp": "俺が導いてやろう……そうそう、このオイルをレールに塗り込むんだ、均一にな。",
                 "kr": "내가 이끌어 주지…… 그래, 그래. 이 오일을 레일에 바르는 거다. 골고루 말이야.",
                 "cn": "我来引导你们......这个油擦在弩槽里就行，记住要均匀。"
@@ -273,7 +273,7 @@
                 "cn": "行动出发"
             },
             "text": {
-                "en": "It's time for our efforts to bear fruit! Just remember, these weapons must be handled delicately.",
+                "en": "Cohorts, it's time to show the results of our efforts. Just remember, handle the weapons with the utmost care.",
                 "jp": "お前らの訓練成果を見せる時が来た！ちなみに武器の扱いには気をつけような。",
                 "kr": "너희들의 훈련 성과를 보여줄 때가 왔다! 그리고 하나 더, 무기를 다룰 때는 늘 조심하는 것도 잊지 말도록.",
                 "cn": "到了你们展现成果的时候了！但武器要轻拿轻放。"
@@ -289,7 +289,7 @@
                 "cn": "行动开始"
             },
             "text": {
-                "en": "The battlefield destroys both weapons and their hosts.",
+                "en": "The battlefield destroys both weapon and wielder.",
                 "jp": "戦場、それは武器を打ち砕き、その主たちをも破壊するのだ。",
                 "kr": "전장…… 그것은 무기를 부수고, 그 주인들 역시 파괴하는 것이다.",
                 "cn": "战场，既摧毁武器，也摧毁它们的主人。"
@@ -321,7 +321,7 @@
                 "cn": "选中干员2"
             },
             "text": {
-                "en": "Set me free! This is what I should yell, right?",
+                "en": "Set me free! I'm supposed to yell that now, right?",
                 "jp": "俺を解き放て！って、こんな感じだっけ？",
                 "kr": "나를 해방해라! 이렇게 하는 거 맞나?",
                 "cn": "解放我吧！是这么喊没错吧？"
@@ -353,7 +353,7 @@
                 "cn": "部署2"
             },
             "text": {
-                "en": "Destruction, your time has come!",
+                "en": "Doom, shall descend!",
                 "jp": "滅亡は、いずれ降臨するのだ。",
                 "kr": "멸망은, 언젠가 강림한다.",
                 "cn": "毁灭，终将来临！"
@@ -369,7 +369,7 @@
                 "cn": "作战中1"
             },
             "text": {
-                "en": "Free the weapon from the flesh...",
+                "en": "Free the weapon from its shell...",
                 "jp": "武器をその殻から解き放つ――",
                 "kr": "무기를 그 껍질에서 해방시켜주마……",
                 "cn": "将武器从躯壳中解放——"
@@ -401,7 +401,7 @@
                 "cn": "作战中3"
             },
             "text": {
-                "en": "I shall be your end! It's fine for me to say stuff like that, right?",
+                "en": "I shall be your doom! I'm allowed to say stuff like that, right?",
                 "jp": "俺がお前らの滅亡だ！……なんて言ってみたけど、いいよな？",
                 "kr": "내가 네놈들의 멸망이다! ……라고 말해봤는데, 괜찮았지?",
                 "cn": "我是你们的毁灭！这么说说没关系吧？"
@@ -433,7 +433,7 @@
                 "cn": "完成高难行动"
             },
             "text": {
-                "en": "Such a fierce battle is inevitably accompanied by great pain, but the weapon in your hands will never lie. It roars triumphantly!",
+                "en": "Such agony inevitably accompanies a fierce battle, but the weapon in hand never lies. It sings of victory!",
                 "jp": "これほどの激戦には必ず苦痛が伴う。だがテメェの武器は嘘をつかねぇ。見てみろ、高々と勝利を謳ってやがるぜ！",
                 "kr": "이 정도 격전에는 반드시 고통이 따른다. 하지만 네놈의 무기는 거짓말을 하지 않아. 봐라, 드높이 승리를 칭송하고 있지 않은가!",
                 "cn": "如此程度的激战必然伴随着痛苦，但手中的武器绝对不会撒谎，它在高歌胜利！"
@@ -449,7 +449,7 @@
                 "cn": "3星结束行动"
             },
             "text": {
-                "en": "You are a bit too dependent upon my powers. Speak no more of it. You know the old agreement, a cup of black tea with two cubes of sugar.",
+                "en": "You are a bit too dependent upon my powers. Speak no more, same deal: a cup of black tea with two sugar cubes.",
                 "jp": "俺の力に頼りすぎじゃねぇか。まぁいい、いつも通り紅茶一杯に角砂糖二つと洒落込もう。",
                 "kr": "나의 힘에 너무 의지하는 것 아닌가. 뭐, 됐어. 평소처럼 홍차 한 잔에 각설탕 두 개를 넣도록 하지.",
                 "cn": "你有些过度依赖我的力量了，别说了，老规矩，一杯红茶两块方糖。"
@@ -465,7 +465,7 @@
                 "cn": "非3星结束行动"
             },
             "text": {
-                "en": "Being able to escape the weapons' bloodbath is perhaps a good thing.",
+                "en": "To escape the malediction of a weapon is, for both sides, perhaps a blessing.",
                 "jp": "武器がもたらす殺戮から逃れられるとは、それはそれでいいかもしれねぇな。",
                 "kr": "무기가 가져오는 살육에서 도망치다니. 그건 그거대로 좋을지 모르겠군.",
                 "cn": "能逃过武器带来的杀戮，也是好事。"
@@ -481,7 +481,7 @@
                 "cn": "行动失败"
             },
             "text": {
-                "en": "No matter how much you run, the weapons will always be waiting. For the day you and I are wiped out.",
+                "en": "No matter how far we run, the weapons will lie in wait, until the day they eradicate us.",
                 "jp": "どれだけ逃げても、武器はいつまでも待ってるぜ。我々を屠るその日をな。",
                 "kr": "아무리 도망쳐도, 무기는 언제까지고 기다릴 거다. 우리를 몰살시킬 그날을 말이야.",
                 "cn": "无论逃多久，武器都会等下去，等到消灭你我的那天。"
@@ -497,7 +497,7 @@
                 "cn": "进驻设施"
             },
             "text": {
-                "en": "The Great Truth needs an equally great space to house it! Wait, no, I don't need a room this big...",
+                "en": "The Great Truth demands an equally great space to house it! Wait, no, I don't need a room this big...",
                 "jp": "大いなる真実を知らしめるには場所が必要だな！……いや、ここまで広くなくても……",
                 "kr": "위대한 진실을 알리기 위해선, 장소가 필요한 법이지! ……아니 근데, 이렇게까지 넓을 필요는……",
                 "cn": "伟大的真实需要揭示它的空间！不，也不用那么大的空间......"
@@ -529,7 +529,7 @@
                 "cn": "信赖触摸"
             },
             "text": {
-                "en": "Do you want to hear a story? I know many old stories.",
+                "en": "Wanna hear a story? I know many old tales.",
                 "jp": "おとぎ話でも聞きたいか？古い物語なら、いくらでも話してやれるよ。",
                 "kr": "옛날이야기라도 듣고 싶나? 오래된 이야기라면 얼마든지 해줄 수 있는데 말이야.",
                 "cn": "你想听故事吗？我有不少很古旧的故事。"
@@ -593,7 +593,7 @@
                 "cn": "生日"
             },
             "text": {
-                "en": "Since today is your birthday, I shall gift you a secret signal. Use it, and you may request I liberate my true power... never mind, forget the secret signal. You know full well what I can actually do, don't you, Dr.{@nickname}?",
+                "en": "Since today is your birthday, I shall share a secret incantation. Speak it, and you may unchain my true power... Actually, never mind. Dr.{@nickname}, you already know exactly what I'm capable of, don't you?",
                 "jp": "既然今天是你的生日，那我就送给你一句暗号吧，用这句话，你就能要求我解放真正的力量......算了，不用暗号。Dr.{@nickname}，你其实很清楚我能做什么，对吧？",
                 "kr": "오늘이 당신 생일일 줄이야, 그럼 암호 한 마디를 선물로 주지, 나중에 이 암호로 나의 진정한 힘을 해방할 수 있을 거야…… 됐어, 암호는 필요 없어. {@nickname} 박사, 당신은 내가 뭘 할 수 있는지 잘 알잖아, 아닌가?",
                 "cn": "既然今天是你的生日，那我就送给你一句暗号吧，用这句话，你就能要求我解放真正的力量......算了，不用暗号。Dr.{@nickname}，你其实很清楚我能做什么，对吧？"
@@ -618,6 +618,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Jack Ayres",
+            "global": "Jack Ayres"
+        },
         "cn": {
             "native": "徐翔",
             "global": "Ethan"
@@ -632,6 +636,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

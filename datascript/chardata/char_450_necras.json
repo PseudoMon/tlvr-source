@@ -1,0 +1,644 @@
+{
+    "charid": "char_450_necras",
+    "nameid": "necras",
+    "names": {
+        "en": "Necrass",
+        "jp": "ネクラス",
+        "kr": "네크라스",
+        "cn": "死芒"
+    },
+    "voices": [
+        {
+            "id": "char_450_necras_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Would you care to try some sweets? I could prepare a selection for you. Wine to pair with? I have some too.",
+                "jp": "甘いものはどうだ？準備してやってもいい。あての酒？もちろん用意している。",
+                "kr": "단 건 어때? 준비해 줄 수 있어. 어울리는 술? 물론 준비해 뒀지.",
+                "cn": "想吃些甜食吗？我可以为你准备一些。佐餐的酒？也有。"
+            },
+            "asset": "char_450_necras/CN_001"
+        },
+        {
+            "id": "char_450_necras_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "My servants relish in manipulating the fates of others. Some imagine themselves cunning conspirators, others mere wavering dreamers. Yet they remain equally cold when consuming lives not their own. And me? Heheh. It matters not whether I am puppet or puppetmaster… for the end of life lies with me.",
+                "jp": "私の臣下どもは他人の命運を操ることに夢中だ。中には独り善がりな陰謀家も、腑抜けた空想家もいるが、人の命を消費するとなると、どいつも冷血極まりない。私か？フフ、操る者だろうが操られる者だろうが、命の終点は私の元にある。",
+                "kr": "내 신하들은 타인의 운명을 조종하는 데 무수한 공을 들이고 있어. 개중엔 독단적인 음모가도, 무기력한 공상가도 있지만, 사람의 생명을 소비하는 상황이 되면 다들 냉혹하기 짝이 없어지지. 나? 후후. 조종하는 자든 조종당하는 자든 생명의 종점은 모두 내게 있어.",
+                "cn": "我的仆臣热衷操纵他人的命运。他们中有自以为是的阴谋家，也有意志脆弱的空想家。不过在消费他人的生命时，他们的冷漠如出一辙。而我？呵呵，无论操纵还是受人操纵，生命的终点都在我这里。"
+            },
+            "asset": "char_450_necras/CN_002"
+        },
+        {
+            "id": "char_450_necras_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "That Dr. Kal'tsit has a frightening glare. Whenever her eyes fall on me, I feel as if she plans to nail me to the landship deck. Fret not... during my brief stay here, I am but your Operator Necrass, and nothing more.",
+                "jp": "あのケルシーという医者、恐ろしく鋭い目だ。あれに睨まれると、デッキに釘付けにされそうな気分になる。まぁ心配することはない、ロドスに身を置くこの僅かな時間においては、私はお前のネクラス、いや、お前だけのネクラスだからな。",
+                "kr": "그 켈시라는 의사, 눈빛이 아주 매섭네. 나를 노려볼 때면 마치 갑판에 못 박힌 듯한 느낌이 들어. 뭐 걱정할 필욘 없어. 로도스 아일랜드에 적을 두는 이 짧은 시간 동안, 나는 너의 네크라스, 아니, 오직 너만의 네크라스니까.",
+                "cn": "那位凯尔希医生的眼神很是凶锐，每当她盯着我，我都觉得她是想把我钉死在甲板上。不过不用担心，身在罗德岛的这一点点时间里，我都是你的死芒，也只是你的死芒。"
+            },
+            "asset": "char_450_necras/CN_003"
+        },
+        {
+            "id": "char_450_necras_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "An ice-cold body, a dulled sense of touch; a pain inside that never rests, as if my own freezing flames pierce me through... But it is the pain I find so fascinating, for without it, I might forget I've already tamed death.",
+                "jp": "私の身体は冷たく、触覚は鈍い。身の内に絶えずうねり続ける痛み――さながら自分の炎に灼かれ、骨を刺すような冷たい痛み……業が深いことに、この痛みにこそ人は虜になるんだ。そうでなければ、私は己がすでに死を飼い馴らしたことすらも忘れてしまうのだ。",
+                "kr": "내 몸은 차갑고, 촉각은 무뎌. 몸 안에서 끊임없이 파도치는 고통은…… 마치 내 불꽃에 그을려, 뼈를 에는 듯한 차가운 아픔을 선사하지…… 공교롭게도 이런 고통이 사람을 사로잡는 법이지만. 그렇지 않았다면 나는 스스로가 죽음을 길들여왔다는 것조차 잊어버렸을 거야.",
+                "cn": "我的躯体冰冷，我的触觉迟钝，我体内翻涌着永不停歇、宛如被自己的火焰灼烧般冰冷刺骨的疼痛......偏偏就是这点疼痛令人着迷，不然，我甚至会忘记自己已经驯服了死亡。"
+            },
+            "asset": "char_450_necras/CN_004"
+        },
+        {
+            "id": "char_450_necras_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Rhodes Island is a beautiful place, where anyone can write their story, no matter who they may be. It's something of a utopia, built at the theoretical cost of countless lives. Illusions are ephemeral, however, so do try your best to keep it alive.",
+                "jp": "ロドスもまた美しいところだ。どのような者でも、ここで己の命を自由に書き記すことができる。まるで無数の血肉と引き換えに生み出された想像上の都市のようだな。幻像は儚く脆い、なるべく長持ちさせねばな。",
+                "kr": "로도스 아일랜드도 참 아름다운 곳이야. 어떤 자라도 이곳에선 자신의 생명을 자유롭게 써 내려갈 수 있으니까. 마치 무수한 피와 살을 대가로 탄생한 상상 속의 도시국가 같아. 환상은 덧없이 무르고 연약하니, 가능한 오래 유지해 보도록 해.",
+                "cn": "罗德岛也是个美丽的地方，无论什么样的人都可以在这里自由书写自己的生命，简直是付出了无数血肉代价才建立起来的想象中的城邦。幻象易逝，尽力去维持它吧。"
+            },
+            "asset": "char_450_necras/CN_005"
+        },
+        {
+            "id": "char_450_necras_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "I permit your silence—or perhaps, your evasiveness—toward my invitation, but this does not mean you can escape me. Once I grasp you, your soul will be mine. Time, life, and joy are all yours to squander, but remember this well: your end, too, lies with me.",
+                "jp": "お前が私の誘いに対して沈黙を保とうが話を逸らそうが赦そう。だが、決して私からは逃れられないと心得ておけ。お前は私の手中にある以上、その魂まで私のものだ。時間や生活、そして快楽は好きに貪ればいい。だがゆめゆめ忘れるな、お前の終点は、いつまでも私の元にある。",
+                "kr": "네가 내 부름에 침묵을 지키든 말을 돌리든 넘어가 줄게. 하지만 그게 내 곁에서 도망칠 수 있다는 건 아니야. 네가 내 손안에 있는 이상, 그 영혼조차 내 것이니까. 시간과 삶, 쾌락은 마음껏 탐해도 좋아. 다만 명심해. 네 종점은 언제까지나 내게 있다는 것을.",
+                "cn": "你对我的邀约保持沉默，或是顾左右而言他，我都允许，可这不意味着你能从我这抽身。我抓住你，你的魂灵就归我所有。时间、生活和快乐任你挥霍，但始终记好，你的终点也在我这。"
+            },
+            "asset": "char_450_necras/CN_006"
+        },
+        {
+            "id": "char_450_necras_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "What brings me here, you ask? You do. Or should I say, your willingness to explain the glimpse I saw... of a future where even death is gone? Whether you choose to serve me before that future comes matters little... I'll gladly keep on waiting.",
+                "jp": "どうして私がここにいるか、だと？お前がここにいるからだ。私も聞きたいな、お前は私が垣間見たあの……死そのものすらも亡くなった未来について説明してくれるのか？お前が先に私に臣従しても、その未来が先に訪れても私は構わないぞ。喜んでそれを待とう。",
+                "kr": "내가 왜 여기 있냐고? 네가 여기 있으니까. 나도 묻고 싶네. 내가 들여다본 그 죽음마저…… 사라진 미래에 대해서 설명해 줄 수 있을까? 네가 내게 굴복하는 게 먼저든, 그 미래가 오는 게 먼저든 나는 상관없어. 기꺼이 기다리도록 할게.",
+                "cn": "我为什么在这？因为你在这。还是说，你更愿意向我解释我瞥见的那一缕......连死亡本身都死去了的未来？无论你先向我臣服，还是那个未来先到，我都没有意见。我很乐意接着等下去。"
+            },
+            "asset": "char_450_necras/CN_007"
+        },
+        {
+            "id": "char_450_necras_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Loughshinny? Were she still the girl shivering under that snowy night, I would have simply gifted her a peaceful life until death reunited us both. A pity she ultimately learned to dance between blades and lies, and you surely understand how rare a truly endearing dance partner can be.",
+                "jp": "ラフシニー？もしあれが雪夜に震える子供のままであったなら、一生の安穏を贈ってやるさ。死が我々に団欒をもたらすまでな。だが残念ながら、あれも遂に刃と嘘の中でいかに踊るべきかを理解してしまった。そして愛おしさを感じるダンスパートナーがどれほど得難い存在か、お前が知らぬはずもないだろう。",
+                "kr": "로흐시니? 만약 그 아이가 여전히 눈보라 속에서 덜덜 떨던 그 모습이었더라면, 평생의 평안을 허락했을 거야. 죽음이 우리를 다시 만나게 할 때까지 말이야. 하지만 안타깝게도 그 아이 역시 칼날과 거짓 사이에서 춤추는 방법을 터득해 버렸더라고. 사랑스럽게까지 느껴지는 댄스 파트너가 얼마나 귀한 존재인지, 너도 잘 알 거라고 믿어.",
+                "cn": "拉芙希妮？若她仍是在雪夜里颤抖的孩子，我会随手送她一辈子平安顺遂，直到死亡让我们团聚。可惜，她终究明白了如何在刀锋和谎言中跳舞，而一个令人怜爱的好舞伴有多难得，你不会不知道。"
+            },
+            "asset": "char_450_necras/CN_008"
+        },
+        {
+            "id": "char_450_necras_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "What must I do to have you submit to me? Must I plead, or yell? Show you a side of me no one has ever seen, or grant you my dominion over death? All that you desire, I... refuse. First you must submit, and then we can discuss further.",
+                "jp": "どうすればお前は私に恭順する？懇願すればいいか、それとも声を上げて叱責してほしいか？誰にも見せたことのない一面を見せれば満足か、あるいは死を支配する力をお前の手に委ねれば足りるか？お前の欲するものであれば、すべてくれて……やるわけがないだろう。話をするなら、まずはお前が私のものとなってからだ。",
+                "kr": "어떻게 해야 네가 나를 따르게 할 수 있지? 간청하면 되나? 아니면 언성을 높여 질책해 주기를 바라? 누구에게도 보여준 적 없는 모습을 보여주면 만족할까? 아니면 죽음을 지배하는 힘을 너에게 넘겨줄까? 네가 무엇을 원하든…… 난 주지 않을 거야. 대화를 원하는 거라면, 먼저 네가 내 것이 된 다음에 해.",
+                "cn": "你怎样才愿意归顺于我？是想我恳求，还是呵斥？是要我展现从未示人的模样，还是要我将驾驭死亡的权柄交付于你？你想要的，我全都......拒绝。你首先要属于我，然后我们再说别的。"
+            },
+            "asset": "char_450_necras/CN_009"
+        },
+        {
+            "id": "char_450_necras_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "...A deep sleep is akin to death. I hope you manage to wake as usual, Erudite.",
+                "jp": "……深い眠りは死と同じだ。いつものように悠々と目覚められると良いな、学者。",
+                "kr": "……깊은 잠은 죽음이나 다름없어. 늘 그랬듯 유유히 눈을 뜨기를 바랄게, 학자.",
+                "cn": "......深沉的睡眠与死无异。希望你能像往常一样悠悠醒来，学者。"
+            },
+            "asset": "char_450_necras/CN_010"
+        },
+        {
+            "id": "char_450_necras_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Allowing me on board at last? Then, hand me the register. 'Necrass'—how about this codename, Erudite? Hm? Rhodes Island requires I go by a codename, so I've decided to fashion an appropriate one for you as well.",
+                "jp": "やっと譲歩する気になったか？では、登録用紙を渡せ。コードネームに「ネクラス」というのはどうだ、学者？ん？ロドスが私を示すコードネームを求めるというのなら、こちらも相応のやり方でお前を呼ぶだけだ。",
+                "kr": "드디어 양보할 생각이 들었어? 그러면 등록 서류를 넘겨. 코드네임으로 '네크라스'는 어때, 학자? 응? 로도스 아일랜드가 나를 지칭할 코드네임을 필요로 한다고 하니, 나도 그에 상응하는 방식으로 너를 부를 뿐이야.",
+                "cn": "你终于愿意让步了？那么，把登记表给我吧。“死芒”这个代号怎么样，学者？嗯？既然罗德岛需要一个代号来代表我，我自然也会用合适的方式称呼你。"
+            },
+            "asset": "char_450_necras/CN_011"
+        },
+        {
+            "id": "char_450_necras_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "How delightful. Another momentary escape from their predestined end.",
+                "jp": "喜ばしいことだな。あいつらはまた束の間、定められた終点から逃れた。",
+                "kr": "참 기쁜 일이지. 저 녀석들은 또 한 번 정해진 종점에서 빠져나간 모양이네.",
+                "cn": "真让人高兴，他们又一次短暂逃离了命定的终点。"
+            },
+            "asset": "char_450_necras/CN_012"
+        },
+        {
+            "id": "char_450_necras_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "A promotion. Does this imply I now have a formal position in your organization? Do you deem this appropriate, Erudite?",
+                "jp": "昇進。これで私はロドスの中で正式に地位を築いたというわけか？学者、それは正しい判断か？",
+                "kr": "승진이라, 이건 내가 로도스 아일랜드에서 정식으로 지위를 얻었다는 의미인 건가? 학자, 그게 과연 현명한 판단일까?",
+                "cn": "晋升，这是不是意味着我在贵司正式有了位置？学者，这合适吗？"
+            },
+            "asset": "char_450_necras/CN_013"
+        },
+        {
+            "id": "char_450_necras_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "This medal symbolizes your trust, yet death is an eternal betrayal of life. If you've thought it through, perhaps set me a deadline—I'll strive to live up to your expectations until then.",
+                "jp": "このメダルはお前の信頼を表している。だが死とは連綿と続く命への裏切りだ。覚悟が決まっているのであれば、期限を切ってくれ。その時が来るまで、なるべく期待に沿うようにしよう。",
+                "kr": "이 메달은 네 신뢰를 나타내는 거겠지. 하지만 죽음이란 생명에 대한 영원한 배신이야. 각오가 되었다면, 기한을 정해주는 게 어때? 그때까지는…… 가능한 네 기대에 부응해 줄 테니.",
+                "cn": "这枚勋章代表你的信任，可死亡即是对生命永恒的背叛。如果你想清楚了，不妨给我个期限，在那之前，我会尽量不辜负你的。"
+            },
+            "asset": "char_450_necras/CN_014"
+        },
+        {
+            "id": "char_450_necras_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Do you require me to conceal my face? No? A judicious judgment. The dead shall remember, while the living will forget.",
+                "jp": "この顔は隠すべきか？必要ない？賢明だな。死者は自ずから銘記し、生者は自ずから忘れるからな。",
+                "kr": "이 얼굴은 숨겨야 할까? 필요 없다고? 현명하네. 죽은 자라면 당연히 명심해야 하고, 산 자라면 자연히 잊을 테니까.",
+                "cn": "需要我遮掩自己的容貌吗？不必？明智的判断。死者自当铭记，生者自会忘却。"
+            },
+            "asset": "char_450_necras/CN_017"
+        },
+        {
+            "id": "char_450_necras_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Your operators might fail to keep up with my harsh demands.",
+                "jp": "お前のオペレーターが、私の苛酷さを受け入れられるとは限らんぞ。",
+                "kr": "너의 오퍼레이터들이 내 가혹함을 받아들일 수 있을까?",
+                "cn": "你的干员未必能容忍我的苛刻。"
+            },
+            "asset": "char_450_necras/CN_018"
+        },
+        {
+            "id": "char_450_necras_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Let us be off, to create many more corpses.",
+                "jp": "出発だ、より多くの骸の山を築きに行こうか。",
+                "kr": "출발이다. 더 많은 주검을 만들러 가자.",
+                "cn": "启程吧，去制造更多尸骸。"
+            },
+            "asset": "char_450_necras/CN_019"
+        },
+        {
+            "id": "char_450_necras_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Mortals grieve over death, but death has never mourned.",
+                "jp": "者どもは死を哀悼するが、死そのものが哀悼を示すことはない。",
+                "kr": "사람들은 죽음을 애도하지만, 죽음은 애도를 표하지 않아.",
+                "cn": "人们哀悼死亡，而死亡从不哀悼。"
+            },
+            "asset": "char_450_necras/CN_020"
+        },
+        {
+            "id": "char_450_necras_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "My flame holds no warmth.",
+                "jp": "我が炎に温度はない。",
+                "kr": "내 불꽃에는 온기 따윈 없다.",
+                "cn": "我的火没有温度。"
+            },
+            "asset": "char_450_necras/CN_021"
+        },
+        {
+            "id": "char_450_necras_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "I see it.",
+                "jp": "見えた。",
+                "kr": "보았다.",
+                "cn": "我看见了。"
+            },
+            "asset": "char_450_necras/CN_022"
+        },
+        {
+            "id": "char_450_necras_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "I accept your invitation.",
+                "jp": "その誘いに乗ってやろう。",
+                "kr": "그 제안, 받아주지.",
+                "cn": "我接受你的邀请。"
+            },
+            "asset": "char_450_necras/CN_023"
+        },
+        {
+            "id": "char_450_necras_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "So this is your judgment?",
+                "jp": "これがお前の判断か？",
+                "kr": "이게 네 판단인가?",
+                "cn": "这就是你的判断吗？"
+            },
+            "asset": "char_450_necras/CN_024"
+        },
+        {
+            "id": "char_450_necras_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "A touch of my finger shall crumble your wills.",
+                "jp": "指先で触れるだけで、その意志は泥人形のようにひしゃげるだろう。",
+                "kr": "손끝으로 살짝 건드리기만 해도, 너희의 의지는 진흙처럼 뭉개질 테지.",
+                "cn": "指尖轻轻一触，你们的意志就会溃散如泥。"
+            },
+            "asset": "char_450_necras/CN_025"
+        },
+        {
+            "id": "char_450_necras_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Life withers and dissipates, remnants left to hesitate.",
+                "jp": "命は枯れて消え、残滓のみが徘徊する。",
+                "kr": "생명은 시들어 사라지고, 잔해만이 남아 배회하리.",
+                "cn": "生命枯萎消散，徒留残渣徘徊。"
+            },
+            "asset": "char_450_necras/CN_026"
+        },
+        {
+            "id": "char_450_necras_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Bathed in fire, departed souls dance in a frenzy of fear.",
+                "jp": "烈火の中では、恐れし魂が踊り狂うだろう。",
+                "kr": "열화 속에서, 겁에 질린 영혼들이 미쳐 춤추는구나.",
+                "cn": "烈火中，亡魂会因恐惧狂舞不歇。"
+            },
+            "asset": "char_450_necras/CN_027"
+        },
+        {
+            "id": "char_450_necras_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "The clamor of the dead peters out into oblivion.",
+                "jp": "死者の喧騒にある終わりの名を忘却と言う。",
+                "kr": "죽은 자의 소란에는 끝이 있고, 그 끝의 이름은 망각이다.",
+                "cn": "死者的喧嚣终有尽头，那尽头的名字叫做忘却。"
+            },
+            "asset": "char_450_necras/CN_028"
+        },
+        {
+            "id": "char_450_necras_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "You and your tactics are equally lethal, Erudite.",
+                "jp": "お前はお前の戦術のように致命的だな、学者。",
+                "kr": "너는 네 전술만큼이나 치명적이네, 학자.",
+                "cn": "你和你的战术一样致命，学者。"
+            },
+            "asset": "char_450_necras/CN_029"
+        },
+        {
+            "id": "char_450_necras_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Why repress yourself? I see a desire for destruction in you, and you should let it all out... with no reservations.",
+                "jp": "己を抑える必要がどこにある？お前に毀滅の欲望があるように見える。何も我慢することなく、全てさらけ出せばよいだろう。",
+                "kr": "스스로를 억누를 필요가 있을까? 너에게서 파멸의 욕망을 보았어. 참지 말고 전부 드러내도 돼.",
+                "cn": "为什么要压抑自己呢？我在你身上看见了毁灭的欲望，你理应将其倾泻出去，毫无保留。"
+            },
+            "asset": "char_450_necras/CN_030"
+        },
+        {
+            "id": "char_450_necras_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Life is inherently flawed, so let's not grieve too much over it.",
+                "jp": "そう傷心するな、命は元より不完全なものだ。",
+                "kr": "너무 상심하지는 마. 생명은 원래 불완전한 것이니까.",
+                "cn": "别太伤心，生命就是有缺陷的。"
+            },
+            "asset": "char_450_necras/CN_031"
+        },
+        {
+            "id": "char_450_necras_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Should I take them all away? Good, you need only pay a tiny price... I'm sure you can afford it.",
+                "jp": "あいつらを全て連れて行ってほしいのか？お前が少々の対価を差し出すなら……もちろん、お前なら払えるさ。",
+                "kr": "저들을 모두 데려가고 싶은 건가? 네가 작은 대가를 치른다면…… 물론, 너라면 줄 수 있는 거야.",
+                "cn": "要我把他们全都带走吗？只要你向我付出一点点代价......你当然付得起。"
+            },
+            "asset": "char_450_necras/CN_032"
+        },
+        {
+            "id": "char_450_necras_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Ah. A warm place.",
+                "jp": "ああ、温かい住まいだ。",
+                "kr": "아아, 따뜻한 거처구나.",
+                "cn": "啊，很温和的住处。"
+            },
+            "asset": "char_450_necras/CN_033"
+        },
+        {
+            "id": "char_450_necras_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "What do you want?",
+                "jp": "何を欲しているのだ？",
+                "kr": "무얼 바라는 거지?",
+                "cn": "你想要什么？"
+            },
+            "asset": "char_450_necras/CN_034"
+        },
+        {
+            "id": "char_450_necras_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "You may hold my hand, if you can bear the icy burn.",
+                "jp": "この冷たい灼痛に耐えることができるなら、いつまで手を握っていても構わない。",
+                "kr": "이 차갑게 타오르는 고통을 견딜 수 있다면, 언제까지라도 내 손을 잡고 있어도 괜찮아.",
+                "cn": "忍住这点冰冷的灼痛，你尽可以一直握着我的手。"
+            },
+            "asset": "char_450_necras/CN_036"
+        },
+        {
+            "id": "char_450_necras_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_450_necras/CN_037"
+        },
+        {
+            "id": "char_450_necras_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "A new year ought to be welcomed with fire; burn away the past to build again upon the remains, and the cycle continues anew. That being said, I do quite fancy this tiny flame before me as well. Roast something for me, accomplish what my flames cannot.",
+                "jp": "新たな年には当然ながら炎があるべきだ。過去のすべてを焼き尽くし、その焼け跡の上に新たな事象を築き、そして繰り返していく。とは言え、目の前に燃えるこの小さな炎も、私は結構気に入っているのだ。何か焼いてくれ。私の炎じゃできないことだからな。",
+                "kr": "새로운 한 해에는 당연히 불꽃이 있어야지. 과거의 모든 것을 태워버리고, 그 잿더미 위에 새로운 것들을 쌓아, 그렇게 다시 반복에 반복을 기하는 거야. 하지만 말이야, 눈앞에서 타오르는 이 작은 불꽃도 꽤 마음에 드네. 뭐라도 구워줄래? 내 불꽃으로는 할 수 없는 일이라서.",
+                "cn": "新年理当有火。用火把过去的一切全部烧掉，在这废墟上建立起新的事物，然后往复循环。虽说如此，面前这团小小的火，我也很喜欢。随便帮我烤些什么吧，做些我的火焰做不到的事情。"
+            },
+            "asset": "char_450_necras/CN_038"
+        },
+        {
+            "id": "char_450_necras_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Are you happy to see me, Erudite?",
+                "jp": "私に会えて嬉しいか？学者。",
+                "kr": "나를 만나서 기쁜가? 학자.",
+                "cn": "见到我高兴吗，学者？"
+            },
+            "asset": "char_450_necras/CN_042"
+        },
+        {
+            "id": "char_450_necras_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Should I prepare a bouquet of flowers for you? For what reason, you ask? I simply want to receive one in return, and watch your flowers crumble into ashes between my fingers, that's all.",
+                "jp": "花束を用意してやろうか？何故、だと？理由などない、返礼が欲しいだけだ。お前から贈られた花束が灰となり私の指の間から零れる、その様が見たいのだ。",
+                "kr": "꽃다발이라도 준비해 줄까? 왜냐고? 그냥, 그저 네게서 보답을 받고 싶을 뿐이야. 네가 준 꽃다발이 재가 되어 내 손가락 사이로 흘러내리는…… 그런 걸 보고 싶거든.",
+                "cn": "需要我为你准备一束花吗？为什么？不为什么，只是想收到你的回礼，看着你送我的花束在我指间化成灰烬，仅此而已。"
+            },
+            "asset": "char_450_necras/CN_043"
+        },
+        {
+            "id": "char_450_necras_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Loughshinny aside, Rhodes Island still bears scant traces of Dublinn... don't be nervous. The dream has been realized, so Dublinn should die, but death does not mean to vanish without reason. I shall allow it—let this gravestone of Dublinn remain at Rhodes Island as-is.",
+                "jp": "ラフシニー以外にも、ロドスにはいくらかダブリンの残痕がある……緊張するな。あの理想がもう実現したのであれば、ダブリンは死ぬのが当然だ。だが死は存在の消滅とは異なる。このままダブリンの墓碑をロドスに残しておこう。私が許す。",
+                "kr": "로흐시니 말고도, 로도스 아일랜드에는 더블린의 흔적이 남아있네…… 긴장하지 마. 이상은 이미 실현되었으니, 더블린이 죽는 건 당연한 거니까. 허나 죽음이 존재의 소멸을 의미하는 건 아니야. 더블린의 묘비를 이대로 로도스 아일랜드에 남겨두어도 좋아. 내가 허락할게.",
+                "cn": "除了拉芙希妮，罗德岛上还留着些许属于深池的残迹......别紧张。那个梦想既然已经实现，深池就理应死去，但死亡并不意味着凭空消失。就这样把深池的墓碑留在罗德岛上吧，我允许了。"
+            },
+            "asset": "char_450_necras/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Christina Bennington",
+            "global": "Christina Bennington"
+        },
+        "cn": {
+            "native": "浮梦若薇",
+            "global": "Tracy"
+        },
+        "jp": {
+            "native": "能登麻美子",
+            "global": "Mamiko Noto"
+        },
+        "kr": {
+            "native": "유보라",
+            "global": "Yoo Bo-ra"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}
