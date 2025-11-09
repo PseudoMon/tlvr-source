@@ -618,6 +618,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Molly Jenkins",
+            "global": "Molly Jenkins"
+        },
         "cn": {
             "native": "木雅瑞林",
             "global": "木雅瑞林"
@@ -632,6 +636,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

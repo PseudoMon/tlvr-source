@@ -618,6 +618,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Summer Natsuki",
+            "global": "Summer Natsuki"
+        },
         "cn": {
             "native": "绿绮",
             "global": "Ruth"
@@ -632,6 +636,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

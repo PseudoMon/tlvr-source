@@ -17,7 +17,7 @@
                 "cn": "任命助理"
             },
             "text": {
-                "en": "You pulled an all-nighter, and you're still not done? Sheesh, what should I do with you...? How much do you have left? I'll help. You should get some rest. Work on your time management next time.",
+                "en": "You pulled an all-nighter, and you're still not done? Sheesh, what should I do with you...? How much do you have left? I'll help. You should get some rest. And work on your time management.",
                 "jp": "あんなに夜通し仕事していたのにまだ終わらないの？仕方ないね……残りはどれくらい？私が処理するから、君は先に休んでおいで。これからは時間配分に気をつけるんだよ。",
                 "kr": "그렇게 밤새도록 일했는데 아직도 안 끝난 거야? 어쩔 수 없네…… 얼마나 남았어? 내가 처리할 테니까 넌 먼저 쉬고 있어. 앞으로는 시간 배분에 주의하라고.",
                 "cn": "明明彻夜了工作却还是做不完？真没办法......还剩多少，我帮你处理，博士你就先休息一会吧。下次一定要注意时间分配啊。"
@@ -49,7 +49,7 @@
                 "cn": "交谈2"
             },
             "text": {
-                "en": "Count Hohenlohe, some call him the Hyacinth Count. The way I see it, he's quite a handful with that personality of his. I'm serving as attendant to this Leithanian noble family because of some trouble. What trouble, you ask? Hm... Let's keep this a secret for the time being.",
+                "en": "Count Hohenlohe, some call him the Hyacinth Count. The way I see it, he's quite a handful with that personality of his. I'm serving as huscarl to this Leithanian noble, on account of some trouble. What trouble, you ask? Hm... Let's keep this a secret for the time being.",
                 "jp": "ホーエンローエ伯爵、あるいはヒヤシンス伯爵と呼ぶ人もいるけど、私が見る限りあの人は少しばかり面倒な性格をしているね。ちょっとしたワケがあって、私はいまこのリターニア貴族の護衛をしているんだよ。そのワケを詳しく知りたい？うーん……ひとまずは秘密かな。",
                 "kr": "호엔로에 백작, 또는 히아신스 백작이라고 부르는 사람도 있는데, 내가 봤을 때 그 사람은 조금 성가신 성격이더라고. 어떠다 보니 사정이 좀 생겨서 지금 난 그 라이타니엔 귀족의 호위를 맡고 있지. 그 사정이 뭔지 자세히 알고 싶다고? 음…… 일단은 비밀로 해야 할 것 같은데.",
                 "cn": "霍恩洛厄伯爵，也有人叫他风信子伯爵，在我看来是个性格有点麻烦的家伙。我因为一些原因，目前担任这位莱塔尼亚贵族的侍卫。具体是什么原因？嗯......这个暂时保密哦。"
@@ -65,7 +65,7 @@
                 "cn": "交谈3"
             },
             "text": {
-                "en": "That little squirt... Her codename here is uh... Beeswax? Looks like she tripped in the hallway this morning. Can she really cut it? She sure knows how to keep her sister worrying.",
+                "en": "That little one... Her codename here is uh... Beeswax? Looks like she tripped in the hallway again this morning. Can she really cut it? She sure knows how to keep her sister worrying.",
                 "jp": "うちのおちびちゃん、ええとロドスのコードネームだと、ビーズワクスかな？あの子、今朝も廊下で転んでたけど、あれで本当に大丈夫なのかな。はぁ、お姉ちゃんは心配だよ。",
                 "kr": "우리 꼬맹이, 그러니까…… 로도스 아일랜드의 코드네임으로는 비즈왁스였나? 그 애, 오늘 아침에도 복도에서 넘어졌던데, 저래서 정말 괜찮을까? 휴, 언니 걱정이나 시키고.",
                 "cn": "我家的小丫头，在这里的代号是叫......蜜蜡？这孩子，早上又在走廊里摔倒了，这样真的没问题吗？哎，真让人担心。"
@@ -129,7 +129,7 @@
                 "cn": "信赖提升后交谈2"
             },
             "text": {
-                "en": "I'm sure the nobles think of me as an odd thorn in their side. No matter. I don't mind. Though I'd rather keep all this trouble a secret from Beeswax. It's too dangerous... Well, now that I mention it, I can't quite stop worrying about you, either.",
+                "en": "I'm sure the nobles think of me as an odd thorn in their side. No matter. I don't mind. Though I'd rather keep all this trouble a secret from Beeswax. It's too dangerous... Now that I mention it, I can't quite stop worrying about you, either.",
                 "jp": "あの貴族たちの目には、私が相当厄介な変わり者に映っているだろうね。まあ、別に気にすることはない。ただ、こういう面倒事をビーズワクス、あの子に伝えるつもりはないんだ。危なすぎるから……いや、それでいうとドクター、君も放っておけないところがあるよね。",
                 "kr": "그 귀족들 눈에는 내가 어지간히 성가신 괴짜로 보이겠지. 딱히 신경 쓰진 않아. 그래도 이번 번거로움을 비즈왁스, 그 아이에게까지 전해줄 생각은 없어. 너무 위험하니까…… 아, 그러고 보니 박사, 너도 내버려 둘 수 없는 구석이 있긴 하지.",
                 "cn": "在那些贵族眼里，我应该是相当刺眼的异类吧？不过无所谓，我不在乎。只是，这些麻烦事我不打算告诉蜜蜡那孩子，这太危险......唉，这样说来，其实博士你也让人有点放心不下呢。"
@@ -145,7 +145,7 @@
                 "cn": "信赖提升后交谈3"
             },
             "text": {
-                "en": "If it's at all possible, I'd rather stay out of the nobles' bickering. Do you know how much I have to worry about each and every day with all the chaperone work and missions I have? Maybe I should talk the count into letting me hop over here full time. I'm counting on you to help me when the time comes, Doctor.",
+                "en": "If it's at all possible, I'd rather stay out of the nobles' bickering. Do you know how much I have to worry about each and every day with all the chaperone work and missions on my plate? Maybe I should talk the count into letting me hop over here full time. I'm relying on you to keep me under your wing when the time comes, Doctor.",
                 "jp": "できることなら、お貴族様連中のいがみ合いになんて、関わりたくもないよ。護衛だ任務だって、私が一日にどれだけのことをやらなきゃいけないか知ってる？いっそ伯爵を説得してロドスに鞍替えしてこようかな。その時はよろしくね？ドクター。",
                 "kr": "할 수만 있다면 귀족님들 기싸움에는 엮이고 싶지도 않아. 호위니, 임무니, 내가 하루에 얼마나 많은 일을 해야 하는 줄 알아? 차라리 백작을 설득해서 로도스 아일랜드로 아예 이직해 버릴까? 그땐 잘 부탁해, 박사.",
                 "cn": "如果可以，我真的懒得管贵族老爷们的勾心斗角。又要当护卫又要出任务，你知道我一天要操心多少事吗？我干脆说服伯爵，就这么跳槽到这来算了。到时可要托你照顾咯，博士？"
@@ -177,7 +177,7 @@
                 "cn": "干员报到"
             },
             "text": {
-                "en": "Hello, you must be the Doctor? I'm Carnelian, attendant to Count Hohenlohe... Oh, I'm just a normal operator here at Rhodes Island. Watch what you say around my sister, okay?",
+                "en": "Hello, you must be the Doctor? I'm Carnelian, huscarl to Count Hohenlohe... Oh, I'm just a normal operator here at Rhodes Island. Kindly refrain from frivolous conversation with my little sister, won't you?",
                 "jp": "こんにちは、君がドクターだよね？私はカーネリアン。ホーエンローエ伯爵の護衛を……ああ、ロドスではただの一般オペレーターだからね？うちの妹に余計なことを言わないように頼むよ。いいね？",
                 "kr": "안녕, 네가 박사지? 난 카넬리안이라고 해. 호엔로에 백작의 호위를…… 아, 로도스 아일랜드에서는 평범한 일반 오퍼레이터거든? 내 동생한테 괜한 얘기는 하지 말아 줬으면 좋겠어. 알았지?",
                 "cn": "你好，你就是博士吧？我是卡涅利安，霍恩洛厄伯爵的侍卫......啊，在罗德岛我就只是普通干员而已，还请不要对我妹妹说些多余的事，好吗？"
@@ -193,7 +193,7 @@
                 "cn": "观看作战记录"
             },
             "text": {
-                "en": "I see. This is worth studying.",
+                "en": "I see. These are tactics worth studying.",
                 "jp": "なるほど、学ぶ価値のある戦術だね。",
                 "kr": "그렇구나, 배울 가치가 있는 전술이네.",
                 "cn": "很值得学习的战术。"
@@ -209,7 +209,7 @@
                 "cn": "精英化晋升1"
             },
             "text": {
-                "en": "There is no need, but I appreciate your sentiment. Thank you.",
+                "en": "There is no need, but I appreciate your kind gesture. Thank you.",
                 "jp": "あんまり必要ないけど、君の気持ちは嬉しいよ、ありがとう。",
                 "kr": "별로 필요하진 않지만 네 마음은 기쁘게 받을게. 고마워.",
                 "cn": "虽然没什么必要，但你的心意，我很感谢。"
@@ -225,7 +225,7 @@
                 "cn": "精英化晋升2"
             },
             "text": {
-                "en": "You see, there's a huge number of people and things that I can't stop worrying about, and that number is growing by the day. It's been a while since I was able to do as I please, but since you're up for it... Well, let's put on a show.",
+                "en": "You see, I find myself worrying about a vast number of people and things, and that number is growing by the day. It's been a while since I was able to do as I pleased, but since you're up for it... Let's put on a show.",
                 "jp": "私はね、大事な人や、抱えるものがどんどん増えていってるから、もう長いこと何も気にせずに、好きに動いたことがないんだ。君がいいって言うなら、そうだね……一緒に思いっきり暴れようか。",
                 "kr": "난 있잖아, 소중한 사람이나, 짊어진 게 점점 많아지고 있어서, 꽤 오랫동안 아무것도 신경 쓰지 않고 내 마음대로 움직여 본 적이 없어. 너만 괜찮다면, 그래…… 같이 마음껏 날뛰어 볼까?",
                 "cn": "我呢，因为在意的人、放不下的东西都越来越多，已经很久没能放开手脚做事了。既然你不介意，那就......让我们一起大闹一场吧。"
@@ -257,7 +257,7 @@
                 "cn": "任命队长"
             },
             "text": {
-                "en": "Don't worry. I'll bring everyone back.",
+                "en": "Don't worry. I'll bring everyone back, safe and sound.",
                 "jp": "安心して、全員ちゃんと連れて帰るから。",
                 "kr": "안심해. 모두 빠짐없이 데리고 돌아갈 테니까.",
                 "cn": "放心，我会把所有人都好好带回来的。"
@@ -385,7 +385,7 @@
                 "cn": "作战中2"
             },
             "text": {
-                "en": "Run them down and beat them to a mash!",
+                "en": "Crush them, beat them to a pulp!",
                 "jp": "敵を轢き殺せ。奴らの肉をすり潰せ。",
                 "kr": "적을 치어 죽여라, 녀석들의 살을 으깨버려라.",
                 "cn": "碾死他们。揉碎他们的肉。"
@@ -401,7 +401,7 @@
                 "cn": "作战中3"
             },
             "text": {
-                "en": "Careful! Don't let me tear you to shreds so quickly!",
+                "en": "Careful! Don't get torn to shreds so quickly!",
                 "jp": "気をつけなよ？そう早く切り裂かれないようにね。",
                 "kr": "조심하라고, 너무 빨리 찢어발겨지지 않게 말이야.",
                 "cn": "小心，别这么快就被我撕碎。"
@@ -417,7 +417,7 @@
                 "cn": "作战中4"
             },
             "text": {
-                "en": "My oh my, what a pitiful sight. Why are you covered in blood all over?",
+                "en": "My oh my, what a pitiful sight. Why are you covered in blood?",
                 "jp": "あ～あ、可哀想だね、どうしてそんなに全身血だらけなの？",
                 "kr": "아~ 불쌍해라. 어쩌다 온몸이 그렇게 피투성이가 됐어?",
                 "cn": "啊呀，真可怜，你怎么满身都是血？"
@@ -449,7 +449,7 @@
                 "cn": "3星结束行动"
             },
             "text": {
-                "en": "Okay, that concludes the mission, and right on time, too... Are you hurt, Doctor?",
+                "en": "Okay, mission complete, and right on time, too... Are you hurt, Doctor?",
                 "jp": "よし、任務完了。予定時間通り。……怪我はしてない？ドクター。",
                 "kr": "좋아, 임무 완료. 예정 시간대로…… 다친 데는 없어? 박사.",
                 "cn": "好了，任务结束，时间正好......没受伤吧，博士？"
@@ -561,7 +561,7 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "My horns look especially good today? Thank you. It was my sister who insisted on giving me horn care. I might as well assume that such things bring good luck for the new year. Having experienced a variety of customs, people's feelings when praying for new beginnings are always similar.",
+                "en": "My horns look especially good today? Thank you. It was my little sister who insisted on giving me a cornicure. I might as well assume that such things bring good luck for the new year. Having experienced a variety of customs, people's feelings when praying for new beginnings are always similar.",
                 "jp": "今日は一段と角が綺麗だって？お褒めに預かり嬉しいよ。うちのおちびちゃんが手入れをするって言って譲らなくてね。まあ、これで新しい一年に幸運が訪れると信じることにするさ。これまで各地で様々な風習を見てきたけど、人々が新しいことの始まりに願いを込めたいと思うのはどこも同じだ。",
                 "kr": "내 뿔이 오늘 유독 더 예뻐 보인다고? 고마워. 우리 꼬맹이가 오늘 꼭 손질해야 한다고 고집을 부려서 관리를 좀 했지. 이걸로 새로운 한 해에 행운이 찾아오리라 믿어보지 뭐. 그동안 다양한 곳에서 여러 풍습을 살펴봤지만, 새로운 시작에 새로운 소원을 비는 건 어디나 마찬가지인 것 같더군. 박사도 새해 복 많이 받아.",
                 "cn": "我的角今天看起来格外好看？谢谢。是我妹妹非要给我做角部护理的。我姑且相信这样做可以给新的一年带来好运吧。见识过了各种各样的习俗，人们为新的开始祈愿的心情总是相似的。"
@@ -593,7 +593,7 @@
                 "cn": "生日"
             },
             "text": {
-                "en": "Happy birthday, Doctor. I am not one to play the sycophant on such occasions, but I'm willing to offer you a gift as a friend. This gramophone is for you, and when next I travel between Rhodes Island and Leithanien, I'll be sure to back some records.",
+                "en": "Happy birthday, Doctor. I am not one to play the sycophant on such occasions, but I'm willing to offer you a gift as a friend. This gramophone is for you, and when next I travel between Rhodes Island and Leithanien, I'll be sure to bring back some records.",
                 "jp": "生日快乐，博士。我厌恶在这种场合向上司谄媚，但我愿意作为朋友向你送出礼物。这个唱片机送给你，以后在罗德岛与莱塔尼亚之间往返时，我会经常带一些唱片回来的。",
                 "kr": "생일 축하해, 박사. 이런 날 상사에게 아첨하는 건 딱 질색이지만, 이건 친구로서 선물하는 거니 받아줘. 턴테이블이야. 앞으로 라이타니엔에서 로도스 아일랜드로 복귀할 때마다 레코드판을 선물로 가져다줄게.",
                 "cn": "生日快乐，博士。我厌恶在这种场合向上司谄媚，但我愿意作为朋友向你送出礼物。这个唱片机送给你，以后在罗德岛与莱塔尼亚之间往返时，我会经常带一些唱片回来的。"

@@ -17,7 +17,7 @@
                 "cn": "任命助理"
             },
             "text": {
-                "en": "Doctor, ready to get to work? I won't take no for an answer! C'mon! 3, 2, 1, start!",
+                "en": "Doctor, are you ready to work? I won't take no for an answer. C'mon. 3, 2, 1, start.",
                 "jp": "ドクター、仕事の準備はいい？まだとは言わせないからね。よし、三、二、一、スタート！",
                 "kr": "박사, 일할 준비 다 됐어? 아직 안 됐다고 하기만 해봐. 좋아, 그럼……  3, 2, 1…… 시작!",
                 "cn": "博士，准备好工作了吗，不许说没好哦。来，3，2，1，开工！"
@@ -33,7 +33,7 @@
                 "cn": "交谈1"
             },
             "text": {
-                "en": "Nails are part of a girl's appeal. Gotta take care of them properly.",
+                "en": "Nails are part of a girl's appeal. Gotta take good care of them.",
                 "jp": "ネイルは女の子のチャームポイントの一つなんだから、ちゃんとケアしないとね。",
                 "kr": "네일은 여자들의 매력 포인트 중 하나니까 제대로 관리해야 해.",
                 "cn": "指甲可是女孩子的魅力点之一，不好好保养怎么行。"
@@ -49,7 +49,7 @@
                 "cn": "交谈2"
             },
             "text": {
-                "en": "Why do I call myself Utage? Well, it's not that complicated. I just want to be happy as if we were throwing a party every night. As long as I'm in a good mood, everything else is gonna be okay.",
+                "en": "Why do I call myself Utage? Well, it's not that complicated. It means 'Party' in Higashinese, and I just wanna live my life like it's a party every night. If I'm in a good mood, everything else is gonna be okay.",
                 "jp": "ん？どうして「ウタゲ」なのかって？別に難しい理由はないよ、毎日宴みたいに楽しく過ごせたらなーって。心が晴れやかなら、何事もぜーんぶうまくいくんだから。",
                 "kr": "응? 왜 파티라는 뜻의 '우타게'냐고? 딱히 복잡한 이유는 없어. 맨날 파티하는 것처럼, 즐겁게 지내면 좋겠다~ 싶었거든. 늘 기쁜 마음으로 지내면, 무슨 일을 하든 다~ 잘 풀린다잖아.",
                 "cn": "为什么会叫宴？没什么复杂的原因，就想天天像开宴会一样开心。只要心情好了，什么都会好起来。"
@@ -65,7 +65,7 @@
                 "cn": "交谈3"
             },
             "text": {
-                "en": "You already saw it, Doctor? Well, that's too bad... C'mon, let's use up this two-person discount coupon.",
+                "en": "You already saw it, Doctor? Well, that's too bad. Now the only way out is for you… is to come with me and use this two-for-one coupon.",
                 "jp": "ドクターに見られちゃったかー。しょうがない、じゃあ――このペア優待券、使うから付き合って。",
                 "kr": "박사한테 들켰나~ 별수 없네. 자…… 이 2인 할인쿠폰 쓰러 가자.",
                 "cn": "你看到了啊，博士。那就没办法了——陪我一起去把这张双人优惠券用掉吧。"
@@ -81,7 +81,7 @@
                 "cn": "晋升后交谈1"
             },
             "text": {
-                "en": "When I contracted Oripathy and was to be sent here, my mother was afraid I'd be bullied, and gave me the family heirloom, Shishiou, to defend myself with. Didn't find any bullies, but I did manage to cut some pretty nasty folks. Doctor, you really know how to appeal to people.",
+                "en": "When I got Oripathy and started talking about coming here, my mom was worried about bullying. So she gave me the family heirloom, Shishiou, to defend myself. Didn't find any bullies, but I did manage to cut up some pretty bad guys. Doctor, you really know how to treat a girl.",
                 "jp": "鉱石病に感染しちゃってここに送られてきた時、いじめられないか心配だって母さんがこの家宝の「シシオウ」をくれてさ。結局いじめっ子はいなかったけど、悪い奴はザクザクいったね。ドクターってさ、結構人使い荒いよね。",
                 "kr": "광석병에 감염되어 여기로 보내졌을 때, 괴롭힘당할까 봐 걱정이라면서 엄마가 이 가보, '시시오'를 나한테 줬어. 결국 괴롭히는 사람은 없었지만, 나쁜 녀석은 서걱서걱해버렸지. 박사, 솔직히 박사 좀, 사람 부려 먹는 편인 거 알지?",
                 "cn": "患上了矿石病被送到这里来，妈妈怕我受欺负才把家传的狮子王送给我防身。结果嘛，欺负我的人没砍到，坏人倒是割了一茬又一茬。博士你呀，还真是挺会使唤人的。"
@@ -97,7 +97,7 @@
                 "cn": "晋升后交谈2"
             },
             "text": {
-                "en": "Everyone here gets pretty scary when they get serious. I'm as scary as six people combined? Am I really that terrifying...?",
+                "en": "The people here turn all scary when they get serious. I'm as scary as six of them put together? Really…? Am I that terrifying?",
                 "jp": "どんな人でも、本気出す時はわりと怖い雰囲気になるよね。え、あたしの怖さは一人前どころか六人前？そんなに？ウソでしょ……",
                 "kr": "어떤 사람이든 제대로 할 때는 의외로 무서운 분위기가 되잖아. 뭐? 내 무서움은 한 사람분이 아니라 여섯 명 분이라고? 그렇게나? 에이~ 너무 갔다 그건.",
                 "cn": "无论是谁，认真做事的时候都会变得很可怕吧。我是六人份的可怕？呃，有这么吓人吗......"
@@ -113,7 +113,7 @@
                 "cn": "信赖提升后交谈1"
             },
             "text": {
-                "en": "Help me pick up ten boxes of limited-edition cookie sticks tomorrow? Just take the money out of my account. Huh? Preorders are already sold out? Then... c'mon, you've gotta think of a way, Doctor! Please!",
+                "en": "Doc. Help me pick up ten boxes of limited-edition cookie sticks tomorrow? Just give me an advance on my pay. What? I've advanced the whole thing already? Aww c'mon, there's gotta be something you can do. Please, Doctor!",
                 "jp": "ねぇ、明日限定発売のスティッククッキーを10箱お願い。お金は給料から引いといてくれればいいから。えー？もう残高ゼロ？じゃさ……とにかくお願い！ドクターならなんとかできるでしょー！",
                 "kr": "있잖아, 내일 한정 발매하는 스틱 쿠키 좀 열 상자 부탁할게. 돈은 월급에서 까면 되니까…… 뭐어~? 이미 잔고가 텅텅 비었다고? 그럼…… 아~ 그냥 좀 해줘~ 박사라면 어떻게든 할 수 있잖아~!",
                 "cn": "明天帮我买十盒限量饼干棒吧，钱从我工资里预支就好。啊？已经预支完了？那......总之，拜托你了，博士，你一定能想到办法的！"
@@ -129,7 +129,7 @@
                 "cn": "信赖提升后交谈2"
             },
             "text": {
-                "en": "Doctor, you're razor-sharp some of the time and dull as a piece of wood at others. I don't get why. Oh, I see, right out of 'Flirting Guidebook,' huh? I'd expect nothing less from you, Doctor.",
+                "en": "Doctor, you're razor-sharp some of the time and dull as a block at others. I don't get why. Oh, I see, right out of that 'How to Talk to Girls' book, huh? I'd expect nothing less from you, Doctor.",
                 "jp": "ドクターってば、鋭いのか鈍いのかよくわかんないよね。なんでだろ？あーわかった、あれでしょ、『ガールズトーク大全』とか読んでたんじゃない？さっすがドクター～。",
                 "kr": "박사는 말이야, 예민한 건지 둔한 건지 잘 모르겠단 말이지…… 왜 그럴까…… 아~ 알았다. 그거네…… 《걸즈 토크 대전》 같은 거 따로 읽은 적 있지? 역시 박사라니까~",
                 "cn": "博士有时候敏锐得要命，有时候又像块木头一样，到底是为什么呢？啊，我懂了，是那个吧，《闺蜜悄悄话指南》之类的，对吧？不愧是博士呢。"
@@ -145,7 +145,7 @@
                 "cn": "信赖提升后交谈3"
             },
             "text": {
-                "en": "It's not good to rely too much on any single person, but I'll make an exception for... Eek, Doctor! Oh it's nothing, I was just rambling to myself! D-d-did you need anything from me?",
+                "en": "It's not good to rely too much on any one person, but maybe the Doctor is an... Eek, Doctor! Oh it's nothing, I was just rambling to myself! D-D-Did you need something from me?",
                 "jp": "誰かに頼りすぎるのはダメなんだよね。でもドクターになら……うわっ、ドクターいたの！？い、いやなんでもないよ、適当に考えて適当につぶやいてみただけだって。そ、それであたしになんか用？",
                 "kr": "남한테 너무 기대면 안 좋은데…… 근데 박사한테 라면…… 으앗 박사, 있었어?! 아, 아니 아무것도 아니야, 그냥 뭐 좀 적당히 생각하다가 적당히 중얼거려 본 것뿐이라니까. 그, 근데 난 왜 찾아 온 거야?",
                 "cn": "太过依赖一个人不是件好事呢，不过，如果是博士的话......啊博士！不没什么我只是在胡思乱想，您您您找我有什么事吗！"
@@ -177,7 +177,7 @@
                 "cn": "干员报到"
             },
             "text": {
-                "en": "Hey, Doctor. I'm the Operator who just joined recently, Utage. My interests are... Oh, I don't need to go into the details? In that case, I look forward to working with you.",
+                "en": "Hey, Doctor. I'm your new operator, Utage. My hobbies are... Oh, I don't need to go into the details? Alright then, I look forward to working with you.",
                 "jp": "こんちはードクター、あたしはウタゲ、オペレーターにはまだ成り立てほやほやだけどね。趣味は……え、そこまで言わなくていい？そっか、じゃあ今日からよろしくねー。",
                 "kr": "하이~ 박사, 난 우타게야. 이제 막 오퍼레이터가 된 따끈따끈한 신입이지만, 취미는…… 어? 거기까진 말하지 않아도 된다고? 아 그래…… 알았어, 오늘부터 잘 부탁해~",
                 "cn": "你好呀博士，我是刚当上干员没多久的宴，兴趣是......嗯，不用那么详细吗？那，以后就请您多多关照了哦。"
@@ -209,7 +209,7 @@
                 "cn": "精英化晋升1"
             },
             "text": {
-                "en": "Do I get to do less work if I get promoted? No dice? Oh well...",
+                "en": "Do I get work less after I get promoted? No dice? Oh well…",
                 "jp": "昇進できたんだし、仕事減らしてもいいかな？ダメ？そっか……",
                 "kr": "승진도 했으니까 일을 줄여도 되겠지? 안된다고? 아 그래……",
                 "cn": "升职了的话，能不能少干些活呀。唉，不行吗，好吧......"
@@ -225,7 +225,7 @@
                 "cn": "精英化晋升2"
             },
             "text": {
-                "en": "It's time to move out. Let's crush those nasty folks~",
+                "en": "I guess it's time for me to get serious. Alright, let's crush the bad guys!",
                 "jp": "そろそろ本気出しますかぁ。嫌な奴らぜ～んぶ、潰しに行こ～。",
                 "kr": "슬슬 실력 발휘 해볼까~ 짜증 나는 녀석들 전~부 뭉개버리러 가자~",
                 "cn": "该动真格的了。让我们把讨厌的家伙，全部碾碎~"
@@ -241,7 +241,7 @@
                 "cn": "编入队伍"
             },
             "text": {
-                "en": "All right everyone, I'll be counting on your orders!",
+                "en": "Alright, everyone, I'll be counting on your orders!",
                 "jp": "よーし、指揮はみんなに任せたよー。",
                 "kr": "좋~았어, 지휘는 여러분한테 맡길게.",
                 "cn": "好喔，指挥就拜托各位了。"
@@ -257,7 +257,7 @@
                 "cn": "任命队长"
             },
             "text": {
-                "en": "I'm the team leader? ...Eh? Me? Team leader?",
+                "en": "Hmm, team captain… Eh? Me? Captain?",
                 "jp": "隊長ね……え？あたしが？隊長なの？",
                 "kr": "어, 팀장 말이지…… 에? 내가? 팀장이라고?",
                 "cn": "是队长啊......嗯？我？队长？"
@@ -273,7 +273,7 @@
                 "cn": "行动出发"
             },
             "text": {
-                "en": "Let's go.",
+                "en": "Time to go.",
                 "jp": "出発だよ！",
                 "kr": "출발이야!",
                 "cn": "出发。"
@@ -305,7 +305,7 @@
                 "cn": "选中干员1"
             },
             "text": {
-                "en": "Mhmm.",
+                "en": "Yeees?",
                 "jp": "おっす。",
                 "kr": "알았어.",
                 "cn": "嗯。"
@@ -337,7 +337,7 @@
                 "cn": "部署1"
             },
             "text": {
-                "en": "Moving out~",
+                "en": "Moving out!",
                 "jp": "いっただきまーす。",
                 "kr": "잘 먹겠습니다~",
                 "cn": "我开动了~"
@@ -401,7 +401,7 @@
                 "cn": "作战中3"
             },
             "text": {
-                "en": "Just send me the leftover parts.",
+                "en": "I'll take what you don't need.",
                 "jp": "いらないパーツあったらちょーだい。",
                 "kr": "필요 없는 부품이 있음 좀 줄래?",
                 "cn": "不要的零件，就送给我吧。"
@@ -417,7 +417,7 @@
                 "cn": "作战中4"
             },
             "text": {
-                "en": "You look rather cute when you're crying.",
+                "en": "You look kinda cute when you cry.",
                 "jp": "その泣き顔、結構かわいいじゃない。",
                 "kr": "그렇게 질질 짜는 얼굴, 꽤 귀엽네.",
                 "cn": "你流泪的样子，还挺可爱的。"
@@ -433,7 +433,7 @@
                 "cn": "完成高难行动"
             },
             "text": {
-                "en": "Ahh, I'm finally done blowing off steam, how exciting. Doctor, let's get some crepes.",
+                "en": "Ahh, it felt good to blow off all that steam. Exciting stuff. Let's go for crepes, Doctor.",
                 "jp": "あーすっきりした。楽しかったなぁ。ドクター、クレープ食べに行こ？",
                 "kr": "아~ 개운하다~ 재밌었어~ 박사, 크레이프 먹으러 갈래?",
                 "cn": "啊，发泄完了，真开心。博士，我们去吃可丽饼吧。"
@@ -449,7 +449,7 @@
                 "cn": "3星结束行动"
             },
             "text": {
-                "en": "How exciting. Thanks for all the support~",
+                "en": "That was so much fun. Thanks for all the enemies!",
                 "jp": "いっぱい楽しませてくれてサンキュー。ごちそうさま～。",
                 "kr": "잔뜩 즐겁게 해줘서 땡큐~ 잘 먹었습니다~",
                 "cn": "很尽兴哦，多谢款待~"
@@ -481,7 +481,7 @@
                 "cn": "行动失败"
             },
             "text": {
-                "en": "Doctor, stop spacing out and start running.",
+                "en": "C'mon, Doctor, stop spacing out and start running.",
                 "jp": "もうドクター、ボーッとしてないで走るよ！",
                 "kr": "아 쫌…… 박사, 빨리 뛰어 거기 멍하니 있지 말고!",
                 "cn": "别发呆了博士，快跑起来。"
@@ -497,7 +497,7 @@
                 "cn": "进驻设施"
             },
             "text": {
-                "en": "As long as I can buy the new magazines, it doesn't really matter where I'm staying.",
+                "en": "As long as I can get my magazines, it doesn't really matter where I stay.",
                 "jp": "雑誌の最新号をいつでも買えるなら、住むところなんてどうだっていいんだよ。",
                 "kr": "새로 나오는 잡지를 아무 때나 살 수 있다면, 사는 곳 따위야 아무래도 상관없지.",
                 "cn": "只要能随时买到新的杂志，住所怎么样其实无所谓的啦。"
@@ -513,7 +513,7 @@
                 "cn": "戳一下"
             },
             "text": {
-                "en": "Hmm?",
+                "en": "Oh?",
                 "jp": "んん？",
                 "kr": "으응?",
                 "cn": "嗯？"
@@ -529,7 +529,7 @@
                 "cn": "信赖触摸"
             },
             "text": {
-                "en": "Let's go sing karaoke?",
+                "en": "Wanna go sing karaoke?",
                 "jp": "ねぇ、カラオケ行く～？",
                 "kr": "저기~ 같이 노래방 갈래~?",
                 "cn": "一起去唱k吗。"
@@ -561,7 +561,7 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "Oh hey, Doctor. As you can see, I've been abducted by this kotatsu. Wanna hop in together? It's really warm. C'mon, give it a try, I promise you won't regret it~",
+                "en": "Oh, hey, Doctor. Happy New Year! As you can see, I'm trapped under this kotatsu... Hang with me for a bit maybe? It's waaarm. C'mon, just try it, you won't regret it!",
                 "jp": "あー、誰かと思えばドクターじゃん。あけおめー。あたしは見ての通り、コタツの虜になっちゃってさぁ。一緒に入っちゃう？あったかいよー。ほら、絶対後悔させないから、騙されたと思って入ってみなー。",
                 "kr": "어라, 누군가 했더니 박사잖아. 새해 복 많이 받아~ 보다시피, 이 코타츠의 포로가 되어 버렸어~ 안에 들어올래? 따뜻해. 자, 속는 셈 치고 들어와 보라니까. 분명 후회하지 않을 거야~",
                 "cn": "啊，是博士啊。新年好~如你所见，我被困在这被炉里了~要不要一起来待会，很暖和的。来吧，试试看，你不会后悔的~"
@@ -577,7 +577,7 @@
                 "cn": "问候"
             },
             "text": {
-                "en": "Good morning to you, Doctor.",
+                "en": "Morning, Doctor.",
                 "jp": "おはよー、ドクター。",
                 "kr": "좋은 아침~ 박사.",
                 "cn": "早上好，博士。"
@@ -593,8 +593,8 @@
                 "cn": "生日"
             },
             "text": {
-                "en": "Doctor, happy birthday. Did you know? There's a real trick to birthday parties. I could share some hacks with you, like, on the down-low, to really up your popularity at dinnertime. Number one— wait, are these all your presents?! This whole room?!",
-                "jp": "博士，生日快乐哦~你知道吗？生日宴会是很有讲究的。我可以悄悄告诉你，在宴会上迅速提升自己人气的秘诀哦。首先——等等，博士的房间里，堆的这些全都是礼物？！",
+                "en": "Doctor, happy birthday. Did you know? There's a real trick to birthday parties. I could share some hacks with you, like, on the down-low, to really up your popularity at dinnertime. Number one—wait, are these all your presents?! This whole room?!",
+                "jp": "ドクター、ハピバー～。そいえば知ってる？誕生日パーティーってけっこう奥が深いんだよ。せっかくだしパーティーでモテモテになる秘訣を教えてあげちゃおっか。まずは――ちょっ、この部屋に積み上がってるやつ、もしかして全部プレゼント！？",
                 "kr": "박사, 생일 축하해~ 그거 알아? 생일 파티는 엄청 신경 써야 돼. 파티에서 빨리 인기를 올릴 수 있는 비법을 몰래 알려줄 수 있는데. 일단은…… 잠깐, 방에 있는 이것들 전부 선물이야?!",
                 "cn": "博士，生日快乐哦~你知道吗？生日宴会是很有讲究的。我可以悄悄告诉你，在宴会上迅速提升自己人气的秘诀哦。首先——等等，博士的房间里，堆的这些全都是礼物？！"
             },

@@ -1,0 +1,644 @@
+{
+    "charid": "char_4178_alanna",
+    "nameid": "alanna",
+    "names": {
+        "en": "Alanna",
+        "jp": "アランナ",
+        "kr": "알라나",
+        "cn": "阿兰娜"
+    },
+    "voices": [
+        {
+            "id": "char_4178_alanna_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "I've done a few accident writeups before, but this lot's important. Reckon you'd better check them for yourself. I don't skive off, do I? I've changed these bulbs here. How's that? Makes reading clearer now, right?",
+                "jp": "交通事故報告書なら書いたことあるけど、こういう大事な書類はやっぱりあんたが自分でチェックするべきじゃないか。いや、こっちもやることはやってるって。その辺の電球交換してやったのもあたしだぜ？どうだ、前より書類が見やすくなってるだろ？",
+                "kr": "교통사고 보고서라면 써본 적이 있기는 한데, 이런 중요한 서류는 네가 직접 확인해야 하는 거 아니야? 아니, 나도 할 건 다 했다니까? 저쪽 전구 누가 갈아뒀어, 나잖아. 어때, 전보다 서류가 더 잘 보이지 않아?",
+                "cn": "车祸事故报告我倒是写过一些，这些重要的文件，还是你亲自把关更稳妥点。我肯定没闲着呀，这几个灯泡不都是我换的吗？怎么样，现在看文件是不是更清楚了？"
+            },
+            "asset": "char_4178_alanna/CN_001"
+        },
+        {
+            "id": "char_4178_alanna_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Doin' delivery in the outback takes a lotta guts, but even the toughest truckie's got things they avoid, like those metal crabs poking holes in your tires. Me? Since I joined Rhodes Island and quit driving, it's none of my business. Speaking of which, I saw a broad here's keeping those crabbies as pets!",
+                "jp": "荒野でトレーラーを転がしてる連中はみんな肝が据わってるけど、それでも会いたくないもんはある。タイヤをパンクさせてくるハガネガニとかな。あたし？ロドスに来てトレーラーに乗ることもなくなったから、もう何とも思わなくなったな。そういや、ここじゃハガネガニをペットにしてる奴まで見たぞ！",
+                "kr": "황야에서 수송차를 모는 놈들의 배짱이 두둑하긴 한데, 그래도 마주치고 싶지 않은 건 있지. 타이어를 펑크 내는 메탈 크랩이라든지 말이야. 나? 로도스 아일랜드에 온 뒤론 수송차 탈 일도 없으니까, 이젠 별생각 없어. 말하다 보니 생각난 건데, 여기는 메탈 크랩을 애완동물로 키우는 녀석도 있더라?",
+                "cn": "敢在荒野上开运载车的人胆子都不小，但也会有一些害怕遇上的东西，比如那些扎轮胎的磐蟹。我？我来罗德岛之后不用开运载车，早就无所谓了。说起来，我还看到这里有人把磐蟹当宠物养呢！"
+            },
+            "asset": "char_4178_alanna/CN_002"
+        },
+        {
+            "id": "char_4178_alanna_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "It's kinda stuffy in here, reckon I should crack a window? Ever wondered why truckies hang their arm out? Comfort, sure, but also cos the wind tells stories. Sounds iffy? Thunderstorm's on its way—wanna bet on it?",
+                "jp": "なんか空気がこもってるな、窓開けてこようか？そうだ、トレーラーのドライバーがなんでいつも腕を窓枠に置いてるか知ってるか？腕が楽になるとかは二の次で、風に紛れたいろんな情報を読み取るためなんだよ。信じられないって？そうだな……おっ、もうすぐ雷が来るみたいだな。どうだ、賭けてみるか？",
+                "kr": "왠지 좀 갑갑한데, 창문 연다? 아, 수송차 기사들이 왜 항상 차창에 팔을 걸치는지 알아? 편한 것도 있지만, 바람에 섞인 온갖 정보를 읽어내기 위해서야. 못 믿겠어? 흠 그럼…… 오, 곧 번개가 칠 거 같은데, 어때, 내기해 볼래?",
+                "cn": "房间里似乎有些闷，要我把窗打开吗？对了，知道为什么运载车司机都喜欢把胳膊搭到车窗上吗？舒不舒服的倒是其次，风里可藏着不少消息呢。你不信？马上就要打雷了，敢不敢打个赌？"
+            },
+            "asset": "char_4178_alanna/CN_003"
+        },
+        {
+            "id": "char_4178_alanna_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "This gizmo goes everywhere with me. Designed it myself, still a work in progress. I was set on 'Nutty' for a name, but Potlid's not a fan. You're better at this stuff than I am, got any ideas?",
+                "jp": "どこ行くにもこいつを連れてくことにしてんだ。設計の課題で作ったやつで、まだ絶賛改良中なんだけどな。「ナットちゃん」って名前にするつもりだったんだけど、鍋蓋ちゃんに反対されちまってさ。あんたあたしよりネーミングセンスあるし、なんかいいのある？",
+                "kr": "난 어딜 가든 이 녀석을 데리고 다녀. 설계 과제로 만든 거라 아직 개조 중이긴 하지만? '너티'라고 이름을 붙여줄까 했는데, 냄비 뚜껑이 반대하는 바람에. 흠, 네가 나보단 작명 센스가 좋으니까, 어디 한번 생각해 봐. 좋은 이름 없어?",
+                "cn": "我到哪都会带着这台装置，这是我的设计作业，还在完善当中。我打算叫它“小螺帽”，可惜小锅盖不同意。你的起名水平比我高多了，要不帮我出出主意？"
+            },
+            "asset": "char_4178_alanna/CN_004"
+        },
+        {
+            "id": "char_4178_alanna_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Give us a spin, Nutty! Take a gander, there's a tire repair kit, a jack, and a remote-controlled spray gun! Nutty can solve anything you throw at it. Huh? What if there's no vehicle? Ah, I <i>was</i> considering installing an engine…",
+                "jp": "ナットちゃん、回れー右！ほら、これがタイヤ補修用の道具で、こいつがジャッキ、こっちはリモコン式スプレーガンだ！車に何があっても、こいつで全部解決できるんだぜ。えっ、車がない場合は何ができるのかって？えーっと、こいつにエンジンも積もうかって考えてたとこなんだ。",
+                "kr": "너티, 우향~ 우! 잘 봐, 이건 타이어 보수용 도구고, 이건 잭, 이건 리모트 컨트롤 스프레이 건이야. 차에 어떤 문제가 생겨도 너티만 있으면 전부 해결할 수 있어. 어? 차가 없으면 뭘 할 수 있냐고? 으음…… 마침 이 녀석한테 엔진을 달아줄까 생각하던 참이긴 한데.",
+                "cn": "小螺帽，转个身！你看，这个是用来补胎的，这个是千斤顶，这个是遥控喷枪！无论载具出了什么问题，它都能解决。什么，没有载具的情况？呃，我正考虑给它也装一组引擎。"
+            },
+            "asset": "char_4178_alanna/CN_005"
+        },
+        {
+            "id": "char_4178_alanna_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Looking for me? Didn't go far, just popped to Engineering for a tick. Closure's been promising to upgrade Nutty's voice module, but she's always busy. Thought I'd swing by and see if I could lend a hand. Cause trouble? Not likely!",
+                "jp": "あたしを探してんのか？ずっと近場にいたぜ。ちょっとエンジニア部に寄ってただけだ。前にクロージャがナットちゃんの音声認識モジュールを改良してくれるって言ってたんだけど、ずっと手が空かないらしいから、様子を見に行って手伝えたら手伝おうと思ってな。逆に迷惑？そんなはずねぇだろ！",
+                "kr": "나 찾는 거야? 계속 이 근처에 있었어. 뭐 잠깐 엔지니어링부에 갔다 왔지. 전에 클로저가 너티 음성 인식 모듈을 개량해 주겠다고 했는데, 계속 바빠 보이길래 상황 보고 도와줄 게 있으면 도와주려고 했지. 오히려 민폐라고? 그럴 리가 없잖아!",
+                "cn": "在找我吗？我没走远，刚刚去了一趟工程部。可露希尔之前说要帮我改进小螺帽的声控模块，但一直没空，我就去看看她在忙什么，有没有什么我能搭把手的。添乱？怎么会！"
+            },
+            "asset": "char_4178_alanna/CN_006"
+        },
+        {
+            "id": "char_4178_alanna_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Wouldn't believe I was a miner once, would you? Wasn't for long, but the feeling lingers. One swing of the pickaxe, and you're gamblin' with a cave-in or a strike—pure luck. Luck's not fair, and you sure can't count on it, but sometimes it's all you got.",
+                "jp": "実はあたしも昔鉱山で働いたことがあるんだ。そうは見えないだろ？言っても何日かだけだったけど、当時の感覚は今でも覚えてる。ツルハシを振り下ろして、崩落するか、鉱石が掘り出せるかは全部運任せでさ。運なんて一番不公平で頼りないのに、どん詰まりの奴からしたら、それが唯一賭けられるチップなんだよな。",
+                "kr": "사실 나도 예전에 광산에서 일한 적이 있어. 몰랐지? 며칠뿐이었지만 그때의 느낌은 지금도 생생하게 다 기억나. 곡괭이를 내리쳤을 때 광산이 무너질지, 광석이 나올지는 전부 운에 맡겨야 했어. 운이란 게 참 불공평하고 믿을 게 못 되지만, 벼랑 끝에 몰린 사람에게는 그게 유일한 베팅 칩이니까.",
+                "cn": "我以前也下过矿，看不出来吧？虽说一共也没干几天，但那种感受我一直记得，一锄头下去，塌不塌方，出不出矿，全凭运气。运气最不公平也最靠不住，可对走投无路的人来说，它是仅有的筹码了。"
+            },
+            "asset": "char_4178_alanna/CN_007"
+        },
+        {
+            "id": "char_4178_alanna_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Wanna tuck into my lunchbox? Yeah, it's Potlid's cooking! Got a good nose on you, huh? I was coughin' so much last week she's been seeing to it that I get pear stew every day. Who's the kid now, right? She's so mature, makes me feel bad. You get moments like that too, Doctor?",
+                "jp": "あたしの弁当を食ってみるか？正解、鍋蓋ちゃんの手作り弁当だ。鼻が利くなぁ！先週咳が出っぱなしで、毎日あの子に半ば強制的に梨のコンポートを食べさせられてたんだよ。まったく、どっちが子供なんだか。あの子はいつも大人びてるから、なんかこっちの気が引けちまうんだよな。ドクターもそんなふうに思うことってあるか？",
+                "kr": "내 도시락 먹어볼래? 정답, 냄비 뚜껑이 만들어준 수제 도시락이야. 아주 귀신이네! 지난주엔 계속 기침이 났는데, 아니 글쎄 매일 반강제로 배조림을 먹이더라니까. 참, 누가 애인지. 그 아이는 늘 어른스러워서, 자꾸 날 뜨끔하게 만들어. 박사도 이럴 때 있어?",
+                "cn": "要尝尝我带的盒饭吗？对，是小锅盖做的，你鼻子真灵！上周我总咳嗽，她就每天监督我吃一个炖梨子，你说，到底谁才是小孩？她总是这么懂事，反倒让我有些心虚。博士偶尔也会有这种感觉吗？"
+            },
+            "asset": "char_4178_alanna/CN_008"
+        },
+        {
+            "id": "char_4178_alanna_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Autumn and winter mornings bring a pea soup fog to the road. All I could do was switch on the fog lamps and push on through. Was only when my ute got out of the fog that I could wipe the sweat off and check that Potlid was still asleep. Lucky? I reckon so.",
+                "jp": "秋から冬にかけて、朝になるとよく道路に濃い霧が立ちこめてた。そうなりゃもう何も見えなくて、ハイビームを点けて思いっきり突っ切るしかなかったんだ。霧を抜けるまでは汗を拭う余裕もなかったけど、ホッとして振り返ったら後部座席で鍋蓋ちゃんがぐっすり眠ってたのを覚えてる。運がよかったって？そうだな、あたしもそう思う。",
+                "kr": "가을 겨울이면 종종 아침마다 도로에 짙은 안개가 끼곤 했어. 그럼 정말 아무것도 안 보여서, 상향등 켜고 냅다 달리는 수밖에 없었지. 겨우겨우 안개를 빠져나와, 안도하며 뒤를 돌아보니, 뒷좌석에서 냄비 뚜껑이 곤히 잠들어 있던 게 기억나. 운이 좋았다고? 그러게, 나도 그렇게 생각해.",
+                "cn": "秋冬的早晨，经常会有一大团雾气趴在路面上。我什么也看不清，只能打开远光灯，硬着头皮闯过去。等车子从雾里冲出来，才敢擦一把汗，回头一看，小锅盖还没睡醒呢。幸运吗？我也觉得。"
+            },
+            "asset": "char_4178_alanna/CN_009"
+        },
+        {
+            "id": "char_4178_alanna_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Sleep tight, I got your back.",
+                "jp": "安心して寝てな。あたしが見張ってるから。",
+                "kr": "안심하고 푹 자. 내가 지켜보고 있을 테니까.",
+                "cn": "安心睡吧，我帮你看着呢。"
+            },
+            "asset": "char_4178_alanna/CN_010"
+        },
+        {
+            "id": "char_4178_alanna_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Doctor, just call me Lanns like before! Sure, I'm on a break from the outback, but I brought my tradie skills with me. See, here's my Artificer creds. Intern? Huh! Becomin' fully fledged is just a matter of time.",
+                "jp": "ドクター、前みたいにランナって呼んでくれ！しばらく荒野からは遠のいてるけど、腕は鈍ってねぇぞ。ほら、職人の資格証も持ってんだろ。まだ見習いだって？コホン、本採用なんて時間の問題だからな！",
+                "kr": "박사, 전처럼 라나라고 불러줘! 한동안 황야를 떠나 있었지만, 실력은 안 죽었다고. 봐, 기능공 자격증도 가지고 있어. 아직 수습이라고? 크흠, 걱정 마. 정식 채용은 시간 문제니까!",
+                "cn": "博士，你还是像以前一样叫我兰娜就好！虽然暂时离开了荒野，但我的手艺可没丢下，你看，这是我的工匠资格证书。实习？咳，转正只是时间问题！"
+            },
+            "asset": "char_4178_alanna/CN_011"
+        },
+        {
+            "id": "char_4178_alanna_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Frame rate's stable, colors are real vibrant too. Crazy good display tech you got here… Huh? Combat skills? Oh, I know how to sneak up on someone and whack the daylight's outta them!",
+                "jp": "安定したフレームレートに鮮やかな色彩、なかなか大した映像技術だな……え？戦闘技術は学べたか？出会い頭に脳天狙ってぶん殴る、だろ。そのくらい分かってるぜ！",
+                "kr": "안정적인 프레임 레이트에 선명한 색감, 꽤 뛰어난 영상 기술이네…… 어? 전투 기술은 배웠냐고? 마주치면 정수리 조준하고 후려치는 거잖아. 그 정도야 알지!",
+                "cn": "帧率稳定，色彩也很鲜艳，这显像技术真不赖......嗯？战斗技巧？敲闷棍要往脑袋上敲，这道理我懂！"
+            },
+            "asset": "char_4178_alanna/CN_012"
+        },
+        {
+            "id": "char_4178_alanna_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "A promotion already? Feels like I just finished up my intern days! Hah, I getcha, Doctor. I'll keep at it, maintenance and combat both.",
+                "jp": "もう昇進させてくれんのか？本採用からまだそんな経ってないよな！ハハッ、ドクターの言いたいことはわかるぜ！修理も戦いも、まだまだ腕を磨いてくからな。",
+                "kr": "벌써 승진시켜 주는 거야? 정식 채용된 지 아직 얼마 안 됐는데! 하하, 박사가 말하고자 하는 거 나 다 알아! 수리든 전투든, 실력은 계속 갈고닦을 테니까 걱정 마.",
+                "cn": "这么快就升职了？感觉我转正还没多久呢！哈哈，博士，你的意思我明白！无论是维修还是战斗，我都会再接再厉的。"
+            },
+            "asset": "char_4178_alanna/CN_013"
+        },
+        {
+            "id": "char_4178_alanna_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "You taught me a loose screw can cost a war. I might not really see how it goes down like that, but I'll make sure every single screw is tightened down. This sort of work? You can count on me, Doctor.",
+                "jp": "ネジ一本の緩みが戦争を敗北に導くこともあるって、ドクターの教えだろ。ネジが具体的にどうなってどう作用するのかはよくわかんねぇけど、あんたのために一本一本キツく締めあげとくからな。ドクター、こういう仕事は安心してあたしに任せてくれよな。",
+                "kr": "느슨해진 나사 하나가 전쟁을 패배로 이끌 수도 있다, 박사가 가르쳐 준 거잖아. 그 나사가 구체적으로 어떻게 작용하는지는 잘 모르겠지만, 내가 반드시 하나하나 제대로 조여줄게. 박사, 이런 일은 안심하고 나한테 맡겨줘.",
+                "cn": "一颗松动的螺丝可能会导致一场战争的失利，这是你告诉我的。我不清楚这中间会发生些什么，但我会为你把每一颗螺丝都拧得紧紧的。博士，这样的活儿，你可以放心交给我。"
+            },
+            "asset": "char_4178_alanna/CN_014"
+        },
+        {
+            "id": "char_4178_alanna_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "No wukkas. I'm Alanna of the Barrenlands after all. What's that mean? You'll know soon enough.",
+                "jp": "任せろ。あたしは「荒野のアランナ」サマだぜ。どういう意味かって？すぐにわかるさ。",
+                "kr": "맡겨 둬. 나는 '황야의 알라나'라고. 무슨 뜻이냐고? 곧 알게 될 거야.",
+                "cn": "没问题，我可是“荒野上的阿兰娜”。什么意思？待会儿就知道了。"
+            },
+            "asset": "char_4178_alanna/CN_017"
+        },
+        {
+            "id": "char_4178_alanna_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "I'll take the wheel, you take a breather.",
+                "jp": "ハンドルはあたしが握っとく。安心しな。",
+                "kr": "핸들은 내가 잡을게. 안심해.",
+                "cn": "方向盘交给我，你就放心吧。"
+            },
+            "asset": "char_4178_alanna/CN_018"
+        },
+        {
+            "id": "char_4178_alanna_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Hold on tight now, things might get rough.",
+                "jp": "しっかり手すりに掴まっとけよ。ちょっと揺れるぜ。",
+                "kr": "손잡이 꽉 잡아. 좀 흔들릴 거야!",
+                "cn": "抓稳扶手，可能会有些颠簸。"
+            },
+            "asset": "char_4178_alanna/CN_019"
+        },
+        {
+            "id": "char_4178_alanna_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Get 'em in their heads!",
+                "jp": "脳天目がけてぶん殴れ！",
+                "kr": "정수리 조준하고 후려치기!",
+                "cn": "朝他们脑门上打！"
+            },
+            "asset": "char_4178_alanna/CN_020"
+        },
+        {
+            "id": "char_4178_alanna_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "My turn now?",
+                "jp": "あたしの出番か？",
+                "kr": "내 차례야?",
+                "cn": "到我了吗？"
+            },
+            "asset": "char_4178_alanna/CN_021"
+        },
+        {
+            "id": "char_4178_alanna_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Ready to go anytime.",
+                "jp": "いつでも発車できるぜ。",
+                "kr": "언제든 출발할 수 있어.",
+                "cn": "随时可以出发。"
+            },
+            "asset": "char_4178_alanna/CN_022"
+        },
+        {
+            "id": "char_4178_alanna_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Deploying device.",
+                "jp": "さて、こいつを展開してっと。",
+                "kr": "자, 너티를 설치해 볼까.",
+                "cn": "开始布设装置。"
+            },
+            "asset": "char_4178_alanna/CN_023"
+        },
+        {
+            "id": "char_4178_alanna_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Dang it, sprained my leg—Just joshing, mate.",
+                "jp": "やべっ、足をひねった――なんて、冗談だよ。",
+                "kr": "윽, 발 삐었다…… 뻥이야.",
+                "cn": "糟糕，崴到脚了——开个玩笑啦。"
+            },
+            "asset": "char_4178_alanna/CN_024"
+        },
+        {
+            "id": "char_4178_alanna_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Come on, Nutty!",
+                "jp": "やってやれ、ナットちゃん！",
+                "kr": "해치워, 너티!",
+                "cn": "小螺帽，看你的了！"
+            },
+            "asset": "char_4178_alanna/CN_025"
+        },
+        {
+            "id": "char_4178_alanna_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Nutty, high-power mode!",
+                "jp": "ナットちゃん、ハイパワーモードにスイッチだ！",
+                "kr": "너티, 하이 파워 모드로 전환!",
+                "cn": "小螺帽，切换到高功率模式！"
+            },
+            "asset": "char_4178_alanna/CN_026"
+        },
+        {
+            "id": "char_4178_alanna_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Think you can dodge this next trick? Wanna bet?",
+                "jp": "こいつを避ける自信は？いっちょ賭けてみるか？",
+                "kr": "너네 피할 자신 있어? 어때, 내기해 볼까?",
+                "cn": "你们能躲开这一招吗？敢不敢赌一把？"
+            },
+            "asset": "char_4178_alanna/CN_027"
+        },
+        {
+            "id": "char_4178_alanna_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Beep—beep! Terminus, everybody off!",
+                "jp": "ピンポン！終点に到着したぜ、全員降りやがれ！",
+                "kr": "삐익! 종점 도착이다. 다들 내려!",
+                "cn": "嘟——嘟！终点站到了，所有人下车！"
+            },
+            "asset": "char_4178_alanna/CN_028"
+        },
+        {
+            "id": "char_4178_alanna_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "That was rough, Doctor! I thought you'd got yourself winded again.",
+                "jp": "大したもんだなドクター！また途中でゼーハーし出すんじゃないかと思ったのにな。",
+                "kr": "오 대단한걸 박사! 도중에 헥헥거리며 뻗나 했는데.",
+                "cn": "真不简单，博士！我还以为你又会跑岔气呢。"
+            },
+            "asset": "char_4178_alanna/CN_029"
+        },
+        {
+            "id": "char_4178_alanna_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "All in one go! Good load of combat data this time, too. Thanks heaps, Doctor.",
+                "jp": "一網打尽ってやつだな！ドクターのおかげで、またたっぷり実戦データを収集できたぜ。",
+                "kr": "이게 일망타진이지! 박사 덕분에 실전 데이터도 잔뜩 모았어.",
+                "cn": "一网打尽！多亏了博士，这次又收集到不少实战数据。"
+            },
+            "asset": "char_4178_alanna/CN_030"
+        },
+        {
+            "id": "char_4178_alanna_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "We did pretty good already, so just let them go, yeah?",
+                "jp": "もう十分やっただろ、見逃してやろうぜ。",
+                "kr": "이 정도면 충분하잖아. 그냥 놔주자.",
+                "cn": "已经很不错了，先放他们一马吧。"
+            },
+            "asset": "char_4178_alanna/CN_031"
+        },
+        {
+            "id": "char_4178_alanna_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Come on, make a run for it!",
+                "jp": "早く行け、まずは撤退だ！",
+                "kr": "빨리 가, 일단 후퇴하자!",
+                "cn": "快走，我们先撤退！"
+            },
+            "asset": "char_4178_alanna/CN_032"
+        },
+        {
+            "id": "char_4178_alanna_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Don't know if I can have a snooze here without all the clinkin' an' clankin' around me.",
+                "jp": "耳元でカンカン鳴ってないと寝付けるかわかんねぇな。",
+                "kr": "귓가에 울리는 깡깡 소리 없이 잠들 수 있으려나 몰라.",
+                "cn": "耳边没有叮叮当当的声音，不知道还能不能睡得着？"
+            },
+            "asset": "char_4178_alanna/CN_033"
+        },
+        {
+            "id": "char_4178_alanna_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Alright, what are we betting on this time?",
+                "jp": "言ってみろ、何を賭けてぇんだ？",
+                "kr": "뭐지, 나랑 내기라도 한 판 하고 싶은 건가?",
+                "cn": "说吧，想和我赌点什么？"
+            },
+            "asset": "char_4178_alanna/CN_034"
+        },
+        {
+            "id": "char_4178_alanna_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Take a squiz at this electric welding torch I just got! Wanna give it a go? Slow down, goggles on first.",
+                "jp": "ほら、最近仕入れた電気溶接機だぜ。やってみたいか？まあ待て、先にゴーグルを付けてからな。",
+                "kr": "이거 봐, 최근에 새로 들여온 전기 용접기라고. 한번 써볼래? 어어 잠깐잠깐, 먼저 고글부터 쓰고.",
+                "cn": "看，新采购的电焊枪，想试一下吗？别急，先把护目镜戴好。"
+            },
+            "asset": "char_4178_alanna/CN_036"
+        },
+        {
+            "id": "char_4178_alanna_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4178_alanna/CN_037"
+        },
+        {
+            "id": "char_4178_alanna_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Fancy a bevvy, Doctor? We got a tradition of drinkin' ourselves silly on New Year's Eve. I can deadset leave a whole bunch of truckies legless... Huh? Drunk drivin's bad? Nah, this ain't beer, it's carrot soda!",
+                "jp": "一杯やるか、ドクター。うちらの風習に則るなら、新年の夜はとことん飲み明かすって相場が決まってんだ。実を言うと、あたし一人で輸送隊全員を飲み潰してやれるんだぜ……はぁ？飲酒運転？いやこれビールじゃなくてニンジンソーダだから！",
+                "kr": "한잔할까, 박사? 새해 전야에는 끝까지 마시는 게 우리 그쪽 룰이거든. 사실 말이야, 나 혼자서도 수송대원 전원을 박살 낼 수 있…… 어? 음주 운전? 아니아니 이건 맥주가 아니라 당근 소다라고!",
+                "cn": "喝一杯吗，博士？按我们那儿的习俗，新年夜是一定要喝个尽兴的，不瞒你说，我能把一整个车队的司机都喝趴到桌子底下去......什么，酒后驾驶？哎呀，这不是啤酒，是胡萝卜汽水！"
+            },
+            "asset": "char_4178_alanna/CN_038"
+        },
+        {
+            "id": "char_4178_alanna_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Doctor, lemme know if you wanna go for a ride, yeah?",
+                "jp": "ドクター、ドライブに行きたくなったら、絶対あたしに声かけろよな。",
+                "kr": "박사, 드라이브 가고 싶으면, 나한테 꼭 말해.",
+                "cn": "博士，要是想出去兜个风的话，可一定要和我说。"
+            },
+            "asset": "char_4178_alanna/CN_042"
+        },
+        {
+            "id": "char_4178_alanna_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "There're so many days in a year, you gotta save one for yourself. Even the most hardworking diggers can't stay down in the mines all the time, right? So, let's get you out of your office. I'll even take you out for a spin after your birthday party's over, how 'bout it?",
+                "jp": "一年にゃこんなたくさん日があるんだから、自分のために一日くらい取っとかないとな。どんなに勤勉な鉱夫だって、ずっと坑道に籠もりっぱなしはよくねぇだろ？だからドクターもオフィスに籠もってる場合じゃねぇよ。誕生日パーティが終わったら、あたしがドライブに連れてこうか？",
+                "kr": "1년에 이렇게나 많은 날이 있는데, 자신을 위해 하루쯤은 시간 낼 수 있잖아. 아무리 성실한 광부라도 계속 갱도에만 틀어박혀 있을 순 없어. 그러니까 박사도 지금 이렇게 집무실에 틀어박혀 있을 때가 아니라는 말이야. 생일 파티 끝나면, 내가 드라이브 시켜줄까?",
+                "cn": "一年里有那么多日子，总得给自己留出来一天。再辛勤的矿工也不能一直待在井下，不是吗？所以呀，别在办公室里待着了。等你的生日派对结束，我再开车带你出去吹吹风怎么样？"
+            },
+            "asset": "char_4178_alanna/CN_043"
+        },
+        {
+            "id": "char_4178_alanna_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "When we'd just arrived here, I told Warmy Rhodes Island was like a big big transport. She was really excited when she said 'So the Doctor's just like you, a truckie at the steering wheel!' Haha, she's not wrong there. Your work decides the direction Rhodes Island sails, Doctor. Well done, mate.",
+                "jp": "ここに来たばっかの頃に、ロドスはでっかいトレーラーみたいなもんだってウォーミーに教えてやったんだ。あの子は目を輝かせて、じゃあドクターさんはランナお姉ちゃんと同じハンドルを握る人ですねなんて言ってた。ハハッ、言い得て妙だな。あんたがやってきた仕事がロドスの向かう方向を決めてるんだもんな。すごいことだぜ、ドクター。",
+                "kr": "여기 막 왔을 때, 워미에게 로도스 아일랜드는 거대한 수송차 같은 거라고 설명해 준 적이 있어. 그랬더니 그 애가 눈을 반짝이면서 “그럼 박사님은 라나 언니처럼 핸들을 잡는 분이시네요.” 그러더라? 하핫, 맞는 말이지. 네가 지금까지 해오고, 앞으로도 할 일이 바로 로도스 아일랜드가 나아갈 방향을 정하는 거니까. 엄청 대단한 거야, 박사.",
+                "cn": "刚来这儿时，我告诉温米，罗德岛就像是一辆超大的运载车。她兴奋地说，那博士就和你一样，是握方向盘的人。哈哈，她说得没错，正是你做的这些工作决定了罗德岛的航向。博士，这很了不起。"
+            },
+            "asset": "char_4178_alanna/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Shaelee Rooke",
+            "global": "Shaelee Rooke"
+        },
+        "cn": {
+            "native": "Vila",
+            "global": "Vila"
+        },
+        "jp": {
+            "native": "山本亜衣",
+            "global": "Ai Yamamoto"
+        },
+        "kr": {
+            "native": "오주희",
+            "global": "Oh Joo-hee"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

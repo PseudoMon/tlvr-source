@@ -1,0 +1,644 @@
+{
+    "charid": "char_445_wscoot",
+    "nameid": "wscoot",
+    "names": {
+        "en": "Windscoot",
+        "jp": "ウィンドスクート",
+        "kr": "윈드스쿠트",
+        "cn": "骋风"
+    },
+    "voices": [
+        {
+            "id": "char_445_wscoot_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Thirty-two, then thirty... three? Oh, Doctor? Wait, where was I? Hmm, I've been away half an hour? No worries, almost done. The fiftieth document from the left... one, two... don't worry, I'm the best counter at my escort association.",
+                "jp": "こいつで三十二、次が三十……三？うおっドクター？あーやべ、どこまで数えたっけか？え、俺が出てもう三十分？あとちょっとでできるって。左から五十個目のファイルだったよな、一、二……安心しろって、数を数えさせたらうちの鏢局で俺の右に出る奴はいねえんだぜ。",
+                "kr": "이걸로 서른둘, 다음이 서른…… 셋? 우왓 박사? 아 망했다, 어디까지 셌더라? 어, 내가 온 지 벌써 30분이나 됐다고? 금방 끝난다니까 잠깐만 있어봐. 왼쪽부터 50번째 파일이라고 했지, 하나, 둘…… 걱정 마, 숫자 세는 거라면 우리 표국에서 나보다 잘하는 놈은 없다고.",
+                "cn": "三十二，后面是三十......三？博士？啊，糟了，数到哪儿了？我离开了有半小时？马上就好，靠左第五十份文件，一、二......放心吧，我是我们镖局最会数数的。"
+            },
+            "asset": "char_445_wscoot/CN_001"
+        },
+        {
+            "id": "char_445_wscoot_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "In this line of work, encountering odd clients comes with the territory. There was this one time when I was hired to escort a gentleman, he insisted I carry him on my back down a muddy road. I agreed, but said only after terminating our escort contract, because I couldn't defend him while carrying someone on my back.",
+                "jp": "こういう商売をやってるとさ、変わった客に会うのは日常茶飯事なんだよな。自分で自分の護送を頼んできた旦那様がいたんだけど、あの人、泥道を進もうとしたら背負ってけなんて言い出してよ。「別にいいけど、そしたら護送の仕事はここまでだ」って言い返してやったよ。人を背負ってたら、刺客の対処なんてやってらんねえからな。",
+                "kr": "이쪽 일을 하다 보면 말이야, 정말 별의별 손님을 다 만난다니까. 한 번은 자기를 호송해 달라던 의뢰인이 있었는데, 진흙길이 나오니까 나보고 자기를 업고 가라고 하더라고. 그래서 “업는 건 상관없는데, 그럼 호송 의뢰는 여기까지야.”라고 말해줬지. 사람을 업은 상태로 자객 대처를 할 수는 없잖아.",
+                "cn": "干我这行，碰到奇怪的客户是常事啦。我押过一趟镖，保的是客户本人。但那位老爷，遇上泥泞的路非要我背他过去。我答应了，只不过需要终止我们的走镖合同。因为我背着他，没法应敌啊。"
+            },
+            "asset": "char_445_wscoot/CN_002"
+        },
+        {
+            "id": "char_445_wscoot_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Doctor, take some of these. My family came by during their escort job and brought me some treats from back home. What? We're under attack? Wait, you mean... them? Uh, hey, don't smoke on the landship. Put your shoes on and mind your manners! Don't glare at people like that! Ahem, Doctor... let me introduce you to my family.",
+                "jp": "ドクター、うちの家族が護送のついでに土産を届けてくれたから、お裾分けだ。はあ？敵襲だって？えっ、あいつらのこと言ってんのか？お、おい、艦内でタバコ吸うんじゃねえよみっともない！靴もしっかり履けって！なんつー目つきしてんだてめーらは！コホン、ドクター、紹介するぜ。こいつらが俺の家族だ。",
+                "kr": "박사, 우리 가족들이 호송가는 중에 특산품을 가져왔길래, 나눠주려고 왔어. 뭐? 적습? 음, 쟤들 얘기하는 거야? 어이 야. 함내에서 담배 피우지 마, 쪽팔리게! 신발도 제대로 신고! 어어? 눈은 또 왜 그렇게 떠? 크흠, 박사, 소개할게. 이 녀석들이 내 가족이야.",
+                "cn": "博士，我家里人走镖路过，带了些土特产，分你点。什么，敌袭？呃，你说他们？别、别在舰上抽烟，丢人！把鞋穿上！注意眼神，别瞪人！咳咳，博士，介绍一下，他们，就是我的家人。"
+            },
+            "asset": "char_445_wscoot/CN_003"
+        },
+        {
+            "id": "char_445_wscoot_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "I'll ask the local bandit boss about the situation here. No, we're not exactly friends, but we sort of pay this toll of theirs. Does that sound like we're in cahoots with the bandits? Hahah, it's just a way we can both make a living. Nobody wants unnecessary bloodshed, if we can help it.",
+                "jp": "辺りの状況はここらの山を牛耳ってる親分に聞いてみるよ。親しくはないけど、このルートは鏢局があいつらから「買い取った」交易路だからな。ん？ドクターはもしかして俺たちが山賊とグルだって思ってんのか？ハハ、俺たちは生きてくためにそれで手打ちにしたってだけさ。避けられる殺し合いなら、やらないに越したことねえだろ。",
+                "kr": "주변 상황은 이 근방 산을 관리하는 두목한테 물어볼게. 친한 것까진 아니고, 이 길은 우리 표국이 놈들한테서 '사들인' 교역로거든. 박사 설마 우리가 산적들이랑 한패라고 생각하는 건 아니지? 하하, 우리는 그저 살려고 타협한 것뿐이야. 피할 수 있다면 그 누구도 피비린내나는 싸움을 원하지 않으니까.",
+                "cn": "这附近的情况，我找山上老大问问。不算熟，只不过这路算是镖局向他们“买”来的商路。博士是不是觉得我们和山贼是一伙的？哈哈，我们只是给彼此留条活路。能避免的话，谁都不想打打杀杀的。"
+            },
+            "asset": "char_445_wscoot/CN_004"
+        },
+        {
+            "id": "char_445_wscoot_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "I got the crystals on my hand from a highwayman. His legs were shaking and I thought I could talk him out of it, but his mind was made up. When I discarded his Originium explosive, we both got caught in the blast. In the end, I left him some money for his sick child's treatment. As for my own condition, I got used to it long ago.",
+                "jp": "手の結晶？昔強盗に遭った時にちょっとな。そいつ、両足がガタガタ震えてたから、話し合いでどうにかなると思ったんだけど、ずいぶん頑固でね。そいつが持ってる源石爆弾をひったくって捨ててやろうとしたら、二人とも爆発に巻き込まれちまったってとこだ。結局、そいつの重病のガキのための医療費は置いてってやったけどな。俺自身はまあ、もうとっくにこの病気に慣れっこだ。",
+                "kr": "손에 난 결정? 전에 호송물을 노리는 강도 녀석이 있었는데, 다리를 부들부들 떨길래 말로 해결할 수 있을 줄 알았더니만, 고집이 세더라고. 그 자식이 들고 있던 오리지늄 폭탄을 낚아채려다가 둘 다 폭발에 휘말렸달까. 그래도 그 녀석 집의 중병 걸린 꼬맹이 치료비는 두고 왔어. 내 병? 나야 뭐 이제 익숙하지.",
+                "cn": "我手上的结晶？一个劫镖的，两腿都在抖，我以为交涉一下就能劝走，但他铁了心。扔掉他的源石炸药时，我们俩都被爆炸波及了。最后，我还是给他重病的孩子留了医疗费。至于我这病，早习惯了。"
+            },
+            "asset": "char_445_wscoot/CN_005"
+        },
+        {
+            "id": "char_445_wscoot_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Not every bandit manages to make the move to an honest escort life. Some have walked the way of the bandit for too long to change, many of them were aunts and uncles who watched me grow up. I couldn't look them in the eye when I had to show them out, but people must keep moving forward, right?",
+                "jp": "誰もが山賊から鏢師にあっさり順応できるわけじゃない。地に足つけて「賊の道」を歩み続けてた人たちが、賊の心を改めるのは難しいんだ。中には小さい頃からおじさん、おばさんって呼んでた人も結構いたから、追い出す時は目も合わせられなかったよ。だけど、それでも人は前に進まないと、だろ？",
+                "kr": "산적에서 호송원이라, 누구나 쉽게 적응할 수 있는 건 아니야. 어떤 이들은 도적의 마음가짐을 고치지 못하거든. '도적의 길'이 이미 그들의 삶의 방식이 되어버린 거지. 그중엔 내가 어릴 때부터 삼촌 이모라고 부르던 사람들도 꽤 많았는데, 그들을 내보낼 땐 눈도 못 마주치겠는 거 있지. 하지만 사람은 앞으로 나아가야 하는 거잖아. 그렇지?",
+                "cn": "从山贼到镖客，不是所有人都能适应。有的人贼心不改，“贼道”已经是他们的立身之本。好些都是我从小喊叔叔阿姨的人，把他们请出门的时候，我没敢看他们的眼睛。但人总得往前走，对吧。"
+            },
+            "asset": "char_445_wscoot/CN_006"
+        },
+        {
+            "id": "char_445_wscoot_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "What are you eating? Give me a bite; I haven't eaten yet. Ran into a righteous volunteer on the way, he was collecting relief funds for his hometown that got hit by a Catastrophe, so I gave him all my money. A scam? Maybe, but I don't need more money than I can spend, and I can always sock him if it turns out he was lying. It's not like I'll ever starve with you around.",
+                "jp": "おっ、何食ってんだドクター。俺メシまだなんだよ、ちょっと一口……任務の道中で、故郷が天災にやられて救援活動してるって人格者に会ってさ、有り金全部渡してきたんだ。騙されたんじゃないかって？かもな。だけど金なんて必要最低限ありゃ十分なんだよ。ホントにそいつがペテン師ってわかったら、そん時にぶっとばしに行きゃいいだけだ。あんたがいれば飢え死にの心配もないしな。",
+                "kr": "오, 박사. 뭐 먹어? 나 아직 밥 못 먹었는데, 한 입만…… 임무 중에 고향이 재앙을 맞아 구호 활동을 하고 있다는 사람을 만나서, 갖고 있던 돈을 몽땅 줘 버렸거든. 사기당한 거 아니냐고? 그럴 수도. 근데 어차피 돈이라는 건 쓸 만큼만 있으면 되는 거잖아? 진짜 사기꾼이라는 걸 알게 되면, 그때 돼서 두들겨 패면 그만이야. 게다가 박사가 있는 이상 내가 굶어 죽을 일도 없고.",
+                "cn": "博士吃什么呢，掰我点，我还没吃饭呢。路上遇到个义士，说是家乡遭遇了天灾，在赈灾，我就把钱全给他了。骗子？有可能，不过钱嘛够用就行。真要被骗了，再揍他也来得及。有你在又不怕饿死。"
+            },
+            "asset": "char_445_wscoot/CN_007"
+        },
+        {
+            "id": "char_445_wscoot_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "My swords? This one was given by my adoptive mother. The other was hers—she threw it in my face the day she left. The blood was everywhere. I had tried to convince her to retire from banditry and join the escort business, but she saw it as a betrayal. People... when goals differ, they are quick to call it treachery. She raised me, after all.",
+                "jp": "俺の刀？こっちはおばさんからの贈り物で、こっちは本人が使ってた愛刀だったんだけど、出て行く時に思いっきり顔にぶつけられて、地面が血で真っ赤になったんだよな。あの時は山賊から足を洗って鏢局をやろうって説得したんだけど、あの人からしたらそれは裏切りも同然だったらしい。人の性かねえ、志や道を違えたら、すぐ裏切りだって思っちまうんだ。あの人は俺の育ての親なのにさ。",
+                "kr": "내 칼? 이건 이모가 준 거고, 이건 이모가 쓰던 칼이었어. 산적단을 떠나던 날, 이 칼을 내 얼굴에다 집어 던져서 바닥이 피로 붉어졌던 게 아직도 선해. 내가 산적은 때려치우고 표국 일을 하자고 설득했었는데, 그 사람에겐 배신처럼 느껴졌나 봐. 사람이 다 그렇지 뭐. 뜻과 길이 달라지면 바로 배신으로 받아들이는…… 그 사람은 날 키워준 부모 같은 사람인데도.",
+                "cn": "我的刀？这把是我姨送的，另一把是她的，走之前砸我脸上，血流了满地呢。我当时劝她金盆洗手来搞镖局，她觉得这是背叛。人啊，志不同道不合就觉得是背叛。她可是把我养大的人啊。"
+            },
+            "asset": "char_445_wscoot/CN_008"
+        },
+        {
+            "id": "char_445_wscoot_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Once I no longer have to worry about the escort association, I want to go wander the jianghu, to see what's out there. Want to come along, Doctor? Where to? Haven't thought about it yet. What matters is wandering free like a fowlbeast, traveling only with my two swords, drawing them at the first sign of injustice, and drinking and singing to my heart's delight.",
+                "jp": "鏢局に手が掛からなくなったら、俺は自分の足で世間を渡り歩いてみたいんだ。ドクターも一緒に行くか？目的地？まだ決めてない。自由でいることの方が大事だろ。旅のお供は刀二振りだけ、不義を見れば斬り伏せて、飲んで歌って気ままにさすらう、羽獣も羨むような旅さ……",
+                "kr": "표국 일에 신경 쓰지 않아도 되는 때가 오면, 난 이 대지 곳곳을 마음껏 걸어보고 싶어. 박사도 같이 갈래? 목적지? 아직 안 정했어. 자유롭게 떠돈다는 것 자체가 중요한 거거든. 여행길엔 칼 두 자루만 차고, 불의를 보면 베어 넘기며, 마시고 노래하며 마음 가는 대로 떠도는 거야. 파울비스트도 부러워할 여정이 되겠지……",
+                "cn": "等镖局的事不用我操心了，我打算去真正地走走江湖。你要不要一起，博士？目的地？还没想好。重要的是自在。只带两把刀上路，路见不平提刀就上，喝酒高歌逍遥江湖，连羽兽都羡慕——"
+            },
+            "asset": "char_445_wscoot/CN_009"
+        },
+        {
+            "id": "char_445_wscoot_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Want some dried plums, Doctor? I always eat one when I get sleepy on the night shift. A piece of green plum with no sugar added works better than pinching my thigh. Haha, look at your face! You look like the plum just bit <i>you.</i>",
+                "jp": "ドクター、干し梅食うか？夜勤で眠くなったらいつもこいつで目ぇ覚ましてんだ。砂糖なんかは使ってない青梅だから、太ももをつねるより効くぜ――ハハ、梅に噛みつかれたみたいな顔だな。",
+                "kr": "박사, 건매실 좀 먹을래? 불침번 설 때마다 졸리면 요 녀석으로 잠을 쫓곤 하거든. 설탕 같은 건 안 넣은 청매실이라 허벅지 꼬집는 것보다 효과가 좋다고. 하하, 그 표정, 꼭 매실한테 물린 것만 같네.",
+                "cn": "博士，梅子干要不要？我值夜犯困了就会来一块，青梅子，没放糖，比掐自己大腿的效果好——哈哈，你的表情，好像被梅子干咬了一样。"
+            },
+            "asset": "char_445_wscoot/CN_010"
+        },
+        {
+            "id": "char_445_wscoot_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "You're the Doctor of Rhodes Island? I've heard so much about you. I sign this, and you'll be an official friend of Windscoot. Any help you might need, just— er... no, I know how to write my name. It's—where do I sign?",
+                "jp": "あんたがロドスのドクターだな、噂はかねがね。ここに一筆書けば、あんたはもうこのウィンドスクートの友ってわけだな。これから助けが必要になったら――ってこれ……いや、名前は書けるけど、その……どこに書きゃいいんだ？",
+                "kr": "네가 로도스 아일랜드의 박사구나. 소문은 익히 들었어. 여기에 서명하면, 너도 이제 이 윈드스쿠트의 친구라는 거야. 앞으로 도움이 필요하면…… 흐음 근데 이거…… 아니 그, 이름은 쓸 줄 아는데, 저기…… 어디에 적으면 될까?",
+                "cn": "你就是罗德岛的博士，久仰。签了这个字，你就是我骋风的朋友，以后有需要的地方——呃......不用，名字我是会写的，就是——填哪一格来着？"
+            },
+            "asset": "char_445_wscoot/CN_011"
+        },
+        {
+            "id": "char_445_wscoot_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "My eyelids, they're stuck... Doc, just step on my tail. It's fine, just stomp!",
+                "jp": "ふああ……まぶたがくっついて離れねえ……ドクター、俺の尻尾を踏んづけてくれ。いいから、ひと思いにやってくれ！",
+                "kr": "후아암…… 눈꺼풀이 딱 붙어서, 안 떨어져…… 박사, 내 꼬리 좀 밟아줘. 괜찮으니까, 한 번에 팍!",
+                "cn": "呵啊——眼皮、黏在、一起了。博士，往我尾巴上踩一脚。没事，踩！"
+            },
+            "asset": "char_445_wscoot/CN_012"
+        },
+        {
+            "id": "char_445_wscoot_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Just like when I wore my escort association's badge for the first time. Gotta keep my head bowed and tail tucked. I won't let you lose face, Doc!",
+                "jp": "初めて鏢局の名札を下げた時を思い出すな――尾っぽを引き締めて、誠実にやらねえとなって。ドクターに恥をかかせるわけにはいかないもんな。",
+                "kr": "처음 표국 명찰을 달았을 때가 생각나네…… 꼬리에 힘 딱 주고 성실하게 일해야지 했었는데. 지금도 마찬가지야. 박사에게 누를 끼칠 순 없지!",
+                "cn": "和第一次戴上镖局的工牌时感觉一样——得夹紧尾巴乖乖做人。可不能给你丢脸啊，博士。"
+            },
+            "asset": "char_445_wscoot/CN_013"
+        },
+        {
+            "id": "char_445_wscoot_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "There was this time I picked up a cloudbeast on a solo escort mission. We traveled together for a while. But just before entering the city, I set it free, afraid customers might see it and think I was soft. Now, I suppose I wouldn't be afraid to keep such a companion.",
+                "jp": "昔一人で護送を受け持った時に、道中で拾った雲獣が旅のお供になってくれたことがあった。だけど目的地の街に入る時に、客に見られたら俺が弱々しく映るかななんて考えちまって、追っ払ったんだ。今の俺なら、気兼ねなくあいつをそばに置いとけるんだろうな。",
+                "kr": "예전에 혼자 호송 임무를 맡은 적이 있는데, 길에서 주운 클라우드비스트가 여정의 동반자가 되어준 적이 있었어. 하지만 마을로 내려갈 때 사람들 눈에 내가 약해 보일까 싶어서 내쫓아버렸지. 지금의 나라면…… 그런 건 신경 안 쓰고 그 녀석을 곁에 둘 수 있을 텐데.",
+                "cn": "我有一次一个人走镖，路上捡到只小云兽，和它相伴了一路。但在进城前，我把它放跑了，怕客人看到它，觉得我不够强硬。现在的我，应该不怕留下它了吧。"
+            },
+            "asset": "char_445_wscoot/CN_014"
+        },
+        {
+            "id": "char_445_wscoot_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Three bulkies, twelve mid-sized… all set. Huh, why is there one more here? Did I count wrong?.",
+                "jp": "大が三つ、中が十二個……これで全部だな。あれ、なんで一個余ってんだ？数え間違えたか……？",
+                "kr": "큰 게 3개, 중간이 12개…… 됐다. 어라, 왜 한 개가 남지? 숫자를 잘못 셌나……?",
+                "cn": "大件三个，中件十二个......齐了。呃，这里怎么还有一个，数错了......？"
+            },
+            "asset": "char_445_wscoot/CN_017"
+        },
+        {
+            "id": "char_445_wscoot_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Everyone, keep an eye open, your sword at hand and uniform on. Safety first.",
+                "jp": "みんな目ぇ光らせろ。刀は肌身離さず、一張羅で身を引き締めて、安全第一を心がけろよ。",
+                "kr": "다들 눈 똑바로 떠. 칼은 손에서 놓지 말고, 옷차림도 단정하게! 뭐가 됐든 안전이 제일이다.",
+                "cn": "眼睛都放亮点。刀不离身，衣不离体，安全最要紧。"
+            },
+            "asset": "char_445_wscoot/CN_018"
+        },
+        {
+            "id": "char_445_wscoot_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "The fortune stick reads 'very lucky'! Only took one, two... five draws to get it. What a good sign! Let's go!",
+                "jp": "大吉だ！たった一、二、三……五回で出たんだ。縁起よし！行くぞ！",
+                "kr": "대길이다! 딱 1, 2, 3…… 5번 만에 뽑았어. 운수대통이고! 가자!",
+                "cn": "上上签！只投了一、二、三......五次就出了，好兆头~出发！"
+            },
+            "asset": "char_445_wscoot/CN_019"
+        },
+        {
+            "id": "char_445_wscoot_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "They've got guts, coming at us like this. Don't they recognize our banner? Guess we're in for a fight.",
+                "jp": "踏みとどまる気はねえみたいだが、うちの旗印を知らねえのか？チッ、やるしかねえか。",
+                "kr": "포기할 생각이 없어 보이는데. 우리 깃발을 모르나? 쳇, 어쩔 수 없지.",
+                "cn": "还敢过来，不认得我们的旗子吗？啧，只能动手了。"
+            },
+            "asset": "char_445_wscoot/CN_020"
+        },
+        {
+            "id": "char_445_wscoot_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Just tell me which one to cleave.",
+                "jp": "どいつを叩っ切りゃいい？",
+                "kr": "어떤 놈부터 벨까? 말만 해.",
+                "cn": "砍哪个，你说。"
+            },
+            "asset": "char_445_wscoot/CN_021"
+        },
+        {
+            "id": "char_445_wscoot_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Just tell me where to go.",
+                "jp": "どこに向かやぁいい？",
+                "kr": "어디로 갈까? 네 말대로 할게.",
+                "cn": "去哪边，听你的。"
+            },
+            "asset": "char_445_wscoot/CN_022"
+        },
+        {
+            "id": "char_445_wscoot_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "In position. Awaiting your command.",
+                "jp": "位置に着いた。命令をくれ。",
+                "kr": "위치에 도착했어. 명령해 줘.",
+                "cn": "到位置了，等你命令。"
+            },
+            "asset": "char_445_wscoot/CN_023"
+        },
+        {
+            "id": "char_445_wscoot_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Give the signal and I'll do it.",
+                "jp": "合図が出たら斬るぜ。",
+                "kr": "신호 주면 바로 벨게.",
+                "cn": "暗号一出，我就动手。"
+            },
+            "asset": "char_445_wscoot/CN_024"
+        },
+        {
+            "id": "char_445_wscoot_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Don't pick a fight if you're not prepared to get punched.",
+                "jp": "ふっかけてくる度胸はあんのに、やり合う度胸はねえのか？",
+                "kr": "덤빌 배짱만 있고, 싸울 배짱은 없나?",
+                "cn": "有胆子找事，没胆子挨打？"
+            },
+            "asset": "char_445_wscoot/CN_025"
+        },
+        {
+            "id": "char_445_wscoot_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "A few broken bones would be a good lesson for you.",
+                "jp": "骨何本か、授業料にもらってくぜ！",
+                "kr": "뼈 몇 개 정도는 수업료로 받아주지!",
+                "cn": "断你几根骨头，你就当买个教训！"
+            },
+            "asset": "char_445_wscoot/CN_026"
+        },
+        {
+            "id": "char_445_wscoot_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Want my goods, none; else my life, one. Come and take it if you dare!",
+                "jp": "渡せる荷はねえが、命ならここに一つある。取れるもんなら取ってみろ。",
+                "kr": "넘길 짐은 없어도, 목숨이라면 여기 하나 있는데. 가져갈 수 있다면 가져가 보던가.",
+                "cn": "要货没有，要命一条，有本事就来取。"
+            },
+            "asset": "char_445_wscoot/CN_027"
+        },
+        {
+            "id": "char_445_wscoot_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "I've already drawn my swords. You can beg for your life after we've fought.",
+                "jp": "許してくれ？泣き言はこの刀が鞘に納まってから聞いてやる！",
+                "kr": "용서해 달라고? 그건 나중에. 칼을 빼 들었는데 뭐라도 베어야지.",
+                "cn": "想求饶？刀已出鞘，打完这场再说！"
+            },
+            "asset": "char_445_wscoot/CN_028"
+        },
+        {
+            "id": "char_445_wscoot_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "We're friends for life from this day on, Doctor. One word from you and I'll rush to your aid, even if I'm on the other side of Terra—that's a promise.",
+                "jp": "ドクター、今日から俺たちは生死を共にした仲だ。一声くれれば、テラのどこにいても飛んでくるからな、約束だ。",
+                "kr": "박사, 오늘부터 우린 생사를 함께한 사이야. 도움이 필요하다면 언제든 불러. 테라 어디에 있든 달려올 테니까. 약속할게.",
+                "cn": "博士，从今天起咱们就是过命的交情了。以后只要你吱一声，隔着半个泰拉我都赶过来帮你，说定了。"
+            },
+            "asset": "char_445_wscoot/CN_029"
+        },
+        {
+            "id": "char_445_wscoot_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "The goods are intact, and everyone's unhurt! Ahhh, damn it!—I've dreamed of having such a reliable escort leader as you, Doctor.",
+                "jp": "荷物も揃ってるし全員傷一つないぜ！あーあ、ちくしょう――うちにもドクターみたいに頼れる頭がいたらなんて夢見ちまうよ！",
+                "kr": "짐도 다 있고, 전원 무사하다니! 아아~ 젠장…… 박사 같은 믿음직한 표두가 있었으면 하고 수도 없이 상상했었는데.",
+                "cn": "货都在，人也毫发无伤！啊，可恶——做梦都想要博士这样可靠的镖头——"
+            },
+            "asset": "char_445_wscoot/CN_030"
+        },
+        {
+            "id": "char_445_wscoot_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Look at him run! He even lost his shoes, hahaha! As long as the goods are safe, that's all that matters. Bandits never forget an ass-kicking. Next time they hear our association's escort chant, they'll stay far away.",
+                "jp": "あいつ、すっぽぬけた靴にも構わず逃げてったな、ハハハ――荷物が無事ならそれでいい。賊は一度痛い目見たら忘れないから、これからは鏢局のかけ声を聞いただけで避けて通るはずだ。もう二度とケンカ売っちゃこねえよ。",
+                "kr": "저 녀석, 신발 벗겨진 채로 도망가는 것 좀 봐, 하하하! 짐만 무사하면 됐지 뭐. 도적놈들은 얻어맞은 건 절대 안 잊거든. 이걸로 우리 표국 이름만 들어도 설설 기어다닐 거야. 앞으로 감히 덤비지도 못할 거고.",
+                "cn": "那人，鞋都跑丢了，哈哈哈——货没丢就好，强盗最记打，下次远远听到我们镖局的号子就会绕道，没胆子再来骚扰了。"
+            },
+            "asset": "char_445_wscoot/CN_031"
+        },
+        {
+            "id": "char_445_wscoot_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "I'll keep them at bay while you go get backup. Want my goods? Over my dead body!",
+                "jp": "俺が止めとくから、援軍を呼んできてくれ。俺が立ってる限り、誰にも荷物は奪わせねえ！",
+                "kr": "내가 막고 있을 테니까, 지원을 불러줘. 내 짐을 넘보려면, 날 밟고 지나가야 할 거다!",
+                "cn": "我挡着，你去叫后援。想抢我的货，得从我身上踏过去！"
+            },
+            "asset": "char_445_wscoot/CN_032"
+        },
+        {
+            "id": "char_445_wscoot_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Oh, it's nothing, just a habit. Always make sure a room's safe before going in. Well, the facilities are secure, but the personnel are a bit... mixed. However, if you trust them, I'll consider it safe.",
+                "jp": "ああ、何でもない。部屋に入る前に安全確認するのが習慣になってんだ。そうだな……設備自体は安全だけど、人がちょっと多いな。だけど、あんたが信頼してる奴らだし、安全ってことにしとくか。",
+                "kr": "아아, 별거 아니야. 방에 들어가기 전에 안전을 확인하는 게 습관이라. 흐음…… 설비 자체는 안전한데, 사람이 좀 많네. 그래도 네가 믿는 사람들이라니 안전한 걸로 칠게.",
+                "cn": "呃，没什么，习惯了，进屋前得先检查安全情况。嗯......设施是很安全，就是人员混杂。不过，既然你信任他们，我也就当是安全的好了。"
+            },
+            "asset": "char_445_wscoot/CN_033"
+        },
+        {
+            "id": "char_445_wscoot_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Come on, come on—argh! Almost caught that Burderupt! Oh, er, yes, this terminal is normally used for taking inventory, but there's always a way to install games. Keep it a secret, will you?",
+                "jp": "待って、邪魔すんな――クッソー惜しい、すんでのとこでヒダジュウを逃がしちまった！ああ、こいつは荷物管理に使ってるタブレットだけど、やろうと思えばゲームだって入れられるんだ。シーっ、他言無用だぜ。",
+                "kr": "잠깐잠깐, 건드리지 말아봐…… 젠장, 거의 다 잡은 버더럽트를 놓쳐버렸어! 아, 이건 짐 관리용 태블릿인데, 게임도 설치할 수 있거든. 쉿, 이건 비밀이다!",
+                "cn": "别、别动——差点就抓到喷火驮驮了！这确实是平时点货用的终端，不过游戏嘛，总有办法装进去的。嘘，保密啊。"
+            },
+            "asset": "char_445_wscoot/CN_034"
+        },
+        {
+            "id": "char_445_wscoot_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Haha... you're allowed just this once. Ears are my weakness, after all.",
+                "jp": "ハハ、触るのは一回だけって言ったろ。耳が弱点なんだよ、俺。",
+                "kr": "하하, 만지는 건 딱 한 번만이라니까. 귀가 약점이거든.",
+                "cn": "哈哈，只准碰一下。耳朵可是我的弱点。"
+            },
+            "asset": "char_445_wscoot/CN_036"
+        },
+        {
+            "id": "char_445_wscoot_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_445_wscoot/CN_037"
+        },
+        {
+            "id": "char_445_wscoot_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Happy New Year, Doctor! Yeah, I'm preparing to set out. This is the peak season in my line of work. It's nothing. On the contrary, it's a good omen to get busy on the first day of the New Year. Hope we both have a prosperous year, Doctor!",
+                "jp": "ドクター、あけましておめでとう。そうそう、これから出発するとこだ。この時期うちの業界は繁忙期だからな。別に苦じゃねえよ。新年一発目から仕事があるなんて、縁起のいい話だろ。新たな一年も、お互いまた一段といい年にしような、ドクター。",
+                "kr": "박사, 새해 복 많이 받아. 맞아. 지금 출발하려던 참이었어. 이 시기가 우리 업계에선 제일 바쁠 때거든. 딱히 힘들진 않아. 새해 첫날부터 일이 있다는 건 오히려 복 받은 거지. 자, 올해도 우리 둘 다 더 잘 지내보자, 박사.",
+                "cn": "博士，新年好啊。嗯，正准备出发，这段时间正好是我们这行的忙季。不辛苦，新年第一天就有的忙，好兆头啊。新的一年，我们都要越过越好啊，博士。"
+            },
+            "asset": "char_445_wscoot/CN_038"
+        },
+        {
+            "id": "char_445_wscoot_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Doctor. Yeah, I just finished training. I'll help out once I've cleaned up.",
+                "jp": "ようドクター！ああ、今トレーニング終わりだ。身支度整えてすぐ手伝いに来るから待っててくれ。",
+                "kr": "여어 박사! 아아, 훈련이라면 막 끝났어. 옷차림만 좀 정리하고 바로 도와주러 올 테니까 잠깐만 기다려.",
+                "cn": "博士！嗯，刚练完，收拾收拾就来给你帮忙。"
+            },
+            "asset": "char_445_wscoot/CN_042"
+        },
+        {
+            "id": "char_445_wscoot_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Cut the crap, just stew it. The Doctor and I are friends for life, we'll have nothing but the finest birthday food! Stew the entire cystybeast! Hey, our usual bowls aren't fit for the Doctor. Find a smaller one, just enough for one catty of rice!",
+                "jp": "聞くまでもねえだろ、全部入れんだ全部。ドクターは俺と生死を共にした仲なんだから、誕生日にはもちろん最高のご馳走をしねえとな。瘤獣まるごと一匹分煮込んじまえ！おいそこ――俺たち用の大鉢じゃドクターも困るだろ、小さなお椀に変えて、メシは一斤くらいよそえば十分だからな！",
+                "kr": "뭘 물어봐, 다 넣어, 다. 박사는 나와 생사를 함께한 사이인데, 당연히 생일은 최고로 대접해야지. 치스티비스트도 한 마리 통째로 삶아! 거기 잠깐, 우리가 쓰는 사발은 안 되지. 좀 작은 공기로 바꿔. 저게 좋겠다 저거. 밥은 한 근 정도면 충분할 거 같네!",
+                "cn": "不用问，炖了炖了。博士和我可是过命的交情，过生日当然得吃最好的，把整头瘤兽都炖了！哎——别把我们平时用的碗给博士用，换个小点的，换那个碗，只装一斤饭！"
+            },
+            "asset": "char_445_wscoot/CN_043"
+        },
+        {
+            "id": "char_445_wscoot_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "We developed several new routes last year to deliver goods for Rhodes Island. Those rascals were so busy they had no time to cause mischief, but they looked much more spirited and energetic. Better life to chase, more glow on face, as it's said. Hahaha... All that's to say, we look forward to your continued support for our business this year, Doctor.",
+                "jp": "ロドスの荷物を運ぶために、ここ一年でうちの鏢局は新しく何本か交易路を開拓したんだぜ。へそ曲がりなうちの連中も忙殺されて文句を垂れるどころじゃなかったけど、みんな前よりずっと元気になったよ。人間って、生活に張り合いができると表情も生き生きしてくるもんだ。これからもどうかごひいきに頼むぜ、ドクター。",
+                "kr": "로도스 아일랜드의 짐을 호송하기 위해, 지난 한 해 동안 우리 표국이 새로운 교역로를 몇 군데 더 뚫었어. 성깔 더러운 우리 애들도 바쁘다 보니 투덜거릴 새도 없더라 하하. 근데 오히려 전보다 훨씬 활기차졌어. 사람이 다 그렇지. 삶에 보람이 생기면 표정부터 달라지니까. 앞으로도 잘 부탁해, 박사.",
+                "cn": "去年为了帮罗德岛送货，我们镖局开发了几条新的商路。那帮不服管的忙得根本没空抱怨，但是精气神却好了不少。人嘛，生活有奔头，脸色就红润。今年也要多多照顾我们生意啊，博士。"
+            },
+            "asset": "char_445_wscoot/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Austin Yang",
+            "global": "Austin Yang"
+        },
+        "cn": {
+            "native": "郭若林",
+            "global": "Ruolin Guo"
+        },
+        "jp": {
+            "native": "住谷哲栄",
+            "global": "Tetsuei Sumiya"
+        },
+        "kr": {
+            "native": "박기욱",
+            "global": "Park Ki-wook"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

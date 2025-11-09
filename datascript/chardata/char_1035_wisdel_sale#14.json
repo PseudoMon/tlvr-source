@@ -1,0 +1,644 @@
+{
+    "charid": "char_1035_wisdel_sale#14",
+    "nameid": "wisdel-sale",
+    "names": {
+        "en": "Wiš'adel SALE",
+        "jp": "ウィシャデル SALE",
+        "kr": "위셔델 SALE",
+        "cn": "维什戴尔 SALE"
+    },
+    "voices": [
+        {
+            "id": "char_1035_wisdel_sale#14_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Oh, Doctor, your old flame really was no good at housekeeping. Look at all this 'trash' she left behind. I'm in a good mood today, so I'll clean up after her.",
+                "jp": "はあ、ドクター、あんたの元カノは部屋の整理すらままならないみたいねぇ。こーんなにたくさんの「ゴミ」を溜め込むなんて。今日は気分が良いから、あたしがあいつに代わって掃除をしてあげるわ。",
+                "kr": "하아. 박사, 네 전여친은 방 청소도 제대로 못 하나 봐? '쓰레기'를 이렇게나 많이 쌓아놓다니 말이야. 오늘은 기분 좋으니까, 내가 그 녀석 대신에 청소해 줄게.",
+                "cn": "唉，博士，你的老相好不太会整理房间啊，堆了这么多的“垃圾”。我今天心情好，就来帮她打扫一下吧。"
+            },
+            "asset": "char_1035_wisdel_sale#14/CN_001"
+        },
+        {
+            "id": "char_1035_wisdel_sale#14_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Oh? From up here, you can see Terra really is round. Look, Originium's almost covered the whole thing. Wow, how lucky are we? We won't have to worry about running out of it. Not gonna marvel at your masterpiece, Doctor? C'mon, cheer up, at least we still have time to do something about it.",
+                "jp": "へえ？ここから見るとテラは本当に一つの球なのね。もうすぐ源石が表面を全部覆いそうな感じじゃない。つまりあたしたちに使いきれないほどの源石があるってことよね。ほらあんた、こっちに来ないの？自分の傑作を見てみなさいよ。まったく、いい加減その辛気臭いツラやめたら。少なくともまだ、あたしたちにできることは残ってるんだから。",
+                "kr": "흐음? 여기서 보이는 테라는 진짜 공이네. 봐, 곧이라도 오리지늄이 표면을 전부 덮어버릴 것 같은 느낌이잖아. 그렇다는 건 우리가 다 쓰지도 못할 만큼의 오리지늄이 있다는 거네. 야, 너. 여기로 안 와? 네 걸작을 보라고. 아, 진짜. 그 썩은 표정 좀 그만 지어. 적어도 우리가 할 수 있는 일은 아직 남아있으니까.",
+                "cn": "欸？从这里看，泰拉真的是一个球啊。看啊，源石都已经快要把它铺满了，这下我们有用不完的源石了。博士，你不来看看自己的杰作吗？得了，振作点，至少眼前我们还来得及做点什么。"
+            },
+            "asset": "char_1035_wisdel_sale#14/CN_002"
+        },
+        {
+            "id": "char_1035_wisdel_sale#14_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Steam Knights, Royal Guards, Spire Casters? Originium sure is something, able to copy all those losers. Hah, right on cue. Hey, you old fossils, weren't you screaming about vengeance all those years you were stuck in the Furnace? Well, here's your chance. Don't tell me you were all just talking shit.",
+                "jp": "蒸気騎士、皇帝の近衛兵に、高塔術師まで？源石は本当におっもしろいわねぇ、こんなものまでコピーできちゃうなんて。ハッ、ちょうどいいわ。老いぼれども、あんたたちが溶炉の中で長年ぴーぴー恨みがましく叫んできた復讐ね、今がそのチャンスよ。まさか口だけだったなんて言わないわよね？",
+                "kr": "증기 기사, 황제의 근위병에, 고탑 캐스터까지? 오리지늄은 정말 흥미롭네. 이런 것까지 복사할 수 있다니. 하핫, 딱 좋아. 늙다리들, 너네가 용광로 안에서 한세월 빽빽거리면서 원망스럽게 외치던 복수 말인데, 지금이 그 찬스야. 설마 그냥 해본 말이었다고 할 건 아니지?",
+                "cn": "蒸汽骑士、内卫、高塔术师？源石可真有意思，这都能复制出来。哈，正好。老东西们，你们在熔炉里哀嚎了那么多年的复仇，现在机会来了，别告诉我，你们只是嘴上说说。"
+            },
+            "asset": "char_1035_wisdel_sale#14/CN_003"
+        },
+        {
+            "id": "char_1035_wisdel_sale#14_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Are those... Feranmuts? Huh, never thought I'd see a live one. If Hoederer was here, he'd definitely take the chance to babble on and on and on about them, then Ines would tell him to stop giving useless lectures with that sharp tongue of hers... Hmph. Give me a sec, will you? I'm gonna kill one, give you the chance to duke it out down below.",
+                "jp": "あれは……巨獣？へーえ、まさか生のやつにお目にかかれるなんてね。へドリーがいたら、またここぞとばかりに長ったらしい話を広めまくって、それでイネスに無駄なことしてるって笑われるでしょうね……ふん、待ってなさい。あんたたちが下で喧嘩できるように一匹殺してくるから。",
+                "kr": "저건…… 베헤모스? 호오~ 실물을 영접하게 될 줄이야. 외드레르가 있었다면 또 이때다 싶어서 장황한 얘기나 늘어놓다가 이네스한테 쓸데없는 짓 한다고 비웃음당했겠지…… 흥, 기다리라고. 너희가 밑에서 싸울 수 있게 한 마리 해치우고 올 테니까.",
+                "cn": "那是......巨兽？嚯，居然能见到活的。要是赫德雷在这，肯定又要借题发挥、长篇大论，然后伊内丝就会嘲笑他做无用功......哼，等着吧，我这就杀一只，好让你们在下面吵一架。"
+            },
+            "asset": "char_1035_wisdel_sale#14/CN_004"
+        },
+        {
+            "id": "char_1035_wisdel_sale#14_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Hey, why're you easing up on the firepower over there? Elite operators? Ugh, she really knows how to twist the knife. What, want me to give you some time for a high-five sesh with your old pals? Hmph, not like you even have hands. If you lose your nerve, oh right, no nerves left, how about—You'll do it yourself? Y'know, once we're done here, it wouldn't be so bad to let you yap for a bit.",
+                "jp": "ちょっとあんた、火力が落ちてるんじゃない。エリートオペレーター？ちっ、本当にクソ趣味が悪い敵ね。どう、昔の仲間とハイタッチする時間をあげた方がいいかしら？ふんっ、あんたが忍びないってんなら、あたしが――自分でやる？そっ。全部終わったら、あんたのぼやきをちょっとばかり聞いてやってもいいわよ。",
+                "kr": "잠깐 너, 화력이 떨어졌잖아. 정예 오퍼레이터라고? 칫, 진짜 취향 한 번 쓰레기 같은 적이네. 뭐, 옛 동료랑 하이파이브할 시간이라도 줄까? 흥, 못 견디겠으면 내가…… 직접 하겠다고? 그래. 다 끝나고 네 우는소리 정도는 조금 들어줄게.",
+                "cn": "喂，你那边的火力怎么变弱了？精英干员？啧，真会挑人。怎么，要不要我给你点时间，让你去和老伙计们击个掌？哼，你要是下不了手，我可以——你自己来？等结束了，听你唠叨一会也不是不行。"
+            },
+            "asset": "char_1035_wisdel_sale#14/CN_005"
+        },
+        {
+            "id": "char_1035_wisdel_sale#14_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "You killed the most important person in my life, and now, it's my turn to go kill yours. That'll make us even. What, thought I was gonna say something nice? You'll have to forgive me, all the nice girls are dead. You mad? Good. That's the only thing keeping us alive.",
+                "jp": "あんたはあたしの一番大事な人を死に追いやった。だから今度はあたしがあんたの一番大事な人を殺す番よ。それでおあいこってもんでしょ。ハッ、まさかあたしが何か優しい言葉をかけるとでも思ってたの？悪いわね、そういうのが得意な連中は全員死んだわ。怒った？それでいいのよ。あたしたちは、それを支えに生きてくしかないんだから。",
+                "kr": "너는 나의 가장 소중한 사람을 죽음으로 몰아넣었어. 그러니까 이번엔 내가 너의 가장 소중한 사람을 죽일 차례야. 이럼 서로 비긴 셈이잖아. 하, 내가 설마 무슨 상냥한 말이라도 해줄 줄 알았어? 미안하게 됐네, 그런 거 잘하는 애들은 다 죽었거든. 화났어? 그걸로 충분해. 우리는 그거에 매달려서 살아갈 수밖에 없으니까.",
+                "cn": "你害死了我最重要的人，现在轮到我去杀你最重要的人了，这样我们就扯平了。呵，难道你在期待我说什么好话？不好意思，会说好话的人已经死光了。生气了？那就对了，我们只能靠这个活下去了。"
+            },
+            "asset": "char_1035_wisdel_sale#14/CN_006"
+        },
+        {
+            "id": "char_1035_wisdel_sale#14_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Stop grumbling, Doctor. It wasn't my idea to turn you into a soul and stuff you into a gun. By the time I got there, you were the only one left alive, and only barely. It's cramped in there? Well, be a good little cannon, and once we take back the ship, I'll move you into something a little roomier. How's that sound?",
+                "jp": "ドクター、いつまでも根に持たないでよね。別にあんたを魂にして武器にねじ込みたいと思ってしたわけじゃないんだから――あたしが現場に着いた時、あんただけが辛うじて息があったの。狭い？いい子にしてたら、あの船を奪い返したあかつきにはもっと大きなのに変えてあげるわよ。いいわね？",
+                "kr": "박사, 계속 투덜대지 마. 딱히 널 영혼으로 만들어서 무기에 쑤셔 넣으려고 그랬던 건 아니니까…… 내가 현장에 도착했을 때 간신히 숨이라도 붙어 있던 건 너밖에 없었다고. 좁아? 얌전히 굴면, 저 배를 다시 빼앗은 다음에 더 큰 걸로 바꿔 줄게. 알았지?",
+                "cn": "博士，别抱怨了，又不是我想把你做成灵魂塞进武器——等我赶到的时候，只有你还剩一口气了。不够宽敞？你要是表现得好，等我们把那艘船抢回来，我就给你换一把大家伙，怎么样？"
+            },
+            "asset": "char_1035_wisdel_sale#14/CN_007"
+        },
+        {
+            "id": "char_1035_wisdel_sale#14_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "That little bunny gave me this bottle of nail polish before it all went down, said the color really suited me... Never thought I'd be reduced to sharing a sob story like that with you. What a tragic life I lead. But, whichever way you look at it, you're still alive, and chatting with you's much better than chatting with a bunch of tombstones.",
+                "jp": "このネイル、前に子ウサギがあたしにくれたやつなの。この色があたしに似合うってね……はぁ、まさかこういう話をする相手があんたしかいなくなるなんてね。惨めったらないわ。でも、まっ、なんであれあんたは生きているわけだし。並んだ墓石に話しかけるよりはマシね。",
+                "kr": "이 매니큐어, 예전에 꼬마 토끼가 나한테 줬던 거야. 이 색이 나랑 어울린다면서…… 하아. 설마 이런 얘기를 할 상대가 너밖에 안 남을 줄이야. 비참하기 짝이 없네. 그래도 뭐, 아무튼 너는 살아있는 거니까. 늘어선 묘비에다 말 거는 것보단 낫네.",
+                "cn": "这瓶指甲油，还是小兔子之前送给我的，她说这个颜色和我很搭......唉，我居然沦落到只能跟你分享这种事，真是悲惨。不过，不管怎么说，你好歹还算活着，跟你聊，比跟一堆墓碑聊强。"
+            },
+            "asset": "char_1035_wisdel_sale#14/CN_008"
+        },
+        {
+            "id": "char_1035_wisdel_sale#14_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Surface signals are gone, and our way out's cut off. In other words, whatever comes next, I'll be facing it down with you. Can't think of anything scarier than that. I'm gonna have to take a page out of Hoederer's book and write a memoir of my own. I'll call it: <i>The Two Crises of Terra: Originium and the Doctor</i>.",
+                "jp": "地面の信号が消えて、退路も断たれた。つまり、これから先何があっても、あたしはあんたと二人で向き合うしかないってわけね。ったく、これ以上恐ろしいことはないわよ。いつか絶対にへドリーみたいに本を書いてやるわ。タイトルはね、『テラの二大危機――源石とドクター』にでもしとくわ。",
+                "kr": "지면의 신호가 사라지고, 퇴로도 끊겼어. 그러니까, 이제부터는 뭐가 일어나든 나랑 너 둘이서 상대할 수밖에 없다는 거지. 진짜, 이것만큼 무서운 게 없다니까. 언젠가 반드시 외드레르처럼 책을 써 주겠어. 제목은, '테라의 양대 위기: 오리지늄과 박사' 정도로 해 둘게.",
+                "cn": "地面信号消失了，退路也被切断了，也就是说，接下来不管发生什么，我都只能跟你一起面对了，真是没有比这更恐怖的事了。以后我一定学赫德雷写本书，书名就叫《泰拉两大危机：源石和博士》。"
+            },
+            "asset": "char_1035_wisdel_sale#14/CN_009"
+        },
+        {
+            "id": "char_1035_wisdel_sale#14_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "This area all clear? Ahh... I think I'm gonna find someplace to take a nap.",
+                "jp": "この辺は綺麗にし終わったの？はぁ……どこかいい感じのところでゆっくり眠りたいわね。",
+                "kr": "이 근처는 깔끔하게 정리했어? 하아…… 어딘가 느낌 좋은 데서 느긋하게 자고 싶네.",
+                "cn": "这一带清理干净了？啊......好想找个地方睡一觉。"
+            },
+            "asset": "char_1035_wisdel_sale#14/CN_010"
+        },
+        {
+            "id": "char_1035_wisdel_sale#14_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "We're finally here, Doctor. Is this ship floating out in space supposed to be an old haunt of yours? What, feeling anxious? Well too bad, you don't have a choice. 'Wiš'adel', here to destroy your Originium project now that it's running wild.",
+                "jp": "やっと乗れたわ。あんたにとっちゃ宇宙に浮かぶ実家だろうけれど、惜しがっても無駄よ。「ウィシャデル」があんたたちの狂った源石計画を粉々にするから。",
+                "kr": "겨우 탔네. 네게는 우주를 떠다니는 고향집이겠지만, 아까워해도 소용없어. '위셔델'이 너희의 그 정신 나간 오리지늄 계획을 박살 내버리러 왔으니까.",
+                "cn": "终于上来了，博士，这艘漂在太空里的船算是你的老家？心疼了吗？不过也由不得你了。“维什戴尔”，来摧毁你们疯狂的源石计划了。"
+            },
+            "asset": "char_1035_wisdel_sale#14/CN_011"
+        },
+        {
+            "id": "char_1035_wisdel_sale#14_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Doctor, if you keep mumbling battle plans in my ears, I'm gonna toss you out the airlock.",
+                "jp": "フード、それ以上あたしの耳元で作戦計画をごちゃごちゃ言うなら、ここから放り出すわよ。",
+                "kr": "야, 후드. 그 이상 내 귀에 대고 작전 계획을 주절주절 떠들어대면, 밖으로 집어 던져 버릴 거야.",
+                "cn": "博士，你再在我耳边重复作战计划，我就把你扔出去。"
+            },
+            "asset": "char_1035_wisdel_sale#14/CN_012"
+        },
+        {
+            "id": "char_1035_wisdel_sale#14_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Alright, as the Speaker of Kazdel, I hereby dub thee 'Destroyer of the World'! Don't like it? Then once you've fixed your mess, I'll give you a new title. How's 'Betrayer of the World' sound?",
+                "jp": "よし、このあたしがカズデルの議長として、正式にあんたを「世界の破壊者」に認定するわ！気に入らない？ならこうしましょ。あんたがここのことを解決したら、称号を変えてあげる。「世界の裏切者」なんてどうかしら？",
+                "kr": "좋아, 이 내가 카즈델 의장으로서, 너를 '세계 파괴자'로 인정해 줄게! 맘에 안 들어? 그럼 이렇게 하자고. 네가 이쪽 일을 해결하면 칭호를 바꿔줄게. '세계의 배신자'같은 건 어때?",
+                "cn": "好，我作为卡兹戴尔议长，现在正式认定你为“世界毁灭者”！不喜欢？这样吧，等你把这里的事解决了，我再给你换个称号，你觉得“世界背叛者”怎么样？"
+            },
+            "asset": "char_1035_wisdel_sale#14/CN_013"
+        },
+        {
+            "id": "char_1035_wisdel_sale#14_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Look at all the assholes we buried along the way. You won't find a more legendary Sarkaz mercenary than me in all of Terra. How are you gonna honor me? Oh, You'll remember me after I die? Hah, you better walk the walk, then.",
+                "jp": "ここに来るまであたしたちが片付けたやつらを並べてみなさいよ。テラ中探したって、あたしより伝説的なサルカズの傭兵はいないでしょ。あんた、どうやってあたしのことを表彰するのかしら？あたしが死んだ後も覚えておく？ハッ、本当にできるんでしょうね。",
+                "kr": "여기 오기까지 우리가 해치운 녀석들을 나열해 봐. 온 테라를 뒤져도 나보다 전설적인 살카즈 용병은 없을걸? 너는 어떻게 나를 표창해 주려나? 내가 죽은 뒤에도 기억해 주겠다고? 하, 진짜 그럴 수 있으려나.",
+                "cn": "看看我们一路上干掉的家伙，整个泰拉应该也找不出比我更传奇的萨卡兹佣兵了吧。你准备怎么表彰一下我？在我死后也会记得我？哈，你最好说到做到。"
+            },
+            "asset": "char_1035_wisdel_sale#14/CN_014"
+        },
+        {
+            "id": "char_1035_wisdel_sale#14_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Now where should I clean today~",
+                "jp": "今日はどこを掃除に行こうかしら～。",
+                "kr": "오늘은 어디를 청소하러 가 보실까~",
+                "cn": "今天要去哪里打扫呢~"
+            },
+            "asset": "char_1035_wisdel_sale#14/CN_017"
+        },
+        {
+            "id": "char_1035_wisdel_sale#14_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Who we're killing, that's up to me. How we're killing them, I'm open to suggestions.",
+                "jp": "誰をヤるかはあたしが決める。けど、どうヤるかは、意見を聞いてやってもいいわ。",
+                "kr": "누구를 죽일지는 내가 정해. 그래도 어떻게 죽일지는 들어줄 수 있어.",
+                "cn": "要杀谁，我说了算，不过怎么杀，你可以提意见。"
+            },
+            "asset": "char_1035_wisdel_sale#14/CN_018"
+        },
+        {
+            "id": "char_1035_wisdel_sale#14_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Hello, space~ Housekeeping here~ Ready to clean~",
+                "jp": "うちゅーおーそーじー、はーじーまーるーよー。",
+                "kr": "우주 대청소, 시작해 볼까?",
+                "cn": "太~空~大~扫~除，开始喽——"
+            },
+            "asset": "char_1035_wisdel_sale#14/CN_019"
+        },
+        {
+            "id": "char_1035_wisdel_sale#14_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "If they're making my life difficult, I'll make theirs twice as hard. It's always been that simple.",
+                "jp": "あたしの邪魔をするやつがいたら、あたしもそいつに生きた心地はさせない。いつだってシンプルよ。",
+                "kr": "나를 방해하는 놈이 있다면, 나도 그놈한테 살아있다는 기분이 안 들게 해 줄 거야. 늘 간단하지 뭐.",
+                "cn": "谁不让我好过，我就不让谁好过，永远都是这么简单。"
+            },
+            "asset": "char_1035_wisdel_sale#14/CN_020"
+        },
+        {
+            "id": "char_1035_wisdel_sale#14_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "The good news is, today, they're all gonna die here.",
+                "jp": "良い知らせがあるわ。今日があいつら全員の命日よ。",
+                "kr": "좋은 소식이 있어. 쟤들 전부 오늘이 제삿날이야.",
+                "cn": "好消息是，今天，他们都会死在这里。"
+            },
+            "asset": "char_1035_wisdel_sale#14/CN_021"
+        },
+        {
+            "id": "char_1035_wisdel_sale#14_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "The bad news is, we both might just die here with them.",
+                "jp": "悪い知らせがあるわ。あたしたちも今日が命日になるかもね。",
+                "kr": "나쁜 소식이 있어. 우리도 오늘이 제삿날이 될지도 모르겠는데.",
+                "cn": "坏消息是，我们可能也会死在这里。"
+            },
+            "asset": "char_1035_wisdel_sale#14/CN_022"
+        },
+        {
+            "id": "char_1035_wisdel_sale#14_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "I'll make you shriek so loud the stars'll hear you.",
+                "jp": "お星さまにあんたたちの悲鳴を聞かせてやるわ。",
+                "kr": "별님에게 너희의 비명을 들려줄게.",
+                "cn": "我会让星星都能听到你们的惨叫声。"
+            },
+            "asset": "char_1035_wisdel_sale#14/CN_023"
+        },
+        {
+            "id": "char_1035_wisdel_sale#14_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "I'll carve my name onto every little bit of Originium out there.",
+                "jp": "あたしの名前を全ての源石に刻んでやるわよ。",
+                "kr": "내 이름을 모든 오리지늄에 새겨주겠어.",
+                "cn": "我会把我的名字刻在每一块源石上。"
+            },
+            "asset": "char_1035_wisdel_sale#14/CN_024"
+        },
+        {
+            "id": "char_1035_wisdel_sale#14_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Get yelling, Doctor. Your friends are waiting~",
+                "jp": "大声出してみなさいよドクター、お友達が待ってるわよ。",
+                "kr": "큰 소리 좀 내 봐, 박사. 친구들이 기다리고 있다고.",
+                "cn": "吼出声来，博士，你的朋友们都等着呢~"
+            },
+            "asset": "char_1035_wisdel_sale#14/CN_025"
+        },
+        {
+            "id": "char_1035_wisdel_sale#14_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Look at you all. Destroyed half the world, but you never figured out how to beat <i>me.</i>",
+                "jp": "あんたたちって、世界を半分滅ぼしたってのに、まーだあたしを倒せないなんて無様ね。",
+                "kr": "너네도 말이야, 세계를 반쯤 멸망시킨 주제에 아직도 나를 못 쓰러뜨렸다니 진짜 꼴사납네.",
+                "cn": "瞧瞧你们，毁灭了半个世界，居然还没学会怎么打败我。"
+            },
+            "asset": "char_1035_wisdel_sale#14/CN_026"
+        },
+        {
+            "id": "char_1035_wisdel_sale#14_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "C'mon, let's see what tricks you jackasses kept up your sleeves.",
+                "jp": "来なさいよ。あんたたちカスどもにどんな芸があるか見てやるわ。",
+                "kr": "어디 와 봐. 너희 같은 쓰레기들도 무슨 재주가 있는지 봐 줄게.",
+                "cn": "来啊，让我看看你们这些渣滓还有什么花样。"
+            },
+            "asset": "char_1035_wisdel_sale#14/CN_027"
+        },
+        {
+            "id": "char_1035_wisdel_sale#14_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Too bad, so sad. Not even ashes left.",
+                "jp": "あ～あ、残念ねぇ、塵すら残らなかった。",
+                "kr": "아아~ 아깝네. 먼지도 안 남았어.",
+                "cn": "哎呀，真可惜，连灰都没剩下。"
+            },
+            "asset": "char_1035_wisdel_sale#14/CN_028"
+        },
+        {
+            "id": "char_1035_wisdel_sale#14_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "The further we go, the quieter you get. I know, I know, you've got other ideas about the out-of-control Originium she left behind. I'm just wondering... She hurt you so bad you ended up like this. Is she really worth it?",
+                "jp": "あたしたちが進むほどに、あんたは黙りこくってく。彼女が残した暴走状態の源石に対して思うところがあるのは知ってるわよ。あたしはただ、不思議なの。あんたね、ここまでやられてんのよ。あいつってそんなに大事なの？",
+                "kr": "우리가 나아갈수록 너는 점점 조용해지네. 그 여자가 남긴 폭주 상태의 오리지늄에 대해 생각하는 게 있다는 건 알고 있어. 난 그냥 좀 신기해서 그래. 너, 이렇게까지 당하고 있잖아. 그 녀석이 그렇게나 소중해?",
+                "cn": "我们越是前进，你就越是沉默。我知道，你对她留下的失控源石有别的想法。我只是奇怪，你都被她害成这样了，她就这么值得？"
+            },
+            "asset": "char_1035_wisdel_sale#14/CN_029"
+        },
+        {
+            "id": "char_1035_wisdel_sale#14_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Hmph, that's how we do it, and that's how we're gonna keep doing it until this stupid never-ending Originium's all bombed to bits! Then, I'm gonna go home and get some sleep for once! Home... Hah, gonna have to rebuild Kazdel.",
+                "jp": "ふんっ、このまま戦い続けて、暴走の源石を全部爆破し尽したら、家に帰ってぐっすり寝てやるんだから！家ね……ハッ、またカズデルを作り直さなきゃ。",
+                "kr": "흥, 이대로 계속 싸워서 폭주 오리지늄을 전부 폭파시키고 나면, 집에 돌아가서 늘어지게 자버릴 거니까! 집이라…… 하, 또 카즈델을 다시 만들어야겠네.",
+                "cn": "哼，就这样打下去，直到最后把失控的源石全部炸掉，然后我要回家狠狠地睡一觉！家......哈，又该重建卡兹戴尔了。"
+            },
+            "asset": "char_1035_wisdel_sale#14/CN_030"
+        },
+        {
+            "id": "char_1035_wisdel_sale#14_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Hmph, whenever I remember these monsters are just a bunch of shitty rocks, I can't find the energy.",
+                "jp": "けっ、この怪物たちの後ろにあるのが単なる石ころ風情だって考えると、やる気が失せんのよね。",
+                "kr": "쳇, 이 괴물들의 정체가 그냥 돌멩이라고 생각하면 의욕이 떨어진단 말이지.",
+                "cn": "啧，一想到这些怪物的背后只是一些破石头，我就提不起劲。"
+            },
+            "asset": "char_1035_wisdel_sale#14/CN_031"
+        },
+        {
+            "id": "char_1035_wisdel_sale#14_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Congrats. You win, probably. But you're about to see me <i>really</i> go wild.",
+                "jp": "おめでと。あんたたちは勝つかもしれないわね。けど、これからあたしの一番容赦ないところを見ることになるわよ。",
+                "kr": "축하해. 너희가 이길지도 모르겠네. 하지만 지금부터는 내 가장 가차 없는 모습을 보게 될 거야.",
+                "cn": "恭喜你们，你们可能会赢，但接下来，你们将见识到我最疯狂的一面。"
+            },
+            "asset": "char_1035_wisdel_sale#14/CN_032"
+        },
+        {
+            "id": "char_1035_wisdel_sale#14_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Damn, how's this space station manage to be even bigger than stupid Rhodes Island? Ughhh.",
+                "jp": "この宇宙ステーション、ロドスよりも大きいじゃない。けっ。",
+                "kr": "이 우주 정거장, 로도스 아일랜드보다 크잖아. 쳇.",
+                "cn": "这座空间站怎么比罗德岛还要大，啧。"
+            },
+            "asset": "char_1035_wisdel_sale#14/CN_033"
+        },
+        {
+            "id": "char_1035_wisdel_sale#14_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Still as curious as ever, I see, even out here.",
+                "jp": "ここにいても、あんたの好奇心は相変わらずやばいのね。",
+                "kr": "이런 데 있어도 네 호기심은 여전히 장난 아니네.",
+                "cn": "即使在这里，你的好奇心也还是那么旺盛。"
+            },
+            "asset": "char_1035_wisdel_sale#14/CN_034"
+        },
+        {
+            "id": "char_1035_wisdel_sale#14_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Well, it's down to the two of us again. Am I still thinking about killing you? Hah! Good to know you haven't lost your sense of humor.",
+                "jp": "またあたしたち二人だけが残ったわね。まだ殺したいと思っているのかって？ハッ、あんたも冗談言えるようになったのね。",
+                "kr": "또 우리 둘만 남았네. 아직도 죽이고 싶냐고? 하, 너도 농담이란 걸 할 줄 알게 됐구나.",
+                "cn": "又只有我们两个人行动了。还想不想杀了你？哈，你也会开玩笑了。"
+            },
+            "asset": "char_1035_wisdel_sale#14/CN_036"
+        },
+        {
+            "id": "char_1035_wisdel_sale#14_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_1035_wisdel_sale#14/CN_037"
+        },
+        {
+            "id": "char_1035_wisdel_sale#14_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "If you hadn't mentioned what day it was today, I'd've forgotten what it was like to celebrate a holiday. Take this, a shell-case flick, my treat. Get mad, then go give those rocks over there a treat of their own. Haha, it's settled then. Hey! A Happy New Year to you, my Originium friends! Bang!",
+                "jp": "あんたがこういうイベントがあったって言わなきゃ、特別な日を過ごす感覚なんてとっくに忘れてたわ。ほら、まずあんたに弾丸をたらふく食わせてあげるから、それで怒ってもらって、向こうの石ころどもに弾を食らわせてやるのよ。ハハッ、これで決まりね。ハロー、石ころたち、ハッピーニューイヤー、パァン！",
+                "kr": "이런 이벤트가 있다고 네가 말하지 않았더라면, 특별한 날을 보내는 느낌 같은 건 진작에 잊었을 거야. 자 일단 너한테 탄창을 배 터지게 먹여줄 테니까, 그걸로 화나게 한 다음에 저기 돌멩이들한테 총알을 먹여주는 거야. 하핫, 그러면 결정이네. 헬로, 돌멩이들! 해피 뉴 이어! 퍼엉!",
+                "cn": "要不是你提起来有这么个日子，我都忘记过节是什么感觉了。来，我先请你吃个铳壳崩，你赶紧生气，然后请对面的石头们吃铳子。哈哈，就这么定了。嘿，节日快乐源石朋友们，砰！"
+            },
+            "asset": "char_1035_wisdel_sale#14/CN_038"
+        },
+        {
+            "id": "char_1035_wisdel_sale#14_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "We didn't die today. Makes it a pretty good day, I'd say.",
+                "jp": "今日もお互いくたばらなかったわね、悪くないじゃない。",
+                "kr": "오늘도 둘 다 안 죽었네. 나쁘지 않아.",
+                "cn": "今天我们也没死，还不错。"
+            },
+            "asset": "char_1035_wisdel_sale#14/CN_042"
+        },
+        {
+            "id": "char_1035_wisdel_sale#14_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Once this is all over and we're back at Rhodes Island, you can make yourself a giant birthday cake, and everyone'll be there to cheer for you. I'll cheer too, and ease up on the sarcasm, just so you can enjoy a proper happy birthday. How's that, managed to claw back a bit of yourself? Huh? Sing you the birthday song? Drop dead.",
+                "jp": "全部終わってロドスに戻ったら、あんた自分のためにバカでかいケーキを作ったらいいわ。みんな祝福するでしょうよ。あたしもね。嫌味を言うのを我慢してあげる。楽しい誕生日にしてあげるわ。どう、少しは自分を取り戻せた？はあ？バースデーソングを歌ってほしい？やっぱり死んでちょうだい。",
+                "kr": "전부 다 끝나고 로도스 아일랜드로 돌아가면, 너 자신을 위한 초대형 케이크를 만들어도 좋아. 다들 축하해 주겠지, 나도 그렇고. 싫은 소리 하는 것도 참아 줄게. 즐거운 생일로 만들어줄 테니까. 어때, 조금은 자기 자신을 되찾을 수 있었어? 뭐어? 생일 축하 노래를 불러달라고? 역시 그냥 죽어.",
+                "cn": "等一切结束了，回到罗德岛，你可以给自己做个巨大的蛋糕，所有人都会祝福你，我也会的，我会忍住不说一些风凉话，让你过个快乐的生日。怎么样，找回一点自己了吗？生日歌？你还是去死吧。"
+            },
+            "asset": "char_1035_wisdel_sale#14/CN_043"
+        },
+        {
+            "id": "char_1035_wisdel_sale#14_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "After everything we've been through, you're still thinking about that landship? If Her Highness and the little bunny were still around, what would they be thinking about? Hmph, of course I remember what day it is today. Today's a good day, whether you're keen to throw your life away or to put an end to everything. Get ready, Doctor, we're heading out.",
+                "jp": "ここまで来て、まだあの船のことを思い出すのかしら？殿下と子ウサギがまだいたら、なんて思うかしらね？ふんっ、もちろん今日がどういう日か覚えてるわよ。無駄死にするにしろ、全てを終わらせるにしろ、今日は悪くない日よ。準備して、ドクター。もう行くわよ。",
+                "kr": "여기까지 와서 아직도 그 배를 생각하는 거야? 전하나 꼬마 토끼가 아직 있었다면 무슨 생각을 했을까? 흥, 물론 오늘이 무슨 날인지는 기억하고 있어. 개죽음을 당하든, 모든 걸 끝내든, 오늘은 나쁘지 않은 날이야. 준비해, 박사. 이제 갈 거야.",
+                "cn": "事到如今，你还会想起那艘船吗？要是殿下和小兔子还在的话，她们会想什么呢？哼，我当然记得今天是什么日子。不管是去送死还是结束这一切，今天都是个好日子。准备好，博士，我们要出发了。"
+            },
+            "asset": "char_1035_wisdel_sale#14/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Caitlyn Bairstow",
+            "global": "Caitlyn Bairstow"
+        },
+        "cn": {
+            "native": "阮从青",
+            "global": "Ruan "
+        },
+        "jp": {
+            "native": "竹達彩奈",
+            "global": "Ayana Taketatsu"
+        },
+        "kr": {
+            "native": "박고운",
+            "global": "Park Ko-woon"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

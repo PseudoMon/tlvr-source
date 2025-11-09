@@ -618,6 +618,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Phoebe Panaretos",
+            "global": "Phoebe Panaretos"
+        },
         "cn": {
             "native": "骆妍倩",
             "global": "Rose"
@@ -632,6 +636,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

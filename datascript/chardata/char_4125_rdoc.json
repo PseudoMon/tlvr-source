@@ -553,20 +553,6 @@
             "asset": "char_4125_rdoc/CN_037"
         },
         {
-            "id": "char_4125_rdoc_CN_038",
-            "title": {
-                "en": "New Year's blessing",
-                "jp": "新年",
-                "kr": "새해"
-            },
-            "text": {
-                "en": "This is a day to spend with your family and friends, no matter how busy you are.",
-                "jp": "どれだけ忙しくとも、今日くらいは家族や友人と過ごす時間を作らねばな。",
-                "kr": "아무리 바쁘더라도, 오늘 정도는 시간을 내서 가족과 친구들이랑 함께 있으라고."
-            },
-            "asset": "char_4125_rdoc/CN_038"
-        },
-        {
             "id": "char_4125_rdoc_CN_042",
             "title": {
                 "en": "Greeting",
@@ -575,40 +561,12 @@
                 "cn": "问候"
             },
             "text": {
-                "en": "Bonjour",
+                "en": "Bonjour.",
                 "jp": "ごきげんよう。",
                 "kr": "봉주르.",
                 "cn": "你好。"
             },
             "asset": "char_4125_rdoc/CN_042"
-        },
-        {
-            "id": "char_4125_rdoc_CN_043",
-            "title": {
-                "en": "Birthday",
-                "jp": "誕生日",
-                "kr": "생일"
-            },
-            "text": {
-                "en": "Here, I got this bottle of champagne on my last field mission.",
-                "jp": "前回の外勤任務で上等なシャンパンを買ったものでね。今日は君にそれをプレゼントしようと思うんだ。",
-                "kr": "저번 외근 임무에서 훌륭한 샴페인을 사왔는데, 오늘 네게 선물로 주고 싶군."
-            },
-            "asset": "char_4125_rdoc/CN_043"
-        },
-        {
-            "id": "char_4125_rdoc_CN_044",
-            "title": {
-                "en": "Anniversary Celebration",
-                "jp": "周年",
-                "kr": "애니버서리"
-            },
-            "text": {
-                "en": "I want to do more for the patients of Rhodes Island.",
-                "jp": "ロドスの患者たちのために、もっと何かしてあげられればよいのだが。",
-                "kr": "내가 로도스 아일랜드의 환자들을 위해 더 많은 일을 할 수 있었으면 좋겠군."
-            },
-            "asset": "char_4125_rdoc/CN_044"
         }
     ],
     "actors": {

@@ -433,7 +433,7 @@
                 "cn": "完成高难行动"
             },
             "text": {
-                "en": "You say it's over? No! it's NOT over! The real culprit is still hiding in the shadows. How can you say it's—O-Oh, sorry, the filming of this shot is indeed over.",
+                "en": "You say it's over? No! It's NOT over! The real culprit is still hiding in the shadows. How can you say it's—O-Oh, sorry, the filming of this shot is indeed over.",
                 "jp": "これで終わりだと？真の黒幕をまだ捕らえていないのに、捜査を終われるか！何をもって終わりだなんて――ああ、すまない。確か今のシーンで撮影は終わりだな。",
                 "kr": "이걸로 끝이라고? 진정한 흑막을 아직 잡지 못했는데, 수사를 마치겠다는 거지!? 도대체 무슨 근거로 끝이라는…… 아아, 미안하네. 그러고 보니 이번 장면 촬영은 끝이었지.",
                 "cn": "你说结束？真正的祸首还没有抓到，案子还没有结！你凭什么说结束——哦，抱歉，这一镜拍摄的确是结束了。"
@@ -593,7 +593,7 @@
                 "cn": "生日"
             },
             "text": {
-                "en": "Doctor, happy birthday. This, is a film print from a picture I was in. It's not worth much, but it's a treasured memory to me. You want to watch it now? I suppose I could borrow Nian's equipment... No matter. You're the star of the show today.",
+                "en": "Doctor, happy birthday. This, is a film print from a picture I was in. It's not worth much, but it's a treasured memory to me. You want to watch it now? I suppose I could borrow Nian's equipment… No matter. You're the star of the show today.",
                 "jp": "ドクター、誕生日の祝いを申し上げる。これは以前に出演した映画のフィルムだ。大したものではないが、忘れがたい思い出には違いない。今すぐ観たいのか？ならばニェンのところから再生機器を借りて来よう……遠慮することはない、今日は貴公が主役だからな。",
                 "kr": "박사, 생일 축하하네. 이건 예전에 출연했던 영화 필름일세. 대단한 건 아니네만, 잊을 수 없는 추억임엔 틀림없지. 지금 바로 보고 싶다고? 그러면 니엔에게서 재생 플레이어를 빌려 오도록 하겠네…… 사양하지 말게나, 오늘은 귀공이 주인공이니 말이야.",
                 "cn": "博士，生日快乐。这是我之前参演的电影留下的一份原始胶片。不算贵重的礼物，但的确是一段难得的回忆。现在就想看看？我应该可以从年那里借来设备......无妨，今天你是主角。"
@@ -618,6 +618,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Yong Yea",
+            "global": "Yong Yea"
+        },
         "cn": {
             "native": "赵岭",
             "global": "Ling Zhao"
@@ -632,6 +636,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

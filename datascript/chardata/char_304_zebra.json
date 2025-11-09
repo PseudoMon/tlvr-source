@@ -618,6 +618,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Natasha Atherton",
+            "global": "Natasha Atherton"
+        },
         "cn": {
             "native": "闲踏梧桐",
             "global": "Cotton Candy"
@@ -632,6 +636,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

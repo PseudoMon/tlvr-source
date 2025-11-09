@@ -289,7 +289,7 @@
                 "cn": "行动开始"
             },
             "text": {
-                "en": "Targets detected",
+                "en": "Targets detected.",
                 "jp": "ターゲット発見。",
                 "kr": "목표 발견.",
                 "cn": "发现目标。"
@@ -551,20 +551,6 @@
                 "cn": "明日方舟。"
             },
             "asset": "char_456_ash/CN_037"
-        },
-        {
-            "id": "char_456_ash_CN_038",
-            "title": {
-                "en": "New Year's blessing",
-                "jp": "新年",
-                "kr": "새해"
-            },
-            "text": {
-                "en": "Happy New Year. Got any plans?",
-                "jp": "新年ね、何か計画はあるの？",
-                "kr": "새해가 다가오는군. 특별한 계획이라도 있나?"
-            },
-            "asset": "char_456_ash/CN_038"
         },
         {
             "id": "char_456_ash_CN_042",

@@ -104,6 +104,19 @@
         "rating": 1
     },
     {
+        "fullid": "char_4188_confes",
+        "nameid": "confes",
+        "numberid": "4188",
+        "name": {
+            "en": "CONFESS-47",
+            "jp": "CONFESS-47",
+            "kr": "CONFESS-47",
+            "cn": "CONFESS-47"
+        },
+        "nation": "laterano",
+        "rating": 1
+    },
+    {
         "fullid": "char_502_nblade",
         "nameid": "nblade",
         "numberid": "502",
@@ -806,6 +819,19 @@
         "rating": 4
     },
     {
+        "fullid": "char_445_wscoot",
+        "nameid": "wscoot",
+        "numberid": "445",
+        "name": {
+            "en": "Windscoot",
+            "jp": "ウィンドスクート",
+            "kr": "윈드스쿠트",
+            "cn": "骋风"
+        },
+        "nation": "yan",
+        "rating": 4
+    },
+    {
         "fullid": "char_237_gravel",
         "nameid": "gravel",
         "numberid": "237",
@@ -1462,7 +1488,7 @@
         "name": {
             "en": "Sharp",
             "jp": "Sharp",
-            "kr": "Sharp",
+            "kr": "샤프",
             "cn": "Sharp"
         },
         "nation": null,
@@ -1742,6 +1768,19 @@
         "rating": 5
     },
     {
+        "fullid": "char_4187_graceb",
+        "nameid": "graceb",
+        "numberid": "4187",
+        "name": {
+            "en": "Gracebearer",
+            "jp": "グレースベアラー",
+            "kr": "그레이스베어러",
+            "cn": "聆音"
+        },
+        "nation": "bolivar",
+        "rating": 5
+    },
+    {
         "fullid": "char_129_bluep",
         "nameid": "bluep",
         "numberid": "129",
@@ -1787,7 +1826,7 @@
         "name": {
             "en": "Stormeye",
             "jp": "Stormeye",
-            "kr": "Stormeye",
+            "kr": "스톰아이",
             "cn": "Stormeye"
         },
         "nation": null,
@@ -1995,7 +2034,7 @@
         "name": {
             "en": "Pith",
             "jp": "Pith",
-            "kr": "Pith",
+            "kr": "피스",
             "cn": "Pith"
         },
         "nation": null,
@@ -2320,7 +2359,7 @@
         "name": {
             "en": "Touch",
             "jp": "Touch",
-            "kr": "Touch",
+            "kr": "터치",
             "cn": "Touch"
         },
         "nation": null,
@@ -3081,6 +3120,19 @@
         "rating": 5
     },
     {
+        "fullid": "char_4178_alanna",
+        "nameid": "alanna",
+        "numberid": "4178",
+        "name": {
+            "en": "Alanna",
+            "jp": "アランナ",
+            "kr": "알라나",
+            "cn": "阿兰娜"
+        },
+        "nation": "rim",
+        "rating": 5
+    },
+    {
         "fullid": "char_101_sora",
         "nameid": "sora",
         "numberid": "101",
@@ -3406,6 +3458,19 @@
         "rating": 6
     },
     {
+        "fullid": "char_4193_lemuen",
+        "nameid": "lemuen",
+        "numberid": "4193",
+        "name": {
+            "en": "Lemuen",
+            "jp": "レミュアン",
+            "kr": "르무엔",
+            "cn": "蕾缪安"
+        },
+        "nation": "laterano",
+        "rating": 6
+    },
+    {
         "fullid": "char_113_cqbw",
         "nameid": "cqbw",
         "numberid": "113",
@@ -3492,6 +3557,19 @@
             "jp": "ウィシャデル",
             "kr": "위셔델",
             "cn": "维什戴尔"
+        },
+        "nation": null,
+        "rating": 6
+    },
+    {
+        "fullid": "char_1035_wisdel_sale#14",
+        "nameid": "wisdel-sale",
+        "numberid": "1035",
+        "name": {
+            "en": "Wiš'adel SALE",
+            "jp": "ウィシャデル SALE",
+            "kr": "위셔델 SALE",
+            "cn": "维什戴尔 SALE"
         },
         "nation": null,
         "rating": 6
@@ -4160,6 +4238,19 @@
         "rating": 6
     },
     {
+        "fullid": "char_1041_angel2",
+        "nameid": "angel2",
+        "numberid": "1041",
+        "name": {
+            "en": "Exusiai the New Covenant",
+            "jp": "新約エクシア",
+            "kr": "엑시아 더 뉴 커버넌트",
+            "cn": "新约能天使"
+        },
+        "nation": "lungmen",
+        "rating": 6
+    },
+    {
         "fullid": "char_474_glady",
         "nameid": "glady",
         "numberid": "474",
@@ -4355,6 +4446,19 @@
         "rating": 6
     },
     {
+        "fullid": "char_4179_monstr",
+        "nameid": "monstr",
+        "numberid": "4179",
+        "name": {
+            "en": "Mon3tr",
+            "jp": "Mon3tr",
+            "kr": "Mon3tr",
+            "cn": "Mon3tr"
+        },
+        "nation": "rhodes",
+        "rating": 6
+    },
+    {
         "fullid": "char_136_hsguma",
         "nameid": "hsguma",
         "numberid": "136",
@@ -4495,6 +4599,19 @@
             "cn": "涤火杰西卡"
         },
         "nation": "columbia",
+        "rating": 6
+    },
+    {
+        "fullid": "char_4194_rmixer",
+        "nameid": "rmixer",
+        "numberid": "4194",
+        "name": {
+            "en": "Sankta Miksaparato",
+            "jp": "サンクタ・ミキサー",
+            "kr": "산크타 믹사파라토",
+            "cn": "信仰搅拌机"
+        },
+        "nation": "laterano",
         "rating": 6
     },
     {

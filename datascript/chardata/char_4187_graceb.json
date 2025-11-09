@@ -1,0 +1,644 @@
+{
+    "charid": "char_4187_graceb",
+    "nameid": "graceb",
+    "names": {
+        "en": "Gracebearer",
+        "jp": "グレースベアラー",
+        "kr": "그레이스베어러",
+        "cn": "聆音"
+    },
+    "voices": [
+        {
+            "id": "char_4187_graceb_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "I'm sorry, Doctor. This girl's sick today and nobody's to take care of her, so I brought her along. She's quiet and really well-behaved. Besides, she can fold a paper napkin into a lily. Dear, why don't you give the Doctor these flowers? You'd make the Doctor very happy.",
+                "jp": "ドクター、申し訳ありません。病気の子の看護をする者がいなくて、連れて来てしまいました。この子はとても大人しくて、騒いだりわがままを言ったりもしません。それに、紙ナプキンでユリの花を折ることもできるんですよ。ねえ、さっき作った花束をドクターにお渡しして？きっと気に入ってくださるから。",
+                "kr": "박사님, 죄송해요. 아픈 아이를 간호할 사람이 없어서, 데리고 와버렸어요. 아주 얌전한 아이라 소란을 피우거나 떼를 쓰지도 않아요. 그리고 냅킨으로 백합꽃을 접을 줄도 알죠. 자, 아까 만든 꽃다발을 박사님께 드려 보렴. 분명 마음에 들어 하실 거야.",
+                "cn": "博士，很抱歉，这孩子今天生病没人照顾，所以我带她一起来了。她很乖，不会吵也不会闹，还会拿纸巾折百合花。亲爱的，让我们把那束花送给博士好吗？博士会喜欢的。"
+            },
+            "asset": "char_4187_graceb/CN_001"
+        },
+        {
+            "id": "char_4187_graceb_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Come out! I can see you, you know—oh, Doctor! I'm so sorry! I thought you were one of the kids playing hide-and-seek. Why are you hiding in here? Oh, someone is trying to drag you back to work? Well, I don't think this box is big enough for you. I could help you with my tail, if you wanted.",
+                "jp": "早く出てきなさい、見えちゃってるよ――ド、ドクター！？ごめんなさい、てっきり一緒にかくれんぼをしていた子かと……どうしてここに？仕事に連れ戻される？でも、この箱だと小さすぎて全く隠せてないですよ。私がこっちに立って、尻尾で少し目隠ししましょうか？",
+                "kr": "어서 나오렴, 다 보인다니까…… 바, 박사님!? 죄송합니다. 같이 숨바꼭질하던 아이인 줄 알고…… 그런데 어째서 여기에? 잡히면 다시 일하러 끌려갈 거라고요? 하지만, 이 상자는 너무 작아서 전혀 숨겨지지가 않는걸요. 제가 이쪽에 서서 꼬리로 살짝 가려볼까요?",
+                "cn": "还不赶快出来，我都看到你——博、博士？！太尴尬了，我还以为是一起捉迷藏的孩子，您怎么躲在这里？有人要抓您回去工作？可这箱子太小，根本遮不住您，要不我站过来用尾巴帮您挡一会儿？"
+            },
+            "asset": "char_4187_graceb/CN_002"
+        },
+        {
+            "id": "char_4187_graceb_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Yes, this hymn is an arrangement of a Bolívarian folk song. You can tell? It's quite different from the original. Does it matter, though? Everyone loved it when the arrangement made its way back to Laterano.",
+                "jp": "ドクター、気付いてくださったんですか！そうです、この讃美歌はボリバルの大衆音楽をもとにアレンジしたものです。オリジナルとかなり違うと思いませんか？でも違うからと言って何かが変わるわけではありませんよね。アレンジしたものでも、ラテラーノに伝わった時には、みんなすごく気に入っていましたよ。",
+                "kr": "박사님, 알아채셨군요! 맞아요. 이 찬송가는 볼리바르 대중음악을 편곡한 거예요. 원곡과는 차이가 꽤 크죠? 하지만 다르다고 해서 무언가가 변하는 건 아니잖아요. 편곡한 버전이 라테라노에 전해졌을 땐, 다들 정말 좋아했답니다.",
+                "cn": "博士，没想到您居然听出来了！是的，这首赞美诗是用玻利瓦尔的街头小调改编的，和原版区别很大，对吗？不过，这些改编又改变了什么呢？当改编版传回拉特兰时，大家还是很喜欢。"
+            },
+            "asset": "char_4187_graceb/CN_003"
+        },
+        {
+            "id": "char_4187_graceb_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Why is there an axe behind the saint's statue? Oh, I think I left it there after cleaning up some bandits that got into the abbey. I have to put it away before the children see it. You mean, sacrilege? Of course not. Our Lord would approve, if He knew of the wicked deeds they did.",
+                "jp": "どうして聖像の後ろに斧が置いてあるか？ああ、たしか前に強盗が修道院を襲った時、その斧で掃除をして、そのまま置き忘れたんです。早くしまっておかなきゃ、子供たちに見られたら大変です。冒涜？まさか。もし主があの人たちの悪行を知ったら、きっと私の行いを許してくれるはずです。",
+                "kr": "왜 성상 뒤에 도끼가 있냐고요? 아, 예전에 강도들이 수도원을 습격했을 때 '청소용'으로 썼던 건데…… 정리하는 걸 깜빡했네요. 빨리 치워 둬야겠어요. 애들이 보기라도 하면 큰일이니까요. 신성모독이요? 그럴 리가요. 주님께서 그자들의 악행을 아신다면 분명 제 행동을 용서해 주실 거예요.",
+                "cn": "为什么圣像背后会有把斧头？噢，好像是上次劫匪跑进修道院，我清理完就把它落在这里了。得赶紧收起来，让孩子们看见就糟糕了。亵渎？那怎么会？若主知晓那些人的恶行，亦会赞许我的行为。"
+            },
+            "asset": "char_4187_graceb/CN_004"
+        },
+        {
+            "id": "char_4187_graceb_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "I always knew Laterano well, but it was only when I heard a gravely wounded nun singing hymns on her deathbed, with no trembling in her voice, that the black-and-white image of Laterano turned vibrant, and our Lord's grace dawned on me.",
+                "jp": "ラテラーノに関する知識は、私の頭にもそれなりにあったんです。でも、あるシスターに出会って、彼女が亡くなる前に歌った聖歌を聴いた時、重傷のはずなのに、歌声は少しも震えることなく澄んでいて――あの瞬間から、蒼白な「ラテラーノ」に色がついて形が見えました。私も主の恩寵を授かったんです。",
+                "kr": "라테라노에 대한 지식은 저도 어느 정도 알고 있었어요. 그런데 한 수녀님을 만나고, 그분이 세상을 떠나기 전 부르신 성가를 들었을 땐…… 분명 심한 부상임에도 노랫소리만큼은 전혀 흔들리지 않았어요. 맑고 고요했죠. 그 순간부터, 창백했던 '라테라노'에 색이 입혀지고 형태가 보이기 시작했답니다. 저도 주님의 은총을 받은 거예요.",
+                "cn": "拉特兰相关的知识，我脑子里有不少，可直到遇到一位修女，听她临终前唱起圣歌，明明重伤在身，她的歌声却丝毫没有颤抖——那一刻，苍白的“拉特兰”才有了形状与色彩，我也蒙受主的恩典。"
+            },
+            "asset": "char_4187_graceb/CN_005"
+        },
+        {
+            "id": "char_4187_graceb_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "The first time I came to Laterano, it had suffered a calamity attack, a broken city filled with broken souls, hardly the image of paradise. Was I shaken? I guess I was, but nobody ever said that faith is only for that which is perfectly flawless.",
+                "jp": "初めてラテラーノに来た時、あそこは天変地異に襲われているところでした。ボロボロになった都市の中は傷ついた心だらけで、ちっとも「楽園」って感じじゃなかったです。信仰の揺らぎ？あったかもしれません……でも、完全無欠のものだけが信仰に値するんでしょうか？",
+                "kr": "처음 라테라노에 왔을 땐, 그곳은 재이에 휩싸인 상태였어요. 폐허나 다름없던 도시는 상처받은 마음으로 가득했고, 전혀 '낙원' 같지 않았어요. 신앙이 흔들렸냐고요? 그랬을 수도 있죠…… 그런데 완전무결한 것만이 신앙의 대상이 될 수 있는 걸까요?",
+                "cn": "初次来到拉特兰时，那里正被一场灾异袭击，破损的城市里是破碎的心灵，全然没有半分“乐园”的样子。动摇？也许有吧......但是，难道只有完美无缺的事物才配成为信仰吗？"
+            },
+            "asset": "char_4187_graceb/CN_006"
+        },
+        {
+            "id": "char_4187_graceb_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Aurela should not have spoken to you like that. Allow me to apologize on her behalf. She's not easy to get along with, and I wouldn't even call her a good person, but we all need 'bad friends', for the sake of our worst thoughts and emotions, things that I would never show to a good person like you.",
+                "jp": "アウレラは口の利き方がなってません。私が代わりに謝ります。彼女はあまり話しやすいタイプじゃないし、そもそも善い人だとも言えないのは、私もよくわかってます。しかし、誰しも「悪い友達」が必要なんです。悪い感情や考えを――あなたのような善い人には絶対見せちゃいけないようなものを共有するためにね。",
+                "kr": "아우렐라는 말을 함부로 하는 편이라, 제가 대신 사과드릴게요. 아우렐라는 말이 통하는 타입도 아니고, 애초에 선한 사람이라고 할 수도 없다는 건 저도 잘 알고 있어요. 그래도 누구에게나 '나쁜 친구'는 필요하답니다. 나쁜 감정이나 생각을…… 당신같이 선한 사람에게는 절대로 보여서는 안 될 것들을 공유하기 위해서라도요.",
+                "cn": "奥罗拉不该那样和您说话，我替她向您道歉。她不是个好相处的人，甚至不算是个好人，这些我都清楚。但大家都需要一些“坏朋友”，来承受坏情绪和坏想法——一些绝不该向您这样的好人表露的。"
+            },
+            "asset": "char_4187_graceb/CN_007"
+        },
+        {
+            "id": "char_4187_graceb_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Let the ancestors' legacies lie forgotten in my mind. It's enough to pick up a few tidbits from time to time as tales to tell the children. What I really want to remember, well, is the excited looks on the children's faces when I talk with them... and the smile on your face right now.",
+                "jp": "ご先祖様が残したものは、私の頭の中で風化させましょう。たまに面白そうなものを拾い出して子供たちに話して聞かせれば、それでもう十分です。私が本当に覚えていたいのは、子供たちが私と話をする時の嬉しそうな顔、それから……あなたの今の笑った顔も、私はずっと忘れません。",
+                "kr": "선조님들이 남겨놓은 건, 제 머릿속에서 흩어지게 둘래요. 가끔씩 재미있는 것들을 골라 아이들에게 얘기해 줄 수 있다면, 그걸로 충분해요. 제가 정말 기억하고 싶은 건, 아이들이 저와 이야기할 때의 기뻐하는 표정, 그리고…… 지금 당신의 이 미소도, 전 영원히 잊지 않을 거예요.",
+                "cn": "祖先留下的，就让它们荒废在我脑子里吧，偶尔从中拾取些感兴趣的说给孩子们听，也就够了。我真正想记住的，是孩子们和我讲话时兴奋的样子，还有......您此刻的微笑，我也会一直记得。"
+            },
+            "asset": "char_4187_graceb/CN_008"
+        },
+        {
+            "id": "char_4187_graceb_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "What was taken from you? You try your best to suppress the wrath in your heart, but I can still sense it, so intense it could destroy everything. No, I'm not afraid, Doctor. Release it, and it will energize you, pushing you forward, until you take back everything that was yours.",
+                "jp": "あなたは一体何を奪われたんですか？努力して抑えているようですが、それでもあなたの心に秘めた激しい怒りを感じます。あまりにも強烈で、何もかも滅ぼせるほどです。いいえ、怖くはないですよ。ドクター、その怒りを解き放ってください。それがあなたを奮い立たせ、前に進む後押しをして、いつか全てを奪い返す原動力になってくれますから。",
+                "kr": "당신은 대체 무엇을 빼앗긴 거죠? 애써 억눌러두고 있는 것 같지만, 그럼에도 당신의 마음속에 숨겨진 격렬한 분노를 느낄 수 있어요. 모든 것을 멸망시킬 정도로 강렬한…… 아뇨, 무섭지 않아요. 박사님, 그 분노를 해방시키세요. 그것이 당신을 일깨우고, 앞으로 나아가게 밀어주며, 언젠가 모든 것을 되찾을 원동력이 되어줄 테니까요.",
+                "cn": "您究竟被人夺走了什么？虽然您正努力压抑着，但我还是感受到了您内心的暴怒。它如此强烈，几乎能摧毁一切。不，我不害怕。博士，释放它，它将令您振奋，助您前行，让您终有一日夺回一切。"
+            },
+            "asset": "char_4187_graceb/CN_009"
+        },
+        {
+            "id": "char_4187_graceb_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Sleep, Doctor. There's a wicked creature out there in the night, clad in feathers and scales, that hunts children who stay up too late, impaling their hearts with its sharp spiked tail. What? You say you know her? I... I just made that up...",
+                "jp": "おやすみなさい、ドクター。知ってますか？きちんと寝ない悪い子には、体が羽と鱗に覆われた化け物が尻尾で心臓を刺してくるんですよ。え、遭ったことあるんですか？でも、これ……私が今思いついただけのお話ですよ。",
+                "kr": "안녕히 주무세요, 박사님. 그런데 그거 아시나요? 제대로 잠 안 자는 나쁜 아이는 깃털과 비늘로 몸을 덮은 괴물이 꼬리로 심장을 찔러버린대요. 어, 만나본 적 있으세요? 그런데, 이건…… 제가 지금 막 생각해 낸 이야긴데요.",
+                "cn": "快点睡吧，博士。您知道吗？如果一个孩子不好好睡觉，便会有身披羽毛与鳞片的邪祟用尾巴尖刺穿他的心脏。您说您遇到过？可是，这是我......刚编的啊。"
+            },
+            "asset": "char_4187_graceb/CN_010"
+        },
+        {
+            "id": "char_4187_graceb_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "I am Gracebearer, a nun from Bolívar. Give me your hand, Doctor, and our Lord shall grant you His blessings.",
+                "jp": "お会いできて光栄です。ボリバルから参りました、修道士のグレースベアラーと申します。お手をお貸しください、ドクター。主の祝福があなたにありますように。",
+                "kr": "만나 뵙게 되어 영광입니다. 볼리바르에서 온 수도사 그레이스베어러라고 합니다. 잠시 손을 내밀어 주시겠어요, 박사님. 당신에게 주님의 축복이 함께하기를.",
+                "cn": "很高兴认识您，我是来自玻利瓦尔的修女聆音。请把手给我，博士，愿主赐福于您。"
+            },
+            "asset": "char_4187_graceb/CN_011"
+        },
+        {
+            "id": "char_4187_graceb_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "They should be more decisive... this will only create complications.",
+                "jp": "もっとすっぱりと終わらせないと……これでは後の患いが残ります。",
+                "kr": "더 깔끔하게 끝냈어야…… 이러면 후환이 남아요.",
+                "cn": "他们应该更干脆些......这样会留后患。"
+            },
+            "asset": "char_4187_graceb/CN_012"
+        },
+        {
+            "id": "char_4187_graceb_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Thank you for your generous donation. Your name will be etched into a century-old monument, with that of the abbey's founder.",
+                "jp": "多額の寄付をありがとうございます、ドクター。あなたのお名前は百年もの歴史ある石碑に、修道院の創立者と並べて刻まれるでしょう。",
+                "kr": "큰 기부 감사합니다, 박사님. 당신의 이름은 백 년 역사를 지닌 비석에 수도원 창립자와 나란히 새겨질 거예요.",
+                "cn": "感谢您的巨额捐赠，您的名字会被镌刻在一块有百年历史的石碑上，与修道院创建者的名字并列。"
+            },
+            "asset": "char_4187_graceb/CN_013"
+        },
+        {
+            "id": "char_4187_graceb_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "I really appreciate Rhodes Island taking these children in, and away from Bolívar. They deserve some light and warmth at the end of their lives.",
+                "jp": "ロドスがこの子たちを受け入れてくれて、みんなを連れてボリバルを離れてくれたこと、感謝してもしきれないです。この子たちの人生の終点には、温もりと光があるべきなんです。",
+                "kr": "로도스 아일랜드가 이 아이들을 받아주시고, 모두를 데리고 볼리바르를 떠날 수 있게 해주신 건 아무리 감사해도 부족합니다. 이 아이들 인생의 종착점에는 따스함과 빛이 있어야 해요.",
+                "cn": "我很感激罗德岛能接收这些孩子，带他们离开玻利瓦尔。在他们生命的最后，应该有光明与温暖陪伴着。"
+            },
+            "asset": "char_4187_graceb/CN_014"
+        },
+        {
+            "id": "char_4187_graceb_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "I would be delighted to join your team, Doctor, but... I'm hoping you will stay away when I'm fighting. Maybe you wouldn't mind it, but to me, you're too good of a person to have to face that.",
+                "jp": "ドクター、私は喜んであなたの部隊に加わりますが……私が戦っている時はどうか見ないでください。あなたからすれば気にするほどのことではないかもしれませんが、私はあなたのような善い人が、そういうものを目にするべきじゃないと思います。",
+                "kr": "박사님, 저는 당신의 부대에 기쁘게 합류하겠지만…… 제가 싸울 때는 부디 보지 말아 주세요. 당신이 볼 때는 별거 아닐 수 있지만, 저는…… 당신처럼 선한 사람이 그런 것을 보면 안 된다고 생각해요.",
+                "cn": "博士，我愿意加入您的队伍，但......我希望您能在我战斗时回避。或许在您看来没什么所谓，但对我来说，您是很好的人，不该承受那些。"
+            },
+            "asset": "char_4187_graceb/CN_017"
+        },
+        {
+            "id": "char_4187_graceb_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "No... don't make me take even more of them, Doctor.",
+                "jp": "いいえ……ドクター、これ以上たくさんの人と一緒に戦場には行きたくないです。",
+                "kr": "아뇨…… 박사님, 더 이상 많은 사람들과 함께 전장으로 가고 싶지 않아요.",
+                "cn": "不......博士，不要让我带着更多的人一起去。"
+            },
+            "asset": "char_4187_graceb/CN_018"
+        },
+        {
+            "id": "char_4187_graceb_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "I'll come back at the appointed time... or an hour late. I'm Bolívarian, after all.",
+                "jp": "約束した時間ぴったりに帰ってきます……それか一時間遅れるかもしれませんが。ボリバル出身なので。",
+                "kr": "약속한 시간에 맞춰 돌아오겠습니다…… 어쩌면 한 시간 늦을지도 모르지만요. 저도 어쨌든 볼리바르 출신이라.",
+                "cn": "我会在约定好的时间内准时归来......或者晚个一小时，毕竟我来自玻利瓦尔。"
+            },
+            "asset": "char_4187_graceb/CN_019"
+        },
+        {
+            "id": "char_4187_graceb_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Do not fear. I'm just bringing you to your predetermined end.",
+                "jp": "浮き足立たないでください。私は運命の結末をあなたたちに届けに来ただけです。",
+                "kr": "동요하지 마세요. 저는 여러분에게 운명의 결말을 전하러 온 것뿐이에요.",
+                "cn": "别惊慌，我只是将命定的结局带到你们面前。"
+            },
+            "asset": "char_4187_graceb/CN_020"
+        },
+        {
+            "id": "char_4187_graceb_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "...Very well. You have my axe, if you need it.",
+                "jp": "……いいでしょう、もしお望みであれば、あなたのために斧を振り上げます。",
+                "kr": "……좋아요. 원하신다면 당신을 위해 도끼를 들겠습니다.",
+                "cn": "......好吧，如果您需要的话，我会为您举起斧子。"
+            },
+            "asset": "char_4187_graceb/CN_021"
+        },
+        {
+            "id": "char_4187_graceb_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Don't worry, Doctor, I have my axe here.",
+                "jp": "安心してください、ドクター。もうすでに斧を握り締めていますから。",
+                "kr": "안심하세요, 박사님. 도끼는 이미 꽉 쥐고 있으니까요.",
+                "cn": "别担心，博士，我已经握紧斧子了。"
+            },
+            "asset": "char_4187_graceb/CN_022"
+        },
+        {
+            "id": "char_4187_graceb_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "There are certain things I must handle personally.",
+                "jp": "自分でやらないといけないことだってあるんです。",
+                "kr": "스스로 하지 않으면 안 되는 것도 있는 거예요.",
+                "cn": "有些事我不得不亲力亲为。"
+            },
+            "asset": "char_4187_graceb/CN_023"
+        },
+        {
+            "id": "char_4187_graceb_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "I'm not the one who will regret letting things get to this point.",
+                "jp": "ここまで来てしまったことを後悔するのはきっと私じゃないでしょう。",
+                "kr": "여기까지 오게 된 걸 후회하는 건, 분명 저는 아닐 거예요.",
+                "cn": "该后悔走到这步的人一定不是我。"
+            },
+            "asset": "char_4187_graceb/CN_024"
+        },
+        {
+            "id": "char_4187_graceb_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Close your eyes. I don't want to scare you.",
+                "jp": "目を閉じてください、怖がらせたくないので。",
+                "kr": "눈을 감아주세요. 겁주고 싶지는 않아서요.",
+                "cn": "闭上眼睛，我不想吓到您。"
+            },
+            "asset": "char_4187_graceb/CN_025"
+        },
+        {
+            "id": "char_4187_graceb_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Cover your ears. This might get loud.",
+                "jp": "耳を塞いでください、少し音がするかもしれません。",
+                "kr": "귀를 막아주세요. 소리가 조금 날 수도 있어요.",
+                "cn": "捂住耳朵，可能有些声音。"
+            },
+            "asset": "char_4187_graceb/CN_026"
+        },
+        {
+            "id": "char_4187_graceb_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "No need to scream. It's all over.",
+                "jp": "もう叫ばなくていいですよ。全部終わりましたから。",
+                "kr": "이제 소리는 그만 지르세요. 전부 다 끝났으니까.",
+                "cn": "不要尖叫，都已经结束了。"
+            },
+            "asset": "char_4187_graceb/CN_027"
+        },
+        {
+            "id": "char_4187_graceb_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Shh... it'll be okay. Everything will be okay.",
+                "jp": "しーっ……大丈夫、大丈夫ですからね……",
+                "kr": "쉿…… 괜찮아요. 다 괜찮을 거예요……",
+                "cn": "嘘......会好的，都会好的......"
+            },
+            "asset": "char_4187_graceb/CN_028"
+        },
+        {
+            "id": "char_4187_graceb_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "I was lucky. I didn't encounter any enemies—the blood on my skirt? Oh, I must have tripped and fallen. Don't worry, it's just a scratch.",
+                "jp": "運良く、敵には遭遇しませんでした――裾の血は……転んだのでしょう。ちょっとした傷です。大したことはありません。",
+                "kr": "운 좋게도 적은 안 만났어요…… 소매의 피는…… 넘어진 모양이네요. 그냥 작은 상처예요. 별일 아니니 걱정하지 마세요.",
+                "cn": "很幸运，我没遇上敌人——裙角的血......应该是不小心摔倒了，一点轻伤，不要紧。"
+            },
+            "asset": "char_4187_graceb/CN_029"
+        },
+        {
+            "id": "char_4187_graceb_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "It's done, Doctor. Let it go.",
+                "jp": "全て終わったんです、ドクター、もう忘れてしまいましょう。",
+                "kr": "다 끝났어요, 박사님. 이제 잊어버리도록 해요.",
+                "cn": "都结束了，博士，尽数忘记吧。"
+            },
+            "asset": "char_4187_graceb/CN_030"
+        },
+        {
+            "id": "char_4187_graceb_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Turn around and find someone else, Doctor... I don't want you to see me covered in blood.",
+                "jp": "他の人のところに行ってください、ドクター……全身血塗れの姿をあなたに見られたくないです。",
+                "kr": "다른 사람들이 있는 곳으로 가세요, 박사님…… 온몸이 피투성이가 된 모습을 당신에게 보여주고 싶지는 않아요.",
+                "cn": "转头去找其他人吧，博士......我不想您看到我浑身鲜血的样子。"
+            },
+            "asset": "char_4187_graceb/CN_031"
+        },
+        {
+            "id": "char_4187_graceb_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Go back. Sleep well. Everything will be alright by the time you wake up in the morning... Go. Back.",
+                "jp": "先に戻ってください、面倒事は全て解決しますから。今夜あなたが良い夢を見ることができるよう私がなんとかします……今は戻ってください。",
+                "kr": "먼저 가세요. 귀찮은 일은 제가 전부 해결할게요. 오늘 밤 당신이 좋은 꿈을 꿀 수 있게 제가 어떻게든 해볼 테니까…… 지금은 돌아가 주세요.",
+                "cn": "回去吧，麻烦会彻底解决的，我会确保您今夜能做个好梦......先回去吧。"
+            },
+            "asset": "char_4187_graceb/CN_032"
+        },
+        {
+            "id": "char_4187_graceb_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "How did you find me? You followed the singing? I was humming while working alone. You've never heard me sing… Well, one should not sing the same songs alone as with others.",
+                "jp": "ドクター、なぜここに？歌声を辿ってきた？ああ、一人で仕事する時に口ずさんでいるんです。この歌は初めて聴いた？……一人の時とたくさんの人といる時に歌う歌は、同じものでいいはずないでしょうから。",
+                "kr": "박사님, 왜 이곳에? 노랫소리를 따라왔다고요? 아아, 혼자서 일할 때 흥얼거리는 노래예요. 이 노래는 처음 들으신다고요? ……혼자일 때와 여러 사람과 있을 때 부르는 노래가 같을 수는 없으니까요.",
+                "cn": "您怎么来了？循着歌声找来的？是我一个人工作的时候在哼歌。从没听我唱过......一个人的时候唱的歌和一群人的时候唱的歌，不该是一种歌。"
+            },
+            "asset": "char_4187_graceb/CN_033"
+        },
+        {
+            "id": "char_4187_graceb_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Oh, it's you, Doctor. Don't sneak up on me like that again.",
+                "jp": "あなただったんですね、ドクター。もう背後からこっそり近寄るのはやめた方がいいですよ。",
+                "kr": "당신이었군요, 박사님. 뒤에서 몰래 접근하는 건 이제 안 하시는 게 좋을 거예요.",
+                "cn": "原来是您，博士，下次还是不要从背后偷偷靠近我了。"
+            },
+            "asset": "char_4187_graceb/CN_034"
+        },
+        {
+            "id": "char_4187_graceb_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "I sneaked some extra sugar beneath your bread when we took Communion just now. Did you notice?",
+                "jp": "先ほど聖餐を配る時に、ドクターのパンの下に飴を置いておいたのですが、気付きましたか？",
+                "kr": "아까 성찬을 배식할 때 박사님 빵 아래에 사탕을 놓아뒀는데요, 드셨나요?",
+                "cn": "刚刚领圣餐时，我在您的面包底下多放了一块糖，您有没有吃到？"
+            },
+            "asset": "char_4187_graceb/CN_036"
+        },
+        {
+            "id": "char_4187_graceb_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4187_graceb/CN_037"
+        },
+        {
+            "id": "char_4187_graceb_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Would you like a bowl of cream soup? It's an honor to have you—oh dear, don't do that, children! Oh, look how they spilled soup on you... I'll get you a change of clothes. Hm, looks like all I have handy is a nun's habit... do you mind?",
+                "jp": "ドクター、クリームシチューはいかがですか？お祝いの席にあなたを迎えることができて嬉しいです――ああ！まったく、いたずらっ子たちったら、騒ぎ始めたらテーブルをひっくり返しそうな勢いなんだから。ドクターの服を汚してしまいましたね。着替えを探してきますので、お待ちを……あっ、普通の服がなくて、女性用の修道服しかないんですが、大丈夫でしょうか？",
+                "kr": "박사님, 크림 스튜는 어떠세요? 축하 자리에 당신을 모시게 되어서 기뻐요…… 아! 요 장난꾸러기들 정말, 한번 소란 피우기 시작하면 테이블도 다 엎어버릴 기세라니까요. 이런 스튜가 튀어 박사님 옷을 더럽혔네요. 갈아입을 옷을 찾아올 테니, 잠시만 기다려 주세요…… 앗, 평상복은 없고 여성용 수도복밖에 없는데 괜찮으실까요?",
+                "cn": "来一碗奶油浓汤？很荣幸能邀请到您共庆——唉，这些小淘气打闹起来简直能把桌子掀翻。汤水溅出来，您的衣服弄脏了，我去找件干净衣服给您。咦，好像没有常服，只有修女服了，您介意吗？"
+            },
+            "asset": "char_4187_graceb/CN_038"
+        },
+        {
+            "id": "char_4187_graceb_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "May the Lord bless you and keep you.",
+                "jp": "あなたに主の加護がありますように。",
+                "kr": "당신에게 주님의 가호가 함께하기를.",
+                "cn": "您是受眷顾之人。"
+            },
+            "asset": "char_4187_graceb/CN_042"
+        },
+        {
+            "id": "char_4187_graceb_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "I know it's rude to get drunk at someone else's birthday party, but it's been a long time since I've been able to drink to my heart's content like this. No need to worry about the children, no need to worry about shells falling on our heads out of nowhere, and no need to worry about what may come tomorrow.",
+                "jp": "人の誕生日会で酔っぱらうのはとても失礼なことですが、どうかお許しください。こんなに気持ちよく飲むのは随分と久しぶりなんです。子供たちの安否を気にかける必要も、急に砲弾が飛んでくる心配も、明日への不安もないんですから。明日はきっとこのまま、穏やかに来るでしょう。",
+                "kr": "다른 이의 생일 파티에서 취하는 건 매우 실례되는 일이지만, 부다 용서해 주시길. 이렇게 마음 편히 술을 마신 게 너무 오랜만이어서요. 아이들의 안부를 걱정할 필요도, 갑자기 포탄이 날아올까 두려울 필요도, 내일에 대한 불안도 없으니까요. 분명 다가올 내일도 이렇게 평온할 거예요.",
+                "cn": "在他人的生日宴上喝醉是一件非常失礼的事，但请原谅，我很久都没有这样畅快地醉过了。不用担心孩子们的安危，不用担心突如其来的炮火，也不用担心明天。明天就将这样安安稳稳地到来。"
+            },
+            "asset": "char_4187_graceb/CN_043"
+        },
+        {
+            "id": "char_4187_graceb_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Am I imagining things, or is there something sealed away in your mind too? Something chaotic and complex, no less than the knowledge passed down through generations of K'uk'ulkan... Promise me, Doctor, that whatever it is, you will not allow it to take control of your life and replace it.",
+                "jp": "私の錯覚でしょうか？どうもあなたの頭の中にも何かが封印されているような気がするんです。ぐちゃぐちゃで、入り組んでて、「ククルカン」が代々伝えてきた知識に負けないくらい複雑な……ドクター、約束してください。それがなんであろうと、あなたの人生が乗っ取られ、すり替えられてしまうようなことは絶対に許さないでください。",
+                "kr": "제 착각일까요? 어째서인지 당신 머릿속에도 무언가가 봉인되어 있는 것 같아요. 뒤죽박죽 복잡하게 얽혀있어서, '쿠쿨칸'이 대대로 전해온 지식보다도 복잡한…… 박사님, 약속해 주세요. 그게 무엇이든, 당신의 인생이 빼앗기고 뒤바뀌는 일은 절대로 용납하지 마세요.",
+                "cn": "是错觉吗？不知为何，我总觉得在您的脑中也封存着什么，混乱复杂，绝不亚于“羽蛇”一代代传承下来的知识......博士，答应我好吗？不论那是什么，都不要让它替代并偷换您的生活本身。"
+            },
+            "asset": "char_4187_graceb/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Dariana Romo",
+            "global": "Dariana Romo"
+        },
+        "cn": {
+            "native": "静宸",
+            "global": "Chen Jing"
+        },
+        "jp": {
+            "native": "木村咲良",
+            "global": "Sakura Kimura"
+        },
+        "kr": {
+            "native": "엄지은",
+            "global": "Um Ji-eun"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

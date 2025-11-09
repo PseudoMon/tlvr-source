@@ -553,20 +553,6 @@
             "asset": "char_457_blitz/CN_037"
         },
         {
-            "id": "char_457_blitz_CN_038",
-            "title": {
-                "en": "New Year's blessing",
-                "jp": "新年",
-                "kr": "새해"
-            },
-            "text": {
-                "en": "Friends, I hope this year is even better to you all.",
-                "jp": "今年は仲間たちにとってより良い一年になるといいな。",
-                "kr": "모두 작년보다 나은 한 해가 되길."
-            },
-            "asset": "char_457_blitz/CN_038"
-        },
-        {
             "id": "char_457_blitz_CN_042",
             "title": {
                 "en": "Greeting",

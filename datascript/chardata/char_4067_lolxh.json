@@ -553,6 +553,22 @@
             "asset": "char_4067_lolxh/CN_037"
         },
         {
+            "id": "char_4067_lolxh_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "UNUSED",
+                "jp": "あけましておめでとう！ドクター、これあげる。アグンが持たせてくれたルーウェイだよ。一年間お世話になったから、そのお礼に、だって。",
+                "kr": "새해 복 많이 받아! 박사, 이거 줄게. 아근이 너희에게 가져다주라고 했던 루웨이야. 지난 1년 동안 돌봐준 답례야.",
+                "cn": "新年好，博士，这个给你，是阿根让我给你们带的卤味，来谢谢大家去年对我们的照顾。"
+            },
+            "asset": "char_4067_lolxh/CN_038"
+        },
+        {
             "id": "char_4067_lolxh_CN_042",
             "title": {
                 "en": "Greeting",
@@ -567,6 +583,38 @@
                 "cn": "博士，你好！"
             },
             "asset": "char_4067_lolxh/CN_042"
+        },
+        {
+            "id": "char_4067_lolxh_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "So it's your birthday, Doctor! No wonder there's so many people aboard. Sorry, I didn't get a present ready in time for this, um... you can have this scroll from the Hall for Spirits, and if you're ever in danger, it'll save your life!",
+                "jp": "ドクター、今日は誕生日なの！？だからこんなにたくさん人が来てるんだね。でもごめんね、知らなかったからプレゼントは用意してないんだ。うーんと……そうだ、館の巻物あげるね。これがあれば、危ない目に遭った時助けてくれるよ！",
+                "kr": "오늘이 박사 생일이라고?! 어쩐지 로도스 아일랜드에 사람이 많다 했어. 미안, 몰라서 선물은 준비 못 했어. 음…… 그래, 회관의 두루마리를 줄게. 이게 있으면 위험한 상황에 처했을 때 도움이 될 거야!",
+                "cn": "原来今天是你生日啊，博士！怪不得岛上来了这么多人。对不起，我没有提前准备礼物，嗯......就把这个会馆的卷轴送你吧，遇上危险能保你一命的！"
+            },
+            "asset": "char_4067_lolxh/CN_043"
+        },
+        {
+            "id": "char_4067_lolxh_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "UNUSED",
+                "jp": "僕、ドクターとの思い出はちゃんと大切にするからね。いつか元の世界に戻っても、絶対ドクターのこと忘れたりしないよ。",
+                "kr": "박사, 나…… 박사와의 추억을 정말 잘 간직할게. 언젠가 원래의 세계로 돌아가더라도, 절대 박사를 잊지 않을 거야.",
+                "cn": "博士，我......会好好珍惜和你在一起的经历。有天回去了，也不会忘记你的。"
+            },
+            "asset": "char_4067_lolxh/CN_044"
         }
     ],
     "actors": {

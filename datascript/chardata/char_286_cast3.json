@@ -468,7 +468,7 @@
                 "en": "Doctor, would you like to grab a drink together? I might not be able to actually have a drink, but I can still treat you to one. It is fine, Master Closure will pay.",
                 "jp": "一杯どうですか、ドクター様？私は飲めませんが、ごちそう致します。ご心配なさらず、請求はマスタークロージャへ行きますので。",
                 "kr": "한잔 어떠십니까 박사님? 저는 마실 수 없습니다만, 한잔 사도록 하겠습니다. 걱정하지 마십시오, 비용 청구는 마스터 클로저 앞으로 진행되니까요.",
-                "cn": "博士，要一起喝一杯吗？虽然我不能喝，不过我能请您。别担心，最后也是可露希尔主人付帐。"
+                "cn": "博士，要一起喝一杯吗？虽然我不能喝，不过我能请您。别担心，最后也是可露希尔主人付账。"
             },
             "asset": "char_286_cast3/CN_036"
         },
@@ -530,7 +530,7 @@
             },
             "text": {
                 "en": "Doctor, happy birthday! Let me sing a birthday song for you. I have birthday songs from 31 different regions saved to memory. Which one should I play? Or should I loop a playlist? Or maybe you could use an exclusive discount on a birthday cake from Closure's Store!",
-                "jp": "博士，生日快乐！我来为您唱一首生日歌吧。我的内存库里存储了来自不同地区的共三十一种生日歌，应该为您播放哪一首呢？还是进行列表循环呢？或者是要来一份可露希尔商店特惠生日蛋糕呢！",
+                "jp": "ドクター様、お誕生日おめでとうございます！バースデーソングを歌って差し上げましょう。私のメモリには異なる地域のバースデーソングが合計三十一曲保存されています。お聴きになりたい曲はありますか？それともプレイリストの上から順に歌いますか？あるいは今すぐ購買部のお徳用バースデーケーキを注文致しましょうか！",
                 "kr": "생일 축하드립니다, 박사님! 제가 박사님을 위해 생일 축하 노래를 불러 드리겠습니다. 현재 제 메모리에는 31가지의 다양한 지역의 생일 축하 노래가 저장돼 있습니다. 박사님께선 어떤 노래가 듣고 싶으신가요? 순서대로 반복 재생을 해드릴까요? 아니면 마스터 클로저의 상점에서 특별 세일하는 생일 케이크는 어떠신가요!",
                 "cn": "博士，生日快乐！我来为您唱一首生日歌吧。我的内存库里存储了来自不同地区的共三十一种生日歌，应该为您播放哪一首呢？还是进行列表循环呢？或者是要来一份可露希尔商店特惠生日蛋糕呢！"
             },

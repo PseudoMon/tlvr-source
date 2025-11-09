@@ -561,9 +561,9 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "I hear this is a day of reunions. May you and all at Rhodes Island be in good health.",
-                "jp": "今日は団らんの日だと聞きました。ドクターとロドスの皆さんが健康でいられますように。",
-                "kr": "다들 함께 모여서 세는 명절이라 들었는데, 로도스 아일랜드 여러분도 모두 건강하길 바랄게요.",
+                "en": "All in the past is like dream, like fire, like moons, like smoke. Like the reflection in a mirror, like the abyss of the void. But all things bloom and blossom in the wonderful years of life. Good work in the past year, Doctor, and may all things in the next one be auspicious and prosperous.",
+                "jp": "過ぎ去りし一切は、夢や焔の如く、月や煙の如く。鏡に写されし像の如く、また空虚なる淵の如し。それでも万物は皆、花を咲かせ、爛漫に揺らめく。昨年はご苦労さまでしたね、ドクター。新たな一年、万事良き巡り合わせに恵まれますように。",
+                "kr": "지나간 모든 것은 꿈같고 불꽃같으며, 달 같기도 연기 같기도 합니다. 마치 거울 속의 모습처럼, 허공 속의 심연처럼요. 하지만 만물은 얼마든지 다시 꽃을 피우고 아름답게 흔들리거든요. 지난 한 해 동안 수고 많으셨습니다, 박사님. 새해에도 모든 일이 순조롭길 바랄게요.",
                 "cn": "过去的一切如梦如焰、如月如烟。如镜中像、如虚空渊。但万物皆生花，摇曳如芳华。上一年辛苦了，博士，祝您在新的一年里事事皆吉祥。"
             },
             "asset": "char_4019_ncdeer/CN_038"
@@ -583,6 +583,38 @@
                 "cn": "看起来很精神呢，博士。"
             },
             "asset": "char_4019_ncdeer/CN_042"
+        },
+        {
+            "id": "char_4019_ncdeer_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "See the way of all beings, and all takes on the true aspect. The aspect without self, the aspect without all life, and so all life's aspect is found in one, and one becomes with heaven and earth from the day they are born. What does your birthday symbolize, Doctor?",
+                "jp": "万物の法を識れば、皆これ真実の相なり。我相なし、衆生相なし。衆生の相これ一人たり、人生ずる時より天地と化す。ドクター、あなたの誕生日にはどんな意味があるのでしょう？",
+                "kr": "만물을 인식하는 법은 모두 실상입니다. 나만의 상도 중생의 상도 없이, 중생의 모든 상은 한 사람이며, 사람은 태어날 때 천지를 변화시키죠. 박사님, 당신의 생일은 무엇을 의미하나요?",
+                "cn": "识万物之法，皆为真实相。无我相，无众生相，众生所相为一人，人自生时化天地。博士，你的生日，意味着什么呢？"
+            },
+            "asset": "char_4019_ncdeer/CN_043"
+        },
+        {
+            "id": "char_4019_ncdeer_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Blessed are those who give to the world. The blessings you give to the world will come back to you. May you continue to lead Rhodes Island forward, Doctor.",
+                "jp": "居所を安き処に置けば、往来に福徳あり。福者は、世の諸事を明らかにすること能う。仁を施し、衆を済えば、積める福業、終には善き還りあり。ドクター、どうぞ引き続きロドスを導き、先へと歩を進めてください。",
+                "kr": "편안한 곳에 거처를 정하면, 오고 감에는 복덕이 따릅니다. 복이란 세상사의 온갖 일을 밝히게 하는 힘이고, 어진 덕을 베풀어 사람들을 구제하면 쌓인 공덕은 언젠가 선으로 돌아오죠. 박사님, 부디 앞으로도 로도스 아일랜드를 이끌어 주시길 바랍니다.",
+                "cn": "居所置宁处，往来有福德。福者，能为世间做诸事明。仁施济众，所积福业，终有善还。博士，请继续引领罗德岛前行。"
+            },
+            "asset": "char_4019_ncdeer/CN_044"
         }
     ],
     "actors": {

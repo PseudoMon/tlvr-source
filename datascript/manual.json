@@ -21,6 +21,16 @@
             "baseurl": "https://raw.githubusercontent.com/PseudoMon/arknights-audio/256053567424c27eac3e9ef8cc411f5d13cb8c21/voice_en"
         },
 
+        "angel": {
+            "lang": "en",
+            "actor":
+            {
+                "native": "Leonora Haig",
+                "global": "Leonora Haig"
+            },
+            "baseurl": "https://raw.githubusercontent.com/PseudoMon/arknights-audio/cb13f0369f083541c7143cc4bb50b2eb448dc9fc/voice_en"
+        },
+
         "elysm": {
             "lang": "jp",
             "actor":

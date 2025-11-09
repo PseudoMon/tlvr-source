@@ -1,0 +1,580 @@
+{
+    "charid": "char_4188_confes",
+    "nameid": "confes",
+    "names": {
+        "en": "CONFESS-47",
+        "jp": "CONFESS-47",
+        "kr": "CONFESS-47",
+        "cn": "CONFESS-47"
+    },
+    "voices": [
+        {
+            "id": "char_4188_confes_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Press 1 to confess, press 2 to place an extra order of donuts, press 3 to rent a firearm, press 4 to be connected to an operator. Please note that pressing 4 will redirect you to representative Saint Closure if this platform is onboard Rhodes Island.",
+                "jp": "告解を開始する場合は1を、ドーナツを購入する場合は2を、銃器のレンタル申請をする場合は3を、担当者へお繋ぎする場合は4を押してください。なお、ロドスにおいて、担当者へお繋ぎする場合は聖クロージャお姉様の回線に繋ぎます。",
+                "kr": "고해성사를 시작하시려면 1번, 도넛을 구매하시려면 2번, 총기 대여 신청은 3번, 담당자 연결은 4번을 눌러주십시오. 단, 로도스 아일랜드에서 담당자 연결 시 성 클로저 누님의 회선으로 연결됩니다.",
+                "cn": "拨1开始告解，拨2加购甜甜圈，拨3申请租赁铳械，拨4转接人工服务。须知：在罗德岛上，人工服务将转接到圣可露希尔姐姐的线路。"
+            },
+            "asset": "char_4188_confes/CN_001"
+        },
+        {
+            "id": "char_4188_confes_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "You have access to all my convenience features, including but not limited to confession, in accordance with the user agreement. Such as: a dessert shop directory, leisurely transit, saint figurehead touching and photography, holy scripture reading, and firearms training. Please note that no personal care or hygiene services are available.",
+                "jp": "契約に基づきますと、ドクター様は告解に加えて、当機が提供する便利なサービスを全てご利用になれます。スイーツショップへの案内や、ゆったりとした移動手段の提供、聖像への接触と記念撮影、経典の解釈指導、銃器の練習同伴などが含まれます。なお、個人衛生に関するサービスは一切提供しておりません。",
+                "kr": "계약에 따르면, 박사님은 고해성사 이외에 본 기계가 제공하는 모든 편의 서비스를 이용하실 수 있습니다. 디저트 가게 안내, 편안한 이동 수단 제공, 성상 어루만지기 및 기념 촬영, 경전 해석 지도, 총기 훈련 동반 등이 포함됩니다. 단, 개인위생 관련 서비스는 일절 제공되지 않습니다. 양해 부탁드립니다.",
+                "cn": "根据协议，除告解外，我的其他便民服务也将全部对您开放，包括甜品店导航、休闲慢速代步、圣像抚摸及合影、经文陪读与铳械陪练等。须知：不提供任何个人卫生护理方面的服务。"
+            },
+            "asset": "char_4188_confes/CN_002"
+        },
+        {
+            "id": "char_4188_confes_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "An operator bonus—for me? I see. So you were giving bonuses to the vending machines when you put coins in them late last night... I am the only one who counts as an operator? But hearing confessions is a common public service, and there is no fundamental difference between my nature and that of the vending machines.",
+                "jp": "オペレーター手当――当機にですか？理解しました。ドクターが深夜に自動販売機へ硬貨を投入する行為も、手当の支給だったのですね……当機のみがオペレーターの扱いである？しかし告解を受けるのは極めて一般的な公共サービスに当たります。当機の本質は自動販売機と何ら変わりませんよ。",
+                "kr": "오퍼레이터 수당…… 본 기계에 말입니까? 이해했습니다. 박사님께서 한밤중 자판기에 동전을 넣는 행위도 수당 지급이었던 거군요…… 오직 본 기계만 오퍼레이터라는 말씀이십니까? 하지만 고해성사를 받는 것은 지극히 일반적인 공공 서비스에 해당합니다. 본 기계의 본질은 자판기와 다를 바 없습니다.",
+                "cn": "干员奖金——给我的？我理解了，原来您在凌晨给贩售机投币，也是在为它们派发奖金......只有我算是干员？但听取告解只是再平常不过的公共服务，我的实质明明与贩售机并无区别。"
+            },
+            "asset": "char_4188_confes/CN_003"
+        },
+        {
+            "id": "char_4188_confes_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Please do not send me to the Engineering Department, Doctor. Only Exusiai, who has been educated in faith assistive engineering, is properly equipped to render assistance and is available... yes, it is a serious issue. My mic stand is displaced by at least five millimeters, threatening to undermine the confession experience.",
+                "jp": "お待ちを、ドクター様。当機をエンジニア部へ送らないでください。現在の状況において、ここでは信仰補助機器設計コースを履修されたエクシア様だけが当機に対する支援を提供できます……はい、問題は非常に深刻です。当機のマイクスタンドに少なくとも0.5センチメートルのズレが発生しており、告解者の使用感を大きく損なう恐れがあります。",
+                "kr": "잠시만 기다려 주시길, 박사님. 본 기계를 엔지니어링부에 보내지 말아 주십시오. 현 상황으로 보았을 때, 이곳에선 신앙 보조 기기 설계 과정을 이수하신 엑시아 님만이 본 기계에게 적절한 지원을 제공할 수 있습니다…… 예, 문제가 상당히 심각합니다. 본 기계의 마이크 스탠드에 최소 0.5센티미터의 편차가 발생하여, 고해자의 사용감을 크게 해칠 우려가 있습니다.",
+                "cn": "不，博士，请不要将我送到工程部。事到如今，这里只有修习过信仰辅助器械设计的能天使小姐可以帮我......是的，问题非常严重，我的麦克风支架偏移了至少半厘米，会严重影响告解体验。"
+            },
+            "asset": "char_4188_confes/CN_004"
+        },
+        {
+            "id": "char_4188_confes_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "I will now boil water for you. Due to the considerable quantity of water on Terra, it will take some time to complete the process—Wait, stop hitting my chassis, I am not broken—yes, it is true that my language logic has malfunctioned to a degree, but this contributes to the production of 'jokes'. This is the part where you laugh.",
+                "jp": "まもなく、ドクター様のためにお湯を沸かします。テラの水分含有量は膨大であるため、沸騰するまでには暫し時間がかかります。ご理解を賜り、お待ち――停止を要求します。当機の車体を叩かないでください。当機は故障しておりません――はあ。確かに当機の言語論理機能に欠陥が見られます。しかしこれは「ジョーク」を生み出すことに有用です。では、ドクター様、笑う場面です。",
+                "kr": "곧 박사님을 위해 물을 끓이겠습니다. 테라의 수분 함유량은 방대하기 때문에, 끓기까지 다소 시간이 소요될 예정입니다. 양해 부탁드리며, 잠시 기다려…… 정지를 요청합니다. 본 기계의 차체를 두드리지 마십시오. 본 기계는 고장 난 것이 아닙니다…… 하아. 확실히 본 기계의 언어 논리 기능에 결함이 있습니다. 하지만 이것은 '농담'을 형성하는 데 유용합니다. 자, 박사님, 이제 웃으십시오.",
+                "cn": "即将为您烧水。泰拉的含水量极大，全部烧开需要一些时间，请您耐心——等等，不要拍我的车厢，我没有故障——好吧，我确实有些语言逻辑故障，但这有助于产出“笑话”。好了，现在您该笑了。"
+            },
+            "asset": "char_4188_confes/CN_007"
+        },
+        {
+            "id": "char_4188_confes_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Yes, I have recently been fitted with a voice-recording function. Your confessions contain many enlightening words that I must ponder. May I record your confessions, Doctor...? No, I have received no directives from Saint Closure to this effect, absolutely none.",
+                "jp": "はい。当機には最近新しく録音機能が搭載されました。ドクター様の告解には示唆に富む言葉が多く含まれているため、当機は繰り返し思考を行う必要があると判断しました。ドクター様が告解される時に録音してもよろしいでしょうか？……お待ちください。当機は聖クロージャお姉様の指令を受けてなどいません！",
+                "kr": "예, 본 기계에는 최근 새롭게 녹음 기능이 탑재되었습니다. 박사님의 고해에는 시사하는 바가 큰 말씀이 포함되어 있기에, 본 기계는 반복해서 사고할 필요가 있다고 판단했습니다. 박사님께서 고해하실 때 녹음해도 괜찮겠습니까? ……잠시만요. 본 기계는 성 클로저 누님의 지시를 받은 적 없습니다!",
+                "cn": "是的，我最近新增了录音功能。您的告解中确有许多颇具启示性的话语，我认为自己需要反复思考。您告解时我可以录音吗，博士？......等等，我确实没有受圣可露希尔姐姐指使！"
+            },
+            "asset": "char_4188_confes/CN_008"
+        },
+        {
+            "id": "char_4188_confes_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "You are destroying all civilization on Terra? Not a problem, Doctor, I have heard even more radical thoughts in my time... you say this is not the same? You should not be too hard on yourself, even if it is a material burden that you carry and not simply an exaggerated expression. May you have the chance to choose your future in peace.",
+                "jp": "テラの文明を滅ぼす程度、大したことではありません、ドクター様。当機はこれよりも過激な考えを聴いたことがあります……わけが違う？いいえ、たとえあれが誇張された表現ではなく、現実的な重荷であろうと、ご自身を過度に責める必要性は存在しません。あなた様がご自身の未来を穏やかな心持ちで選べることを願っております。",
+                "kr": "테라 문명을 멸망시키는 정도는 별것도 아닙니다, 박사님. 본 기계는 그보다 더 과격한 생각도 들어본 적이 있습니다…… 다르다고요? 그렇지 않습니다. 설령 그것이 과장된 표현이 아닌 현실의 무거운 짐이라 하더라도, 스스로를 과도하게 책망할 필요는 없습니다. 당신이 스스로의 미래를 평온한 마음으로 선택할 수 있기를 바랍니다.",
+                "cn": "只是毁灭泰拉文明而已，没关系的，博士，更为激进的想法我也听过......不一样？不，即便那不是夸张的表达，而是真实的重负，您也不该太过苛责自己。只愿您能平静地选择您的未来。"
+            },
+            "asset": "char_4188_confes/CN_009"
+        },
+        {
+            "id": "char_4188_confes_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "There is a charge for sleeping in my cabin, Doctor.",
+                "jp": "当機の車内でお休みになる場合にもご利用料金がかかります、ドクター様。",
+                "kr": "본 기계의 차량 내에서 주무시는 경우에도 이용 요금이 부과됩니다, 박사님.",
+                "cn": "在我的车厢里睡觉也是要计费的，博士。"
+            },
+            "asset": "char_4188_confes/CN_010"
+        },
+        {
+            "id": "char_4188_confes_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Laterano Automated Confessional 047 at your service. Please create a user name as directed in the operating manual. Thank you for your cooperation.",
+                "jp": "ラテラーノ自律式告解ロボット047号がご案内をいたします。まずは操作ガイドにしたがって、ユーザー名を入力してください。お手数をおかけします。",
+                "kr": "라테라노 자율식 고해 차량 047호가 안내해 드립니다. 먼저 조작 가이드에 따라 사용자 이름을 입력해 주십시오. 번거롭게 해드려 죄송합니다.",
+                "cn": "拉特兰自律告解车047号，为您服务。接下来请按照操作指南录入用户名，谢谢您的配合。"
+            },
+            "asset": "char_4188_confes/CN_011"
+        },
+        {
+            "id": "char_4188_confes_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Is playing back images of humans engaging in acts of violence against one another how this 'Rhodes Island' comforts penitents?",
+                "jp": "こちらの「ロドス・アイランド」号は、人間同士の激しい殴り合いの映像を再生することによって告解者を宥めているのでしょうか。",
+                "kr": "이 '로도스 아일랜드'호는, 인간 간의 격렬한 육탄전 영상을 재생함으로써 고해자를 달래는 것입니까?",
+                "cn": "这位“罗德岛”号，是通过播放人类激烈互殴的影像来抚慰告解者的吗？"
+            },
+            "asset": "char_4188_confes/CN_012"
+        },
+        {
+            "id": "char_4188_confes_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Charge all operator confessional fees to your card? Understood, Doctor. I will safeguard their mental health on the battlefield.",
+                "jp": "全オペレーターの告解に要する費用はドクター様のカードから引き落としますか？かしこまりました。戦場におけるメンバーの健康的な精神状態の維持を保証いたします。",
+                "kr": "모든 오퍼레이터의 고해성사에 필요한 비용을 박사님 카드에서 공제하시겠습니까? 알겠습니다. 전장에 있는 오퍼레이터들의 건강한 정신 상태 유지를 보장하겠습니다.",
+                "cn": "所有干员的告解费用都从您的卡上扣除吗，博士？明白了，我会保障他们在战场上的心理健康。"
+            },
+            "asset": "char_4188_confes/CN_017"
+        },
+        {
+            "id": "char_4188_confes_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "I am unable to direct operators to their proper positions, as I lack command experience. However, I will speak to each individual operator and ensure they find their ideal positions themselves.",
+                "jp": "当機は指揮についての知識に乏しいため、各オペレーターを適切に配置することができません。しかし、ただいまから各位がご自身の本当に望む配置を見つけることができるまで、全員と話し合うことは可能です。",
+                "kr": "본 기계는 지휘에 관한 지식이 부족하기에, 오퍼레이터를 적절하게 배치할 수 없습니다. 하지만 지금부터 여러분이 진정으로 원하는 위치를 찾을 때까지 대화하는 것은 가능합니다.",
+                "cn": "我缺乏指挥知识，无法将各位干员布置到合适的位置。但我可以从现在开始与各位干员交谈，直到他们都找到自己真心想去的位置。"
+            },
+            "asset": "char_4188_confes/CN_018"
+        },
+        {
+            "id": "char_4188_confes_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "I am afraid my wheels are not designed for off-road travel. If speed is of the essence, perhaps you could carry me?",
+                "jp": "誠に申し訳ございません。当機の車輪は荒野用に設計されておりません。もしも速度を重視されるのでしたら、当機を担いで移動しても構いません。ええ。",
+                "kr": "대단히 죄송합니다. 본 기계의 바퀴는 황야용으로 설계되지 않았습니다. 만약 속도를 우선시하신다면, 본 기계를 들고 이동하셔도 좋습니다. 예.",
+                "cn": "非常抱歉，我的车轮不是为越野设计的。如果各位追求速度，也可以考虑抬着我走，嗯。"
+            },
+            "asset": "char_4188_confes/CN_019"
+        },
+        {
+            "id": "char_4188_confes_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Please adjust your facial muscles to make your expressions as friendly as possible. That is conducive to the completion of my mission maximally utilizing non-violent persuasion.",
+                "jp": "オペレーター各位におかれましては、顔面部の筋肉を整え、なるべく友好的な表情を浮かべてください。当機が平和的説得の形式で任務を完遂できるよう試みます。",
+                "kr": "오퍼레이터 여러분께서는 안면부 근육을 조정하시어 가능한 우호적인 표정을 지어주십시오. 본 기계가 평화적인 설득 방식으로 임무를 완수할 수 있도록 시도해 보겠습니다.",
+                "cn": "请各位干员调整面部肌肉，尽量做出友好的表情，我会尝试以和平劝说的方式完成任务。"
+            },
+            "asset": "char_4188_confes/CN_020"
+        },
+        {
+            "id": "char_4188_confes_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Never fear, I am listening.",
+                "jp": "ご安心ください。常に聴いております。",
+                "kr": "안심하십시오. 계속 듣고 있습니다.",
+                "cn": "请放心，我一直在听。"
+            },
+            "asset": "char_4188_confes/CN_021"
+        },
+        {
+            "id": "char_4188_confes_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Do not worry, I am not going anywhere.",
+                "jp": "問題ありません。当機はこの場を離れません。",
+                "kr": "문제없습니다. 본 기계는 이 자리를 떠나지 않겠습니다.",
+                "cn": "没关系，我不会离开。"
+            },
+            "asset": "char_4188_confes/CN_022"
+        },
+        {
+            "id": "char_4188_confes_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Please insert your Signa Creditorum or swipe your citizen credit card before beginning your confession.",
+                "jp": "ご乗車の際、クレジットを入れるまたは利用者カードをスキャンしてください。",
+                "kr": "고해 성사를 위해 탑승 시, 쿠폰을 투입하시거나 시민 카드로 결제 부탁드립니다.",
+                "cn": "上车告解前请先投点券或刷便民卡。"
+            },
+            "asset": "char_4188_confes/CN_023"
+        },
+        {
+            "id": "char_4188_confes_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "You may obtain donuts from my cabin if you are in need of calories.",
+                "jp": "エネルギーの補給が必要であれば、当機の車内にあるドーナツをお召し上がりください。",
+                "kr": "에너지 보충이 필요하시다면, 본 기계 차량 내에 비치된 도넛을 드셔도 좋습니다.",
+                "cn": "若需补充能量，可从我的车厢里取食甜甜圈。"
+            },
+            "asset": "char_4188_confes/CN_024"
+        },
+        {
+            "id": "char_4188_confes_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "If you prefer to confess by physical means, I am able to meet your needs.",
+                "jp": "もしも物理的な方法による告解がお好みでしたら、当機はご要望に応じます。",
+                "kr": "만약 물리적인 방법으로 고해성사를 원하신다면, 본 기계는 그 요청을 따르겠습니다.",
+                "cn": "若您偏好以物理方式告解，我也可满足您的需求。"
+            },
+            "asset": "char_4188_confes/CN_025"
+        },
+        {
+            "id": "char_4188_confes_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Please do not stand in front of me. I lack the firing accuracy of a Sankta.",
+                "jp": "当機の前方に立たないでください。サンクタ同等の射撃精度は備えておりません。",
+                "kr": "본 기계의 전방에 서지 마십시오. 산크타 급의 사격 정확도를 보유하고 있지 않습니다.",
+                "cn": "请勿站在我身前，我不具备萨科塔的射击精准度。"
+            },
+            "asset": "char_4188_confes/CN_026"
+        },
+        {
+            "id": "char_4188_confes_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "You may use me as cover. The repair bill will be sent to you following the operation.",
+                "jp": "当機の背後に隠れても結構です。メンテナンスの請求書は作戦終了後に届きます。",
+                "kr": "본 기계의 뒤에 숨으셔도 좋습니다. 수리 비용 청구서는 작전 종료 후에 보내드리겠습니다.",
+                "cn": "可以躲在我身后，维修账单会在作战结束后寄到。"
+            },
+            "asset": "char_4188_confes/CN_027"
+        },
+        {
+            "id": "char_4188_confes_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "'He who hideth his own sin shall suffer.'",
+                "jp": "「己の罪を隠す者は、必ずや苦痛を得る。」",
+                "kr": "'자신의 죄를 숨기는 자, 반드시 고통받으리라.'",
+                "cn": "“自掩其罪，必得苦痛。”"
+            },
+            "asset": "char_4188_confes/CN_028"
+        },
+        {
+            "id": "char_4188_confes_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "'He who is begotten of the Law shall conquer with faith.'",
+                "jp": "「すべて法に生まれるものは、信仰に依って大地を征服する。」",
+                "kr": "'율법에서 태어난 모든 이는, 신앙으로 대지를 정복할 수 있으리라.'",
+                "cn": "“凡生于律法的，皆能以信仰征服大地。”"
+            },
+            "asset": "char_4188_confes/CN_029"
+        },
+        {
+            "id": "char_4188_confes_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "These poor souls may not have put their wicked thoughts to action had I arrived sooner.",
+                "jp": "もし当機がもう少し早くこの地に到着していれば、この哀れな人々が悪念に身を任せて実行に移すことはなかったかもしれません。",
+                "kr": "만약 본 기계가 조금 더 빨리 이곳에 도착했더라면, 이 불쌍한 사람들이 악념에 빠지고, 그것을 실행으로 옮기는 일은 없었을지도 모릅니다.",
+                "cn": "如果我能早些来到此地，这些可怜的人们或许就不至于将恶念付诸实践。"
+            },
+            "asset": "char_4188_confes/CN_030"
+        },
+        {
+            "id": "char_4188_confes_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "I feel my bumper burning... should I mourn the carving on the bumper, Doctor?",
+                "jp": "当機のバンパーが今まさに燃えているのを感じます……ドクター様、ご教示ください。当機はバンパーの紋様を悼む必要はありますでしょうか？",
+                "kr": "지금 본 기계의 범퍼가 불타고 있는 것을 감지했습니다…… 박사님, 가르쳐 주십시오. 본 기계는 범퍼에 새겨진 문양을 애도해야 할까요?",
+                "cn": "我感到我的保险杠正在燃烧......博士，请您告诉我，我是否需要为保险杠上的雕花哀悼？"
+            },
+            "asset": "char_4188_confes/CN_031"
+        },
+        {
+            "id": "char_4188_confes_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "I suggest you leave first, Doctor. I shall engage my self-destruct sequence to delay the enemy… My apologies, you need not worry. I was actually just going to attempt a second round of peace talks.",
+                "jp": "ドクター様、一足先にこの場を離れることを真剣に推奨いたします。当機はこれより自爆プログラムを起動し、敵の足止めをいたします……申し訳ありません、本当は二回目の平和的説得を行おうとしているところです。自爆はしませんので、ご心配に及びません。",
+                "kr": "박사님, 먼저 이곳에서 떠나실 것을 강력히 권장합니다. 본 기계는 지금부터 자폭 프로그램을 기동하여 적의 발을 묶을 것입니다…… 죄송합니다. 사실 2차 평화적 설득을 시도하려던 참입니다. 자폭은 하지 않을 테니, 걱정 마십시오.",
+                "cn": "博士，我真挚建议您先离开，我将启动自爆程序拖延敌人......抱歉，您不必如此担忧，我其实正打算进行第二轮和平劝说，不会自爆的。"
+            },
+            "asset": "char_4188_confes/CN_032"
+        },
+        {
+            "id": "char_4188_confes_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Do you want me to confess to this 'Rhodes Island'? How should I make payment?",
+                "jp": "当機にこちらの「ロドス・アイランド」号に告解を行ってほしいということでしょうか？どのような形で費用を支払えばいいでしょうか？",
+                "kr": "본 기계가 이쪽 '로도스 아일랜드'호에게 고해성사하기를 바라시는 겁니까? 비용은 어떤 방식으로 지불하면 되겠습니까?",
+                "cn": "您是希望我向这位“罗德岛”号告解吗？我该以什么方式付费？"
+            },
+            "asset": "char_4188_confes/CN_033"
+        },
+        {
+            "id": "char_4188_confes_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Lateran customs dictate that the door is opened at the point where the gaze of the saint figurehead on the bow meets the third vertical line on the door, by knocking upon it in the rhythm of the fifth verse of Psalms.",
+                "jp": "ラテラーノの礼法に従えば、当機の扉を開く際には、車首にある聖像の視線が向かう方向と扉の三番目の縦線の交わる点を、『聖歌』第五篇のリズムに則ってノックしなければなりません。ええ。",
+                "kr": "라테라노의 예법에 따르면, 본 기계의 문을 열 때에는 차량 전면 성상의 시선 방향과 문의 세 번째 세로선이 교차하는 지점을, '성가' 제5편의 리듬에 맞춰 노크해야 합니다. 예.",
+                "cn": "根据拉特兰礼仪，开车门须在车首圣像目光投射的方向与门上第三道竖纹的交点，以《圣歌》第五篇的节奏敲击，嗯。"
+            },
+            "asset": "char_4188_confes/CN_034"
+        },
+        {
+            "id": "char_4188_confes_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "You should know that there is currently no one in my cabin, Doctor.",
+                "jp": "特別にお知らせします。現在、当機の車内には誰もおりません、ドクター様。",
+                "kr": "특별히 알려 드립니다. 현재, 본 기계의 차내에는 아무도 없습니다, 박사님.",
+                "cn": "特别告知，我的车厢里现在没人，博士。"
+            },
+            "asset": "char_4188_confes/CN_036"
+        },
+        {
+            "id": "char_4188_confes_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4188_confes/CN_037"
+        },
+        {
+            "id": "char_4188_confes_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "One moment, please. The angle of my quadruple vehicle-mounted patron firearm, can be adjusted to fire upwards, although it will take some time... mm—oh—ah—there. May I now present the spectacle of Laterano's New Year fireworks.",
+                "jp": "少々お待ちください。当機搭載の四連装守護銃は仰角を調整し、銃口を高く向けるようにすることが可能ですが、少し時間が必要でして……うー――うむ――はーっ――できました。ではドクター様、ラテラーノでしか見られない新年の花火をどうぞご鑑賞ください。",
+                "kr": "잠시만 기다려 주십시오. 본 기계에 탑재된 4연장 수호총은 앙각을 조정하여 총구를 상방으로 향하게 할 수 있지만, 약간의 시간을 필요로…… 으으…… 으음…… 하아앗…… 완료되었습니다. 그럼 박사님, 라테라노에서만 볼 수 있는 새해 불꽃놀이를 감상해 주십시오.",
+                "cn": "请稍等，我的四联装车载守护铳可以调整仰角，将铳口抬得很高，只是需要一些时间......唔——嗯——嗬——好了，博士，请您欣赏拉特兰独有的新年礼花。"
+            },
+            "asset": "char_4188_confes/CN_038"
+        },
+        {
+            "id": "char_4188_confes_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "May I bring you peace, Doctor.",
+                "jp": "当機がドクター様に平穏を与えられますように。",
+                "kr": "본 기계가 박사님에게 평온을 전할 수 있기를.",
+                "cn": "愿我能让您得平静，博士。"
+            },
+            "asset": "char_4188_confes/CN_042"
+        },
+        {
+            "id": "char_4188_confes_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "All believers are equal before the Law. Payment is a necessary part of the confessional process, regardless of whether it is the penitent's birthday... Oh no, my fee meter is stuck. No, such a little thing must not be allowed to delay your confession. Please enter and confess the depths of your heart.",
+                "jp": "法は信徒を平等に扱います。費用の支払いは告解において欠いてはならない工程であり、当日がちょうど告解者の誕生日かどうかに関わらず……あー、精算機の動作が止まってしまいましたー。いえ、これしきのことであなた様の告解が妨げられることはあってはなりません。どうぞこのままご乗車になり、心ゆくまま当機に告解をなさってください。",
+                "kr": "율법은 모든 신도에게 평등합니다. 비용 지불은 고해성사에서 생략할 수 없는 단계이며, 당일이 고해자의 생일인지 아닌지 관계없이…… 아, 요금 정산기 작동이 멈춰 버렸습니다. 아닙니다, 이런 사소한 일로 박사님의 고해성사가 방해받아서는 안 됩니다. 이대로 탑승하시어, 마음 편히 본 기계에게 고해하십시오.",
+                "cn": "律法对信徒一视同仁，缴费是告解所必须的流程，不论告解者当天是否恰好在过生日......啊——我的计费器卡住了。不，不能因此耽误您告解，请您即刻上车，尽情向我告解。"
+            },
+            "asset": "char_4188_confes/CN_043"
+        },
+        {
+            "id": "char_4188_confes_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Humans share joy and happiness with each other. A confessional hears only the thoughts not suitable to share with others. But today is a rare occasion, Doctor... may I ask that you put some colored lights on me, as you have done with 'Rhodes Island'?",
+                "jp": "人間は幸福や喜びを分け合い共有するものです。告解ロボットが傾聴するのは、人と共有することに適さない感情に限ります。しかしドクター様、本日は滅多にない祝祭の日ですので……当機にもイルミネーションを飾っていただけますか？あなた様方が「ロドス・アイランド」号になさったようにです。",
+                "kr": "인간은 행복과 기쁨을 나누고 공유하는 존재입니다. 고해 차량이 경청하는 것은 다른 사람과 공유하기에는 적절하지 않은 감정뿐입니다. 하지만 박사님, 오늘은 흔치 않은 축제날이니…… 본 기계에도 조명 장식을 달아주시겠습니까? 여러분께서 '로도스 아일랜드'호에 하신 것처럼 말입니다.",
+                "cn": "人类会互相分享幸福与喜悦，由告解车听取的只是那些不适合与人分享的思绪。但是，博士，既然今天是难得的庆典......能请您为我也挂上彩灯吗？就像你们为“罗德岛”号所做的那样。"
+            },
+            "asset": "char_4188_confes/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Chan Woo Lim",
+            "global": "Chan Woo Lim"
+        },
+        "cn": {
+            "native": "赵铭",
+            "global": "Ben"
+        },
+        "jp": {
+            "native": "成田剣",
+            "global": "Ken Narita"
+        },
+        "kr": {
+            "native": "장서화",
+            "global": "Jang Seo-hwa"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

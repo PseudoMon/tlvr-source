@@ -1,0 +1,644 @@
+{
+    "charid": "char_1041_angel2",
+    "nameid": "angel2",
+    "names": {
+        "en": "Exusiai the New Covenant",
+        "jp": "新約エクシア",
+        "kr": "엑시아 더 뉴 커버넌트",
+        "cn": "新约能天使"
+    },
+    "voices": [
+        {
+            "id": "char_1041_angel2_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Leader, I left a package at your door, so remember to scan and sign for it when you manage to pull your head out of that stack of documents! Huh, weird... didn't you delegate a whole bunch of work already? How are you even busier than before?",
+                "jp": "リーダー、お届け物でーす。ドアのとこに置いとくから、一区切りついたら書類の山から顔出して受け取りのスキャンよろしくね！なんかさ、不思議だよね……あんなにみんなに仕事を割り振ってるのに、なんでキミはどんどん忙しくなってるわけ？",
+                "kr": "리더, 택배입니다~ 문쪽에 둘 테니까, 마무리되면 그 서류 더미에서 머리 내밀고 수령 확인 스캔 좀 부탁할게! 아니 근데 이상하네…… 그렇게나 모두에게 일을 나눠주고 있는데, 너는 왜 점점 더 바빠지는 거야?",
+                "cn": "老板，快递放你门口了，记得有空从文件堆里抬个头扫码签收哦！哎，奇怪......明明你分配出去那么多的差事，怎么自己却越来越忙了？"
+            },
+            "asset": "char_1041_angel2/CN_001"
+        },
+        {
+            "id": "char_1041_angel2_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "A—Achoo! Wut? Sheesh, my sister just texted to check if I'm good. Nah, overempathy's a pain sometimes, you know? It feels like you've been living in my head, sis. I need some personal space, you know!",
+                "jp": "ハッ――ハクション！……あれ？うわ、くしゃみしただけで姉ちゃんからメッセージが来ちゃったよ。勘弁してよー、強すぎる共感も考えものだよね！ちょっと姉ちゃん、最近あたしの頭の中に住み着いてるみたいになってるよ。距離感近すぎてプライベートがなくなっちゃうって！",
+                "kr": "에, 에엣취! ……어라? 우와, 재채기 한 번 했다고 언니한테 메시지가 오네. 좀 봐 달라고~ 교감이 너무 강한 것도 생각해 볼 문제네. 진짜, 최근에는 언니가 내 머릿속에 눌러앉은 것만 같다니까. 거리감이 너무 가까우면 프라이버시가 없어진다고!",
+                "cn": "啊——啊嚏！嗯？唉，刚刚打个喷嚏老姐都要发条短讯问一下。不要啊，共感太强也有不方便啊！老姐，你最近简直就像住在我的脑子里一样，亲密过头可是会失去私密空间的！"
+            },
+            "asset": "char_1041_angel2/CN_002"
+        },
+        {
+            "id": "char_1041_angel2_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Would I be sad if everyone couldn't stay together? Leader, you're overthinking it. Look at it this way: if we went our separate ways all across the lands, then I'd get to meet up with a friend anywhere I went, right? Keeps me on that logistics grind! <i>And</i> it's the perfect chance to throw a party!",
+                "jp": "みんなと一緒じゃなくて寂しくないかって？リーダー、考えすぎだよ。見方を変えれば、みんなバラバラに散らばってくれてるおかげで、どこに行っても友達に会えるってことでしょ。配達のモチベーションになるし、パーティチャンスってわけ！",
+                "kr": "모두와 함께 있지 않아서 쓸쓸하지 않냐고? 리더, 지나친 생각이야. 관점을 바꿔보면 모두 다 따로 흩어져 있는 덕분에, 어디를 가도 친구를 만날 수 있다는 거잖아. 배달할 때 동기 부여가 되기도 하고, 파티 찬스라는 거지!",
+                "cn": "不和大家一起会不会难过？老板，多虑了哦，换个角度想，大家四散在各地的话，那岂不是我每到一个地方，都能遇到我的朋友，这就是跑物流的动力！办派对的契机！"
+            },
+            "asset": "char_1041_angel2/CN_003"
+        },
+        {
+            "id": "char_1041_angel2_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "How come the shop's still shuttered? Ahh... the disaster repairs will take too long, and everyone's going to need time to get used to the new empathy now that the Law's changed... who knows what the future's gonna be like? Ey, is that an ice cream truck I see? Leader, quick! After it! The future? It's right there, in the new flavor we're about to try!",
+                "jp": "このお店、まだ休業中なの？はぁ、厄災は去ったけど、建物の修繕にはうんと時間がかかるし、法だって変わったし、新しい共感にもそんなすぐには馴染めないし……この先の未来はどう変わってくんだろうね？ってあれ、アイスクリームカーじゃない？リーダー、追いかけるよ！未来？未来は新作アイスの中だー！",
+                "kr": "이 가게, 아직도 휴업 중이네? 하아. 재이는 지나갔지만, 건물 보수는 시간 엄청 걸리지, 율법도 바뀌었지, 새 교감에도 그렇게 바로 익숙해지지 않지…… 이제부터 미래는 어떻게 변해가려나? 근데 어라, 저거 아이스크림 차 아냐? 쫓아가자, 리더! 미래? 미래는 신제품 아이스크림 속에 있다~!",
+                "cn": "这家店怎么还在歇业？唉，灾异过后，修补建筑要好久，律法也变了，新的共感方式大家也要花时间适应，不知道未来会变成什么样？欸，冰淇淋车？老板，快跟我追上去！未来？未来就在新口味里！"
+            },
+            "asset": "char_1041_angel2/CN_004"
+        },
+        {
+            "id": "char_1041_angel2_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "I always try to stay upbeat in a crowd, no matter the vibes. All the pain and sorrow stop right here with me, while I'll give out all the joy I have... Don't I get tired? Course not, I love hanging out.",
+                "jp": "人混みの中でどんな感情を受け取ったとしても、あたしはハッピーでいられるように努めてるんだ。苦しみとか悲しみはぜーんぶあたしでおしまいにして、自分の楽しい気持ちをみんなに届けるって決めてるんだ……疲れないかって？全然。みんなと一緒にいるのが大好きだから。",
+                "kr": "인파 속에서 어떤 감정을 받아들인다 해도, 나는 해피하게 있을 수 있도록 노력하고 있어. 괴로움이나 슬픔은 전부 내 안에서 끝내고, 내 즐거운 기분을 모두에게 전하기로 했지…… 지치지 않냐고? 전혀! 모두와 함께 있는 건 진짜 좋은걸.",
+                "cn": "待在人群中，不论感受到什么样的情绪，我都会尽力让自己保持快乐，痛苦啊，悲伤啦，都给我到此为止，我会把自己的快乐通通都传递给你们......累？当然不会，我喜欢跟大家待在一起。"
+            },
+            "asset": "char_1041_angel2/CN_005"
+        },
+        {
+            "id": "char_1041_angel2_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Yep, I saw the Sankta 'Lord'. The Lord was talking about stuff like genesis, crisis, future... But eh, it's a whole thing, you know. Who's supposed to keep track of all that? I think the Lord's better off staying put in 'The Saints' Travels', and leaving the future for us to decide!",
+                "jp": "そうだよ、サンクタの「主」に会えたんだ。起源がどうとか、危機とか未来とか色々言ってたけど……あーもう、とにかくややこしいのなんのって、誰がそんなに覚えられるのさ？主なんてやっぱり『聖徒行記』の中にいてくれた方がいいよ。未来の生き方を決めるのはあたしたち自身なんだから！",
+                "kr": "그래. 산크타의 '주'를 만났어. 기원이 어떻네, 위기네 미래네 이것저것 얘기했지만…… 아아, 진짜. 아무튼, 그렇게 복잡하고 까다로운 걸 누가 그렇게까지 기억하겠냐고. 주님은 역시 '성도행기' 속에나 있어주는 게 낫다니까. 미래를 살아가는 방식을 정하는 건 우리들 자신이니까!",
+                "cn": "没错，我见到了萨科塔的“主”。主说的什么起源、危机、未来......哎呀，反正都是些折腾人的事情，谁能记得清？我觉得主还是适合待在《圣徒行记》里，未来怎么活我们自己说了算！"
+            },
+            "asset": "char_1041_angel2/CN_006"
+        },
+        {
+            "id": "char_1041_angel2_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "You found my diploma?! Yeah, I could've become an intercity network expert for the Notarial Hall, or maybe a mobile confessional designer, if I hadn't run off. Do I have any regrets? Duh! But dwelling on them is pointless. If I hadn't joined Penguin Logistics or met you—Nope, not thinking about it!",
+                "jp": "卒業証書はキミが拾ってくれてたんだね。そうだね、あの頃ラテラーノを飛び出してなかったら、公証人役場で都市間ネットワークのエンジニアか告解ロボのデザイナーにでもなってたと思うよ。心残り？そりゃ多少はあるけど、過去の仮定に意味なんてないでしょ。もしペンギン急便に入らなかったら……それかキミに出会ってなかったら――ってダメダメ！考えない考えない……",
+                "kr": "졸업 증서는 네가 주워준 거였구나. 그러게, 그때 라테라노를 뛰쳐나가지 않았다면 공증소에서 도시 간 네트워크 엔지니어나 고해 차량 설계사가 되지 않았을까 싶어. 아쉽냐고? 그야 조금 그렇지만, 과거를 되돌아보며 만약을 가정한들 무슨 의미가 있겠어. 만약 펭귄 로지스틱스에 들어가지 않았다면…… 아니면 만약 널 못 만났다면…… 아 안 돼 안 돼! 생각 말자 생각 말자……",
+                "cn": "原来毕业证被你捡到了。对，当初没乱跑的话，我可能会在公证所当个城际网络专家，或者设计告解车。遗憾？当然有啊，但回头想就没意义了。要是没加入企鹅物流，或是不认识你——不行不行！"
+            },
+            "asset": "char_1041_angel2/CN_007"
+        },
+        {
+            "id": "char_1041_angel2_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "I didn't expect the halo to light up again after all that. Does it mean our Law and faith had nothing to do with it the whole time? I don't really get it, and we're stuck with it either way. There're no streetlights on our little path, so without the halo, we'd be smacking right into utility poles.",
+                "jp": "あんな色々あったのに、まさか光輪がまた点くなんてビックリだよ。あたしたちの法とか信仰はこの蛍光灯とは無関係なのかな？謎だけどまあいいや、どうせ今はもう必需品だし。この道にしたって街灯の一つもないから、これがなきゃ電柱にぶつかっちゃうよ。",
+                "kr": "그렇게 여러 가지 일이 있었는데, 광륜이 다시 밝아질 줄이야…… 우리 율법이나 신앙은 이 형광등과 무관한 걸까? 잘 모르겠지만, 뭐 됐어. 어차피 지금은 필수품이니까. 이 길만 해도 봐, 가로등 하나 없잖아. 이게 없으면 전신주에 부딪히고 말 걸?",
+                "cn": "经历这么多，那顶光环居然又重新亮起来了，我们的律法和信仰难道跟它一点关系都没有吗？搞不懂，反正现在谁都离不了它。这条小路上一盏路灯都没有，没有它，我们就要撞电线杆啦。"
+            },
+            "asset": "char_1041_angel2/CN_008"
+        },
+        {
+            "id": "char_1041_angel2_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "You're asking what's so fun about sitting alone in a confessional? There's oodles of fun to be had, like a maple bar in my hand, the breeze blowing in from outside, the sun shining from on high, it's perfect! Of course, there's you popping up all of a sudden. Even if you're barging in on my private moment, turns out I'm still glad you came to say hi.",
+                "jp": "告解ロボの中でなに楽しそうにしてるのって？ほら、このメープルクッキーとか、吹き込むそよ風とか、差し込む太陽とか、楽しいことだらけで……もう完っ璧でしょ！もちろん急に現れたリーダーもそのうちの一つだよ。一人の時間を邪魔されたはずなのに、なんか嬉しくなっちゃった。",
+                "kr": "고해 차량 안에서 뭐가 그럽게 즐겁냐고? 봐봐, 이 메이플 쿠키라든가, 불어오는 산들바람이라든가, 들어오는 햇살이라든가, 즐거운 일 투성이라…… 진짜 완벽하잖아! 물론 갑자기 나타난 리더도 그중 하나지. 분명 혼자만의 시간을 방해받은 건데, 왠지 기뻐졌어.",
+                "cn": "一个人坐在告解车里傻乐什么？很多东西啊，手里的枫糖饼干，外面吹进来的小风，洒进来的小阳光，完美！当然还有突然冒出来和我打招呼的你，明明是独属于我一个人的时光，被你打扰却很开心。"
+            },
+            "asset": "char_1041_angel2/CN_009"
+        },
+        {
+            "id": "char_1041_angel2_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Lord, please bless the Leader with a long and wonderful dream, and let that dream... come true some day.",
+                "jp": "主よ、リーダーに長く幸せな夢を見せ給え。願わくはその夢が……いつの日か実現せんことを。",
+                "kr": "주님, 리더가 길고 행복한 꿈을 꾸게 해 주소서. 바라건대, 그 꿈이…… 언젠가는 실현되기를.",
+                "cn": "主啊，希望你能让老板做个长长的美梦，希望那个美梦......终有一日能成真。"
+            },
+            "asset": "char_1041_angel2/CN_010"
+        },
+        {
+            "id": "char_1041_angel2_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Long time no see, Leader! Radiant as ever, aren't you? If you've got anything that needs delivering in Laterano, you come straight to me!",
+                "jp": "リーダー、ひっさしぶりー！相変わらずクールだね！ラテラーノでも配達が必要になったら、真っ先にあたしを呼んでね！",
+                "kr": "리더, 오랜만~! 여전히 쿨하네! 라테라노에서도 배달이 필요해지면 나를 가장 먼저 불러줘!",
+                "cn": "老板，好久不见，风采依旧啊！在拉特兰如果有需要运送货物的活计要第一时间想到我！"
+            },
+            "asset": "char_1041_angel2/CN_011"
+        },
+        {
+            "id": "char_1041_angel2_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Relax, Leader. I'm going to one-up my lame old performances in these battle records.",
+                "jp": "安心してリーダー、今のあたしは作戦記録に映ってる頃より何倍もイケてるから。",
+                "kr": "안심해 리더. 지금의 나는, 작전 기록 때보다 몇 배는 더 멋지니까.",
+                "cn": "放心，老板，现在的我肯定要比当时记录里的自己更加帅气啦。"
+            },
+            "asset": "char_1041_angel2/CN_012"
+        },
+        {
+            "id": "char_1041_angel2_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Giving me such a long list? Hmm... I'm not worried about finishing it, of course. I'm worried I might do such a good job that you'll drop all your delivery work on me next time, you know?",
+                "jp": "こんな大口の依頼をあたしに？えっと……できないんじゃなくて、完璧にできすぎちゃって、これから全部あたしに任せられたらどうしよって思ってさ。",
+                "kr": "이렇게 큰 의뢰를 나한테? 어…… 못 하는 건 아니고, 너무 완벽하게 해서 앞으로 전부 나한테 맡겨버리면 어쩌나 싶어서.",
+                "cn": "这么大的单子交给我？嗯......当然不是担心完不成，我是担心完成得太好，万一你以后都交给我怎么办？"
+            },
+            "asset": "char_1041_angel2/CN_013"
+        },
+        {
+            "id": "char_1041_angel2_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Leader, I can tell how important this thing is to you, so I swear on this gun in my hand, it'll reach its destination safely.",
+                "jp": "リーダー、これがキミにとってどれほど大事かはわかってるよ。この銃に誓って、必ず無事に約束の地までお届けします。",
+                "kr": "리더, 이게 네게 얼마나 중요한지는 알고 있어. 이 총에 맹세코, 반드시 약속의 땅까지 전달하겠습니다.",
+                "cn": "老板，我清楚这东西对你有多重要，以手中的铳起誓，它会安全抵达那里。"
+            },
+            "asset": "char_1041_angel2/CN_014"
+        },
+        {
+            "id": "char_1041_angel2_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Relax, Leader. I'll make sure your package gets there intact. That's not what you're worried about? Oh... I get it now. Whatever you want blown up, I'll wipe it off the face of this land.",
+                "jp": "安心していいよリーダー、配達物は欠損ゼロで届けるからさ。心配してるのはそこじゃない？ああ……わかった、爆破のターゲットだって塵一つ残さないって約束するよ。",
+                "kr": "안심해도 돼 리더. 배송품은 파손 제로로 전달할 테니까. 걱정하는 건 그게 아니라고? 아아…… 알았어. 폭파 목표도 먼지 하나 안 남기겠다고 약속할게.",
+                "cn": "老板，放心，需要我送到的，一丁点都不会损失。你担心的不是这个？啊......我明白了，需要我炸掉的，也一块都不会剩下。"
+            },
+            "asset": "char_1041_angel2/CN_017"
+        },
+        {
+            "id": "char_1041_angel2_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Don't worry, just follow me and you'll never get lost, there's no place in Laterano I haven't blown up at least once... Why the face, Leader? It's easier to understand something once you crack it open for a look-see, right?",
+                "jp": "心配しなくても、あたしに付いてくれば迷子は絶対ないから。ラテラーノで爆破したことない場所なんてないし……リーダー、その顔はやめて、爆破してバラしてみた方が理解が深まるってことだよ。",
+                "kr": "걱정 안 해도 돼, 날 따라오면 미아 될 일은 절대 없으니까. 라테라노에서 내가 폭파하지 않은 장소 같은 건 없기도 하고…… 리더, 그런 표정 하지 마. 폭파해서 해체해 봐야 이해가 깊어지는 법이라고~",
+                "cn": "别担心，跟着我绝对不会迷路，拉特兰我哪里没有炸过......老板，别露出这种表情啊，拆开看看更了解嘛。"
+            },
+            "asset": "char_1041_angel2/CN_018"
+        },
+        {
+            "id": "char_1041_angel2_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Need some lighting? All good, this light on my head will illuminate the path ahead... long as it doesn't die out. I don't think it will. Probably.",
+                "jp": "明かりが足りない？大丈夫、あたしの頭上の蛍光灯が進むべき道を照らし出してくれるから……まぁ消えなければの話だけど。さ、さすがにもう消えないよね？",
+                "kr": "빛이 부족하다고? 괜찮아. 내 머리 위 형광등이 나아갈 길을 비춰줄 거니까…… 뭐 안 사라진다면 말이지만. 이, 이제는 안 사라지겠지?",
+                "cn": "缺少照明设备？没关系，我头上这顶日光灯会把前面的路照清楚......如果它不熄灭的话。应该不会了吧？"
+            },
+            "asset": "char_1041_angel2/CN_019"
+        },
+        {
+            "id": "char_1041_angel2_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Get in line for my bullet buffet—!",
+                "jp": "弾丸ビュッフェはこちらに順序よくお並びください～！",
+                "kr": "총알 뷔페는 이쪽에 순서대로 줄 서주세요~!",
+                "cn": "想吃子弹，就给我一个一个排好队——！"
+            },
+            "asset": "char_1041_angel2/CN_020"
+        },
+        {
+            "id": "char_1041_angel2_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "I knew you'd come straight to me, Leader!",
+                "jp": "リーダー、真っ先に呼んでくれるって信じてたよ！",
+                "kr": "리더, 제일 먼저 불러줄 거라 믿고 있었다고!",
+                "cn": "老板，我就知道你第一时间想起来的人会是我！"
+            },
+            "asset": "char_1041_angel2/CN_021"
+        },
+        {
+            "id": "char_1041_angel2_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Uh... maybe you didn't come <i>straight</i> to me, but don't forget to pay my fee straight away.",
+                "jp": "まぁ……真っ先に呼ばれなくても、給料は真っ先に払ってもらうからね。",
+                "kr": "뭐어…… 제일 먼저 불러주지 않아도, 월급은 제일 먼저 받아 갈 거니까.",
+                "cn": "呃......就算不是第一时间想到我，也要记得第一时间结工资。"
+            },
+            "asset": "char_1041_angel2/CN_022"
+        },
+        {
+            "id": "char_1041_angel2_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Real estate question: this wonderful realm or a panoramic view of hell—which did you want again?",
+                "jp": "念のためもっかい聞くけど、美しき人の世と地獄のパノラマビューはどっちにしたいんだっけ？",
+                "kr": "만일을 위해서 한 번 더 묻는데, 아름다운 인간 세상이랑 지옥의 파노라마 뷰 중에 뭘로 하고 싶댔지?",
+                "cn": "我再确认下，美好人世间和地狱全景房，你到底想选哪一个啊？"
+            },
+            "asset": "char_1041_angel2/CN_023"
+        },
+        {
+            "id": "char_1041_angel2_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Okaaay... this is awkward, but I'm the only one who knows how to handle the chaos I created, haha.",
+                "jp": "ちょっと言いにくいんだけど、あたしが巻き起こしたトラブルはあたしにしか収められないんだ、アハハ。",
+                "kr": "말하기 좀 그런데, 내가 일으킨 트러블은 나밖에 수습 못 해. 아하하.",
+                "cn": "说起来不好意思，但我制造的混乱只有我自己知道该如何平息，哈哈。"
+            },
+            "asset": "char_1041_angel2/CN_024"
+        },
+        {
+            "id": "char_1041_angel2_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Divine judgment, traditional!",
+                "jp": "ヴェルス・ディオ・ヴォーレント！",
+                "kr": "베루스 데오 볼렌테!",
+                "cn": "正宗天意！"
+            },
+            "asset": "char_1041_angel2/CN_025"
+        },
+        {
+            "id": "char_1041_angel2_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Rock n' gospel!",
+                "jp": "ゴスペル・ロックン・ロール！",
+                "kr": "가스펠 로큰롤!",
+                "cn": "福音摇滚！"
+            },
+            "asset": "char_1041_angel2/CN_026"
+        },
+        {
+            "id": "char_1041_angel2_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Barrage sky-shattering!",
+                "jp": "ハイヴォルテージ・バラージュ！",
+                "kr": "하이 볼티지 버라지!",
+                "cn": "弹幕嗨破天！"
+            },
+            "asset": "char_1041_angel2/CN_027"
+        },
+        {
+            "id": "char_1041_angel2_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Apple pie, with char siu!",
+                "jp": "チャーシュー・アップルパイ！",
+                "kr": "차슈 애플파이!",
+                "cn": "叉烧苹果派！"
+            },
+            "asset": "char_1041_angel2/CN_028"
+        },
+        {
+            "id": "char_1041_angel2_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Yes! No place is beyond reach.",
+                "jp": "よぉーし、辿り着けない目的地なんてないんだから。",
+                "kr": "좋아, 도착 못할 목적지 같은 건 없다니까.",
+                "cn": "唔～没有到不了的目的地。"
+            },
+            "asset": "char_1041_angel2/CN_029"
+        },
+        {
+            "id": "char_1041_angel2_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Leader, don't forget to invite me out for drinks on your tab, okay!",
+                "jp": "リーダー、帰ったらキミの奢りでたーっぷり飲ませてね！",
+                "kr": "리더, 돌아가면 네가 쏘는 걸로 잔뜩 마시게 해 줘!",
+                "cn": "老板，记得要请我好好喝几杯！"
+            },
+            "asset": "char_1041_angel2/CN_030"
+        },
+        {
+            "id": "char_1041_angel2_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "No biggie. Out of bullets? Get a new mag. Gun jammed? Just use another.",
+                "jp": "大したことないよ。弾切れしたらマガジンを替えればいいし、ジャムったら銃を替えればいいだけだから。",
+                "kr": "별일 아냐. 총알이 떨어지면 탄창을 갈면 되고, 총알이 걸리면 총을 바꾸면 그만이니까.",
+                "cn": "问题不大，子弹打完就换弹匣，铳械卡壳就换另一支。"
+            },
+            "asset": "char_1041_angel2/CN_031"
+        },
+        {
+            "id": "char_1041_angel2_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Ahem, I'll compensate any losses suffered during delivery, so just relax.",
+                "jp": "ゴホン、運送中の欠損は弁償するから、安心して。",
+                "kr": "크흠. 배송 중 파손은 변상할 테니까, 안심해.",
+                "cn": "咳咳，物流途中的损失我会赔偿的，放心啦。"
+            },
+            "asset": "char_1041_angel2/CN_032"
+        },
+        {
+            "id": "char_1041_angel2_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "It's a little messy here... we're prepping packages to deliver—oh yeah! Leader, my hands are all full, so could you cut me some tape?",
+                "jp": "散らかってるって？まあ否定はしないけど……梱包中だしさ。そうだ！リーダー、もう全然手が回らないから、テープ切るの手伝って！",
+                "kr": "난장판이라고? 뭐, 부정은 안 하겠는데…… 포장 중이니까. 그래! 리더, 진짜 완전 손 모자라니까 테이프 자르는 거 좀 도와줘!",
+                "cn": "这里有点乱，确实......正在打包嘛，对了！老板，实在空不出手来，可以帮我剪一下胶带吗？"
+            },
+            "asset": "char_1041_angel2/CN_033"
+        },
+        {
+            "id": "char_1041_angel2_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Oh!",
+                "jp": "ヤッホー！",
+                "kr": "야호~!",
+                "cn": "哟！"
+            },
+            "asset": "char_1041_angel2/CN_034"
+        },
+        {
+            "id": "char_1041_angel2_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "An apple a day means seven apples a week, yay!",
+                "jp": "一日一リンゴ、一週間七リンゴ！",
+                "kr": "1일 1 사과, 1주 7 사과!",
+                "cn": "一天一苹果，一周七苹果！"
+            },
+            "asset": "char_1041_angel2/CN_036"
+        },
+        {
+            "id": "char_1041_angel2_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_1041_angel2/CN_037"
+        },
+        {
+            "id": "char_1041_angel2_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Hey, I'm always the one making you laugh, so why don't we switch it up for New Year's? You're awfully quiet, Leader. We've fought side-by-side so many times, I'm sure you know my weak spots. Don't tell me... you don't have a clue what gets me laughing?",
+                "jp": "ねー、これまではいつもあたしが盛り上げる側だったけど、せっかくの新年だし、今度はキミがあたしを楽しませてみてよ。なに遠慮してるの？ずっと一緒に戦ってきて、あたしの弱点も欠点もよくわかってるのに、笑いのツボは分からないなんて言わないよね？",
+                "kr": "있잖아, 지금까지는 항상 내가 분위기 띄우는 쪽이었는데, 모처럼 신년이기도 하고, 이번에는 네가 나를 즐겁게 해 줘 봐. 뭘 빼고 그래? 계속 같이 싸워와서 내 약점도 단점도 잘 알고 있으면서. 설마 내 웃음 포인트를 모른다고 하지는 않을 거지?",
+                "cn": "欸，以往那么多次都是我逗你开心，今天新年第一天，要不要反过来，你试试看逗我开心。拘谨什么，老板？咱俩并肩作战这么多次，你清楚我的弱点和缺点，难道不知道我的笑点吗？"
+            },
+            "asset": "char_1041_angel2/CN_038"
+        },
+        {
+            "id": "char_1041_angel2_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Express delivery for you, Leader!",
+                "jp": "リーダー、速達でーす！",
+                "kr": "리더, 특급 배송입니다~!",
+                "cn": "老板，有急件！"
+            },
+            "asset": "char_1041_angel2/CN_042"
+        },
+        {
+            "id": "char_1041_angel2_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Phew... I drove for two weeks plus straight, and fi... <i>finally</i> made it to your birthday party! Good, good, hah, this means I get to shove your face into a cake before the clock strikes twelve! So don't you hide, Leader! It's an expensive custom job, so it's <i>not</i> going to waste!",
+                "jp": "ふぅ……半月以上車を飛ばして、なんとか、なんとかキミの誕生日パーティに間に合ったよ。よかった、これで十二時前にキミの顔にケーキをお見舞いしてあげられそう！ちょっとリーダー、逃がさないよ！ケーキのオーダーにもけっこう身銭切ってるんだから、無駄にしてたまるか！",
+                "kr": "휴우…… 보름 넘게 차를 몰아서 간신히, 간신히 네 생일 파티에 맞춰 도착했네. 다행이다. 그럼 12시 전에 네 얼굴에 케이크 인사를 해볼까나! 잠깐 리더, 도망치지 말라고! 케이크 주문하는 데 나 돈 꽤 많이 썼다고, 헛되게 날려 먹을 순 없지!",
+                "cn": "呼......开了大半个月的车，终、终于赶上你的生日派对了。还好还好，哈，我能在十二点前把蛋糕糊在你的脸上！别想躲，老板！定做蛋糕我花了不少钱，可不能白白浪费！"
+            },
+            "asset": "char_1041_angel2/CN_043"
+        },
+        {
+            "id": "char_1041_angel2_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Going somewhere new and meeting new friends is fun and all, but going back to your usual turf to hang out with old friends is even better. Going somewhere new with old friends? Now that's the best. So, Leader, wanna go on a trip with me?",
+                "jp": "知らない場所に行って新しい友達を作るのはもちろん楽しいけど、いつもの場所に戻って、気心の知れた友達に会う時の方がワクワクするなぁ。もしそういう友達と知らない場所に行けたら、きっともっと素敵だよね。で、どうかなリーダー。あたしと一緒に行く？",
+                "kr": "새로운 곳에서 새 친구를 만드는 건 물론 즐거운 일이지만, 익숙한 곳으로 돌아가서 나를 잘 아는 오랜 친구들과 만날 때, 난 더 두근두근거려. 만약 그런 친구랑 새로운 곳에 갈 수 있다면 분명 더 멋지겠지. 그래서 말인데, 어때 리더. 나랑 같이 갈래?",
+                "cn": "去一个新地方，结识新的朋友，当然是件开心的事，但回到老地方，再遇到老朋友，我会更兴奋。如果还有什么更加美好，那一定是和老朋友去新地方。怎么样，要和我同行吗，老板？"
+            },
+            "asset": "char_1041_angel2/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Shannon Tarbet",
+            "global": "Shannon Tarbet"
+        },
+        "cn": {
+            "native": "蔡书瑾",
+            "global": "Shujin Cai"
+        },
+        "jp": {
+            "native": "石見舞菜香",
+            "global": "Manaka Iwami"
+        },
+        "kr": {
+            "native": "이지현",
+            "global": "Lee Ji-hyun"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

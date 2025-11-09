@@ -17,7 +17,7 @@
                 "cn": "任命助理"
             },
             "text": {
-                "en": "'Calamity'. Deploying simulation sequence. Activating emergency response mechanism. Queueing worst-case scenario simulation.",
+                "en": "'Calamity'. Deploying simulation sequence. Activating emergency response protocols. Queueing worst-case scenario simulation.",
                 "jp": "「厄災」を検知しました。演算プログラムオートラン、緊急対応システム起動、ただいまより最も極端な可能性をシミュレートします。",
                 "kr": "'재이'를 감지했습니다. 연산 프로그램 자동 실행, 긴급 대응 시스템 가동. 지금부터 가장 극단적인 가능성을 시뮬레이션합니다.",
                 "cn": "“灾异”。自动运行推演程序，启动紧急应对机制，接下来将推演最极端的可能性。"
@@ -33,9 +33,9 @@
                 "cn": "交谈1"
             },
             "text": {
-                "en": "From the Tower of Revelations to the Notarial Hall in Pagus Michaelion, then on to the Sunset Chapel in Pagus Saint Marcel, then the chapel square—the city is alight. I can feel every person's existence, and ultimately their disappearance. We are one—as 'Laterano'.",
+                "en": "From the Tower of Revelations to the Notarial Hall in Pagus Michaelion, then on to the Sunset Chapel in Pagus Saint Marcel, then the chapel square—the city is alight. I sense the existence of each individual, and their disappearance as well. We are one—as 'Laterano'.",
                 "jp": "啓示の石塔からミカエレオン区公証人役場、そして聖マルソー区のサンセット礼拝堂、教会広場に至るまで――都市全体に明かりが灯りました。すべての人の存在と、その消失を感じ取ることができます。我々は皆――「ラテラーノ」として、共にあるのです。",
-                "kr": "계시의 석탑에서 미카엘레온 구의 공증소, 그리고 세인트 마르솔 구의 일몰 예배당을 지나 교회당 광장까지…… 도시에 불빛이 켜졌습니다. 전 모든 사람들의 존재와 소멸을 느낄 수 있습니다. 우리는 모두…… '라테라노'로서 함께 합니다.",
+                "kr": "계시의 석탑에서 미카엘레온 구역의 공증소, 그리고 세인트 마르솔 구역의 일몰 예배당을 지나 교회당 광장까지…… 도시에 불빛이 켜졌습니다. 전 모든 사람들의 존재와 소멸을 느낄 수 있습니다. 우리는 모두…… '라테라노'로서 함께 합니다.",
                 "cn": "从启示石塔到米迦莱昂区的公证所，再到圣马尔索区的夕辉礼拜堂，教堂广场——城市亮灯了。我能感应到每一个人的存在，每一个人的消失。我们同在——作为“拉特兰”。"
             },
             "asset": "char_1032_excu2_sale#12/CN_002"
@@ -49,7 +49,7 @@
                 "cn": "交谈2"
             },
             "text": {
-                "en": "The entity known as The Lord of Fiends has been sealed away, and I will help her shed the Black Crown. Civlight Eterna is too heavy a burden for a single youth. Laterano will share in this aura, and 'empathy' shall unite Sankta and Sarkaz as one.",
+                "en": "The entity known as The Lord of Fiends is locked on, and I will help her shed the Black Crown. Civlight Eterna is too heavy a burden for a single fledgling. Laterano will share in this aura, and 'empathy' shall unite Sankta and Sarkaz as one.",
                 "jp": "「魔王」と称される個体を捕捉しました。黒き王冠を取り除くため、彼女に協力いたします。「文明の存続」は年若き個体にとって、負荷が大きすぎるのです。王冠がなくとも、ラテラーノが光輪を共有しますので、「共感」によってサンクタとサルカズは一つになるでしょう。",
                 "kr": "'마왕'이라 불리는 개체를 확인했습니다. 그녀가 검은 왕관을 제거할 수 있도록 제가 협력하겠습니다. '문명의 존속'은 어린 개체에게는 상당한 부담일 테니까요. 왕관이 없어도 라테라노는 광륜을 공유하니, '교감'을 통해 산크타와 살카즈는 하나가 될 수 있습니다.",
                 "cn": "名为“魔王”的个体已锁定，我将协助她摘下黑王冠。“文明的存续”对一个年幼的个体来说负荷过大。拉特兰将分享光环，“共感”会让萨科塔与萨卡兹成为一个整体。"
@@ -65,7 +65,7 @@
                 "cn": "交谈3"
             },
             "text": {
-                "en": "The Many share similarities with present-day Laterano, but extreme profit-seeking behavior does not conform to the laws of evolution. Does this mean, however, that they have abandoned rational thought? Can such a life form reach its endpoint? The nomadic monastery has arrived on the coast; You Many, your answers shall be used as reference.",
+                "en": "The Many share similarities with present-day Laterano, but extreme approach behavior does not conform to the laws of evolution. Does this mean, however, that they are no longer sentient? And can such a life form come to a natural end? The nomadic monastery has arrived on the coast; You Many, your answers shall be used as reference for the conclusion.",
                 "jp": "海に息づく大群と現在のラテラーノには類似点が見受けられます。しかし進化の法則に符合しない利益至上主義の行動原則は、理性を放棄したことの表れなのでしょうか？そうした理性なき命は、果たして終点へとたどり着けるのでしょうか？移動修道院は海岸線に到達しました。参考となる答えを、あなたたち大群に求めます。",
                 "kr": "위매니와 지금의 라테라노에는 유사점이 존재합니다. 그러나 극단적으로 이익을 추구하는 행동은 진화의 법칙에 부합되지 않는데, 이는 이성의 결여를 의미하는 걸까요? 이성이 없는 생명체는 과연 종착점에 도달할 수 있을까요? 이동 수도원은 이미 해안선에 도착했습니다. 위매니여, 당신들의 대답이 위 질문의 참고용으로 사용될 것입니다.",
                 "cn": "大群与如今的拉特兰存在相似性，但极端的趋利行为并不符合演化规律，这是否意味着抛却了理性？这样的生命还能否走到终点？移动修道院已抵达海岸线，大群，你们的回答将作为参考。"
@@ -81,7 +81,7 @@
                 "cn": "晋升后交谈1"
             },
             "text": {
-                "en": "Thanks to 'empathy', Laterano remains pure and efficient, even in the face of 'calamity'. When night falls, this place is the first to illuminate. Laterano will reconvene the Summit of Nations, and rally all forces at the eleventh hour.",
+                "en": "Owing to 'empathy', Laterano remains pure and efficient, even in the face of 'calamity'. When night falls, this place is the first to illuminate. Laterano will reconvene the Summit of Nations, and rally all forces when necessary.",
                 "jp": "「共感」によって、ラテラーノは「厄災」を前にしても純粋さと効率性を保つことができます。夜が訪れれば、この地に最初の明かりが灯るのです。ラテラーノはいずれ万国サミットを再開し、必要とあらば、あらゆる力を統合するでしょう。",
                 "kr": "'교감'을 통해 라테라노는 '재이' 앞에서도 순수함과 효율성을 유지할 수 있습니다. 밤이 찾아오면, 이곳에 가장 먼저 불빛이 켜질 것입니다. 라테라노는 곧 만국 정상회담을 다시 개최하여, 필요한 순간에 모두의 힘을 하나로 통합할 겁니다.",
                 "cn": "依托“共感”，拉特兰即使面对“灾异”也依然纯粹且高效。入夜之后，这里即是第一个亮灯的地方。拉特兰将重启万国峰会，必要时整合一切力量。"
@@ -97,7 +97,7 @@
                 "cn": "晋升后交谈2"
             },
             "text": {
-                "en": "It has no personality, but has the ability to suppress and manipulate human emotion, so why did it ultimately choose to construct a mechanism as complex as 'empathy' for the Sankta...? What brought about such a question? I am thinking—error, out of order.",
+                "en": "It possesses no personality yet maintains the capability to modulate and influence human emotions. Why did it ultimately choose to develop a mechanism as complex as 'empathy' for the Sankta...? What brought about such a question? I am thinking—Error, exception detected.",
                 "jp": "「アレ」は人格を備えず、人間の感情を抑制することも、操作することもできる力を持ちながら、どうしてサンクタに「共感」という複雑な感情メカニズムを構築したのでしょう？……なぜこのような疑問が生成されたのでしょうか？思考中――エラー、不具合が発生しました。",
                 "kr": "'그것'은 인격을 갖추지 않았으며, 사람의 감정을 억제 및 제어할 수 있는 능력을 지니고 있습니다. 하지만 무슨 이유로 산크타에게 '교감'이라는 복잡한 감정 메커니즘을 부여한 걸까요? ……어째서 전 이런 의문점이 생긴 걸까요? 생각 중…… 오류, 문제가 발생했습니다.",
                 "cn": "它并不具备人格，也有能力抑制、操控人的感情，却为什么最终选择为萨科塔建立“共感”这样复杂的情感机制？......为什么会生成这样的问题？我在思考——报错，故障提示。"
@@ -113,7 +113,7 @@
                 "cn": "信赖提升后交谈1"
             },
             "text": {
-                "en": "Emotional fluctuation detected; the six-year-old survivor in question does not possess the requisite psychological resilience. Processing; she is capable of accepting the death of the decedent... 'Death'. Federico, you, too, stood in the rain at that cemetery. Did you come to understand it?",
+                "en": "Emotional fluctuation detected; the six-year-old heir to the decedent does not possess the requisite psychological resilience. Processing; she demonstrates capacity to accept the decedent's status... 'Death'. Federico, you, too, stood in the rain at that cemetery. Did you come to understand it?",
                 "jp": "感情の起伏が検知されました。当事者である六歳の遺族は、まだ十分なレジリエンスを備えていません。ただいま処理中……完了、彼女はすでに一個体の消失――「死」を冷静に受け入れられるようになりました……フェデリコ、かつて同じように雨の墓地に立ち尽くしていたあなたは、「死」を理解していたのでしょうか？",
                 "kr": "감정의 동요가 감지되었습니다. 당사자의 유족은 현재 여섯 살로, 아직 충분한 심리적 수용 능력을 갖추지 못한 상태입니다. 지금 처리 중입니다…… 처리 완료. 그녀는 이미 한 개체의 소멸, 즉 '죽음'을 평온하게 받아들일 수 있습니다. 페데리코, 그때 비 내리는 묘지에서, 당신은 '죽음'을 이해했었습니까?",
                 "cn": "检测到情绪波动，当事人的六岁遗属尚不具备相应的心理承受能力。正在处理，她已经可以平静面对个体的消亡......“死亡”，费德里科，你也曾站在那个雨中的墓园，你当时是否理解它？"
@@ -129,7 +129,7 @@
                 "cn": "信赖提升后交谈2"
             },
             "text": {
-                "en": "Yulia, Clément—error; above names should not appear in the list of victims... Do you still remember? Federico, your mother taught you to read and write, to play music. She whispered to you in your dreams that you would come understand you were just as useful as any patron firearm.",
+                "en": "Yulia, Clément—error; above names should not appear in the list of victims... Do you still remember? Federico, when your mother taught you to read and write, to play music. She whispered to you as you slept—you would come understand that you were just as useful as any patron firearm.",
                 "jp": "ユリア、クレマン――エラー、前述の名前は犠牲者リストには含まれざるものです……フェデリコ、母がかつてあなたにピアノを教え、読み書きを教え、そして眠っているあなたに語りかけたことを覚えていますか？「いつかきっとわかるわ。こういうものは、守護銃と同じくらい役に立つのよ。」",
                 "kr": "율리아, 클레망…… 오류. 해당 이름은 희생자 명단에 포함되어선 안 됩니다…… 페데리코, 아직 기억하고 있습니까? 어머니가 당신에게 피아노 치는 법을 가르쳐 주고, 글을 읽고 쓰는 법을 알려주던 때를, 그리고 단잠에 빠진 당신에게 했던 말을. “언젠가는 알 수 있을 거야, 이런 게 수호총만큼이나 유용한 거라는 걸.”",
                 "cn": "尤利娅、克莱芒——报错，上述名字不应出现在牺牲者名单中......还记得吗？费德里科，母亲曾教你弹琴，教你阅读和书写，她对睡梦中的你说，你终究会理解，它们其实和守护铳一样有用。"
@@ -145,7 +145,7 @@
                 "cn": "信赖提升后交谈3"
             },
             "text": {
-                "en": "Arturia, cease your attempts to seduce the Doctor. I'm awake. I will share what I see as possible, as well as the limitations among them. My head is still fuzzy, but more importantly, please allow me a look at the sky—it is a blue most familiar to me, Doctor.",
+                "en": "Arturia, cease your seduction of the Doctor. I am awake. I will share the possibilities I saw, as well as the limitations within. My head is still too foggy to begin the description, please allow me a look at the sky—it is a blue most familiar to me, Doctor.",
                 "jp": "アルトリア、直ちにドクターへの教唆を停止しなさい。私はもう目覚めています。さっそく私が目にした可能性と、その限界を共有したいところですが、まだ少しめまいがしますので、一旦空を眺めさせてください――この青にもすっかり慣れてしまったのです、ドクター。",
                 "kr": "아르투리아, 지금 즉시 박사님에 대한 유도 행위를 멈추세요. 전 이미 깨어났습니다. 제가 목격한 가능성과 그 한계를 지금 당장 박사님께 공유해 드리고 싶지만, 아직 머리가 조금 어지럽군요. 잠시 하늘을 보는 걸 허락해 주시길 바랍니다…… 전 이 푸른색이 익숙해진 것 같습니다, 박사님.",
                 "cn": "阿尔图罗，停止你诱导博士的行为，我已清醒。我会分享我所见的可能性，以及其中的局限。我的头还有一点晕，在那之前，请允许我看一看天空——我习惯了这些蓝色，博士。"
@@ -177,7 +177,7 @@
                 "cn": "干员报到"
             },
             "text": {
-                "en": "Pathway set, framework stable. Connection successful. This is Laterano.",
+                "en": "Pathway locked. Framework stable. Connection established. This is Laterano.",
                 "jp": "ルートパス確定、フレームワーク安定。接続完了、こちらラテラーノです。",
                 "kr": "경로 확인, 프레임워크 안정적. 연결 완료, 여기는 라테라노입니다.",
                 "cn": "路径锁定，框架稳定。我已连接，这里是拉特兰。"
@@ -193,7 +193,7 @@
                 "cn": "观看作战记录"
             },
             "text": {
-                "en": "Archival complete.",
+                "en": "Archive complete.",
                 "jp": "アーカイブ保存完了。",
                 "kr": "저장 완료.",
                 "cn": "已存档。"
@@ -209,7 +209,7 @@
                 "cn": "精英化晋升1"
             },
             "text": {
-                "en": "True, we do need to renew our partnership agreement—you represent Rhodes Island, and I, Laterano.",
+                "en": "True. Our partnership agreement requires renewal—you represent Rhodes Island, and I, Laterano.",
                 "jp": "確かに、新たに協定を結び直す必要があるでしょう――あなたはロドスの、私はラテラーノの代表として。",
                 "kr": "확실히 새로운 협정을 맺을 필요가 있습니다…… 당신은 로도스 아일랜드의 대표로서, 그리고 저는 라테라노를 대표해서 말입니다.",
                 "cn": "我们确实需要重新签署合作协议——你代表罗德岛，我代表拉特兰。"
@@ -241,7 +241,7 @@
                 "cn": "编入队伍"
             },
             "text": {
-                "en": "I will become Laterano itself, calculate every possibility, and eliminate every obstacle.",
+                "en": "I am Laterano. I calculate every possibility, and remove every obstacle.",
                 "jp": "私がラテラーノそのものとして、あらゆる可能性をシミュレートし、すべての障害を取り除きましょう。",
                 "kr": "제가 라테라노 그 자체가 되어, 모든 가능성을 시뮬레이션하고, 모든 장애물을 제거하겠습니다.",
                 "cn": "我将作为拉特兰本身，推演每一种可能，清扫每一个障碍。"
@@ -273,7 +273,7 @@
                 "cn": "行动出发"
             },
             "text": {
-                "en": "In which location did the event transpire?",
+                "en": "In which zone did the crisis occur?",
                 "jp": "今回の危機はどちらのエリアで発生したものですか？",
                 "kr": "이번 위기는 어느 구역에서 발생한 것입니까?",
                 "cn": "危机这次发生在哪一个区域？"
@@ -289,7 +289,7 @@
                 "cn": "行动开始"
             },
             "text": {
-                "en": "Assessing danger level...",
+                "en": "Assessing crisis danger level…",
                 "jp": "危機レベル評価中です……",
                 "kr": "위기 등급을 평가 중입니다……",
                 "cn": "危机等级评估中......"
@@ -305,7 +305,7 @@
                 "cn": "选中干员1"
             },
             "text": {
-                "en": "Laterano has reached a clear assessment of the situation.",
+                "en": "Laterano has reached a conclusive assessment of the situation.",
                 "jp": "ラテラーノは目下の状況に明確な判断を下しました。",
                 "kr": "라테라노는 현재 상황에 대해 이미 명확한 판단을 내렸습니다.",
                 "cn": "拉特兰已对局势有明确判断。"
@@ -321,7 +321,7 @@
                 "cn": "选中干员2"
             },
             "text": {
-                "en": "Emergency response mechanism materializing.",
+                "en": "Emergency response protocols initializing.",
                 "jp": "緊急対応システム生成開始。",
                 "kr": "긴급 대응 시스템 생성을 시작합니다.",
                 "cn": "紧急应对机制开始生成。"
@@ -337,7 +337,7 @@
                 "cn": "部署1"
             },
             "text": {
-                "en": "Laterano will now respond.",
+                "en": "Laterano responds.",
                 "jp": "ラテラーノが対応にあたります。",
                 "kr": "라테라노가 응답할 겁니다.",
                 "cn": "拉特兰将做出回应。"
@@ -353,7 +353,7 @@
                 "cn": "部署2"
             },
             "text": {
-                "en": "Laterano will intervene.",
+                "en": "Laterano intervenes.",
                 "jp": "ラテラーノが紛争に介入します。",
                 "kr": "라테라노가 분쟁에 개입합니다.",
                 "cn": "拉特兰将介入纠纷。"
@@ -369,7 +369,7 @@
                 "cn": "作战中1"
             },
             "text": {
-                "en": "Firing—Commandments in effect.",
+                "en": "Fire, as the Commandments apply.",
                 "jp": "法に基づき――発砲。",
                 "kr": "법에 따라…… 발포.",
                 "cn": "射击——条律适用。"
@@ -385,7 +385,7 @@
                 "cn": "作战中2"
             },
             "text": {
-                "en": "Cleanup—Disaster response.",
+                "en": "Purge, as the protocols require.",
                 "jp": "防災措置により――殲滅。",
                 "kr": "재해에 대응…… 제거.",
                 "cn": "清扫——灾害应对。"
@@ -401,7 +401,7 @@
                 "cn": "作战中3"
             },
             "text": {
-                "en": "All principles can be broken.",
+                "en": "All principles are breakable.",
                 "jp": "破られぬ原則などないのです。",
                 "kr": "깨지지 않는 원칙은 없습니다.",
                 "cn": "一切原则可被打破。"
@@ -417,7 +417,7 @@
                 "cn": "作战中4"
             },
             "text": {
-                "en": "All restrictions have been lifted.",
+                "en": "All taboos are null.",
                 "jp": "禁忌はもはや一つとして存在しません。",
                 "kr": "금기는 더 이상 존재하지 않습니다.",
                 "cn": "一切禁忌已不存在。"
@@ -433,7 +433,7 @@
                 "cn": "完成高难行动"
             },
             "text": {
-                "en": "Annihilation will be averted.",
+                "en": "Annihilation shall not manifest.",
                 "jp": "破滅は決して訪れません。",
                 "kr": "파멸은 절대 찾아오지 않습니다.",
                 "cn": "毁灭不会到来。"
@@ -449,7 +449,7 @@
                 "cn": "3星结束行动"
             },
             "text": {
-                "en": "Ceasing combat operations. Laterano will now return to the ship.",
+                "en": "Operation complete. Laterano will now return to the landship.",
                 "jp": "作戦完了。ラテラーノは間もなく帰航します。",
                 "kr": "작전 종료, 라테라노는 귀환하겠습니다.",
                 "cn": "作战结束，拉特兰将返航。"
@@ -465,7 +465,7 @@
                 "cn": "非3星结束行动"
             },
             "text": {
-                "en": "There are still loopholes in the Commandments. I will fill them in.",
+                "en": "The Commandments contain deficiencies. I will implement corrections.",
                 "jp": "確認された法の欠陥は、私が補いましょう。",
                 "kr": "확인된 법의 결함은 제가 보완하겠습니다.",
                 "cn": "条律还有缺陷，我会补全。"
@@ -513,7 +513,7 @@
                 "cn": "戳一下"
             },
             "text": {
-                "en": "I did not notice you there, Doctor. I am still digesting this information.",
+                "en": "I did not notice your presence, Doctor. I am still processing this information.",
                 "jp": "……気付きませんでした、ドクター。まだ情報を消化しているところです。",
                 "kr": "계신 줄 몰랐습니다, 박사님. 전 그 정보들을 소화하는 중이었습니다.",
                 "cn": "我没注意到你，博士。我还在消化那些信息。"
@@ -561,7 +561,7 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "Even under such conditions, rituals of a similar type persist. Wandering executors return to the nearest monastery to spend the day with their compatriots. I have sensed the presence and subsequent disappearance of each such individual. I recollect that feeling, and know that it is not 'empathy'.",
+                "en": "Even under such conditions, rituals of similar types persist. Wandering executors return to the nearest monastery to spend the day with their compatriots. I sense the existence and disappearance of each individual. I recollect that feeling, and know that it is not 'empathy'.",
                 "jp": "人々がああした窮地に追い込まれても、こういった儀式はなくなりませんでした。放浪している執行人も、この日になれば直近の修道院へと立ち寄り、同胞たちと時間を共にするのです。その中で私は、彼ら一人ひとりの存在と、その消失を感じました。まだあの感覚を覚えていますが、あれは「共感」とは異なるものでした。",
                 "kr": "그런 상황 속에서도 사람들은 이런 의식을 포기하지 않았습니다. 방랑하는 집행자도 이날이 되면 가까운 수도원에 들러 동포들과 함께 시간을 보냈죠. 전 그 속에서 그들 한 사람 한 사람의 존재와 소멸을 느꼈습니다. 그 느낌을 여전히 기억하고 있지만, 그건 분명 '교감'과는 다른 것이었습니다.",
                 "cn": "即使在那样的情境里，类似的仪式也没有消失，流浪的执行者会在这一天回到最近的修道院与同胞共度。我感应到他们每一个人的存在，和消失。我记得那种感受，我知道那不是“共感”。"
@@ -577,7 +577,7 @@
                 "cn": "问候"
             },
             "text": {
-                "en": "Doctor, please hold here. I need to share those possibilities with you as soon as possible.",
+                "en": "Doctor, please hold here. These possibilities require immediate disclosure and discussion. With YOU.",
                 "jp": "ドクター、こちらで待機していてください。垣間見えた可能性を、いち早く共有せねばなりませんので。",
                 "kr": "박사님, 잠시 이곳에서 대기해 주시기 바랍니다. 제가 본 가능성을 당신께 가장 먼저 공유해 드려야 하니까요.",
                 "cn": "博士，请你守在这里。我需要第一时间与你分享那些可能性。"
@@ -593,7 +593,7 @@
                 "cn": "生日"
             },
             "text": {
-                "en": "I am about to return to Laterano. The missions assigned by the Notarial Hall clearly rate a higher priority than your birthday party. What I have done, however, is to procure this party hat for you... Is this a problem? If my understanding is correct, blue should be a suitable color for such an occasion.",
+                "en": "I am about to return to Laterano. The Notarial Hall's directives take precedence over your birthday celebration. I have, however, acquired this party hat for you... Is this inappropriate? If my understanding is correct, blue is a suitable color for such an occasion.",
                 "jp": "まもなくラテラーノへと戻ります。あなたの誕生日会と比べても、現状公証人役場の任務の優先度が上であることは明白です。ですが一応このパーティハットをご用意しておきましたので、どうぞ……何か問題でも？認識に齟齬がなければ、青はこういったシチュエーションでも使用可能な色のはずですが。",
                 "kr": "박사님, 저는 라테라노로 복귀하려고 합니다. 지금으로선 당신의 생일 파티보다 공증소 임무의 우선순위가 더 높다는 것이 분명하니까요. 이 파티 모자를 받아주시겠습니까? 당신을 위해 준비했습니다. 무슨 문제라도…… 있는 겁니까? 제 이해가 틀리지 않았다면, 푸른색은 파티에 사용할 수 있는 색깔일 텐데요.",
                 "cn": "我即将返回拉特兰，相比你的生日聚会，如今公证所派发的任务优先级显然更高。我为你准备了这顶派对帽......有什么问题吗？理解没有偏差的话，蓝色应该可以出现在这样的场合。"
@@ -609,7 +609,7 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "The possibilities that Arturia and I perceive are all similarly extreme; but even so, Rhodes Island, and you, as its commander, still play a role within them. Thus, Doctor, I need to hear your opinion before 'calamity' arrives.",
+                "en": "The possibilities that Arturia and I perceive are uniformly extreme; nevertheless, Rhodes Island, and you, as its commander, remain a constant variable. Therefore, Doctor, your assessment is required before 'calamity' arrives.",
                 "jp": "私とアルトリアが感じ取った可能性は両極端なものでしたが、それでもロドス、そして指揮官たるあなたが、その両方で重要な役割を担っていました。ですからドクター、「厄災」が本当に訪れる前に、どうかあなたのご意見をお聞かせください。",
                 "kr": "저와 아르투리아가 감지한 가능성은 모두 이처럼 극단적이지만, 로도스 아일랜드와 그 지휘관인 당신께선 이러한 가능성 속에서도 여전히 중요한 역할을 담당하고 있었습니다. 그러니 박사님, '재이'가 진정으로 찾아오기 전에, 부디 당신의 의견을 말씀해 주세요.",
                 "cn": "我和阿尔图罗感知到的可能性都如此极端，但即便如此，罗德岛，还有作为指挥官的你，依然在其中发挥着作用。所以博士，在“灾异”真的到来之前，我需要听取你的意见。"
@@ -618,6 +618,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Eliah Mountjoy",
+            "global": "Eliah Mountjoy"
+        },
         "cn": {
             "native": "冷泉夜月",
             "global": "Ji Huang"
@@ -632,6 +636,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

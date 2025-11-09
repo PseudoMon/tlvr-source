@@ -17,7 +17,7 @@
                 "cn": "任命助理"
             },
             "text": {
-                "en": "Doctor, have you ever considered some more... practical ornamentation for Rhodes Island? Such as monastery brewing caskets, or...",
+                "en": "Doctor, have you ever considered some more... practical ornamentation for Rhodes Island? Such as monastery brewing casks, perhaps…?",
                 "jp": "ドクターさん、ロドスに実用的なインテリアを増やそうとか、考えたことはありますか？例えば修道院の酒樽なんかを……。",
                 "kr": "박사님, 로도스 아일랜드에 실용적인 인테리어를 늘린다든가…… 하는 걸 생각해보신 적 있으실까요? 예를 들면 수도원의 술통 같은 걸……",
                 "cn": "博士，你是否有考虑过在罗德岛增添一些......实用风格的装饰物？比如修道院酿酒桶之类的......"
@@ -49,7 +49,7 @@
                 "cn": "交谈2"
             },
             "text": {
-                "en": "Doctor, do you have any interest in beer or bread? Landen Monastery Fermented Goods Contest CCCLXXVII first-place, at your service! No need? Ah, alright... Truly, I want our soft, springy bread and fragrant beer to be known across all of Terra. That would do wonders for our revenues!",
+                "en": "Doctor, do you have any interest in beer or bread? Landen Monastery Fermented Goods Contest CCCLXXVII first-place winner, at your service! No need? Ah, alright... Truly, I want our soft, springy bread and fragrant beer to be known across all of Terra. That would do wonders for our revenues!",
                 "jp": "ドクターさんはビールかパンにご興味はありますか？というのも、私はランデン修道院第三百七十七回発酵食品大会の優勝者なんですよ！え、大丈夫です？そうですか……本当はあのふわふわのパンと香り高いビールをテラ中に広めたいんですよね。そうすればきっと収入も……！",
                 "kr": "박사님께선 맥주나 빵에는 관심 없으신가요? 제가 사실 랜든 수도원 제377회 발효식품 대회의 우승자거든요! 네? 괜찮다고요……? 아, 알겠습니다…… 그게 폭신폭신한 빵과 향기로운 맥주를 테라 전역에 널리 홍보하고 싶거든요. 그럼 분명 수입도……!",
                 "cn": "博士对啤酒或者面包有兴趣吗？我可是兰登修道院第三百七十七届发酵物大赛第一名！不用？唉，好吧......真想把松软的面包和芳香的啤酒推广到全泰拉啊，收入就能......！"
@@ -65,7 +65,7 @@
                 "cn": "交谈3"
             },
             "text": {
-                "en": "E—Exusiai? *cough*! I never thought the legend who blew up her alma mater seventeen times in three years would be here at Rhodes Island... She does seem to have some learned business experts at her side, but the risk of an explosion while rebuilding the Monastery... best not for now.",
+                "en": "E—Exusiai? The legend who blew up her alma mater seventeen times in three years? I never thought she'd be here at Rhodes Island... She does seem to have some learned business experts at her side, but the risk of an explosion while rebuilding the Monastery... best not for now.",
                 "jp": "エ、エクシアさん？コ、コホン！あの三年間で母校を17回も爆破した噂に名高い伝説がロドスにいるだなんて……彼女のお仲間には腕の立つ商人が何人かいるようですが、爆破されるリスクを抱えながら修道院を再建するのは……やはりやめておきましょう。",
                 "kr": "에, 엑시아 씨요? 크흠! 모교를 3년간 무려 17번이나 폭파했다는 전설의 주인공이 로도스 아일랜드에 있었을 줄이야…… 그분 주변에 비즈니스 수완이 좋은 동료분들이 계신 것 같긴 했지만, 폭파될 리스크를 감수하면서 수도원을 재건하는 것은…… 역시 그만두는 게 좋겠어요.",
                 "cn": "能、能天使？咳咳！没想到传说中三年内炸毁母校十七次的传奇就在罗德岛......虽然她的身边似乎有几位手腕了得的商业能手，但冒着被炸的风险重建修道院......还是算了吧。"
@@ -97,7 +97,7 @@
                 "cn": "晋升后交谈2"
             },
             "text": {
-                "en": "It was only once I left the Monastery that I realized my arrows may do more than defend the Apostle. It can aid so many Infected, beset by injustice... I'm very proud, but occasionally I'll remember the days gone past where I simply drew my bow, and loosed. Now, every arrow has become so much more weighty.",
+                "en": "It was only once I left the Monastery that I realized my arrows may do more than defend the Curia. They can aid so many Infected, beset by injustice... I'm very proud, but occasionally I'll remember the days gone past, where I simply drew my bow, and loosed. Now, every arrow has become so much more weighty.",
                 "jp": "修道院を出てから、私の矢は法王庁を支えるだけでなく、不平等な扱いを受けたたくさんの感染者の力になれることに気付きました……とても誇りに思いますが、時々ただ弓を引いて、矢を放っていたあの日々を思い出すんです。今は一矢一矢が、とても重くなりましたから。",
                 "kr": "수도원을 떠난 후에야, 전 제 화살이 교황청을 보호할 수 있을 뿐만 아니라 수많은 불평등한 취급을 받는 많은 감염자들에게도 힘이 될 수 있다는 사실을 깨달았어요…… 매우 영광스러운 일이지만, 때때론 그저 활을 당기고 화살을 쏘던 예전이 생각나곤 해요. 지금은 화살 하나하나가 많이 무겁게 느껴지거든요.",
                 "cn": "离开了修道院之后，我才意识到原来我的箭不仅可以捍卫教廷，还可以帮助那么多遭受不公的感染者......我很自豪，但偶尔也会想起过去单纯的拉弓、松手的日子。现在的每一箭，沉重多了。"
@@ -113,7 +113,7 @@
                 "cn": "信赖提升后交谈1"
             },
             "text": {
-                "en": "So as to rebuild the Monastery, my sisters have left to seek cooperation across all of Terra. *sigh*! Landen Monastery, age-old guard of Laterano, is now a dispatch agency... If only those old men would grant a little more funding. What kind of an excuse is 'teach with gift, not with gifts!?'",
+                "en": "So as to rebuild the Monastery, my sisters have left to seek cooperation across all of Terra. Landen Monastery, age-old guardian of Laterano, is now a dispatch agency... If only those old men would grant a little more funding. What kind of an excuse is 'better to have a nun trained than a fund gained!?'",
                 "jp": "修道院を再建するために、シスターのみんなはテラ各地に営業に出ています。はぁ、代々ラテラーノを守り続けてきたランデン修道院が人材派遣機関だなんて……あのご老人たちにはもっと予算を回してほしいものです。財を授けるよりも才を授けよなんて、そんな言い訳が通用するはずないでしょう！",
                 "kr": "수도원을 재건하기 위해 자매님들은 협력을 구하고자 테라 각지를 돌아다니고 계세요. 하아…… 대대로 라테라노를 지켜 온 랜든 수도원이 인재 파견기관이라니…… 그 노인네들한테는 더 예산을 늘려달라 하고 싶어요. “돈을 주는 것보단 돈 버는 법을 알려주는 게 낫다”라니, 그런 변명이 통할 리 없잖아요!",
                 "cn": "为了重建修道院，姐妹们都前往了泰拉各地寻求合作，唉！世代守卫拉特兰的兰登修道院竟然变成了外派机构......那些老头子倒是多拨点款项下来啊，授人以财不如授人以才是什么借口嘛！"
@@ -129,7 +129,7 @@
                 "cn": "信赖提升后交谈2"
             },
             "text": {
-                "en": "Rhodes Island is a world apart from Laterano. All with a different scape in their hearts, mingling together. It truly is an extraordinary thing. Doctor, you must consider coming to the Monastery to teach after you retire. Issues of faith? That'll be no problem! None of us will mind.",
+                "en": "Rhodes Island is a far cry from Laterano, mingling the breadth of diversity in vision and ambition together. It's truly remarkable. Doctor, you must consider coming to the Monastery to teach after you retire. Issues of faith? That'll be no problem! None of us will mind.",
                 "jp": "ロドスはラテラーノとは全く違います。心にそれぞれの景色を抱いた人達を一つにまとめあげることができるのは、本当にすごいと思います。ドクターさん、こちらを引退したら修道院で教鞭を執っていただく件、ぜひご一考くださいね。信仰心の問題？大丈夫ですよ、みんな気にしませんから。",
                 "kr": "로도스 아일랜드는 라테라노와 완전히 달라요. 마음에 각기 다른 경치를 품고 있는 분들을 이렇게 하나로 모을 수 있다는 건 정말 대단한 일이죠. 박사님, 여기서 은퇴하시면 수도원에서 교편을 잡으시는 걸 꼭 한 번 고려해 주셨으면 해요. 신앙심이요? 그건 걱정하지 마세요, 다들 신경 안 쓰거든요.",
                 "cn": "罗德岛与拉特兰截然不同，能将心怀不同景色的人们凝聚在一起，这实在是一件非常了不起的事情，博士，请务必考虑一下退休后来修道院任教的事情。信仰问题？没关系没关系，大家不会在意的。"
@@ -193,7 +193,7 @@
                 "cn": "观看作战记录"
             },
             "text": {
-                "en": "I see, I see, so this is how Rhodes Island's operators fight! Truly, they're exemplary!",
+                "en": "I see, so this is how Rhodes Island's operators fight! Truly, they're exemplary!",
                 "jp": "ふむふむ、こちらがロドスのオペレーターの戦い方ですね！様になっています！",
                 "kr": "흠…… 이것이 로도스 아일랜드 오퍼레이터의 전투 방식이군요! 그럴듯해요!",
                 "cn": "哦哦，这就是罗德岛干员们的战斗方式吗！有模有样的嘛！"
@@ -209,7 +209,7 @@
                 "cn": "精英化晋升1"
             },
             "text": {
-                "en": "A promotion? My greatest thanks. Hm? I seem at peace? Of course. When you spend five years partaking in commendation ceremonies for outstanding clerics where everyone sleeps the whole way through from hangover, these things don't get to you much.",
+                "en": "A promotion? My greatest thanks. Hm? I seem at peace? Of course. When you spend five years partaking in commendation ceremonies for outstanding clerics where all peers are absent due to hangovers, these things don't get to you much.",
                 "jp": "昇進ですか、感謝いたします。えっ？落ち着いている？もちろんです、5年も続けて二日酔いで全員寝坊した優秀修道士の表彰式に参加したことを思い出せば、この程度のことでは動じませんよ。",
                 "kr": "승진인가요, 감사합니다. 네? 차분해 보인다고요? 물론이죠, 모두가 숙취로 늦잠을 자는 바람에 5년 연속 우수 수도사 표창식에 혼자 참석한 걸 생각하면, 이 정도 일로는 동요하지 않아요.",
                 "cn": "晋升是吗，非常感谢。嗯？我很平静？当然了，如果你连续五年都要参加因为宿醉而全员睡过的优秀修士表彰仪式的话，你就不会对这种事情有什么反应啦。"
@@ -225,7 +225,7 @@
                 "cn": "精英化晋升2"
             },
             "text": {
-                "en": "Another promotion? Hmm... all the companies outside seem to strongly emphasize a hierarchical structure. Well, seeing as my promotion's been set in stone, does that mean Rhodes Island is willing to agree and sign to long-term cooperative terms with our Monastery?",
+                "en": "Another promotion? Hmm... all the companies outside seem to strongly emphasize a hierarchical structure. Well, seeing as my excellence has been commended, might Rhodes Island be interested in establishing a long-term cooperation agreement with our Monastery?",
                 "jp": "また昇進ですか？うーん……どうやら外の企業はどこも役職とその上下関係を気にされるんですね。とにかく、私の優秀さが証明されたということで、改めて修道院と長期契約を結ぶおつもりはありませんか？",
                 "kr": "또 승진이라고요? 으음…… 아무래도 외부 기업은 직무와 그 상하관계에 매우 신경을 쓰는 것 같네요. 어쨌든 제 우수함이 증명되었으니, 다시 수도원과 장기 계약을 맺으실 생각은 없으신가요?",
                 "cn": "又是晋升？唔......外面的企业似乎都非常注重层级关系呢，算啦，既然我的优秀已经得到了证实，那罗德岛是否愿意和修道院签订长期合作条款呢？"
@@ -241,7 +241,7 @@
                 "cn": "编入队伍"
             },
             "text": {
-                "en": "May Rhodes Island see for itself the distinguished tactical accomplishments of Landen Monastery.",
+                "en": "Rhodes Island may see for itself the distinguished tactical prowess of Landen Monastery.",
                 "jp": "ロドスにランデン修道院の抜きん出た戦術素養をお見せしましょう。",
                 "kr": "로도스 아일랜드에서 랜든 수도원의 뛰어난 전술 소양을 보여 드리죠.",
                 "cn": "罗德岛将会见识到兰登修道院出色的战术素养。"
@@ -369,7 +369,7 @@
                 "cn": "作战中1"
             },
             "text": {
-                "en": "Draw. Take aim. Loose.",
+                "en": "Draw. Aim. Loose.",
                 "jp": "弓を引いて、狙いを定めて、放つ。",
                 "kr": "활을 당기고, 목표물을 겨냥해서, 쏜다!",
                 "cn": "拉弓，瞄准，放手。"
@@ -385,7 +385,7 @@
                 "cn": "作战中2"
             },
             "text": {
-                "en": "Feel the bowstring's shake...",
+                "en": "Feel the bowstring tremble…",
                 "jp": "弦の振動を感じて……。",
                 "kr": "활시위의 진동을 느끼면서……",
                 "cn": "感受弓弦的震动......"
@@ -449,7 +449,7 @@
                 "cn": "3星结束行动"
             },
             "text": {
-                "en": "Right! I joined in this battle. Now nobody will think Landen Monastery's just an ornament of Laterano, will they?",
+                "en": "Now that I joined in this battle, nobody will think Landen Monastery's just an ornament of Laterano, will they?",
                 "jp": "はい、私が参戦したからには当然の結果です。これでもう誰もランデン修道院がラテラーノの飾り物だなんて思いませんよね？",
                 "kr": "네, 제가 참전한 이상 당연한 결과인 걸요. 이걸로 이제 그 누구도 랜든 수도원을 라테라노의 장식품이라고 여기지 않을 거예요, 그렇죠?",
                 "cn": "嗯，毕竟我参与了战斗嘛。这下总不会还有人以为，兰登修道院只是拉特兰的花架子了吧？"
@@ -465,7 +465,7 @@
                 "cn": "非3星结束行动"
             },
             "text": {
-                "en": "...Please allow me the chance to remedy this! This is my mistake, and in no way represents the Monastery!",
+                "en": "Errrr… Please allow me the chance to remedy this! This is my mistake, and in no way represents the Monastery!",
                 "jp": "……挽回のチャンスをください。これは私個人の失策であって、修道院がこの程度というわけでは絶対にありませんよ！",
                 "kr": "……만회할 기회를 주세요. 이건 제 개인의 실수이지, 수도원의 실력이 이 정도라는 건 절대 아니에요!",
                 "cn": "......请给我补救的机会，这是我个人的失误，绝不代表修道院的水准！"
@@ -529,7 +529,7 @@
                 "cn": "信赖触摸"
             },
             "text": {
-                "en": "Ah, Doctor, I've been thinking whether I should invite you with me to come see Laterano. Perhaps you'd have more interest in the Monastery then...",
+                "en": "Ah, Doctor, I've been thinking whether I should invite you with me to come see Laterano. Perhaps you'd have more interest in the Monastery then…",
                 "jp": "あ、ドクターさん、ラテラーノの遊覧にお誘いしようか考えていたところです。そうすれば修道院にもっと興味を持っていただけるかと思って……。",
                 "kr": "아, 박사님! 안 그래도 라테라노 유람에 박사님을 초대할까 생각하고 있던 참이었어요. 그러면 박사님께서 혹시나 수도원에 더 흥미를 느끼실 수 있지 않을까 해서……",
                 "cn": "啊，博士，我在考虑是不是该邀请您一同去拉特兰游览一番，这样您就会对修道院更有兴趣了呢......"
@@ -561,7 +561,7 @@
                 "cn": "新年祝福"
             },
             "text": {
-                "en": "Oh, there may be plenty of Laterano citizens here, but everyone's natures and statuses are so at odds with each other. I just want to find a fellow countryman I can calmly pray and toast to the New Year with, but... they're all so... *sigh*.",
+                "en": "Hm, there may be plenty of Lateran citizens here, but everyone's natures and backgrounds are so at odds with each other. I just want to find a fellow countryman I can calmly pray and toast to the New Year with, but... they're all so…",
                 "jp": "ああ……こちらにはラテラーノ出身の方が何人もいらっしゃいますが、皆様出身に似つかわしくない個性的な方ばかりですね。私はただ静かにお祈りを捧げて新年の盃を傾けられる同郷の仲間を探したかったのですが……あの人たちは……はぁ。",
                 "kr": "아…… 이곳에는 라테라노 출신인 분들이 꽤 계시지만, 다들 출신에 어울리지 않는 개성적인 분들뿐이네요. 저는 그저 조용히 기도를 올리고, 새해의 잔을 함께 기울일 수 있는 동향 사람을 찾고 싶었을 뿐인데…… 저분들은…… 하아……",
                 "cn": "啊啊，虽然这里有不少拉特兰的公民，但是各位的性格和身份实在相去甚远。我只是想找个能安安静静地祷告并为新年举杯的同乡人，但是......他们......唉......"
@@ -593,7 +593,7 @@
                 "cn": "生日"
             },
             "text": {
-                "en": "Happy birthday, Doctor. This is a special day of great import, and I offer you my most heartfelt prayers. May the bell sound to hold sickness and misfortune at bay, and may faith light your way. Also, I'd like you to accept this gift from me—a masterpiece of a business contract, with all to gain and naught to lose!",
+                "en": "Happy birthday, Doctor. This is a special day of great importance, and I offer you my most heartfelt prayers. May the bell sound to hold sickness and misfortune at bay, and may faith light your way. Also, I'd like you to accept this gift from me—an exquisite copy of a business contract, with all to gain and naught to lose!",
                 "jp": "生日快乐，博士，在这个特殊且重要的日子，我会诚心为您祷告。愿钟声驱散病魔与厄运，愿信仰照亮前行的道路。另外，请收下我准备的礼物，一份百利而无一害的精美商业合约！",
                 "kr": "생일 축하드려요, 박사님. 이 특별하고 중요한 날에 제가 진심으로 당신만을 위해 기도하겠습니다. 종소리가 병마와 액운을 쫓아내길, 신앙이 앞으로 나아갈 길을 밝혀주기를…… 그리고 이건 제가 준비한 선물인데, 받아주세요! 전혀 해가 되지 않는 아름다운 상업 계약서입니다!",
                 "cn": "生日快乐，博士，在这个特殊且重要的日子，我会诚心为您祷告。愿钟声驱散病魔与厄运，愿信仰照亮前行的道路。另外，请收下我准备的礼物，一份百利而无一害的精美商业合约！"
@@ -609,7 +609,7 @@
                 "cn": "周年庆典"
             },
             "text": {
-                "en": "As fine as a good business partner is, far more valuable is the companion with whom you can uphold your faith. The weight of drawing one's bow for justice is one that all people of Rhodes Island can understand. Long may the bells sound, that we continue to fight side by side, Doctor.",
+                "en": "A good business partner is one thing, but a companion with whom you can uphold your faith is far more valuable. The weight of drawing one's bow for justice... I am sure all people of Rhodes Island can understand it. Long may the bells sound, that we continue to fight side by side, Doctor.",
                 "jp": "一緒に働けるビジネスパートナーよりも、共に信仰を守っていける仲間の方が大切な存在なんです。正義のために引く弓の重厚な手応えは、ロドスの皆様ならきっと理解できるかと思います。では改めて、鐘が末長く鳴り響かんことを。今後とも手を取り合って戦っていきましょう、ドクターさん。",
                 "kr": "상업적으로 협력할 수 있는 파트너보단, 함께 신앙을 지켜나갈 수 있는 동반자가 훨씬 더 소중한 법이에요. 정의를 위해 당기는 활의 무게감을 로도스 아일랜드 여러분도 분명 이해하고 계시겠죠. 종소리가 영원토록 울려 퍼지기를, 앞으로도 함께 하겠습니다, 박사님.",
                 "cn": "比起可以合作的商业合作对象，能够共同维护信仰的伙伴更加珍贵。为正义拉弓的沉重感，罗德岛的诸位一定可以理解吧。愿钟声长鸣，让我们今后也并肩作战吧，博士。"
@@ -618,6 +618,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Rita Angel Taylor",
+            "global": "Rita Angel Taylor"
+        },
         "cn": {
             "native": "木雅瑞林",
             "global": "木雅瑞林"
@@ -632,6 +636,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

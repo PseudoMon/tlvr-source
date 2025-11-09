@@ -52,7 +52,7 @@
                 "en": "Under this mask, even I do not recognize myself.",
                 "jp": "この仮面の下では、自分が誰であるかもわからない。",
                 "kr": "이 가면 아래에선, 내가 누구인지조차도 알 수 없다.",
-                "cn": "在这幅假面之下，我认不出自己是谁。"
+                "cn": "在这副假面之下，我认不出自己是谁。"
             },
             "asset": "char_250_phatom/CN_003"
         },
@@ -633,12 +633,17 @@
         "kr": {
             "native": "표영재",
             "global": "Pyo Young-jae"
+        },
+        "fre": {
+            "native": "Vincent Bonnasseau",
+            "global": "Vincent Bonnasseau"
         }
     },
     "availability": [
         "en",
         "cn",
         "jp",
-        "kr"
+        "kr",
+        "fre"
     ]
 }

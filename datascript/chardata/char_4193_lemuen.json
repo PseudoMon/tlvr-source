@@ -1,0 +1,644 @@
+{
+    "charid": "char_4193_lemuen",
+    "nameid": "lemuen",
+    "names": {
+        "en": "Lemuen",
+        "jp": "レミュアン",
+        "kr": "르무엔",
+        "cn": "蕾缪安"
+    },
+    "voices": [
+        {
+            "id": "char_4193_lemuen_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Doctor, when you chose your office, did you realize there's a spot on the landship, perfect for a cozy little sniper nest overlooking it? Where, you ask? If I told you, would you allow me personal use of the space?",
+                "jp": "ドクター、この部屋を執務室にする時にちゃんと調べたの？あなたを狙撃できる場所が船上に一ヶ所あるわよ。どこって？教えてあげたら、そこを私のプライベートルームにしてくれる？",
+                "kr": "박사, 이 방을 사무실로 정할 때 제대로 조사한 거 맞아? 이 배에 당신을 저격할 수 있는 장소가 한군데 있어. 어디냐고? 알려주면 거기를 내 개인실로 해 줄래?",
+                "cn": "博士，你选这里当办公室的时候调查过吗，这艘船上有一处能狙击到你的地方哦。在哪？如果我告诉你，你能把那里设成我的专用房间吗？"
+            },
+            "asset": "char_4193_lemuen/CN_001"
+        },
+        {
+            "id": "char_4193_lemuen_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Please reconsider these patient placement clauses, but first, kindly sign these cooperative pharmaceutical R&D forms. Also, may I trouble you to look over my proposal on the mobile plate transfer once again... I'm scary when I smile, you say? Then do your best to get all this sorted quickly, alright?",
+                "jp": "患者の収容に関する規定の再検討に、医薬品の共同開発に関する書類へのサインもお願い。移動区画の引き渡しに関しては私の提案をもう一度見直して……えっ、笑顔が怖い？そう思ったなら、頑張ってさっさと仕事を終わらせないとね？",
+                "kr": "환자 수용에 관한 규정 재검토와, 의약품 공동 개발 관련 서류에 사인도 좀 부탁해. 이동 섹터 인도에 관해서는 내 제안을 다시 한 번 더 검토해서…… 어, 웃는 얼굴이 무섭다고? 그렇게 보였으면, 열심히 해서 얼른 일을 끝내야겠지?",
+                "cn": "病患安置方面的条款请你再考虑一下，药物合作研发的文件请你先签署，移动地块交接的事宜麻烦你重新审视我的提议......欸，我笑得很可怕？那你加油把公事快点办完，好不好？"
+            },
+            "asset": "char_4193_lemuen/CN_002"
+        },
+        {
+            "id": "char_4193_lemuen_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Yes, this <i>is</i> your office. I took the liberty of revamping it and adding a few confetti guns and a scripture disco-ball here and there. You say El caused an explosion here, while trying to cook some popcorn with her gun...? Yes, I knew that, but as they say back in Laterano, 'an explosion unseen is an explosion clean'.",
+                "jp": "部屋間違いじゃないわ、ここがあなたの執務室よ。リフォームに加えて、ピストルクラッカーと聖典プロジェクターボールもおまけに付けておいたからね。エルが銃でポップコーンを作ろうとして執務室を爆破したからだろって……それはそうだけど、ラテラーノでは「痕跡の残ってない爆発はノーカウント」って言葉があるの。",
+                "kr": "잘못 들어온 거 아냐. 여기 당신 사무실 맞아. 리폼하는 김에 덤으로 폭죽 권총이랑 성전 미러볼도 달아놨어. “엘이 총으로 팝콘을 만들려다 사무실을 폭파시켜서 그런 거겠지”라니…… 맞긴 하지만, 라테라노에는 '흔적이 남지 않은 폭발은 노 카운트'라는 말이 있거든.",
+                "cn": "你没走错，这就是你的办公室，整修一新，还附赠彩带喷射铳和经文投影灯球。你说小乐拿铳做爆米花炸了你的办公室......我知道呀，但拉特兰俗语有说，没有留下痕迹的爆炸就不算爆炸哦。"
+            },
+            "asset": "char_4193_lemuen/CN_003"
+        },
+        {
+            "id": "char_4193_lemuen_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "My signature? Ah, I did contribute a little to 'Botanical Review', yes. It wasn't anything I had to do for work. Rather, I simply had too many types of flowers around my sickbed. One time, Mostima was in such a rush, all she could offer me was a potato that had started to bloom. With that many flowers on hand, how could I not learn a thing or two about them?",
+                "jp": "私の署名を見つけた？ああ、『植物学総論』ね。確かに寄稿したわ。仕事でじゃなくて、寝たきりの間に色んなお花が届きすぎたからかな。モスティマが一番バタバタしてた時なんか、花の咲いたジャガイモまで持ってくる始末だったのよ。そうやっていつも花に囲まれてたから、詳しくならない方が難しいでしょ。",
+                "kr": "내 서명을 발견했다고? 아아, '식물학 총론'이네. 확실히 기고했었어. 일로는 아니고, 한창 누워있던 때 여러 가지 꽃을 너무 많이 받아서였던가? 모스티마가 가장 정신없던 때는 꽃 핀 감자도 가져올 정도였지. 그렇게 항상 꽃에 둘러싸여 있었으니까, 잘 모르기도 어렵지 않겠어?",
+                "cn": "我的署名？啊，我确实给那本《植学综论》供过稿。不是工作需要，只是卧床期间被送过太多种花了，莫斯提马最匆忙的一次，连开花的土豆都带来过。它们总陪着我，我怎么好不认识它们呢。"
+            },
+            "asset": "char_4193_lemuen/CN_004"
+        },
+        {
+            "id": "char_4193_lemuen_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "This scrape on my hand? Just from getting a little physical. During fieldwork, you sometimes run into the types who simply have no respect for the ill. Fiammetta was just about boiling over, so I saw fit to educate them in a... fitting manner. I may not mind, personally, but that doesn't mean I have to force my friends to ignore it.",
+                "jp": "手の擦り傷？ああ、何人か小突いただけよ。外回りで出会う人がみんな怪我人を思い遣ってくれるとは限らないでしょう。それでフィアメッタがカンカンに怒っちゃったから、私も「ほどほどに」懲らしめてあげたの。私がなんとも思わなくたって、友達にまで気にするなって無理強いはできないからね。",
+                "kr": "손에 긁힌 상처? 아, 그냥 몇 명 손 좀 봐줬어. 외근 중에 만나는 사람 모두가 환자를 배려해 주는 건 아니잖아. 그래서 피아메타가 노발대발하길래 나도 '적당히' 응징해 줬어. 내가 아무렇지 않다고 해도 친구한테까지 신경 쓰지 말라고 강요할 수는 없으니까.",
+                "cn": "手上的擦伤？只是揍了几个人而已。毕竟外出办事遇到的家伙，可不是都懂得尊重病人的。菲亚梅塔生了好大的气，我也就动手适当地教训了他们。就算我不在意，也不能把自己的释怀强加给朋友嘛。"
+            },
+            "asset": "char_4193_lemuen/CN_005"
+        },
+        {
+            "id": "char_4193_lemuen_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "The rulebook for cardinals may be as thick as a stack of three apple pies, but it's nothing that complicated. Checking on new arrivals to see how they're settling in, seeing if people are doing alright at the monasteries... After all, without them, what would even be left of Laterano today?",
+                "jp": "枢機卿の業務ガイドはアップルパイ三つ分くらい分厚いけど、実際やってみたらそんなに複雑じゃないのよ。ラテラーノに来たばかりの人が順応できてるかとか、修道院にいる人への安全配慮は行き届いてるのかとかの確認くらいで……ほら、こういうのがなければ、今のラテラーノをラテラーノたらしめてるものがなくなっちゃうでしょ？",
+                "kr": "추기경 업무 가이드는 애플파이 3개 정도 두께인데, 실제로 해 보면 그렇게까지 복잡하지 않아. 라테라노에 막 온 사람이 적응하고 있는지, 수도원에 있는 사람에 대한 안전은 빈틈없이 대비되어 있는지 같은 걸 확인하는 정도라서…… 봐 봐, 이런 게 없으면, 지금 라테라노를 라테라노답게 하는 게 사라져 버리지 않겠어?",
+                "cn": "别看枢机的工作章程有三个苹果派那么厚，但真工作起来其实没那么复杂，比如看看谁刚进城适不适应，谁在修道院安不安全......毕竟，要是抛开这些，还剩什么能构成现在的拉特兰呢？"
+            },
+            "asset": "char_4193_lemuen/CN_006"
+        },
+        {
+            "id": "char_4193_lemuen_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Here, some cold cystymilk, apple-scented smelling salts, an eyemask, and some earplugs. Hold onto them tight, they're about to start seating people. You <i>were</i> wondering what sort of films I liked to watch, and, well, I think every entry in the 'Edict Terminator' series is brilliant, but it's good to be prepared if you can't handle all the blood, right?",
+                "jp": "アイスミルクよし、りんごの気付け薬よし、アイマスクも耳栓も全部よし。そろそろ入場だからちゃんと持っていってね。私の好きな映画が気になるって言ったのはそっちでしょ。『聖戒破壊者』シリーズはどれも最高だけど、万が一あなたにスプラッター耐性がなかった場合に備えとかないと、でしょ？",
+                "kr": "아이스 치스티밀크 오케이, 사과향 스멜링 솔트 오케이, 안대랑 귀마개도 전부 오케이. 슬슬 입장이니까 잘 가지고 있어. 내가 좋아하는 영화가 궁금하다고 한 건 그쪽이잖아? '성계 파괴자' 시리즈는 전부 최고지만, 만에 하나 당신이 스플래터 장르 내성이 없을 경우를 대비해 둬야지. 안 그래?",
+                "cn": "这是冰瘤奶，这是苹果嗅盐，这是眼罩，这是耳塞，都拿好哦，就要检票进场了。你不是好奇我喜欢看什么电影嘛。虽然每一部《圣戒终结者》都很精彩，但万一你实在不适应血腥场面呢，对吧？"
+            },
+            "asset": "char_4193_lemuen/CN_007"
+        },
+        {
+            "id": "char_4193_lemuen_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "No need to avert your eyes, Doctor. Sure, I'm not quite able to leave this wheelchair just yet. Some wounds simply don't heal quickly... If you feel like assuaging your guilt, how about granting me authorization to use your autonomous operation platforms? 'For transport or for racing?' Oh, don't worry yourself over that.",
+                "jp": "目を逸らさなくてもいいのよ、ドクター。車椅子からまだ離れられないのは事実だし、すぐには癒えない傷だってあるけど……どうしても可哀想に思うのなら、自律作業プラットフォームの使用権限を全部私に解放してくれない？移動用かレース用かって？それはまあいいじゃない。",
+                "kr": "눈 돌리지 않아도 돼, 박사. 아직 휠체어에서 벗어날 수 없는 건 사실이고, 당장은 나을 수 없는 상처도 있지만…… 정 그렇게 불쌍해 보인다면 나한테 자율 작업 플랫폼 사용 권한을 전부 열어주지 않을래? 이동용, 레이스용 어느 쪽이냐고? 그거야 뭐 상관없잖아.",
+                "cn": "眼神不用闪躲，博士，我确实还离不开这架轮椅，有些伤也不会好得那么快......如果你实在过意不去，就把全体自律作业平台的调用权都批给我吧？代步还是竞速？那你就别管了。"
+            },
+            "asset": "char_4193_lemuen/CN_008"
+        },
+        {
+            "id": "char_4193_lemuen_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Are you always so quick to notice when someone is watching you? Oh, forgive me, it's a habit of mine to observe others. It's how I weigh the reasons I might need to take care of someone, against the reasons to... 'take care' of them. Which one do I mean for you? Work in peace, Doctor.",
+                "jp": "人の視線には敏感なの？ごめんなさい、常に周りの人を観察するのがクセになっちゃってて。じっくり観察してやっと、その人を排除しないといけない理由、あるいは守るべき理由が見えてくるの。自分はどちら側か気になる？安心して仕事に打ち込んでいいわよ、ドクター。",
+                "kr": "다른 사람의 시선에는 민감한 편이야? 미안, 항상 주변 사람을 관찰하는 게 버릇이 됐거든. 차분하게 관찰하고 나서야 그 사람을 제거해야 할 이유, 아니면 지켜야 할 이유가 간신히 보여. 당신은 어느 쪽인지 궁금해? 안심하고 일에 집중해도 돼, 박사.",
+                "cn": "有人在看你的时候，你总能察觉吗？抱歉啦，我只是习惯了什么时候都要观察别人。只有这样，我才能知道自己为什么要解决一个人，又为什么在守护一个人。把你算在哪边？请安心工作吧，博士。"
+            },
+            "asset": "char_4193_lemuen/CN_009"
+        },
+        {
+            "id": "char_4193_lemuen_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Hmm? Oh, I was just looking at a shadow across your window. A habit from my days in the hospital. What does that shadow look like to you?",
+                "jp": "ん？ただこの窓に落ちた影を眺めてただけ。寝たきりの時期にできた習慣みたいなものよ。この影、何に見えると思う？",
+                "kr": "응? 그냥 이 창문에 드리워진 그림자를 보고 있던 것뿐이야. 계속 누워있던 시기에 생긴 습관 같은 거지. 이 그림자, 뭘로 보여?",
+                "cn": "嗯？只是在看落在你窗上的影子，是我卧床时留下的习惯。现在那道影子，你觉得它像什么？"
+            },
+            "asset": "char_4193_lemuen/CN_010"
+        },
+        {
+            "id": "char_4193_lemuen_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Pleasure to meet you, Doctor. Just Lemuen is fine, thanks. Would you rather discuss work with a cardinal of the Seventh Tribunal, or show El's big sister around her workplace? The choice is yours.",
+                "jp": "はじめまして、ドクター。私のことはレミュアンでいいわ。さて、まずは第七庁の枢機卿と仕事の話をするか、それともエルの姉にあの子の職場を案内するか、どちらを選ぶかはあなた次第よ。",
+                "kr": "처음 보네, 박사. 르무엔이라고 부르면 돼. 어디, 우선 제7청 추기경과 일 이야기를 할래, 아니면 엘의 언니에게 그 아이의 직장을 안내해 줄래? 어느 쪽을 고를지는 당신 마음이야.",
+                "cn": "初次见面，博士，叫我蕾缪安就好。接下来，是要先与第七厅的枢机洽谈公事，还是要先带小乐的姐姐熟悉下她的工作环境，要看你的选择哦。"
+            },
+            "asset": "char_4193_lemuen/CN_011"
+        },
+        {
+            "id": "char_4193_lemuen_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Right there. You edited out one of the gorier scenes, didn't you?",
+                "jp": "このシーン、流血表現をカットしちゃってるわよね？",
+                "kr": "여기, 유혈 장면이 편집되어 있는 거지?",
+                "cn": "这里，剪辑掉了流血场面吧？"
+            },
+            "asset": "char_4193_lemuen/CN_012"
+        },
+        {
+            "id": "char_4193_lemuen_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "After having worked together all this time, why are you only getting around to this ceremony <i>now</i>? If you were too busy, you should have asked me to help.",
+                "jp": "こんなに長く一緒に働いてきたのに、どうして今日までこの儀式を先送りにしてたの？忙しすぎて手が回らなかったのなら、私を頼ってくれればよかったのに。",
+                "kr": "이렇게 오랫동안 같이 일해왔으면서, 왜 오늘까지 이 의식을 미뤘던 거야? 너무 바빠서 손쓸 겨를이 없었다면, 나한테 의지해도 됐을 텐데.",
+                "cn": "我们共事了这么久，是什么让你拖到现在才办这次仪式？如果你最近忙过头了，应该找我帮忙才是。"
+            },
+            "asset": "char_4193_lemuen/CN_013"
+        },
+        {
+            "id": "char_4193_lemuen_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Ah, you laughed. Giving trust and receiving it are one and the same. Both acts that put people at ease, no? Then, would you like to receive this medal from the Seventh Tribunal for outstanding cooperation, to put <i>me</i> at ease? You can have two, if you'd like. You could even pin them on your eyemask, one for each eye.",
+                "jp": "あら、笑ったわね。人を信頼するのは、人から信頼されるのと同じように安心感を得られる。そうでしょう？じゃあ、あなたもこの第七庁優良パートナーのバッジを受け取って、私を安心させてくれるかしら？なんなら二つあげてもいいわ。アイマスクの両目に付けたらいいんじゃないかしら。",
+                "kr": "어머, 웃었네. 누군가를 신뢰하는 건 누군가에게 신뢰받는 것과 마찬가지로 안정감을 얻을 수 있어. 그렇지? 그러면, 당신도 이 제7청 우수 파트너 배지를 받아서 나를 안심시켜 줄 수 있으려나? 원하면 두 개 줄 수도 있어. 안대 양쪽에 붙이면 좋지 않을까?",
+                "cn": "啊，你笑了。交付信任和收获信任一样，都是会令人安心的事情，对吧？那，你要不要收下这枚七厅优秀合作伙伴勋章，让我也安心一些？想要两枚也可以哦，你可以在眼罩上一边别一个。"
+            },
+            "asset": "char_4193_lemuen/CN_014"
+        },
+        {
+            "id": "char_4193_lemuen_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "No need for introductions, I'm already familiar with everyone here.",
+                "jp": "紹介はいい。各員の情報はインプット済みよ。",
+                "kr": "소개는 필요 없어. 대원들 정보는 이미 입력 완료야.",
+                "cn": "不必介绍，各位的情况我已知悉。"
+            },
+            "asset": "char_4193_lemuen/CN_017"
+        },
+        {
+            "id": "char_4193_lemuen_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "No need for reports, I can see what everyone does from here.",
+                "jp": "報告は結構。皆の動きは視界に捉えてる。",
+                "kr": "보고는 됐어. 전원의 움직임은 시야에 두고 있어.",
+                "cn": "不用汇报，各位的动向我看得见。"
+            },
+            "asset": "char_4193_lemuen/CN_018"
+        },
+        {
+            "id": "char_4193_lemuen_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Please, this is no time for excuses.",
+                "jp": "いかなる弁明も受け付けない。",
+                "kr": "어떤 변명도 받지 않겠어.",
+                "cn": "请不要讲任何借口。"
+            },
+            "asset": "char_4193_lemuen/CN_019"
+        },
+        {
+            "id": "char_4193_lemuen_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Please, this is no time for pity.",
+                "jp": "一切の情けを捨てなさい。",
+                "kr": "연민은 전부 버리도록.",
+                "cn": "请不要有任何怜悯。"
+            },
+            "asset": "char_4193_lemuen/CN_020"
+        },
+        {
+            "id": "char_4193_lemuen_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "I'm in position... No need to guess <i>which</i> position.",
+                "jp": "狙撃位置確保……具体的な位置までは知らなくていい。",
+                "kr": "저격 위치 확보…… 구체적인 위치까지는 몰라도 돼.",
+                "cn": "我已就位......不用猜我在什么位置。"
+            },
+            "asset": "char_4193_lemuen/CN_021"
+        },
+        {
+            "id": "char_4193_lemuen_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Go ahead.",
+                "jp": "どうぞ。",
+                "kr": "말해.",
+                "cn": "请讲。"
+            },
+            "asset": "char_4193_lemuen/CN_022"
+        },
+        {
+            "id": "char_4193_lemuen_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Whoever said a wheelchair couldn't get up onto a steel beam?",
+                "jp": "車椅子じゃ鉄骨上でドリフトできないって？",
+                "kr": "휠체어로는 철골 위에서 드리프트를 못할 거라고?",
+                "cn": "谁说轮椅不能在钢架上漂移的。"
+            },
+            "asset": "char_4193_lemuen/CN_023"
+        },
+        {
+            "id": "char_4193_lemuen_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Oh, I should try adding a jet engine next time~",
+                "jp": "あ、次は車椅子に飛行スラスターを付けてみようかしら。",
+                "kr": "아, 다음에는 휠체어에 비행 추진 장치를 달아 볼까.",
+                "cn": "下次给轮椅加上喷气飞行功能试试~"
+            },
+            "asset": "char_4193_lemuen/CN_024"
+        },
+        {
+            "id": "char_4193_lemuen_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Target disarmed.",
+                "jp": "武装解除、確認。",
+                "kr": "무장 해제, 확인.",
+                "cn": "缴械，确认。"
+            },
+            "asset": "char_4193_lemuen/CN_025"
+        },
+        {
+            "id": "char_4193_lemuen_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Target crippled.",
+                "jp": "機能喪失、確認。",
+                "kr": "기능 소실, 확인",
+                "cn": "致残，确认。"
+            },
+            "asset": "char_4193_lemuen/CN_026"
+        },
+        {
+            "id": "char_4193_lemuen_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Target eliminated.",
+                "jp": "排除、確認。",
+                "kr": "제거, 확인.",
+                "cn": "击杀，确认。"
+            },
+            "asset": "char_4193_lemuen/CN_027"
+        },
+        {
+            "id": "char_4193_lemuen_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Who would bear the news of your death? Ever crossed your mind?",
+                "jp": "あなたの訃報を聞くのは誰なのか、考えたことある？",
+                "kr": "누가 당신의 부고를 듣게 될지, 생각해 본 적 있어?",
+                "cn": "你的死讯要由谁来承受，你想过吗？"
+            },
+            "asset": "char_4193_lemuen/CN_028"
+        },
+        {
+            "id": "char_4193_lemuen_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Doctor, can you come help me out? My wheel's stuck on a tile... Alright, hold out your hand. High five! Oh, the wheel? I pulled it out myself.",
+                "jp": "ドクター、タイヤが地面のすき間にハマっちゃったみたい。ちょっと手伝ってくれない？ほら、手を貸して……ハイタッチ～！タイヤ？とっくに引っこ抜いてるわ。",
+                "kr": "박사, 타이어가 지면 틈에 끼어버린 것 같아. 좀 도와줄래? 자, 손 좀…… 하이파이브~! 타이어? 진작에 뺐지.",
+                "cn": "轮子卡在瓦片里了，博士，可以来帮帮我吗......来，手给我，击个掌吧~轮子？我拔出来了呀。"
+            },
+            "asset": "char_4193_lemuen/CN_029"
+        },
+        {
+            "id": "char_4193_lemuen_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Mission accomplished. There is one more thing, though. Logistics gave me far too much tea and cake. Would everyone like to help me lighten the load?",
+                "jp": "各員撤収。そうだ、まだやり残しがあったわね。後方支援部から大量に届いたおやつに手こずってるんだけど……みんな一緒にやっつけてくれない？",
+                "kr": "전원 철수. 아 그래, 아직 할 게 남아있었지. 후방지원부에서 대량으로 보낸 간식 때문에 애 좀 먹고 있는데…… 다 같이 해치워주지 않을래?",
+                "cn": "收队。不过，还有一件事，后勤部送来的茶点实在太多了，各位愿不愿意帮我一起消灭它们呢？"
+            },
+            "asset": "char_4193_lemuen/CN_030"
+        },
+        {
+            "id": "char_4193_lemuen_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "I'll go handle them.",
+                "jp": "私が片付けておく。",
+                "kr": "내가 정리해 둘게.",
+                "cn": "我来处理。"
+            },
+            "asset": "char_4193_lemuen/CN_031"
+        },
+        {
+            "id": "char_4193_lemuen_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "I'll keep watch behind. No one will give chase.",
+                "jp": "私が皆の背中を見張っておく。誰も近づけやしない。",
+                "kr": "내가 모두의 뒤를 지킬게. 누구도 접근하게 두진 않겠어.",
+                "cn": "我会看着各位的身后，不会有人能追上来。"
+            },
+            "asset": "char_4193_lemuen/CN_032"
+        },
+        {
+            "id": "char_4193_lemuen_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Surely there's no speed limit in Rhodes Island's corridors?",
+                "jp": "ロドスの通路に速度制限はないわよね？",
+                "kr": "로도스 아일랜드 복도에 속도 제한은 없겠지?",
+                "cn": "罗德岛的走廊，应该不限速吧？"
+            },
+            "asset": "char_4193_lemuen/CN_033"
+        },
+        {
+            "id": "char_4193_lemuen_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "That finger of yours would be more suited to tickling the ivories, I think.",
+                "jp": "あなたの指は楽器を弾く方が似合うのに。",
+                "kr": "당신 손가락은 악기를 연주하는 편이 더 어울리는데.",
+                "cn": "你的手指明明更适合去拨弄乐器的。"
+            },
+            "asset": "char_4193_lemuen/CN_034"
+        },
+        {
+            "id": "char_4193_lemuen_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Would you like to push me along for a walk?",
+                "jp": "ちょっとその辺まで推してくれない？",
+                "kr": "잠깐 저 근처까지 밀어주지 않을래?",
+                "cn": "你愿意推着我走一段吗？"
+            },
+            "asset": "char_4193_lemuen/CN_036"
+        },
+        {
+            "id": "char_4193_lemuen_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4193_lemuen/CN_037"
+        },
+        {
+            "id": "char_4193_lemuen_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "I'm giving some gifts to operators I went on missions with. I still have three boxes to go, and it would be terribly inconvenient if I don't deliver them all before work. Could you help me out? The sooner we get these delivered, the sooner you can have a present from me. Sound good? Let's get going, then. Hold on tight, now.",
+                "jp": "ああ、これまで任務で一緒になったことのあるみんなにプレゼントを用意しただけよ。あと三箱分あるんだけど、始業までに送り終えないとまずいわね。ドクターも一緒に手伝ってくれる？早く終われば、あなたもその分早めにプレゼントを受け取れるわよ。オッケー？じゃあ早速行きましょう。しっかり掴まってね。",
+                "kr": "아아, 지금까지 같이 임무 나간 적 있는 사람들 선물을 준비한 것뿐이야. 이제 세 박스 남았어. 음…… 업무 시작 전까지 다 못 보내면 곤란한데. 박사가 좀 도와줄래? 빨리 끝내면 당신도 그만큼 빨리 선물을 받을 수 있을 거야. 오케이? 자, 그럼 출발한다! 꽉 잡아!",
+                "cn": "只是给之前一起出过任务的干员们都带了礼物而已，还有三箱呢，上班之前送不完就麻烦啦。要帮我一起送吗？越早送完，你就能越早拿到给你的礼物哦。好？那就来吧，记得要抓紧了。"
+            },
+            "asset": "char_4193_lemuen/CN_038"
+        },
+        {
+            "id": "char_4193_lemuen_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Where are you headed today, Doctor?",
+                "jp": "ドクター、今日はどんなところに行ってきたの？",
+                "kr": "박사, 오늘은 어디 갔다 왔어?",
+                "cn": "博士，你今天去了什么样的地方？"
+            },
+            "asset": "char_4193_lemuen/CN_042"
+        },
+        {
+            "id": "char_4193_lemuen_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Now that you mention it, have you ever thought of making up for past birthdays? I understand you spent several years asleep due to some unfortunate accident as well, correct? I know you might not mind, but the time we lose is never only lost by ourselves. Come, there's still plenty of time today to hold a few parties.",
+                "jp": "そういえば、過ごし損なった誕生日の埋め合わせを考えたことはある？あなたも色々あって何年も眠ってたんでしょう？気にしてないのは分かるけど、私たちが失った時間は、自分だけの損失じゃないの。ほら行くわよ、まだまだ今日はこれから、パーティをあと何回だって楽しめるわ。",
+                "kr": "그러고 보니까, 지나쳤던 생일을 다시 챙기려 해본 적 있어? 당신도 이런저런 일이 있어서 몇 년이나 잠들어 있었잖아. 신경 쓰지 않는 건 알겠지만, 우리가 잃어버린 시간은 자신만의 손실이 아냐. 자, 가자. 오늘은 아직, 지금부터라도 몇 번이고 파티를 즐길 수 있어.",
+                "cn": "说起来，你有想过补过生日吗？你之前也因为一些变故，沉睡过几年，对吗？我知道你不在意啦，但我们失去的时间，从来都不只是我们自己的损失呀。来吧，今天时间还很多，够办好几场派对呢。"
+            },
+            "asset": "char_4193_lemuen/CN_043"
+        },
+        {
+            "id": "char_4193_lemuen_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "To fight against disease and injustice... What a noble message. We have a similar speech at our annual meetings at the Seventh Tribunal, but it's a lot shorter than the celebratory gunfire segment... Hmm? I'm just getting a piece of candy. I know you're not simply going through the motions when you speak, so I'll be listening to the very end.",
+                "jp": "難病に抗い、差別に立ち向かう――ずいぶん真面目なスピーチをやるのね。第七庁の忘年会でも似たようなプログラムはあったけど、みんなで祝砲を上げる時間よりも短かったわ……え？キャンディを取りに行くだけよ。形だけのスピーチじゃないのは分かってるから、最後までちゃんと聞いているわ。",
+                "kr": "난치병과 싸우고 차별에 맞선다…… 상당히 진지한 연설을 하는구나. 제7청 망년회에도 비슷한 프로그램은 있었는데, 다 같이 축포를 쏘는 시간보다도 짧았지…… 응? 그냥 사탕 가지러 가는 거야. 형식뿐인 연설이 아닌 건 알고 있으니까 끝까지 제대로 들을 게.",
+                "cn": "抗争顽疾，抗争不公——这么正经的宣讲啊。七厅年会倒也有类似的环节，但还不如大家鸣铳庆祝的时间长呢......嗯？我只是去拿颗糖。我知道你们不是走程序，所以我会听完。"
+            },
+            "asset": "char_4193_lemuen/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Bridget Lappin",
+            "global": "Bridget Lappin"
+        },
+        "cn": {
+            "native": "苏婉",
+            "global": "Sue"
+        },
+        "jp": {
+            "native": "中村繪里子",
+            "global": "Eriko Nakamura"
+        },
+        "kr": {
+            "native": "신나리",
+            "global": "Shin Na-ri"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

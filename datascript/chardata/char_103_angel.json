@@ -633,12 +633,20 @@
         "kr": {
             "native": "이지현",
             "global": "Lee Ji-hyun"
+        },
+        "old_en": {
+            "native": "Leonora Haig",
+            "global": "Leonora Haig"
         }
     },
     "availability": [
         "en",
         "cn",
         "jp",
-        "kr"
-    ]
+        "kr",
+        "old_en"
+    ],
+    "audio_path_override": {
+        "old_en": "https://raw.githubusercontent.com/PseudoMon/arknights-audio/cb13f0369f083541c7143cc4bb50b2eb448dc9fc/voice_en"
+    }
 }

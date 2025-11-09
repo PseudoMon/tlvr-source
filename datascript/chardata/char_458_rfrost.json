@@ -553,20 +553,6 @@
             "asset": "char_458_rfrost/CN_037"
         },
         {
-            "id": "char_458_rfrost_CN_038",
-            "title": {
-                "en": "New Year's blessing",
-                "jp": "新年",
-                "kr": "새해"
-            },
-            "text": {
-                "en": "Need a cook?",
-                "jp": "シェフは必要？",
-                "kr": "셰프가 필요하신가요?"
-            },
-            "asset": "char_458_rfrost/CN_038"
-        },
-        {
             "id": "char_458_rfrost_CN_042",
             "title": {
                 "en": "Greeting",

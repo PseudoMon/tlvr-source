@@ -1,0 +1,644 @@
+{
+    "charid": "char_4179_monstr",
+    "nameid": "monstr",
+    "names": {
+        "en": "Mon3tr",
+        "jp": "Mon3tr",
+        "kr": "Mon3tr",
+        "cn": "Mon3tr"
+    },
+    "voices": [
+        {
+            "id": "char_4179_monstr_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Don't worry, this is all routine work. I've reviewed the correct process numerous times. Now... how do I edit these permission logs again?",
+                "jp": "安心するといいよ。どれも通常業務だ。正しい手順なら何度も見てきた。それで、権限記録の変更はどうするのだったか？",
+                "kr": "안심하도록 해. 전부 통상적인 업무니까. 절차라면 이미 여러 번 봤어. 어디보자, 권한 기록 변경은 어떻게 하는 거더라?",
+                "cn": "放心好了，都是常规工作，正确的处理流程我看过很多次。更改权限记录怎么操作来着？"
+            },
+            "asset": "char_4179_monstr/CN_001"
+        },
+        {
+            "id": "char_4179_monstr_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Yes, I declined Dr. Warfarin's request to perform a scientific examination on you, as per Kal'tsit's instructions. She wants to study me too? It's worth considering... She <i>could</i> assist with analyzing the knowledge and memories I've acquired. I know what she wants, and our goals are aligned.",
+                "jp": "ああ、そうだ。ワルファリン医師による君への理学的検査の権限申請は拒否した。ケルシーの指示だ。私のことも研究したいと言っている？考慮の余地はあるな……確かに彼女は私が受け取った知識と記憶を分析するにあたって助けとなれる存在だ。私も彼女の求めるものが分かっている。我々の目標は一致しているのだ。",
+                "kr": "아아, 맞아. 너를 대상으로 한 닥터 와파린의 신체검사 권한 신청은 거절했어. 켈시가 지시했었거든. 나를 연구해 보고 싶다고도 했다고? 흠, 그건 고려해 볼만한데…… 와파린은 내가 받은 지식과 기억을 분석하는 데 확실히 도움이 될 수 있는 존재니까. 나도 그녀가 무엇을 원하는지 알고 있고. 우리의 목표는 같아.",
+                "cn": "对，我拒绝了华法琳医生对你进行理学检查的权限申请，凯尔希交代过。她也想研究我？值得考虑......她的确能协助分析我接收到的知识和记忆。我清楚她想要什么，我们的目标一致。"
+            },
+            "asset": "char_4179_monstr/CN_002"
+        },
+        {
+            "id": "char_4179_monstr_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "I'm getting used to speaking plainly with the operators, Doctor. They've been cooperating with my check-up requests, and I'm addressing their concerns as Kal'tsit would, in the ways they're accustomed to. Our coordination has become increasingly seamless. Oh? There's been a steep drop in Medical appointments?",
+                "jp": "ドクター、オペレーターたちと自然体で交流することに少し慣れてきたよ。彼らは素直に私の要求に従って検査を受けるし、私もできるだけ彼らが慣れ親しんでいたケルシーのやり方で質疑に応答するようにしている。彼らとはどんどん息が合うようになってきているんだ。ええ、医療部への予約が急減した？",
+                "kr": "박사, 오퍼레이터들과 자연스럽게 교류하는 데 조금 익숙해진 것 같아. 그들은 순순히 내 요청에 따라 검사를 받고 있고, 나 역시 가능한 그들이 익숙할 켈시의 방식으로 질문에 답하려고 하고 있어. 맞아, 점점 손발이 맞아가고 있는 거야. 어, 의료부 예약이 급감했다고?",
+                "cn": "博士，我开始习惯与干员们坦诚交流的感觉了。他们会乖乖地照我的要求接受检查，我也尽量用他们习惯的凯尔希的方式为他们解答困惑，我们之间的配合越来越默契了。啊，医疗部预约量骤减？"
+            },
+            "asset": "char_4179_monstr/CN_003"
+        },
+        {
+            "id": "char_4179_monstr_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Why abandon a more efficient, more robust form? Why would I prefer others not fear me? I never considered this before. I made an unconscious decision the moment I awakened. Hey, are you done staring? I can still easily string you up— Huh, you're saying this is what she meant by 'humanity'?",
+                "jp": "なぜより効率的で頑丈な形態を捨てたのか？なぜ他人に畏怖されることを望まないのか？考えたこともなかったな。目覚めた瞬間に無意識で決断したんだ。あのね、じろじろ見ないでよ。今でも簡単に君を吊るし上げることができるんだから――え、これこそが「人間性」だと？",
+                "kr": "왜 더 효율적이고 견고한 외형을 버렸냐고? 왜 사람들이 나를 두려워하지 않길 바라냐고? 생각해 본 적 없어. 깨어난 순간 본능적으로 결정한 일인걸. ……저기, 그렇게 빤히 쳐다보지 말아줄래? 지금도 너 정도는 단숨에 들어 올릴…… 응? 이게 바로 '인간성'이라고?",
+                "cn": "为什么抛弃更高效、更坚固的形态？为什么不希望其他人畏惧自己？没考虑过，苏醒那一刻我下意识地就决定了。喂，看够了吗，我现在还是能轻松地把你吊起来——欸，你说这就是“人性”？"
+            },
+            "asset": "char_4179_monstr/CN_004"
+        },
+        {
+            "id": "char_4179_monstr_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "Amiya's gone to chair the elite operators' meeting. Hmm... She now appears much taller than I remember... how odd. I'd like to spend more time with her, Doctor, but I find myself feeling rather anxious— We can go together? That's a great idea! Err, I mean, a sensible suggestion.",
+                "jp": "アーミヤはエリートオペレーターの会議に行った。なんだかいつの間にか、記憶よりもだいぶ背丈が伸びたようで不思議に感じてしまうんだ。ドクター、私はもっとアーミヤの傍にいてやりたいんだが、うまくやれるか不安だ――君も一緒にいると？やった！こほん、その、悪くない提案だと言っている。",
+                "kr": "아미야는 정예 오퍼레이터 회의에 갔어. 왠지 기억 속 모습보다 훨씬 키도 크고, 신기한데? 박사, 나는 아미야 곁에 더 있어 주고 싶은데 잘 해낼 수 있을까…… 너도 함께 할 거라고? 예~ 좋아! 크흠, 그, 나쁘지 않은 제안이군.",
+                "cn": "阿米娅去主持精英干员的会议了，她突然就比我记忆中高了好多，好奇怪。博士，我想多陪陪阿米娅，但担心搞不定——我们一起？好呀！我是说，不错的建议。"
+            },
+            "asset": "char_4179_monstr/CN_005"
+        },
+        {
+            "id": "char_4179_monstr_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "The anti-Originium communication lines have been destroyed; unable to confirm your receipt of this transmission. The Crystal Activity Index continues to surge, and I've observed its escape from the void. Meltdown protocols initiated. I will eliminate all interceptors. Find her... and Kal'tsit.",
+                "jp": "抗源石通信ラインは破壊され、君たちが連絡を受け取れるかどうかを確認する術はない。結晶クラスターの活性指数は今もなお上昇し続けており、私は空洞からそれが逃げていくのを見た。すでにメルトダウン命令は起動しており、私はそれを阻む全ての邪魔者を殲滅する。彼女を見つけるんだ……それと、ケルシーも。",
+                "kr": "안티 오리지늄 통신 회선이 파괴되어, 너희가 연락을 받을 수 있는지 확인할 방법은 없어. 결정 군집 활성 지수는 여전히 상승 중이고, 나는 공동에서 그것이 빠져나가는 걸 봤어. 용해 명령은 이미 실행되었으니, 난 그것을 저지하는 모든 적을 섬멸할 거야. 그녀를 찾아야 해…… 그리고 켈시도.",
+                "cn": "抗源石通讯回路已被摧毁，无法确认你们能否收到讯息。晶簇活性指数仍在飙升，我从空洞看到了它正在逃逸。已启动熔毁指令，我会歼灭所有阻击者。找到她......还有凯尔希。"
+            },
+            "asset": "char_4179_monstr/CN_006"
+        },
+        {
+            "id": "char_4179_monstr_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "'Protect the Doctor. Protect Amiya.' This directive indeed holds the highest priority in my core behavioral protocols, but this doesn't mean I am compelled to execute it. Protecting you is my own choice— And definitely not because I'm trying to trick you into dealing with an angry Closure!",
+                "jp": "「ドクターを守り、アーミヤを守れ」――この命令が私の基本的な行動戦略において最も高い優先度が設定されているのは事実だが、他の一切を排して強制的に実行すべきだというわけではないからね。君を守るのは私が自分で決めたことなんだ――だから君を騙くらかして、怒ったクロージャの対処を任せるために来たのではないよ。決して！",
+                "kr": "“박사를 지키고, 아미야를 지켜라.” ……이 명령이 내 기본 행동 전략에서 최우선 순위로 설정된 건 맞지만, 그 외의 모든 것을 배제하고 강제적으로 실행할 생각은 없어. 널 지키기로 한 건 나 스스로의 선택이니까…… 그러니까 화난 클로저를 네게 떠맡기려고 온 게 아니야! 절대로!",
+                "cn": "“保护博士，保护阿米娅”，这条指令在我的基本行为策略中的确属于最高优先级，但这并不意味着强制执行。保护你是我自己的决策——绝对不是想骗你帮我应付可露希尔发火！"
+            },
+            "asset": "char_4179_monstr/CN_007"
+        },
+        {
+            "id": "char_4179_monstr_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Projekt Red likes to curl up and rest by my side, while Folinic always sweetly helps me with things I've overlooked. How should I respond to the way they look at me, Doctor? How did Kal'tsit first learn to love...? I do wish I could hold her once more.",
+                "jp": "レッドは黙ったまま私の近くで寝転がって休息をとるのを好んでいるし、フォリニックもいつも周到に私が漏らした仕事を片付けてくれる。ドクター、私はいかにして彼女たちの眼差しに応えるべきなのだろうか？ケルシーは当初、どのようにして愛を学んだのだろうか？……ほんと。もう一度、彼女を抱きしめたいな。",
+                "kr": "레드는 말없이 내 곁에 누워 쉬는 걸 좋아하고, 폴리닉은 항상 내가 놓친 업무를 꼼꼼하게 처리해 줘. 박사, 나는 이들의 눈빛에 어떻게 응해야 할까? 켈시는 당초, 어떻게 사랑을 배웠을까? ……정말, 한 번만 더, 그녀를 안아보고 싶어.",
+                "cn": "红喜欢默默蜷在我身边休息，亚叶也总是会温柔地替我处理一些遗漏的事情。博士，我该怎么回应她们的眼神？凯尔希最初又是怎么学会爱的呢？......真想再次抱住她。"
+            },
+            "asset": "char_4179_monstr/CN_008"
+        },
+        {
+            "id": "char_4179_monstr_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "It was the end Kal'tsit had long anticipated. She prepared well, and faced it with composure. She loathed idle speculation about the future, and just the same refused to dwell on the past. 'Keep going.' I believe that is the only message she would have left us, Doctor. We should just keep moving forward.",
+                "jp": "あれはケルシーがとうに予期していた結末だ。彼女は全ての備えを済ませ、泰然自若とそれに向き合った。未来をいたずらに語ることを嫌い、過去に恋着して沈むこともなかった――「歩み続けろ」、これはケルシーが唯一私たちに残す言葉だと思う。ドクター、ただ前に進むことだけを考えよう。",
+                "kr": "그건 켈시가 예견한 결말이었어. 그녀는 모든 준비를 마치고, 태연하게 마주했지. 그녀는 미래를 함부로 말하는 걸 싫어했고, 과거에 얽매여 허덕이지도 않았어…… “계속 나아가.” 이게 켈시가 우리에게 남길 유일한 말이지 않을까 싶어. 박사, 그저 앞으로 나아가는 것만 생각하자.",
+                "cn": "那是凯尔希早已预料到的结局，她做好了所有准备，然后坦然面对。她讨厌妄议未来，也不沉迷于缅怀过去——“继续走”，我猜，这是她唯一会留给我们的话，博士，只管继续向前走吧。"
+            },
+            "asset": "char_4179_monstr/CN_009"
+        },
+        {
+            "id": "char_4179_monstr_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Wanna hear some stories about Kal'tsit? The kind she'd never tell anyone.",
+                "jp": "ケルシーが誰にも話さなかったエピソードを聞きたいか？",
+                "kr": "켈시가 아무에게도 말하지 않았던 이야기 들려줄까?",
+                "cn": "想听听凯尔希从来不分享的经历吗？"
+            },
+            "asset": "char_4179_monstr/CN_010"
+        },
+        {
+            "id": "char_4179_monstr_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Leave my file here in the Medical Department, Doctor. Like Kal'tsit said, this is the core where Rhodes Island addresses critical challenges, and my knowledge is crucial. Now, let me concentrate on accomplishing my mission.",
+                "jp": "ドクター、私のプロファイルは医療部に残しておこう。ケルシーの言っていた通り、ここはロドスが重要な問題に対応する際の中核となる場所だし、私の知識は何よりも大事になる。これより、自分の使命を果たすことに集中していくよ。",
+                "kr": "박사, 내 프로필은 의료부에 남겨둘게. 켈시가 말한 것처럼, 여기는 로도스 아일랜드가 중요한 사안을 해결할 때의 핵심 거점이니까, 내 지식은 그 무엇보다도 중요해질 거야. 이제부터는 내 사명을 완수하는 데 집중하겠어.",
+                "cn": "博士，把我的档案留在医疗部吧，如凯尔希所言，这里是罗德岛应对关键问题的核心，而我的知识至关重要。现在，让我专心完成我的使命。"
+            },
+            "asset": "char_4179_monstr/CN_011"
+        },
+        {
+            "id": "char_4179_monstr_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "I saw her.",
+                "jp": "彼女は見た。",
+                "kr": "그녀를 봤어.",
+                "cn": "我看到了她。"
+            },
+            "asset": "char_4179_monstr/CN_012"
+        },
+        {
+            "id": "char_4179_monstr_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "She ended our cycle of reincarnation, granting me freedom and eternal life... and loneliness. Yet I cherish it, Doctor. It reminds me of what I have lost.",
+                "jp": "彼女は我々の輪廻に終わりをもたらし、私に自由と永遠の命……それから孤独を贈った。私はこの孤独を大事に抱えるつもりだ、ドクター。これは自分が何を失ったのかを意識させてくれるものだから。",
+                "kr": "그녀는 우리의 윤회에 끝을 가져다주었고, 나에게 자유와 영원한 생명…… 그리고 고독을 선물했어. 박사, 나는 이 고독을 소중하게 간직할 거야. 이건 내가 무엇을 잃었는지 끝없이 상기시켜 주니까.",
+                "cn": "她结束了我们的轮回，赠给我自由与永生......还有孤独。我珍重这份孤独，博士，它提醒着我失去了什么。"
+            },
+            "asset": "char_4179_monstr/CN_013"
+        },
+        {
+            "id": "char_4179_monstr_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "So long as a spark of hope for life remains, the unending cycle of despair cannot shake me. Not even Originium may force my life into stasis, Doctor. AMa-10 has shattered the fate predetermined at her inception.",
+                "jp": "生命への期待が心に一片でも残っている限り、繰り返される絶望が私に影響を及ぼすことはない。源石も私の生命を停滞させることはできないんだ。ドクター、誕生した瞬間から束縛されるという運命の頸木を、AMa-10はとうに壊している。",
+                "kr": "생명에 대한 희망이 마음 한구석에 남아있는 한, 끊임없이 반복되는 절망도 나를 흔들 순 없고, 오리지늄조차도 내 생명을 정체시킬 순 없어. 박사, 탄생했을 때부터 얽매인 운명의 굴레를, Ama-10은 이미 부수고 있었던 거야.",
+                "cn": "只要心中还保有一丝对生命的期许，不断重复的绝望就不会影响我。源石也无法静滞我的生命，博士，AMa-10早已突破自诞生起就被束缚的命运。"
+            },
+            "asset": "char_4179_monstr/CN_014"
+        },
+        {
+            "id": "char_4179_monstr_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "When necessary, you'll see a more familiar side of me.",
+                "jp": "必要になれば、君たちはより馴染み深い私を目にするだろう。",
+                "kr": "필요할 때가 오면, 더 익숙한 모습의 나를 볼 수 있을 거야.",
+                "cn": "必要的时候，你们会见到更熟悉的我。"
+            },
+            "asset": "char_4179_monstr/CN_017"
+        },
+        {
+            "id": "char_4179_monstr_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Do not worry, I've fully mastered the art of tactical command. Don't fear injury, I guarantee you'll make it out alive.",
+                "jp": "案ずるな。作戦指揮の真髄は完全に把握した。怪我を負うことを恐れなくていい。君たちが全員生き残れることを保証しよう。",
+                "kr": "안심해. 작전 지휘의 핵심은 모두 파악해 뒀어. 다치는 걸 두려워하지 마. 너희 모두 살아 돌아갈 수 있게 해줄 테니까.",
+                "cn": "放心，我已经完全掌握指挥作战的诀窍了。别怕受伤，我保证你们都能活着。"
+            },
+            "asset": "char_4179_monstr/CN_018"
+        },
+        {
+            "id": "char_4179_monstr_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Make certain my claws don't scratch you!",
+                "jp": "私の爪に引っかかれないようにしてよ！",
+                "kr": "내 발톱에 스치지 않게 조심하라고!",
+                "cn": "别被我的利爪刮伤！"
+            },
+            "asset": "char_4179_monstr/CN_019"
+        },
+        {
+            "id": "char_4179_monstr_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Enemy engaged. Let's end this quickly.",
+                "jp": "接敵。速戦速決する。",
+                "kr": "적과 조우했다. 속전속결로 끝내주지.",
+                "cn": "接敌，速战速决。"
+            },
+            "asset": "char_4179_monstr/CN_020"
+        },
+        {
+            "id": "char_4179_monstr_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Communications, linked. Your orders, Doctor.",
+                "jp": "通信に接続した。ドクター、指示を。",
+                "kr": "통신 접속 완료. 박사, 지시를.",
+                "cn": "已接入通讯，请下令，博士。"
+            },
+            "asset": "char_4179_monstr/CN_021"
+        },
+        {
+            "id": "char_4179_monstr_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Deployment optimized, ready to go.",
+                "jp": "最適な布陣を計算し終わった。準備完了。",
+                "kr": "최적의 포진을 생각해 뒀어. 준비 완료.",
+                "cn": "已计算好布防配置，准备就绪。"
+            },
+            "asset": "char_4179_monstr/CN_022"
+        },
+        {
+            "id": "char_4179_monstr_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Mon3tr, in position.",
+                "jp": "Mon3tr、座標についた。",
+                "kr": "Mon3tr, 좌표에 도착했다.",
+                "cn": "Mon3tr已就位。"
+            },
+            "asset": "char_4179_monstr/CN_023"
+        },
+        {
+            "id": "char_4179_monstr_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "Switching forms.",
+                "jp": "形態を変更中。",
+                "kr": "형태 변경 중.",
+                "cn": "正在切换形态。"
+            },
+            "asset": "char_4179_monstr/CN_024"
+        },
+        {
+            "id": "char_4179_monstr_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Ruin, and restore.",
+                "jp": "滅ぼし、そして癒す。",
+                "kr": "멸하고, 치유한다.",
+                "cn": "毁灭，同时治愈。"
+            },
+            "asset": "char_4179_monstr/CN_025"
+        },
+        {
+            "id": "char_4179_monstr_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "My talons shall be my stethoscope.",
+                "jp": "私の爪が聴診をしてくれるよ。",
+                "kr": "내 발톱이 진찰해 줄 거다.",
+                "cn": "我的爪子会替我听诊。"
+            },
+            "asset": "char_4179_monstr/CN_026"
+        },
+        {
+            "id": "char_4179_monstr_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "This may sting a little. Just bear with it.",
+                "jp": "堪えろ。少しチクッとするかもしれない。",
+                "kr": "참아. 조금 따끔할 수도 있어.",
+                "cn": "忍住，可能会有些刺痛。"
+            },
+            "asset": "char_4179_monstr/CN_027"
+        },
+        {
+            "id": "char_4179_monstr_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Ahem, sorry, I used too much force…",
+                "jp": "こほん、すまない、力を入れすぎた……",
+                "kr": "흐흠, 미안. 힘을 너무 줬네……",
+                "cn": "咳，抱歉，太用力了......"
+            },
+            "asset": "char_4179_monstr/CN_028"
+        },
+        {
+            "id": "char_4179_monstr_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Some cut-to-the-chase commanding. Promise me you'll deploy me closer to the enemy next time, Doctor. I'll try some more efficient techniques.",
+                "jp": "的確で明瞭な指揮だ。ドクター、約束してくれないか。次はもっと敵へ近づく許可をくれ。より効率の高い手段を試せるから。",
+                "kr": "정확하고 깔끔한 지휘군. 대답해 줘, 박사. 다음 번엔 적에게 조금 더 가까이 다가갈 수 있게 해줘. 더 효율적인 방법을 시험해 보고 싶거든.",
+                "cn": "干脆利落的指挥。答应我，博士，下次让我离敌人再近一些，我可以试试更高效的手段。"
+            },
+            "asset": "char_4179_monstr/CN_029"
+        },
+        {
+            "id": "char_4179_monstr_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Wait a moment, I need to collect tissue samples.",
+                "jp": "少し待て。組織サンプルを採取する必要がある。",
+                "kr": "잠깐 기다려. 조직 샘플 채취해야 해서.",
+                "cn": "稍等片刻，我需要采集组织样本。"
+            },
+            "asset": "char_4179_monstr/CN_030"
+        },
+        {
+            "id": "char_4179_monstr_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "I'm fine, I already learned how to heal myself. Leave the cleanup to me. You don't want to see what comes next.",
+                "jp": "気にするな。自己治癒の方法は学んだ。後処理は私に任せるといい。その現場は君たちに見せられないがな。",
+                "kr": "신경 쓰지 마. 자가 치유 방법은 익혀뒀으니, 뒷처리는 내게 맡기고 가. 과정을 너희에게 보여주긴 좀 그렇거든.",
+                "cn": "无妨，我已经学会了治愈自己。剩下的善后工作交给我就行，现场不方便让你们观看。"
+            },
+            "asset": "char_4179_monstr/CN_031"
+        },
+        {
+            "id": "char_4179_monstr_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Stop struggling! You always liked it when I had to carry you during a retreat, didn't you?",
+                "jp": "暴れるな。以前の君は私にぶら下げられたまま撤退するのをなかなか楽しんでいただろう？",
+                "kr": "발버둥 치지 마. 예전엔 나한테 매달려서 퇴각하는 걸 즐겼잖아, 안 그래?",
+                "cn": "别乱动，以前你不是挺享受我吊着你撤退的吗？"
+            },
+            "asset": "char_4179_monstr/CN_032"
+        },
+        {
+            "id": "char_4179_monstr_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "No priestly eyes on me now, right?",
+                "jp": "今はもう私を監視している者はいないよな？",
+                "kr": "이젠 날 감시하는 자는 없겠지?",
+                "cn": "现在不会还有人盯着我吧？"
+            },
+            "asset": "char_4179_monstr/CN_033"
+        },
+        {
+            "id": "char_4179_monstr_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Hee hee, did I scare you?",
+                "jp": "へへ、怖いか？",
+                "kr": "헤헤, 무서워?",
+                "cn": "害怕吗？"
+            },
+            "asset": "char_4179_monstr/CN_034"
+        },
+        {
+            "id": "char_4179_monstr_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "I'm getting used to my work and responsibilities as quickly as I can. I will be ready for our reunion.",
+                "jp": "己の仕事と責任へ早急に馴染むよう努めている。再会するまでにできる準備は済ませておく。",
+                "kr": "난 내가 해야 할 일과 책임에 하루빨리 적응하기 위해 노력 중이야. 다시 만날 때까지 할 수 있는 준비는 다 해둘게.",
+                "cn": "我正在抓紧适应自己的工作和职责，我会在我们重逢之前准备好。"
+            },
+            "asset": "char_4179_monstr/CN_036"
+        },
+        {
+            "id": "char_4179_monstr_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4179_monstr/CN_037"
+        },
+        {
+            "id": "char_4179_monstr_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "A new year, and you're still punctual as ever. That means the season's first scientific exam will be your reward— You didn't come to Medical for an appointment? Oh, is this... a present for me?",
+                "jp": "新しい一年も、君は時間に正確だな。では今期初めての理学的検査を君へのご褒美にしよう――検査の予約で医療部に来たのではない？これは……私への贈り物か？",
+                "kr": "새해에도 너는 여전히 시간을 잘 지키는군. 그럼 이번 분기 첫 물리 검사를 상으로 주지…… 검사 예약 때문에 의료부에 온 게 아니라고? 이건…… 나한테 주는 선물?",
+                "cn": "新的一年，你还是很准时，那么这一季度的首轮理学检查就当是给你的奖励了——不是因为预约来医疗部？这是......送我的礼物？"
+            },
+            "asset": "char_4179_monstr/CN_038"
+        },
+        {
+            "id": "char_4179_monstr_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Doctor.",
+                "jp": "ドクター。",
+                "kr": "박사.",
+                "cn": "博士。"
+            },
+            "asset": "char_4179_monstr/CN_042"
+        },
+        {
+            "id": "char_4179_monstr_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Birthdays are special for us. We can't say for certain when our lives started. But at the very least, you have your answer deep within... This gift… Kal'tsit hesitated for too long, and never got to give it to you. Happy birthday.",
+                "jp": "誕生日は我々のような者にとって特別なものだ。我々には自分の生命がいつ始まったかを特定することはできないからな。しかし少なくとも君の中にはすでに答えがあった……これを受け取れ。ケルシーが長い間悩んだ末に君に渡さなかった贈り物だ。誕生日おめでとう。",
+                "kr": "생일은 우리 같은 존재에게 특별한 날이야. 우리는 자신의 생명이 언제 시작되었는지 확신할 수 없으니까. 하지만 적어도 네 마음속에는 이미 그 답이 있었겠지…… 받아. 켈시가 오랫동안 고민하다 끝내 네게 건네지 못했던 선물이야. 생일 축하해.",
+                "cn": "生日对我们来说都挺特殊，我们没法笃定自己的生命从何时开始。不过至少你心里已经有了自己的答案......这份礼物，凯尔希当初犹豫了很久也没给你。生日快乐。"
+            },
+            "asset": "char_4179_monstr/CN_043"
+        },
+        {
+            "id": "char_4179_monstr_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "You are reminiscing about the old Rhodes Island—about all the tragic destruction we witnessed, about the happy reunions we celebrated. But no matter how time wears away our precious memories, the ark beneath our feet will press ahead on its course across the lands. Come, Doctor. Everyone's waiting for you.",
+                "jp": "君はあのロドスを懐かしんでいる。我々は何度滅亡を経験し、何度再会を祝ってきただろうか？しかしどんなに時間が我々の貴重な記憶を薄れさせても、我々の足元の方舟は依然として大地を走っている。行こう、ドクター。皆が君を待っている。",
+                "kr": "너는 그 로도스 아일랜드를 그리워하고 있구나. 우리는 몇 번의 멸망을 경험하고, 몇 번의 재회를 축하했을까? 아무리 시간이 우리의 소중한 기억을 희미하게 만든다고 해도, 우리가 딛고 선 방주는 여전히 대지를 달리고 있어. 자, 가자, 박사. 모두가 너를 기다리고 있어.",
+                "cn": "你在怀念那个罗德岛。我们经历过多少次毁灭，又庆祝过多少次重逢？可不论时间如何淡化我们珍贵的记忆，我们脚下的方舟依旧行驶在大地上。博士，走吧，大家都在等你。"
+            },
+            "asset": "char_4179_monstr/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Molly Harris",
+            "global": "Molly Harris"
+        },
+        "cn": {
+            "native": "陈怡萱",
+            "global": "Chen Yixuan"
+        },
+        "jp": {
+            "native": "和泉風花",
+            "global": "Fuka Izumi"
+        },
+        "kr": {
+            "native": "이명호",
+            "global": "Lee Myeong-ho"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

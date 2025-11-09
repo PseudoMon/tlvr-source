@@ -190,6 +190,7 @@ def get_actors_from_voicedict(voicedict):
 		"cn_topolect": "CN_TOPOLECT",
 		"ger": "GER",
 		"rus": "RUS",
+		"fre": "FRE",
 	}
 
 	actors = {}
@@ -211,7 +212,11 @@ def get_actors(charid, wordtables):
 	# CN use CN names even for Korean and Japanese names with kana
 	# So we use JP as base
 	basetable = wordtables["jp"]
-	voidedict = basetable["voiceLangDict"][charid]["dict"]
+	try:
+		voidedict = basetable["voiceLangDict"][charid]["dict"]
+	except KeyError:
+		# When there are no voice data associated yet
+		return {}
 	native_names = get_actors_from_voicedict(voidedict)
 
 	# Add EN names as they're often the global preferred name
@@ -233,7 +238,11 @@ def get_voice_availability(charid, wordtables):
 	# Use EN since that's what our data is based on
 
 	table = wordtables["en"]
-	voicedict = table["voiceLangDict"][charid]["dict"]
+	try:
+		voicedict = table["voiceLangDict"][charid]["dict"]
+	except KeyError:
+		# When there are no voice data associated yet
+		voicedict = {}
 	cn_names = get_actors_from_voicedict(voicedict)
 	# technically the name itself is not needed
 	# but im too lazy to make another function
@@ -323,6 +332,6 @@ def run_transformer():
 	return charlist, wordtables
 
 if __name__ == "__main__":
-	chardata = load_json("chardata/char_235_jesica.json")
+	chardata = load_json("chardata/char_103_angel.json")
 	add_old_voices(chardata)
 	print(chardata["availability"])

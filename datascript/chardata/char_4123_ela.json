@@ -553,20 +553,6 @@
             "asset": "char_4123_ela/CN_037"
         },
         {
-            "id": "char_4123_ela_CN_038",
-            "title": {
-                "en": "New Year's blessing",
-                "jp": "新年",
-                "kr": "새해"
-            },
-            "text": {
-                "en": "Happy New Year. I'm ready to face even more challenges.",
-                "jp": "あけましておめでとう。更なる困難に立ち向かう準備は、もうできてるわ。",
-                "kr": "새해 복 많이 받아. 난 더 많은 도전을 받아들일 준비가 되어 있어."
-            },
-            "asset": "char_4123_ela/CN_038"
-        },
-        {
             "id": "char_4123_ela_CN_042",
             "title": {
                 "en": "Greeting",
@@ -581,34 +567,6 @@
                 "cn": "我在这里。"
             },
             "asset": "char_4123_ela/CN_042"
-        },
-        {
-            "id": "char_4123_ela_CN_043",
-            "title": {
-                "en": "Birthday",
-                "jp": "誕生日",
-                "kr": "생일"
-            },
-            "text": {
-                "en": "You've been haunted by all sorts of unreasonableness, ever since the day you were born. You have no choice but to fight back.",
-                "jp": "人は生まれた時から多くの不条理に付きまとわれる定め、その定めには抗わないといけないのよ。",
-                "kr": "네가 태어나는 그 순간부터 불합리한 것들이 널 옭아맸을 테지, 하지만 맞서지 않을 순 없을 거야."
-            },
-            "asset": "char_4123_ela/CN_043"
-        },
-        {
-            "id": "char_4123_ela_CN_044",
-            "title": {
-                "en": "Anniversary Celebration",
-                "jp": "周年",
-                "kr": "애니버서리"
-            },
-            "text": {
-                "en": "Rhodes Island is an incredibly inclusive place – and that's a big deal.",
-                "jp": "ロドスは包容力に溢れた場所ね。それはとても大事なことよ。",
-                "kr": "로도스 아일랜드는 포용력이 좋은 곳이더군, 아주 중요한 부분이야."
-            },
-            "asset": "char_4123_ela/CN_044"
         }
     ],
     "actors": {
