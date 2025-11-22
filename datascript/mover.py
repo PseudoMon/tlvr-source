@@ -47,7 +47,7 @@ def ffmpeg_convert(sourcefile, targetfile, skipoverwrite = False):
         subprocess.run(f"ffmpeg -i {sourcefile} {targetfile} -quality 90")
 
 def move_avatars():
-    avapaths = glob.glob("images/avatars2/*.webp")
+    avapaths = glob.glob("images/avatars3/*.png")
     for avapath in avapaths:
         targetname = path.basename(avapath).split("_")[-1]
 

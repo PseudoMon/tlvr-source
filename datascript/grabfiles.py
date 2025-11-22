@@ -16,6 +16,7 @@ chardictsurls = getregurls(base_chardicturl)
 
 base_avatar = "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_{}.png"
 base_avatar2 = "https://raw.githubusercontent.com/aelurum/MayerBotPics/master/avatars/{}.webp"
+base_avatar3 = "https://raw.githubusercontent.com/fexli/ArknightsResource/main/avatar/ASSISTANT/{}.png"
 
 base_charwordurl = "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData_YoStar/master/{}/gamedata/excel/charword_table.json"
 charwordsurls = getregurls(base_charwordurl)
@@ -81,8 +82,9 @@ def grab_all_chartable():
 def grab_avatar(char):
     fullid = char["fullid"]
     #url = base_avatar.format(fullid)
-    url = base_avatar2.format(fullid)
-    target = path.join("images", "avatars2", f"{fullid}.webp") 
+    #url = base_avatar2.format(fullid)
+    url = base_avatar3.format(fullid)
+    target = path.join("images", "avatars3", f"{fullid}.png") 
 
     if "base" in char:
         print(f"Char {char['nameid']} doesn't require image, skip.")
@@ -91,7 +93,8 @@ def grab_avatar(char):
         print("Image already exists. Skipping...")
     else:
         if "#" in url:
-            url = url.replace("#", "%23")
+            #url = url.replace("#", "%23)
+            url = url.replace("#", "_")
         download_image(url, target)
 
 def grab_avatars():
