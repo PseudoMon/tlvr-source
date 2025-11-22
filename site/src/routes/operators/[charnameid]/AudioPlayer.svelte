@@ -19,7 +19,7 @@
 
   const oldLangs = ["old_jp", "old_en", "old_cn"]
   const regionalLangs = ["ita", "cn_topolect"]
-  const regionalLang_sans_suffix = ["ger", "rus"]
+  const regionalLang_sans_suffix = ["ger", "rus", "fre"]
   const teamrainbow = ["tachak", "blitz", "ash", "rfrost", 
     "ela", "iana", "rdoc", "fuze"]
   const dungeonmeshi = ["laios", "marcil", "chilc", "sensi"]

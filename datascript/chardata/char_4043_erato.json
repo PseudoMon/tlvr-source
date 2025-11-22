@@ -618,6 +618,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Anthea Greco",
+            "global": "Anthea Greco"
+        },
         "cn": {
             "native": "吱毛",
             "global": "Kousou Mao"
@@ -632,6 +636,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

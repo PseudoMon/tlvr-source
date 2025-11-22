@@ -7,7 +7,638 @@
         "kr": "미스 크리스틴",
         "cn": "Miss.Christine"
     },
-    "voices": [],
-    "actors": {},
-    "availability": []
+    "voices": [
+        {
+            "id": "char_4198_christ_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "It's fine enough in this office, but it's not much of a dalliance if we're stuck with work for days on end, you know... Unless, say, you'd let me lap at your emotions a bit?",
+                "jp": "ふぅん、悪くないお部屋ね。でも、あなたの仕事ぶりを丸一日眺め続けるだなんて、ちっとも素敵なデートじゃないわ……それとも、あとであなたの感情を味わってもいいと約束してくれるのかしら？",
+                "kr": "사무실이 나쁜 건 아니긴 한데, 나더러 하루 종일 네가 일하는 장소에 있으라고 하는 건 즐거운 데이트가 아닌데 말이지…… 대신, 나중에 네 감정을 맛보게 해 주겠다는 약속이라도 해주지 않을래?",
+                "cn": "不错的办公室，不过，要我连续陪你工作一天一夜，这可不是什么有趣的约会......或者你承诺，待会儿可以让我品尝一下你的情绪？"
+            },
+            "asset": "char_4198_christ/CN_001"
+        },
+        {
+            "id": "char_4198_christ_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "I hear you calling for me, I'm just not obliged to heed. Oh, don't startle the little pink ones, I worked ever so hard to train them as cushions. They were cajoling me into lava surfing before that. So uncouth—you might as well subject me to rap or put me in one of those smoking mechs.",
+                "jp": "あなたが呼ぶ声は聞こえたけれど、私が応える理由にはならないわ。ちょっと、このピンクの子たちを驚かさないで。私を乗せて溶岩をサーフィンするんじゃなくて、大人しく枕になってもらうまですごく苦労したんだから――あれはラップを無理に聴かされたり、煙を吐く機械を運転させられるのと同じくらい、本当に失礼しちゃうの。",
+                "kr": "네가 나를 부르는 소릴 듣긴 했다만, 내가 꼭 대답해야 하는 건 아니잖아? 음, 이 분홍 꼬마들은 놀라게 하지 말아줬으면 해, 겨우 베개로 삼은 참이니까. 날 태우고 용암 위를 서핑하지 않게 하는 건 제법 어려운 일이거든. 마치 나한테 억지로 랩을 듣게 하거나 연기 나는 기동 장갑을 몰게 하는 것처럼 무례한 행동이랄까.",
+                "cn": "我听到你在叫我，但那不代表我要回应。唔，不要吓到这群粉色的小家伙，我好容易才让它们乖乖当枕头，而不是驮着我在岩浆冲浪——那简直和强迫我听说唱，或驾驶冒烟机甲一样，真是无礼。"
+            },
+            "asset": "char_4198_christ/CN_002"
+        },
+        {
+            "id": "char_4198_christ_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "Listen to <i>that.</i> The little operators are rehearsing? I met Lucian when he was around their age. So vexed by all the emotions he had to portray—such a tasty little snack. I chose him. He sates my appetite. He's been fun to spend time with... Mm? Odd. When did he go and grow so big?",
+                "jp": "心地いい音ね。おちびちゃんたちが練習中なのかしら？私がルシアンに出会った時、あの子もちょうどこれくらいの年頃だったわ。感情の演技に悩んでいて、まるで美味しいおやつみたいだったの。だから選んであげた。あの子は私の口に合うし、少しばかり一緒に遊んであげるのも面白そうだったから……あら？いつの間にこんな大きくなったのかしら？",
+                "kr": "괜찮네. 어린 오퍼레이터들이 훈련하는 건가? 내가 루시안을 만났을 때, 루시안도 딱 저런 나이였지. 감정을 어떻게 표현해야 할지 고민하고 있는 게 마치 맛있어 보이는 디저트 같았지, 그래서 루시안을 선택한 거야. 루시안은 내 입맛을 만족시켜 줄 수 있었고, 함께 노는 것도 정말 재미있었는데…… 언제 이렇게 커버린 걸까?",
+                "cn": "悦耳。是小干员们在排练？我遇到卢西恩时，他也是这个年纪，苦恼怎么表演情绪，像块可口的小点心。我挑中他，他能满足我的胃口，陪他玩一会也很有趣......嗯？他什么时候长这么大了？"
+            },
+            "asset": "char_4198_christ/CN_003"
+        },
+        {
+            "id": "char_4198_christ_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "Of all the places to run into <i>this</i> menagerie. Mine? Don't lump me in with these debased louts—Zaaro, stay. You there, little silver wolf, are you their pack leader? Make Zaaro shush, and by the way, you have special permission to scritch my chin.",
+                "jp": "どうしてあなたのところにも、あのおかしな連中が出入りしているのかしら。私？私を低俗な趣味の連中と一緒にしないでほしいわね――ザーロ、騒がしいわよ。そこの白い仔狼、あなたがあいつらのボスなの？ザーロを黙らせなさい。代わりに、特別に私の顎を撫でる許可を与えましょう。",
+                "kr": "왜 네 곁에서 이상한 녀석들이 보이는 걸까. 나? 나를 그런 저속한 취미를 가진 녀석들과 같은 취급하지 말아줬으면 좋겠는데. 자로, 넌 너무 시끄러워. 거기 은백색 어린 늑대, 혹시 네가 우두머리 늑대야? 자로를 조용하게 만들어 주지 않을래? 특별히 내 턱을 쓰다듬을 수 있게 허락해 줄 테니까.",
+                "cn": "怎么在你这里也能看到那群怪家伙。我？不要把我和低级趣味的家伙混为一谈——扎罗，你太聒噪了。那个银白色的小狼，你就是他们的头狼？让扎罗安静，以及，我特别允许，你可以抚摸我的下巴。"
+            },
+            "asset": "char_4198_christ/CN_004"
+        },
+        {
+            "id": "char_4198_christ_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "The femme fatale of Wrankwood? The Durin clockwork curiosity? The shadowy priest of Sargon? Those were little pastimes of mine. Put on a different look, and people shower you in fresh delights. Little games like that are never more fun than when they've just begun.",
+                "jp": "ランクウッドのミステリアスな女優、ドゥリンの都市の奇妙な機械、サルゴンの影の祭司？どれも昔のちょっとした戯れよ――見た目の姿を変えるだけで、みんながたくさん新鮮な反応を見せてくれるの。こういう遊びは始めたころが一番面白いのよ。",
+                "kr": "랭크우드의 신비로운 여배우, 두린 도시의 기묘한 기계, 사르곤의 검은 그림자 제사장? 이것들은 모두 내가 오래전에 찾아낸 즐거움이야, 모습을 바꿔서 나타나는 것만으로도 사람들은 새로운 것들을 마구 가져오거든. 그리고 이런 장난은 처음 시작했을 때가 제일 재미있는 법이지.",
+                "cn": "蓝卡坞神秘女星、杜林城市的怪异机械、萨尔贡黑影祭司？这些都是我很久之前找的乐趣——只要换一副样子出现在人们面前，他们就会给我带来很多新鲜东西。这种小游戏在刚开始时，最有趣了。"
+            },
+            "asset": "char_4198_christ/CN_005"
+        },
+        {
+            "id": "char_4198_christ_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Why stop playing? Because after long enough, no one shows me anything I haven't seen before. Emotions and words on repeat, it bores me like nothing else, and I <i>hate</i> boredom. Hm? Insolence! You haven't earned the right to scratch my belly yet, Doctor.",
+                "jp": "どうしてやめたのかって？だって、そのうち誰もかれも、同じ感情、同じ言葉ばかりになるんだもの。そういうのが一番つまらないの。つまらないのは大嫌いよ。あら？ちょっと、まだお腹を撫でていいとは言っていないわよ、ドクター。",
+                "kr": "근데 왜 나중에 그만뒀냐고? 시간이 오래 지나다 보니, 결국 다 비슷한 것들만 받게 되더라고. 반복되는 감정과 말은 정말 지루해, 그리고 난 지루한 것을 정말 싫어하지. 음? 건방지구나, 아직 내 배를 만져도 된다는 허락은 한 적 없을 텐데, 박사.",
+                "cn": "为什么后来不玩了？时间久了，人们给我带来的东西都是我之前见过的了，重复的情绪，重复的话语，那样最无聊，我厌恶无聊。嗯？放肆，你还没有得到抚摸我肚子的许可，博士。"
+            },
+            "asset": "char_4198_christ/CN_006"
+        },
+        {
+            "id": "char_4198_christ_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Doctor, over here one moment? I'm off to try that multimedia escape room. Tell me, which one looks better on me, the ruby lavallière, or the sapphire? —*HISS*!!! ...Excuse me, my true form was meant to <i>frighten</i> you just as it does everyone else. Typical, I didn't even get a taste...",
+                "jp": "ドクター、ちょっとこっちに来てくれる？マルチメディアスタジオに行きたいんだけど、見て、このルビーのリボンとサファイアの、どちらが似合うかしら？――シャー！！！……あら、普通は私の真の姿を見たら驚くのに、どうして平気なの？残念ね、何も味わえなかったわ……",
+                "kr": "박사, 잠깐 이쪽으로 와볼래? 멀티미디어 밀실에 가고 싶은데, 이 루비 나비넥타이랑, 사파이어 나비넥타이 중에 뭐가 더 나은 것 같…… 하악!!! 어라, 다른 사람들은 모두 내 진짜 모습에 놀랐는데, 넌 안 놀랐네? 아쉬워라, 아무것도 맛보지 못했어……",
+                "cn": "博士，劳烦过来一下，我想去多媒体密室，你帮我看看，是这条红宝石的领结好看，还是蓝宝石的好看？——嘶喵！！！咦，别人都会被我的真身吓到，你怎么没有？可惜，什么都没尝到......"
+            },
+            "asset": "char_4198_christ/CN_007"
+        },
+        {
+            "id": "char_4198_christ_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "What a fine lavallière, this scrumptious mix of bashfulness and timidity... did your operators make this? I do quite love them... I'd love a taste of each of them. Pft, don't fret, only the special kind of emotion interests me. For example, that <i>nervousness</i> you just flashed in front of me, at long last. Oh, I like that.",
+                "jp": "洗練されたリボンね、ほのかに恥じらいと怯えの香ばしい匂いがする。あなたのオペレーターが作ってくれたの？私ね、本当にあの子たちが大好きなの。みんな味見したくなっちゃうわ。ふふ、安心して。私が興味あるのは特別な感情だけだから。たとえば、あなたがさっきようやく見せてくれた「緊張」とか、すごく好みよ。",
+                "kr": "세련된 나비넥타이에 맛있는 수줍음과 두려움이 섞여 있네, 네 오퍼레이터가 만들어 준 거야? 난 걔들이 정말 좋더라, 전부 한 번씩 맛보고 싶다니까. 훗, 안심해, 나는 특별한 감정에만 흥미가 있거든. 예를 들자면, 이제야 겨우 드러난 네 감정인 '긴장' 같은 게 있지, 난 그런 게 좋아.",
+                "cn": "精致的领结，夹杂着美味的害羞和胆怯，你的干员给我做的？我真喜欢他们，每一位我都想尝一尝。噗，放心，我只对那些特殊的情绪感兴趣。比如，你刚刚终于流露出的那丝“紧张”，我很喜欢。"
+            },
+            "asset": "char_4198_christ/CN_008"
+        },
+        {
+            "id": "char_4198_christ_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "Here, let me have a look under your hood—don't hide, do you think that stops me seeing? You know, you <i>swallow up</i> your operators' emotions too, don't you, Doctor? How your presence puts them at ease. *yawn* Move over, I'll have a catnap here myself.",
+                "jp": "ねえ、そのフードの下がどうなっているか見せてちょうだい――隠したら私が見えないとでも思っているの？本当はあなたも、あの子たちの感情を「食べている」のでしょう？ドクター。あなたがいるから、みんな安心するのね。ふわぁ～、ちょっと場所を開けて。私もここでお昼寝するから。",
+                "kr": "네 후드 아래를 보여…… 그런다고 내가 못 볼 줄 알아? 그나저나, 사실 너도 오퍼레이터들의 감정을 '먹고' 있지, 박사? 네가 있으면 다들 평온해 보이거든(하품 소리). 좀 비켜봐, 나도 여기서 잠깐 자고 싶으니까.",
+                "cn": "让我看看，你的兜帽下面是什么——你躲了，以为我就看不到了？其实，你也在“吞吃”干员们的情绪，对吧，博士？有你在，他们都很安心呢。（哈欠声）让一让，我也要在这里打个盹。"
+            },
+            "asset": "char_4198_christ/CN_009"
+        },
+        {
+            "id": "char_4198_christ_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "...Mrm... prrr... mrrow...",
+                "jp": "……ふにゃ……ぐるる……にゃう……",
+                "kr": "……야옹…… 그르릉…… 그릉……",
+                "cn": "......唔......呼噜噜......咪呜......"
+            },
+            "asset": "char_4198_christ/CN_010"
+        },
+        {
+            "id": "char_4198_christ_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Eyes down here, Doctor. Cat got your tongue? You can hear my voice now. Long time no see. You can pet me more than last time, I permit it.",
+                "jp": "どこを見てるのかしら、ドクター？驚くことはないわよ。今なら、私の言葉がちゃんと理解できるよね。久しぶりだし、今回は特別に、少し長めに撫でてもいいわよ。",
+                "kr": "어딜 보고 있어, 박사? 놀라지 마, 이제 내 말을 알아들을 수 있을 거야, 오랜만이네. 이번엔 나를 많이 쓰다듬는 것을 허락해 줄게.",
+                "cn": "你在看哪里呢，博士？别惊讶，你现在能听懂我说话了。许久不见，我准许你这次可以多抚摸我一会儿。"
+            },
+            "asset": "char_4198_christ/CN_011"
+        },
+        {
+            "id": "char_4198_christ_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "*yawn*",
+                "jp": "ふわぁ――",
+                "kr": "하암……",
+                "cn": "哈欠——"
+            },
+            "asset": "char_4198_christ/CN_012"
+        },
+        {
+            "id": "char_4198_christ_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "Doctor, I can trouble you to set this in that red lavallière for me, yes? It'll look better on me that way.",
+                "jp": "ねえドクター、お願いがあるの。これをあの赤いリボンに飾ってもらえる？そうすれば、それを付けた私がもっと素敵になるから。",
+                "kr": "박사, 그거를 저 붉은 나비넥타이에 끼워 넣어줄 수 있을까? 그렇게 하면 더 이쁠 것 같거든.",
+                "cn": "博士，劳烦你把它镶嵌到那条红绸领结上，好吗？那样我戴起来会更好看些。"
+            },
+            "asset": "char_4198_christ/CN_013"
+        },
+        {
+            "id": "char_4198_christ_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "Are you done with the photoshoot? Let me see... Hm? You'll have this framed and put up in the middle of the dormitories? Very well, I do like these shots. I'll allow it.",
+                "jp": "撮り終わったの？ちょっと見せてちょうだい……ん？あなたたち、それを飾るつもりなの？休憩エリアの真ん中に？まあいいわ、なかなかいい出来だし、許してあげる。",
+                "kr": "다 찍었어? 어디 보자…… 응? 그걸 액자에 넣어서 휴게실 한가운데에 걸어두겠다고? 좋아, 잘 찍었으니 허락해 줄게.",
+                "cn": "拍好了吗？让我看一下......嗯？你们要把它裱起来，挂在休息区正中央？好吧，拍得很好，我允许了。"
+            },
+            "asset": "char_4198_christ/CN_014"
+        },
+        {
+            "id": "char_4198_christ_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Let me see. Are you in trouble of some sort?",
+                "jp": "さて、今度はどんな面倒事に巻き込まれたのかしら？",
+                "kr": "어디 보자, 어떤 재미있는 일이 생긴 걸까?",
+                "cn": "让我看看，你们遇到什么麻烦了？"
+            },
+            "asset": "char_4198_christ/CN_017"
+        },
+        {
+            "id": "char_4198_christ_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Be good. Stay put.",
+                "jp": "いい子にしてなさい、走り回らないで。",
+                "kr": "얌전히 있어, 함부로 뛰어다니지 말고.",
+                "cn": "乖一点，不要乱跑。"
+            },
+            "asset": "char_4198_christ/CN_018"
+        },
+        {
+            "id": "char_4198_christ_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Any moods out here to pique my interest?",
+                "jp": "ここには、私の興味を惹くような感情はあるかしら？",
+                "kr": "여기에 과연 내 흥미를 끌 만한 감정이 있으려나?",
+                "cn": "这里会有让我感兴趣的情绪吗？"
+            },
+            "asset": "char_4198_christ/CN_019"
+        },
+        {
+            "id": "char_4198_christ_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Let emotion engulf this place.",
+                "jp": "感情にこの場の全てを飲み込ませましょう。",
+                "kr": "이곳을 감정으로 물들여버리자.",
+                "cn": "让情绪吞噬这里吧。"
+            },
+            "asset": "char_4198_christ/CN_020"
+        },
+        {
+            "id": "char_4198_christ_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "I'm here, in the shadows.",
+                "jp": "私はここよ、影の中に。",
+                "kr": "난 여기야, 검은 그림자 속에 있지.",
+                "cn": "我在这里，黑影中间。"
+            },
+            "asset": "char_4198_christ/CN_021"
+        },
+        {
+            "id": "char_4198_christ_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Petting a cat on the battlefield? That'll be one petting voucher.",
+                "jp": "……戦場で撫でるつもりなの？なでなで券がいるわよ。",
+                "kr": "……전장에서 고양이를 쓰다듬을 생각이야? 그러려면 쓰다듬기 티켓을 하나 써야 하는데.",
+                "cn": "......在战场上分心摸猫吗？要用一张摸摸券哦。"
+            },
+            "asset": "char_4198_christ/CN_022"
+        },
+        {
+            "id": "char_4198_christ_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "(The lady looks around, elegantly swishing her two tails.)",
+                "jp": "（優雅に二本の尻尾を揺らしながらあたりを見回す）",
+                "kr": "(크리스틴이 주위를 둘러보며 우아하게 꼬리를 살랑거린다)",
+                "cn": "（女士环顾四周，优雅地摇了摇双尾）"
+            },
+            "asset": "char_4198_christ/CN_023"
+        },
+        {
+            "id": "char_4198_christ_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "(The lady stretches out, seemingly very at ease.)",
+                "jp": "（大きく伸びをする。とてもリラックスしているようだ）",
+                "kr": "(크리스틴이 기지개를 켰다. 아주 편안해 보인다)",
+                "cn": "（女士伸了一个懒腰，看起来很是放松）"
+            },
+            "asset": "char_4198_christ/CN_024"
+        },
+        {
+            "id": "char_4198_christ_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Emotion-deprived puppets. Bland little spirits.",
+                "jp": "感情を失った傀儡、味気ない魂。",
+                "kr": "감정을 잃은 꼭두각시, 무미건조한 영혼.",
+                "cn": "失去情感的傀儡，寡淡的灵魂。"
+            },
+            "asset": "char_4198_christ/CN_025"
+        },
+        {
+            "id": "char_4198_christ_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Despair, excitement, yearning... the emotions here are delectable.",
+                "jp": "絶望、興奮、愛着……ここにある感情は、どれも良いお味ね。",
+                "kr": "절망, 흥분, 미련…… 이곳의 감정들은 전부 맛있네.",
+                "cn": "绝望、兴奋、眷恋......这里的情绪，都很美味。"
+            },
+            "asset": "char_4198_christ/CN_026"
+        },
+        {
+            "id": "char_4198_christ_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "What other knotty emotions could there be?",
+                "jp": "他にも複雑な感情が残ってるかしら？",
+                "kr": "아직도 어떤 복잡한 감정이 남아있으려나?",
+                "cn": "还会有什么复杂的情绪呢？"
+            },
+            "asset": "char_4198_christ/CN_027"
+        },
+        {
+            "id": "char_4198_christ_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Mrow?",
+                "jp": "……ニャー？",
+                "kr": "……야옹?",
+                "cn": "......喵？"
+            },
+            "asset": "char_4198_christ/CN_028"
+        },
+        {
+            "id": "char_4198_christ_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Flavors fit for a gastronome. Thank you for entertaining me.",
+                "jp": "とても美味しかったわ。ごちそうさま。",
+                "kr": "훌륭한 맛이야, 환대해 줘서 고마워.",
+                "cn": "味道很不错，感谢你的款待。"
+            },
+            "asset": "char_4198_christ/CN_029"
+        },
+        {
+            "id": "char_4198_christ_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "A fine snack. I'm satisfied. When's the next?",
+                "jp": "素敵なおやつだったわ、お腹いっぱいよ。次はいつかしら？",
+                "kr": "근사한 간식이네, 아주 마음에 들어. 다음은 언제야?",
+                "cn": "不错的点心，我很满意。下一次是什么时候？"
+            },
+            "asset": "char_4198_christ/CN_030"
+        },
+        {
+            "id": "char_4198_christ_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Oh my, there goes the afternoon tea.",
+                "jp": "あらあら、ティーセットが倒れちゃったわね。",
+                "kr": "어머, 애프터눈 티를 쏟았네.",
+                "cn": "哎呀，下午茶被打翻了。"
+            },
+            "asset": "char_4198_christ/CN_031"
+        },
+        {
+            "id": "char_4198_christ_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Stay on my tail, Doctor, don't let emotion's whirl suck you in.",
+                "jp": "ついてきて、ドクター。感情の渦に呑まれて迷子にならないようにね。",
+                "kr": "날 따라와, 박사. 감정의 소용돌이 속에서 길을 잃지 마.",
+                "cn": "跟上我，博士，不要迷失在情绪的漩涡里。"
+            },
+            "asset": "char_4198_christ/CN_032"
+        },
+        {
+            "id": "char_4198_christ_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "Do I get a room?",
+                "jp": "私の部屋はあるかしら？",
+                "kr": "내 방은 있어?",
+                "cn": "有我的房间吗？"
+            },
+            "asset": "char_4198_christ/CN_033"
+        },
+        {
+            "id": "char_4198_christ_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Insolence.",
+                "jp": "……無礼者。",
+                "kr": "……무례하네.",
+                "cn": "......无礼。"
+            },
+            "asset": "char_4198_christ/CN_034"
+        },
+        {
+            "id": "char_4198_christ_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "...Hrmm... prrr...",
+                "jp": "……ふにゃあ……ぐる……",
+                "kr": "……흐음…… 그르릉……",
+                "cn": "......哼嗯......咕噜......"
+            },
+            "asset": "char_4198_christ/CN_036"
+        },
+        {
+            "id": "char_4198_christ_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4198_christ/CN_037"
+        },
+        {
+            "id": "char_4198_christ_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Ah-choo! Not even you're free of all these... sickly sweet emotions... oh, I almost feel dizzy... Doctor, come, we're finding Lucian. I want to see how these feelings look on his face.",
+                "jp": "はくしょんっ！なんであなたまで……たくさんの甘い感情をまとっているのよ……うっ、頭がふらふらするわ……ドクター、行きましょ。ルシアンのところに行くわよ。あの子が同じ顔をしているのが見たいわ。",
+                "kr": "엣취! 왜인지 너에게서도…… 달콤한 감정이 가득한 것 같아…… 머리가 어지러워…… 가자, 박사. 루시안을 찾으러 가야지. 루시안의 얼굴에서도 같은 표정을 볼 수 있었으면 좋겠네.",
+                "cn": "阿嚏！怎么连你的身上也是......太多甜蜜的情绪了......头有点晕......博士，走吧，我们去找卢西恩，我希望也能在他的脸上看到同样的表情。"
+            },
+            "asset": "char_4198_christ/CN_038"
+        },
+        {
+            "id": "char_4198_christ_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "I smell a note of <i>delight,</i> Doctor.",
+                "jp": "「愉快」の香りがするわ、ドクター。",
+                "kr": "박사, '즐거운' 냄새가 났어.",
+                "cn": "我嗅到了“愉快”的滋味，博士。"
+            },
+            "asset": "char_4198_christ/CN_042"
+        },
+        {
+            "id": "char_4198_christ_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "(The lady has left a dew-slicked rose on your desk. You look down, only to find that unbeknownst to you, a warm fuzzball with its four paws tucked in has nestled within your lap.)",
+                "jp": "（机の上に、露を帯びたバラの花が一輪、優雅に残されていた。あなたが視線を下げると、いつの間にか温かい毛玉が丸まって、四つの小さな足を引っ込め、あなたの太ももの上でくつろいでいた）",
+                "kr": "(크리스틴이 당신의 책상 위에 이슬을 머금은 장미 한 송이를 남겨놓았다. 그리고 고개를 숙인 당신은 어느새 따뜻한 발톱을 숨긴 따뜻한 솜뭉치가 다리 위에 웅크리고 있는 것을 발견했다)",
+                "cn": "（女士在你的桌上留下了一枝带着露水的玫瑰。你低下头，发现不知何时，一团温暖的毛绒收起了四个小爪子，窝在了你的腿上。）"
+            },
+            "asset": "char_4198_christ/CN_043"
+        },
+        {
+            "id": "char_4198_christ_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Your operators really want to see me do this, do they? ...Oh, fine, special permission just for today. You can rest me on your shoulder while you go round the landship.",
+                "jp": "オペレーターたち、皆が私にこうしてほしいと思ってたの？……ふぅ、仕方ないわね。今日は特別に、あなたの肩に乗って、艦内をひと巡りしてあげるわ。",
+                "kr": "네 오퍼레이터들이 내가 이렇게 하길 바란다고? 흐음…… 좋아, 그러면 오늘은 특별히 나를 네 어깨 위에 올려놓고 함선을 도는 것을 허락해 줄게.",
+                "cn": "你的干员们很希望我能够这样？......唔，好吧，那我今天特别允许你，可以将我托在你的肩膀上，绕着舰船走一圈。"
+            },
+            "asset": "char_4198_christ/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "-",
+            "global": "-"
+        },
+        "cn": {
+            "native": "-",
+            "global": "-"
+        },
+        "jp": {
+            "native": "-",
+            "global": "-"
+        },
+        "kr": {
+            "native": "-",
+            "global": "-"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
 }

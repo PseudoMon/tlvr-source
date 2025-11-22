@@ -618,6 +618,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Blake Kubena",
+            "global": "Blake Kubena"
+        },
         "cn": {
             "native": "王西瓜",
             "global": "Neo Wang"
@@ -632,6 +636,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

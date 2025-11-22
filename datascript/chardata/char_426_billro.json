@@ -618,6 +618,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Sara Masry",
+            "global": "Sara Masry"
+        },
         "cn": {
             "native": "蔡娜",
             "global": "Cai Na"
@@ -632,6 +636,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

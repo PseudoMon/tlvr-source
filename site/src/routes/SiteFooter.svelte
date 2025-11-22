@@ -5,7 +5,7 @@
 <footer>
   <a href="https://github.com/PseudoMon/tlvr-source" target="_blank"><GithubIcon /></a>
   <span>Site version 1.4</span>
-  <span>Data last updated: 2025-11-09 (The Masses' Travels on Global)</span>
+  <span>Data last updated: 2025-11-22 (Act or Die on Global)</span>
 </footer>
 
 <style>

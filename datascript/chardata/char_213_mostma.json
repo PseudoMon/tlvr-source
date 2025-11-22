@@ -618,6 +618,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Kira Buckland",
+            "global": "Kira Buckland"
+        },
         "cn": {
             "native": "若舞",
             "global": "Luttefair"
@@ -632,6 +636,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

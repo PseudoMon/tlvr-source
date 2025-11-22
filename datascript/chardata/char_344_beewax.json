@@ -618,6 +618,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Natasha Atherton",
+            "global": "Natasha Atherton"
+        },
         "cn": {
             "native": "翁媛",
             "global": "Yuan Weng"
@@ -632,6 +636,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

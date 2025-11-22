@@ -1,0 +1,649 @@
+{
+    "charid": "char_1042_phatm2",
+    "nameid": "phatm2",
+    "names": {
+        "en": "Tragodia",
+        "jp": "トラゴーディア",
+        "kr": "트라고디아",
+        "cn": "酒神"
+    },
+    "voices": [
+        {
+            "id": "char_1042_phatm2_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Doctor, I've brought myself here in the flesh. You may stop watching my videotapes.",
+                "jp": "ドクター、私は約した通りに現れた。もうそのビデオを再生し続ける必要はない。",
+                "kr": "박사, 약속한 대로 나타났다. 이제 그 비디오를 계속 재생할 필요는 없다.",
+                "cn": "博士，我已如约现身，不必再播放录像了。"
+            },
+            "asset": "char_1042_phatm2/CN_001"
+        },
+        {
+            "id": "char_1042_phatm2_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "Ever since doing away with the suppressor on my throat, Miss.Christine has deigned to lead my vocal training, teaching me how to sing unto people's minds <i>without</i> damaging their psyches. You'd like to hear the results? Hm. You did once request a lullaby, which... isn't my forte. I'll need practice still.",
+                "jp": "喉の抑制装置が解けてから、私はずっとミス・クリスティーンに助言を求めてきた。歌声を人々の意識に浸透させながらも、彼らの精神を損なわぬ方法についてな。成果の確認がしたい？以前、子守唄を歌ってほしいと言っていたな。あまり得意ではないので、まだ練習が必要だ。",
+                "kr": "목의 억제 장치를 해제한 뒤로, 나는 줄곧 미스 크리스틴의 조언을 구해 왔다. 사람들의 의식에 노랫소리를 침투시키면서도, 그들의 정신을 손상시키지 않을 방법에 대해서 말이지. 성과를 확인하고 싶다고? ……예전에 자장가를 불러달라 했었던가. 그리 자신 있는 분야는 아니라, 아직 연습할 필요가 있다.",
+                "cn": "解开喉咙上的抑制装置后，我一直在向Miss.Christine请教，如何让歌声浸透人们的意识，又不损害他们的精神。验收成果？你之前说想听摇篮曲，我并不擅长，还需练习。"
+            },
+            "asset": "char_1042_phatm2/CN_002"
+        },
+        {
+            "id": "char_1042_phatm2_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "It never struck the Crimson Troupe just how their rejection of critique, their scorn of video, laid bare their cowardice and mediocrity. I used to avoid watching anything I performed in, such was my disgust... But perhaps it's time for a better seat. I see you holding those film tickets, Doctor; you needn't hide them. I accept your invitation.",
+                "jp": "クリムゾン劇団の団員たちは、批判を拒み、映像を蔑むことが、彼らの臆病さと凡庸さを露わにしていると微塵も気付いていなかった。かつての私は嫌悪感から自身の演技が記録された映像を見ることを避けていたが、今は……その手に持つ映画鑑賞券を隠す必要はない。君の招待を受け入れよう。",
+                "kr": "크림슨 극단 단원들은, 비판을 거부하고 영상을 멸시하는 것이 그들 자신의 소심함과 평범함을 드러내고 있다는 것을 티끌만큼도 눈치채지 못했다. 예전의 나는 혐오감 때문에 내 연기가 기록된 영상을 보는 것을 피했지만, 지금은…… 그 손에 들고 있는 영화 관람권을 숨길 필요는 없다. 네 초대를 받아들이도록 하지.",
+                "cn": "猩红剧团的成员从未意识到，拒斥批评，轻视影像，恰恰暴露了他们的怯懦与平庸。我曾因厌恶回避观看自己演绎的片段，不过现在......无需遮掩你手中的观影券，我接受邀请。"
+            },
+            "asset": "char_1042_phatm2/CN_003"
+        },
+        {
+            "id": "char_1042_phatm2_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "There are people after me. They are disenchanted and voracious, screaming in chaos, dying to find the maker for their crazèd flock. For how could Tragodia truly die? He is but one of countless graven images to fall on the steps—He and all his kind are wholes made of shards, idols formed from syncretism. As it was with that mad and lonely stage director, snobbish soul, old friend of mine.",
+                "jp": "誰かが私を探している。世を厭い、飢え、混沌の中で力の限り叫び続け、迷い狂える者たちのために造り主を求めている。「トラゴーディア」が死ぬはずがない。階段の下に倒れるのは、無数の欠片で組み上げられた偶像だけだ――そう、まるであの孤独で狂気に侵された演出家、偏執なる魂、今は亡きかの者のように。",
+                "kr": "누군가가 나를 찾고 있다. 세상을 비관하고, 굶주리고, 혼돈 속에 온 힘을 다해 부르짖으며, 미쳐 방황하는 자들을 위해 조물주를 찾고 있다. '트라고디아'가 죽을 리 없다. 계단 아래 쓰러지는 것은 무수한 파편으로 구성된 우상뿐…… 그래, 마치 그 고독하고 광기 어린 연출가, 집착하는 혼, 지금은 죽어버린 그자와 같이.",
+                "cn": "有人在找我。他们厌世、饥渴、在混沌中嘶吼，渴望为群体迷狂觅得造物者。“酒神”怎会死去？只有无数用碎片拼凑成的偶像倒在台阶下，如同那位孤独而疯狂的戏剧导演，偏执的灵魂，我的故人。"
+            },
+            "asset": "char_1042_phatm2/CN_004"
+        },
+        {
+            "id": "char_1042_phatm2_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "I've read that evaluation report; Dr. Folinic is suggesting I exit from the frontline for the time being. I can't maintain <i>constant</i> sobriety, that much is true; after years with these hallucinations for company, they are among the few friends I can count on my fingers. But I remain your assassin... Call me, and let me see to the work I know best.",
+                "jp": "この評価報告書には目を通した。フォリニック嬢は私に暫しの前線離脱を勧たいらしい。確かに常に意識が明瞭であるわけではないな。長年の間まとわりついている幻覚は、既に私にとって数少ない友となっている。だが私は依然として君の刺客だ。呼べ、私に最も得意な仕事を完遂させてくれ。",
+                "kr": "이 평가 보고서는 훑어봤다. 폴리닉은 내게 한동안 전선 이탈을 권하고 싶은 모양이더군. 확실히 항상 의식이 명료한 것은 아니다. 오랜 시간 따라다니는 환각은 내게 이미 몇 없는 친구가 되었으니. 하지만 나는 여전히 너의 자객이다. 언제든 불러라. 내가 가장 잘하는 일을 완수하게 해다오.",
+                "cn": "我看过这份评估报告，亚叶小姐建议我暂时离开行动前线。我确实无法时刻保持清醒，那些幻觉伴随我多年，已成为我屈指可数的朋友。但我依旧是你的刺客，呼唤我，让我完成自己最擅长的工作。"
+            },
+            "asset": "char_1042_phatm2/CN_005"
+        },
+        {
+            "id": "char_1042_phatm2_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Upon his followers, the troupe leader bestowed masks. Before long, I will set out in companionship to find those followers, one and all. Abandon reason and surrender to violence as they may, I will simply create, perform, and weave their dreams. Till they awaken from despair, till they can reexamine their souls in the mirror, wretched yet free, for better and for worse.",
+                "jp": "もう間もなく私は仲間と旅立ち、劇団長から仮面を授かった信徒を探しに向かう。たとえ彼らがとうに理性を捨て去り、暴力に染まっていようと、私はただ彼らのために創作し、演じ、夢を紡ぐだけだ。彼らが絶望から覚め、鏡に映る惨めながらも自由な魂を見つめ直し、歓喜するか悲嘆するまで。",
+                "kr": "나는 이제 곧 동료들과 함께 여행을 떠나, 극단장에게 가면을 받은 신도들을 찾으러 갈 것이다. 설령 그들이 이미 이성을 버리고 폭력에 물들었다 하더라도, 나는 그저 그들을 위해 창작하고 연기하며 꿈을 그려낼 뿐이다. 그들이 절망에서 깨어나, 거울에 비치는 비참하면서도 자유로운 영혼을 다시 바라보며, 환희하거나 비탄에 젖을 때까지.",
+                "cn": "不久，我将与同伴启程，寻找被剧团长赐予假面的信徒。哪怕他们已抛弃理性、归顺暴力，我只会为其创作、表演、编织梦境，直到他们从绝望中清醒，重新审视镜中不堪却自由的灵魂，或悲或喜。"
+            },
+            "asset": "char_1042_phatm2/CN_006"
+        },
+        {
+            "id": "char_1042_phatm2_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "Some unfamiliar operators invited me to a 'movie night' after I reboarded, and the Vampire madame from Engineering seems somewhat soft on me too. So generous is the drama, it bathes its actors in halo even outside of the silver screen. Pardon? Rhodes Island's operators trust me on principle...? Mmm. They ought to be a little warier than that.",
+                "jp": "本艦に帰ってから、数人の見知らぬオペレーターが映画鑑賞サークルへ誘ってくれた。エンジニア部のブラッドブルードのお嬢さんの私への態度も和らいでいる。劇作品は心広く銀幕の外の者に光を添える……ロドスの者たちは元から私を信頼している？……彼らはもう少し慎重であるべきだ。",
+                "kr": "본함에 돌아오고 나서, 면식이 없던 오퍼레이터 몇 명이 영화 감상 서클에 초대해 주었다. 나를 향한 엔지니어링부 뱀파이어 아가씨의 태도도 누그러졌고. 연극 작품은 넓은 마음으로, 은막 밖의 사람들에게 빛을 더해주지…… 로도스 아일랜드 사람들은 예전부터 나를 신뢰하고 있었다고? ……아무래도 다들 조금 더 신중할 필요가 있겠군.",
+                "cn": "回舰后，几位陌生的干员邀我加入观影小组，工程部的血魔小姐对我的态度也有所缓和。戏剧作品慷慨地为银幕外的人平添光晕——你说罗德岛的干员们本就信任我？......他们应该再谨慎些。"
+            },
+            "asset": "char_1042_phatm2/CN_007"
+        },
+        {
+            "id": "char_1042_phatm2_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "It is harder to resist destroying beauty than demonstrating it. It's a notion I try to stifle, but is it so simple to shake my bloodstained creative impulses? They were the one excuse in the troupe to touch on love and hate; they were a poison to tempt the audience; they are an inextricable yet unwordable part of me.",
+                "jp": "美を滅ぼすことは、美を表現するよりも蠱惑的なものだ――私も力を尽くしてこの衝動を抑えている。だが血塗られた創作欲から逃れるのは容易ではない。それは劇団で唯一憎しみと愛に触れられる口実。観客を魅了する毒。切り離すことも言葉にすることもできない、私の一部なんだ。",
+                "kr": "아름다움을 망치는 건, 아름다움을 표현하는 것보다 고혹적인 것이다…… 나 역시 온 힘을 다해 이 충동을 억제하고 있지. 그러나 피로 얼룩진 창작욕에서 벗어나는 것은 쉽지 않다. 그것은 극단에서 유일하게 증오와 사랑을 접할 수 있는 구실. 관객을 매료하는 독. 떼어놓는 것도 말로 표현하는 것도 불가능한, 내 일부분이다.",
+                "cn": "毁灭美比呈现美更令人难以抗拒——我竭力压抑这一念头，可要挣脱血腥的创作冲动谈何容易？那是在剧团中唯一能接触恨与爱的借口，是诱使观众着魔的毒药，是无法摆脱又难以言说的我的一部分。"
+            },
+            "asset": "char_1042_phatm2/CN_008"
+        },
+        {
+            "id": "char_1042_phatm2_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "I must recall—the conspiracy, the slaughter, the false performances. Does creation break me free of the shadows about me, or does it bring me closer to them? Perhaps my thirst, reignited by death, will one day finally catch fire and rage. Doctor... Witness it. Grasp it. Endorse or reject it. Do not stop it.",
+                "jp": "思い出さねばならない――陰謀を、虐殺を、虚飾の演技を。創作は果たして私を影から遠ざけているのか、それとも近づけているのか？死によって再燃した渇望は、いつの日か燃え盛る炎となるだろう。ドクター、それを注視し、理解し、認めあるいは否定をするんだ。決して止めぬように。",
+                "kr": "떠올려야 한다…… 음모를, 학살을, 허식뿐인 연기를. 창작은 과연 나를 그림자에서 멀어지게 하는가, 아니면 가까워지게 하는가? 죽음으로 인해 다시 불붙은 갈망은 언젠가 강렬히 타오르는 불길이 되겠지. 박사, 그것을 주시하고, 이해한 다음, 인정 또는 부정하는 거다. 절대 막지는 말도록.",
+                "cn": "我必须回忆——阴谋、屠杀、虚伪的表演。创作究竟在令我逃离周身的阴影还是更接近它？由死亡重新点燃的渴望或许终有一日会化为一场大火。博士，见证它，理解它，认同或否定它。不要阻止。"
+            },
+            "asset": "char_1042_phatm2/CN_009"
+        },
+        {
+            "id": "char_1042_phatm2_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Close your eyes. The dark of night now shrouds your consciousness; the sharp discomfort fades. So tell me, what is it you long to see... a ship, a sea of flowers, and us... That is all you want?",
+                "jp": "目を閉じて。闇夜が君の意識を覆い、鋭い不快感はすぐ消えるだろう。教えてくれ、どんな光景を見たいのか……進む船に、花の咲き乱れる地、それから私たち……それだけなのか？",
+                "kr": "눈을 감아라. 어두운 밤이 네 의식을 덮고, 날카로운 불쾌감은 곧 사라지겠지. 자, 가르쳐다오. 어떤 광경을 보고 싶은지…… 나아가는 배, 꽃이 흐드러지게 핀 대지, 그리고 우리들…… 그것뿐인가?",
+                "cn": "闭上眼睛，黑夜将笼罩你的意识，尖锐的不适感很快就会消失。告诉我，你期盼看到什么图景......航船、花海、我们......只有这些？"
+            },
+            "asset": "char_1042_phatm2/CN_010"
+        },
+        {
+            "id": "char_1042_phatm2_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Permit me to shirk our operators' curious gazes for a spell. The curtain has finally fallen on the longest play, and I need some time to reorganize my thoughts. I'm sure you understand, Doctor... Pardon? I have to sign the returnee ledger with my Wrankwood autograph?",
+                "jp": "オペレーターたちの好奇の眼差しをしばし避けることを許してほしい。長く続いた劇にようやく幕が下り、私も考えを整理する時間が要る。ドクターなら理解してくれるはずだ……ん？帰艦登録にはランクウッドのサイン体で書かないといけないのか？",
+                "kr": "오퍼레이터들의 호기심 어린 눈길을 잠시 피하는 걸 허락해 줬으면 하는군. 오래도록 계속되던 연극이 드디어 막을 내렸고, 나 역시 생각을 정리할 시간이 필요하다. 박사라면 이해해 줄 테…… 응? 귀함 등록에는 랭크우드 스타일로 사인해야만 하는 건가?",
+                "cn": "请允许我暂时回避干员们好奇的眼神，漫长的戏剧终于落幕，我需要时间整理自己的思绪，博士你一定能理解......嗯？返舰登记要用蓝卡坞的签名体？"
+            },
+            "asset": "char_1042_phatm2/CN_011"
+        },
+        {
+            "id": "char_1042_phatm2_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "Would that they could break free of the slaver that is Hate, what then would they do...",
+                "jp": "憎しみの支配から解かれたら、彼らはどう動くのか……",
+                "kr": "증오의 지배에서 벗어나면, 그들은 어떻게 움직일 것인가……",
+                "cn": "若能挣脱仇恨的奴役，他们又会如何行动......"
+            },
+            "asset": "char_1042_phatm2/CN_012"
+        },
+        {
+            "id": "char_1042_phatm2_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "I've woken from a nightmare, yet I still am in the night. Would you journey with me even then, dear Doctor?",
+                "jp": "悪夢の只中から覚めても、なお闇夜にいた。それでも私と共に歩んでくれるのか、ドクター？",
+                "kr": "악몽 속에서 깨어나도, 여전히 어둠 속에 있다. 그래도 나와 함께 가 줄 것인가, 박사?",
+                "cn": "我自噩梦中惊醒，依然身处黑夜。你仍愿与我同行吗，博士？"
+            },
+            "asset": "char_1042_phatm2/CN_013"
+        },
+        {
+            "id": "char_1042_phatm2_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "The symbol of a troupe member's honor was a medal bearing Tragodia—a sentencing to days with thought and taste imprisoned, a painful past I tried again and again to cut away. But you give me a present to delight... and I will cherish it.",
+                "jp": "トラゴーディアの印が刻まれた勲章は劇団員の栄光であり、思考と審美感を閉じ込める懲役であり、そして私が繰り返し断ち切ろうと試みた苦痛に塗れた過去でもある。だが君に贈られたのは快くも楽しい気持ちになる品物だ。大切にしよう。",
+                "kr": "트라고디아의 증표가 새겨진 훈장은 극단 단원의 영광임과 동시에 사고와 심미안을 가두는 징역이며, 내가 계속 끊어내려 했던 고통에 찬 과거이기도 하다. 허나 너에게 받은 것은 상쾌하고 즐거운 기분이 되는 물건이다. 소중히 하도록 하지.",
+                "cn": "带有酒神印记的勋章是剧团成员的荣光，是囚禁思想和审美的刑役，是我一遍又一遍试图斩断的苦痛过去。而你赠予我的是一份令人愉快的礼物，我会珍藏。"
+            },
+            "asset": "char_1042_phatm2/CN_014"
+        },
+        {
+            "id": "char_1042_phatm2_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "The stage is set.",
+                "jp": "舞台は整った。",
+                "kr": "무대는 갖추어졌다.",
+                "cn": "舞台已经搭好。"
+            },
+            "asset": "char_1042_phatm2/CN_017"
+        },
+        {
+            "id": "char_1042_phatm2_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "To lead or to dominate—they are but a hair apart.",
+                "jp": "導きと支配は紙一重だ。",
+                "kr": "인도와 지배는 종이 한 장 차이다.",
+                "cn": "引领与支配仅一线之隔。"
+            },
+            "asset": "char_1042_phatm2/CN_018"
+        },
+        {
+            "id": "char_1042_phatm2_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "Alas, the scent of strife; I know it well.",
+                "jp": "争いの匂いというのはかくも懐かしい。",
+                "kr": "분쟁의 냄새라는 건 참으로 정겹군.",
+                "cn": "纷争的气味如此熟悉。"
+            },
+            "asset": "char_1042_phatm2/CN_019"
+        },
+        {
+            "id": "char_1042_phatm2_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "Below the stage stirs not a soul.",
+                "jp": "舞台から見下ろす先、客席には誰もいない。",
+                "kr": "무대 아래는, 아무도 없군.",
+                "cn": "舞台之下，空无一人。"
+            },
+            "asset": "char_1042_phatm2/CN_020"
+        },
+        {
+            "id": "char_1042_phatm2_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Here I perform as me.",
+                "jp": "私は、私を演じよう。",
+                "kr": "나는 나 자신을 연기하겠다.",
+                "cn": "我将扮演自己。"
+            },
+            "asset": "char_1042_phatm2/CN_021"
+        },
+        {
+            "id": "char_1042_phatm2_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "The apron and the wings are but the same.",
+                "jp": "舞台に上がろうと上がるまいと変わらない。",
+                "kr": "무대에 오르든 오르지 않든 다를 건 없다.",
+                "cn": "台前幕后并无差异。"
+            },
+            "asset": "char_1042_phatm2/CN_022"
+        },
+        {
+            "id": "char_1042_phatm2_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "I am everywhere.",
+                "jp": "私はどこにでも存在する。",
+                "kr": "나는 어디에나 존재한다.",
+                "cn": "我，无处不在。"
+            },
+            "asset": "char_1042_phatm2/CN_023"
+        },
+        {
+            "id": "char_1042_phatm2_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "The shadow beneath your feet is not your own.",
+                "jp": "足元の影は君のものではない。",
+                "kr": "발밑의 그림자는 너의 것이 아니다.",
+                "cn": "脚下的影子不属于你。"
+            },
+            "asset": "char_1042_phatm2/CN_024"
+        },
+        {
+            "id": "char_1042_phatm2_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "The killing urge doth seize your flesh.",
+                "jp": "殺意が身体を乗っ取る。",
+                "kr": "살의가 몸을 지배한다.",
+                "cn": "杀意篡夺身躯。"
+            },
+            "asset": "char_1042_phatm2/CN_025"
+        },
+        {
+            "id": "char_1042_phatm2_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "The burning hate doth speak your minds.",
+                "jp": "憎悪が君の代わりに語る。",
+                "kr": "증오가 너를 대신해 말한다.",
+                "cn": "仇恨替你言语。"
+            },
+            "asset": "char_1042_phatm2/CN_026"
+        },
+        {
+            "id": "char_1042_phatm2_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "Resist me not; come to my song.",
+                "jp": "私の歌声に抗う必要はない。",
+                "kr": "내 노랫소리에 저항할 필요는 없다.",
+                "cn": "无须抵抗我的歌声。"
+            },
+            "asset": "char_1042_phatm2/CN_027"
+        },
+        {
+            "id": "char_1042_phatm2_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "Shh... Listen.",
+                "jp": "しーっ。耳を澄ませろ！",
+                "kr": "쉿. 귀를 기울여라!",
+                "cn": "嘘，聆听！"
+            },
+            "asset": "char_1042_phatm2/CN_028"
+        },
+        {
+            "id": "char_1042_phatm2_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Heeding your direction always leads so simply to ideal results. I ought to be on guard...",
+                "jp": "君の導きに従えば、いつも理想の結果が容易く得られる。私は警戒すべきだ……",
+                "kr": "너의 인도를 따르면, 언제나 이상적인 결과를 너무 쉽게 얻을 수 있다. 나로서는 경계해야 할 일이지……",
+                "cn": "跟随你的指引总能轻易获得理想的结果，我应当警惕......"
+            },
+            "asset": "char_1042_phatm2/CN_029"
+        },
+        {
+            "id": "char_1042_phatm2_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "Stay the curtain call... the time is not yet come.",
+                "jp": "幕引きにはまだ早い。",
+                "kr": "막을 내리기에는 아직 이르다.",
+                "cn": "谢幕，为时尚早。"
+            },
+            "asset": "char_1042_phatm2/CN_030"
+        },
+        {
+            "id": "char_1042_phatm2_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "Flee... until your nightmares catch up to you again.",
+                "jp": "逃げろ……悪夢に再び追いつかれるまで。",
+                "kr": "도망쳐라…… 악몽에게 다시 따라 잡힐 때까지.",
+                "cn": "逃吧......直到被噩梦再次追上。"
+            },
+            "asset": "char_1042_phatm2/CN_031"
+        },
+        {
+            "id": "char_1042_phatm2_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "If this is not the ending in your heart, then rewrite it.",
+                "jp": "君の心に描く結末でないのなら、書き換えてしまえ。",
+                "kr": "네 마음속에 그려둔 결말이 아니라면, 다시 쓰도록 해라.",
+                "cn": "若非你心中的结局，改写它。"
+            },
+            "asset": "char_1042_phatm2/CN_032"
+        },
+        {
+            "id": "char_1042_phatm2_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "...Could you take some of those film posters off the walls?",
+                "jp": "……壁の映画ポスターを少し撤去できないか？",
+                "kr": "……벽에 있는 영화 포스터를 조금 철거할 수는 없겠나?",
+                "cn": "......能否把墙上的电影海报撤掉一些？"
+            },
+            "asset": "char_1042_phatm2/CN_033"
+        },
+        {
+            "id": "char_1042_phatm2_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Yes, this attire is too formal.",
+                "jp": "この衣装は確かに仰々しすぎるかもな。",
+                "kr": "확실히 이 의상은 너무 요란할지도 모르겠군.",
+                "cn": "这身装束确实太过正式。"
+            },
+            "asset": "char_1042_phatm2/CN_034"
+        },
+        {
+            "id": "char_1042_phatm2_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Once this one-act play is... roughly ready, would you like to be the first to watch?",
+                "jp": "完成度が高いとは言えない一幕ものだが、君は最初の観客になってくれるか？",
+                "kr": "완성도가 높다고 할 수는 없는 단막극이다만, 네가 첫 관객이 되어주겠나?",
+                "cn": "一出不成熟的独幕剧，你愿做第一位观众吗？"
+            },
+            "asset": "char_1042_phatm2/CN_036"
+        },
+        {
+            "id": "char_1042_phatm2_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_1042_phatm2/CN_037"
+        },
+        {
+            "id": "char_1042_phatm2_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "On and on do new days come, yet shadows squat in the crevices of bygone days, so loath to leave. Doctor, be careful, please. Don't wallow too deeply in feelings of regret, in cursing fate. Accept failure, unease, fear... and then carry on walking.",
+                "jp": "新しい日々は次々にやってくるが、影は古き日の隙間に巣食ったまま消えようとしない。ドクター、どうか後悔の感情や運命への呪いに耽溺しすぎぬように気を付けてほしい。失敗も不安も恐怖も受け入れ……そして歩み続けるんだ。",
+                "kr": "새로운 나날이 차례차례 찾아오지만, 그림자는 옛 시간의 틈에 깃든 채 사라지려 하지 않는다. 박사, 부디 후회라는 감정과, 운명에 대한 저주를 탐닉하지 않게 주의하길 바라지. 실패도 불안도 공포도 모두 받아들이고…… 그렇게 계속 걸어가는 거다.",
+                "cn": "新的日子接踵而来，阴影却盘踞在旧日的夹缝中不愿散去。博士，请小心，不要过度沉溺于懊悔的情绪或诅咒命运。接受失败、不安、恐惧......然后继续走下去。"
+            },
+            "asset": "char_1042_phatm2/CN_038"
+        },
+        {
+            "id": "char_1042_phatm2_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "History and murders aside, Wrankwood is a fine vacation spot.",
+                "jp": "過去と殺戮を捨てれば、ランクウッドは休暇に適した場所だ。",
+                "kr": "과거와 살육을 버릴 수 있다면, 랭크우드는 휴가 가기 좋은 곳이지.",
+                "cn": "抛开往事与谋杀，蓝卡坞是个休假的好去处。"
+            },
+            "asset": "char_1042_phatm2/CN_042"
+        },
+        {
+            "id": "char_1042_phatm2_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "Pierced by Originium crystal, this larynx of mine is a ruthless weapon, and proof of how the arts intoxicate me. Now that I've finally recovered my singing technique, I wonder, would you mind if... As you wish, then. Allow me to dedicate this long-overdue ballad to you. Happy birthday, Doctor.",
+                "jp": "源石結晶に貫かれたこの喉は残酷な凶器ではあるが、芸術に酔いしれた証でもあるんだ。今や私は遂に歌う術を取り戻した。君が気にしないなら……君の願い通り、少し遅れた誕生日の歌を捧げよう。おめでとう、ドクター。",
+                "kr": "오리지늄 결정에 관통당한 이 목은 잔혹한 흉기이다만, 예술에 도취했다는 증거이기도 하지. 이제야 비로소 노래할 방법을 찾았다. 네가 괜찮다면…… 원하는 대로, 조금 늦은 생일 축하 노래를 바치도록 하지. 축하한다, 박사.",
+                "cn": "这副被源石结晶刺穿的歌喉是残忍的凶器，也是我醉心艺术的证明。如今我终于寻回歌唱的方式，不知你是否介意......如你所愿，请允许我向你献上这首迟到的歌谣，生日快乐，博士。"
+            },
+            "asset": "char_1042_phatm2/CN_043"
+        },
+        {
+            "id": "char_1042_phatm2_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Perhaps this sailing ship we stand on is a clear glass reflection, and Rhodes Island is but a fantasy woven by you... Yet oneiric emotions can move just as deeply as waking ones; if you believe this is all one beautiful dream, don't wake so soon.",
+                "jp": "もしかすると、今君を乗せて航行しているこの艦船は透明なガラスに映る虚像で、ロドスも君の紡いだただの幻かもしれない……だが、夢から生まれた感情であっても深く心を打つものだ。もし君がこれを美しい夢だと思うなら、もうしばらくの間醒めないでいてくれ。",
+                "kr": "어쩌면 지금 너를 싣고 항행하는 이 함선이 투명한 유리에 비치는 허상이고, 로도스 아일랜드도 네가 만들어낸 환상일지도 모른다…… 다만 꿈에서 생겨난 감정이라 해도, 마음 깊은 곳을 울릴 수 있지. 혹시 네가 이것을 아름다운 꿈이라 생각한다면, 아직 당분간은 눈뜨지 않은 채로 있어줬으면 하는군.",
+                "cn": "或许我们脚下正在行驶的舰船是透明玻璃上的倒影，罗德岛也只是由你编织的幻梦......但，因梦而生的情绪同样深刻动人，若你认为这是场美梦，晚些醒。"
+            },
+            "asset": "char_1042_phatm2/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Ben Cura",
+            "global": "Ben Cura"
+        },
+        "cn": {
+            "native": "刘照坤",
+            "global": "Zhaokun Liu"
+        },
+        "jp": {
+            "native": "石田彰",
+            "global": "Akira Ishida"
+        },
+        "kr": {
+            "native": "표영재",
+            "global": "Pyo Young-jae"
+        },
+        "fre": {
+            "native": "Vincent Bonnasseau",
+            "global": "Vincent Bonnasseau"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr",
+        "fre"
+    ]
+}

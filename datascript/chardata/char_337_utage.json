@@ -618,6 +618,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Ayaka Kyo",
+            "global": "Ayaka Kyo"
+        },
         "cn": {
             "native": "徐徐",
             "global": "Skye"
@@ -632,6 +636,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

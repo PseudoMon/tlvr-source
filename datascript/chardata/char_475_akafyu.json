@@ -618,6 +618,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Reiko Narao",
+            "global": "Reiko Narao"
+        },
         "cn": {
             "native": "卢晓彤",
             "global": "Thea"
@@ -632,6 +636,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"

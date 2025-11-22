@@ -2262,6 +2262,19 @@
         "rating": 5
     },
     {
+        "fullid": "char_4198_christ",
+        "nameid": "christ",
+        "numberid": "4198",
+        "name": {
+            "en": "Miss.Christine",
+            "jp": "ミス・クリスティーン",
+            "kr": "미스 크리스틴",
+            "cn": "Miss.Christine"
+        },
+        "nation": "victoria",
+        "rating": 5
+    },
+    {
         "fullid": "char_4164_tecno",
         "nameid": "tecno",
         "numberid": "4164",
@@ -3380,6 +3393,19 @@
         "rating": 5
     },
     {
+        "fullid": "char_4191_tippi",
+        "nameid": "tippi",
+        "numberid": "4191",
+        "name": {
+            "en": "Tippi",
+            "jp": "ティッピ",
+            "kr": "티피",
+            "cn": "蒂比"
+        },
+        "nation": "columbia",
+        "rating": 5
+    },
+    {
         "fullid": "char_103_angel",
         "nameid": "angel",
         "numberid": "103",
@@ -4131,6 +4157,19 @@
             "cn": "塑心 SALE"
         },
         "nation": "laterano",
+        "rating": 6
+    },
+    {
+        "fullid": "char_1042_phatm2",
+        "nameid": "phatm2",
+        "numberid": "1042",
+        "name": {
+            "en": "Tragodia",
+            "jp": "トラゴーディア",
+            "kr": "트라고디아",
+            "cn": "酒神"
+        },
+        "nation": "victoria",
         "rating": 6
     },
     {

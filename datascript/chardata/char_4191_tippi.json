@@ -1,0 +1,644 @@
+{
+    "charid": "char_4191_tippi",
+    "nameid": "tippi",
+    "names": {
+        "en": "Tippi",
+        "jp": "ティッピ",
+        "kr": "티피",
+        "cn": "蒂比"
+    },
+    "voices": [
+        {
+            "id": "char_4191_tippi_CN_001",
+            "title": {
+                "en": "Appointed as Assistant",
+                "jp": "秘書任命",
+                "kr": "어시스턴트 임명",
+                "cn": "任命助理"
+            },
+            "text": {
+                "en": "Omigosh, a close-up chance to watch the Doctor at work. Finally, I'll get a glimpse of Rhodes Island's secrets! Huh? You just want me to tell you a scary story to keep you up? Seriously? Fine, two choices then: The Headless Burdenbeastman of the Barrens, or The Thousand-Year Curse of the Sargonian Tomb. Which one, Doc?",
+                "jp": "やったね。ドクターの仕事を間近でウォッチできるチャンスだ。とうとうロドスの機密に触れられるぞ！え？ただ眠気覚ましにホラー話を聞きたいだけなの？む……じゃあ、荒野の首なし駄獣人と、サルゴン古墳の千年呪い、どっちがいい？",
+                "kr": "좋았어! 박사가 하는 일을 가까이서 볼 수 있는 찬스야. 드디어 로도스 아일랜드의 기밀을 건드릴 수 있다고! 엥? 그냥 잠 깨게 무서운 얘기 좀 들으려는 거였다고? 으음…… 그럼 황야의 목 없는 버든맨이랑, 사르곤 고분의 천년 저주 중에 뭐가 좋아?",
+                "cn": "真好，是近距离观察博士工作的机会，终于可以接触到罗德岛的机密了！什么？只是想听我讲恐怖故事提神？好吧，荒原上的无头驮兽人、萨尔贡古墓的千年诅咒，你要听哪个？"
+            },
+            "asset": "char_4191_tippi/CN_001"
+        },
+        {
+            "id": "char_4191_tippi_CN_002",
+            "title": {
+                "en": "Talk 1",
+                "jp": "会話1",
+                "kr": "대화 1",
+                "cn": "交谈1"
+            },
+            "text": {
+                "en": "I never imagined I'd see two familiar faces from Wrankwood here. Nah, I'm not that interested in them personally, just curious on how they ended up on a pharma company's landship. They must have some kinda angle here!",
+                "jp": "ここに来るまでにランクウッドでお馴染みの顔を二つも見かけちゃって、ちょいとびっくりだよ。いや、別に本人たちに興味あるわけじゃないけどさ。ただ気になるんだよね、製薬会社の陸上艦に何でこんな面子が集まってるの？絶対何か裏があるでしょ！",
+                "kr": "여기까지 오는 길에 랭크우드에서 알던 얼굴을 둘이나 봐서 좀 놀랐다니까. 아니, 뭐 그 사람들한테 관심이 있는 건 아니지만 말이야. 그냥 궁금하단 말이지. 제약회사의 육지 함선에 왜 이런 사람들이 모여있는 거지? 분명 뭐가 있는 걸 거야!",
+                "cn": "一路走过来见到了好两个蓝卡坞的熟面孔，有点意外。不，我对她们本人没什么兴趣，我只好奇为什么这些人会聚集在这样一艘属于医药公司的陆行舰上？背后一定有隐情！"
+            },
+            "asset": "char_4191_tippi/CN_002"
+        },
+        {
+            "id": "char_4191_tippi_CN_003",
+            "title": {
+                "en": "Talk 2",
+                "jp": "会話2",
+                "kr": "대화 2",
+                "cn": "交谈2"
+            },
+            "text": {
+                "en": "What am I looking at, standing here on the bridge? Uh, I was just thinking how Rhodes Island's such a great place. Look, sealed spaces, high mobility, destinations unknown, everyone's using code names... doesn't it feel like a survival-slasher horror flick?!",
+                "jp": "ずっとブリッジで突っ立ってて何見てるかって？うーん、実はさぁ、ロドスって最高な場所じゃねって思ってたんよ。ほら、閉鎖空間で、高速移動で、行き先も不明で、しかも全員コードネームでしょ。サバイバルホラー系の映画そのままじゃん！",
+                "kr": "계속 함교에 서서 뭐 보고 있냐고? 음~ 사실 로도스 아일랜드는 최고의 장소가 아닐까라는 생각을 하고 있었거든. 자 봐봐, 폐쇄 공간에, 고속으로 이동하고, 행선지도 불명인 데다가, 모두가 코드네임을 쓰고 있지. 완전 서바이벌 호러 영화 그 자체잖아!",
+                "cn": "我一直在舰桥上站着是在看什么？嗯，我其实在想，罗德岛真是个好地方。你瞧，密闭空间、高速移动、不知去往何处，大家还都有代号，多像个极限生存杀戮类的恐怖片啊！"
+            },
+            "asset": "char_4191_tippi/CN_003"
+        },
+        {
+            "id": "char_4191_tippi_CN_004",
+            "title": {
+                "en": "Talk 3",
+                "jp": "会話3",
+                "kr": "대화 3",
+                "cn": "交谈3"
+            },
+            "text": {
+                "en": "I tried doodling a 'Slenderburdenbeastman' symbol on this corner of the corridor here, but no one's reacting to it when they walk by. Why? Not enough Columbians onboard? Nobody knows the legend?—Relax, I'll clean it up once my experiment's done.",
+                "jp": "廊下の隅っこに「細長駄獣人」のマーク描いてみたんだけど、だーれも反応してくれないんだよね。おっかしいな、なんでだろ？ここのクルビア人が少ないからみんな伝説知らないのかな？――心配すんなって、実験が終わったらちゃーんと消しとくし。",
+                "kr": "복도 구석에 '홀쭉이 버든맨' 마크를 그려봤는데, 아~무도 반응을 안 해준단 말이지. 이상하네, 왜지? 여기는 컬럼비아 사람이 적어서 다들 전설을 모르나? ……걱정 마, 실험 끝나면 제대로 지울 거니까.",
+                "cn": "我试着在走廊的角落里涂了“细长驮兽人”的标志，但路过的人都没什么反应。不应该啊，为什么呢？是因为船上哥伦比亚人太少，这里的人没有听过它的传说吗？——别担心，我试验完了会擦掉的。"
+            },
+            "asset": "char_4191_tippi/CN_004"
+        },
+        {
+            "id": "char_4191_tippi_CN_005",
+            "title": {
+                "en": "Talk after Promotion 1",
+                "jp": "昇進後会話1",
+                "kr": "1차 정예화 후 대화",
+                "cn": "晋升后交谈1"
+            },
+            "text": {
+                "en": "The device on my back's made of suspension cables and hover units, and I'm the only one with anything like it in Wrankwood. I met my master who taught me how to retrofit it on a little production. He spent whole days there with a jetpack on his back. Dunno where he went after production wrapped. Omigosh, you might have seen him in Sargon?",
+                "jp": "あたしの背中のこれはね～、ワイヤーとフロート装置を組み合わせてあって、ランクウッドでもこんなことするのあたしだけだよ！これ作ってくれたのはちっちゃい制作チームで知り合った師匠なんだけど、いっつもジェットパック背負ってて、その後どこ行ったか分かんなくなっちゃったんだよね。え？サルゴンで会ったことあるの？",
+                "kr": "내 등에 이거는 말이지~ 와이어랑 부유 장치를 조합한 건데, 랭크우드에서도 이런 걸 하는 건 나밖에 없다고! 이거 만들어준 사람은 쪼그마한 제작팀에서 알게 된 스승님인데, 항상 제트팩을 메고 다녀서 그 뒤에는 어디로 갔는지 알 수 없게 돼버렸지. 엥? 사르곤에서 만난 적 있다고?",
+                "cn": "我背上的装置组合了吊索和浮空设备，在蓝卡坞，就只有我会这么干。帮我改造的师父是我在一个小剧组里认识的，他整天背着喷气背包，后来不知道去了哪里。什么？你们可能在萨尔贡见过他？"
+            },
+            "asset": "char_4191_tippi/CN_005"
+        },
+        {
+            "id": "char_4191_tippi_CN_006",
+            "title": {
+                "en": "Talk after Promotion 2",
+                "jp": "昇進後会話2",
+                "kr": "2차 정예화 후 대화",
+                "cn": "晋升后交谈2"
+            },
+            "text": {
+                "en": "Look! Timestamp three-seventeen, see how the vapor turns the smile in the makeup mirror into a spooky face—this clip's one of my best! I tried it at home once when I was a kid. All these people came by to talk about how great my drawings were, only to get a nasty shock. I just knew it was gonna be super effective.",
+                "jp": "ここ見て、三分十七秒のとこから。浴室の鏡の笑顔が蒸気でこわーい顔になるの。あたしの力作だよ！子供の時に家で試したことあんだけど、ほんの十分前までおべんちゃらであたしの絵を褒めてたお客の顔が一瞬で凍り付いてさ、手応えを感じたんだよね。",
+                "kr": "여기 봐봐, 3분 17초부터. 욕실 거울에 비치는 웃는 얼굴이 김 때문에 무서~운 얼굴로 변하는 거. 내 역작이야! 어렸을 때 집에서 해본 적 있는데, 불과 10분 전까지 아양 떨면서 내 그림을 칭찬하던 손님 얼굴이 한순간에 얼어버려서 보람찼었단 말이지.",
+                "cn": "看这里，三分十七秒开始，浴室化妆镜上的笑脸被蒸汽洇成鬼脸，我的得意之作！小时候在家里试过一次，十分钟前还在客气夸奖我会画画的访客们当场都变了脸色，我就知道这样能出效果。"
+            },
+            "asset": "char_4191_tippi/CN_006"
+        },
+        {
+            "id": "char_4191_tippi_CN_007",
+            "title": {
+                "en": "Talk after Trust Increase 1",
+                "jp": "信頼上昇後会話1",
+                "kr": "신뢰도 상승 후 대화 1",
+                "cn": "信赖提升后交谈1"
+            },
+            "text": {
+                "en": "I joined Greta's crew because she promised me artistic freedom, but that was another load of crap! Meeting Miss.Christine and Lucian gave me a lot of inspiration though. Don't you think it'd be fun to make a horror flick about a storm-cloudbeast exorcist?",
+                "jp": "グレータさんに自由にやっていいって言われたからあのチームに参加したのに、また騙された！でも、ミス・クリスティーンとルシアンに出会えて、すっごくたくさんアイデアが浮かんだよ！ねえねえ、烏雲獣エクソシストってホラー映画作ったら、アツいと思わん？",
+                "kr": "그레타 씨가 맘대로 해도 된다길래 그 팀에 들어간 건데, 또 속았어! 그래도 미스 크리스틴이랑 루시안을 만난 덕에, 아이디어가 잔뜩 떠오르긴 했지! 있잖아, 스톰 클라우드비스트 엑소시스트라는 호러 영화를 만들면 반응 뜨거울 것 같지 않아?",
+                "cn": "格蕾塔女士说可以自由发挥我才去她剧组的，结果又被骗！不过，遇到Miss.Christine和卢西恩，让我有了不少新点子。你说，做一部乌云兽驱魔的恐怖电影，会不会很好玩？"
+            },
+            "asset": "char_4191_tippi/CN_007"
+        },
+        {
+            "id": "char_4191_tippi_CN_008",
+            "title": {
+                "en": "Talk after Trust Increase 2",
+                "jp": "信頼上昇後会話2",
+                "kr": "신뢰도 상승 후 대화 2",
+                "cn": "信赖提升后交谈2"
+            },
+            "text": {
+                "en": "Nah, I don't butt heads with my parents that much, I just don't like how stiff their pictures are. And I didn't like the path they laid out for me either. But... I guess I've got a long way to go before the skills and resources needed to put together a real spectacular movie.",
+                "jp": "ううん、別に親と仲悪いわけじゃないよ。ただ二人が撮ったお行儀の良い作品も、先が見え見えで敷かれたレールも嫌なだけ。でも今のあたしの技術と集めた素材じゃ、衝撃作を作るにはまだまだ足りないのは確かなんだよねぇ。",
+                "kr": "아니, 딱히 부모님이랑 사이가 나쁘진 않아. 그냥 두 사람이 찍은 예의 바른 작품들도, 앞길이 뻔히 보이게 깔린 레일도 싫은 것뿐이야. 하지만 지금 내가 가지고 있는 소재나 기술로는, 아직 충격적인 작품을 만들기엔 부족하단 건 확실하지.",
+                "cn": "不，我和父母之间没有太多矛盾，只是不喜欢他们拍的规整的片子，也不喜欢他们给我铺的一眼看得到头的路。不过，我现在会的，还有我搜集了的素材，离我自己做出惊人的作品，确实还差得远呢。"
+            },
+            "asset": "char_4191_tippi/CN_008"
+        },
+        {
+            "id": "char_4191_tippi_CN_009",
+            "title": {
+                "en": "Talk after Trust Increase 3",
+                "jp": "信頼上昇後会話3",
+                "kr": "신뢰도 상승 후 대화 3",
+                "cn": "信赖提升后交谈3"
+            },
+            "text": {
+                "en": "When I was starting out, I joined some little production crews, hoping to meet interesting people, but I ended up so busy I couldn't get a convo in... These days, at least I got you to lend me an ear whenever I come back onboard, Doctor.",
+                "jp": "昔は何も知らなかったから、面白い人に会いたくて色んな制作チームを渡り歩いたけど、どこもスケジュール間に合わせるのに必死で、忙しい時はひとっこともしゃべんない感じでさ……でも今はここに戻って来れば、少なくともドクターはちゃんとあたしの話を聞いてくれるんでしょ。",
+                "kr": "예전에는 아무것도 몰랐으니까 그냥 재미있는 사람 만나고 싶어서 여러 제작팀을 돌아다녔는데, 죄다 일정에 맞추는 데만 필사적이라 바쁠 땐 한마디도 안 하는 분위기더라고…… 그래도 지금은 여기로 돌아오면, 적어도 박사는 내 이야기를 제대로 들어주겠지.",
+                "cn": "以前没经验，想接触更多想法有趣的人，所以去了些小剧组，结果多半时候都在赶工，忙起来大家一句话也没有......而现在，我能回来这里，至少有博士你会认真听我说。"
+            },
+            "asset": "char_4191_tippi/CN_009"
+        },
+        {
+            "id": "char_4191_tippi_CN_010",
+            "title": {
+                "en": "Idle",
+                "jp": "放置",
+                "kr": "방치",
+                "cn": "闲置"
+            },
+            "text": {
+                "en": "Doctor? Oh, busy? Suits me, Tippi can take care of herself. Let's see if there's anything new to watch... Omigosh, an nonconformist Lungmen horror comedy... let's do this one!",
+                "jp": "ドクター？忙しいのかな。しゃーなし、ティッピちゃんは自分で自分の面倒見れるもんね。さぁて、どんな新作映画が出てるかチェックしよっと……なになに、常識を覆す龍門ホラーコメディ……今日はこれで決まりかな！",
+                "kr": "박사? 바쁜 걸까나. 쩔수 없지, 티피는 자신을 알아서 잘 챙길 줄 알거든. 어디, 어떤 신작 영화가 나왔는지 체크해 볼까…… 뭐야, 상식을 뒤엎는 용문 호러 코미디……? 오늘은 이걸로 결정이다!",
+                "cn": "博士？在忙吗，好吧，蒂比能自己照顾自己。我来看看最近有什么新片......唔，颠覆了传统的龙门恐怖喜剧......今天就看这一部吧！"
+            },
+            "asset": "char_4191_tippi/CN_010"
+        },
+        {
+            "id": "char_4191_tippi_CN_011",
+            "title": {
+                "en": "Onboard",
+                "jp": "入職会話",
+                "kr": "오퍼레이터 입사",
+                "cn": "干员报到"
+            },
+            "text": {
+                "en": "Live long and prosper! Tippi 'Skyriftwalker' Booker reporting for duty! Who, Doctor? Oh, Skyriftwalker's the code name I thought up for myself! Uh, that's not how you do code names here?",
+                "jp": "こんにちは。ティッピ・「スカイブレイカー」・ブック、ただいま着任しました！ミドルは自分で考えたコードネームです！え？コードネームの使い方間違ってる？",
+                "kr": "안녕하세요, 티피 '스카이워커' 부커, 지금 막 착임했습니다! 가운데는 제가 직접 생각한 코드네임입니다! 엥? 코드네임 사용법이 틀렸다고?",
+                "cn": "您好，蒂比·“裂天行者”·布克，向您报到！中间这个是我给自己起的代号！咦，代号不是这么用的？"
+            },
+            "asset": "char_4191_tippi/CN_011"
+        },
+        {
+            "id": "char_4191_tippi_CN_012",
+            "title": {
+                "en": "Watching Battle Record",
+                "jp": "経験値上昇",
+                "kr": "작전기록 학습",
+                "cn": "观看作战记录"
+            },
+            "text": {
+                "en": "The protag gets a videotape everyday, describing her life bit by bit, until one day the video shows her killing people... don't you think that fits the vibes in this recording? No? For reals?",
+                "jp": "主人公んとこに毎日ビデオテープが届くの。中身は自分の毎日の暮らしの記録で、ある日そこに突然自分が人殺してるシーンが映るんだよ……このシナリオ、今の状況と一緒って感じしない？え？そんなことない？",
+                "kr": "주인공 집에 매일 비디오테이프가 도착하는 거야. 내용은 자신의 일상을 매일 기록한 건데, 어느 날 거기에 갑자기 자기가 사람을 죽이는 장면이 찍혀 있는 거지…… 이 시나리오, 지금 상황이랑 똑같은 것 같지 않아? 응? 아니라고?",
+                "cn": "主角每天都会收到一盘录像带，讲述她的生活点滴，直到有一天，录像带里出现了她杀人的情景......不觉得这剧情和现在的氛围很像吗？嗯？没有吗？"
+            },
+            "asset": "char_4191_tippi/CN_012"
+        },
+        {
+            "id": "char_4191_tippi_CN_013",
+            "title": {
+                "en": "Promotion 1",
+                "jp": "昇進Ⅰ",
+                "kr": "1차 정예화 (승진)",
+                "cn": "精英化晋升1"
+            },
+            "text": {
+                "en": "That's it? Pretty mid ceremony. No test or anything like that?",
+                "jp": "こんだけ？あっさりした通過儀式だねぇ。試練とか追加でやらなくていいの？",
+                "kr": "이게 다야? 되게 간단한 통과의례네. 시련 같은 건 추가로 안 해도 돼?",
+                "cn": "这就没了？好平淡的通过仪式。不需要再来点试炼什么的吗？"
+            },
+            "asset": "char_4191_tippi/CN_013"
+        },
+        {
+            "id": "char_4191_tippi_CN_014",
+            "title": {
+                "en": "Promotion 2",
+                "jp": "昇進Ⅱ",
+                "kr": "2차 정예화 (승진)",
+                "cn": "精英化晋升2"
+            },
+            "text": {
+                "en": "I get another promotion? Does this mean I can go some places I wasn't allowed before?",
+                "jp": "また昇進させてくれるの？それじゃさ、前まで立ち入り禁止だったとこに入れる？",
+                "kr": "또 승진시켜 주는 거야? 그러면, 예전에 출입 금지였던 장소에 들어갈 수 있어?",
+                "cn": "我能再晋升？那是不是就能去一些之前不让进的地方？"
+            },
+            "asset": "char_4191_tippi/CN_014"
+        },
+        {
+            "id": "char_4191_tippi_CN_017",
+            "title": {
+                "en": "Added to Squad",
+                "jp": "編成",
+                "kr": "팀 배치",
+                "cn": "编入队伍"
+            },
+            "text": {
+                "en": "Omigosh, this a co-op mission? I'll get along <i>real nice</i> with everybody.",
+                "jp": "みんなと一緒に行くの？あたし「いい子」に合わせるよ～！",
+                "kr": "다 같이 가는 거야? 내가 '착한 아이'로 맞춰 줄게~!",
+                "cn": "一起行动吗？我会“好好”配合大家的。"
+            },
+            "asset": "char_4191_tippi/CN_017"
+        },
+        {
+            "id": "char_4191_tippi_CN_018",
+            "title": {
+                "en": "Appointed as Squad Leader",
+                "jp": "隊長任命",
+                "kr": "팀장 임명",
+                "cn": "任命队长"
+            },
+            "text": {
+                "en": "Ooh, just got a new idea! Let's try it out!",
+                "jp": "新しいアイデア閃いた！ちょうど試せるね！",
+                "kr": "새 아이디어 떠올랐어! 딱 시험해 볼 수 있겠네!",
+                "cn": "我突然有个新点子，正好试试！"
+            },
+            "asset": "char_4191_tippi/CN_018"
+        },
+        {
+            "id": "char_4191_tippi_CN_019",
+            "title": {
+                "en": "Depart",
+                "jp": "作戦準備",
+                "kr": "작전 출발",
+                "cn": "行动出发"
+            },
+            "text": {
+                "en": "C'mon! Let's go see the wonderful sights waiting for us out there.",
+                "jp": "レッツゴー！外にどんな特別な景色があるか見に行こう！",
+                "kr": "렛츠 고! 밖에 어떤 특별한 경치가 있는지 보러 가자!",
+                "cn": "走吧！去看看外面有什么特别的风景。"
+            },
+            "asset": "char_4191_tippi/CN_019"
+        },
+        {
+            "id": "char_4191_tippi_CN_020",
+            "title": {
+                "en": "Begin Operation",
+                "jp": "戦闘開始",
+                "kr": "작전 개시",
+                "cn": "行动开始"
+            },
+            "text": {
+                "en": "An extra special spot we got here.",
+                "jp": "かなりいい感じのロケ地だね。",
+                "kr": "꽤 괜찮은 느낌의 촬영지네.",
+                "cn": "相当别致的取景地。"
+            },
+            "asset": "char_4191_tippi/CN_020"
+        },
+        {
+            "id": "char_4191_tippi_CN_021",
+            "title": {
+                "en": "Selecting Operator 1",
+                "jp": "選択時1",
+                "kr": "오퍼레이터 선택 1",
+                "cn": "选中干员1"
+            },
+            "text": {
+                "en": "Finally my turn to make a move? I'm in a good spot!",
+                "jp": "やっとあたしの出番？いいポジは確保済みだよ！",
+                "kr": "드디어 내 차례야? 좋은 위치는 확보해 놨어!",
+                "cn": "终于轮到我了吗？我已经找好位置了！"
+            },
+            "asset": "char_4191_tippi/CN_021"
+        },
+        {
+            "id": "char_4191_tippi_CN_022",
+            "title": {
+                "en": "Selecting Operator 2",
+                "jp": "選択時2",
+                "kr": "오퍼레이터 선택 2",
+                "cn": "选中干员2"
+            },
+            "text": {
+                "en": "Spray gun and hover unit ready.",
+                "jp": "スプレーガンとフロート装置、準備オッケー！",
+                "kr": "스프레이 건이랑 부유 장치, 준비 오케이!",
+                "cn": "喷枪与浮空装置已就绪。"
+            },
+            "asset": "char_4191_tippi/CN_022"
+        },
+        {
+            "id": "char_4191_tippi_CN_023",
+            "title": {
+                "en": "Deployment 1",
+                "jp": "配置1",
+                "kr": "배치 1",
+                "cn": "部署1"
+            },
+            "text": {
+                "en": "Let's set the rigging!",
+                "jp": "作業スタート！",
+                "kr": "작업 스타트!",
+                "cn": "开始作业！"
+            },
+            "asset": "char_4191_tippi/CN_023"
+        },
+        {
+            "id": "char_4191_tippi_CN_024",
+            "title": {
+                "en": "Deployment 2",
+                "jp": "配置2",
+                "kr": "배치 2",
+                "cn": "部署2"
+            },
+            "text": {
+                "en": "I've almost finished this piece. Just a sec!",
+                "jp": "ちゃちゃっと描き終わるよ！",
+                "kr": "잽싸게 다 그려줄게!",
+                "cn": "这就画完！"
+            },
+            "asset": "char_4191_tippi/CN_024"
+        },
+        {
+            "id": "char_4191_tippi_CN_025",
+            "title": {
+                "en": "In Battle 1",
+                "jp": "作戦中1",
+                "kr": "작전 중 1",
+                "cn": "作战中1"
+            },
+            "text": {
+                "en": "Some deep purple for a sense of mystery.",
+                "jp": "ディープパープルを足して、ミステリアス感アップ。",
+                "kr": "딥 퍼플을 더해서, 미스터리한 느낌 추가.",
+                "cn": "加点深紫，制造神秘感。"
+            },
+            "asset": "char_4191_tippi/CN_025"
+        },
+        {
+            "id": "char_4191_tippi_CN_026",
+            "title": {
+                "en": "In Battle 2",
+                "jp": "作戦中2",
+                "kr": "작전 중 2",
+                "cn": "作战中2"
+            },
+            "text": {
+                "en": "Bit of dark red to get your heart pumping.",
+                "jp": "ダークレッドを入れて、心の衝動を刺激しよっと。",
+                "kr": "다크 레드를 넣어서 마음의 충동을 자극시켜 볼까나.",
+                "cn": "加点暗红，激发心中的冲动。"
+            },
+            "asset": "char_4191_tippi/CN_026"
+        },
+        {
+            "id": "char_4191_tippi_CN_027",
+            "title": {
+                "en": "In Battle 3",
+                "jp": "作戦中3",
+                "kr": "작전 중 3",
+                "cn": "作战中3"
+            },
+            "text": {
+                "en": "A little lime green for a weird rotten vibe.",
+                "jp": "ライトグリーンで腐敗と不安の空気を醸し出す。",
+                "kr": "라이트 그린으로 부패와 불안한 분위기를 만들어낸다.",
+                "cn": "加点黄绿，营造腐败与不安的氛围。"
+            },
+            "asset": "char_4191_tippi/CN_027"
+        },
+        {
+            "id": "char_4191_tippi_CN_028",
+            "title": {
+                "en": "In Battle 4",
+                "jp": "作戦中4",
+                "kr": "작전 중 4",
+                "cn": "作战中4"
+            },
+            "text": {
+                "en": "The stage's set, now let's see how everyone performs!",
+                "jp": "セットの組み立て完了、あとはみんなの演技が楽しみ！",
+                "kr": "세트 설치 완료. 이제는 모두의 연기를 기대해 보자!",
+                "cn": "舞台搭设完毕，就看大家能演出怎样的戏了！"
+            },
+            "asset": "char_4191_tippi/CN_028"
+        },
+        {
+            "id": "char_4191_tippi_CN_029",
+            "title": {
+                "en": "4-star Result",
+                "jp": "高難度作戦クリア",
+                "kr": "고난이도 작전 종료",
+                "cn": "完成高难行动"
+            },
+            "text": {
+                "en": "Now this is a perfect work of art! Lemme just tag my name in the corner here real quick.",
+                "jp": "マジ完璧すぎな作品だね！隅っこにこっそりサインしちゃお。",
+                "kr": "진짜 너무 완벽한 작품이네! 구석에 몰래 사인해 버려야지.",
+                "cn": "真是完美的作品！让我在角落里悄悄签个名。"
+            },
+            "asset": "char_4191_tippi/CN_029"
+        },
+        {
+            "id": "char_4191_tippi_CN_030",
+            "title": {
+                "en": "3-star Result",
+                "jp": "★3で戦闘終了",
+                "kr": "3★ 작전 종료",
+                "cn": "3星结束行动"
+            },
+            "text": {
+                "en": "So much for Wrankwood war movies.",
+                "jp": "ランクウッドの戦争映画もこれには敵わないよ。",
+                "kr": "랭크우드 전쟁 영화도 이건 못 따라가지.",
+                "cn": "蓝卡坞的战争大片不过如此。"
+            },
+            "asset": "char_4191_tippi/CN_030"
+        },
+        {
+            "id": "char_4191_tippi_CN_031",
+            "title": {
+                "en": "Sub 3-star Result",
+                "jp": "★2以下戦闘終了",
+                "kr": "비 3★ 작전 종료",
+                "cn": "非3星结束行动"
+            },
+            "text": {
+                "en": "That was an epic experience!",
+                "jp": "超エキサイティングな体験！",
+                "kr": "완전 익사이팅한 체험!",
+                "cn": "很有趣的体验！"
+            },
+            "asset": "char_4191_tippi/CN_031"
+        },
+        {
+            "id": "char_4191_tippi_CN_032",
+            "title": {
+                "en": "Operation Failure",
+                "jp": "作戦失敗",
+                "kr": "작전 실패",
+                "cn": "行动失败"
+            },
+            "text": {
+                "en": "Let me edit that op's recording. I might just come up with a new kind of horror flick.",
+                "jp": "今回の映像編集任せて！革新的なホラー映画ができるかもしれないよ。",
+                "kr": "이번 영상 편집은 나한테 맡겨! 혁신적인 호러 영화가 나올지도 몰라.",
+                "cn": "让我来剪辑这次行动的录像吧，说不定能制作出很有新意的恐怖片。"
+            },
+            "asset": "char_4191_tippi/CN_032"
+        },
+        {
+            "id": "char_4191_tippi_CN_033",
+            "title": {
+                "en": "Assigned to Facility",
+                "jp": "基地配属",
+                "kr": "시설에 배치",
+                "cn": "进驻设施"
+            },
+            "text": {
+                "en": "So I can't tag the corridors, but can I spraypaint my own dorm walls?",
+                "jp": "廊下にスプレーしちゃダメでも、自分の部屋ならいいよね？",
+                "kr": "복도에 스프레이 칠은 안 돼도, 자기 방에서는 괜찮은 거지?",
+                "cn": "走廊不可以喷涂，自己的宿舍总可以吧？"
+            },
+            "asset": "char_4191_tippi/CN_033"
+        },
+        {
+            "id": "char_4191_tippi_CN_034",
+            "title": {
+                "en": "Tap",
+                "jp": "タッチ1",
+                "kr": "터치",
+                "cn": "戳一下"
+            },
+            "text": {
+                "en": "Keep on tapping the device on my back, and something scary just might pop out.",
+                "jp": "是非是非たくさん触ってみなよ。あたしの背中の装置に触ったら、こわーいことが起きるかもしれないよ。",
+                "kr": "그래그래 실컷 건드려 봐 봐. 내 등 뒤에 있는 장치를 건드리면 무서~운 일이 일어날지도 모른다고.",
+                "cn": "你多试试，碰到我背后的装置，说不定会发生很恐怖的事。"
+            },
+            "asset": "char_4191_tippi/CN_034"
+        },
+        {
+            "id": "char_4191_tippi_CN_036",
+            "title": {
+                "en": "Trust Tap",
+                "jp": "信頼タッチ",
+                "kr": "신뢰도 터치",
+                "cn": "信赖触摸"
+            },
+            "text": {
+                "en": "Don't worry about me, if you're tied up. I can keep myself busy. Oh, you're done? Wanna watch a movie together?",
+                "jp": "忙しいならあたしに構わなくていいよ、自分でテキトーに時間潰すから。あれ、もう終わったの？じゃあ一緒に映画観る？",
+                "kr": "바쁘면 나 신경 안 써도 돼. 혼자 적당히 시간 때울 테니까. 어라, 벌써 끝났어? 그러면 같이 영화 볼래?",
+                "cn": "有事忙可以不用管我，我会自己找事做。咦，忙完了？要一起看电影吗？"
+            },
+            "asset": "char_4191_tippi/CN_036"
+        },
+        {
+            "id": "char_4191_tippi_CN_037",
+            "title": {
+                "en": "Title",
+                "jp": "タイトルコール",
+                "kr": "타이틀",
+                "cn": "标题"
+            },
+            "text": {
+                "en": "Arknights.",
+                "jp": "アークナイツ。",
+                "kr": "명일방주.",
+                "cn": "明日方舟。"
+            },
+            "asset": "char_4191_tippi/CN_037"
+        },
+        {
+            "id": "char_4191_tippi_CN_038",
+            "title": {
+                "en": "New Year's blessing",
+                "jp": "新年",
+                "kr": "새해",
+                "cn": "新年祝福"
+            },
+            "text": {
+                "en": "Watch a New Year's blockbuster together? Sure—'Famous Columbian husband-and-wife producer-director duo collabs on joint production for war film...' Okay, Doctor, I don't mind going with you, but don't blame me if I fall asleep halfway in.",
+                "jp": "一緒に新年の映画を観に行くの？いいよ～どれどれ、「クルビアの名監督アンドプロデューサー夫婦がタッグを組んだ超大作戦争映画」かぁ……うーん。まぁ、ドクターが観たいっていうなら付き合うよ？でも寝落ちしても怒らないでね。",
+                "kr": "신년 영화 같이 보러 가는 거야? 좋지~ 어디 어디, '컬럼비아의 명감독 & 프로듀서 부부 합작 초 대작 전쟁 영화'라…… 으음~ 뭐, 박사가 보고 싶다면 같이 가줄게. 대신에 잠들어도 화내지 않기다?",
+                "cn": "一起去看新年档的片子？好呀——“哥伦比亚知名导演和制片人夫妻强强联合，联袂出品的战争片......”好吧，如果博士想看，我也可以奉陪。不过，要是我中途无聊到睡着，你不能怪我。"
+            },
+            "asset": "char_4191_tippi/CN_038"
+        },
+        {
+            "id": "char_4191_tippi_CN_042",
+            "title": {
+                "en": "Greeting",
+                "jp": "挨拶",
+                "kr": "인사",
+                "cn": "问候"
+            },
+            "text": {
+                "en": "Want me to spray some colors around to liven up the place and brighten your mood?",
+                "jp": "周りに明るい色をスプレーして、気分上げてく？",
+                "kr": "주변에 밝은색 스프레이를 뿌려서 기분 업 시켜 볼까?",
+                "cn": "要我给你在周围喷点明媚的色彩，提振一下心情吗？"
+            },
+            "asset": "char_4191_tippi/CN_042"
+        },
+        {
+            "id": "char_4191_tippi_CN_043",
+            "title": {
+                "en": "Birthday",
+                "jp": "誕生日",
+                "kr": "생일",
+                "cn": "生日"
+            },
+            "text": {
+                "en": "I always had big parties as a kid. The adults would use them as an excuse to socialize, like with totally zero thought to what the birthday girl wanted. Wasn't the biggest fan. So for <i>your</i> birthday, I redecorated your room based on your favorite movies this year. What'cha think?",
+                "jp": "子供の頃はいっつも誕生日に盛大なパーティーをやってて、大人たちがここぞとばかりに人脈作りに使う感じでさ、いわゆる「主役」がほんとに欲しいものなんて誰も気にしないんだよね。そういうの嫌い。だから、ドクターの誕生日には今年の映画趣味の傾向を参考に、部屋の飾り付けを変えてみたんだ。ど？気に入った？",
+                "kr": "어릴 때는 언제나 생일에 성대한 파티를 했었고, 어른들이 이때다 싶어서 그걸 인맥 쌓기에 써먹는 느낌이었지. 이른바 '주인공'이 진짜로 원하는 것 따위는 아무도 신경 쓰지 않았다는 거야. 그런 건 싫다고. 그러니까, 박사 생일에는 올해 영화 트렌드를 참고해서 방의 장식을 바꿔봤어. 어때? 맘에 들어?",
+                "cn": "小时候我的生日会总是很盛大，大人们借它来见面交际，却不关心所谓的“主角”到底想要什么。我不喜欢这样。所以你的生日，我根据你这一年的观影喜好，帮你重新布置了房间，你喜欢吗？"
+            },
+            "asset": "char_4191_tippi/CN_043"
+        },
+        {
+            "id": "char_4191_tippi_CN_044",
+            "title": {
+                "en": "Anniversary Celebration",
+                "jp": "周年",
+                "kr": "애니버서리",
+                "cn": "周年庆典"
+            },
+            "text": {
+                "en": "Rhodes Island's a proper pharma company, I've seen that with my own eyes—too bad it doesn't have the stories I got up here in my head. But Doc, you're full of mysteries, so I <i>have</i> to keep watching you for reference material. And who knows, you might even star in your own horror movie one day.",
+                "jp": "ロドスがまともな製薬会社ってのはこの目で確認したよ――残念ながらあたしの妄想してたストーリーはなかったわ。でもドクターにはまだ謎がいっぱいあるから、あたしの観察と素材集めは続けるよ。そのうちドクター主演のホラー映画作れるかもしれないじゃん？",
+                "kr": "로도스 아일랜드가 멀쩡한 제약회사라는 건 이 눈으로 확인했어…… 아쉽게도 내 망상 속 스토리 같은 건 없었네. 하지만 박사한테는 아직 수수께끼가 잔뜩 있으니까, 관찰과 소재 수집은 계속할 거야. 머지않아 박사를 주연으로 호러 영화 하나 만들 수 있을지도 모르잖아?",
+                "cn": "罗德岛是一家正经的医药公司，这一点我已经亲眼确认了——很遗憾，没有我想象中的那些故事。但你身上还有很多神秘之处，我会继续观察取材。说不定将来能制作一部以你为主角的恐怖电影呢？"
+            },
+            "asset": "char_4191_tippi/CN_044"
+        }
+    ],
+    "actors": {
+        "en": {
+            "native": "Emelia Lonnon",
+            "global": "Emelia Lonnon"
+        },
+        "cn": {
+            "native": "汪悦",
+            "global": "Yue Wang"
+        },
+        "jp": {
+            "native": "古賀英里奈",
+            "global": "Erina Koga"
+        },
+        "kr": {
+            "native": "수현",
+            "global": "Soo-hyun"
+        }
+    },
+    "availability": [
+        "en",
+        "cn",
+        "jp",
+        "kr"
+    ]
+}

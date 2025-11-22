@@ -618,6 +618,10 @@
         }
     ],
     "actors": {
+        "en": {
+            "native": "Laura Carrero",
+            "global": "Laura Carrero"
+        },
         "cn": {
             "native": "神隐",
             "global": "Sherry Brown"
@@ -632,6 +636,7 @@
         }
     },
     "availability": [
+        "en",
         "cn",
         "jp",
         "kr"
